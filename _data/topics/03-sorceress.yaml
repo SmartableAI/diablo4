@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: sorceress
+name: Sorceress
+parent: Diablo 4
+keywords:
+  - sorceress
+hashtags:
+  - "#Sorceress"
+services:
+  learning: https://smartableai.github.io/diablo4/api/learning/sorceress/
+  games: https://smartableai.github.io/diablo4/api/games/sorceress/

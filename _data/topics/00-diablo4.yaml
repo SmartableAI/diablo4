@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: diablo4
+name: Diablo 4
+keywords:
+  - diablo 4
+hashtags:
+  - "#Diablo4"
+services:
+  news: https://smartableai.github.io/diablo4/api/news/
+  learning: https://smartableai.github.io/diablo4/api/learning/
+  games: https://smartableai.github.io/diablo4/api/games/
+  people: https://smartableai.github.io/diablo4/api/people/
+  events: https://smartableai.github.io/diablo4/api/events/
+  newsletters: https://smartableai.github.io/diablo4/api/newsletters/

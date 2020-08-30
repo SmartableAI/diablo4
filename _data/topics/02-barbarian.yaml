@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: barbarian
+name: Barbarian
+shortname: Barbarian
+parent: Diablo 4
+keywords:
+  - barbarian
+hashtags:
+  - "#Barbarian"
+services:
+  learning: https://smartableai.github.io/diablo4/api/learning/barbarian/
+  games: https://smartableai.github.io/diablo4/api/games/barbarian/

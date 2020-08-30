@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: druid
+name: Druid
+shortname: Druid
+parent: Diablo 4
+keywords:
+  - druid
+hashtags:
+  - "#Druid"
+services:
+  learning: https://smartableai.github.io/diablo4/api/learning/druid/
+  games: https://smartableai.github.io/diablo4/api/games/druid/
