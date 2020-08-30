@@ -10,7 +10,8 @@ cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/baya
 type: article
 quality: 92
 heat: 92
-published: true
+removed: true
+published: false
 
 provider:
   name: SFGate

@@ -8,7 +8,8 @@ webUrl: "https://www.looper.com/231970/starcraft-3-will-we-ever-get-a-sequel/"
 type: article
 quality: 72
 heat: 72
-published: true
+published: false
+removed: true
 
 provider:
   name: Looper

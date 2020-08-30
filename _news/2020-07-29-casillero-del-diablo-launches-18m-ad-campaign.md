@@ -8,7 +8,8 @@ webUrl: "https://www.thedrinksbusiness.com/2020/07/casillero-del-diablo-launches
 type: article
 quality: 72
 heat: 72
-published: true
+published: false
+removed: true
 
 provider:
   name: The Drinks Business
