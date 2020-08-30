@@ -1,0 +1,375 @@
+{
+  "page": 1,
+  "value": [
+    {
+      "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
+      "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
+      "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
+      "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
+      "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
+      "publishedDateTime": "2020-08-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-08-diablo-4-development-going-very-well-with-devs-working-from-home.md",
+      "title": "Diablo 4 development ‘going very well’ with devs working from home",
+      "excerpt": "Diablo IV has had a troubled development, with the project being rebooted several times. This time around though, Blizzard seems determined to finish and ship the game and has even began showing it ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-08-diablo-4-development-going-very-well-with-devs-working-from-home/index.json",
+      "webUrl": "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-development-going-very-well-with-devs-working-from-home/",
+      "originalUrl": "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-development-going-very-well-with-devs-working-from-home/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg",
+          "width": 615,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-08T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KitGuru",
+        "domain": "kitguru.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
+      "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
+      "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak/index.json",
+      "webUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
+      "originalUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
+          "width": 1148,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-starcraft-3-will-we-ever-get-a-sequel.md",
+      "title": "StarCraft 3: Will we ever get a sequel?",
+      "excerpt": "Blizzard is following up Diablo 3 with the much-anticipated Diablo 4 and Diablo Immortal — so one must wonder if Blizzard will ever return to the StarCraft universe. The answer is written in the stars ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-07-30-starcraft-3-will-we-ever-get-a-sequel/index.json",
+      "webUrl": "https://www.looper.com/231970/starcraft-3-will-we-ever-get-a-sequel/",
+      "originalUrl": "https://www.looper.com/231970/starcraft-3-will-we-ever-get-a-sequel/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img1.looper.com/img/gallery/starcraft-3-will-we-ever-get-a-sequel/intro-1596141392.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Looper",
+        "domain": "looper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-casillero-del-diablo-launches-18m-ad-campaign.md",
+      "title": "Casillero del Diablo launches £1.8m ad campaign",
+      "excerpt": "Hampshire-based winery Hattingley Valley launched its first TV advertising campaign with Sky in June. Concha y Toro UK already launched a television advertising campaign across ITV, Channel 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-07-29-casillero-del-diablo-launches-18m-ad-campaign/index.json",
+      "webUrl": "https://www.thedrinksbusiness.com/2020/07/casillero-del-diablo-launches-1-8m-ad-campaign/",
+      "originalUrl": "https://www.thedrinksbusiness.com/2020/07/casillero-del-diablo-launches-1-8m-ad-campaign/",
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2020/07/CdD-Wine-Legend-Screen-Grab1-350x350.png",
+          "width": 350,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drinks Business",
+        "domain": "thedrinksbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-which-bay-area-beaches-and-parks-are-open-july-4-weekend.md",
+      "title": "Which Bay Area beaches and parks are open July 4 weekend",
+      "excerpt": "Mount Diablo State Park ... restrooms and trails. Angel Island State Park: The park is open, including the boat docks, vessel mooring area, restrooms and kiosks. All other buildings, tours ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-07-02-which-bay-area-beaches-and-parks-are-open-july-4-weekend/index.json",
+      "webUrl": "https://www.sfgate.com/bayarea/article/Bay-Area-beaches-and-parks-closed-open-July-4-15382861.php",
+      "originalUrl": "https://www.sfgate.com/bayarea/article/Bay-Area-beaches-and-parks-closed-open-July-4-15382861.php",
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/bayarea/amp/Bay-Area-beaches-and-parks-closed-open-July-4-15382861.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/bayarea/amp/Bay-Area-beaches-and-parks-closed-open-July-4-15382861.php",
+      "publishedDateTime": "2020-07-02T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
+      "title": "Diablo 4 release date, trailers, news and rumors",
+      "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors/index.json",
+      "webUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
+      "originalUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
+          "width": 1195,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
+      "publishedDateTime": "2020-06-30T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content.md",
+      "title": "Blizzard Drops Major 'Diablo 4' Updates On Gameplay, Open-World And Side Content",
+      "excerpt": "Blizzard released a handful of details about the \"Diablo 4\" Updates focus on gameplay, open-world and more \"Diablo 4\" is one of the most anticipated games from Blizzard Gaming studio Blizzard shared a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content/index.json",
+      "webUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
+      "originalUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/09/04/diablo-3-ps3.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
+      "publishedDateTime": "2020-06-26T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg.md",
+      "title": "Diablo 4 director explains why it's not an MMORPG",
+      "excerpt": "Blizzard's latest update on Diablo 4 sees game director Luis Barriga break down some new screenshots, real-time cutscenes, open-world elements, and how the studio is handling multiplayer. On that last ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "publishedDateTime": "2020-06-25T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    }
+  ],
+  "nextPage": null
+}
