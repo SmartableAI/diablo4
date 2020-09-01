@@ -1,5 +1,5 @@
 ---
-title: "Diablo 4 Sorceress / Barbarian Gameplay + Q&amp;A w/ Lead Game Designer Joe Shelly - Blizzcon 2019 Demo"
+title: "Diablo 4 Sorceress / Barbarian Gameplay + Q&A w/ Lead Game Designer Joe Shelly - Blizzcon 2019 Demo"
 excerpt: "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ..."
 originalUrl: https://youtube.com/watch?v=t3e0LGe_lkg
 type: video
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "ZzebT3pAfKH1zGOJs/HfrB9YiGXFfmU+bIssLloxd5pUy5An8a4pcsk9X8k6I36teLHbESwhw6egblQ4dGUG9DMdiOAR+q3E3TAK+w/RcHqDc0JXLDdOSN5eDDuPPaiIVffDWznTbRILLtNC4EYEcJ88md2WJJvyF9TOMhXu2QXDLIyhUeBD0rfuVolKKelzkHtoNc7gxMGtyDjIku3pHLnJMdQlruacXRE9lh2VmO/IbOJJPJQxrRAy07uLRvo6JzAWFiijaZ4tu2TuyyDv1Q1CUni6f3xU+9JhgxAmt8qvsMU2EC40ptP0Oz2bA1GDPcNrtvYYe6KzQFGv9bzMtvd8Bpa984HhkWatdVYxP7FqpjVaSFL5wKihEaAgnSoOfwdYf0HN7kgNNUAhXhOyAg==;Ai2b9t9Kk+gJ2Q+7fDR+bQ=="
+secured: "mSrKO5bbvmfjmeX5foAbQRGR/hu4TQME0qv98m18BpPgee/EX864yQ6s/LWvP4Im5qT5ur8hhUHGBKq8Q4cJez3xu/lkqDUwFKIFIIDEXerqN3Gq6929cehVU0EvrjWCzCoOSl4IURpnX4Hm0tZmpGDIx4oRg4DlTeenjqgXQJjWdyErKE25OFV8ngny3Qy1+QWX/IdLG5pYbe4yaO6y/CKh4xB+6w4noumBI7Dxwtn/pmPbmomj1KBDL000tM/vEL6wul0zdkpMxsn9+mrcSXa90hoUpedVGqDj23ttMvAFAQPb0+AMiAuvKX0fAQW1Lbv9X6VJqotdgs5Z/KEsAA1SI/J5tIjxaniaRkY4R0vpqTpBwasShwz9NEVR8R/gHlYP0iRdlLUS9nVcsoFLFA==;pJEwBYs8WRy6cnEgBJgYKQ=="
 ---
 

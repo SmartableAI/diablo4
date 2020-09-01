@@ -1,5 +1,5 @@
 ---
-title: "New Gameplay Today – Diablo IV&#39;s Sorceress"
+title: "New Gameplay Today – Diablo IV's Sorceress"
 excerpt: "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ..."
 originalUrl: https://youtube.com/watch?v=qPTOEGU04X4
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UHn8oOyLwDZZ9WFxPWu1t0R4ZCJXFhntdsr944WhoGlsBBuJUBi3HZaMbBCfqU0q+2J4t2DVp8uw4htQz6Fq/OSE/hTtGqh1hX6zJ8WLdWFONt5fo70zHBtr1PgTiJN4Y3ICm0zkt+U9oJt9llqqfG2vgvQs5sBnFIVpqg27mmtePcQQu8mL6xCYHx/eSpeyKjdhS2uTae2LzGPmac/+5+vgLVM8haVw82MEDeUefi3JzREaeq6Sih5qsi2gJsek8Yz/PLCxGPTNUmsx1XRkfQExvNYeXO9CL6UyjIDhnBq7tH/L0CVLrRCO0MWQ6F25+wJLKu/EYffaGyE1rjPFIXA+k3HBL04qF0mBnvi9g/t2pcbMdWTSiqCXsPXdb/H7ljzQ/Z/Y4HmO8GWcbqaViA==;BRMA32RK17cHksgOGtdGoA=="
+secured: "t2zjE7UXgjDd36/c/queZ1DWDXb3dhC5k1Yx5cQXYtBcbBB5Q0qJawWlITM+i9pMdIbipa2fKrV0M6VnCPiL9HJ9t5VD3e522uLQhWE31rWnUeWbW5nls6wbmr0sJJiKbg9DFGw5RrzrNQkzF+Ryo09nB0F8LvI+hOdoxm7CqT9osfhe1NXLGhAymF/e0x57YB8MC1y+nT/2gUPoYp11iZ2qQEfCNgIm/7cLiPE000R79XcC7jpd4LbTFLQW3NcFk/NXTWMt5AqxEoNoXZehDh3ddP5VHYjr4Sc626vNavJeYc1fNoETKkzGPwPPD9mqp7ABIk7uU3Gg+Gixp/oVRBIzQsC6+bGtZqpWELGiRuK5yZ9fwg9z8AujB2BPY4dBl8Yi4qYxhhT2l9HUGGMzVQ==;6G4JQgGF8NWwQbzJmJenTg=="
 ---
 

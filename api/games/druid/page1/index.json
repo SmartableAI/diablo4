@@ -4,11 +4,11 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/new-gameplay-today-diablo-iv39s-druid.md",
-      "title": "New Gameplay Today – Diablo IV&#39;s Druid",
+      "path": "_games/new-gameplay-today-diablo-ivs-druid.md",
+      "title": "New Gameplay Today – Diablo IV's Druid",
       "excerpt": "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-gameplay-today-diablo-iv39s-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/new-gameplay-today-diablo-iv39s-druid/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-gameplay-today-diablo-ivs-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/new-gameplay-today-diablo-ivs-druid/",
       "originalUrl": "https://youtube.com/watch?v=uij9ysBKs4w",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uij9ysBKs4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT20M33S",
@@ -31,6 +31,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-08T06:00:15-08:00"
+    },
+    {
+      "path": "_games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date.md",
+      "title": "Diablo 4 Gameplay 2020 | Druid Quest Complete :Call Of the Deep | New 2020 | Diablo 4 Release Date?",
+      "excerpt": "Diablo 4 Druid Gameplay [NEW 2020] Druid Quest Complete : Call Of the Deep June 2020 Diablo Immortal, Diablo inmortal 2 , diablo immortal 3, Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/",
+      "originalUrl": "https://youtube.com/watch?v=59Kwnx2rUoo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Kwnx2rUoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
+      "provider": {
+        "name": "pSycho Susu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/59Kwnx2rUoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-06-17T00:20:06-07:00"
     },
     {
       "path": "_games/diablo-4-goes-open-world-diablo-4-druid-gameplay-blizzcon-2019.md",
@@ -91,11 +120,11 @@
       "publishedDateTime": "2019-11-02T13:06:35-07:00"
     },
     {
-      "path": "_games/diablo-4-druide-competences-amp-arbre-de-talent.md",
-      "title": "DIABLO 4 - Druide: Compétences &amp; Arbre de Talent",
+      "path": "_games/diablo-4-druide-competences-arbre-de-talent.md",
+      "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
       "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-druide-competences-amp-arbre-de-talent/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-druide-competences-amp-arbre-de-talent/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-druide-competences-arbre-de-talent/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-druide-competences-arbre-de-talent/",
       "originalUrl": "https://youtube.com/watch?v=cN41mSCU_dM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cN41mSCU_dM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT11M23S",
@@ -236,35 +265,6 @@
       "publishedDateTime": "2019-11-01T01:00:07-07:00"
     },
     {
-      "path": "_games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date.md",
-      "title": "Diablo 4 Gameplay 2020 | Druid Quest Complete :Call Of the Deep | New 2020 | Diablo 4 Release Date?",
-      "excerpt": "Diablo 4 Druid Gameplay [NEW 2020] Druid Quest Complete : Call Of the Deep June 2020 Diablo Immortal, Diablo inmortal 2 , diablo immortal 3, Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/",
-      "originalUrl": "https://youtube.com/watch?v=59Kwnx2rUoo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Kwnx2rUoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M10S",
-      "provider": {
-        "name": "pSycho Susu",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/59Kwnx2rUoo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-06-17T00:20:06-07:00"
-    },
-    {
       "path": "_games/druid-all-skills-abilities-talents-legendary-items-diablo-4.md",
       "title": "Druid: ALL Skills Abilities Talents + Legendary Items [Diablo 4]",
       "excerpt": "In this DIABLO 4 video we will be going over everything the DRUID has to offer. The Druids SKILLS TALENTS ABILITIES as well as several LEGENDARY ITEMS ...",
@@ -294,11 +294,40 @@
       "publishedDateTime": "2019-11-03T20:04:25-08:00"
     },
     {
-      "path": "_games/diablo-4-druid-class-review-skill-tree-abilities-amp-more.md",
-      "title": "DIABLO 4 | DRUID CLASS REVIEW - SKILL TREE, ABILITIES &amp; MORE!",
+      "path": "_games/diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019.md",
+      "title": "Diablo 4 ANNOUNCEMENT! New Diablo 4 Gameplay! Sorcerer, Barbarian, & Druid Gameplay! Blizzcon 2019!",
+      "excerpt": "Diablo 4 was just announced at Blizzcon 2019, alongside a very good cinematic and some gameplay of the first 3 classes they're showing off. The gameplay ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=kIHwz6Gbkr4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kIHwz6Gbkr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M54S",
+      "provider": {
+        "name": "Osterberg501",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kIHwz6Gbkr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2019-11-01T12:45:17-07:00"
+    },
+    {
+      "path": "_games/diablo-4-druid-class-review-skill-tree-abilities-more.md",
+      "title": "DIABLO 4 | DRUID CLASS REVIEW - SKILL TREE, ABILITIES & MORE!",
       "excerpt": "In today's video Profane covers all the currently known details on the Druid. The Druid is one of three currently known classes available in Diablo 4. Thanks ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-druid-class-review-skill-tree-abilities-amp-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-druid-class-review-skill-tree-abilities-amp-more/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-druid-class-review-skill-tree-abilities-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-druid-class-review-skill-tree-abilities-more/",
       "originalUrl": "https://youtube.com/watch?v=S6z-oH15NFE",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S6z-oH15NFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT7M33S",
@@ -381,35 +410,6 @@
       "publishedDateTime": "2019-11-04T18:24:40-08:00"
     },
     {
-      "path": "_games/diablo-4-new-gameplay-barbarian-druid-mage-gameplay-blizzcon-2019.md",
-      "title": "DIABLO 4 NEW Gameplay 🔥 Barbarian Druid Mage. GAMEPLAY Blizzcon 2019",
-      "excerpt": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer | Blizzcon 2019 Watch the first gameplay reveal of Diablo 4's three confirmed classes: The ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-new-gameplay-barbarian-druid-mage-gameplay-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-new-gameplay-barbarian-druid-mage-gameplay-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=K_8VVDFqP4E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_8VVDFqP4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M8S",
-      "provider": {
-        "name": "Tren-team gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K_8VVDFqP4E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-06-18T06:23:00-07:00"
-    },
-    {
       "path": "_games/diablo-4-the-druid.md",
       "title": "Diablo 4: The Druid",
       "excerpt": "This is a dedicatory piece for the Druid we remember from Diablo 2 that will now be making its way into Diablo 4. Music composed by Rob Tinney 2019 ...",
@@ -468,11 +468,11 @@
       "publishedDateTime": "2019-11-02T17:29:59-07:00"
     },
     {
-      "path": "_games/new-diablo-4-druid-2020-gameplay-magic-finding-amp-questing.md",
-      "title": "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING &amp; QUESTING",
+      "path": "_games/new-diablo-4-druid-2020-gameplay-magic-finding-questing.md",
+      "title": "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING",
       "excerpt": "NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING The Druid is a savage shapeshifter, fluidly transforming between the forms of a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-diablo-4-druid-2020-gameplay-magic-finding-amp-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/new-diablo-4-druid-2020-gameplay-magic-finding-amp-questing/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-diablo-4-druid-2020-gameplay-magic-finding-questing/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/new-diablo-4-druid-2020-gameplay-magic-finding-questing/",
       "originalUrl": "https://youtube.com/watch?v=-N605UTTviU",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-N605UTTviU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT10M21S",

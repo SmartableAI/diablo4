@@ -4,11 +4,11 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/diablo-4-is-looking-good-new-info-on-open-world-items-amp-more-barb-amp-sorceress-gameplay.md",
-      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items &amp; More! (Barb &amp; Sorceress Gameplay)",
+      "path": "_games/diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
+      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
       "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-is-looking-good-new-info-on-open-world-items-amp-more-barb-amp-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-is-looking-good-new-info-on-open-world-items-amp-more-barb-amp-sorceress-gameplay/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
       "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT10M48S",
@@ -49,7 +49,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 211,
+      "heat": 210,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
@@ -91,40 +91,11 @@
       "publishedDateTime": "2020-08-02T21:56:36-07:00"
     },
     {
-      "path": "_games/diablo-4-sorceress-gameplay-amp-comparison-20-minutes-of-gameplay.md",
-      "title": "Diablo 4 - Sorceress Gameplay &amp; Comparison - 20 Minutes of Gameplay",
-      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-sorceress-gameplay-amp-comparison-20-minutes-of-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-sorceress-gameplay-amp-comparison-20-minutes-of-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M38S",
-      "provider": {
-        "name": "Ecxoes Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 171,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-06-12T06:18:06-07:00"
-    },
-    {
-      "path": "_games/new-gameplay-today-diablo-iv39s-sorceress.md",
-      "title": "New Gameplay Today – Diablo IV&#39;s Sorceress",
+      "path": "_games/new-gameplay-today-diablo-ivs-sorceress.md",
+      "title": "New Gameplay Today – Diablo IV's Sorceress",
       "excerpt": "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-gameplay-today-diablo-iv39s-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/new-gameplay-today-diablo-iv39s-sorceress/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-gameplay-today-diablo-ivs-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/new-gameplay-today-diablo-ivs-sorceress/",
       "originalUrl": "https://youtube.com/watch?v=qPTOEGU04X4",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPTOEGU04X4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT10M22S",
@@ -147,6 +118,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-06T10:00:06-08:00"
+    },
+    {
+      "path": "_games/diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M38S",
+      "provider": {
+        "name": "Ecxoes Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-06-12T06:18:06-07:00"
     },
     {
       "path": "_games/diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
@@ -178,11 +178,11 @@
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
-      "path": "_games/diablo-4-sorceress-barbarian-gameplay-qampa-w-lead-game-designer-joe-shelly-blizzcon-2019-demo.md",
-      "title": "Diablo 4 Sorceress / Barbarian Gameplay + Q&amp;A w/ Lead Game Designer Joe Shelly - Blizzcon 2019 Demo",
+      "path": "_games/diablo-4-sorceress-barbarian-gameplay-qa-w-lead-game-designer-joe-shelly-blizzcon-2019-demo.md",
+      "title": "Diablo 4 Sorceress / Barbarian Gameplay + Q&A w/ Lead Game Designer Joe Shelly - Blizzcon 2019 Demo",
       "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-sorceress-barbarian-gameplay-qampa-w-lead-game-designer-joe-shelly-blizzcon-2019-demo/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-sorceress-barbarian-gameplay-qampa-w-lead-game-designer-joe-shelly-blizzcon-2019-demo/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-sorceress-barbarian-gameplay-qa-w-lead-game-designer-joe-shelly-blizzcon-2019-demo/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-sorceress-barbarian-gameplay-qa-w-lead-game-designer-joe-shelly-blizzcon-2019-demo/",
       "originalUrl": "https://youtube.com/watch?v=t3e0LGe_lkg",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t3e0LGe_lkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT47M57S",
@@ -381,11 +381,11 @@
       "publishedDateTime": "2019-11-01T14:40:10-07:00"
     },
     {
-      "path": "_games/new-diablo-4-sorceress-gameplay-2020-magic-finding-amp-questing.md",
-      "title": "*NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING &amp; QUESTING)",
+      "path": "_games/new-diablo-4-sorceress-gameplay-2020-magic-finding-questing.md",
+      "title": "*NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING)",
       "excerpt": "NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING) The sorc is one of my favorite classes to play on almost any game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-diablo-4-sorceress-gameplay-2020-magic-finding-amp-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/new-diablo-4-sorceress-gameplay-2020-magic-finding-amp-questing/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-diablo-4-sorceress-gameplay-2020-magic-finding-questing/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/new-diablo-4-sorceress-gameplay-2020-magic-finding-questing/",
       "originalUrl": "https://youtube.com/watch?v=lfg4SbsrYyc",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfg4SbsrYyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT12M48S",
@@ -439,11 +439,11 @@
       "publishedDateTime": "2019-11-03T04:40:56-08:00"
     },
     {
-      "path": "_games/20-minutes-of-gameplay-diablo-iv39s-sorceress-blizzcon-2019.md",
-      "title": "20 Minutes of Gameplay Diablo IV&#39;s Sorceress | Blizzcon 2019",
+      "path": "_games/20-minutes-of-gameplay-diablo-ivs-sorceress-blizzcon-2019.md",
+      "title": "20 Minutes of Gameplay Diablo IV's Sorceress | Blizzcon 2019",
       "excerpt": "Walkthrough of the quest for Sorceress. Later beta version of Diablo 4 (Blizzcon 2019)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/20-minutes-of-gameplay-diablo-iv39s-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/20-minutes-of-gameplay-diablo-iv39s-sorceress-blizzcon-2019/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/20-minutes-of-gameplay-diablo-ivs-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/20-minutes-of-gameplay-diablo-ivs-sorceress-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=LdzmxxLaHvs",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdzmxxLaHvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT20M6S",
@@ -497,11 +497,11 @@
       "publishedDateTime": "2019-11-08T00:15:00-08:00"
     },
     {
-      "path": "_games/sound-design-diablo-iv39s-sorceress-gameplay.md",
-      "title": "Sound Design: Diablo IV&#39;s Sorceress Gameplay",
+      "path": "_games/sound-design-diablo-ivs-sorceress-gameplay.md",
+      "title": "Sound Design: Diablo IV's Sorceress Gameplay",
       "excerpt": "Original video by Game Informer: https://youtu.be/qPTOEGU04X4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/sound-design-diablo-iv39s-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/sound-design-diablo-iv39s-sorceress-gameplay/",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/sound-design-diablo-ivs-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/sound-design-diablo-ivs-sorceress-gameplay/",
       "originalUrl": "https://youtube.com/watch?v=QZ-zZmQP_1Q",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QZ-zZmQP_1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT52S",

@@ -1,5 +1,5 @@
 ---
-title: "DIABLO 4 - Druide: Compétences &amp; Arbre de Talent"
+title: "DIABLO 4 - Druide: Compétences & Arbre de Talent"
 excerpt: "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ..."
 originalUrl: https://youtube.com/watch?v=cN41mSCU_dM
 type: video
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "11HdUSUOnA+Os1eyIzfCfw1Sc3FFtkiVAqHKOMmfDOAhebtS7gL1Y7RhKriNquJJ0mj8ET22e22XItUizwpKs1kvObvz/mYUyP+bUStXsxPl4eC+MZxg7Sf/epyNPiVHomW4SmCrOeLjeyINZqQtpqjX2Xvy2v+dUjcbdkBnzN53FGE8h2/4VlHAh2ZhtR58hEUyryDUfl2v25QHURsywjIQxtuqG92eq/+bncM2orPFYDxJNxYvFPLqI+0G7gAImUgF8czzn7R7Kvu48QEFUSX6txXPSFCh4v7tME3JGtrpAYMcdRwNJQ+c9RY+iUIoTt2KmS+DrwqzC4nALdaSDnkDcTTqHxfAiMFLkFVoy46VgpwVNsMbELhWutlPiHKqQnLsPwow4mIiFYIGMLEBGw==;cSxEtZt7HcF/VqUVZwMvBg=="
+secured: "oTtWwKaS/yCRwWTKaBldTY4qUQDuFngNSUcW0czoZMOdkzFCe3LFJqSxCnn73t9yF6VVaTlvpNdgl2vNnKRn6haADBkKu3aWS5q2brvk6zThkMK8HitBSciHTGVD+HEQPiXjtwzpVx0aX5C1iSKq+AmZIjMi8GRcuNS1kRkxiHexKpmRpLmgyIp4VmkRWwfzQMhumeqCslFQ2SrnHEZOvDBxJOudC8J7fDo8EYqnpggRdDHi6VqacJzp9ujpD4YnPCLt3YcT/P2wtM4FzNAYiy8atAHNsw7Nsy8CWDlBKoNXzp1sQCMfpUsnreiI19hQ9UDryY1uBwbEaUNolcsLrFtbM+OGKxyKXdWfBNAvbfO51H2Rktal+SqB0Piw3trR3jUioN2ZVzmzPGlRUImcKA==;D2xw+onqvSruW1M0NBfjGw=="
 ---
 

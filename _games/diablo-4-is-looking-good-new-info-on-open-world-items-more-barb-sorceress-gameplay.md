@@ -1,5 +1,5 @@
 ---
-title: "Diablo 4 Is Looking Good! New Info on Open World, Items &amp; More! (Barb &amp; Sorceress Gameplay)"
+title: "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)"
 excerpt: "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet."
 originalUrl: https://youtube.com/watch?v=q57_zsefROM
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "quuYiT52hLfbkfTNgtacXXuar8ViYwU47rPrVoaiMNcu9m0W9NHd1ZUxxpzHRcHysRazA79eFDMaqmxd++Rq9ULgB9EArTeXFXCwF437QUOdReFz+h/kV0GcW6J/avI1MOfOcxnAFDb8JPcVKKCoPp6gx2DxZcwFJQ1+AAiX6Pe7GILRhUmO44JbWPRqnH4NSn+vMUhLR243k6403xenxZ/MyZtyNlJE1MQZ8Q3b7X52bG0gcOK2IAoz77xhO7VDtuxTiXG2PmmWxN6h/PUmmJulCrNxN9r6S6IqKuODigZlXm3gJf2wtcteya6nXlMc12svAPdYbfZwkn4UCdsJYZricY5IwCm0bFeHqcV5LpFj7bE67xRG9EzkV4Lb2hj0V3d27h0dTx8Fovr2vvbzkA==;JjRU8TCoCpJfIes/ZS/59Q=="
+secured: "0HnkSMGM65tWSDCr1FdUKvezilxm1e91zhDT4Av2+QUkmGcfCmCbQ2WgP3CqR3nCgSWPJPvcF6w5PTxMpCxGsftmWlfcn0OEY1xtMK+vvosBmj2pGzISSZHqN0aNIAFoiy0zOqLt5iQaSAnedwWiXdFDPX2suJMtrgRwJIA/D8B4luU3pUo4B2pZji3t4zHJcVpTOhMylPW5msJFoWq3JrRb2pHIGy42YnXflzPS3PLwKdI7H3eprYHW7C1+BYqw9KsPsaD83ctyu+id/PKmjev7SaKj7pxkDrVjLJeS/drq2p8s8CFp7aRINwSPIAgjMv6PYnjQvdXQTIM9lN10K0zlb4VPCUtB4KWhLVx02BGjr0la94wke+KbUJuR4hC+BoahZLMzZ6IgehkZl59FbA==;sDC76hzjV1Rj29f6IcsMLQ=="
 ---
 

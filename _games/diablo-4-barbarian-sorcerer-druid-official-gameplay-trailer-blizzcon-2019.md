@@ -1,5 +1,5 @@
 ---
-title: "Diablo 4 - Barbarian, Sorcerer &amp; Druid Official Gameplay Trailer | Blizzcon 2019"
+title: "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer | Blizzcon 2019"
 excerpt: "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. #ign."
 originalUrl: https://youtube.com/watch?v=ae42e8Flb5o
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Y2/uLU1IfTlMPa2tX8tgfceTmGKzadwNUrqCWotqhM+ttydBYf3UFuDIwnMCnamdmsIzeEO/yoayqWFUq6755rCQXKyddqTDL3AwEF3vwIeL7QY3vrqTIVWz3Ye7NXPh8XvZ9fpBzpV8u8ABz9FG9/FskLiA85NMU/bJ67gHwi0VtyfagM6K4T8hbVNc3jsokLgv0ActdLoDlxypKhpTAPO1J4EG34qmbjBeuNjPYsC/+WuZJnR44jvz1Bz9nlTfWWgY2HZ2SqDf3HRyjMdpa2jMNN436zXLJkEnfo37xayCtezW0U/gMfDSwMw9Jar0XYqhhNx7s1XooeeLX/ZMdlTn9VUsYK1WdVLFF/RIXtXwHJVl8pwEQKvKIThi3qs3w59kAAk9b7up4XFYD+1ftg==;vngTaTrvxT8gLRkYmr8q0Q=="
+secured: "14WG0PwP6sVkBDihyOD27blHAsqtIaNmm1kjQhZWcdJvIlbfEuDHIo3ghmFM3P61HqIdrdb9latEqHtWMW/K84UkePVQxk/F+eOzR0llQw61UteoRZX0FHc3Vr8vXAHplFdBxM0ljRE1LQIQPJbAAUcjnHlXkz+Obv3GWhf5A3S78gcI9aeqBTZfdYc9vMmVD70sJM9MkcKvYgPzaSF3t6sur0177Ia/h+zGHCeFIKbYE+C2BnSi0rjGLL8lyRPR0HH+HJNwCHGdjTsORZugaWlo1E8c65I5hrCroFdQX9WkCzp51P3s+336KQZHuU4KVuJ6pROVaCsg4Ab87pswfEha9PnmCJcccsN6eCYOx6W3tojz4SijJbbEatobrbzG9P/AllSJG3RQYFK3CXNWSw==;kJVPsHWsqTEZZpLritneFg=="
 ---
 

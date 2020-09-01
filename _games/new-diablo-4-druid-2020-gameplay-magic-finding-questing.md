@@ -1,5 +1,5 @@
 ---
-title: "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING &amp; QUESTING"
+title: "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING"
 excerpt: "NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING The Druid is a savage shapeshifter, fluidly transforming between the forms of a ..."
 originalUrl: https://youtube.com/watch?v=-N605UTTviU
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ejAaJe7G0f1pF6zLkQ5VaSPGq2lAZuM/hmM4lMVH24rUx9/nigH88sJerSXi3G/5jFLiIVH5HJMye2ipd8knRKAowo8secZ7kcM5XIntb0+kCQGSLjX+WiskBEerCIy7u6zzdr+BSUUWN9wn3E/wmVBnJB4EvNuAng85EMrINo0M/L666epT/2YDaX46VDjCSIfQxhWp8wM7dRiClt3Gmbhx8dvGwEFfUEr93o4EEldRuVuKC8VSiVkT3b12L0rAkhrSoK3FdjBZbNfNiHjNPulq/TDJzzvz5bEiE85UBkmqykraCfy0K6nxM2QtF+PQnuKwojQQywV4edL9R885WwXv89IjGaOwPt+3sG5ZxTd2k2SOi8h5nz0Nds8xPbyEni0tNLCdbpO9gAADqR6qkQ==;QuMCHLbbGdt5Y6md2+Wq+A=="
+secured: "DRMJ/a5KAVlvH/mrzESwvuQQ4FqfOc1lXUnD886ks6LodifoRPNeX8eHsXgNitgME+2feAYAhFblfLdkzGILe4GA7bVupa3SGFrCSYyOMFU9LBGPo1DLHd8W1z4mNWpOG7CnGNnK4ttSHTISAsKVgA8rhoQKcZ3PPriZMHS5IPZZv6EfDRXTX58KuDcHrQTvbRS2T+cazWojyczXJ6llbgh14VClRGoynK+UWhj6gya/WnWEVEMiBd9g2MxepJ79BlR3OssJF9AQXbJD1aurEEfcddiUagzPKeiz5jm/9tdAsWNE2uuLNZC/dFsumDVgWjTiE4B8PJA04sbTEIZYtgqLDArjO8FYvgcQZYKvt/1Ii0Ccbo3z/KiREkGeYubFemOjmr3D9ZcArJV2lL2rjQ==;gG9Kg04k/T/zEnakbAjEmw=="
 ---
 

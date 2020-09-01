@@ -1,5 +1,5 @@
 ---
-title: "20 Minutes of Gameplay Diablo IV&#39;s Sorceress | Blizzcon 2019"
+title: "20 Minutes of Gameplay Diablo IV's Sorceress | Blizzcon 2019"
 excerpt: "Walkthrough of the quest for Sorceress. Later beta version of Diablo 4 (Blizzcon 2019)"
 originalUrl: https://youtube.com/watch?v=LdzmxxLaHvs
 type: video
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Up98IyeWeDEwFUPNtP8FHCMqZlxvSMMNxz6hl/3EVvpdMSkC0/J5RT/7EQkDC7QiMKJnGWz5c0zKinWO/4cI1mLnQtI7p/F+iOCBwi4h5K4FrwQKiaJj15+9Eamgl65JPElTID/lNNTOxKJBFWmxLwLbq8juyvNcMsFsLMT5N02CxIcPFSV+lPff/yISxFGdAsp+dwdokniL2lsdodbcQ7Ytqc3jTP5Jvz/h2bZGATVQH5lvDRBO+f8wfJ17S0nQjhqpGBwy9NO8iennRSU9PW+fS8rQEl4eGrJJxd5eLQLyOxTrWFSTc35yFekDSdHRERx+xN8AqVayRxZCUu/sCB0eqF5BhZZeAfKmpvi1TYDRJRN7aNo32duk2/otlEFGCZvF0B2SWbhsqTwr1/a7Ew==;cMYRmCN5QOQtP7loovo8gw=="
+secured: "TPAJIo9tvcxn4x/ksT4Y8Ns0pRLnrT8q4TUX4wo308NxqerssmDUy1dqYU5WZkcOEVo3WZ+ODy/4FeOZvqJRNgTKZp5tOCLHVt/rzyT7akBWPpiD91QeEW/PnIyKKxWAQE1u4IXaMxBD7bmfC+ZTLIuyBgxrK3ustbGVRT8UO5U9WUT7pV9BGLhjA/GzJhessJsmBpChGYE0gQ7RwwZBP1AizLuRUzMCQTlLe20bmADlMStSY7I9Y+mOJinB1Lsoq1UNpsMofWxYl3pAx+oddQamqaWHFhii0zYx1nCjr0ZTE5RKihVNUz7HtxoI/srHhykeyitHVtEnxnYdH8C+TamknqwFTRRo37d7jBuyfe8jHEhZ62g4M0H+t2SYzR7rd/zsyAkXK1Rogf9Q4qVfmw==;4yxtFesbxzByGb3mcRkbRw=="
 ---
 

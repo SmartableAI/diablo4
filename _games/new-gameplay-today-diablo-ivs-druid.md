@@ -1,5 +1,5 @@
 ---
-title: "New Gameplay Today – Diablo IV&#39;s Druid"
+title: "New Gameplay Today – Diablo IV's Druid"
 excerpt: "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ..."
 originalUrl: https://youtube.com/watch?v=uij9ysBKs4w
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SSkDQaIYK5fzWIjhNeYKK1tKo5Vdr1gQpBlKymTypazJM7oopkMiaDnExxxM69PhzwY2LGNT/srhcxvQCPeIwug7xP+SCbo2O1o8IWdqfo6+BQz3DyMKtnMHp+bmjOtZMNAGDHD+xLMmiwYGMzDcnjGYTpEEyH1IZF1lflxqf8eK+mdChAly5Rt8+IxoXNLpm4PBedDRc0uwHSZ2jarGLIplIj7slYkCxNRk28mFedA9e49t0RIf2QTqEtbczGWhGLcYKiQloJTZby78CmBalbtJO4F8vKi+G59khwaNKlzGj0H9GvFGrhquThX3TaX47IUBBM531eU0/T9Y1lsolxjDCL1+m0L/x89CcKdZQnwGNkX4+sd2CSO+sSuQjP+9fHAKAmEJ5IpKBhIq6Uv9/Q==;yOimd8REHHFDqhL7jLsLOg=="
+secured: "4R0SVAuYL6k71ds9GKd35ECRmxiXYRdGfmXUaabsFlsHoEiaaEyF1kOtq6uYKHMough9gmZE6+dfxICzV9N9+UU0DWKnbaj3rjM6gDh4Ku69hgL8DcNArGKRVphZKkY8zTJZofvilnxeJlu3/4oEd0xXkXmt5mkZU3sQFxPIkKhxAi5jkrzhfj09EJseW3ZuyaiG6mRMsqbAJnDz37zYl8qL6H3SMZOqA+rqxKp8uiHx8FNJSA4i4tR+gWCCP7zEWlqie5KLqjN/Q2PNIKy3H/F/9V91V/HezPPZyNs0mGWdx5PkRQD7mMrPZTkLHiNEtli/0/TvzZFjq9YEXhpjBXJSMGS3CJIvkGHrm4AfT4R8anNDcysjYSnR19JJuxnBwULYR/VNF62Whvkq9RHtBQ==;ftBHHaIojI+CY1fGAFU35Q=="
 ---
 

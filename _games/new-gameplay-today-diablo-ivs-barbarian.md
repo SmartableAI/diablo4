@@ -1,5 +1,5 @@
 ---
-title: "New Gameplay Today – Diablo IV&#39;s Barbarian"
+title: "New Gameplay Today – Diablo IV's Barbarian"
 excerpt: "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ..."
 originalUrl: https://youtube.com/watch?v=9DFgQ81vzGg
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BZ/tv4nctlvZBM0Kpa1pc/U/8dWb2MHaO1yKxei+xbpAh14JQCm9UW1wqpLHH00dh1lU84a0YNQRaac9ZLXx9I4ftPJbgv46M9TJVxN89RkGUtec/KMkDmVjBJtDjQihGjq/Alt0lwe0bY6L2w1yJiFpguUMKZ5iK0v3J4za8tdIKECheV4CsAcIbjy5GYw0heiQeM9gF4F+IPExcuMeE+6au0VfGStnCASA8+8cFtN/coRgbgi2eZoZi8UGBRNpDvvFkkbY9OAFpGIig5/ROwyj6G/sCs34aYnC8JHWYIXzHcVF9VdV6DCIwsM4ldUqDxhJ9kT4ZYYuxO4q4ZCqCnhZiINc0pMB/iwoUR3XoFuIdUckCqaFqfHni5vQSsfa8fy2mOBx+6UBk8vlggqUGw==;Saz0TjMbjmaF6gWxpncTPw=="
+secured: "hRQ2AXyHSzMAgapb5OBsj7mpKdO3gcN97wjqRRBOep53SwdBlh+ZzEFjDxOrow1YY6WNJzeQjHPEYf/szFqtzAHNiPaC4V1/glXDkEb9sEqaXLHqesoctqJ+WwYadFFK8OTg//UoBkUsmun1h0ROnG8Qs0L8OD9iYV+7Y/vvqoDRa1X1itPXlW83v6J+jBJIJ2glSG1qN9ZYO3+gizYvaomQqov+jGDjOd+AgIS+f9ZSmcIL9QeT5RDZd98qknLtcg13xxDwc+8WaDUReeZM4zT21VgQFBjuoawg35fBb8MvRlM65Jlqs5lMfAVFgYDdXV7dUBBSj2XudWQlWjXfojgNaSMXdI4ohG3jOHJU0flsnWsI8UiUQkthOyubsmf7HOZrRnlCpn69hTBUUATFSQ==;vpGCv1qU1C3zxnEE9R17gA=="
 ---
 

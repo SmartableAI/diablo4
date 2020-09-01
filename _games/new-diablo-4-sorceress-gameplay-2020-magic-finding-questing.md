@@ -1,5 +1,5 @@
 ---
-title: "*NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING &amp; QUESTING)"
+title: "*NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING)"
 excerpt: "NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING) The sorc is one of my favorite classes to play on almost any game."
 originalUrl: https://youtube.com/watch?v=lfg4SbsrYyc
 type: video
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x/MwsAYkRk16TbK3xqaj8WvzhubQv+U0fZIuumi8Gu9H8u0z8lDBmwS1Zdd+rpmnT5ONiA5QalHNEUZtBd5PNUlUp8qOHcMfZVz/4lg/MSgPRcDmlCxQ6s5Y1I4ln0Yjq36aQGe/08/NOeITFIiupHFIRqQg043QSU5muzSBBktqBFsVwqLTrbi5AOK/gj7spd1+SbefKe3J2rL0qpvMYP+bNH0eSGrT5ORq5QtmPpwoKJ0EPYUqN0auSeadbPpzLwDZ1+HcJwZ0Go2BKhsjl+e2p/1pzmoRP0hvUFpWz5pZA5HDfZ1/OPNa8ezDkSEii8gSAJ8n3i6lGUlZUVkcJRapCj8YJSnFhYGaRjhIVo0rC1OkdxrLjF4mg2rMWAGUlE/VAL9iy7+rV3T2RCTQ0A==;RDTSS10DMdmV9rcuMli3Gg=="
+secured: "moCjxtRDWx1z4QSiFnm4mo1Lzmm7200bMdS1MbRSYMdh3rrbBZTQ2iqy+/ZjFIlcVmM8UX3VzoxyrK4eplSDNCSOcajLE6xEjk5qpRL1gylr6oTlTZAEIvI80TykKIN9oh46O0JN+ZZ7yr3SIw49R8JfP86j4aNR+oVSRU51HTMjVIyosdocw5yBfzPirZxFVRDJncroIMFrg4XoDEupuZWSWJop3Zdn0g/gD3jjgLfhp+LcjvDKCM7MB0Gp+i3tW1viPJ8sO1z3F4YjSqqzAFvHN/GaVPLPa6Tq5+L2eSIoW5lWELF6wEHloRdtAMWyPk84mMj3TTa/NGzQphoIo+DATrjCZaIXSVf/Ud+OcvjjaaIuuUOFngrKVtcdwAfBzDXbvOhdC+M1CmYgoBWKQA==;IleOrMNDJaxVl05Z/ntrCg=="
 ---
 

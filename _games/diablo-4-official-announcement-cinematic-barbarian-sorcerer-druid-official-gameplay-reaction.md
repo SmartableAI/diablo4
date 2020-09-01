@@ -1,11 +1,11 @@
 ---
-title: "Diablo 4 - Official Announcement Cinematic &amp; Barbarian, Sorcerer &amp; Druid Official Gameplay Reaction"
+title: "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction"
 excerpt: "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2."
 originalUrl: https://youtube.com/watch?v=GrdoP_s0snk
 type: video
 length: PT13M34S
 publishedDateTime: 2020-07-22T23:22:01Z
-heat: 52
+heat: 112
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ClIBdHxBxwLx8cQKp2JRp5sPR0WGlXbBe8/A4QqPZT9d5yhrkLDfdVXb37v0ooK4hR8cokwSdPGHd1I1kKf5BPT4NrPIPINGdOApcl8ElOI6veGTuz1fEQmrmxIAzeruCgMHbRJdEaaT5i9waKZGPLTmnJLbNIHTcpIC+Gouxk+Y8kHN6oCxJEyx8fmHFRHuK8PozlXWOu3JgamsPre+bchCDIot8qy+LD0JMMnntuUAN7NzsBMbHtdRRcU+IxzsNmxS0ZN7zj1yPMIaJwxUarlCcVrT2NNgS6UwESySouygj1pxXb96TKCP2h+VgDNq93DgDWTNRaNbj7cit/cks594Ins+Hlh+ig2RorCJmZYbIbrOsTQiyIzIa72skP5tpK3lDWByxROiuZ6qId5omg==;TgtiWZlGPtcS2nMOLReCvw=="
+secured: "62nOdIsifNTCqO8ITHp5Jhjv7TSd+rb3q4Er8KUmg+5z5ELS5aFD+5ZRRN1yFKdF6S+mMbY9Z3ZWpMZJFr11OROYSJvJYwuI1sn2h5uVMXVEaPmIvy/QMySlK/Gkad1JIy++qDI6EMu3jabfemVYdr/VeF8GUf+A8xN3p7d+GySEoPPZRO/GBjZYzaX5fjrcIa3pZXwm0dPmSKvga3sqQL3VTVp6ZxvI1/FwSLiGvF4ZBMpmdDn5OO/uLOO4JiT09wu509EUNK8bHTflYf4ddtVZ4IrzAs6UcM2kwmecr9wzfLvuLmDiREdAw4skJQ9rLxFiP+lX/tgDeq2CciyC/3v53lbrTcGSDe0zEgBN7BEDDMLw1TwrpTcBntOOhqw40eDPnAbMTVncoAXwD2zORw==;SR4lyREI8s+y9xBOwJya4w=="
 ---
 
