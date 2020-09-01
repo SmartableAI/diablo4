@@ -76,7 +76,7 @@
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
       "heat": 52,
       "images": [
@@ -540,7 +540,7 @@
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Druid"
       ],
       "heat": 50,
       "images": [
@@ -698,35 +698,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-02T17:29:59-07:00"
-    },
-    {
-      "path": "_games/lo-ky-nang-sorceress-diablo-iv-demo.md",
-      "title": "Lộ kỹ năng Sorceress | Diablo IV [Demo]",
-      "excerpt": "Lộ kỹ năng Sorceress | Diablo IV [Demo] Chủ đề ngày hôm nay chúng ta sẽ nói về những kỹ năng của class Sorceress. ----------------------------------------- Chào ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lo-ky-nang-sorceress-diablo-iv-demo/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/games/lo-ky-nang-sorceress-diablo-iv-demo/",
-      "originalUrl": "https://youtube.com/watch?v=pyqpdDIEXP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pyqpdDIEXP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M47S",
-      "provider": {
-        "name": "Games Station VN",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pyqpdDIEXP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-12-30T18:00:07-08:00"
     },
     {
       "path": "_games/new-diablo-4-druid-2020-gameplay-magic-finding-amp-questing.md",

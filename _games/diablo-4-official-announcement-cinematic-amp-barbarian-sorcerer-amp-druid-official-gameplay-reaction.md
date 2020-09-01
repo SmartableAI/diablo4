@@ -15,7 +15,7 @@ provider:
 
 topics:
   - Diablo 4
-  - Druid
+  - Barbarian
 
 images:
   - url: https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hrsDT9gRO0gvGjOvDFT6NsCX0V9QywIs/VcBmGu3icvm9C1/ZKZmEIhNj6jjXKKXWHW5uSPUQTiafeptrp2x8bgR/EK8TV6XUqqkUor5bUkqkGix46HlfBOAcDHtTzoZVwgh0iOjwuXt3hEdQIom5ifMzhSW9N518FW4alCc1q8/dLwU7Vs72HzMjdE0+ucoQnrZ+eovUJDuhveGaGmPrvMqHei0wxCSfhMSZmIzmPhTlZvw6auEMyaF2iVPOFcSyBHrpL82X/hxLbuJgvjoXdHW22EgNjjnXlWOI2XAQnO7vh36ab8ZkMN6LefCSBIlPngdcouPUwfplTYfHaqalLxxau92z62VaLSyJ2FJKTKaowbc5P+EN6dnn4+z5OKibdTOSHod1dATXzbCvTMjmg==;4p9f7s4azguSlLZqcVvZFw=="
+secured: "lgrL9AqXCH2Rcm9aca/eYgrZL9ZgatpaZfS8i3tjrNM6zfq/5hdU1NYAwVQXoKM9v4/G1x63XAAL6ugvoJ80fX0z+36IRU/85/M6SCFXDKGVf8HSsisB/sCfWI8C+YJYYn/pk2W8Z6kWfAuU52M94p41TyO/+FiQlaH9rz3RtVaGVsy58ZM7+D3iRBBNLKwsYyMZOXwhP51yeP6OATwmwYO5s39sTUI1Egkpp1J6rRPKsObJACXJvv5Xe9TtQyE+1CWyZWYaEx6p5Xl15DuhAPqxJRyJaIS12N9UsKV0DQVsXW5iAM+DkPAoLDhVY6Y1uL9Z7CBIfoqzDJarH7Y9y3IVbe1zdBOyGG5jTjb77i0C5URtRjcKCD8uePzpJQXhdMV7MlC13JPqzR+pEX+xfA==;rFoddVWoOa7aqfld/I3xHQ=="
 ---
 

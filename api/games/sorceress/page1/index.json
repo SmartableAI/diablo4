@@ -20,7 +20,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 280,
+      "heat": 220,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
@@ -468,35 +468,6 @@
       "publishedDateTime": "2020-06-03T15:00:51-07:00"
     },
     {
-      "path": "_games/diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
-      "title": "DIABLO 4 EXCLUSIVE FIRST LOOK AT GAMEPLAY FOR THE DRUID, SORCERESS AND BARBARIAN CLASSES!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/c/bannik13?sub_confirmation=1 Diablo 4 is coming!!!! It is official! Let's check out the exclusive first look at game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/games/diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/",
-      "originalUrl": "https://youtube.com/watch?v=eIhE2Gd7vZc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIhE2Gd7vZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M48S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eIhE2Gd7vZc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-04T18:24:40-08:00"
-    },
-    {
       "path": "_games/diablo-4-sorceress-skills.md",
       "title": "Diablo 4 Sorceress Skills",
       "excerpt": "Yo, Kamahl back with another Diablo 4 Character video. This one we are goin to be discussing the sorceress and her skills. At least as far as we can see thus far ...",
@@ -524,35 +495,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-08T00:15:00-08:00"
-    },
-    {
-      "path": "_games/lo-ky-nang-sorceress-diablo-iv-demo.md",
-      "title": "Lộ kỹ năng Sorceress | Diablo IV [Demo]",
-      "excerpt": "Lộ kỹ năng Sorceress | Diablo IV [Demo] Chủ đề ngày hôm nay chúng ta sẽ nói về những kỹ năng của class Sorceress. ----------------------------------------- Chào ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lo-ky-nang-sorceress-diablo-iv-demo/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/games/lo-ky-nang-sorceress-diablo-iv-demo/",
-      "originalUrl": "https://youtube.com/watch?v=pyqpdDIEXP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pyqpdDIEXP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M47S",
-      "provider": {
-        "name": "Games Station VN",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pyqpdDIEXP8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-12-30T18:00:07-08:00"
     },
     {
       "path": "_games/sound-design-diablo-iv39s-sorceress-gameplay.md",

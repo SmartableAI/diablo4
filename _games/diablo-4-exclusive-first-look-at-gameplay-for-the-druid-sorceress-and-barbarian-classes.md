@@ -15,7 +15,7 @@ provider:
 
 topics:
   - Diablo 4
-  - Sorceress
+  - Druid
 
 images:
   - url: https://i.ytimg.com/vi/eIhE2Gd7vZc/maxresdefault.jpg
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Fk8qqWD7r777BDK7sPSbPADolxapgNmgg8VhIIG+jOF8Ac1QKFeFhC3RSrS/MpUvoaZfywySKKyqLgeC/eVWWyUz7DArdf+/tki/zwluvhC40vyP68YZhHH2kqMduFoL8eIKgmqEZXL0c/QHnMthKBBbPiRc7B6FWm4jAQEqD1RgNZLvdMVAiG6KDIKTqalotbGV8xzLmbsrcjuBn9d+ZeL9sqDD7RSKApavbxYWtCmxy4lbyQ3dgM089PMRIXCQiV6bI0t2ouytcAsJJR7Q75Ln8aPIE2AgYqf/B/oYn1Ht2F+WAZ891YOtTO+h1/p/DP7HesZUQ5BsyikQmaCeFUMbV6TfQb+ezKWB6QTvAvi6NLKQlNpQxDYGCrQv7ZjRZnG/xYz6oZKQ0j8e7UuRbA==;DGa6U6g7o1WSpSfDLK+y2Q=="
+secured: "1G7x7nPkpw3CB9HlQ6M4/kpWLGpQpW+sUeyepmSU/3eWzBEwyT+DmSqhyksXp0Etx/waL7fRe03CDJXIcVOKnqu+cchdcCPdDN/z80qdiOxOa2sfQmZaQy55Hcl2GRVwRfp6ZcDSfHsmbEN/rSfKWW5aw79bMvg2lFV0WBKssLt1REgPkfomntfIOovTGl44WQgILAebK1ifDDocO91MwVvdF4jwqlSx/oAOFD1owt2VXtVdxwTxZW5tu1b7WglMScu75I94DxyFbzvmgaaTSA3Hn++dWE3r4neGiYzEikhTP+nl7bbubaXhH5ZUI13fi8xrWOQA1FXNrzosomg8Z2iY8xu90Tyo2Q4ySzmzBT0bvTZkaIDsXYkQfSgpQq0Lqwj/hz4VLZkvHE7pjKlxgA==;ND0U/kz7VGJIuj8FJPjVlQ=="
 ---
 

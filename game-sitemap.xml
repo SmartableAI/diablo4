@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-is-looking-good-new-info-on-open-world-items-amp-more-barb-amp-sorceress-gameplay/</loc>
-    <lastmod>2020-06-29T10:49:04-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-sorcerer-amp-druid-official-gameplay-trailer-blizzcon-2019/</loc>
     <lastmod>2019-11-01T11:24:33-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -15,6 +9,12 @@
   <url>
     <loc>https://smartable.ai/apps/diablo4/games/new-gameplay-today-diablo-iv39s-barbarian/</loc>
     <lastmod>2019-11-04T16:00:01-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-is-looking-good-new-info-on-open-world-items-amp-more-barb-amp-sorceress-gameplay/</loc>
+    <lastmod>2020-06-29T10:49:04-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -133,14 +133,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-new-gameplay-druid-quest-complete/</loc>
+    <lastmod>2020-06-08T14:31:14-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-skills-and-talents-overview/</loc>
     <lastmod>2020-04-20T10:31:47-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-new-gameplay-druid-quest-complete/</loc>
-    <lastmod>2020-06-08T14:31:14-07:00</lastmod>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-new-druid-breakdown-all-skills-talents-spells-demo/</loc>
+    <lastmod>2019-11-08T21:13:26-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -153,12 +159,6 @@
   <url>
     <loc>https://smartable.ai/apps/diablo4/games/diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/</loc>
     <lastmod>2019-11-01T14:30:13-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-new-druid-breakdown-all-skills-talents-spells-demo/</loc>
-    <lastmod>2019-11-08T21:13:26-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -193,20 +193,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-official-announcement-cinematic-amp-barbarian-sorcerer-amp-druid-official-gameplay-reaction/</loc>
-    <lastmod>2020-07-22T16:22:01-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-gameplay-review-/</loc>
     <lastmod>2019-11-05T10:10:13-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one/</loc>
-    <lastmod>2019-11-01T14:16:16-07:00</lastmod>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-official-announcement-cinematic-amp-barbarian-sorcerer-amp-druid-official-gameplay-reaction/</loc>
+    <lastmod>2020-07-22T16:22:01-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-iv-barbarian-gameplay-pc-ps4-xbox-one/</loc>
+    <lastmod>2019-11-01T14:21:50-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -217,8 +217,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-iv-barbarian-gameplay-pc-ps4-xbox-one/</loc>
-    <lastmod>2019-11-01T14:21:50-07:00</lastmod>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/</loc>
+    <lastmod>2020-06-01T21:17:18-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/sorceress-all-skills-spells-talents-legendary-items-diablo-4/</loc>
+    <lastmod>2019-11-03T04:40:56-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one/</loc>
+    <lastmod>2019-11-01T14:16:16-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -235,44 +247,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/sorceress-all-skills-spells-talents-legendary-items-diablo-4/</loc>
-    <lastmod>2019-11-03T04:40:56-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/</loc>
-    <lastmod>2020-06-01T21:17:18-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/diablo4/games/druid-all-skills-abilities-talents-legendary-items-diablo-4/</loc>
     <lastmod>2019-11-03T20:04:25-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-druid-class-review-skill-tree-abilities-amp-more/</loc>
-    <lastmod>2019-11-03T14:53:40-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-skills/</loc>
-    <lastmod>2019-11-06T00:15:00-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-druid-skills-and-talents/</loc>
-    <lastmod>2019-11-05T08:51:59-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-new-gameplay-barbarian-druid-mage-gameplay-blizzcon-2019/</loc>
-    <lastmod>2020-06-18T06:23:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -283,50 +259,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/</loc>
-    <lastmod>2019-11-04T18:24:40-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/sound-design-diablo-iv39s-sorceress-gameplay/</loc>
-    <lastmod>2019-11-12T16:24:35-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/new-diablo-4-druid-2020-gameplay-magic-finding-amp-questing/</loc>
-    <lastmod>2020-06-08T17:39:28-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/diablo4/games/diablo-4-sorceress-skills/</loc>
     <lastmod>2019-11-08T00:15:00-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/lo-ky-nang-sorceress-diablo-iv-demo/</loc>
-    <lastmod>2019-12-30T18:00:07-08:00</lastmod>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-druid-skills-and-talents/</loc>
+    <lastmod>2019-11-05T08:51:59-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-amp-druid-gameplay-blizzcon-2019/</loc>
-    <lastmod>2019-11-01T12:45:17-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-the-druid/</loc>
-    <lastmod>2019-11-16T06:58:21-08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-gameplay-barbarian-druid-mage-blizzcon-2019/</loc>
-    <lastmod>2019-11-01T14:45:13-07:00</lastmod>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-barbarian-skills/</loc>
+    <lastmod>2019-11-06T00:15:00-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
@@ -337,8 +283,56 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/</loc>
+    <lastmod>2019-11-04T18:24:40-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-gameplay-barbarian-druid-mage-blizzcon-2019/</loc>
+    <lastmod>2019-11-01T14:45:13-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-the-druid/</loc>
+    <lastmod>2019-11-16T06:58:21-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/sound-design-diablo-iv39s-sorceress-gameplay/</loc>
+    <lastmod>2019-11-12T16:24:35-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-new-gameplay-barbarian-druid-mage-gameplay-blizzcon-2019/</loc>
+    <lastmod>2020-06-18T06:23:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/diablo4/games/download-diablo-4-barbarian-sorcerer-and-druid-gameplay/</loc>
     <lastmod>2019-11-02T17:29:59-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/new-diablo-4-druid-2020-gameplay-magic-finding-amp-questing/</loc>
+    <lastmod>2020-06-08T17:39:28-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-amp-druid-gameplay-blizzcon-2019/</loc>
+    <lastmod>2019-11-01T12:45:17-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/games/diablo-4-druid-class-review-skill-tree-abilities-amp-more/</loc>
+    <lastmod>2019-11-03T14:53:40-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
