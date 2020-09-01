@@ -5,11 +5,11 @@
       "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
       "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
       "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
+      "sourceUrl": null,
       "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
       "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
       "featuredContent": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -42,10 +42,50 @@
       ]
     },
     {
+      "path": "_news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development.md",
+      "title": "Blizzard Gives Encouraging Update on Diablo 4 Development",
+      "excerpt": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may ...",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "publishedDateTime": "2020-08-08T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
       "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
       "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak/index.json",
+      "sourceUrl": null,
       "webUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
       "originalUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
       "featuredContent": null,
@@ -82,10 +122,59 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-diablo-4-team-is-moving-forward-despite-covid-19-pandemic.md",
+      "title": "Diablo 4 team is 'moving forward' despite COVID-19 pandemic",
+      "excerpt": "Rod Fergusson's move to Blizzard was not particularly well-timed. He left The Coalition in order to head up Diablo 4 in March, just ahead of the COVID-19 outbreak that forced the entire company to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iq3CfpNAXNcvVeaMziCLMi-1200-80.jpg",
+          "width": 610,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "publishedDateTime": "2020-08-06T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
       "title": "Diablo 4 release date, trailers, news and rumors",
       "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
       "originalUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
       "featuredContent": null,
@@ -134,7 +223,7 @@
       "path": "_news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content.md",
       "title": "Blizzard Drops Major 'Diablo 4' Updates On Gameplay, Open-World And Side Content",
       "excerpt": "Blizzard released a handful of details about the \"Diablo 4\" Updates focus on gameplay, open-world and more \"Diablo 4\" is one of the most anticipated games from Blizzard Gaming studio Blizzard shared a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
       "originalUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
       "featuredContent": null,
@@ -174,7 +263,7 @@
       "path": "_news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg.md",
       "title": "Diablo 4 director explains why it's not an MMORPG",
       "excerpt": "Blizzard's latest update on Diablo 4 sees game director Luis Barriga break down some new screenshots, real-time cutscenes, open-world elements, and how the studio is handling multiplayer. On that last ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
       "originalUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
       "featuredContent": null,
