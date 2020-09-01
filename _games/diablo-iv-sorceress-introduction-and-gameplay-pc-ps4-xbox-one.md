@@ -3,7 +3,9 @@ title: "Diablo IV - Sorceress Introduction and Gameplay [PC, PS4, Xbox One]"
 excerpt: "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch."
 originalUrl: https://youtube.com/watch?v=3HzUgebRv5g
 type: video
-heat: 69
+length: PT1M48S
+publishedDateTime: 2019-11-01T21:40:10Z
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3HzUgebRv5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Htkh2ij1oUxBvYkzkTVBRhf641ubblMcDxsM5tkzUXhcEN8hQ6fdH5sUVirS7cw1HXAyYATqQ7ithWaLzEKpRqvCusZQolMlHcWrjkMfhQSswBCxtJgmcIlnxw9YUlmDhhckQ+LPsuNbbYlzRQMbL7I6R/DrIFfXOsrChCH0tcRHbIN2LK+yQsyYcWdfT+sdb7GBGT2D7Wcd3yhT4RIwRhH8Ce5vM/MTujMHkSJ+5Ljb2gLK6ObJ5cyvoBiyOmSnr5GbPTSpnOvZrXxV9ve9jl63Cr77qt09UNC+8jz82GvytO9lqAB/idAlyUaLtN+zE4eIekWGj5XAUIF0yiNFbcik3606gAA4qFKJYdCEnpcxuEVeG5FalAcD+Nkfd/B+xaKCMVExW3qiez4AOrD1FA==;iJj1bXgiEQ+5heRTBDspxA=="
+secured: "cWXbd5ksFXibRwlvviLmEPCdNGJD8/hsUHM8F7Eat7mtfqvcLz4UJxhIs6+6N70UbLSjQUzffh/f8TrZkyhucOnPV1f/ln8ahv/jKqn6SO/dItIM3uX7TiKU89RVOaAMTH6ov705dkcaAR3IR0xPZ390O06MUjzAKmIx1iAUm76+Pu3AlVV5bkIl4ASxvyidDoNYHCbBm36uASevbodkFgSQJgjIwCCt4xfPzUtrb9rTqqL33nT2uMjl2QwsJsQtx1V9hml2VilmdhHhvsw71e4l2VRutrIyEPagzHsKXAL60mPRokjbl7gKCpm51YnUfIS2owzg3MSI+9BIJn3cNIV6iJ/HxMKRFeAew1qzh+qwSzGX9U1S9ZrOCDhztfIl0KVXgbRh8qcpEBnfk3scaA==;aIvhA+rDKouPLwVlK9WsIg=="
 ---
 

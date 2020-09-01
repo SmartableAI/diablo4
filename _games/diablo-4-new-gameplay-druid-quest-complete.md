@@ -3,7 +3,9 @@ title: "DIABLO 4 NEW Gameplay DRUID QUEST COMPLETE"
 excerpt: ""
 originalUrl: https://youtube.com/watch?v=VtH1862QXaw
 type: video
-heat: 70
+length: PT20M58S
+publishedDateTime: 2020-06-08T21:31:14Z
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtH1862QXaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vaGiNgxordhD7WYRlscW8DPwCneN6ooozheXLOXXC565a8cO3AT0n4FC790LIWs5LNS2Sbyy6bltMyNK4wp5A6O8mn4+ArZJwxtXUKi870deGJzINPZiIZ/x0BbOAY5ib7oFpXP092OOv/f7FZy190zUpK2Tq01BdfqfIfNbGCwRP+Tk1wddEXfHibV6lzlweSE0y/n35A2rYiaiNBlfb2O7rrVqt7Q9O5RvZhozF5+4kLqON/RgI96RuRfvKbT1K5wYni84a3SrigburmiPUmIRMUjh96VCSotyreP4oMxDnq4UWOsArppjHjTcMGZ4biV0WTGVhxQKLjmMWZu8m+kO6orzJi/KRXCZJNnhCB/lizW/l4+K39EWivP3loaZyaGRdHcjccReBTb0NDBYKA==;lPEy4+HO+tvZRCBr2YJH0w=="
+secured: "sFKS8wbSbIheDNk0wybol+FAFVdzezfspbyfMVPPcSEsIcLLBKwyYZ/xh0tRuEj96VgZCRpCkQQAbSBNl4I8xguxlrFWti3PBZsHRb+nzT97a6ICWNGiFyMJn4asvwBNAOm4jt5T/glcNTUGY6XDPd/mc6z2ESyiDSJM7LpaE8vW9uNZe13svfLlJMu+GkBSiVxuLrWhpjQZVttC5Xiv2sNb/ZkmboZod2h8WTtB4VW5dz62qLaEMpxWNHnHsGe6d0nfryy7cvNl4/7MtV+lZeZO3VMHD1obwzH+ltKqQsLz7l4jYnUjZpcszWPLK2hoVRaJ+v7SoUcTEqNHvwyUOl55gQQXwXBdWQ31LQssul0jDP5XpV3oHrvHVIP/x6MpjlD4QgqwjEa9KEBZst+K4g==;h+jzjfkLGDq3biZPkgIFLQ=="
 ---
 

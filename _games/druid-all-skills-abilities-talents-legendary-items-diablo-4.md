@@ -3,7 +3,9 @@ title: "Druid: ALL Skills Abilities Talents + Legendary Items [Diablo 4]"
 excerpt: "In this DIABLO 4 video we will be going over everything the DRUID has to offer. The Druids SKILLS TALENTS ABILITIES as well as several LEGENDARY ITEMS ..."
 originalUrl: https://youtube.com/watch?v=eU3mWomo1k4
 type: video
-heat: 67
+length: PT7M40S
+publishedDateTime: 2019-11-04T04:04:25Z
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eU3mWomo1k4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "v6LZPh0AC0l+GpYetNAZR313Gyn71WASeBLpR7amc/Wi44yWuXxRDx41xpb09L4iLhO7BwNuGFox7wq4TSFA34ZwJOne9N9mdAufKEGO+tp+FTxejNOqX4RffybjLplxwrn/Vyx3Waqum1u9L7ZYcEaVcDaT+54P2QKdaF50b+gNrjOoRa+8pQ98T8PAtQQphjaPdmbjyzmY+qIiAsKTnvUYAiRrnfFs2qGRxCEvcT6Va9oD2a77nHXsDGkjowQLszWC1WMOg7DQV+AHKoiLE7XcZ01zRrFECpk3+q4QPgl/vz3KNyu+2P4/Zg9MnuiAVvUs3Ey1PT60Nfk8wZ3d/W+LmzFyCTQqlpIP4iibogoVcyY2F4TxlTGYeV7bM8Dqf2h0QBfJHU8rO79Y45dF4Q==;gSVEnOS+Bnh4JWGNSReGgA=="
+secured: "e2FiTjgtPBnQOOIptxMjVtdlATw4FsTkpTHmgvXSzKxEJNwbJAzhMfyaqSQsqW4sUXpqsTuJH81SywyzYU1fIY80sm16Foqld95M0xbKkaaqIHECi6OZXvd2Z/Yt0AUl0tsHtBaQG33heEuMa0UjrGq0cfio31hAq9Qji0rtlNr8HJ+yqFjXR7FyLBqwnDCrYGa1Sa2vZwuB+83evrwgSob5/n+eQqojm2sFfi5MbN+cI9tNUGsLxc4YI9thmejEg9KjrhJxlgMT/+SA5LKRqmnCLymNZ3J6bK2sHSyTLVOzMhR9qP62sDkbNMZrsJudHxou7cKpHrs5xxkyqgHsRkwFX0IQP1PvmUU4AU54zzbXjEz+d/Vo8unPrwqCaODi50mUDIG8ivAw33ophAb2Eg==;jy4oO+l1sRfBPPrSfnOD+A=="
 ---
 

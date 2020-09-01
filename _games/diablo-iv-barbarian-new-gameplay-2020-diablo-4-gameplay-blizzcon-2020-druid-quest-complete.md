@@ -3,7 +3,9 @@ title: "Diablo IV : Barbarian New Gameplay 2020 [ Diablo 4 Gameplay ] Blizzcon 2
 excerpt: "Diablo IV : Barbarian New Gameplay 2020 [ 10 minute Gameplay ] Blizzcon 2020 | Druid Quest Complete #Diablo #DiabloImmorral #DiabloImmortalIV ignore ..."
 originalUrl: https://youtube.com/watch?v=TwMHiuurJdk
 type: video
-heat: 53
+length: PT10M1S
+publishedDateTime: 2020-06-22T16:15:06Z
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TwMHiuurJdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "ddWPdCqhuLDct4fu9EZDWj/9d9FcBnl4QXTc0FQP+wWb+phGi20odgTePu4Po2py6syyBwd6h1CstA0RTOFeqSc6GbZnIyMWvjWEzB8e8zyfOaz8wN92hBhug0ILRBZYmYpBodrEEuqx9QOeVGvS2mPN33+ez5KNV68MA+gzmKLREFyfiRPOBi2Xos27+ucfHfMT+3sTdzri7UQQSkzFqWKQAZV4LOk+QIx3Y4Pz2CsgqdCfWm3WHdHqMHjLqrLHtbnGt741kzmD8+r/VS1hSmilNakWKwJMsSYCAEA7wVsHMuojC/XKTSZUwyTqV7UHY0nRTk+By+4uRXUCZL+R8Bvxjqr7xk5l4EGg6zO7fJ4vh1vh5ESE+ymL+kiR38ZSKG3t0erN4jUXGSQp1H7OzA==;OAUZTlatXPswb45txnYwNg=="
+secured: "c3au5DJ8vUuVEMGjDnONEfrnISkqAzLKQ1KJJFXlSjvxNvgl6i/cHh2wxDWrR89Ggowv0nq3vryTyalfEa6Y69ARfftn2SwlOg+C1H1J37S+iws76XwpsDhNkvJJrJ7Uuw7f3d3ydQFVEev6eCSkXfbaT0n1JWGeFG2GnYg0JXXLH9wljXFDAN6sA6Y4mmnL/V0EpG2HshDHvWNL/XQaC9AgSpd+KGORALTi8+2VE+7lYQrtV+QWI8Xn63WmD8n1QHJ35Eake5jNulf85jYmE7VUZqcBv0TxtQ8mw0/DBSs9XTtvYmvzgZ0OGwU+0QmJgPKylP9Sd0O2Y3HZjVbK4hI2Uva1NhFozFwqPJAb/WQbt5XxQbHSmMbNXUV21AR5ONgWjFZxkmnUZKn7QiHQIQ==;71+iYl26C7AMWzA3YIOUZw=="
 ---
 

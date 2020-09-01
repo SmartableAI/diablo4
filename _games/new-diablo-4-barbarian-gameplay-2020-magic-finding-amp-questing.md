@@ -3,7 +3,9 @@ title: "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING &amp; QUESTING"
 excerpt: "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ..."
 originalUrl: https://youtube.com/watch?v=PJFRQo7KDsg
 type: video
-heat: 58
+length: PT11M10S
+publishedDateTime: 2020-06-06T13:11:03Z
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "J9UlTYz1bh+0UC+0un/tOAyKiqP+mqIssRZYWSAKbwT+pQua9lJPJFk4VKVI9WnyQir2cf1GiPg9z+SLFJQLRMMPEIYmGnYYLFNyNiTjRAvdr4SqaVNViIpwEPAb8daPUrOLPZ9R2vgTOP582RvLZs+FMIrOCDlHW5jtPlP/PXe5XlZfe+nFdTgj/9qIL6/g/6qAGTvIO25Qt4Ur/2KsCotzbKwP3P6snFxVqcF3e77Edg6LLMwn5tRLSJ8SODxGg5x7lkIQT5cQz9SwCjDCdrdJz2Pg6IHlxlFu/Gtq3YYCiX6gp0pSEPz9i61hbgjiN5N63hDsARoRJpFHWNCTwJPDkWZxoNe73LN92PAQ1+Sp3jNixcBnkS+gp/zyDShKLrdcQBrc5HOABS1Vc+//Jg==;6/H4qbeoprPn+RkucRMtBw=="
+secured: "pWsfitzgKd2i3y+1YpqL+vpCFPMqagnvRxs9AxBRMPAD1ax7DvK1kLvDUNVG6MyVgApUAdkxQYgU2lguK2uEdJ/yc7LJLcqqrj/4HXx/8oV5HwrNCzwMeibn+CxbEgTpaIeWHcOAdgUlzBqO26YXj9HK+0NN9iRgG7msogscAS5ENy9i7xLCeBplqv0aGVN246Dux6xPIYqefn8YWbrkrc2iuJv3hTum04nCKl5lqjvERyAjIVC4opKp7owszo/tKC8y5l3Tcx8o0WID0JmvRYq9sXC4jLdFUu7uRF8/4CcQ752fnCJw0O17pDr3uFxMmM8Uc7CcTpmMnFD1qxIG6aEqOI75sDsQcl32dOAngJMt7t1SF4BeNYgrKTOeVccukx5b8SyZZWzKd1eJVXbh/g==;UkB81Zi3URQfmfaY8SUgsg=="
 ---
 

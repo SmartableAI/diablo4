@@ -3,7 +3,9 @@ title: "Diablo 4 NEW - Barbarian Breakdown | All Skills, Talents, Spells (demo)"
 excerpt: "Diablo 4 has been revealed so in this video we are taking a look at The Barbarian, all his spells, skills, talents and more. Sorc: https://youtu.be/ZYpmrhvpNc8 ..."
 originalUrl: https://youtube.com/watch?v=ADQl1uimpcE
 type: video
-heat: 85
+length: PT25M57S
+publishedDateTime: 2019-11-10T00:42:30Z
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ADQl1uimpcE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Mxpgr5xZVhsG035t7FkpZGEfj0pdwSkyU/9ihdvgOGrXEUnjsyPfTsY050A8wvilSFZ6kv9d1CQjJufws9yHwY7J38M6PNatx0QFiSLuRR1rAAXZ0Icy3HpmeM5FoqyMyNH2fPQTRuKS52UWvMMwH2dtp+WqwRbybSYM6oEF2uo/PgjyOz2j4MPKybb52s+HZtGg08DkoeaewFaXzEJr5g3MPJ5vPnvI1JAeXnS7IhlwhylqaMYswXc4LINKPsqdicOXFhOLfkfpFyu1f6JzoGOANJQCJfSl1GmPZeQ6Yb9GNgX3G/aSxrWTxAGwgmxsCVVy0JMEraefRA16y9S5lsJMcEorHBuIVVbISzmzpofjE7Aqo0XtmIdyGCetYVfHbCvDAp+KS443d2BeyZi4YA==;BVSveM/zH//ktmJ+tenz8w=="
+secured: "ELiAMbDzMR/VpiwUA/9+LuHDxJqYhVfAraqSXSkXyYXO3riCOKVZn5rSh1ECYtOLZ9YVe6SSiCD7Jt1nukPa/dC5cVK059akFHVfDAsuaWu/wS2RH9cs/5sIztBuvNcsU+jiMWso6fMu8lW4k/BIWmeq/oEDgZ0R7gcAL1XYG7smPiVI3KEvCv/nNKCT8DN3lthQw+Q6yAcyf9YNWRUefEvg1LcZPm/T7LNA3C9B9eGXPOmdIcZ3HjFqOi7fL+wcK1O30w4moUs6mXbaVTuFc/zSeR21qwNU5S1HU/1ctv/W9eqRMd7tdgIDEu92vwCInE94T7/4fzZPAvJKpypNU4uWGMFzYIC0DbOazgUoeQ99PAnOxP97EcrRoTilI6x57b/hceQMNXRtMjWSds0FVQ==;lCeEtcIOnyFHZP428iTOnA=="
 ---
 

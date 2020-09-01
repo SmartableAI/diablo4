@@ -3,7 +3,9 @@ title: "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!"
 excerpt: "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ..."
 originalUrl: https://youtube.com/watch?v=kvgc42bsmnc
 type: video
-heat: 65
+length: PT21M31S
+publishedDateTime: 2020-08-26T14:23:18Z
+heat: 158
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "oo3hvYcOL6yySjAlZEelWO8QWs2SgRprtxBWgeUTo7TSVnjWi/80Q0AdK64fli/we+rjdES5ISrTum2ZXuJI3/Syp0J0t3oK1tOAvzBLTv43fVBMP3vLLUSYdzudyPfPgVvuhQPV10R+4jE70agGVLx6dBNAMiXl44cwEi9jhWVapwtqUrwvM2RxIljEPk52rIkvC0779i21TxsjSzetJe/IhoLjJHvpqscpSnDhAKXhxlTIh6y/MjBsTx9XIjs6CeRgex5zWc93rrvWegnDfkHpkOGHp0s5nUZ5SGr/pY9l6ilpgHSDKjJbLEsNkNj9gy0kKIUcSESiXqgc8wnitozKEly7o9d5+KO319KVr+Cv68qm94aI/br6sq22AtnbzSmvaTdnNxQswg9VnyhRZw==;hKlvZDrKr2UgLiEKrUmCkA=="
+secured: "vmtJJ9G5LT8YzHARr8jM5BvzqDqSqIUeuAcAJnDr8EeH5AVjDGjUgF9snyxCtcETKY9jw+oSKnO9deB+nXq9f6sJs4YLSi5TQhuDBSK34rR0Wn41VnByu9ouqm5ZvO26zX7OErnqiTqvK0DqNEnYwTLZjtZW+CUMt4+mty5pz+MHEIOjIMc4yPk/4pSO/huk9Jg2Uiu+ZyMH7Iok3vjJrVjaEN+GRDc2or57nwv461lhXt76MetisQF2UBBwDv0FrqUynhj4V1f53W+qnYkAUZn+M7xxZ2CbwU5hTiO2f+5KMOBTfKAJaeKcjr7kJeam2QbnH9J6QTuzgLl12yPt4CUbXkmE6BhIkegFTrzRXz/EE/CNjsZYLEF+BEGAZ6z0p5yXa3PwP5rM+R7O3AE20A==;bQSclG6pqHHrgEHifddp5w=="
 ---
 

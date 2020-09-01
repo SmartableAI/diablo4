@@ -3,7 +3,9 @@ title: "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!"
 excerpt: "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ..."
 originalUrl: https://youtube.com/watch?v=btdQOgV_FNA
 type: video
-heat: 173
+length: PT21M53S
+publishedDateTime: 2020-08-03T04:56:36Z
+heat: 175
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+L7Sse3E4/80BY0Nwott9Pyaua8LKdJuKM30/f4TLdmG1RU8ZCy19SGV4J18jYHjbJjICABRBOGlB3yWFGv5xkOMxFTzRpQ1qNbznYMqrbBrxzdhPPDDemabPgICrtg4FjeV46Fo4+Hr8W+RaKnxOy9+8aMj8W+CcUcvqBG2pXWLDRGtut+ev5nDB/rFG7Q5tNeHtzN7et1/sNwi+SdGrjTMMau4UnegTzvqdR+hHiHyJSCWLKt5GA2v62rX2eJ0VIaPwe4vZEqJvTTNi/fHnmU2etbuKugYVc9yLYNyp9nmbUChJL3Rq0SojFEOo1WrIq0nFQD3GUFOlbSs/5qSpHIUWYrFqLYqBcgZ6jPB6bwOu6Jbbf8hPDE8l9UpEurR8BaL0Nb8pH18xtKZrNF6HA==;694dQuY7Z4rGmIp4lt5h+w=="
+secured: "g6pzKw0Rq4WcBlLRJWnozf3OpRIxPCxstGcFGnMyzjkXDE2IyPCNjdk+6BLUOSHA1cvd1hz1jGWvBWvGjfgiDGge447B0isJ0w8z6whJHMP+NDpo5CWJOSoEXcDByTOtZRNTKK5PEXRL92jFLYv1u0Bk85QWb7vBddi5vbuuue4NPnH2wGY8045a0a+F9pn9E3R7BBeLXnpmTsf8mgMS8DazCVKavECtufsyP4eVw2PuyKxlaUcMXCkBQjN6Hh5k9F1u1liBzpqY3Mz+1fi2ZLgtik3KWWzoUF6UOh5s4XvgAgdsym0Rs4l0m6mSlcECn25yVl+n8wWpynQzuYdUd7dwnqelz6mI8Ht/xWrUa4HCIXmu6n8PqQa8NmF1PJnheEc4k8Q5kve4gSyJ3+a3pg==;7WQpWj8mw0wOd+cM/RakHg=="
 ---
 

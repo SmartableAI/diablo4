@@ -3,7 +3,9 @@ title: "DIABLO 4 | DRUID CLASS REVIEW - SKILL TREE, ABILITIES &amp; MORE!"
 excerpt: "In today's video Profane covers all the currently known details on the Druid. The Druid is one of three currently known classes available in Diablo 4. Thanks ..."
 originalUrl: https://youtube.com/watch?v=S6z-oH15NFE
 type: video
-heat: 55
+length: PT7M33S
+publishedDateTime: 2019-11-03T22:53:40Z
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S6z-oH15NFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "cWI8USIrImtRXImPJxqIGm+JEflVZoM/l9Uoup4ozWB3WiyhI3CnOXCqo1uEZc0AllIkBKtZ1pajPwxoRqI3byvyuceEPkYTIL0OO7MmgmoYUpNb48t6hMq28nl/Lkwj8nSxNqTyYJUwBeShbTs1Ey36DYuoPbGmk2fWQ+BSwgSW45NdyuiTrMjXh/qnI4mMDFrg+eLoWW20c4+HcG3bZrB/jAWxGS9saB6fHD6NnREmjZRISOFjHulMxo6TnAM1tX/arEfx2IAOzCIA9z1vzJLzH7oSKdUJIapEvUHskmRzjZ1W1jlne1Qq4uiEWCQoOhmXXBnJldplxlXcuOF37US/nwePBIg6BCfSNUMUqnykiIOHTmq0U+0AObTrEPUi6KR1LMz5suHxIpnRRcZG4g==;1/40IBYdWGWB7cVeHW72rQ=="
+secured: "OUj4G3vSf4l8LHMI6mmXGtlL+G8gvGMqIzzjgx3uUkPgLaLcEWiRmIEBAzLdBJbIbL+qCNPkPGRw/9AZT3isjCnIkT22hMQjQIzE/3jpAPYuw+0jNagj9MISOg99zOFYXu5PgtBkQVbunwQZEk3Fk/8pb/uBucW69+6NdqpCxaa4K2lvO8Gl+CAXS8BECn0Oh5quA4Q03G9a3QmQypyIQS5adLqYCKSrywnhGce4EJIB4qFuvXRD061aQ7gBu1WGu9XhHS2/bPQA02Hl4uT2lZTUWJHt9JKrDA8sNhPICA+LTtMlDMKJaL4bhDotIbVLhEWfl9d1WqA123CqEZIKRI00DSupeB76KzDgsSfW6ZgoSuqL7zVseBFfd2KKIbzouiLaKnki5jFey9HCEHjEaQ==;EbmlxGX4PiCIwUn73hI5bA=="
 ---
 

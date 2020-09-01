@@ -3,7 +3,9 @@ title: "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1."
 excerpt: "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ..."
 originalUrl: https://youtube.com/watch?v=ZpC6aXZ110U
 type: video
-heat: 53
+length: PT34M51S
+publishedDateTime: 2020-06-02T04:17:18Z
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LEGRCGTjLkI/oxhPCETo80YUIs7ZZMzWgWtWm9UGHcs7bpdox2Y5qeABwl6P9qRM6/Q5yIzW0imPUoV7DCVZANffuXKlZ6NEDYWxVnUmNuBYiXtKMIp0q7hT8jskT3JQcyF1iiIawOTaQIZV3TLC5ALK/5ROvIF5HO/75hIfVmZNd0s/6K865epJ0UiWOOUFDzR3523Zmho0JVsndO+fksF0Z0fDzP7zYjUC9br0pgMMgPitmVfvA+hwHXSjA+OETf1WwDev5CBzML9aqFES1od/uMkFEWHMioWDOMfRc2CIbJwSKxQq8ttN358bk6Wdrh2QHkhB43E1TFe2sQ6SBlNtp2Z5f0nGQgLlUlGURF1dqbRorXGhjUQ8fU/1iU5dL0h2yatUQ2Uc2FWUGAa9uw==;QFg7a73tnKC4SnEOGdZC/Q=="
+secured: "HXAIUxZdXcC7Mpm4iOX/9+HPuSfovJUemDWM0BLC+oGgn/6PXkOxBF9+mqJ4QF7HOv/vkR4oQf9iX8fu5B1AcYqM29lNKCxdMozvgzfektoD5u8dG0eGvT9vKC07OBIDbM0nBLL6Qi70pZiV48QyRkz8+kz6ZMmU6OTZQgHKsHxx0TjvjG/iLi2JkUxWH3lEdZ37DWXawH11PSGz/bunIQXbgcdL7nlKbICfLWm6hSEGdjwOftCyJeqyzyYdYYt+hx6wGpLLKEEN8oFsNrcBZGZjvYFwtjU6Ff8PjDpSIfwsCTIDzCUyOdMu7M1sm//vdKdDw+KFcCxbMqf3LbQffFvKOs9grkgZYR0JrJ+PdVaY95GMz8QIInr96gywYWZmsM34wAbdN71C90GgG21zFA==;GVKKg4R2vV2rwZ95rBGRfQ=="
 ---
 

@@ -3,7 +3,9 @@ title: "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay"
 excerpt: "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ..."
 originalUrl: https://youtube.com/watch?v=xgeRjVpx3xw
 type: video
-heat: 94
+length: PT20M11S
+publishedDateTime: 2020-06-02T12:00:34Z
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xgeRjVpx3xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "r9/cGn15bmF4v/jhEI2sh64IFpyMBEAdqk9n+SjTXyb6VYcF3hahjpNJqSxwcrBA0tkY+IR+VfTsoJ0VnefiKr4tO4ikLFKCCN4LDbMH7i6eO4tloxWD2Vme6GMDkQMnIg5gEnifDwJiaLP//y7Wq+oJiqEgELv1fAW6cJuvBnqOC1l9MCaVXYfaFjfW+dDos3MHVUn70NCcAYpdkCYwdhtwIHR3RfAXbFpqU03vq4d0sf3hpR18wDmr3kvZflMV706Ttb8HwvE96saMiirV9f6astFgyuKAUoJSQYFLdyTxZVDlvrS2ZKOd41RRfarw6eDEE1KQUJQaSNNF6phfxSFuF+VBTlIkYkAJtmi90UOftThcULqXk/U3QVuZP4Jg/cDFwlvANnBUQtOyilJnWQ==;tnXN11mqd/ah729d/eAScw=="
+secured: "d+PdPxAUsarmg1yine7U03InfWxBaBv+/ATfHIEyDBhG38LOqgfXoAaX8TV52E19vzhFYNr7t6ORICTN24sW3IgIAYmQrC15rinGe7gd38gh4xGm/iAeQrm7JV+wJnqd6P6E8hFOheDyAwFtIdSUrryls6kEMKxKZRcrbWm4B7r5xiDa2ePOykXpVRxNww4gFIoqeFv4FyXJLOrpVs/etyMIGFCHEMbldXfdeB4GBltIVA/XC2gwBwT/s2PBejpV7+jHOKYPHY33IAc7YXgBesmOVc8E6O/tW9q6vpykvazx6RtvHji2zKiukmKvkLsD058BrO7w0wF1RuMj0HN8G4qeYpiNyb1mvyYwwHSE+SgUUy4qNbM4UplD2cCtwfoK569Zz667Gk9d6dI4e29Mhg==;a0GpXatlVZ7L+hAxYAdN+w=="
 ---
 

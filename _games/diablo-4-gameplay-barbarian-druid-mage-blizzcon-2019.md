@@ -3,7 +3,9 @@ title: "Diablo 4 Gameplay 🔥 Barbarian Druid Mage Blizzcon 2019"
 excerpt: "Yes we love it dark! XD Schau dir die ersten Diablo 4 Gameplay videos an vom Barbar, Druiden und Mage. Abboniere den Channel für Weitere wöchentliche ..."
 originalUrl: https://youtube.com/watch?v=t0NeOII6ScY
 type: video
-heat: 54
+length: PT7M29S
+publishedDateTime: 2019-11-01T21:45:13Z
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t0NeOII6ScY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2k4+SXIBzBkq48rz/K6RhuyLdZ6pZjR4NHVs/juwA4wBRAfrq04elKV0FqMozxQU3ZOPXvLvqQt1an9rrzxG6bIU8eBFHKgkGUZeXinxGDzhYK5ki0jm7PXlMqAA3XeX8r5vA0x+r6l7fiByPBrj7x9MRyduWTs34wU7hWmeSFwn8sIF1nficy5Nf0edhp1aKYmk3/DHyBg72A3eT2x1VNS6eaj/ENZXJHuu3NirzL0SGGu+vrRGFHC69ihbn9KDrS4cPI+ieWaxcgG6mzpxopJSeHdWp1ScnhPlWZqzdwnsb/wntCdInu10+O5EtPFiSiKMHuENVsGph85sgUxkF0cYnQP3WWzFH9BeNKuCYcW+AmbmV8PeXAs4EP4+UxIwuhpss5S9kKmGlNaaesC/Sw==;BFXrlFgh16tGWEXbhnvodg=="
+secured: "0nWA8vOWwd6Q8MnTyW1NfpJEJs9yjynHd/QfflslNVSKqHV/IG9/Cdg1Lz0y6iAOvBkaRH62KODcuoKx9D7Vy/VdarcBayus/QV5WZ2ro9PBa9qdLHepj8gcDspmmqnxXgwo5Nir40eVb2rr4cvUcW/QSMYXq3ut2gJnp+RtKsrktAY21aS8IWz/sdKVPx90RlNTdUC5l5+8EzoqlK5ajlQudw99d9C7MazKW4VOvnTQ9C3RTem+8Lk39nEDgnsps6+cXpz0zGQzUz0pZ8KBLyFunqFx7pWlAP3FWRdKKSETGkocXRzCgh4a3QHV3v32Ahwz1FiQIIESycE02Ng6of6QxGYhrRtuiUHoBG1VkZlHfuVIIZWzkiIRSLsFysth8LICfNrbJFxBkne2t9I1ag==;ixbi9N6NelsIuYxLnc3k+w=="
 ---
 

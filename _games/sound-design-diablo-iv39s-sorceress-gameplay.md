@@ -3,7 +3,9 @@ title: "Sound Design: Diablo IV&#39;s Sorceress Gameplay"
 excerpt: "Original video by Game Informer: https://youtu.be/qPTOEGU04X4."
 originalUrl: https://youtube.com/watch?v=QZ-zZmQP_1Q
 type: video
-heat: 52
+length: PT52S
+publishedDateTime: 2019-11-13T00:24:35Z
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QZ-zZmQP_1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JkF4GUJoB3cNgBKqZW2tyab2UaigtsFVKP0lsxY3IDoKGq+Q3hxuurfr2mqPKSs5Y1Loc+FTi6bafNLRbbKx+3Tpa8jrNgkBD3JBkW/AGxi+HrFqtEb1TbuyLmZEeko9goBMspx12zl5R8OIR4dtKSsc5L+aRPkQuIuuDmQzbuxwP2O3I7Ol3MiOR241K4H/M4FhhUWK3b9Kbunqr39usPfBsJbDY/dO3Acrz4Gr343zwBvjvhHPaiRskWTRKEIw30u6Cb50HtTCiJdwk4s3l+4rGI6adY10EqFwNkBqIuBou3RqjNrbLm3QZ2UZgUH9VeUX19cmwmhwCnxJQRThJ+Kps1x5jldksv54fxkqYvqVO/mdKvCYTJDgx4Ybs98cEHAn6/hAWySsO6xVDrOe/A==;5g9T2jYWYxt986aG8nRLlA=="
+secured: "nME9h0tTCzolJSXO/YsQT2165dewVPxNHbFRQprW+To0sHy3pl9eSw/dl+27BHF2LXWafw4OIL6Wuv5uPbMrig8ljXdw3ge70nipaZkHUuhxV0dQZEeUdCxZXSdL/fUgdkVWIM15xu1SJ594Y5YKsBjpcQ/wTdrhkWgSODfVqlge9fBteaGWPO3qJAY+0fqbjM7KzW1PfbXe7UDZUtZrHom8HnYxEHGlhjjMQqAOtwI0cPOn1HpaVrb/I5mj9i3aqBmD2UnFIn5IhEh1yZvrQGwub68APFlX5Q4fLkYwom8j8h6+0vLt2HzNXMScrHiJ2hgM8ZgDmhMkYYHGuBsSfZuqVBD7BfhDVcToG+u5OlGsrHYRcMdAvOzC4jAkIvuthlvROuyjO/CWCOXSD2piZg==;CWOAWs7sndlcVIKOCHtmBQ=="
 ---
 

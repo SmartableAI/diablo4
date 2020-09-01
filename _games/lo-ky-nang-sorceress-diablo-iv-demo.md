@@ -3,7 +3,9 @@ title: "Lộ kỹ năng Sorceress | Diablo IV [Demo]"
 excerpt: "Lộ kỹ năng Sorceress | Diablo IV [Demo] Chủ đề ngày hôm nay chúng ta sẽ nói về những kỹ năng của class Sorceress. ----------------------------------------- Chào ..."
 originalUrl: https://youtube.com/watch?v=pyqpdDIEXP8
 type: video
-heat: 52
+length: PT5M47S
+publishedDateTime: 2019-12-31T02:00:07Z
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pyqpdDIEXP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7GSvc30M1zmVend8/5NTbYDH664tjTB7jKhbeowtB5C+ITJh58kh96rcf5FdudA5INPTkfLreodpGTzmE9YbBCSQUi6UjWLtKU4QHjqqcsCToMMDI7FL0aSSZK9x/rlHJPOXSpoz5ffQV9kmkZqm3xksA1fE6kUFOGFlO+xBfQCyaEk+lwqZiNgiYwu8BSPKGIJB1/D0aUqEwTMIc4Y9k1cHCpEpdCmX3YnK18oRjQHWgA+t/PNGTjqYLQf2Nqq88j2Bpn4mJ7fmFRJMmdiZQ7l9tnvizgAXHDKV74YnNDccntdXuMnZDCIi0f8HBbHJ+jctB5pV0QkH3JFN5+94Z5sJjHEaugkWPJg5jyiVdVGQsJMULLkAWFETeTgdUhFGuT6kwB2wiL9ws3Fk69ZjnQ==;BktrObfAkIgmAckb4i/udA=="
+secured: "cL4IRFny08RxhbknPYLdvxai1lqZTNEr5Ozccwbd/crtiaTxST4RTWCFmQqZNkdvinM890eScwG4svWax9U8R1SL/FlLeXAPqBHLgvcssIrf3UZbC/uCXrBMgspx/+qcoyommDSo/aLj8Xv0kgZUIpqzP8MmhNEPYUVA+HPCw/RSp3ebwTHpC3p7I5wGZjTQzvOa0xMNuHhle31aJ2RQJWLjJwcRFLXppyt9pOEMWt9XF4kdmqFE3y2UzIJISXly1+DXVA8zD1+ZFExl3lIyhXngn2Nqx8jNzuXYcyOL63NYwOs0wab5DZRaN+dU/91oEeNgsz4nHiUbx9bZrUOLQ/JMAF33CtRuQSgC9uVaLLTNrkg6vdPQLTI+GnzWlxIxPF3Tt1nhEIzyX8oEMaiAtw==;HlGc0tonLJP/GbYVFDxSmg=="
 ---
 

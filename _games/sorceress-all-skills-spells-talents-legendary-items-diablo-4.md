@@ -3,7 +3,9 @@ title: "Sorceress: ALL Skills Spells Talents + Legendary Items [Diablo 4]"
 excerpt: "In this DIABLO 4 video we will be going over the SORCERESS and her SKILLS, TALENTS and much more including a LEGENDARY STAFF (The Staff of ..."
 originalUrl: https://youtube.com/watch?v=6uLOCcq5QTY
 type: video
-heat: 66
+length: PT8M11S
+publishedDateTime: 2019-11-03T12:40:56Z
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6uLOCcq5QTY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ura7DXwTKsh7Rk7o74vRSKXUCIZVf+k/sNbhynCB4ce7ZpaPmrqNlnSqLGjsVuS3HZEJSx8/qsKJw06LqCx9KDbg9MbnY22AefLsMI88gNYH7gBwoiHIRoBw8jHKirPXfSNylpuY+aKkzWVJiR5ZeKWXWvL6DzfGlhgrjQZoJAk3IykSR3Nv2vNhOGQdUF16oIP1o7WbJE755kysXip0LDIqqV0ZJznm6uPRpo4vutKF1fk+VqkD0u4BnfNlo6IBPrsewPBz17nvtj9DOFeMJ+Tb3JvM+T9uLfmeP04jKCJZrfc+sx0MKWK34VQqIAOxg74ajBDaNR+WuMc/hcha3vMf9WdiWPPSLNOOVQ1h7rUk3MPbLtA0MZq2NklCOkuqeoZ3Pb5Q70mbr/DcV/HSKg==;S/zrqzbPx6sm+/ZfdNKMjA=="
+secured: "7eyOKWUATP6Q2kGmyc+V0nrgQGBln5yZ9MXXIOfXHBCRvpPn0i00aiKEpUUvjJtnHZfZ1LIUh4zyM3OFjV8VZuMo1AnQgJvIcCVCwSbGV642Qk0XyzZd/30QIhwkQnHDC2/+dnLFovDBYgrFbQxnUlznhPD8uVhjXyErAC464cFPAqeALXgSOuXHKa/TH6E7LcKmOs+HDEqrpU7fSZPfp/jHTU835NT4isUtDHJQN9hC+42BbNWwxJhXdf+3A963qe1Fpl890vhZUYhungtHZCiH0St5IeshFnV7O3ZEj58FAV7F2lxOYynh0Ry+O71ubjHsIFfoDXC6BHoFvXn3woKhnlLguBeI4sBLAsmigXlCX9LykVWqu329WedMlwDs042xajI6gYVvyuLtEwa0Vw==;u+tbZwjalwDjLNZ6VkYoGQ=="
 ---
 

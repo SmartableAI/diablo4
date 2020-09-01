@@ -3,7 +3,9 @@ title: "Diablo 4 NEW - Sorceress Breakdown | All Skills, Talents, Spells (demo)"
 excerpt: "Diablo 4 has been revealed so in this video we are taking a look at The Sorceress, all her spells, skills, talents and more. Sorc: https://youtu.be/ZYpmrhvpNc8 ..."
 originalUrl: https://youtube.com/watch?v=ZYpmrhvpNc8
 type: video
-heat: 137
+length: PT18M35S
+publishedDateTime: 2019-11-02T16:14:23Z
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZYpmrhvpNc8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NqkwwzhwRFTIidXslms3OrSDzsdBHUIyzwRVpBeJGKdAb1vxxR3bRS35y4hKu3Mz5Ftk5sKDb9O/Cn8eXIBvZj8I+kFW1beIiwiDRESv9K9g65LQng/xrdJBXInohgw5KAWeNB97+3LSMnpa1fpOAYIqoi2e8DXnazbe+uRYu/OyGIIg2Us61ul39gpnrsF7tK0Gfsf7NVK8y/NkYNl0NPBvh0kGTR8rAP/2ixSDioUVV6qortZLcLIG5HWeldRC+sifIf7Fzd5gLZI+7dneHR5pRjPWJb+lQcsKEuMEFtrm/8G/zrSiX9rk4lAR8sinpIeas2e/rJxRiPlOAlm4wY9nsVc5IVHIaU7tbtEWXbNdeF0OiHv4fHUpsEORcmQJhjvzZcnvARS+oONRTAuL+A==;MM3HR7PzKxMXqXwB+3ecbw=="
+secured: "AFj2qm4VkWdldcDDP8M/X4j2235UDWcvt8iRwcU9giFNDRdQ2mtjrWcJMj/JacLv56YFiRV3KhxdP+p4UByRv+lQzu/Bm4y9el9N4aFGebYmB/pDnFzi4+j4jD6S/BYVQV1K6CRpQAbiz2oenKmORR5lxexhw/y91/npCNL8ENCb7LdYG04XlkfESwceIYva/wezPB2Zis7DJK0lanNNpkXIWoGOOeL6oCDv6qdyO9ZC9qRIzD+U7jESbaNbnLMa4TISCIj6nwMfEWQHWdaw61KsGXLqLa09bmWbqdKvMkaGvUxnMJl4+yIJ9yWdiFbliFMDK+Ajm/PMgGLUBdMu6MxWX/Lzr4LdRwRPxPVwJLoIKAuQT4uUj6qeX03lpBjbhUmV6FDYdqqgEzxnQo4fbA==;6vBDa2gyWDeuLGObrwUpVg=="
 ---
 

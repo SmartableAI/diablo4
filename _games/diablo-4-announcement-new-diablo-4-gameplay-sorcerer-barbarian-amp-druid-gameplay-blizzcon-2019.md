@@ -3,7 +3,9 @@ title: "Diablo 4 ANNOUNCEMENT! New Diablo 4 Gameplay! Sorcerer, Barbarian, &amp;
 excerpt: "Diablo 4 was just announced at Blizzcon 2019, alongside a very good cinematic and some gameplay of the first 3 classes they're showing off. The gameplay ..."
 originalUrl: https://youtube.com/watch?v=kIHwz6Gbkr4
 type: video
-heat: 58
+length: PT3M54S
+publishedDateTime: 2019-11-01T19:45:17Z
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kIHwz6Gbkr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "23YYF8Z5nmY+tbB7P3HLfCoxLwo9LEP4UeHeilmxo62QrEDtxYnaYhKD+XEP0WtMzYRsn+i+LBIHAe+gkNJGEuXslQysVzELGItMgYQgDvSsJz9tmmmqNhNKho8LZjkFI8bn30K79rURmQ6OPSPMHyTkf+6k97egiV46mwYyd/OfDBQMWeqq2sJbBMFdK4w2EkYTXw23M/OF9OQJEHYwHpbVrCt54ipMN0RA8kNDm5WmU4gd4Pqfouu1Of5uXvHetBhl2w2oxjrnwNlO2apObOUi/pR7xPMFsHClZZUYLzncm/RJiAEfdZ2CQTSynAqutFbP18A6OOwwH9OaYzwrX1leWXksH174FqFH5P4BmtAUWO4+dIcdehIDJ+XQEILCFRBUn5rVxtY3mIV6WkWIjA==;lsiv+T7y1/jpinVyvqp5sg=="
+secured: "ub3LEZ3NSqrMrMpF69i3ZoK617G0SDQaq6+3gvoPcJ+RcmeCuN4U89B/8w2MXFp1Fr4ep8Ipm/uv9s0lb/PRWlNAe7lKDGsO/+Y4DDLF+cF0To7KROO8VZrb4vKpMv7sMFbz/9rc6sCZ0WDRRre4LtL6gEREX8a5r1ZOP2Nqd2JhdcFhPt1Iu77/nkTPg65MEoYtsywtKvEd3oeA1drC8/qh++tyOD1CnjjMWSaiRQ8C0x813BTovhfbEyhGV8RWbIYIvjVj56i4imsMbwsW9yakQ+pUwTU4yxJmsqhJTraiNHkJNgdZKwUwoxnzLc6xNz8z8CDpP8qBl+k1RcrAawOvnjyKSzu9cm4uZBxq7WEGDGbnvt6Gr8OhdJNqOfJ4PVYNNLkvFmgb5a4AiXhz5w==;1TeC0hJdgnp6VryVcl237w=="
 ---
 

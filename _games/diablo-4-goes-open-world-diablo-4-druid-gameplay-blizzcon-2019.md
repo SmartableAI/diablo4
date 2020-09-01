@@ -3,7 +3,9 @@ title: "DIABLO 4 GOES OPEN WORLD!? | Diablo 4 Druid Gameplay Blizzcon 2019"
 excerpt: "Blizzcon 2019 finally gave Diablo fans some good news with Diablo 4 not only being announced, but playable at the show floor! We'll react / analyze the Diablo ..."
 originalUrl: https://youtube.com/watch?v=UIiIi5w5Jfw
 type: video
-heat: 191
+length: PT16M54S
+publishedDateTime: 2019-11-02T16:00:04Z
+heat: 84
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIiIi5w5Jfw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "V7qquAbdY9QwN1jAqc7GVwe76bG1bO14xvuxUc/qoxjSKiNAxbvg+cpoLFrA+vSs/Iqig6dNTGq7I+7JKtQM6xj3wNKrEIKeEjSNwDa21z76GQySvKJFIDdnwnqtKyqKT8uuhOW5yZRPsrcskgeYMyDpx9cmmDVAK1yvTL/SwIwZyIAIPW/uy6K0aaurNo/6je5IY0/xSjbKHxxteH0fyTgTtoOCp0ScgG4Q82fhNJA44pR+f3zDl4hIoqbWnkTe8qqO2E7cRtryoWFhIsP9shx+533ocMHxxylrphxNbCamcIdt4lAluavg3/bNV9Hx3aR+eFJVvrdWWVUR09Rqv2kgVUif/wYUj8TwL1cXdkoO1T6VfT3Up6dFJFpL1kqRcIwhdsynW66ePP7mQLWHfQ==;GeJxH0j//OoAoIyGadjPsQ=="
+secured: "jvqJ3l8qCJzT25OnVv3l/vK9MKCxbdQ9Ca7rsyNNScHVzokJplkcOf+90PRYpaFDAjAFj+dayC+sFzVHo1QrBVxrYAayXYP/eWUkwbrZmj61ZoMrxZXu0gdEPcI2YoW6oE3VLuRmMNzAfTJvjIEvxNQyrpbv3gYt1wRVhC+81yGeYG+eZKJ4dgTIEVY0TfzLbXM6CgxMJU6lQUjXnvdwIzCivzphDZ+jctAKTaHtWMPZ+UjXQ2JhLj+QKYcR4egOJuCW68lsmTnB1BMNjVdpJWJJhjkAVlvx1gmC7uQYV7ZII0XbvI5wKk/T99tYhwJtCXPJsMiR2aX3ejChQsuxF+lOfmBOlYsWYYl9X9CZhyMaMf7lmmvLikU2PKEQhnNcL+CDIz/reXa9/f4adjNB8A==;R9BTmioSRe5ezA3owf4vDg=="
 ---
 

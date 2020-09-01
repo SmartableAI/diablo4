@@ -3,7 +3,9 @@ title: "Diablo IV - Barbarian Gameplay [PC, PS4, Xbox One]"
 excerpt: "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch."
 originalUrl: https://youtube.com/watch?v=lX-utkZOSw8
 type: video
-heat: 63
+length: PT29S
+publishedDateTime: 2019-11-01T21:21:50Z
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lX-utkZOSw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SdT63coo9s95J1Xxougt8EPUzDjWGkyrQ2lM01M/DiPPWJL4Goox5N7y3BVesOygk/zZDe4pmrqZTtccMlW5vBqNmiKDsX6rb5pRuuOK/E9nEoIH3RUlkG89yf3PQxoo9W2xA5NCt3ycAqhiCVnlP97eDH3g9N8HPi6DJx2AZNgYbh5IJYHOYcmLwvQzGzLYECHDqpC4wyKq69s9z2kAADRaztfiFmZcXNr9hcZMejOQnq4KFPpqDRMjyhXNKqKIy+a8feYb6mMEJjNgVFZFx0Z+S51D2Bar6Nq8POwEVEUVmVTC8ey2qyXikiKj8w/ZdMn8VvZRs205DwvGBaoVkeXWFSLKBJfxed7ibhs8EHau38NGzkJSdzg4brpddlOnth8i6mcEusRZ39PXnRF82w==;kE+7HOYQRruE4Y6vykbBfQ=="
+secured: "YlZiZ83YnXTPj5abj7Tq2CH01kzX7So3wqiTSgenICpO2P8NJdKpeRVkR0QHezKkf7lGVMGi33z0sAnTX+GoLazJ+0BLvhFfDwQUGugvThu1r1sRHafqEmiQe2jWIB1+6SZ2Yzx8u1Xy77vrTk9RbreO2U067JWLu137tYs+CsD2tdBZHNcLMFolJiEQV/JInd7EFTNnK9qPlESZk3/IUxikJ0wZt09Jsdf55HL2XeyADShfF/ySBxPZt6hIZNcAjMGiqGNSE2YQjW/MmeUzkVyk7MNjI/dZF/R1FbrOL7+jj7pOW0N+BSsECQ8gWinQKJZetd2DPvCNdUhv28vG9yZLfq499JhjPXY6Fab17jwLKDlBlz+jGl8NCOazE0aIaW3Js5DwAr5TmtVGxYg8mA==;HYRLD5nMM485jYnOOl9+1g=="
 ---
 

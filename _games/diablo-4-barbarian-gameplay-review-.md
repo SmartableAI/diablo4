@@ -3,7 +3,9 @@ title: "DIABLO 4: Barbarian Gameplay Review | Обзор игры за Варв�
 excerpt: "Подписывайтесь на YouTube канал и нашу группу в VK http://www.youtube.com/channel/UCcrLTVQrSsazR8FlI5V5DJQ?sub_confirmation=1 Наша группа в ..."
 originalUrl: https://youtube.com/watch?v=HSZdzPC55UQ
 type: video
-heat: 73
+length: PT20M50S
+publishedDateTime: 2019-11-05T18:10:13Z
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HSZdzPC55UQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mWeWm+Yt6VB/YT+iraKcx3xSdwhpJF55CN+CdpdPKkg6Ry0TU2FpHp2rE9gpMsUta+Nw1TH9KvQEfmqdVdCVzIUcpPecRDZ6+ZH984C6Vx7tM6TzjXUWUxoeCnaoz4UB1mVhkw290I3FaWSNKPz6eUzvX1krD1Uif6KKS9Kxmnur3npxT5YrIROcQbxex/d0kjLWKrode1NpXGib2R3TeWUWmySiYhbNKxf7rpL4+5hVLxMWciupgxkosaxxlAHnVaKfTg9v/QYxRDbJgWB5R9CYC6ixZWlW66DPgLOWp6fWLa872bRUK053E2Qm1bHCE84sNxdDjt8cA9b2sZ4egJpSebPXNW6sus1j1J0COw8RQ2WrD9t1B/596kKBuI5MiUA7eVkLqTnyqQSOBJq4aA==;/CnxFfhzYFbDGMVzlnIGcw=="
+secured: "4lOfeoXAZaTVBYsTFybYQ7bTFedlikd+C3qZL4ylWWeX5SeSW5y+oIvfl167iXV5t0x3NjBOMp3fakkhd/3udiCwPQ8X1xrzkf/j9Oya4j8qTv0FmUkZSPLbMYIeM6CmYMXzOItOfiKkhApIHmLfor7aktzFf36FBu64jbP4UeTvfbAiDzTWfczTmqRSIEpP6udxrGT/Ek3b9vSFwhodPD4OFpiD0AVGldUxtIzL7ZihQ9tAP8f2gk8MdCNhNuLzxluwXbjONtLwpjj271vpNEPlq+A+eGYmopioXz+hAwiSNNM+CPrPXPmhG/xHi9gVoWtdNTjwiC+dcFlnfv4xWpP0J4P95D9tJlu1pj2ecP0RD43mk73DjBBkMKjcdLlWDQhh3L8vfaGlTpMqYrqs3g==;rvUrGF7CZJvH9hi3jU7NcA=="
 ---
 
