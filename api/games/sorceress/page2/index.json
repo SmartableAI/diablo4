@@ -1,0 +1,34 @@
+{
+  "title": "Games",
+  "path": "_games",
+  "page": 2,
+  "value": [
+    {
+      "path": "_games/diablo-2-to-hell-9-baal-one-sorceress-gameplay-rpg-.md",
+      "title": "Diablo 2: To Hell! [9]: Baal One [ Sorceress | Gameplay | RPG ]",
+      "excerpt": "Everyone was telling me to go to hell, so we've gone there a grand total of seven times (once with each class) - so you can guess where we end up with this ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-2-to-hell-9-baal-one-sorceress-gameplay-rpg-/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/games/diablo-2-to-hell-9-baal-one-sorceress-gameplay-rpg-/",
+      "originalUrl": "https://youtube.com/watch?v=hggguWqq7XE",
+      "provider": {
+        "name": "Alzorath Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hggguWqq7XE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video"
+    }
+  ],
+  "nextPage": 3
+}

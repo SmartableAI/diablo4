@@ -1,0 +1,34 @@
+{
+  "title": "Games",
+  "path": "_games",
+  "page": 2,
+  "value": [
+    {
+      "path": "_games/diablo-3-season-4-barbarian-gameplay.md",
+      "title": "Diablo 3 season 4 Barbarian gameplay",
+      "excerpt": "Please watch: \"Graveyard Keeper - Early Access Alpha PC First Hour of PC gameplay\" https://www.youtube.com/watch?v=1dbVGLt2bdQ --~-- Diablo 3 season 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-3-season-4-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/games/diablo-3-season-4-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=GMjcP6WwDHI",
+      "provider": {
+        "name": "Zorlac",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GMjcP6WwDHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video"
+    }
+  ],
+  "nextPage": 3
+}
