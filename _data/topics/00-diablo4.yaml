@@ -8,7 +8,6 @@ hashtags:
 services:
   news: https://smartableai.github.io/diablo4/api/news/
   games: https://smartableai.github.io/diablo4/api/games/
-  learning: https://smartableai.github.io/diablo4/api/learning/
+  communities: https://smartableai.github.io/diablo4/api/communities/
   people: https://smartableai.github.io/diablo4/api/people/
-  events: https://smartableai.github.io/diablo4/api/events/
   newsletters: https://smartableai.github.io/diablo4/api/newsletters/

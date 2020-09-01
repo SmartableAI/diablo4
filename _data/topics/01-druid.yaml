@@ -9,4 +9,3 @@ hashtags:
   - "#Druid"
 services:
   games: https://smartableai.github.io/diablo4/api/games/druid/
-  learning: https://smartableai.github.io/diablo4/api/learning/druid/
