@@ -6,5 +6,7 @@ keywords:
   - sorceress
 hashtags:
   - "#Sorceress"
+images:
+  - https://smartableai.github.io/diablo4/assets/images/topics/sorceress.jpg
 services:
   games: https://smartableai.github.io/diablo4/api/games/sorceress/

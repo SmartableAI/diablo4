@@ -7,5 +7,7 @@ keywords:
   - barbarian
 hashtags:
   - "#Barbarian"
+images:
+  - https://smartableai.github.io/diablo4/assets/images/topics/barbarian.jpg
 services:
   games: https://smartableai.github.io/diablo4/api/games/barbarian/
