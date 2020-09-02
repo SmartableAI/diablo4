@@ -6,6 +6,8 @@ type: video
 length: PT20M13S
 publishedDateTime: 2019-11-02T20:06:35Z
 heat: 63
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NS-CmpYnhNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

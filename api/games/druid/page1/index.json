@@ -33,33 +33,62 @@
       "publishedDateTime": "2019-11-08T06:00:15-08:00"
     },
     {
-      "path": "_games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date.md",
-      "title": "Diablo 4 Gameplay 2020 | Druid Quest Complete :Call Of the Deep | New 2020 | Diablo 4 Release Date?",
-      "excerpt": "Diablo 4 Druid Gameplay [NEW 2020] Druid Quest Complete : Call Of the Deep June 2020 Diablo Immortal, Diablo inmortal 2 , diablo immortal 3, Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/",
-      "originalUrl": "https://youtube.com/watch?v=59Kwnx2rUoo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Kwnx2rUoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M10S",
+      "path": "_games/diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
       "provider": {
-        "name": "pSycho Susu",
+        "name": "GameTrailers",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Druid"
       ],
-      "heat": 111,
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/59Kwnx2rUoo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "type": "video",
-      "publishedDateTime": "2020-06-17T00:20:06-07:00"
+      "publishedDateTime": "2019-11-01T11:38:31-07:00"
+    },
+    {
+      "path": "_games/diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
+      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
+      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M45S",
+      "provider": {
+        "name": "lzuniy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:25:33-07:00"
     },
     {
       "path": "_games/diablo-4-goes-open-world-diablo-4-druid-gameplay-blizzcon-2019.md",
@@ -89,35 +118,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-02T09:00:04-07:00"
-    },
-    {
-      "path": "_games/diablo-iv-druid-ilk-bakis-blizzcon-2019.md",
-      "title": "DIABLO IV DRUID İLK BAKIŞ | BLIZZCON 2019",
-      "excerpt": "Hanımlar beyler Diablo IV duyuruldu ve dünyada ilk oynayanlardan biri olma gururuna eriştik. A.B.D. den taze taze karşınızda. Her beğeni önemli destek, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-iv-druid-ilk-bakis-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-iv-druid-ilk-bakis-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=NS-CmpYnhNA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NS-CmpYnhNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M13S",
-      "provider": {
-        "name": "PintiPanda TV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NS-CmpYnhNA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-02T13:06:35-07:00"
     },
     {
       "path": "_games/diablo-4-druide-competences-arbre-de-talent.md",
@@ -263,6 +263,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-01T01:00:07-07:00"
+    },
+    {
+      "path": "_games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date.md",
+      "title": "Diablo 4 Gameplay 2020 | Druid Quest Complete :Call Of the Deep | New 2020 | Diablo 4 Release Date?",
+      "excerpt": "Diablo 4 Druid Gameplay [NEW 2020] Druid Quest Complete : Call Of the Deep June 2020 Diablo Immortal, Diablo inmortal 2 , diablo immortal 3, Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/",
+      "originalUrl": "https://youtube.com/watch?v=59Kwnx2rUoo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Kwnx2rUoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
+      "provider": {
+        "name": "pSycho Susu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/59Kwnx2rUoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-06-17T00:20:06-07:00"
     },
     {
       "path": "_games/druid-all-skills-abilities-talents-legendary-items-diablo-4.md",

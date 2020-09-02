@@ -4,93 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
-      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
-      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
-      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "Wolfcryer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-04T19:32:37-08:00"
-    },
-    {
-      "path": "_games/diablo-4-new-barbarian-breakdown-all-skills-talents-spells-demo.md",
-      "title": "Diablo 4 NEW - Barbarian Breakdown | All Skills, Talents, Spells (demo)",
-      "excerpt": "Diablo 4 has been revealed so in this video we are taking a look at The Barbarian, all his spells, skills, talents and more. Sorc: https://youtu.be/ZYpmrhvpNc8 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-new-barbarian-breakdown-all-skills-talents-spells-demo/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-new-barbarian-breakdown-all-skills-talents-spells-demo/",
-      "originalUrl": "https://youtube.com/watch?v=ADQl1uimpcE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ADQl1uimpcE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M57S",
-      "provider": {
-        "name": "Dantics",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ADQl1uimpcE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-09T16:42:30-08:00"
-    },
-    {
-      "path": "_games/new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
-      "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=PJFRQo7KDsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PJFRQo7KDsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-06-06T06:11:03-07:00"
-    },
-    {
       "path": "_games/diablo-4-barbarian-gameplay-review-.md",
       "title": "DIABLO 4: Barbarian Gameplay Review | Обзор игры за Варвара",
       "excerpt": "Подписывайтесь на YouTube канал и нашу группу в VK http://www.youtube.com/channel/UCcrLTVQrSsazR8FlI5V5DJQ?sub_confirmation=1 Наша группа в ...",
@@ -118,6 +31,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-05T10:10:13-08:00"
+    },
+    {
+      "path": "_games/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
+      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "He looks Familiar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-07-22T16:22:01-07:00"
     },
     {
       "path": "_games/diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one.md",
@@ -176,6 +118,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-06-01T21:17:18-07:00"
+    },
+    {
+      "path": "_games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date.md",
+      "title": "Diablo 4 Gameplay 2020 | Druid Quest Complete :Call Of the Deep | New 2020 | Diablo 4 Release Date?",
+      "excerpt": "Diablo 4 Druid Gameplay [NEW 2020] Druid Quest Complete : Call Of the Deep June 2020 Diablo Immortal, Diablo inmortal 2 , diablo immortal 3, Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-2020-druid-quest-complete-call-of-the-deep-new-2020-diablo-4-release-date/",
+      "originalUrl": "https://youtube.com/watch?v=59Kwnx2rUoo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/59Kwnx2rUoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
+      "provider": {
+        "name": "pSycho Susu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/59Kwnx2rUoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-06-17T00:20:06-07:00"
     },
     {
       "path": "_games/diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",

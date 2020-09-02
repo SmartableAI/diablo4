@@ -49,7 +49,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 220,
+      "heat": 219,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
@@ -78,7 +78,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 157,
+      "heat": 132,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
@@ -89,35 +89,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-08-26T07:23:18-07:00"
-    },
-    {
-      "path": "_games/diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
-      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
-      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M3S",
-      "provider": {
-        "name": "GameTrailers",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
       "path": "_games/diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
@@ -147,64 +118,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-03T12:06:38-08:00"
-    },
-    {
-      "path": "_games/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
-      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
-      "provider": {
-        "name": "He looks Familiar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-07-22T16:22:01-07:00"
-    },
-    {
-      "path": "_games/diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
-      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
-      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M45S",
-      "provider": {
-        "name": "lzuniy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:25:33-07:00"
     },
     {
       "path": "_games/diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
@@ -379,6 +292,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-05T10:10:13-08:00"
+    },
+    {
+      "path": "_games/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
+      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "He looks Familiar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-07-22T16:22:01-07:00"
     },
     {
       "path": "_games/diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
