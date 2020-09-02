@@ -9,7 +9,7 @@ ampWebUrl: "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtra
 cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/"
 type: article
 quality: 107
-heat: 108
+heat: 111
 published: true
 
 provider:
