@@ -1,0 +1,318 @@
+{
+  "title": "People",
+  "path": "_people",
+  "page": 1,
+  "value": [
+    {
+      "path": "_people/rod-fergusson.md",
+      "title": "Rod Fergusson",
+      "excerpt": "EP of the Diablo franchise at Blizzard! Formerly known as GearsViking. This is my personal account and represents only my opinions/thoughts.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/rod-fergusson/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/rod-fergusson/",
+      "type": "profile",
+      "name": "Rod Fergusson",
+      "bio": "EP of the Diablo franchise at Blizzard! Formerly known as GearsViking. This is my personal account and represents only my opinions/thoughts.",
+      "location": "Irvine, CA",
+      "website": "https://diablo4.blizzard.com/",
+      "twitter": {
+        "username": "RodFergusson",
+        "url": "https://twitter.com/RodFergusson",
+        "followers": 159776
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 552,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1248662963994546176/o7iFhL4t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rod Fergusson",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/rhykker.md",
+      "title": "Rhykker",
+      "excerpt": "YouTube & Twitch content creator, covering Diablo, gaming news & aRPGs",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/rhykker/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/rhykker/",
+      "type": "profile",
+      "name": "Rhykker",
+      "bio": "YouTube & Twitch content creator, covering Diablo, gaming news & aRPGs",
+      "location": "Montreal, Canada",
+      "website": "https://www.rhykker.com/",
+      "twitter": {
+        "username": "rhykker",
+        "url": "https://twitter.com/rhykker",
+        "followers": 25595
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/rhykker",
+        "followers": 116000
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 420,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/793862914637791232/GoQGl_mi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rhykker",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/bluddshed.md",
+      "title": "Bluddshed",
+      "excerpt": "An official twitch partnered streamer, youtuber, podcaster & entertainer focusing on Diablo",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/bluddshed/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/bluddshed/",
+      "type": "profile",
+      "name": "Bluddshed",
+      "bio": "An official twitch partnered streamer, youtuber, podcaster & entertainer focusing on Diablo",
+      "location": "CA",
+      "website": "https://www.bluddshed.com/",
+      "twitter": {
+        "username": "Bluddshed",
+        "url": "https://twitter.com/Bluddshed",
+        "followers": 9154
+      },
+      "twitch": {
+        "url": "https://www.twitch.tv/bluddshed",
+        "followers": 127000
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 347,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1259722719316213761/r1rd3DWs_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bluddshed",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/don-adams.md",
+      "title": "Don Adams",
+      "excerpt": "Senior Game Designer on #DiabloIV | standard nerd | lover of games, Star Wars, DnD, craft beer, dogs | Personal account, views are my own etc.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/don-adams/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/don-adams/",
+      "type": "profile",
+      "name": "Don Adams",
+      "bio": "Senior Game Designer on #DiabloIV | standard nerd | lover of games, Star Wars, DnD, craft beer, dogs | Personal account, views are my own etc.",
+      "location": "Irvine, CA",
+      "website": "https://t.co/Ww3XF6aoOX",
+      "twitter": {
+        "username": "_DonAdams",
+        "url": "https://twitter.com/_DonAdams",
+        "followers": 7701
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 334,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1191538969256714240/0k1rOnDk_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Don Adams",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/bigdaddyden76.md",
+      "title": "BigDaddyDen76",
+      "excerpt": "Diablo Streamer Youtuber , Witch Doctor Guru!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/bigdaddyden76/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/bigdaddyden76/",
+      "type": "profile",
+      "name": "BigDaddyDen76",
+      "bio": "Diablo Streamer Youtuber , Witch Doctor Guru!",
+      "location": "UK",
+      "website": "http://t.co/TgWG6FILx0",
+      "twitter": {
+        "username": "bigdaddyden",
+        "url": "https://twitter.com/bigdaddyden",
+        "followers": 3700
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 283,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1210599188217704448/lGnXGAhx_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "BigDaddyDen76",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/harrison-g-pink.md",
+      "title": "Harrison G. Pink",
+      "excerpt": "Senior Designer @ Blizzard Entertainment. Working on #DiabloIV. Tall Bermudian 🇧🇲. Tiki-drink liker. Ex-Telltale, 2K. Personal account & opinions are my own.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/harrison-g-pink/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/harrison-g-pink/",
+      "type": "profile",
+      "name": "Harrison G. Pink",
+      "bio": "Senior Designer @ Blizzard Entertainment. Working on #DiabloIV. Tall Bermudian 🇧🇲. Tiki-drink liker. Ex-Telltale, 2K. Personal account & opinions are my own.",
+      "location": "Irvine, CA",
+      "twitter": {
+        "username": "GilesPink",
+        "url": "https://twitter.com/GilesPink",
+        "followers": 2828
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 264,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1299241107008626689/BV3O-w7P_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Harrison G. Pink",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/jason-hughes.md",
+      "title": "Jason Hughes",
+      "excerpt": "Lead Game Producer of Diablo IV at Blizzard Entertainment. I love to talk games, movies and life stuff! This is a personal account so tweets are mine.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/jason-hughes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/jason-hughes/",
+      "type": "profile",
+      "name": "Jason Hughes",
+      "bio": "Lead Game Producer of Diablo IV at Blizzard Entertainment. I love to talk games, movies and life stuff! This is a personal account so tweets are mine.",
+      "location": "Irvine, CA",
+      "website": "https://t.co/yimcTjD5mR",
+      "twitter": {
+        "username": "digitalHUGHES",
+        "url": "https://twitter.com/digitalHUGHES",
+        "followers": 961
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 193,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/546984534776885248/63jc_BZe_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Jason Hughes",
+          "isCached": true
+        }
+      ]
+    },
+    {
+      "path": "_people/adam-baxter.md",
+      "title": "Adam Baxter",
+      "excerpt": "Game Producer on the Diablo IV team at Blizzard Entertainment. My tweets are my own.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/companies/adam-baxter/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/people/adam-baxter/",
+      "type": "profile",
+      "name": "Adam Baxter",
+      "bio": "Game Producer on the Diablo IV team at Blizzard Entertainment. My tweets are my own.",
+      "location": "Tustin, CA",
+      "twitter": {
+        "username": "AdamBaxter",
+        "url": "https://twitter.com/AdamBaxter",
+        "followers": 332
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Diablo 4"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1191674403236376576/ThAEOyvV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Adam Baxter",
+          "isCached": true
+        }
+      ]
+    }
+  ]
+}
