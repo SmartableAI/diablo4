@@ -3,7 +3,7 @@ name: "Rod Fergusson"
 bio: "EP of the Diablo franchise at Blizzard! Formerly known as GearsViking. This is my personal account and represents only my opinions/thoughts."
 location: Irvine, CA
 type: "profile"
-heat: 552
+heat: 553
 
 affiliation:
   name: Blizzard
@@ -18,7 +18,7 @@ website: https://diablo4.blizzard.com/
 twitter:
   username: RodFergusson
   url: https://twitter.com/RodFergusson
-  followers: 159776
+  followers: 159775
 
 topics:
   - Diablo 4

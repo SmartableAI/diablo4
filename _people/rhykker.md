@@ -3,7 +3,7 @@ name: "Rhykker"
 bio: "YouTube & Twitch content creator, covering Diablo, gaming news & aRPGs"
 location: Montreal, Canada
 type: "profile"
-heat: 420
+heat: 421
 
 website: https://www.rhykker.com/
 
@@ -11,6 +11,10 @@ twitter:
   username: rhykker
   url: https://twitter.com/rhykker
   followers: 25595
+
+youtube:
+  url: https://www.youtube.com/rhykker
+  subscribers: 572000
 
 twitch:
   url: https://www.twitch.tv/rhykker

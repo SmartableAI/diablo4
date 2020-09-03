@@ -12,6 +12,10 @@ twitter:
   url: https://twitter.com/Bluddshed
   followers: 9154
 
+youtube:
+  url: https://www.youtube.com/Bluddshed
+  subscribers: 112000
+
 twitch:
   url: https://www.twitch.tv/bluddshed
   followers: 127000

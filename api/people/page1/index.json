@@ -17,7 +17,7 @@
       "twitter": {
         "username": "RodFergusson",
         "url": "https://twitter.com/RodFergusson",
-        "followers": 159776
+        "followers": 159775
       },
       "affiliation": {
         "path": "",
@@ -35,7 +35,7 @@
       "topics": [
         "Diablo 4"
       ],
-      "heat": 552,
+      "heat": 553,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1248662963994546176/o7iFhL4t_400x400.jpg",
@@ -62,6 +62,10 @@
         "url": "https://twitter.com/rhykker",
         "followers": 25595
       },
+      "youtube": {
+        "url": "https://www.youtube.com/rhykker",
+        "subscribers": 572000
+      },
       "twitch": {
         "url": "https://www.twitch.tv/rhykker",
         "followers": 116000
@@ -69,7 +73,7 @@
       "topics": [
         "Diablo 4"
       ],
-      "heat": 420,
+      "heat": 421,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/793862914637791232/GoQGl_mi_400x400.jpg",
@@ -95,6 +99,10 @@
         "username": "Bluddshed",
         "url": "https://twitter.com/Bluddshed",
         "followers": 9154
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/Bluddshed",
+        "subscribers": 112000
       },
       "twitch": {
         "url": "https://www.twitch.tv/bluddshed",
