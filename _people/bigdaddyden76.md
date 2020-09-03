@@ -12,6 +12,14 @@ twitter:
   url: https://twitter.com/bigdaddyden
   followers: 3700
 
+youtube:
+  url: https://www.youtube.com/channel/UC5CGedMTxOpsNHAic3MPa8A
+  subscribers: 61500
+
+twitch:
+  url: https://www.twitch.tv/bigdaddyden76
+  followers: 64100
+
 topics:
   - Diablo 4
 
