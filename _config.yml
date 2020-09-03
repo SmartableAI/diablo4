@@ -82,6 +82,18 @@ default_game_settings: &default_game_settings
 
 
 #----------------------------------------------------------------------------------
+# Community Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of communities
+default_community_settings: &default_community_settings
+  layout: post
+  category: community
+  permalink: /api/communities/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
 # Newsletter Settings
 #----------------------------------------------------------------------------------
 
@@ -112,6 +124,8 @@ collections:
   events:
     output: true
   games:
+    output: true
+  communities:
     output: true
   newsletters:
     output: true
@@ -149,6 +163,20 @@ defaults:
       layout: collection
       category: game
       permalink: /api/games/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _communities
+  - scope:
+      path: ""
+      type: communities
+    values:
+      <<: *default_community_settings
+  - scope:
+      path: "_communities/collections"
+    values:
+      layout: collection
+      category: community
+      permalink: /api/communities/collections/:title/index.json
       type: collection
       support_paging: false
   # _people
