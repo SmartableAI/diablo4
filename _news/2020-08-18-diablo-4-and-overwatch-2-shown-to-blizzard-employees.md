@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-bliz
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
