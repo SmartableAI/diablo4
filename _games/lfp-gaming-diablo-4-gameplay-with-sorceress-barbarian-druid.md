@@ -16,6 +16,8 @@ provider:
 topics:
   - Diablo 4
   - Sorceress
+  - Druid
+  - Barbarian
 
 images:
   - url: https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg
@@ -23,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "z9LraBab2PhSW2p2eW4t2G7lNSgqHhMlEiQdktp5SPB/t4GZHjsIc9xDGij7AvWPBHsD0AYtwy7/CYD9nKl+YavjT6JunIWBu8Agki8rPUwhPoygPjiCfRGpNvbbq+knSiqTmgo9oShpfhzyFTMl/+yB8VaNBBEAiuhKqcJDPeoDLKS3LroZyTYOH1wNJz6M+dLo2vvhoMoKXpPObmuNvpzMdteu8L2MzvLBFy0MsY0n+yvp68eHSEmpBdzuY83+dewFC0ufBGPgkhOnY+V3js/cAG0eqE7I3LgmYU+ORPTAx/KWqJFbX058knj+4deXXPEeDz3G2MYmENIi9IFyJJejob00rdIzi6zpMkZPtXqvpz6y8+EFzSjZ8FIaS4voR21JibY2L5rImrNcVig+MMcar/3HUStQxViYl01TXWE=;2ur/6FzKJ98aSgx31dzmYQ=="
+secured: "NGn8XBZ0x8uKWyar5Vo/HaZCOSpSOcgmH3yO/Hw/ruJTplrxEZdhsxEOCrY3iv6nzpjjKt9h79i6hFCTASG+nAIBIYgTOe5GzUj6deoNU7scDfLwj9XuEpqhObksj7Hd1nE40IMtzBq64pPYm5reemfbDzr5aAD5PsdYzUd7V46Bp/BqZPVb2vpXRfmNEMm81KdBHbZpr2z0ibtErREqNuFuB41AvuykiW56rnL4bac0+U6BAfMUPIJ2OmRDnOzMZKsB+wvfK/wp5PdfpQuVTmVbrH58EzzAZiSSIa5iWZZOJTI4DzqxmS856r/2sI1DbmTNmcz1qJMjW4nygyjyOBYSJfyCL7YxHWaUtz+Oq438w2i8gHP8uqstVOUu1VNkv474MMt/FgZ91MHgUC3JiJruc2LAMH1mRaLCLVYeixk=;lhkE/Ii8oxS6/l40INGguQ=="
 ---
 
