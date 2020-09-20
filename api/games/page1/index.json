@@ -4,35 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=btdQOgV_FNA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M53S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-08-02T21:56:36-07:00"
-    },
-    {
       "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
       "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
       "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
@@ -49,7 +20,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 108,
+      "heat": 113,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
@@ -60,6 +31,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-06-29T10:49:04-07:00"
+    },
+    {
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=btdQOgV_FNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M53S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-08-02T21:56:36-07:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
@@ -107,7 +107,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 79,
+      "heat": 77,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
@@ -118,6 +118,37 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-08-26T07:23:18-07:00"
+    },
+    {
+      "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
+      "title": "Diablo 4 Gameplay With Sorceress, Barbarian, Druid",
+      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, UI, enemies and loot that ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid/",
+      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M1S",
+      "provider": {
+        "name": "LFP Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
@@ -137,7 +168,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 69,
+      "heat": 68,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
@@ -166,7 +197,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 68,
+      "heat": 66,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uij9ysBKs4w/maxresdefault.jpg",
@@ -177,37 +208,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-08T06:00:15-08:00"
-    },
-    {
-      "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
-      "title": "Diablo 4 Gameplay With Sorceress, Barbarian, Druid",
-      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, UI, enemies and loot that ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid/",
-      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M1S",
-      "provider": {
-        "name": "LFP Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
@@ -226,7 +226,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
@@ -286,7 +286,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 57,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VtH1862QXaw/maxresdefault.jpg",
@@ -297,35 +297,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-06-08T14:31:14-07:00"
-    },
-    {
-      "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
-      "title": "DIABLO 4 NEW Gameplay SORCERESS  FIRST QUEST COMPLETE AND START NEXT  CALL OF THE DEEP",
-      "excerpt": "Diablo IV is an upcoming online dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep/",
-      "originalUrl": "https://youtube.com/watch?v=MohNHDz3OQA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MohNHDz3OQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M37S",
-      "provider": {
-        "name": "crazygames",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MohNHDz3OQA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-06-06T05:04:40-07:00"
     },
     {
       "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
@@ -357,76 +328,16 @@
       "publishedDateTime": "2020-06-02T05:00:34-07:00"
     },
     {
-      "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
-      "title": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY",
-      "excerpt": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY Players will be able to pick from the melee heavy Barbarian, the magic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=29d7SJWFajw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29d7SJWFajw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M45S",
+      "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
+      "title": "DIABLO 4 NEW Gameplay SORCERESS  FIRST QUEST COMPLETE AND START NEXT  CALL OF THE DEEP",
+      "excerpt": "Diablo IV is an upcoming online dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep/",
+      "originalUrl": "https://youtube.com/watch?v=MohNHDz3OQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MohNHDz3OQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M37S",
       "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/29d7SJWFajw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-08-12T13:55:08-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
-      "title": "Diablo 4: Barbarian Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-04-20T10:31:47-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
-      "title": "Diablo 4: Sorceress Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M44S",
-      "provider": {
-        "name": "Click Shoot Loot",
+        "name": "crazygames",
         "domain": "youtube.com"
       },
       "topics": [
@@ -436,14 +347,14 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MohNHDz3OQA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
       "type": "video",
-      "publishedDateTime": "2020-05-27T10:12:29-07:00"
+      "publishedDateTime": "2020-06-06T05:04:40-07:00"
     },
     {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
@@ -473,6 +384,96 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
+    },
+    {
+      "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
+      "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
+      "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/",
+      "originalUrl": "https://youtube.com/watch?v=Rp55G6LzuMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rp55G6LzuMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M24S",
+      "provider": {
+        "name": "Giuseppe's Gaming - Twinfinite",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rp55G6LzuMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2019-11-01T14:30:13-07:00"
+    },
+    {
+      "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
+      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
+      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M45S",
+      "provider": {
+        "name": "lzuniy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:25:33-07:00"
+    },
+    {
+      "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
+      "title": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY",
+      "excerpt": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY Players will be able to pick from the melee heavy Barbarian, the magic ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=29d7SJWFajw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29d7SJWFajw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M45S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/29d7SJWFajw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-08-12T13:55:08-07:00"
     },
     {
       "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
@@ -531,6 +532,36 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-04T19:32:37-08:00"
+    },
+    {
+      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
+      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
+      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M51S",
+      "provider": {
+        "name": "Yurii Pit",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-06-01T21:17:18-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -592,6 +623,64 @@
       "publishedDateTime": "2019-11-04T18:24:40-08:00"
     },
     {
+      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
+      "title": "Diablo 4: Barbarian Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Click Shoot Loot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-04-20T10:31:47-07:00"
+    },
+    {
+      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
+      "title": "Diablo 4: Sorceress Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M44S",
+      "provider": {
+        "name": "Click Shoot Loot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-05-27T10:12:29-07:00"
+    },
+    {
       "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
       "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
       "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
@@ -648,35 +737,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-01T14:21:50-07:00"
-    },
-    {
-      "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
-      "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
-      "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/",
-      "originalUrl": "https://youtube.com/watch?v=Rp55G6LzuMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rp55G6LzuMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M24S",
-      "provider": {
-        "name": "Giuseppe's Gaming - Twinfinite",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rp55G6LzuMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-01T14:30:13-07:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one.md",
@@ -795,36 +855,6 @@
       "publishedDateTime": "2019-11-12T16:24:35-08:00"
     },
     {
-      "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
-      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
-      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M45S",
-      "provider": {
-        "name": "lzuniy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:25:33-07:00"
-    },
-    {
       "path": "_games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing.md",
       "title": "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING",
       "excerpt": "NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING The Druid is a savage shapeshifter, fluidly transforming between the forms of a ...",
@@ -852,35 +882,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-06-08T17:39:28-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-sorceress-gameplay-2020-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING)",
-      "excerpt": "NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING) The sorc is one of my favorite classes to play on almost any game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-sorceress-gameplay-2020-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-sorceress-gameplay-2020-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=lfg4SbsrYyc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfg4SbsrYyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M48S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lfg4SbsrYyc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-06-05T14:15:30-07:00"
     }
   ],
   "nextPage": 2
