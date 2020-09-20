@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction-and-review.md",
+      "title": "Diablo IV Announce Cinematic | By Three They Come- REACTION and REVIEW!!!",
+      "excerpt": "Diablo IV Announce Cinematic | By Three They Come- REACTION and REVIEW!!! Support us on Patreon! https://www.patreon.com/MackeyFamReacts Hey!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction-and-review/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction-and-review/",
+      "originalUrl": "https://youtube.com/watch?v=Ibfad9i3sWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ibfad9i3sWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ibfad9i3sWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T14:26:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MackeyFam Reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold.md",
       "title": "Streamers React to Diablo 4 Announcement at Blizzcon [Soda, TimTheTatman, forsen, Swifty, Asmongold]",
       "excerpt": "Asmongold, AvoidingThePuddle, forsen, NymN, sodapoppin, Swifty, and TimTheTatman reacts to the new Diablo 4 announcement. McconnellRet is also ...",
@@ -9,6 +50,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold/",
       "originalUrl": "https://youtube.com/watch?v=i6brwuPXv1w",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6brwuPXv1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -49,6 +91,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=qOLlCGWoFdA",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOLlCGWoFdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -89,6 +132,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=ndOYedBmTbg",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ndOYedBmTbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -129,6 +173,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction/",
       "originalUrl": "https://youtube.com/watch?v=r4sU9fHV-ew",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4sU9fHV-ew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -169,6 +214,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/",
       "originalUrl": "https://youtube.com/watch?v=C5JpvvHIbCQ",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5JpvvHIbCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -209,6 +255,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/",
       "originalUrl": "https://youtube.com/watch?v=Q1kr7Qzb71s",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q1kr7Qzb71s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -242,6 +289,47 @@
       ]
     },
     {
+      "path": "_news/2019-11-01-diablo-4-announced-gameplay-trailer-reaction-blizzcon-2019.md",
+      "title": "Diablo 4 ANNOUNCED!!! Gameplay Trailer & Reaction - Blizzcon 2019",
+      "excerpt": "DIABLO IV IS COMING!!! No more rumours or leaks required, Diablo 4 has now been officially announced at Blizzcon 2019 :D Here is the gameplay trailer along ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-gameplay-trailer-reaction-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-gameplay-trailer-reaction-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=nB5ha9xvFF4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nB5ha9xvFF4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nB5ha9xvFF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T12:42:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FuzzfingerGaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website.md",
       "title": "Diablo 4 Announcement - Cinematic, Gameplay, and Website",
       "excerpt": "Thumbs up and subscribe to join the G3 fam! #Diablo #Blizzcon, #arpg Twitter: https://twitter.com/GGgaming3 Email: goodguygaming3@gmail.com Patreon: ...",
@@ -249,6 +337,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website/",
       "originalUrl": "https://youtube.com/watch?v=epYzKG73ZYw",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/epYzKG73ZYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -289,6 +378,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-asmongold-reacts-to-diablo-4-announcement-cinematic-gameplay-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=6quwgd7wd3U",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6quwgd7wd3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -329,6 +419,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-official-cinematic-announcement-trailer-by-three-they-come-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=-9SJzvKcBhQ",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-9SJzvKcBhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -369,6 +460,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-cinematic-trailer-announcement-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=Ynw1MmSRB-s",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ynw1MmSRB-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -409,6 +501,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
       "originalUrl": "https://youtube.com/watch?v=0SSYzl9fXOQ",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SSYzl9fXOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -449,6 +542,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/",
       "originalUrl": "https://youtube.com/watch?v=9bRWIdOMfro",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
