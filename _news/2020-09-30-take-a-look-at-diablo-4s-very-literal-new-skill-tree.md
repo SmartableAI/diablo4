@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-dia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/amp/"
 type: article
 quality: 107
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,82 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo IV Quarterly Update—September 2020"
+    excerpt: "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. This time we take a closer look at a long-requested topic: Skills and Talents!"
+    publishedDateTime: 2020-09-29T18:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nk/NKM9J78MKCJI1601317704033.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Blizzard Provides New Update on Diablo 4"
+    excerpt: "Blizzard has provided a new update on the development of Diablo 4. Unfortunately, there's no word when the game is coming to PS4, Xbox One, or PC. Further, there's still no word of PS5 or Xbox Series ..."
+    publishedDateTime: 2020-09-29T10:53:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4 dev blog discusses depth through skills and talents"
+    excerpt: "Blizzard has offered its quarterly update on the progress of Diablo 4 and is taking some time to discuss the game's skill and talent system and some of the changes the team is already experimenting ..."
+    publishedDateTime: 2020-09-29T11:19:00Z
+    webUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents"
+    ampWebUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/09/29/combat-ancients-multiplayer-ghouls-png-jpgcopy_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4’s New Skill Tree Revealed Alongside Equipment and Talent Updates"
+    excerpt: "The latest Diablo 4 developer update focuses on some major changes that have been made to the sequel’s skills and talent systems in response to early fan feedback. “Right after we revealed the game at ..."
+    publishedDateTime: 2020-09-29T15:03:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 106
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2020/09/D4_Q3-2020-SkillTree-1.jpg?fit=1713%2C1676"
+        width: 1713
+        height: 1676
+        isCached: true
+  - title: "Diablo 4 September quarterly update is all about skill trees"
+    excerpt: "Blizzard Entertainment has shared more about skill trees in the Diablo 4 September quarterly update. The team is looking at the balance of skills players will unlock by the endgame, as well as ..."
+    publishedDateTime: 2020-09-29T12:35:40Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
+    type: article
+    provider:
+      name: Windows Central on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19xLUb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
     excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
     publishedDateTime: 2020-09-29T11:05:42Z
@@ -43,20 +119,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uUAy.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo 4's Reworked Skill Tree Revealed"
-    excerpt: "Blizzard has revealed a new development update for Diablo IV that details the reworks being done to the game's skills and talents system. \"We've been reading through a lot of the comments from the ..."
-    publishedDateTime: 2020-09-29T11:03:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-reworked-skill-tree-revealed/ar-BB19xU1p"
-    type: article
-    provider:
-      name: Gamespot on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19xJeD.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "lAXY3iACtsirf0PKnPKdNLfcvuig9L6NQ6209QBb9wAnbEJSuEpg2ISnmtW4XvFlLr+oegUwwVf4N8wm8+Lst49eToYdciJT/Pouponw+PJAd4PosCvsNl8MIMBRyzuoHgSTe0Z02wrLkFFwI6NJ4ANNypJmL9xP1au0z0LJ66rb+9/6QFF83nWRJyKZAv/t4W/wbeehgmOWqMYUUxilwrqJtqyES78qQYGGjg880ThYuL01jWp7/jZzV8TjYnOr1zZyQjQRIld/t9VWMKKmT8u6exhVwe83YiogI0ET8hY6BmwF0LNjTPmvAomHwvlFmNzEa38o7BKbrMJVAvNa5FEM4DovGKFYgHLELvAnECc=;Tde/O4ccqJ1ThCO5EFCnEw=="

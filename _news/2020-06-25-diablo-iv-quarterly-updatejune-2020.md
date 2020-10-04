@@ -17,6 +17,7 @@ provider:
 
 topics:
   - 
+  - Diablo 4
 
 images:
   - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_header/wm/WM26L4P3GY291593028352157.jpg"
