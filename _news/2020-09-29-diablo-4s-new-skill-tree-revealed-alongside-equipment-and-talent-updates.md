@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4's Reworked Skill Tree Revealed"
-    excerpt: "Under this new system, players won't be able to unlock all of the available skills and passives for a character by the end of the game."
-    publishedDateTime: 2020-09-29T12:14:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4s-reworked-skill-tree-revealed/1100-6482691/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-reworked-skill-tree-revealed/1100-6482691/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-reworked-skill-tree-revealed/1100-6482691/"
+  - title: "Diablo 4 dev blog discusses depth through skills and talents"
+    excerpt: "Blizzard has offered its quarterly update on the progress of Diablo 4 and is taking some time to discuss the game's skill and talent system and some of the changes the team is already experimenting ..."
+    publishedDateTime: 2020-09-29T11:19:00Z
+    webUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents"
+    ampWebUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
     images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1512/15120939/3599160-diablo4_impressions_110119_site.jpg"
-        width: 640
-        height: 360
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/09/29/combat-ancients-multiplayer-ghouls-png-jpgcopy_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "v3y0Jc+Jb4ei0T8+i7NR3YTdHyEB8oPqNL6UDlRMVhKfo0VZylWovFYv7OpgM9OCCDiObslvCekebMCsl/mKxlsbzy4UthN5muG9sDeiJ/f6UI8eT1/9Hxx0Ta1w+KxnyAjipBaopfKYW/h0EsKPnZZ0fV8aTqyaytCJ66tqZTg6is0GBXPdLzbuOLxp4L3dvqEZsyMpfyus7+702yB5+2s9idSt41supBlijDHG5yR5PyesqnjF9moz8Ae4BAB7U8mCKOW3eYZ4NTpbaFs2A3Ikvk4dZMRTnyrDEbSwNBXOadKQJtMvxRNUQqQuwtdnFKCpaKImuLwOHbGjxPufzvNpyp7qbDVVFf2SXQO6w4M=;FJbjq0R0MDh3R/1Sep0HWg=="

@@ -19,12 +19,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.gamespot.com/articles/diablo-4s-reworked-skill-tree-revealed/1100-6482691/</loc>
-    <lastmod>2020-09-29T05:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/</loc>
     <lastmod>2020-09-29T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -93,6 +87,12 @@
   <url>
     <loc>https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors</loc>
     <lastmod>2020-06-30T02:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/</loc>
+    <lastmod>2020-06-27T07:00:12-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
