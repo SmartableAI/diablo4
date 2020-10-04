@@ -275,7 +275,7 @@
       "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -736,6 +736,56 @@
       ]
     },
     {
+      "path": "_news/2020-06-25-diablo-iv-quarterly-updatejune-2020.md",
+      "title": "Diablo IV Quarterly Update—June 2020",
+      "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. Take a look at elements of the team playtest milestone, including blockout, storytelling, open world gameplay, multiplayer, items, progression, and more.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-iv-quarterly-updatejune-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/wm/WM26L4P3GY291593028352157.jpg",
+          "width": 1520,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null
+      ]
+    },
+    {
       "path": "_news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg.md",
       "title": "Diablo 4 director explains why it's not an MMORPG",
       "excerpt": "Blizzard's latest update on Diablo 4 sees game director Luis Barriga break down some new screenshots, real-time cutscenes, open-world elements, and how the studio is handling multiplayer. On that last ...",
@@ -859,6 +909,56 @@
       ]
     },
     {
+      "path": "_news/2020-02-26-diablo-iv-quarterly-updatefebruary-2020.md",
+      "title": "Diablo IV Quarterly Update—February 2020",
+      "excerpt": "Join the Diablo IV team in previewing the content we&amp;#39;re hard at work developing! In our first quarterly update, we dig into UI design, PC controller support, couch co-op, and the savage cannibals of the Dry Steppes.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-02-26-diablo-iv-quarterly-updatefebruary-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23308274/diablo-iv-quarterly-update-february-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23308274/diablo-iv-quarterly-update-february-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/gallery/NC9DXF73C74Z1582662150907.jpg",
+          "width": 706,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null
+      ]
+    },
+    {
       "path": "_news/2019-12-27-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-a-true-successor.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer  Blizzcon 2019 (REACTION) A TRUE SUCCESSOR!",
       "excerpt": "Whats up everyone! Is this finally going to be the Diablo we have been waiting for? Another video on our reaction stop. Hope you enjoy! Original video: ...",
@@ -900,35 +1000,44 @@
       ]
     },
     {
-      "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=9I0gLbjENXU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9I0gLbjENXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_news/2019-12-03-system-design-in-diablo-iv-part-ii.md",
+      "title": "System Design in Diablo IV (Part II)",
+      "excerpt": "In Part II of our deep dive into community feedback on system design, David Kim addresses community concerns and team thoughts about itemization.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-12-03-system-design-in-diablo-iv-part-ii/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23230076/system-design-in-diablo-iv-part-ii",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23230076/system-design-in-diablo-iv-part-ii",
+      "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9I0gLbjENXU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
+          "width": 760,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "type": "video",
+      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-10T23:14:12-08:00",
+      "publishedDateTime": "2019-12-03T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ultimate LUL",
-        "domain": "youtube.com",
-        "images": null,
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -937,39 +1046,48 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
+        null
       ]
     },
     {
-      "path": "_news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy.md",
-      "title": "Diablo 4 Initial announcement perspective - Red Shirt Guy",
-      "excerpt": "My initial thoughts from playing the demo at blizzcon, watching the developer interviews, and listening to the wacky Q&A from the systems and features panel.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/",
-      "originalUrl": "https://youtube.com/watch?v=CIIjswFSzbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CIIjswFSzbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_news/2019-11-19-system-design-in-diablo-iv-part-i.md",
+      "title": "System Design in Diablo IV (Part I)",
+      "excerpt": "Special Update from David Kim, Lead Systems Designer on Diablo IV",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-19-system-design-in-diablo-iv-part-i/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
+      "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CIIjswFSzbk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
+          "width": 760,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "type": "video",
+      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-10T11:35:39-08:00",
+      "publishedDateTime": "2019-11-19T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dontinquire",
-        "domain": "youtube.com",
-        "images": null,
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -978,89 +1096,7 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating.md",
-      "title": "Diablo IV Announcement Cinematic | By Three They Come Reaction / Review / Rating",
-      "excerpt": "Adam and Jay react, review, riff, and rate the new announcement cinematic everyone wanted to see last year at Blizzcon, Diablo IV 'By Three They Come'.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/",
-      "originalUrl": "https://youtube.com/watch?v=otb-mrjvwaQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/otb-mrjvwaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/otb-mrjvwaQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-08T04:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pReview'd",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer.md",
-      "title": "Ozijak Reacts to Diablo 4 Announcement & Gameplay Trailer",
-      "excerpt": "G'day all, Ozijak here. Long time Diablo fan watching the much anticipated trailers as Blizzard streamed it. So so hyped!! Hahahaha :D Literal nerdgasm were ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=Zp3hQcGbvLs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zp3hQcGbvLs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zp3hQcGbvLs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T21:32:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ozijak",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
+        null
       ]
     }
   ],
