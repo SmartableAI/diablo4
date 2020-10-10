@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-development-update-endgame"
 webUrl: "https://www.ign.com/articles/diablo-4-development-update-endgame"
 type: article
 quality: 127
-heat: 127
+heat: 128
 published: true
 
 provider:
