@@ -3,7 +3,7 @@ name: "Rod Fergusson"
 bio: "EP of the Diablo franchise at Blizzard! Formerly known as GearsViking. This is my personal account and represents only my opinions/thoughts."
 location: Irvine, CA
 type: "profile"
-heat: 553
+heat: 0
 
 affiliation:
   name: Blizzard
@@ -18,18 +18,18 @@ website: https://diablo4.blizzard.com/
 twitter:
   username: RodFergusson
   url: https://twitter.com/RodFergusson
-  followers: 159775
+  followers: 159448
 
 topics:
   - Diablo 4
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1248662963994546176/o7iFhL4t_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1301557538152951808/TNO18TN2_400x400.jpg
     width: 400
     height: 400
     isCached: true
     title: "Rod Fergusson"
 
-secured: "uGpV+kE7Uh74kOyyNtEw0HZE15C2MlLKxCLjEjC3DXVzk9eBOHiFMbGN6o4ymBzPGJ4lMQ2dqLCCpmYqqQiMc1Bzm/nohbmO64IbCbUi7d5nXcs4LXw8YQzd8aTfAjGniZpWR9d+vOLdeWpASFWvXhExSsyn+fkPz9UIrSYWadNhpDgONuPWvKem56ijHzdwp04Z1hy96ySS700Y48PZB5AFWgwfHY6sltY7ZBVckK0838EPks2wQ1Y7qXnGXCOwysvJ2BlMlPXS7zZfySlRO6WsJ/lETX/sUrKDfLhgjhsmkyoQ8zSMMsXHE7TGyv5YOVGTredjbpTggXkbXG32fjMAzOgjBEhALafINjjXRECDM+ZC5A5k41p0IKBykfjk;bcQ1JhVXHXgVYQ4ebz9qPg=="
+secured: "YKZGCEr4hHcpNsiBbLrptCaBZga1C+shc5b+42j/s0DNLgz6k+nT+EHco2cyoEUp9SG1XEQa69H4xeiCU2x0NgNGT0dSUervYMaDPOsXMqXjnhQws96BpEs2hLaKL/RLAgzdFpDRJuqvgtI8QXqtZLdrqTfQ2xekeM42mr1H5MAOaNNbv/Ch3jnhdZ602wv5R2PjyXR8ABfyhu07AXGPN2VHpdNeZ2Wugc9LPHeKUa9AphvSoaZHCYn/gd4vM5Y2dSqFVtvJL2Gh5xi6V9rrQKQ25UtNEorzv2bVGs1Y/4xas/7ueol8gY5b935FYVDcb5h3tN/GezAXqP2fhdX+NEBR78CkVEkgu0mPI+IcuZS+NC10mYT7eitZjc/jniSvxxD0hRw6W7MMqgGCi5m5fqdQjr+jfI6wOqbRnuq19tI=;LbMAVB2BWGnEeD33alYvCQ=="
 ---
 

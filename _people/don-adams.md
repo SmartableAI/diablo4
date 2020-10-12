@@ -3,7 +3,7 @@ name: "Don Adams"
 bio: "Senior Game Designer on #DiabloIV | standard nerd | lover of games, Star Wars, DnD, craft beer, dogs | Personal account, views are my own etc."
 location: Irvine, CA
 type: "profile"
-heat: 334
+heat: 66
 
 affiliation:
   name: Blizzard
@@ -18,7 +18,7 @@ website: https://t.co/Ww3XF6aoOX
 twitter:
   username: _DonAdams
   url: https://twitter.com/_DonAdams
-  followers: 7701
+  followers: 7753
 
 topics:
   - Diablo 4
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Don Adams"
 
-secured: "jb+xzfe9LomtTrWToOoawB+segxf4hULjKxYLGmOIJIIj52ijgAEQ2JHYuAsfD8LPTACRdDVrIyr3kAHdfYzLDxgc8CG24LdqIgxIZcoqoDdJ0ARgnXzHndiQGDeXfNILykgSVe/x2HIASpZ0Ns7uzuHA34TorNeoT54TYJ4Dblok+dkJ2VqgzjGdibPQ/Ae2EyJuOJlOj0AxCBtVvCVh5GKztNmyULqiqih6ZPTDIMEF5WjlusfErtXMRzQys2GM/vz2lV3qICsvDIaEMYdjb5nf5XbObsLq1kSUYb2ZMdA/axD15Tpx6K4zMSuVQRYFjU2CowW6/s87wqlz9WLtQthYLA+ichumJqe6Fd6tQ9tnLIVwQSwxcbxTb2CgVm3;ybBOtxetjUQ2lqmhl50snQ=="
+secured: "JrJYeQw8wfWzaUbIHyeB9efrfcO5H8G37wDpksb4eV/DUQsu/dJr5fhmbuu6jjNqp+LvPe6TBdNLFeazLyfTcWYRy06/cFRBYjaH5SNy9E8TYQt9fAuU70u6W5loPscJPS59kOujsluudYMz8oefSexUso1b9VMD8v0WaLP2BYGvrUW2J6zLMouG2t4mnOcWp07CYNLv5EB1uf9UzZgjqqrH9Ork8wpo8zRrRFF3IOEc0R42CEmFPVdqEim2ULKn2N1sGZyQcvul55q4ONwYnpi1hqTkgSZiicFMPkfdeRx9KKSy5joxKwtcF44+kUn5ZgEEnZY9xLWoNRGhBZShCrJh6IYV+CM2Y1yL/NZWEMt8GLIsTXYE6gMzY2oAmBkFpR5+7gBFpcud/B+vKmx+CZM/35IqbFNWBP87lJ1NkSg=;XLgoM9Jqrp/RQRfGkkZ5gw=="
 ---
 

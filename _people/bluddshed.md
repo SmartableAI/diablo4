@@ -3,14 +3,14 @@ name: "Bluddshed"
 bio: "An official twitch partnered streamer, youtuber, podcaster & entertainer focusing on Diablo"
 location: CA
 type: "profile"
-heat: 347
+heat: 53
 
 website: https://www.bluddshed.com/
 
 twitter:
   username: Bluddshed
   url: https://twitter.com/Bluddshed
-  followers: 9154
+  followers: 9164
 
 youtube:
   url: https://www.youtube.com/Bluddshed
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Bluddshed"
 
-secured: "kLeD/fLfT4vvBFx6SXv5Z4um1uZYfx7sKfwN3bUAJfkGL5V+FFN8NOOmmoMhpoaPvlTMAeHeiFldRo3CXiOUfOJFWeNknd4aba9AgXR3oSJWXweJrY8n8VZ0BBeahIzW8Vcr+5hIAjrvGe6bAPoLu7d2A1y+Y4yiq8zK6akouVJ2ZNPonUOO/hlf11/Vo2L9w1QMpQZU1cRiWrjNicXPVPQwyrBYI+BJbc/BPpUsNpMLvMtyRLqHMagfBsZhC84izQUD1CTGkQ1ruII7Mg8AYpIaFkZHLQOFsVbFyjOiSTCBuPV2pzJPOe31fANTgFkfnuLw/EccatN7DmfMqk7jX+Syrds0CVnmDX+XnjnOBhEivjTIOaTxs6yNclMYSQOW;W3MPDC2dDCrpiNNbBNnAnA=="
+secured: "KxbsV//hUB188fdA5zEUo5XzCJrSmg0cISMu99ZqYzbrIMOqZPeEzxu9G44XmYjaGY2KS6XFy16JdAqauhzwf7O0CgGc5rXhjnVzkIGoHHmlbhdXwCfaslYGvw8oM3z/lDxWN3Sp0VJvMk788Gz23MhN62F0C7j1++V8yf9+IFM31f6xO2XO2jrulFuNXkRwa/F/EA3sDG4WO+XvSE4huCpnjlFBlbveteT6H38ogqcMfA9ABn402qELqIqvuTiLN59o/kfuHZH2qlQP0JLaodJqBCTrRLbX1nqyLwWl5wTRnwUe2nMI+DgppWwjPnvDkxmNWX4Y6JXLizER41IZSHS98XfTLHW1wpJQ9Za1v2PQkulkeaPulP3ECuaAF83ZVNpKQcnuC8M52MswPQcpvqIgKo7YrFL1qX4+H+A86kc=;5c+OAVGo3vEqrZK9bb/Zww=="
 ---
 

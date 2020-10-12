@@ -3,7 +3,7 @@ name: "Adam Baxter"
 bio: "Game Producer on the Diablo IV team at Blizzard Entertainment. My tweets are my own."
 location: Tustin, CA
 type: "profile"
-heat: 133
+heat: 55
 
 affiliation:
   name: Blizzard
@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: AdamBaxter
   url: https://twitter.com/AdamBaxter
-  followers: 332
+  followers: 347
 
 topics:
   - Diablo 4
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Adam Baxter"
 
-secured: "s8kBIrye944J6rvaZ+EKolhZ8DHMrgetHBpuDWtaYP4GfLW65pwS9Ub59K9vTlupFMrQLIl7Ca6MmXxr1Yn3QPl+Qc58PswNpqzN0JWY0IYHwl/Ew/ok1ys+XbOw6ElHNNnwfh8vo54a3lYvRmN1oNzwzABVIT5kshRRrfhOJjrhIpnkPx1CzFnhcha9NJVOEBwIDeojqtPUrKR8kpXhpQR5JQVzO2JfRC0N2OZPc+rZ5Op4sYXLj66P0WGPQQ1Kmc53RYjx/4L/+Mbl6WRHS1277IWgztDOJlaqBPitcf1Y8BISP/BIJecP07nDathmPcBX/Z0vOKAUMbzu4j76SRYuh1hHrZVIJ2vQkAqdvU3mkrEkQPdyI8srlvFPvCfD;saXPqyA6jwnPSzD2FS2Q4Q=="
+secured: "9H1zs3cv1iy2v1shf4l6ZbnPPI/V6vUqtO/MztvEN8wIFGgZWreB8H7dj2n1w0Esia8Ckb1aCILJnZmlLZMadi1V63jzvMVQwcncjZQfdmNijU8sZdwPHl3gEcumxx19Bm2bl/0VX0mupmwQUNBXSswNl67DzOJV1NEoVhqjjZQ0H2DFLA9ovezsBW15EiZqnXsZqdR+VPwJLS7m4X8kHbKeAX4NjJWBrRmRHglob2Gt6PrSjgQ+7tENsLbQf/rKJRpFAvSdlGdG0HyO2uHAvf3va+WQaeu0tMKpPGM33mUDJzNXhoU8sbkOnjHQeBz7YCqPSvjX3uaeFS1iEoxv0845K/hy92KRp5Bxc8mB/H7DfMEPzFlrM6NmSdOOyFSxLzNOOYRO3OrLecZ2Rjvu3g==;sl5cyFWfFKUW8Gw+SSG1Ow=="
 ---
 

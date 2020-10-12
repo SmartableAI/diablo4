@@ -3,7 +3,7 @@ name: "Jason Hughes"
 bio: "Lead Game Producer of Diablo IV at Blizzard Entertainment. I love to talk games, movies and life stuff! This is a personal account so tweets are mine."
 location: Irvine, CA
 type: "profile"
-heat: 193
+heat: 50
 
 affiliation:
   name: Blizzard
@@ -18,7 +18,7 @@ website: https://t.co/yimcTjD5mR
 twitter:
   username: digitalHUGHES
   url: https://twitter.com/digitalHUGHES
-  followers: 961
+  followers: 960
 
 topics:
   - Diablo 4
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Jason Hughes"
 
-secured: "ya1bE5FYFjOgFQ7DaFDC8DOK9y65LGhoBFt0Qupkh9L2Gf5BDqSp3B8pTvQHX+W17Fcx3hu3AGDmBc59AKB/P3gFQiPPAnz9Z7c2aci857SROsM0yWMzQLK8LJBBkT8o4pZ64F+X+pne6+OP8I9GX5PczzAVG6yWmXqsdIlyGDOXzU0kf57znlb+Q65Jbbuf1RCCPShRPisMS9gYAZI2NoEiCKKvMo5yRB7ZO7p791I2QLCMlPtbCWUWbF85UYQj9UmMen4JcMmEKNv5LZLqqsnQUbci+eMQUkTvCIdnH3dFba+WSGAoqPFJs5DCIgKGk0NEKcmG7UFkMPSw7qZIN6YGYt/1MzS34cfRddN2l1aW0wt1TKPSrVueoZlIqk62;PvRsq56q+OqhxDlN23FyYw=="
+secured: "dph2oQa7V2pJXxa8jx3x3i+i8L1VWDjZ4jFX8YvDP0L9yDw+cgVycapTGRz+WA+QT3dEZQgkIWlvH+J9ZmmhwhMmq4xBdH3r2tJ7oDP6mNQdhOsBGkcka+Ccz8NetUHFvJlFZDqzSA69MoFUtbuXQyVMB/EjxTEvzn7Zg5nUNz1ZOOTH5ufDhatiMXWcy10EKXPunURzvIXgZdC4u4QEm0TSpqGVq2pMuOdMgZC50NCqaBy+0vDc26txsaNe+huND0EhnJhzowbIl6Mp45KEcy4U4EL/6Re3MupeDxTym/ZQ6d/4w70ks+Od26Uj6ISy3YpSoFMAGBMXEuIDWK3TQ0W4RYJP8qdLvpCKO/7JO0Lx7ZvzPEPfkeFyIzJSBYcEuWMd/GX7reD0MgyJIEv4oA==;maeQniV6TMnDOk160K77mQ=="
 ---
 

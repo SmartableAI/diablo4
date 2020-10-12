@@ -3,14 +3,14 @@ name: "BigDaddyDen76"
 bio: "Diablo Streamer Youtuber , Witch Doctor Guru!"
 location: UK
 type: "profile"
-heat: 283
+heat: 51
 
 website: http://t.co/TgWG6FILx0
 
 twitter:
   username: bigdaddyden
   url: https://twitter.com/bigdaddyden
-  followers: 3700
+  followers: 3704
 
 youtube:
   url: https://www.youtube.com/channel/UC5CGedMTxOpsNHAic3MPa8A
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "BigDaddyDen76"
 
-secured: "V6lquos3LEvBmVsh+yU50bYa8kk/GDGm66IchydRJ4jfKY0QIb2Dy75KJIp77A1GrLlitstAj5QRgJi/lH4//F22sEvb/ecjerWeqHxGwkFb8aMJ6oq6DCARTtHbfCpdT9XqPaKHGllowO7pg7s8qIgmVCBkLsLGaRjp2M4d3/blwOVOkd09uaTJV8SPYvqxIkdAXqyKRRqSlX8mudvBCojhjs4w4EZmOPuucgiZDxA+VDIucC/J/jSZ5D7tp6gu31G5fBp1j2riJ2Acs8OXY0b0eve1mq9CbpSzzVzxz/4baGSybMpoFH0/Mu+FLfF0ymn/wMpIHtiDPPTys3iiROOMbshhf+ryToO4GBLa2o9TAP+qDmizX0IVhjTA3s0p;SxlOkNMMOsRInvkAeUbXzw=="
+secured: "wWDGK+908Q+iBzRb6oSUaADiWQVOfIgLeVn1dmzGAEho9NWSgo5iYEzP9IXiOpcOIWyE8w9qWlJ6as3c/ISZwZ+oN8jkbb/dVvVcesRHAB53b2/FprlOyucW7OBtpzQJjQpPHBf+UBby73ds4A3ujnx56cTcAWHP+fTZllm653Ohr+Qs1YhGnRCEi2KiByFhskCxWc6MW2O7SotgvHpaqO4VzG6XgUzg3qQMwv3yuN0LKjXuchLFU9vow46jkE+nd0Ei33qOkdnNLzTox0R3lGfay/hU+IDsXVDQu5oqCPY4mZeHQQQ2skZ30P0W9txfZ7N7rFJqnvs3SNfRxGHgdOiZY2hAcEj9Qovx8NhTKDhSXpVWfYEkHJ6TiAfzoaY5CMei9sR75DdDa8Mp4AtvMuZUdTzaaGLrLgixrNqXOyc=;GCVijMoW8BMYYjOoYgiiqw=="
 ---
 
