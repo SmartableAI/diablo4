@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-reworked-skill-tree-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-reworked-skill-tree-revealed/1100-6482691/"
 type: article
 quality: 147
-heat: 149
+heat: 147
 published: true
 
 provider:
