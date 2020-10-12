@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 September quarterly update is all about skill trees"
-excerpt: "Blizzard Entertainment has shared more about skill trees in the Diablo 4 September quarterly update. The team is looking at the balance of skills players will unlock by the endgame, as well as ..."
-publishedDateTime: 2020-09-29T12:35:40Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
+title: "Latest Diablo 4 Quarterly Update Shows Off Impressive New Skill Trees"
+excerpt: "The latest Diablo 4 quarterly update is all about talents and skill trees. Most notably though we got a closer look at what the new skill trees will look like and it’s quite striking."
+publishedDateTime: 2020-09-29T13:52:00Z
+originalUrl: "https://twinfinite.net/2020/09/latest-diablo-4-quarterly-update-shows-off-impressive-new-skill-trees/"
+webUrl: "https://twinfinite.net/2020/09/latest-diablo-4-quarterly-update-shows-off-impressive-new-skill-trees/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Windows Central on MSN.com
-  domain: msn.com
+  name: Twinfinite
+  domain: twinfinite.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19xLUb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-    width: 600
-    height: 315
+  - url: "https://i2.wp.com/twinfinite.net/wp-content/uploads/2020/09/skill-tree-diablo-4.png?fit=1812%2C858&#038;ssl=1"
+    width: 1812
+    height: 858
     isCached: true
 
 related:
@@ -102,6 +102,20 @@ related:
         width: 1713
         height: 1676
         isCached: true
+  - title: "Diablo 4 September quarterly update is all about skill trees"
+    excerpt: "Blizzard Entertainment has shared more about skill trees in the Diablo 4 September quarterly update. The team is looking at the balance of skills players will unlock by the endgame, as well as ..."
+    publishedDateTime: 2020-09-29T12:35:40Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
+    type: article
+    provider:
+      name: Windows Central on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19xLUb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
     excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
     publishedDateTime: 2020-09-29T11:05:42Z
@@ -116,21 +130,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Diablo 4 Quarterly Update Shows Off Impressive New Skill Trees"
-    excerpt: "The latest Diablo 4 quarterly update is all about talents and skill trees. Most notably though we got a closer look at what the new skill trees will look like and it’s quite striking."
-    publishedDateTime: 2020-09-29T13:52:00Z
-    webUrl: "https://twinfinite.net/2020/09/latest-diablo-4-quarterly-update-shows-off-impressive-new-skill-trees/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 87
-    images:
-      - url: "https://i2.wp.com/twinfinite.net/wp-content/uploads/2020/09/skill-tree-diablo-4.png?fit=1812%2C858&#038;ssl=1"
-        width: 1812
-        height: 858
-        isCached: true
 
-secured: "6ieJwAm8djedHKm4LXTgYn23UTgE5rBD+FZvZ9m3joyDTuOOq7TbIfu4ygy4u7JbsCOpxt0h0FgeFO/+lxvIIviVNhimPPWE9wmFf9+3ZFG+W371v/+TiFzJ2uirjfE/7tSpadgaWc7pIBGv88ieyrd7hAZi1pDgrJpZViYXMRTNa0kIE5c6i8DqaDCFLOKCj6OjcKN3tFlkjUd7NdoOq6tTrVIJLsbbAjrmyWdE9lqVyAjbU5hdDl4iAKS/OdK0d4H38G82XTjuisc0sEmngBJ0YaTz81SYMSntJ5NWul0oRTE2IvaZcLhQSi3vUUeohNsmtXmA0MOCTfFlUercillsr04LTEGc/tTFr61zAsI=;Xx+H8EA/rivn6Pt16MnNQA=="
+secured: "bMb5GKKRi3JtN7YR6NLX/6fc6q0TUDgnQBldicJbXzJRQxlmPrTHqKBQBaRq8kVPr8i+G2W8A+qLnjjuIEUZ587jKIwo++rIwm4SrQUDucdQq9njajjiP7GwpscU/9NOyTJ9CsPnlk5o6bM2CE5EpSt9jKzftXBLsDQKhCU+jhN9NCs6UZAh/Z0hzvT9r752/tV5T+ueuYn1XT3a5f2VmE0Z9ONOgzCvwzlM2lOBzlqW4XHu8ABNPstmdlwnqLhTNroq/E1iA9X8TLGByP/xedQnAgotk0fDSDhF7Ksdbn9WDu5FhZzbPlOyftxV8VSjmP50w7izr/87eRP+16c93WbVxrDx+3HOrNClfIbd/LU=;6Ogsy/lPdzkQUc29cH54pw=="
 ---
 

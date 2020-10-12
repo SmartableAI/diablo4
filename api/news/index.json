@@ -43,6 +43,47 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
+      "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
+      "excerpt": "Diablo 4 is still very early in development, and likely won't release for years, but we already know quite a bit about Blizzard's dungeon-crawler thanks to substantive dev updates released every ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-diablo-4-everything-we-know-so-far-about-blizzards-sequel/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-guide/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/t9WjueUuzMfPQEzQwB3nJJ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-diablo-iv-quarterly-updateseptember-2020.md",
       "title": "Diablo IV Quarterly Update—September 2020",
       "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. This time we take a closer look at a long-requested topic: Skills and Talents!",
@@ -51,7 +92,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 287,
+      "heat": 307,
       "tags": null,
       "images": [
         {
@@ -1035,57 +1076,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-12-03T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-19-system-design-in-diablo-iv-part-i.md",
-      "title": "System Design in Diablo IV (Part I)",
-      "excerpt": "Special Update from David Kim, Lead Systems Designer on Diablo IV",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-19-system-design-in-diablo-iv-part-i/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-19T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard",

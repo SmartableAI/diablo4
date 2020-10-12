@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest Diablo 4 Quarterly Update Shows Off Impressive New Skill Trees"
+    excerpt: "The latest Diablo 4 quarterly update is all about talents and skill trees. Most notably though we got a closer look at what the new skill trees will look like and it’s quite striking."
+    publishedDateTime: 2020-09-29T13:52:00Z
+    webUrl: "https://twinfinite.net/2020/09/latest-diablo-4-quarterly-update-shows-off-impressive-new-skill-trees/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://i2.wp.com/twinfinite.net/wp-content/uploads/2020/09/skill-tree-diablo-4.png?fit=1812%2C858&#038;ssl=1"
+        width: 1812
+        height: 858
+        isCached: true
 
 secured: "lAXY3iACtsirf0PKnPKdNLfcvuig9L6NQ6209QBb9wAnbEJSuEpg2ISnmtW4XvFlLr+oegUwwVf4N8wm8+Lst49eToYdciJT/Pouponw+PJAd4PosCvsNl8MIMBRyzuoHgSTe0Z02wrLkFFwI6NJ4ANNypJmL9xP1au0z0LJ66rb+9/6QFF83nWRJyKZAv/t4W/wbeehgmOWqMYUUxilwrqJtqyES78qQYGGjg880ThYuL01jWp7/jZzV8TjYnOr1zZyQjQRIld/t9VWMKKmT8u6exhVwe83YiogI0ET8hY6BmwF0LNjTPmvAomHwvlFmNzEa38o7BKbrMJVAvNa5FEM4DovGKFYgHLELvAnECc=;Tde/O4ccqJ1ThCO5EFCnEw=="
 ---
