@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Diablo 4 September quarterly update is all about skill trees"
-excerpt: "Blizzard Entertainment has shared more about skill trees in the Diablo 4 September quarterly update. The team is looking at the balance of skills players will unlock by the endgame, as well as ..."
-publishedDateTime: 2020-09-29T12:35:40Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
+excerpt: "Blizzard Entertainment is sharing quarterly design updates for Diablo 4. The September quarterly update is focused on skill trees and enhancements. Diablo 4 is still early in development and does ..."
+publishedDateTime: 2020-09-29T12:41:00Z
+originalUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update"
+webUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update"
+ampWebUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/diablo-4-september-quarterly-update?amp"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Windows Central on MSN.com
-  domain: msn.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19xLUb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-    width: 600
-    height: 315
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/09/diablo-4-sep-2020-update.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -131,6 +133,6 @@ related:
         height: 858
         isCached: true
 
-secured: "iDXsYCTdZ9pTmnfBGEVltnGFXH5pXwPBcEynx2tVvwUShdDIyzYhFc0DEK9sZYJoLf56k5NE4FwcMqjdxyADpGjEBuqvQsKY12rrPyxv3R0LUPWS+U02paF8sn0pRfDTLe9h+NNlpdECWwbNp5RMUliYIUlWgEN0MGJaIIgmEB6Uof2SwFRgQuXfNPWDoZJiBhErcNgfJS4dovaOziSlezSNMF3MuD91BDo8jH2DNXToWIdqdVgv2jLal6AwenDBFRS1rXGFWdvZSCsRP56zLb2DPlJY+YNvbjU5IVrfB3tFJSz4HYyDNVMd9jpUAez7V5lGegafYEswaZinuZdaX9X8/mOiU5ihvvQBjSjZJO4=;oevN1+o0yRF6DQKqvGiEng=="
+secured: "gl+YDJWrCoylc83jDh1ZQYPFkXxhBiPF7d2UsryIJXDiFTJzWmQ/c/TqOpkellkSJwASnJ+59st9t6eWvFUHJ0zbjAD4Opt7kmm7XcazchTdvYkd+oo0ZENhk2gi2H1riul+gKn70P3gpwfQMlBQUrgFhPFHSsv7QnvnvX68oYKyzM8CfcjR7n4OHLByi458k0Qm/SK38z8DNJbjlq3qJF7Ue9ogXJXuRvkKXDcFnObE0D/en8LpSN2QOtUPAw4u6svx6XBgYqNb/dvQ1c+U8XGdiGUs4MXypMjaIrzycWJthgOTyCWUHMNLLz+0PtY9iouABfYLmGXCfWtwZEOVbStfseHNEy5BCPx5ECoiKCY=;XjNk5Sl/r7wu69CUIVQURA=="
 ---
 

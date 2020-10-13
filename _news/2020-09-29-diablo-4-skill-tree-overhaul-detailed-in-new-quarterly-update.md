@@ -70,6 +70,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 September quarterly update is all about skill trees"
+    excerpt: "Blizzard Entertainment is sharing quarterly design updates for Diablo 4. The September quarterly update is focused on skill trees and enhancements. Diablo 4 is still early in development and does ..."
+    publishedDateTime: 2020-09-29T12:41:00Z
+    webUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update"
+    ampWebUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/diablo-4-september-quarterly-update?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 107
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/09/diablo-4-sep-2020-update.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Take A Look At Diablo 4’s Very Literal New Skill Tree"
     excerpt: "Diablo 4. Blizzard. Blizzard has been doing these pretty informative, interesting quarterly updates about the state of development of Diablo 4, which is still several years away, ..."
     publishedDateTime: 2020-09-30T06:25:00Z
@@ -101,20 +117,6 @@ related:
       - url: "https://www.denofgeek.com/wp-content/uploads/2020/09/D4_Q3-2020-SkillTree-1.jpg?fit=1713%2C1676"
         width: 1713
         height: 1676
-        isCached: true
-  - title: "Diablo 4 September quarterly update is all about skill trees"
-    excerpt: "Blizzard Entertainment has shared more about skill trees in the Diablo 4 September quarterly update. The team is looking at the balance of skills players will unlock by the endgame, as well as ..."
-    publishedDateTime: 2020-09-29T12:35:40Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-september-quarterly-update-is-all-about-skill-trees/ar-BB19xRPB"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19xLUb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Latest Diablo 4 Quarterly Update Shows Off Impressive New Skill Trees"
     excerpt: "The latest Diablo 4 quarterly update is all about talents and skill trees. Most notably though we got a closer look at what the new skill trees will look like and it’s quite striking."
