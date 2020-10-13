@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Diablo 4 dev blog discusses depth through skills and talents"
-excerpt: "Blizzard has offered its quarterly update on the progress of Diablo 4 and is taking some time to discuss the game's skill and talent system and some of the changes the team is already experimenting ..."
-publishedDateTime: 2020-09-29T11:19:00Z
-originalUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents"
-webUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents"
-ampWebUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
+title: "Diablo IV’s Skill Trees Are Literally Trees"
+excerpt: "Diablo IV is currently in development for PlayStation 4, Xbox One, and PC. A release date has not been announced."
+publishedDateTime: 2020-09-29T23:59:00Z
+originalUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/"
+webUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/"
+ampWebUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
+cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
 type: article
-quality: 107
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: Kotaku Australia
+  domain: kotaku.com.au
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/09/29/combat-ancients-multiplayer-ghouls-png-jpgcopy_feature.jpg"
-    width: 1920
+  - url: "https://www.kotaku.com.au/content/uploads/sites/3/2020/06/16/pgroup-googlepublishercentre-kotbrandmark.png"
+    width: 1000
     height: 1080
     isCached: true
 
@@ -55,6 +55,22 @@ related:
       - url: "https://media.comicbook.com/files/images/default.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 dev blog discusses depth through skills and talents"
+    excerpt: "Blizzard has offered its quarterly update on the progress of Diablo 4 and is taking some time to discuss the game's skill and talent system and some of the changes the team is already experimenting ..."
+    publishedDateTime: 2020-09-29T11:19:00Z
+    webUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents"
+    ampWebUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/09/29/combat-ancients-multiplayer-ghouls-png-jpgcopy_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 September quarterly update is all about skill trees"
     excerpt: "Blizzard Entertainment is sharing quarterly design updates for Diablo 4. The September quarterly update is focused on skill trees and enhancements. Diablo 4 is still early in development and does ..."
@@ -104,22 +120,6 @@ related:
         width: 1713
         height: 1676
         isCached: true
-  - title: "Diablo IV’s Skill Trees Are Literally Trees"
-    excerpt: "Diablo IV is currently in development for PlayStation 4, Xbox One, and PC. A release date has not been announced."
-    publishedDateTime: 2020-09-29T23:59:00Z
-    webUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/"
-    ampWebUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
-    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
-    type: article
-    provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
-    quality: 92
-    images:
-      - url: "https://www.kotaku.com.au/content/uploads/sites/3/2020/06/16/pgroup-googlepublishercentre-kotbrandmark.png"
-        width: 1000
-        height: 1080
-        isCached: true
   - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
     excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
     publishedDateTime: 2020-09-29T11:05:42Z
@@ -149,6 +149,6 @@ related:
         height: 858
         isCached: true
 
-secured: "bGnpND1Jj4qhYm7kwHgoCKbCMvdDgGz1fF5eA6NprZKTWD1twpoJmjshXMrb+FJfUuS6hgjBrNoJLCpb28VUfx3ETK7bk4mPsXAXmRbX9L2Eec+9zGlQonD6/9zciAH41v0w+v3ux6j9dKPkZe0CPcyheNPIG8ygIzOfe1baKtKD5yKEEKOWE+RXfnpgsNXaMtYOUqmOnw+BriwAW0M7EovWQECNf5m+avPGpNRs1zMk3cAnEYp5cni76IKUtBYthIsmMlY0e13a5YChRY+9vcHtiRuilSTkgxSY8oZIVLWs1W+ZyDpPLTaNtaYHdRJ0pX2Iu6E3sy7HDH1Suxbxd89nzrwrnLhNym11711L3fA=;9knxuOvleVNGBZX7FP3tuA=="
+secured: "3jwjReB6HB7jc7fGxRVHJ6u54XC3cJW1RUAdNkvP1nkpI297txXvu3xzkKC6Swj2ctYqc4Qk2rvLboLSvBFaeKj4OFMrboy9OYOdjslOojYvF8NUsg8EqBvaGX1zw6MmMQE/vJV4bYNPzukz8iB1ux/gY7/BjqrZXJS0A5lJ9E3o+pqiH7HyBVeblza5xHuZxNRqBdJYyvIZoffAmr8Bwhw/zmmGvYMJXwO+YbYoqymSFUzVJaEti3YiKgAZJ0c07aDSZjXrz7aFidWSQgjdznmRlLM/pbs2Kjp+k2bofMxPo8GFarlYZv4q5uf9q9KUxnemZBegdjHL53TlkTrJJYgoyax5ScohbYIZH1rk5Wc=;jMYDonDitGbqahmGTeEX0w=="
 ---
 

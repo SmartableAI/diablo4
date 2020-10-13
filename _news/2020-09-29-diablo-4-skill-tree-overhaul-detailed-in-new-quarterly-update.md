@@ -118,6 +118,22 @@ related:
         width: 1713
         height: 1676
         isCached: true
+  - title: "Diablo IV’s Skill Trees Are Literally Trees"
+    excerpt: "Diablo IV is currently in development for PlayStation 4, Xbox One, and PC. A release date has not been announced."
+    publishedDateTime: 2020-09-29T23:59:00Z
+    webUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/"
+    ampWebUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 92
+    images:
+      - url: "https://www.kotaku.com.au/content/uploads/sites/3/2020/06/16/pgroup-googlepublishercentre-kotbrandmark.png"
+        width: 1000
+        height: 1080
+        isCached: true
   - title: "Latest Diablo 4 Quarterly Update Shows Off Impressive New Skill Trees"
     excerpt: "The latest Diablo 4 quarterly update is all about talents and skill trees. Most notably though we got a closer look at what the new skill trees will look like and it’s quite striking."
     publishedDateTime: 2020-09-29T13:52:00Z
