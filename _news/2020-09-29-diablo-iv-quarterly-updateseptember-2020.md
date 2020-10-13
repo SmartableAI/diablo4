@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020"
 type: article
 quality: 162
-heat: 307
+heat: 302
 published: true
 
 provider:
