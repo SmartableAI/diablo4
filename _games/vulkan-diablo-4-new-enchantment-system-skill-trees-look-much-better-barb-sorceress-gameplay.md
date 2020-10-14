@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-s
 type: video
 length: PT7M56S
 publishedDateTime: 2020-09-30T15:00:11Z
-heat: 98
+heat: 73
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
