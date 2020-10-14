@@ -120,6 +120,20 @@ related:
         width: 1713
         height: 1676
         isCached: true
+  - title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
+    excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
+    publishedDateTime: 2020-09-29T22:48:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3630493/diablo-4-skill-trees-detailed-in-new-development-update"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 87
+    images:
+      - url: "https://www.ausgamers.com/gameres/7313/images/695/wdlegionfinalpreview007.jpg"
+        width: 695
+        height: 390
+        isCached: true
   - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
     excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
     publishedDateTime: 2020-09-29T11:05:42Z

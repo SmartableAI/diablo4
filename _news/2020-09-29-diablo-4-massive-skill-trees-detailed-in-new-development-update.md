@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Blizzard Provides New Update on Diablo 4"
-excerpt: "Blizzard has provided a new update on the development of Diablo 4. Unfortunately, there's no word when the game is coming to PS4, Xbox One, or PC. Further, there's still no word of PS5 or Xbox Series ..."
-publishedDateTime: 2020-09-29T10:53:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
+title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
+excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
+publishedDateTime: 2020-09-29T22:48:00Z
+originalUrl: "https://www.ausgamers.com/news/read/3630493/diablo-4-skill-trees-detailed-in-new-development-update"
+webUrl: "https://www.ausgamers.com/news/read/3630493/diablo-4-skill-trees-detailed-in-new-development-update"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: Aus Games
+  domain: ausgamers.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://media.comicbook.com/files/images/default.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.ausgamers.com/gameres/7313/images/695/wdlegionfinalpreview007.jpg"
+    width: 695
+    height: 390
     isCached: true
 
 related:
@@ -39,6 +37,22 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nk/NKM9J78MKCJI1601317704033.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Blizzard Provides New Update on Diablo 4"
+    excerpt: "Blizzard has provided a new update on the development of Diablo 4. Unfortunately, there's no word when the game is coming to PS4, Xbox One, or PC. Further, there's still no word of PS5 or Xbox Series ..."
+    publishedDateTime: 2020-09-29T10:53:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 dev blog discusses depth through skills and talents"
     excerpt: "Blizzard has offered its quarterly update on the progress of Diablo 4 and is taking some time to discuss the game's skill and talent system and some of the changes the team is already experimenting ..."
@@ -120,20 +134,6 @@ related:
         width: 1000
         height: 1080
         isCached: true
-  - title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
-    excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
-    publishedDateTime: 2020-09-29T22:48:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3630493/diablo-4-skill-trees-detailed-in-new-development-update"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "https://www.ausgamers.com/gameres/7313/images/695/wdlegionfinalpreview007.jpg"
-        width: 695
-        height: 390
-        isCached: true
   - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
     excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
     publishedDateTime: 2020-09-29T11:05:42Z
@@ -163,6 +163,6 @@ related:
         height: 858
         isCached: true
 
-secured: "GxWMdxBwYlTOkx0O4m9yotWohfYB1jryfONuigZKEhVMqjeOKgLRiMLUQtHULEGzrPfsMdyak1d1x9LEKwBcVRjr14NkDm0Ozez2jxBDUdec4xgVrT67A2T+IWIsGdauBS3wh0pxi81Kvhsp7mz3LNsuWSmRI89facu/xDArqw3cM9RPWb87bP5jZCYd7ZfHcX10qMrjGynAdXr2FkrHeHgyyGTm+XZmELuz68jwsMT1PaO79fpMjYXGIgiyjtioHcIE3Kpg73fqRE6zahmwBdsPRJriVVL11pWPmGRsoSPTnmHheJ2TSeSOBsdBPaS6F9vvI4qqvxiVVT8otv8Q+C3FSH0lSXw7/iOkaFcMcCM=;he961rMnX8o1ujPWweWy1Q=="
+secured: "qiT9RkQckq7GXfCm0q6TPPMNOyariRKMzobdXvOGiP4zIaT/4tM6Cmwx5S8UV1zQcuB4iaU/GJFSq6TppLpp9Ak7wPNb8PKJbMd9Wc6cuiIdMoqUQ30cuBoHKYfXcW2iazAtvLGA/SsfbGIlD21SyeOnnjRI+hKR0WTipUyC1lt0jQGTU4OvQGeoM6ROUirg4Yte/kAfx7cgbjcLzqM9pMD0otk6yB3HYkF0fG6ETxqfBhwCI9WjeRPclUSTzphMIDJMmmgHiceL1yAyvIshIiaB/0dlol3g++NDdG+tG3MtJPEotXscgGOyYI1Q/eLo9M0vkV90rOgWqQIcC69NYSDz7oJIGPu/e3H2wP29SR4=;1J5nR63m41BChbTNSYOVJg=="
 ---
 

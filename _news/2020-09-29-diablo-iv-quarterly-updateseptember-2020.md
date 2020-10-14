@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020"
 type: article
 quality: 162
-heat: 322
+heat: 342
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://www.kotaku.com.au/content/uploads/sites/3/2020/06/16/pgroup-googlepublishercentre-kotbrandmark.png"
         width: 1000
         height: 1080
+        isCached: true
+  - title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
+    excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
+    publishedDateTime: 2020-09-29T22:48:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3630493/diablo-4-skill-trees-detailed-in-new-development-update"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 87
+    images:
+      - url: "https://www.ausgamers.com/gameres/7313/images/695/wdlegionfinalpreview007.jpg"
+        width: 695
+        height: 390
         isCached: true
   - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
     excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
