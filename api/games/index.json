@@ -4,33 +4,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!",
       "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=btdQOgV_FNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M53S",
       "provider": {
         "name": "Bannik13",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Sorceress"
       ],
-      "heat": 116,
+      "heat": 158,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
       "type": "video",
-      "publishedDateTime": "2020-08-26T07:23:18-07:00"
+      "publishedDateTime": "2020-08-02T21:56:36-07:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
@@ -60,35 +60,6 @@
       ],
       "type": "video",
       "publishedDateTime": "2019-11-04T16:00:01-08:00"
-    },
-    {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=btdQOgV_FNA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M53S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "publishedDateTime": "2020-08-02T21:56:36-07:00"
     },
     {
       "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
@@ -355,6 +326,35 @@
       ],
       "type": "video",
       "publishedDateTime": "2020-09-29T13:49:47-07:00"
+    },
+    {
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "publishedDateTime": "2020-08-26T07:23:18-07:00"
     },
     {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
