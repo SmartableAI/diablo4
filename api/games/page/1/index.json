@@ -50,7 +50,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 101,
+      "heat": 96,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
@@ -62,36 +62,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T16:00:01-08:00"
-    },
-    {
-      "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
-      "title": "DIABLO 4 - NEW Enchantment System & Skill Trees Look MUCH BETTER! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped some new info for Diablo 4! We get to see new skill trees, sorceress enchantments, and more! It's been a year since this game was revealed, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=Kv-Z52JtN18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M56S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Kv-Z52JtN18/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-30T08:00:11-07:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
@@ -126,6 +96,66 @@
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
+      "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
+      "title": "DIABLO 4 - NEW Enchantment System & Skill Trees Look MUCH BETTER! (Barb & Sorceress Gameplay)",
+      "excerpt": "Blizzard dropped some new info for Diablo 4! We get to see new skill trees, sorceress enchantments, and more! It's been a year since this game was revealed, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=Kv-Z52JtN18",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M56S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Kv-Z52JtN18/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-30T08:00:11-07:00"
+    },
+    {
+      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
+      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
+      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-29T10:49:04-07:00"
+    },
+    {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
       "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
       "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
@@ -155,36 +185,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-03T12:06:38-08:00"
-    },
-    {
-      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
-      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-29T10:49:04-07:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-druid.md",
@@ -233,7 +233,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
@@ -325,7 +325,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 54,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
@@ -337,36 +337,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-26T07:23:18-07:00"
-    },
-    {
-      "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
-      "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
-      "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xgeRjVpx3xw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xgeRjVpx3xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "Ecxoes Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xgeRjVpx3xw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-02T05:00:34-07:00"
     },
     {
       "path": "_games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial.md",
@@ -431,34 +401,34 @@
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
-      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
-      "title": "Diablo 4: Sorceress Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M44S",
+      "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=xgeRjVpx3xw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xgeRjVpx3xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M11S",
       "provider": {
-        "name": "Click Shoot Loot",
+        "name": "Ecxoes Gaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Barbarian"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/xgeRjVpx3xw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-05-27T10:12:29-07:00"
+      "publishedDateTime": "2020-06-02T05:00:34-07:00"
     },
     {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
@@ -674,6 +644,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-20T10:31:47-07:00"
+    },
+    {
+      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
+      "title": "Diablo 4: Sorceress Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M44S",
+      "provider": {
+        "name": "Click Shoot Loot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-27T10:12:29-07:00"
     },
     {
       "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
