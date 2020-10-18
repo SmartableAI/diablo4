@@ -9,7 +9,7 @@ ampWebUrl: "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classe
 cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/"
 type: article
 quality: 107
-heat: 108
+heat: 107
 published: true
 
 provider:

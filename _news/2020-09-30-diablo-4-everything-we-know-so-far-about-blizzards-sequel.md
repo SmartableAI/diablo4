@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/diablo-4-guide/"
 webUrl: "https://www.gamesradar.com/diablo-4-guide/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "yIPuxOWg5mXpKVVrBv1npsDYDe4PkDoiIHNEvMnOL2GDZeQI6aY8AImCC+Vo1oy8HYrJgQ/GiaeZHvLlSJ1M2GVnX0Qh9Iuu+boFZXYpmHA0+WYh0fALO34VORf3H/blW19dyRqNxDXnJd0RiYtRwHVsbGfLn+UH2UoltPbq5oo5IUetFSSgtzbXrFCAol0iuo7dAsOclvthZmoKDFOsEpxl4p61IujKggm6y2wi5ydcd7YT9jiSS29jQr9UakovHvF0kUb6yGCldwY9GSvfiJHMvOHRrUhLiNPSYJKrDkUdDGQdTaI7ePwG6BYHAtP3ysDOmCvZxgbx5B4o/eu7ayPT/WxiZffhyvymp1dqD4Q=;1UbRY664iXO7wjZxGosXEg=="
+secured: "U40VM+IUJ5nCFHtfceN3Q1OTI7/L//84K2Hqk/jcFs2pEAW1fxLWHDzP7AAebwsrLr26vhORP1h7Cv3xM2pZ9T8HsF/2RJHL9LaghgZR3X6NgQX4EFAqPaSkzCOScYtdoznL1i+A0PEga3mljS4cCCx+G2yr7wclgf2du+E3LcInsWlbsxAO21MXAH7JyKtGBmScsW2CCaBoEKzDZwuG5muaCMC+laKWtNp5+TB78KLcjSgbr1NrTMmH9N06cYiv/LEkZvE+JKhB6NA6OEEY1Ev9C2nJ0XfpQELMobH5UqemjCOumZjKend4PxbX+qS9vcVsjCz5VaFDqakDy6JPqgDwZ7B0TyEuHnsx6vEZnoc=;mN1hp53+iwe2vrKL+lOQJw=="
 ---
 
