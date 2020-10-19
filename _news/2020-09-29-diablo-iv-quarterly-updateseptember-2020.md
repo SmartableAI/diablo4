@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020"
 type: article
 quality: 162
-heat: 242
+heat: 222
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f74853f9293a9c354ae8569%2F0x0.jpg"
         width: 1200
         height: 629
-        isCached: true
-  - title: "Diablo 4’s New Skill Tree Revealed Alongside Equipment and Talent Updates"
-    excerpt: "The latest Diablo 4 developer update focuses on some major changes that have been made to the sequel’s skills and talent systems in response to early fan feedback. “Right after we revealed the game at ..."
-    publishedDateTime: 2020-09-29T15:03:00Z
-    webUrl: "https://www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/"
-    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 106
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2020/09/D4_Q3-2020-SkillTree-1.jpg?fit=1713%2C1676"
-        width: 1713
-        height: 1676
         isCached: true
   - title: "Diablo IV’s Skill Trees Are Literally Trees"
     excerpt: "Diablo IV is currently in development for PlayStation 4, Xbox One, and PC. A release date has not been announced."

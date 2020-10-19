@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Diablo 4’s New Skill Tree Revealed Alongside Equipment and Talent Updates"
-    excerpt: "The latest Diablo 4 developer update focuses on some major changes that have been made to the sequel’s skills and talent systems in response to early fan feedback. “Right after we revealed the game at ..."
-    publishedDateTime: 2020-09-29T15:03:00Z
-    webUrl: "https://www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/"
-    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-skil-tree-update-patch-notes/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 106
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2020/09/D4_Q3-2020-SkillTree-1.jpg?fit=1713%2C1676"
-        width: 1713
-        height: 1676
-        isCached: true
   - title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
     excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
     publishedDateTime: 2020-09-29T22:48:00Z
