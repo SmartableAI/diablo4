@@ -6,9 +6,6 @@ publishedDateTime: 2020-09-30T16:40:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4-guide/"
 webUrl: "https://www.gamesradar.com/diablo-4-guide/"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: GamesRadar
@@ -17,12 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/t9WjueUuzMfPQEzQwB3nJJ-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "L7vtYzdCk8JEV4wgzxKiS8Kev2HINxdZ7oRSHTDurUJfT1+XjOiczC3h3LQL7T8GlSKC1aoddxrtGoggPfa9iif6vNyjAWUMeVwGlQwp0rsFkc4Hji0cTKh9oznPvUvEvbR88n/VA3q7Pj/NFCZTLs7ivNlNeM5x2kZ0jMgmFREouBgNoKe3pWELdLIQYltNCEcn+96XQMDvC6h9FutPn1A+4z0EaXmnfIpYY18gBYgMnnWS1esPMwJZ2A6hyl5TziMGTd+ThQnqZvxtijRL2DiJj7OQ2Fy4XFnh6mHlPCJUIs7iVwJKb7LZRAZQ2xerPx7j96oejxH3/BdS2COarXvKZM4cwkBVW0/vP2WPs6E=;ISaVOwxWakqBx09b6s/FWQ=="
+secured: "4oPK7HpYXQVbeirSKQSznJY1srhwTKm13zWt3VYdAhnUF2qT+arl6S6yozyhCMyDW8YP5UzJrUKxF3v/AnE3tRNMti1QXIt6i6MR51lWQg727dLB0R+q7MuVBV5lPInRNBgRsvAUiQQ5YqimeBiMXxdGg/xTvnLZLWSGcJ3x4uIFIDc3uwkFQ9fLGANKRRrO3+S9Qki7+N2ToyhL6L9eaWazUkgDnJffjdxRh9Da3Ur9uV2DpgTP/tT0KGCOtYTKsk3/h4jVSF3dRiiJZ58iBE/F4ckOHxZ7widFdgC7TIKGuMxrN8zBAiizR8khxlMcB04OhbGuLi4Rt1oG2RlB7OmMcTKMrFylJqvvXLWnGro=;L2Qx6fB78FQcmM4Tmzpmkg=="
 ---
 
