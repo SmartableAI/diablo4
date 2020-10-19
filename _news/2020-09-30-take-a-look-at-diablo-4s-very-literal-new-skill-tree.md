@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-dia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/amp/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -28,52 +28,6 @@ images:
     width: 1200
     height: 629
     isCached: true
-
-related:
-  - title: "Diablo IV Quarterly Update—September 2020"
-    excerpt: "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. This time we take a closer look at a long-requested topic: Skills and Talents!"
-    publishedDateTime: 2020-09-29T18:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nk/NKM9J78MKCJI1601317704033.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Diablo IV’s Skill Trees Are Literally Trees"
-    excerpt: "Diablo IV is currently in development for PlayStation 4, Xbox One, and PC. A release date has not been announced."
-    publishedDateTime: 2020-09-29T23:59:00Z
-    webUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/"
-    ampWebUrl: "https://www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
-    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2020/09/diablo-ivs-skill-trees-are-literally-trees/amp/"
-    type: article
-    provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
-    quality: 92
-    images:
-      - url: "https://www.kotaku.com.au/content/uploads/sites/3/2020/06/16/pgroup-googlepublishercentre-kotbrandmark.png"
-        width: 1000
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
-    excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
-    publishedDateTime: 2020-09-29T22:48:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3630493/diablo-4-skill-trees-detailed-in-new-development-update"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "https://www.ausgamers.com/gameres/7313/images/695/wdlegionfinalpreview007.jpg"
-        width: 695
-        height: 390
-        isCached: true
 
 secured: "lAXY3iACtsirf0PKnPKdNLfcvuig9L6NQ6209QBb9wAnbEJSuEpg2ISnmtW4XvFlLr+oegUwwVf4N8wm8+Lst49eToYdciJT/Pouponw+PJAd4PosCvsNl8MIMBRyzuoHgSTe0Z02wrLkFFwI6NJ4ANNypJmL9xP1au0z0LJ66rb+9/6QFF83nWRJyKZAv/t4W/wbeehgmOWqMYUUxilwrqJtqyES78qQYGGjg880ThYuL01jWp7/jZzV8TjYnOr1zZyQjQRIld/t9VWMKKmT8u6exhVwe83YiogI0ET8hY6BmwF0LNjTPmvAomHwvlFmNzEa38o7BKbrMJVAvNa5FEM4DovGKFYgHLELvAnECc=;Tde/O4ccqJ1ThCO5EFCnEw=="
 ---

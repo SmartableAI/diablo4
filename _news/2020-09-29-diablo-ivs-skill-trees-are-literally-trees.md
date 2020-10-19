@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Quarterly Update—September 2020"
-    excerpt: "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. This time we take a closer look at a long-requested topic: Skills and Talents!"
-    publishedDateTime: 2020-09-29T18:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020"
+  - title: "Diablo 4 Skill and Talent Changes, Sorceress Enchantment System Revealed"
+    excerpt: "Blizzard Entertainment isn’t any closer to offering a release date for Diablo 4. However, in its latest quarterly update, the development team does outline changes to the Skill system and Talents ..."
+    publishedDateTime: 2020-09-30T04:40:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/amp"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
+      name: From Software
+      domain: gamingbolt.com
+    quality: 123
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nk/NKM9J78MKCJI1601317704033.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Take A Look At Diablo 4’s Very Literal New Skill Tree"
-    excerpt: "Diablo 4. Blizzard. Blizzard has been doing these pretty informative, interesting quarterly updates about the state of development of Diablo 4, which is still several years away, ..."
-    publishedDateTime: 2020-09-30T06:25:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f74853f9293a9c354ae8569%2F0x0.jpg"
-        width: 1200
-        height: 629
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Diablo 4 - Massive Skill Trees Detailed in New Development Update"
     excerpt: "The latest Diablo IV development update is now live and this time the team over at Blizzard-- with David Kim, Lead System Designer on Diablo IV putting together the bulk of it -- delves into the brand ..."
