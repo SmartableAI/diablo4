@@ -40,54 +40,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Blizzard Provides New Update on Diablo 4"
-    excerpt: "Blizzard has provided a new update on the development of Diablo 4. Unfortunately, there's no word when the game is coming to PS4, Xbox One, or PC. Further, there's still no word of PS5 or Xbox Series ..."
-    publishedDateTime: 2020-09-29T10:53:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo 4 dev blog discusses depth through skills and talents"
-    excerpt: "Blizzard has offered its quarterly update on the progress of Diablo 4 and is taking some time to discuss the game's skill and talent system and some of the changes the team is already experimenting ..."
-    publishedDateTime: 2020-09-29T11:19:00Z
-    webUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents"
-    ampWebUrl: "https://www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/120613/diablo-4-dev-blog-discusses-depth-through-skills-and-talents?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/09/29/combat-ancients-multiplayer-ghouls-png-jpgcopy_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 September quarterly update is all about skill trees"
-    excerpt: "Blizzard Entertainment is sharing quarterly design updates for Diablo 4. The September quarterly update is focused on skill trees and enhancements. Diablo 4 is still early in development and does ..."
-    publishedDateTime: 2020-09-29T12:41:00Z
-    webUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update"
-    ampWebUrl: "https://www.windowscentral.com/diablo-4-september-quarterly-update?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/diablo-4-september-quarterly-update?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 107
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/09/diablo-4-sep-2020-update.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Take A Look At Diablo 4’s Very Literal New Skill Tree"
     excerpt: "Diablo 4. Blizzard. Blizzard has been doing these pretty informative, interesting quarterly updates about the state of development of Diablo 4, which is still several years away, ..."
     publishedDateTime: 2020-09-30T06:25:00Z
@@ -133,34 +85,6 @@ related:
       - url: "https://www.ausgamers.com/gameres/7313/images/695/wdlegionfinalpreview007.jpg"
         width: 695
         height: 390
-        isCached: true
-  - title: "Diablo 4 skill tree overhaul detailed in new quarterly update"
-    excerpt: "Blizzard is continuing to keep fans abreast of Diablo 4's development, and the latest quarterly update focuses on a revamped Skills and Talent system. We're also introduced to the Sorceress's new ..."
-    publishedDateTime: 2020-09-29T11:05:42Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-skill-tree-overhaul-detailed-in-new-quarterly-update/ar-BB19xG3t"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uUAy.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest Diablo 4 Quarterly Update Shows Off Impressive New Skill Trees"
-    excerpt: "The latest Diablo 4 quarterly update is all about talents and skill trees. Most notably though we got a closer look at what the new skill trees will look like and it’s quite striking."
-    publishedDateTime: 2020-09-29T13:52:00Z
-    webUrl: "https://twinfinite.net/2020/09/latest-diablo-4-quarterly-update-shows-off-impressive-new-skill-trees/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 87
-    images:
-      - url: "https://i2.wp.com/twinfinite.net/wp-content/uploads/2020/09/skill-tree-diablo-4.png?fit=1812%2C858&#038;ssl=1"
-        width: 1812
-        height: 858
         isCached: true
 
 secured: "v3y0Jc+Jb4ei0T8+i7NR3YTdHyEB8oPqNL6UDlRMVhKfo0VZylWovFYv7OpgM9OCCDiObslvCekebMCsl/mKxlsbzy4UthN5muG9sDeiJ/f6UI8eT1/9Hxx0Ta1w+KxnyAjipBaopfKYW/h0EsKPnZZ0fV8aTqyaytCJ66tqZTg6is0GBXPdLzbuOLxp4L3dvqEZsyMpfyus7+702yB5+2s9idSt41supBlijDHG5yR5PyesqnjF9moz8Ae4BAB7U8mCKOW3eYZ4NTpbaFs2A3Ikvk4dZMRTnyrDEbSwNBXOadKQJtMvxRNUQqQuwtdnFKCpaKImuLwOHbGjxPufzvNpyp7qbDVVFf2SXQO6w4M=;FJbjq0R0MDh3R/1Sep0HWg=="
