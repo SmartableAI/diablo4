@@ -6,6 +6,9 @@ publishedDateTime: 2020-09-30T16:40:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4-guide/"
 webUrl: "https://www.gamesradar.com/diablo-4-guide/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: GamesRadar
