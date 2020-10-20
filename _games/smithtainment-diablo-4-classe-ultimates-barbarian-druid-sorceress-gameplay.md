@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=29d7SJWFajw
 type: video
 length: PT4M45S
 publishedDateTime: 2020-08-12T20:55:08Z
-heat: 110
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29d7SJWFajw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
