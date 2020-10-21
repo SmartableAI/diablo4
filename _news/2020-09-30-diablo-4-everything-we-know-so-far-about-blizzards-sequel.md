@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4: Everything we know so far about Blizzard's sequel"
 excerpt: "Diablo 4 is still very early in development, and likely won't release for years, but we already know quite a bit about Blizzard's dungeon-crawler thanks to substantive dev updates released every ..."
-publishedDateTime: 2020-09-30T16:40:26Z
-originalUrl: "https://www.gamesradar.com/uk/diablo-4-guide/"
-webUrl: "https://www.gamesradar.com/uk/diablo-4-guide/"
+publishedDateTime: 2020-09-30T16:40:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-guide/"
+webUrl: "https://www.gamesradar.com/diablo-4-guide/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 675
     isCached: true
 
-secured: "YsVv7l+X2ID+/IRfQZBwMeP7Z7fhFBGLHfiJsyVJB6VpVoSdo1+jxUWe5uvw4nUauff+I9/c9qLARIXr8hL8uk6jwGg6JeR+kYWxvEiZXvbRqojN1NhuPxAevSDKSIvBSPUnP5m2G2EU1z8gvLh/lkr2PpRfOeiueevI+vN339q2z20z24fIQ1BKiypRVNmwCnS2KSOd+ks7gm3wAsljenCPdFuXf18RrVaUeouiLNSg+sdOzpnPu6vB9GLVqSPkmTmdJUzoiGPPvqKo7WyAASHRFQFfhCii1zcTHyeL8b10jrPB8q8mJKtifcdx/Qos9EpLC6LWDjdxZGcWEEnQA3t+FlDvLNTgS7Rq5txu8nM=;OLOz2T/WmeNntpz0NwXA8g=="
+secured: "6TqJ/MfTMR2TToPvxw5oW7JVfHWh5he7i0yGGc665o78ocO/KiGffWFou0iHc+fpEgPNCY5mXrJiWtwbiwsLJNQkReIrlc7ZriAl+GAJkS2xHDJ4KQFBgb/S3SB76uKLKVtVWv2LfvhWVyietZAa/7hvItKLa90joNWBH85YH+wkhw6OUmjTRD6QMxQj6/q0fUsH+Z9P2Yab09nJmic2tQSk+JdS7rAAQS9Qs0UaINSZqWYFE5GfdrwMOAlU+ws+j9romPK+eOZbpqN1Vmq6JX4JMSgHodjslcRpn3V1UfcHndpINjD+ZAyE5+j9zJpuf4asXW3VMU5TV0OxPUjzu58C+EpXoTyZhsrnsdG5++E=;+TgPOFyMmqy5QTBMRCpdXA=="
 ---
 
