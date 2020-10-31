@@ -4,26 +4,26 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4.md",
-      "title": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4",
-      "excerpt": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4 The Barbarian is a true warrior. Using pure physical force as a means to destroy his enemies, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/",
-      "originalUrl": "https://youtube.com/watch?v=RSpETEgC4X0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSpETEgC4X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M33S",
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
       "provider": {
-        "name": "Smithtainment",
+        "name": "Bannik13",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 110,
+      "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RSpETEgC4X0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -31,7 +31,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-08-28T14:01:14-07:00"
+      "publishedDateTime": "2020-08-26T07:23:18-07:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
@@ -157,36 +157,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
-    },
-    {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-26T07:23:18-07:00"
     },
     {
       "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
@@ -710,6 +680,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-12T13:55:08-07:00"
+    },
+    {
+      "path": "_games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4.md",
+      "title": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4",
+      "excerpt": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4 The Barbarian is a true warrior. Using pure physical force as a means to destroy his enemies, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/",
+      "originalUrl": "https://youtube.com/watch?v=RSpETEgC4X0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSpETEgC4X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M33S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RSpETEgC4X0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-28T14:01:14-07:00"
     },
     {
       "path": "_games/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
