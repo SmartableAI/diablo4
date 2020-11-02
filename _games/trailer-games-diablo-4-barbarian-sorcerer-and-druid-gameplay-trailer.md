@@ -18,6 +18,12 @@ topics:
   - Barbarian
   - Druid
 
-secured: "f+EUjFUhi/Fs5GunbCuTUxUUC/cnKkgW5qwvRhy15LuhSDbcJ8oQuXylm+vEUhIxaoA/ZpkF4tmvhJLfRFisJiJ9caZYiF1fAhLwIsgIY/9/HPJRz0Lw/wPXnbcX3iYtjqd2PPzv2OnJuQT4BLfD8lq/j3dBSxdKekXdKcH6alYFEEm+w6g+iiVg54Es/DAmcQeY3k7OpwrGde18ZDB3Zs/HPANe5oh/NIjxd5f37B50UewEbZslh3hQJFZE8YnCQ7VhSQ4I3xfquMCoSNUKkH1mACb38BUX2ArMJgVjjimt64OhjYwMSPWJAAfPRPMlSOJMQ+BKaWx/NCagF28wacgEhtpZcumivpY2TKxvopNrhp1OJNCfsdpq9p2cbqRVdXW72OAkkRTmgzSI9UyXkg==;I5ygx0x0CZmOXyiVphcjCA=="
+images:
+  - url: https://i.ytimg.com/vi/gDfRqDK4pFw/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "QqS7MzjihKF8YXOvlUspTGChen//7GhxaspgViqk8Vc+v29yfbDLWT5H+iUBcdslE9eGb3oYRV4IDK69jL3P0va4mybLjAs6pLtyBUGelGJD4yRWOwWZSz8RtlI+lZ7M+X8o/2EPClpgu10tciyd/Cv2DcUCAxl34uusHp40IcbFGWQcgeNsxFCNqDRHZbYuZBaWpLIS0XkUJi7JvI0cNMiyeDZovsT0Ni1ZTDUD4RutQ9g5ddlCCSTj9SwkL4UzUxqYeoGLu/oR+HDNn4P86d3xjMZs20i0Ob2nqMuF/0kEG0/RtjJV9LgsnRUKPObYvLFn54i4Xt7E1uhcm1LOCq48kO0NRr0y1t/fdIXp8jTN4JtHHyVlFnuKatb7T2UFHMSY/PJJ8WLt+CdNSFXgm616AIzrgLNvl1bwVa9WQeg=;3XjT/oWqrr4LOQKrgzm8AQ=="
 ---
 
