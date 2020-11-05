@@ -4,6 +4,38 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
+      "title": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY",
+      "excerpt": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY Players will be able to pick from the melee heavy Barbarian, the magic ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=29d7SJWFajw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29d7SJWFajw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M45S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/29d7SJWFajw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-12T13:55:08-07:00"
+    },
+    {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
       "title": "Diablo 4 Gameplay With Sorceress, Barbarian, Druid",
       "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, UI, enemies and loot that ...",
@@ -52,7 +84,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 81,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
@@ -64,36 +96,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-02T21:56:36-07:00"
-    },
-    {
-      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
-      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-29T10:49:04-07:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
@@ -158,6 +160,36 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
+      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
+      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
+      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-29T10:49:04-07:00"
+    },
+    {
       "path": "_games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update.md",
       "title": "Brand New Skill Tree and The Introduction of the Sorceress Enchantment System - Big Diablo 4 Update!",
       "excerpt": "Discord: https://discord.gg/xy3EynP Twitch: https://www.twitch.tv/dbrunski125 Twitter: https://twitter.com/dbrunski125 Membership: ...",
@@ -216,6 +248,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T08:00:11-07:00"
+    },
+    {
+      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
+      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
+      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
+      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "Wolfcryer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T19:32:37-08:00"
     },
     {
       "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
@@ -524,38 +586,6 @@
       "publishedDateTime": "2019-11-12T16:24:35-08:00"
     },
     {
-      "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
-      "title": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY",
-      "excerpt": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY Players will be able to pick from the melee heavy Barbarian, the magic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=29d7SJWFajw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29d7SJWFajw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M45S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/29d7SJWFajw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-12T13:55:08-07:00"
-    },
-    {
       "path": "_games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4.md",
       "title": "DIABLO 4 - EVOLUTION OF THE SORCERESS - FROM D1 TO D4",
       "excerpt": "DIABLO 4 - EVOLUTION OF THE SORCERES - FROM D1 TO D4 Sorceresses are of the Zann Esu Clan. Athletic, affable, and self-assured, Sorceresses hardly ...",
@@ -614,36 +644,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-05T14:15:30-07:00"
-    },
-    {
-      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
-      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
-      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
-      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "Wolfcryer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T19:32:37-08:00"
     }
   ]
 }
