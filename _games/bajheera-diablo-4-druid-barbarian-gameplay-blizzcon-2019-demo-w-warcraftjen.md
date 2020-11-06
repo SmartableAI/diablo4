@@ -3,7 +3,7 @@ title: "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen
 excerpt: "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ..."
 originalUrl: https://youtube.com/watch?v=5ITKehCJHUk
 type: video
-length: PT1H4M32S
+length: PT1H5M28S
 publishedDateTime: 2019-11-06T16:30:33Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "LWdfRKRMwOTK3YEt3WXpYjqpbRenheagsmJ0vhsr6RTZ8ZjLjhH6Ofq1wsT2tCpcKLc6Sy+Xl657umCwrZClaZI447yEBfVNJV4er2hqK33GczYhBNCxkzJpiJmluFtuJpaa3WyAvfBvXGUGE6j5pRdqoDn50wsmaB3gDKoteSw6cK5wh79EjpE6nJGVKd1Xoxs9RqJxZ3mRFzvC1iG1q/6fllVtpoF2i2gyyJfk6lUzyP8SP1t5ET39+oZoOVp7F1rSwDQZSt6tmCxBtmkwAaXTbuzAhmGnMGKNuuwBI+ilsjYwIzphpqQepzuby3+hkn6iJBULxfgJSMy+V/OwAJwGoeNRaccbQ6TwDr42pvoV/Q3REeFPCz2Mmv4nHHBmT3+iv6kCm5xCzuDcINmUcJLUqXxiWM5MfJSExRvGlYs=;3+IhniTqphHcXBU/6XOlYw=="
+secured: "CQsAif30xq26UDvv3Y5MkY3qA9NW94EaUE34RwziXSDXg1yV10fV34PlgBExAcQ/m0yjRkG4nHDLRluaTD3RY2HTVu4glybhMtRNNMRYWH2Uqwr/gI84/exVnz3XMuKvcuYeDRMY2mvLevpe/evRSEGW4jvqePT/0Vp/TR9Jr8Uh7s/rU9IZMMbxbTtYt38N5g9dR8AyG3/5YPcVeKigcbGu7mDHPJkR48wh87JOgevbfG7UcVg4qHocc6U+k0qeqnK6WbU1BekZdwf0DaCgrOjmV7WAORzbyxl9njm7AjePfKr1vLgfjeNq6jpsw9G530Krt37s44V0YJz+/1iRBSKUgV7KbVkOpWGCnb6BCdtHuCbgvceFjdzaot7QE1ocXzGD1iw7pEf7BMaPFkKhO1UI7db4Bi0ekYmcVB1/iFQ=;kASHWpExU2aD+hCV/XxQcA=="
 ---
 
