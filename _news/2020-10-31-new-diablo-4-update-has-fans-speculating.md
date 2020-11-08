@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-release-update-blizza
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/"
 type: article
 quality: 107
-heat: 109
+heat: 107
 published: true
 
 provider:
