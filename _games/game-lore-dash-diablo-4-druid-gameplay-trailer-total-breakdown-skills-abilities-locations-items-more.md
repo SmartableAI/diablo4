@@ -2,6 +2,7 @@
 title: "Diablo 4: Druid Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!"
 excerpt: "If you enjoyed this video please consider subscribing: http://bit.ly/2D9NKHK Diablo Lore Books: https://www.amazon.com/shop/gameloredash?"
 originalUrl: https://youtube.com/watch?v=RqijCULaS2o
+webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-druid-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/
 type: video
 length: PT13M27S
 publishedDateTime: 2020-11-10T05:27:21Z
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "a9regBVEREmML92NVEgmHfmP3SzIOVv5ah9mVNBCxUeUJyXpHPWyzy9TqTdXgemBDacirNbf32V44W3FxoWfdu6DEH8/DVLIvUZOh7r/Ngog8TQK2Owlvsrf3OdxJy6ELmLzHRMKzI1D+ng6iLPUbQ/kB5S6+NsU4lRNR5XV8v8qK8hve+jHTbXtoztM7NHLNJ/c0Teeg2RV2Bnk+pUpq92XjIReq/ikU23/NAPgo0+8gXIhcPmycw1XA1h2JJFah9jvXS98yKekC5yW3pIa2GVM9JHolAqM5UXTI/J/a6FsP+bbtpQCjEwa69Pobp3Tu3yVKIzujfPcCBLR1U9Itp4dEhbSVgY6LslxUUXMKQKsaDMr0cPOhsY9h/L+AkLu/f9CfN/E30RGYYxQqPqWZw==;IfczvaEU7ps0RnYtsDBYwA=="
+secured: "tlj5cRhmytF1KySwixUkBGG3IoNxAyl31u8yguRukB+5R//jViUUAgUjPSs291qAXvnJcffmXuBjvO7867Yck8LsCLLEAPuu9djjoVBWYygop4eUtTVyyTmA0fDkghhKVqYNxk1U0oFjikDjgEl5TLJ6xwPlRPVYCuwyl59jXLVziNfIQnwiyuxao/2rQtKcyy2vZMITYY1Tx6DZEJ1rAEQLz2GwqtKEafqYQRwuvB/Hsundq1vgZDPv+bQG5FGoX8zOuausidTu0o+k4GhjTe3UjHs8ad96uHT8ZSqQcl9K7EZax+0MBVOuKPCZSqkE2y2Bs088czOMCHcYbpZEpoIOV4+yr+hxMoNxiTS4HRQR3kHfdSrqUt4wpyB/0iwKZHZIJ1k2byJWfwLYOucZEg==;gd2AN61lUIrPJ9ceCpI18A=="
 ---
 
