@@ -34,26 +34,26 @@
       "publishedDateTime": "2020-11-09T21:27:21-08:00"
     },
     {
-      "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
-      "title": "DIABLO 4 - NEW Enchantment System & Skill Trees Look MUCH BETTER! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped some new info for Diablo 4! We get to see new skill trees, sorceress enchantments, and more! It's been a year since this game was revealed, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=Kv-Z52JtN18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M56S",
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
       "provider": {
-        "name": "Vulkan",
+        "name": "Bannik13",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Barbarian"
       ],
       "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Kv-Z52JtN18/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -61,7 +61,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-09-30T08:00:11-07:00"
+      "publishedDateTime": "2020-08-26T07:23:18-07:00"
+    },
+    {
+      "path": "_games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents.md",
+      "title": "Diablo 4 - SEPTEMBER 2020 QUARTERLY UPDATE - Sorceress Update, Skills and Talents!",
+      "excerpt": "Like and ❤️Subscribe if you enjoyed the video! The Diablo 4 September 2020 Quarterly Update is HERE! In this video I go over the update and express some of ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents/",
+      "originalUrl": "https://youtube.com/watch?v=lmKMVUoo97Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lmKMVUoo97Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M59S",
+      "provider": {
+        "name": "Exellion",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lmKMVUoo97Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-29T13:49:47-07:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
@@ -325,7 +355,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
@@ -369,26 +399,26 @@
       "publishedDateTime": "2020-09-30T04:00:08-07:00"
     },
     {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
+      "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
+      "title": "DIABLO 4 - NEW Enchantment System & Skill Trees Look MUCH BETTER! (Barb & Sorceress Gameplay)",
+      "excerpt": "Blizzard dropped some new info for Diablo 4! We get to see new skill trees, sorceress enchantments, and more! It's been a year since this game was revealed, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=Kv-Z52JtN18",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M56S",
       "provider": {
-        "name": "Bannik13",
+        "name": "Vulkan",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Sorceress"
       ],
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Kv-Z52JtN18/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -396,7 +426,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-08-26T07:23:18-07:00"
+      "publishedDateTime": "2020-09-30T08:00:11-07:00"
     },
     {
       "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
@@ -886,36 +916,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-12T06:18:06-07:00"
-    },
-    {
-      "path": "_games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents.md",
-      "title": "Diablo 4 - SEPTEMBER 2020 QUARTERLY UPDATE - Sorceress Update, Skills and Talents!",
-      "excerpt": "Like and ❤️Subscribe if you enjoyed the video! The Diablo 4 September 2020 Quarterly Update is HERE! In this video I go over the update and express some of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents/",
-      "originalUrl": "https://youtube.com/watch?v=lmKMVUoo97Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lmKMVUoo97Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M59S",
-      "provider": {
-        "name": "Exellion",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lmKMVUoo97Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-29T13:49:47-07:00"
     }
   ],
   "nextPage": 2
