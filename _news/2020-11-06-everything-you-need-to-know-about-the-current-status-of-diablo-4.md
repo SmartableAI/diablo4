@@ -9,7 +9,7 @@ ampWebUrl: "https://clutchpoints.com/everything-you-need-to-know-about-current-s
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
