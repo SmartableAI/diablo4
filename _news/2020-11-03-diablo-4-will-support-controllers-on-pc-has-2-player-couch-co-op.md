@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/70934/diablo-4-will-support-controlle
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html"
 type: article
 quality: 107
-heat: 109
+heat: 107
 published: true
 
 provider:
