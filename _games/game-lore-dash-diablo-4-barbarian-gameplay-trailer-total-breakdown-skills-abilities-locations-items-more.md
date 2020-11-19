@@ -2,6 +2,7 @@
 title: "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!"
 excerpt: "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ..."
 originalUrl: https://youtube.com/watch?v=PRYtIiFs0Wc
+webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/
 type: video
 length: PT12M2S
 publishedDateTime: 2020-11-19T04:58:24Z
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lvnRUX40bziZwkI/2IN7viDC211fQ+ieC1aYhDSgl1ZcLxq2L8U4WBsoXpKshlSlN4WEewTcCkCyTVVz3GHOBPLhQLfxIoMtZ2bIZIjDLx3v7rcX1u2l8DD4gkR0pLOGEh+sbWkhvD0OBFAS/V8CmyDFJL5OPcxGPail+VK1T2+KdbJACdzcsk01kZzFJjm/GIRNYbfmCD4GY2pPy7hgHmCCS65z6EBjcxUIiwCMgitF3kCc+SiiJF5YSRiPDBR7j7a3i2boA2prbDSO15L1iSb93kIiLYtYlXbNMV9HoXen2MjgyhjHDRxKn2JtGcJ74+VPOWx2uz8sSTvhedhMzt1zm2mwIk8rCPEYk0R9HfSTzUPALMoXfhlaYny35SlJgdvWNQaUaPGbYR78QFO+GQ==;rPvILdkEuEwKyMnP3E9T8Q=="
+secured: "nroJdRf4N9mU9IO28n1MsvwsrpVtwzYIObCsjVia3T/A4NT6uvqPrPzWAau5alr7ERt2CL+rf1qGAv6/Vdbjj1aAnV9nY9A4kjhlnV0+qCBtITUZdyfC49hA8/ZdkSvlJdYf9+RAG1A8pqV808GHPONktUaajNjj3O3V5nGuwSeibWfRNLqSk8ZY8egKw6YqvHem/RgxGaQFq+45IhpJs2FkeXgpkDhD6R2RL+m7gcgYMYtFt8tJ9HtWDEGmgmVyjMaAE+CnGcfm2fbIYnvflkJQi+hGiQtvftNRxrPWZhcwCvMlAnYhp39x6pEzFp7vXqiEHxlQT3DbvRPrs6x6VIr30/PiWx2T0fR8aSGpU0zuERLwgldr+X319bwTfMdU2dg7PwwV5dVFS2rkuAq0Zw==;OrtWGIPiPatFcHaU4ArdYQ=="
 ---
 
