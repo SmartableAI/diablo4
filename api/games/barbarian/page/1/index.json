@@ -34,36 +34,6 @@
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-26T07:23:18-07:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
       "title": "New Gameplay Today – Diablo IV's Barbarian",
       "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
@@ -80,7 +50,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 86,
+      "heat": 96,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
@@ -189,6 +159,36 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-26T07:23:18-07:00"
+    },
+    {
       "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
       "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
       "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
@@ -205,7 +205,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xgeRjVpx3xw/hqdefault.jpg",
@@ -248,6 +248,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
+    },
+    {
+      "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
+      "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
+      "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/",
+      "originalUrl": "https://youtube.com/watch?v=PJFRQo7KDsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M10S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PJFRQo7KDsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-06T06:11:03-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -742,36 +772,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-28T14:01:14-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
-      "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=PJFRQo7KDsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PJFRQo7KDsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-06T06:11:03-07:00"
     },
     {
       "path": "_games/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
