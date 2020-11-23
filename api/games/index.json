@@ -64,36 +64,6 @@
       "publishedDateTime": "2020-11-09T21:27:21-08:00"
     },
     {
-      "path": "_games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4.md",
-      "title": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4",
-      "excerpt": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4 The Barbarian is a true warrior. Using pure physical force as a means to destroy his enemies, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/",
-      "originalUrl": "https://youtube.com/watch?v=RSpETEgC4X0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSpETEgC4X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M33S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RSpETEgC4X0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-28T14:01:14-07:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
       "title": "New Gameplay Today – Diablo IV's Barbarian",
       "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
@@ -915,6 +885,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-20T10:31:47-07:00"
+    },
+    {
+      "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M38S",
+      "provider": {
+        "name": "Ecxoes Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-12T06:18:06-07:00"
     }
   ],
   "nextPage": 2
