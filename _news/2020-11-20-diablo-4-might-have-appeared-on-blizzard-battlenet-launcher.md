@@ -9,7 +9,7 @@ ampWebUrl: "https://segmentnext.com/2020/11/20/diablo-4-blizzard-battle-net-laun
 cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/11/20/diablo-4-blizzard-battle-net-launcher/amp/"
 type: article
 quality: 107
-heat: 109
+heat: 108
 published: true
 
 provider:
