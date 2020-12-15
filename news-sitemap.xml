@@ -366,4 +366,10 @@
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2016-10-06-blizzard-sound-of-silence-announcement-diablo-4-blizzcon-2016-parody/</loc>
+    <lastmod>2016-10-05T19:47:31-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
 </urlset>
