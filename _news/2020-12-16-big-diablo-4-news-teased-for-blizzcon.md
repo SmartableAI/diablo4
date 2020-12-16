@@ -1,26 +1,26 @@
 ---
 category: news
-title: "New Diablo 4 Class Reveal Teased For BlizzConline"
-excerpt: "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ..."
-publishedDateTime: 2020-12-15T21:56:00Z
-originalUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/"
-webUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/"
-ampWebUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
+title: "Big Diablo 4 News Teased for BlizzCon"
+excerpt: "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ..."
+publishedDateTime: 2020-12-16T10:29:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg"
+  - url: "https://media.comicbook.com/files/images/default.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -42,19 +42,19 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "Big Diablo 4 News Teased for BlizzCon"
-    excerpt: "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ..."
-    publishedDateTime: 2020-12-16T10:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
+  - title: "New Diablo 4 Class Reveal Teased For BlizzConline"
+    excerpt: "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ..."
+    publishedDateTime: 2020-12-15T21:56:00Z
+    webUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/"
+    ampWebUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
+      name: SegmentNext
+      domain: segmentnext.com
     quality: 107
     images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -107,6 +107,6 @@ related:
         height: 672
         isCached: true
 
-secured: "aAfWYe9C5a+mOPJvGTpHlmz5grWOuROCtS2PocJ0NSvAShrobD0jMJklKTob0Mte0p4sWhFFZAK6OZTat7MSbpuaBVO1L910fiSazUDhyzE6MiYUUThGC/3Z1ICFsmIWEzv+SJa8b/lA11pzqKj2G983nCU0cSxakx//nYdsAUsQd9I+MUOMLl5QdNQyUIdus3JNZm8p3t19gQ/d1hby5DeYS2naxh3ka0MOjxH6FcqpL5Zpf+4VhR35+QdN9oYVx1ejep3XccAP5cQvDl94byacF/qcPZIuxvF12YuFK/aQPo+ZPZLBqXEIzYakIHh1eKyXJ5PXw4xHL2ve7E37GK3fw+8BHyfECROjyh2xt88=;obFWhu87lM9J04ddox+T+Q=="
+secured: "rVO7hZmrTnmU2Zxb1SFgsh3rKwsqWiKsGWrSbT134X36g5CjTBLecTg+7ViE0IfnKdtB7GA+VyR0ZgaFSntTOfjt6Aj5ue36mjRbPKnj2pu3VgVMwkoF+CVVzNgSyHarbfyPHzvpurhmfHdXgDQ5j6JVgi5fmSDgtb28DL3fdIZA59b/7V8iZ8aozvtLtSKjPJAi+RYOnx4oNeIYUdJqTrJilme0cpcsNfYwhdTJAaBIpW33jxHJjObiV5xTVa1tbjH5+LpmLaE5RkLAW+vg4rpSevj22aM8wsCe20+6qrFVcuwOtWFvjxjYpkDqpObjPmdAkh0TGDffMEopsJS7FtKOydY0KvRXzt9Z2sETuP4=;BEVyPo9DGykWI8DQLeBjsA=="
 ---
 

@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Big Diablo 4 News Teased for BlizzCon"
+    excerpt: "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ..."
+    publishedDateTime: 2020-12-16T10:29:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
     excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
     publishedDateTime: 2020-12-16T09:58:00Z
