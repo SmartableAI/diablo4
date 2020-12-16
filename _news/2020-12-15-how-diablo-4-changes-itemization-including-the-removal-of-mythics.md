@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4-changes-itemizati
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/12/14/combat-caves-multiplayer-drowned-seahag_feature.jpg"
         width: 1920
         height: 1200
+        isCached: true
+  - title: "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old"
+    excerpt: "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ..."
+    publishedDateTime: 2020-12-15T13:55:00Z
+    webUrl: "https://www.gamesradar.com/uk/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
+    ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 98
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "eSTq5bqWi4pP/UZvLEU46ZN10LAQ8tF0/qo+eA8ab+x+MxNorQSNoNEZ+L230TpUeCNjhQb68i2nTdGjyViMk5QrLII4nSdtaShFacqS6h2AukYPvjn+lcI14kG/pNQSauHRjs8d+HSpIeMrz0VQU5ukQSfnvUtcqWlFUmNdPihyvTfRIHIpbhcupkr4cfzGAPXBQQ4naySaQKRZZ+puVp1QtetqUIwDVAEy0k7RwRFJiL+8LvAuTKYlmX8i6vwEYGVN6ayhdBjPuUBp0bUf4vdyBUvr5UwFyhMqNcS4ueR9eGJugwNcWwZxSqbRXSZTkp5qkj2BkJ06TAiQd3G6A2KLe3tsli4ySGkZtU+pxIc=;V3nTNO4vE3H4nP7mEW0DRA=="

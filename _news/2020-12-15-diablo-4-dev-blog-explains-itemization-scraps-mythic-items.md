@@ -42,6 +42,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old"
+    excerpt: "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ..."
+    publishedDateTime: 2020-12-15T13:55:00Z
+    webUrl: "https://www.gamesradar.com/uk/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
+    ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 98
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/GWjSbBpoa4wx+/DKpzhReh2htpG+jZ2D7RyhNgHGX5XRlt7gIH+8qY2ok29V76Qtcrohxy7SiC5U8Rmhi7nKPfZN1u93n+UIU8oAxQMtQSOhSgW3EYOvYVff6sWS3m6JtmSyeGvOCM1J6MAJluCPpJE6X2yHyOWkEqchRiyT9D0RcNr7M1XbVWdOIDnQR2x9dDUth8dEHAcUhxmpo2Wk5GNDFOD1ICEOuJ/yuLtXyftiSxeXhK6e9ecANiv4IOH51mYXe4oQfwFLQy997PKXs25bnowZG3Ly0xh1VNpcWoay18uzJxphoyPz5lQy6oROc7WSWL0KPGdPZhwjRltZzMACMUYLwu+YOgsI/PVWNE=;hPmqeawz8JfAdesV5eGkSw=="
 ---

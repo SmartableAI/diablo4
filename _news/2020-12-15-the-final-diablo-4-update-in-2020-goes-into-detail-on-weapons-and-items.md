@@ -38,6 +38,22 @@ related:
         width: 880
         height: 440
         isCached: true
+  - title: "Diablo 4's latest developer update is all about itemization (and a bit of player stats)"
+    excerpt: "\"We don't want to end up in a place where the right decision is to ignore every item that doesn't have a glowing orange sky-beam,\" Barriga said. \"So, we're making a lot of exciting changes here. We’re ..."
+    publishedDateTime: 2020-12-15T15:15:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
+    ampWebUrl: "https://www.pcgamer.com/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 139
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg"
+        width: 710
+        height: 408
+        isCached: true
 
 secured: "ZCD2xOl/n21FVoCmYeJuVjs/GOfsEqBFGELXF+gAGgzYaWQgkwMVny065pz4ihiC75vSbew2BiNmme+gprgJzDDJQ0Ihj8SD7HyyRBv3CCiOL+DzhaGNxMWapPuxEhVsAvuslilRIi2i76/f0kij4PY4iXh/N7BQ8tGnPeq1MmI6XItnGTHrr3aXUdg0IBtg/BQ0CQhAUqYGjq0tGakETN0bRvQexHsprREugkthsRx/aOfVigB9QT3jsns14/YpxVTy9J+ZfyGslXCEcO61bB/q8mkGfO0+e2pSi6TCQRF4yMJgq/erV6LfcWGHBJe/RsWzm+6NxS4pdlyXOm+nSivOXArcE5FNKxz1abHctBk=;IXcUupLmEZTwv2DydNRmQg=="
 ---
