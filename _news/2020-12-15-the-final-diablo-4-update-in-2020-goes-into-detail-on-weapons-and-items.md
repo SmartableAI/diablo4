@@ -38,6 +38,22 @@ related:
         width: 880
         height: 440
         isCached: true
+  - title: "Diablo 4 Quarterly Update Digs Deep Into Itemization Changes"
+    excerpt: "The Diablo 4 developer team is back with another quarterly update. This time, they're detailing some new changes to skills and items."
+    publishedDateTime: 2020-12-16T12:52:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/"
+    ampWebUrl: "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/"
+    cdnAmpWebUrl: "https://www-dualshockers-com.cdn.ampproject.org/c/s/www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 107
+    images:
+      - url: "https://cdn3.dualshockers.com/wp-content/uploads/2019/11/Diablo-4-5.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "Diablo 4 December quarterly update dives in on weapon types and legendary items"
     excerpt: "Blizzard Entertainment brings a final quarterly update on Diablo 4 for 2020. This update is all about item stats, item tiers and weapon types, alongside how the developers are using feedback so far."
     publishedDateTime: 2020-12-15T12:19:00Z
