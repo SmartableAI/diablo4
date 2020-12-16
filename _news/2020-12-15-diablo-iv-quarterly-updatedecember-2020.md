@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020"
 type: article
 quality: 162
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Diablo 4 December quarterly update dives in on weapon types and legendary items"
+    excerpt: "Blizzard Entertainment brings a final quarterly update on Diablo 4 for 2020. This update is all about item stats, item tiers and weapon types, alongside how the developers are using feedback so far."
+    publishedDateTime: 2020-12-15T12:19:00Z
+    webUrl: "https://www.windowscentral.com/diablo-4-december-quarterly-update"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 63
 
 secured: "lgtvUNdahOSGznDQQ8W1zNVi13p/YbC772ipqRu2ihkPxeLz+ofQQ87Xw7Do2pWauVFNkV0h5cJPbVfSgO23kMp9P2Rb+/1wrXe5aNIyOAFq9rpL5nQZlMCrzuCLgw832QVIDydkUIrOnTtLMqNzmeSL5UC9fYOW9jfvh/Nj3UPWWH6w8thO7OJmSDyYmb0vLZ77a3RNIbHgzMJxp9D90f6BO83sZsb6up6s8ms2a6JX+RsCxdMaSdkGXy7lmAmNgP7oMbQjN2yYQyQa+U6D/BbxpaQKYycTPBckXgu1vPtptpWAeDmQUyFaXNrbhkvOfqtGTL+MvQe5UvQTtsmtzwHG+4q0jC0ly+hyWbzOUVY=;WnowY7D0/MwvCqFEHiF37A=="
 ---
