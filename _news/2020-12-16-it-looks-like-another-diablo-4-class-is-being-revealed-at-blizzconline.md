@@ -1,28 +1,28 @@
 ---
 category: news
-title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
-excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
-publishedDateTime: 2020-12-16T03:34:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal"
-webUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal"
-ampWebUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
-cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
+title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
+excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
+publishedDateTime: 2020-12-16T09:58:00Z
+originalUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
+webUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
+ampWebUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: SlashGear
+  domain: slashgear.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/uploads/2020/02/diablo-4-cannibals-1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
+    width: 1335
+    height: 854
     isCached: true
 
 related:
@@ -58,21 +58,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
-    excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
-    publishedDateTime: 2020-12-16T09:58:00Z
-    webUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
-    ampWebUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+  - title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
+    excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
+    publishedDateTime: 2020-12-16T03:34:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: PCGamesN
+      domain: pcgamesn.com
     quality: 107
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
-        width: 1335
-        height: 854
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/02/diablo-4-cannibals-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
     excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Quarterly Update, game director Luis Barriga wrote that the game's development ..."
@@ -91,6 +91,6 @@ related:
         height: 672
         isCached: true
 
-secured: "LbEL/2qR4brr2wo27JNp4efHUrNfwiA8ptnHtJM90M1zjGQOYvYojbj2geWWLfn8sUlBb1K2WahreljMHvAunLXEVQuKW7OiUa+1Lou53P63jdsRkGHM1CxCPWHD9VkxZWt2o+IZ3CWV5LE1VfqPKPkScWmhz006iCjzD6Ai6QqpJb3LeJf7F9HeEDFfH/hDgIr2GOymrKzJUk1mB5YtDAi7Te09NM/LHX4a2UfPBxKotpfdHiyx2jFGbMl2A4ZONsNG4aZGKdMfEWOMH3qrirlY9L4OdmFrfiWtZfckByrRiI3B3sCTfe1vF9VNECwe6j5p0xW8fjXTa2JUkrL+ikjNzjYAoYiXh0VTgalUsl8=;APZbiLvl51IyPn3Tn5LfZA=="
+secured: "GIeGl74GYLp9YRs58MMrdkDGlIp2mbOWRzsKNEg75XI0BXUoR6UykFpOt/W/Dc3PEuoIaPye63rH7L6dTt90+0Zq/ze4Mqj8x7gOF+ODpffO/tXEsf51zGb7hh/X0sU/bq8Ht+jZkgCigDu/qZBNIAOvL2ab+O8PLuB9N5qYYAqraudcEGsiiWQHeYWwFnoxc7PSRjGI2ACzQxb8UmMDklKdDGCdoiQcPnwhjXn1+rFrno+sEpBLuvzu8bG/tdAO7b+UMW6tMrcehwydBhi7lMJnLkgxkWlYSPVzILZhFkFye5GSthmcth9U5o0RRzG6iSLAai4aIx9Dj+73DXc9oi7umOwi58K52XvE1vhMXrU=;ZTcFAns3fRDT2hwVMqTUig=="
 ---
 

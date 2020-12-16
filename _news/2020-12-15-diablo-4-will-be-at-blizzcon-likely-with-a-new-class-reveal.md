@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likel
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/"
 type: article
 quality: 107
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
+    excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
+    publishedDateTime: 2020-12-16T09:58:00Z
+    webUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
+    ampWebUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 107
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
+        width: 1335
+        height: 854
         isCached: true
   - title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
     excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
