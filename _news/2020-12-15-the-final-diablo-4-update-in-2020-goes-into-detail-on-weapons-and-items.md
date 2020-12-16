@@ -38,22 +38,6 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "Diablo 4's latest developer update is all about itemization (and a bit of player stats)"
-    excerpt: "\"We don't want to end up in a place where the right decision is to ignore every item that doesn't have a glowing orange sky-beam,\" Barriga said. \"So, we're making a lot of exciting changes here. We’re ..."
-    publishedDateTime: 2020-12-15T15:15:00Z
-    webUrl: "https://www.pcgamer.com/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
-    ampWebUrl: "https://www.pcgamer.com/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 139
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg"
-        width: 710
-        height: 408
-        isCached: true
   - title: "Diablo 4 December quarterly update dives in on weapon types and legendary items"
     excerpt: "Blizzard Entertainment brings a final quarterly update on Diablo 4 for 2020. This update is all about item stats, item tiers and weapon types, alongside how the developers are using feedback so far."
     publishedDateTime: 2020-12-15T12:19:00Z
