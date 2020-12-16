@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likel
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/"
 type: article
 quality: 107
-heat: 127
+heat: 167
 published: true
 
 provider:
@@ -41,6 +41,38 @@ related:
       - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
+    excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
+    publishedDateTime: 2020-12-16T03:34:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 107
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/02/diablo-4-cannibals-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
+    excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Quarterly Update, game director Luis Barriga wrote that the game's development ..."
+    publishedDateTime: 2020-12-16T03:32:00Z
+    webUrl: "https://www.techradar.com/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 107
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
+        width: 1195
+        height: 672
         isCached: true
 
 secured: "hqoJ0zDWEp4hv52kVd5xIwtgpu0LJm1yZ4Bt76KqhCtGMUogANGBssWdt72nsb6EDHVi6sWvKKfsaXcw8IZPWpxurJ7fV+TaKd7AsCTxUjaBL3KxkHR/mGwrgDpktELhyx5pIM6nn5rfZIWH+akETuon7oRUzVg5SKxrVuWkc/RMcTYrvTw2PPwxsIZNwg6UOuvS705P4vbPpf4jng1rOfOouojx3FQ2RgboyrZTvcQmIwnruS72M6akFSUFiOj9GvvtGwrKLPHLWtRIbbL1pgNMXEo6Ogo9OBP3BJnDdOxNL8WbrR8P58Bgsh7uT3eXNI6+murRbLzaYxEmsY7mK2pQfkhNIC4mnOnTeeJUANk=;TpcAQsdqAu9TALciEVND6A=="
