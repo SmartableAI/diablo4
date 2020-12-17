@@ -1,28 +1,26 @@
 ---
 category: news
-title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
-excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
-publishedDateTime: 2020-12-16T09:58:00Z
-originalUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
-webUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
-ampWebUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
-cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
+excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
+publishedDateTime: 2020-12-17T05:31:00Z
+originalUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/"
+webUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: SlashGear
-  domain: slashgear.com
+  name: KitGuru
+  domain: kitguru.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
-    width: 1335
-    height: 854
+  - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
+    width: 615
+    height: 330
     isCached: true
 
 related:
@@ -74,6 +72,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
+    excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
+    publishedDateTime: 2020-12-16T09:58:00Z
+    webUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
+    ampWebUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 107
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
+        width: 1335
+        height: 854
+        isCached: true
   - title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
     excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
     publishedDateTime: 2020-12-16T03:34:00Z
@@ -106,21 +120,7 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
-    excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
-    publishedDateTime: 2020-12-17T05:31:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 87
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
-        width: 615
-        height: 330
-        isCached: true
 
-secured: "GIeGl74GYLp9YRs58MMrdkDGlIp2mbOWRzsKNEg75XI0BXUoR6UykFpOt/W/Dc3PEuoIaPye63rH7L6dTt90+0Zq/ze4Mqj8x7gOF+ODpffO/tXEsf51zGb7hh/X0sU/bq8Ht+jZkgCigDu/qZBNIAOvL2ab+O8PLuB9N5qYYAqraudcEGsiiWQHeYWwFnoxc7PSRjGI2ACzQxb8UmMDklKdDGCdoiQcPnwhjXn1+rFrno+sEpBLuvzu8bG/tdAO7b+UMW6tMrcehwydBhi7lMJnLkgxkWlYSPVzILZhFkFye5GSthmcth9U5o0RRzG6iSLAai4aIx9Dj+73DXc9oi7umOwi58K52XvE1vhMXrU=;ZTcFAns3fRDT2hwVMqTUig=="
+secured: "zdp4Sd9tKzTwZaxldGxSQWshJRJ7rR2kM2Z7SVMYXMRIWGvHvL6epvi+bClfmVlq9i0taafPuKTGvRAGwHpd0NGlW4Q04HyKUBgSYOhGOhkPTJpEke+/vJPFGIo/DNPVws6yMEg9KgyCPIbqXEJ3yK1/34qbNVhEMEGSC7SNgwQ+j21kjJDb03VFoOQ8TFOPQJh7DaQsjN3/leUoq+jPQh46Upzjw5vYTMyUXmFhPndSEXcF2HT+yZb9bb0X3HaE1AQWqSwQ3NC/EK0A71C1RkeGwGdAicpMQOA78fW4o6q+owp/FDgRLYTgBHqs8wX1R3TR4UySmfAGiRggrqv1Jo0PhAEj06KSdDjNB4NpB/Y=;kDpUfx8I8pLHviF1cuSZlw=="
 ---
 

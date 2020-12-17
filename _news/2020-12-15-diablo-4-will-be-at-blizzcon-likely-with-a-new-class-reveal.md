@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likel
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/"
 type: article
 quality: 107
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
         width: 1195
         height: 672
+        isCached: true
+  - title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
+    excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
+    publishedDateTime: 2020-12-17T05:31:00Z
+    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 87
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
+        width: 615
+        height: 330
         isCached: true
 
 secured: "hqoJ0zDWEp4hv52kVd5xIwtgpu0LJm1yZ4Bt76KqhCtGMUogANGBssWdt72nsb6EDHVi6sWvKKfsaXcw8IZPWpxurJ7fV+TaKd7AsCTxUjaBL3KxkHR/mGwrgDpktELhyx5pIM6nn5rfZIWH+akETuon7oRUzVg5SKxrVuWkc/RMcTYrvTw2PPwxsIZNwg6UOuvS705P4vbPpf4jng1rOfOouojx3FQ2RgboyrZTvcQmIwnruS72M6akFSUFiOj9GvvtGwrKLPHLWtRIbbL1pgNMXEo6Ogo9OBP3BJnDdOxNL8WbrR8P58Bgsh7uT3eXNI6+murRbLzaYxEmsY7mK2pQfkhNIC4mnOnTeeJUANk=;TpcAQsdqAu9TALciEVND6A=="

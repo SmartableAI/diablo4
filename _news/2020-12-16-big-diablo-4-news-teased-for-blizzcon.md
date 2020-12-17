@@ -106,6 +106,20 @@ related:
         width: 1195
         height: 672
         isCached: true
+  - title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
+    excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
+    publishedDateTime: 2020-12-17T05:31:00Z
+    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 87
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
+        width: 615
+        height: 330
+        isCached: true
 
 secured: "rVO7hZmrTnmU2Zxb1SFgsh3rKwsqWiKsGWrSbT134X36g5CjTBLecTg+7ViE0IfnKdtB7GA+VyR0ZgaFSntTOfjt6Aj5ue36mjRbPKnj2pu3VgVMwkoF+CVVzNgSyHarbfyPHzvpurhmfHdXgDQ5j6JVgi5fmSDgtb28DL3fdIZA59b/7V8iZ8aozvtLtSKjPJAi+RYOnx4oNeIYUdJqTrJilme0cpcsNfYwhdTJAaBIpW33jxHJjObiV5xTVa1tbjH5+LpmLaE5RkLAW+vg4rpSevj22aM8wsCe20+6qrFVcuwOtWFvjxjYpkDqpObjPmdAkh0TGDffMEopsJS7FtKOydY0KvRXzt9Z2sETuP4=;BEVyPo9DGykWI8DQLeBjsA=="
 ---
