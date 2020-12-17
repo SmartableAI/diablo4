@@ -5,12 +5,7 @@ excerpt: "The latest Diablo 4 development update dives deep into itemization, \"
 publishedDateTime: 2020-12-15T15:13:00Z
 originalUrl: "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
 webUrl: "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
-ampWebUrl: "https://www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/"
 type: article
-quality: 139
-heat: 139
-published: true
 
 provider:
   name: PC Gamer
@@ -23,12 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg"
-    width: 710
-    height: 408
-    isCached: true
-
-secured: "ie4LTs/4gtSY/gtwmsMzcp6G70AwcIHJuLcXSVf2QpveWKjGEKsTNz232C+qYZBTxuodEOZdK6TWAo9dNHTZqfMWHC+p/bHM2e33aFuq5uiFB/g16opzv259fOKyIy8sn+GxgNZGw9rxUOo33KnygsN+U+i8ncWSVj4ULkpg92GLe1OFlfvLfMl7VKE+cZ+lkgm+vgdcNPbG8s6CnEjtuHtNKkh4jUtspAlJ9r3JPm/rFdk6zuElGeei5V5F0RCL4YWdDxBGnwDUU3kh4NdNPblwhXXKSg5a/W+uAj7yDE2+G3Sr2fhfUGxemn9l7p+hrRPKWhfS1rHVTn+NfGpd4zDStDfgAFvcVOAj3fVcbA8=;G8AgDIxVHRAXKz4YkM+cMA=="
+secured: "dmAEFvBHfeUkiLauFOxy2ui57oCs1r9iN1PulIfUowZsqny5xvQrjJ0v+LfMxY2+2U7VoTt/zfnMmKiiSy/YSP5MB7tmVPvA6WMGcCRE49itXTkRDPXyZmDWOctBPfW6UYaQFqBfV3hirPvrw1zIYSuKl4hcFkutr6l+wt4mTpbnb3V9ZqT3Bl5EuVay9mKe8cA5srCBYl4y4oIHCWmPNCGDXDQrjRWojWMDJF+bhO7W2cuZV/bFIDnO3Ry19JOn5bhugHGNXUXKqizCNfJwv1osmZO/3UAoROKEieg/uh0/eZH0ABPVUKXdXoi6rmc65/yY6BdpwOyPzoTesgWgnUhkf3eoUuxVdfe7UvumMAU=;6Kz3upxyTeF+CymWXXnQgA=="
 ---
 
