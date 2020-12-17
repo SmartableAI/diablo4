@@ -93,9 +93,9 @@ related:
   - title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
     excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Quarterly Update, game director Luis Barriga wrote that the game's development ..."
     publishedDateTime: 2020-12-16T03:32:00Z
-    webUrl: "https://www.techradar.com/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+    webUrl: "https://www.techradar.com/nz/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
     type: article
     provider:
       name: TechRadar
