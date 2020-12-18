@@ -2,11 +2,11 @@
 category: news
 title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
 excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Quarterly Update, game director Luis Barriga wrote that the game's development ..."
-publishedDateTime: 2020-12-16T03:32:00Z
-originalUrl: "https://www.techradar.com/nz/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-webUrl: "https://www.techradar.com/nz/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+publishedDateTime: 2020-12-16T03:36:00Z
+originalUrl: "https://www.techradar.com/au/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+webUrl: "https://www.techradar.com/au/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+ampWebUrl: "https://www.techradar.com/au/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
 type: article
 quality: 107
 heat: -1
@@ -125,6 +125,6 @@ related:
         height: 330
         isCached: true
 
-secured: "lhWjNiJDByqRK25+YxupwFwzGNUI8LYawZvzC4P3oyaETH7gbMHZ3s2nqCrXpjeZbdZ/ye0oH0FXC3vLJ9gmcgRWTI0uMzSrhet2JxifP9jBanmN7KUiGSW7Gu3X7hvr2P/hDRaocvHhnyjBPLeRWmhzxirn9Hp7lPwJqjyiXi0I2NpRg1X8gU5JotlU0F58rnSPPaz5jQcNqxtbz9tLaW3/9SBzZ5zKkG++xOf6N2BI0oqmtHn0vZ/abh/s+2d/DBxkhHMMz1M42EV0zAw5i8DODSst7vv9pKSMAyWE26eoGReTqwXXcCH5A33tQEGYpNFyrsvuIq1C11ZRsypFEPkCwYTn3bCeQTgwU5jGTq4=;3UBPeV5j1cv+vv7VQUbukA=="
+secured: "E2qjnPoWPEHK331+BigmAokObQ8TpYU93EbFwR3UK83j9f1k7TfJHZ8rok7IcLC1xAU1zR7BWeQ7g+ZXsjQ8Jtc7/T0V3tWgNfK8YwE6NwQOMl7wFKZx+OhZYpyHV83lqA49Hh6P1/0YINMWhHzWJZCQMjd/bQO6tIsiI2oRum2Z0o/sZsHTlNL5+aaCDvXwjF1PBTS3PRiN2wOk+p9PjeVioGz019PYIssIdi6EM+xiUOruUyAm1MsDFZA94YYNgOpFBC0bOoXXGyCmYaTC67IPfsj9wx/8OecBSTzFMwcKd10+EpfSQLiejmQCQdU8AqB/gze7Svo4tzae98kARiFnLsyETiRfPxN4LMobIJo=;/EraQXmZrJcjqgx4mUcQTg=="
 ---
 
