@@ -1,28 +1,26 @@
 ---
 category: news
-title: "New Diablo 4 Class Reveal Teased For BlizzConline"
-excerpt: "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ..."
-publishedDateTime: 2020-12-15T21:56:00Z
-originalUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/"
-webUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/"
-ampWebUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
+title: "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon"
+excerpt: "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ..."
+publishedDateTime: 2020-12-18T04:03:00Z
+originalUrl: "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/"
+webUrl: "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: eTeknix
+  domain: eteknix.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg"
-    width: 1280
-    height: 720
+  - url: "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg"
+    width: 880
+    height: 495
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/AaSPFCQ7sbH3mWSqxpq8YW-1200-80.jpg"
         width: 880
         height: 440
+        isCached: true
+  - title: "New Diablo 4 Class Reveal Teased For BlizzConline"
+    excerpt: "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ..."
+    publishedDateTime: 2020-12-15T21:56:00Z
+    webUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/"
+    ampWebUrl: "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Big Diablo 4 News Teased for BlizzCon"
     excerpt: "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ..."
@@ -120,21 +134,7 @@ related:
         width: 615
         height: 330
         isCached: true
-  - title: "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon"
-    excerpt: "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ..."
-    publishedDateTime: 2020-12-18T04:03:00Z
-    webUrl: "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/"
-    type: article
-    provider:
-      name: eTeknix
-      domain: eteknix.com
-    quality: 87
-    images:
-      - url: "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg"
-        width: 880
-        height: 495
-        isCached: true
 
-secured: "aAfWYe9C5a+mOPJvGTpHlmz5grWOuROCtS2PocJ0NSvAShrobD0jMJklKTob0Mte0p4sWhFFZAK6OZTat7MSbpuaBVO1L910fiSazUDhyzE6MiYUUThGC/3Z1ICFsmIWEzv+SJa8b/lA11pzqKj2G983nCU0cSxakx//nYdsAUsQd9I+MUOMLl5QdNQyUIdus3JNZm8p3t19gQ/d1hby5DeYS2naxh3ka0MOjxH6FcqpL5Zpf+4VhR35+QdN9oYVx1ejep3XccAP5cQvDl94byacF/qcPZIuxvF12YuFK/aQPo+ZPZLBqXEIzYakIHh1eKyXJ5PXw4xHL2ve7E37GK3fw+8BHyfECROjyh2xt88=;obFWhu87lM9J04ddox+T+Q=="
+secured: "yc8g7rnZTmyOuQh/NNhkXv3+NWQ1BE21yH9PQFl1BBSBw/il9tncq9wiakAuhc2M01uiGQUqxfqTJm4L0SPWc/zIdj7sqLYpXGVRrnjdjchCaZmDTh5J51/Ih1FJj1z8Msw0hNbaIX/kkXFZzp5rqrPJGsP5smAjhMbMvPQ7wDYFhOZxUg1uBoglLc+zUZogKOahBblBYFX24uZtDBVjqrjCEMw5b6Lhce/tw9tjGXAj6c1Mlh/KQoPXQ/hMTYeFLh2Gl4hDXuSoR4YZHL2JEV2aktmjD9HvNWTrRJn0XwRYVimY/zvUFs9EGwMcISFnsBfn8jD9XxULs+4YEGM+ILesf9Wr7Vvxbggii7ZK5tg=;13VKuxQg/BHDjXmHsS5xjg=="
 ---
 

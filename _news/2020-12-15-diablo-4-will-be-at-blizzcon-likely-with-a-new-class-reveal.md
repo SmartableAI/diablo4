@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likel
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/"
 type: article
 quality: 107
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
         width: 615
         height: 330
+        isCached: true
+  - title: "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon"
+    excerpt: "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ..."
+    publishedDateTime: 2020-12-18T04:03:00Z
+    webUrl: "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/"
+    type: article
+    provider:
+      name: eTeknix
+      domain: eteknix.com
+    quality: 87
+    images:
+      - url: "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg"
+        width: 880
+        height: 495
         isCached: true
 
 secured: "hqoJ0zDWEp4hv52kVd5xIwtgpu0LJm1yZ4Bt76KqhCtGMUogANGBssWdt72nsb6EDHVi6sWvKKfsaXcw8IZPWpxurJ7fV+TaKd7AsCTxUjaBL3KxkHR/mGwrgDpktELhyx5pIM6nn5rfZIWH+akETuon7oRUzVg5SKxrVuWkc/RMcTYrvTw2PPwxsIZNwg6UOuvS705P4vbPpf4jng1rOfOouojx3FQ2RgboyrZTvcQmIwnruS72M6akFSUFiOj9GvvtGwrKLPHLWtRIbbL1pgNMXEo6Ogo9OBP3BJnDdOxNL8WbrR8P58Bgsh7uT3eXNI6+murRbLzaYxEmsY7mK2pQfkhNIC4mnOnTeeJUANk=;TpcAQsdqAu9TALciEVND6A=="

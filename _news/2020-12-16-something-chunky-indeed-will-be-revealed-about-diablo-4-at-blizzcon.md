@@ -120,6 +120,20 @@ related:
         width: 615
         height: 330
         isCached: true
+  - title: "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon"
+    excerpt: "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ..."
+    publishedDateTime: 2020-12-18T04:03:00Z
+    webUrl: "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/"
+    type: article
+    provider:
+      name: eTeknix
+      domain: eteknix.com
+    quality: 87
+    images:
+      - url: "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg"
+        width: 880
+        height: 495
+        isCached: true
 
 secured: "LbEL/2qR4brr2wo27JNp4efHUrNfwiA8ptnHtJM90M1zjGQOYvYojbj2geWWLfn8sUlBb1K2WahreljMHvAunLXEVQuKW7OiUa+1Lou53P63jdsRkGHM1CxCPWHD9VkxZWt2o+IZ3CWV5LE1VfqPKPkScWmhz006iCjzD6Ai6QqpJb3LeJf7F9HeEDFfH/hDgIr2GOymrKzJUk1mB5YtDAi7Te09NM/LHX4a2UfPBxKotpfdHiyx2jFGbMl2A4ZONsNG4aZGKdMfEWOMH3qrirlY9L4OdmFrfiWtZfckByrRiI3B3sCTfe1vF9VNECwe6j5p0xW8fjXTa2JUkrL+ikjNzjYAoYiXh0VTgalUsl8=;APZbiLvl51IyPn3Tn5LfZA=="
 ---

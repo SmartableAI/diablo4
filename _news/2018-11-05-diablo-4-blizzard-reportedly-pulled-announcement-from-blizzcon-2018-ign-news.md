@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 4: Blizzard Reportedly Pulled Announcement from BlizzCon 2018 - IGN News"
 excerpt: "Blizzard reportedly had plans to tease Diablo 4 at BlizzCon 2018, but pulled it at the last minute. Subscribe to the IGN News Channel!"
-publishedDateTime: 2018-11-05T22:48:15Z
-originalUrl: "https://youtube.com/watch?v=H7DveYoDXpc"
+publishedDateTime: 2018-11-05T23:30:00Z
+originalUrl: "https://youtube.com/watch?v=RGdq7yvgabg"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7DveYoDXpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RGdq7yvgabg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: IGN News
+  name: IGN
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/H7DveYoDXpc/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/RGdq7yvgabg/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "3nym5iu2Xaz6XG+uiPLtm4OXTrocHH6Js4+eR0qQu4Kbr65AORqXzBHsA0+ef/8QokP/9wGtcZDfzcRZ3Igc0x+rEpzUqTBGXl0PlquIbcuMfxogJkwjzjbccB8VxNoNq5d2p77J8AyjO7py0Q8nS0EJquHI9Vn0jKz6OCFS81hl8TigJRhhHQtlkcrzzDixt+bi8ETwRKEEFbHPpuTh6dOwXta0kcMHW1+fYPPLNQDWO7bd/WTAxkG4Wfp+v/+5fxq/g5p01/o34+m2Vljvo2VJcR68GUaxtzPpykwQsgjzbXIjo+Ge2P9gkUbzpTtoT1bKgG7k2xESFfsE9DEDqYAnSG7EXyb9smcI2//NLbuir5xv7VgUG2ZF6GoL/iS0WEPlYr96eVkB5ReQFSSHkA==;mRMPTEKJNSZWMJHBM3WvPw=="
+secured: "gSmgxgx+AKFiDrcAVXomHnMc3kQZvWqf4o4DlmTk/BlutgCD3tsKu6ggembHYXT9Lur5lXLQGv+Ccb8LVwZVRkhlqe6TYNWffeJzqWAUCGTIGSx5VCFLQr7PAI+7yYSFOcs4EAjP5Oq0lBKB+h1RRUn+cIiUdCg9vw5l06Uj0SZuHFmB+eQyddpJTfLah7oaAHe9KjpVe5ZZP5R0//Hl4visE5eb2NDxHhngMdWed138SjmQokUGILPgQ/W021T9faK8v9AOn8tm+/eNzji8acbaaoo/cSkwAEJlsZjN0DHRhH4uB3LJXzKs5finf+M8BgghAiP40NaIoQlaIrZyntkzzAyE8mQA6eLhJsLDLVLzQQ5vOy5B3e8QPbJfjqcHk3/J9fg/heRc4ybcUqAUaQ==;ZVNfUIsbn5EVMQ8rDliK3g=="
 ---
 
