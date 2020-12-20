@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4-changes-itemizati
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/"
 type: article
 quality: 147
-heat: 187
+heat: 188
 published: true
 
 provider:
