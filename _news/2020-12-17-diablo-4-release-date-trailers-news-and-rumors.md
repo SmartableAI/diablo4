@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/diablo-4-news-release-date-traile
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4-news-release-date-trailers-rumors"
 type: article
 quality: 107
-heat: 111
+heat: 109
 published: true
 
 provider:
