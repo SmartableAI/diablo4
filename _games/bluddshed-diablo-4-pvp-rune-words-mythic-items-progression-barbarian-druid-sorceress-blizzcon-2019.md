@@ -3,9 +3,9 @@ title: "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, S
 excerpt: "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!"
 originalUrl: https://youtube.com/watch?v=8qjAiki90cU
 type: video
-length: PT21M47S
+length: PT21M46S
 publishedDateTime: 2019-11-03T01:15:15Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hbIZkMSoLudaiu10s8vtPdtSOs1U4sDDaUPdhCSiaG6glQp7q90G3/LINZnIT00tVVL8pe+PY60qkDqyBlfA8qS0vb6tmPe5f15Sm0GPigftcElE6b1ziGPPCVa6yA2o4qGuw9Jia2MnhpD0WBns2ErMohGowz0KTLjP31eKChNj4pqoW2D6W94bfiSyhJyBOKFMJ+y3XT0DYJABRrfh2WioV9b6MDbr0SrbZQ8IyMoeg5/R+ZSnq8QuUK9//qKbp1OTwaj+Uf9H0sI1t2aojKBWWYnrRWP4QPlvvaKAu70MzdbbOcJGqkTN+U/UTa/xi7RV2sIKkNpaiQ5izDs+wB/BUMosITpyz7cWF73KVX+fkIHdc/Y3/32/W59BCZvJnHJHRLhHBhRw3zTR0YfGnwBS37GdN9JJzoB/8f9Uz+Ck9VYMNOhHvW0FRqvF79GG;3xpih9UhUHYvtwgOkmnEvQ=="
+secured: "dnH4s9Fj1DUohhNioyW/Ux8VVlwPdNl6aUFrxaB71rlb9ZrBwfVSN1LarAFJGhPwXH9DV2Pej3YdiT+XeSgvHde0JrXyuYyYjIM8GPXnK/4sn83BaN++N+XRU+Ihgwhq0tW2wQvqLn/nxgnW5pYZdCQGvK3kp40yypPLDwTVg/81RCeOIIx4qw/i7sm0IHvB48knM2w+5RBkHn2nR/W+u8kddSYWmGo9eGVig8nW0xkA0RV1/x8wub7owMUm319Q1iSMQWxgO81lLgqIoPEDHRyRNxaLx4xNkI6tJvraqUDXFgBJ09SKQNrgUFWUcoZFOBI5eCEiNqI1TzIOrPhjXqif3YcMcUUDXvPYBKFN7o8/cLWR3ICMD34lhqm9EBqRrANvRJLK+qagKHzgDTCiCLKtcdQSisY9aG9cAa4vgLLCE20zgqAM3nXyQabyaHG4;ecBw66Mh6QFvlvXZuZ9+sA=="
 ---
 
