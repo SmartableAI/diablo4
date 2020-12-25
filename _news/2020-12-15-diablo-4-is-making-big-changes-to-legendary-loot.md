@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-making-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-making-big-changes-to-legendary-loot/ar-BB1bXaal"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
