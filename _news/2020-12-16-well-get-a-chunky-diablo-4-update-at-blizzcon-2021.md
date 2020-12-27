@@ -1,12 +1,12 @@
 ---
 category: news
 title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
-excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Quarterly Update, game director Luis Barriga wrote that the game's development ..."
-publishedDateTime: 2020-12-16T03:36:00Z
-originalUrl: "https://www.techradar.com/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-webUrl: "https://www.techradar.com/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-ampWebUrl: "https://www.techradar.com/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Diablo 4 Quarterly Update, game director Luis Barriga wrote that the game's ..."
+publishedDateTime: 2020-12-16T14:48:00Z
+originalUrl: "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+webUrl: "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
 type: article
 quality: 107
 heat: -1
@@ -139,6 +139,6 @@ related:
         height: 495
         isCached: true
 
-secured: "Tg3+XTkIvLBgaufG0/zOXiZEdmktNIybwcf9aWx2atZw50FFH4zEU/OrUGSjKm9j2k9yVictlIJLQZfg5Ku+5E3YZWSeCAjK3VmBE+7ZCDksig+j/zzQpEBc9X5Fre7lfFXR6AjEqiMxc7ONVWlPy9Af5VJy7vhSdbyS8i8EDm5QGAL6phTI+XuHliT0zvu9tZCL52SNMJZ139M2q42AK70cpxmJEV9zPPsVs08RQ+8/BPj89Sk7BRp2BA9ozVS2bq/kaw9f+wr05WYirAUF5yVQ80+JBznF30fX3eRt25Z+ICJ5ZhamUdlzN6Dnt/OivSgSRabNETWkohrKnuejzeUO+5yVFeYfB0qpgZQK7vE=;/230yp4MBZrtMUJypJUEDw=="
+secured: "y6S+9bdU2yrzGEE6HZY7i5xMgo1i/G1jbZFl5eXdGZOIkZ1YxbAExogntl8I1smCbgzAHBq9V3f0VXH677CDgCGDLK8ww75wspCypov7xxu8zhnYkg8Wwb/H125SToTzMAqXlE19fu8UgN2NMv8/Qwx86a0D2UXJ/AfOiMIudSHA9S+kaB86iqtL0Omr0EmFCLmPFd5xVE5CS2/o476TlCQfZ6dDGvzuaDnAQjbEbVC8j9uX9IuYYfqrZHGFfqcYHRhvxPRy9kTZFXXQC17WLZkbTNVKJjsjAayxIdA0dOZWIxw2pkr1OhJ05/OSNyYQKHaoXC4lLnUJhMY6c1rxK7CLFnhIlVfddKPOzrMpplY=;Bc0vqD2FoXq+JwxXTUl6/g=="
 ---
 
