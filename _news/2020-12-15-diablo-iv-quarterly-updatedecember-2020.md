@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020"
 type: article
 quality: 162
-heat: 224
+heat: 225
 published: true
 
 provider:
