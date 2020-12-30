@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-29-diablo-immortal-release-date-expected-before-diablo-4-but-blizzcon-the-key.md",
+      "title": "Diablo Immortal release date expected before Diablo 4 but BlizzCon the key",
+      "excerpt": "THE Diablo Immortal release date is getting closer, and while it's expected to hit the market before Diablo 4, BlizzCon 2021 should offer the best answers ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-29-diablo-immortal-release-date-expected-before-diablo-4-but-blizzcon-the-key/index.json",
+      "webUrl": "https://www.express.co.uk/entertainment/gaming/1377858/Diablo-Immortal-release-date-before-Diablo-4-BlizzCon-answers",
+      "originalUrl": "https://www.express.co.uk/entertainment/gaming/1377858/Diablo-Immortal-release-date-before-Diablo-4-BlizzCon-answers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-Immortal-1377858.jpg?r=1609280144975",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/entertainment/gaming/1377858/Diablo-Immortal-release-date-before-Diablo-4-BlizzCon-answers/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1377858/Diablo-Immortal-release-date-before-Diablo-4-BlizzCon-answers/amp",
+      "publishedDateTime": "2020-12-29T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-diablo-4-release-date-trailers-news-and-rumors.md",
       "title": "Diablo 4 release date, trailers, news and rumors",
       "excerpt": "Interested in Diablo 4? Then you need this handy guide full of everything there is to know about the upcoming game from Blizzard – including what to expect and the Diablo 4 release date.- It’s been ...",
@@ -61,7 +103,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1089,48 +1131,6 @@
       "provider": {
         "name": "Smithtainment",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
-      "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
-      "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
-      "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
-      "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
-      "publishedDateTime": "2020-08-18T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
         "images": null,
         "publishers": null,
         "authors": null
