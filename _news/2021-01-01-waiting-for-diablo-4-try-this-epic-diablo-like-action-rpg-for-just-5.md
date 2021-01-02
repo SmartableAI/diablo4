@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/77032/waiting-for-diablo-4-try-this-e
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77032/waiting-for-diablo-4-try-this-epic-like-action-rpg-just-5/amp.html"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
