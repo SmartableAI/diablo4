@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likel
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/"
 type: article
 quality: 107
-heat: 247
+heat: 248
 published: true
 
 provider:

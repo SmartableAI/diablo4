@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-01-waiting-for-diablo-4-try-this-epic-diablo-like-action-rpg-for-just-5.md",
+      "title": "Waiting for Diablo 4? Try this epic Diablo-like action RPG for just $5",
+      "excerpt": "Can't wait for Diablo 4? Tired of Diablo III? Try this awesome action RPG on Steam for just $5 and relive old-school aRPG action.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-01-waiting-for-diablo-4-try-this-epic-diablo-like-action-rpg-for-just-5/index.json",
+      "webUrl": "https://www.tweaktown.com/news/77032/waiting-for-diablo-4-try-this-epic-like-action-rpg-just-5/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/77032/waiting-for-diablo-4-try-this-epic-like-action-rpg-just-5/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/7/77032_33_waiting-for-diablo-4-try-this-epic-like-action-rpg-just-5.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/77032/waiting-for-diablo-4-try-this-epic-like-action-rpg-just-5/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77032/waiting-for-diablo-4-try-this-epic-like-action-rpg-just-5/amp.html",
+      "publishedDateTime": "2021-01-01T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-diablo-immortal-release-date-expected-before-diablo-4-but-blizzcon-the-key.md",
       "title": "Diablo Immortal release date expected before Diablo 4 but BlizzCon the key",
       "excerpt": "THE Diablo Immortal release date is getting closer, and while it's expected to hit the market before Diablo 4, BlizzCon 2021 should offer the best answers ...",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.express.co.uk/entertainment/gaming/1377858/Diablo-Immortal-release-date-before-Diablo-4-BlizzCon-answers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -52,7 +94,7 @@
       "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -205,7 +247,7 @@
       "originalUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -1090,48 +1132,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement.md",
-      "title": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT",
-      "excerpt": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT Blizzard Entertainment was forced to cancel its annual BlizzCon fan ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=xKnfRkaePPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKnfRkaePPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xKnfRkaePPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-26T17:39:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
