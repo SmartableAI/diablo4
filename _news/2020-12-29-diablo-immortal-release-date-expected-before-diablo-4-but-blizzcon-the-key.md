@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1377858/Diablo-Immort
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1377858/Diablo-Immortal-release-date-before-Diablo-4-BlizzCon-answers/amp"
 type: article
 quality: 105
-heat: 127
+heat: 129
 published: true
 
 provider:
