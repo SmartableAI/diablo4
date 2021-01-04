@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/a
 cdnAmpWebUrl: "https://www-dualshockers-com.cdn.ampproject.org/c/s/www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: DualShockers
@@ -24,22 +24,6 @@ images:
     width: 2560
     height: 1600
     isCached: true
-
-related:
-  - title: "Diablo IV Quarterly Update—December 2020"
-    excerpt: "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays."
-    publishedDateTime: 2020-12-15T17:57:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/qc/QCLQ69PQP0RZ1607723436521.jpg"
-        width: 880
-        height: 440
-        isCached: true
 
 secured: "hDCHxMRKv2EcosBujxMMZYCBozml2tFt8e7ymUMtdNpxu4sK8FPt9+aUpR2aW5O+qzFt8v+h0n2q5QgrSgPZ6+cAI9lpR8m+BKn9q0CzjaL54A9yI6D7Cbwsp8c6D7u+eFhmmC5kOsq6I04LwcSDpbGRjPJbzC0uz55uDTzvNxm3MZdIC1TJU01SZw/0Kdbw5/Fw1iq2swrCrXGI0xpi5GHz9DfioBvcBfGjylUO0BsmO1Ix0k1dk3vW0HqZsaW2Jvxk1Bmb0Wekj7PWdxAATcclrLIvEw1R3Ne06NpdsZb6ofvpKyvqjUFKKD5h186sjO28CrXFpAzwaJNE9j3RDUgyrbh/NrlmKUKVqWOuxrA=;X/ZWZ3WTXuq6Pr3yYhArGg=="
 ---
