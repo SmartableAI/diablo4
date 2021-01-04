@@ -40,29 +40,6 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "The final Diablo 4 update in 2020 goes into detail on weapons and items"
-    excerpt: "Hell for the holidays. What you need to know Diablo 4 was first announced at BlizzCon 2019. Blizzard Entertainment shared quarterly updates throughout 2020. The December 2020 update details what to ..."
-    publishedDateTime: 2020-12-15T12:19:40Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-final-diablo-4-update-in-2020-goes-into-detail-on-weapons-and-items/ar-BB1bX8o0?pc=EUPP_&c=949370103411161842&mkt=en-us"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bXdWC.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Diablo 4 December quarterly update dives in on weapon types and legendary items"
-    excerpt: "Blizzard Entertainment brings a final quarterly update on Diablo 4 for 2020. This update is all about item stats, item tiers and weapon types, alongside how the developers are using feedback so far."
-    publishedDateTime: 2020-12-15T12:19:00Z
-    webUrl: "https://www.windowscentral.com/diablo-4-december-quarterly-update"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 63
 
 secured: "hDCHxMRKv2EcosBujxMMZYCBozml2tFt8e7ymUMtdNpxu4sK8FPt9+aUpR2aW5O+qzFt8v+h0n2q5QgrSgPZ6+cAI9lpR8m+BKn9q0CzjaL54A9yI6D7Cbwsp8c6D7u+eFhmmC5kOsq6I04LwcSDpbGRjPJbzC0uz55uDTzvNxm3MZdIC1TJU01SZw/0Kdbw5/Fw1iq2swrCrXGI0xpi5GHz9DfioBvcBfGjylUO0BsmO1Ix0k1dk3vW0HqZsaW2Jvxk1Bmb0Wekj7PWdxAATcclrLIvEw1R3Ne06NpdsZb6ofvpKyvqjUFKKD5h186sjO28CrXFpAzwaJNE9j3RDUgyrbh/NrlmKUKVqWOuxrA=;X/ZWZ3WTXuq6Pr3yYhArGg=="
 ---
