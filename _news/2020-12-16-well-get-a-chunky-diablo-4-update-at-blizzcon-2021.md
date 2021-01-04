@@ -62,22 +62,6 @@ related:
         width: 1335
         height: 854
         isCached: true
-  - title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
-    excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
-    publishedDateTime: 2020-12-16T03:34:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal"
-    ampWebUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 107
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/02/diablo-4-cannibals-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
     excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
     publishedDateTime: 2020-12-17T05:31:00Z

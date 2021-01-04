@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
 type: article
 quality: 107
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
         width: 1335
         height: 854
-        isCached: true
-  - title: "“Something chunky indeed” will be revealed about Diablo 4 at BlizzCon"
-    excerpt: "Diablo 4 studio Blizzard has posted a brand-new (and hefty) quarterly update giving an idea of where it’s at with the upcoming action-RPG game’s development. The last of 2020, the post offers a pretty ..."
-    publishedDateTime: 2020-12-16T03:34:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal"
-    ampWebUrl: "https://www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/blizzcon-new-class-reveal?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 107
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2020/02/diablo-4-cannibals-1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
     excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Diablo 4 Quarterly Update, game director Luis Barriga wrote that the game's ..."
