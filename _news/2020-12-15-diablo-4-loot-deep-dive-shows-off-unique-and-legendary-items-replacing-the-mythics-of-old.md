@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-uni
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: GamesRadar
@@ -24,40 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How Diablo 4 Changes Itemization, Including The Removal Of Mythics"
-    excerpt: "A blog post from Blizzard details numerous changes to the itemization in the upcoming Diablo 4, including massive changes to what each tier of items means."
-    publishedDateTime: 2020-12-15T10:03:00Z
-    webUrl: "https://www.gamespot.com/articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598989-trailer_diablo_gameplay_2019111.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4 dev blog explains itemization, scraps Mythic items"
-    excerpt: "Diablo 4's development continues and Blizzard's latest update goes into the ins-and-outs of the game's itemization system."
-    publishedDateTime: 2020-12-15T10:18:00Z
-    webUrl: "https://www.shacknews.com/article/121960/diablo-4-dev-blog-explains-itemization-scraps-mythic-items"
-    ampWebUrl: "https://www.shacknews.com/article/121960/diablo-4-dev-blog-explains-itemization-scraps-mythic-items?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121960/diablo-4-dev-blog-explains-itemization-scraps-mythic-items?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/12/14/combat-caves-multiplayer-drowned-seahag_feature.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
 
 secured: "Mdxw7MvpcQQxMzqkCwxoO7G9fGdwuS4BaR5YVlIq/sCwFuIknyo0TDW1F1UJp9VqJ1JP3yLuyW9KUirxD23mrtyA2jNcoXsEsVCn1g+3gi0t0u+RFXcfwPLuZ8u02c5v9nhcKrJ34zjJ30H1k11xi3kvi8RxPyD+9IpORiuBjywhuGkCicGAGeGAhxda4HUwj9MWFR+lEqC3769IvJPsR5jEvZ+GqPhqruBg1kmSzPQgsAKqt0Bya8E19CViRwvPOLLzp2upRjwoUp48z+P0LkUYKhoR2mxKAoQ5k9aSUb0BTumVcoUSDjiCrDhwoSwkDZAIQ1QXrH/mUC/ixmSV5477a8rnuCnGwTQHk30C6Ng=;uCX1mMbifRxxx43FFfvf2w=="
 ---
