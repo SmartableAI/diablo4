@@ -7,8 +7,8 @@ originalUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunk
 webUrl: "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: KitGuru
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
-    excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Diablo 4 Quarterly Update, game director Luis Barriga wrote that the game's ..."
-    publishedDateTime: 2020-12-16T14:48:00Z
-    webUrl: "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 107
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
-        width: 1195
-        height: 672
-        isCached: true
   - title: "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon"
     excerpt: "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ..."
     publishedDateTime: 2020-12-18T04:03:00Z
