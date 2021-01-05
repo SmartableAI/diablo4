@@ -46,22 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "It looks like another Diablo 4 class is being revealed at BlizzConline"
-    excerpt: "Believe it or not, Diablo 4 was revealed just over a year ago, even though BlizzCon 2019 feels like it’s many years in the past after the nightmare that 2020 has been. Throughout the past year, ..."
-    publishedDateTime: 2020-12-16T09:58:00Z
-    webUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/"
-    ampWebUrl: "https://www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/it-looks-like-another-diablo-4-class-is-being-revealed-at-blizzconline-16651412/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 107
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/12/Diablo-4-campfire.jpg"
-        width: 1335
-        height: 854
-        isCached: true
   - title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
     excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
     publishedDateTime: 2020-12-17T05:31:00Z
