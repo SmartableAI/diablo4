@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Big Diablo 4 News Teased for BlizzCon"
-    excerpt: "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ..."
-    publishedDateTime: 2020-12-16T10:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021"
     excerpt: "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Diablo 4 Quarterly Update, game director Luis Barriga wrote that the game's ..."
     publishedDateTime: 2020-12-16T14:48:00Z

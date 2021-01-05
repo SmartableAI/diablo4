@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-upd
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: TechRadar
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Big Diablo 4 News Teased for BlizzCon"
-    excerpt: "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ..."
-    publishedDateTime: 2020-12-16T10:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021"
     excerpt: "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ..."
     publishedDateTime: 2020-12-17T05:31:00Z
