@@ -2,6 +2,7 @@
 title: "Diablo IV Barbarian Gameplay . (No Commentary)"
 excerpt: "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease."
 originalUrl: https://youtube.com/watch?v=PwON-IvZ5bc
+webUrl: https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/
 type: video
 length: PT21M27S
 publishedDateTime: 2021-01-24T16:05:28Z
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "utCqQOyw8ZzERqLXlEJZZNeipzKQQOblbTQZVZccyC8Cr7sF/EfjHRqMET6IIYsKytLQ9SL4OviqHE3cOc/4FTgvIZpGxR7/vTask7h2D6fhv5A3Dh5vaUn094kX4RLJ7W+lvIzNBkMKBJcLiZ2foGFQhPFc1Ikedbq6MzU5ULQjHgZJg24VEXTem365LSUuymuULyNdyaVrwb9k7tovdktrerG3KEkC+IZFYEnB78IH3BCDJoINXiJoYLQIcFaSJwixpd/SbY1CESoMx5B8gcdqJzIrPh8D5jcdaw0fXm3c0q26/1ZbMF/VRxYqbDl1Xl99bDdHczxmxEGQ0gPgS/u1NIugDyu2oocEtmZfCsLj/sUEJCPYtNvS2+FkLO/SprPQqcg917o3GiDmyuyMig==;oyd8dxh5cdKW0P2je6KboQ=="
+secured: "oXNbDmGO13cI9G1cHG4Fbd6rOhHc61fhZQwHeIFWD+wz+JF1pNngxBTxAaWFacQhJPXZWz1swGGwhPsHkdZ4mDsgJLlZj/+AlOYwjDPhkTaYtgDezdRUoQ5+gcZPvL76s41LwTxvsRodt30HL/h/CLhQeJjbN6C9kj5ZnZ8eXvjGE7PFDBp32x7k2+iaEIAL6DWgneY09wjwUSEYiEmNc3G3si82P7eDdGMO3br5dKJ6MqZZi/BVwpVxNiigJfFdYJVmrgHytabmPIIxRYJi7bEI2WVc7ftuMWbxy44mdzkpFLB+1S8PMYeRJfRK0AJ9ma38EjewaZVMqsaQy0AHgDZ+5Bq7dXSr7xbDMo2i/uePpIcbPXnjzubCWLLr8WiwcNjLuJ9A7BLSs0rJqIk7YA==;/BvUdplcVHO2oNd/JzhqHQ=="
 ---
 
