@@ -145,7 +145,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 57,
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
@@ -219,37 +219,6 @@
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
-      "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
-      "title": "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen",
-      "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/",
-      "originalUrl": "https://youtube.com/watch?v=5ITKehCJHUk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ITKehCJHUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M28S",
-      "provider": {
-        "name": "Bajheera",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ITKehCJHUk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-06T08:30:33-08:00"
-    },
-    {
       "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
       "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
       "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
@@ -312,37 +281,6 @@
       "publishedDateTime": "2020-06-02T05:00:34-07:00"
     },
     {
-      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
-      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
-      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M3S",
-      "provider": {
-        "name": "GameTrailers",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:38:31-07:00"
-    },
-    {
       "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
       "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
       "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
@@ -371,6 +309,68 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-06T06:11:03-07:00"
+    },
+    {
+      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
+      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
+      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M51S",
+      "provider": {
+        "name": "Yurii Pit",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-01T21:17:18-07:00"
+    },
+    {
+      "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
+      "title": "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen",
+      "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/",
+      "originalUrl": "https://youtube.com/watch?v=5ITKehCJHUk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ITKehCJHUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M28S",
+      "provider": {
+        "name": "Bajheera",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ITKehCJHUk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-06T08:30:33-08:00"
     },
     {
       "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
@@ -496,6 +496,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-16T17:31:17-08:00"
+    },
+    {
+      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "GameTrailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
@@ -864,37 +895,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T01:00:07-07:00"
-    },
-    {
-      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
-      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
-      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M51S",
-      "provider": {
-        "name": "Yurii Pit",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-01T21:17:18-07:00"
     }
   ]
 }
