@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo IV Announce Cinematic | By Three They Come"
-excerpt: "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike."
-publishedDateTime: 2019-11-01T18:05:30Z
-originalUrl: "https://youtube.com/watch?v=9bRWIdOMfro"
+excerpt: "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo."
+publishedDateTime: 2019-11-01T19:01:45Z
+originalUrl: "https://youtube.com/watch?v=0vE3rAjtqUY"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo
+  name: Game Clips And Tips
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/9bRWIdOMfro/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "wE3lV7FUrHqWsAY+IWeeRhjWxogEWLtBgVAscGHvwYV9aMKXojgCXNjVOKiGFj+NK/Ky7zdNWGh9XHPs8jvJUJslC6yoFk7/BiOGvO3wuJPSKjwXGuT8x4Kyc2USQks3aSAVhJIcnASsgIynIIuYWYe/hsVVEijORDtirJtnUIB/yX5lDCSgtXaEiaLIMJdrXXTLrmx5IfUwH7hMNhFflWLcSbiQDBSlhY/loUKy4Q+nGG088q7Du7aCc1xtmiltvvi/AQEEvBIOrGf9G1w72Xz5JnEKMO7LZlbCF5tK7hven0NVkuWJp1YgIPPiLhCF687MjTOlF2qOCerYEMXdWKc24a20vi0vI2ZaZGAQkvFQUbmmu1fS6+zhtMBoPMlX74hzEbOH9LyMJSvOASyoNg==;A5RR+AlP2eG2fYGJH5iXcg=="
+secured: "zFgAwdZ6Q0qMt244O/j4MV0SnXgbUny+rhWzdN9ndns2dCa5SblmNikXwMmARXSpVz8lDq6MgVxEf3tEQ8UByoTeXsx06iHgGK5GO7oruihcpn9xcC9hy0kAuLV753SFF7SI2/L/+XSZgc5xPoZcVu5nJROqnzagIKN1WbWOJbG2yT2aMLjeo3JooQT8EXZHTT7Pv50E1gfpanuWzU7l+q8cP2BdLbNkyjhRbRH/zCWH8Z/FKIR9PWYOAQ+aR/PWK+XaaR/E975MYMDUY/Me+29a/BPZPa/IvT6CaYVC7TZ9zSxzPkgDqdNMzJacSNx0JS3iCr49coQ6aTeXFxrDmr21r2iOmCEatmdwrCj23H9u5d2++q1ugk0EmpCIgFncNyNcH5uQe5kbYbIEw48Ogw==;0bd1hOra2JkVqYSfjxIxjw=="
 ---
 
