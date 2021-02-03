@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-s
 type: video
 length: PT7M56S
 publishedDateTime: 2020-09-30T15:00:11Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uAsjTejLQ0PpBUJfjMbyCoEUWtCbDtaafXc7gnTddd78BfMixP4choSRI4S9vqsnT6l1Trob1yZq20NCjhD3J2JSfQaKibRIN8ZdlTDXcFx5fEZMGcfXqamcw7qYUAEwngg20R55227FASUmG4VcZ/OquiXdU/Inw/7UwP5dyU08ORPXELKJkZ6DL7sJTrCz+Kzxm6MIOoZnlXZeu58nWz3we5sNxDy7xF8K1hGopHU6tTWDp047L4JpJELimikz7WfLCT/bYzrjaVaiCCMa4BuDl9wi8HmV54hRKYIYZkp3LILFjg5FpFHyDFIqCUIp+6tDHuZxAF7D63Db9s2jQ6ejB+md/Kdn/39vWU3G71tg4Li2cnVlY46TZSmVB5iaKInv2Pm4jqzBhxsHvulLDZCrSPAVWwF5Kyz98y6tKnA=;JWOEmC5lJzfyJ3VqotGEtQ=="
+secured: "h/xUQfS7PIQc8AMjVwZTBDCT3mHF/rKr19+nA7NdhLJw1zFQqTI+yMjGT/We9d09fJOXZj5+AsKsW589/Ix0ZGiHrAJEXimGABKNZetGZD0pM1JOD8WUF4sJt2rkQ/lIsbpuy5wsEiIKTi7SroGrj6sNF3V9/CVXbiElH1RYaT6O5Qa7w0kcTiKwGgNUkxQ89mjnXPLB122W00CvsgANH4nzgvRhpkKhegjNfrK+xaHnvy9sW/RHLy2anilQ80HB6JkQ+F6T4qm069/Zh4pHrOiZeBJMlOg2Te5KcXJcnPZxG+scOo2kmfEDsqrHZpI5I1GjEZjUzVpsjDZ2uS797RbPNUHlkcXpKitqLfRgdwDsVnn+x/W4xFeC66kiFsEBVyONh/51lhVf0mG7ZKacuxyPUmw9TfGn3yhn0gEfWe4=;9ZkFLjvflu0CdOfideHYRg=="
 ---
 
