@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=uij9ysBKs4w
 type: video
 length: PT20M33S
 publishedDateTime: 2019-11-08T14:00:15Z
-heat: 68
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uij9ysBKs4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1fSlTc1DPyBVrCLzmWT8/fYccVWa2+iXIcyp2QkjFoY82nJnHU0/1CfAr3aurQoCBhVA06UWKnhO19aAOcwAUQDnglYORRAS2MDUlNYE/QDjci5QYT/JG3xL+0yar2EwULlpCBiI6NB6N7HXzWInFsJ9MmwWTxZuvW6iTSOxGUXxecgDtW/+osGuTq5fj7vk/rFEhoOIlL5Bm1XYTB5ru4I2fvgd6Ws9Ys4gWWxgjWcPReEqe5JALdM5hDlL6b/p8M+1DvnrQCqNxxHiqmPU3Ra+WFGIFKdCM1ATuwZr5x3APAGSUtLk4Ieh/6JStf2h47Hwhqg/fftDQ9UYVVatrN+Ir34jALwZ71+jAgRvLdNK+XFN9aHSVaZPy6Fdosr3mXjBIeibtBOdmqV/LjyBgwq2ByB+A9+1g8rdgbf6ErH9SI9bSIJ1oBLof8Ur5sd1;UISHO+ACpg+aHMz2Efdq9Q=="
+secured: "7qWCHbnmYJPX7BejQXT6cnZ5w8AWiqr0XWe0pR4NASWo3/a7OBg+YLDW4wxnAW1kGHVetDbzENGnZLi9GHfV92z1vytZh+bOaTewBmnTyQqzpyKYfeyWaX1ff6kKnKpqx50T/EAzvYsaCKT7UAfKgPIYkahCBVzrW16PSp3W7dN0tL/lmL/qXyJn5Vo4+PkuxSfxYb2rKpFLbRK4LeDf8Qb3GE0aYC2dUSMzsDr1KKkzX9XmL8pvAw99fu6/tjW/9tVMvilzKXl5ytW69M5XBWJdujtNdw0Pbuv+AFZYL27L0ZJHBzILL5zXkV583nurP5FD8sAmh9cUzw6BEj9R20jIxmfkFZd+dqGxqdifB4YkCkQBOmNgVB3lSxCTsDYuKKGFD6G8t9s7WTzs6NrDd+dE4HSl2LDrijYGLOKaL/1MIY3CwNzkjnoUs6+DOxnH;C6dC8HdRFHZcwWfuKyrwIg=="
 ---
 
