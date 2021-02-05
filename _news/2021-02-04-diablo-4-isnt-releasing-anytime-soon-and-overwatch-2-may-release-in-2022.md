@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
+excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
+publishedDateTime: 2021-02-04T15:49:00Z
+originalUrl: "https://www.psu.com/news/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022/"
+webUrl: "https://www.psu.com/news/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022/"
 type: article
-quality: 107
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: Play Station Universe
+  domain: psu.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://www.psu.com/wp/wp-content/uploads/2021/02/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022.jpg"
+    width: 1301
+    height: 735
     isCached: true
 
 related:
@@ -39,6 +37,22 @@ related:
       - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 107
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
     excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
@@ -146,20 +160,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
-    excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
-    publishedDateTime: 2021-02-04T15:49:00Z
-    webUrl: "https://www.psu.com/news/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 86
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2021/02/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022.jpg"
-        width: 1301
-        height: 735
-        isCached: true
   - title: "Activision Blizzard says Overwatch 2 and Diablo 4 likely won’t launch in 2021"
     excerpt: "During its 2020 earnings call, Activision Blizzard said it doesn’t expect Overwatch 2 or Diablo 4 to launch at any point during 2021. A new Call of Duty title will be released this year in Q4 as the ..."
     publishedDateTime: 2021-02-04T15:21:00Z
@@ -189,6 +189,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "rTnRUdgLoRSJheiTa02nhCOag4A0QCm3obmRtcWsBWZFAhXIkDJ++eDYTxjm8JFVdUwbGQ9c1tbdXZwbQJ3E0Vam/Of2M0MB4HDCF3GzSmYeU6ZPKuPkPnrl8wZoScBif5N4s43XXb+dI0G0xHhqte+zwbAL2zigWwRSLotCV5n4WrVOdwmXz2S3qVPmvdqQtRc00YCzoZJMNcTFsOmcaQZR22TVZVk2eIhcAhW6tXo8o9JYOKiMMmq03/SCsZOuW3hZD/17bmGaC+Y+sKg9DtBmkFbKgDy2eEHqlxdlj0czbPw72fBhVpQBDkuBtuTQMcgxMHZugsmEGGL7IgQjkyML3BWT2MGoZNFh93KXAFo=;/1JYrgYI1GvJTksKhnk/kg=="
 ---
 

@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
+excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
+publishedDateTime: 2021-02-04T16:49:00Z
+originalUrl: "https://www.techradar.com/in/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
+webUrl: "https://www.techradar.com/in/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
+ampWebUrl: "https://www.techradar.com/in/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://cdn.mos.cms.futurecdn.net/d7af34b202988b017d60b9c4bae774b8-1200-80.jpg"
+    width: 1152
+    height: 648
     isCached: true
 
 related:
@@ -40,21 +44,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
-    excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
-    publishedDateTime: 2021-02-04T16:49:00Z
-    webUrl: "https://www.techradar.com/in/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
     quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/d7af34b202988b017d60b9c4bae774b8-1200-80.jpg"
-        width: 1152
-        height: 648
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2, Diablo 4 Won't Release in 2021"
     excerpt: "Activision Blizzard held a conference call with investors on Thursday where it confirmed that neither Overwatch 2 nor Diablo IV, two of the company’s more anticipated games, will be releasing in 2021."
@@ -189,6 +193,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "sbxM4gmJJprHboBs8K7G2KG/GcItwIJN50/nNP2Z3quydTaNVNH9O/Ryw0yt2yaTihpwPn9IRhFnXhA4UAB88QKy0S3nRmR33SyFidYR8Qu6EgbED6jdnLW3RG+scKWT/NL0UNSi7COgfubIqtWyI2BWgdsTGA62EGT0FwI9T010huqcxI3x6wj1nQ97IvqQVtVrn64FkfkGWXiWYAkfzQuL/AlN6vxULgV0GdXPL4v8yZ1bkcojxxeHJSmdcCSuhJx5Y7xE33jCtq2iwXqIcKwgve3eHuj5EArXjXV4sJi4g1LStivtdTFwNWgmRaSSmtHoF3np3B7SyoVWbENsGupR2bJj0n2jzaJrmu2temQ=;/lf793Py4VSWHw+kFxCa/A=="
 ---
 
