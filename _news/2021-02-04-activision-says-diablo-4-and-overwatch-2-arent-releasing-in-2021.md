@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021"
-excerpt: "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021."
-publishedDateTime: 2021-02-04T14:46:00Z
-originalUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
-webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
+title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
+excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
+publishedDateTime: 2021-02-04T18:09:26Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/ar-BB1dpano"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/ar-BB1dpano"
 type: article
-quality: 127
-heat: 367
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dp5u7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=773&y=560"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021"
+    excerpt: "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021."
+    publishedDateTime: 2021-02-04T14:46:00Z
+    webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 will not release in 2021"
     excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
     publishedDateTime: 2021-02-04T14:30:00Z
@@ -107,20 +117,6 @@ related:
       - url: "https://www.playstationlifestyle.net/assets/uploads/2021/02/Overwatch-2-diablo-4-release-date-2022.jpg"
         width: 1307
         height: 787
-        isCached: true
-  - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
-    excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
-    publishedDateTime: 2021-02-04T18:09:26Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/ar-BB1dpano"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dp5u7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=773&y=560"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diablo 4 and Overwatch 2 won't release in 2021, says Activision"
     excerpt: "During a conference call accompanying its Q4 2020 financial results, Activision Blizzard confirmed that Diablo 4 and Overwatch 2 won't release in 2021. These games were first revealed back at BlizzCon ..."
@@ -207,6 +203,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xNDOtuFS+S/0CuTPcwc3xdIqFc7oD5SKB54RINB2dH1G1qiM723Ipm6/gXb2gGkmYjtCpdpPhNtFMXiyVO0tH2QnDYeCQJrXU++9Nf8xeCvim0n+tki/+oe81fEYHIVOV0igBC/ohqDbMtWERabQutTPQ8SWUZX1LDN+2r5gifmkw9KL9PUrSs4biguhKKpm+6TvaRgsmF5P+TzuiC1ZLu2pPipTwuFiBW10NFuHVHds3HTziGO1LZ7dU4yjf4fFw9raRH1xdgIrfJHcX1QZ3qS1UFeA+VA07R3gwPQ8kCZktToqJ7av5dmy+HkaF4hzNrXAxQ3xfwpQ4ISYbZ9IbgMPHzrnJm2Zvhi6DWcYgaY=;YDqaSnJ5GbJmmmDTMYOV5w=="
+secured: "Nf65+7bG46X5C6hLlNw0RCL1rNeqWCretai0UNxu5gcldJ143Bsok4m00mlmoNhBJm+3TKkCZlNYMtDMZjvXS2+QlFk/q2bvyhPcKn9SFb1nXCZguk7QxaoGq0hFb07IbajQDfztrJUGTBx7601Kd/dvCwaxCzbtF0I8NRuohy460cwXNDSlFDRT0t0fRXKXoWoKtZyD/lNdKJY54obfmb/n2gysZfeaePfSOs+skSTnMuY+jeyCWKgPsLnRndzbmjDeD+PlGQOa+Lfm1coLH9e4Xpb1AKVBQwr2esZVPuTX9ijI89jCDAq9JNugOu3bgkZ6AoehHrhZrTv62LOQ4RV0nXldQxNY1yYW1NmiS7E=;vMohqIuJqlHsMd7EEA6z1g=="
 ---
 

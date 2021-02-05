@@ -108,6 +108,20 @@ related:
         width: 1307
         height: 787
         isCached: true
+  - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
+    excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
+    publishedDateTime: 2021-02-04T18:09:26Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/ar-BB1dpano"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dp5u7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=773&y=560"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 won't release in 2021, says Activision"
     excerpt: "During a conference call accompanying its Q4 2020 financial results, Activision Blizzard confirmed that Diablo 4 and Overwatch 2 won't release in 2021. These games were first revealed back at BlizzCon ..."
     publishedDateTime: 2021-02-04T14:41:58Z
@@ -165,9 +179,9 @@ related:
         height: 735
         isCached: true
   - title: "Activision Blizzard says Overwatch 2 and Diablo 4 likely won’t launch in 2021"
-    excerpt: "During its 2020 earnings call, Activision Blizzard said it doesn’t expect Overwatch 2 or Diablo 4 to launch at any point during 2021. A new Call of Duty title will be released this year in Q4 as the ..."
-    publishedDateTime: 2021-02-04T15:21:00Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/activision-blizzard-says-overwatch-2-and-diablo-4-likely-won-e2-80-99t-launch-in-2021/ar-BB1doNqH"
+    excerpt: "The company did confirm a new Call of Duty title for Q4. The post Activision Blizzard says Overwatch 2 and Diablo 4 likely won’t launch in 2021 appeared first on Dot Esports."
+    publishedDateTime: 2021-02-04T15:19:54Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/activision-blizzard-says-overwatch-2-and-diablo-4-likely-wont-launch-in-2021/ar-BB1doNqH"
     type: article
     provider:
       name: Dot Esports on MSN.com
