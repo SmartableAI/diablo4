@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Activision Blizzard, Inc.: Activision’s Strong Q4 Driven by CoD Expansion; Diablo 4 and Overwatch 2 Launches Likely in 2022"
+excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
+publishedDateTime: 2021-02-05T06:20:00Z
+originalUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1612508323000"
+webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1612508323000"
 type: article
-quality: 107
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: YAHOO!Finance
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -39,6 +37,22 @@ related:
       - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 107
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
     excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
@@ -393,21 +407,7 @@ related:
       name: Kotaku Australia on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Activision Blizzard, Inc.: Activision’s Strong Q4 Driven by CoD Expansion; Diablo 4 and Overwatch 2 Launches Likely in 2022"
-    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
-    publishedDateTime: 2021-02-05T06:20:00Z
-    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1612508323000"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: yahoo.com
-    quality: 61
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        width: 500
-        height: 500
-        isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "jeOJNvwAhiHhOB+iI/KnwY9xuXno59IU7sTvqL5pjz7sAU97ET0vSa+li1QHwQuIORpPTJmA358lB/K5irI+9c26oJOX0ixOOBr8JBZTWHl6lKbdwUu33FzGFnyIbKSdZEQIskrJeINmUHBvJhQdEOS48Q5oQhyEOmmFKmJ1Uf+4KTGXwSnpqU/v4FbgyNGdh9faYs/3BPKelkEPQEuWcPOV0p8IDQI46mCULfv2s6XijBMubT7eNiWNrs2xFanefcC+zLPFhWNYhyP95VhclhnL66fuFPbjNxkDt96z+/s1UisDqTBLLZn9V2OpwKBougzPmlWncDL3SgWUcK1/smkEI/KE/tUbO7MJeSqubMk=;qf1m/w7WZMGHpB0hiFY+Uw=="
 ---
 

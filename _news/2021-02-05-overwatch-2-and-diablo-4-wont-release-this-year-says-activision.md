@@ -3,8 +3,8 @@ category: news
 title: "Overwatch 2 and Diablo 4 won’t release this year says Activision"
 excerpt: "Activision Blizzard’s recent earnings call has confirmed that neither Overwatch 2 nor Diablo 4 are expected until 2022 at the earliest."
 publishedDateTime: 2021-02-05T01:39:00Z
-originalUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/"
-webUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/"
+originalUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/?ico=more_text_links"
+webUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/?ico=more_text_links"
 ampWebUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/amp/"
 type: article
@@ -120,6 +120,38 @@ related:
         width: 1920
         height: 1077
         isCached: true
+  - title: "Don't expect Overwatch 2 or Diablo 4 to launch this year"
+    excerpt: "During a recent earnings call, Activision Blizzard confirmed that both Overwatch 2 and Diablo 4 will not launch this year."
+    publishedDateTime: 2021-02-05T04:47:00Z
+    webUrl: "https://www.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
+    ampWebUrl: "https://amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
+    cdnAmpWebUrl: "https://amp-truetrophies-com.cdn.ampproject.org/c/s/amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
+    type: article
+    provider:
+      name: TrueTrophies
+      domain: truetrophies.com
+    quality: 107
+    images:
+      - url: "https://www.truetrophies.com/customimages/carousel/060292.jpg"
+        width: 670
+        height: 377
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 won't launch in 2021, Blizzard confirms"
+    excerpt: "Blizzard has confirmed that both Overwatch 2 and Diablo 4 will not launch this year. We're expecting to hear more on both games at BlizzCon later this month."
+    publishedDateTime: 2021-02-05T04:04:00Z
+    webUrl: "https://www.trueachievements.com/n44616/overwatch-2-release-date"
+    ampWebUrl: "https://amp.trueachievements.com/n44616/overwatch-2-release-date"
+    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n44616/overwatch-2-release-date"
+    type: article
+    provider:
+      name: True Achievements
+      domain: trueachievements.com
+    quality: 107
+    images:
+      - url: "https://www.trueachievements.com/customimages/carousel/099712.jpg"
+        width: 670
+        height: 377
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 won't see 2021 release dates, says Activision Blizzard"
     excerpt: "In today's earnings call, the company warned investors not to expect a release this year from its tentpole franchises."
     publishedDateTime: 2021-02-04T14:55:00Z
@@ -167,6 +199,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/overwatch-2-gameplay-trailer.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Blizzard Says No ‘Overwatch 2’ Or ‘Diablo 4’ In 2021, Which At This Point, Is A Good Thing"
+    excerpt: "The “bad news” as it were, was that Blizzard is still not really…putting out any major projects. In the report, Activision said that neither Overwatch 2 nor Diablo 4 will arrive in 2021, not even ..."
+    publishedDateTime: 2021-02-05T07:13:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
     excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
@@ -237,6 +285,20 @@ related:
       - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
         width: 795
         height: 478
+        isCached: true
+  - title: "Blizzard Says No Overwatch 2 or Diablo 4 Launch This Year"
+    excerpt: "Fans of Blizzard video games hoping for new titles in the Overwatch or Diablo franchises this year will be saddened to hear the latest news. Activision Blizzard announced in an earnings call this week ..."
+    publishedDateTime: 2021-02-05T06:05:00Z
+    webUrl: "https://www.legitreviews.com/blizzard-says-no-overwatch-2-or-diablo-4-launch-this-year_225654"
+    type: article
+    provider:
+      name: Legit Reviews
+      domain: legitreviews.com
+    quality: 87
+    images:
+      - url: "https://www.legitreviews.com/wp-content/uploads/2021/02/overwatch.jpg"
+        width: 1220
+        height: 813
         isCached: true
   - title: "Diablo 4 and Overwatch 2 won’t be releasing this year"
     excerpt: "Back in late 2019, Blizzard announced both Diablo 4 and Overwatch 2. Neither game has been given a release date yet, but many had hoped we’d see at least one of them in 2021. This week, Activision ..."
@@ -331,7 +393,21 @@ related:
       name: Kotaku Australia on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Activision Blizzard, Inc.: Activision’s Strong Q4 Driven by CoD Expansion; Diablo 4 and Overwatch 2 Launches Likely in 2022"
+    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
+    publishedDateTime: 2021-02-05T06:20:00Z
+    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1612508323000"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: yahoo.com
+    quality: 61
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        width: 500
+        height: 500
+        isCached: true
 
-secured: "2DpYW9R3G2O5VzxhFyM7kcic24WyMJoy/NAdsHlCebxRmEhNHB2kdQawvPzqCD9yaTzh7qwrV+WwklPnCbSzZSbV6F1KPJvkOjvqTsZ8MGNyabPukontXl+waPjAbFosdJCjVZdGdG261zj1Vyf/sDlYW7omkegy9poHGQkRDFVPzux6siEp6+MPbqfOBkZxMzEToAuBHa37RBzr7/KaFUTMSTK6B2H0x0PiLa3LLoO2f2R1UV0Qhy9MeScjJhJVDk7qaYwLyB+1ODz9t1MpO9R0mArYfN66AR8v+V47xP+Bo4YcJyZtbNTFFj7hj8PwRHLqVAA2iDZBr6Ybd3Eg9iYuFb94MoxeZLrQMYGqIdI=;+Hb7iNJo0eJFXSVjx1khag=="
+secured: "IkUNWG4euBVqLc3dDQ08A8NJeDZl73wpPNf617ULDqytSNLncTkpRhwVjIiTTJEm2L/re/ys55UL61h7p2Xf2L5I55XK3sVmPbiFoLuF8dtfhVnSWiN9vDpQgLMLurGdK9OYpTci4EIScgFdI4KFygkZDKufpdCPwPuIN6+SuJ0TxcDueCHd9F7u3RHuugz6xRJu5/KTvlA03AHwHIJ3GQF5Un2Pl+KvzPQbeWG70ALvrJYm/j1ZvUxZrbY6Pv6NIkIEs+lYi8beoymfYYgkOGgH/dsDeIahZ8TnEO66pU5Zdcoo7zx0Scc34x4T+4kKEUiQK4RW+DIpo0dpuQg/jNNqEgAZujEGzWdnqDD3k44=;6Zm9VRTdb6KnToDeK4xkwA=="
 ---
 

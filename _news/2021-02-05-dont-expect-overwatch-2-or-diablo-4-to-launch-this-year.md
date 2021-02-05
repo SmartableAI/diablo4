@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Don't expect Overwatch 2 or Diablo 4 to launch this year"
+excerpt: "During a recent earnings call, Activision Blizzard confirmed that both Overwatch 2 and Diablo 4 will not launch this year."
+publishedDateTime: 2021-02-05T04:47:00Z
+originalUrl: "https://www.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
+webUrl: "https://www.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
+ampWebUrl: "https://amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
+cdnAmpWebUrl: "https://amp-truetrophies-com.cdn.ampproject.org/c/s/amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: TrueTrophies
+  domain: truetrophies.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://www.truetrophies.com/customimages/carousel/060292.jpg"
+    width: 670
+    height: 377
     isCached: true
 
 related:
@@ -39,6 +39,22 @@ related:
       - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 107
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
     excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
@@ -103,22 +119,6 @@ related:
       - url: "https://cdn.gamer-network.net/2021/articles/2021-02-05-09-38/dont-expect-overwatch-2-or-diablo-4-in-2021-1612517907365.jpg/EG11/thumbnail/1920x1077/format/jpg/quality/80"
         width: 1920
         height: 1077
-        isCached: true
-  - title: "Don't expect Overwatch 2 or Diablo 4 to launch this year"
-    excerpt: "During a recent earnings call, Activision Blizzard confirmed that both Overwatch 2 and Diablo 4 will not launch this year."
-    publishedDateTime: 2021-02-05T04:47:00Z
-    webUrl: "https://www.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
-    ampWebUrl: "https://amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
-    cdnAmpWebUrl: "https://amp-truetrophies-com.cdn.ampproject.org/c/s/amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
-    type: article
-    provider:
-      name: TrueTrophies
-      domain: truetrophies.com
-    quality: 107
-    images:
-      - url: "https://www.truetrophies.com/customimages/carousel/060292.jpg"
-        width: 670
-        height: 377
         isCached: true
   - title: "Overwatch 2 and Diablo 4 won't launch in 2021, Blizzard confirms"
     excerpt: "Blizzard has confirmed that both Overwatch 2 and Diablo 4 will not launch this year. We're expecting to hear more on both games at BlizzCon later this month."
@@ -408,6 +408,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "Rc36aJlNHFW/mIAvwgDNUoJHukPDoh2aRTKSziWuqFw1qnjMBAcFghGPFiWucO4cJn7BZYe5JZID2gsUa63nSZY0uyUSNFO8G4i5GgexEbhlds/KORPKyKwOq5CkZiw6nXZxj34HosXtXfSkeAXV2QH8eXAr8REZuozRsbd+9B4fUAmieCL+MjYMrQBaKeFWE1fpnxIToE8psOaDOJRXw3yo/1PEevceC+5qG54bzq88QpdRRk0KB0XmolkIMXCKp7m6My6LGmAjrIBkjd2b5p/SpZjowWDDOKhwszr951VMDsA7IUq2TMddPiKJ1Mkqqo2r7pkyifo65wiAjAaPdK2usx0B3RT06Y6J6VP2uLY=;8nmwuAc3rWiQjE5GhGWtrg=="
 ---
 

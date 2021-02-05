@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Overwatch 2 and Diablo 4 won't launch in 2021, Blizzard confirms"
+excerpt: "Blizzard has confirmed that both Overwatch 2 and Diablo 4 will not launch this year. We're expecting to hear more on both games at BlizzCon later this month."
+publishedDateTime: 2021-02-05T04:04:00Z
+originalUrl: "https://www.trueachievements.com/n44616/overwatch-2-release-date"
+webUrl: "https://www.trueachievements.com/n44616/overwatch-2-release-date"
+ampWebUrl: "https://amp.trueachievements.com/n44616/overwatch-2-release-date"
+cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n44616/overwatch-2-release-date"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: True Achievements
+  domain: trueachievements.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://www.trueachievements.com/customimages/carousel/099712.jpg"
+    width: 670
+    height: 377
     isCached: true
 
 related:
@@ -39,6 +39,22 @@ related:
       - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 107
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
     excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
@@ -117,22 +133,6 @@ related:
     quality: 107
     images:
       - url: "https://www.truetrophies.com/customimages/carousel/060292.jpg"
-        width: 670
-        height: 377
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 won't launch in 2021, Blizzard confirms"
-    excerpt: "Blizzard has confirmed that both Overwatch 2 and Diablo 4 will not launch this year. We're expecting to hear more on both games at BlizzCon later this month."
-    publishedDateTime: 2021-02-05T04:04:00Z
-    webUrl: "https://www.trueachievements.com/n44616/overwatch-2-release-date"
-    ampWebUrl: "https://amp.trueachievements.com/n44616/overwatch-2-release-date"
-    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n44616/overwatch-2-release-date"
-    type: article
-    provider:
-      name: True Achievements
-      domain: trueachievements.com
-    quality: 107
-    images:
-      - url: "https://www.trueachievements.com/customimages/carousel/099712.jpg"
         width: 670
         height: 377
         isCached: true
@@ -408,6 +408,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "i0XaxdVPYfm8KNrk7seK2B+mqBJ24UmReHF7KLYK69OvhfGdbbeBRbP17Z6TwJO4vwe+dkSFPobdQGFRa+Yrzl7bav5CZ1md53kzW961id41xWkvR1rEwcIM4VkZdiO4mIhbHIsGOsC4mFPKRmBlOYbHZq9VKjdNimDchRZ5Zx/OZzlgJl/xH2lZ+gcvFdPwW8WgRGQFMFCfxLJ8Fm8e8TF13xSTnftTmtcLfiPiQ+cnONIla6X5UQlipJNADDl2XtTignnRHYFDmJirg2eJEHWCGGbRQ/YhH/U1yYn0Qz15VyCNl8W2RdKwTfMKMSig3LAtTzYKu1s1vklZEnBPc11JLqlpV6Es19KmUduHQ2s=;58Ub7E9hqgd8LiTaQ7IfRg=="
 ---
 

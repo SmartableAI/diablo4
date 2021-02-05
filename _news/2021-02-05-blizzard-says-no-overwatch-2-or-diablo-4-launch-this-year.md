@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Blizzard Says No Overwatch 2 or Diablo 4 Launch This Year"
+excerpt: "Fans of Blizzard video games hoping for new titles in the Overwatch or Diablo franchises this year will be saddened to hear the latest news. Activision Blizzard announced in an earnings call this week ..."
+publishedDateTime: 2021-02-05T06:05:00Z
+originalUrl: "https://www.legitreviews.com/blizzard-says-no-overwatch-2-or-diablo-4-launch-this-year_225654"
+webUrl: "https://www.legitreviews.com/blizzard-says-no-overwatch-2-or-diablo-4-launch-this-year_225654"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: Legit Reviews
+  domain: legitreviews.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://www.legitreviews.com/wp-content/uploads/2021/02/overwatch.jpg"
+    width: 1220
+    height: 813
     isCached: true
 
 related:
@@ -39,6 +37,22 @@ related:
       - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 107
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
     excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
@@ -286,20 +300,6 @@ related:
         width: 795
         height: 478
         isCached: true
-  - title: "Blizzard Says No Overwatch 2 or Diablo 4 Launch This Year"
-    excerpt: "Fans of Blizzard video games hoping for new titles in the Overwatch or Diablo franchises this year will be saddened to hear the latest news. Activision Blizzard announced in an earnings call this week ..."
-    publishedDateTime: 2021-02-05T06:05:00Z
-    webUrl: "https://www.legitreviews.com/blizzard-says-no-overwatch-2-or-diablo-4-launch-this-year_225654"
-    type: article
-    provider:
-      name: Legit Reviews
-      domain: legitreviews.com
-    quality: 87
-    images:
-      - url: "https://www.legitreviews.com/wp-content/uploads/2021/02/overwatch.jpg"
-        width: 1220
-        height: 813
-        isCached: true
   - title: "Diablo 4 and Overwatch 2 won’t be releasing this year"
     excerpt: "Back in late 2019, Blizzard announced both Diablo 4 and Overwatch 2. Neither game has been given a release date yet, but many had hoped we’d see at least one of them in 2021. This week, Activision ..."
     publishedDateTime: 2021-02-05T05:16:00Z
@@ -408,6 +408,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "OJyeQFkCRo30NR1pW4Zs30blZXxWejBaCvzbnHeLDwqFa7KJK0sFAzNUYjzb5yI9hBhqRWvlRmFauV6iYVzDNsDSknDJs75NJjfLT3qUGW6Rf4Yl9LmyIt5Hc1SCRKoMnPZ7ad/JgAHGiZJKzbvG21roAqmVebcILoVU2Jfqq81XuKlEgNb7OAz+thDvSyaK12NRlB9arUE+SOROGI7YAWqKqb0XIJHsUyx5SWBTRrdiFvn34RYPjOztQ18Cj2Zd0QLitOo1Y+stcPDTW4xvExhOF3pbaVk9it9YHSRep0IUmZP8ThsnuXZWD/LgfGatRlaLdx4z2ABX3M/5f/LWqGC7IkskDqosrNrWSDbzaQM=;32xStRSmCZqR9WoxzWU9zw=="
 ---
 

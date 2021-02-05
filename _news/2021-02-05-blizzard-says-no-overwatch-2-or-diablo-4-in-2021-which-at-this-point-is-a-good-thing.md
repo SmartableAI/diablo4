@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 will not release in 2021"
-excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
-publishedDateTime: 2021-02-04T14:30:00Z
-originalUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
-ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
-cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+title: "Blizzard Says No ‘Overwatch 2’ Or ‘Diablo 4’ In 2021, Which At This Point, Is A Good Thing"
+excerpt: "The “bad news” as it were, was that Blizzard is still not really…putting out any major projects. In the report, Activision said that neither Overwatch 2 nor Diablo 4 will arrive in 2021, not even ..."
+publishedDateTime: 2021-02-05T07:13:00Z
+originalUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/"
+webUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/"
+ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
 type: article
-quality: 107
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Dark Side Of Gaming
-  domain: dsogaming.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
-    width: 1140
-    height: 760
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +43,22 @@ related:
       - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 will not release in 2021"
+    excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
+    publishedDateTime: 2021-02-04T14:30:00Z
+    webUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/"
+    ampWebUrl: "https://www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/diablo-4-and-overwatch-2-will-not-release-in-2021/amp/"
+    type: article
+    provider:
+      name: Dark Side Of Gaming
+      domain: dsogaming.com
+    quality: 107
+    images:
+      - url: "https://www.dsogaming.com/wp-content/uploads/2019/11/Diablo-4-Lilith.jpg"
+        width: 1140
+        height: 760
         isCached: true
   - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
     excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
@@ -199,22 +219,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/overwatch-2-gameplay-trailer.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Blizzard Says No ‘Overwatch 2’ Or ‘Diablo 4’ In 2021, Which At This Point, Is A Good Thing"
-    excerpt: "The “bad news” as it were, was that Blizzard is still not really…putting out any major projects. In the report, Activision said that neither Overwatch 2 nor Diablo 4 will arrive in 2021, not even ..."
-    publishedDateTime: 2021-02-05T07:13:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
     excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
@@ -408,6 +412,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Xfszp2KY2IzcfeH9pb0i126W97S4nn8ZKjIUEQgV9IRo5jwRAKu3YRTEYAL/jYeEi7o6wGui87WtgejMj/2X5F5p+Xzyh67oCnnmG8LhkWD8hS4wHuEDWP8eN6Jd0TYX9M+klqdBgDC+7bWSZOsZocfs1Cl2lMWFFSy5PCkCh8pi8YlAiv7JVwDH+wf5+Ctt0Dr2jigqY5ZtOMU842MP5IwP70w4v0hBY93TU1bKN9UjTr203mzvt72edSaujSW1OPU7Z+RfPtsvtM7DDTEEYm8r4aQ0AH3GAaaMvRnovNm82zgqZtsdnZSi80vZHxKsZdeO5EKjOVoZAp+mZKYaKq9Dz6RLBtPsZxFBJ94leAM=;T2KsOVcBg/+98LT/Oh7+wQ=="
+secured: "VmI5JjtPb3ogsmI4BHzcqywbFBWt/vbGnBY+WgTciIBj/lUCNqietUU1o8QRR3pnmuyhaYikt2XciRf7meKrV7Fs9wqOgZj8TMwtDcHDSdgYFxp/L13fy/TT/swlFBOMljjGirIBxEyCqHkKaHfW7d78HAO/4VLlap1oygBI3VCYDgAOYir/SEJBzvnJ2XWR3BHkwtTmCk14w6nQ5Y4bW4S+snOlvZoy4efZLywxLN1xVsBR3fjpuNDtTuYHzBOeDLInI1dAquMMzDHmB5+Vmpi5eUa33675D/JCJCueHSNRKVGrVFybBd6IrAD3+P3jMVU0QJ1vKeVGdtY9fK+8nLmd7vfCeYf2a4j8Zj/Ix2Y=;PB/vqpWPmOhyhNf4RWwCGg=="
 ---
 
