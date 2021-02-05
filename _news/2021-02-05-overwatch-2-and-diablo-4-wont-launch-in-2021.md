@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021"
-excerpt: "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021."
-publishedDateTime: 2021-02-04T14:46:00Z
-originalUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
-webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
+title: "Overwatch 2 and Diablo 4 won’t launch in 2021"
+excerpt: "Activision have stated that Overwatch 2 and Diablo 4 will not launch in 2021, in their latest financial statement, dashing hopes of seeing a major new Blizzard PC or console game released this year."
+publishedDateTime: 2021-02-05T02:37:00Z
+originalUrl: "https://www.thesixthaxis.com/2021/02/05/overwatch-2-and-diablo-4-release-date-in-2022-seems-likely/"
+webUrl: "https://www.thesixthaxis.com/2021/02/05/overwatch-2-and-diablo-4-release-date-in-2022-seems-likely/"
 type: article
-quality: 127
-heat: 507
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sixth Axis
+  domain: thesixthaxis.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://www.thesixthaxis.com/wp-content/uploads/2021/02/Kitaria_200.jpg"
+    width: 782
+    height: 500
     isCached: true
 
 related:
+  - title: "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021"
+    excerpt: "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021."
+    publishedDateTime: 2021-02-04T14:46:00Z
+    webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 will not release in 2021"
     excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
     publishedDateTime: 2021-02-04T14:30:00Z
@@ -226,20 +236,6 @@ related:
         width: 795
         height: 478
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 won’t launch in 2021"
-    excerpt: "Activision have stated that Overwatch 2 and Diablo 4 will not launch in 2021, in their latest financial statement, dashing hopes of seeing a major new Blizzard PC or console game released this year."
-    publishedDateTime: 2021-02-05T02:37:00Z
-    webUrl: "https://www.thesixthaxis.com/2021/02/05/overwatch-2-and-diablo-4-release-date-in-2022-seems-likely/"
-    type: article
-    provider:
-      name: The Sixth Axis
-      domain: thesixthaxis.com
-    quality: 87
-    images:
-      - url: "https://www.thesixthaxis.com/wp-content/uploads/2021/02/Kitaria_200.jpg"
-        width: 782
-        height: 500
-        isCached: true
   - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
     excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
     publishedDateTime: 2021-02-04T15:49:00Z
@@ -306,6 +302,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "xNDOtuFS+S/0CuTPcwc3xdIqFc7oD5SKB54RINB2dH1G1qiM723Ipm6/gXb2gGkmYjtCpdpPhNtFMXiyVO0tH2QnDYeCQJrXU++9Nf8xeCvim0n+tki/+oe81fEYHIVOV0igBC/ohqDbMtWERabQutTPQ8SWUZX1LDN+2r5gifmkw9KL9PUrSs4biguhKKpm+6TvaRgsmF5P+TzuiC1ZLu2pPipTwuFiBW10NFuHVHds3HTziGO1LZ7dU4yjf4fFw9raRH1xdgIrfJHcX1QZ3qS1UFeA+VA07R3gwPQ8kCZktToqJ7av5dmy+HkaF4hzNrXAxQ3xfwpQ4ISYbZ9IbgMPHzrnJm2Zvhi6DWcYgaY=;YDqaSnJ5GbJmmmDTMYOV5w=="
+secured: "CtTIMQskc8LM+8KN/UKnER1YppDBuH++Q2a1lp6sB7xsWnlk5FyGOIVcGi8c9O+Ox6eUUxdHszkM/hml8WbsTPN29LpIQHuk1UGhOA3uWqLQPOF3OWPRLJR9YqjCiIJCF6oQ4MKC6OfCb/gZW+bv8WLZJk2sdGcastZ6OfSVGe0mBrJSqd3hyu1DbGdDhbHvm0wz872UMywPHqYcsDqL7mp6cIuhQHtHCAp9eanh6c3dSQ2cAZ0mydunUwpYbMpyVBXgUzTDtOZ0DSuPRm6iSODekTaOwSxmmohMzHZhllidA24S4txBfhBJZhyTyFdkSfFsDW3tSNfaqGTATRdjfLwEVtEGSnjzIe2pUxF1l7M=;e+JHrUpPAFLlAjyJ5xxI1w=="
 ---
 

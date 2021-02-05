@@ -222,6 +222,20 @@ related:
         width: 795
         height: 478
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 won’t launch in 2021"
+    excerpt: "Activision have stated that Overwatch 2 and Diablo 4 will not launch in 2021, in their latest financial statement, dashing hopes of seeing a major new Blizzard PC or console game released this year."
+    publishedDateTime: 2021-02-05T02:37:00Z
+    webUrl: "https://www.thesixthaxis.com/2021/02/05/overwatch-2-and-diablo-4-release-date-in-2022-seems-likely/"
+    type: article
+    provider:
+      name: The Sixth Axis
+      domain: thesixthaxis.com
+    quality: 87
+    images:
+      - url: "https://www.thesixthaxis.com/wp-content/uploads/2021/02/Kitaria_200.jpg"
+        width: 782
+        height: 500
+        isCached: true
   - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
     excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
     publishedDateTime: 2021-02-04T15:49:00Z
@@ -288,6 +302,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "4nEkHg5nSAbcfQc3qCO/u0W/KKOo1enxfiTIVFuNhjh2Jwf5Ve38dA6x3OVSZIVr73UQ/FpG1Nl6V10MUs/L0bkoguHKUffrQzH8BWg3eIKp04sgvsDpTiwhss43PlpgSMqBYBDalTRAr/MWDNyTuYq9+3QE3rAdH/y5PntbfhrgYZF/3uBD+CzkG27ap/XTuNezvXlRyibtMNMQm+Y5X+1WSJmUujSun7QPsRhv7sjp6mo4Vip/EyUIsAgdDzARIuld3qXaWqXgVeKCDy8UaHzXkjzzzyj9dipl2Bgc9c6PyZfpuwgDnlcoQqXtXPVBUt0nC7kCuKHcXEF4JCsJGaoZ7BxMIXjJLYhHkvuFZJk=;hBQFS6BJV05HuEfvaghv6Q=="
+secured: "/OTjs/gzfEUfMyBpEayk4TST3mA3btbr3yHq5V/SeSTMSlKzgLfcWY3AUdmw6bzD9uI4J573PZDoajARthlyuGUcZG5xhOOeNf5Bc1OEll5fd5/Y5Bh193JYaYSyZlLG3Ez4mT/L5Sxrkp3Vt76Bdc6PulfqKM5SDBaXOcpkDoSxpTmrC+USxGlfeOemClX1wzND+ddZngOeWVi/KFPPaUqiv+AWbWuUMOxXgsTbyl0GMYbNqpFMivmjVb7NRQBp8ZwiCDyX5ZqBZG0Kh+2d7MIvmohPujwrVfa1bDzg94J6mJrbwy2oDore+A2NpygaeC99m9fWjGbPAw+0z2Yq3rKlsbYF8FEoM+7lsvloG4c=;jmYIMUz2fr3ftang7QRtqw=="
 ---
 
