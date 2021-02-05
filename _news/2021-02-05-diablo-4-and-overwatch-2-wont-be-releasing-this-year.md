@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 won’t be released in 2021, Activision Blizzard says"
-excerpt: "Blizzard fans hoping to hear about Overwatch 2 or Diablo 4 release dates at Blizzard’s upcoming BlizzConline 2021 will want to temper their expectations. Publisher Activision Blizzard said in an ..."
-publishedDateTime: 2021-02-04T14:38:59Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/overwatch-2-and-diablo-4-won-e2-80-99t-be-released-in-2021-activision-blizzard-says/ar-BB1doGzZ"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/overwatch-2-and-diablo-4-won-e2-80-99t-be-released-in-2021-activision-blizzard-says/ar-BB1doGzZ"
+title: "Diablo 4 and Overwatch 2 won’t be releasing this year"
+excerpt: "Back in late 2019, Blizzard announced both Diablo 4 and Overwatch 2. Neither game has been given a release date yet, but many had hoped we’d see at least one of them in 2021. This week, Activision ..."
+publishedDateTime: 2021-02-05T05:16:00Z
+originalUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-wont-be-releasing-this-year/"
+webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-wont-be-releasing-this-year/"
 type: article
-quality: 84
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
-  domain: msn.com
+  name: KitGuru
+  domain: kitguru.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNhE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1020&y=567"
-    width: 1200
-    height: 630
+  - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
+    width: 615
+    height: 330
     isCached: true
 
 related:
@@ -252,20 +252,6 @@ related:
         width: 795
         height: 478
         isCached: true
-  - title: "Diablo 4 and Overwatch 2 won’t be releasing this year"
-    excerpt: "Back in late 2019, Blizzard announced both Diablo 4 and Overwatch 2. Neither game has been given a release date yet, but many had hoped we’d see at least one of them in 2021. This week, Activision ..."
-    publishedDateTime: 2021-02-05T05:16:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-wont-be-releasing-this-year/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 87
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
-        width: 615
-        height: 330
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 won’t launch in 2021"
     excerpt: "Activision have stated that Overwatch 2 and Diablo 4 will not launch in 2021, in their latest financial statement, dashing hopes of seeing a major new Blizzard PC or console game released this year."
     publishedDateTime: 2021-02-05T02:37:00Z
@@ -308,6 +294,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 won’t be released in 2021, Activision Blizzard says"
+    excerpt: "Blizzard fans hoping to hear about Overwatch 2 or Diablo 4 release dates at Blizzard’s upcoming BlizzConline 2021 will want to temper their expectations. Publisher Activision Blizzard said in an ..."
+    publishedDateTime: 2021-02-04T14:38:59Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/overwatch-2-and-diablo-4-won-e2-80-99t-be-released-in-2021-activision-blizzard-says/ar-BB1doGzZ"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 84
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNhE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1020&y=567"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Activision Blizzard may have hinted at ‘Overwatch 2’ and ‘Diablo 4’ launching in ‘2022 and beyond’"
     excerpt: "The announcement of Overwatch 2 and Diablo 4 were undoubtedly some of the highlights of the last BlizzCon in 2019. It led to speculations that these games could be released in 2021, but that does not ..."
     publishedDateTime: 2021-02-04T23:59:00Z
@@ -332,6 +332,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "If+CSqfLltf6VllezH41t3YgtTkrvaXZ2rT7jQWYoxi7HJZ3CLR9lcOm8ldrd4gbaUhi2SjeR1n9xTkT4oFt4c+U7NIjSCzJDsLPguTA76ZRd7b+LlzPKvPMecb+OIIadTM9QIlpqA1QPud75vu8BXyWIQJAlGfd2TXk7P3JxtBFN3poSScgP6rgaErSM5Z0bwJ/ZZMmLmicW9DMppabd2UsWaWpPC0o4u68Sgna/vWxytuFIY5T33I+Kdb1Glh7Q9tK2JsdaNKoVwcTTRmN6CB90avzzakKTa64YEy1VyNfPHm1P7BPnOVRS+69gL4j1PuF9JIQ3KFuLpH2te88Q+xt5VX+hUl643WK2pg9JH0=;9Xsu+G+CC5J7t06Cg/aVRw=="
+secured: "q7YEBMyp2IW9nECrYRdhOPn6soMFEqyv323d6RmqZWK/iCrBvkW8goF7nst0j74EA2ACcWiwS3HYBkqHMFX9tvX9KY7JR6nqA/DuOZyFwsfYupkl+4+cgjCbNTZCb5alHiDLyRXDILyum9Gn9u04nO6x2hijUq2iRhrjTFlBR4dLu4hAa90uHxQ/NvZnlZXmx+ZPmdRrWAAwgrdy2KLiwZfM/7G06kI+jzs+yzPjYbJ6JxIW5xGvbWJc+Oy2J7OO0rKLVbEq5TwNxw15dnJjmYit0LRMEQkImIb+nDtnlT+uIKR8jGaI72ordxtBuCG0vPiklArrbFZR/vrR6jxIYYMxWixJQH+1j2KMHtb8OS0=;X1oi3yz453xQ1nMI0dLWaw=="
 ---
 

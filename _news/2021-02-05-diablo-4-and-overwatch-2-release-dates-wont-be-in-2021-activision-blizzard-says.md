@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 won’t be released in 2021, Activision Blizzard says"
-excerpt: "Blizzard fans hoping to hear about Overwatch 2 or Diablo 4 release dates at Blizzard’s upcoming BlizzConline 2021 will want to temper their expectations. Publisher Activision Blizzard said in an ..."
-publishedDateTime: 2021-02-04T14:38:59Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/overwatch-2-and-diablo-4-won-e2-80-99t-be-released-in-2021-activision-blizzard-says/ar-BB1doGzZ"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/overwatch-2-and-diablo-4-won-e2-80-99t-be-released-in-2021-activision-blizzard-says/ar-BB1doGzZ"
+title: "‘Diablo 4’ And ‘Overwatch 2’ Release Dates Won’t Be In 2021, Activision Blizzard Says"
+excerpt: "Activision Blizzard announced that it won't be releasing two of the most anticipated titles in its repertoire this year. Here's what fans need to know about \"Diablo 4\" and \"Overwatch 2.\" ..."
+publishedDateTime: 2021-02-05T03:49:00Z
+originalUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660"
+webUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660"
+ampWebUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660?amp=1"
 type: article
-quality: 84
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
-  domain: msn.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNhE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1020&y=567"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/overwatch-2-gameplay-trailer.jpg"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -166,22 +168,6 @@ related:
         width: 1307
         height: 787
         isCached: true
-  - title: "‘Diablo 4’ And ‘Overwatch 2’ Release Dates Won’t Be In 2021, Activision Blizzard Says"
-    excerpt: "Activision Blizzard announced that it won't be releasing two of the most anticipated titles in its repertoire this year. Here's what fans need to know about \"Diablo 4\" and \"Overwatch 2.\" ..."
-    publishedDateTime: 2021-02-05T03:49:00Z
-    webUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660"
-    ampWebUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 100
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/overwatch-2-gameplay-trailer.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
     excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
     publishedDateTime: 2021-02-04T18:09:26Z
@@ -308,6 +294,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 won’t be released in 2021, Activision Blizzard says"
+    excerpt: "Blizzard fans hoping to hear about Overwatch 2 or Diablo 4 release dates at Blizzard’s upcoming BlizzConline 2021 will want to temper their expectations. Publisher Activision Blizzard said in an ..."
+    publishedDateTime: 2021-02-04T14:38:59Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/overwatch-2-and-diablo-4-won-e2-80-99t-be-released-in-2021-activision-blizzard-says/ar-BB1doGzZ"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 84
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNhE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1020&y=567"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Activision Blizzard may have hinted at ‘Overwatch 2’ and ‘Diablo 4’ launching in ‘2022 and beyond’"
     excerpt: "The announcement of Overwatch 2 and Diablo 4 were undoubtedly some of the highlights of the last BlizzCon in 2019. It led to speculations that these games could be released in 2021, but that does not ..."
     publishedDateTime: 2021-02-04T23:59:00Z
@@ -332,6 +332,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "If+CSqfLltf6VllezH41t3YgtTkrvaXZ2rT7jQWYoxi7HJZ3CLR9lcOm8ldrd4gbaUhi2SjeR1n9xTkT4oFt4c+U7NIjSCzJDsLPguTA76ZRd7b+LlzPKvPMecb+OIIadTM9QIlpqA1QPud75vu8BXyWIQJAlGfd2TXk7P3JxtBFN3poSScgP6rgaErSM5Z0bwJ/ZZMmLmicW9DMppabd2UsWaWpPC0o4u68Sgna/vWxytuFIY5T33I+Kdb1Glh7Q9tK2JsdaNKoVwcTTRmN6CB90avzzakKTa64YEy1VyNfPHm1P7BPnOVRS+69gL4j1PuF9JIQ3KFuLpH2te88Q+xt5VX+hUl643WK2pg9JH0=;9Xsu+G+CC5J7t06Cg/aVRw=="
+secured: "g2ziZugz9MzzYwJg7ivjcsiFmQYu+ILoibbPljTYKLxsdEBI7O09nypy/WT3FN4RhYN/2UCt+u4fyDMQ4CfsPuhXC4i95fLYywii2Z8Gi69QUpArbOQlMuDWjc2SNm701KiuFs+aHBoDbxf0JY0K8G79Jdp27iDOtBS209eVlCkPb7ET0YgmieGu0uyluO6lraOCRoorFB6rgxPbej8/jrEYZl4k/klb2F4eXV35YzUFf12ql6hkkA6/1uEQ6gruAS6KzWpFyD5YWYXpXqb2Y2sMO45CzA+FEYqgEHNHZ+QAva1e2JYxSbx+ilw5J1RIHu1Jlv6G6/BTEEOgOEat6049koyBFLpjrvpp1Db5Qjw=;2qHYwxHg8p5enDtDRqIY8Q=="
 ---
 
