@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Don't expect 'Overwatch 2' or 'Diablo 4' this year"
-excerpt: "Neither Overwatch 2 nor Diablo 4 will not come out in 2021, according to publisher Activision Blizzard. Executives shared the information during the company’s Q4 2020 earnings call, and they didn’t ..."
-publishedDateTime: 2021-02-04T15:45:52Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
+title: "Overwatch 2 and Diablo 4 won’t release this year says Activision"
+excerpt: "Activision Blizzard’s recent earnings call has confirmed that neither Overwatch 2 nor Diablo 4 are expected until 2022 at the earliest."
+publishedDateTime: 2021-02-05T01:39:00Z
+originalUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/"
+webUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/"
+ampWebUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/amp/"
+cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Metro
+  domain: metro.co.uk
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNz6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://metro.co.uk/wp-content/uploads/2019/10/EH1iQcQX4AUf1tU-0d72.jpg?quality=90&strip=all&zoom=1&resize=600%2C309"
     width: 600
-    height: 315
+    height: 309
     isCached: true
 
 related:
@@ -118,22 +120,6 @@ related:
         width: 1920
         height: 1077
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 won’t release this year says Activision"
-    excerpt: "Activision Blizzard’s recent earnings call has confirmed that neither Overwatch 2 nor Diablo 4 are expected until 2022 at the earliest."
-    publishedDateTime: 2021-02-05T01:39:00Z
-    webUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/"
-    ampWebUrl: "https://metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/02/05/overwatch-2-and-diablo-4-wont-release-this-year-says-activision-14027576/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 107
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2019/10/EH1iQcQX4AUf1tU-0d72.jpg?quality=90&strip=all&zoom=1&resize=600%2C309"
-        width: 600
-        height: 309
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 won't see 2021 release dates, says Activision Blizzard"
     excerpt: "In today's earnings call, the company warned investors not to expect a release this year from its tentpole franchises."
     publishedDateTime: 2021-02-04T14:55:00Z
@@ -207,6 +193,20 @@ related:
       - url: "https://images.pushsquare.com/bc5f61d610d9f/1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Don't expect 'Overwatch 2' or 'Diablo 4' this year"
+    excerpt: "Neither Overwatch 2 nor Diablo 4 will not come out in 2021, according to publisher Activision Blizzard. Executives shared the information during the company’s Q4 2020 earnings call, and they didn’t ..."
+    publishedDateTime: 2021-02-04T15:45:52Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNz6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
     excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
@@ -288,6 +288,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "WaXx5139U8Xvj6klfNfFCT7Zmf8t1FuW5o3a2VZ2Hf2Zrl8npTYE521/r6+BseHa03XD5zLreQQD0u8BPJN6bKGi7Vua9QjeYpvyls/9UEcBjnbedARlEtbtAc3C1HZFjN8gUZSzfZ7h3E2pZVgZXOUNMyAEJoI6iOnaBaMP6dit04XAA3hLBBTInPzU/SvHjZ/IwbT/AF49VfbY/Ujg6VJ86jOlOMnqXWna1ZZWwWhKwpn54XMFkgFqEpl9sh42h24FWgltehQZ8xvyZHIDL0w0G5wHLGw2SvX3TL0J9xcJKXQsRTMbQ/mzDe8/X4jKnyiTWnlSKmvXssPQhhuMDNCDMI7N+pcQOinElAENrFM=;Z3dFfHGHlkZc4TpOkrssEg=="
+secured: "bT28Ec90SbxOI8ja2j40RvRjgeVfVy3Vv5edAVf5sebWvJE7ma4/shig/H4XRJEJ0SIjcmN2l+/Ni1b8jEzdfJRpqIW19VckAO0h0LO348n2u97QCggdG0rUYAZX3PkLM4iCFu6neqCfbsosr2nrCP5eWYf2BeV8BmON9FzyCT33ESeqf34lB6XC2FUEO2grGgSwz/Of0/mrV0CUT7PHq1/3XAW25pdmTt4jXI7MTTVm9gg9Z2f6XyY889LQp1OSGn6cFF/8kkmoIYrLFmiCGdujhELan4NdQuenk4yUTsbk1qY8pEHNac8XwEH+osiocSsmuHj2wfqhcDJi77725ezBwSsEl9qQ/P1hjzPPPt4=;WlGGixC9cxkbOXGbJgtYDg=="
 ---
 

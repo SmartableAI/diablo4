@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Don't expect 'Overwatch 2' or 'Diablo 4' this year"
-excerpt: "Neither Overwatch 2 nor Diablo 4 will not come out in 2021, according to publisher Activision Blizzard. Executives shared the information during the company’s Q4 2020 earnings call, and they didn’t ..."
-publishedDateTime: 2021-02-04T15:45:52Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
+title: "Activision Blizzard may have hinted at ‘Overwatch 2’ and ‘Diablo 4’ launching in ‘2022 and beyond’"
+excerpt: "The announcement of Overwatch 2 and Diablo 4 were undoubtedly some of the highlights of the last BlizzCon in 2019. It led to speculations that these games could be released in 2021, but that does not ..."
+publishedDateTime: 2021-02-04T23:59:00Z
+originalUrl: "https://www.econotimes.com/Activision-Blizzard-may-have-hinted-at-Overwatch-2-and-Diablo-4-launching-in-2022-and-beyond-1601671"
+webUrl: "https://www.econotimes.com/Activision-Blizzard-may-have-hinted-at-Overwatch-2-and-Diablo-4-launching-in-2022-and-beyond-1601671"
 type: article
-quality: 87
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNz6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-    width: 600
-    height: 315
+  - url: "https://s1.econotimes.com/assets/uploads/202102053de04bf7d5aaa0cc3_th_1024x0.jpg"
+    width: 874
+    height: 494
     isCached: true
 
 related:
@@ -208,6 +208,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Don't expect 'Overwatch 2' or 'Diablo 4' this year"
+    excerpt: "Neither Overwatch 2 nor Diablo 4 will not come out in 2021, according to publisher Activision Blizzard. Executives shared the information during the company’s Q4 2020 earnings call, and they didn’t ..."
+    publishedDateTime: 2021-02-04T15:45:52Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNz6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
     excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
     publishedDateTime: 2021-02-04T21:31:00Z
@@ -264,20 +278,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Activision Blizzard may have hinted at ‘Overwatch 2’ and ‘Diablo 4’ launching in ‘2022 and beyond’"
-    excerpt: "The announcement of Overwatch 2 and Diablo 4 were undoubtedly some of the highlights of the last BlizzCon in 2019. It led to speculations that these games could be released in 2021, but that does not ..."
-    publishedDateTime: 2021-02-04T23:59:00Z
-    webUrl: "https://www.econotimes.com/Activision-Blizzard-may-have-hinted-at-Overwatch-2-and-Diablo-4-launching-in-2022-and-beyond-1601671"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 73
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202102053de04bf7d5aaa0cc3_th_1024x0.jpg"
-        width: 874
-        height: 494
-        isCached: true
   - title: "Blizzard Douses Any Hope Of Diablo 4, Overwatch 2 In 2021"
     excerpt: "If you were hoping for Overwatch 2 or Diablo 4 to drop this year to scratch some long-lost itches that Blizzard historically filled, then you might want to put a pin in those hopes for a full year."
     publishedDateTime: 2021-02-04T16:16:16Z
@@ -288,6 +288,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "WaXx5139U8Xvj6klfNfFCT7Zmf8t1FuW5o3a2VZ2Hf2Zrl8npTYE521/r6+BseHa03XD5zLreQQD0u8BPJN6bKGi7Vua9QjeYpvyls/9UEcBjnbedARlEtbtAc3C1HZFjN8gUZSzfZ7h3E2pZVgZXOUNMyAEJoI6iOnaBaMP6dit04XAA3hLBBTInPzU/SvHjZ/IwbT/AF49VfbY/Ujg6VJ86jOlOMnqXWna1ZZWwWhKwpn54XMFkgFqEpl9sh42h24FWgltehQZ8xvyZHIDL0w0G5wHLGw2SvX3TL0J9xcJKXQsRTMbQ/mzDe8/X4jKnyiTWnlSKmvXssPQhhuMDNCDMI7N+pcQOinElAENrFM=;Z3dFfHGHlkZc4TpOkrssEg=="
+secured: "mszaa/EbZ4GucTp+XS+62Juj9zQyggxbvnnx3K7FFCzpqSH5g0EDVNkE8cRsZBeUBE4Ga+EzB/LVWxlONGUkvkug/vgA0LQgAzeccZCraB4DrWfSAmutjx9px1Shjuh8u8gdSQFsUodoe4azp/WjFzU7RfO0NG2qGa2/BqssfkQYCTSXy/VFXSf7t1TEgFwkREL+OlNqILAdSzf/Usdz0M0aS/7N4Pw3xR9N1OK89Ov92a1/Rbhe1VmdMELuSG05bFmhwIkZTnUjGS/y6vRY7izuV/7GJhPVerXgD1Fs/PVXhiuVUjVlAY/qV7g3xf17v3FXZacbpiaeKtz6hqkBcn5NbCvy5/X0txB87D0FCak=;bG1IctPJoFKjI/Su4aZlfw=="
 ---
 

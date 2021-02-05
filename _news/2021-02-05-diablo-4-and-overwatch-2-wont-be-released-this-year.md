@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Don't expect 'Overwatch 2' or 'Diablo 4' this year"
-excerpt: "Neither Overwatch 2 nor Diablo 4 will not come out in 2021, according to publisher Activision Blizzard. Executives shared the information during the company’s Q4 2020 earnings call, and they didn’t ..."
-publishedDateTime: 2021-02-04T15:45:52Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
+title: "Diablo 4 and Overwatch 2 won’t be released this year"
+excerpt: "In the company’s latest earnings call, Activision Blizzard confirms that neither Diablo 4 or Overwatch 2 is likely to be released in 2021."
+publishedDateTime: 2021-02-05T00:05:00Z
+originalUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
+webUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
+ampWebUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Days
+  domain: thumbsticks.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNz6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-    width: 600
-    height: 315
+  - url: "https://i2.wp.com/www.thumbsticks.com/wp-content/uploads/2021/02/diablo-iv-art.jpg?fit=1280%2C720&#038;ssl=1"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -83,22 +85,6 @@ related:
     quality: 107
     images:
       - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo 4 and Overwatch 2 won’t be released this year"
-    excerpt: "In the company’s latest earnings call, Activision Blizzard confirms that neither Diablo 4 or Overwatch 2 is likely to be released in 2021."
-    publishedDateTime: 2021-02-05T00:05:00Z
-    webUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
-    ampWebUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
-    cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
-    type: article
-    provider:
-      name: Days
-      domain: thumbsticks.com
-    quality: 107
-    images:
-      - url: "https://i2.wp.com/www.thumbsticks.com/wp-content/uploads/2021/02/diablo-iv-art.jpg?fit=1280%2C720&#038;ssl=1"
         width: 1280
         height: 720
         isCached: true
@@ -208,6 +194,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Don't expect 'Overwatch 2' or 'Diablo 4' this year"
+    excerpt: "Neither Overwatch 2 nor Diablo 4 will not come out in 2021, according to publisher Activision Blizzard. Executives shared the information during the company’s Q4 2020 earnings call, and they didn’t ..."
+    publishedDateTime: 2021-02-04T15:45:52Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/dont-expect-overwatch-2-or-diablo-4-this-year/ar-BB1doT2A"
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1doNz6.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
     excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
     publishedDateTime: 2021-02-04T21:31:00Z
@@ -288,6 +288,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "WaXx5139U8Xvj6klfNfFCT7Zmf8t1FuW5o3a2VZ2Hf2Zrl8npTYE521/r6+BseHa03XD5zLreQQD0u8BPJN6bKGi7Vua9QjeYpvyls/9UEcBjnbedARlEtbtAc3C1HZFjN8gUZSzfZ7h3E2pZVgZXOUNMyAEJoI6iOnaBaMP6dit04XAA3hLBBTInPzU/SvHjZ/IwbT/AF49VfbY/Ujg6VJ86jOlOMnqXWna1ZZWwWhKwpn54XMFkgFqEpl9sh42h24FWgltehQZ8xvyZHIDL0w0G5wHLGw2SvX3TL0J9xcJKXQsRTMbQ/mzDe8/X4jKnyiTWnlSKmvXssPQhhuMDNCDMI7N+pcQOinElAENrFM=;Z3dFfHGHlkZc4TpOkrssEg=="
+secured: "aKs/ODkpy2nJajQeZ/t7eMDDKjFjRAXjq4kTmZJadJVMJZ3FP2kUfj0ydCNsd1INS6t49tJ77sOdRAS+v8vvwDuKVM3Q73jzB6jdNRenyGi/WJZQJDAGXFIrPXDy7flBAvjgJN5cnnZgbryLX5lOwIRGel++ItFIohIcA09EUH9ZpXJqz4hHl5xfY4rK1rb5X4GMiQEzYxr44xNoVSMgzXVJ7/vFIDnVt+DsdD7Cvqh8ql24QrSLnYuhhImpqaV0Cot8HehUMBldO/CECSWVv88Qe356fnVkUaL5ksoaYV9tZA0ER8Ix4euZsf09hXliS2ZhV/cVDyPPULZNsxe+dxq2s4mLBARsllGRi9iCEJI=;8L9Qh/UTkTynGDbOUAyZSw=="
 ---
 
