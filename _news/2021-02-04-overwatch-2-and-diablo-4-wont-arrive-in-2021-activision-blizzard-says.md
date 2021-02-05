@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
-excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
-publishedDateTime: 2021-02-04T15:49:00Z
-originalUrl: "https://www.psu.com/news/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022/"
-webUrl: "https://www.psu.com/news/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022/"
+title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
+excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
+publishedDateTime: 2021-02-04T21:31:00Z
+originalUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
+webUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
 type: article
-quality: 86
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Play Station Universe
-  domain: psu.com
+  name: criticalhit.net
+  domain: criticalhit.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.psu.com/wp/wp-content/uploads/2021/02/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022.jpg"
-    width: 1301
-    height: 735
+  - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
+    width: 795
+    height: 478
     isCached: true
 
 related:
@@ -174,19 +174,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
-    excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
-    publishedDateTime: 2021-02-04T21:31:00Z
-    webUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
+  - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
+    excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
+    publishedDateTime: 2021-02-04T15:49:00Z
+    webUrl: "https://www.psu.com/news/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022/"
     type: article
     provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 87
+      name: Play Station Universe
+      domain: psu.com
+    quality: 86
     images:
-      - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
-        width: 795
-        height: 478
+      - url: "https://www.psu.com/wp/wp-content/uploads/2021/02/diablo-4-isnt-releasing-anytime-soon-and-overwatch-2-may-release-in-2022.jpg"
+        width: 1301
+        height: 735
         isCached: true
   - title: "Activision Blizzard says Overwatch 2 and Diablo 4 likely won’t launch in 2021"
     excerpt: "The company did confirm a new Call of Duty title for Q4. The post Activision Blizzard says Overwatch 2 and Diablo 4 likely won’t launch in 2021 appeared first on Dot Esports."
@@ -226,6 +226,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "rTnRUdgLoRSJheiTa02nhCOag4A0QCm3obmRtcWsBWZFAhXIkDJ++eDYTxjm8JFVdUwbGQ9c1tbdXZwbQJ3E0Vam/Of2M0MB4HDCF3GzSmYeU6ZPKuPkPnrl8wZoScBif5N4s43XXb+dI0G0xHhqte+zwbAL2zigWwRSLotCV5n4WrVOdwmXz2S3qVPmvdqQtRc00YCzoZJMNcTFsOmcaQZR22TVZVk2eIhcAhW6tXo8o9JYOKiMMmq03/SCsZOuW3hZD/17bmGaC+Y+sKg9DtBmkFbKgDy2eEHqlxdlj0czbPw72fBhVpQBDkuBtuTQMcgxMHZugsmEGGL7IgQjkyML3BWT2MGoZNFh93KXAFo=;/1JYrgYI1GvJTksKhnk/kg=="
+secured: "NVRMNFyg3NfDQ3dZ4NI4T/dEdunnrTBEpBvKjKy7P/iuesQMiqoT2OB/Tupr34llq+jEBRkxWD7nZrciGoJeDilDXmdSS60EUw4NSuP+PpoiY0VIVzeqUhylGtcQ3R92w0UrIKC5AFnOW7T29gs2R8iy3GhO6UTHcK8DvS7CuwsIWzLFrTl9l/P6y17PzrzGFWCtbrDUQw4BedwAcH5C8TjCYUS2kDlnD/N+0XJMKnmDe3Ff+YcaKYlZyF4NXP1bs4tdWtJgf0RC5O8JtWytkXgvw1ZCTBWT8MF3I9YfvkPz+1TvfxJRamkDE/EkhsDQnB6w/SBSqS2PwOdlXfDG0lrlJQJ6de61nPP7wk/RBDc=;lUVtQvge4YEtd0VoTmJxng=="
 ---
 

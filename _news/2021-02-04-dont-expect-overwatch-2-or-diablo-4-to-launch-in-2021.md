@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-t
 webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
 type: article
 quality: 127
-heat: 367
+heat: 407
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
+    excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
+    publishedDateTime: 2021-02-04T21:31:00Z
+    webUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
+        width: 795
+        height: 478
+        isCached: true
   - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
     excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
     publishedDateTime: 2021-02-04T15:49:00Z
@@ -206,6 +220,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard Douses Any Hope Of Diablo 4, Overwatch 2 In 2021"
+    excerpt: "If you were hoping for Overwatch 2 or Diablo 4 to drop this year to scratch some long-lost itches that Blizzard historically filled, then you might want to put a pin in those hopes for a full year."
+    publishedDateTime: 2021-02-04T16:16:16Z
+    webUrl: "https://www.msn.com/en-au/news/techandscience/blizzard-douses-any-hope-of-diablo-4-overwatch-2-in-2021/ar-BB1doZZT"
+    type: article
+    provider:
+      name: Kotaku Australia on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "xNDOtuFS+S/0CuTPcwc3xdIqFc7oD5SKB54RINB2dH1G1qiM723Ipm6/gXb2gGkmYjtCpdpPhNtFMXiyVO0tH2QnDYeCQJrXU++9Nf8xeCvim0n+tki/+oe81fEYHIVOV0igBC/ohqDbMtWERabQutTPQ8SWUZX1LDN+2r5gifmkw9KL9PUrSs4biguhKKpm+6TvaRgsmF5P+TzuiC1ZLu2pPipTwuFiBW10NFuHVHds3HTziGO1LZ7dU4yjf4fFw9raRH1xdgIrfJHcX1QZ3qS1UFeA+VA07R3gwPQ8kCZktToqJ7av5dmy+HkaF4hzNrXAxQ3xfwpQ4ISYbZ9IbgMPHzrnJm2Zvhi6DWcYgaY=;YDqaSnJ5GbJmmmDTMYOV5w=="
 ---

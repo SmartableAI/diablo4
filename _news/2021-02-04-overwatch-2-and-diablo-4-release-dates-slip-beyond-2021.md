@@ -164,6 +164,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
+    excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
+    publishedDateTime: 2021-02-04T21:31:00Z
+    webUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
+        width: 795
+        height: 478
+        isCached: true
   - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
     excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
     publishedDateTime: 2021-02-04T15:49:00Z
@@ -206,6 +220,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard Douses Any Hope Of Diablo 4, Overwatch 2 In 2021"
+    excerpt: "If you were hoping for Overwatch 2 or Diablo 4 to drop this year to scratch some long-lost itches that Blizzard historically filled, then you might want to put a pin in those hopes for a full year."
+    publishedDateTime: 2021-02-04T16:16:16Z
+    webUrl: "https://www.msn.com/en-au/news/techandscience/blizzard-douses-any-hope-of-diablo-4-overwatch-2-in-2021/ar-BB1doZZT"
+    type: article
+    provider:
+      name: Kotaku Australia on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "sbxM4gmJJprHboBs8K7G2KG/GcItwIJN50/nNP2Z3quydTaNVNH9O/Ryw0yt2yaTihpwPn9IRhFnXhA4UAB88QKy0S3nRmR33SyFidYR8Qu6EgbED6jdnLW3RG+scKWT/NL0UNSi7COgfubIqtWyI2BWgdsTGA62EGT0FwI9T010huqcxI3x6wj1nQ97IvqQVtVrn64FkfkGWXiWYAkfzQuL/AlN6vxULgV0GdXPL4v8yZ1bkcojxxeHJSmdcCSuhJx5Y7xE33jCtq2iwXqIcKwgve3eHuj5EArXjXV4sJi4g1LStivtdTFwNWgmRaSSmtHoF3np3B7SyoVWbENsGupR2bJj0n2jzaJrmu2temQ=;/lf793Py4VSWHw+kFxCa/A=="
 ---
