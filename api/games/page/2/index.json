@@ -706,8 +706,8 @@
       "excerpt": "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer MEET YOUR MAKER Lilith has returned to Santuary, summoned by a dark ritual after eons in exile.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/games/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
       "webUrl": "https://smartable.ai/apps/diablo4/game/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=gDfRqDK4pFw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDfRqDK4pFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "originalUrl": "https://youtube.com/watch?v=x2curLvhWxo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x2curLvhWxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT3M3S",
       "provider": {
         "name": "Trailer Games",
@@ -715,13 +715,13 @@
       },
       "topics": [
         "Diablo 4",
-        "Barbarian",
-        "Druid"
+        "Druid",
+        "Barbarian"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gDfRqDK4pFw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/x2curLvhWxo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -729,7 +729,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-04T00:55:45-08:00"
+      "publishedDateTime": "2019-11-01T15:59:13-07:00"
     },
     {
       "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
