@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-diablo-4s-skill-system/ar-BB1di5d5"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
