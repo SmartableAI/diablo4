@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021"
-excerpt: "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021."
-publishedDateTime: 2021-02-04T14:46:00Z
-originalUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
-webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
+title: "Diablo 4 and Overwatch 2 will be part of BlizzCon Online"
+excerpt: "We learned via an earnings call earlier this week that Blizzard won’t be releasing Diablo 4 or Overwatch 2 this year. However, we will be seeing both games in action at BlizzCon, which takes place ..."
+publishedDateTime: 2021-02-11T08:24:00Z
+originalUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-will-be-part-of-blizzcon-online/"
+webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-will-be-part-of-blizzcon-online/"
 type: article
-quality: 127
-heat: 707
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KitGuru
+  domain: kitguru.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
+    width: 615
+    height: 330
     isCached: true
 
 related:
+  - title: "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021"
+    excerpt: "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021."
+    publishedDateTime: 2021-02-04T14:46:00Z
+    webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 will not release in 2021"
     excerpt: "During its investors' earnings call conference, Activision revealed that both Diablo 4 and Overwatch 2 will not come out in 2021."
     publishedDateTime: 2021-02-04T14:30:00Z
@@ -364,20 +374,6 @@ related:
         width: 782
         height: 500
         isCached: true
-  - title: "Diablo 4 and Overwatch 2 will be part of BlizzCon Online"
-    excerpt: "We learned via an earnings call earlier this week that Blizzard won’t be releasing Diablo 4 or Overwatch 2 this year. However, we will be seeing both games in action at BlizzCon, which takes place ..."
-    publishedDateTime: 2021-02-11T08:24:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-will-be-part-of-blizzcon-online/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 87
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
-        width: 615
-        height: 330
-        isCached: true
   - title: "Diablo 4 Isn’t Releasing Anytime Soon And Overwatch 2 May Release In 2022"
     excerpt: "Diablo 4 isn't going to be releasing anytime soon; however, Activision may have hinted that Overwatch 2 could release in 2022."
     publishedDateTime: 2021-02-04T15:49:00Z
@@ -458,6 +454,6 @@ related:
         height: 500
         isCached: true
 
-secured: "xNDOtuFS+S/0CuTPcwc3xdIqFc7oD5SKB54RINB2dH1G1qiM723Ipm6/gXb2gGkmYjtCpdpPhNtFMXiyVO0tH2QnDYeCQJrXU++9Nf8xeCvim0n+tki/+oe81fEYHIVOV0igBC/ohqDbMtWERabQutTPQ8SWUZX1LDN+2r5gifmkw9KL9PUrSs4biguhKKpm+6TvaRgsmF5P+TzuiC1ZLu2pPipTwuFiBW10NFuHVHds3HTziGO1LZ7dU4yjf4fFw9raRH1xdgIrfJHcX1QZ3qS1UFeA+VA07R3gwPQ8kCZktToqJ7av5dmy+HkaF4hzNrXAxQ3xfwpQ4ISYbZ9IbgMPHzrnJm2Zvhi6DWcYgaY=;YDqaSnJ5GbJmmmDTMYOV5w=="
+secured: "vThcCRYM1JZ0qAIwQoevGRvr/uCsdjJ/rxhjNIrQWIux08PBvfhCTjWMZZaOJTk83/8WPpUbdUt8Z2HTYrkBxXMSfIx6P1qbs5yDmlsTT0WHn+XuvFiAPf6NFbgbQ0gqTjzUxJ5cGa7KHanpb5XUa1VGjFRuyJpQ7ubOMu+t6jgk3pagNK29GlsaQqRA2U8V5zZdccEgVzedwXeJcr7D/MAqR03feSSNUkuu5cX/i9YMg2TjN+Pq2zHiR/K0cp5yFOdyddGQGUS7CKDH/nXNFg6Y3FQ2shyexfCJTrncT4x8Uw7ptmqfflku2wf3/+n4b0rwjemrdyc4+qQVYZYUvIAPpsPYGLf/DWC9ZAYqspw=;bLSkWOujYd2IkiqJAjDSqg=="
 ---
 
