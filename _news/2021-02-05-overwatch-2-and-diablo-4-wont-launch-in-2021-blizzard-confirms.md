@@ -168,6 +168,22 @@ related:
         width: 600
         height: 309
         isCached: true
+  - title: "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4"
+    excerpt: "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ..."
+    publishedDateTime: 2021-02-11T04:57:00Z
+    webUrl: "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+    ampWebUrl: "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+    cdnAmpWebUrl: "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 107
+    images:
+      - url: "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 won't see 2021 release dates, says Activision Blizzard"
     excerpt: "In today's earnings call, the company warned investors not to expect a release this year from its tentpole franchises."
     publishedDateTime: 2021-02-04T14:55:00Z

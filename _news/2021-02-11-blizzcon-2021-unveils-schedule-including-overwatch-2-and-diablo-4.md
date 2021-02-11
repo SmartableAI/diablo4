@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 won't see 2021 release dates, says Activision Blizzard"
-excerpt: "In today's earnings call, the company warned investors not to expect a release this year from its tentpole franchises."
-publishedDateTime: 2021-02-04T14:55:00Z
-originalUrl: "https://www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard"
-webUrl: "https://www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard"
-ampWebUrl: "https://www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard?amphtml=1"
+title: "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4"
+excerpt: "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ..."
+publishedDateTime: 2021-02-11T04:57:00Z
+originalUrl: "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+webUrl: "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+ampWebUrl: "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+cdnAmpWebUrl: "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
 type: article
-quality: 103
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/02/04/overwatch-2-diablo-4-no-2021-release-date_feature.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -184,21 +184,21 @@ related:
         width: 600
         height: 309
         isCached: true
-  - title: "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4"
-    excerpt: "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ..."
-    publishedDateTime: 2021-02-11T04:57:00Z
-    webUrl: "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
-    ampWebUrl: "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
-    cdnAmpWebUrl: "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
+  - title: "Overwatch 2 and Diablo 4 won't see 2021 release dates, says Activision Blizzard"
+    excerpt: "In today's earnings call, the company warned investors not to expect a release this year from its tentpole franchises."
+    publishedDateTime: 2021-02-04T14:55:00Z
+    webUrl: "https://www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard"
+    ampWebUrl: "https://www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/122592/overwatch-2-and-diablo-4-wont-see-2021-release-dates-says-activision-blizzard?amphtml=1"
     type: article
     provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 107
+      name: Shacknews
+      domain: shacknews.com
+    quality: 103
     images:
-      - url: "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg"
-        width: 960
-        height: 540
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/02/04/overwatch-2-diablo-4-no-2021-release-date_feature.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Overwatch 2 and Diablo 4 Aren’t Launching This Year, Coming 2022 at the Earliest"
     excerpt: "Today's financial call revealed that the Overwatch 2 and Diablo 4 release date won't happen until 2022 at the earliest."
@@ -440,6 +440,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RbDz10Z8O0qBLTbHDit8htqC5jtogf48tDe3MeocJe8IYhhhPh5RJUx8E/3KEDidhv6AwA03ro4/pGy+0nSG8AwC+epAIfP1jwpTDTX6OMlqWBcjRwHCYtdobV0Qi+mH0PngTUKTnVz3mVMk/kIy5s2LMvGkvbbx/s2QBv19aEzefwvoD/HCJEVP910H2eDjrpiO6uFkBP+BJjZ4Nf0slzdD4tl4qLEk66UKiRj0eWQZbemwcD9nLFz+j6xeJA6iaww/qtbuLmWt3rnlQ7+0AWQO6gcZKhC6q4FaHXau95X45LSrU9qOr80Dzj0EhZgF9Zrs/V8ZwT+pS/MFX3Z2xB4e0b4jzVNCncq0UwLv1w0=;mNXY8R46NT+LGZwQhmUwyg=="
+secured: "+MPkqICqv/bL57bffGg3iheQww3BGXGS3pHwzcxHjfx32Vv3kn0vxPjmiPGvoTznXRLpfFp2j2bRQfq7xH5QxQurPtBBgZj/+0YxH65nc99EIPapUadrWD9nC6RRy/DvYYP3a6c5AgqRJk1MBFfD1VcirKY7TdbsnY0HMz6I385AG4OfWTlu398lofp06bgo49M/uq/i8+XD3b/+Z71MP7rDkGi56ZzO8OUfgMBHYgSeZW3EX4DDGQEkxjGIXq87+Rd3ZyZr0804TTobt1T45Ce2FZRiPu96odTyDMptC4v8EQ1IolhddlH0Cs7n1Dz2O4NxfCGfmxPnBS8IQRKNMhH1SfkvHep5pSlkh2g0Q7Y=;Tzf1seidcxwymmczUS6C9A=="
 ---
 
