@@ -236,6 +236,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
+    excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
+    publishedDateTime: 2021-02-12T06:14:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 99
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/BlizzCon-2021-event-1397050.jpg?r=1613139248805"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Blizzard Says No ‘Overwatch 2’ Or ‘Diablo 4’ In 2021, Which At This Point, Is A Good Thing"
     excerpt: "The “bad news” as it were, was that Blizzard is still not really…putting out any major projects. In the report, Activision said that neither Overwatch 2 nor Diablo 4 will arrive in 2021, not even ..."
     publishedDateTime: 2021-02-05T07:13:00Z
@@ -456,6 +472,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
         width: 500
         height: 500
+        isCached: true
+  - title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
+    excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
+    publishedDateTime: 2021-02-12T06:15:00Z
+    webUrl: "https://www.challengehebdo.com/entertainment-arts/blizzcon-2021-event-schedule-big-news-for-overwatch-2-diablo-4-and-world-of-warcraft-gaming-entertainment-challenge-18752-2021/"
+    type: article
+    provider:
+      name: challengehebdo.com
+      domain: challengehebdo.com
+    quality: 60
+    images:
+      - url: "https://www.challengehebdo.com/wp-content/uploads/2021/02/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2.jpg"
+        width: 750
+        height: 445
         isCached: true
   - title: "BlizzCon Online 2021 full schedule: When to expect ‘Overwatch 2’ and ‘Diablo 4’ presentations; here’s where to watch"
     excerpt: "After months of waiting, Blizzard Entertainment finally unveiled the schedule of the next BlizzCon. While its upcoming celebration may be different than the previous years, it is still slated to be ..."

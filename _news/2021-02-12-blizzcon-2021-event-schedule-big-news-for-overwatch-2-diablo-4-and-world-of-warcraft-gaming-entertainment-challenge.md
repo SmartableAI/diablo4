@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 won’t be released this year"
-excerpt: "In the company’s latest earnings call, Activision Blizzard confirms that neither Diablo 4 or Overwatch 2 is likely to be released in 2021."
-publishedDateTime: 2021-02-05T00:05:00Z
-originalUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
-webUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
-ampWebUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
-cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
+excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
+publishedDateTime: 2021-02-12T06:15:00Z
+originalUrl: "https://www.challengehebdo.com/entertainment-arts/blizzcon-2021-event-schedule-big-news-for-overwatch-2-diablo-4-and-world-of-warcraft-gaming-entertainment-challenge-18752-2021/"
+webUrl: "https://www.challengehebdo.com/entertainment-arts/blizzcon-2021-event-schedule-big-news-for-overwatch-2-diablo-4-and-world-of-warcraft-gaming-entertainment-challenge-18752-2021/"
 type: article
-quality: 107
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Days
-  domain: thumbsticks.com
+  name: challengehebdo.com
+  domain: challengehebdo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i2.wp.com/www.thumbsticks.com/wp-content/uploads/2021/02/diablo-iv-art.jpg?fit=1280%2C720&#038;ssl=1"
-    width: 1280
-    height: 720
+  - url: "https://www.challengehebdo.com/wp-content/uploads/2021/02/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2.jpg"
+    width: 750
+    height: 445
     isCached: true
 
 related:
@@ -103,6 +101,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/cHuqLhqVouZ8abHdL54sbD-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 won’t be released this year"
+    excerpt: "In the company’s latest earnings call, Activision Blizzard confirms that neither Diablo 4 or Overwatch 2 is likely to be released in 2021."
+    publishedDateTime: 2021-02-05T00:05:00Z
+    webUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
+    ampWebUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+    cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+    type: article
+    provider:
+      name: Days
+      domain: thumbsticks.com
+    quality: 107
+    images:
+      - url: "https://i2.wp.com/www.thumbsticks.com/wp-content/uploads/2021/02/diablo-iv-art.jpg?fit=1280%2C720&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Don't expect Overwatch 2 or Diablo 4 in 2021"
     excerpt: "Activision does not expect Blizzard's Overwatch 2 or Diablo 4 to launch in 2021, it's said. Speaking during a financial call last night, Activision's chief financial officer Dennis Durkin said the ..."
@@ -469,20 +483,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
-    excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
-    publishedDateTime: 2021-02-12T06:15:00Z
-    webUrl: "https://www.challengehebdo.com/entertainment-arts/blizzcon-2021-event-schedule-big-news-for-overwatch-2-diablo-4-and-world-of-warcraft-gaming-entertainment-challenge-18752-2021/"
-    type: article
-    provider:
-      name: challengehebdo.com
-      domain: challengehebdo.com
-    quality: 60
-    images:
-      - url: "https://www.challengehebdo.com/wp-content/uploads/2021/02/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2.jpg"
-        width: 750
-        height: 445
-        isCached: true
   - title: "BlizzCon Online 2021 full schedule: When to expect ‘Overwatch 2’ and ‘Diablo 4’ presentations; here’s where to watch"
     excerpt: "After months of waiting, Blizzard Entertainment finally unveiled the schedule of the next BlizzCon. While its upcoming celebration may be different than the previous years, it is still slated to be ..."
     publishedDateTime: 2021-02-11T21:35:00Z
@@ -493,6 +493,6 @@ related:
       domain: econotimes.com
     quality: 44
 
-secured: "aKs/ODkpy2nJajQeZ/t7eMDDKjFjRAXjq4kTmZJadJVMJZ3FP2kUfj0ydCNsd1INS6t49tJ77sOdRAS+v8vvwDuKVM3Q73jzB6jdNRenyGi/WJZQJDAGXFIrPXDy7flBAvjgJN5cnnZgbryLX5lOwIRGel++ItFIohIcA09EUH9ZpXJqz4hHl5xfY4rK1rb5X4GMiQEzYxr44xNoVSMgzXVJ7/vFIDnVt+DsdD7Cvqh8ql24QrSLnYuhhImpqaV0Cot8HehUMBldO/CECSWVv88Qe356fnVkUaL5ksoaYV9tZA0ER8Ix4euZsf09hXliS2ZhV/cVDyPPULZNsxe+dxq2s4mLBARsllGRi9iCEJI=;8L9Qh/UTkTynGDbOUAyZSw=="
+secured: "5S/d6YydhhmJzi4M1yCpO1Z1HnCGxOGAQtnWv9tljMod8a8vBOta2c5jxEBwttX1r/bamdkp+bte67yshI9ROMDifmfUd2WiFD6FaCrF7qTfX6DTKDC4c22ezN66QNNH1prJ3f6yGJjUAYrO20Ya10lpGceDBodkUuLGIsW/qmQS8qzGUBkQfCpUfydROLeYAcLUi3gC7wEqsAJnrUJaMv/pDy55GaujRbtUcrToQspOWsaQ0PLnzPvkQkiPc9BSh++wki1FBMCoOcy6K+xHGR0FycBXJ0wUFxUsYUCT2rHW9Oes0vJHUjEUFmRR1kzxS5vDHwGY8aHZXhFcl6+TchVSPluRmsqYXvx8YgwA+dQ=;ePN0UEkINM2JRc1elxvRSg=="
 ---
 

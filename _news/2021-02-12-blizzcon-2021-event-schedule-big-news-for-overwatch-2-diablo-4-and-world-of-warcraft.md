@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 and Overwatch 2 won’t be released this year"
-excerpt: "In the company’s latest earnings call, Activision Blizzard confirms that neither Diablo 4 or Overwatch 2 is likely to be released in 2021."
-publishedDateTime: 2021-02-05T00:05:00Z
-originalUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
-webUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
-ampWebUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
-cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
+excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
+publishedDateTime: 2021-02-12T06:14:00Z
+originalUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft"
+webUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft"
+ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
+cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
 type: article
-quality: 107
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: Days
-  domain: thumbsticks.com
+  name: Daily Express
+  domain: express.co.uk
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i2.wp.com/www.thumbsticks.com/wp-content/uploads/2021/02/diablo-iv-art.jpg?fit=1280%2C720&#038;ssl=1"
-    width: 1280
-    height: 720
+  - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/BlizzCon-2021-event-1397050.jpg?r=1613139248805"
+    width: 590
+    height: 350
     isCached: true
 
 related:
@@ -103,6 +103,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/cHuqLhqVouZ8abHdL54sbD-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 won’t be released this year"
+    excerpt: "In the company’s latest earnings call, Activision Blizzard confirms that neither Diablo 4 or Overwatch 2 is likely to be released in 2021."
+    publishedDateTime: 2021-02-05T00:05:00Z
+    webUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/"
+    ampWebUrl: "https://www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+    cdnAmpWebUrl: "https://www-thumbsticks-com.cdn.ampproject.org/c/s/www.thumbsticks.com/diablo-4-overwatch-2-wont-be-released-this-year-02052021/amp/"
+    type: article
+    provider:
+      name: Days
+      domain: thumbsticks.com
+    quality: 107
+    images:
+      - url: "https://i2.wp.com/www.thumbsticks.com/wp-content/uploads/2021/02/diablo-iv-art.jpg?fit=1280%2C720&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Don't expect Overwatch 2 or Diablo 4 in 2021"
     excerpt: "Activision does not expect Blizzard's Overwatch 2 or Diablo 4 to launch in 2021, it's said. Speaking during a financial call last night, Activision's chief financial officer Dennis Durkin said the ..."
@@ -231,22 +247,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/overwatch-2-gameplay-trailer.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
-    excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
-    publishedDateTime: 2021-02-12T06:14:00Z
-    webUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft"
-    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 99
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/BlizzCon-2021-event-1397050.jpg?r=1613139248805"
-        width: 590
-        height: 350
         isCached: true
   - title: "Blizzard Says No ‘Overwatch 2’ Or ‘Diablo 4’ In 2021, Which At This Point, Is A Good Thing"
     excerpt: "The “bad news” as it were, was that Blizzard is still not really…putting out any major projects. In the report, Activision said that neither Overwatch 2 nor Diablo 4 will arrive in 2021, not even ..."
@@ -493,6 +493,6 @@ related:
       domain: econotimes.com
     quality: 44
 
-secured: "aKs/ODkpy2nJajQeZ/t7eMDDKjFjRAXjq4kTmZJadJVMJZ3FP2kUfj0ydCNsd1INS6t49tJ77sOdRAS+v8vvwDuKVM3Q73jzB6jdNRenyGi/WJZQJDAGXFIrPXDy7flBAvjgJN5cnnZgbryLX5lOwIRGel++ItFIohIcA09EUH9ZpXJqz4hHl5xfY4rK1rb5X4GMiQEzYxr44xNoVSMgzXVJ7/vFIDnVt+DsdD7Cvqh8ql24QrSLnYuhhImpqaV0Cot8HehUMBldO/CECSWVv88Qe356fnVkUaL5ksoaYV9tZA0ER8Ix4euZsf09hXliS2ZhV/cVDyPPULZNsxe+dxq2s4mLBARsllGRi9iCEJI=;8L9Qh/UTkTynGDbOUAyZSw=="
+secured: "L6S1jsXOQpPPae5hm2zfDFi2zoyBXc4ryDOPdMUbAJEbWj6K37BFUlXiIQNlawfowzkZgxZBUwRLJKktFkweAQ6MFOzT0cgWc48w2yc/OnjMG3SCCJsuLSfcPyIHiOuxTxn+1rjlKyN61eiIKExWr9bj5NiCoVH8V9/oi8uZLSkBTg4uutXfdYsOOco9k3sH2cDWk1eNwOXaIy9xsQRUHjsPDphzxlI/uuYnXqwooadgea0i1pUDpgFca6ZTWF/ehd6n5s+Pf0bpRN1GB+lgkBtfY+dfnVojt3inE9GlsyGQ3FkJW6Bx1D7WTRWCmlxMmrEZlFThi5npog8O5d8mOoEGqAx2Y1gEzlWRLaW2RDY=;fwnmHPOrM/mM9OH9lLttjQ=="
 ---
 
