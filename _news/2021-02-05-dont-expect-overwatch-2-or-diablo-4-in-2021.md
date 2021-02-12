@@ -453,6 +453,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "BlizzCon Online 2021 full schedule: When to expect ‘Overwatch 2’ and ‘Diablo 4’ presentations; here’s where to watch"
+    excerpt: "After months of waiting, Blizzard Entertainment finally unveiled the schedule of the next BlizzCon. While its upcoming celebration may be different than the previous years, it is still slated to be ..."
+    publishedDateTime: 2021-02-11T21:35:00Z
+    webUrl: "https://www.econotimes.com/BlizzCon-Online-2021-full-schedule-When-to-expect-Overwatch-2-and-Diablo-4-presentations-heres-where-to-watch-1602095"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 44
 
 secured: "CXOLqDTuIaQq4nG+ZRmbIitJmp4bxwrOzqGuQWq7m+nmT3OkfyzfLrTRFwTvAFkSWLY/NWx5XhxpheB37sSa40lxNVoGM7Tj/5m8YkXlwF0s4kJ+Pu3XTYuTpaHSxv65pczdn0WxWeQc/gODb4l7D9+D83yLrTsVDV0QHZ+g+MOXf2sAGF6Q3livDv3ei+CJsDDnM/cFnTDs2xqcekVmqASuM9qCfgijcU2Gz2cSdgQ7+eQYh+BlGidOatW+2J7Eu6pqm532zhJWYge1BBQxybXzPS98qYmHxaozD3YswRXbTb8kKkdSDbtvNEyBZDs5XxhM6kFS8ZQlnFrv6bZL75Bsbw3BVFWpYpsq6jMVBmo=;TKDIAlDVUJLzT3LdunT6FQ=="
 ---

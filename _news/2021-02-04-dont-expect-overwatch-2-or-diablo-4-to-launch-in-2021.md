@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-t
 webUrl: "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021"
 type: article
 quality: 127
-heat: 707
+heat: 727
 published: true
 
 provider:
@@ -457,6 +457,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "BlizzCon Online 2021 full schedule: When to expect ‘Overwatch 2’ and ‘Diablo 4’ presentations; here’s where to watch"
+    excerpt: "After months of waiting, Blizzard Entertainment finally unveiled the schedule of the next BlizzCon. While its upcoming celebration may be different than the previous years, it is still slated to be ..."
+    publishedDateTime: 2021-02-11T21:35:00Z
+    webUrl: "https://www.econotimes.com/BlizzCon-Online-2021-full-schedule-When-to-expect-Overwatch-2-and-Diablo-4-presentations-heres-where-to-watch-1602095"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 44
 
 secured: "xNDOtuFS+S/0CuTPcwc3xdIqFc7oD5SKB54RINB2dH1G1qiM723Ipm6/gXb2gGkmYjtCpdpPhNtFMXiyVO0tH2QnDYeCQJrXU++9Nf8xeCvim0n+tki/+oe81fEYHIVOV0igBC/ohqDbMtWERabQutTPQ8SWUZX1LDN+2r5gifmkw9KL9PUrSs4biguhKKpm+6TvaRgsmF5P+TzuiC1ZLu2pPipTwuFiBW10NFuHVHds3HTziGO1LZ7dU4yjf4fFw9raRH1xdgIrfJHcX1QZ3qS1UFeA+VA07R3gwPQ8kCZktToqJ7av5dmy+HkaF4hzNrXAxQ3xfwpQ4ISYbZ9IbgMPHzrnJm2Zvhi6DWcYgaY=;YDqaSnJ5GbJmmmDTMYOV5w=="
 ---

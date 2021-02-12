@@ -453,6 +453,15 @@ related:
       name: Kotaku Australia on MSN.com
       domain: msn.com
     quality: 67
+  - title: "BlizzCon Online 2021 full schedule: When to expect ‘Overwatch 2’ and ‘Diablo 4’ presentations; here’s where to watch"
+    excerpt: "After months of waiting, Blizzard Entertainment finally unveiled the schedule of the next BlizzCon. While its upcoming celebration may be different than the previous years, it is still slated to be ..."
+    publishedDateTime: 2021-02-11T21:35:00Z
+    webUrl: "https://www.econotimes.com/BlizzCon-Online-2021-full-schedule-When-to-expect-Overwatch-2-and-Diablo-4-presentations-heres-where-to-watch-1602095"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 44
 
 secured: "jeOJNvwAhiHhOB+iI/KnwY9xuXno59IU7sTvqL5pjz7sAU97ET0vSa+li1QHwQuIORpPTJmA358lB/K5irI+9c26oJOX0ixOOBr8JBZTWHl6lKbdwUu33FzGFnyIbKSdZEQIskrJeINmUHBvJhQdEOS48Q5oQhyEOmmFKmJ1Uf+4KTGXwSnpqU/v4FbgyNGdh9faYs/3BPKelkEPQEuWcPOV0p8IDQI46mCULfv2s6XijBMubT7eNiWNrs2xFanefcC+zLPFhWNYhyP95VhclhnL66fuFPbjNxkDt96z+/s1UisDqTBLLZn9V2OpwKBougzPmlWncDL3SgWUcK1/smkEI/KE/tUbO7MJeSqubMk=;qf1m/w7WZMGHpB0hiFY+Uw=="
 ---
