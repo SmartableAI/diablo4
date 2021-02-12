@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-12-blizzconline-schedule-goes-live-without-diablo-4.md",
+      "title": "BlizzConline Schedule Goes Live Without Diablo 4",
+      "excerpt": "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-12-blizzconline-schedule-goes-live-without-diablo-4/index.json",
+      "webUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/",
+      "originalUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/",
+      "publishedDateTime": "2021-02-11T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-diablo-4-how-pvp-works-and-what-to-expect.md",
       "title": "Diablo 4: How PVP works and what to expect",
       "excerpt": "Adventurers can bash monsters and each other. Blizzard Entertainment's upcoming hack-and-slash RPG Diablo 4 is still a ways off. Still, even with the scourges of Goatmen and other monsters pillaging ...",
@@ -1043,48 +1085,6 @@
       "provider": {
         "name": "TweakTown",
         "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-new-diablo-4-update-has-fans-speculating.md",
-      "title": "New Diablo 4 Update Has Fans Speculating",
-      "excerpt": "A new Diablo 4 update has surface online courtesy of LinkedIn, and it's not the news fans wanted to hear. Since announcing Diablo 4, Blizzard has said nothing consequential about the game. At the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-31-new-diablo-4-update-has-fans-speculating/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
-      "publishedDateTime": "2020-10-31T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
