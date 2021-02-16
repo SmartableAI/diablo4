@@ -9,7 +9,7 @@ ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/am
 cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
 type: article
 quality: 107
-heat: 108
+heat: 111
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz"
 type: article
 quality: 104
-heat: 164
+heat: 166
 published: true
 
 provider:
