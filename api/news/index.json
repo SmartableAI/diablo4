@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
+      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
+      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "publishedDateTime": "2021-02-16T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-blizzconline-schedule-goes-live-without-diablo-4.md",
       "title": "BlizzConline Schedule Goes Live Without Diablo 4",
       "excerpt": "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -52,7 +94,7 @@
       "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-works-and-what-to-expect/ar-BB1dAeQu",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -137,7 +179,7 @@
       "originalUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1043,48 +1085,6 @@
       "provider": {
         "name": "BGR",
         "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op.md",
-      "title": "Diablo 4 will support controllers on PC, has 2-player couch co-op",
-      "excerpt": "Blizzard confirms some interesting new features coming to Diablo 4 on PC, including full controller support and total controller remapping/custom keybinding. Diablo 4 is being developed for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.json",
-      "webUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/0/70934_255_diablo-iv-will-support-controllers-on-pc-has-2-player-couch-co-op_full.png",
-          "width": 1300,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
-      "publishedDateTime": "2020-11-03T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null
