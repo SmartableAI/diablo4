@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-wo
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-works-and-what-to-expect/ar-BB1dAeQu"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

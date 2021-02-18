@@ -9,7 +9,7 @@ ampWebUrl: "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/"
 cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:
