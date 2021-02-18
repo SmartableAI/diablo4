@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story.md",
+      "title": "Diablo 4 is making fresh changes to items, skills, and how it tells a story",
+      "excerpt": "BlizzConOnline kicks off in a handful of hours, and while fans are expecting some sort of update on Diablo 4, it looks like the development team just dropped some early and meaty tidbits on how the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/index.json",
+      "webUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
+      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/media.criticalhit.net//2021/02/Diablo-4-3.jpg",
+          "width": 850,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "criticalhit.net",
+        "domain": "criticalhit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
       "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
       "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
@@ -1043,48 +1085,6 @@
       "provider": {
         "name": "ClutchPoints",
         "domain": "clutchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed.md",
-      "title": "Blizzard says its ‘Diablo 4’ announcement wasn’t delayed",
-      "excerpt": "but not so good for hardcore Diablo gamers who are anxiously waiting for Diablo 4. A report then claimed that Blizzard wanted to announce Diablo 4 at the event as well, but plans changed in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed/index.json",
-      "webUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
-      "originalUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/11/diablo-immortal.jpg?quality=70&#038;strip=all",
-          "width": 1360,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
-      "publishedDateTime": "2020-11-05T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
