@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gam
 type: video
 length: PT21M27S
 publishedDateTime: 2021-01-24T16:05:28Z
-heat: 136
+heat: 142
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4n0/XWwMXf1/x3TnvfcEgtA98GqaEoR9XStG9+8bLtwgUm4gBys897SPqSXZkv1Kj44ZKm0F/3ECaWmc1BPfq3SlbQAM8mNns2QJlDFDoh5lEvy2Z8RsxQx7XTBaLU9noPDWc+BOfGHOrlBwXliyC2SI9M7NQB3yKFhFcWcxRFaRx/ffKC4E9GdttC8chsAJMKXE6dnko1+D/R+MdsE7tsMHcPUEcVZASMXb+g02IOsgglqACwDvnQE7JlbUXpoQYimfpNyTV/mYceIfYC62ZtNWEcr9ZNzAP3VmUVlB6TzMI45e5O2LECBNdClOl08vqvLkmi/MBK4uTfkylBR/yMDcUXbfoxHSD4j6TtRYRNiVF/grzm1//4/u9PxOcGa0uCQrTA/02pbmMGFOyTPbQyDsCTFFKAHB++iLwZRlKMc=;bEVcwKaupuNKz51ksoA9aQ=="
+secured: "DloSQ1yfvLa3eYZ7PvnRqNJe6KfvgOaHq7Vu87jUWOBMLjGnOBM04Albe6U9nVCU7k9aTZ8LlPii+nMo9pgVHqDzAM2vjKluO3IivTFlRd4k20AU9Pdo5c06pkmw5HDkcd0fUmU3ZluKkEE/rW354zyl1p1bFc+2TLxOL40wVBNncF8cA2caGkQHWlPnzXKLzN8XWKo08WrupzaxzqPinURKkAlCRlBG61tXvxYC4rN0wQ3+IRaUuRsrz/gzBkxZOCtMqsVlzz9M2ppmYP+Cvh7VbKcecLMrF3kvHnF8jjq93juRA6m9LX7qND5hiKwekXF2dngilbm0pIhloimIrnpNd0Syh9dreEg9EXhHYBTy+VYtUEkOyvTk7d9ijwApAGwXT3BBFUIPmu3dk/2xHdix7WOxRZ9AJlWQSj5D2fI=;3/xN2PQJh+b+Bjwh01Wybw=="
 ---
 
