@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline.md",
+      "title": "Diablo 4 - Everything We Know Ahead Of BlizzConline",
+      "excerpt": "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "publishedDateTime": "2021-02-19T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker.md",
       "title": "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker",
       "excerpt": "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ...",
@@ -90,8 +141,8 @@
       "title": "What Diablo 4 can do to compete with Path of Exile",
       "excerpt": "RPG, with its 24 years of dominance and a legacy that makes other games sweat. Diablo 3, despite a bumpy start, carried on that legacy, and players got to watch it evolve over a multitude of updates.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile/index.json",
-      "webUrl": "https://www.pcgamer.com/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "originalUrl": "https://www.pcgamer.com/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "webUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "originalUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
       "featuredContent": null,
       "highlight": null,
       "heat": 147,
@@ -108,9 +159,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "publishedDateTime": "2021-02-18T02:27:00-08:00",
+      "ampWebUrl": "https://www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "publishedDateTime": "2021-02-18T02:27:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Gamer",
@@ -187,7 +238,7 @@
       "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -208,48 +259,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-blizzconline-schedule-goes-live-without-diablo-4.md",
-      "title": "BlizzConline Schedule Goes Live Without Diablo 4",
-      "excerpt": "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-12-blizzconline-schedule-goes-live-without-diablo-4/index.json",
-      "webUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/",
-      "originalUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/",
-      "publishedDateTime": "2021-02-11T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
         "images": null,
         "publishers": null,
         "authors": null

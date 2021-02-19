@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzCon 2021: Start Date, BlizzConline, Overwatch 2, World Of Warcraft, Diablo 4, Cosplay Competition & More"
-    excerpt: "BlizzCon 2021, or BlizzConline, is coming up and we have everything you need to know about the biggest Blizzard event of the year."
-    publishedDateTime: 2021-02-02T04:42:00Z
-    webUrl: "https://realsport101.com/misc/blizzcon-2021-start-date-blizzconline-overwatch-2-world-of-warcraft-diablo-4-cosplay-competition-more/"
-    type: article
-    provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 48
 
 secured: "xqw/WPNE7Cd7sQsTqxlag8xOIdT5f/SWcbCKbp9TGU1e6q/rtPxuPlnAsu/FJLwEyOp8cMFcV6ICXr8DwmZW7Y06g4Lp1MfzZLsdw0uRTpimA3mNmSUoUaNm21liehhBMzM2BQF1g2jWuz9zuN0BWkBott56aGvrOuuccV6FPT4Rf+hlNu0MV420r8KFLlHNAog3/K2zqop6mGEgPDN2eAZo7GrnEMptxb7hz/yh9h5UyJf/leOL0ClExNW4dtxn+6XVb44xIF6vehS3WmasWZDnQ6sFhBDRwGnOpeCJ3leXGpqYsnI+jUyviur3gaSeFyylaZTev0atKfYrnvPn8K8IPlzOJweffcTmrwCmg/I=;MyDXNSJngxNGrFhaBwif+w=="
 ---

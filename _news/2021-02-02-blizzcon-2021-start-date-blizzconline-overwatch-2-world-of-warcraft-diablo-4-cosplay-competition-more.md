@@ -18,36 +18,47 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
-    excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
-    publishedDateTime: 2021-02-16T15:42:00Z
-    webUrl: "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+  - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
+    excerpt: "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far."
+    publishedDateTime: 2021-02-19T11:09:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "BlizzConline Schedule Goes Live Without Diablo 4"
+    excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
+    publishedDateTime: 2021-02-12T05:29:00Z
+    webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
+    ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
     quality: 107
     images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more"
-    excerpt: "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ..."
-    publishedDateTime: 2021-02-19T04:08:24Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv"
+  - title: "Diablo 4 News Countdown: Everything We Know"
+    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
+    publishedDateTime: 2021-02-18T12:01:00Z
+    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
     type: article
     provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 83
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170"
-        width: 1200
-        height: 630
-        isCached: true
+      name: realsport101.com
+      domain: realsport101.com
+    quality: 67
 
 secured: "N7TwM5nxqPAzZ0Lh0iow8mLc45EG6Hj59Jb1Zbh/kS0msmXLaZRFVa9xse11eBQ8j0HhlJp1lfv+sOOoqAFNaHp59Y5b7x71O2LfnpquwcChl1Vmp+GVBtbnb/QOl5upEipBeioEWuqITUEa/nUhn5cbiyZl1Xpnci/c6fv4bXJpN0A2MwYwsYvLg3BonmvIbZLgKvUxGolHzsJv3mW8BKeUNF9MybtG0kBkLRgtFTPf9TtmVtFXKlxZ0YHr7RGqN8WEmGDXIv8Sok37tainfq6+r2ESALgaQpdheRdHAtfNeOJRZ0tIuvC5LeZvBOfFjHLuKpf3Zu8UuyflTLs/5YMFT8yPB6gBjL+KFhtPh6c=;tfY+xHVdnkarkpNGjPDq+Q=="
 ---
