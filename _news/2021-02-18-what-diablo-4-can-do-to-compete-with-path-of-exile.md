@@ -5,12 +5,7 @@ excerpt: "RPG, with its 24 years of dominance and a legacy that makes other game
 publishedDateTime: 2021-02-18T10:27:00Z
 originalUrl: "https://www.pcgamer.com/what-diablo-4-can-do-to-compete-with-path-of-exile/"
 webUrl: "https://www.pcgamer.com/what-diablo-4-can-do-to-compete-with-path-of-exile/"
-ampWebUrl: "https://www.pcgamer.com/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/"
 type: article
-quality: 147
-heat: 147
-published: true
 
 provider:
   name: PC Gamer
@@ -23,12 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg"
-    width: 710
-    height: 408
-    isCached: true
-
-secured: "MtYfquppnnUuBOAZMEQaK9JJlzQZaolZ0Wn169lrkJKnTDDogt/FteBmmYSnzf7fnUqrYktqTEGRZGjnu+KXOWEKW6F+nL5GuhAjGM9M7DQBIeH747Ynf/LQmsUhfWfhtPMNClQT++hwXRLkJ8dOBIjGwHKd+4cGFaywvHQJA0S9qTs9zEmdi6iv/WZoKwq0vJ2VPlwKI4KTVx0NvssD9eRZD4BEblGmbKFbTIYj5DwT4SG7ueDplcsFDDfdgHmiE/3gPmezcVXNDya3sLhNezJdPmbEf7qv49rwjNRnKC5DGXdGUvk/AxqUPqK+CXbDSMU2oPCiFe7fsF//bQutDJBUtAO+GHuKshv7Q4vaVKw=;lKkTkzJrI5evS9GvIGdhbQ=="
+secured: "jNp5oXw5DxkploiOMHogiryLJLsV6CQVVAgIMtUwgi4CphT2p4LywJi7IzCVRINsLuRi6LpUDxppgoTlpss3Ct4S5rAD6lc1lOfquyRDPMI70fDWJkimwh+Ole04D6/M7rUgxMtTHHfRQWqQ8v8e+dxB2KCn7RYPMF7BVbKO51LZtRDCb4y8dsgUYgpojilG4OkF8XLQV2sLPCIhONQlWCf8koa7DUVV4+J8rYZI9yMaTKUBj2+GGu81Vi+kpyWsbAh/CF3DbLzrIMmTMYcXz5LGNgFpZ7cITzEmenqWflKKv3RkYEUrHWL4lIgdaZ6KOwOHrPsytT/kgPDwn35BF2f+5RUCVSJqv5rn5vC8Plg=;DCge2rjf8sUJHDJ/noJktw=="
 ---
 
