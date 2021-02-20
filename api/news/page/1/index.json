@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-19-how-diablo-4s-rogue-class-pvp-and-open-world-work.md",
+      "title": "How Diablo 4's Rogue Class, PvP, And Open World Work",
+      "excerpt": "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-how-diablo-4s-rogue-class-pvp-and-open-world-work/index.json",
+      "webUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "originalUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "publishedDateTime": "2021-02-19T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-diablo-4-pvp-what-we-know-so-far.md",
       "title": "Diablo 4 PvP: what we know so far",
       "excerpt": "Here's a look at what we know so far about the Diablo 4 PvP zone and mechanics, an exciting new feature in the upcoming hack-and-slash.",
@@ -31,48 +82,6 @@
       "provider": {
         "name": "gamerjournalist",
         "domain": "gamerjournalist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-blizzard-on-diablo-4s-rogue-and-how-pvp-works-within-the-open-world.md",
-      "title": "Blizzard on Diablo 4's Rogue and how PvP works within the open world",
-      "excerpt": "Ahead of BlizzCon 2021, we had the chance to sit down with Diablo 4 game director Luis Barriga, and Diablo 4 art director John Mueller to talk about the just-announced Rogue character class, how PvP ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-blizzard-on-diablo-4s-rogue-and-how-pvp-works-within-the-open-world/index.json",
-      "webUrl": "https://www.eurogamer.net/articles/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world",
-      "originalUrl": "https://www.eurogamer.net/articles/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-02-19-21-37/D4_Rogue_Abilities_Caltrops.png/EG11/thumbnail/598x336/format/jpg/quality/85",
-          "width": 598,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world",
-      "cdnAmpWebUrl": "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world",
-      "publishedDateTime": "2021-02-19T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,7 +145,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -187,7 +196,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 287,
       "tags": null,
       "images": [
         {

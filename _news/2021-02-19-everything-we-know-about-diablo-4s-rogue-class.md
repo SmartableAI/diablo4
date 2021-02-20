@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
-excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-publishedDateTime: 2021-02-19T14:47:00Z
-originalUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
-webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+title: "Everything We Know About Diablo 4's Rogue Class"
+excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
+publishedDateTime: 2021-02-19T16:29:00Z
+originalUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
+webUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: realsport101.com
-  domain: realsport101.com
+  name: Looper
+  domain: looper.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
+    width: 1600
+    height: 898
+    isCached: true
 
 related:
   - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
@@ -75,23 +81,18 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 87
-  - title: "Everything We Know About Diablo 4's Rogue Class"
-    excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
-    publishedDateTime: 2021-02-19T16:29:00Z
-    webUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
-    type: article
-    provider:
-      name: Looper
-      domain: looper.com
-    quality: 87
-    images:
-      - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "Diablo 4 News Countdown: Everything We Know"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-18T12:01:00Z
+    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+    type: article
+    provider:
+      name: realsport101.com
+      domain: realsport101.com
+    quality: 67
+  - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
+    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
+    publishedDateTime: 2021-02-19T14:47:00Z
     webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
     type: article
     provider:
@@ -108,6 +109,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "pBtE820A407WE/wp6lfbt9AC9mEP/UnKWZ30Mv1183otlEXafEYRdZ0/h+oY9s41OX/5i70fWXdXG3DnJ+Z6ELnQ/6f5iyPqySPvWFAv6O7vK7eK5Vehbdt3c2Wa6VRznvizJfijusc/KV8weAIbiLSIXbrooS64XcpXG6bwKzRw6p75PpGKMJ7ifH7HnCbVR8cucOKTFvsHPiHp80Np67Bmdl3h/Ougkq8b+FgvDCGHJzfhdzoKQcj7kBsNo9+DqR91xUUXaHezJUB2CabTBdMOAZ0xF90Y6g0jW2zSTH+4O8CbbADWqV5TIup7GsQ20uY7u3shYNJXbmhBBmqZSkfLPk4uY84RiyST2Abfwxk=;fI1stEPnd+4aYTI9xaq2lg=="
+secured: "q/bWNvQhXvZE4PvTjxQUlyKWaR3FRbB66zLYZw0cuS0M2arqX++0yyVW99S+L5pk7O60gMIT/RvkGsI75H+cVOcqEaSJeCgX2SYXCbAVhE2v2H2GUeSOcP2BeC+v6S4akwx0brpDqjdZG2m8OFwCtOvoBe5Trs3dn4M2yS6n0nyPBwnCYyWG3+S3FC6az/fXXrVAePo1qQave52ThfMRVJbwLcpEWiAxVTgk6KXRS1QAIBKxPwRJ9l4ld+vg6qgznEc3n6QcZ2Qy4MHXoZK2wlO1kJep276mpZTQH7zIOX6WOsM99R0kpoMPCP2oQJkQMalWgdADuQa4a7VrxtxL+aX2QVeehRFHEWKQrNMFFsc=;NouJEYFt3zqHQ22rERHjBg=="
 ---
 

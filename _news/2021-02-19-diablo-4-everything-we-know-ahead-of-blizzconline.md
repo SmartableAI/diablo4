@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ah
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
 type: article
 quality: 147
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 87
+  - title: "Everything We Know About Diablo 4's Rogue Class"
+    excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
+    publishedDateTime: 2021-02-19T16:29:00Z
+    webUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
+    type: article
+    provider:
+      name: Looper
+      domain: looper.com
+    quality: 87
+    images:
+      - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
+        width: 1600
+        height: 898
+        isCached: true
   - title: "Diablo 4 News Countdown: Everything We Know"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-18T12:01:00Z

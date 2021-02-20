@@ -1,0 +1,52 @@
+---
+category: news
+title: "How Diablo 4's Rogue Class, PvP, And Open World Work"
+excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
+publishedDateTime: 2021-02-19T17:17:00Z
+originalUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+webUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+type: article
+quality: 147
+heat: 167
+published: true
+
+provider:
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Diablo 4
+
+images:
+  - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+related:
+  - title: "Blizzard on Diablo 4's Rogue and how PvP works within the open world"
+    excerpt: "Ahead of BlizzCon 2021, we had the chance to sit down with Diablo 4 game director Luis Barriga, and Diablo 4 art director John Mueller to talk about the just-announced Rogue character class, how PvP ..."
+    publishedDateTime: 2021-02-19T14:51:00Z
+    webUrl: "https://www.eurogamer.net/articles/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
+    ampWebUrl: "https://www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 107
+    images:
+      - url: "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-02-19-21-37/D4_Rogue_Abilities_Caltrops.png/EG11/thumbnail/598x336/format/jpg/quality/85"
+        width: 598
+        height: 336
+        isCached: true
+
+secured: "gDfD1d4xYbxQ4qjLAEbMx5Zq7JGfAgnLbFL4XYDeIBZ0stQOoxoZuvt8IhijrbTxa3ubkpPGqzEj7Dd66EkSH1uidfiRyVyl1hNnTzkqtt8PWglj3IlBIWGYeDJqnvfMO3WCJLkH9JJfBi3mYJPqcAUnjT4sGyuCJ1HuejZNNKEvKM4903VD/DYDXMDz51xF1mhjm5eBOoNuGl30yhRlcSl2AVO/GrqMjEFycrjTeywfn/K8/8MD4LSsIs1iWtro86VMtxs6mBHFXguF5RZS6CZKqMl47fRg97DRHywtjj6ni2FcYlcGASmLrVcacb9mW4xogDJU3GoqPx673VMhKVSz/1Bx6MNSnMiW5jwb65E=;sDrdUchKIlApDxi56m8UqA=="
+---
+

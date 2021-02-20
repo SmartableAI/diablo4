@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
+    excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
+    publishedDateTime: 2021-02-19T16:45:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "The Rogue Might Be The Next Diablo 4 Class"
     excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
     publishedDateTime: 2021-02-19T05:02:00Z
@@ -86,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QESiGz8jgW4nb8HzU7DANMPFA2nPfZqKR93/dVfwOHCAwNBQfhlu7ovgNW3UwNRVQnvhoXcX9fysSwfCgo2+F6rAbwqTQYoD1+hoEif/3i5rzDg2vjTPciLB40/mFADrxfExGpSZgrPSZeewVE3TEHk13bOR8G6/nmE/pI1f3iQBv1Cd5FbOvvUmJv6gmqO7CDNo5nAx4RYjM/BHt6JXI/XXVKBtbO6P0rMMxQdBaFhASNGfuXs3dX1wKYM5rFMHOAhJ6sAkovO8SqzeeyjwUVcsA7XSnw9ZLpxWtrLSMNQVCpsRO/MgWNfYYDYUF4Q8MdPUYJWH/LH6R0gPBLAWXh/KAU144jMFIZnSa2Qx4TEqh5C6W69r61om5NIGFiSDmizh8CYiv0fcgy4/+Uojew==;k1RRmP9GpAfBFwpS8bRL6g=="
+secured: "HRrks6XvENc5I3CeaU4Pblmb2MpcKwlab+OwcR2re/q4b1OtXL4QmmXQZiy79yoIQaxfk4f0wn6IDZgq/K0XFQgij/zZwjtltZSbh0h1NVB/7IzeMV6HwI68HIjWwC+NVNISyrCjRF8wuTh+TRjFZHImGq25CJbkErjdAsu7YFynkO0Q7l9jhIExzyC6MgH5Aw4+pNPdaTXncvke4XKYhliik5nUfMB961EYWX6rGlmOA5C5NcmZ9DNjLT2rBSgjGJ5yJo8pDPIp5v+wSra3AvD0OgsO+UwkZw7J+oOALdi5tYV7rKyLK5PMMX+UDoLpN6roGcjAxp0XUSiIHLRf3xC/v3/KCAP9SfX9cMRVe+1+bj8Z86nQyTFJUpQSre4dNytT4iz1k6l186eQFrjTQA==;pWVQ0/BZwtO2ZGTTy2fREw=="
 ---
 

@@ -70,6 +70,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
+    excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
+    publishedDateTime: 2021-02-19T16:45:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
     excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
     publishedDateTime: 2021-02-19T15:04:17Z

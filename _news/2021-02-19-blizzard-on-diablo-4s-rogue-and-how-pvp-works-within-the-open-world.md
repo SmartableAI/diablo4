@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-h
 cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
 type: article
 quality: 107
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Eurogamer
@@ -24,6 +24,24 @@ images:
     width: 598
     height: 336
     isCached: true
+
+related:
+  - title: "How Diablo 4's Rogue Class, PvP, And Open World Work"
+    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
+    publishedDateTime: 2021-02-19T17:17:00Z
+    webUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Uaxl6KC6203XbHdhnYKiQpRn2gnGxFjWbkYs3Id47K/+bTCrsdPCaZw94FzfnjyTgVMh8WN+jvKe0hS9JRqybmhPLGS0Qj8gLTBteMVAYBjAsiaKgRVfRSfhAT1B+ErjcFxFpMPA4dyjye9qFs+xpsSJZCflcNlmlkkP9iCyNuEIrk70c9xkgwYT6rvTZzuiFTBkq2fMlfDuEMvGBBlfJ5fnSoi1BxCSqdV3GCa5tnzhBABrhGEohDRg3JoyxI2hAAPKQfa47yDunFa6VEvskrDkdhFFsX6Irj7lq1tidkgVVf05sJtOB7DrnzV4DIy0WefKlz1ihBLshLujU1XlGKnR0+8kqS2nzbX2xiyRMWE=;BTuQOa0HHeunZHmC79X2jg=="
 ---

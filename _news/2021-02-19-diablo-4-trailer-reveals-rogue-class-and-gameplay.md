@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
-excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
-publishedDateTime: 2021-02-19T15:04:17Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
+title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
+excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
+publishedDateTime: 2021-02-19T16:45:00Z
+originalUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
+webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
+ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
 type: article
-quality: 82
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar on MSN.com
-  domain: msn.com
+  name: From Software
+  domain: gamingbolt.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQddz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1114&y=509"
-    width: 1200
-    height: 630
+  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
@@ -68,22 +70,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
-    excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
-    publishedDateTime: 2021-02-19T16:45:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 107
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "The Rogue Might Be The Next Diablo 4 Class"
     excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
     publishedDateTime: 2021-02-19T05:02:00Z
@@ -100,7 +86,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
+    excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
+    publishedDateTime: 2021-02-19T15:04:17Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 82
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQddz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1114&y=509"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "g8aaDQExSOy91LmIQZn64gML2vzCBdx3zRaJbJ41fhhFSeicEpwcvtMM0jCR6UBmfuxZiw6vCmFUt96lF/9CA6lKc7rgZMns4rRgzcVSf9ycqFfNLCDJXrIPRt+Jeh2Sg06sv167dgsL2qxgRotf4x1wSlK8gIyQkfrDH8VkAYSBaejDyMAq3uKEC+3ybvVB3b9cJBtRU0IPtioeNN4aA/P7kI+4g1j6QUDArAgdcjMcgakueDdfJ5sjoqojCNroDuCumSTqwfZkC46RAF+Ejj0VRPKRQWm6/9DQRr6wXiQBOhuYr+3NB2dj6TwHiAjTsjn00pNue4GDDbZdnDGHbL96ivipULN07YfWym2p7aI=;n2e73CAIw9C0LtE7qPKLqQ=="
+secured: "Rzo7k4k6vgYABgZ6hDnIyLiemRmrTuVQQ8QcUwRD+oDx318ajgWFSHcYVxRg3Sc8sfmfD7iEdRsXUNJvokI0yYenI4r/msbTdEG3TvX59qx91BGox5hHnQ0aHcMv3lbkd6vvl8IvbY+AQRTFJJb6s5IisHziyndBrXwaIXmBucCg/IAD29k6tXfSnevjUDJw5dkAK20ivKP05e3vxdbF6w+fk8jLhTPTHKscrMjarncbtO2m3tECsV1iiCOdtvhSBtJ0/HnyVpquR/qtT+ZlEE9Qh+L0MBo5HXuTvQt69WO1tu6eJX+sI2rOnAH5a0hfGdxn+mHz1aD+rot9y9Ko0SQoQbHiOllJk7Mkdx+MXYU=;Ugs+J12a5oWVzoaTNekjEw=="
 ---
 
