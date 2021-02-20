@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Diablo 4 News Countdown: Everything We Know"
-excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-publishedDateTime: 2021-02-18T12:01:00Z
-originalUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
-webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
+excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
+publishedDateTime: 2021-02-20T12:28:00Z
+originalUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
+webUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: realsport101.com
-  domain: realsport101.com
+  name: Gaming Polls on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
@@ -137,20 +143,15 @@ related:
         width: 1600
         height: 898
         isCached: true
-  - title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
-    excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
-    publishedDateTime: 2021-02-20T12:28:00Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
+  - title: "Diablo 4 News Countdown: Everything We Know"
+    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
+    publishedDateTime: 2021-02-18T12:01:00Z
+    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
     type: article
     provider:
-      name: Gaming Polls on MSN.com
-      domain: msn.com
-    quality: 84
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: realsport101.com
+      domain: realsport101.com
+    quality: 67
   - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-19T14:47:00Z
@@ -170,6 +171,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "tcr7U9eTYyGfurqkTg3j2VegHdHHmpYR+ws5+j6Fov69g6BXwd31iyuPD72UED0Ys1Js1p4BJGI+BNxhmNWJbLRYEAIdCRpEpJCJtNvmqz1ebKBK3bpHUv4+LPvlXM1OcbLzV8Gni4wB6v5xc7gKiqDDLbB3bQrtNe+h/lFzZ9dBh/KmHuMUwOtlzeLdy5/VSuXkKTSbkcbTdImjeMpm2AEKw3xolRlRvlBhofC2QL8/n6KSzncODxoYg5EeXhi/qup5gyCRnNI+lXQl291hGIbW/xjoyyhXV8Nr8AgRIgl/27dS6FHeZ2rD6ftS8XNXOdFF3jjEZI7SIgU6buWCoV0WBKOv0+GeCKFT5jmsTsg=;mKbJ91pmqTBY7y4n32nYpA=="
+secured: "zX53oATYkgesPHErRJmgmrAhTW2RvbYZozbOQWEeRKPexnYfZ+NMbmsuVUK0KXF+XtwgIprL0PRNaE/cNL2hoKeU1AP8GBv3L8EGqT2ow2v/RwgjPhMOJVbT8PtEeQQUxe/qDi6FFV34v6gWm1/QoeUZY96CgRIxf1xlQipYFZsppsJHc4jWP04qpHYLCalMtH6DsAYnRXih6+vS9tJSZqgfusi5ebLfaijNRiN7QOlxL82I/EbRx/efyuJqkskSUgvf1ci1M/lS+oSOSE+9VhIe5FFCV4/a6XRt2BByJNl1ls5N/80MzAcKYcmwwnsaI4Y3j/ZvGQDeYnzEtKNm/o5WkdWMFopQrPpiz6sfH44=;ViffiCz8ml3F2v69hYr5SQ=="
 ---
 

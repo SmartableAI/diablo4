@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-20-diablo-4-is-bringing-back-the-rogue-class-heres-what-you-need-to-know.md",
+      "title": "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know",
+      "excerpt": "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4-is-bringing-back-the-rogue-class-heres-what-you-need-to-know/index.json",
+      "webUrl": "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
+      "originalUrl": "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/54331/content/Diablo_IV_Rogue_Key_Art.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
+      "publishedDateTime": "2021-02-20T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates.md",
       "title": "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates",
       "excerpt": "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ...",
@@ -280,7 +322,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 347,
+      "heat": 367,
       "tags": null,
       "images": [
         {
@@ -1052,48 +1094,6 @@
       "provider": {
         "name": "DualShockers",
         "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-big-diablo-4-news-teased-for-blizzcon.md",
-      "title": "Big Diablo 4 News Teased for BlizzCon",
-      "excerpt": "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-big-diablo-4-news-teased-for-blizzcon/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
-      "publishedDateTime": "2020-12-16T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

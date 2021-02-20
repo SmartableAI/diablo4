@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ah
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
 type: article
 quality: 147
-heat: 347
+heat: 367
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
         width: 1600
         height: 898
+        isCached: true
+  - title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
+    excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
+    publishedDateTime: 2021-02-20T12:28:00Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
+    type: article
+    provider:
+      name: Gaming Polls on MSN.com
+      domain: msn.com
+    quality: 84
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 News Countdown: Everything We Know"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
