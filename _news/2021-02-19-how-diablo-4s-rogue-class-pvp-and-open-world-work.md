@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
 type: article
 quality: 147
-heat: 167
+heat: 207
 published: true
 
 provider:
@@ -45,6 +45,38 @@ related:
       - url: "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-02-19-21-37/D4_Rogue_Abilities_Caltrops.png/EG11/thumbnail/598x336/format/jpg/quality/85"
         width: 598
         height: 336
+        isCached: true
+  - title: "Diablo 4 – Rogue Specializations and World Groups Revealed"
+    excerpt: "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ..."
+    publishedDateTime: 2021-02-19T19:13:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Diablo 4 Open World Camps, Horse Customization, Exploration, PvP and More Detailed"
+    excerpt: "During its “What’s Next” presentation for Diablo 4, the development team at Blizzard dropped all kinds of details on the Rogue class and its specializations. However, it also discussed the actual ..."
+    publishedDateTime: 2021-02-19T19:29:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 101
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
 
 secured: "gDfD1d4xYbxQ4qjLAEbMx5Zq7JGfAgnLbFL4XYDeIBZ0stQOoxoZuvt8IhijrbTxa3ubkpPGqzEj7Dd66EkSH1uidfiRyVyl1hNnTzkqtt8PWglj3IlBIWGYeDJqnvfMO3WCJLkH9JJfBi3mYJPqcAUnjT4sGyuCJ1HuejZNNKEvKM4903VD/DYDXMDz51xF1mhjm5eBOoNuGl30yhRlcSl2AVO/GrqMjEFycrjTeywfn/K8/8MD4LSsIs1iWtro86VMtxs6mBHFXguF5RZS6CZKqMl47fRg97DRHywtjj6ni2FcYlcGASmLrVcacb9mW4xogDJU3GoqPx673VMhKVSz/1Bx6MNSnMiW5jwb65E=;sDrdUchKIlApDxi56m8UqA=="

@@ -42,6 +42,38 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 – Rogue Specializations and World Groups Revealed"
+    excerpt: "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ..."
+    publishedDateTime: 2021-02-19T19:13:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Diablo 4 Open World Camps, Horse Customization, Exploration, PvP and More Detailed"
+    excerpt: "During its “What’s Next” presentation for Diablo 4, the development team at Blizzard dropped all kinds of details on the Rogue class and its specializations. However, it also discussed the actual ..."
+    publishedDateTime: 2021-02-19T19:29:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 101
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "Uaxl6KC6203XbHdhnYKiQpRn2gnGxFjWbkYs3Id47K/+bTCrsdPCaZw94FzfnjyTgVMh8WN+jvKe0hS9JRqybmhPLGS0Qj8gLTBteMVAYBjAsiaKgRVfRSfhAT1B+ErjcFxFpMPA4dyjye9qFs+xpsSJZCflcNlmlkkP9iCyNuEIrk70c9xkgwYT6rvTZzuiFTBkq2fMlfDuEMvGBBlfJ5fnSoi1BxCSqdV3GCa5tnzhBABrhGEohDRg3JoyxI2hAAPKQfa47yDunFa6VEvskrDkdhFFsX6Irj7lq1tidkgVVf05sJtOB7DrnzV4DIy0WefKlz1ihBLshLujU1XlGKnR0+8kqS2nzbX2xiyRMWE=;BTuQOa0HHeunZHmC79X2jg=="
 ---
