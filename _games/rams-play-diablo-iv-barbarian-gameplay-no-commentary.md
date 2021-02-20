@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gam
 type: video
 length: PT21M27S
 publishedDateTime: 2021-01-24T16:05:28Z
-heat: 142
+heat: 210
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DloSQ1yfvLa3eYZ7PvnRqNJe6KfvgOaHq7Vu87jUWOBMLjGnOBM04Albe6U9nVCU7k9aTZ8LlPii+nMo9pgVHqDzAM2vjKluO3IivTFlRd4k20AU9Pdo5c06pkmw5HDkcd0fUmU3ZluKkEE/rW354zyl1p1bFc+2TLxOL40wVBNncF8cA2caGkQHWlPnzXKLzN8XWKo08WrupzaxzqPinURKkAlCRlBG61tXvxYC4rN0wQ3+IRaUuRsrz/gzBkxZOCtMqsVlzz9M2ppmYP+Cvh7VbKcecLMrF3kvHnF8jjq93juRA6m9LX7qND5hiKwekXF2dngilbm0pIhloimIrnpNd0Syh9dreEg9EXhHYBTy+VYtUEkOyvTk7d9ijwApAGwXT3BBFUIPmu3dk/2xHdix7WOxRZ9AJlWQSj5D2fI=;3/xN2PQJh+b+Bjwh01Wybw=="
+secured: "QLEI+V+P1sOKGDQaYjov96CLUh0J/G8CPTqcoTkcw3Pe4A65uSjeET3s5Ze1IldORXuTfu2Xed/WE0iwcbvJYLOvKKEjOFNkMBdw1I93eiv3QtMwNb1c8X5j/jZRv5m92udBf7iXVlyAZHd7tG6/KvfFiT/q/squpoFFvXBm6HoiCYTtQQpdUgwkfSVPJv3E6QDlvy3Y8wRCwFnoX7cJ/n609J22afAlK0zBXB5YOOwjOs/9kk4YhejT6M5SiSLWO2lYwibSzSUDe8vjAEeIIhOJkhPKyIXbEdN99CeDpX63KvnDQP/EvFeup69ICk5uw89GQtnVNAZQXc/OQTomUeVvGw6m5Xa6k5SH4mmTkAz0WQt05zB7xT6DonTLBXRIdVp/NxD7+r80TH3pIOvwH/7TaxLUnJ0gGDdvhTqtQPE=;1LYFg4dBQr/lAieUPmWkPg=="
 ---
 
