@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
+    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+    publishedDateTime: 2021-02-20T11:55:00Z
+    webUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
     excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
     publishedDateTime: 2021-02-19T14:53:00Z

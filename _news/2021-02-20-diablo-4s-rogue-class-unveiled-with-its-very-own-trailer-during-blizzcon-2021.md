@@ -1,21 +1,33 @@
 ---
 category: news
-title: "BlizzCon 2021: Start Date, BlizzConline, Overwatch 2, World Of Warcraft, Diablo 4, Cosplay Competition & More"
-excerpt: "BlizzCon 2021, or BlizzConline, is coming up and we have everything you need to know about the biggest Blizzard event of the year."
-publishedDateTime: 2021-02-02T04:42:00Z
-originalUrl: "https://realsport101.com/misc/blizzcon-2021-start-date-blizzconline-overwatch-2-world-of-warcraft-diablo-4-cosplay-competition-more/"
-webUrl: "https://realsport101.com/misc/blizzcon-2021-start-date-blizzconline-overwatch-2-world-of-warcraft-diablo-4-cosplay-competition-more/"
+title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
+excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+publishedDateTime: 2021-02-20T11:55:00Z
+originalUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+webUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
 type: article
-quality: 48
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: realsport101.com
-  domain: realsport101.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
@@ -72,22 +84,6 @@ related:
     webUrl: "https://www.techradar.com/nz/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
     ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 103
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
-    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
-    publishedDateTime: 2021-02-20T11:55:00Z
-    webUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
     type: article
     provider:
       name: TechRadar
@@ -155,7 +151,16 @@ related:
       name: realsport101.com
       domain: realsport101.com
     quality: 67
+  - title: "BlizzCon 2021: Start Date, BlizzConline, Overwatch 2, World Of Warcraft, Diablo 4, Cosplay Competition & More"
+    excerpt: "BlizzCon 2021, or BlizzConline, is coming up and we have everything you need to know about the biggest Blizzard event of the year."
+    publishedDateTime: 2021-02-02T04:42:00Z
+    webUrl: "https://realsport101.com/misc/blizzcon-2021-start-date-blizzconline-overwatch-2-world-of-warcraft-diablo-4-cosplay-competition-more/"
+    type: article
+    provider:
+      name: realsport101.com
+      domain: realsport101.com
+    quality: 48
 
-secured: "N7TwM5nxqPAzZ0Lh0iow8mLc45EG6Hj59Jb1Zbh/kS0msmXLaZRFVa9xse11eBQ8j0HhlJp1lfv+sOOoqAFNaHp59Y5b7x71O2LfnpquwcChl1Vmp+GVBtbnb/QOl5upEipBeioEWuqITUEa/nUhn5cbiyZl1Xpnci/c6fv4bXJpN0A2MwYwsYvLg3BonmvIbZLgKvUxGolHzsJv3mW8BKeUNF9MybtG0kBkLRgtFTPf9TtmVtFXKlxZ0YHr7RGqN8WEmGDXIv8Sok37tainfq6+r2ESALgaQpdheRdHAtfNeOJRZ0tIuvC5LeZvBOfFjHLuKpf3Zu8UuyflTLs/5YMFT8yPB6gBjL+KFhtPh6c=;tfY+xHVdnkarkpNGjPDq+Q=="
+secured: "2KgvI1QyGSV+ozFVQ6vatBx5hpsEG/dWiPOGia4Y83+w4nGgdrlsBVFht8/3XYbam1rwY2VZglumbybMp20kqsYYBhYpfkb3zfASqKLglRguRFbNFu/iraRCkKQYdTkqwjLYESlm27Ky+UTqBI5JCsamie9L7zy7nlhB8yq5MBsNruyvFM2HhyCwg4lWa0nuFQNIkVD6wXn4KG5XsvZhNyqryUfOGD1w6NP4Vr8Vsb5+m/56ZV8UZNlhcBIrjf5fwpfKiHa2uuUL56JtvMEDVxegcEZn5vm4Q8iTKrwZfjhbYwtwPanXU4RQH6/c8gedbzifG+SUSLrf6RxS7SbxvUwNB9lkv1P3644K4Z9z/JE=;ut80J++NOzWXXBcSTScB0A=="
 ---
 

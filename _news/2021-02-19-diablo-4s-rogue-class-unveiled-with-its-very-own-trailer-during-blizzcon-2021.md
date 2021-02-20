@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
+    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+    publishedDateTime: 2021-02-20T11:55:00Z
+    webUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
     excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
     publishedDateTime: 2021-02-19T14:53:00Z
@@ -145,6 +161,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "p2vCfOunSG8GCc5CvaAwNVpUFvTONxQs+ubmlgYVACG/FFBDVm622giK4nGyUJ24D+6z8yHG7zE5d2cngEd87VU6DTDNJNLi9OQ8aaBZoHRRMmDnmD1f4yUQqaLj38U9mO68iqhsTF9YkYb0oa0Qap0oR/SNPyuxFoN2AYnuMvVN9bBrTJRJikvkapYioZdHtD4+5QWXdyxhN//rdl5EHZjmFbDVzslD2mEIXRkyToqH/66fIqKQwpnutfw9b2FwLS2Q9KspGyxgI0CBhardgYEvRQEXxsZKGRuSfTWUWvKwRxW94385Y9KPWbEYVpK5ZimtUETwWRJ1XLD/rZNtpFhR3N/b+HT0LlTK/+FXYNA=;9XncmGl/ysvxhGrYI+A4XA=="
+secured: "gnzuF7DOT8JckrKxsCAGCnTjhSyk9KCdIywAeGAYkaguMYH0kBQjhjzhT8UIxQqc1S3mD9DLWpzUNJMWsjhsxgfk3BF3TL2XxjqWHZXIAgsMa93hKiXqiUvOPex2eBIWOQq5U/fxZ9yAAEfSXoWXrRDCjrzIG7pHok6nic1dxfwTG+qEA0WaybEVADLetVF2x/hVjBpHFzF7MPcr+897ywXv2FTfPsjARDXBD0gNy/lpssC6ZvxNaTpOCbRVpnqLEqA+lkFKWNzyKmBskDmlIt/BjccZLR1rL5JXH9V2k2PRRSFO8K+cfO7E5SXiUABbs0808Kod7U3S9YgN7CYT0/FrfKWqZJdd005e1jsyn5Y=;xqNJGcWpk4jOu/FLZk4bUw=="
 ---
 

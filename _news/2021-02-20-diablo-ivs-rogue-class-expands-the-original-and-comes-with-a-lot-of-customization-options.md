@@ -106,6 +106,22 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Diablo 4: Blizzard talks cross-play, class verticality, PvP and the Rogue's agility"
+    excerpt: "Diablo 4 was present at BlizzConline in a big way with the gory reveal of the Rogue class, the fourth of five classes that'll be present in the game at launch. Shortly after the reveal, I had the ..."
+    publishedDateTime: 2021-02-20T10:19:00Z
+    webUrl: "https://www.windowscentral.com/diablo-4-cross-play-pvp-rogue"
+    ampWebUrl: "https://www.windowscentral.com/diablo-4-cross-play-pvp-rogue?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/diablo-4-cross-play-pvp-rogue?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 101
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/diablo-4-rogue-art.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "ZFU8xxLL//KttKL+K0taTpLansbdIn3lcciyxXrPxHr1iwsYGBguX24Wx7XQaR6d8zSfRAKwBR0W8BECLBTXkQsKAj92h0JnSg7QQ4QCOUw8MrW8ljsatl68Mmxrv+vfSwiYDIFVQdNHjiJ3t74sIhrtptqkm6nOfUdoxscTyiy0Igq/002MWSZReJ+C+UneFgPn/THcWFQe753ukWr+oXwHWKreaqdbdnoyjQ+FExOWEi4fNlfRJa/KdZRk4RmQJDHq4tAIz9fBg1FPAcG+5Kxkz04amLz1N1WKc+qEvkTXKsZP/RlBmhZDJjPJeMZXqJ82Rq8XnapOwdJkARgi6WKRZFIFOcPxcD1wulEaC6c=;Cm0CJw6z4KyCbkzygMCPGw=="
 ---
