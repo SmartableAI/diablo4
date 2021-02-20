@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-b
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Diablo 4 Release Date And New Rogue Trailer: Everything You Should Know About The Sequel"
+    excerpt: "Blizzard Entertainment has revealed a new rogue class for Diablo 4 at the recently held Blizzcon 2021 event. Scroll on for Diablo 4 release date and more."
+    publishedDateTime: 2021-02-20T02:19:00Z
+    webUrl: "https://www.republicworld.com/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 98
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/r0mmqnrzidpazkgj_1613806953.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
+        isCached: true
 
 secured: "P7juVTjerUiFmcEASKbzvGREr9zmVPJ/1LRCzf6QH18f13pfYRw1gi/gjgrXEbE297euZrNBy84+LTIK9m7yWGQ0xYKjO3SmujvCrI9jGf10gfOGIVJVDVASI+U3curKijgmHxvO4ZMMhqNKzhDZZoHvcjsxhYdhwuQn6f3VuhEClalO9xi942eAeG0GXb5vZWxq3tr5RorQOeSJ7Jex3xRl7GxqhG0/LxNCbSDL94TzpDO7XZDrkg9q43g48GjyGboZSekrm28ch9p7xWtgHe1xcquzPmMszdOOy9TeVY9avJt4R9nabjk9xfeUf4ee5Dqqc9KZWZtvrp0NRYrWiADrV3kjw1bll5hQ5VxnR0M=;ZsfKCqD36j04YGXYN0czgw=="
 ---
