@@ -1,35 +1,47 @@
 ---
 category: news
-title: "How Diablo 4's Rogue Class, PvP, And Open World Work"
-excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
-publishedDateTime: 2021-02-19T17:17:00Z
-originalUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
-webUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+title: "This is how Diablo 4 PvP works"
+excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
+publishedDateTime: 2021-02-20T06:47:00Z
+originalUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
+webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
+ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
 type: article
-quality: 147
-heat: 247
-published: true
+quality: 107
+heat: -1
+published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
-    width: 640
-    height: 360
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "How Diablo 4's Rogue Class, PvP, And Open World Work"
+    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
+    publishedDateTime: 2021-02-19T17:17:00Z
+    webUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Blizzard on Diablo 4's Rogue and how PvP works within the open world"
     excerpt: "Ahead of BlizzCon 2021, we had the chance to sit down with Diablo 4 game director Luis Barriga, and Diablo 4 art director John Mueller to talk about the just-announced Rogue character class, how PvP ..."
     publishedDateTime: 2021-02-19T14:51:00Z
@@ -61,22 +73,6 @@ related:
       - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "This is how Diablo 4 PvP works"
-    excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
-    publishedDateTime: 2021-02-20T06:47:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Diablo 4 Open World Camps, Horse Customization, Exploration, PvP and More Detailed"
     excerpt: "During its “What’s Next” presentation for Diablo 4, the development team at Blizzard dropped all kinds of details on the Rogue class and its specializations. However, it also discussed the actual ..."
@@ -111,6 +107,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gDfD1d4xYbxQ4qjLAEbMx5Zq7JGfAgnLbFL4XYDeIBZ0stQOoxoZuvt8IhijrbTxa3ubkpPGqzEj7Dd66EkSH1uidfiRyVyl1hNnTzkqtt8PWglj3IlBIWGYeDJqnvfMO3WCJLkH9JJfBi3mYJPqcAUnjT4sGyuCJ1HuejZNNKEvKM4903VD/DYDXMDz51xF1mhjm5eBOoNuGl30yhRlcSl2AVO/GrqMjEFycrjTeywfn/K8/8MD4LSsIs1iWtro86VMtxs6mBHFXguF5RZS6CZKqMl47fRg97DRHywtjj6ni2FcYlcGASmLrVcacb9mW4xogDJU3GoqPx673VMhKVSz/1Bx6MNSnMiW5jwb65E=;sDrdUchKIlApDxi56m8UqA=="
+secured: "YUoIbWVFK1nY3CeWQ+30wNpV80FzVgg+5Nkr/aMValymZ4hCb2y0hRHTjSYt/rEBfwDbUE436O0r0uEFpKIklHj769FZbIpnfSXkKK5oxkraAJ2Yv3dnqCplMP8tuxCsRJXy0YAylmF3+zrkggCiF3TR/heQ9ZyD0SbasTVk5kcPLHdHxeZZyJfFR276Q+5LaZsMbUpZ5p0w8j54Pgq2HziRwMeCdKR8lENucYxWFYNoVgEHZnS5mMqJ3WW95jXEadVYJz8IhtigxQ7Anwk5LkaUWa5vysRrcd3VuMYHaWQ+JHLICE/DWk30f5Kly2WG/DDWGtffSjPktmeOSpb0bxCjU7p/6IryWP7d1t809AM=;toSX/HvdQi/qRu/pDWb+zw=="
 ---
 

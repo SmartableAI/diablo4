@@ -74,6 +74,38 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "This is how Diablo 4 PvP works"
+    excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
+    publishedDateTime: 2021-02-20T06:47:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 107
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo IV’s Rogue Class Expands the Original and Comes With a Lot of Customization Options"
+    excerpt: "Diablo 4 Rogue class has been expanded, according to game director Luis Barriga. It'll come with a lot of customization options."
+    publishedDateTime: 2021-02-20T07:09:00Z
+    webUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/"
+    ampWebUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
+    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
+    type: article
+    provider:
+      name: PlayStation LifeStyle
+      domain: playstationlifestyle.net
+    quality: 82
+    images:
+      - url: "https://www.playstationlifestyle.net/assets/uploads/2021/02/diablo-4-rogue.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Cy2Jsc62yFXGm8yR/pOPbtWbdukzZ84LSp3JaGGrq2mm0IGaf7syBcuDMoiSOB5UybJUvO9HeaIoHxC6GofNWSSoTBzWl6HLeTXTxvtmpqdgtjZquaSUOtANZfhDmNI9swdAsagtW1U1WWYe7eT6kjYRwjngBKG4rcJMLH9PE+MJmWJuLm5zZxuwK/jdc/m8dJXxa2SGBPB6i/WLkpTbo2XlRZmu7ApZoPtHK6UYvdAPaEmHyCDkNgZr1b0N+TkF5Vnwbg5G/LGqw0FK/mCMhEqP1jlYMmOQ9k2vyqVvFkNIy8+fBDEtZ/czQ8iZ1OZEdXCF7rlkl6LC1Crs6nSv65IxqFFWkUGHfpBXMXF2mq8=;63tchXPSqZ57b3hdEKpbtw=="
 ---
