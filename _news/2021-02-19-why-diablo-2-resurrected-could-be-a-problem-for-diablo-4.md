@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
+    publishedDateTime: 2021-02-20T09:49:00Z
+    webUrl: "https://www.imdb.com/news/ni63201835"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 87
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
     excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
     publishedDateTime: 2021-02-19T15:03:30Z
