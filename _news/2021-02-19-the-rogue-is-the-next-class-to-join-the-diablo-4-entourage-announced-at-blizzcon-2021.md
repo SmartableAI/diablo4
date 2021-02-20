@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
+    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
+    publishedDateTime: 2021-02-20T04:24:37Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Raxxanterax
+      domain: youtube.com
+    quality: 135
+    images:
+      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
     excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
     publishedDateTime: 2021-02-16T15:42:00Z
@@ -40,19 +54,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more"
-    excerpt: "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ..."
-    publishedDateTime: 2021-02-19T04:08:24Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv"
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
+    publishedDateTime: 2021-02-19T18:12:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
     type: article
     provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 83
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170"
-        width: 1200
-        height: 630
+      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "/uzcJwTGVArcUZdDOH/K7RKi03rmM2ooSh/nGiwkIOH06ushOZRUmeY723qZ6rwQwjeiYE5n1ExDAgNx3D13j2OlKzZcOOcbimovAn5kQTg/qXKLIzbxvxlRWkl0xlOYSXAYvMZ58L+XISEEoU8oM2r/VTsrVk90nefYX3d976HQqmApSS0aqeHqp023cqgfcIM036n6m93PBjXBJlDrsc89YKba6+faVK8KF7H7Cyi+HBdDpvqk1NDdHDvykipU52/tgCS/+AgqwIhfbInpRfs7subs59AugaMGyQ1p2smUOALxNixqEX7qXxNVGFykgHSb9vWzwfydDCjTKbjtE4htE1Z2u4853UogoA+n9wo=;3+6Ajs84uVsbQqNYwiH2Rg=="

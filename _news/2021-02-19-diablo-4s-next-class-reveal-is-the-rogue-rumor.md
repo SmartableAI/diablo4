@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumo
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 735
     height: 552
     isCached: true
+
+related:
+  - title: "Diablo 4’s latest class is the dagger and bow-wielding Rogue"
+    excerpt: "At BlizzConOnline, Blizzard’s newest Diablo 4 announcement was an update on a classic: The return of the Rogue class from the original Diablo game, who’ll be playable alongside the Barbarian, Druid, ..."
+    publishedDateTime: 2021-02-19T22:20:00Z
+    webUrl: "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 87
+    images:
+      - url: "https://media.criticalhit.net//2021/02/Diablo-4-rogue-9.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "iZutVjB90BBtDD9aKtlQsK0EGsQ/w3/vTPFkG+mVelH5FT8UTTNwO36laJE1OEuMzu/br+5+zonjzIyiCJmPF5Bf9+tJcgwq9TN2J9jKGEBSVAZuOv0kDeTe7fubISNldfNZJjpoLmeuZxXmwB6HlXnEOYPJqDFnZsHkkHSOEbZriXKShE/zeZUQXHR/KP2tdP3sEbZsiJSmNGd7/YVuDPiRh8D7QCzjoY0ij0Uqv2aaky87nwlpwY+Mp9INXtyUNy0s8BW/U05QYEYfcTz77uibUQnJRa2h/I1vh72t94UGoPVi1j4437pIVY79clrOXUB3qFskCiYXIOLlvbPUkBpnY4DipN8y08XU1Ikq9i0=;C8rPu0Fq4Im1/YIqJXDndQ=="
 ---

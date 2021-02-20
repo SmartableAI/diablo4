@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
 type: article
 quality: 107
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Comicbook.com
@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more"
-    excerpt: "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ..."
-    publishedDateTime: 2021-02-19T04:08:24Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv"
+  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
+    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
+    publishedDateTime: 2021-02-20T04:24:37Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Raxxanterax
+      domain: youtube.com
+    quality: 135
+    images:
+      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
+    publishedDateTime: 2021-02-19T18:12:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
     type: article
     provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 83
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170"
-        width: 1200
-        height: 630
+      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
     excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."

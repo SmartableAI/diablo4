@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
+      "title": "Diablo IV Quarterly Update—December 2020",
+      "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-iv-quarterly-updatedecember-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/qc/QCLQ69PQP0RZ1607723436521.jpg",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats.md",
       "title": "Diablo 4's latest developer update is all about itemization (and a bit of player stats)",
       "excerpt": "The latest Diablo 4 development update dives deep into itemization, \"the lifeblood of Diablo,\" with a closer look at changes that have been made since the last time Blizzard talked about the game and ...",
@@ -1071,48 +1122,6 @@
       "provider": {
         "name": "SegmentNext",
         "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees.md",
-      "title": "Diablo 4 and Overwatch 2 shown to Blizzard employees",
-      "excerpt": "A new report has come out by a French publication website regarding some unrelease Blizzard titles, Diablo 4 and Overwatch 2. The report says that both of the titles have been shown to a select ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees/index.json",
-      "webUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/6/6/66387_01_diablo-4-overwatch-2-blizzard-employees_full.jpg",
-          "width": 850,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
-      "publishedDateTime": "2020-08-18T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

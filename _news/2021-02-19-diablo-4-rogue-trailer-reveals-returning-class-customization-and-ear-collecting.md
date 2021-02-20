@@ -60,11 +60,11 @@ related:
     webUrl: ""
     type: video
     provider:
-      name: Blizzard Türkiye
+      name: Diablo RU
       domain: youtube.com
     quality: 122
     images:
-      - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
+      - url: "https://i.ytimg.com/vi/uvdpUFhLfng/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true

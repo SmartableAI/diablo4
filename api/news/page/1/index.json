@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4.md",
-      "title": "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4",
-      "excerpt": "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
-      "featuredContent": null,
+      "path": "_news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates.md",
+      "title": "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates",
+      "excerpt": "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates/",
+      "originalUrl": "https://youtube.com/watch?v=-ROl45gQp2M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ROl45gQp2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 127,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720",
+          "url": "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -23,14 +23,14 @@
         }
       ],
       "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
-      "publishedDateTime": "2021-02-19T10:12:00-08:00",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T20:24:37-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
+        "name": "Raxxanterax",
+        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -238,7 +238,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 287,
+      "heat": 307,
       "tags": null,
       "images": [
         {
@@ -281,6 +281,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker.md",
+      "title": "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker",
+      "excerpt": "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/ar-BB1dPu79",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/ar-BB1dPu79",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uQOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T20:24:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor.md",
       "title": "Diablo 4’s Next Class Reveal is the Rogue – Rumor",
       "excerpt": "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ...",
@@ -289,7 +331,7 @@
       "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -310,6 +352,48 @@
       "provider": {
         "name": "From Software",
         "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more.md",
+      "title": "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more",
+      "excerpt": "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T20:08:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -403,48 +487,6 @@
       "provider": {
         "name": "criticalhit.net",
         "domain": "criticalhit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
-      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
-      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "publishedDateTime": "2021-02-16T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1053,57 +1095,6 @@
         "name": "SegmentNext",
         "domain": "segmentnext.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
-      "title": "Diablo IV Quarterly Update—December 2020",
-      "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-iv-quarterly-updatedecember-2020/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/qc/QCLQ69PQP0RZ1607723436521.jpg",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
