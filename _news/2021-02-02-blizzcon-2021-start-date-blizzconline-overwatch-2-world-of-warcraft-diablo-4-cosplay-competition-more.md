@@ -50,9 +50,43 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
+    excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
+    publishedDateTime: 2021-02-19T14:53:00Z
+    webUrl: "https://attackofthefanboy.com/news/blizzconline-diablo-4-will-feature-the-return-of-the-rogue/"
+    type: article
+    provider:
+      name: Attack of the Fanboy
+      domain: attackofthefanboy.com
+    quality: 87
+    images:
+      - url: "https://attackofthefanboy.com/wp-content/uploads/2021/02/diablo-4-rogue.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 2 Resurrection, Diablo 4 headline first day of Blizzcon 2021"
+    excerpt: "Blizzcon 2021 kicked off with an action-packed opening ceremony that included new information on Diablo 4 and the long-rumored Diablo 2 remake."
+    publishedDateTime: 2021-02-19T15:05:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
   - title: "Diablo 4 News Countdown: Everything We Know"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-18T12:01:00Z
+    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+    type: article
+    provider:
+      name: realsport101.com
+      domain: realsport101.com
+    quality: 67
+  - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
+    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
+    publishedDateTime: 2021-02-19T14:47:00Z
     webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
     type: article
     provider:

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "The Rogue Might Be The Next Diablo 4 Class"
-excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
-publishedDateTime: 2021-02-19T05:02:00Z
-originalUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+title: "Diablo 4: Rogue Class Revealed, Open World Details Explained"
+excerpt: "Blizzard Entertainment has announced that the Rogue class will be one of the five playable characters in Diablo 4, joining the Barbarian, Sorceress, and Druid, who were all revealed when Diablo 4 was ..."
+publishedDateTime: 2021-02-19T14:52:00Z
+originalUrl: "https://www.ign.com/articles/diablo-4-rogue-class-revealed-open-world-details-explained"
+webUrl: "https://www.ign.com/articles/diablo-4-rogue-class-revealed-open-world-details-explained"
 type: article
-quality: 107
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
+  - url: "https://assets1.ignimgs.com/2020/06/25/diablo-4-blogroll-1593086629440.jpg?width=1280"
     width: 1280
     height: 720
     isCached: true
@@ -42,20 +44,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4: Rogue Class Revealed, Open World Details Explained"
-    excerpt: "Blizzard Entertainment has announced that the Rogue class will be one of the five playable characters in Diablo 4, joining the Barbarian, Sorceress, and Druid, who were all revealed when Diablo 4 was ..."
-    publishedDateTime: 2021-02-19T14:52:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-rogue-class-revealed-open-world-details-explained"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets1.ignimgs.com/2020/06/25/diablo-4-blogroll-1593086629440.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo IV - Rogue Announce Trailer"
     excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
     publishedDateTime: 2021-02-19T22:43:03Z
@@ -67,6 +55,22 @@ related:
     quality: 122
     images:
       - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Rogue Might Be The Next Diablo 4 Class"
+    excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
+    publishedDateTime: 2021-02-19T05:02:00Z
+    webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
+    ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -85,6 +89,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ObgZGF5naplrspAHE2F7Xm++aWXJi2cvyHQXQCR5Fa1IFyJN/Guyo7hc7ELj8BoCOmkdhTK32+9Qs9h6HOBU6jE0ftg0IbIvRnxLmDskmI8lKJ/Vvr0tYe7mObzHWGKjKRNHzUTFv2Xmh1/iY/cChTQwyTPAUS3zJyhTUl5x645L6k6aIXjmqNltUg8Z1bdCl1Cl7s7m5fK1EwgHOcB0tmDjOOlac2M9j8j77Evnj4RIKXKeOTfFV383DhKJgVw1SH9u+w4xVyADVg7CY/kVn0ZkurvZ8lohLYHSbCIfG8cj+5kDS+axsnZB7RPjUz0pYZRZy1xw7RfTZMydaPH6Tq5MCPRfiacr6wgRkrJI/uA=;Uo2QpzkXWaj9gnaUafYxbg=="
+secured: "nD6paQG+qE8BX1bAdvhHSSPRDapWSNTa15GumC+HdI/bE7fH/y+46jCz0pxweC05dd4IczwPpphuQL9yHP89rpwIFpLPWirQaMCwSE3mse1Dwl0JxAsnRqfp1KHsf8tK02f8QVPFqk66Yu7Vp4wPrCIiirX4RGS8/v3VXy5LG2axS2Ab4Xdi4+sr2s4MOqk3stpYv771YdUzlw51LIqcJ0Fw7ou/0PMiN9iIaPOa3VicugARA7XYARktnyfLkStvBznxtQ/8Z5g0Y/qJtMx2qlt1c7lV9wdQJi9XY/9mUrvfQ5XQpI3Ruv0aZg3n+Vrtbz12j3eeR6J9locWwtLW8TD5bG17KRKz2pAfcyxWF14=;e6Vyg/asOF6YpHdXSFP57Q=="
 ---
 

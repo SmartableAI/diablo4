@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
+    excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
+    publishedDateTime: 2021-02-19T15:03:30Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
+    type: article
+    provider:
+      name: Windows Central on MSN.com
+      domain: msn.com
+    quality: 79
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQhd2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=457&y=113"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "c1Wkgiq87TNCIyV6J4brve/vDEOFwZBoxTCDllZ1HBh+qG/WWXRKT+F9YNBxgkWawTLHRXCdG5eR/DxkhtkRf9uVnPIGv3JFeH7m5dRnMeVgXx71K1QVWSsPchtPq2eOtZPWU1VQCOaixvz1F/mwhPMv3FBviRLx+lJ6IfXp2CCFG84GMQ955udwiYVNDjaSuZz/kQYKTzHbQINj+w/Dkzoj1rG2/pkFiTQYwVWmL5smf4nBN6nPbRmZ/MXz1R7tCl8jNfaAOxeC6uEhfxTneO2+epM1qU0/ugticfnjUIBILNRYPCfBRVBXu44SgCdTDX7VBXijnV9HYbZ4tna8+HFujTC65nZ+XXEiukBi994=;u+Ku8WejVU+CD5Q9zeqpVw=="

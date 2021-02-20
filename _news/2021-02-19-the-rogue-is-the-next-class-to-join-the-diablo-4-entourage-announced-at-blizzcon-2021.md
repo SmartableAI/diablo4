@@ -1,0 +1,60 @@
+---
+category: news
+title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
+excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
+publishedDateTime: 2021-02-19T15:03:30Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
+type: article
+quality: 79
+heat: -1
+published: false
+
+provider:
+  name: Windows Central on MSN.com
+  domain: msn.com
+
+topics:
+  - Diablo 4
+
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQhd2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=457&y=113"
+    width: 600
+    height: 315
+    isCached: true
+
+related:
+  - title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
+    excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
+    publishedDateTime: 2021-02-16T15:42:00Z
+    webUrl: "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more"
+    excerpt: "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ..."
+    publishedDateTime: 2021-02-19T04:08:24Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 83
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "/uzcJwTGVArcUZdDOH/K7RKi03rmM2ooSh/nGiwkIOH06ushOZRUmeY723qZ6rwQwjeiYE5n1ExDAgNx3D13j2OlKzZcOOcbimovAn5kQTg/qXKLIzbxvxlRWkl0xlOYSXAYvMZ58L+XISEEoU8oM2r/VTsrVk90nefYX3d976HQqmApSS0aqeHqp023cqgfcIM036n6m93PBjXBJlDrsc89YKba6+faVK8KF7H7Cyi+HBdDpvqk1NDdHDvykipU52/tgCS/+AgqwIhfbInpRfs7subs59AugaMGyQ1p2smUOALxNixqEX7qXxNVGFykgHSb9vWzwfydDCjTKbjtE4htE1Z2u4853UogoA+n9wo=;3+6Ajs84uVsbQqNYwiH2Rg=="
+---
+

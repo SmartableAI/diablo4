@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumo
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 735
     height: 552
     isCached: true
-
-related:
-  - title: "The Rogue Might Be The Next Diablo 4 Class"
-    excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
-    publishedDateTime: 2021-02-19T05:02:00Z
-    webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-    ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 107
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "iZutVjB90BBtDD9aKtlQsK0EGsQ/w3/vTPFkG+mVelH5FT8UTTNwO36laJE1OEuMzu/br+5+zonjzIyiCJmPF5Bf9+tJcgwq9TN2J9jKGEBSVAZuOv0kDeTe7fubISNldfNZJjpoLmeuZxXmwB6HlXnEOYPJqDFnZsHkkHSOEbZriXKShE/zeZUQXHR/KP2tdP3sEbZsiJSmNGd7/YVuDPiRh8D7QCzjoY0ij0Uqv2aaky87nwlpwY+Mp9INXtyUNy0s8BW/U05QYEYfcTz77uibUQnJRa2h/I1vh72t94UGoPVi1j4437pIVY79clrOXUB3qFskCiYXIOLlvbPUkBpnY4DipN8y08XU1Ikq9i0=;C8rPu0Fq4Im1/YIqJXDndQ=="
 ---

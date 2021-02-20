@@ -1,26 +1,24 @@
 ---
 category: news
-title: "BlizzConline Schedule Goes Live Without Diablo 4"
-excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
-publishedDateTime: 2021-02-12T05:29:00Z
-originalUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
+excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
+publishedDateTime: 2021-02-19T14:53:00Z
+originalUrl: "https://attackofthefanboy.com/news/blizzconline-diablo-4-will-feature-the-return-of-the-rogue/"
+webUrl: "https://attackofthefanboy.com/news/blizzconline-diablo-4-will-feature-the-return-of-the-rogue/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: Attack of the Fanboy
+  domain: attackofthefanboy.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
+  - url: "https://attackofthefanboy.com/wp-content/uploads/2021/02/diablo-4-rogue.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -42,17 +40,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
-    excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
-    publishedDateTime: 2021-02-19T14:53:00Z
-    webUrl: "https://attackofthefanboy.com/news/blizzconline-diablo-4-will-feature-the-return-of-the-rogue/"
+  - title: "BlizzConline Schedule Goes Live Without Diablo 4"
+    excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
+    publishedDateTime: 2021-02-12T05:29:00Z
+    webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
+    ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
     type: article
     provider:
-      name: Attack of the Fanboy
-      domain: attackofthefanboy.com
-    quality: 87
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
     images:
-      - url: "https://attackofthefanboy.com/wp-content/uploads/2021/02/diablo-4-rogue.jpg"
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -95,6 +95,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "XNA9/TiwHCq2i22mn0YUgwRCEH5aee15Z1FFuEzFaY2wp6WqIhf7yYaL02fJqtVmBmjmOIbWtHDB0nkR4ZNTqpjE+WOcA8jbkWzVRFq4S57hMwb1Tv/ycDpeN5Lm08nIK2pk7gPAd+RXYI5tYsl0I6BtpYQFfldw5d+pSkonflrgD5Itpk5hye/JpxJOIO3VSadhaZ7lKZnUTpNzm/Dmq8npIzqNOQi8swd+xA6jgOo3CzZS58JzBfbXA/65h9Q+rl3yEEtoLTju6BRefsJ2/rCnhB330v6xRUfAgFbA/2xDukjW69TlwIHepY+cn5ANhy0bVx1j0LnyuwsdNfBWUf4s9tM6Gz7/HnS2nc528D8=;jpestL0+aIkeQ1aM82iQUA=="
+secured: "+dVuTceq3hQD+lnYlgPhRoDDeTQ5l89Iet0GOgMvtnsym9rFSolM1oz3vwZeIzXy6gR/Rtrdu35ppsGmJphJu0Ij4ANuFmr1fF9rGHUOppZYT+JiBo01OGp3XvH5CqOwYawG7ZnhgkbTI1l2dvQF8fomLpNOztSQ14lrXz2XgYxaP1b26rYUooI2+GAFAnlOc2rS7ESxrH10yxzHnGB/g9ZL1yLLDWBBbYCZBqzLR3vlXSTNDqMy5hHPulwGyyv6pC2Pr9rTO65vVrfnQEEMLiNyJ6riJAszoUnQsec2baOYNIz+0UrflUe1k2xcYUX1upMUIPoBsOEu/T3IpeIpEJ1U39vVGfDUfN649gIcCW8=;yhozm108VtkPjN+LtDoKlg=="
 ---
 

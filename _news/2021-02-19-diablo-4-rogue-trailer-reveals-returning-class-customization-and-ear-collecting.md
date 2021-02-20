@@ -1,28 +1,26 @@
 ---
 category: news
-title: "The Rogue Might Be The Next Diablo 4 Class"
-excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
-publishedDateTime: 2021-02-19T05:02:00Z
-originalUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
+excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
+publishedDateTime: 2021-02-19T15:04:17Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
 type: article
-quality: 107
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
-    width: 1280
-    height: 720
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQddz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1114&y=509"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -70,21 +68,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
-    excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
-    publishedDateTime: 2021-02-19T15:04:17Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
+  - title: "The Rogue Might Be The Next Diablo 4 Class"
+    excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
+    publishedDateTime: 2021-02-19T05:02:00Z
+    webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
+    ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
     type: article
     provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 82
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQddz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1114&y=509"
-        width: 1200
-        height: 630
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "ObgZGF5naplrspAHE2F7Xm++aWXJi2cvyHQXQCR5Fa1IFyJN/Guyo7hc7ELj8BoCOmkdhTK32+9Qs9h6HOBU6jE0ftg0IbIvRnxLmDskmI8lKJ/Vvr0tYe7mObzHWGKjKRNHzUTFv2Xmh1/iY/cChTQwyTPAUS3zJyhTUl5x645L6k6aIXjmqNltUg8Z1bdCl1Cl7s7m5fK1EwgHOcB0tmDjOOlac2M9j8j77Evnj4RIKXKeOTfFV383DhKJgVw1SH9u+w4xVyADVg7CY/kVn0ZkurvZ8lohLYHSbCIfG8cj+5kDS+axsnZB7RPjUz0pYZRZy1xw7RfTZMydaPH6Tq5MCPRfiacr6wgRkrJI/uA=;Uo2QpzkXWaj9gnaUafYxbg=="
+secured: "g8aaDQExSOy91LmIQZn64gML2vzCBdx3zRaJbJ41fhhFSeicEpwcvtMM0jCR6UBmfuxZiw6vCmFUt96lF/9CA6lKc7rgZMns4rRgzcVSf9ycqFfNLCDJXrIPRt+Jeh2Sg06sv167dgsL2qxgRotf4x1wSlK8gIyQkfrDH8VkAYSBaejDyMAq3uKEC+3ybvVB3b9cJBtRU0IPtioeNN4aA/P7kI+4g1j6QUDArAgdcjMcgakueDdfJ5sjoqojCNroDuCumSTqwfZkC46RAF+Ejj0VRPKRQWm6/9DQRr6wXiQBOhuYr+3NB2dj6TwHiAjTsjn00pNue4GDDbZdnDGHbL96ivipULN07YfWym2p7aI=;n2e73CAIw9C0LtE7qPKLqQ=="
 ---
 

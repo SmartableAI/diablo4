@@ -1,29 +1,21 @@
 ---
 category: news
-title: "BlizzConline Schedule Goes Live Without Diablo 4"
-excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
-publishedDateTime: 2021-02-12T05:29:00Z
-originalUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
+excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
+publishedDateTime: 2021-02-19T14:47:00Z
+originalUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
 type: article
-quality: 107
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: realsport101.com
+  domain: realsport101.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
@@ -41,6 +33,22 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "BlizzConline Schedule Goes Live Without Diablo 4"
+    excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
+    publishedDateTime: 2021-02-12T05:29:00Z
+    webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
+    ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
     excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
@@ -76,15 +84,6 @@ related:
       name: realsport101.com
       domain: realsport101.com
     quality: 67
-  - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
-    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-    publishedDateTime: 2021-02-19T14:47:00Z
-    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
-    type: article
-    provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 67
   - title: "BlizzCon 2021: Start Date, BlizzConline, Overwatch 2, World Of Warcraft, Diablo 4, Cosplay Competition & More"
     excerpt: "BlizzCon 2021, or BlizzConline, is coming up and we have everything you need to know about the biggest Blizzard event of the year."
     publishedDateTime: 2021-02-02T04:42:00Z
@@ -95,6 +94,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "XNA9/TiwHCq2i22mn0YUgwRCEH5aee15Z1FFuEzFaY2wp6WqIhf7yYaL02fJqtVmBmjmOIbWtHDB0nkR4ZNTqpjE+WOcA8jbkWzVRFq4S57hMwb1Tv/ycDpeN5Lm08nIK2pk7gPAd+RXYI5tYsl0I6BtpYQFfldw5d+pSkonflrgD5Itpk5hye/JpxJOIO3VSadhaZ7lKZnUTpNzm/Dmq8npIzqNOQi8swd+xA6jgOo3CzZS58JzBfbXA/65h9Q+rl3yEEtoLTju6BRefsJ2/rCnhB330v6xRUfAgFbA/2xDukjW69TlwIHepY+cn5ANhy0bVx1j0LnyuwsdNfBWUf4s9tM6Gz7/HnS2nc528D8=;jpestL0+aIkeQ1aM82iQUA=="
+secured: "pBtE820A407WE/wp6lfbt9AC9mEP/UnKWZ30Mv1183otlEXafEYRdZ0/h+oY9s41OX/5i70fWXdXG3DnJ+Z6ELnQ/6f5iyPqySPvWFAv6O7vK7eK5Vehbdt3c2Wa6VRznvizJfijusc/KV8weAIbiLSIXbrooS64XcpXG6bwKzRw6p75PpGKMJ7ifH7HnCbVR8cucOKTFvsHPiHp80Np67Bmdl3h/Ougkq8b+FgvDCGHJzfhdzoKQcj7kBsNo9+DqR91xUUXaHezJUB2CabTBdMOAZ0xF90Y6g0jW2zSTH+4O8CbbADWqV5TIup7GsQ20uY7u3shYNJXbmhBBmqZSkfLPk4uY84RiyST2Abfwxk=;fI1stEPnd+4aYTI9xaq2lg=="
 ---
 

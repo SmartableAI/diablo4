@@ -1,26 +1,25 @@
 ---
 category: news
-title: "The Rogue Might Be The Next Diablo 4 Class"
-excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
-publishedDateTime: 2021-02-19T05:02:00Z
-originalUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-type: article
-quality: 107
+title: "Diablo IV - Rogue Announce Trailer"
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+publishedDateTime: 2021-02-19T22:43:03Z
+originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
+type: video
+quality: 122
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: Blizzard Türkiye
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
+  - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -56,17 +55,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo IV - Rogue Announce Trailer"
-    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
-    publishedDateTime: 2021-02-19T22:43:03Z
-    webUrl: ""
-    type: video
+  - title: "The Rogue Might Be The Next Diablo 4 Class"
+    excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
+    publishedDateTime: 2021-02-19T05:02:00Z
+    webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
+    ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
+    type: article
     provider:
-      name: Blizzard Türkiye
-      domain: youtube.com
-    quality: 122
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
     images:
-      - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -85,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ObgZGF5naplrspAHE2F7Xm++aWXJi2cvyHQXQCR5Fa1IFyJN/Guyo7hc7ELj8BoCOmkdhTK32+9Qs9h6HOBU6jE0ftg0IbIvRnxLmDskmI8lKJ/Vvr0tYe7mObzHWGKjKRNHzUTFv2Xmh1/iY/cChTQwyTPAUS3zJyhTUl5x645L6k6aIXjmqNltUg8Z1bdCl1Cl7s7m5fK1EwgHOcB0tmDjOOlac2M9j8j77Evnj4RIKXKeOTfFV383DhKJgVw1SH9u+w4xVyADVg7CY/kVn0ZkurvZ8lohLYHSbCIfG8cj+5kDS+axsnZB7RPjUz0pYZRZy1xw7RfTZMydaPH6Tq5MCPRfiacr6wgRkrJI/uA=;Uo2QpzkXWaj9gnaUafYxbg=="
+secured: "QESiGz8jgW4nb8HzU7DANMPFA2nPfZqKR93/dVfwOHCAwNBQfhlu7ovgNW3UwNRVQnvhoXcX9fysSwfCgo2+F6rAbwqTQYoD1+hoEif/3i5rzDg2vjTPciLB40/mFADrxfExGpSZgrPSZeewVE3TEHk13bOR8G6/nmE/pI1f3iQBv1Cd5FbOvvUmJv6gmqO7CDNo5nAx4RYjM/BHt6JXI/XXVKBtbO6P0rMMxQdBaFhASNGfuXs3dX1wKYM5rFMHOAhJ6sAkovO8SqzeeyjwUVcsA7XSnw9ZLpxWtrLSMNQVCpsRO/MgWNfYYDYUF4Q8MdPUYJWH/LH6R0gPBLAWXh/KAU144jMFIZnSa2Qx4TEqh5C6W69r61om5NIGFiSDmizh8CYiv0fcgy4/+Uojew==;k1RRmP9GpAfBFwpS8bRL6g=="
 ---
 

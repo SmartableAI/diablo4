@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
+    excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
+    publishedDateTime: 2021-02-19T15:03:30Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
+    type: article
+    provider:
+      name: Windows Central on MSN.com
+      domain: msn.com
+    quality: 79
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQhd2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=457&y=113"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "xqw/WPNE7Cd7sQsTqxlag8xOIdT5f/SWcbCKbp9TGU1e6q/rtPxuPlnAsu/FJLwEyOp8cMFcV6ICXr8DwmZW7Y06g4Lp1MfzZLsdw0uRTpimA3mNmSUoUaNm21liehhBMzM2BQF1g2jWuz9zuN0BWkBott56aGvrOuuccV6FPT4Rf+hlNu0MV420r8KFLlHNAog3/K2zqop6mGEgPDN2eAZo7GrnEMptxb7hz/yh9h5UyJf/leOL0ClExNW4dtxn+6XVb44xIF6vehS3WmasWZDnQ6sFhBDRwGnOpeCJ3leXGpqYsnI+jUyviur3gaSeFyylaZTev0atKfYrnvPn8K8IPlzOJweffcTmrwCmg/I=;MyDXNSJngxNGrFhaBwif+w=="
 ---

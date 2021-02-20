@@ -1,29 +1,27 @@
 ---
 category: news
-title: "BlizzConline Schedule Goes Live Without Diablo 4"
-excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
-publishedDateTime: 2021-02-12T05:29:00Z
-originalUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
-cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+title: "Diablo 2 Resurrection, Diablo 4 headline first day of Blizzcon 2021"
+excerpt: "Blizzcon 2021 kicked off with an action-packed opening ceremony that included new information on Diablo 4 and the long-rumored Diablo 2 remake."
+publishedDateTime: 2021-02-19T15:05:00Z
+originalUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/"
+webUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/"
+ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: SegmentNext
-  domain: segmentnext.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
@@ -42,6 +40,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "BlizzConline Schedule Goes Live Without Diablo 4"
+    excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
+    publishedDateTime: 2021-02-12T05:29:00Z
+    webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
+    ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 107
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
     excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
     publishedDateTime: 2021-02-19T14:53:00Z
@@ -56,17 +70,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 2 Resurrection, Diablo 4 headline first day of Blizzcon 2021"
-    excerpt: "Blizzcon 2021 kicked off with an action-packed opening ceremony that included new information on Diablo 4 and the long-rumored Diablo 2 remake."
-    publishedDateTime: 2021-02-19T15:05:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
   - title: "Diablo 4 News Countdown: Everything We Know"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-18T12:01:00Z
@@ -95,6 +98,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "XNA9/TiwHCq2i22mn0YUgwRCEH5aee15Z1FFuEzFaY2wp6WqIhf7yYaL02fJqtVmBmjmOIbWtHDB0nkR4ZNTqpjE+WOcA8jbkWzVRFq4S57hMwb1Tv/ycDpeN5Lm08nIK2pk7gPAd+RXYI5tYsl0I6BtpYQFfldw5d+pSkonflrgD5Itpk5hye/JpxJOIO3VSadhaZ7lKZnUTpNzm/Dmq8npIzqNOQi8swd+xA6jgOo3CzZS58JzBfbXA/65h9Q+rl3yEEtoLTju6BRefsJ2/rCnhB330v6xRUfAgFbA/2xDukjW69TlwIHepY+cn5ANhy0bVx1j0LnyuwsdNfBWUf4s9tM6Gz7/HnS2nc528D8=;jpestL0+aIkeQ1aM82iQUA=="
+secured: "y9r5f5vxjVSS9oxJs4mS9c2uLsF1CD6eOuNtMJn9DaDymlCT12tkzK1CPZZseLYUvwKYm4bitLTmKd+LjkVoyvhMCeyj4vCtp4o6XQiVsHPdi8+UD+9SvXtzf6A2B8KctXS7eSsky2hZk7JYGyUX9PvwZk2R3ppQR2X6J41YQ0jBEiUsnHHN1qTfp2KTw/b7p157FXCKo+4pNUGN3NO1R8SM5eqzKgv6oAK8ZsSvANmc/8/7hxM7fWPvZZ1jnqZOs9Js+/3dtpgQNldUGSJ2LDxMkgSJY3e/HAOwIoe3V7tvAjt6hyINO6+hzGZCSNNn/QLSafe6tdBZz00dQ7/wG7dOemoDFTnWbvJHTZ3/I/0=;dFbAOe2EAkJfc9oXTK7Beg=="
 ---
 
