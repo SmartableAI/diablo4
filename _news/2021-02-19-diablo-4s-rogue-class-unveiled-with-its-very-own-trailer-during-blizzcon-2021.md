@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Everything We Know About Diablo 4's Rogue Class"
-excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
-publishedDateTime: 2021-02-19T16:29:00Z
-originalUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
-webUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
+title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
+excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+publishedDateTime: 2021-02-19T23:30:00Z
+originalUrl: "https://www.techradar.com/nz/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+webUrl: "https://www.techradar.com/nz/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
 type: article
-quality: 87
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: Looper
-  domain: looper.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
-    width: 1600
-    height: 898
+  - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -72,22 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
-    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
-    publishedDateTime: 2021-02-19T23:30:00Z
-    webUrl: "https://www.techradar.com/nz/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 103
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
     excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
     publishedDateTime: 2021-02-19T14:53:00Z
@@ -113,6 +103,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 87
+  - title: "Everything We Know About Diablo 4's Rogue Class"
+    excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
+    publishedDateTime: 2021-02-19T16:29:00Z
+    webUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
+    type: article
+    provider:
+      name: Looper
+      domain: looper.com
+    quality: 87
+    images:
+      - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
+        width: 1600
+        height: 898
+        isCached: true
   - title: "Diablo 4 News Countdown: Everything We Know"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-18T12:01:00Z
@@ -141,6 +145,6 @@ related:
       domain: realsport101.com
     quality: 48
 
-secured: "q/bWNvQhXvZE4PvTjxQUlyKWaR3FRbB66zLYZw0cuS0M2arqX++0yyVW99S+L5pk7O60gMIT/RvkGsI75H+cVOcqEaSJeCgX2SYXCbAVhE2v2H2GUeSOcP2BeC+v6S4akwx0brpDqjdZG2m8OFwCtOvoBe5Trs3dn4M2yS6n0nyPBwnCYyWG3+S3FC6az/fXXrVAePo1qQave52ThfMRVJbwLcpEWiAxVTgk6KXRS1QAIBKxPwRJ9l4ld+vg6qgznEc3n6QcZ2Qy4MHXoZK2wlO1kJep276mpZTQH7zIOX6WOsM99R0kpoMPCP2oQJkQMalWgdADuQa4a7VrxtxL+aX2QVeehRFHEWKQrNMFFsc=;NouJEYFt3zqHQ22rERHjBg=="
+secured: "y2hInYt+UDG4iAw4JeoagXqJk6TVgIH8sPKmo6Xqlbcqg4yVqtC6axQgiY4p6+aQwAPLe40oTx+OHzUWmBSJcm/jGTPK3gineNM5s7eHZNBZMoGmASk0OdR63uXzRKNF3+vOW8CmldDc5Zkjmy2n64rRPpXKis/UFnYRxYgXI00W6Ugp8Ed5m/ncqsZd48npobMl/HQSCShMKlRQaQs2PnTghE3x33FWNfWcN178tQbnWwjQmTFp2DPBVqbYwPXsRlGIjpsTYKy/tAaDHpLwPEKYII/XqatpWMIDtgrMHAe8GUBZmKN1yWso4CtoYZ/F+2bGdcuXSPDU7ZRD/w2SVn8DajrgkXMtuvzZ79qU4Vc=;FbC4aTV/+BCt4pCvCUfxUA=="
 ---
 

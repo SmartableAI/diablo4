@@ -87,6 +87,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4’s new Rogue class is completely unique"
+    excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
+    publishedDateTime: 2021-02-20T00:23:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 107
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
     excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
     publishedDateTime: 2021-02-19T15:04:17Z
@@ -102,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gXJCe34wZCrvSJ8G3DzjkFU5Je7udL+ZZyF956+ed6sNyPMKLgC1koq4juZAezZPLjuq/aBTrRvRV4M0ajmmJ+xFXGXUWP6Fb46gWnhAQ9wTdllUXfguiSEc1AZD6eFvh92iUxEFhbpwONUMU6N2lKMXhm9NIrADIjAwkhJCZUQxWNhhOeReq+Y1N/aYx/QeJeOrS1M7gobyl9A1ShzvLUTp0LXDbuIoezl0eyR+355FNeziGBI8NRZrLVx0m64Eqh1L5TpDgJhUEhd/71XrXTzgaQJ8JU7xxECAxzvdbyO8v8biRGOSfQwwTZGwJ4lTHVVjOo1QQjrApDlsadscK2rCpui24GgeGNIYtwjcFgCPDWnq6gRVWkoPNZwN/+5mpTlpO+HQymQRyTCzrGbj0A==;/fa82QYLXQtAvxKXGK02Gg=="
+secured: "5Hcbgfv1Tsw3tVx7FetQZ5TVB6AfAwRQou/va1QF+4cxHOjQzHqEUFsjv6GpCiyD3IfdbLFBxwzv2GOrvpvKPb9FtD+eDzqVcL6TfP7TPHXE1ZVIntUFvwzr2Idzg8j/Xg3AShBazv875X4F0VEKj6kdq56ncgblAg9cSBAV7xfHGDVvRDuGRZQzvuD45VzmVtD97VbmxtNu2oitNy69Q1/eACTkPoFI4inv64aq3IWXvB+uUqNFBjdOoDDHSa3xAfJuA4G25n3Aen14QiUfrvFkKs7ZxzWPokKEaIvwySy2GObdZ3bdMZMy65M2lkM1uLO3IScZIFQKYvvtTrDMV6aIN/rJmEBKfQxaIjTz3BcXThvXaGyoHNeqBItp+F0IwFPK5owu/XV9uqGUKX0Xzg==;/HfI7PhtkNXEXqYa0r4FNg=="
 ---
 

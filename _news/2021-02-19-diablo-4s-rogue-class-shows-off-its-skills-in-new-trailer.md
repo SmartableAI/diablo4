@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-of
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
 type: article
 quality: 147
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4’s new Rogue class is completely unique"
+    excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
+    publishedDateTime: 2021-02-20T00:23:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 107
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
     excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."

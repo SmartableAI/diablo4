@@ -100,6 +100,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4’s new Rogue class is completely unique"
+    excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
+    publishedDateTime: 2021-02-20T00:23:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 107
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "g8aaDQExSOy91LmIQZn64gML2vzCBdx3zRaJbJ41fhhFSeicEpwcvtMM0jCR6UBmfuxZiw6vCmFUt96lF/9CA6lKc7rgZMns4rRgzcVSf9ycqFfNLCDJXrIPRt+Jeh2Sg06sv167dgsL2qxgRotf4x1wSlK8gIyQkfrDH8VkAYSBaejDyMAq3uKEC+3ybvVB3b9cJBtRU0IPtioeNN4aA/P7kI+4g1j6QUDArAgdcjMcgakueDdfJ5sjoqojCNroDuCumSTqwfZkC46RAF+Ejj0VRPKRQWm6/9DQRr6wXiQBOhuYr+3NB2dj6TwHiAjTsjn00pNue4GDDbZdnDGHbL96ivipULN07YfWym2p7aI=;n2e73CAIw9C0LtE7qPKLqQ=="
 ---

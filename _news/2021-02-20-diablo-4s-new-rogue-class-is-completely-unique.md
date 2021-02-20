@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
-excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
-publishedDateTime: 2021-02-19T16:45:00Z
-originalUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
-webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
-ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
-cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+title: "Diablo 4’s new Rogue class is completely unique"
+excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
+publishedDateTime: 2021-02-20T00:23:00Z
+originalUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
+webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
+ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: From Software
-  domain: gamingbolt.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -70,6 +70,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
+    excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
+    publishedDateTime: 2021-02-19T16:45:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "The Rogue Might Be The Next Diablo 4 Class"
     excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
     publishedDateTime: 2021-02-19T05:02:00Z
@@ -86,22 +102,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4’s new Rogue class is completely unique"
-    excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
-    publishedDateTime: 2021-02-20T00:23:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
     excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
     publishedDateTime: 2021-02-19T15:04:17Z
@@ -117,6 +117,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Rzo7k4k6vgYABgZ6hDnIyLiemRmrTuVQQ8QcUwRD+oDx318ajgWFSHcYVxRg3Sc8sfmfD7iEdRsXUNJvokI0yYenI4r/msbTdEG3TvX59qx91BGox5hHnQ0aHcMv3lbkd6vvl8IvbY+AQRTFJJb6s5IisHziyndBrXwaIXmBucCg/IAD29k6tXfSnevjUDJw5dkAK20ivKP05e3vxdbF6w+fk8jLhTPTHKscrMjarncbtO2m3tECsV1iiCOdtvhSBtJ0/HnyVpquR/qtT+ZlEE9Qh+L0MBo5HXuTvQt69WO1tu6eJX+sI2rOnAH5a0hfGdxn+mHz1aD+rot9y9Ko0SQoQbHiOllJk7Mkdx+MXYU=;Ugs+J12a5oWVzoaTNekjEw=="
+secured: "+ysoX1JaGnvyjtFunFqZvX6TBTlaN2RkeU+kp9z0E4vCpB1mvTeblK34DxAOo9wncTrcaoupTZSIPVmn66nhGET/5JFcfWV/9GWWS933Dk3Gj9c11XIE5FE4mYYPest9Ezv6pcii38pHzMh2TOKATy9sRgVUfjdGuYs81fiJbvkUvQn+ab37AxLpVwAl8zp5na8xZ62tIs4rIQvW9qzs+5ArQNA8SltS9l10Ve9nxIeRs4AFk5sumRPzjXon5XI//4q6oqD8/GSd1ZO1RkH7NCYkid+U51BN/EUawt06CT36wZHUF8ex0a0WlBjv0z0EH5aNYwLJO8jNKJ0WqY9f1ZbjlcGQjh3Uh4C1BHsLkUo=;29uKUayyK0jljDo5S+eJ6A=="
 ---
 
