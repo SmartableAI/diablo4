@@ -5,12 +5,7 @@ excerpt: "Something I pointed out when we discussed Diablo 4's figurative and li
 publishedDateTime: 2021-02-20T13:59:00Z
 originalUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
 webUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
-ampWebUrl: "https://www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
-quality: 147
-heat: 147
-published: true
 
 provider:
   name: PC Gamer
@@ -23,12 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/XFxN9nxdmd7FeKDADE7gBg-1200-80.jpg"
-    width: 877
-    height: 492
-    isCached: true
-
-secured: "aMCNdeqAIadZE1T9t0/h8Ake9E7AdTZNvFGXld2OHNKg2+X4MxjSRzSmFjM2Jy/uX/RtHWKIo8BNi16T82wNzfctHP4VDlEdKLBf37Mmew0ilH3ZPGBrBsLYxmae3ddZODtXFvx+KQ2HvBW5DjP1aJ3CZ5mxIVipNqex49xcT84orxgnoDYSrEYA1f6fp/bNZIQua5L2FBV+Vw70u2rxJFq6QxAr6lgtm4ME8UQQP1ZEGGt0zXNLsleKfWXdYE8Sby8eehDmmEtn9D4z1Zkt5JwC0XVb9DDN+OICk5/agNfDolIq9iNek65n0OICjqgYaj69pncxyorqZEyhtyjVDqYe9NXRMHkDnUpuZYv+0X0=;SnygKm4UxgkIkNQOlSjSdw=="
+secured: "+M/dMei/+1a4l7Rl13G/XZkXFufzyB4LhHtEBD3WnSoI0X2ZYGVnTWFPoPIoI7ZbrDpnnvAoqnMWnkAQhzZr1488OYcLXLFSbGQKwBNZVNQ0qhALfhiuLKxmaUFSmZGZnDE4GQXKtjnlJciYUSb4UGBjb2s4c0N42k9A/Finhj91vtHUClIBfpxVQ3IpjDrOys5yTEWwXIpB0P0IN3cvUCLFtc4ijAKRx1e6L5gkrOelsFowgrAqAA7BypnUo8lSiasB6uOtHkwgjJj/5UpEFNavKs8JufJXYuB8jSt5lPsjLBjK+NjRcDMBDgkWuOs9ZabM24DqdU/YaD/r4X1XMI4HV4607BjE5U/gJZnyGpc=;tMemftlWblRUPjFxMLag/A=="
 ---
 
