@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
+    excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
+    publishedDateTime: 2021-02-20T17:51:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 107
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
     excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
     publishedDateTime: 2021-02-19T15:04:17Z

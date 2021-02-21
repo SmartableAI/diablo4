@@ -116,6 +116,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
+    excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
+    publishedDateTime: 2021-02-20T17:51:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 107
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "g8aaDQExSOy91LmIQZn64gML2vzCBdx3zRaJbJ41fhhFSeicEpwcvtMM0jCR6UBmfuxZiw6vCmFUt96lF/9CA6lKc7rgZMns4rRgzcVSf9ycqFfNLCDJXrIPRt+Jeh2Sg06sv167dgsL2qxgRotf4x1wSlK8gIyQkfrDH8VkAYSBaejDyMAq3uKEC+3ybvVB3b9cJBtRU0IPtioeNN4aA/P7kI+4g1j6QUDArAgdcjMcgakueDdfJ5sjoqojCNroDuCumSTqwfZkC46RAF+Ejj0VRPKRQWm6/9DQRr6wXiQBOhuYr+3NB2dj6TwHiAjTsjn00pNue4GDDbZdnDGHbL96ivipULN07YfWym2p7aI=;n2e73CAIw9C0LtE7qPKLqQ=="
 ---

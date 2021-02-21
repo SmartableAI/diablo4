@@ -3,10 +3,10 @@ category: news
 title: "You can turn off enemy glow in Diablo 4"
 excerpt: "Something I pointed out when we discussed Diablo 4's figurative and literal 'darkness' back in 2019 is that, although you can't see it in the official gameplay trailers, holding the cursor over an ..."
 publishedDateTime: 2021-02-20T13:59:00Z
-originalUrl: "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/"
-webUrl: "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
+originalUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
+webUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
+ampWebUrl: "https://www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
 quality: 147
 heat: 147
@@ -29,6 +29,6 @@ images:
     height: 492
     isCached: true
 
-secured: "X87vSClh/S1aoa8KgNgSTu+DtAGi0GHXLtGqkJNy3wHbmosX4fx8NS+hC+totaKZfR0ap6/aXovoUJPAcgq+ZYi/PktxT2KzfF/jLWkPQQX0pYK3nll7+jUZfy5Xei/zr2VaLMhnBK8iyzFumDM5m1p4od56ZxHPlcqzgv8Q4Uql9u3+QMiOPg8WHNTaVWShLGdmElioh8RvLtYVonxhaWVV45sDxkT6Eko5fCe3xBvORI5chHc8oCz2ZBkf7+vBT/q7yN1GrXiWTCut8/hsXL6qVz318FaBNp+/7fl6UucB3IwHS2PrCE7znTgV2Vk2kpJjEwqBHgXpAaHQSLZHj4amMSutG1pt1FBZx1si8C0=;U+HjCxM+7BuhZIlXN7G9jA=="
+secured: "1lHMYI7tEa7ssna150X6U2V0SJ6JnNw91e21s1p79a4nrP4pZGyy4c5H+/lUZdMiba3PnupEYbHz1MnG2M0wqME94VeG1TTFwe5RWKyAPHWGXSHFCk6oLXsP2nk4GzGiYrWrFk3DKjjBQLeuCZmrrv0IflI+M/MwckmbgEp8SjIdHUlI5lwLzcb3e9WGPlwGzD9kHT906FkJPyQo3ZlNmnk3j0PjD6kvfwmRc/9QsjdNSZ9eKzdJz2lgE1A5UTKFnO47dvBVQe/1hzoG3y+iGsLT4O5zPgA62jqPwottToeSFdcfetcPUmOt6Rbd6YDUkq5WeJvSF6LnquBKxIGnydyNiNBRVjgkI566Pq4paiU=;9+8uJQohDHCb1msGIJOQmA=="
 ---
 

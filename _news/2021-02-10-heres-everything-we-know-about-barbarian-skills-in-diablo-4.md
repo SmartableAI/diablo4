@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz"
 type: article
 quality: 104
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
     quality: 104
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dzi9l.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Here's everything we know about Diablo 4's skill system"
-    excerpt: "Diablo 4 is the next major entry in the hack-and-slash isometric RPG series from Blizzard Entertainment. While it's still in active development, we know a decent bit about how the skill system will ..."
-    publishedDateTime: 2021-02-01T10:00:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-diablo-4s-skill-system/ar-BB1di5d5"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB15TfhG.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
         width: 600
         height: 315
         isCached: true

@@ -1,35 +1,47 @@
 ---
 category: news
-title: "Diablo 4's Rogue Class Shows Off Its Skills In New Trailer"
-excerpt: "Blizzard debuted a new trailer for Diablo IV. The trailer reveals the Rogue class, which will be included in the upcoming action-RPG at launch. In the new trailer, you can see the Rogue joining the ..."
-publishedDateTime: 2021-02-19T14:44:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
-webUrl: "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
+title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
+excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
+publishedDateTime: 2021-02-20T17:51:00Z
+originalUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
+webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
+ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
 type: article
-quality: 147
-heat: 287
-published: true
+quality: 107
+heat: -1
+published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg"
-    width: 640
-    height: 360
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Diablo 4's Rogue Class Shows Off Its Skills In New Trailer"
+    excerpt: "Blizzard debuted a new trailer for Diablo IV. The trailer reveals the Rogue class, which will be included in the upcoming action-RPG at launch. In the new trailer, you can see the Rogue joining the ..."
+    publishedDateTime: 2021-02-19T14:44:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4: Rogue Class Revealed, Open World Details Explained"
     excerpt: "Blizzard Entertainment has announced that the Rogue class will be one of the five playable characters in Diablo 4, joining the Barbarian, Sorceress, and Druid, who were all revealed when Diablo 4 was ..."
     publishedDateTime: 2021-02-19T14:52:00Z
@@ -106,22 +118,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
-    excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
-    publishedDateTime: 2021-02-20T17:51:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
     excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
     publishedDateTime: 2021-02-19T15:04:17Z
@@ -137,6 +133,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kBBnhZAh8P2tSbv4yztngGdolsQ6baxVg8B14a1T3yuPZ1pDxTTGPE9BbsawfpEwRUziJ44E3UyMtlkWTaDynP61DE+2WHbZnXlsb8YhhnuQlQoxZf0WWuILCZEzGAxRco1Yr/VTIlq/4HWZiUwEuIujPmFc3dVGsjI34KmP02PVprYUf9y7P/TUQc+g046RzLsCgyPvJduyYR1kd+yjHDZOqlF0aCYVMy+/73S2rJ2G6rPBJggagcCMSrFwFfjgg9s9aETrk5CCUZhHPcgVFde573mqDx4rt7r8tCkvXftuZV5wdZFUGrl9f0+zpqVFAu42CDZSbALjw1RDaQSBlrgcojR5C8ggt/GwNgsP0yA=;LB8mfWnLt8TmgoKdINHqmw=="
+secured: "kHcl9RRf1vNuFNA10vQg6MxHTGYSWGiXaFOD4m3jM1aKLzI6xKw3B99cvA9nobAB06RuUsS56hk/ZSUeou02WFwMGqEkGtlLCV1g6l+UDCmSf4/hopIOzG6e7CikUSOLCcS1zibM2JIEmN/zOXonQ2QLEYNP60IbL+SAaT53Iti3R9Epjn5FHYEGmsxZ7W2fm+yPqV2CBn7D6Z3WNPdDjk0F8fjBlRJWpmMKkywtfmFvf6pSLaTcGiSrM69VcrYbm/c91cD+qRrt/a2ZqM+ca2hWIWeVNyfwTjmGRe71946rrFHWA3UVI5HnLhGZMy5G4xmCudDw+YHL0HNd9cPbExfWkZl/eVIhtQ/KIxAHlC4=;WDPDaQkxof3F/Vi3gODGNA=="
 ---
 
