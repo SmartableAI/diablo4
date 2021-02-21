@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Diablo 4 Gameplay Trailer Reveals New Class"
-excerpt: "Blizzard Entertainment’s annual BlizzCon event featured another appearance by Diablo IV this year with the highly anticipated Diablo game getting another trailer on Friday. Diablo IV’s new trailer ..."
-publishedDateTime: 2021-02-19T14:49:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
+title: "Diablo 4 New PVP Gameplay Details Revealed"
+excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
+publishedDateTime: 2021-02-20T14:04:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
 type: article
 quality: 107
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Comicbook.com
@@ -26,12 +26,12 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 New PVP Gameplay Details Revealed"
-    excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
-    publishedDateTime: 2021-02-20T14:04:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+  - title: "Diablo 4 Gameplay Trailer Reveals New Class"
+    excerpt: "Blizzard Entertainment’s annual BlizzCon event featured another appearance by Diablo IV this year with the highly anticipated Diablo game getting another trailer on Friday. Diablo IV’s new trailer ..."
+    publishedDateTime: 2021-02-19T14:49:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
     type: article
     provider:
       name: Comicbook.com
@@ -70,6 +70,6 @@ related:
       domain: pcgamesn.com
     quality: 87
 
-secured: "P7juVTjerUiFmcEASKbzvGREr9zmVPJ/1LRCzf6QH18f13pfYRw1gi/gjgrXEbE297euZrNBy84+LTIK9m7yWGQ0xYKjO3SmujvCrI9jGf10gfOGIVJVDVASI+U3curKijgmHxvO4ZMMhqNKzhDZZoHvcjsxhYdhwuQn6f3VuhEClalO9xi942eAeG0GXb5vZWxq3tr5RorQOeSJ7Jex3xRl7GxqhG0/LxNCbSDL94TzpDO7XZDrkg9q43g48GjyGboZSekrm28ch9p7xWtgHe1xcquzPmMszdOOy9TeVY9avJt4R9nabjk9xfeUf4ee5Dqqc9KZWZtvrp0NRYrWiADrV3kjw1bll5hQ5VxnR0M=;ZsfKCqD36j04YGXYN0czgw=="
+secured: "oS0HWfxwFq+IxUZfJgttI2zgKb2WE764zQgzT7oqSGOEaXHRAE3L1K5e0SEyCxGdtiObCd0EMkQ9ow1A4x6rvH3M7s7r9tIqucMdy/827zHQ2eeqYG+mnxm0d2xN9rN25qIQPJUTUT/owXg1nS8gZSFxFjB7ob1zAijg1aRvCRuYsmbtEdLWqAx7bJVzGpNOw8vKDtN26iB9Y2kvzGfS8Hg/rqnHcNL5VWRPO+gBBoNtL/C947D4qIlqZwqRMHCT0JJrUQLXxnZnIWL/uHAMY4IN/3/8HsNoaCSFWZgtKioAMdKly8bjkmESs/LIpOtPzuwf/20wi2AunaI3BJ3i495Ne3bP81T5JNW1nOa/uBY=;HcLp07godRPzJ9TdH/wbhQ=="
 ---
 

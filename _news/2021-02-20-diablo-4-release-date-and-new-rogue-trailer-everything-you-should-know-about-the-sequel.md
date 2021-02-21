@@ -42,6 +42,33 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 New PVP Gameplay Details Revealed"
+    excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
+    publishedDateTime: 2021-02-20T14:04:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4’s rogue reveal trailer was rendered in the game engine"
+    excerpt: "Blizzard confirmed that the trailer was running in the Diablo 4 engine during an interview today at BlizzConline. Diablo 4 art director John Mueller says the engine is capable of doing things well ..."
+    publishedDateTime: 2021-02-20T15:50:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
 
 secured: "rGxfAxyoCD1vfszB1Ij2Q/itRtbErcSoAx2MSc/HMmy96Lrt1P2c9Pb5ouGRm36moc0M5Zx64NQ0AnwhScmo6FeIf0eL8o81eQo+fm8Z5RMXjGFKBMZxLg1Ol7Q3QuzYYTlDyrL8+2EdktQl8VY4RLKdE4M+m1B1GcuTmyIM/qI3eU1K3xgZiSQB30+qpo2fGvU3F6oHBo1RPMJeFs9zrrjByTnpsKIPQMQGLfxJRqEN6RF0Ey2z+gvIpNvpzdAdZAt2NazCxVHHST4wtRuA6VMSA4fOHCxZBDEy3kVljOyNR1ujQucSj83PkkvPGZapryQFjIYlSPyiT/8VTVsKEfOu/65msC8D5jhQiybb/mk=;CCsGRb9fS2UU+dQn4rMsgg=="
 ---
