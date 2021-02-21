@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
 quality: 147
-heat: 147
+heat: 148
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 492
     isCached: true
 
-secured: "Js5T1j9hEV4lkBrcVMSB7F4nJEsHGLL1E3KclARqJ7cLLDM/8Dds/64lUrqeAzq7TuUpIsFDYLH3GNEUcjWIytivz2hdBbJbgRx7pS0azss0VstPsipyLZTtEvKpcKHlVltt3oTlw1uXXtNMS/Szz+xxDoSIaHslhC9JqYD82xB1SOGD26VaeEBDa5j91+p726d1ngSeiCls/Ecu6OB6i89W3q04h0VLgxrhC3qDa32IdRh621cUTcuu0QOji+4/41ov1qna06qk7NY2GCMBKqWDIrl0Wg65uPE8uyNqGVRecz7e6vI0YYWO8bk3x2azHvuGfH7/Gm0DfIr0un45urK2p1lAneVo5bwMhYcKdSw=;U4Hm/GqElnhR9t35C98zKw=="
+secured: "5rOaUc23N1mRCi+eC3lXGPdFqDJH/NtfDCwtLtA0YiezKTxui7kn5R5AE71oUhrLJPqv/WAWqazIaT9l2piK2VRdfAV9RWc1LtGbaf/i/egcTgdoTeOTyqMl5+hYr42jFR926qgHGsk9LL4M+ZEMF1yyR8OiKOMJWHQIeQg0ek6YgXy3bzds4PJ/rYwOYbJeSdQY6VmOBCfVeWIPPQ2B5rYsxbM6P3hpA8PqwX6u7fvrV3d91OwCdZ+Nu/eQPlQwz3PEYcATaIU/0v5GynSjFHyCSpZzql6fCtCex3FBCWg+QDgqUAO7Kk6T5ioVDFokeRD+On4TrdZ7SlalYgTpHGaWK2GTjmdCVftz6qsdTzU=;AbwuGbagzaM0r8yyXDkkIg=="
 ---
 

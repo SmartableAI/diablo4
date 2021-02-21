@@ -160,15 +160,6 @@ related:
       name: realsport101.com
       domain: realsport101.com
     quality: 67
-  - title: "BlizzCon 2021: Start Date, BlizzConline, Overwatch 2, World Of Warcraft, Diablo 4, Cosplay Competition & More"
-    excerpt: "BlizzCon 2021, or BlizzConline, is coming up and we have everything you need to know about the biggest Blizzard event of the year."
-    publishedDateTime: 2021-02-02T04:42:00Z
-    webUrl: "https://realsport101.com/misc/blizzcon-2021-start-date-blizzconline-overwatch-2-world-of-warcraft-diablo-4-cosplay-competition-more/"
-    type: article
-    provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 48
 
 secured: "tcr7U9eTYyGfurqkTg3j2VegHdHHmpYR+ws5+j6Fov69g6BXwd31iyuPD72UED0Ys1Js1p4BJGI+BNxhmNWJbLRYEAIdCRpEpJCJtNvmqz1ebKBK3bpHUv4+LPvlXM1OcbLzV8Gni4wB6v5xc7gKiqDDLbB3bQrtNe+h/lFzZ9dBh/KmHuMUwOtlzeLdy5/VSuXkKTSbkcbTdImjeMpm2AEKw3xolRlRvlBhofC2QL8/n6KSzncODxoYg5EeXhi/qup5gyCRnNI+lXQl291hGIbW/xjoyyhXV8Nr8AgRIgl/27dS6FHeZ2rD6ftS8XNXOdFF3jjEZI7SIgU6buWCoV0WBKOv0+GeCKFT5jmsTsg=;mKbJ91pmqTBY7y4n32nYpA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ah
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
 type: article
 quality: 147
-heat: 367
+heat: 347
 published: true
 
 provider:
@@ -165,15 +165,6 @@ related:
       name: realsport101.com
       domain: realsport101.com
     quality: 67
-  - title: "BlizzCon 2021: Start Date, BlizzConline, Overwatch 2, World Of Warcraft, Diablo 4, Cosplay Competition & More"
-    excerpt: "BlizzCon 2021, or BlizzConline, is coming up and we have everything you need to know about the biggest Blizzard event of the year."
-    publishedDateTime: 2021-02-02T04:42:00Z
-    webUrl: "https://realsport101.com/misc/blizzcon-2021-start-date-blizzconline-overwatch-2-world-of-warcraft-diablo-4-cosplay-competition-more/"
-    type: article
-    provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 48
 
 secured: "/zqpa3DqR3/54U6my3F8+fr3C0lWDo2cVyRxeyv8QgKBF0aAEMmI8RHO2S+KQy8MGnsGME8oOlDy/2xmWqXAeG/ehX6kCjGaZkrkpzZ1I6xD5wgRpo3jSO0Ck4B/YyHZFpIEKIDpyTQU6cbra4onaQ9rZT6LJQuE9T4us6r5i79rXojaCq+Q4kFyltepE0FMnTwcFt9GnvhtIKOA5iCFgblWATA9dPi28eUyjuiIn8sh3yrtGsMSuWZI1ne3OwwVF1t5QcJiRqZJJJnba2POGU/6YS3YgVyfmEWWKL+fpp1bSQ1z0eFe34YsJs7K8wV87M/Id1ITAyc/xW9dPCYwJHHs6yrYdYMkIQUobAho4rA=;VVHKVz8rL4J/Qpe8FZ3wGQ=="
 ---

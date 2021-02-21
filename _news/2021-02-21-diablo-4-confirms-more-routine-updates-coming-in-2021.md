@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-quarterly-updates-202
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-quarterly-updates-2021/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
