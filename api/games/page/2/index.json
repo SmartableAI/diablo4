@@ -4,27 +4,26 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
-      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
-      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M51S",
+      "path": "_games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing.md",
+      "title": "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING",
+      "excerpt": "NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING The Druid is a savage shapeshifter, fluidly transforming between the forms of a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing/",
+      "originalUrl": "https://youtube.com/watch?v=-N605UTTviU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-N605UTTviU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M21S",
       "provider": {
-        "name": "Yurii Pit",
+        "name": "Smithtainment",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid",
-        "Barbarian"
+        "Druid"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-N605UTTviU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -32,7 +31,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-06-01T21:17:18-07:00"
+      "publishedDateTime": "2020-06-08T17:39:28-07:00"
     },
     {
       "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
