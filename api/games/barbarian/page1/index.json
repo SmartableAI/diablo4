@@ -20,7 +20,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 220,
+      "heat": 213,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
@@ -50,7 +50,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 202,
+      "heat": 206,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
@@ -82,7 +82,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 166,
+      "heat": 177,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
@@ -96,35 +96,34 @@
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
-      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
-      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
+      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
+      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
+      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
+      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M2S",
       "provider": {
-        "name": "Phillip Chu Joy",
+        "name": "Game LORE Dash",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid",
         "Barbarian"
       ],
-      "heat": 77,
+      "heat": 74,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-03T12:06:38-08:00"
+      "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
@@ -144,7 +143,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 76,
+      "heat": 74,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
@@ -156,98 +155,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
-    },
-    {
-      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
-      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
-      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
-      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M2S",
-      "provider": {
-        "name": "Game LORE Dash",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-18T20:58:24-08:00"
-    },
-    {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M31S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-26T07:23:18-07:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
@@ -268,7 +175,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 66,
+      "heat": 69,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
@@ -280,6 +187,99 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
+    },
+    {
+      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
+      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
+      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M50S",
+      "provider": {
+        "name": "Phillip Chu Joy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-03T12:06:38-08:00"
+    },
+    {
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=kvgc42bsmnc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvgc42bsmnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M31S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kvgc42bsmnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-26T07:23:18-07:00"
+    },
+    {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
       "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
@@ -298,7 +298,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 59,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
@@ -310,6 +310,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-20T10:31:47-07:00"
+    },
+    {
+      "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
+      "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
+      "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/",
+      "originalUrl": "https://youtube.com/watch?v=PJFRQo7KDsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M10S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PJFRQo7KDsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-06T06:11:03-07:00"
     },
     {
       "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
@@ -373,36 +403,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-12T13:55:08-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
-      "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=PJFRQo7KDsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PJFRQo7KDsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-06T06:11:03-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",

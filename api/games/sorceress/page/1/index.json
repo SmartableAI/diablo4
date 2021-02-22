@@ -22,7 +22,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 166,
+      "heat": 177,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
@@ -52,7 +52,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 142,
+      "heat": 134,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
@@ -82,7 +82,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 84,
+      "heat": 82,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
@@ -112,7 +112,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 76,
+      "heat": 78,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9FK923_Wjbg/maxresdefault.jpg",
@@ -142,7 +142,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 69,
+      "heat": 71,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
@@ -154,38 +154,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-05-27T10:12:29-07:00"
-    },
-    {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
@@ -206,7 +174,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 66,
+      "heat": 69,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
@@ -220,34 +188,36 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
-      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
-      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
-      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
-      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
       "provider": {
-        "name": "Wolfcryer",
+        "name": "Bluddshed",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Sorceress",
+        "Druid",
+        "Barbarian"
       ],
-      "heat": 57,
+      "heat": 65,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-04T19:32:37-08:00"
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
       "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
@@ -266,7 +236,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 56,
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Kv-Z52JtN18/maxresdefault.jpg",
@@ -278,6 +248,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T08:00:11-07:00"
+    },
+    {
+      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
+      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
+      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
+      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "Wolfcryer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T19:32:37-08:00"
     },
     {
       "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
@@ -358,7 +358,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WQ1VCXC5F6E/maxresdefault.jpg",
@@ -430,6 +430,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-06T05:04:40-07:00"
+    },
+    {
+      "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one.md",
+      "title": "Diablo IV - Sorceress Introduction and Gameplay [PC, PS4, Xbox One]",
+      "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one/",
+      "originalUrl": "https://youtube.com/watch?v=3HzUgebRv5g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3HzUgebRv5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M48S",
+      "provider": {
+        "name": "Giuseppe's Gaming - Twinfinite",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3HzUgebRv5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T14:40:10-07:00"
+    },
+    {
+      "path": "_games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4.md",
+      "title": "DIABLO 4 - EVOLUTION OF THE SORCERESS - FROM D1 TO D4",
+      "excerpt": "DIABLO 4 - EVOLUTION OF THE SORCERES - FROM D1 TO D4 Sorceresses are of the Zann Esu Clan. Athletic, affable, and self-assured, Sorceresses hardly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/",
+      "originalUrl": "https://youtube.com/watch?v=2kmG0225ORw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2kmG0225ORw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2kmG0225ORw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-15T14:39:08-07:00"
     },
     {
       "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
@@ -586,36 +646,6 @@
       "publishedDateTime": "2020-02-16T17:31:17-08:00"
     },
     {
-      "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one.md",
-      "title": "Diablo IV - Sorceress Introduction and Gameplay [PC, PS4, Xbox One]",
-      "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one/",
-      "originalUrl": "https://youtube.com/watch?v=3HzUgebRv5g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3HzUgebRv5g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M48S",
-      "provider": {
-        "name": "Giuseppe's Gaming - Twinfinite",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3HzUgebRv5g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T14:40:10-07:00"
-    },
-    {
       "path": "_games/kamahl-diablo-4-sorceress-skills.md",
       "title": "Diablo 4 Sorceress Skills",
       "excerpt": "Yo, Kamahl back with another Diablo 4 Character video. This one we are goin to be discussing the sorceress and her skills. At least as far as we can see thus far ...",
@@ -704,36 +734,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-12T16:24:35-08:00"
-    },
-    {
-      "path": "_games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4.md",
-      "title": "DIABLO 4 - EVOLUTION OF THE SORCERESS - FROM D1 TO D4",
-      "excerpt": "DIABLO 4 - EVOLUTION OF THE SORCERES - FROM D1 TO D4 Sorceresses are of the Zann Esu Clan. Athletic, affable, and self-assured, Sorceresses hardly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/",
-      "originalUrl": "https://youtube.com/watch?v=2kmG0225ORw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2kmG0225ORw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2kmG0225ORw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-15T14:39:08-07:00"
     },
     {
       "path": "_games/wudijo-diablo-4-quarterly-update-q3-september-2020-skills-talents-sorceress-system.md",
