@@ -5,12 +5,7 @@ excerpt: "During a BlizzCon Q&A stream today, game director Luis Barriga said th
 publishedDateTime: 2021-02-20T13:59:00Z
 originalUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
 webUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
-ampWebUrl: "https://www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
-quality: 147
-heat: 148
-published: true
 
 provider:
   name: PC Gamer
@@ -23,12 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/XFxN9nxdmd7FeKDADE7gBg-1200-80.jpg"
-    width: 877
-    height: 492
-    isCached: true
-
-secured: "RW4qzHYv6nNlQlSY5PvxomuDTjo40SlOJbRDzwcQTBrUiDmBN9xeY6yICCEWu95mf5qHhSdh7QCyHm3FMso43psppAvH8A9WgQ5hZabrurWJyYayY2xpAlWGON72gmXK4ymugtYoaPZqRYJKT3n95IEIP8qb/TjOe3odejQyXHyjqHKwqKkwBopO1IUa8mcV5bX8UhflAuucJQw1P+/q4cDPP5zdVogUn1VCA1BQUVW8Leb/rvErRPDBg3uwe5jS0PWP2xD6ZdCcTMcUgRSSuudk/BajIwpjZJ4AQIU7gIKqpIKOfbJ/GBGNA2AYGn3F/f5cj67DpWEG55zVfj4Z8aP7aHADGR35SmAZR+Jn1jI=;W6QuZRIR2jYGO/5cRHzb1w=="
+secured: "LaFBL73abIZYcH89cw2z+GD0JOwgMdkbpbTItkXAWGHZjl/rk/Wbi7XiA2tljfkzOV9gBIEchuYuU3kgpQVZlEnpuEVQdl0W9FJg8cq4kGur32JJg8S5yCpO9vP9jgqUPTXVoenWpk6X4+QBfhxq4ben7tOG+QUMFSnAxBG+oT/nnZRYuh3Y8PFMqNsJmn+bUjFPNAEbcsid+5uZ73bAG8aO9pVqf89BDOGmCS6VduUAYriAU+Vsf6MtuNcWPfCYKeDvKPvlBp/b3OYtx98ZuIh2IVQn+eY184aj2x+a4LgJgEkUBrmW1ZPjMLnsA8SH5OqqaUzbXl2JoD63sciVhyiZlzuCFiP3wGE3145aUSg=;afg2fvEGVHDxFlCJxNDhTg=="
 ---
 
