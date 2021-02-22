@@ -7,7 +7,7 @@ originalUrl: "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-change
 webUrl: "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
