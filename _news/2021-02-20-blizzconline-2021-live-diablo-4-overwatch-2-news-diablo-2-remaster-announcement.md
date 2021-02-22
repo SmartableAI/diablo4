@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Diablo 4 News Countdown: Everything We Know"
-excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-publishedDateTime: 2021-02-18T12:01:00Z
-originalUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
-webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
-type: article
-quality: 67
+title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
+excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
+publishedDateTime: 2021-02-20T00:00:27Z
+originalUrl: "https://youtube.com/watch?v=OGI5qyerWBY"
+type: video
+quality: 129
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OGI5qyerWBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: realsport101.com
-  domain: realsport101.com
+  name: Dark Titan Enterprises - Vara Dark
+  domain: youtube.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://i.ytimg.com/vi/OGI5qyerWBY/maxresdefault.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
@@ -33,20 +40,6 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
-    excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
-    publishedDateTime: 2021-02-20T00:00:27Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Dark Titan Enterprises - Vara Dark
-      domain: youtube.com
-    quality: 129
-    images:
-      - url: "https://i.ytimg.com/vi/OGI5qyerWBY/maxresdefault.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "BlizzConline Schedule Goes Live Without Diablo 4"
     excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
@@ -165,6 +158,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 News Countdown: Everything We Know"
+    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
+    publishedDateTime: 2021-02-18T12:01:00Z
+    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+    type: article
+    provider:
+      name: realsport101.com
+      domain: realsport101.com
+    quality: 67
   - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-19T14:47:00Z
@@ -175,6 +177,6 @@ related:
       domain: realsport101.com
     quality: 67
 
-secured: "tcr7U9eTYyGfurqkTg3j2VegHdHHmpYR+ws5+j6Fov69g6BXwd31iyuPD72UED0Ys1Js1p4BJGI+BNxhmNWJbLRYEAIdCRpEpJCJtNvmqz1ebKBK3bpHUv4+LPvlXM1OcbLzV8Gni4wB6v5xc7gKiqDDLbB3bQrtNe+h/lFzZ9dBh/KmHuMUwOtlzeLdy5/VSuXkKTSbkcbTdImjeMpm2AEKw3xolRlRvlBhofC2QL8/n6KSzncODxoYg5EeXhi/qup5gyCRnNI+lXQl291hGIbW/xjoyyhXV8Nr8AgRIgl/27dS6FHeZ2rD6ftS8XNXOdFF3jjEZI7SIgU6buWCoV0WBKOv0+GeCKFT5jmsTsg=;mKbJ91pmqTBY7y4n32nYpA=="
+secured: "PGGhSjihfUqlY8HAi0TQ/E5dr223CU2SBdU/7s1sEs6vyA07LgCR/1reJUdOZ66WhbX+50lIYQTAsLdvg8Ju0cYgdgpKYUJRZ2PMMp19Aic1Cka0lXFuQLKeWFDKtJsW6ZJFw7Srv7bu5tkGq3UzJO0sS+XtWk+rrxOe8o8ZABNhgN7PZ7UlOWaViWMzIPbn0oz58Eu5MksNyYtcjVVZ2+eanTz/q9pFZY2HCsLMlAw6uCKVxKN4dLbuVk+YvzerYGxPSB7IN3T0b+6Pneh/qHuGRStWlUisPiVEEhSKcNZ+OHq4T23L1PQVtTdL7HpDQQM/P2QKQ0Muu4MNaYA3BiTEt4xOhLVYRP00Z+G2ggWe6y2/7KdVavTsYWe13aoqxQmG1jqTPuu35F30T4tNTA==;0vSw0qhCgCXWA4M9QT+RQg=="
 ---
 

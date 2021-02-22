@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ah
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
 type: article
 quality: 147
-heat: 347
+heat: 367
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
+    excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
+    publishedDateTime: 2021-02-20T00:00:27Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Dark Titan Enterprises - Vara Dark
+      domain: youtube.com
+    quality: 129
+    images:
+      - url: "https://i.ytimg.com/vi/OGI5qyerWBY/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BlizzConline Schedule Goes Live Without Diablo 4"
     excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
     publishedDateTime: 2021-02-12T05:29:00Z
