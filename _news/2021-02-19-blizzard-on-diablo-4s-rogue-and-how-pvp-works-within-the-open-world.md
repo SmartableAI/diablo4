@@ -42,6 +42,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4: How The Rogue Class, PvP, And Open World Work"
+    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
+    publishedDateTime: 2021-02-22T11:45:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 – Rogue Specializations and World Groups Revealed"
     excerpt: "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ..."
     publishedDateTime: 2021-02-19T19:13:00Z

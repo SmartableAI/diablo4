@@ -1,48 +1,45 @@
 ---
 category: news
-title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
-excerpt: "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far."
-publishedDateTime: 2021-02-19T11:09:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
-type: article
-quality: 147
-heat: 387
-published: true
+title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
+excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
+publishedDateTime: 2021-02-20T06:21:22Z
+originalUrl: "https://youtube.com/watch?v=CDn9HcQD7cM"
+type: video
+quality: 137
+heat: -1
+published: false
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDn9HcQD7cM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TheTrueSmaugh
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg"
-    width: 640
-    height: 360
+  - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
-    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
-    publishedDateTime: 2021-02-20T06:21:22Z
-    webUrl: ""
-    type: video
+  - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
+    excerpt: "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far."
+    publishedDateTime: 2021-02-19T11:09:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
+    type: article
     provider:
-      name: TheTrueSmaugh
-      domain: youtube.com
-    quality: 137
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
-        width: 1280
-        height: 720
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
     excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
@@ -194,6 +191,6 @@ related:
       domain: realsport101.com
     quality: 67
 
-secured: "/zqpa3DqR3/54U6my3F8+fr3C0lWDo2cVyRxeyv8QgKBF0aAEMmI8RHO2S+KQy8MGnsGME8oOlDy/2xmWqXAeG/ehX6kCjGaZkrkpzZ1I6xD5wgRpo3jSO0Ck4B/YyHZFpIEKIDpyTQU6cbra4onaQ9rZT6LJQuE9T4us6r5i79rXojaCq+Q4kFyltepE0FMnTwcFt9GnvhtIKOA5iCFgblWATA9dPi28eUyjuiIn8sh3yrtGsMSuWZI1ne3OwwVF1t5QcJiRqZJJJnba2POGU/6YS3YgVyfmEWWKL+fpp1bSQ1z0eFe34YsJs7K8wV87M/Id1ITAyc/xW9dPCYwJHHs6yrYdYMkIQUobAho4rA=;VVHKVz8rL4J/Qpe8FZ3wGQ=="
+secured: "9KIsYQzU/L9m1iAVtFhMl1uXsEqelzLzhm1eAKMR8HFguXXbYdsRIhBWOUyD7oBy1AZynZ0Z8Dx5FdWkpr+OG4R+tj2Xl1XQP+SCObElqGb1TrCQ0sIdL8DU3hZMA9vA1t3902tCF979olfo00TWfhu5Ap4CjygxRuCSaCaDbhVcIJOsjE7Fah78GagxK33+Pn4iXJoXuVk9MHXh90P6nN+L9iYdXHgwzlZvdFm+fhkLgsSso7oSKnwozUayrQMyS2pM2wmz/RZQ2HIdXY/FE5eWSCs0l8r38bLGw+9LU581QfCYS8/+m1rlXv2oa38LJtg4Sw6VABjEidGVuOmaUarRdCkr/yzvIdBxZb4p/jBXtTsObIiErVGMvZlWTVSVtoRSSkcP7O+MGyS1uX4IPQ==;EA1ZP0L7zsk2qtIjnd5MSw=="
 ---
 

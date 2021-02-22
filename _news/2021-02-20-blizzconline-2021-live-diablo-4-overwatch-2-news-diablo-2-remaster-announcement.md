@@ -41,6 +41,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
+    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
+    publishedDateTime: 2021-02-20T06:21:22Z
+    webUrl: ""
+    type: video
+    provider:
+      name: TheTrueSmaugh
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BlizzConline Schedule Goes Live Without Diablo 4"
     excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
     publishedDateTime: 2021-02-12T05:29:00Z

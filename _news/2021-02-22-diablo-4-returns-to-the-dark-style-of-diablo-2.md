@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
-excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
-publishedDateTime: 2021-02-16T15:42:00Z
-originalUrl: "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-webUrl: "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+title: "Diablo 4 returns to the dark style of Diablo 2"
+excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+publishedDateTime: 2021-02-22T10:26:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://media.comicbook.com/files/images/default.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
@@ -37,6 +31,22 @@ related:
     quality: 135
     images:
       - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
+    excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
+    publishedDateTime: 2021-02-16T15:42:00Z
+    webUrl: "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -70,17 +80,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Diablo 4 returns to the dark style of Diablo 2"
-    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
-    publishedDateTime: 2021-02-22T10:26:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
-    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
   - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
     excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
     publishedDateTime: 2021-02-19T15:03:30Z
@@ -96,6 +95,6 @@ related:
         height: 315
         isCached: true
 
-secured: "c1Wkgiq87TNCIyV6J4brve/vDEOFwZBoxTCDllZ1HBh+qG/WWXRKT+F9YNBxgkWawTLHRXCdG5eR/DxkhtkRf9uVnPIGv3JFeH7m5dRnMeVgXx71K1QVWSsPchtPq2eOtZPWU1VQCOaixvz1F/mwhPMv3FBviRLx+lJ6IfXp2CCFG84GMQ955udwiYVNDjaSuZz/kQYKTzHbQINj+w/Dkzoj1rG2/pkFiTQYwVWmL5smf4nBN6nPbRmZ/MXz1R7tCl8jNfaAOxeC6uEhfxTneO2+epM1qU0/ugticfnjUIBILNRYPCfBRVBXu44SgCdTDX7VBXijnV9HYbZ4tna8+HFujTC65nZ+XXEiukBi994=;u+Ku8WejVU+CD5Q9zeqpVw=="
+secured: "+HGQrt0vZjuvFRFoLQRnBBe6sfMEr7W14REcQVYDxDsOWbyXJhe0h97WsmZK4uQBOBnNQYLeJU4TP6QQ6U0NWyEJuCN4xk+fNVxB6WTGQAusORpXo0JCYoNiUN/ITW06YH0/4NCY8NZ9NBUSs89FSEwBXa5U11Oq8bHNhacV7/pKpCKM1x/RvSZ3S5NX6tBhnBFTR8OjJCricM3XwpGghnkjHdtRM1LfvMq8VLqEvrhTO0KjW3h+3eUOnj/m5Md557UHaKb5Kg5OvxK/9Zl2KXiXjwoVQ3ue2lsKfERE9f11XCIqGqWW7fcK/WDYK5dHBSnu4RhBqxN1bf0KVAV6x9K8ZdTUQcZoBCNAFaNFWIc=;amVQoulwM9dXFULsRFMuJQ=="
 ---
 

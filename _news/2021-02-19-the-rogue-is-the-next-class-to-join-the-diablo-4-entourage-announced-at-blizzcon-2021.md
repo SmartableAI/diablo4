@@ -84,6 +84,17 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Diablo 4 returns to the dark style of Diablo 2"
+    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+    publishedDateTime: 2021-02-22T10:26:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
 
 secured: "/uzcJwTGVArcUZdDOH/K7RKi03rmM2ooSh/nGiwkIOH06ushOZRUmeY723qZ6rwQwjeiYE5n1ExDAgNx3D13j2OlKzZcOOcbimovAn5kQTg/qXKLIzbxvxlRWkl0xlOYSXAYvMZ58L+XISEEoU8oM2r/VTsrVk90nefYX3d976HQqmApSS0aqeHqp023cqgfcIM036n6m93PBjXBJlDrsc89YKba6+faVK8KF7H7Cyi+HBdDpvqk1NDdHDvykipU52/tgCS/+AgqwIhfbInpRfs7subs59AugaMGyQ1p2smUOALxNixqEX7qXxNVGFykgHSb9vWzwfydDCjTKbjtE4htE1Z2u4853UogoA+n9wo=;3+6Ajs84uVsbQqNYwiH2Rg=="
 ---

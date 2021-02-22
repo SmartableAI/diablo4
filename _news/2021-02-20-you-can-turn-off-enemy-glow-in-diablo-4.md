@@ -1,15 +1,15 @@
 ---
 category: news
 title: "You can turn off enemy glow in Diablo 4"
-excerpt: "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ..."
+excerpt: "Something I pointed out when we discussed Diablo 4's figurative and literal 'darkness' back in 2019 is that, although you can't see it in the official gameplay trailers, holding the cursor over an ..."
 publishedDateTime: 2021-02-20T13:59:00Z
-originalUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
-webUrl: "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/"
-ampWebUrl: "https://www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
+originalUrl: "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/"
+webUrl: "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/"
+ampWebUrl: "https://www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
 quality: 147
-heat: 148
+heat: 147
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 492
     isCached: true
 
-secured: "1XZWTuBoe/cURwYF0+NwNAMI6arA/NFApfoVXcSuQB0sdbcxWi43mvb3zQRtOiYOaFs6qQq7y+zW9Va1bQfxdKxKCCRYhHWW2b9BFSo2/wEql/nnm2P01bFjBZVifz0SrBkmsu+IUv1E0EkVdiakCXTVQs3GQFcSd+lP8MFIp7ouMdVBWOHZgklZ72x+LHSXlmSNzqkhAyYbJGd7JpaAtlYEpCdshdPH4blsrkyqmd23MhcNamDMBLFJiZ7KI39iiUL5fMMk57sDQf/m0pE/LYVwJM0u7HzOkk6uYWCViDddjhn7Jd7RjsPETDwhhmgWg0khMgc+Jxx8X4zMT5UIxPu0zBq1GwHf8aj/jY3DeIw=;iivd8Lf+A9kxiTzjPqVIPw=="
+secured: "uinUGfRU5FHO9trXIg/ct9pHrWHBbug+Mdwkxb8gwpygZ8nzShVlUYyowWbEnAh4pFkY68FL9rs+62rzQ4RoqHxNVloTzFykBt0SIarTMwAHO6W6u7AWb4APn0/CvaCAJ3GzziZSVByiTza3PUFrXnEvpEJ3rrPGL1l3CddCnZIpXoPHjKrJDtzRExpthRkgO1YVvxH0Cm3PT3ohYKJ85g42Y3hEVznYpT2dItcIiUdoDx6AGd9pCxI3iBxHFDnZAG/tR3kHt/eB7dPOyUrv9ufrq5kyZcTPum0XXs+DHTZke7w6vX4SHvc6SjZBqSrZZivVoGghkK6Wn/7s9NE8mbyrpshZXMI5/xQGRvKlYmk=;FgBHsFkIWCyNFosNIv6q0w=="
 ---
 

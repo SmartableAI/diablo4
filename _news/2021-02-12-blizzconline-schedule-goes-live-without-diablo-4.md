@@ -42,6 +42,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
+    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
+    publishedDateTime: 2021-02-20T06:21:22Z
+    webUrl: ""
+    type: video
+    provider:
+      name: TheTrueSmaugh
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
     excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
     publishedDateTime: 2021-02-20T00:00:27Z

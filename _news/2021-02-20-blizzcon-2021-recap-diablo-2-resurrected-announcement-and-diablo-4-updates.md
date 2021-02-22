@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-20T04:24:37Z
 originalUrl: "https://youtube.com/watch?v=-ROl45gQp2M"
 type: video
 quality: 135
-heat: 215
+heat: 235
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ROl45gQp2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -71,6 +71,17 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Diablo 4 returns to the dark style of Diablo 2"
+    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+    publishedDateTime: 2021-02-22T10:26:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
   - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
     excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
     publishedDateTime: 2021-02-19T15:03:30Z

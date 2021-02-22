@@ -139,13 +139,13 @@
     {
       "path": "_news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4.md",
       "title": "You can turn off enemy glow in Diablo 4",
-      "excerpt": "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ...",
+      "excerpt": "Something I pointed out when we discussed Diablo 4's figurative and literal 'darkness' back in 2019 is that, although you can't see it in the official gameplay trailers, holding the cursor over an ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4/index.json",
-      "webUrl": "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/",
-      "originalUrl": "https://www.pcgamer.com/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "webUrl": "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "originalUrl": "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -159,8 +159,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "ampWebUrl": "https://www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
       "publishedDateTime": "2021-02-20T05:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -238,7 +238,7 @@
       "originalUrl": "https://youtube.com/watch?v=-ROl45gQp2M",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ROl45gQp2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -280,7 +280,7 @@
       "originalUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -466,7 +466,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 367,
+      "heat": 387,
       "tags": null,
       "images": [
         {
