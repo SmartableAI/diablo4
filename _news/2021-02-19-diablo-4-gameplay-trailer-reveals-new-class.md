@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-b
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
 type: article
 quality: 107
-heat: 167
+heat: 168
 published: true
 
 provider:
