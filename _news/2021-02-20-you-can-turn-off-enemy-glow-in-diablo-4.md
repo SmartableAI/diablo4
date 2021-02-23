@@ -1,12 +1,12 @@
 ---
 category: news
 title: "You can turn off enemy glow in Diablo 4"
-excerpt: "Something I pointed out when we discussed Diablo 4's figurative and literal 'darkness' back in 2019 is that, although you can't see it in the official gameplay trailers, holding the cursor over an ..."
+excerpt: "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ..."
 publishedDateTime: 2021-02-20T13:59:00Z
-originalUrl: "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/"
-webUrl: "https://www.pcgamer.com/au/you-can-turn-off-enemy-glow-in-diablo-4/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
+originalUrl: "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/"
+webUrl: "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/"
+ampWebUrl: "https://www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
 quality: 147
 heat: 147
@@ -29,6 +29,6 @@ images:
     height: 492
     isCached: true
 
-secured: "mbovgX5vJ6SJBNkqlrch2MfCyNqut9LJ/c0YkW/W9oniRkrETffbGMcvAowaR4Cy97LsNtWEt0Sczu78XP0vGdETXL67Xujz+Gdymhceez3EcVFCcJfBckrgsuI1SPymFAY2gvyJY6DXSHFqv13KOYAgsornPDgU4fRefGm4gOpZqAy2SW/b5Jip/JTY5X86cfoeo94Qfy3lPO/+bT7dz32kKSqOanCTY+6nCLDZsvoZb3ocd4mIdzGfrjayvTFA2V8rQCKtH5xxx2qRUQUZpk9+8SrG31aDTNoUSOiBVhtInkV+c5DaR4D6f7apPDnDX36JZgeSER5PVI87LMoOE/WXfjOveMQgs4jmeku1Z10=;7U38p4PQX7rQsyxsIk17ow=="
+secured: "KAzC+RIBB45y8PNiakqvEVVi8oEhaWE94EfXDmDU2WziUBqiSpIfTZiL5jcBPpu874CmkYwFIKQOf3Z8gNgy4h381CHXHUSwLqpODZss8WPV17FV0QOtGaBzSRHvfD1HFpNLpS4jm9ESw7AB2OeIqfvrTYBEHVRuS/6oNxWrgBb4PsuiLk36FcMzaXHat1M4su8HtH5H8CXPq019TMtgFeSnn10VtXjNDChZzBPzTfM4uNV1zN2iuWFC8xy1eh1zfZ3eZ1gr3O9jgAaCGGB2NuUHO5MS2RFH0Gh6+5mxfahX7te/1RpvY2c8TBL7zib4ymRkG4ZAutxRZAY0Kke6TyHrA54h1mhCVVk8gUi0kpM=;cGdBtwWzYHoRQS3luRd2zQ=="
 ---
 

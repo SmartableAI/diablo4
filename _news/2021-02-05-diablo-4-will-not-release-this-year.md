@@ -7,7 +7,7 @@ originalUrl: "https://gameranx.com/updates/id/216689/article/diablo-4-will-not-r
 webUrl: "https://gameranx.com/updates/id/216689/article/diablo-4-will-not-release-this-year/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
