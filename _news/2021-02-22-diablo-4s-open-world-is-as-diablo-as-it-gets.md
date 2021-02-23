@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Diablo 4's open world is as Diablo as it gets"
-excerpt: "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ..."
-publishedDateTime: 2021-02-22T07:00:00Z
-originalUrl: "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-webUrl: "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
+publishedDateTime: 2021-02-22T03:58:00Z
+originalUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
 quality: 107
 heat: 147
@@ -59,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MLYAiAxIcWVz+84Qkiozt9fKDu15XJCwHNoOyE5wpanbCsoucqbnIppoXx2yyAfQOy3anZpuOQNd/VsnJC0rB0gmVempKDpplwxNOSUCXDwzMbCU/cahEM/1en1yAnjQ06KRgxiRp1VLmWvC6OBMbmtcAk8PhGBUn85b+IQSM/XtRp7NWAJAghOSiODNGh3pwfZZVO9gvqZbIC2phrdQzYk6piCE1UG4mUYrK21lLw625kdwN5qvnkcLFc0xq+nl5T/uzS465uyGBS4K3NKVwOWhLSo0IPXDtZXm5Xak/VVENUuM2jFhZnLR5Bv3NT241OT4qBMUOISwai4f3ubUK+WbaDpPcVDKqvUO/iOtviI=;2wYJQKUjyEAC8X8IE7cBFw=="
+secured: "kghllR6BZ5XCJmhx4wV0eIGG9fDvITwG+fs2XpcdlvOi0quKRWFc9iqe75G4e2qP6VY/KGMgFwTsFt3leJ5AgBKcTBgUC8G3x87dLQNab4kW60tSpD2JyQcO/8p0ZN5VI65Ep0ra/4LrSraqNr6RBzUHTP5wnlxNWtLdwHt19RxAlAO4hY6f08nep9HrV9HJgS/gPOzS6mXYJjCGWuaekxnXBsUeLrDX58GeCHiUanKcWjZz6dY6bgcwYIMumHwsUw2Gh3c+I5tUn1ddW1On9FTPz8u1AlpEtS5PRcs/85D0vAS54PGoKVQ7NU6EE+YYysuQIi9zb7WzF+gMop4xeHKnYhWhcHby0+ryR4OQOx4=;LSu8c8nkQwBhH89RyaMRkA=="
 ---
 
