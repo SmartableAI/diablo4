@@ -88,22 +88,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "‘Diablo 4’ And ‘Overwatch 2’ Release Dates Won’t Be In 2021, Activision Blizzard Says"
-    excerpt: "Activision Blizzard announced that it won't be releasing two of the most anticipated titles in its repertoire this year. Here's what fans need to know about \"Diablo 4\" and \"Overwatch 2.\" ..."
-    publishedDateTime: 2021-02-05T03:49:00Z
-    webUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660"
-    ampWebUrl: "https://www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-overwatch-2-release-dates-wont-be-2021-activision-blizzard-says-3138660?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 100
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/overwatch-2-gameplay-trailer.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
     excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
     publishedDateTime: 2021-02-12T06:14:00Z
@@ -163,20 +147,6 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
         width: 615
         height: 330
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 won’t launch in 2021"
-    excerpt: "Activision have stated that Overwatch 2 and Diablo 4 will not launch in 2021, in their latest financial statement, dashing hopes of seeing a major new Blizzard PC or console game released this year."
-    publishedDateTime: 2021-02-05T02:37:00Z
-    webUrl: "https://www.thesixthaxis.com/2021/02/05/overwatch-2-and-diablo-4-release-date-in-2022-seems-likely/"
-    type: article
-    provider:
-      name: The Sixth Axis
-      domain: thesixthaxis.com
-    quality: 87
-    images:
-      - url: "https://www.thesixthaxis.com/wp-content/uploads/2021/02/Kitaria_200.jpg"
-        width: 782
-        height: 500
         isCached: true
   - title: "Activision Blizzard, Inc.: Activision’s Strong Q4 Driven by CoD Expansion; Diablo 4 and Overwatch 2 Launches Likely in 2022"
     excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
