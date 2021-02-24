@@ -42,38 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Don't expect Overwatch 2 or Diablo 4 to launch this year"
-    excerpt: "During a recent earnings call, Activision Blizzard confirmed that both Overwatch 2 and Diablo 4 will not launch this year."
-    publishedDateTime: 2021-02-05T04:47:00Z
-    webUrl: "https://www.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
-    ampWebUrl: "https://amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
-    cdnAmpWebUrl: "https://amp-truetrophies-com.cdn.ampproject.org/c/s/amp.truetrophies.com/n19087/overwatch-2-diablo-4-release-date"
-    type: article
-    provider:
-      name: TrueTrophies
-      domain: truetrophies.com
-    quality: 107
-    images:
-      - url: "https://www.truetrophies.com/customimages/carousel/060292.jpg"
-        width: 670
-        height: 377
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 won't launch in 2021, Blizzard confirms"
-    excerpt: "Blizzard has confirmed that both Overwatch 2 and Diablo 4 will not launch this year. We're expecting to hear more on both games at BlizzCon later this month."
-    publishedDateTime: 2021-02-05T04:04:00Z
-    webUrl: "https://www.trueachievements.com/n44616/overwatch-2-release-date"
-    ampWebUrl: "https://amp.trueachievements.com/n44616/overwatch-2-release-date"
-    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n44616/overwatch-2-release-date"
-    type: article
-    provider:
-      name: True Achievements
-      domain: trueachievements.com
-    quality: 107
-    images:
-      - url: "https://www.trueachievements.com/customimages/carousel/099712.jpg"
-        width: 670
-        height: 377
-        isCached: true
   - title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
     excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
     publishedDateTime: 2021-02-12T06:14:00Z
@@ -119,20 +87,6 @@ related:
       - url: "https://www.legitreviews.com/wp-content/uploads/2021/02/overwatch.jpg"
         width: 1220
         height: 813
-        isCached: true
-  - title: "Diablo 4 and Overwatch 2 won’t be releasing this year"
-    excerpt: "Back in late 2019, Blizzard announced both Diablo 4 and Overwatch 2. Neither game has been given a release date yet, but many had hoped we’d see at least one of them in 2021. This week, Activision ..."
-    publishedDateTime: 2021-02-05T05:16:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-wont-be-releasing-this-year/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 87
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
-        width: 615
-        height: 330
         isCached: true
   - title: "Diablo 4 and Overwatch 2 will be part of BlizzCon Online"
     excerpt: "We learned via an earnings call earlier this week that Blizzard won’t be releasing Diablo 4 or Overwatch 2 this year. However, we will be seeing both games in action at BlizzCon, which takes place ..."
