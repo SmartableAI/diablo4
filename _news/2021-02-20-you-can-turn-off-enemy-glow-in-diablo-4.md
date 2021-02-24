@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/"
 type: article
 quality: 147
-heat: 147
+heat: 149
 published: true
 
 provider:

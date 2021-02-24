@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
+      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
+      "excerpt": "Blizzard reveal the big changes they're making to how players will explore the world of Sanctuary in Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2021/02/24/diablo-4-rogue-sanctuary-1614170708300.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T20:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-why-diablo-4-is-so-obsessed-with-ears.md",
       "title": "Why Diablo 4 Is So Obsessed With Ears",
       "excerpt": "The suit cites the performance of Doom Eternal (pictured). (Screenshot: id Software) “We’re really excited about bringing that idea back in Diablo IV,” lead systems designer Joe Piepiora told Kotaku ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -187,7 +238,7 @@
       "originalUrl": "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -238,7 +289,7 @@
       "originalUrl": "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -280,7 +331,7 @@
       "originalUrl": "https://youtube.com/watch?v=-ROl45gQp2M",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ROl45gQp2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -863,7 +914,7 @@
       "originalUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 467,
+      "heat": 447,
       "tags": null,
       "images": [
         {
@@ -1061,48 +1112,6 @@
       "provider": {
         "name": "realsport101.com",
         "domain": "realsport101.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts.md",
-      "title": "Non-Diablo Players React to Diablo IV Announce Cinematic | By Three They Come | (G-Mineo Reacts)",
-      "excerpt": "Thank you for your support, and as always, GAME IT 'TIL YOU MAKE IT! ♡♡♡ Discord Server: ☆https://discord.gg/ah3hcmp Membership: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts/",
-      "originalUrl": "https://youtube.com/watch?v=1iMf_sxz2v0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1iMf_sxz2v0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1iMf_sxz2v0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T17:21:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "G-Mineo",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

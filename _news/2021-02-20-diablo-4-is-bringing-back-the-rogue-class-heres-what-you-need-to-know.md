@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogu
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:

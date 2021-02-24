@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
+    excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
+    publishedDateTime: 2021-02-20T03:00:13Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Slaydra
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
     excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
     publishedDateTime: 2021-02-19T18:12:00Z

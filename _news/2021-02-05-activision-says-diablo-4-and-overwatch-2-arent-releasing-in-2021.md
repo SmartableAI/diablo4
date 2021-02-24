@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/amp/activision-says-diablo-4-and-overwatc
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/"
 type: article
 quality: 107
-heat: 467
+heat: 447
 published: true
 
 provider:
@@ -169,20 +169,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
-    excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
-    publishedDateTime: 2021-02-04T21:31:00Z
-    webUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 87
-    images:
-      - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
-        width: 795
-        height: 478
         isCached: true
   - title: "Blizzard Says No Overwatch 2 or Diablo 4 Launch This Year"
     excerpt: "Fans of Blizzard video games hoping for new titles in the Overwatch or Diablo franchises this year will be saddened to hear the latest news. Activision Blizzard announced in an earnings call this week ..."

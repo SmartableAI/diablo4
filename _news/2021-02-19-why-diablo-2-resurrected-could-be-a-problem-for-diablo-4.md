@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
+    excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
+    publishedDateTime: 2021-02-20T03:00:13Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Slaydra
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
     excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
     publishedDateTime: 2021-02-16T15:42:00Z

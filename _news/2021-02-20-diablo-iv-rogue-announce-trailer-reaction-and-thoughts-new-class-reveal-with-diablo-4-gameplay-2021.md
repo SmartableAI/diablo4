@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Diablo 4 returns to the dark style of Diablo 2"
-excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
-publishedDateTime: 2021-02-22T10:26:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
-webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
-ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
-cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
-type: article
-quality: 87
+title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
+excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
+publishedDateTime: 2021-02-20T03:00:13Z
+originalUrl: "https://youtube.com/watch?v=cVI033qK9x0"
+type: video
+quality: 122
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cVI033qK9x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: Slaydra
+  domain: youtube.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
@@ -31,20 +36,6 @@ related:
     quality: 135
     images:
       - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
-    excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
-    publishedDateTime: 2021-02-20T03:00:13Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Slaydra
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -94,6 +85,17 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Diablo 4 returns to the dark style of Diablo 2"
+    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+    publishedDateTime: 2021-02-22T10:26:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
   - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
     excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
     publishedDateTime: 2021-02-19T15:03:30Z
@@ -109,6 +111,6 @@ related:
         height: 315
         isCached: true
 
-secured: "+HGQrt0vZjuvFRFoLQRnBBe6sfMEr7W14REcQVYDxDsOWbyXJhe0h97WsmZK4uQBOBnNQYLeJU4TP6QQ6U0NWyEJuCN4xk+fNVxB6WTGQAusORpXo0JCYoNiUN/ITW06YH0/4NCY8NZ9NBUSs89FSEwBXa5U11Oq8bHNhacV7/pKpCKM1x/RvSZ3S5NX6tBhnBFTR8OjJCricM3XwpGghnkjHdtRM1LfvMq8VLqEvrhTO0KjW3h+3eUOnj/m5Md557UHaKb5Kg5OvxK/9Zl2KXiXjwoVQ3ue2lsKfERE9f11XCIqGqWW7fcK/WDYK5dHBSnu4RhBqxN1bf0KVAV6x9K8ZdTUQcZoBCNAFaNFWIc=;amVQoulwM9dXFULsRFMuJQ=="
+secured: "52kpSO4ThNrjhGVeTD1PKd2vaIX3lY4wUC5xowLfCFejWaiwe3mzP89o68heWRB0y54W/D/+OszWTslkHCmr4ooeHNYok1H+v6wO94Xv5hGVnhrqo7IG+OlFkMP4tZE2TdIhQEN8K/Q4H2DDvQvr/7TeA/zZFMJVU9kXlp4QvGrKzATIoL45qZGtDaxew3T2ce8JtOVb/xa7Ho9tL7Rb8fiHV2a86l23+ZscdcIlvc82PxhapLI5rbvUUsN4I3UkQIfktX7C6gbvOpACxAyyitFR4wlCBUCKax8AgBoEnITJJ9iYrPDhluthokIHcjvIJxPVTPAJUMqnZSkn2nVVRs7RFbOd1JO57S8sVq8BnwjONcZfzt6xfggcrMy9Tf3GugR9njA/h6UxjExocLCYwg==;EWKvBQagOLWKkAzQSLMGZw=="
 ---
 

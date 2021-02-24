@@ -184,20 +184,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
-    excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
-    publishedDateTime: 2021-02-04T21:31:00Z
-    webUrl: "https://www.criticalhit.net/gaming/overwatch-2-and-diablo-4-wont-arrive-in-2021-activision-blizzard-says/"
-    type: article
-    provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 87
-    images:
-      - url: "https://i1.wp.com/media.criticalhit.net//2021/02/Overwatch-2.jpg"
-        width: 795
-        height: 478
-        isCached: true
   - title: "Diablo 4 and Overwatch 2 won’t be releasing this year"
     excerpt: "Back in late 2019, Blizzard announced both Diablo 4 and Overwatch 2. Neither game has been given a release date yet, but many had hoped we’d see at least one of them in 2021. This week, Activision ..."
     publishedDateTime: 2021-02-05T05:16:00Z
