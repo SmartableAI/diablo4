@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overwatch 2 and Diablo 4 release dates slip beyond 2021"
-    excerpt: "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ..."
-    publishedDateTime: 2021-02-04T16:49:00Z
-    webUrl: "https://www.techradar.com/nz/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 107
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/d7af34b202988b017d60b9c4bae774b8-1200-80.jpg"
-        width: 1152
-        height: 648
-        isCached: true
   - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
     excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
     publishedDateTime: 2021-02-05T10:08:00Z
@@ -288,15 +272,6 @@ related:
         width: 874
         height: 494
         isCached: true
-  - title: "Blizzard Douses Any Hope Of Diablo 4, Overwatch 2 In 2021"
-    excerpt: "If you were hoping for Overwatch 2 or Diablo 4 to drop this year to scratch some long-lost itches that Blizzard historically filled, then you might want to put a pin in those hopes for a full year."
-    publishedDateTime: 2021-02-04T16:16:16Z
-    webUrl: "https://www.msn.com/en-au/news/techandscience/blizzard-douses-any-hope-of-diablo-4-overwatch-2-in-2021/ar-BB1doZZT"
-    type: article
-    provider:
-      name: Kotaku Australia on MSN.com
-      domain: msn.com
-    quality: 67
   - title: "Activision Blizzard, Inc.: Activision’s Strong Q4 Driven by CoD Expansion; Diablo 4 and Overwatch 2 Launches Likely in 2022"
     excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
     publishedDateTime: 2021-02-05T06:20:00Z

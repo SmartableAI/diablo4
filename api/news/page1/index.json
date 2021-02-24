@@ -855,6 +855,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021.md",
+      "title": "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021",
+      "excerpt": "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/index.json",
+      "webUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
+      "originalUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 487,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cHuqLhqVouZ8abHdL54sbD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
+      "publishedDateTime": "2021-02-05T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-diablo-4-will-not-release-this-year.md",
       "title": "Diablo 4 Will Not Release This Year",
       "excerpt": "Everyone knows about the Diablo franchise as it’s an iconic dungeon crawler and over the years we’ve seen three mainline installments to enjoy. It was during BlizzCon 2019 that we got the confirmation ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "G-Mineo",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-overwatch-2-diablo-4-will-make-an-appearance-at-blizzcon.md",
-      "title": "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon",
-      "excerpt": "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-18-overwatch-2-diablo-4-will-make-an-appearance-at-blizzcon/index.json",
-      "webUrl": "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/",
-      "originalUrl": "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg",
-          "width": 880,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTeknix",
-        "domain": "eteknix.com",
         "images": null,
         "publishers": null,
         "authors": null
