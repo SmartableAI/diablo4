@@ -178,20 +178,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021"
-    excerpt: "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ..."
-    publishedDateTime: 2021-02-04T18:09:26Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/ar-BB1dpano"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dp5u7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=773&y=560"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 won’t arrive in 2021, Activision Blizzard says"
     excerpt: "Technically a game can’t be delayed if it never had a release date, but if you were expecting to play Diablo 4 or Overwatch 2 in 2021 then buddy do I have some bad news for you."
     publishedDateTime: 2021-02-04T21:31:00Z
