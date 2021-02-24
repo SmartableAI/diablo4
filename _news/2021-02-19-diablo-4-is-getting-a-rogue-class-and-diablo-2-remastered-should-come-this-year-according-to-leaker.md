@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
+    publishedDateTime: 2021-02-19T18:12:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4's open world is as Diablo as it gets"
     excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
     publishedDateTime: 2021-02-22T03:58:00Z
@@ -36,24 +52,35 @@ related:
       domain: techradar.com
     quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game"
-    excerpt: "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here."
-    publishedDateTime: 2021-02-20T02:17:00Z
-    webUrl: "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html"
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
+    publishedDateTime: 2021-02-20T09:49:00Z
+    webUrl: "https://www.imdb.com/news/ni63201835"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: IMDb
+      domain: imdb.com
     quality: 87
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
+  - title: "Diablo 4 returns to the dark style of Diablo 2"
+    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+    publishedDateTime: 2021-02-22T10:26:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
 
 secured: "72Ly4uEoAVhNbt1FHd2fHIKAi52z7ovZxMVsoZb/dKLXkubUtotwG93vwCUr24s2nbFChcWnC/4v4sHGeNhnT/MFup4y7r1QuHOCBy/zFe3mBrgJxXEnqZijGqq1QqTcOpTXzwD1SHv6smBmOf6Y2tz57LnmcD4DzYpVLtJi95UsvsnNaRbb/IRKmw43+sx4d1Qy5MMro5CKEtOrWKwvTaTpTc00LyG5ozQdN0Nc465QEWj+NP8xcmgyH/zqSIwGB9tfuAyVd5aAafRRGNj5MYVSuxgKqE4OnsoWH92/uW7VbIbjLRprQKZQoueedic26xaVFCL1+I82rWzZHmPHganLlWFv4Z40eKAknGKPew8=;w/GD0jyr4iu2kxPX5w6LDA=="
 ---

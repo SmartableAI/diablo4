@@ -24,50 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
-    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
-    publishedDateTime: 2021-02-20T04:24:37Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
-    excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
-    publishedDateTime: 2021-02-20T03:00:13Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Slaydra
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked"
-    excerpt: "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ..."
-    publishedDateTime: 2021-02-16T15:42:00Z
-    webUrl: "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
     excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
     publishedDateTime: 2021-02-19T18:12:00Z
@@ -84,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4's open world is as Diablo as it gets"
+    excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
+    publishedDateTime: 2021-02-22T03:58:00Z
+    webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 107
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Diablo 4 returns to the dark style of Diablo 2"
     excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
     publishedDateTime: 2021-02-22T10:26:00Z
@@ -95,19 +67,19 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 87
-  - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
-    excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
-    publishedDateTime: 2021-02-19T15:03:30Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
+  - title: "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker"
+    excerpt: "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ..."
+    publishedDateTime: 2021-02-19T04:24:03Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/ar-BB1dPu79"
     type: article
     provider:
-      name: Windows Central on MSN.com
+      name: GamesRadar on MSN.com
       domain: msn.com
-    quality: 79
+    quality: 71
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQhd2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=457&y=113"
-        width: 600
-        height: 315
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uQOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "D8/fU0ZFloF9xH8AJx6iBeeIUmAqGtmtQa8HEy3Z2ZZQcSf9JXGbqkCSRrpZA8SflML0msLX1sKx2vWOW3QiMMWVE+LMZmLoG5JX4zSoEqp5VYfmvYZP5YUHGhDT8YhXVbIvHET1gPmnH/m5g2hrNnUVq5P1/++hwFGeNToy1eJusZpxwovWuCvNyBz9tvsi6fXoi2R2CRxuI8P7ifhoBWOJInZZk1gJwqOk3hJlMRSxF3w9W65RI0h5MHCU3LJK3xDQBJKY8L1JsHmlRpf1Se60/ub5w7418lLIuHyHLxASsSiBwkBHHohkrb153+VZaizG3XP3NowUOkB9R0ecrj2oYudpKIdJN5PTHs3cPtw=;j1W+fgSk75RLbFeC7/eOgQ=="

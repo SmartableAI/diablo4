@@ -240,20 +240,6 @@ related:
         width: 615
         height: 330
         isCached: true
-  - title: "Activision Blizzard may have hinted at ‘Overwatch 2’ and ‘Diablo 4’ launching in ‘2022 and beyond’"
-    excerpt: "The announcement of Overwatch 2 and Diablo 4 were undoubtedly some of the highlights of the last BlizzCon in 2019. It led to speculations that these games could be released in 2021, but that does not ..."
-    publishedDateTime: 2021-02-04T23:59:00Z
-    webUrl: "https://www.econotimes.com/Activision-Blizzard-may-have-hinted-at-Overwatch-2-and-Diablo-4-launching-in-2022-and-beyond-1601671"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 73
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202102053de04bf7d5aaa0cc3_th_1024x0.jpg"
-        width: 874
-        height: 494
-        isCached: true
   - title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
     excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
     publishedDateTime: 2021-02-12T06:15:00Z

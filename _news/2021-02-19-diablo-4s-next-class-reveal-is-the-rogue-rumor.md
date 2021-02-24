@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumo
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Diablo 4’s rogue reveal trailer was rendered in the game engine"
+    excerpt: "Blizzard confirmed that the trailer was running in the Diablo 4 engine during an interview today at BlizzConline. Diablo 4 art director John Mueller says the engine is capable of doing things well ..."
+    publishedDateTime: 2021-02-20T15:50:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
 
 secured: "iZutVjB90BBtDD9aKtlQsK0EGsQ/w3/vTPFkG+mVelH5FT8UTTNwO36laJE1OEuMzu/br+5+zonjzIyiCJmPF5Bf9+tJcgwq9TN2J9jKGEBSVAZuOv0kDeTe7fubISNldfNZJjpoLmeuZxXmwB6HlXnEOYPJqDFnZsHkkHSOEbZriXKShE/zeZUQXHR/KP2tdP3sEbZsiJSmNGd7/YVuDPiRh8D7QCzjoY0ij0Uqv2aaky87nwlpwY+Mp9INXtyUNy0s8BW/U05QYEYfcTz77uibUQnJRa2h/I1vh72t94UGoPVi1j4437pIVY79clrOXUB3qFskCiYXIOLlvbPUkBpnY4DipN8y08XU1Ikq9i0=;C8rPu0Fq4Im1/YIqJXDndQ=="
 ---

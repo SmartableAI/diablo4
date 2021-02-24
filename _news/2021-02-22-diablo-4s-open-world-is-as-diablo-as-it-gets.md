@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-dia
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
 quality: 107
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -24,26 +24,53 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
-  - title: "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game"
-    excerpt: "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here."
-    publishedDateTime: 2021-02-20T02:17:00Z
-    webUrl: "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html"
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
+    publishedDateTime: 2021-02-19T18:12:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
+    publishedDateTime: 2021-02-20T09:49:00Z
+    webUrl: "https://www.imdb.com/news/ni63201835"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
     quality: 87
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
+  - title: "Diablo 4 returns to the dark style of Diablo 2"
+    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+    publishedDateTime: 2021-02-22T10:26:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
   - title: "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker"
     excerpt: "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ..."
     publishedDateTime: 2021-02-19T04:24:03Z
@@ -59,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "By5yaYFizY3zd6a0X7OHY9jOrky2+3uByR5I2CSBow2bAoAa2q0Xsa18eKe0TVE32AljoB8dVv97nvWocFbNxH5NO/jstsKQBMjp5aVDwJX0cLU6xYdDcxhsryanwaC6KdTZHPNA46GxoPKCp5tjxmaJr+uuovZID7itglBhqKLozdG6YgFG1LE2COE9wtcH1LsgKlcaz7k9gf3SwvOvh7r2ovZ04IJHhOpIpA4mZ1PxLXDqZxFsYcWfAL9fk7ApgOXItVdwcYU3ZyKMC3TtVpQno/qDtzIBTF2Bgg4/4PCVm2VzB0PHW6aNdRsFLRi+AredDsxzhfnJqZ7Aqp3xNMpftEOuXsvp6iqqBpUt8F8=;y044qVMHOLV6deeDi38Lvg=="
+secured: "AwOSIc1CU8bPVTsCpqHqH4klK8wtYYNMtiwnXH3djOQB4Dob6crQO4cUa6t6R+6Ene5tAy5/Uuut82H6vV1OgH+nDNODznREngsW/w61ApCUWtLcZ1DxNe20umQ4Zso3vUKGCI8Ro+CBPEAxaOcxnaSpXeJ4m7w7xPx5zwJ0Z1L4YRY5iq7IRPDT/gwVUGHu8WejEt/FpDC/dzrvBxggCl26A7oMquRftmXqqRqL7CTVvtGXQ05ayGYS4VjKtYNA3o4iRxhPdQKUxw0GYgQb1r4qzG6W8tyWfqhhJhke7YnIDyO+K60yEMTwf+rzWRXFwFf/R+u8CqItGYPTXAcPhjo767i8dMuqIHxVB66J7ts=;j2OxbCQw6Mc3gSkfQbvVJg=="
 ---
 

@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement.md",
+      "title": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)",
+      "excerpt": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=_s9AbCOLGEc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:30:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fextralife",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-should-resurrect-the-series-most-controversial-feature.md",
+      "title": "Diablo 4 should resurrect the series’ most controversial feature",
+      "excerpt": "We used to pay others to boost our RPG characters; now we pay the publisher. So why were we so against paying another player on the Diablo III auction house?",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-should-resurrect-the-series-most-controversial-feature/index.json",
+      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/?amp",
+      "publishedDateTime": "2021-02-23T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
       "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
       "excerpt": "Blizzard reveal the big changes they're making to how players will explore the world of Sanctuary in Diablo 4.",
@@ -83,57 +167,6 @@
         "name": "Kotaku Australia",
         "domain": "kotaku.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
-      "title": "Diablo 4's open world is as Diablo as it gets",
-      "excerpt": "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets/index.json",
-      "webUrl": "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "originalUrl": "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "publishedDateTime": "2021-02-21T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -323,19 +356,103 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates.md",
-      "title": "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates",
-      "excerpt": "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-blizzcon-2021-recap-diablo-2-resurrected-announcement-and-diablo-4-updates/",
-      "originalUrl": "https://youtube.com/watch?v=-ROl45gQp2M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ROl45gQp2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_news/2021-02-20-diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.md",
+      "title": "Diablo 4 Release Date And New Rogue Trailer: Everything You Should Know About The Sequel",
+      "excerpt": "Blizzard Entertainment has revealed a new rogue class for Diablo 4 at the recently held Blizzcon 2021 event. Scroll on for Diablo 4 release date and more.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel/index.json",
+      "webUrl": "https://www.republicworld.com/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html",
+      "originalUrl": "https://www.republicworld.com/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html",
+      "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg",
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/r0mmqnrzidpazkgj_1613806953.jpeg?tr=f-jpeg",
+          "width": 1242,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/gaming/diablo-4-release-date-and-new-rogue-trailer-everything-you-should-know-about-the-sequel.html",
+      "publishedDateTime": "2021-02-19T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.md",
+      "title": "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game",
+      "excerpt": "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game/index.json",
+      "webUrl": "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html",
+      "originalUrl": "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg",
+          "width": 1242,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4.md",
+      "title": "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4",
+      "excerpt": "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -344,14 +461,14 @@
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T20:24:37-08:00",
+      "type": "article",
+      "ampWebUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
+      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
+      "publishedDateTime": "2021-02-19T10:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Raxxanterax",
-        "domain": "youtube.com",
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -445,48 +562,6 @@
       "provider": {
         "name": "gamerjournalist",
         "domain": "gamerjournalist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4-gameplay-trailer-reveals-new-class.md",
-      "title": "Diablo 4 Gameplay Trailer Reveals New Class",
-      "excerpt": "Blizzard Entertainment’s annual BlizzCon event featured another appearance by Diablo IV this year with the highly anticipated Diablo game getting another trailer on Friday. Diablo IV’s new trailer ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-gameplay-trailer-reveals-new-class/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-rogue-class-trailer-blizzcon-2021/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-rogue-class-trailer-blizzcon-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/",
-      "publishedDateTime": "2021-02-19T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -610,7 +685,7 @@
       "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -631,48 +706,6 @@
       "provider": {
         "name": "From Software",
         "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more.md",
-      "title": "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more",
-      "excerpt": "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T20:08:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -766,6 +799,48 @@
       "provider": {
         "name": "criticalhit.net",
         "domain": "criticalhit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
+      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
+      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "publishedDateTime": "2021-02-16T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -914,7 +989,7 @@
       "originalUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 447,
+      "heat": 427,
       "tags": null,
       "images": [
         {
@@ -1029,90 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021.md",
-      "title": "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021",
-      "excerpt": "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021/index.json",
-      "webUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
-      "originalUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 767,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more.md",
-      "title": "Blizzcon 2021: Dates, Rumors, WoW Classic TBC, Diablo 4, Overwatch 2 & more",
-      "excerpt": "Fans expect some huge things from Blizzcon 2021 - including Diablo 4, WoW Classic TBC, Overwatch 2, and other big possibilities. So what will we see during the 2-day event? Blizzcon 2021 will be a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more/index.json",
-      "webUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "originalUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realsport101.com",
-        "domain": "realsport101.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

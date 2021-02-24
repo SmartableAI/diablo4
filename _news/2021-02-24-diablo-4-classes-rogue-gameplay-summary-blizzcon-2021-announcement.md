@@ -1,45 +1,30 @@
 ---
 category: news
-title: "Diablo 4 New PVP Gameplay Details Revealed"
-excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
-publishedDateTime: 2021-02-20T14:04:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
-type: article
-quality: 107
-heat: -1
-published: false
+title: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)"
+excerpt: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ..."
+publishedDateTime: 2021-02-24T14:30:04Z
+originalUrl: "https://youtube.com/watch?v=_s9AbCOLGEc"
+type: video
+quality: 137
+heat: 237
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: Fextralife
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://media.comicbook.com/files/images/default.jpg"
+  - url: "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
-  - title: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)"
-    excerpt: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ..."
-    publishedDateTime: 2021-02-24T14:30:04Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Fextralife
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
     excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
     publishedDateTime: 2021-02-20T04:24:37Z
@@ -84,6 +69,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 New PVP Gameplay Details Revealed"
+    excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
+    publishedDateTime: 2021-02-20T14:04:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
     excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
     publishedDateTime: 2021-02-19T15:03:30Z
@@ -99,6 +100,6 @@ related:
         height: 315
         isCached: true
 
-secured: "oS0HWfxwFq+IxUZfJgttI2zgKb2WE764zQgzT7oqSGOEaXHRAE3L1K5e0SEyCxGdtiObCd0EMkQ9ow1A4x6rvH3M7s7r9tIqucMdy/827zHQ2eeqYG+mnxm0d2xN9rN25qIQPJUTUT/owXg1nS8gZSFxFjB7ob1zAijg1aRvCRuYsmbtEdLWqAx7bJVzGpNOw8vKDtN26iB9Y2kvzGfS8Hg/rqnHcNL5VWRPO+gBBoNtL/C947D4qIlqZwqRMHCT0JJrUQLXxnZnIWL/uHAMY4IN/3/8HsNoaCSFWZgtKioAMdKly8bjkmESs/LIpOtPzuwf/20wi2AunaI3BJ3i495Ne3bP81T5JNW1nOa/uBY=;HcLp07godRPzJ9TdH/wbhQ=="
+secured: "00XKDF4SYUbYFxDMJblXKtwWyk79xL6u+7oGFleNFWzAn/Yv/PgoaZPFByr8SmWJUwM8t+s8zVk5OcvgwfWfEBL1kR/sEmCzTe5XqdXFe9SShhSIE0ciZ+sF5elY6i9kluog4OcUWqFBKqU75w0TUeKQqM0ljLSArsPZjwlWREDsCDmBDrcjhIgaK4yTRtyFnyYW0m0AcAxzanvGv1QzHgUS5tLLsflqLQN32OqNVK7p3yeFIHRnk5G3JzVz62aeCDCE4rLcbHvmd3i/SBx2m44fot7nSbrc87uYgzLP769g4RG9sDSxYKy0gsMITbSoJdqVG+LTD02bgQiy2KFvFIO/6F+ou1E3S8WpvO4VK+0CHtvPRFG86JkTj17F4yO2he2wdHvETdiyYZdYhJoCcw==;zi7/gnHdgXHIUR4aPk9clg=="
 ---
 
