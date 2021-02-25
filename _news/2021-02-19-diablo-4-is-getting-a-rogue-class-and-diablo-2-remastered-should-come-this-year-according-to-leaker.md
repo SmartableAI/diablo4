@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4's open world is as Diablo as it gets"
+    excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
+    publishedDateTime: 2021-02-22T03:58:00Z
+    webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 107
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
     excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
     publishedDateTime: 2021-02-20T09:49:00Z
@@ -64,17 +80,6 @@ related:
     provider:
       name: PCGamesN
       domain: pcgamesn.com
-    quality: 87
-  - title: "Diablo 4's open world is as Diablo as it gets"
-    excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
-    publishedDateTime: 2021-02-22T03:58:00Z
-    webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
     quality: 87
 
 secured: "72Ly4uEoAVhNbt1FHd2fHIKAi52z7ovZxMVsoZb/dKLXkubUtotwG93vwCUr24s2nbFChcWnC/4v4sHGeNhnT/MFup4y7r1QuHOCBy/zFe3mBrgJxXEnqZijGqq1QqTcOpTXzwD1SHv6smBmOf6Y2tz57LnmcD4DzYpVLtJi95UsvsnNaRbb/IRKmw43+sx4d1Qy5MMro5CKEtOrWKwvTaTpTc00LyG5ozQdN0Nc465QEWj+NP8xcmgyH/zqSIwGB9tfuAyVd5aAafRRGNj5MYVSuxgKqE4OnsoWH92/uW7VbIbjLRprQKZQoueedic26xaVFCL1+I82rWzZHmPHganLlWFv4Z40eKAknGKPew8=;w/GD0jyr4iu2kxPX5w6LDA=="
