@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ah
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
 type: article
 quality: 147
-heat: 387
+heat: 407
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 - Everything We Know So Far"
+    excerpt: "BlizzConline offered a lot of new info on the upcoming action-RPG; here's everything we know so far. GameSpot may get a commission from retail offers. Perhaps the most anticipated game Blizzard has in ..."
+    publishedDateTime: 2021-02-24T16:58:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
     excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
     publishedDateTime: 2021-02-20T06:21:22Z
