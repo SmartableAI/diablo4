@@ -72,50 +72,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Blizzard Says No ‘Overwatch 2’ Or ‘Diablo 4’ In 2021, Which At This Point, Is A Good Thing"
-    excerpt: "The “bad news” as it were, was that Blizzard is still not really…putting out any major projects. In the report, Activision said that neither Overwatch 2 nor Diablo 4 will arrive in 2021, not even ..."
-    publishedDateTime: 2021-02-05T07:13:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/02/05/blizzard-says-no-overwatch-2-or-diablo-4-in-2021-which-at-this-point-is-a-good-thing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Blizzard Says No Overwatch 2 or Diablo 4 Launch This Year"
-    excerpt: "Fans of Blizzard video games hoping for new titles in the Overwatch or Diablo franchises this year will be saddened to hear the latest news. Activision Blizzard announced in an earnings call this week ..."
-    publishedDateTime: 2021-02-05T06:05:00Z
-    webUrl: "https://www.legitreviews.com/blizzard-says-no-overwatch-2-or-diablo-4-launch-this-year_225654"
-    type: article
-    provider:
-      name: Legit Reviews
-      domain: legitreviews.com
-    quality: 87
-    images:
-      - url: "https://www.legitreviews.com/wp-content/uploads/2021/02/overwatch.jpg"
-        width: 1220
-        height: 813
-        isCached: true
-  - title: "Activision Blizzard, Inc.: Activision’s Strong Q4 Driven by CoD Expansion; Diablo 4 and Overwatch 2 Launches Likely in 2022"
-    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
-    publishedDateTime: 2021-02-05T06:20:00Z
-    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1612508323000"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: yahoo.com
-    quality: 61
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
     excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
     publishedDateTime: 2021-02-12T06:15:00Z
