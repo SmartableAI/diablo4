@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4's open world is as Diablo as it gets"
-    excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
-    publishedDateTime: 2021-02-22T03:58:00Z
-    webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 107
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Diablo 4 returns to the dark style of Diablo 2"
     excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
     publishedDateTime: 2021-02-22T10:26:00Z
@@ -66,6 +50,17 @@ related:
     provider:
       name: PCGamesN
       domain: pcgamesn.com
+    quality: 87
+  - title: "Diablo 4's open world is as Diablo as it gets"
+    excerpt: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021; Diablo Immortal will be a mobile MMO, developers reveal at BlizzCon 2021; Hearthstone forges new ..."
+    publishedDateTime: 2021-02-22T03:58:00Z
+    webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
     quality: 87
   - title: "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker"
     excerpt: "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ..."

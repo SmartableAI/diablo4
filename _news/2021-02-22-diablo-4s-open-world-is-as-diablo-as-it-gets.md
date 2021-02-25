@@ -8,7 +8,7 @@ webUrl: "https://www.techradar.com/uk/news/diablo-4s-open-world-is-as-diablo-as-
 ampWebUrl: "https://www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
-    width: 480
-    height: 270
-    isCached: true
 
 related:
   - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
@@ -86,6 +80,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Eh5q7uQJNhLeFE1H5ZOpHeCVYzbz+XcKSgVlfoKShG5zn0yQ9mo9FM18eETKm1mmC1juslPdHy7BfkH3mIL3AS97pMqeAQFyfVJAGQaVsIXivPvCLiyhtVEXXYhQe2qVvur+0ffY/BWOOA7AZm4Zs3q1e/aNkX+3EjZ6q0PZ9EW4HyuyT5Xg+0Q/ilbRkznj2Tqq/XZIQYzsXir1dE5w3aUAs+wL8v/QAVbNoVyXFYoySesxDyepu7YgajtVSbKDyJAgqykvXR5Y1Q3UaKz/fIokpCIUMasfJDqEvySjqnv7gUx58JRkoHa95BphxNyWcSiTS9Cj2mGWEu3Fp5F4WsKEHvDueaHKCen0s9/xS20=;4sitw9iS21xWhPyL/fNkRg=="
+secured: "0j9MnzmjqmynMKzGHa5RV7vS+/vnF+UzrEMkxsTMEILLz4yKcnFzTyCDNqH0Lyw1Fcf3NlUug31odM7n7z6WXG/e+3HbEgQO1cdCO/Jqs7LmvZyFwf54aaVN4ByqrUMqlNqvVG7HfYeDQvMuxWt/wXjfQwc7fnH54ZA5NYlYUsgcmZk4zM76sQJ/D0sVzQ84PvxWcmk+3twsV01mlcCy+zINvdeSm1znqfEbeKnYYih97jrASpTdn9udGIqvZXli0uz0kYM7zXrA6ULI5Sn1lgqLJk976BWmoQBf3OGgtBMZFl4anifq16+kpqEjVksDsLUALOULaxmbxIcqItSajQo1gtytARXXATcCcBZGolw=;nATlq6NIJweu7J6fEdSvWA=="
 ---
 
