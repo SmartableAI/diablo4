@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumo
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp"
 type: article
 quality: 107
-heat: 148
+heat: 147
 published: true
 
 provider:

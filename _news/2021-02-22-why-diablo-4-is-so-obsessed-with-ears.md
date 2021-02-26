@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/am
 cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/amp/"
 type: article
 quality: 107
-heat: 109
+heat: 107
 published: true
 
 provider:
