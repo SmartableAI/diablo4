@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-of
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
 type: article
 quality: 147
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
     quality: 122
     images:
       - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
+    excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
+    publishedDateTime: 2021-02-20T03:54:35Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Liban Ali
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://i.ytimg.com/vi/XEidOmQT80o/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true
