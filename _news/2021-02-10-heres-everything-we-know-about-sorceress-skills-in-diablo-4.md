@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's everything we know about Barbarian skills in Diablo 4"
-    excerpt: "Barbarians are battle masters, wreaking havoc with massive weapons of all shapes and sizes. One of the classes in Diablo 4 is the mighty Barbarian. With this guide, I've assembled a full list of the ..."
-    publishedDateTime: 2021-02-10T05:30:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 104
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dzjh7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Here's everything we know about Druid skills in Diablo 4"
     excerpt: "Earth magic and raging animal strength are the names of the game for Druids in Diablo 4. One of the classes in Diablo 4 is the Druid. In touch with nature, Druids can shapeshift into werewolves or ..."
     publishedDateTime: 2021-02-10T14:30:00Z
