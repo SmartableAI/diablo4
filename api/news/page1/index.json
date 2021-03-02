@@ -854,6 +854,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
+      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
+      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "publishedDateTime": "2021-02-16T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4.md",
       "title": "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4",
       "excerpt": "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ...",
@@ -1053,48 +1095,6 @@
       "provider": {
         "name": "SegmentNext",
         "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021.md",
-      "title": "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021",
-      "excerpt": "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/index.json",
-      "webUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "originalUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cHuqLhqVouZ8abHdL54sbD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "publishedDateTime": "2021-02-05T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

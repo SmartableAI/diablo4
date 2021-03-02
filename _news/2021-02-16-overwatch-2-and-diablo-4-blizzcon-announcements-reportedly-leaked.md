@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 207
+published: true
 
 provider:
   name: Comicbook.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4"
-    excerpt: "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ..."
-    publishedDateTime: 2021-02-11T04:57:00Z
-    webUrl: "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
-    ampWebUrl: "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
-    cdnAmpWebUrl: "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 107
-    images:
-      - url: "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
     excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
     publishedDateTime: 2021-02-12T06:14:00Z
