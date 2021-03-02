@@ -5,7 +5,12 @@ excerpt: "Interview: Diablo 4 devs tell us more about how the first open-world g
 publishedDateTime: 2021-02-22T04:05:00Z
 originalUrl: "https://www.techradar.com/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 webUrl: "https://www.techradar.com/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+ampWebUrl: "https://www.techradar.com/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
+quality: 107
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -18,6 +23,69 @@ provider:
 topics:
   - Diablo 4
 
-secured: "DPTOKbEvRdnP2t6BbO78rZFgPtWNetZXK3vkItRrMnZJ50QMdz1Y03s/fDmpGPEwtjNxSJPR2UO5scDf7lEeXui3hVibP70G07Wdoc+aCII7C2m2pBBBgcAmdieNAWrYQibgYld1o30hZT4v0QKEYxAIbQydVijspUXrkF7z9KXIVQDRwgx0PUomwY9O8cEuAQIPvfv39nSRqInznJ4h0nKECbV4l0DKiCh++iI9h9FIAeqDVbVlpJ5n4ge3Q0XPLCke/ea7qOaCYaQkGyRSnKMIFBTAYNKLH8WsY4Tbs6qPt+PJ8rTuFOW9BRrMnqF4ywp9t/9Dd/VNd2hnopOZcaKG/12p8ARdQqCDcj/Rd/U=;iERLC8lB2LYGxEScnZaflA=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+related:
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
+    publishedDateTime: 2021-02-19T18:12:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
+    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
+    publishedDateTime: 2021-02-20T09:49:00Z
+    webUrl: "https://www.imdb.com/news/ni63201835"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 87
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Diablo 4 returns to the dark style of Diablo 2"
+    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
+    publishedDateTime: 2021-02-22T10:26:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+  - title: "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker"
+    excerpt: "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ..."
+    publishedDateTime: 2021-02-19T04:24:03Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/ar-BB1dPu79"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 71
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uQOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "79z7k+UZqXhD8kdAnJbJI1ENJxRv54o/yENTDvmtl9Rv4/osSHD/qt/DPKo3Lo4B71goPPTyMNbOV/5rze54tQ1PASlRAmkk45xoZ0izgQ8PqWnupx3+5GKig2GKjufT2AMMeANY+ZQknFZH6OcqAjgFZ3MKbGrfwiLaJf9Uy5p53N+nbL3DJGoWzMCs/x+YfNRHO3ZoqMfTxx2P5RggxrW6iZ2IoljaXZNn9hVUPxrJzZ8mE1qLOE8jZEbpDOH7fIt9evK0aASt79t2FHCZ79PFyoJju7YRP2+R5OBH4OqLa9FsGnkJyR5rJM2oOHuOY9EgB2omisfqvcXG13UsZY+sZSO/ivNlQnMOdkhATjA=;OoA5kZXx/7t9hSa9ehd4GQ=="
 ---
 
