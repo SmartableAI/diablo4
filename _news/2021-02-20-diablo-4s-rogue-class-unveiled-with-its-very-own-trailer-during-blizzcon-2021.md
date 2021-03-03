@@ -90,22 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzConline Schedule Goes Live Without Diablo 4"
-    excerpt: "Diablo 4 will not be appearing at BlizzConline next week, which was assumed as much but will still leave a lot of fans pretty disappointed."
-    publishedDateTime: 2021-02-12T05:29:00Z
-    webUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/"
-    ampWebUrl: "https://segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
-    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/12/blizzconline-schedule-diablo-4/amp/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 107
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4’s Rogue class unveiled with its very own trailer at Blizzcon 2021"
     excerpt: "Blizzcon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
     publishedDateTime: 2021-02-19T23:30:00Z
