@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
 type: article
 quality: 107
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 750
         height: 445
         isCached: true
-  - title: "BlizzCon Online 2021 full schedule: When to expect ‘Overwatch 2’ and ‘Diablo 4’ presentations; here’s where to watch"
-    excerpt: "After months of waiting, Blizzard Entertainment finally unveiled the schedule of the next BlizzCon. While its upcoming celebration may be different than the previous years, it is still slated to be ..."
-    publishedDateTime: 2021-02-11T21:35:00Z
-    webUrl: "https://www.econotimes.com/BlizzCon-Online-2021-full-schedule-When-to-expect-Overwatch-2-and-Diablo-4-presentations-heres-where-to-watch-1602095"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 44
 
 secured: "c1Wkgiq87TNCIyV6J4brve/vDEOFwZBoxTCDllZ1HBh+qG/WWXRKT+F9YNBxgkWawTLHRXCdG5eR/DxkhtkRf9uVnPIGv3JFeH7m5dRnMeVgXx71K1QVWSsPchtPq2eOtZPWU1VQCOaixvz1F/mwhPMv3FBviRLx+lJ6IfXp2CCFG84GMQ955udwiYVNDjaSuZz/kQYKTzHbQINj+w/Dkzoj1rG2/pkFiTQYwVWmL5smf4nBN6nPbRmZ/MXz1R7tCl8jNfaAOxeC6uEhfxTneO2+epM1qU0/ugticfnjUIBILNRYPCfBRVBXu44SgCdTDX7VBXijnV9HYbZ4tna8+HFujTC65nZ+XXEiukBi994=;u+Ku8WejVU+CD5Q9zeqpVw=="
 ---
