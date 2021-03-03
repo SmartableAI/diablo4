@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/"
 type: article
 quality: 107
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/BlizzCon-2021-event-1397050.jpg?r=1613139248805"
         width: 590
         height: 350
-        isCached: true
-  - title: "Diablo 4 and Overwatch 2 will be part of BlizzCon Online"
-    excerpt: "We learned via an earnings call earlier this week that Blizzard won’t be releasing Diablo 4 or Overwatch 2 this year. However, we will be seeing both games in action at BlizzCon, which takes place ..."
-    publishedDateTime: 2021-02-11T08:24:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-will-be-part-of-blizzcon-online/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 87
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
-        width: 615
-        height: 330
         isCached: true
   - title: "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more"
     excerpt: "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ..."

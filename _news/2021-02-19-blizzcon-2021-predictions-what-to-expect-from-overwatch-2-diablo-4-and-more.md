@@ -56,20 +56,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Diablo 4 and Overwatch 2 will be part of BlizzCon Online"
-    excerpt: "We learned via an earnings call earlier this week that Blizzard won’t be releasing Diablo 4 or Overwatch 2 this year. However, we will be seeing both games in action at BlizzCon, which takes place ..."
-    publishedDateTime: 2021-02-11T08:24:00Z
-    webUrl: "https://www.kitguru.net/gaming/matthew-wilson/diablo-4-and-overwatch-2-will-be-part-of-blizzcon-online/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 87
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg"
-        width: 615
-        height: 330
-        isCached: true
   - title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
     excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
     publishedDateTime: 2021-02-12T06:15:00Z
