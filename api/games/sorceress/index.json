@@ -52,7 +52,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 70,
+      "heat": 69,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
@@ -114,7 +114,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9FK923_Wjbg/maxresdefault.jpg",
@@ -158,36 +158,6 @@
       "publishedDateTime": "2020-08-02T21:56:36-07:00"
     },
     {
-      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
-      "title": "Diablo 4: Sorceress Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M44S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-27T10:12:29-07:00"
-    },
-    {
       "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
       "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
       "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
@@ -220,6 +190,36 @@
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
+      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
+      "title": "Diablo 4: Sorceress Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M44S",
+      "provider": {
+        "name": "Click Shoot Loot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-27T10:12:29-07:00"
+    },
+    {
       "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
       "title": "DIABLO 4 NEW Gameplay SORCERESS  FIRST QUEST COMPLETE AND START NEXT  CALL OF THE DEEP",
       "excerpt": "Diablo IV is an upcoming online dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game ...",
@@ -248,6 +248,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-06T05:04:40-07:00"
+    },
+    {
+      "path": "_games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update.md",
+      "title": "Brand New Skill Tree and The Introduction of the Sorceress Enchantment System - Big Diablo 4 Update!",
+      "excerpt": "Discord: https://discord.gg/xy3EynP Twitch: https://www.twitch.tv/dbrunski125 Twitter: https://twitter.com/dbrunski125 Membership: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update/",
+      "originalUrl": "https://youtube.com/watch?v=WQ1VCXC5F6E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQ1VCXC5F6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "Dbrunski125",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WQ1VCXC5F6E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-30T04:00:08-07:00"
+    },
+    {
+      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
+      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
+      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-29T10:49:04-07:00"
     },
     {
       "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
@@ -280,36 +340,6 @@
       "publishedDateTime": "2020-09-30T08:00:11-07:00"
     },
     {
-      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
-      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
-      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
-      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "Wolfcryer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T19:32:37-08:00"
-    },
-    {
       "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
       "title": "DIABLO 4 EXCLUSIVE FIRST LOOK AT GAMEPLAY FOR THE DRUID, SORCERESS AND BARBARIAN CLASSES!",
       "excerpt": "New? Subscribe → https://www.youtube.com/c/bannik13?sub_confirmation=1 Diablo 4 is coming!!!! It is official! Let's check out the exclusive first look at game ...",
@@ -340,36 +370,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T18:24:40-08:00"
-    },
-    {
-      "path": "_games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update.md",
-      "title": "Brand New Skill Tree and The Introduction of the Sorceress Enchantment System - Big Diablo 4 Update!",
-      "excerpt": "Discord: https://discord.gg/xy3EynP Twitch: https://www.twitch.tv/dbrunski125 Twitter: https://twitter.com/dbrunski125 Membership: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update/",
-      "originalUrl": "https://youtube.com/watch?v=WQ1VCXC5F6E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQ1VCXC5F6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "Dbrunski125",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WQ1VCXC5F6E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-30T04:00:08-07:00"
     },
     {
       "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
@@ -736,16 +736,16 @@
       "publishedDateTime": "2020-06-05T14:15:30-07:00"
     },
     {
-      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
-      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
+      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
+      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
+      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
+      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
       "provider": {
-        "name": "Vulkan",
+        "name": "Wolfcryer",
         "domain": "youtube.com"
       },
       "topics": [
@@ -755,15 +755,15 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-06-29T10:49:04-07:00"
+      "publishedDateTime": "2019-11-04T19:32:37-08:00"
     },
     {
       "path": "_games/wudijo-diablo-4-quarterly-update-q3-september-2020-skills-talents-sorceress-system.md",
