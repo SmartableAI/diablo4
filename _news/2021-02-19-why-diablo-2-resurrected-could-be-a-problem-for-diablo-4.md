@@ -27,11 +27,11 @@ images:
 
 related:
   - title: "Diablo 4's open world is as Diablo as it gets"
-    excerpt: "Interview: Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal ..."
-    publishedDateTime: 2021-02-22T04:05:00Z
-    webUrl: "https://www.techradar.com/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    ampWebUrl: "https://www.techradar.com/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    excerpt: "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ..."
+    publishedDateTime: 2021-02-22T07:00:00Z
+    webUrl: "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
     type: article
     provider:
       name: TechRadar
