@@ -40,36 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzCon 2021 event schedule: Big news for Overwatch 2, Diablo 4 and World of Warcraft"
-    excerpt: "OVERWATCH 2, Diablo 4, World of Warcraft will all be showcased during this year's BlizzCon event, which takes place later in February."
-    publishedDateTime: 2021-02-12T06:14:00Z
-    webUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft"
-    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1397050/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2-Diablo-4-World-of-Warcraft/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 99
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/BlizzCon-2021-event-1397050.jpg?r=1613139248805"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "BlizzCon 2021 event schedule – Big news for Overwatch 2, Diablo 4 and World of Warcraft | Gaming | Entertainment – challenge"
-    excerpt: "Blizzard has revealed the full schedule for the 2021 BlizzCon event. For fans living in the UK, the online-only event takes place from February 19 until just after midnight on Feb ..."
-    publishedDateTime: 2021-02-12T06:15:00Z
-    webUrl: "https://www.challengehebdo.com/entertainment-arts/blizzcon-2021-event-schedule-big-news-for-overwatch-2-diablo-4-and-world-of-warcraft-gaming-entertainment-challenge-18752-2021/"
-    type: article
-    provider:
-      name: challengehebdo.com
-      domain: challengehebdo.com
-    quality: 60
-    images:
-      - url: "https://www.challengehebdo.com/wp-content/uploads/2021/02/BlizzCon-2021-event-schedule-Big-news-for-Overwatch-2.jpg"
-        width: 750
-        height: 445
-        isCached: true
 
 secured: "xqw/WPNE7Cd7sQsTqxlag8xOIdT5f/SWcbCKbp9TGU1e6q/rtPxuPlnAsu/FJLwEyOp8cMFcV6ICXr8DwmZW7Y06g4Lp1MfzZLsdw0uRTpimA3mNmSUoUaNm21liehhBMzM2BQF1g2jWuz9zuN0BWkBott56aGvrOuuccV6FPT4Rf+hlNu0MV420r8KFLlHNAog3/K2zqop6mGEgPDN2eAZo7GrnEMptxb7hz/yh9h5UyJf/leOL0ClExNW4dtxn+6XVb44xIF6vehS3WmasWZDnQ6sFhBDRwGnOpeCJ3leXGpqYsnI+jUyviur3gaSeFyylaZTev0atKfYrnvPn8K8IPlzOJweffcTmrwCmg/I=;MyDXNSJngxNGrFhaBwif+w=="
 ---
