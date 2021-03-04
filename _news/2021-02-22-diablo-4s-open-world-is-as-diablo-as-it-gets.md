@@ -5,12 +5,7 @@ excerpt: "Interview: Diablo 4 devs tell us more about how the first open-world g
 publishedDateTime: 2021-02-22T04:05:00Z
 originalUrl: "https://www.techradar.com/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 webUrl: "https://www.techradar.com/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-ampWebUrl: "https://www.techradar.com/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
-quality: 107
-heat: -1
-published: false
 
 provider:
   name: TechRadar
@@ -23,69 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
-    width: 480
-    height: 270
-    isCached: true
-
-related:
-  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
-    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
-    publishedDateTime: 2021-02-19T18:12:00Z
-    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
-    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 107
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
-    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
-    publishedDateTime: 2021-02-20T09:49:00Z
-    webUrl: "https://www.imdb.com/news/ni63201835"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 87
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Diablo 4 returns to the dark style of Diablo 2"
-    excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
-    publishedDateTime: 2021-02-22T10:26:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style"
-    ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-  - title: "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker"
-    excerpt: "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ..."
-    publishedDateTime: 2021-02-19T04:24:03Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/ar-BB1dPu79"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 71
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uQOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "6QSyEut97hD+fEjiAUyYxTENx9P3LSZbj/88uQC5Vmd1Ei0ocXq209/SKmBECfut63skWZoNJhkRyf/j0YIRfXtlfDBnDKTquTuZWa3dru0wyX4edVgzH0wkcSwa30CcfVLlwHWGQ9AUzOIhSrkVVIC/hAI04T3s7sQFt16LmeE5aT5BuTzt55+40bi5HWdvD4VM4upBE7rX+/vdqJcfhYYFCau6pHwu98JmPr/2NKgvvDl3YivQMO4Kr860GTKdEyz3KKtJ45vepMsHAVmMSqs9t7rPMtmkxlmljmkcSVchCzuFgG4YKM9bAGwNfZYYkMBffS21Cya3nHJPQlEPGQgBSjSEqVNRxITy8Ybnc4E=;qoxbU2pBz1TQps5BzK8MIA=="
+secured: "mgDoPOm17WFpN+/o/mZLham9ZPhojKa6+Il1puUlTal+e6iikQ5rsCqwXEdnpswl8QRBO9Vyn9554ltlcM+ADE8r4bV1lQiRwEawxlVxIOt0X556ZI5I93CPBGRv0Pgu2kP18DZKOHBSjw7gVFDfaeTxJbJfx9wpRbmbdzvUwGc2wIfslpyVYMqCZErJ/td2STMKpMAYJkTQFn/BK6AMHL+mI01gC4SkXzVR3Khs84rsfCzakSZLsjGw7DBuOp6sZjJuYQ3ke2+lUHFZ4U4zrDlG0JZGMe20iRGLgot4oIflleOvGjOc6g7wk3SVfHB4HC6fwwApcCHXBMVSWHtduIc9l37t4uum/BLX7IHnIlc=;32JShCwC3hs8FJTReO6qZA=="
 ---
 
