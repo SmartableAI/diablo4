@@ -1,13 +1,13 @@
 ---
 title: "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer"
 excerpt: "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer MEET YOUR MAKER Lilith has returned to Santuary, summoned by a dark ritual after eons in exile."
-originalUrl: https://youtube.com/watch?v=x2curLvhWxo
+originalUrl: https://youtube.com/watch?v=gDfRqDK4pFw
 type: video
 length: PT3M3S
-publishedDateTime: 2019-11-01T22:59:13Z
+publishedDateTime: 2019-11-04T08:55:45Z
 heat: 50
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x2curLvhWxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDfRqDK4pFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Trailer Games
@@ -15,15 +15,15 @@ provider:
 
 topics:
   - Diablo 4
-  - Barbarian
   - Druid
+  - Barbarian
 
 images:
-  - url: https://i.ytimg.com/vi/x2curLvhWxo/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/gDfRqDK4pFw/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "s1r+hs8xYKtvNfkKNwF+KTSa/ZTCLa/PrWUlfXwyDQdgKotahaJykXt2ydn6n56lWUzq0jpHTd5M6GZXhaW4YlYwHsJv/cDCv5WabvSF+YcqHIXaupMbSnuacfKwYwzeCf+ebGmDDt442qLMZhR+KgzogmN8oZOAvg0v5rFJSZkxBPw4rz4FOa9ZvYMntDJGOEWlUQtOELMLSDQ6dPgajohOkxNflINV/64Lb0h3XcgQLjREEbPemlmXobTfxb9BKBVi2S6zX3xzDyajh2zjnnHadm2YbXhh6agQsgmYR2cIs0PAhXrcNJr5bCuwuT47LFl0F63vTIcKTN0DoGxid8k2JpU5rVQ74SsiyGabfS4DTUBx7W3rlV2KKCNCR8vzFBi9/2ivLWKdxfqzrd/BJQ==;3vcM/LiR5qSHgw9ePYrMCA=="
+secured: "eZIf45K5cwFoE1EqYTWYMY8NxDSTbkqbXFEDQXKhLYfPUDnzRxuuZNjR+zfSbWXnv+3xKbuCKPAKzSwJkiO+ErQE9G03X/ocZ9dYhi2kvFv1nWZ60Uie5MVEifsmfh9GJ3GvK2hHVc0ErBjXe8qIemhQuY4Rq+lKF5I8vlYUlMuSyvcrjyOTYWTGSgAyEpLMyu2ZPNeW9xCI4spPVwhoDwCVDydPxYxFruyKVMKzOkr3yDvTsDiTp4wqcNDgtVSpMqUwUXDWLitcPuKi/4CAFyY0Wm8iUE4GKTPLn6CU2lQ9E5mWWNvMVCvVANKpXNxKCmedP0TTHF2H3CtTURpq+VI1koyhD1kDsmerTaB0OzUGljzQsgn8wsLf1tNd87HeOrIIkh8hwRysd5weyr4EjQ==;RljaugmnEqVexpQIFdrjlA=="
 ---
 
