@@ -57,16 +57,16 @@ related:
         height: 720
         isCached: true
   - title: "Diablo IV - Rogue Announce Trailer"
-    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
     publishedDateTime: 2021-02-19T22:43:03Z
     webUrl: ""
     type: video
     provider:
-      name: Diablo
+      name: Diablo PL
       domain: youtube.com
     quality: 122
     images:
-      - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+      - url: "https://i.ytimg.com/vi/6vVF-vYLUH0/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true
