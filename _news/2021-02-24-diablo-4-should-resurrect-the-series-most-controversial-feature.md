@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/?amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
