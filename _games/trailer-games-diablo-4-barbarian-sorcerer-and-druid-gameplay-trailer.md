@@ -1,13 +1,13 @@
 ---
 title: "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer"
 excerpt: "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer MEET YOUR MAKER Lilith has returned to Santuary, summoned by a dark ritual after eons in exile."
-originalUrl: https://youtube.com/watch?v=gDfRqDK4pFw
+originalUrl: https://youtube.com/watch?v=x2curLvhWxo
 type: video
 length: PT3M3S
-publishedDateTime: 2019-11-04T08:55:45Z
+publishedDateTime: 2019-11-01T22:59:13Z
 heat: 50
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDfRqDK4pFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x2curLvhWxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Trailer Games
@@ -19,11 +19,11 @@ topics:
   - Barbarian
 
 images:
-  - url: https://i.ytimg.com/vi/gDfRqDK4pFw/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/x2curLvhWxo/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "JDeH/0zsqx5XV6Uxf6LilGkcjN1Qz0hYajUTgRG4nxZl5nxkp8mTN8uxBvqaPlHnOwphN362/z32HFpi7Vv3ldl8wDSrvbTVDaAWNSXZd3rsgTi9XsGZKyo8HFN+NM4h9JU7aVqMH5S6wSjS0L6gS0Nzk+919Jo9Ea6WwFeA2xAvifLUr/iGIftltfr/l9j3niDfalLxk3Z+QAnF9PweZ/IZ3LsN8Iil9QNZUgipQp0H16psPBwvA7v4KQT53C7yYZ4TwkYsbh+FawPaMxHOsy00aeSm+wf/owUkYgSOiaC2dsLCtWLH5uKlp+gq3kR3JW0CXu2iMhj/4ZyOME1MQ34uMsChXxPXWM59p4XwsUAUMy2FeWwQl+yVnUjaWDUAtWr+xAJJtg9fxo2WY3ilcQ==;NhPFd2f7oCZG+2vYL2Reeg=="
+secured: "/ppEhnw344fZpXOfWIOSTtD6wh1E9VzN3uC6j2sG/5SLSQHpDxHrB+1pSA6wix9qOecVXsktI53m/hDR/4wAEvvmMbxj9/PTIO5/Pu2Nfm0PmT8nWCMjDACgdNGkY3+pyO2oqPoKk0G7D7xJaEFi5NcJDQe1OSkU/4Jd9qwVhd8ae4FbueJmLOLV6cic7XCPBCJkbGVYcsxAH+YPpiH1GSB/xTf7ogRSSmepznRe3ZpCe4VZvkj87gZiEa9PPUn6H1X9azHgR/IiKQEdKrizRu9xdNgTFevEDb7k0JjFghGTLlqn3sqjeIZpgxllC4fIuKl7lIYmKvn3f6AGLl8pYbo0MBU9LafeDN3VUlMhaVPlT0hGJzM4FEdSCqkmN3AAW0TLi9PvnRfwG25D763R1g==;alTYAikPQDl35Z2tj5VW3g=="
 ---
 
