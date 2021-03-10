@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4’s Next Class Reveal is the Rogue – Rumor"
-    excerpt: "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ..."
-    publishedDateTime: 2021-02-19T04:09:00Z
-    webUrl: "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor"
-    ampWebUrl: "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp"
+  - title: "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know"
+    excerpt: "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ..."
+    publishedDateTime: 2021-02-20T13:15:00Z
+    webUrl: "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
+    ampWebUrl: "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
     type: article
     provider:
-      name: From Software
-      domain: gamingbolt.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 107
     images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://images.hothardware.com/contentimages/newsitem/54331/content/Diablo_IV_Rogue_Key_Art.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Diablo 4’s rogue reveal trailer was rendered in the game engine"
     excerpt: "Blizzard confirmed that the trailer was running in the Diablo 4 engine during an interview today at BlizzConline. Diablo 4 art director John Mueller says the engine is capable of doing things well ..."

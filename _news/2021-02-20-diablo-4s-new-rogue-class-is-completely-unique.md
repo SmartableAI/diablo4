@@ -100,22 +100,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "The Rogue Might Be The Next Diablo 4 Class"
-    excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
-    publishedDateTime: 2021-02-19T05:02:00Z
-    webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-    ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 107
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
     excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
     publishedDateTime: 2021-02-20T17:51:00Z

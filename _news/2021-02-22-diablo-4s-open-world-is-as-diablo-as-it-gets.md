@@ -71,20 +71,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 87
-  - title: "Diablo 4 is getting a Rogue class and Diablo 2 Remastered \"should come this year,\" according to leaker"
-    excerpt: "Diablo 4 will reportedly see the return of the rogue class and an increased level of character customization.According to a post on Reddit from credible leaker PracticalBrush12, Diablo 4 will feature ..."
-    publishedDateTime: 2021-02-19T04:24:03Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-getting-a-rogue-class-and-diablo-2-remastered-should-come-this-year-according-to-leaker/ar-BB1dPu79"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 71
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10uQOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OJ3HEO3BYKqEdmT/eFGryLAtgudHX69+42BH0eiqbUHJx/ZvyAg1SUzvPr8Zr9od5YcnqjoVZKcJXsyIOm9XCGRn78VZOYODPDnWFF1dqpqWNFKlqYV85uLpp5XnnlF6zAh84l/aNXFU4j2f/RZCnLBwlA3pcwf6EAwkWNTUMVKLLhtfYgNIlRmO47vNH2QOzmIQrCk+D0Bcgr/JmWiO3D2ui42wiTp9xlrMzmktMCvUTWNnuZR6YCpeXk+6K/1AOMV2ufS8Fz/cDNSobH3grAm/RtxsKlmVvW7hqHPu35n3SDYEdtjToAzazvbLMVQDnr6M1HAegdxckEOG2zAylWODIciZdfRaG0Nn1VZqIXw=;yPw30cWLGAUKyA5QSPNsPQ=="
 ---

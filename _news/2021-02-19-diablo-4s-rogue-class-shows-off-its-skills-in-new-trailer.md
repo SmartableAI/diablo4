@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-of
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
 type: article
 quality: 147
-heat: 307
+heat: 287
 published: true
 
 provider:
@@ -87,22 +87,6 @@ related:
       - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "The Rogue Might Be The Next Diablo 4 Class"
-    excerpt: "It appears that Blizzard Entertainment will be revealing a brand new class as well as new details for Diablo 4 at BlizzConline after all."
-    publishedDateTime: 2021-02-19T05:02:00Z
-    webUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/"
-    ampWebUrl: "https://segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/19/the-rogue-diablo-4-class/amp/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 107
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/06/Diablo-4-Cursed-Town.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Diablo 4’s new Rogue class is completely unique"
     excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
