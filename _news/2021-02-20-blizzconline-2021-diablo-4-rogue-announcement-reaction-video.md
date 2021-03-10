@@ -172,15 +172,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 News Countdown: Everything We Know"
-    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-    publishedDateTime: 2021-02-18T12:01:00Z
-    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
-    type: article
-    provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 67
   - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
     excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
     publishedDateTime: 2021-02-19T14:47:00Z
