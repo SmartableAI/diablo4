@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Gameplay Trailer Reveals New Class"
-    excerpt: "Blizzard Entertainment’s annual BlizzCon event featured another appearance by Diablo IV this year with the highly anticipated Diablo game getting another trailer on Friday. Diablo IV’s new trailer ..."
-    publishedDateTime: 2021-02-19T14:49:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-rogue-class-trailer-blizzcon-2021/"
+  - title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
+    excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
+    publishedDateTime: 2021-02-19T16:45:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
+      name: From Software
+      domain: gamingbolt.com
     quality: 107
     images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Diablo 4 New PVP Gameplay Details Revealed"
     excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."

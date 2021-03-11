@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 PvP: what we know so far"
-    excerpt: "Here's a look at what we know so far about the Diablo 4 PvP zone and mechanics, an exciting new feature in the upcoming hack-and-slash."
-    publishedDateTime: 2021-02-19T15:56:00Z
-    webUrl: "https://gamerjournalist.com/diablo-4-pvp-what-we-know-so-far/"
-    type: article
-    provider:
-      name: gamerjournalist
-      domain: gamerjournalist.com
-    quality: 87
-    images:
-      - url: "https://cdn.gamerjournalist.com/primary/2021/02/Diablo-4-PvP-what-we-know-so-far.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "q/bWNvQhXvZE4PvTjxQUlyKWaR3FRbB66zLYZw0cuS0M2arqX++0yyVW99S+L5pk7O60gMIT/RvkGsI75H+cVOcqEaSJeCgX2SYXCbAVhE2v2H2GUeSOcP2BeC+v6S4akwx0brpDqjdZG2m8OFwCtOvoBe5Trs3dn4M2yS6n0nyPBwnCYyWG3+S3FC6az/fXXrVAePo1qQave52ThfMRVJbwLcpEWiAxVTgk6KXRS1QAIBKxPwRJ9l4ld+vg6qgznEc3n6QcZ2Qy4MHXoZK2wlO1kJep276mpZTQH7zIOX6WOsM99R0kpoMPCP2oQJkQMalWgdADuQa4a7VrxtxL+aX2QVeehRFHEWKQrNMFFsc=;NouJEYFt3zqHQ22rERHjBg=="
 ---

@@ -67,54 +67,54 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
-    excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
-    publishedDateTime: 2021-02-19T14:53:00Z
-    webUrl: "https://attackofthefanboy.com/news/blizzconline-diablo-4-will-feature-the-return-of-the-rogue/"
+  - title: "Diablo 4’s Rogue class unveiled with its very own trailer at Blizzcon 2021"
+    excerpt: "Blizzcon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+    publishedDateTime: 2021-02-19T23:30:00Z
+    webUrl: "https://www.techradar.com/au/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
     type: article
     provider:
-      name: Attack of the Fanboy
-      domain: attackofthefanboy.com
-    quality: 87
+      name: TechRadar
+      domain: techradar.com
+    quality: 105
     images:
-      - url: "https://attackofthefanboy.com/wp-content/uploads/2021/02/diablo-4-rogue.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Diablo 2 Resurrection, Diablo 4 headline first day of Blizzcon 2021"
-    excerpt: "Blizzcon 2021 kicked off with an action-packed opening ceremony that included new information on Diablo 4 and the long-rumored Diablo 2 remake."
-    publishedDateTime: 2021-02-19T15:05:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
+  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
+    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+    publishedDateTime: 2021-02-19T23:30:00Z
+    webUrl: "https://www.techradar.com/nz/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-  - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
-    excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
-    publishedDateTime: 2021-02-19T15:03:30Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 79
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQhd2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=457&y=113"
-        width: 600
-        height: 315
+      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
-    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-    publishedDateTime: 2021-02-19T14:47:00Z
-    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
+    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
+    publishedDateTime: 2021-02-20T11:55:00Z
+    webUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
     type: article
     provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 67
+      name: TechRadar
+      domain: techradar.com
+    quality: 103
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "R4n5KrR1UbAAgbXsVjkeqZ13tqS1S9jRYjt92sT8qVkBPmmxMdnOe8VGRLQiBT1T4WLm1r3PhmEt0ICuWEjUFNXr7oR+2CRSci34S52UFa65al7OlBKCn2+QrzDTMcvaiBc8b/PespY/UZijetgQ940keFUdFc2glMYjPg7VhE+sx2vfJ5qmR2zC22JzfxgYIFqFF90K1LBnP48DQuZmcSxPgFxoiO8rRSz/StMYNsETcnRK8og/oNoaCKm4vnOf7Mwum5lstbtOXIqCCQzOxUSAOPfwz/sJYhPi0mHhXx9zyptCn1wPR2hNN0ZuC1Xbqqhv/8AEQfXY1o8KbH2hEQ92Y3A8RQ55IZDSVUO+vJopCCSBMZyFBeD0vN1ZN/gTNu3cAW9ixiTA9yrsBBGv5Ik9FoTKgmaKG2Lab80SDq1odyOk/0x3C+NvrSeUenoy;tIQQPi7sfk2zrnTeKi7Ukg=="
 ---

@@ -30,111 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4's Rogue Class Shows Off Its Skills In New Trailer"
-    excerpt: "Blizzard debuted a new trailer for Diablo IV. The trailer reveals the Rogue class, which will be included in the upcoming action-RPG at launch. In the new trailer, you can see the Rogue joining the ..."
-    publishedDateTime: 2021-02-19T14:44:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4: Rogue Class Revealed, Open World Details Explained"
-    excerpt: "Blizzard Entertainment has announced that the Rogue class will be one of the five playable characters in Diablo 4, joining the Barbarian, Sorceress, and Druid, who were all revealed when Diablo 4 was ..."
-    publishedDateTime: 2021-02-19T14:52:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-rogue-class-revealed-open-world-details-explained"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets1.ignimgs.com/2020/06/25/diablo-4-blogroll-1593086629440.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo IV - Rogue Announce Trailer"
-    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
-    publishedDateTime: 2021-02-19T22:43:03Z
+  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
+    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
+    publishedDateTime: 2021-02-20T06:21:22Z
     webUrl: ""
     type: video
     provider:
-      name: Diablo
+      name: TheTrueSmaugh
       domain: youtube.com
-    quality: 122
+    quality: 137
     images:
-      - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
-    excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
-    publishedDateTime: 2021-02-20T03:54:35Z
+  - title: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)"
+    excerpt: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ..."
+    publishedDateTime: 2021-02-24T14:30:04Z
     webUrl: ""
     type: video
     provider:
-      name: Liban Ali
+      name: Fextralife
       domain: youtube.com
-    quality: 122
+    quality: 137
     images:
-      - url: "https://i.ytimg.com/vi/XEidOmQT80o/maxresdefault.jpg"
+      - url: "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Trailer Reveals Rogue Class and Gameplay"
-    excerpt: "Resurrected, a remake of the 2000 action RPG and Lord of Destruction, Blizzard Entertainment showcased a new trailer for Diablo 4. As the rumors noted, the Rogue class was finally revealed. Check out ..."
-    publishedDateTime: 2021-02-19T16:45:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-trailer-reveals-rogue-class-and-gameplay/amp"
-    type: article
+  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
+    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
+    publishedDateTime: 2021-02-20T04:24:37Z
+    webUrl: ""
+    type: video
     provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 107
+      name: Raxxanterax
+      domain: youtube.com
+    quality: 135
     images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Diablo 4’s new Rogue class is completely unique"
-    excerpt: "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ..."
-    publishedDateTime: 2021-02-20T00:23:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/"
-    type: article
+  - title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
+    excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
+    publishedDateTime: 2021-02-20T00:00:27Z
+    webUrl: ""
+    type: video
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
+      name: Dark Titan Enterprises - Vara Dark
+      domain: youtube.com
+    quality: 129
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
-    excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
-    publishedDateTime: 2021-02-20T17:51:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i.ytimg.com/vi/OGI5qyerWBY/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
     excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
@@ -167,20 +117,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4 Rogue trailer reveals returning class, customization, and ear collecting"
-    excerpt: "Some call it murder. She calls it job well done.  #DiabloIV pic.twitter.com/21mAF1jfBMFebruary 19, 2021 The Diablo 4 Rogue trailer has been unveiled during Blizzcon 2021, confirming the class from ..."
-    publishedDateTime: 2021-02-19T15:04:17Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rogue-trailer-reveals-returning-class-customization-and-ear-collecting/ar-BB1dQhaM"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 82
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQddz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1114&y=509"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "mhdIzETl2bTvngUSGAE5BDtXG98WoBbdyvySG6g69hIQd34948L6EsiKq3wifc7RCNLxpVeX2odIEL3uNnqQK36/IEP32N/uBrIlV3yATuTb0qZJEW0S7IWaeQVCCC+qskem2s7UCBdcO9DZqwOJrSWwmLg1vlFx8Ly+godFxXVood+jTQWFplDsNyYN9iCsWyjlh+9IaKfTW8CVE5g56bCGifkTTL/ul6KV08TI8RoQIzZCit0u+sLmApCuYmvMnd1xLkkAmKXjIwPOmzXArbjhhepfVzPDH+5AkLO/xIIhx5dzIbad9vmuXSNG9CnQ/neJKbrJcrFcWdrDAIDF7oijF1VLVvjfQLFPW1/J7S8=;qXF4jczfym6t0A4+3rLGVA=="

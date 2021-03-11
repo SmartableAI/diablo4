@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-so
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/"
 type: article
 quality: 147
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 PvP: what we know so far"
-    excerpt: "Here's a look at what we know so far about the Diablo 4 PvP zone and mechanics, an exciting new feature in the upcoming hack-and-slash."
-    publishedDateTime: 2021-02-19T15:56:00Z
-    webUrl: "https://gamerjournalist.com/diablo-4-pvp-what-we-know-so-far/"
-    type: article
-    provider:
-      name: gamerjournalist
-      domain: gamerjournalist.com
-    quality: 87
-    images:
-      - url: "https://cdn.gamerjournalist.com/primary/2021/02/Diablo-4-PvP-what-we-know-so-far.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Everything We Know About Diablo 4's Rogue Class"
     excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
     publishedDateTime: 2021-02-19T16:29:00Z

@@ -58,21 +58,33 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Blizzard on Diablo 4's Rogue and how PvP works within the open world"
-    excerpt: "Ahead of BlizzCon 2021, we had the chance to sit down with Diablo 4 game director Luis Barriga, and Diablo 4 art director John Mueller to talk about the just-announced Rogue character class, how PvP ..."
-    publishedDateTime: 2021-02-19T14:51:00Z
-    webUrl: "https://www.eurogamer.net/articles/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
-    ampWebUrl: "https://www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
-    type: article
+  - title: "Diablo IV - Rogue Announce Trailer"
+    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+    publishedDateTime: 2021-02-19T22:43:03Z
+    webUrl: ""
+    type: video
     provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 107
+      name: Diablo
+      domain: youtube.com
+    quality: 122
     images:
-      - url: "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-02-19-21-37/D4_Rogue_Abilities_Caltrops.png/EG11/thumbnail/598x336/format/jpg/quality/85"
-        width: 598
-        height: 336
+      - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
+    excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
+    publishedDateTime: 2021-02-20T03:54:35Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Liban Ali
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://i.ytimg.com/vi/XEidOmQT80o/maxresdefault.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "This is how Diablo 4 PvP works"
     excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
