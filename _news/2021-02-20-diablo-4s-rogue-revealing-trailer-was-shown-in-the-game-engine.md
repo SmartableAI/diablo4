@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trail
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 1242
         height: 708
         isCached: true
+  - title: "Diablo 4’s rogue reveal trailer was rendered in the game engine"
+    excerpt: "Blizzard confirmed that the trailer was running in the Diablo 4 engine during an interview today at BlizzConline. Diablo 4 art director John Mueller says the engine is capable of doing things well ..."
+    publishedDateTime: 2021-02-20T15:50:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
 
 secured: "kHcl9RRf1vNuFNA10vQg6MxHTGYSWGiXaFOD4m3jM1aKLzI6xKw3B99cvA9nobAB06RuUsS56hk/ZSUeou02WFwMGqEkGtlLCV1g6l+UDCmSf4/hopIOzG6e7CikUSOLCcS1zibM2JIEmN/zOXonQ2QLEYNP60IbL+SAaT53Iti3R9Epjn5FHYEGmsxZ7W2fm+yPqV2CBn7D6Z3WNPdDjk0F8fjBlRJWpmMKkywtfmFvf6pSLaTcGiSrM69VcrYbm/c91cD+qRrt/a2ZqM+ca2hWIWeVNyfwTjmGRe71946rrFHWA3UVI5HnLhGZMy5G4xmCudDw+YHL0HNd9cPbExfWkZl/eVIhtQ/KIxAHlC4=;WDPDaQkxof3F/Vi3gODGNA=="
 ---

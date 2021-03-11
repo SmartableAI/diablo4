@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Diablo 4's Rogue Class, PvP, And Open World Work"
-    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
-    publishedDateTime: 2021-02-19T17:17:00Z
-    webUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4: How The Rogue Class, PvP, And Open World Work"
     excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
     publishedDateTime: 2021-02-22T11:45:00Z
@@ -71,21 +55,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 – Rogue Specializations and World Groups Revealed"
-    excerpt: "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ..."
-    publishedDateTime: 2021-02-19T19:13:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
+  - title: "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know"
+    excerpt: "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ..."
+    publishedDateTime: 2021-02-20T13:15:00Z
+    webUrl: "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
+    ampWebUrl: "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
     type: article
     provider:
-      name: From Software
-      domain: gamingbolt.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 107
     images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://images.hothardware.com/contentimages/newsitem/54331/content/Diablo_IV_Rogue_Key_Art.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "This is how Diablo 4 PvP works"
     excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."

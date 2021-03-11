@@ -10,7 +10,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -230,6 +230,57 @@
       ]
     },
     {
+      "path": "_news/2021-02-22-diablo-4-how-the-rogue-class-pvp-and-open-world-work.md",
+      "title": "Diablo 4: How The Rogue Class, PvP, And Open World Work",
+      "excerpt": "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4-how-the-rogue-class-pvp-and-open-world-work/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "publishedDateTime": "2021-02-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
       "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
       "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
@@ -322,7 +373,7 @@
       "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -407,48 +458,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-diablo-4-is-bringing-back-the-rogue-class-heres-what-you-need-to-know.md",
-      "title": "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know",
-      "excerpt": "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4-is-bringing-back-the-rogue-class-heres-what-you-need-to-know/index.json",
-      "webUrl": "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
-      "originalUrl": "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/54331/content/Diablo_IV_Rogue_Key_Art.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv",
-      "publishedDateTime": "2021-02-20T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video.md",
       "title": "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!",
       "excerpt": "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ...",
@@ -499,7 +508,7 @@
       "originalUrl": "https://youtube.com/watch?v=cVI033qK9x0",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cVI033qK9x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 162,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -604,6 +613,90 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue.md",
+      "title": "Diablo 4’s latest class is the dagger and bow-wielding Rogue",
+      "excerpt": "At BlizzConOnline, Blizzard’s newest Diablo 4 announcement was an update on a classic: The return of the Rogue class from the original Diablo game, who’ll be playable alongside the Barbarian, Druid, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/index.json",
+      "webUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
+      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.criticalhit.net//2021/02/Diablo-4-rogue-9.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "criticalhit.net",
+        "domain": "criticalhit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed.md",
+      "title": "Diablo 4 – Rogue Specializations and World Groups Revealed",
+      "excerpt": "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
+      "originalUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
+      "publishedDateTime": "2021-02-19T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1018,90 +1111,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4.md",
-      "title": "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4",
-      "excerpt": "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4/index.json",
-      "webUrl": "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "originalUrl": "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "cdnAmpWebUrl": "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "publishedDateTime": "2021-02-10T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-diablo-4-how-pvp-works-and-what-to-expect.md",
-      "title": "Diablo 4: How PVP works and what to expect",
-      "excerpt": "Adventurers can bash monsters and each other. Blizzard Entertainment's upcoming hack-and-slash RPG Diablo 4 is still a ways off. Still, even with the scourges of Goatmen and other monsters pillaging ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-10-diablo-4-how-pvp-works-and-what-to-expect/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-works-and-what-to-expect/ar-BB1dAeQu",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-works-and-what-to-expect/ar-BB1dAeQu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14dK5L.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=106",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
