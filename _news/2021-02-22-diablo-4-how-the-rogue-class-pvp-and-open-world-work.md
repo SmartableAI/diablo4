@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-p
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
 type: article
 quality: 147
-heat: 307
+heat: 287
 published: true
 
 provider:
@@ -89,22 +89,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo 4 Open World Camps, Horse Customization, Exploration, PvP and More Detailed"
-    excerpt: "During its “What’s Next” presentation for Diablo 4, the development team at Blizzard dropped all kinds of details on the Rogue class and its specializations. However, it also discussed the actual ..."
-    publishedDateTime: 2021-02-19T19:29:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 101
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "Diablo 4: Blizzard talks cross-play, class verticality, PvP and the Rogue's agility"
     excerpt: "Diablo 4 was present at BlizzConline in a big way with the gory reveal of the Rogue class, the fourth of five classes that'll be present in the game at launch. Shortly after the reveal, I had the ..."

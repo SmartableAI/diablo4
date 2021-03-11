@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-dia
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: TechRadar
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
-    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
-    publishedDateTime: 2021-02-19T18:12:00Z
-    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
-    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
+  - title: "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game"
+    excerpt: "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here."
+    publishedDateTime: 2021-02-20T02:17:00Z
+    webUrl: "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html"
     type: article
     provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 107
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 87
     images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
-        width: 1280
-        height: 720
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
         isCached: true
   - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
     excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."

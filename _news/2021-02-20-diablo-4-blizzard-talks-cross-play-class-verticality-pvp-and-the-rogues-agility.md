@@ -102,22 +102,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Open World Camps, Horse Customization, Exploration, PvP and More Detailed"
-    excerpt: "During its “What’s Next” presentation for Diablo 4, the development team at Blizzard dropped all kinds of details on the Rogue class and its specializations. However, it also discussed the actual ..."
-    publishedDateTime: 2021-02-19T19:29:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 101
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
     excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
     publishedDateTime: 2021-02-20T12:28:00Z

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
-    excerpt: "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ..."
-    publishedDateTime: 2021-02-19T18:12:00Z
-    webUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/"
-    ampWebUrl: "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 107
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4's open world is as Diablo as it gets"
     excerpt: "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ..."
     publishedDateTime: 2021-02-22T07:00:00Z
@@ -55,6 +39,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game"
+    excerpt: "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here."
+    publishedDateTime: 2021-02-20T02:17:00Z
+    webUrl: "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 87
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 708
         isCached: true
   - title: "Diablo 4 returns to the dark style of Diablo 2"
     excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."

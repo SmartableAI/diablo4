@@ -238,7 +238,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 307,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -262,6 +262,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
+      "title": "Diablo 4's open world is as Diablo as it gets",
+      "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets/index.json",
+      "webUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "originalUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "publishedDateTime": "2021-02-21T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -529,48 +580,6 @@
       "provider": {
         "name": "Slaydra",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.md",
-      "title": "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game",
-      "excerpt": "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game/index.json",
-      "webUrl": "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html",
-      "originalUrl": "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg",
-          "width": 1242,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
         "images": null,
         "publishers": null,
         "authors": null
