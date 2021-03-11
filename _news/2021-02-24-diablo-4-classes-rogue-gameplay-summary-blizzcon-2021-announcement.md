@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
-    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
-    publishedDateTime: 2021-02-20T04:24:37Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
     excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
     publishedDateTime: 2021-02-20T11:55:00Z

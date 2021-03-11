@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
-    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
-    publishedDateTime: 2021-02-20T04:24:37Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "2KgvI1QyGSV+ozFVQ6vatBx5hpsEG/dWiPOGia4Y83+w4nGgdrlsBVFht8/3XYbam1rwY2VZglumbybMp20kqsYYBhYpfkb3zfASqKLglRguRFbNFu/iraRCkKQYdTkqwjLYESlm27Ky+UTqBI5JCsamie9L7zy7nlhB8yq5MBsNruyvFM2HhyCwg4lWa0nuFQNIkVD6wXn4KG5XsvZhNyqryUfOGD1w6NP4Vr8Vsb5+m/56ZV8UZNlhcBIrjf5fwpfKiHa2uuUL56JtvMEDVxegcEZn5vm4Q8iTKrwZfjhbYwtwPanXU4RQH6/c8gedbzifG+SUSLrf6RxS7SbxvUwNB9lkv1P3644K4Z9z/JE=;ut80J++NOzWXXBcSTScB0A=="
 ---

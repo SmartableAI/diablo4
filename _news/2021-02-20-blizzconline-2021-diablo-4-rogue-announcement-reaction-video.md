@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-20T06:21:22Z
 originalUrl: "https://youtube.com/watch?v=CDn9HcQD7cM"
 type: video
 quality: 137
-heat: 197
+heat: 177
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDn9HcQD7cM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -36,20 +36,6 @@ related:
     quality: 137
     images:
       - url: "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
-    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
-    publishedDateTime: 2021-02-20T04:24:37Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
         width: 1280
         height: 720
         isCached: true
