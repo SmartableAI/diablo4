@@ -40,20 +40,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Is Diablo 4 Mobile Only? Learn More About The Upcoming Diablo Game"
-    excerpt: "Is Diablo 4 Mobile only?' is one question that many players have. Learn more about the latest installment to the Diablo Franchise here."
-    publishedDateTime: 2021-02-20T02:17:00Z
-    webUrl: "https://www.republicworld.com/technology-news/gaming/is-diablo-4-mobile-only-learn-more-about-the-upcoming-diablo-game.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 87
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4pgysmuifagta6z6_1613812892.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 708
-        isCached: true
   - title: "Diablo 4 returns to the dark style of Diablo 2"
     excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
     publishedDateTime: 2021-02-22T10:26:00Z

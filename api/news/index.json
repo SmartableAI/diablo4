@@ -238,7 +238,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -289,7 +289,7 @@
       "originalUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -424,7 +424,7 @@
       "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -445,6 +445,48 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-diablo-4-new-pvp-gameplay-details-revealed.md",
+      "title": "Diablo 4 New PVP Gameplay Details Revealed",
+      "excerpt": "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4-new-pvp-gameplay-details-revealed/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/",
+      "publishedDateTime": "2021-02-20T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1078,48 +1120,6 @@
       "provider": {
         "name": "criticalhit.net",
         "domain": "criticalhit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
-      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
-      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "publishedDateTime": "2021-02-16T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

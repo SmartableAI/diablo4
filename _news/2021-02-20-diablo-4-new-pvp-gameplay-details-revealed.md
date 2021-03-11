@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Comicbook.com
@@ -26,20 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
-    excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
-    publishedDateTime: 2021-02-20T03:00:13Z
-    webUrl: ""
-    type: video
+  - title: "Diablo 4’s rogue reveal trailer was rendered in the game engine"
+    excerpt: "Blizzard confirmed that the trailer was running in the Diablo 4 engine during an interview today at BlizzConline. Diablo 4 art director John Mueller says the engine is capable of doing things well ..."
+    publishedDateTime: 2021-02-20T15:50:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics"
+    ampWebUrl: "https://www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/in-engine-cinematics?amp"
+    type: article
     provider:
-      name: Slaydra
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
 
 secured: "oS0HWfxwFq+IxUZfJgttI2zgKb2WE764zQgzT7oqSGOEaXHRAE3L1K5e0SEyCxGdtiObCd0EMkQ9ow1A4x6rvH3M7s7r9tIqucMdy/827zHQ2eeqYG+mnxm0d2xN9rN25qIQPJUTUT/owXg1nS8gZSFxFjB7ob1zAijg1aRvCRuYsmbtEdLWqAx7bJVzGpNOw8vKDtN26iB9Y2kvzGfS8Hg/rqnHcNL5VWRPO+gBBoNtL/C947D4qIlqZwqRMHCT0JJrUQLXxnZnIWL/uHAMY4IN/3/8HsNoaCSFWZgtKioAMdKly8bjkmESs/LIpOtPzuwf/20wi2AunaI3BJ3i495Ne3bP81T5JNW1nOa/uBY=;HcLp07godRPzJ9TdH/wbhQ=="
 ---

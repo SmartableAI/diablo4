@@ -42,20 +42,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
-    excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
-    publishedDateTime: 2021-02-20T03:54:35Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Liban Ali
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/XEidOmQT80o/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "This is how Diablo 4 PvP works"
     excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
     publishedDateTime: 2021-02-20T06:47:00Z

@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
-    excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
-    publishedDateTime: 2021-02-20T03:54:35Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Liban Ali
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/XEidOmQT80o/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know"
     excerpt: "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ..."
     publishedDateTime: 2021-02-20T13:15:00Z
