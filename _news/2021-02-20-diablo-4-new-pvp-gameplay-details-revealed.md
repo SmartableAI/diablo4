@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)"
-    excerpt: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ..."
-    publishedDateTime: 2021-02-24T14:30:04Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Fextralife
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Blizzcon 2021 Recap: Diablo 2 Resurrected Announcement and Diablo 4 Updates"
-    excerpt: "Diablo2Resurrected #Diablo4 #DiabloImmortal Sign up for the alpha test here: https://diablo2.blizzard.com/en-us/ ..."
-    publishedDateTime: 2021-02-20T04:24:37Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://i.ytimg.com/vi/-ROl45gQp2M/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021"
     excerpt: "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ..."
     publishedDateTime: 2021-02-20T03:00:13Z
@@ -83,20 +55,6 @@ related:
       - url: "https://media.comicbook.com/files/images/default.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Rogue is the next class to join the Diablo 4 entourage, announced at BlizzCon 2021"
-    excerpt: "If you've been waiting for a class to complement your frenetic playstyle, the bow-wielding, athletic Rogue should suit your taste. It's the fourth class to be revealed for Diablo 4."
-    publishedDateTime: 2021-02-19T15:03:30Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/announced-at-blizzconline-the-rogue-is-the-next-class-to-join-diablo-4/ar-BB1dQaez"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 79
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dQhd2.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=457&y=113"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "oS0HWfxwFq+IxUZfJgttI2zgKb2WE764zQgzT7oqSGOEaXHRAE3L1K5e0SEyCxGdtiObCd0EMkQ9ow1A4x6rvH3M7s7r9tIqucMdy/827zHQ2eeqYG+mnxm0d2xN9rN25qIQPJUTUT/owXg1nS8gZSFxFjB7ob1zAijg1aRvCRuYsmbtEdLWqAx7bJVzGpNOw8vKDtN26iB9Y2kvzGfS8Hg/rqnHcNL5VWRPO+gBBoNtL/C947D4qIlqZwqRMHCT0JJrUQLXxnZnIWL/uHAMY4IN/3/8HsNoaCSFWZgtKioAMdKly8bjkmESs/LIpOtPzuwf/20wi2AunaI3BJ3i495Ne3bP81T5JNW1nOa/uBY=;HcLp07godRPzJ9TdH/wbhQ=="

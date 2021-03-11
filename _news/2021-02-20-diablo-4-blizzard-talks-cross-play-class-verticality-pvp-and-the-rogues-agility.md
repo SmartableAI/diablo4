@@ -122,6 +122,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
+    excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
+    publishedDateTime: 2021-02-20T12:28:00Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
+    type: article
+    provider:
+      name: Gaming Polls on MSN.com
+      domain: msn.com
+    quality: 84
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo IV’s Rogue Class Expands the Original and Comes With a Lot of Customization Options"
     excerpt: "Diablo 4 Rogue class has been expanded, according to game director Luis Barriga. It'll come with a lot of customization options."
     publishedDateTime: 2021-02-20T07:09:00Z

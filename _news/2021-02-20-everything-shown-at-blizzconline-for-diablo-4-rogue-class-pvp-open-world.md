@@ -24,162 +24,134 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 - Everything We Know Ahead Of BlizzConline"
-    excerpt: "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far."
-    publishedDateTime: 2021-02-19T11:09:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/"
+  - title: "How Diablo 4's Rogue Class, PvP, And Open World Work"
+    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
+    publishedDateTime: 2021-02-19T17:17:00Z
+    webUrl: "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/"
     type: article
     provider:
       name: GameSpot
       domain: gamespot.com
     quality: 147
     images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg"
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 - Everything We Know So Far"
-    excerpt: "BlizzConline offered a lot of new info on the upcoming action-RPG; here's everything we know so far. GameSpot may get a commission from retail offers. Perhaps the most anticipated game Blizzard has in ..."
-    publishedDateTime: 2021-02-24T16:58:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/"
+  - title: "Diablo 4: How The Rogue Class, PvP, And Open World Work"
+    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
+    publishedDateTime: 2021-02-22T11:45:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
     type: article
     provider:
       name: GameSpot
       domain: gamespot.com
     quality: 147
     images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg"
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
         width: 640
         height: 360
         isCached: true
-  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
-    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
-    publishedDateTime: 2021-02-20T06:21:22Z
-    webUrl: ""
-    type: video
-    provider:
-      name: TheTrueSmaugh
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "🔴 BlizzConline 2021 LIVE - Diablo 4, Overwatch 2 News! Diablo 2 Remaster Announcement?"
-    excerpt: "If You Want To Donate, Consider Donating Via Paypal! Varadark@darktitanenterprises.com ▻ Twitter: https://twitter.com/Vara_Dark ▻ Patreon: ..."
-    publishedDateTime: 2021-02-20T00:00:27Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Dark Titan Enterprises - Vara Dark
-      domain: youtube.com
-    quality: 129
-    images:
-      - url: "https://i.ytimg.com/vi/OGI5qyerWBY/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo 4’s Rogue class unveiled with its very own trailer at Blizzcon 2021"
-    excerpt: "Blizzcon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
-    publishedDateTime: 2021-02-19T23:30:00Z
-    webUrl: "https://www.techradar.com/au/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+  - title: "Blizzard on Diablo 4's Rogue and how PvP works within the open world"
+    excerpt: "Ahead of BlizzCon 2021, we had the chance to sit down with Diablo 4 game director Luis Barriga, and Diablo 4 art director John Mueller to talk about the just-announced Rogue character class, how PvP ..."
+    publishedDateTime: 2021-02-19T14:51:00Z
+    webUrl: "https://www.eurogamer.net/articles/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
+    ampWebUrl: "https://www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-02-19-blizzard-on-the-rogue-and-how-diablo-4-pvp-works-within-the-open-world"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 105
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-02-19-21-37/D4_Rogue_Abilities_Caltrops.png/EG11/thumbnail/598x336/format/jpg/quality/85"
+        width: 598
+        height: 336
         isCached: true
-  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
-    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4 ’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
-    publishedDateTime: 2021-02-19T23:30:00Z
-    webUrl: "https://www.techradar.com/nz/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+  - title: "Diablo 4 – Rogue Specializations and World Groups Revealed"
+    excerpt: "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ..."
+    publishedDateTime: 2021-02-19T19:13:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 103
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021"
-    excerpt: "BlizzCon 2021 is now underway and, as part of it, Blizzard has revealed Diablo 4’s fourth character class: the Rogue. Joining the already-revealed Sorceress, Barbarian and Druid classes, the Rogue is ..."
-    publishedDateTime: 2021-02-20T11:55:00Z
-    webUrl: "https://www.techradar.com/sg/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/diablo-4s-rogue-class-unveiled-with-its-very-own-trailer-at-blizzcon-2021"
+  - title: "This is how Diablo 4 PvP works"
+    excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
+    publishedDateTime: 2021-02-20T06:47:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 103
+      name: Windows
+      domain: compsmag.com
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnXJowJM9SLG4aYSwuaKrG-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "BlizzConline: Diablo 4 Will Feature the Return of the Rogue"
-    excerpt: "Diablo 4 may be the latest entry in the venerable franchise, but it's going a bit old-school with the return of the Rogue. This brutal assassin was ..."
-    publishedDateTime: 2021-02-19T14:53:00Z
-    webUrl: "https://attackofthefanboy.com/news/blizzconline-diablo-4-will-feature-the-return-of-the-rogue/"
+  - title: "Diablo 4 Open World Camps, Horse Customization, Exploration, PvP and More Detailed"
+    excerpt: "During its “What’s Next” presentation for Diablo 4, the development team at Blizzard dropped all kinds of details on the Rogue class and its specializations. However, it also discussed the actual ..."
+    publishedDateTime: 2021-02-19T19:29:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-open-world-camps-horse-customization-exploration-pvp-and-more-detailed/amp"
     type: article
     provider:
-      name: Attack of the Fanboy
-      domain: attackofthefanboy.com
-    quality: 87
+      name: From Software
+      domain: gamingbolt.com
+    quality: 101
     images:
-      - url: "https://attackofthefanboy.com/wp-content/uploads/2021/02/diablo-4-rogue.jpg"
-        width: 1280
-        height: 720
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "Diablo 2 Resurrection, Diablo 4 headline first day of Blizzcon 2021"
-    excerpt: "Blizzcon 2021 kicked off with an action-packed opening ceremony that included new information on Diablo 4 and the long-rumored Diablo 2 remake."
-    publishedDateTime: 2021-02-19T15:05:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-2-remake-blizzcon-2021/?amp"
+  - title: "Diablo 4: Blizzard talks cross-play, class verticality, PvP and the Rogue's agility"
+    excerpt: "Diablo 4 was present at BlizzConline in a big way with the gory reveal of the Rogue class, the fourth of five classes that'll be present in the game at launch. Shortly after the reveal, I had the ..."
+    publishedDateTime: 2021-02-20T10:19:00Z
+    webUrl: "https://www.windowscentral.com/diablo-4-cross-play-pvp-rogue"
+    ampWebUrl: "https://www.windowscentral.com/diablo-4-cross-play-pvp-rogue?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/diablo-4-cross-play-pvp-rogue?amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-  - title: "Everything We Know About Diablo 4's Rogue Class"
-    excerpt: "Here's what's been revealed about the Rogue in Diablo 4 so far. It's safe to say a number of players will undoubtedly go down the path of \"criminal outlaw.\" ..."
-    publishedDateTime: 2021-02-19T16:29:00Z
-    webUrl: "https://www.looper.com/338185/everything-we-know-about-diablo-4s-rogue-class/"
-    type: article
-    provider:
-      name: Looper
-      domain: looper.com
-    quality: 87
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 101
     images:
-      - url: "https://img4.looper.com/img/gallery/everything-we-know-about-diablo-4s-rogue-class/l-intro-1613775183.jpg"
-        width: 1600
-        height: 898
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/diablo-4-rogue-art.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Diablo 4 BlizzCon 2021 Reveals New Class, Trailer"
-    excerpt: "BlizzCon 2021 is almost here and we might be getting more Diablo 4 news from Blizzard! Here's everything we know and when we can expect to see anything from the virtual convention."
-    publishedDateTime: 2021-02-19T14:47:00Z
-    webUrl: "https://realsport101.com/misc/diablo-4-news-countdown-blizzcon-updates-news-release-date-rumours-and-everything-else-we-know/"
+  - title: "Diablo IV’s Rogue Class Expands the Original and Comes With a Lot of Customization Options"
+    excerpt: "Diablo 4 Rogue class has been expanded, according to game director Luis Barriga. It'll come with a lot of customization options."
+    publishedDateTime: 2021-02-20T07:09:00Z
+    webUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/"
+    ampWebUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
+    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
     type: article
     provider:
-      name: realsport101.com
-      domain: realsport101.com
-    quality: 67
+      name: PlayStation LifeStyle
+      domain: playstationlifestyle.net
+    quality: 82
+    images:
+      - url: "https://www.playstationlifestyle.net/assets/uploads/2021/02/diablo-4-rogue.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "zX53oATYkgesPHErRJmgmrAhTW2RvbYZozbOQWEeRKPexnYfZ+NMbmsuVUK0KXF+XtwgIprL0PRNaE/cNL2hoKeU1AP8GBv3L8EGqT2ow2v/RwgjPhMOJVbT8PtEeQQUxe/qDi6FFV34v6gWm1/QoeUZY96CgRIxf1xlQipYFZsppsJHc4jWP04qpHYLCalMtH6DsAYnRXih6+vS9tJSZqgfusi5ebLfaijNRiN7QOlxL82I/EbRx/efyuJqkskSUgvf1ci1M/lS+oSOSE+9VhIe5FFCV4/a6XRt2BByJNl1ls5N/80MzAcKYcmwwnsaI4Y3j/ZvGQDeYnzEtKNm/o5WkdWMFopQrPpiz6sfH44=;ViffiCz8ml3F2v69hYr5SQ=="
 ---
