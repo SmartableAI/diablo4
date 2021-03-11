@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-pvp-explained/"
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-pvp-explained/"
 type: article
 quality: 99
-heat: 100
+heat: 101
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 270
     isCached: true
 
-secured: "vPjfYLJtP5Ax5CMoJqH2EPC5LPxb01J9c0oAA/pmTcOwgI8NNB+tliOBcW+uREuYpg1lcyErQ1hHvkDDuUTvK+OfTGUGpOssFw5OelKvasfa0m4MCGzpfJAMIOM2cSd9BbRpM6mfpAnNQuG+fxco+qxZpAjkDEX+qe5GAQASng+Cj3t192+JGrqB9Fn2nc8girQV8IP8W44oiPSjcXjyLMHkj2UVCY1yEIfrM5tYnQn7C156GLbUaDBAaEHWlpwtTG59aDLO0i7182un+06miLv+cxhL1jxP8iAwwIkDbJ1VdRNVrekNlqM3c7CNvnKWZYXM/bEqktyJatuGwy0dSZWVxaH6wsa55PZiJT0x4p0=;33sjxn1Dt5tg17WzmhujMw=="
+secured: "bR8zQJksYsCtNtL5TK/h6aV9o/OFs0TI0tw12TYxfsuOlaFKnDurMdcW4sLu9tzN7Sn4KK3mRR4Gu4JP2CRdmdLlRlxFqpg+Mw2ni0CSxSAqVHSb5T6f7hWVQ/vpXwSsPsa7MVLMgxEB/2nVbURn5+mp6OV87fMnnt2lLNFTs7abyG3A2Axnmxoc5WEoU6YboewfNIXixBMwQXeWFVf4Grw/tb4ol6WTvJ7gsU4coZsXTbbm55WZPuss6/OKmqma4j+INfsaR92/XyXxZdb961dTadmI4Jr4GcRv79mndXRU6Uvjr/+snTkQcvGYXiNWXTk73cvYqOZ6uEXxc03dg9V8YaNa+ncYFaBZQhClPP0=;Eiohud9pL5SxOf4eY5YMdQ=="
 ---
 

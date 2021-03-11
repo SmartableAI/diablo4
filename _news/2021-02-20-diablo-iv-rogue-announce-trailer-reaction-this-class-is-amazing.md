@@ -41,20 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo IV - Rogue Announce Trailer"
-    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
-    publishedDateTime: 2021-02-19T22:43:03Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Diablo
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know"
     excerpt: "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ..."
     publishedDateTime: 2021-02-20T13:15:00Z

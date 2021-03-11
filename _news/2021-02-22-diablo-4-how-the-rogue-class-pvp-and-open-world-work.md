@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-p
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
 type: article
 quality: 147
-heat: 287
+heat: 267
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV - Rogue Announce Trailer"
-    excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
-    publishedDateTime: 2021-02-19T22:43:03Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Diablo
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
     excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
     publishedDateTime: 2021-02-20T03:54:35Z
