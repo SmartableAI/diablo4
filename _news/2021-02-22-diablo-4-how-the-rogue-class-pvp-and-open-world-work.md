@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-p
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
 type: article
 quality: 147
-heat: 187
+heat: 147
 published: true
 
 provider:
@@ -28,38 +28,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know"
-    excerpt: "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ..."
-    publishedDateTime: 2021-02-20T13:15:00Z
-    webUrl: "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
-    ampWebUrl: "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 107
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54331/content/Diablo_IV_Rogue_Key_Art.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
-    excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
-    publishedDateTime: 2021-02-20T12:28:00Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
-    type: article
-    provider:
-      name: Gaming Polls on MSN.com
-      domain: msn.com
-    quality: 84
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZrvvDAp+5REmkLjwv6ZKVzLloujSgU+GZX3utWkmdAlNkpJVeXLUG2nEV2FINPaWolKVCjQS1EC1vHNsduqWQ5kzcYOwWvJXsu7N80RbrkvH49+MYD0NI2ZYlxrVUEmfTO2usE5v5QUMvEA9nmyWoh7t5erwdOP4/RUAo2f18UquKMC2Gku0vzsAAK3WO/pAuJx9k2P5L5yn2hoCbLJeQO0NuPbdio7qIBKDHaZ85GHt7/Hrp3cAdY3GR4QSncl/yS8xqUNSNm/DJZOZAnYNY8TnWhl5eyDgtymvVstcffhz033UzW3id8A9E/LWslZ14xLInLl+Lw50vHQnkbK70oTH1McR4O5vAjjE0M+Ya8E=;+LdcxVGzwl4DF3j4N9pwNQ=="
 ---

@@ -5,7 +5,12 @@ excerpt: "Diablo 4 is the smouldering embodiment of the phrase 'high-risk, high-
 publishedDateTime: 2021-02-24T11:45:00Z
 originalUrl: "https://www.gamesradar.com/au/diablo-4-pvp-explained/"
 webUrl: "https://www.gamesradar.com/au/diablo-4-pvp-explained/"
+ampWebUrl: "https://www.gamesradar.com/au/amp/diablo-4-pvp-explained/"
+cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-pvp-explained/"
 type: article
+quality: 99
+heat: 101
+published: true
 
 provider:
   name: GamesRadar
@@ -14,6 +19,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "nSKeNo3GtWLnHLlpdKVRMdDF4o+J2UCjQaEkPwRM2BXXo5Lf/PJQwFehykdEXMQ4d2w8N7PpcogmkA+LZ1mnJWZtVgj9my5RWDKCqePV8k0Ob39CK2zzMzOs5Ne19CKki9szYkDqmUkFi4fftgJ+FB2U+VDh0tFFI5rOr5AD0H9uiCZxmhIAywCETW+TKAbZxd02CkkD3uy55JEvJPGhugd+lP9Rs4qXACL1krtf0e7I/5792170z53kf2gPwhJ/Gx1zpFbvEJu2E/WgjYPWhAT/FgLUsNl7NsXVQbbIsyDftReUHDvVQKhhsiAKMQB5DCCTcuWx+1PSREfVeSoo6jB60mw/28X/znTjuLLTF6Y=;ABuho0dz1i4YMAC7K2gHVA=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/C277HqnUQgcqYoj2msMFt5-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "g0ypMltRU7RgJd+FkKTx1CxXpmc5ZPajFslqacp/zWJZX55ESRm1rkfxK4VGqDJXT8BQkbY181rgIkEKDxMhRGHHZZQuWtmkhIl9JjTwu/doVQGE7v0i/pG6WBX2hfIWAr0AdQA5yIKEtg07/Y5soZh5upv9/fUeAqzobyficqCDl1D/04mX9JGj+WrReDJuMWLFUe6XhIAWi01dvvwobCTogEPPPEWSh4M1yh8L3xnTAaZtOa6Pdw3+zSf6PxL+zmqJzQ+dVQBqjU91AK4xthzgU32iQK7O7i7Jhdticio9jwShiE4RZwMvnXwF+qFJCsFJydo6KLngEgvpp+++iXO9igMg6Z+B3aSumw7tCkc=;7BnVy8bv43U8LZejAIC82g=="
 ---
 
