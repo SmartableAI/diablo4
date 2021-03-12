@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-dia
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
-    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
-    publishedDateTime: 2021-02-20T09:49:00Z
-    webUrl: "https://www.imdb.com/news/ni63201835"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 87
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Diablo 4 returns to the dark style of Diablo 2"
     excerpt: "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ..."
     publishedDateTime: 2021-02-22T10:26:00Z

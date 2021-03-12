@@ -36,20 +36,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4"
-    excerpt: "The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored to be in development for a while and was leaked ahead of the announcement), but there’s something ..."
-    publishedDateTime: 2021-02-20T09:49:00Z
-    webUrl: "https://www.imdb.com/news/ni63201835"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 87
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "+HGQrt0vZjuvFRFoLQRnBBe6sfMEr7W14REcQVYDxDsOWbyXJhe0h97WsmZK4uQBOBnNQYLeJU4TP6QQ6U0NWyEJuCN4xk+fNVxB6WTGQAusORpXo0JCYoNiUN/ITW06YH0/4NCY8NZ9NBUSs89FSEwBXa5U11Oq8bHNhacV7/pKpCKM1x/RvSZ3S5NX6tBhnBFTR8OjJCricM3XwpGghnkjHdtRM1LfvMq8VLqEvrhTO0KjW3h+3eUOnj/m5Md557UHaKb5Kg5OvxK/9Zl2KXiXjwoVQ3ue2lsKfERE9f11XCIqGqWW7fcK/WDYK5dHBSnu4RhBqxN1bf0KVAV6x9K8ZdTUQcZoBCNAFaNFWIc=;amVQoulwM9dXFULsRFMuJQ=="
 ---
