@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
-    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
-    publishedDateTime: 2021-02-20T06:21:22Z
-    webUrl: ""
-    type: video
-    provider:
-      name: TheTrueSmaugh
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)"
     excerpt: "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ..."
     publishedDateTime: 2021-02-24T14:30:04Z
@@ -55,6 +41,22 @@ related:
     quality: 137
     images:
       - url: "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4 New PVP Gameplay Details Revealed"
+    excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
+    publishedDateTime: 2021-02-20T14:04:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://media.comicbook.com/files/images/default.jpg"
         width: 1280
         height: 720
         isCached: true

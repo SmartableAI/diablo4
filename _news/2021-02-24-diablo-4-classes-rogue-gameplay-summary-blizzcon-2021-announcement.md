@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-24T14:30:04Z
 originalUrl: "https://youtube.com/watch?v=_s9AbCOLGEc"
 type: video
 quality: 137
-heat: -1
-published: false
+heat: 177
+published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,17 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!"
-    excerpt: "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ..."
-    publishedDateTime: 2021-02-20T06:21:22Z
-    webUrl: ""
-    type: video
+  - title: "Diablo 4 New PVP Gameplay Details Revealed"
+    excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
+    publishedDateTime: 2021-02-20T14:04:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+    type: article
     provider:
-      name: TheTrueSmaugh
-      domain: youtube.com
-    quality: 137
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
     images:
-      - url: "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg"
+      - url: "https://media.comicbook.com/files/images/default.jpg"
         width: 1280
         height: 720
         isCached: true

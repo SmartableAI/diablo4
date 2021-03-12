@@ -56,22 +56,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "This is how Diablo 4 PvP works"
-    excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
-    publishedDateTime: 2021-02-20T06:47:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4: Blizzard talks cross-play, class verticality, PvP and the Rogue's agility"
     excerpt: "Diablo 4 was present at BlizzConline in a big way with the gory reveal of the Rogue class, the fourth of five classes that'll be present in the game at launch. Shortly after the reveal, I had the ..."
     publishedDateTime: 2021-02-20T10:19:00Z
@@ -85,22 +69,6 @@ related:
     quality: 101
     images:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/diablo-4-rogue-art.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Diablo IV’s Rogue Class Expands the Original and Comes With a Lot of Customization Options"
-    excerpt: "Diablo 4 Rogue class has been expanded, according to game director Luis Barriga. It'll come with a lot of customization options."
-    publishedDateTime: 2021-02-20T07:09:00Z
-    webUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/"
-    ampWebUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
-    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
-    type: article
-    provider:
-      name: PlayStation LifeStyle
-      domain: playstationlifestyle.net
-    quality: 82
-    images:
-      - url: "https://www.playstationlifestyle.net/assets/uploads/2021/02/diablo-4-rogue.jpg"
         width: 800
         height: 450
         isCached: true

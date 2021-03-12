@@ -20,21 +20,21 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 New PVP Gameplay Details Revealed"
-    excerpt: "Likely the biggest thing that many fans were looking forward to at BlizzCon this year dealt with more information on Diablo 4. Alongside the reveal of the game’s fourth class, the Rogue ..."
-    publishedDateTime: 2021-02-20T14:04:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-pvp-gameplay-details/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-pvp-gameplay-details/"
+  - title: "Diablo 4’s rogue revealing trailer was shown in the game engine"
+    excerpt: "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ..."
+    publishedDateTime: 2021-02-20T17:51:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
+      name: Windows
+      domain: compsmag.com
     quality: 107
     images:
-      - url: "https://media.comicbook.com/files/images/default.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "eyV+AEtptqMgmkzWLiGM9v2Bn8WqPtRhCLb9O8MkwaL98oBlbuJaR/k8RaZlZwjAa7SLh8Eo3JaA9qUuk5UJY2qbMJ5BAmzipb/TaNRH/rDVp6AgIIQLvO8irLKtUF1o7r9bnTRyz6ZYFst1IsczuieKWFimWDLFjEY+XNIr+tOkW8C1tt5hTFhyJYAkkAM9LAVfPrBIbCkPPl5F5Ejih3FOhit5zUqJgqsfKzsxUyVVprrFG5+0GKcbXdmvE3L/zHyi0iJZL0b4iqR7/y0v5PRnksoghtk6NSgmNt5imrtWln07k6pHgXb8f3JKejbdT8hbtDjBlqmlSYzc9AOEy/ry//A0KYoYSHkpasjwEgI=;wuxDhMT8DEWO0xX0CP+FfQ=="

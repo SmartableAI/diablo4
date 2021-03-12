@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-p
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
 type: article
 quality: 147
-heat: 247
+heat: 207
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "This is how Diablo 4 PvP works"
-    excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
-    publishedDateTime: 2021-02-20T06:47:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4: Blizzard talks cross-play, class verticality, PvP and the Rogue's agility"
     excerpt: "Diablo 4 was present at BlizzConline in a big way with the gory reveal of the Rogue class, the fourth of five classes that'll be present in the game at launch. Shortly after the reveal, I had the ..."
     publishedDateTime: 2021-02-20T10:19:00Z
@@ -91,22 +75,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo IV’s Rogue Class Expands the Original and Comes With a Lot of Customization Options"
-    excerpt: "Diablo 4 Rogue class has been expanded, according to game director Luis Barriga. It'll come with a lot of customization options."
-    publishedDateTime: 2021-02-20T07:09:00Z
-    webUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/"
-    ampWebUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
-    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
-    type: article
-    provider:
-      name: PlayStation LifeStyle
-      domain: playstationlifestyle.net
-    quality: 82
-    images:
-      - url: "https://www.playstationlifestyle.net/assets/uploads/2021/02/diablo-4-rogue.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "ZrvvDAp+5REmkLjwv6ZKVzLloujSgU+GZX3utWkmdAlNkpJVeXLUG2nEV2FINPaWolKVCjQS1EC1vHNsduqWQ5kzcYOwWvJXsu7N80RbrkvH49+MYD0NI2ZYlxrVUEmfTO2usE5v5QUMvEA9nmyWoh7t5erwdOP4/RUAo2f18UquKMC2Gku0vzsAAK3WO/pAuJx9k2P5L5yn2hoCbLJeQO0NuPbdio7qIBKDHaZ85GHt7/Hrp3cAdY3GR4QSncl/yS8xqUNSNm/DJZOZAnYNY8TnWhl5eyDgtymvVstcffhz033UzW3id8A9E/LWslZ14xLInLl+Lw50vHQnkbK70oTH1McR4O5vAjjE0M+Ya8E=;+LdcxVGzwl4DF3j4N9pwNQ=="
