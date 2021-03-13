@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer - Actors React",
+      "excerpt": "Help get this channel off the ground - Like and Sub #Chicago #Blind #React.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/",
+      "originalUrl": "https://youtube.com/watch?v=-HCPFiw0a2g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HCPFiw0a2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HCPFiw0a2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-diablo-4-everything-we-know-so-far.md",
       "title": "Diablo 4 - Everything We Know So Far",
       "excerpt": "BlizzConline offered a lot of new info on the upcoming action-RPG; here's everything we know so far. GameSpot may get a commission from retail offers. Perhaps the most anticipated game Blizzard has in ...",
@@ -1079,48 +1121,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story.md",
-      "title": "Diablo 4 is making fresh changes to items, skills, and how it tells a story",
-      "excerpt": "BlizzConOnline kicks off in a handful of hours, and while fans are expecting some sort of update on Diablo 4, it looks like the development team just dropped some early and meaty tidbits on how the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/index.json",
-      "webUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
-      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/media.criticalhit.net//2021/02/Diablo-4-3.jpg",
-          "width": 850,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "criticalhit.net",
-        "domain": "criticalhit.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
