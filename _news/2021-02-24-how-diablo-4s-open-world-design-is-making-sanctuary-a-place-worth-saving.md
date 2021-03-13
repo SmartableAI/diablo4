@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-
 webUrl: "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations"
 type: article
 quality: 126
-heat: 147
+heat: 146
 published: true
 
 provider:
