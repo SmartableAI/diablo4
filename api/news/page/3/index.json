@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal.md",
+      "title": "Diablo 4 will be at BlizzCon, likely with a new class reveal",
+      "excerpt": "Blizzard says a big Diablo 4 update is coming to BlizzConline, the digital alternative to BlizzCon taking place in February. In the latest quarterly update from Blizzard, in which we learned a lot ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/index.json",
+      "webUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "originalUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AaSPFCQ7sbH3mWSqxpq8YW-1200-80.jpg",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "publishedDateTime": "2020-12-15T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-4-is-making-big-changes-to-legendary-loot.md",
       "title": "Diablo 4 is making big changes to Legendary loot",
       "excerpt": "It’s been over a year since we first saw Diablo 4 at BlizzCon 2019, and to end 2020, Blizzard has published a final blog post to whet player’s appetites. This blog post focuses on itemization — ...",
@@ -1062,48 +1104,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
-      "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
-      "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak/index.json",
-      "webUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
-      "originalUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
-          "width": 1148,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-07T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
         "images": null,
         "publishers": null,
         "authors": null
