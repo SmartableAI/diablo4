@@ -365,6 +365,39 @@
       ]
     },
     {
+      "path": "_news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2.md",
+      "title": "Diablo 4 returns to the dark style of Diablo 2",
+      "excerpt": "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
+      "publishedDateTime": "2021-02-22T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
       "title": "Diablo 4's open world is as Diablo as it gets",
       "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
@@ -1070,57 +1103,6 @@
         "name": "GamesRadar on MSN.com",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile.md",
-      "title": "What Diablo 4 can do to compete with Path of Exile",
-      "excerpt": "RPG, with its 24 years of dominance and a legacy that makes other games sweat. Diablo 3, despite a bumpy start, carried on that legacy, and players got to watch it evolve over a multitude of updates.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile/index.json",
-      "webUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "originalUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
-          "width": 710,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "publishedDateTime": "2021-02-18T02:27:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

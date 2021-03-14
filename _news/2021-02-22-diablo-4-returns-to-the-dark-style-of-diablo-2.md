@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: PCGamesN
@@ -18,24 +18,6 @@ provider:
 
 topics:
   - Diablo 4
-
-related:
-  - title: "Diablo 4's open world is as Diablo as it gets"
-    excerpt: "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ..."
-    publishedDateTime: 2021-02-22T07:00:00Z
-    webUrl: "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 107
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "+HGQrt0vZjuvFRFoLQRnBBe6sfMEr7W14REcQVYDxDsOWbyXJhe0h97WsmZK4uQBOBnNQYLeJU4TP6QQ6U0NWyEJuCN4xk+fNVxB6WTGQAusORpXo0JCYoNiUN/ITW06YH0/4NCY8NZ9NBUSs89FSEwBXa5U11Oq8bHNhacV7/pKpCKM1x/RvSZ3S5NX6tBhnBFTR8OjJCricM3XwpGghnkjHdtRM1LfvMq8VLqEvrhTO0KjW3h+3eUOnj/m5Md557UHaKb5Kg5OvxK/9Zl2KXiXjwoVQ3ue2lsKfERE9f11XCIqGqWW7fcK/WDYK5dHBSnu4RhBqxN1bf0KVAV6x9K8ZdTUQcZoBCNAFaNFWIc=;amVQoulwM9dXFULsRFMuJQ=="
 ---
