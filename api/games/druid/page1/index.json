@@ -142,7 +142,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 68,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uij9ysBKs4w/maxresdefault.jpg",
@@ -188,6 +188,37 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
+      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
+      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
+      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M50S",
+      "provider": {
+        "name": "Phillip Chu Joy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-03T12:06:38-08:00"
+    },
+    {
       "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
       "title": "DIABLO 4 NEW Gameplay DRUID QUEST COMPLETE",
       "excerpt": "",
@@ -216,37 +247,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-08T14:31:14-07:00"
-    },
-    {
-      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
-      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
-      "provider": {
-        "name": "Phillip Chu Joy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-03T12:06:38-08:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
@@ -297,7 +297,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
@@ -779,8 +779,8 @@
       "excerpt": "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer MEET YOUR MAKER Lilith has returned to Santuary, summoned by a dark ritual after eons in exile.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/games/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
       "webUrl": "https://smartable.ai/apps/diablo4/game/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=x2curLvhWxo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x2curLvhWxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "originalUrl": "https://youtube.com/watch?v=gDfRqDK4pFw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gDfRqDK4pFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT3M3S",
       "provider": {
         "name": "Trailer Games",
@@ -794,7 +794,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/x2curLvhWxo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gDfRqDK4pFw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -802,7 +802,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-01T15:59:13-07:00"
+      "publishedDateTime": "2019-11-04T00:55:45-08:00"
     },
     {
       "path": "_games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world.md",
