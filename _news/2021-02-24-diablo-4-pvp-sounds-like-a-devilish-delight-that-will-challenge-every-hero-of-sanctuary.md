@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-pvp-explained/"
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-pvp-explained/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:
