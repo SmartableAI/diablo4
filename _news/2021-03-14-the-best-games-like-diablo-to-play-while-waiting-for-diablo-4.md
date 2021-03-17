@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-best-games-like-diablo-to-pla
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
 type: article
 quality: 107
-heat: 111
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 270
     isCached: true
 
-secured: "AdJw5WpSqK2FELP/dY116oGixMR4VwXIzt13y5shAyB/DFYO8sc5XT/1gmNrGesbSiBrDRDp/c6COcEA+eNhrps/hdcs2YdnK6vZop+cF2wTadi3wWMEBBDO74+QdxT153W++pFQL8Xl0wIBsxC/TsITgwuV2vO6YlQWT0/XhnZyvK+VyAt30J6846sYdRW0NkM0v3pqZHhdYpCAq94ZrwpivgbUBoYYJqye4H4vv+x0AyepXwKYXQeZvzdQT/Aut3wQpoCQk1S1//XooB0jNq8xKVtUEfOKR9Abj0rZJchR3WgT0pSWSjYlw30GMtLPQ8oLz4s/SoL8ZHqx8g2rBzmCk1bohuBf/Q3ye7cozTo=;Xx1zVHSZORN1h7beJrTIWQ=="
+secured: "03ZjHLRgsl3C1HNpqcwlx2aDTAt6mdCxFyG5jvPIpxfyAs/w7tkGlzx5MqJaXDTtCdUkLRABZ9Fpv32wo10HA2iBCwJGZMvIubRmNrQzumbbm/0HF1klSyK2YbC8iRu6bBS4LGqb3+2xE6KyuaHOLhZ0Bsvwy3FXGP4rT3i/76bTQPlR8ruFIP7Z+tY9Ft4VdPsUhitKdWMmohgJkSHEjPz9q6TsnOIzbLztxUVQJGeX+9cMyGayDz2SUh2c5XV8QMIYt4uoxsy5jODCSLIOhOCtNxULGTaU8vSvrA067GwXNebi3zjdKgqn6WmHyPifJfY6QwgBcAYs6mQHBce8CJUf1lvnaexhkEeCRV3ikbw=;Ob3qsWyaFRPBBcdBWhAh4w=="
 ---
 
