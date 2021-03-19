@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-best-games-like-diablo-to-pla
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
 type: article
 quality: 107
-heat: 113
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 270
     isCached: true
 
-secured: "yhLEOIYrncKn29vu/QfR1LBYz2ya5/383YzW9yHqO3ZKiWabGppYv2Jqm1Yr6jOY0P+54/j/NZyzvLKgiLlpW4RYA0Yy8tOPhGOfkyM8MCQCyt/uJd8hnfxXzc+yJKGBR2NqkzfwM8v0EotfS0O9JdvCzFK5kPofgpD+cC8KIDad5DSK4WHRfAfOS4YLoyh/6C+l6zY07kd/r24hbwz6zSTHtSPQwDG0kfUm1jv4RaDY7ZRaIjZcIUSIoq3bk+4k3fhNHJuUDrZAjboEq7xn8GthweHNIxj1OshIAjTKxVEbsUKK7ElRF06XI8fLr0toxUXVlZB8836phv7OmX2WwZOzwPIPKLHmEc7yt2Zsu8k=;R2qjkZtOCCmB2TYJXYKPug=="
+secured: "zTD4HlfFdGOLfKUlvtVpO57G+sD6DJxoJq53uNocxw0I+KUsEE8nfuU3vVShLH3YPGgxOCxWpcXNx1K4etmaVmqLJ7EaSaueAQaFkqCEokoKV8fX0fL6JmYb7/JibayehWp1ReJVaKSkvkQp1Gg5Bt/fAOBzaplnIzxekzTf3kdSKvJKKv9zgZjrcqI53hCVuI0FbcyJjxd/0FtIiVmqvzKMOToYKxJhOaXS97IZIYG/kcHfrvwm8lifAxf54ReE3inT0FsArPnh7BeTfiXzmggsBvZQCinfpCWhfkHVSVXTmgHjU4brGeaf/rXdYMywbpmSBlkJzd1Wz5yABreZo6xj8l0xhw9EGU0HZlfKKfo=;2gtIF+CvsdrR4DVT+pcHrQ=="
 ---
 
