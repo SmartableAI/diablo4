@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
-      "title": "Diablo IV Druid Gameplay . (No Commentary)",
-      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M2S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 200,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-26T03:13:29-08:00"
-    },
-    {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
       "title": "Diablo 4 Gameplay With Sorceress, Barbarian, Druid",
       "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, UI, enemies and loot that ...",
@@ -64,6 +34,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
+    },
+    {
+      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
+      "title": "Diablo IV Druid Gameplay . (No Commentary)",
+      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M2S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
@@ -154,36 +154,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-10T21:43:43-08:00"
-    },
-    {
-      "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
-      "title": "diablo 4 gameplay barbarian no commentary,",
-      "excerpt": "diablo 4 gameplay 2021, diablo 4 gameplay reaction, diablo 4 gameplay 4k, diablo 4 gameplay android, diablo 4 gameplay barbarian, diablo 4 gameplay ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=Ejkex6VOqjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ejkex6VOqjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M57S",
-      "provider": {
-        "name": "Mahariya gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ejkex6VOqjc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-06T00:10:51-08:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
@@ -914,6 +884,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-12T06:18:06-07:00"
+    },
+    {
+      "path": "_games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents.md",
+      "title": "Diablo 4 - SEPTEMBER 2020 QUARTERLY UPDATE - Sorceress Update, Skills and Talents!",
+      "excerpt": "Like and ❤️Subscribe if you enjoyed the video! The Diablo 4 September 2020 Quarterly Update is HERE! In this video I go over the update and express some of ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents/",
+      "originalUrl": "https://youtube.com/watch?v=lmKMVUoo97Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lmKMVUoo97Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M59S",
+      "provider": {
+        "name": "Exellion",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lmKMVUoo97Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-29T13:49:47-07:00"
     }
   ],
   "nextPage": 2
