@@ -36,36 +36,6 @@
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
-      "title": "New Gameplay Today – Diablo IV's Barbarian",
-      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M35S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T16:00:01-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
       "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
       "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
@@ -82,7 +52,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 87,
+      "heat": 151,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
@@ -94,6 +64,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-24T08:05:28-08:00"
+    },
+    {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
+      "title": "New Gameplay Today – Diablo IV's Barbarian",
+      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M35S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 85,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
@@ -207,7 +207,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
@@ -250,6 +250,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
+    },
+    {
+      "path": "_games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world.md",
+      "title": "Diablo 4 Mage, Barbarian, and Druid, Lilith Will Be Diablo - Possible Open World",
+      "excerpt": "Like and Subscribe to Xtimus Diablo 2 Content. Join the Notification Squad: Click the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/",
+      "originalUrl": "https://youtube.com/watch?v=yl8XCtDSYQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yl8XCtDSYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M7S",
+      "provider": {
+        "name": "Xtimus",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yl8XCtDSYQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T01:00:07-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -893,37 +924,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T15:59:13-07:00"
-    },
-    {
-      "path": "_games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world.md",
-      "title": "Diablo 4 Mage, Barbarian, and Druid, Lilith Will Be Diablo - Possible Open World",
-      "excerpt": "Like and Subscribe to Xtimus Diablo 2 Content. Join the Notification Squad: Click the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/",
-      "originalUrl": "https://youtube.com/watch?v=yl8XCtDSYQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yl8XCtDSYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M7S",
-      "provider": {
-        "name": "Xtimus",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yl8XCtDSYQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T01:00:07-07:00"
     }
   ],
   "nextPage": 2
