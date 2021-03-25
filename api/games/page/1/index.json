@@ -583,37 +583,6 @@
       "publishedDateTime": "2019-11-01T11:25:33-07:00"
     },
     {
-      "path": "_games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world.md",
-      "title": "Diablo 4 Mage, Barbarian, and Druid, Lilith Will Be Diablo - Possible Open World",
-      "excerpt": "Like and Subscribe to Xtimus Diablo 2 Content. Join the Notification Squad: Click the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/",
-      "originalUrl": "https://youtube.com/watch?v=yl8XCtDSYQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yl8XCtDSYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M7S",
-      "provider": {
-        "name": "Xtimus",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yl8XCtDSYQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T01:00:07-07:00"
-    },
-    {
       "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
       "title": "DIABLO 4 Exclusive 20 Minute BARBARIAN Gameplay Reaction!",
       "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
@@ -917,6 +886,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-16T17:31:17-08:00"
+    },
+    {
+      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "GameTrailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     }
   ],
   "nextPage": 2
