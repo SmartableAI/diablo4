@@ -3,9 +3,9 @@ title: "Diablo 4: Barbarian Skills and Talents Overview"
 excerpt: "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!"
 originalUrl: https://youtube.com/watch?v=gFSHNYUXV58
 type: video
-length: PT7M17S
+length: PT7M19S
 publishedDateTime: 2020-04-20T17:31:47Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "z91e+bMXCBDaWaRMzftrFuyIzzQmVdYYtg6uVmcnUbeB/xdjq3jdfGCKbdD7mkTrz1AyTO/P9kiOIJx6Xw1FvuLXk5Ivm2bvfJKFDeVFSqf2g3ttihaHhjAmFqn9g7t+OEhJardVy140Hp+F8uWrYlAxGx5/oXJ2MLcdmTKUXCOlNHI6sVwbT8BGFTv9nK/RQ6JAz0HFn8gbl3ceyYD/AYilkrDGaBurTnqW+4mm2l005zYqkIE+2eJ8qMBdbTAwT75xfmvvZqYXrRHRvn8t1rmXT7kRKcauMW+Bc7vQWdntaMMpqKc8myrEYEf8hzi6KXhsSH93QOyIrBB/H5mr01NAHgxOfVXV3ZySRI4EThH+3OM2Fjwp743E/qugq2OsVfomXWsPpoqp5hZvcShbzo8g4laqRRgHdNXJrZ8Tzks=;mhtKIqX0LVThILNkXPTOoQ=="
+secured: "qMnPxS98nVrOF1qdD2A2ACGx0UWGJB/bYLAdJvUfm8dbW+ztT3SN7XH/Bz4G7mYUAsrJGOOfoiwGS1wxzqag+Xc46VTFZUjHAdMjV2A8SxdkDfV+oIk5Z8tFW9DoX8E4E+kLYV9SmPZBv+NyQ4ivJncrTn8htywimtT1nWDzJRpGzdKEL67XYvZ+vP/wEpem+c55ttRmGJDL8dgAz68laKamrK0A7b5v3cFoAoC0HyV4kIqR4i2pukivJ3iGRTzi8GZ6cxakLg1+cFqxYTlwEgaUs5rOO/36UzR5iSBy5ANBIw06HX+BzKTJ9VosME61qbkXjYJD0yfJOaiwYe611AF8JLHbZPXXqdvyU9UsddDQAuf9vEyKgN1rUaiMPdjBDRkZaOUFBCH49HYCiWbKm3Zs66ADJL9QyD9k22J8YoQ=;9brntTcUCwfCPkS1SQUv/g=="
 ---
 
