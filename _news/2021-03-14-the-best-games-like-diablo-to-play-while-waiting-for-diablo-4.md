@@ -5,7 +5,12 @@ excerpt: "If you’re reading this then you probably know that Diablo 4 is comin
 publishedDateTime: 2021-03-14T05:00:00Z
 originalUrl: "https://www.techradar.com/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
 webUrl: "https://www.techradar.com/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
+ampWebUrl: "https://www.techradar.com/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
 type: article
+quality: 107
+heat: 107
+published: true
 
 provider:
   name: TechRadar
@@ -18,6 +23,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "42YsM+7UZwpEj4JgDpaf7kGdaA35oQIE74pCRzmYvCaoaB6wcF1j6Y0ZrdKjKtHWKqWAiS6nMUnRRzS1b1gsWo9KT/8Ulfqd4YN/fq6N8AbH2f1IkXTFilzk4xXc0LWzLDzpNpK3ulpOq6Im2oZrK+SuVxb9b2tnYZdsAuipjoz/47PtSftIkFnXT82w2g8sS6zTaBzOl3IAXbpEWoRdSNVr99u1lh9MfNarQLZJVXVSt8RBpyO9C+7M4fqbHD3QL4736fmMnBE7GTP4kdOsuT6sBRQDyugPzO8X55aRHN8m/N1ety4F0o1+ItQnAUCxKz6mXB1n/Qjsqg63DI8iGeZRLioDIOYo59XFcKkRYeQ=;59EeBi9iEywl19qqHNqygQ=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/yWfiFPHfwTSGF23KdSisSe-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "9Y9XhwzGHYXlgQqSvP8s0ZFUjAjaViAwmYJDf6Yz1wThcK0iNf+K/4wwrTZ3CUxn+Xj8THZT/N4kdo6yZpel1U/1kDCkK92tglz0DyKOQsnBmrkkbKDK/uPjPY0lzBjYr6iPEuCML0GgvJEsHfuDkgD8maSTT+HyBjGWPT8JWger0wXxQzglriwyoPuA22V2EmXOr8G+CWzLLk/JEpcJuoglS3qGkuLFF4rdHfa/EGomC6fx39uX3DnuXRmap24QTmYQ+eGHHktn6AW8FsFNcLrDr0WWY9IhDx+3n3tmK/QQ0/gfkAlbHN2T38dFzeHdTLkPK54wAmDs3I3DkDvGXrcCKTrTjaojInZJrJsd1FA=;e5cEEq1ef1xAag3zRXd1/A=="
 ---
 
