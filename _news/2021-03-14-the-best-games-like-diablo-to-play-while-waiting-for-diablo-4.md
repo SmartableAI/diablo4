@@ -3,10 +3,10 @@ category: news
 title: "The best games like Diablo to play while waiting for Diablo 4"
 excerpt: "If you’re reading this then you probably know that Diablo 4 is coming, Diablo 2 is being resurrected, and it’s not long until Mephisto, Baal, Diablo and the old team will try to recapture our hearts, ..."
 publishedDateTime: 2021-03-14T05:00:00Z
-originalUrl: "https://www.techradar.com/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
-webUrl: "https://www.techradar.com/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
-ampWebUrl: "https://www.techradar.com/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
+originalUrl: "https://www.techradar.com/au/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
+webUrl: "https://www.techradar.com/au/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
+ampWebUrl: "https://www.techradar.com/au/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 270
     isCached: true
 
-secured: "ShPrdLVX5/kC88cW/EiIDJ5rHiF53SetwxleIErPBQIBZXD+X4GQWaMHHdaJAou/SsoljAj3+Yk8yCZ5YNWBfHnMFuatGgT+raSblgpW5L8U5hFXdoF+2T/NOFWeisueTEwZoZaqq82Y1B9Rjmp/PQG26b6ZjBcBWPyA5LlqCKtcTIEPdHphqbZD8Oa1GW9QdGHVhjRjEzxTL2FEMN0fyU+sxBiP3d/aDiicm2iyjMyVo7Le5KbESo9CIiQkcKARPWAmrP5yajYZ+okUMAvjNl1LcrndJAi1GaB3DNz++/pTJk27H6V6yd8H7F38roRMPq6wFQJb+zPuHvTJxsjWV55nQRd2qx1+ep256fjWphg=;hwJecaDJ/PAoftKnn2+67w=="
+secured: "6PMJPBzjXcUeJWwIU2Ssm9LFjsuCvH0vjVxA49mffRgTnkg3frrTmUvHs8puSGx4sgAKcNHOEesgq1rge3dbhHE97ASW7EeWX1y23n8fSK4Q2VTkegjXfvm9ZpP6ElYoCj+KwkXF8iP6F3FahBEmC6Hyr7T44Mik6NZ133t891Ett/ircWUTaSopTaoltfoyJEJBYH4eojBaTmNLwtu7fKeg0fxLfV9RI/b67nuqELwpnP5kukPWMZ+VDkb5I4TOT2wIglWZ/RpZiE47cgvmzcFjDmDuDiBSvWpfr0pPdVMax/fXZUieBsSuydjcNDNPKGkPBvKlCxOsZNuDq2IytHpbqbKBUfg8SiRniBfGWWc=;pauvIYqzeSmoolDxA83+ZA=="
 ---
 
