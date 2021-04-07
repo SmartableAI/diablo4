@@ -36,6 +36,66 @@
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
+      "path": "_games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps.md",
+      "title": "Diablo 4 - Gameplay Barbarian (2021) 4K HDR 60fps",
+      "excerpt": "Gameplay de Diablo 4 Barbarian (2021) em 4K HDR 60fps . #diablo4 #diabloIV #barbarian Novo Trailers 2021! Novo Games 2021! Inscreva se no IGames TV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/",
+      "originalUrl": "https://youtube.com/watch?v=lMPwhQRZxBU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M1S",
+      "provider": {
+        "name": "IGames TV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lMPwhQRZxBU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-25T12:01:19-08:00"
+    },
+    {
+      "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
+      "title": "diablo 4 gameplay barbarian no commentary,",
+      "excerpt": "diablo 4 gameplay 2021, diablo 4 gameplay reaction, diablo 4 gameplay 4k, diablo 4 gameplay android, diablo 4 gameplay barbarian, diablo 4 gameplay ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=Ejkex6VOqjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ejkex6VOqjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M57S",
+      "provider": {
+        "name": "Mahariya gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ejkex6VOqjc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-06T00:10:51-08:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
       "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
       "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
@@ -114,7 +174,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 64,
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
@@ -590,36 +650,6 @@
       "publishedDateTime": "2020-07-22T16:22:01-07:00"
     },
     {
-      "path": "_games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps.md",
-      "title": "Diablo 4 - Gameplay Barbarian (2021) 4K HDR 60fps",
-      "excerpt": "Gameplay de Diablo 4 Barbarian (2021) em 4K HDR 60fps . #diablo4 #diabloIV #barbarian Novo Trailers 2021! Novo Games 2021! Inscreva se no IGames TV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/",
-      "originalUrl": "https://youtube.com/watch?v=lMPwhQRZxBU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M1S",
-      "provider": {
-        "name": "IGames TV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lMPwhQRZxBU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-25T12:01:19-08:00"
-    },
-    {
       "path": "_games/kamahl-diablo-4-barbarian-skills.md",
       "title": "Diablo 4 Barbarian Skills",
       "excerpt": "What's up Everyone. Kamahl here and welcome to another Diablo 4 video. In today's episode we are going to be looking at the barbarian skills. I hope you enjoy ...",
@@ -678,36 +708,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-07T00:15:00-08:00"
-    },
-    {
-      "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
-      "title": "diablo 4 gameplay barbarian no commentary,",
-      "excerpt": "diablo 4 gameplay 2021, diablo 4 gameplay reaction, diablo 4 gameplay 4k, diablo 4 gameplay android, diablo 4 gameplay barbarian, diablo 4 gameplay ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=Ejkex6VOqjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ejkex6VOqjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M57S",
-      "provider": {
-        "name": "Mahariya gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ejkex6VOqjc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-06T00:10:51-08:00"
     },
     {
       "path": "_games/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid.md",
