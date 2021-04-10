@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-druid-ga
 type: video
 length: PT3M52S
 publishedDateTime: 2021-03-11T05:43:43Z
-heat: 50
+heat: 110
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/isAlz5FZAx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "HXYd2+mVRZjsNPceaNC5WMbiK8Y5BKJ6dacWwxgz/K6Lz0td6a6IlOEBkO5WlVrNN3r60ClGX3FYDw3YKDkWIzo7qSTVZHFPK3/IwHpUPElKrYqcpCafcxLfV+QwcZYW0+4w4qS09YOvb1sRHNmmxxkcfYp5XUcaqVJIKzPEoYsYuzk0JeosIlBbnKMu2v/ZtAqCTFtyadNFh2cExp4/ENgTRTDYWJ0AFAYdUbuMVb3Xxtv1Tv2eMTOgwLNvKz742XDEBHJxi3ZJMQNdf4Mu90BDv2m4oLfiYwg2DFZ8Dha76eGo9BJeTFoj+olB3nlTdPIubyW77czlITIObw+qCk/Y47flURE6GTJ2R9eVtXblp/jJ8WaqgOC171eCCSnfPout1mB4mj7FpAT6fLe/CiqHwqQTZPZ+WHoyXtuW/Fw=;mWFqohH54P39OuLG0pTvSg=="
+secured: "q3ghvwC6sl5ktReSTMAmvMIOOkb0kLU3QIZYOdadVhakV/KxyW8jBj4ig1qhkvT1wCni3yMWXfVincClqUQFsxQeBSx9+2nCiej5qD9g7+3VVZog5pvpqmNZmbwU9Jd8ucnBRYdiILly/3pgd+nl8SsGMna+U6XHriw6kqSA3YC8KQ8AkAUgqBAiVikQlj3bOyos+JXATD0AG53txYSsxa95UFDdOE6T5x/vHAhgJir+Y8qJnNi/6hxkef8zfGzGN0f5hg8X9p/Bf+2ZLb2H4io7lfShyBdatg7Clg4UjSkXETGBtj23b8csurTNRUGJRCWAV1rHv5JmfpoG41VdYQRJ4Kmkdp6Rrr5gI0sRX7DztWqfC6opvDaEi5TVrfUSmFeEfNTyh0q+Wo2MyjPA68M1PhOpRtsTHfBR6dXNt/M=;Fl5nmcalvOMa+kWOWbO9TA=="
 ---
 
