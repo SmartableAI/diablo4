@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barba
 type: video
 length: PT4M1S
 publishedDateTime: 2021-02-25T20:01:19Z
-heat: 52
+heat: 112
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
