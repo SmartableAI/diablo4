@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/playing-diablo-2-resurrected-make
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 type: article
 quality: 107
-heat: 128
+heat: 127
 published: true
 
 provider:
