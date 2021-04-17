@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barba
 type: video
 length: PT4M1S
 publishedDateTime: 2021-02-25T20:01:19Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1SiZoFB9oN9/uwCZE0eOigcnaLK8/Ceix4ogE3nauesC5kBNqP9ru0PbaTFq1cI5zPqYeNULvq0/EqDjHxfHl4MWtt/FYd8ou9BGtc1roPM31ZdrdP8ubfyA/c10IxhbsF9CWUtgpky2K6MYfPfVdD267loyLcKUK8Ph0sRv3zFJ3/MX9pqrsov5BXF+zggeYUI3w2VMp6VqSjOQwUhTLk2kPAyt5pdPr3dk6JGrQEyE7Q7X0zt4QAyy712XwNhzGIXeowzt39FENl3c8Ui2OfWjg4NEN8hJa2aZltLYCKgBNtE8r3ig7/SyXYxCdX0kKoFyKjReEwFGdN5SMGIisoLLttDOrI9PP7yH8bhR0JTj2zE5zgm7danw+FEC6FtU5PFB7ojpOMkO52YeU7ZcSORNU4hh8DG7z9zFe5xvsJU=;4+fphoWl8lVmt2qZopzbLA=="
+secured: "8j1HBmF4xx4UmKBpm1aSwljZhJJH76+EnobuTbnaZTUuHwERfaNQMJCjuaXiMIGsin4Iqsk7HQLjSRoTpWDkafEKUjE6NSXA4Xmfk+Wq1nqVCitt+Xhm5TW3pZfmXPczJGA5cE3P/O9Hir5vq2uSA3l+jNxcQWJht0IxeDS84+HlQFNINyj1XG93iSXik5B4h1u8iX4JSVdSrAL+7QLzcxCDf6VL2Wal5UazzGT3lPGHwRVK9dXoYFLqkU3K2szj67DbqsVCGZvYg//dCWvmDIrZoAX+tYgYzTykfWpAZ9i6jJdOgkoJBajLI7DezrAgyGGlRPBtHZtyg48Y5iez3bLoEB2rY97XyQFJHSfQO7PucN5X4UizyoFdY1wo/vS2E+ja3Cl58mLRXM2BSfon90V5+DMo0KNumtfn7VeNOjg=;Lxmeys/CK5aiTns2I7hkkA=="
 ---
 
