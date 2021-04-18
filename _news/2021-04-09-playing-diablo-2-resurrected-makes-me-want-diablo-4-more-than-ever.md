@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Playing Diablo 2: Resurrected makes me want Diablo 4 more than ever"
-excerpt: "But revisiting these familiar blood-soaked caverns and crumbling ruins made me long for what’s coming next with Diablo 4, more than anything else. The classic action-RPG (ARPG), which first released ..."
-publishedDateTime: 2021-04-09T03:46:00Z
+excerpt: "It’s good to be back, adventuring among the demon-filled fields of Old Tristram in Diablo 2: Resurrected. But revisiting these familiar blood-soaked caverns and crumbling ruins made me long for what’s ..."
+publishedDateTime: 2021-04-09T03:45:00Z
 originalUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 webUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 ampWebUrl: "https://www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
@@ -47,6 +47,6 @@ related:
         height: 261
         isCached: true
 
-secured: "KD6yTTPBinAPmRRxZhBSs5Xr4HivVmp76+tlHgbbloc0D/yFi+XNjJSWT+OFK/D+4udDEKGvApChdyF+SvDXOP/2nt1VK8OG7KNT4VwP1ykrGSAS5/y4SMLKVkgxsTZfNHmJd2v86QYFRzoltO+OvsZssrV1xFaJxaygUnKpfgrSggZ/lxsk8ndagp8bs2fZ+VEQfi0OA34IBP+N3idi3Ht50Fhq8pDM4WJeJCA8IsmwOsW8Z5CNWAskkzR8GtUKqO9YApb2bUsWU89UfKEg6GqzaxAyGNOawZCnFyO05351m75Io4RYzaaxiRzjbKS31JD7jJ6rKol44/Bq6P/cfRSw8hU3ejQpGYKZXOvhfko=;YB1FwtgikfXCHTfGNvOT+w=="
+secured: "r/3zQghM/mR3J0Tpw1g0S1Vqqh0zXenx+Je2K1rSjQaiu2xF75GXgbzDNmWVRjeF3BhZ39dJTIMBwqsBBNw6IcA4svrQnK7yR1hNTze6iAlt9TvEbmhMfjpWFPBit7vIYMIU0U7Gj3vjYvEF84kgTv1qFAzDYm1UOEsBFnuhDSdYPi4dN4db/4Tp9hD/snsIqJkajPrpY5nPOXv1vOvj7HB+Mh6mUqzn8O/mW4xo7WTeevtX8i6IKzyhkTx7MCA0zPBHga748Z3nmLHIFopkz9zbGxzVOCmJ1psgfkcL6xT6XXC62SYlbOSpVrDXcNxxcQ6j2jZ1jmtetrzngElT+7NYFmIWkBUPHvXsd8fDz5c=;jpoHeD/TpBUkg0DOANLAWA=="
 ---
 

@@ -27,8 +27,8 @@ images:
 
 related:
   - title: "Playing Diablo 2: Resurrected makes me want Diablo 4 more than ever"
-    excerpt: "But revisiting these familiar blood-soaked caverns and crumbling ruins made me long for what’s coming next with Diablo 4, more than anything else. The classic action-RPG (ARPG), which first released ..."
-    publishedDateTime: 2021-04-09T03:46:00Z
+    excerpt: "It’s good to be back, adventuring among the demon-filled fields of Old Tristram in Diablo 2: Resurrected. But revisiting these familiar blood-soaked caverns and crumbling ruins made me long for what’s ..."
+    publishedDateTime: 2021-04-09T03:45:00Z
     webUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
     ampWebUrl: "https://www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
