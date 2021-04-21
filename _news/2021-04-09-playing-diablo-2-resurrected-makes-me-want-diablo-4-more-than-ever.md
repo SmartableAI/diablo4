@@ -5,12 +5,7 @@ excerpt: "It’s good to be back, adventuring among the demon-filled fields of O
 publishedDateTime: 2021-04-09T03:45:00Z
 originalUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 webUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
-ampWebUrl: "https://www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 type: article
-quality: 107
-heat: 127
-published: true
 
 provider:
   name: TechRadar
@@ -23,30 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/6ZiyyZXFR9qiKeqQdatkmG-480-80.jpg"
-    width: 480
-    height: 270
-    isCached: true
-
-related:
-  - title: "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4"
-    excerpt: "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ..."
-    publishedDateTime: 2021-04-13T09:32:00Z
-    webUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 107
-    images:
-      - url: "https://static.tweaktown.com/news/7/8/78721_67_diablo-ii-resurrected-dev-vicarious-visions-to-help-with-4.jpg"
-        width: 620
-        height: 261
-        isCached: true
-
-secured: "my8qzpYy03vOlBVsH5OleuAyI0hnM3XQk99hU3V9EKaST81zJE1TezlIgrIGI5iBCwfRb0vNWWM71sgPUgy3ureX2Y62eeVcdfA8OqYw5VonT6qJbBITMnBQ73RV9i70ccbiknBY754z9SRSv79sX8Qki0YYF7f+r3WNF8xBLYMM0pvcWQO/imSIrHkCNuEdJNyg/fMf1deVUmHjAww5C5R8L8fRMx+N4drBjzdPcHwcNSWqOidZup+WJetp+48ru+FQPuH5UrBLWhfrQ6vmgmG+wvbuP0SB4L7oBN8zMRI6QCaTSuG62N2JBXM+ElIbpllPZT8goESSB4fbNwUW7VEaSGPMd2wlw/LdEIMadfk=;nzOHEBPKZBF9y42jCNvpYA=="
+secured: "dOqirnYeEOStOpNIxZx5EgTr4cAgFo+wQnRdr7lxp+HHvnLoAUKR3IiYogwV7c1wignVTq7Vd8Fvc92HyZ2KRGHr1HPPjdBEm4DIEAU7ha+qlul+kSOgLx9E+RJMU+cXS3Amg0gQCHY9m4Je5OW2DOUNejS/fUHme/X6i0L9XsrYMNCcQUJhMm0gEEMdrhTyIhfapIU9Xmi/5aE3xVBUz3CRcukg+x0OqzkTmz6MyzDE8DPQxwiU834J6JDbF365xeH0SmSKlx9XWadxRPMf/Flye6iAUKJUX5ZTd2ILytw6CrCWJ63jQgIV4KaeRuAWrRo5S38WStm/SuMkB2aWfM/UGVUbsX3i9qdVy4HhEJc=;93yfB2GEJncZ55VmC6RZOw=="
 ---
 
