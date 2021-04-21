@@ -5,7 +5,12 @@ excerpt: "It’s good to be back, adventuring among the demon-filled fields of O
 publishedDateTime: 2021-04-09T03:45:00Z
 originalUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 webUrl: "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
+ampWebUrl: "https://www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever"
 type: article
+quality: 107
+heat: 127
+published: true
 
 provider:
   name: TechRadar
@@ -18,6 +23,30 @@ provider:
 topics:
   - Diablo 4
 
-secured: "dOqirnYeEOStOpNIxZx5EgTr4cAgFo+wQnRdr7lxp+HHvnLoAUKR3IiYogwV7c1wignVTq7Vd8Fvc92HyZ2KRGHr1HPPjdBEm4DIEAU7ha+qlul+kSOgLx9E+RJMU+cXS3Amg0gQCHY9m4Je5OW2DOUNejS/fUHme/X6i0L9XsrYMNCcQUJhMm0gEEMdrhTyIhfapIU9Xmi/5aE3xVBUz3CRcukg+x0OqzkTmz6MyzDE8DPQxwiU834J6JDbF365xeH0SmSKlx9XWadxRPMf/Flye6iAUKJUX5ZTd2ILytw6CrCWJ63jQgIV4KaeRuAWrRo5S38WStm/SuMkB2aWfM/UGVUbsX3i9qdVy4HhEJc=;93yfB2GEJncZ55VmC6RZOw=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/6ZiyyZXFR9qiKeqQdatkmG-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+related:
+  - title: "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4"
+    excerpt: "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ..."
+    publishedDateTime: 2021-04-13T09:32:00Z
+    webUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 107
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78721_67_diablo-ii-resurrected-dev-vicarious-visions-to-help-with-4.jpg"
+        width: 620
+        height: 261
+        isCached: true
+
+secured: "31efX8qmhkNyS+2RFZ1qz07m+cwJP0AQ7zlsihbt8El+oz6i3auoN6utGabyWAs2JjX+4tzbX7IGS2ii203FPghmL7ooplATpTX3H2IzCPV7z4M6UQ8U5l/5WyzGaGOncLf8AvTB97s71fkToRui55iQbSnUYEC3PlNaRGahUzrVv2sWf9DomXUlnhIq5NJYdwyDLMn3YAmrECoDdVzcObFoPUmYQVcYVWF1VGvWffiGGrgZbuaisx9aw4RUxdhO/2pcHSqYLKLXqrfLXyI8DlAbhE6z2CBLFmbJTPRqFYkijjo1GxDU9qArufKduMlIk4+c6+Ivb7ZDIlkvcXCqQM1qhP9vH2stKru/D/+jEvM=;chBL+elyaKXUuHsBq9GrrA=="
 ---
 
