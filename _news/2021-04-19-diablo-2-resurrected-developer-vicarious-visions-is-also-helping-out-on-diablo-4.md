@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4"
+    excerpt: "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ..."
+    publishedDateTime: 2021-04-13T09:32:00Z
+    webUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 107
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78721_67_diablo-ii-resurrected-dev-vicarious-visions-to-help-with-4.jpg"
+        width: 620
+        height: 261
+        isCached: true
   - title: "Vicarious Visions Joins Diablo 4 Development"
     excerpt: "Blizzard Entertainment has tasked developer Vicarious Visions to help out in the ongoing development of Diablo 4."
     publishedDateTime: 2021-04-13T06:23:00Z
