@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicari
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
 type: article
 quality: 107
-heat: 147
+heat: 149
 published: true
 
 provider:
