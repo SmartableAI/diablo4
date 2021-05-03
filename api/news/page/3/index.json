@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline.md",
+      "title": "New Diablo 4 Class Reveal Teased For BlizzConline",
+      "excerpt": "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline/index.json",
+      "webUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
+      "originalUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
+      "publishedDateTime": "2020-12-15T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
       "title": "Diablo IV Quarterly Update—December 2020",
       "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
@@ -1081,48 +1123,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement.md",
-      "title": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT",
-      "excerpt": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT Blizzard Entertainment was forced to cancel its annual BlizzCon fan ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=xKnfRkaePPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKnfRkaePPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xKnfRkaePPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-26T17:39:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
