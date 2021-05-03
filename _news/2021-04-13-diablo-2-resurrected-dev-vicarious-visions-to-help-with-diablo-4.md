@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicari
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html"
 type: article
 quality: 107
-heat: 149
+heat: 128
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vicarious Visions Joins Diablo 4 Development"
-    excerpt: "Blizzard Entertainment has tasked developer Vicarious Visions to help out in the ongoing development of Diablo 4."
-    publishedDateTime: 2021-04-13T06:23:00Z
-    webUrl: "https://segmentnext.com/2021/04/13/vicarious-visions-diablo-4/"
-    ampWebUrl: "https://segmentnext.com/2021/04/13/vicarious-visions-diablo-4/amp/"
-    cdnAmpWebUrl: "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/04/13/vicarious-visions-diablo-4/amp/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 107
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2020/03/Diablo-4-Sorceress-Ghouls.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 2 Resurrected Developer ‘Vicarious Visions’ is Also Helping Out on Diablo 4"
     excerpt: "From the impressive Tony Hawk's Pro Skater 1 and 2 remake from last year and Diablo 2: Resurrection on track for release later this year (check out our hands-on impressions here) Vicarious Visions has ..."
     publishedDateTime: 2021-04-19T18:06:00Z
