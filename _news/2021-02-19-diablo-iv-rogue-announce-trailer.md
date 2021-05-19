@@ -1,139 +1,26 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
+originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
 type: video
-quality: 122
-heat: -1
-published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo
+  name: Blizzard Türkiye
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-related:
-  - title: "Diablo 4: How The Rogue Class, PvP, And Open World Work"
-    excerpt: "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements."
-    publishedDateTime: 2021-02-22T11:45:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING!"
-    excerpt: "Diablo IV Rogue Announce Trailer Reaction - This Class is AMAZING! During Blizzcon 2021, Diablo IV brought some new information in the form of a new class ..."
-    publishedDateTime: 2021-02-20T03:54:35Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Liban Ali
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://i.ytimg.com/vi/XEidOmQT80o/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo 4 Is Bringing Back The Rogue Class, Here's What You Need To Know"
-    excerpt: "Blizzconline ( BlizzCon) has been going on for the past two days, and it has brought plenty of announcements for all of Blizzard ’s IPs. Amongst these updates, a new character class was announced for ..."
-    publishedDateTime: 2021-02-20T13:15:00Z
-    webUrl: "https://hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
-    ampWebUrl: "https://amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzcon-and-blizzard-announce-rogue-class-for-diablo-iv"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 107
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54331/content/Diablo_IV_Rogue_Key_Art.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "This is how Diablo 4 PvP works"
-    excerpt: "This is how Diablo 4 PvP works During BlizzConline's Diablo 4 deep dive segment, the developers of the RPG game provided some new details ..."
-    publishedDateTime: 2021-02-20T06:47:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/this-is-how-diablo-4-pvp-works/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 107
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/This-is-how-Diablo-4-PvP-works.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4: Blizzard talks cross-play, class verticality, PvP and the Rogue's agility"
-    excerpt: "Diablo 4 was present at BlizzConline in a big way with the gory reveal of the Rogue class, the fourth of five classes that'll be present in the game at launch. Shortly after the reveal, I had the ..."
-    publishedDateTime: 2021-02-20T10:19:00Z
-    webUrl: "https://www.windowscentral.com/diablo-4-cross-play-pvp-rogue"
-    ampWebUrl: "https://www.windowscentral.com/diablo-4-cross-play-pvp-rogue?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/diablo-4-cross-play-pvp-rogue?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 101
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/diablo-4-rogue-art.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Everything shown at BlizzConline for Diablo 4 – Rogue class, PvP, open-world"
-    excerpt: "Blizzconline revealed several exciting updates into the highly anticipated Diablo IV project, including the fourth class’s reveal: The Rouge, along with PvP combat, and a bunch of open-world details, ..."
-    publishedDateTime: 2021-02-20T12:28:00Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/everything-shown-at-blizzconline-for-diablo-4-e2-80-93-rogue-class-pvp-open-world/ar-BB1dREVY"
-    type: article
-    provider:
-      name: Gaming Polls on MSN.com
-      domain: msn.com
-    quality: 84
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dRvcg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo IV’s Rogue Class Expands the Original and Comes With a Lot of Customization Options"
-    excerpt: "Diablo 4 Rogue class has been expanded, according to game director Luis Barriga. It'll come with a lot of customization options."
-    publishedDateTime: 2021-02-20T07:09:00Z
-    webUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/"
-    ampWebUrl: "https://www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
-    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2021/02/20/diablo-4-rogue-class-reveal/amp/"
-    type: article
-    provider:
-      name: PlayStation LifeStyle
-      domain: playstationlifestyle.net
-    quality: 82
-    images:
-      - url: "https://www.playstationlifestyle.net/assets/uploads/2021/02/diablo-4-rogue.jpg"
-        width: 800
-        height: 450
-        isCached: true
-
-secured: "qsS6koLdEo/F31SVB5+YJNjZA8e7nfPX3V0zPaQ7RS4XUzWS3bpOE322ILWisFEauDhsahopDzEKxQ93226DUyk6QJyOBUiVuB/xaSYoIuYo/BuE2QbRzqHAtNmzmWi8LIbhR4IQmqJvMpUT2sBc3BNA2lVJ1TwsfZTuOowiWdwSEnFsiZPwLz5XbQTmEja+T//2K5+kOknpguV4J3uB4NHDtITDSPLi4W64eJw08suQiq5OMnlLl47iEtmSSRq+GWSsgrsqCe/Oav7K2zJ4prP7BkNK1hbH6FaEquYiCXyaIuDYfeV8j47dL3NkeD5D09o9y4A5iJUsFn5Dg+sE/Ka3DGfu4e5t1rGndGqvdsHncHoAL15YCbHdTA3HJKKqeVyHBvzA6UJ4KsctuPAp4pKSXwv2ExOrPMOPFIxt3WnsBBPspKEG/jBSq39s4oME;aIMKoJ88nZfvrFyGwT2YqA=="
+secured: "cthu5n8pIuzh2n7iGAmN9uT6vVORilRuF6xe4ZIgukP6B2HWIJZCpDe+b4huDqIOcnVbDZixbZPHOnzeM2vRjNWH4X6dR7Iveh1WVFbs1PAqRtB7MLyfL5oW+m6fsriwucpnpXgtcpd47qIqiZoaaZCGC+z9sGsuhxnk5huyRInX2Td7j7pR3MFKaMVYZelIgGFF4PQ1uc07sHg4uw2VkVEA7qdqRZ9HlIt/Uro65lc4F/kBSvNK1C34YVSzv3xm+X6nkLZcDMyrwQ5jxGgVqkLORzlK/gxhzARphX0xFvoFuE8mCV84S37xHQja1XZr1XmBMXa7EXQcb2CsrA08pfmNVHvjH28Vxx9gIewfqYl2mKcduL4JVD/05LCkvZkLvI8KEQ3Q5mUJkchEL2IZPQ==;eMKpoYm33EtUaZiZZYmR7w=="
 ---
 
