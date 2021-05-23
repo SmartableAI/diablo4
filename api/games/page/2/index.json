@@ -4,6 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "GameTrailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:38:31-07:00"
+    },
+    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Barbarian Class Introduction [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -454,36 +485,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:25:33-07:00"
-    },
-    {
-      "path": "_games/mahariya-gaming-diablo-4-druid-gameplay-no-commentary.md",
-      "title": "diablo 4 druid gameplay no commentary",
-      "excerpt": "diablo 4 gameplay 2021 sorcerer, diablo 4 gameplay trailer reaction, diablo 4 gameplay trailer reaction mashup, diablo 4 gameplay trailer voice actor, diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-druid-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-druid-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=isAlz5FZAx8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/isAlz5FZAx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M52S",
-      "provider": {
-        "name": "Mahariya gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/isAlz5FZAx8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-10T21:43:43-08:00"
     },
     {
       "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
