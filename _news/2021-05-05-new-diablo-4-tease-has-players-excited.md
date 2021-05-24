@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-excit
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-excited/"
 type: article
 quality: 107
-heat: 108
+heat: 107
 published: true
 
 provider:

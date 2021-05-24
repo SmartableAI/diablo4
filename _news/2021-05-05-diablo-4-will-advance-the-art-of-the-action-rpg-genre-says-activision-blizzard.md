@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamesn.com/diablo-4/action-rpg?amp"
 cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/action-rpg?amp"
 type: article
 quality: 82
-heat: 103
+heat: 102
 published: true
 
 provider:
