@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp"
 type: article
 quality: 107
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 735
     height: 552
     isCached: true
+
+related:
+  - title: "Why Diablo 4 and Overwatch 2 Won’t Fix Blizzard’s Biggest Problem"
+    excerpt: "While some gamers have spent the last few years speculating that Blizzard’s string of public problems (which includes layoffs, botched remasters, delays, employee departures, and a series of PR ..."
+    publishedDateTime: 2021-05-24T11:43:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2020/02/diablo-4-updates.jpg?fit=1547%2C877"
+        width: 1547
+        height: 877
+        isCached: true
 
 secured: "5QFYney0lCc6dI+CI1eXY+mjzA269KYekjRl0kp6Syjn899LdgWdb+7JbXct+cuf84EDB7FlENJPLb94CRS+0OPC6TqnYRQI+CeHGMQocWGB2Y3T0AN2FLdhp1xNsUAWP8HKWk9QHZIOb3krfR1N4DTbHbBNJyZuOA1f/NhW5VD1HYScyrgeM+O5SqbO1eey3eKTj36rqq+HPbw8udttBEUGFw7bq1JS94IVXr9ubLfR9Guf9fHk0zgGk21kl3nROJvLWjF9V7Y6J+QBIFNHMZYsGt7VTmVpayucXTy5OSenkJjtYildKMxzG7vhVyvKQMYJtZXMPcRWxiQ5ChkOcvHWv4jsDVTg7OgAZWIIuN8=;u0C/O8YFHd819T6YYKUkGg=="
 ---
