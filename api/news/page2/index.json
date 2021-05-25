@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4.md",
+      "title": "You can turn off enemy glow in Diablo 4",
+      "excerpt": "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4/index.json",
+      "webUrl": "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "originalUrl": "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XFxN9nxdmd7FeKDADE7gBg-1200-80.jpg",
+          "width": 877,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "publishedDateTime": "2021-02-20T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video.md",
       "title": "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!",
       "excerpt": "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ...",
@@ -130,17 +181,17 @@
     {
       "path": "_news/2021-02-19-diablo-iv-rogue-announce-trailer.md",
       "title": "Diablo IV - Rogue Announce Trailer",
-      "excerpt": "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ...",
+      "excerpt": "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-iv-rogue-announce-trailer/index.json",
       "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-19-diablo-iv-rogue-announce-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=LvrLZ4yETHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "originalUrl": "https://youtube.com/watch?v=2WdVc8J3_YU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -155,7 +206,7 @@
       "publishedDateTime": "2021-02-19T14:43:03-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Diablo",
+        "name": "Blizzard Türkiye",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
@@ -1054,39 +1105,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more.md",
-      "title": "Blizzcon 2021: Dates, Rumors, WoW Classic TBC, Diablo 4, Overwatch 2 & more",
-      "excerpt": "Fans expect some huge things from Blizzcon 2021 - including Diablo 4, WoW Classic TBC, Overwatch 2, and other big possibilities. So what will we see during the 2-day event? Blizzcon 2021 will be a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more/index.json",
-      "webUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "originalUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realsport101.com",
-        "domain": "realsport101.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
