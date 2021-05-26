@@ -7,7 +7,7 @@ originalUrl: "https://www.psu.com/news/diablo-4-build-40-gb-in-size-reportedly-u
 webUrl: "https://www.psu.com/news/diablo-4-build-40-gb-in-size-reportedly-uploaded-to-the-psn/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
