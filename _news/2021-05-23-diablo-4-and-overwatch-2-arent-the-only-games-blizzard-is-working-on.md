@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp"
 type: article
 quality: 107
-heat: 127
+heat: 129
 published: true
 
 provider:
