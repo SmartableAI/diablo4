@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 4: Blizzard Reportedly Pulled Announcement from BlizzCon 2018 - IGN News"
 excerpt: "Blizzard reportedly had plans to tease Diablo 4 at BlizzCon 2018, but pulled it at the last minute. Subscribe to the IGN News Channel!"
-publishedDateTime: 2018-11-05T23:30:00Z
-originalUrl: "https://youtube.com/watch?v=RGdq7yvgabg"
+publishedDateTime: 2018-11-05T22:48:15Z
+originalUrl: "https://youtube.com/watch?v=H7DveYoDXpc"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RGdq7yvgabg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7DveYoDXpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: IGN
+  name: IGN News
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/RGdq7yvgabg/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/H7DveYoDXpc/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "zvdQ3VnOwX3kozunuL8J29iG6Xj7aMjSDbPoiS11CgD5ILHGvi0RJNH79CZjiA7uQKXhx3yAlKo/uEie2enpd2k3dwKHV32Ti4pU9/OWjzNQPuTvyPwpdBoYiFkdCNrWdfDAuEZX2Q0t4VdpyMMWgNfkwP+6+VEWkSJWW6XDP7GCQswTOXvk3h0VS3X5N/Ynj65jL1HFaqaqa3XZjHzf93wuPLJ4nJ31I08ByEHYqtY3dzXQskDIe2PNJe7mm5WZKT1b6gv2PDcDg+C+dyhRQ1RhCw9z2W/c4Gobrz4Q7+iMgDKb3mfLbGijHU5UmZKZTvkkVUtVIg5q7Wjs2IBikYYsE1y9EWYo16w+EO3zaLuV865sY8o+Zts3PeSHTMSiET1P0mAeUDRq9qmnx/kOCQ==;Fm/uKtlK4WxVQZQIbyCTGg=="
+secured: "X7srnBVoFFSalAg2jGJ7UbrleRNxyI10hVRXiqLINvD1aXwRUNKFGLsCtfo5tBoDvHaudLOWtUAeQYfd1poyRQxxWSQeHPh4aL0qiy6fd8LvZkCe2xIm/CNuLD6wgTXl1xtP7Se/O9PePueTawN54kiorf6LZWb3mF52RnmgbEWk/MqknvybyBxc3+yV4V6J0UX6Q105Vg69ev7jIU7TTYW1QmzCSduCcrILYwLa/Toq9Keh129cq8kcEpLjIb/DneF6G56AFSYSvU6awu5W2bF8UWIxpAQwhjJR29BkqMPfSsigiXbawfx+XF3YFQ6RGLvT0DLkOecSZBE/QaVu+0t3n2A/ohJ7xOTikspZwE38r1BfT8hqaEGNc4mWwYQsj7zQQFhvORRyL5oew4CBDQ==;gkmB1sO5aWk7yzV41Hg3eg=="
 ---
 
