@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-09-cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dd-tristram-map.md",
+      "title": "Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map",
+      "excerpt": "You’ve delved deep into the dungeons of Tristram before, but if the wait for Diablo 4 and Diablo 2: Resurrected is proving too hellish, why not bring the hack-and-slash action to your tabletop? The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-09-cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dd-tristram-map/index.json",
+      "webUrl": "https://www.techradar.com/nz/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
+      "originalUrl": "https://www.techradar.com/nz/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DPtEbhxXkjsKYUdcKCnLyS-480-80.jpeg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
+      "publishedDateTime": "2021-06-08T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
       "title": "Diablo 4 Official Announcement Cinematic Trailer Reaction",
       "excerpt": "We are finally getting to a Diablo trailer. Starting with Diablo 4 as it's the most requested of the franchise. Normally we do a lights out, in the dark reaction for ...",
@@ -1052,48 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
-      "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
-      "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=XmMAmltgdwA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmMAmltgdwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XmMAmltgdwA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-21T06:58:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Accolonn",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
