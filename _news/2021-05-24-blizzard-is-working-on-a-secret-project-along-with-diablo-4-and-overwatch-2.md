@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on"
-    excerpt: "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ..."
-    publishedDateTime: 2021-05-23T09:00:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 107
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Diablo 4 and Overwatch 2 Are Not Blizzard's Only Projects"
     excerpt: "One of the employees of Blizzard Entertainment - Ion Hazzikostas, i.e. the director of WoW - admitted in a press interview that apart from Diablo 4 and Overwatch 2, the aforementioned studio is also ..."
     publishedDateTime: 2021-05-24T00:48:00Z

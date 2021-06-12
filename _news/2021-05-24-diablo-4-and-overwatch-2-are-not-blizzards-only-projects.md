@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=13058"
 cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=13058"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: XCOM 2 Game Guide
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on"
-    excerpt: "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ..."
-    publishedDateTime: 2021-05-23T09:00:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 107
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Why Diablo 4 and Overwatch 2 Won’t Fix Blizzard’s Biggest Problem"
     excerpt: "While some gamers have spent the last few years speculating that Blizzard’s string of public problems (which includes layoffs, botched remasters, delays, employee departures, and a series of PR ..."
     publishedDateTime: 2021-05-24T11:43:00Z
