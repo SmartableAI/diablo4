@@ -9,7 +9,7 @@ ampWebUrl: "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzar
 cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1547
     height: 877
     isCached: true
-
-related:
-  - title: "Blizzard is Working on a Secret Project Along With Diablo 4 and Overwatch 2"
-    excerpt: "Currently, Blizzard is going through a little bit of a rough transition period. At BlizzCon 2019, the DIABLO IV and Overwatch 2 were announced, but both the game’s progress seems very slow, and ..."
-    publishedDateTime: 2021-05-24T08:17:00Z
-    webUrl: "https://technosports.co.in/2021/05/23/blizzard-is-working-on-a-secret-project-along-with-diablo-4-and-overwatch-2/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 85
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2021/05/WCCFdiablo4.jpg"
-        width: 740
-        height: 429
-        isCached: true
 
 secured: "Erp7u/qCNIPLKKm8tn6UTj8DKrpBOKbkROGLWEOpa3CbitZkJP+2mrQBLiBLM3wPGhlRZ9v19o7Jex2b6NKju4GBrH6SFYjhsnfbdhY3+jHn/wP8JP15M4LnRP9reyLPDokVrCaPsTE37WseE7UNUpTlycpROr1mFSwjTGpoh5ZPP/HCIWLJfoAxZC3ggZhuEm7uil0n2yQvM/ihcHSavnpYlAvP+hVthfrjIIP9Gx/TWrf1apEYLgktw9zUNaQTiHxVIHOufI7hFdZlPQ64wo0BT8VyQ5rA1TVA3oW3G1dyK8dvX0xPD9z1tWsWkmyVB6qKlXEa2veWHwDoTzDKKbETOgxfL4tT4y43mDYO83g=;4CkkIExyEjGqR4/FjmjYfQ=="
 ---
