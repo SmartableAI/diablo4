@@ -2,24 +2,24 @@
 category: news
 title: "Diablo 4: Everything we know so far about Blizzard's sequel"
 excerpt: "Diablo 4 isn't coming for at least another year, but we've already seen a good deal of gameplay, art, and insights into Blizzard's plans for the long-awaited sequel. Thanks to detailed quarterly ..."
-publishedDateTime: 2021-06-01T16:56:00Z
-originalUrl: "https://www.gamesradar.com/au/diablo-4-guide/"
-webUrl: "https://www.gamesradar.com/au/diablo-4-guide/"
+publishedDateTime: 2021-06-01T16:56:19Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF"
 type: article
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/AaSPFCQ7sbH3mWSqxpq8YW-1200-80.jpg"
-    width: 880
-    height: 440
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bX0xl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "1Av34BxS8YJC7r06GifYRYzKiGYHevS91AJMiny8nwVWp1mCXrJWk/eIdSXKIv0A8Fl2Uxypbhk6JcvMxlerhSWtbMdh7lE4LXHQht0kubLQpCiEDApHGYNj3KcrQ8V31PVzmSdGefs/tGY/3iL7jBDO9R0EtmXVUKow/vd88CPPJ4J4waGySVmYrHS3RN4TMldrNBG1LPjKChtMlw+pDOpxZjGSYgckB9NAqZkXbGJeIASnF7EHi5Hbpz7gVwl2AGyw31nCkV8oM+KyvQqSznuBDa/WIyEuQpTj8maap18ATzs5wiQ2T0CoC8/wpJjSBR4NbMrQGNrGxg4jGHogWRmVHNbU0XhfiEiAsRWrDT0=;XlPy8Kcw/5RIxIz9SgvVJg=="
+secured: "e7fj4mTRFvtkEYkarzVrUJC2o/C1VqNMBNdd/CpoeIfXhkQuE91MCQajfm4gcsy2ClI8vKiIUw9ru3XLMdqSW7Wn1NXMWUaCX8mF4aQfkEi24VSgypgOVBoDQEd/4A7aQeWtxV8cXu2GoliH2CoJ8h+VxSTbbmnHF+AxZlmYg4AcJzfJ6PgSlg+ssih+AUZB2iKQdyHctck8eSURUppN2nilTo+RmeCGDJqPcLgwnnXxDfsCYLXgXft8RqBzQflSvFtQNpB60WGQWqaAaBaUgUPqvrZS4ykZeObFCEpp5O2MyOy8cvp+x3r6qblyhJq3OvahxcxdnZ1cyGOn6cvoucQHE1/vSTyQymDE1RTmWlA=;+aOejS0aoXC+zI7xuu98UA=="
 ---
 

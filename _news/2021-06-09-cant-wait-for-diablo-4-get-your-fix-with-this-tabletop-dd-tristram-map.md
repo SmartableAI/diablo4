@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/cant-wait-for-diablo-4-get-you
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 270
     isCached: true
 
-secured: "D99o00weDAbL1p9Ii86swKGiEcdJo9chdvSa+UUXBUDgwhfJBlwSpoRjpcQVp/iG1SQN3yQourg1C0dWGj7kRZD9wp05jPa0WK/lKZoFWSqp3OpY617XlptZn02bNh+w0S74ESaR7ZnsbwK9Lsnhs7iDSOLRnmZ7AmSF2a/dPm4FEUo8ZWLS0MgnMLKzQ2QEf3HedSRi783nMpqL4Q5uF2swZZCnVySvvltrWkeZQptf6A+QFTxoIXikLedfAI82sozShdaELEkobG5IADVtCkOqefKun0UQjCs3xIOseIl+diQLtrF1QBi88VT52twEvf+lfvTPJsfcQPW1rPXQvfuKtGLoZ9bKizAZGl3e20k=;oVqJc2eXYJsbjfzbXd/H6Q=="
+secured: "iDC/n0rPu5pbNA5QoNMq1YJOCDh9wkC2NR2Jds9t3IG0lCGeY08pfEPPViAgVb4vdwEgg559P+BkVJxs8u4II/rtQmohH+N++GC8hMw95BUAkxAgm00e0hSAyZF6nyoA0nPvF/ZKZDYkEUlO9iezVg26k4mrwDKQv+/GJnMUu3ZXPXxpciX2Gx8T/s7WEGfp5uiHqIw8WV5ccQt6ET0IVEFJkrCGR62j9zcZlcW+rGjEc3tLZZGa5+ve3vkjTsQAPzNSXQ2iHsSGNcEXuS3fSG1FUrgDCOC5YI6ai5Jw+6/egMcUbAUloJ70fM1acszW6f5kRE61fF6y7A7zHXoNO8HZV7gPnfeuVcRSU9ubuDY=;dcLUvyP7Io44b9naUHZk+w=="
 ---
 
