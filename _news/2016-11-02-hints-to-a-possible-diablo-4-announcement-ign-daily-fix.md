@@ -2,25 +2,25 @@
 category: news
 title: "Hints to a Possible Diablo 4 Announcement? - IGN Daily Fix"
 excerpt: "Diablo 3 may get Necromancers, Call of Duty: Infinite Warfare to be bundled with PS4 Slim, and is Diablo 4 going to be announced at Blizzcon? Diablo 3 Getting ..."
-publishedDateTime: 2016-11-02T21:18:19Z
-originalUrl: "https://youtube.com/watch?v=rgvHY17D_Cw"
+publishedDateTime: 2016-11-02T22:09:03Z
+originalUrl: "https://youtube.com/watch?v=r8zKvfgwV4w"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rgvHY17D_Cw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r8zKvfgwV4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: IGN News
+  name: IGN
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/rgvHY17D_Cw/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/r8zKvfgwV4w/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "S8hP38boPar4q3xbwFaAlxACuWfXGKTiWeCTiX6CHBqXIorzNwYBAMoLKzovv15QR7N2Zw1hiLAQvo9G1/YjJ0jcsgcl3f7A5wFFnEGssGd/MHkO56VpUeaVYh7Jp2KJALKtOlFr+aUgdcjcZ4ReCbSWtjhlIyY1A535klk68Iwj+rkKyRBAEjCgApkfJvA3Hi/lfho3GGR6vUGK8Tf4EEpBR1tc1pbM1onH/nBIN89Gn+8ZSmgtzeYadCAC42PJP5L76xmFAm+37IiObvmX4MceqpA0syAHDF12Mbi8fuGg9T5vdfVLEt4IruYSB4btT0g42JkqtWR5DVRbtKglrIicrIPPuUrl6OibhnlhXkL8jX88RtGYDcTvf6T1TT7HwDhqOhmGHp+ztE34LAld+Q==;ktf0ihL/bBc8bmXzXocj8A=="
+secured: "0eyafiqt0L8vp/9a0gOK3XziL2ksiKwpD3QhK/qvmRVUBY/GZTcdN3kzlmahOKbQg08VIAqlCd9Llh2F9AdZF6+Wsv0mKCJGWP06tW5lGrnzjxvatpv06uOxrWUWXXq+SlTRLb0qYSIX9K9n4n25qRsgTU+LrGFhG8c441B1iv7Resot6oEzW3KQeMCvFs1jxWnKj9b/JtBepJbwh71b7185IQAHGRzEti/5eP+yIXxPilN1pfZF53eo3EEhePyNn9FaVnUb0qOjrCVI4N3sVyV7993batl5dv1np/Io0Feq5sGZ78U9DLGHDC1tX1mZo2xcApo0rB4wr8cMX7RNxUq0V1QXHoacZn2Z8kt6GL5UWA+m51hgocyla4MFH9uyNhkKj/rKhqChtyuODJzjBg==;KZ7JIyWHSniMuxXkIpDLUw=="
 ---
 
