@@ -4,68 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/future-gaming-with-oliver-a-staley-diablo-iv-sorceress-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley.md",
-      "title": "Diablo IV Sorceress Gameplay Part 1 1080p/HD Future Gaming With Oliver A Staley",
-      "excerpt": "Diablo IV, Future Gaming With Oliver A Staley (Footage Courtesy Of Game Informer)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/future-gaming-with-oliver-a-staley-diablo-iv-sorceress-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/future-gaming-with-oliver-a-staley-diablo-iv-sorceress-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley/",
-      "originalUrl": "https://youtube.com/watch?v=kyu8Xgbg1Vk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kyu8Xgbg1Vk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M5S",
-      "provider": {
-        "name": "Future Gaming With Oliver A Staley",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kyu8Xgbg1Vk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-14T03:20:54-08:00"
-    },
-    {
-      "path": "_games/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p.md",
-      "title": "DIABLO 4 Gameplay Trailer First Look at Sorceress, Barbarian and Druid 720p",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p/",
-      "originalUrl": "https://youtube.com/watch?v=vFnPrLqyjuE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFnPrLqyjuE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M11S",
-      "provider": {
-        "name": "GAME AND ANIME PORTAL GaMeR",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFnPrLqyjuE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-02-16T17:31:17-08:00"
-    },
-    {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
       "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
       "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
@@ -733,6 +671,36 @@
       "publishedDateTime": "2020-08-12T13:55:08-07:00"
     },
     {
+      "path": "_games/smithtainment-diablo-4-druid-compared-to-diablo-2-resurrected-druid-gameplayskills-everything-you-should-know.md",
+      "title": "DIABLO 4 DRUID COMPARED TO DIABLO 2 RESURRECTED DRUID - GAMEPLAY/SKILLS - EVERYTHING YOU SHOULD KNOW",
+      "excerpt": "DIABLO 4 DRUID COMPARED TO DIABLO 2 RESURRECTED DRUID - GAMEPLAY/SKILLS - EVERYTHING YOU SHOULD KNOW Diablo 4's Druid takes a lot ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-druid-compared-to-diablo-2-resurrected-druid-gameplayskills-everything-you-should-know/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-druid-compared-to-diablo-2-resurrected-druid-gameplayskills-everything-you-should-know/",
+      "originalUrl": "https://youtube.com/watch?v=rZbomhAL-48",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rZbomhAL-48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M18S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rZbomhAL-48/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-08T13:15:48-07:00"
+    },
+    {
       "path": "_games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4.md",
       "title": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4",
       "excerpt": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4 The Barbarian is a true warrior. Using pure physical force as a means to destroy his enemies, ...",
@@ -911,6 +879,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-05T14:15:30-07:00"
+    },
+    {
+      "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
+      "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
+      "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/soulnsane-diablo-4-druide-competences-arbre-de-talent/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/soulnsane-diablo-4-druide-competences-arbre-de-talent/",
+      "originalUrl": "https://youtube.com/watch?v=cN41mSCU_dM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cN41mSCU_dM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M23S",
+      "provider": {
+        "name": "Soulnsane",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cN41mSCU_dM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-11T10:27:28-08:00"
     }
   ],
   "nextPage": 3
