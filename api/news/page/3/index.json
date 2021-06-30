@@ -2,6 +2,267 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor.md",
+      "title": "Diablo 4’s Next Class Reveal is the Rogue – Rumor",
+      "excerpt": "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
+      "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
+      "publishedDateTime": "2021-02-18T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more.md",
+      "title": "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more",
+      "excerpt": "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T20:08:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile.md",
+      "title": "What Diablo 4 can do to compete with Path of Exile",
+      "excerpt": "RPG, with its 24 years of dominance and a legacy that makes other games sweat. Diablo 3, despite a bumpy start, carried on that legacy, and players got to watch it evolve over a multitude of updates.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile/index.json",
+      "webUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "originalUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
+      "publishedDateTime": "2021-02-18T02:27:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story.md",
+      "title": "Diablo 4 is making fresh changes to items, skills, and how it tells a story",
+      "excerpt": "BlizzConOnline kicks off in a handful of hours, and while fans are expecting some sort of update on Diablo 4, it looks like the development team just dropped some early and meaty tidbits on how the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/index.json",
+      "webUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
+      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/media.criticalhit.net//2021/02/Diablo-4-3.jpg",
+          "width": 850,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "criticalhit.net",
+        "domain": "criticalhit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
+      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
+      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
+      "publishedDateTime": "2021-02-16T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4.md",
+      "title": "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4",
+      "excerpt": "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4/index.json",
+      "webUrl": "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
+      "originalUrl": "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
+      "cdnAmpWebUrl": "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
+      "publishedDateTime": "2021-02-10T20:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-diablo-4-how-pvp-works-and-what-to-expect.md",
       "title": "Diablo 4: How PVP works and what to expect",
       "excerpt": "Adventurers can bash monsters and each other. Blizzard Entertainment's upcoming hack-and-slash RPG Diablo 4 is still a ways off. Still, even with the scourges of Goatmen and other monsters pillaging ...",
@@ -835,267 +1096,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old.md",
-      "title": "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old",
-      "excerpt": "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "publishedDateTime": "2020-12-15T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal.md",
-      "title": "Diablo 4 will be at BlizzCon, likely with a new class reveal",
-      "excerpt": "Blizzard says a big Diablo 4 update is coming to BlizzConline, the digital alternative to BlizzCon taking place in February. In the latest quarterly update from Blizzard, in which we learned a lot ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/index.json",
-      "webUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "originalUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AaSPFCQ7sbH3mWSqxpq8YW-1200-80.jpg",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "publishedDateTime": "2020-12-15T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4-is-making-big-changes-to-legendary-loot.md",
-      "title": "Diablo 4 is making big changes to Legendary loot",
-      "excerpt": "It’s been over a year since we first saw Diablo 4 at BlizzCon 2019, and to end 2020, Blizzard has published a final blog post to whet player’s appetites. This blog post focuses on itemization — ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-is-making-big-changes-to-legendary-loot/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-making-big-changes-to-legendary-loot/ar-BB1bXaal",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-making-big-changes-to-legendary-loot/ar-BB1bXaal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bXaac.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T02:12:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-how-diablo-4-changes-itemization-including-the-removal-of-mythics.md",
-      "title": "How Diablo 4 Changes Itemization, Including The Removal Of Mythics",
-      "excerpt": "A blog post from Blizzard details numerous changes to the itemization in the upcoming Diablo 4, including massive changes to what each tier of items means.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-how-diablo-4-changes-itemization-including-the-removal-of-mythics/index.json",
-      "webUrl": "https://www.gamespot.com/articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
-      "originalUrl": "https://www.gamespot.com/articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598989-trailer_diablo_gameplay_2019111.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
-      "publishedDateTime": "2020-12-15T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-015-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
-      "title": "#015 Diablo 4   Official Announcement Cinematic Trailer  Blizzcon 2019 - Reaction",
-      "excerpt": "Hier geht es zum Video: https://www.youtube.com/watch?v=0SSYzl9fXOQ Unsere Gaming PC´s ⬇️⬇️⬇️⬇️⬇️⬇️ Gaming PC John: (*) Prozessor: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-14-015-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-12-14-015-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=xj-fLnfs_Yg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xj-fLnfs_Yg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xj-fLnfs_Yg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T06:36:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EnWa Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup.md",
-      "title": "Diablo IV Announce Cinematic By Three They Come - Epic Reaction Mashup",
-      "excerpt": "Diablo IV Announce Cinematic By Three They Come - Epic Reaction Mashup ▷ All WoW Cinematic Reaction Mashups ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup/",
-      "originalUrl": "https://youtube.com/watch?v=WEAkoQva8rM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEAkoQva8rM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WEAkoQva8rM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-11T14:50:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reaction Mashups",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

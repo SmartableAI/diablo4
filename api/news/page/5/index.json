@@ -2,6 +2,267 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees.md",
+      "title": "Diablo 4 and Overwatch 2 shown to Blizzard employees",
+      "excerpt": "A new report has come out by a French publication website regarding some unrelease Blizzard titles, Diablo 4 and Overwatch 2. The report says that both of the titles have been shown to a select ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees/index.json",
+      "webUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/6/6/66387_01_diablo-4-overwatch-2-blizzard-employees_full.jpg",
+          "width": 850,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
+      "publishedDateTime": "2020-08-18T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development.md",
+      "title": "Blizzard Gives Encouraging Update on Diablo 4 Development",
+      "excerpt": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "publishedDateTime": "2020-08-08T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
+      "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
+      "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak/index.json",
+      "webUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
+      "originalUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
+          "width": 1148,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-diablo-4-team-is-moving-forward-despite-covid-19-pandemic.md",
+      "title": "Diablo 4 team is 'moving forward' despite COVID-19 pandemic",
+      "excerpt": "Rod Fergusson's move to Blizzard was not particularly well-timed. He left The Coalition in order to head up Diablo 4 in March, just ahead of the COVID-19 outbreak that forced the entire company to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-team-is-moving-forward-despite-covid-19-pandemic/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iq3CfpNAXNcvVeaMziCLMi-1200-80.jpg",
+          "width": 610,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
+      "publishedDateTime": "2020-08-06T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Hey Everyone! Kyle here from Reacts by Kyle! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this video and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=yb7liR0g7vo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yb7liR0g7vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yb7liR0g7vo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-02T08:26:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reacts By Kyle",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy.md",
+      "title": "Diablo IV Announce Cinematic | By Three They Come REACTION with Magy",
+      "excerpt": "Check out our Full Movie/TV Shows Reactions on Patreon :) ✓ PATREON - https://www.patreon.com/thehomiesreact If you just want to give support ✓ PayPal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/",
+      "originalUrl": "https://youtube.com/watch?v=-HeOC0daNkE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HeOC0daNkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HeOC0daNkE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Homies",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
       "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
       "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
@@ -857,258 +1118,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=9I0gLbjENXU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9I0gLbjENXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9I0gLbjENXU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-10T23:14:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ultimate LUL",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy.md",
-      "title": "Diablo 4 Initial announcement perspective - Red Shirt Guy",
-      "excerpt": "My initial thoughts from playing the demo at blizzcon, watching the developer interviews, and listening to the wacky Q&A from the systems and features panel.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/",
-      "originalUrl": "https://youtube.com/watch?v=CIIjswFSzbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CIIjswFSzbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CIIjswFSzbk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-10T11:35:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dontinquire",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating.md",
-      "title": "Diablo IV Announcement Cinematic | By Three They Come Reaction / Review / Rating",
-      "excerpt": "Adam and Jay react, review, riff, and rate the new announcement cinematic everyone wanted to see last year at Blizzcon, Diablo IV 'By Three They Come'.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/",
-      "originalUrl": "https://youtube.com/watch?v=otb-mrjvwaQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/otb-mrjvwaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/otb-mrjvwaQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-08T04:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pReview'd",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer.md",
-      "title": "Ozijak Reacts to Diablo 4 Announcement & Gameplay Trailer",
-      "excerpt": "G'day all, Ozijak here. Long time Diablo fan watching the much anticipated trailers as Blizzard streamed it. So so hyped!! Hahahaha :D Literal nerdgasm were ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=Zp3hQcGbvLs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zp3hQcGbvLs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zp3hQcGbvLs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T21:32:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ozijak",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
-      "excerpt": "H2BTEEVEEPACK wesaid in the video and we'll say it again, we back again with another reaction video. We did the demonic and scary video game Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=BLZuZb2jwTU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BLZuZb2jwTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BLZuZb2jwTU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T14:23:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "H2BTEEVEE",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights.md",
-      "title": "DIABLO 4 - Announce Cinematic + Gameplay Trailer REACTION + REVIEW + INSIGHTS",
-      "excerpt": "Make a difference with a FREEDOM SUPPORT: https://www.patreon.com/LawrenceBeyond ◉Donate, if you like to: https://www.paypal.me/LawrenceBeyond ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights/",
-      "originalUrl": "https://youtube.com/watch?v=soXVeQzc7GI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/soXVeQzc7GI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/soXVeQzc7GI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T09:37:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lawrence's Beyond",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }

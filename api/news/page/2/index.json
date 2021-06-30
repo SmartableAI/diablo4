@@ -2,6 +2,285 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
+      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
+      "excerpt": "Diablo 4 making the shift to an open world design raises several questions. After all, an open world is not just a type of map; on one end of the spectrum it’s a level design philosophy, and on the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
+      "webUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
+      "originalUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_me/news/h/how-diablo/how-diablo-4s-open-world-design-is-making-sanctuary-a-place_ktjf.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-everything-we-know-so-far.md",
+      "title": "Diablo 4 - Everything We Know So Far",
+      "excerpt": "BlizzConline offered a lot of new info on the upcoming action-RPG; here's everything we know so far. GameSpot may get a commission from retail offers. Perhaps the most anticipated game Blizzard has in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-everything-we-know-so-far/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "publishedDateTime": "2021-02-24T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement.md",
+      "title": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)",
+      "excerpt": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=_s9AbCOLGEc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:30:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fextralife",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-pvp-sounds-like-a-devilish-delight-that-will-challenge-every-hero-of-sanctuary.md",
+      "title": "Diablo 4 PvP sounds like a devilish delight that will challenge every hero of Sanctuary",
+      "excerpt": "Diablo 4 is the smouldering embodiment of the phrase 'high-risk, high-reward'. It's the first game in the series to properly embrace an open-world structure, a design decision that exerts additional ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-pvp-sounds-like-a-devilish-delight-that-will-challenge-every-hero-of-sanctuary/index.json",
+      "webUrl": "https://www.gamesradar.com/uk/diablo-4-pvp-explained/",
+      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-pvp-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/C277HqnUQgcqYoj2msMFt5-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/uk/amp/diablo-4-pvp-explained/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-pvp-explained/",
+      "publishedDateTime": "2021-02-24T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-should-resurrect-the-series-most-controversial-feature.md",
+      "title": "Diablo 4 should resurrect the series’ most controversial feature",
+      "excerpt": "We used to pay others to boost our RPG characters; now we pay the publisher. So why were we so against paying another player on the Diablo III auction house?",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-should-resurrect-the-series-most-controversial-feature/index.json",
+      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-auction-house-feature-revival-pvp/?amp",
+      "publishedDateTime": "2021-02-23T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
+      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
+      "excerpt": "Blizzard reveal the big changes they're making to how players will explore the world of Sanctuary in Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2021/02/24/diablo-4-rogue-sanctuary-1614170708300.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T20:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-why-diablo-4-is-so-obsessed-with-ears.md",
       "title": "Why Diablo 4 Is So Obsessed With Ears",
       "excerpt": "The suit cites the performance of Doom Eternal (pictured). (Screenshot: id Software) “We’re really excited about bringing that idea back in Diablo IV,” lead systems designer Joe Piepiora told Kotaku ...",
@@ -833,267 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor.md",
-      "title": "Diablo 4’s Next Class Reveal is the Rogue – Rumor",
-      "excerpt": "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
-      "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
-      "publishedDateTime": "2021-02-18T20:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more.md",
-      "title": "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more",
-      "excerpt": "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T20:08:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile.md",
-      "title": "What Diablo 4 can do to compete with Path of Exile",
-      "excerpt": "RPG, with its 24 years of dominance and a legacy that makes other games sweat. Diablo 3, despite a bumpy start, carried on that legacy, and players got to watch it evolve over a multitude of updates.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile/index.json",
-      "webUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "originalUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
-          "width": 710,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "publishedDateTime": "2021-02-18T02:27:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story.md",
-      "title": "Diablo 4 is making fresh changes to items, skills, and how it tells a story",
-      "excerpt": "BlizzConOnline kicks off in a handful of hours, and while fans are expecting some sort of update on Diablo 4, it looks like the development team just dropped some early and meaty tidbits on how the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/index.json",
-      "webUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
-      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/media.criticalhit.net//2021/02/Diablo-4-3.jpg",
-          "width": 850,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "criticalhit.net",
-        "domain": "criticalhit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
-      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
-      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "publishedDateTime": "2021-02-16T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4.md",
-      "title": "BlizzCon 2021 unveils schedule including Overwatch 2 and Diablo 4",
-      "excerpt": "Blizzard has announced the schedule for its upcoming BlizzCon Online show, and has confirmed fans of its games will get a good look at future titles including Diablo 4 and Overwatch 2. Activision ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-11-blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4/index.json",
-      "webUrl": "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "originalUrl": "https://www.videogamer.com/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.videogamer.com/meta/fe6f/d8b4f98b-8b93-4524-bf5b-8bea11b28795_6837b844-20c3-4fc7-8872-215d39826bca_BlizzcOnline.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "cdnAmpWebUrl": "https://www-videogamer-com.cdn.ampproject.org/c/s/www.videogamer.com/amp/news/blizzcon-2021-unveils-schedule-including-overwatch-2-and-diablo-4",
-      "publishedDateTime": "2021-02-10T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,0 +1,44 @@
+---
+category: news
+title: "Diablo 4 adds character customization"
+excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
+publishedDateTime: 2021-06-30T11:18:00Z
+originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
+webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
+ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Diablo 4
+
+related:
+  - title: "Diablo 4 Will Feature Fully Customisable Characters and Armor"
+    excerpt: "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics."
+    publishedDateTime: 2021-06-30T10:11:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "KpRFXR1Z90Q3zZcNfyNI7pZBRZHQ0zXFNowGEHKTiHVrzV2IwZAlvmXQD5vg+VIMbNEcwn63fXBMcGf30QUSppczhksu5Nq7RDz7Xwqv7Wyc7Xgfg1mgAqhw8ZtwdPjsmaZ4I1jHWHh5aj+/jAysyZK/OUMEGHOnM5f/VmkK9BmkTiUcK8GOMqHWqCp52WAv9aw0IHZwXVkDq1fSdGlmIXaMshkplfD7VOrpUT7ChGPjFi0m90zk7u/XB0PcrDF05Ae5ujpq659giwfnv6w+V3yvsFXRpMvdHZbBYph8Q+ES8LfJBAEpKKJU3wxSApWzSXtygj0CagIkGHkuagufwqSVzQZvQ9eTuebXfvVnFHQ=;qoavCOTaJU5+nHeWpBQg5g=="
+---
+
