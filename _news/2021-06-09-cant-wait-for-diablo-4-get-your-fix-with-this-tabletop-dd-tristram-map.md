@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map"
-excerpt: "You’ve delved deep into the dungeons of Tristram before, but if the wait for Diablo 4 and Diablo 2: Resurrected is proving too hellish, why not bring the hack-and-slash action to your tabletop? The ..."
-publishedDateTime: 2021-06-09T03:05:00Z
-originalUrl: "https://www.techradar.com/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map/"
-webUrl: "https://www.techradar.com/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map/"
-ampWebUrl: "https://www.techradar.com/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
+excerpt: "You’ve delved deep into the dungeons of Tristram before, but if the wait for Diablo 4 and Diablo 2: Resurrected is proving too hellish, why not bring the hack-and-slash action to your tabletop?"
+publishedDateTime: 2021-06-09T03:07:00Z
+originalUrl: "https://www.techradar.com/au/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
+webUrl: "https://www.techradar.com/au/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
+ampWebUrl: "https://www.techradar.com/au/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 270
     isCached: true
 
-secured: "RO7GsiYS5c1LYCkxGifSAPGKHMpdTHPEWiVVEQyFi5eQjrSi3rRxkbllQlK+aNftX3soctQYqe47mqAFke7GCiZsycmR6JalfXniGHJupp/dMjb2DH9wvBkCYa+m7Tpht4hXS8oeyzCn2xklVi0Y2Ou9cLv7r89ZvPvrXeaGqqRZnjkQ73C+6Qqw9w/mKSuMF8DQBgYutkQfZwxmPXy8KmwJyVEvFUiIua2OGdMxtpsBLUoQMtZuCgmMb9sBzC22TqwtnwADci1ywFt+BowO0ImUBERY/WhcU/rmD9JQwVXrVbT7xPmP2+tsZNcJpYRKdZDZM/cNnzFbHdjnEbLCghf/zyEQVS6Qq8+wOSSbAwo=;LKzUC9ZHg20kBaF0KIvxwQ=="
+secured: "7Su4c+EvM40RFdkzPSniV3R4Vfitu93PIZRCYE307XfuYXBlfuk+FB9oXgi0seb+l4c280HFxoELGTspdSFSpZGKSzn4apKPzb/bPb2BdbIqMu2Lh3+9RoFEHQLrO05hCHzbXWs4LUzjCqEmgjElxlhwBpya+LhiNbiaKS5fxQ3Ee6P1WwUVkuE+4EW8wb+xJog/pF2ZsuUvSq/XNyvGVyR8HWNFXey3hE+5ejIQbOPcI1+N6d3QJg/et71cbb9EIrCqxMW6ECzvgG1AX6wxvk7/eErBHZP+zoaA6hFmRF42t6jsIV5QMbSBrW0A4PVWK5SYRw9Z/hB8r64HmgxtaFdW30zVLvsn+8sbn6m/0EM=;jG8Jx79yy4xKZQWliYRdmA=="
 ---
 
