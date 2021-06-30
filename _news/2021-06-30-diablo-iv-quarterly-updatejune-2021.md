@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021"
 type: article
 quality: 162
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
         width: 2919
         height: 1440
+        isCached: true
+  - title: "New Diablo 4 quarterly update covers art, character models, and more"
+    excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
+    publishedDateTime: 2021-06-30T14:05:00Z
+    webUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more"
+    ampWebUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/06/30/diablo-4-quarterly-update-june-30-1_feature.jpg"
+        width: 1505
+        height: 849
         isCached: true
   - title: "The Diablo 4 June quarterly update dives into character design and art direction"
     excerpt: "Blizzard Entertainment talked more about character customization and the designs for various monsters, as well as the changes made to the materials pipeline used in building the game."

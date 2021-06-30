@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Blizzard details Diablo 4 customization options and new enemies"
-excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-publishedDateTime: 2021-06-30T11:18:00Z
-originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
-webUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
-ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+title: "New Diablo 4 quarterly update covers art, character models, and more"
+excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
+publishedDateTime: 2021-06-30T14:05:00Z
+originalUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more"
+webUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more"
+ampWebUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
-    width: 2919
-    height: 1440
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/06/30/diablo-4-quarterly-update-june-30-1_feature.jpg"
+    width: 1505
+    height: 849
     isCached: true
 
 related:
@@ -44,21 +40,21 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "New Diablo 4 quarterly update covers art, character models, and more"
-    excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
-    publishedDateTime: 2021-06-30T14:05:00Z
-    webUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more"
-    ampWebUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
+  - title: "Blizzard details Diablo 4 customization options and new enemies"
+    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
+    publishedDateTime: 2021-06-30T11:18:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 107
     images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/06/30/diablo-4-quarterly-update-june-30-1_feature.jpg"
-        width: 1505
-        height: 849
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
+        width: 2919
+        height: 1440
         isCached: true
   - title: "The Diablo 4 June quarterly update dives into character design and art direction"
     excerpt: "Blizzard Entertainment talked more about character customization and the designs for various monsters, as well as the changes made to the materials pipeline used in building the game."
@@ -91,6 +87,6 @@ related:
         height: 947
         isCached: true
 
-secured: "sX9fgHzCmHFVCMmCiSt5VuXOzwUIgcVV7iU1oIghT3OZO7KwFVMUpPpJW5nPsAb+MOOVrbdqluOLRNFTwT9kwh1hkL6qqpGoWaPscVDtQau7MYBLfgJvgg3AyQkZfn9RdIOxpt9uvK0RsKTH2Hyjql7kwgWQhYzJYj4cx4Awg9MiEvLv9ZOquW+qos2arfdhtPwQRU5l3pBN2Cpr1wD3+exSCTkulApOiCGRbBljZURZVwbpfdR9AvK49VTPpl8qGNKHtkFuTgTAYi87/aOeDkaxHSfxMDsxFhM76UB2tNxWssT8RrUc51KVPdru+Zn4MmvIG3OUhE0kON7znEVzTn1osnvpVKRO2TY9PuzSMcQ=;mpZEJ0gC6k41xrHI4tzSqA=="
+secured: "SO6u/Gm6u3BtqcVqLy5aCT5em0pR9zDLGutqOFWFvnTFpS3lrJdeNou27ILLamT2jWA/asfR0hNmvtpDqbBJq/v/prQ+Q6BL7kOM8fcCVASsBO+u3cdbmdwJUOCliLHYwT6P+KSnd8f9xpvojn9NnjG1gjGZFALuaGeLv2ecTR1dxIvixcdlFLjzmIXChahqGcYb6s7QcaBm8yFaiCjqFBfwdB0nAe1DGaXMUsqljYOUG+EeiPR/TJ7LpctqP0txOP1auWrSob8YNNSY3lJu+qFgzBT0o32ibyUfIqy2WKRwAhRh8eeZgeSvCJ4f9+D64XZtqsLe1b1JJmQwNqu0ZrYwbU4TOWeTmTOHoy0lg+c=;LyE27XIKWTO8zJf7715eJw=="
 ---
 
