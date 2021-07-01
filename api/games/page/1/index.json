@@ -66,36 +66,6 @@
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
-      "path": "_games/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge.md",
-      "title": "DIABLO 4 ALL CLASSES - GAMEPLAY - BARBARO - DRUIDA - MAGA -- ROUGE",
-      "excerpt": "Diablo IV foi apresentado na blizzcon em 2019 oficialmente, desenvolvido para as plataformas Pc, XboxOne e palystation 4. Bárbaro: 00:00 Maga : 16:34 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge/",
-      "originalUrl": "https://youtube.com/watch?v=EGjC3tzvrWU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EGjC3tzvrWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M2S",
-      "provider": {
-        "name": "Games world",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EGjC3tzvrWU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-04-28T02:15:14-07:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
       "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
       "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
@@ -246,6 +216,67 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-08T06:00:15-08:00"
+    },
+    {
+      "path": "_games/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge.md",
+      "title": "DIABLO 4 ALL CLASSES - GAMEPLAY - BARBARO - DRUIDA - MAGA -- ROUGE",
+      "excerpt": "Diablo IV foi apresentado na blizzcon em 2019 oficialmente, desenvolvido para as plataformas Pc, XboxOne e palystation 4. Bárbaro: 00:00 Maga : 16:34 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge/",
+      "originalUrl": "https://youtube.com/watch?v=EGjC3tzvrWU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EGjC3tzvrWU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M2S",
+      "provider": {
+        "name": "Games world",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EGjC3tzvrWU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-04-28T02:15:14-07:00"
+    },
+    {
+      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "GameTrailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
@@ -431,6 +462,38 @@
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
     },
     {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
+    },
+    {
       "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
       "title": "DIABLO 4 NEW Gameplay DRUID QUEST COMPLETE",
       "excerpt": "",
@@ -519,37 +582,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
-    },
-    {
-      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
-      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
-      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M3S",
-      "provider": {
-        "name": "GameTrailers",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
       "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
@@ -735,38 +767,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-02T17:29:59-07:00"
-    },
-    {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
       "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
