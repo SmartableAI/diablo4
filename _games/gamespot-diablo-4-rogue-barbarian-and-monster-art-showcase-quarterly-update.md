@@ -2,6 +2,7 @@
 title: "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)"
 excerpt: "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ..."
 originalUrl: https://youtube.com/watch?v=DxaZnD_fFPw
+webUrl: https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/
 type: video
 length: PT9M18S
 publishedDateTime: 2021-07-01T01:30:01Z
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "lXe/v7SF4GcfPpK5sz6R+Lea/JQOvBj//CQBP9ajDdVp8b+m5aRJc7vvVD9tPTTiTIsEzJuUeATP/LoN8RNQkfHsYp0YrHOmEdUIMHWfWW79qZMYIFMYAnKMRz+Ap6iucRENaQvN6WpPXIRSU3jCfQ0XDkRn1CGy6PNlXGIAUrTD0uiFNSnwiFrYYjSg+e94Qn2NNu9SqSGg1FyL1kxLVgLrxVma3xwkTpp1mRgImq6S5hSYxbyaPEw8Ruzv7Q+ELYFrPqe6yPB5u186zqiQEGWL8nUhi6YTVO9HDf6R76Xy3gEUpVDvqEnEp3eK6FkmSNuUsGOZc9rHZjqPmFzjpz2pqHDqNvCe5cppa3F+kNtgJRGOVXn9OIrA2vrtTjcDAOnDsd+Rpzq1/nMJl0JSmw==;KWslgD9M1lTCMiyxCWLSMA=="
+secured: "GQHmY0rOOkNAXR1ZJi1MIPrVGy2nBg0j9sqR3qlNuobfHuddZqQiqpjA+QAk+jcaTlqORuNxyo2Ry2eisK3a1d5yeYlFdJzaGaL3AU0JNit2TycbYX6oSphr1Cm0eNyC+1BkqJzEZgfJuso5UT4vLAM2kQZpFwws7BNQiv/1x5hcqS5Rh5jUFAgHScJibPyQcO/KAcHSkR6iUJwEKhkLTnvyk7/xO6FQkIbPLpYB41wn7MnOahlKWQZgumUXVAHkMmW4Dbrdy+FPd+vQ01s6M0o3Yc/NnQ59tFFQVpJC53EGXpN4ytTJyRxeUmtvn93ehsNJFFfxafB986L+BcUqHS4Ia6nxNJ8rxXpC1poKpAixmCi31V8oGOFfFoQDqd8LhP+RmFkw3nAj7TBYIvQ/SA==;o1BLBgD6kdMflXOlK0SNqA=="
 ---
 

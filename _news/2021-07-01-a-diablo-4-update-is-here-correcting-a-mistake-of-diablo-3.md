@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes"
-excerpt: "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians."
-publishedDateTime: 2021-07-01T02:14:00Z
-originalUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
-webUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
+title: "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’"
+excerpt: "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on."
+publishedDateTime: 2021-07-01T05:55:00Z
+originalUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/"
+webUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/"
+ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Play Station Universe
-  domain: psu.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
-  - Barbarian
 
 images:
-  - url: "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg"
-    width: 749
-    height: 428
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1573%26cropY1%3D0%26cropY2%3D885"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -71,22 +76,6 @@ related:
         width: 1505
         height: 849
         isCached: true
-  - title: "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’"
-    excerpt: "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on."
-    publishedDateTime: 2021-07-01T05:55:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1573%26cropY1%3D0%26cropY2%3D885"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Diablo 4 June quarterly update dives into character design and art direction"
     excerpt: "Blizzard Entertainment talked more about character customization and the designs for various monsters, as well as the changes made to the materials pipeline used in building the game."
     publishedDateTime: 2021-06-30T11:15:00Z
@@ -117,6 +106,20 @@ related:
         width: 1920
         height: 947
         isCached: true
+  - title: "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes"
+    excerpt: "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians."
+    publishedDateTime: 2021-07-01T02:14:00Z
+    webUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 87
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg"
+        width: 749
+        height: 428
+        isCached: true
   - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
     excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
     publishedDateTime: 2021-07-01T02:41:00Z
@@ -132,6 +135,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "KVfROtor6/HGLLkk9DfPHZHITg9OuTwJeUHDE9IQvppVFYKHIAm4FaLlLYIKqNbjzJR3NEKResrHSm5FAtWgGKM9sevVamI/kSeOja+5KzzACVmxR6pTWXI0YobKudbgICK2lyUjug9kOXJIr/Nc5u8vu0xLs6RhpZlsbVaWMvDsI5H4OBamQKOZoJWChYqrj+49Bfvj6uKMSIvJDuD6zGgI/IHpF6De1Sc39x9Lc4t4hdZtJ+OM2SsOQWegyv4rn/A32Ay2ZDKVnM2HmuxGAxl3t+/rGQ62ssRiPD+McekaYM+Yf2JaQsHI8ysKCFmjMxmj/y8oQ+yYCqTWwS+OWH4tt4ijlZNGP6DQXQEX1z8=;3ftzvP5zhJb5KhY7e1AF6Q=="
+secured: "8eXRZU77q6TnTLRqRjE0TAg9P7+IOg2VO09Ig8oYYShEQjn7Jt4NBlUntzqk8E4sr8bW18qfhqPB79T5T1Xa5oV5W5rKIdUm1OtnRNmnZghA5SQl+cb4W5j3XkWmXdZ+zBti5MfMz6cOVTmN/KPrYvi/58kR9Ni61vJFc+zBt0tOskxOclpVceaU+Ds0A8zbz2wHFQiw5/hrrUAzgM7XPj0dNsEkgxQZYbDs6Cuim4cA1uequADkd4Odcf9hOBeVw8hacIy1zEc1wNdnmDG+/fa9kg6AuyLKFQOu9Bblga1uyh90UKCLtMp20BaUxWP/byJGetYlO+CdgGUhCRLgpyVdB8SC9UphSogGzx+AyqE=;ovGSF/0Sprz+RarT9Uo3Bw=="
 ---
 

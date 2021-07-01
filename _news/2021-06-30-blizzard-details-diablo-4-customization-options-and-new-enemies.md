@@ -60,6 +60,22 @@ related:
         width: 1505
         height: 849
         isCached: true
+  - title: "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’"
+    excerpt: "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on."
+    publishedDateTime: 2021-07-01T05:55:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1573%26cropY1%3D0%26cropY2%3D885"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Diablo 4 June quarterly update dives into character design and art direction"
     excerpt: "Blizzard Entertainment talked more about character customization and the designs for various monsters, as well as the changes made to the materials pipeline used in building the game."
     publishedDateTime: 2021-06-30T11:15:00Z
