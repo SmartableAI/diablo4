@@ -2,6 +2,7 @@
 title: "Diablo IV Quarterly Update June 2021 Barbarians"
 excerpt: "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ..."
 originalUrl: https://youtube.com/watch?v=JG42U6DMwg4
+webUrl: https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/
 type: video
 length: PT1M21S
 publishedDateTime: 2021-07-01T10:55:57Z
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DtPQgPvYkPndmCCDCKt3rVZyk759OBbISfbvVJ3Rql33fm2T9IVercC5eblI5spjg/iQWw+f/ErRTUVpS109X5fK+lYJ3vFUdtf9xVYqIMiA1GMQRRKyY1YVI1BlczTI4+fGluh/8ygMPuGQR1+WwU8acYzjk9nclET6uEkz+aSn2v4XXz8di9WdFQrouSyi7XckAymrpb7bH/FnnG9uSw+Cb85quivWW9tBmx5jM/6UF4+ZFJzfoekbxz5SvKflQirCtrAd6Rn4zbD2288HWdlv/mCfFKZj6cN9yHTeaJhb2LGh3Xc9c4apPjLUk7Css34HclgZLEYXg+Yq6b0sD1fZTrBmny2eE/TlyGrfsfaV7jPmCQohW28f9wDciVLpFanZ0Ag2Q1FMQ8OD9y8ErA==;ut32m2LYc+LkZiDzZtohAQ=="
+secured: "A8XBfycvG6V+F8AM66otXwovOz69kOWjnIC/MjeTFrV/3py5KVaAvdrEnHwy1EKAviyZqgs/nAsZzulh7/vyGAbPsl6ubFqx5oAHtGyiN5CEOCTtAYgeTomSD9DmhBXs41F68WmYc9cSxCaH1RIoF5PvnAwADM2JMpQOfzxNAapXpX/dvy1CZKTVprJuNXboxIFYbsZ5t+ogjPSVS8gVKrMrrGbQ5g4zBls5CBwXgkRoDXQElQuylgAOz66R8zLZ9eBD0tT4JTVzHKXBdd0k/VJX4liiwR71Nk4xDXpEQxzdjrNsoUpLlVEwv5yPZwc9s6BrYih0VRA91lJ5ImCLNxko4qXPnB+GDuwLSvOru1f/M/pJR2WVLcsqMEPHLbwGFMb4VVWgOsVPnmEpYCbDzQ==;zFh8tw5fiGWkuUbtXa7DvA=="
 ---
 
