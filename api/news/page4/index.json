@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline.md",
+      "title": "New Diablo 4 Class Reveal Teased For BlizzConline",
+      "excerpt": "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline/index.json",
+      "webUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
+      "originalUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
+      "publishedDateTime": "2020-12-15T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
       "title": "Diablo IV Quarterly Update—December 2020",
       "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
@@ -1081,57 +1123,6 @@
       "topics": [
         "Diablo 4",
         "Sorceress"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-diablo-4s-endgame-is-being-designed-to-make-hardcore-players-happy.md",
-      "title": "Diablo 4's Endgame Is Being Designed to Make Hardcore Players Happy",
-      "excerpt": "Diablo 4 has a new developer update that goes into details about skill progression and an endgame that should please hardcore players.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-diablo-4s-endgame-is-being-designed-to-make-hardcore-players-happy/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-development-update-endgame",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-development-update-endgame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2020/06/25/diablo-4-blogroll-1593086629440.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],

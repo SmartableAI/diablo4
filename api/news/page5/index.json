@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-29-diablo-4s-endgame-is-being-designed-to-make-hardcore-players-happy.md",
+      "title": "Diablo 4's Endgame Is Being Designed to Make Hardcore Players Happy",
+      "excerpt": "Diablo 4 has a new developer update that goes into details about skill progression and an endgame that should please hardcore players.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-diablo-4s-endgame-is-being-designed-to-make-hardcore-players-happy/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-development-update-endgame",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-development-update-endgame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2020/06/25/diablo-4-blogroll-1593086629440.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement.md",
       "title": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT",
       "excerpt": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT Blizzard Entertainment was forced to cancel its annual BlizzCon fan ...",
@@ -1056,48 +1107,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement Trailer Reaction \"By Three They Come\" from Blizzcon 2019",
-      "excerpt": "FRoZeNShAdY reacts to the Diablo 4 By Three They Come from Blizzcon 2019.For more like and subscribe.Thank you for watching!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=GiCO_gRVYoQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GiCO_gRVYoQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GiCO_gRVYoQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-19T16:35:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FRoZeNShAdY",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }
