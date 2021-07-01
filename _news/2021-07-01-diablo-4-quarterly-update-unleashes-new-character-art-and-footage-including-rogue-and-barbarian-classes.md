@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Blizzard details Diablo 4 customization options and new enemies"
-excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-publishedDateTime: 2021-06-30T11:18:00Z
-originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
-webUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
-ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+title: "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes"
+excerpt: "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians."
+publishedDateTime: 2021-07-01T02:14:00Z
+originalUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
+webUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Play Station Universe
+  domain: psu.com
 
 topics:
   - Diablo 4
+  - Barbarian
 
 images:
-  - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
-    width: 2919
-    height: 1440
+  - url: "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg"
+    width: 749
+    height: 428
     isCached: true
 
 related:
@@ -43,6 +38,22 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png"
         width: 880
         height: 440
+        isCached: true
+  - title: "Blizzard details Diablo 4 customization options and new enemies"
+    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
+    publishedDateTime: 2021-06-30T11:18:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 107
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
+        width: 2919
+        height: 1440
         isCached: true
   - title: "New Diablo 4 quarterly update covers art, character models, and more"
     excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
@@ -90,20 +101,6 @@ related:
         width: 1920
         height: 947
         isCached: true
-  - title: "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes"
-    excerpt: "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians."
-    publishedDateTime: 2021-07-01T02:14:00Z
-    webUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 87
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg"
-        width: 749
-        height: 428
-        isCached: true
   - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
     excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
     publishedDateTime: 2021-07-01T02:41:00Z
@@ -119,6 +116,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "sX9fgHzCmHFVCMmCiSt5VuXOzwUIgcVV7iU1oIghT3OZO7KwFVMUpPpJW5nPsAb+MOOVrbdqluOLRNFTwT9kwh1hkL6qqpGoWaPscVDtQau7MYBLfgJvgg3AyQkZfn9RdIOxpt9uvK0RsKTH2Hyjql7kwgWQhYzJYj4cx4Awg9MiEvLv9ZOquW+qos2arfdhtPwQRU5l3pBN2Cpr1wD3+exSCTkulApOiCGRbBljZURZVwbpfdR9AvK49VTPpl8qGNKHtkFuTgTAYi87/aOeDkaxHSfxMDsxFhM76UB2tNxWssT8RrUc51KVPdru+Zn4MmvIG3OUhE0kON7znEVzTn1osnvpVKRO2TY9PuzSMcQ=;mpZEJ0gC6k41xrHI4tzSqA=="
+secured: "KVfROtor6/HGLLkk9DfPHZHITg9OuTwJeUHDE9IQvppVFYKHIAm4FaLlLYIKqNbjzJR3NEKResrHSm5FAtWgGKM9sevVamI/kSeOja+5KzzACVmxR6pTWXI0YobKudbgICK2lyUjug9kOXJIr/Nc5u8vu0xLs6RhpZlsbVaWMvDsI5H4OBamQKOZoJWChYqrj+49Bfvj6uKMSIvJDuD6zGgI/IHpF6De1Sc39x9Lc4t4hdZtJ+OM2SsOQWegyv4rn/A32Ay2ZDKVnM2HmuxGAxl3t+/rGQ62ssRiPD+McekaYM+Yf2JaQsHI8ysKCFmjMxmj/y8oQ+yYCqTWwS+OWH4tt4ijlZNGP6DQXQEX1z8=;3ftzvP5zhJb5KhY7e1AF6Q=="
 ---
 

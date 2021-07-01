@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Blizzard details Diablo 4 customization options and new enemies"
-excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-publishedDateTime: 2021-06-30T11:18:00Z
-originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
-webUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
-ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
+excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
+publishedDateTime: 2021-07-01T02:41:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
+webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
 type: article
-quality: 107
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
-    width: 2919
-    height: 1440
+  - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -43,6 +37,22 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png"
         width: 880
         height: 440
+        isCached: true
+  - title: "Blizzard details Diablo 4 customization options and new enemies"
+    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
+    publishedDateTime: 2021-06-30T11:18:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-character-customization/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 107
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/d43.jpg"
+        width: 2919
+        height: 1440
         isCached: true
   - title: "New Diablo 4 quarterly update covers art, character models, and more"
     excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
@@ -104,21 +114,7 @@ related:
         width: 749
         height: 428
         isCached: true
-  - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
-    excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
-    publishedDateTime: 2021-07-01T02:41:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 78
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "sX9fgHzCmHFVCMmCiSt5VuXOzwUIgcVV7iU1oIghT3OZO7KwFVMUpPpJW5nPsAb+MOOVrbdqluOLRNFTwT9kwh1hkL6qqpGoWaPscVDtQau7MYBLfgJvgg3AyQkZfn9RdIOxpt9uvK0RsKTH2Hyjql7kwgWQhYzJYj4cx4Awg9MiEvLv9ZOquW+qos2arfdhtPwQRU5l3pBN2Cpr1wD3+exSCTkulApOiCGRbBljZURZVwbpfdR9AvK49VTPpl8qGNKHtkFuTgTAYi87/aOeDkaxHSfxMDsxFhM76UB2tNxWssT8RrUc51KVPdru+Zn4MmvIG3OUhE0kON7znEVzTn1osnvpVKRO2TY9PuzSMcQ=;mpZEJ0gC6k41xrHI4tzSqA=="
+secured: "lSZRcgWPwRtWVil+Hz536SQq9GHpcflci7MrNT/dadjv8VYyWPv0h3AyXdodRmH/YBQoQSvwJ2fXpFGL2r4MAcbqap/IxfbI9vl1iGFSW86klkaUlx8EIyx2TvqawZ4u1IiCp/RsHTXkQY1lYvqyrq/kyhPjBElDjc3HAFid5jC5/LBUOcGDqOid0azgeKZaP6+9G4RkIis7VPApVEkV7dFuXllzI7C4w6cVGXnSId8ZRqUtUu95vuYVdImUSl/ew5Jz33zDOGOFUcYDMID8ibHG+RncsBT1LFzjDOjA5Y9AufDJJqJjsUhgIz6o/uApXtay4YL72zoxfzuS+nkcyIb9l7qBWEHdbFUvuD5YqRQ=;P/Dr+fo0SvO4ONBsZwL34Q=="
 ---
 

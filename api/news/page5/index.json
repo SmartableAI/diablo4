@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement.md",
+      "title": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT",
+      "excerpt": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT Blizzard Entertainment was forced to cancel its annual BlizzCon fan ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=xKnfRkaePPA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKnfRkaePPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xKnfRkaePPA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-26T17:39:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
+      "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
+      "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
+      "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
+      "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
+      "publishedDateTime": "2020-08-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees.md",
       "title": "Diablo 4 and Overwatch 2 shown to Blizzard employees",
       "excerpt": "A new report has come out by a French publication website regarding some unrelease Blizzard titles, Diablo 4 and Overwatch 2. The report says that both of the titles have been shown to a select ...",
@@ -1014,110 +1098,6 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-19-system-design-in-diablo-iv-part-i.md",
-      "title": "System Design in Diablo IV (Part I)",
-      "excerpt": "Special Update from David Kim, Lead Systems Designer on Diablo IV",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-19-system-design-in-diablo-iv-part-i/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-19T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019.md",
-      "title": "A Letter from our Game Director – BlizzCon 2019",
-      "excerpt": "We&amp;#39;re overwhelmed by the response we&amp;#39;ve seen from our community to Diablo IV at BlizzCon. Our Game Director, Luis Barriga, has a few words he&amp;#39;d like to share.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/me/MEMUO5FEFXMP1573606010411.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
         "Diablo 4"
       ]
     }

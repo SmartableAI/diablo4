@@ -86,6 +86,34 @@ related:
         width: 1920
         height: 947
         isCached: true
+  - title: "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes"
+    excerpt: "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians."
+    publishedDateTime: 2021-07-01T02:14:00Z
+    webUrl: "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 87
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg"
+        width: 749
+        height: 428
+        isCached: true
+  - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
+    excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
+    publishedDateTime: 2021-07-01T02:41:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 78
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xs1lYczS/KE5aEBXbp1t3mqzPJgIQrIVAH3502e/lQDnOZMaArWfn1tWsgxIgR9lRGhj103LBvNpNeQ3Sdc7fSzW+Fp/i9nDDepyMogRz4pMFqAayj8wHMgu+ZwsBVG/jEaQDmko2iMkbs4s0uLyZSYLRzzICy+mHKQvhiRFu9YPu9XTe/j66j8UW+S2tSn60W/g98c3ljIFdkKtkFGwCN4pTvrvzs+OVEzBPxlB3TFVYuny8b7V4aNT7vjT06WY/YRagzBx2DxOed4xk7nFs+xSZUdiFVkNe2GpyD0Sb9cJdnm21qbSxBPiwvHCWYgubAwK9G2wOL5Fm8qXv6g7FONo9pgoX5IUV/zgWtnCsGQ=;T8wNOGskAaFFoyzig2GfgA=="
 ---

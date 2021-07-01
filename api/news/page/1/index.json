@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way.md",
+      "title": "Holy hell, Diablo 4 looks gorgeous (in a totally gross way)",
+      "excerpt": "Blizzard’s latest quarterly update on the development of Diablo 4 gives a deep-dive look at its gorgeously gruesome art style. From a gameplay perspective, perhaps the most important aspect is that ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way/index.json",
+      "webUrl": "https://www.techradar.com/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
+      "originalUrl": "https://www.techradar.com/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SRxtFj6Lsmz8FduJnwuzCg-480-80.png",
+          "width": 480,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
+      "publishedDateTime": "2021-06-30T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-new-diablo-4-art-character-creation-and-enemy-designs-revealed-by-blizzard.md",
+      "title": "New 'Diablo 4’ Art, Character Creation And Enemy Designs Revealed By Blizzard",
+      "excerpt": "Blizzard revealed some new character customization options and gruesome enemy designs in its latest quarterly update for \"Diablo 4.\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-new-diablo-4-art-character-creation-and-enemy-designs-revealed-by-blizzard/index.json",
+      "webUrl": "https://www.ibtimes.com/new-diablo-4-art-character-creation-enemy-designs-revealed-blizzard-3240412",
+      "originalUrl": "https://www.ibtimes.com/new-diablo-4-art-character-creation-enemy-designs-revealed-blizzard-3240412",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/01/diablo-4s-rogue-class-revitalizes-classic-version-brand-new-moves-abilities.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/new-diablo-4-art-character-creation-enemy-designs-revealed-blizzard-3240412?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/new-diablo-4-art-character-creation-enemy-designs-revealed-blizzard-3240412?amp=1",
+      "publishedDateTime": "2021-06-30T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-diablo-iv-quarterly-updatejune-2021.md",
       "title": "Diablo IV Quarterly Update—June 2021",
       "excerpt": "Explore the details of character design, customization, and monster design with some of the artists behind Diablo IV.",
@@ -10,7 +103,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -1001,99 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-the-best-games-like-diablo-to-play-while-waiting-for-diablo-4.md",
-      "title": "The best games like Diablo to play while waiting for Diablo 4",
-      "excerpt": "If you’re reading this then you probably know that Diablo 4 is coming, Diablo 2 is being resurrected, and it’s not long until Mephisto, Baal, Diablo and the old team will try to recapture our hearts, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-14-the-best-games-like-diablo-to-play-while-waiting-for-diablo-4/index.json",
-      "webUrl": "https://www.techradar.com/au/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
-      "originalUrl": "https://www.techradar.com/au/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yWfiFPHfwTSGF23KdSisSe-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
-      "publishedDateTime": "2021-03-13T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer - Actors React",
-      "excerpt": "Help get this channel off the ground - Like and Sub #Chicago #Blind #React.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/",
-      "originalUrl": "https://youtube.com/watch?v=-HCPFiw0a2g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HCPFiw0a2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-HCPFiw0a2g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Reacts",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
