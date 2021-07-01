@@ -1,0 +1,73 @@
+---
+category: news
+title: "Fully Customizable Diablo 4 Character Creation Marks A First For The Franchise"
+excerpt: "John Mueller, the art director for the game, took to the Blizzard blog to go into more detail about the character art in the upcoming game. Beyond just the characters, he also confirmed that they took ..."
+publishedDateTime: 2021-07-01T08:06:00Z
+originalUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise"
+webUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise"
+ampWebUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise?amp"
+cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise?amp"
+type: article
+quality: 103
+heat: -1
+published: false
+
+provider:
+  name: GameInformer
+  domain: gameinformer.com
+
+topics:
+  - Diablo 4
+
+images:
+  - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/07/01/8d587dae/73kwthhrfbdz1624658979967.png"
+    width: 800
+    height: 450
+    isCached: true
+
+related:
+  - title: "Diablo 4 Will Feature Fully Customisable Characters and Armor"
+    excerpt: "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics."
+    publishedDateTime: 2021-06-30T10:11:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4 will actually let you customise your character's face"
+    excerpt: "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color."
+    publishedDateTime: 2021-06-30T12:52:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
+    ampWebUrl: "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
+    cdnAmpWebUrl: "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 107
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg"
+        width: 660
+        height: 370
+        isCached: true
+  - title: "Diablo 4 adds character customization"
+    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
+    publishedDateTime: 2021-06-30T11:18:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+
+secured: "nSugPfszRb+3LsE2SD/XVZoBQrO4Fp8CGFEyEgp9e2pPYFZOvG4AC0g/O21qSMxNJV1C+9HCisJyDqGcgEZGIHP8AtLJPGZtZf2p7yFY2tjFEuLebeR4hczGLWF4rCDY6mpFSfASm5fuIkcfPkZv+vlk8P7fg9nnqCx7n1i8kjV2ZmLEvoOuxdMs5y8jtoaGcCrYSqHM9elzQ+/LftLGSGaLY+NrEVp0dmcr8409SpaeNWKRGP56VRmMh5GH3jb5qDrQ3uImqjZjqQhsH/4TdGWzIGxqRmg6BhJomHcAx1VIlUvZ4DAspiP9UJguaJEvlusEUmT4DC8iygcyP5HDuBUUfRFEZbtNrFN0r0Dztlc=;LCKyrwYka5tT6S5GVVl6RA=="
+---
+

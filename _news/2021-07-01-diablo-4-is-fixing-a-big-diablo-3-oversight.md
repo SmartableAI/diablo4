@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
-excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
-publishedDateTime: 2021-07-01T02:41:00Z
-originalUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
-webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
+title: "Diablo 4 is Fixing a Big Diablo 3 Oversight"
+excerpt: "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ..."
+publishedDateTime: 2021-07-01T09:35:00Z
+originalUrl: "https://heavy.com/games/diablo-4-character-creation/"
+webUrl: "https://heavy.com/games/diablo-4-character-creation/"
+ampWebUrl: "https://heavy.com/games/diablo-4-character-creation/amp/"
+cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/diablo-4-character-creation/amp/"
 type: article
-quality: 78
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: Heavy.com
+  domain: heavy.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://heavy.com/wp-content/uploads/2021/07/diablo-4-character-update.jpg?quality=65&strip=all"
+    width: 780
+    height: 439
     isCached: true
 
 related:
@@ -86,22 +88,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 is Fixing a Big Diablo 3 Oversight"
-    excerpt: "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ..."
-    publishedDateTime: 2021-07-01T09:35:00Z
-    webUrl: "https://heavy.com/games/diablo-4-character-creation/"
-    ampWebUrl: "https://heavy.com/games/diablo-4-character-creation/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/diablo-4-character-creation/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 107
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2021/07/diablo-4-character-update.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
   - title: "The Diablo 4 June quarterly update dives into character design and art direction"
     excerpt: "Blizzard Entertainment talked more about character customization and the designs for various monsters, as well as the changes made to the materials pipeline used in building the game."
     publishedDateTime: 2021-06-30T11:15:00Z
@@ -146,7 +132,21 @@ related:
         width: 749
         height: 428
         isCached: true
+  - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
+    excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
+    publishedDateTime: 2021-07-01T02:41:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 78
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "lSZRcgWPwRtWVil+Hz536SQq9GHpcflci7MrNT/dadjv8VYyWPv0h3AyXdodRmH/YBQoQSvwJ2fXpFGL2r4MAcbqap/IxfbI9vl1iGFSW86klkaUlx8EIyx2TvqawZ4u1IiCp/RsHTXkQY1lYvqyrq/kyhPjBElDjc3HAFid5jC5/LBUOcGDqOid0azgeKZaP6+9G4RkIis7VPApVEkV7dFuXllzI7C4w6cVGXnSId8ZRqUtUu95vuYVdImUSl/ew5Jz33zDOGOFUcYDMID8ibHG+RncsBT1LFzjDOjA5Y9AufDJJqJjsUhgIz6o/uApXtay4YL72zoxfzuS+nkcyIb9l7qBWEHdbFUvuD5YqRQ=;P/Dr+fo0SvO4ONBsZwL34Q=="
+secured: "918wqXoKsFskTmSbWf2q5UssNR7HoqLFvhBhj3k8/TnXtuKwY2Id4ECUdWDPAEyCLcdHDeOTXmq33O6nuH2im1VDjUDk4XoGnqe5pZAnlsxiiJy36Z6hCNLID7Mv2FwndJBvs277dic2V6C8PTqP9+fcBKzXDd7Z2VJhQXi7Att3rW1jnqotEOBABNajkILymkNgKGj6MO8/OdWyRaNALGjT7cRGufqPzbEvRhUWbVz+9YwV+PLP796PesYwdONeskfT433hfEYGAgu/ipchAy1y6Di+5MGceEcdBuOyfDbsnbiEuJ54P2QJl3a43YPssymt4fdCYHMBkstC8UWlXjqS2aeUS7KVnuedRLGypgs=;2ub7qimCq4FN2pEJpoKZtA=="
 ---
 

@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 is Fixing a Big Diablo 3 Oversight"
+    excerpt: "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ..."
+    publishedDateTime: 2021-07-01T09:35:00Z
+    webUrl: "https://heavy.com/games/diablo-4-character-creation/"
+    ampWebUrl: "https://heavy.com/games/diablo-4-character-creation/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/diablo-4-character-creation/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 107
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2021/07/diablo-4-character-update.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "The Diablo 4 June quarterly update dives into character design and art direction"
     excerpt: "Blizzard Entertainment talked more about character customization and the designs for various monsters, as well as the changes made to the materials pipeline used in building the game."
     publishedDateTime: 2021-06-30T11:15:00Z

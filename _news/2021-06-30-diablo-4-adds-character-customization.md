@@ -54,6 +54,22 @@ related:
         width: 660
         height: 370
         isCached: true
+  - title: "Fully Customizable Diablo 4 Character Creation Marks A First For The Franchise"
+    excerpt: "John Mueller, the art director for the game, took to the Blizzard blog to go into more detail about the character art in the upcoming game. Beyond just the characters, he also confirmed that they took ..."
+    publishedDateTime: 2021-07-01T08:06:00Z
+    webUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise"
+    ampWebUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise?amp"
+    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise?amp"
+    type: article
+    provider:
+      name: GameInformer
+      domain: gameinformer.com
+    quality: 103
+    images:
+      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/07/01/8d587dae/73kwthhrfbdz1624658979967.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "KpRFXR1Z90Q3zZcNfyNI7pZBRZHQ0zXFNowGEHKTiHVrzV2IwZAlvmXQD5vg+VIMbNEcwn63fXBMcGf30QUSppczhksu5Nq7RDz7Xwqv7Wyc7Xgfg1mgAqhw8ZtwdPjsmaZ4I1jHWHh5aj+/jAysyZK/OUMEGHOnM5f/VmkK9BmkTiUcK8GOMqHWqCp52WAv9aw0IHZwXVkDq1fSdGlmIXaMshkplfD7VOrpUT7ChGPjFi0m90zk7u/XB0PcrDF05Ae5ujpq659giwfnv6w+V3yvsFXRpMvdHZbBYph8Q+ES8LfJBAEpKKJU3wxSApWzSXtygj0CagIkGHkuagufwqSVzQZvQ9eTuebXfvVnFHQ=;qoavCOTaJU5+nHeWpBQg5g=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fully Customizable Diablo 4 Character Creation Marks A First For The Franchise"
+    excerpt: "John Mueller, the art director for the game, took to the Blizzard blog to go into more detail about the character art in the upcoming game. Beyond just the characters, he also confirmed that they took ..."
+    publishedDateTime: 2021-07-01T08:06:00Z
+    webUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise"
+    ampWebUrl: "https://www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise?amp"
+    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/07/01/fully-customizable-diablo-4-character-creation-marks-a-first-for-the-franchise?amp"
+    type: article
+    provider:
+      name: GameInformer
+      domain: gameinformer.com
+    quality: 103
+    images:
+      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/07/01/8d587dae/73kwthhrfbdz1624658979967.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Diablo 4 adds character customization"
     excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
     publishedDateTime: 2021-06-30T11:18:00Z
