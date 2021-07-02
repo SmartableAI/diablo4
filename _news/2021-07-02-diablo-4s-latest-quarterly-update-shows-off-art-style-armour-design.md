@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Diablo IV Quarterly Update—June 2021"
-excerpt: "Explore the details of character design, customization, and monster design with some of the artists behind Diablo IV."
-publishedDateTime: 2021-06-30T16:59:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021"
+title: "Diablo 4's Latest Quarterly Update Shows Off Art Style, Armour Design"
+excerpt: "Here's how the development for Diablo 4 has been going, according to Blizzard's newest quarterly Diablo 4 update."
+publishedDateTime: 2021-07-02T00:09:00Z
+originalUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art"
+webUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art"
+ampWebUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
+cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
 type: article
-quality: 162
-heat: 342
-published: true
+quality: 147
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
+  name: IGN
+  domain: ign.com
   images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,27 +24,25 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png"
-    width: 880
-    height: 440
+  - url: "https://sm.ign.com/t/ign_in/screenshot/default/diablo-4-cover_7rte.620.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
-  - title: "Diablo 4's Latest Quarterly Update Shows Off Art Style, Armour Design"
-    excerpt: "Here's how the development for Diablo 4 has been going, according to Blizzard's newest quarterly Diablo 4 update."
-    publishedDateTime: 2021-07-02T00:09:00Z
-    webUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art"
-    ampWebUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
-    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
+  - title: "Diablo IV Quarterly Update—June 2021"
+    excerpt: "Explore the details of character design, customization, and monster design with some of the artists behind Diablo IV."
+    publishedDateTime: 2021-06-30T16:59:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 147
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
     images:
-      - url: "https://sm.ign.com/t/ign_in/screenshot/default/diablo-4-cover_7rte.620.jpg"
-        width: 620
-        height: 349
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png"
+        width: 880
+        height: 440
         isCached: true
   - title: "Blizzard details Diablo 4 customization options and new enemies"
     excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
@@ -167,6 +167,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "dBgSAIGtDsNxBuAhrUHX8qlv2Ze4GPnmeq0X+Vyg29bDdXPXHPaXr9zxBHPKIJ2FRjQsI0rkkR46WRXjLHrz92RLlREriW+GpIHlN3gwyYLQVUUKFdzACPsrhniYaqmK4g1ZJqtg8IDrWu171TQ+n5/q5o0SAbENscgV0oVhGLEELCML78EI++qJYHgKz1bEFI+tPkEnUnd3/rCdn/t6FuRs8pNejIXMgEw2WhI7HB33qgbIabrvFn2MZCERmy++ur4isU3e4VEFmtpyVxfeNm2o5zj/YE3y9RU/MWHNr9PfAYvIr/Qv4GcL1WKcVMaZsg2J7gKOjP9csOCvZDOiMOY384r4hcF2MshmmCVrUzE=;vvI63cOxnhYGlcrAOC6QOg=="
+secured: "7BHyZiappCCUwiSPdVKU69fY2pqaATkpe9+O+ZHdFYaKkDp2UDXmQ0vdnCdyMqeHA9G2VXfmTFHLw6XI+RQ5EhuQSI0L9IM7Wz70jg1H5t4FpARWDKKcMnWYHsN/P7IHn27o9rriXx+7IustoLq1yG34PfOcsZJmmaafCZLQSGjfB0i5Mj6Tvu5rdeP24Fxt8nERYeOqVuC/kfHHwv7F3LZ5ioXexO6P4tS+21IkKvgRfUx2EvEZvhMli4KizN7dnDH+GJYjt57Qg2S3heIXBcSmrZXczbdfhmW6OuqdJRvs3gCTzxLsH81p8A0jCyzzfOiH3dQaIaTUXpuO0SY62ThWtAcoi23WaTOlyPOZmFo=;kRTbctkCE++RcaiaCc7NLg=="
 ---
 

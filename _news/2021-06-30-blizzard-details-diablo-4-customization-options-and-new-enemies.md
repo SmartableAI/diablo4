@@ -44,6 +44,22 @@ related:
         width: 880
         height: 440
         isCached: true
+  - title: "Diablo 4's Latest Quarterly Update Shows Off Art Style, Armour Design"
+    excerpt: "Here's how the development for Diablo 4 has been going, according to Blizzard's newest quarterly Diablo 4 update."
+    publishedDateTime: 2021-07-02T00:09:00Z
+    webUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art"
+    ampWebUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
+    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 147
+    images:
+      - url: "https://sm.ign.com/t/ign_in/screenshot/default/diablo-4-cover_7rte.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "New Diablo 4 quarterly update covers art, character models, and more"
     excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
     publishedDateTime: 2021-06-30T14:05:00Z
