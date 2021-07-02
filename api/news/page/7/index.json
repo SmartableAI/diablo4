@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019.md",
+      "title": "Diablo 4 Announcement: First Impressions & Reaction to Cinematic Trailer - Blizzcon 2019",
+      "excerpt": "The Diablo 4 announcement was made at Blizzcon 2019. Here are my first impressions and reaction to the cinematic trailer and ensuing panels. My live stream ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=qOLlCGWoFdA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOLlCGWoFdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qOLlCGWoFdA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T01:52:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rhykker",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming.md",
       "title": "DIABLO 4 Official Announcement and Gameplay trailers / Hell is Coming",
       "excerpt": "DIABLO 4 Official Announcement and Gameplay trailers. Hell is Coming my friends. For more game videos and trailers hit that like button, comment,share and ...",
@@ -1008,48 +1050,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "sHuRuLuNi",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-22-leak-diablo-4-embrace-the-darkness-blizzcon-gameplay-demo-teaser-announcement-intended.md",
-      "title": "LEAK: Diablo 4, \"Embrace the Darkness,\" BlizzCon Gameplay Demo & Teaser Announcement Intended",
-      "excerpt": "Diablo 4 has been leaked by multiple sources to Kotaku's Jason Schreier. This leak tells us that a Diablo 4 announcement teaser and even gameplay demo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-22-leak-diablo-4-embrace-the-darkness-blizzcon-gameplay-demo-teaser-announcement-intended/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-22-leak-diablo-4-embrace-the-darkness-blizzcon-gameplay-demo-teaser-announcement-intended/",
-      "originalUrl": "https://youtube.com/watch?v=HHXMkZkjDSA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HHXMkZkjDSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HHXMkZkjDSA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-22T10:31:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rhykker",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

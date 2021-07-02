@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-16-big-diablo-4-news-teased-for-blizzcon.md",
+      "title": "Big Diablo 4 News Teased for BlizzCon",
+      "excerpt": "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-big-diablo-4-news-teased-for-blizzcon/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
+      "publishedDateTime": "2020-12-16T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline.md",
       "title": "New Diablo 4 Class Reveal Teased For BlizzConline",
       "excerpt": "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ...",
@@ -1080,49 +1122,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-diablo-4-update-digs-into-the-sorceress-enchantment-mechanic.md",
-      "title": "Diablo 4 Update Digs Into the Sorceress’ Enchantment Mechanic",
-      "excerpt": "The latest Diablo 4 update gives players a look at the Sorceress' Enchantment system, alongside some brief talk about skills, items, and end game progression.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-diablo-4-update-digs-into-the-sorceress-enchantment-mechanic/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn3.dualshockers.com/wp-content/uploads/2019/11/diablo-4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/amp/",
-      "cdnAmpWebUrl": "https://www-dualshockers-com.cdn.ampproject.org/c/s/www.dualshockers.com/diablo-4-sorceress-enchantment-system/amp/",
-      "publishedDateTime": "2020-09-29T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
       ]
     }
   ],
