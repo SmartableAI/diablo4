@@ -56,6 +56,22 @@ related:
         width: 660
         height: 370
         isCached: true
+  - title: "Diablo 4 will offer full character appearance customization"
+    excerpt: "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ..."
+    publishedDateTime: 2021-07-02T21:43:00Z
+    webUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customization/"
+    ampWebUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
+    cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
+    type: article
+    provider:
+      name: ClutchPoints
+      domain: clutchpoints.com
+    quality: 107
+    images:
+      - url: "https://clutchpoints.com/wp-content/uploads/2021/07/Diablo-4-will-offer-full-character-appearance-customization-1024x574.jpg"
+        width: 1024
+        height: 574
+        isCached: true
   - title: "Diablo 4 adds character customization"
     excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
     publishedDateTime: 2021-06-30T11:18:00Z

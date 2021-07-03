@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
 webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
 type: article
 quality: 127
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg"
         width: 660
         height: 370
+        isCached: true
+  - title: "Diablo 4 will offer full character appearance customization"
+    excerpt: "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ..."
+    publishedDateTime: 2021-07-02T21:43:00Z
+    webUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customization/"
+    ampWebUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
+    cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
+    type: article
+    provider:
+      name: ClutchPoints
+      domain: clutchpoints.com
+    quality: 107
+    images:
+      - url: "https://clutchpoints.com/wp-content/uploads/2021/07/Diablo-4-will-offer-full-character-appearance-customization-1024x574.jpg"
+        width: 1024
+        height: 574
         isCached: true
   - title: "Fully Customizable Diablo 4 Character Creation Marks A First For The Franchise"
     excerpt: "John Mueller, the art director for the game, took to the Blizzard blog to go into more detail about the character art in the upcoming game. Beyond just the characters, he also confirmed that they took ..."
