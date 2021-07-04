@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4.md",
-      "title": "DIABLO 4 - EVOLUTION OF THE SORCERESS - FROM D1 TO D4",
-      "excerpt": "DIABLO 4 - EVOLUTION OF THE SORCERES - FROM D1 TO D4 Sorceresses are of the Zann Esu Clan. Athletic, affable, and self-assured, Sorceresses hardly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/",
-      "originalUrl": "https://youtube.com/watch?v=2kmG0225ORw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2kmG0225ORw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2kmG0225ORw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-15T14:39:08-07:00"
-    },
-    {
       "path": "_games/smithtainment-diablo-4-skill-trees-update-sorceress-enchantment-system.md",
       "title": "DIABLO 4 - SKILL TREES UPDATE - SORCERESS ENCHANTMENT SYSTEM",
       "excerpt": "DIABLO 4 - SKILL TREES UPDATE - SORCERESS ENCHANTMENT SYSTEM Blizzard is continuing to keep fans abreast of Diablo 4's development, and the ...",
@@ -273,6 +243,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T08:00:11-07:00"
+    },
+    {
+      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
+      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
+      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
+      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M42S",
+      "provider": {
+        "name": "Wolfcryer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T19:32:37-08:00"
     },
     {
       "path": "_games/wudijo-diablo-4-quarterly-update-q3-september-2020-skills-talents-sorceress-system.md",
