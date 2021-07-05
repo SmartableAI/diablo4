@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4.md",
+      "title": "Diablo 2 Resurrected Developer ‘Vicarious Visions’ is Also Helping Out on Diablo 4",
+      "excerpt": "From the impressive Tony Hawk's Pro Skater 1 and 2 remake from last year and Diablo 2: Resurrection on track for release later this year (check out our hands-on impressions here) Vicarious Visions has ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
+      "originalUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ausgamers.com/gameres/7605/images/695/Season_3_-_Diesel_Wraith.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-diablo-2-resurrected-dev-vicarious-visions-to-help-with-diablo-4.md",
       "title": "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4",
       "excerpt": "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ...",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "criticalhit.net",
         "domain": "criticalhit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed.md",
-      "title": "Diablo 4 – Rogue Specializations and World Groups Revealed",
-      "excerpt": "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
-      "originalUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
-      "publishedDateTime": "2021-02-19T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
         "images": null,
         "publishers": null,
         "authors": null
