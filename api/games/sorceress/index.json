@@ -176,7 +176,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 54,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9FK923_Wjbg/maxresdefault.jpg",
@@ -188,66 +188,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-02T22:04:16-08:00"
-    },
-    {
-      "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
-      "title": "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=btdQOgV_FNA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M53S",
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-02T21:56:36-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
-      "title": "Diablo 4: Sorceress Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M44S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-27T10:12:29-07:00"
     },
     {
       "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
@@ -278,6 +218,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-29T10:49:04-07:00"
+    },
+    {
+      "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
+      "title": "DIABLO 4 Exclusive 20 Minute SORCERESS Gameplay Reaction!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 https://www.twitch.tv/bannik13 DIABLO 4 Exclusive ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=btdQOgV_FNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/btdQOgV_FNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M53S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/btdQOgV_FNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-02T21:56:36-07:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
@@ -372,6 +342,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T18:24:40-08:00"
+    },
+    {
+      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
+      "title": "Diablo 4: Sorceress Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M44S",
+      "provider": {
+        "name": "Click Shoot Loot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-05-27T10:12:29-07:00"
     },
     {
       "path": "_games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update.md",
