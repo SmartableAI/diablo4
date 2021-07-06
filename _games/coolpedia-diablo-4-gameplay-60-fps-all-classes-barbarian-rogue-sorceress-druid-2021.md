@@ -2,6 +2,7 @@
 title: "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021"
 excerpt: "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ..."
 originalUrl: https://youtube.com/watch?v=rg2m2n9HBPo
+webUrl: https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/
 type: video
 length: PT28M36S
 publishedDateTime: 2021-07-05T21:40:16Z
@@ -25,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Ixh3wI5z6zTOjRQJhx95DI5r7nEXOyoS+HAxkiJ6N6adH9XuGhbZzxbG8Qn3VRaZyj9wAkhAxiiceS655Ei7O335AfZqk+msOhKTeboHWwMThYFEktSB6a7AV3+S4Q+ihX86WfhenRaF7ntzqM2eqh8E/dQ9q1SDk7ytYzRrAGzPu/kLwQPXB08/NoUMMiLX03L7XqVkWRAq6GfQfGbqSn6U8yQkxKLhLyMoQhaaRpC4Z0DASgC+hjxQs/ElZJKRYUvvykgmAXjjZPnULwFW7iRcSLfRsc1qWZnOZ0t0xRlTAOyBAKcOK7mUgHiN6Gs0/Npa2uvafjPyMjROLaDF6vPIfCNiK9bC3PiGXffbJYqD8RFK/sPo0CVPjywiZggUtPWetphsTENJOwZPHzVOmw==;yd6jJlR3FY/KqVPa8vFEWA=="
+secured: "c4sek968DxVUDVcL9DkRbktvSDO/HLkO9s/obwQZeS+tmzjCvimGdp+Js5KEI5CCPkJ2vxlhxd5BNS+JlIsQZlbxrTPctJHBTm6kd964hZ+ec4oa9LBzCQiDOR6XVV95HSDSDeVnzin7OXNtL6lUDopt+wbuFbVoBLpX5WOKVLd1X+lnfICCXrfZ9O1X4jq8+ecLWB7TZUm3nMagEhzNWNwLmLtR1hIenxtz47R/VJJgT2v+HZf/qmkjGRB0p3U/kqZex1RSMoGNr7sQFnSO/ika8VLNGymKukelkGrN3gCjijoyXgKsOCmZ0uVWU8c/gRw7cDaHGq0avVBQDNgncWjB39XvE3UIf0F5gP6juYw/pe2IdPfWooVKF8IQrEtPicAsalgSWmA1BCMN3WOhiA==;teRpYI9ubdDBk+GKTafphQ=="
 ---
 
