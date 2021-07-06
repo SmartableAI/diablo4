@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Diablo 4 adds character customization"
-excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-publishedDateTime: 2021-06-30T11:18:00Z
-originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
-webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
-ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
+title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
+excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
+publishedDateTime: 2021-07-06T04:12:00Z
+originalUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
 type: article
-quality: 87
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GiveMeSport
+  domain: givemesport.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
+    width: 960
+    height: 620
+    isCached: true
 
 related:
   - title: "Diablo 4 Will Feature Fully Customisable Characters and Armor"
@@ -86,23 +88,18 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
-    excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
-    publishedDateTime: 2021-07-06T04:12:00Z
-    webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+  - title: "Diablo 4 adds character customization"
+    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
+    publishedDateTime: 2021-06-30T11:18:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
     type: article
     provider:
-      name: GiveMeSport
-      domain: givemesport.com
-    quality: 95
-    images:
-      - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
-        width: 960
-        height: 620
-        isCached: true
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
 
-secured: "KpRFXR1Z90Q3zZcNfyNI7pZBRZHQ0zXFNowGEHKTiHVrzV2IwZAlvmXQD5vg+VIMbNEcwn63fXBMcGf30QUSppczhksu5Nq7RDz7Xwqv7Wyc7Xgfg1mgAqhw8ZtwdPjsmaZ4I1jHWHh5aj+/jAysyZK/OUMEGHOnM5f/VmkK9BmkTiUcK8GOMqHWqCp52WAv9aw0IHZwXVkDq1fSdGlmIXaMshkplfD7VOrpUT7ChGPjFi0m90zk7u/XB0PcrDF05Ae5ujpq659giwfnv6w+V3yvsFXRpMvdHZbBYph8Q+ES8LfJBAEpKKJU3wxSApWzSXtygj0CagIkGHkuagufwqSVzQZvQ9eTuebXfvVnFHQ=;qoavCOTaJU5+nHeWpBQg5g=="
+secured: "SUFW66UNgXMlsk9tpi/k2x3x6IEN9zfnUVrc0Q8L3DLuau+xdsrJjQPT786fg74ZhaIxIKxW+GpqBxd1fV47+/WOWj3Kv/5URjSRXwKguhqbrtDkzdSJmuFyoNh6uxnlnlWgU3qQ9Bg6MTPTlVLXTVeXP2ZRzN7WO/vsy9Uz69htR36m9RtwsD0jBa5Xn7ckNSa+dHPAcZz+CaU4NertWSbGSHj/A64eayuPWAnshZE4Ybkw7YWryYEWn1vAcFGZQc3nj1KAOeOFqTldR0jXtBb5lfzcAEvuVnJGL+iIMSg/Vm4EN+ltIo/pUGwmUxp/MWHuC+MmBJWGhdZV1sj5/Vs6XaPPyHumBKn4+NIJxeo=;zaCZPFG6dmuZxhTIwYYnRA=="
 ---
 

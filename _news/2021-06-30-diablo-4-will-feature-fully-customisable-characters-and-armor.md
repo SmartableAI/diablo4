@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
 webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
 type: article
 quality: 127
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/07/01/8d587dae/73kwthhrfbdz1624658979967.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
+    excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
+    publishedDateTime: 2021-07-06T04:12:00Z
+    webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    type: article
+    provider:
+      name: GiveMeSport
+      domain: givemesport.com
+    quality: 95
+    images:
+      - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
+        width: 960
+        height: 620
         isCached: true
   - title: "Diablo 4 adds character customization"
     excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
