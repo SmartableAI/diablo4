@@ -4,6 +4,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
+      "title": "DIABLO 4 EXCLUSIVE FIRST LOOK AT GAMEPLAY FOR THE DRUID, SORCERESS AND BARBARIAN CLASSES!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/c/bannik13?sub_confirmation=1 Diablo 4 is coming!!!! It is official! Let's check out the exclusive first look at game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/",
+      "originalUrl": "https://youtube.com/watch?v=eIhE2Gd7vZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIhE2Gd7vZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Sorceress",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eIhE2Gd7vZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T18:24:40-08:00"
+    },
+    {
       "path": "_games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay.md",
       "title": "Download Diablo 4 Barbarian, Sorcerer and Druid Gameplay",
       "excerpt": "Link Download : http://bit.ly/diablo_4_4 Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. Diablo ...",
@@ -880,36 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-08T13:15:48-07:00"
-    },
-    {
-      "path": "_games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4.md",
-      "title": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4",
-      "excerpt": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4 The Barbarian is a true warrior. Using pure physical force as a means to destroy his enemies, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/",
-      "originalUrl": "https://youtube.com/watch?v=RSpETEgC4X0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSpETEgC4X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M33S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RSpETEgC4X0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-08-28T14:01:14-07:00"
     }
   ],
   "nextPage": 3

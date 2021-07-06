@@ -4,6 +4,36 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4.md",
+      "title": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4",
+      "excerpt": "DIABLO 4 - EVOLUTION OF THE BARBARIAN - FROM D2 TO D4 The Barbarian is a true warrior. Using pure physical force as a means to destroy his enemies, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-barbarian-from-d2-to-d4/",
+      "originalUrl": "https://youtube.com/watch?v=RSpETEgC4X0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RSpETEgC4X0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M33S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RSpETEgC4X0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-28T14:01:14-07:00"
+    },
+    {
       "path": "_games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4.md",
       "title": "DIABLO 4 - EVOLUTION OF THE SORCERESS - FROM D1 TO D4",
       "excerpt": "DIABLO 4 - EVOLUTION OF THE SORCERES - FROM D1 TO D4 Sorceresses are of the Zann Esu Clan. Athletic, affable, and self-assured, Sorceresses hardly ...",

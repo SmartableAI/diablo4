@@ -66,6 +66,38 @@
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
+      "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
+      "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/",
+      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
+      "provider": {
+        "name": "Coolpedia",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-05T14:40:16-07:00"
+    },
+    {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
       "title": "Diablo 4 Gameplay With Sorceress, Barbarian, Druid",
       "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, UI, enemies and loot that ...",
@@ -895,37 +927,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T15:59:13-07:00"
-    },
-    {
-      "path": "_games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world.md",
-      "title": "Diablo 4 Mage, Barbarian, and Druid, Lilith Will Be Diablo - Possible Open World",
-      "excerpt": "Like and Subscribe to Xtimus Diablo 2 Content. Join the Notification Squad: Click the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/",
-      "originalUrl": "https://youtube.com/watch?v=yl8XCtDSYQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yl8XCtDSYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M7S",
-      "provider": {
-        "name": "Xtimus",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yl8XCtDSYQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T01:00:07-07:00"
     }
   ],
   "nextPage": 2
