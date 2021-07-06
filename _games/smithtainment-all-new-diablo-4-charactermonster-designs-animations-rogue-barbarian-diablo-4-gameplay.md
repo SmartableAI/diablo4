@@ -2,6 +2,7 @@
 title: "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE -  BARBARIAN - DIABLO 4 GAMEPLAY"
 excerpt: "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE - BARBARIAN - DIABLO 4 GAMEPLAY Art is a critical part of what makes ..."
 originalUrl: https://youtube.com/watch?v=a-5aGfU1gNI
+webUrl: https://smartable.ai/apps/diablo4/game/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay/
 type: video
 length: PT12M49S
 publishedDateTime: 2021-07-05T18:15:58Z
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VfrDx7+QuUfPJt9eYx1mCGCb1RMdweL2zWAWgrjDZLW5G+ZbDvEwmKEnqn9FBWH3a57wtn9ZgGNYpIUzO3xbPoxI62ti0Ku4OhnHyTXFYsOVgrMV74J7WmUkc9P+DEVTbOaauUVueLyDsvTbbh7DCCrmwtzPzYJHlwwOo39xTNW95Db46RTB+QN1EhiLw00x4t3PEgQSXJtDWXCkjugZfqfqVfTztHLiFvuflpY08OqcNbZGyu8bHsJ62eQD9KsUONQz5OnGV6ulsNMOddfUFU85N7inKoMXemQrKhjw34mxMeTnPcyabR65XHwnRc+nQsjazKK3d+4NNaS+tJYnFmekGdIjomah3cVEvBOedBjvXJtovVvUDXnMKBhJeimiO0yYPZcsNYyfqTMw9Oi/Tg==;D+xJp9o3H+momfAeSr774A=="
+secured: "SoUVKihTuBJ6gW+1f8kSfDZnzAQpiVvyffLp1+Rqu6XhCp+DQQ9MOmZ1wRRiryL5iDaEjqvXM9IrDrYSnRX4Z+u2uOnwL6zxvIs38tg356UhdGnRIOe2/5x8cGNtGX8UjzodUf85UqGQmjFaF0a3M/R1WrJLfBr2GOQhXqYAi7K+TnGOJzvT/A5Hw36AeXk69Ay6YLEbAWJpE5AThzszUuMzc9nHmdgxT/KkSCCuYgdFtCk/3VPYHt8f4MqIWveRYuaMCgNIw/XoSCWS6f4I4oM/5cXnVEhnjeL62XMKjR8vPBgubPImd1t7b8l78RPRbUy4DRtTfXK9ffHysa39znJcbKFx03resrU5sO+9P9IzRycqIfRGNvp58zvpfcVj;+/UbbM6e1WhtxOOYzT01sg=="
 ---
 
