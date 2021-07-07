@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-60-fp
 type: video
 length: PT28M36S
 publishedDateTime: 2021-07-05T21:40:16Z
-heat: 102
+heat: 106
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "c4sek968DxVUDVcL9DkRbktvSDO/HLkO9s/obwQZeS+tmzjCvimGdp+Js5KEI5CCPkJ2vxlhxd5BNS+JlIsQZlbxrTPctJHBTm6kd964hZ+ec4oa9LBzCQiDOR6XVV95HSDSDeVnzin7OXNtL6lUDopt+wbuFbVoBLpX5WOKVLd1X+lnfICCXrfZ9O1X4jq8+ecLWB7TZUm3nMagEhzNWNwLmLtR1hIenxtz47R/VJJgT2v+HZf/qmkjGRB0p3U/kqZex1RSMoGNr7sQFnSO/ika8VLNGymKukelkGrN3gCjijoyXgKsOCmZ0uVWU8c/gRw7cDaHGq0avVBQDNgncWjB39XvE3UIf0F5gP6juYw/pe2IdPfWooVKF8IQrEtPicAsalgSWmA1BCMN3WOhiA==;teRpYI9ubdDBk+GKTafphQ=="
+secured: "/lMQgCQIejoKztHsmoef1bV6gLVCUYPev2AN4+KG7mcMuwkOvKq6KJkvRFhNXV2zrJSwQLlAZHJO4o7lB4SddQueBQBwAKRoF+dnEahKc1CHLCp+wirfRXX2lS593DU2Hp7Z/mM8TP4cTCK6LYsxN7QxtgIZVgthWnvezpEOcLuQMNluRB3NGJjEI++WDQaFAQdBMXE8oR36DigAzPzmW4fZQBjCP0dOkB710LaWDbss5Dgy9sxxoW2UfyCKYdlgU7gDZJKYjYkuwdmHgDut7ZVymi8ctAVcVzJYMBp/JQiJQYO4faVdrPDUcX4Xp13+KCEIgzeg9POM9BYTcszkPGk8XTxwjmGHo2mCmaeCC2mCOqqrCLOjpTxk+Ly4AXwwE8UCQU3JZ/dwkV7gYZuXU2oamC1unaCfemEQeQR9/bA=;ZOxta1MZ+W1OVngKkKV3EA=="
 ---
 
