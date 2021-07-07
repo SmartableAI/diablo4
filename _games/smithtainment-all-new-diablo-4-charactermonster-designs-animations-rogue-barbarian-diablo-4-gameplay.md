@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/smithtainment-all-new-diablo-4-ch
 type: video
 length: PT12M49S
 publishedDateTime: 2021-07-05T18:15:58Z
-heat: 110
+heat: 104
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a-5aGfU1gNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SoUVKihTuBJ6gW+1f8kSfDZnzAQpiVvyffLp1+Rqu6XhCp+DQQ9MOmZ1wRRiryL5iDaEjqvXM9IrDrYSnRX4Z+u2uOnwL6zxvIs38tg356UhdGnRIOe2/5x8cGNtGX8UjzodUf85UqGQmjFaF0a3M/R1WrJLfBr2GOQhXqYAi7K+TnGOJzvT/A5Hw36AeXk69Ay6YLEbAWJpE5AThzszUuMzc9nHmdgxT/KkSCCuYgdFtCk/3VPYHt8f4MqIWveRYuaMCgNIw/XoSCWS6f4I4oM/5cXnVEhnjeL62XMKjR8vPBgubPImd1t7b8l78RPRbUy4DRtTfXK9ffHysa39znJcbKFx03resrU5sO+9P9IzRycqIfRGNvp58zvpfcVj;+/UbbM6e1WhtxOOYzT01sg=="
+secured: "CEpaO5x7WMH3GWL9vAh4ei8zHZv9znrnLEMNbK23ohdLzQ12K1y0BN4UaJDACsGrC//3m1QZfftagG+y/VB+sW6gm4+Fiyd57lzfNsnUPlDKv1hEayh4/UM1HtjDpEIHOneaH3deMQHZoW2QlEoqi1i1p76e7dcT7v8ZBX6nkL0Syei4LeAr6cPSgkR7qEguRCkfsEf/x5/V8N1UxeQCdr5L2wUqiIu04K9sEWzKgaZ8dJaGGqBxNny/g0P1ZMW97Aap6gDidE/XYo1LTT7MuqbedgPPucc66lFGd0RwJPCBochyO1cdDTMma3iS0sRSyQI2iRzYIFQ6ZwIUW936sTbBXU1biQr5SnfIbaM7c0DPYnuOnzuiWLjSh8xdHeS1mYj+vDMExtYRXlmC+4bDCzTwo2JQMg6L2cyHJ/pSSgg=;Q/F4FiErUtB9GzbYW1CS4g=="
 ---
 
