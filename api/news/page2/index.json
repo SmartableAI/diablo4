@@ -2,6 +2,39 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard.md",
+      "title": "Diablo 4 will “advance the art of the action-RPG genre”, says Activision Blizzard",
+      "excerpt": "Activision Blizzard chief operating officer Daniel Alegre mentions that the company feels that Diablo 4 will “advance the art of the action-RPG genre”. Alegre also notes that development on the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/action-rpg",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/action-rpg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/action-rpg?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/action-rpg?amp",
+      "publishedDateTime": "2021-05-05T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts.md",
       "title": "I DIDN'T EXPECT THAT! | Diablo IV Announce Cinematic - By Three They Come REACTION (Agent Reacts)",
       "excerpt": "Hope you liked it! If you did, make sure to smash that like button down below, subscribe and turn on the bell for future notifications! Original video: ...",
@@ -1060,48 +1093,6 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-iv-rogue-announce-trailer.md",
-      "title": "Diablo IV - Rogue Announce Trailer",
-      "excerpt": "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-iv-rogue-announce-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-19-diablo-iv-rogue-announce-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=LvrLZ4yETHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T14:43:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diablo",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
