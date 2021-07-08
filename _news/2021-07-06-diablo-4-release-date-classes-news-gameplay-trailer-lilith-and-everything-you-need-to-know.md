@@ -20,11 +20,11 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://site-cdn.givemesport.com/images/21/07/06/baaeda59ba18990da0a3e6d708ab849d/960.jpg"
+  - url: "https://site-cdn.givemesport.com/images/21/07/08/baaeda59ba18990da0a3e6d708ab849d/960.jpg"
     width: 960
     height: 620
     isCached: true
 
-secured: "SruzvLz0azLxgmhT0JelWob27yhJNPhsZMvKnIhiL+SMeP6OIakap8Wr+wIMC9dHEAtyVfipKsJdZ/0pxLoVZelJ6loTy0Pdk7VWfkGEegwUAFPXtic4pOEyDW9iEzTzS0we2cnI6bOL48Gw3O2FqJGVWlPw4fesn1zBJuOZ84h+GB+gHknntUNZcs6OSZPzK9T/7w8qyen55/lsgqb+G4rU27oUNVpW0e1iG2o3nYgnIyfzbGt5ENLdwFgFJLEATBqBgq4qpW8MK4l4U3hFhEolYr29l16soJeB8GK1P4w2bb1jdXs7y8gqcmvpI01f9d3bHB7+c/EngUxbrRirfmFOCRRjkQAzIOoLRtHgJnQ=;gqAHs07P05uv0Rf2AUrxHw=="
+secured: "pMiX3wJTDXmVXhD6pDaVr8lVuA5keY4dVcF2DaBrZb7lMKm8eWM5mXTHIP1xlBDPCz9YwvLDQVrz27JpHTL3rE9RX7GqFmDhaH6a4tbSnL0wq2wbjcPSJnOGp0bcHL174rCE1HcMv+zLdwZTOk5X5n4Wn+fOlh9weQ8d9D2RZror7R5HAIHUlJ9VJu/owEiamFz34vSgNTxLFCVpc1LW8W8By1Ufm9i1L/+VjH6MfL7OVyjqUvljAcOLfRudeUXe68YHuqmJqQmu76znfqUHWdbPxfeZBSfeLervOnDW3Nd1GqZiNUO6D6+C1vvKsc+blITa5pPRitM9jsTFgRjv7SwVNR/4YiK24/inqwpumCY=;tX9NAI4Xv9kGhZAn39AlXA=="
 ---
 
