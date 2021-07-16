@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Diablo 4: Release Date, Classes, News, Gameplay, Trailer, Lilith and Everything You Need To Know"
-excerpt: "Upcoming game Diablo 4 is on its way and we have all the details you need to know before its release here. The dungeon crawler action role-playing game is part of the great Diablo franchise and ..."
-publishedDateTime: 2021-07-06T03:52:00Z
-originalUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know"
-webUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know"
+excerpt: "Highly anticipated game Diablo 4 will continue the hugely successful franchise and we have all the details you need to know about the game. The dungeon crawler action role-playing game is part of the ..."
+publishedDateTime: 2021-07-06T04:15:00Z
+originalUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
+webUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
 ampWebUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
 cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
 type: article
 quality: 94
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: GiveMeSport
@@ -25,6 +25,38 @@ images:
     height: 620
     isCached: true
 
-secured: "Be8h0p9VXf0oT3zupRO9KElVynmtFuHsq1ChSZ6aMwmXjtbYBZurOXBpJ9u44e3Z7hBJgcSabsFYhByqvp0uxikNVsK9Nttpf7zEnks4x9URhAnWoWLw5ioushVD3RYrdCOlRLwyvVwifYy1ja41RcNhGOY4ftRIweBwghM4fHNnVlWMjUByIOd/obph2y9omJnXCxmORz0vyNT/PPnQwsv8hxstLHu3xrQJ4h3q3j8eldpxdQPiS1VlVHVUpU3GnDhcnzpLMNo1c3pt1ZzN6LhtfG2cQmMs/oFk+rpcwGks1s12o6Q2fvN5K0Jrmnaj4K7BlHem0D8a0BMeBTQBhZsAXpzTisEKYYfX6aAVwZg=;8HJ7BLBTpINWFIwxHUVJ+w=="
+related:
+  - title: "Diablo 4: Latest Classes Revealed"
+    excerpt: "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ..."
+    publishedDateTime: 2021-07-12T06:14:00Z
+    webUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
+    ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
+    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
+    type: article
+    provider:
+      name: GiveMeSport
+      domain: givemesport.com
+    quality: 107
+    images:
+      - url: "https://site-cdn.givemesport.com/images/21/07/12/fca586f0a94bad381651596c159561c4/960.jpg"
+        width: 960
+        height: 620
+        isCached: true
+  - title: "Diablo 4: Latest Trailer Has Been Revealed"
+    excerpt: "Diablo 4 have revealed some great trailers to build excitement for the game and we have them all here for you to see.  The upcoming dungeon crawler action role-playing game developed by Blizzard ..."
+    publishedDateTime: 2021-07-08T05:02:26Z
+    webUrl: "https://www.msn.com/en-gb/entertainment/news/diablo-4-latest-trailer-has-been-revealed/ar-AALV8hz"
+    type: article
+    provider:
+      name: Give Me Sport on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AALV0X5.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
+
+secured: "XHljtDVYjx3ZNzA204oSUoAwmqqzZ23JnTULq2u+PBTlsLwyE7aVBc774Du4kWqjwfyjT+67TJuOqEVPJj+XSC+EJJdW+gMG+6fIDneGIGeZe+wqY2URo/QbtUA7/idJBKhpp+f22vbOHj4kOXz9z76xWhUd1BDr5hTi4THYJwZxrpa/ujzOEm3XbirCsc+gR8qtsRE6/nW1rBVZmI+s6dOiLjdH443UmD2UWQNbPHOlkCnO+aIypGvzbTeBDCe6eMIe9gU+qr4r0UmzDwFGXJAwBsViSfqEI8QfEuWCLhN7QdVkHB8MjvTbr2tFLKNtEpppEvApshLmZmKEPcdT0ETkXlZLCvCJNnFfaTSCu8w=;PEhYJCKVB1o8O2TU0mC0MQ=="
 ---
 

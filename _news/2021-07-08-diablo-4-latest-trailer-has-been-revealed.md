@@ -40,6 +40,22 @@ related:
         width: 960
         height: 620
         isCached: true
+  - title: "Diablo 4: Release Date, Classes, News, Gameplay, Trailer, Lilith and Everything You Need To Know"
+    excerpt: "Highly anticipated game Diablo 4 will continue the hugely successful franchise and we have all the details you need to know about the game. The dungeon crawler action role-playing game is part of the ..."
+    publishedDateTime: 2021-07-06T04:15:00Z
+    webUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
+    ampWebUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
+    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
+    type: article
+    provider:
+      name: GiveMeSport
+      domain: givemesport.com
+    quality: 94
+    images:
+      - url: "https://site-cdn.givemesport.com/images/21/07/08/baaeda59ba18990da0a3e6d708ab849d/960.jpg"
+        width: 960
+        height: 620
+        isCached: true
 
 secured: "0s+elko3R4eDh5fuH5yuLttj21L1oxz1k8gb776jetsacr+D4Hy8eEZbDqY/SueaF4nYwTVU6IjBzvwAsfUhRDhjRz3yHs+dGJZZWh4DOUJ/duBqcTaUWNtQd1/HE5MYHSh6ruVpDqBAHemfNAYR8/MUd1x8jL43sZx4VmoGBT5zLTUCoHRMPw0kggYLKL6NG1a/bvQ0urZQckpXD98p1PEPNWnJEqtTjTPACXcbpv3vYV/olS44z7sH/m3CCiziGyKs1b3yucMrAwQlA2PH/00+vWxJkF0iD6WYISiqsCSUMpOKqefpJlCt9B9JkNqR5rR3xYrgk89C8VeY9RgFpg6/pTDb7MGhLrK9Vh6qE7I=;WmRb1zV7uVUryfIZSDJhfw=="
 ---

@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-12-17-diablo-4-release-date-trailers-news-and-rumors.md",
-      "title": "Diablo 4 release date, trailers, news and rumors",
-      "excerpt": "Interested in Diablo 4? Then you need this handy guide full of everything there is to know about the upcoming game from Blizzard – including what to expect and the Diablo 4 release date.- It’s been ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-17-diablo-4-release-date-trailers-news-and-rumors/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "publishedDateTime": "2020-12-16T23:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021.md",
       "title": "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021",
       "excerpt": "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ...",
@@ -1122,6 +1071,48 @@
       "topics": [
         "Diablo 4",
         "Sorceress"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-diablo-4s-revamped-skill-trees-aim-to-reduce-emphasis-on-items.md",
+      "title": "Diablo 4’s Revamped Skill Trees Aim To Reduce Emphasis On Items",
+      "excerpt": "Blizzard's quarterly update on the upcoming Diablo 4 reveals a bigger emphasis on class skills with a more robust system and less on items.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-diablo-4s-revamped-skill-trees-aim-to-reduce-emphasis-on-items/index.json",
+      "webUrl": "https://geekculture.co/diablo-4-revamped-skill-tree/",
+      "originalUrl": "https://geekculture.co/diablo-4-revamped-skill-tree/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://geekculture.co/wp-content/uploads/2020/09/diablo-4-new-skill-tree-system-featured-1-768x320.jpg",
+          "width": 768,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEGO",
+        "domain": "geekculture.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
       ]
     }
   ],

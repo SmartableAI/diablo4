@@ -100,6 +100,6 @@ related:
       domain: digitaltrends.com
     quality: 87
 
-secured: "axudG7p1r1do1ykZdNU72n6F/a9gkKHmeNMSBR7ByuOiS6uWU795HjvBj+SjBod4lyq57QLv03SDSxA2KSJlo6pXSBHkEEJHEkzOl8lGRVHAFbrbw1n601N1UTwYrmOZXZrrMHsPe6HeXkrpeRsT5M8T69Hspi/+Zlg0lGgnzKRjloj7CbXjIuse2Yb5KzRYMZTuRq5URO/d9kGy6tUqvfnoFXK4bdbSFb9F24MROG6gvVR40O+9l7sl9cCg0s1CDwtvd6L0vbqZtsn+xA+Do49md9LncjJ4LndeTE728Vow/7GlLCVXssHduzIHXjepzwDY38j6tmtUnlYVWKM0jsH6caybZI/mVYWv7vWdRLM=;MexDNzzOIJbczrGPp4/fDw=="
+secured: "uXYFIS//Hle/F8RQNJte8TK9odH6T+mkOvvNDCL2fTGZ+gW9ltSQNwUq0kOadfQjzO34TkUrib/TxFtdTVDzxrvGQ7nV9F5Dd/hs+NITbp5dhzmW2oQLB/AjbJ/qahizKJbYJxXXvNw+0JEiWc3Kf3A1XrnE8aO5YFRtrvp/w28WUzzFNvheNbrXkjoHnXCzAaosxs4hYbxXN7GGqU8/46pb5IJho1uquhoEtqb+urAz1h4fls23oLRFeVUhhCBicDoXdUAsLiwC7+lRMpmO7RtTylEzRUGtZXoGcyrNuSRREDKiVG8BGTvGpTnpt+YzNIiPljxPpYQEZ/1CBWoS/wCyLG92hjRS/o5cHtyMYck=;cKUSl+oVfcoGLip3oIkAvg=="
 ---
 

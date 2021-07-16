@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2019-11-03-diablo-iv-feature-overview.md",
-      "title": "Diablo IV Feature Overview",
-      "excerpt": "We know you’re all eager to learn as much about Diablo IV as possible, so to get you started, we&amp;#39;re taking a comprehensive look over the features and details being shared at BlizzCon 2019!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-iv-feature-overview/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23189677/diablo-iv-feature-overview",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23189677/diablo-iv-feature-overview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2019-11-02-diablo-4-announcement-everything-you-need-to-know.md",
       "title": "Diablo 4 Announcement: Everything You Need To Know!",
       "excerpt": "Diablo 4 has been announced at BlizzCon 2019. In this video I go over everything you need to know about this upcoming Blizzard Entertainment game.",
@@ -1060,6 +1008,48 @@
       "updatedDateTime": null,
       "provider": {
         "name": "lzuniy",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. #ign.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=0SSYzl9fXOQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SSYzl9fXOQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0SSYzl9fXOQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
