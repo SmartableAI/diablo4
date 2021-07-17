@@ -385,6 +385,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/</loc>
+    <lastmod>2019-11-01T12:01:45-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019/</loc>
     <lastmod>2019-11-01T11:36:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -411,12 +417,6 @@
   <url>
     <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/</loc>
     <lastmod>2019-11-01T11:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/</loc>
-    <lastmod>2019-11-01T11:05:30-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
