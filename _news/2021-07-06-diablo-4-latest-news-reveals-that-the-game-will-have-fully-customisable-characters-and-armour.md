@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 will actually let you customise your character's face"
-    excerpt: "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color."
-    publishedDateTime: 2021-06-30T12:52:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
-    ampWebUrl: "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
-    cdnAmpWebUrl: "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 107
-    images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg"
-        width: 660
-        height: 370
-        isCached: true
   - title: "Diablo 4 will offer full character appearance customization"
     excerpt: "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ..."
     publishedDateTime: 2021-07-02T21:43:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customiz
 cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: ClutchPoints
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 will actually let you customise your character's face"
-    excerpt: "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color."
-    publishedDateTime: 2021-06-30T12:52:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
-    ampWebUrl: "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
-    cdnAmpWebUrl: "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 107
-    images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg"
-        width: 660
-        height: 370
-        isCached: true
   - title: "Fully Customizable Diablo 4 Character Creation Marks A First For The Franchise"
     excerpt: "John Mueller, the art director for the game, took to the Blizzard blog to go into more detail about the character art in the upcoming game. Beyond just the characters, he also confirmed that they took ..."
     publishedDateTime: 2021-07-01T08:06:00Z
