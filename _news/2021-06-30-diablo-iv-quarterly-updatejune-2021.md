@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021"
 type: article
 quality: 162
-heat: 282
+heat: 262
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://sm.ign.com/t/ign_in/screenshot/default/diablo-4-cover_7rte.620.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "New Diablo 4 quarterly update covers art, character models, and more"
-    excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
-    publishedDateTime: 2021-06-30T14:05:00Z
-    webUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more"
-    ampWebUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/06/30/diablo-4-quarterly-update-june-30-1_feature.jpg"
-        width: 1505
-        height: 849
         isCached: true
   - title: "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’"
     excerpt: "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on."

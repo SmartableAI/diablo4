@@ -60,22 +60,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "New Diablo 4 quarterly update covers art, character models, and more"
-    excerpt: "Blizzard has a new update for Diablo fans in the form of its quarterly progress update blog. Ever since its formal announcement at BlizzCon 2019, Diablo 4 has been one of the most highly-anticipated ..."
-    publishedDateTime: 2021-06-30T14:05:00Z
-    webUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more"
-    ampWebUrl: "https://www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/125414/new-diablo-4-quarterly-update-covers-art-character-models-and-more?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/06/30/diablo-4-quarterly-update-june-30-1_feature.jpg"
-        width: 1505
-        height: 849
-        isCached: true
   - title: "Diablo 4 is Fixing a Big Diablo 3 Oversight"
     excerpt: "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ..."
     publishedDateTime: 2021-07-01T09:35:00Z
