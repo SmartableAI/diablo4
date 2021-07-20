@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Feature Fully Customisable Characters and Armor"
-    excerpt: "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics."
-    publishedDateTime: 2021-06-30T10:11:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 will actually let you customise your character's face"
     excerpt: "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color."
     publishedDateTime: 2021-06-30T12:52:00Z
@@ -88,17 +74,6 @@ related:
         width: 960
         height: 620
         isCached: true
-  - title: "Diablo 4 adds character customization"
-    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-    publishedDateTime: 2021-06-30T11:18:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
 
 secured: "nSugPfszRb+3LsE2SD/XVZoBQrO4Fp8CGFEyEgp9e2pPYFZOvG4AC0g/O21qSMxNJV1C+9HCisJyDqGcgEZGIHP8AtLJPGZtZf2p7yFY2tjFEuLebeR4hczGLWF4rCDY6mpFSfASm5fuIkcfPkZv+vlk8P7fg9nnqCx7n1i8kjV2ZmLEvoOuxdMs5y8jtoaGcCrYSqHM9elzQ+/LftLGSGaLY+NrEVp0dmcr8409SpaeNWKRGP56VRmMh5GH3jb5qDrQ3uImqjZjqQhsH/4TdGWzIGxqRmg6BhJomHcAx1VIlUvZ4DAspiP9UJguaJEvlusEUmT4DC8iygcyP5HDuBUUfRFEZbtNrFN0r0Dztlc=;LCKyrwYka5tT6S5GVVl6RA=="
 ---

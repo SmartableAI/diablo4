@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Feature Fully Customisable Characters and Armor"
-    excerpt: "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics."
-    publishedDateTime: 2021-06-30T10:11:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 will actually let you customise your character's face"
     excerpt: "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color."
     publishedDateTime: 2021-06-30T12:52:00Z
@@ -88,17 +74,6 @@ related:
         width: 960
         height: 620
         isCached: true
-  - title: "Diablo 4 adds character customization"
-    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-    publishedDateTime: 2021-06-30T11:18:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
 
 secured: "s1sVKdCN1rEGjt8+3a0H5dH0ifGXQXYgq+YCyAytV8M+re1JDAMQ/Uvlqe7nQyAdsgSPcXWz1FT/bUfNC6qHA/uYU0Ts0BEhQSXrKKIQIhboUIPYykHzhvGP5f65LMNvTznhvoXWzj/RAPR/Zto6P90Aq2oy5eCx2QGztJo0nhUqvcKxifH60/i/a4tCGFjAOk6F98L55x3y4s+/pr3+WTrlz6mGGkBSAIEdf/erRHI+Rlkfu4uNoHQxDw1Aj0+4QHLdW7m8MGnpmgIRUmjN/bpLZ4vrEgjwMiLRTmeY0IpuU9/VQR7IjwZZ6GFnQBhvRftkzQZ2cmPJBbKdHKvId7/aGzj12ejSvggsDGyTaxQ=;MjnQNhqQ4O4RKDB/sv683A=="
 ---

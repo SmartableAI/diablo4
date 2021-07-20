@@ -355,7 +355,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 342,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -386,6 +386,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
+      "title": "Diablo 4 will actually let you customise your character's face",
+      "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face/index.json",
+      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg",
+          "width": 660,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "cdnAmpWebUrl": "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "publishedDateTime": "2021-06-30T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock, Paper, Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming.md",
-      "title": "'Diablo 4' Latest Rumors: Activision Blizzard Boss Claims Different Kind Of RPG Is Coming",
-      "excerpt": "\"Diablo 4\" has yet to get a release date, but Activision Blizzard COO Daniel Alegre claimed that it will be an innovative addition to the action-RPG genre.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming/index.json",
-      "webUrl": "https://www.ibtimes.com/diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-rpg-coming-3194162",
-      "originalUrl": "https://www.ibtimes.com/diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-rpg-coming-3194162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/03/diablo.jpg",
-          "width": 1200,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

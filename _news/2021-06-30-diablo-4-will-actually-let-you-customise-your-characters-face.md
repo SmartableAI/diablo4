@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-charact
 cdnAmpWebUrl: "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: Rock, Paper, Shotgun
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Feature Fully Customisable Characters and Armor"
-    excerpt: "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics."
-    publishedDateTime: 2021-06-30T10:11:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-character-customisation-art"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 will offer full character appearance customization"
     excerpt: "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ..."
     publishedDateTime: 2021-07-02T21:43:00Z
@@ -88,17 +74,6 @@ related:
         width: 960
         height: 620
         isCached: true
-  - title: "Diablo 4 adds character customization"
-    excerpt: "Diablo 4 will have new character customization options for players to use to create their own looks and style."
-    publishedDateTime: 2021-06-30T11:18:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-customization/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
 
 secured: "pyMoGQeoRv8kDPfszHmvN3M6WPORst0zX4TstLfu5jp5x1PdUxTaH/NHYbJTD2AFhlwRt5jfcXVLrAEiQollOBJx6ZbDgm+VDOzdwrresf+YkImlwSmBjmZYxXN6fh0DF9cu5N5DS+TM/E/6SEqUtZZmOPtuc1i2+YbaE34sV0kNJ8iJ6qBkNDNEnGVBmAwA77r9OY/5WBIdIPwNL69Xu1RIqUMV48TbOyWKu1dx2iXntD2I7Vj89wEQ2sj6c5jvND3zzrIRvmcEyet5dC7KSWvXh3ZDgc75dYc/i4wrvWMZK2ti63EDU5AtKFAmtqX4lpadi+CLxYZMthPc19a962ysHkwo/EujWHyai2rXaXc=;UpmN9dPEm3dxCg76ywIg8g=="
 ---
