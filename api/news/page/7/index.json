@@ -2,6 +2,132 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019.md",
+      "title": "Mcconnell and Asmongold react to the Diablo 4 announcement | Diablo 4 | Blizzcon 2019",
+      "excerpt": "So Diablo 4 was announced during Blizzcon 2019 and McCool was, for lack of better words, more than happy about it.... Mcconnell and Asmongold react to the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=rP2MxVIyG0g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rP2MxVIyG0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rP2MxVIyG0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T12:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best of McConnell",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight.md",
+      "title": "Fated Connections 21 Highlights | feat. SOMAYD and ibadda | Diablo 4 Announcement, ExileCon, Blight",
+      "excerpt": "FULL PODCAST ▻▻ https://youtu.be/Csav-pr0y7U LIVE STREAM ▻▻ https://www.twitch.tv/catmasterOP TWITTER ▻▻ https://www.twitter.com/catmasterOP ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/",
+      "originalUrl": "https://youtube.com/watch?v=aPoz7CLjCWg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aPoz7CLjCWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aPoz7CLjCWg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T09:30:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CatmasterOP",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-diablo-4-announcement-cinematic-trailer-reaction-mashup-by-three-they-come-blizzcon-2019.md",
+      "title": "Diablo 4 Announcement Cinematic Trailer Reaction Mashup | By Three They Come  | BlizzCon 2019",
+      "excerpt": "For More Interesting Videos: http://bit.ly/2md31li ---------------------------------------------------------------------------------------------------------------- Original ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-announcement-cinematic-trailer-reaction-mashup-by-three-they-come-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-announcement-cinematic-trailer-reaction-mashup-by-three-they-come-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=GOdYZCTCFs0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GOdYZCTCFs0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GOdYZCTCFs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T04:30:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AztBang",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement.md",
       "title": "Blizzcon 2019 Reacts to DIABLO 4 Announcement!",
       "excerpt": "This is how Blizzcon 2019 crowd reacted to announcement of Diablo 4 during opening ceremony! ♢ Buy games with code \"NEXOS\" for 3% CashBack ♢ Buy ...",
@@ -944,132 +1070,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website.md",
-      "title": "Diablo 4 Announcement - Cinematic, Gameplay, and Website",
-      "excerpt": "Thumbs up and subscribe to join the G3 fam! #Diablo #Blizzcon, #arpg Twitter: https://twitter.com/GGgaming3 Email: goodguygaming3@gmail.com Patreon: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website/",
-      "originalUrl": "https://youtube.com/watch?v=epYzKG73ZYw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/epYzKG73ZYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/epYzKG73ZYw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:18:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoodGuyGaming3",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come",
-      "excerpt": "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/",
-      "originalUrl": "https://youtube.com/watch?v=0vE3rAjtqUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:01:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Clips And Tips",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019.md",
-      "title": "Diablo IV - Official Announce Cinematic Trailer | \"By Three They Come\" | BlizzCon 2019",
-      "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=WmKZaMDmwCo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WmKZaMDmwCo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WmKZaMDmwCo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T11:36:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot Trailers",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }

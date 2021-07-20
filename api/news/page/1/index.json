@@ -178,7 +178,7 @@
       "originalUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -254,6 +254,57 @@
       ]
     },
     {
+      "path": "_news/2021-07-02-diablo-4s-latest-quarterly-update-shows-off-art-style-armour-design.md",
+      "title": "Diablo 4's Latest Quarterly Update Shows Off Art Style, Armour Design",
+      "excerpt": "Here's how the development for Diablo 4 has been going, according to Blizzard's newest quarterly Diablo 4 update.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-02-diablo-4s-latest-quarterly-update-shows-off-art-style-armour-design/index.json",
+      "webUrl": "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art",
+      "originalUrl": "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_in/screenshot/default/diablo-4-cover_7rte.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1",
+      "cdnAmpWebUrl": "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1",
+      "publishedDateTime": "2021-07-01T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-diablo-4s-look-is-inspired-by-renaissance-and-medieval-paintings.md",
       "title": "Diablo 4’s look is inspired by Renaissance and medieval paintings",
       "excerpt": "Since the beginning of the series, Diablo has always had a look: dark and gothic, even the grainy pixels of the original RPG game exuded a specific mood. It’s seen changes in the quarter century since ...",
@@ -284,6 +335,57 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3.md",
+      "title": "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’",
+      "excerpt": "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1573%26cropY1%3D0%26cropY2%3D885",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/",
+      "publishedDateTime": "2021-06-30T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -386,6 +488,49 @@
       ],
       "topics": [
         "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes.md",
+      "title": "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes",
+      "excerpt": "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/index.json",
+      "webUrl": "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/",
+      "originalUrl": "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg",
+          "width": 749,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Play Station Universe",
+        "domain": "psu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
       ]
     },
     {
@@ -958,141 +1103,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on.md",
-      "title": "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on",
-      "excerpt": "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
-      "originalUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
-      "publishedDateTime": "2021-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together.md",
-      "title": "Report: ‘Messed Up Planning’ Means ‘Overwatch 2’ And ‘Diablo 4’ May Release Together",
-      "excerpt": "Diablo 4 and Overwatch 2 are coming, but if they launch together, that could mean another massive gap for Blizzard afterward.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/amp/",
-      "publishedDateTime": "2021-05-22T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-diablo-4-build-uploaded-to-psn-ahead-of-potential-closed-alpha.md",
-      "title": "Diablo 4 Build Uploaded To PSN Ahead Of Potential Closed Alpha",
-      "excerpt": "Blizzard Entertainment appears to be preparing Diablo 4 for another round of closed alpha testing in the coming weeks. Earlier today, publisher Activision was spotted to have uploaded a new game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-18-diablo-4-build-uploaded-to-psn-ahead-of-potential-closed-alpha/index.json",
-      "webUrl": "https://segmentnext.com/2021/05/18/diablo-4-psn-alpha/",
-      "originalUrl": "https://segmentnext.com/2021/05/18/diablo-4-psn-alpha/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2021/05/18/diablo-4-psn-alpha/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/05/18/diablo-4-psn-alpha/amp/",
-      "publishedDateTime": "2021-05-18T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
         "images": null,
         "publishers": null,
         "authors": null

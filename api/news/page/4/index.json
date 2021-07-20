@@ -2,6 +2,141 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-04-overwatch-2-and-diablo-4-release-dates-slip-beyond-2021.md",
+      "title": "Overwatch 2 and Diablo 4 release dates slip beyond 2021",
+      "excerpt": "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-overwatch-2-and-diablo-4-release-dates-slip-beyond-2021/index.json",
+      "webUrl": "https://www.techradar.com/nz/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
+      "originalUrl": "https://www.techradar.com/nz/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 527,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/d7af34b202988b017d60b9c4bae774b8-1200-80.jpg",
+          "width": 1152,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
+      "publishedDateTime": "2021-02-04T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021.md",
+      "title": "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021",
+      "excerpt": "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021/index.json",
+      "webUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
+      "originalUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 767,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more.md",
+      "title": "Blizzcon 2021: Dates, Rumors, WoW Classic TBC, Diablo 4, Overwatch 2 & more",
+      "excerpt": "Fans expect some huge things from Blizzcon 2021 - including Diablo 4, WoW Classic TBC, Overwatch 2, and other big possibilities. So what will we see during the 2-day event? Blizzcon 2021 will be a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more/index.json",
+      "webUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
+      "originalUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "realsport101.com",
+        "domain": "realsport101.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts.md",
       "title": "Non-Diablo Players React to Diablo IV Announce Cinematic | By Three They Come | (G-Mineo Reacts)",
       "excerpt": "Thank you for your support, and as always, GAME IT 'TIL YOU MAKE IT! ♡♡♡ Discord Server: ☆https://discord.gg/ah3hcmp Membership: ...",
@@ -968,141 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-everything-we-know-about-diablo-4.md",
-      "title": "Everything we know about Diablo 4",
-      "excerpt": "Although much is still under wraps, Blizzard has started to reveal bits and pieces of Diablo 4. Here's everything we know about the highly anticipated title.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-23-everything-we-know-about-diablo-4/index.json",
-      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/diablo-4-featured-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/?amp",
-      "publishedDateTime": "2020-10-23T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions.md",
-      "title": "Fans Could Discover New Diablo 4 Classes Through Region Descriptions",
-      "excerpt": "Apparently the various Diablo 4 classes will have strong relationships with the various regions that you’ll be passing through over the course of the game. While this hasn’t been confirmed ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions/index.json",
-      "webUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
-      "originalUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
-      "publishedDateTime": "2020-10-06T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
-      "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
-      "excerpt": "Diablo 4 is still very early in development, and likely won't release for years, but we already know quite a bit about Blizzard's dungeon-crawler thanks to substantive dev updates released every ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-diablo-4-everything-we-know-so-far-about-blizzards-sequel/index.json",
-      "webUrl": "https://www.gamesradar.com/uk/diablo-4-guide/",
-      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/t9WjueUuzMfPQEzQwB3nJJ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:40:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

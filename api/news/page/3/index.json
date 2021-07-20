@@ -2,6 +2,141 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine.md",
+      "title": "Diablo 4’s rogue revealing trailer was shown in the game engine",
+      "excerpt": "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/index.json",
+      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
+      "publishedDateTime": "2021-02-20T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4.md",
+      "title": "You can turn off enemy glow in Diablo 4",
+      "excerpt": "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4/index.json",
+      "webUrl": "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "originalUrl": "https://www.pcgamer.com/uk/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XFxN9nxdmd7FeKDADE7gBg-1200-80.jpg",
+          "width": 877,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/you-can-turn-off-enemy-glow-in-diablo-4/",
+      "publishedDateTime": "2021-02-20T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-diablo-iv-rogue-announcement-reaction-blizzconline-2021.md",
+      "title": "Diablo IV - Rogue Announcement Reaction (BlizzConline 2021)",
+      "excerpt": "TrepChains reacting to the announcement of the Rogue at BlizzConline 2021. Full trailer available at: https://www.youtube.com/watch?v=LvrLZ4yETHI Credit: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-iv-rogue-announcement-reaction-blizzconline-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-diablo-iv-rogue-announcement-reaction-blizzconline-2021/",
+      "originalUrl": "https://youtube.com/watch?v=ItZgcPkuMxQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ItZgcPkuMxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ItZgcPkuMxQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T23:17:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrepChains",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video.md",
       "title": "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!",
       "excerpt": "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ...",
@@ -951,141 +1086,6 @@
       "provider": {
         "name": "Gameranx",
         "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-overwatch-2-and-diablo-4-release-dates-slip-beyond-2021.md",
-      "title": "Overwatch 2 and Diablo 4 release dates slip beyond 2021",
-      "excerpt": "The Overwatch 2 and Diablo 4 release dates have slipped beyond 2021, according to Activision Blizzard in its earnings call for the latest quarter. The game publisher had an otherwise strong quarterly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-overwatch-2-and-diablo-4-release-dates-slip-beyond-2021/index.json",
-      "webUrl": "https://www.techradar.com/nz/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
-      "originalUrl": "https://www.techradar.com/nz/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 527,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/d7af34b202988b017d60b9c4bae774b8-1200-80.jpg",
-          "width": 1152,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/overwatch-2-and-diablo-4-release-dates-slip-beyond-2021",
-      "publishedDateTime": "2021-02-04T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021.md",
-      "title": "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021",
-      "excerpt": "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021/index.json",
-      "webUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
-      "originalUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 767,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more.md",
-      "title": "Blizzcon 2021: Dates, Rumors, WoW Classic TBC, Diablo 4, Overwatch 2 & more",
-      "excerpt": "Fans expect some huge things from Blizzcon 2021 - including Diablo 4, WoW Classic TBC, Overwatch 2, and other big possibilities. So what will we see during the 2-day event? Blizzcon 2021 will be a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more/index.json",
-      "webUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "originalUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realsport101.com",
-        "domain": "realsport101.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 574
         isCached: true
-  - title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
-    excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
-    publishedDateTime: 2021-07-06T04:12:00Z
-    webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    type: article
-    provider:
-      name: GiveMeSport
-      domain: givemesport.com
-    quality: 95
-    images:
-      - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
-        width: 960
-        height: 620
-        isCached: true
 
 secured: "nSugPfszRb+3LsE2SD/XVZoBQrO4Fp8CGFEyEgp9e2pPYFZOvG4AC0g/O21qSMxNJV1C+9HCisJyDqGcgEZGIHP8AtLJPGZtZf2p7yFY2tjFEuLebeR4hczGLWF4rCDY6mpFSfASm5fuIkcfPkZv+vlk8P7fg9nnqCx7n1i8kjV2ZmLEvoOuxdMs5y8jtoaGcCrYSqHM9elzQ+/LftLGSGaLY+NrEVp0dmcr8409SpaeNWKRGP56VRmMh5GH3jb5qDrQ3uImqjZjqQhsH/4TdGWzIGxqRmg6BhJomHcAx1VIlUvZ4DAspiP9UJguaJEvlusEUmT4DC8iygcyP5HDuBUUfRFEZbtNrFN0r0Dztlc=;LCKyrwYka5tT6S5GVVl6RA=="
 ---
