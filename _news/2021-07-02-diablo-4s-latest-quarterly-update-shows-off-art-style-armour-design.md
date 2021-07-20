@@ -9,7 +9,7 @@ ampWebUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-conce
 cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
 type: article
 quality: 147
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
         width: 960
         height: 620
-        isCached: true
-  - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
-    excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
-    publishedDateTime: 2021-07-01T02:41:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 78
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "7BHyZiappCCUwiSPdVKU69fY2pqaATkpe9+O+ZHdFYaKkDp2UDXmQ0vdnCdyMqeHA9G2VXfmTFHLw6XI+RQ5EhuQSI0L9IM7Wz70jg1H5t4FpARWDKKcMnWYHsN/P7IHn27o9rriXx+7IustoLq1yG34PfOcsZJmmaafCZLQSGjfB0i5Mj6Tvu5rdeP24Fxt8nERYeOqVuC/kfHHwv7F3LZ5ioXexO6P4tS+21IkKvgRfUx2EvEZvhMli4KizN7dnDH+GJYjt57Qg2S3heIXBcSmrZXczbdfhmW6OuqdJRvs3gCTzxLsH81p8A0jCyzzfOiH3dQaIaTUXpuO0SY62ThWtAcoi23WaTOlyPOZmFo=;kRTbctkCE++RcaiaCc7NLg=="

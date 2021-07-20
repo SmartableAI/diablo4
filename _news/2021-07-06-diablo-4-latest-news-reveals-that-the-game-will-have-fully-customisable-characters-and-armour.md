@@ -42,20 +42,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Diablo 4 showcases character customisation and monster detail in latest Quarterly Update"
-    excerpt: "Blizzard has offered fans a deep dive into its character and monster design process in its latest Quarterly Update for the upcoming Diablo IV."
-    publishedDateTime: 2021-07-01T02:41:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-showcases-character-customisation-and-monster-detail-in-latest-quarterly-update/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 78
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "XhDoN7tja26D2dnAwFpOU4qQNJ/mgwNg/wvxMGFCVe1keNICAwkOVSAl8KVEvFZ2b1zZG0E+1P3OflJAB0IWqILEtpg6N0XnpfLHr1rDPhlDMC1KlkytARccsUeFO/LxkrwTDzD/iz31RmewZa1n+XLTggzZ6PxgBluPmk7Y1bDunOkM4n20JGKtbGCvquisN873n5k0fAIKwMbdrxGcljytM2W15jIecF/31NupXQB7TcwN8VMFJBr1qHIseCYDOWwXI7nDqvjqC75N8do7ngTdPwDK4xketTD3L842AkFai3cATz8pG/HdU3a+1fHy2oKUdkG3EBOqWg0tB+wxLSW1CvNdKRILFFy1ifHdFJw=;m0MJZgbgNEA3QJ4V/PagmQ=="
 ---
