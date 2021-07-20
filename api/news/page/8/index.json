@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-01-diablo-iv-unveiled.md",
+      "title": "Diablo IV Unveiled",
+      "excerpt": "Diablo IV is the newest incarnation of the genre-defining ARPG players have come to know and love. Take a glimpse into the terror that awaits.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-unveiled/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23189675/diablo-iv-unveiled",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23189675/diablo-iv-unveiled",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/yz/YZVVOMS949I61572620765672.jpg",
+          "width": 760,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website.md",
       "title": "Diablo 4 Announcement - Cinematic, Gameplay, and Website",
       "excerpt": "Thumbs up and subscribe to join the G3 fam! #Diablo #Blizzcon, #arpg Twitter: https://twitter.com/GGgaming3 Email: goodguygaming3@gmail.com Patreon: ...",

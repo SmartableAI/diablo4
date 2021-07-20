@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg.md",
+      "title": "Diablo 4 director explains why it's not an MMORPG",
+      "excerpt": "Blizzard's latest update on Diablo 4 sees game director Luis Barriga break down some new screenshots, real-time cutscenes, open-world elements, and how the studio is handling multiplayer. On that last ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-director-explains-why-its-not-an-mmorpg/",
+      "publishedDateTime": "2020-06-25T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-diablo-4-official-announcement-cinematic-trailer-reaction-1-creepy.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer Reaction 1 (Creepy)",
       "excerpt": "Please watch: \"So I finally played RESIDENT EVIL 2 and this is what happened! (Gameplay) PT1 I DIED\" https://www.youtube.com/watch?v=FY_-BmxW-4s ...",
@@ -1036,48 +1078,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Dose Of Pepega",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
-      "excerpt": "MP Gaming! Can't wait for this game to come out... ▻ My Merch: https://teespring.com/stores/matsu-patty Let's grow this channel together: ▻ Subscribe to my ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=q16u4f-nJg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q16u4f-nJg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q16u4f-nJg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-04T10:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Matsu Patty",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

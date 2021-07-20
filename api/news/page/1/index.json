@@ -347,6 +347,48 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight.md",
+      "title": "Diablo 4 is Fixing a Big Diablo 3 Oversight",
+      "excerpt": "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight/index.json",
+      "webUrl": "https://heavy.com/games/diablo-4-character-creation/",
+      "originalUrl": "https://heavy.com/games/diablo-4-character-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2021/07/diablo-4-character-update.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/games/diablo-4-character-creation/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/diablo-4-character-creation/amp/",
+      "publishedDateTime": "2021-07-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3.md",
       "title": "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’",
       "excerpt": "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on.",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "Den Of Geek",
         "domain": "denofgeek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects.md",
-      "title": "Diablo 4 and Overwatch 2 Are Not Blizzard's Only Projects",
-      "excerpt": "One of the employees of Blizzard Entertainment - Ion Hazzikostas, i.e. the director of WoW - admitted in a press interview that apart from Diablo 4 and Overwatch 2, the aforementioned studio is also ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
-      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gracza.pl/i_gp/h/22/359540992.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=13058",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=13058",
-      "publishedDateTime": "2021-05-23T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
         "images": null,
         "publishers": null,
         "authors": null
