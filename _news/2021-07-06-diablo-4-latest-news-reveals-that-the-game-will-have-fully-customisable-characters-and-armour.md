@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4's Latest Quarterly Update Shows Off Art Style, Armour Design"
-    excerpt: "Here's how the development for Diablo 4 has been going, according to Blizzard's newest quarterly Diablo 4 update."
-    publishedDateTime: 2021-07-02T00:09:00Z
-    webUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art"
-    ampWebUrl: "https://in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
-    cdnAmpWebUrl: "https://in-ign-com.cdn.ampproject.org/c/s/in.ign.com/diablo-4/161879/news/diablo-4-armour-design-concept-art?amp=1"
+  - title: "Diablo 4 will offer full character appearance customization"
+    excerpt: "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ..."
+    publishedDateTime: 2021-07-02T21:43:00Z
+    webUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customization/"
+    ampWebUrl: "https://clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
+    cdnAmpWebUrl: "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 147
+      name: ClutchPoints
+      domain: clutchpoints.com
+    quality: 107
     images:
-      - url: "https://sm.ign.com/t/ign_in/screenshot/default/diablo-4-cover_7rte.620.jpg"
-        width: 620
-        height: 349
+      - url: "https://clutchpoints.com/wp-content/uploads/2021/07/Diablo-4-will-offer-full-character-appearance-customization-1024x574.jpg"
+        width: 1024
+        height: 574
         isCached: true
 
 secured: "XhDoN7tja26D2dnAwFpOU4qQNJ/mgwNg/wvxMGFCVe1keNICAwkOVSAl8KVEvFZ2b1zZG0E+1P3OflJAB0IWqILEtpg6N0XnpfLHr1rDPhlDMC1KlkytARccsUeFO/LxkrwTDzD/iz31RmewZa1n+XLTggzZ6PxgBluPmk7Y1bDunOkM4n20JGKtbGCvquisN873n5k0fAIKwMbdrxGcljytM2W15jIecF/31NupXQB7TcwN8VMFJBr1qHIseCYDOWwXI7nDqvjqC75N8do7ngTdPwDK4xketTD3L842AkFai3cATz8pG/HdU3a+1fHy2oKUdkG3EBOqWg0tB+wxLSW1CvNdKRILFFy1ifHdFJw=;m0MJZgbgNEA3QJ4V/PagmQ=="
