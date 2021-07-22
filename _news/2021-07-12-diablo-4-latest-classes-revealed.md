@@ -9,7 +9,7 @@ ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed
 cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
 type: article
 quality: 107
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
+    excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
+    publishedDateTime: 2021-07-06T04:12:00Z
+    webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    type: article
+    provider:
+      name: GiveMeSport
+      domain: givemesport.com
+    quality: 95
+    images:
+      - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
+        width: 960
+        height: 620
+        isCached: true
   - title: "Diablo 4: Release Date, Classes, News, Gameplay, Trailer, Lilith and Everything You Need To Know"
     excerpt: "Highly anticipated game Diablo 4 will continue the hugely successful franchise and we have all the details you need to know about the game. The dungeon crawler action role-playing game is part of the ..."
     publishedDateTime: 2021-07-06T04:15:00Z
@@ -57,6 +73,6 @@ related:
         height: 315
         isCached: true
 
-secured: "6UK3edrO7z19wDSAitx0xzO2bm/ll7DgHCprhkhUpOg6V9YbFoxYSU+HGXRSV+cqCisFZbQuQRnJCGasNU2yCGoikd9qhZDL8DoODwdF3ZXAYEJPWiVIEqI/qC5mgRw6RkAKlm1nYi1Ck3XtvEPXEYcP3WIMmtmvDZuqPIcCJh1zMh3ZC0bijWETKJVbdDlLJm7ri5oyzkNODAxuYfCRJv7s7pnG1gl3H46l0pFRmGbIDtNpy8XETaOMTolrZI0VUGeB1/7IvyzBAxFQXsoX3K7k3UQ+DCq3rMHTnE4oKG2udiEPnDicTU5Yqc9eUlAYnFXryTURH/7qEf1LZ70a5VbGVrjuo2fprFacNAkA2GQ=;tJQAxi8ZhQl3+YL2wyJLjQ=="
+secured: "DfObUnwOBLHOizsCWm4dX/Lb4ueRNvhmYWNZpX2ERZMpCe4V+ety2wurCcSwzyROosSD0n51QBx92FNBd1YC7XqWe3xc710C8n1lfXsdDdbRF/4DfrFUNbQVAmh4zAUm8qpKmyCxbra4U6BGcwBeA0izphvdVkw6K0nuKM5pw6GLg1OdTVWbGTspmBe/UFheiktxIjDZ9cIwYssHqKeJGjhY8z6yiqkMKgPGksTbUd/AHBftsLWBHhhRQ4z841NjdeQEhG4U8ungLxwF+wASJbrqsbkbTgM7kAsDo2UAOgbjbBIfRE16C+snqsvlIFGo/d0+OAjBaOjKaTKOFkgdVnyioOy4UbGK4dUu5BdbR/Y=;5aUJ3Z8F+UdYTLyovJ+YCA=="
 ---
 

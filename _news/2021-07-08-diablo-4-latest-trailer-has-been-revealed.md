@@ -40,6 +40,22 @@ related:
         width: 960
         height: 620
         isCached: true
+  - title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
+    excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
+    publishedDateTime: 2021-07-06T04:12:00Z
+    webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
+    type: article
+    provider:
+      name: GiveMeSport
+      domain: givemesport.com
+    quality: 95
+    images:
+      - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
+        width: 960
+        height: 620
+        isCached: true
   - title: "Diablo 4: Release Date, Classes, News, Gameplay, Trailer, Lilith and Everything You Need To Know"
     excerpt: "Highly anticipated game Diablo 4 will continue the hugely successful franchise and we have all the details you need to know about the game. The dungeon crawler action role-playing game is part of the ..."
     publishedDateTime: 2021-07-06T04:15:00Z
