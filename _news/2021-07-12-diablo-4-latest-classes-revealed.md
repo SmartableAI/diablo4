@@ -9,7 +9,7 @@ ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed
 cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
 type: article
 quality: 107
-heat: 167
+heat: 127
 published: true
 
 provider:
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4: Latest News Reveals That The Game Will Have Fully Customisable Characters And Armour"
-    excerpt: "Many are waiting for the release of highly anticipated role-playing game Diablo 4 and the latest news has revealed that the game will have fully customisable characters and armour. The game has been ..."
-    publishedDateTime: 2021-07-06T04:12:00Z
-    webUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    ampWebUrl: "https://www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717196-diablo-4-latest-news-reveals-that-the-game-will-have-fully-customisable-characters-and-armour?amp"
-    type: article
-    provider:
-      name: GiveMeSport
-      domain: givemesport.com
-    quality: 95
-    images:
-      - url: "https://site-cdn.givemesport.com/images/21/07/06/0fb6683bc1df86a16495148a6524a82c/960.jpg"
-        width: 960
-        height: 620
-        isCached: true
-  - title: "Diablo 4: Release Date, Classes, News, Gameplay, Trailer, Lilith and Everything You Need To Know"
-    excerpt: "Highly anticipated game Diablo 4 will continue the hugely successful franchise and we have all the details you need to know about the game. The dungeon crawler action role-playing game is part of the ..."
-    publishedDateTime: 2021-07-06T04:15:00Z
-    webUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
-    ampWebUrl: "https://www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
-    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1717191-diablo-4-release-date-classes-news-gameplay-trailer-lilith-and-everything-you-need-to-know?amp"
-    type: article
-    provider:
-      name: GiveMeSport
-      domain: givemesport.com
-    quality: 94
-    images:
-      - url: "https://site-cdn.givemesport.com/images/21/07/08/baaeda59ba18990da0a3e6d708ab849d/960.jpg"
-        width: 960
-        height: 620
-        isCached: true
   - title: "Diablo 4: Latest Trailer Has Been Revealed"
     excerpt: "Diablo 4 have revealed some great trailers to build excitement for the game and we have them all here for you to see.  The upcoming dungeon crawler action role-playing game developed by Blizzard ..."
     publishedDateTime: 2021-07-08T05:02:26Z
@@ -73,6 +41,6 @@ related:
         height: 315
         isCached: true
 
-secured: "elPVWxOmLX1v19AoByYyXbTqEQU6R4vlcCCqkVV0rU1Z4rm3NRrvA9PHMmqdxiXyZ9858VQ23rQxlFRkFMuj08Oap/HvM8WAgaCu8SbF3pE2yMsFFIEMoxjeQuPGr4T2B1jdBUwXk/IvLsyuZRxaq/+wBdb9ODuaczf1My2nBVOOV+3AhT0mxwoCggdn1LHLLxYrsiGMH/h8woTi3GW5RpRO910fjZQaeYDHZ5TRTB4zVcYX/06MVL0+3rJwdackfNnwan2DWEBIwzkxxsgmm9ftWM0g/NjtPSelwBTRx5mUIW+oDQHxpIxO6b5iN0kgS0BLwPBPd8wHM0aaHiyVvRjNQ4lidwXm7nqmyLS/Y0k=;7gKlgoswnsvOGigUaPXyKg=="
+secured: "VynxcH1ttcZdbEqW4Mn6EEd0/Nrm+iofFSfk0W72lbEVnpHASuPEeOYBkARjsHCk77EaXSijnPDOuwxn3/1wBpvlZGfInUV2HZxdtaB7U6CjdR/Z7cBFxxEiKMeFXwggNqZnp9gR/+dPfIBmkP2Zb0iSPaWUmQc90QGS3kDb5YmS4kCSpMF3wcsP8kRR2/lTjFUy4oCRVB9yy/KIbuGkXMkG583i77GsjSZig/72oRTsP7caEd2jJCRYzc70sVOjYkjJ9t4HfWxvngwwq0M6G4N/HM4Rhxd39oXTKc1TZM9MQQdPguVSc+LwdsZ9WHkv3QGDmWTJzws3alcDLfH/JwY7ZxYXCiIha/zu8RugkZE=;BWSlmx2gVrjBeouFYnpuhg=="
 ---
 
