@@ -4,6 +4,68 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid.md",
+      "title": "DIABLO 4 GAMEPLAY AND TRAILER - BARBARIAN , SORCERER & DRUID",
+      "excerpt": "DIABLO 4 GAMEPLAY AND TRAILER - BARBARIAN , SORCERER & DRUID In Diablo IV, we'll be adventuring through Scosglen, the Druid homeland, as Lillith ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid/",
+      "originalUrl": "https://youtube.com/watch?v=IJvA3PPOzUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IJvA3PPOzUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
+      "provider": {
+        "name": "Online-Gaming-TV-Channel",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IJvA3PPOzUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-05T07:41:20-08:00"
+    },
+    {
+      "path": "_games/osterberg501-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019.md",
+      "title": "Diablo 4 ANNOUNCEMENT! New Diablo 4 Gameplay! Sorcerer, Barbarian, & Druid Gameplay! Blizzcon 2019!",
+      "excerpt": "Diablo 4 was just announced at Blizzcon 2019, alongside a very good cinematic and some gameplay of the first 3 classes they're showing off. The gameplay ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/osterberg501-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/osterberg501-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=kIHwz6Gbkr4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kIHwz6Gbkr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M54S",
+      "provider": {
+        "name": "Osterberg501",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kIHwz6Gbkr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T12:45:17-07:00"
+    },
+    {
       "path": "_games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay.md",
       "title": "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE -  BARBARIAN - DIABLO 4 GAMEPLAY",
       "excerpt": "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE - BARBARIAN - DIABLO 4 GAMEPLAY Art is a critical part of what makes ...",
@@ -337,36 +399,6 @@
       "publishedDateTime": "2019-11-01T15:59:13-07:00"
     },
     {
-      "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
-      "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=q57_zsefROM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q57_zsefROM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q57_zsefROM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-29T10:49:04-07:00"
-    },
-    {
       "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
       "title": "DIABLO 4 - NEW Enchantment System & Skill Trees Look MUCH BETTER! (Barb & Sorceress Gameplay)",
       "excerpt": "Blizzard dropped some new info for Diablo 4! We get to see new skill trees, sorceress enchantments, and more! It's been a year since this game was revealed, ...",
@@ -395,36 +427,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T08:00:11-07:00"
-    },
-    {
-      "path": "_games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight.md",
-      "title": "Diablo 4 First Ever Sorceress Playthrough - Blizzcon 2019 Twitch VOD Highlight",
-      "excerpt": "Highlight from my Blizzcon 2019 Twitch stream showcasing the first ever gameplay of the Sorceress in Diablo 4! Thanks for checking out this video and please ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/wolfcryer-diablo-4-first-ever-sorceress-playthrough-blizzcon-2019-twitch-vod-highlight/",
-      "originalUrl": "https://youtube.com/watch?v=nherPMkndgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nherPMkndgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M42S",
-      "provider": {
-        "name": "Wolfcryer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nherPMkndgk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T19:32:37-08:00"
     },
     {
       "path": "_games/wudijo-diablo-4-quarterly-update-q3-september-2020-skills-talents-sorceress-system.md",
