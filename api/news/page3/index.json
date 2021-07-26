@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
+      "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
+      "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=XmMAmltgdwA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmMAmltgdwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XmMAmltgdwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-21T06:58:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Accolonn",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-diablo-4-confirms-more-routine-updates-coming-in-2021.md",
       "title": "Diablo 4 Confirms More Routine Updates Coming In 2021",
       "excerpt": "Much as it did last year, Blizzard has confirmed that it will be doing quarterly updates for Diablo 4 over the course of 2021. Speaking to us here at ComicBook.com, Diablo 4’s L ...",
@@ -1044,48 +1086,6 @@
       "provider": {
         "name": "SegmentNext",
         "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021.md",
-      "title": "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021",
-      "excerpt": "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/index.json",
-      "webUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "originalUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cHuqLhqVouZ8abHdL54sbD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "publishedDateTime": "2021-02-05T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

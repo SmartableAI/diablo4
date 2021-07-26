@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem.md",
+      "title": "Why Diablo 4 and Overwatch 2 Won’t Fix Blizzard’s Biggest Problem",
+      "excerpt": "While some gamers have spent the last few years speculating that Blizzard’s string of public problems (which includes layoffs, botched remasters, delays, employee departures, and a series of PR ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2020/02/diablo-4-updates.jpg?fit=1547%2C877",
+          "width": 1547,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp",
+      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp",
+      "publishedDateTime": "2021-05-24T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects.md",
       "title": "Diablo 4 and Overwatch 2 Are Not Blizzard's Only Projects",
       "excerpt": "One of the employees of Blizzard Entertainment - Ion Hazzikostas, i.e. the director of WoW - admitted in a press interview that apart from Diablo 4 and Overwatch 2, the aforementioned studio is also ...",
@@ -1052,48 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
-      "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
-      "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=XmMAmltgdwA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmMAmltgdwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XmMAmltgdwA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-21T06:58:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Accolonn",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

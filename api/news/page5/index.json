@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-31-new-diablo-4-update-has-fans-speculating.md",
+      "title": "New Diablo 4 Update Has Fans Speculating",
+      "excerpt": "A new Diablo 4 update has surface online courtesy of LinkedIn, and it's not the news fans wanted to hear. Since announcing Diablo 4, Blizzard has said nothing consequential about the game. At the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-31-new-diablo-4-update-has-fans-speculating/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
+      "publishedDateTime": "2020-10-31T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-diablo-4-everything-we-know-about-the-next-diablo-game.md",
       "title": "Diablo 4: Everything we know about the next Diablo game",
       "excerpt": "Although much is still under wraps, Blizzard has started to reveal bits and pieces of Diablo 4. Here's everything we know about the highly anticipated title.",
@@ -1082,58 +1124,6 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-diablo-iv-quarterly-updatejune-2020.md",
-      "title": "Diablo IV Quarterly Update—June 2020",
-      "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. Take a look at elements of the team playtest milestone, including blockout, storytelling, open world gameplay, multiplayer, items, progression, and more.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-iv-quarterly-updatejune-2020/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/wm/WM26L4P3GY291593028352157.jpg",
-          "width": 1520,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
         "Diablo 4"
       ]
     }
