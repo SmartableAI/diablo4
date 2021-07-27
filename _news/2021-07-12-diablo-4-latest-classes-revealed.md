@@ -9,7 +9,7 @@ ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed
 cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 620
     isCached: true
 
-related:
-  - title: "Diablo 4: Latest Trailer Has Been Revealed"
-    excerpt: "Diablo 4 have revealed some great trailers to build excitement for the game and we have them all here for you to see.  The upcoming dungeon crawler action role-playing game developed by Blizzard ..."
-    publishedDateTime: 2021-07-08T05:02:26Z
-    webUrl: "https://www.msn.com/en-gb/entertainment/news/diablo-4-latest-trailer-has-been-revealed/ar-AALV8hz"
-    type: article
-    provider:
-      name: Give Me Sport on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AALV0X5.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
-        isCached: true
-
-secured: "+dHPqoysK9LrtGpFFdALcLEXLc+TeD9cGd7tD1g7igWZQQSjpm9X2Nnz+MpmIlSkXVEL7IvuOY/X3imwF61Vhe7Yh59jlTOhtIjwLtKqzphJrXxrad/RQ+N8TWdg+F3gJY10dnR1bboUGb0sct/jXpc0qcQlSKE9QNJ9xCYi7O4KiwGCTw/krX3GOldz2TjTDnOkOc+4JvAMF4R5eFtJ6hMsxRsTLWsosoXIU0b/WTY7OKREzxfO9TAZse0BdQVaS6epMBp0MgAd9aqeupXBMAgtHjZeHdAd05atv49WfvJPtfueVTozEVOa4cDx48ZIt6xAMnISXQGV0usbj1bZWPsPf9gHgGuCMjj2k8zClN8=;q28294+lXsChtrVJyisaNA=="
+secured: "PpT6Y0dBeSxFbadcy3f6QV8iwvNfallMEJDXu9+uEuxezLfQw/i/tkeOcuVDt0aRZG1Br0QmEklHpgZ+a9nbUVRKU3wbfvUnaBZPFXCWcQPh5GuUXY35Ra6h0lJKDjSy3KNJPGAGtzNb5ptPbn1WMQs25xWlTBI5jjjW5rXBQupMM2gvsG5PRWzpalW8XI56Qal2Ts3nnepSaQw2tWD+g+liy7g21NqxODCPI4utyEIOcM0wrL5iOa6BVGTKHG4BD7apF7DoCvIp5OQixTMswZmJMwcfTSzmvJvASyzKxT+icE4DObTfQoXvRD6uowMJOWnXrA/Un1/cnvKlNpUY0D2O0E66bdlt5m6evGNmuW4=;F8LzDORkIjVz3ZezUxTpZA=="
 ---
 
