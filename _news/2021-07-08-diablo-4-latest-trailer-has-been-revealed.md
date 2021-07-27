@@ -28,8 +28,8 @@ related:
     excerpt: "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ..."
     publishedDateTime: 2021-07-12T06:14:00Z
     webUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
-    ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
-    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
+    ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
+    cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
     type: article
     provider:
       name: GiveMeSport

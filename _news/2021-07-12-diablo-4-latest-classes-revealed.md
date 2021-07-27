@@ -5,8 +5,8 @@ excerpt: "Many gaming fans are excited for the release of the highly anticipated
 publishedDateTime: 2021-07-12T06:14:00Z
 originalUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
 webUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
-ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
-cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
+ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
+cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
 type: article
 quality: 107
 heat: 127
@@ -41,6 +41,6 @@ related:
         height: 315
         isCached: true
 
-secured: "i680yYlll6M/u5RWQ9/GtMDEQ8+Vy5We5Vrhkorw08KhrPUQEhXwWJAfAUS4i3HlUNu8KplMUU4B6VPMYU5Nli0J+UPgxRVM7Py0cU6yeKuw/wOzAUGGmMXIx9QYnl+EZAX6lIxZW+sSdtzkF5+4qSxkWJvs3KwROnOnKa0p9NdcmRRT9avMUYzpcIdE24+9QMFK6mGSU3X8Qojoy0qwlTI5AQdmDRG2irrLs46wxG7vTq9rOpWJZPqxy2Uj/vTCsIq+Qn6lT+ERiy64URkEQGknY86rF2NzVyAfB2hTnh5MMZCWt+tYp7DrIRS55ck9rxEgbmLvgeeZ7F2APd9cIupLo8LZ5MzRHbgdemTnA5Q=;GVXgNWFGtu9HL2ZDovP7Ow=="
+secured: "1vTgQYgkwqxj7KEMPJoqe8p2d1HkXVlCjVya/ZUH624kV7vNw1z13F1qFpy/8SCh2t+C/9XyjCiI4XfLVSjElW5ID9z+qa1WIuCqGYsC0k73cEkXKHtOSpdpUWuFO4VAxVYxqtA47eYf9q6h4S0sHVAqfdcJBa5LQwGDOd5vIcukE9b25DfaMLr60Xt99vDOTarnHesRNZqAsZJJZZcNbXjcyaZvjnsTMnPwF3vRwzSoR5JKAuExtgZ/bq2IujxGXMfnI2mQjloCluXwHz7GqWb3LbjoekuxKmltfCCDgaHCM816ZlrlZMO+D6AsoLhWsC9G9BLqJwcITTPRmrS+sR6y42zhG6z/JMN9JTlcU7E=;XL5BtQsw18QP7Gw6f5T0Aw=="
 ---
 
