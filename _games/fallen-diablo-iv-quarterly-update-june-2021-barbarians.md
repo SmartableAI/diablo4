@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update
 type: video
 length: PT1M21S
 publishedDateTime: 2021-07-01T10:55:57Z
-heat: 55
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eMJqfQnVP2EJBl0M+JSq994d8pJ3mlYXKUHJYQ8KEbFw7tJXMbM/Y8ko2IqFFGcQyBM7hCAr3VDDu4s/emBOGtqVkdbRN6uZWsSJDzFTj461ViyZobgKo2X4lsDUix3WEYU30dDvE6iSJ3swPeWWaGn2skd1Kjh+hA48CvlFRhn21o7aKEtmDq/WL24XcSgFIlNg7pXexPCBycqdWgtWGRxiAbsouFIS44kpLSLYx9wyDpHP1UBpw3ZKs3PAyR0AcjEdmSkeSRWPHkfYNkt2ZHM83cSez6oQSGE/EVTHKm1lzBJW26eq5njr0eWsx1//ywNpymcoT9xIgJ24L7525oXsfvpiy7FzSZWB/ryPxMm0/0nKvsNg/XoXraKRjyakfD30lED5f6yPgYVFibf4ZIRaLGIsFsbSlgUot+lpFB4=;jxvdD6brENPadQ2P6FMdBQ=="
+secured: "ET7JFKiPq8x11e6GbFFEGGWkfylxGY+zb5LLTcwkAWhUhc5Zz7hDymQ9FPuBGo+JrE84YZ6K7Ito+rVuoxXcz60FGtHqDMWR4061edqQVV1LDMD1cGyiP3BIETEL6Qq8LL0qTE9oyFJIJ72qX7kXvDNDN4LySdKDABMs0Tt82xEweUEGGjJYn51zxh5SSr0ODTDluggVNi/UQQoN0CRw24UJEhO+P4uEhg+O+ppDLlOllTFMbhfovNd+pkvKfIh7DDpyJQk1PWuSIquaU5kTNJwHiQjIxvv8wJRMlNDzivwD1u6VamTNHtFIXXvywej5piqasPp5OIjfqq2wDaA6BnunvQbjB5d7IV48xKOMs//3WGEcUhSsSw3Ja/z3wkY1isjP5w2+EipnqTJBactzCuEFqdfDXMxsOvgICPrpywc=;hxjoHL6rMX4AgrxLJb6NHA=="
 ---
 
