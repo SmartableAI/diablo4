@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
+      "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
+      "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4/index.json",
+      "webUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
+      "originalUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44189/og_image.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Backstage",
+        "domain": "backstage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more.md",
       "title": "Everything you need to know about Diablo 4: Release date, trailers and more",
       "excerpt": "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "Definitely Not Definitive",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
-      "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
-      "excerpt": "Diablo 4 isn't coming for at least another year, but we've already seen a good deal of gameplay, art, and insights into Blizzard's plans for the long-awaited sequel. Thanks to detailed quarterly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bX0xl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T09:56:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
+      "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
+      "excerpt": "Diablo 4 isn't coming for at least another year, but we've already seen a good deal of gameplay, art, and insights into Blizzard's plans for the long-awaited sequel. Thanks to detailed quarterly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bX0xl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T09:56:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem.md",
       "title": "Why Diablo 4 and Overwatch 2 Won’t Fix Blizzard’s Biggest Problem",
       "excerpt": "While some gamers have spent the last few years speculating that Blizzard’s string of public problems (which includes layoffs, botched remasters, delays, employee departures, and a series of PR ...",
@@ -1043,57 +1085,6 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
-      "title": "Diablo 4's open world is as Diablo as it gets",
-      "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets/index.json",
-      "webUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "originalUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "publishedDateTime": "2021-02-21T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

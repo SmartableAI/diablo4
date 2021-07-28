@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
+      "title": "Diablo 4's open world is as Diablo as it gets",
+      "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets/index.json",
+      "webUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "originalUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "publishedDateTime": "2021-02-21T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
       "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
       "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
@@ -1054,48 +1105,6 @@
       "topics": [
         "Diablo 4",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more.md",
-      "title": "Last Epoch Dev Talks About Multiplayer, Raytracing, Diablo 4, PoE 2 and More",
-      "excerpt": "Last Epoch is the product of indie developer Eleventh Hour Games with a pretty straightforward goal of becoming \"the next great action role-playing game\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more/index.json",
-      "webUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
-      "originalUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2021/02/Last-Epoch-Undead.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
-      "publishedDateTime": "2021-02-09T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],
