@@ -4,28 +4,27 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
+      "path": "_games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay.md",
+      "title": "Download Diablo 4 Barbarian, Sorcerer and Druid Gameplay",
+      "excerpt": "Link Download : http://bit.ly/diablo_4_4 Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=QXd_XLzzor4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QXd_XLzzor4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M44S",
       "provider": {
-        "name": "Bluddshed",
+        "name": "Battlegrounds",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress",
         "Druid",
         "Barbarian"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QXd_XLzzor4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -33,7 +32,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
+      "publishedDateTime": "2019-11-02T17:29:59-07:00"
     },
     {
       "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",

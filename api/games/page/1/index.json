@@ -36,6 +36,66 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
+      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
+      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M18S",
+      "provider": {
+        "name": "GameSpot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:30:01-07:00"
+    },
+    {
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -64,36 +124,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
-    },
-    {
-      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
-      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
-      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
-      "provider": {
-        "name": "GameSpot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:30:01-07:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
@@ -311,36 +341,6 @@
       "publishedDateTime": "2021-04-28T02:15:14-07:00"
     },
     {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-druid.md",
       "title": "New Gameplay Today – Diablo IV's Druid",
       "excerpt": "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ...",
@@ -553,6 +553,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-02T22:04:16-08:00"
+    },
+    {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
       "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
@@ -887,37 +919,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T18:24:40-08:00"
-    },
-    {
-      "path": "_games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay.md",
-      "title": "Download Diablo 4 Barbarian, Sorcerer and Druid Gameplay",
-      "excerpt": "Link Download : http://bit.ly/diablo_4_4 Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=QXd_XLzzor4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QXd_XLzzor4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M44S",
-      "provider": {
-        "name": "Battlegrounds",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QXd_XLzzor4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T17:29:59-07:00"
     }
   ],
   "nextPage": 2
