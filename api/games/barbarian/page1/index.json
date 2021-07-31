@@ -36,6 +36,36 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
+      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
+      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
+      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M21S",
+      "provider": {
+        "name": "Fallen",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-01T03:55:57-07:00"
+    },
+    {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
       "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
       "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
@@ -113,7 +143,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 66,
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
@@ -125,6 +155,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-24T08:05:28-08:00"
+    },
+    {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
+      "title": "New Gameplay Today – Diablo IV's Barbarian",
+      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M35S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
@@ -177,7 +237,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 62,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
@@ -189,36 +249,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
-      "title": "New Gameplay Today – Diablo IV's Barbarian",
-      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M35S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
@@ -315,36 +345,6 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
-      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
-      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
-      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
-      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
-      "provider": {
-        "name": "Fallen",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-01T03:55:57-07:00"
-    },
-    {
       "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
       "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
       "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
@@ -405,37 +405,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
-    },
-    {
-      "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
-      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
-      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M45S",
-      "provider": {
-        "name": "lzuniy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:25:33-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -864,6 +833,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-07T00:15:00-08:00"
+    },
+    {
+      "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
+      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
+      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M45S",
+      "provider": {
+        "name": "lzuniy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:25:33-07:00"
     },
     {
       "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
