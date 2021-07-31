@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian
 type: video
 length: PT9M18S
 publishedDateTime: 2021-07-01T01:30:01Z
-heat: 136
+heat: 76
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
