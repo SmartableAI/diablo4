@@ -8,9 +8,6 @@ webUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed"
 ampWebUrl: "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
 cdnAmpWebUrl: "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp"
 type: article
-quality: 107
-heat: 107
-published: true
 
 provider:
   name: GiveMeSport
@@ -25,6 +22,6 @@ images:
     height: 620
     isCached: true
 
-secured: "QxKDQS8b8mKaCoru8mlbzXBCzlsbf5xhAeIvs7l/rsorw+22wuBkhlqBzsZJUAskc//HH5RAeu+1k7kMUZmT8I0+0imFXbtZXrcqzGclFcMtCCdEjBZO8bIkRgBW+46+DNrIUfWSs2jEidjLKBMAkOtS2rO9UVumoOab3HD0mLF42NLG5meFjhdYNS+DdLaUir8K0GyjFy+YcSiqwqypnQWiFIPh+H8MXQA3pPOHsNnnrboheVFM/hZ/G5hhM4XBTyBi63lpt1/2AgJyt/qm+RXl7xoohzTsp9sEWPLEL+B304dBPbEu+imDnHqH2JHOkjMrUvG6pTL4qaIxb3zGOVbGoOxNniMPhEbIwHQJaMg=;g6oLJ50CV+VrslS9/qAiwA=="
+secured: "sCJaUtKd+ccLN8M6Qk/x022mSQ4TpjMBrbZp2nUdHTp5fKp2o92PBbG6gfOFf7GP51+pjYY77Satb795YEMqPq29WMMrbT1TYXXOl9OrK+7CkXKFlNxpEsrn6NBIDi0r1Z/YQq/IuTJxons2X/hwID9kJ3+EnYb86cUBCq7+yeeGD/7uStt5xnBifgalqywKK5kbV8TyP62xsL7r2uWKm1wZz5GyCQ0tn/5frSbbxXUrgIzVd/hTeq2H72YGuup61raipRVJoFu+0V6YVYuDe/G1AMB/0Zrm9K6DRTvgEGUcbgl6PiyfCH42S1YErZzebE/XEBDfz1S2G5FapHxi/44IB0hWPD2JcJeSB13vs9o=;gSWEGm3wdJAiSh6UprJSwg=="
 ---
 
