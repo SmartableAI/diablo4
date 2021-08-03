@@ -2,6 +2,39 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2.md",
+      "title": "Diablo 4 returns to the dark style of Diablo 2",
+      "excerpt": "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
+      "publishedDateTime": "2021-02-22T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
       "title": "Diablo 4's open world is as Diablo as it gets",
       "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
@@ -1062,49 +1095,6 @@
       "topics": [
         "Diablo 4",
         "Druid"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-heres-everything-we-know-about-barbarian-skills-in-diablo-4.md",
-      "title": "Here's everything we know about Barbarian skills in Diablo 4",
-      "excerpt": "Barbarians are battle masters, wreaking havoc with massive weapons of all shapes and sizes. One of the classes in Diablo 4 is the mighty Barbarian. With this guide, I've assembled a full list of the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-10-heres-everything-we-know-about-barbarian-skills-in-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dzjh7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
       ]
     }
   ],

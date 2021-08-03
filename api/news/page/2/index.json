@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 Official Announcement Cinematic Trailer Reaction",
+      "excerpt": "We are finally getting to a Diablo trailer. Starting with Diablo 4 as it's the most requested of the franchise. Normally we do a lights out, in the dark reaction for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=LiA4zCjknh8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LiA4zCjknh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LiA4zCjknh8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T10:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Definitely Not Definitive",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
       "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
       "excerpt": "Diablo 4 isn't coming for at least another year, but we've already seen a good deal of gameplay, art, and insights into Blizzard's plans for the long-awaited sequel. Thanks to detailed quarterly ...",
@@ -1052,39 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2.md",
-      "title": "Diablo 4 returns to the dark style of Diablo 2",
-      "excerpt": "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
-      "publishedDateTime": "2021-02-22T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

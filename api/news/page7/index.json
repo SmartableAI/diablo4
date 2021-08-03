@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat.md",
+      "title": "xQc Reacts To ''Diablo IV - Official Announce Cinematic Trailer'' (With Chat)",
+      "excerpt": "Thanks for watching. Checkout xQc on twitch, twitter, & youtube! https://twitter.com/xQc, https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat/",
+      "originalUrl": "https://youtube.com/watch?v=G3hClbKD6u8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G3hClbKD6u8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G3hClbKD6u8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T18:26:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ReddCinema",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-04-diablo-4-announcement-cinematic-trailer-reaction.md",
       "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
       "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer We finally get the announcement we've all wanted, Diablo 4 and Lillith are ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GorTheMovieGod",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019.md",
-      "title": "DIABLO 4 ANNOUNCEMENT LIVE REACTION! Blizzcon 2019!",
-      "excerpt": "We made it boys. It's here. :) Please remember to like, comment, share, and of course subscribe for more content. Follow me at: Twitch.tv/PrimetimeCP23 Twitter ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=pNlfvTUUhrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNlfvTUUhrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pNlfvTUUhrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:53:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PrimetimeCP23",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

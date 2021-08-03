@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached.md",
+      "title": "Work on Diablo 4 Picks up Pace; Another Milestone Reached",
+      "excerpt": "Diablo 4 has just reached another milestone in terms of development process. This is indicated by information found by one of the Reddit users.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
+      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/365690819.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=14068",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=14068",
+      "publishedDateTime": "2021-08-02T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
       "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
       "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
@@ -132,17 +174,17 @@
       "title": "Diablo 4: Latest Classes Revealed",
       "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
-      "webUrl": "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed",
-      "originalUrl": "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed",
+      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
+      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://site-cdn.givemesport.com/images/21/07/12/fca586f0a94bad381651596c159561c4/960.jpg",
-          "width": 960,
-          "height": 620,
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -150,13 +192,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp",
-      "cdnAmpWebUrl": "https://www-givemesport-com.cdn.ampproject.org/c/s/www.givemesport.com/1720130-diablo-4-latest-classes-revealed?amp",
-      "publishedDateTime": "2021-07-11T23:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T23:14:12-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GiveMeSport",
-        "domain": "givemesport.com",
+        "name": "GiveMeSport on MSN.com",
+        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1062,48 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 Official Announcement Cinematic Trailer Reaction",
-      "excerpt": "We are finally getting to a Diablo trailer. Starting with Diablo 4 as it's the most requested of the franchise. Normally we do a lights out, in the dark reaction for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=LiA4zCjknh8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LiA4zCjknh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LiA4zCjknh8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Definitely Not Definitive",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
