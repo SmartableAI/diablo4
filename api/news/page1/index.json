@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard.md",
+      "title": "Diablo 4 Release Date Possibly Hinted at in New Update From Blizzard",
+      "excerpt": "Activision Blizzard, during a recent earnings call, provided a quick update on Diablo 4, and possibly hinted at its release date. According to Activision, the game's development is making \"strong ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
+      "publishedDateTime": "2021-08-04T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached.md",
       "title": "Work on Diablo 4 Picks up Pace; Another Milestone Reached",
       "excerpt": "Diablo 4 has just reached another milestone in terms of development process. This is indicated by information found by one of the Reddit users.",
@@ -1053,57 +1095,6 @@
         "name": "Barry Walts",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dd-tristram-map.md",
-      "title": "Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map",
-      "excerpt": "You’ve delved deep into the dungeons of Tristram before, but if the wait for Diablo 4 and Diablo 2: Resurrected is proving too hellish, why not bring the hack-and-slash action to your tabletop?",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-09-cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dd-tristram-map/index.json",
-      "webUrl": "https://www.techradar.com/au/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "originalUrl": "https://www.techradar.com/au/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DPtEbhxXkjsKYUdcKCnLyS-480-80.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "publishedDateTime": "2021-06-08T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

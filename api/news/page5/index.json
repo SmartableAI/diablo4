@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-06-everything-you-need-to-know-about-the-current-status-of-diablo-4.md",
+      "title": "Everything you need to know about the current status of Diablo 4",
+      "excerpt": "Blizzard disappointed fans when they announced the mobile game Diablo Immortal on Blizzcon 2018. Thus, to make amends with their admonishing fans, they have to give them what they really want: the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-06-everything-you-need-to-know-about-the-current-status-of-diablo-4/index.json",
+      "webUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/",
+      "originalUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9bRWIdOMfro/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/",
+      "publishedDateTime": "2020-11-06T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClutchPoints",
+        "domain": "clutchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed.md",
       "title": "Blizzard says its ‘Diablo 4’ announcement wasn’t delayed",
       "excerpt": "but not so good for hardcore Diablo gamers who are anxiously waiting for Diablo 4. A report then claimed that Blizzard wanted to announce Diablo 4 at the event as well, but plans changed in the ...",
@@ -1074,57 +1116,6 @@
         "Diablo 4",
         "Druid",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
-      "title": "Diablo 4 release date, trailers, news and rumors",
-      "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors/index.json",
-      "webUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "publishedDateTime": "2020-06-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],
