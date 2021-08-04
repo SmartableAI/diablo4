@@ -36,6 +36,36 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
+    },
+    {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
       "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
       "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
@@ -97,36 +127,6 @@
       "publishedDateTime": "2021-06-30T18:30:01-07:00"
     },
     {
-      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
-      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
-      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M27S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-24T08:05:28-08:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
       "title": "New Gameplay Today – Diablo IV's Barbarian",
       "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
@@ -143,7 +143,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 66,
+      "heat": 69,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
@@ -155,6 +155,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T16:00:01-08:00"
+    },
+    {
+      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
+      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
+      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M27S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-24T08:05:28-08:00"
     },
     {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
@@ -221,36 +251,6 @@
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
-    },
-    {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
       "title": "Diablo 4 Blizzcon 2019 Demo Druid, Sorceress, Barbarian Gameplay",
       "excerpt": "I was fortunate enough to stream Diablo 4 at Blizzcon 2019, this is the original Gameplay Demo from the showroom floor, enjoy! PODCAST: ...",
@@ -313,36 +313,6 @@
       "publishedDateTime": "2021-07-01T03:55:57-07:00"
     },
     {
-      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
-      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
-      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
-      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M2S",
-      "provider": {
-        "name": "Game LORE Dash",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-18T20:58:24-08:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
       "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -373,37 +343,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
-    },
-    {
-      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
-      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
-      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M3S",
-      "provider": {
-        "name": "GameTrailers",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -652,6 +591,67 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-16T17:31:17-08:00"
+    },
+    {
+      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
+      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
+      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
+      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M2S",
+      "provider": {
+        "name": "Game LORE Dash",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-18T20:58:24-08:00"
+    },
+    {
+      "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=73Cg4akqTsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/73Cg4akqTsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "GameTrailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/73Cg4akqTsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
