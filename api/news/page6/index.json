@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
+      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T16:22:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "He looks Familiar",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
       "title": "Diablo 4 release date, trailers, news and rumors",
       "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
@@ -1055,48 +1099,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Lawrence's Beyond",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019.md",
-      "title": "Diablo 3 Speedrunner Reacts to Diablo 4 Announcement and Blizzcon 2019",
-      "excerpt": "A Voice for Viper which is a Diablo series speedrunning marathon in memory of the Diablo 3 speedrunner Viper will be starting Friday November 8th, 2019 at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=a3GAfZ1yVZw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a3GAfZ1yVZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a3GAfZ1yVZw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-05T12:36:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Garfm",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
