@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer Reaction",
+      "excerpt": "Here is My Reaction to the Diablo 4 - Official Announcement Cinematic Trailer Let me know what you thought of thought of the cinematic in the comments down ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=sh-1TMuph84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sh-1TMuph84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sh-1TMuph84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T15:37:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BlueSpartan",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now.md",
+      "title": "Diablo 4 Announced at BlizzCon 2019 - IGN Now",
+      "excerpt": "Diablo 4 was the first announced game at this year's BlizzCon, which is a good thing considering how anticipated it was prior to last year's BlizzCon (to much fan ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now/",
+      "originalUrl": "https://youtube.com/watch?v=0o5w_WhMEFk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0o5w_WhMEFk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0o5w_WhMEFk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T15:31:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Reaction.... What a trailer!",
       "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. Turn On ALL ...",
@@ -978,49 +1062,7 @@
       "topics": [
         "Diablo 4"
       ]
-    },
-    {
-      "path": "_news/2016-10-06-blizzard-sound-of-silence-announcement-diablo-4-blizzcon-2016-parody.md",
-      "title": "Blizzard Sound of SILENCE Announcement Diablo 4 Blizzcon 2016 Parody",
-      "excerpt": "A Song Parody in the Tune of \"Sound of Silence\". Blizzard should end its Silence and give us an announcement for Diablo 4, a new expansion, or whatever their ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2016-10-06-blizzard-sound-of-silence-announcement-diablo-4-blizzcon-2016-parody/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2016-10-06-blizzard-sound-of-silence-announcement-diablo-4-blizzcon-2016-parody/",
-      "originalUrl": "https://youtube.com/watch?v=9FGveeLt1qk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9FGveeLt1qk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9FGveeLt1qk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2016-10-05T19:47:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wolfcryer",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 9
 }
