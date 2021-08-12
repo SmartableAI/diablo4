@@ -94,6 +94,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Activision Blizzard: Diablo 4 director and two others leave company"
+    excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
+    publishedDateTime: 2021-08-12T06:35:00Z
+    webUrl: "https://www.bbc.com/news/technology-58187612.amp"
+    ampWebUrl: "https://www.bbc.com/news/technology-58187612.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 107
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Diablo 4 director among trio of men no longer at Blizzard"
     excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
     publishedDateTime: 2021-08-12T03:37:00Z
@@ -109,6 +125,22 @@ related:
       - url: "https://cdn.gamer-network.net/2021/articles/2021-08-12-11-37/diablo-4-director-among-trio-of-men-no-longer-at-blizzard-1628764665486.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"
         width: 1920
         height: 1075
+        isCached: true
+  - title: "Diablo 4 director reportedly let go from Activision Blizzard"
+    excerpt: "Activision Blizzard confirmed Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World Of Warcraft designer Jonathan LeCraft left the company."
+    publishedDateTime: 2021-08-12T06:25:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-director-reportedly-let-go-from-activision-blizzard"
+    ampWebUrl: "https://www.rockpapershotgun.com/amp/diablo-4-director-reportedly-let-go-from-activision-blizzard"
+    cdnAmpWebUrl: "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-director-reportedly-let-go-from-activision-blizzard"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 107
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-battle-art.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-4-battle-art.jpg"
+        width: 660
+        height: 371
         isCached: true
   - title: "Diablo 4 director and lead designer are no longer at Activision Blizzard"
     excerpt: "Originally reported by Kotaku, Diablo 4 director, Luis Barriga, and lead designer, Jesse McCree, are confirmed to no longer be working at Activision Blizzard. In addition, World of Warcraft designer ..."
@@ -157,6 +189,22 @@ related:
       - url: "https://www.trueachievements.com/customimages/carousel/119854.jpg"
         width: 670
         height: 377
+        isCached: true
+  - title: "Diablo 4 Director Among Three No Longer At The Studio Following Activision Blizzard Labor Abuse Allegations"
+    excerpt: "Game Informer has confirmed that the three are no longer with the company, though the nature of their departure is being contained."
+    publishedDateTime: 2021-08-12T07:48:00Z
+    webUrl: "https://www.gameinformer.com/2021/08/12/diablo-4-director-among-three-no-longer-at-the-studio-following-activision-blizzard"
+    ampWebUrl: "https://www.gameinformer.com/2021/08/12/diablo-4-director-among-three-no-longer-at-the-studio-following-activision-blizzard?amp"
+    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/08/12/diablo-4-director-among-three-no-longer-at-the-studio-following-activision-blizzard?amp"
+    type: article
+    provider:
+      name: GameInformer
+      domain: gameinformer.com
+    quality: 89
+    images:
+      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/08/12/e3e33f63/mcree.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Diablo 4 director leaves Blizzard, according to reports"
     excerpt: "Luis Barriga, game director on Diablo 4, is one of a number of high-profile departures from Blizzard, according to reports. Blizzard lead level designer Jesse McCree Jonathan LeCraft have also left ..."
@@ -227,6 +275,20 @@ related:
       - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
         width: 1400
         height: 922
+        isCached: true
+  - title: "Activision Blizzard loses Diablo 4 game director"
+    excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4.Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
+    publishedDateTime: 2021-08-12T06:35:30Z
+    webUrl: "https://www.msn.com/en-xl/news/other/activision-blizzard-loses-diablo-4-game-director/ar-AANfh0V"
+    type: article
+    provider:
+      name: BBC News on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANfbWT.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."

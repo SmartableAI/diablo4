@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Report: Diablo 4 game director out at Blizzard"
-excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, according to a report ..."
-publishedDateTime: 2021-08-11T15:21:34Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/report-diablo-4-game-director-out-at-blizzard/ar-AANdo1J"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/report-diablo-4-game-director-out-at-blizzard/ar-AANdo1J"
+title: "Activision Blizzard: Diablo 4 director and two others leave company"
+excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
+publishedDateTime: 2021-08-12T06:35:00Z
+originalUrl: "https://www.bbc.com/news/technology-58187612.amp"
+webUrl: "https://www.bbc.com/news/technology-58187612.amp"
+ampWebUrl: "https://www.bbc.com/news/technology-58187612.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
-  domain: msn.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
-    width: 1200
-    height: 630
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -103,22 +109,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/diablo-4-rogue-campfire-closeup.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Activision Blizzard: Diablo 4 director and two others leave company"
-    excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
-    publishedDateTime: 2021-08-12T06:35:00Z
-    webUrl: "https://www.bbc.com/news/technology-58187612.amp"
-    ampWebUrl: "https://www.bbc.com/news/technology-58187612.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 107
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Diablo 4 director among trio of men no longer at Blizzard"
     excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
@@ -258,6 +248,20 @@ related:
         width: 636
         height: 358
         isCached: true
+  - title: "Report: Diablo 4 game director out at Blizzard"
+    excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, according to a report ..."
+    publishedDateTime: 2021-08-11T15:21:34Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/report-diablo-4-game-director-out-at-blizzard/ar-AANdo1J"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
     excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
     publishedDateTime: 2021-08-12T01:21:00Z
@@ -312,6 +316,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uE7eA2Y7TO/cM9UxI2lgjU5FhaHJnVn2UTcIbARiuw9z2Cb4aLK5Yd/nZY47haAHteQYeb8ia3mBlYDEX8XXmL+XYVtA8nXlKXNhrgu2l2XVoMpZE73kIl9Om23wIgYQ4yYullcijhLXD0qHvd/DLkDgytN4fImiSPSO74FJtoX5WB8gOYJp0jT2D3FW7RyHRiuvpv+3GibTkoMmjtYnNezuoElVSHLwCbztZn0GoWDJ7vcNoi0Oo+3Z9a7NjTQAmBap1uNaZuJjK8PDprGRNc0/JeA4rMuQe8zKcPyNsmTVilWo4ytNb/Yf4Qw4jQFLXHRTHVOxlbM1Qjy72/SsF2dUhl/rxfPBEoqShhtDMww=;kOd96SoCI+mtgcFZgwn76A=="
+secured: "1+KRgM70Ecgm8pmQ/o9YN6h+xLTyBzD0/SdpRQyX7Ly0RV8/MhD9heYlQiZivVMi6qF4EEfoSPRXntldj4Qr98UAnzzF3X8Ps1Xg5hmprhBog69tp8OY+wuFzzuYtJCJN8PoFJLKgitiV0ag5S4R8F5B+ycGyUEIWVjnUmmI0t4O2wMhZIOzwZxsYAZUlTMKDHVKZ/YKfLDRbGHaDklXTc0v6kxORHUGjWfLjLiN9Lqf3QKe+6NZzM5gK0VzNmeNteHowbVdp+sAYum/LrNru/nMl8KAX/xNPmrVu2Glk3Is2i9eVZxdUFs4GThdtMOWaqhHEgRm8xaEoRZ4j44Ck6mQ7RDKPN9EeLKGaoZExSI=;aloNMcJhH2TON7uiOObgCg=="
 ---
 

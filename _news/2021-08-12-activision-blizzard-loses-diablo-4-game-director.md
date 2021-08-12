@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Report: Diablo 4 game director out at Blizzard"
-excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, according to a report ..."
-publishedDateTime: 2021-08-11T15:21:34Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/report-diablo-4-game-director-out-at-blizzard/ar-AANdo1J"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/report-diablo-4-game-director-out-at-blizzard/ar-AANdo1J"
+title: "Activision Blizzard loses Diablo 4 game director"
+excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4.Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
+publishedDateTime: 2021-08-12T06:35:30Z
+originalUrl: "https://www.msn.com/en-xl/news/other/activision-blizzard-loses-diablo-4-game-director/ar-AANfh0V"
+webUrl: "https://www.msn.com/en-xl/news/other/activision-blizzard-loses-diablo-4-game-director/ar-AANfh0V"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
+  name: BBC News on MSN.com
   domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
-    width: 1200
-    height: 630
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANfbWT.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -258,6 +258,20 @@ related:
         width: 636
         height: 358
         isCached: true
+  - title: "Report: Diablo 4 game director out at Blizzard"
+    excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, according to a report ..."
+    publishedDateTime: 2021-08-11T15:21:34Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/report-diablo-4-game-director-out-at-blizzard/ar-AANdo1J"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
     excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
     publishedDateTime: 2021-08-12T01:21:00Z
@@ -271,20 +285,6 @@ related:
       - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
         width: 1400
         height: 922
-        isCached: true
-  - title: "Activision Blizzard loses Diablo 4 game director"
-    excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4.Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
-    publishedDateTime: 2021-08-12T06:35:30Z
-    webUrl: "https://www.msn.com/en-xl/news/other/activision-blizzard-loses-diablo-4-game-director/ar-AANfh0V"
-    type: article
-    provider:
-      name: BBC News on MSN.com
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANfbWT.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
@@ -312,6 +312,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uE7eA2Y7TO/cM9UxI2lgjU5FhaHJnVn2UTcIbARiuw9z2Cb4aLK5Yd/nZY47haAHteQYeb8ia3mBlYDEX8XXmL+XYVtA8nXlKXNhrgu2l2XVoMpZE73kIl9Om23wIgYQ4yYullcijhLXD0qHvd/DLkDgytN4fImiSPSO74FJtoX5WB8gOYJp0jT2D3FW7RyHRiuvpv+3GibTkoMmjtYnNezuoElVSHLwCbztZn0GoWDJ7vcNoi0Oo+3Z9a7NjTQAmBap1uNaZuJjK8PDprGRNc0/JeA4rMuQe8zKcPyNsmTVilWo4ytNb/Yf4Qw4jQFLXHRTHVOxlbM1Qjy72/SsF2dUhl/rxfPBEoqShhtDMww=;kOd96SoCI+mtgcFZgwn76A=="
+secured: "JKiVqaxERZkI8YbNkqzdw5CojOOvtLNVREXO93g+HaoN/py4Ehmg1JivY2dzxXsncGdBGaXbMkW/Xe2B2Pug6R7NhWbMraIAh7LpY+1AWdi7C5DOm6vMK8BFeo+mlnemSs0ZCirh5yska75wQFHFpqg8pF3gHrTV9qeWCw4DPMVJ3AZnGxF+c30kEUZEj5sYbri4rDTHNVUiyp4RiKi4/y39wIusNAX+IDYQ55OA/0f4C1V9c7h3sD96/bNjnARzmZ5mnS79pXHqCV4VNraqW+r1BZyXenhEoYd8OPEnS8UfSk4lIadwSS3UF+hMnmOPXkXthARYmU0blioZPtPk2AmZPvxBKiWSD3Kmu2FXXXg=;jkfRgnRSG6luPI6FJ2rF8A=="
 ---
 
