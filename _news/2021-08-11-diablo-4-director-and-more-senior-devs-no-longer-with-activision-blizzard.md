@@ -1,33 +1,23 @@
 ---
 category: news
-title: "Report: ‘Diablo 4’ Game Director, Lead Level Designer ‘No Longer At Blizzard’"
-excerpt: "Potentially enormous news out of Activision Blizzard today as the company continues to clean house in the wake of a lawsuit by the state of California alleging the mistreatment of women at the company ..."
-publishedDateTime: 2021-08-11T14:57:00Z
-originalUrl: "https://www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/"
-webUrl: "https://www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/"
-ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/amp/"
+title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
+excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
+publishedDateTime: 2021-08-11T15:13:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
 type: article
-quality: 104
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg"
-    width: 1200
-    height: 553
-    isCached: true
 
 related:
   - title: "Diablo 4 Game Director And Two Other Devs Ousted From Activision Blizzard"
@@ -94,6 +84,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Report: ‘Diablo 4’ Game Director, Lead Level Designer ‘No Longer At Blizzard’"
+    excerpt: "Potentially enormous news out of Activision Blizzard today as the company continues to clean house in the wake of a lawsuit by the state of California alleging the mistreatment of women at the company ..."
+    publishedDateTime: 2021-08-11T14:57:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/08/11/report-diablo-4-game-director-lead-level-designer-no-longer-at-blizzard/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg"
+        width: 1200
+        height: 553
+        isCached: true
   - title: "Diablo 4 director leaves Blizzard, according to reports"
     excerpt: "Luis Barriga, game director on Diablo 4, is one of a number of high-profile departures from Blizzard, according to reports. Blizzard lead level designer Jesse McCree Jonathan LeCraft have also left ..."
     publishedDateTime: 2021-08-11T15:16:00Z
@@ -150,18 +156,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
-    excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
-    publishedDateTime: 2021-08-11T15:13:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 86
 
-secured: "FbnOaZ2qrxyUTHJu3X1TR4Y47Q8eaAxe6VDrBWkZH6z+gFewjIk39SCQTxYO4tUobhSxa7KwuR1r48GOHhnkPTpYR6MLJb3f7/+ifR9V/iSQf9YB9l9FH3dv6z3kmDlCNNh62BIOG93Hh+Vr1jG/urflBleSQby0K05E67DkwyDEZh8tu8AkKc9s2pcbROpMF0AWywXz9k4KzuMOaBDXosCE1KYR1I9ibT90Vr+o/iI1dLDZnkVkU7vsHNBuo034+gfB2uZM6nWL7nbdkD2Q+/KO1Va9phlo/0p0xamCInx7Nd5f2KnlKoIG1e9m+iumFrghkIBcXy4O/JDFpW7pXppFiEkvYEOFf40a8NTmemY=;MQiAoREd95SfkFyxx2++Sg=="
+secured: "81Vey+cz3wgTrCUdOIQuXQNafn8pQuT24FB9w2dBaK1PbOyXv6ELWAEF3qn4BlRaqiggVcbBljgOV5LCvyZ0+tPT0y2+c+aJ0ib43TN9e06YeAbUQXSG6MbNkr4cNUvt32z4m4E4krfDpY+3fGEPLtGthpEhkEA56vugU6aDG+0dqWx82N0pS8ybgioD1Bb6jI0wvIDZZqH4r2gRylUYMqkrEHB4xx7c/1AFZ5l6P07JdOujR7hL4tza+iIC9WzryiIqIbfmVSswrq2Hk7rnn+rOA3qK/gMnOc6ikGXvZgTK0mYhsoivfkGOPnEQc5rok1npNUFWP8LUKutFwALfq2x9ysnTAcRzv4gRjWegVS4=;cZk74omoHVuJmYWj/mZLjA=="
 ---
 

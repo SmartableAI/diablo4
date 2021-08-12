@@ -146,6 +146,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
+    excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
+    publishedDateTime: 2021-08-11T15:13:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 86
 
 secured: "/D4Z/4Jz9hgkydUZJzdfYalEEj9bKCIh5o1zXGrvMNmYrv5UH/sOLT8gTEJnInzC2xz/qaDdX7ksaNXMDT5GkkLqgkJ/+IKTRRj+J/iHQJiGXCZR7TjSwlrCh46g0DnAGZCov8CLah1ONEdin4lHEhJlmOG//jupSHKTgUj/C7FMADbZTXMadAUKk/Nx/ITjpgB0Y8ogDTFmAO+qTx7Bdhv5/rxAZprAvNqWaH7fFoHdr/UbZ63WAqERIJFqqtvDhNqWCxZ4ztBp1nDfWvchHxzNwOWI0hZb2er1OIvNnW0xY7H6T4X7g4xnBgyGhHak+YS8DkzWNRa7bqDift19nKEVQ9o0KAh3PWq/ZKNqcLI=;qiSMPwk9AvW2XCHYgEnbug=="
 ---

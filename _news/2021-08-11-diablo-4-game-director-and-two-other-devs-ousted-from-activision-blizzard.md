@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/"
 type: article
 quality: 146
-heat: 306
+heat: 326
 published: true
 
 provider:
@@ -150,6 +150,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
+    excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
+    publishedDateTime: 2021-08-11T15:13:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-director-senior-devs-not-with-activision-blizzard/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 86
 
 secured: "d41xR1xmxkqkzOHWbvB7Mokthr4K1LqLEEE/g7Dn5SPGWn3/nR2BJhPHC4IHCDMxpXeHAzbxNydoTCPZrAuwTYPb08tKl6Zrv/+DQD9dOivzxr5RPF22+USSw+nr9QW7o+TpxDduffyR2ISXKEpNMs3GHUntBfS8Sh6BZN3zfcXvKn3s66JL9MZ6MkpFqhoh3slQilJbs9mLA66jIa+G3mdj/8wEQyBGOJjOu192wJgjneFdyr02dhC5neDITJHBUCWA+0tLbmpX7cw/1sd3ucBSy3HltR0G3+7M6l22AbII3YdYCoMo7dCrRVxdFCPN26X0geRUJ2fv6+RFvt5LNL5T9lf4xqvPVl09vTh3dCI=;0/mIk9RUnOCcmfiPYmUQtQ=="
 ---
