@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-b
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/"
 type: article
 quality: 101
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is Diablo 4 in trouble? D4 game director, lead designer leave Blizzard"
+    excerpt: "A scathing discrimination lawsuit has set Blizzard aflame, and Diablo 4's development could burn as key talent leave the studio."
+    publishedDateTime: 2021-08-12T10:27:00Z
+    webUrl: "https://www.tweaktown.com/news/81102/is-diablo-4-in-trouble-d4-game-director-lead-designer-leave-blizzard/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 67
 
 secured: "8y0OE9M/4zGq9FqqKBO7oTtq67vMmXeV0aJBouQjCru8odyBHcJMVhCq0vWwhE1ovJ44ZjSlsMgnpmXF0HEyHPD6ZUK4BCI9qUuq4drTVJU7UdwUK1s2gVugIrSbrKQGzup1nhbAykn2FSeH6MYrgd1wfWMtXaX6eMGwCqlPmanMctp8PZJutayD4WNQFWB5+NsqdWDaX/R27d/w8ZCObxN5J/O8ek7Qa0FOWaMPx9zMMTq0NtYFCYon+NG4RmoDerkIlCyUuD7eUgFRWJgGD5yQJ47iy2CXnwvBPR6MOdvUMQUx8vnH+oTRm176Zl5iwcz/v40DBO58NqJ7Ut3nuizx4a57hZ7eDOkei+lsWxA=;m2WsP0mQlL+dh7d9KzCEVQ=="
 ---

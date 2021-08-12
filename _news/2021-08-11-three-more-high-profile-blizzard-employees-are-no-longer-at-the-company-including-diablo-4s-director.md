@@ -40,6 +40,15 @@ related:
         width: 600
         height: 276
         isCached: true
+  - title: "Is Diablo 4 in trouble? D4 game director, lead designer leave Blizzard"
+    excerpt: "A scathing discrimination lawsuit has set Blizzard aflame, and Diablo 4's development could burn as key talent leave the studio."
+    publishedDateTime: 2021-08-12T10:27:00Z
+    webUrl: "https://www.tweaktown.com/news/81102/is-diablo-4-in-trouble-d4-game-director-lead-designer-leave-blizzard/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 67
 
 secured: "wM+jDj3tnQrN8KALnqCYYnGxG0LP8BvtI9vhj3No/VSgQH/jFqTbMr667i8xAvAReKxlSXgx1todZUVGAu47GwOm3s0/u8g8uUpqmg4W2Q9Fz8xVT9ICA0jXVgOdUTXd92mSDQCD2IvLUMqXe6j2x0GXseW7zChdnSPXrL80TMb77eXlJx0i7U/YYPPM+O89JYlIjt9GmOhBpMbWfUFcFj6YOn2LIczNoGG/wPOJkRyaNGhuUalp/gtWShNzuGh5LpaAnJfHEBRg9pw13nI0k8On9WDynRh79b2Qi9myQYd+wOQrxV0+PiNoRc3Wfuf9szefeygeklAYaC6ZXcE4UNQWeLMdNNO5Tmpapv5st0M=;Ck45PvJeswGj9IhtDaoIBw=="
 ---
