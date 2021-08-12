@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/"
 type: article
 quality: 146
-heat: 366
+heat: 406
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/diablo-4-rogue-campfire-closeup.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Diablo 4 director among trio of men no longer at Blizzard"
+    excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
+    publishedDateTime: 2021-08-12T03:37:00Z
+    webUrl: "https://www.eurogamer.net/articles/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+    ampWebUrl: "https://www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 107
+    images:
+      - url: "https://cdn.gamer-network.net/2021/articles/2021-08-12-11-37/diablo-4-director-among-trio-of-men-no-longer-at-blizzard-1628764665486.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"
+        width: 1920
+        height: 1075
         isCached: true
   - title: "Report: ‘Diablo 4’ Game Director, Lead Level Designer ‘No Longer At Blizzard’"
     excerpt: "Potentially enormous news out of Activision Blizzard today as the company continues to clean house in the wake of a lawsuit by the state of California alleging the mistreatment of women at the company ..."
@@ -191,6 +207,20 @@ related:
       name: Comicbook.com
       domain: comicbook.com
     quality: 86
+  - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
+    excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
+    publishedDateTime: 2021-08-12T03:08:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 80
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "d41xR1xmxkqkzOHWbvB7Mokthr4K1LqLEEE/g7Dn5SPGWn3/nR2BJhPHC4IHCDMxpXeHAzbxNydoTCPZrAuwTYPb08tKl6Zrv/+DQD9dOivzxr5RPF22+USSw+nr9QW7o+TpxDduffyR2ISXKEpNMs3GHUntBfS8Sh6BZN3zfcXvKn3s66JL9MZ6MkpFqhoh3slQilJbs9mLA66jIa+G3mdj/8wEQyBGOJjOu192wJgjneFdyr02dhC5neDITJHBUCWA+0tLbmpX7cw/1sd3ucBSy3HltR0G3+7M6l22AbII3YdYCoMo7dCrRVxdFCPN26X0geRUJ2fv6+RFvt5LNL5T9lf4xqvPVl09vTh3dCI=;0/mIk9RUnOCcmfiPYmUQtQ=="
 ---

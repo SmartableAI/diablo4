@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo 4 game director out at Blizzard"
-excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."
-publishedDateTime: 2021-08-11T15:21:34Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
+title: "Diablo 4 director among trio of men no longer at Blizzard"
+excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
+publishedDateTime: 2021-08-12T03:37:00Z
+originalUrl: "https://www.eurogamer.net/articles/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+webUrl: "https://www.eurogamer.net/articles/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+ampWebUrl: "https://www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
-  domain: msn.com
+  name: Eurogamer
+  domain: eurogamer.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
-    width: 1200
-    height: 630
+  - url: "https://cdn.gamer-network.net/2021/articles/2021-08-12-11-37/diablo-4-director-among-trio-of-men-no-longer-at-blizzard-1628764665486.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"
+    width: 1920
+    height: 1075
     isCached: true
 
 related:
@@ -104,22 +106,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Diablo 4 director among trio of men no longer at Blizzard"
-    excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
-    publishedDateTime: 2021-08-12T03:37:00Z
-    webUrl: "https://www.eurogamer.net/articles/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
-    ampWebUrl: "https://www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 107
-    images:
-      - url: "https://cdn.gamer-network.net/2021/articles/2021-08-12-11-37/diablo-4-director-among-trio-of-men-no-longer-at-blizzard-1628764665486.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"
-        width: 1920
-        height: 1075
-        isCached: true
   - title: "Report: ‘Diablo 4’ Game Director, Lead Level Designer ‘No Longer At Blizzard’"
     excerpt: "Potentially enormous news out of Activision Blizzard today as the company continues to clean house in the wake of a lawsuit by the state of California alleging the mistreatment of women at the company ..."
     publishedDateTime: 2021-08-11T14:57:00Z
@@ -149,6 +135,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 game director out at Blizzard"
+    excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."
+    publishedDateTime: 2021-08-11T15:21:34Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Jesse Mcree, Diablo 4 Director No Longer At Activision Blizzard"
     excerpt: "Diablo 4 game director Luis Barriga, Blizzard lead level designer Jesse McCree, and World of Warcraft designer Jonathan LeCraft were let go from Blizzard on Wednesday, two sources with knowledge of ..."
@@ -218,6 +218,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "/D4Z/4Jz9hgkydUZJzdfYalEEj9bKCIh5o1zXGrvMNmYrv5UH/sOLT8gTEJnInzC2xz/qaDdX7ksaNXMDT5GkkLqgkJ/+IKTRRj+J/iHQJiGXCZR7TjSwlrCh46g0DnAGZCov8CLah1ONEdin4lHEhJlmOG//jupSHKTgUj/C7FMADbZTXMadAUKk/Nx/ITjpgB0Y8ogDTFmAO+qTx7Bdhv5/rxAZprAvNqWaH7fFoHdr/UbZ63WAqERIJFqqtvDhNqWCxZ4ztBp1nDfWvchHxzNwOWI0hZb2er1OIvNnW0xY7H6T4X7g4xnBgyGhHak+YS8DkzWNRa7bqDift19nKEVQ9o0KAh3PWq/ZKNqcLI=;qiSMPwk9AvW2XCHYgEnbug=="
+secured: "kTlLspOU+23gOfdgZykENB3OiIo7FLVeIkXIK6sTw8hnbHKueOoSSzcSAfsZMPK4dqFWihDzgyn+uML7BQXZ3ENoDsEZCCNA/a0BvPYNqcKS2eKLp5EhztVQ7eigCu4Xd/dJmBp6/uCfHIVq//JC168fPZ12Tro2+LKZKNO6E6jnRCmHQvgiSUKDNFBJXbLGq6Cd7OJUs992UG4QvK6HPUZyvbwIQbehJJeLjhrifMMJwS19ICd3NF3ZM2Kpkri7hfRX+zsM9klripSd8AkOU0bRcXYdwPKXcS/2kyJOALVk8NXP82Om2l63ji97n5rzmCVIf9T+e9hsjoaQeQgvd5qlcBbVb9lPNVJWAto/e2M=;8ROQVxR6QYrLiahGkWrjIQ=="
 ---
 

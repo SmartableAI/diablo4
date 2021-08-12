@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-diablo-4-director-and-lead-designer-exit-blizzard-following-cosby-suite-revelations.md",
+      "title": "Diablo 4 director and lead designer exit Blizzard following Cosby Suite revelations",
+      "excerpt": "Three senior developers at Blizzard are the latest to leave the company, amidst the ongoing furore over toxic work environments.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-director-and-lead-designer-exit-blizzard-following-cosby-suite-revelations/index.json",
+      "webUrl": "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/",
+      "originalUrl": "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
+          "width": 600,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/",
+      "publishedDateTime": "2021-08-11T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development.md",
       "title": "Blizzard parts ways with leaders of Diablo 4 game development",
       "excerpt": "Activision Blizzard's Blizzard Entertainment division confirmed more departures among its leadership on the high-profile Diablo 4 game team.",
@@ -53,48 +95,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-11-three-more-high-profile-blizzard-employees-are-no-longer-at-the-company-including-diablo-4s-director.md",
-      "title": "Three more high-profile Blizzard employees are no longer at the company, including Diablo 4’s director",
-      "excerpt": "Three prominent Blizzard employees were let go from the company, reports Kotaku, marking the latest departures from the studio following a major sexual harassment lawsuit brought by the state of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-three-more-high-profile-blizzard-employees-are-no-longer-at-the-company-including-diablo-4s-director/index.json",
-      "webUrl": "https://www.msn.com/en-us/money/other/three-more-high-profile-blizzard-employees-are-no-longer-at-the-company-including-diablo-4-s-director/ar-AANdi0H",
-      "originalUrl": "https://www.msn.com/en-us/money/other/three-more-high-profile-blizzard-employees-are-no-longer-at-the-company-including-diablo-4-s-director/ar-AANdi0H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdls0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T08:00:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard.md",
       "title": "Diablo 4 Game Director And Two Other Devs Ousted From Activision Blizzard",
       "excerpt": "Level designer Jesse McCree, game director Luis Barriga, and designer Jonathan LeCraft were all unceremoniously let from from Activision Blizzard, according to Kotaku's anonymous sources.",
@@ -103,7 +103,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 366,
+      "heat": 406,
       "tags": null,
       "images": [
         {

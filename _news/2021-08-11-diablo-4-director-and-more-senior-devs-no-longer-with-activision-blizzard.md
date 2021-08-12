@@ -100,6 +100,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Diablo 4 director among trio of men no longer at Blizzard"
+    excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
+    publishedDateTime: 2021-08-12T03:37:00Z
+    webUrl: "https://www.eurogamer.net/articles/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+    ampWebUrl: "https://www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 107
+    images:
+      - url: "https://cdn.gamer-network.net/2021/articles/2021-08-12-11-37/diablo-4-director-among-trio-of-men-no-longer-at-blizzard-1628764665486.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"
+        width: 1920
+        height: 1075
+        isCached: true
   - title: "Report: ‘Diablo 4’ Game Director, Lead Level Designer ‘No Longer At Blizzard’"
     excerpt: "Potentially enormous news out of Activision Blizzard today as the company continues to clean house in the wake of a lawsuit by the state of California alleging the mistreatment of women at the company ..."
     publishedDateTime: 2021-08-11T14:57:00Z
@@ -185,6 +201,20 @@ related:
       - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
         width: 1400
         height: 922
+        isCached: true
+  - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
+    excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
+    publishedDateTime: 2021-08-12T03:08:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 80
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "81Vey+cz3wgTrCUdOIQuXQNafn8pQuT24FB9w2dBaK1PbOyXv6ELWAEF3qn4BlRaqiggVcbBljgOV5LCvyZ0+tPT0y2+c+aJ0ib43TN9e06YeAbUQXSG6MbNkr4cNUvt32z4m4E4krfDpY+3fGEPLtGthpEhkEA56vugU6aDG+0dqWx82N0pS8ybgioD1Bb6jI0wvIDZZqH4r2gRylUYMqkrEHB4xx7c/1AFZ5l6P07JdOujR7hL4tza+iIC9WzryiIqIbfmVSswrq2Hk7rnn+rOA3qK/gMnOc6ikGXvZgTK0mYhsoivfkGOPnEQc5rok1npNUFWP8LUKutFwALfq2x9ysnTAcRzv4gRjWegVS4=;cZk74omoHVuJmYWj/mZLjA=="

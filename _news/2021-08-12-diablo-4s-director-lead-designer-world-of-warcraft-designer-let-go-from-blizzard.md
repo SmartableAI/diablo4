@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 game director out at Blizzard"
-excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."
-publishedDateTime: 2021-08-11T15:21:34Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
+title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
+excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
+publishedDateTime: 2021-08-12T03:08:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
+webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
 type: article
-quality: 87
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
-  domain: msn.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
-    width: 1200
-    height: 630
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -150,6 +150,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 game director out at Blizzard"
+    excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."
+    publishedDateTime: 2021-08-11T15:21:34Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jesse Mcree, Diablo 4 Director No Longer At Activision Blizzard"
     excerpt: "Diablo 4 game director Luis Barriga, Blizzard lead level designer Jesse McCree, and World of Warcraft designer Jonathan LeCraft were let go from Blizzard on Wednesday, two sources with knowledge of ..."
     publishedDateTime: 2021-08-11T15:22:00Z
@@ -203,21 +217,7 @@ related:
       name: Comicbook.com
       domain: comicbook.com
     quality: 86
-  - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
-    excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
-    publishedDateTime: 2021-08-12T03:08:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 80
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "/D4Z/4Jz9hgkydUZJzdfYalEEj9bKCIh5o1zXGrvMNmYrv5UH/sOLT8gTEJnInzC2xz/qaDdX7ksaNXMDT5GkkLqgkJ/+IKTRRj+J/iHQJiGXCZR7TjSwlrCh46g0DnAGZCov8CLah1ONEdin4lHEhJlmOG//jupSHKTgUj/C7FMADbZTXMadAUKk/Nx/ITjpgB0Y8ogDTFmAO+qTx7Bdhv5/rxAZprAvNqWaH7fFoHdr/UbZ63WAqERIJFqqtvDhNqWCxZ4ztBp1nDfWvchHxzNwOWI0hZb2er1OIvNnW0xY7H6T4X7g4xnBgyGhHak+YS8DkzWNRa7bqDift19nKEVQ9o0KAh3PWq/ZKNqcLI=;qiSMPwk9AvW2XCHYgEnbug=="
+secured: "6Atissud7HJnDGM18wJ8E162VZMaD+eTx1XJ8h6FIH5zJr3euoS23YaxdlMIPFe1yuOVsgkvd2OyWJjXrff35k4ALRXpChaZtCpjzU+MbpO7ePcWeQujiWhL4svPrDhLJ7IIO7N1bKY0t2/Hrk0egWuQs56U2kOrAWhpRsTiXRkiNPEEZM+KAB8yogzONrvMtFmTp0bzVCIKMM1vnEB/ccf1rVhjm5ARORceTDvf+sxAR++5rliJaboz/psoOzPmfFjZ6lQywg3Cg5JprEcvDDlwerH3zt8NL6bu/qCXgAqLbrCFUaByYpkAX5Dg1CPMh9f9xdmnmvguZquToPMEp//y9aMLWINSjsswBV0FgZs=;oyyJKHSRyCqIcDeHGoucIQ=="
 ---
 
