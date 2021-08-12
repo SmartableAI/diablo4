@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-24-diablo-4-pvp-sounds-like-a-devilish-delight-that-will-challenge-every-hero-of-sanctuary.md",
+      "title": "Diablo 4 PvP sounds like a devilish delight that will challenge every hero of Sanctuary",
+      "excerpt": "Diablo 4 is the smouldering embodiment of the phrase 'high-risk, high-reward'. It's the first game in the series to properly embrace an open-world structure, a design decision that exerts additional ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-pvp-sounds-like-a-devilish-delight-that-will-challenge-every-hero-of-sanctuary/index.json",
+      "webUrl": "https://www.gamesradar.com/uk/diablo-4-pvp-explained/",
+      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-pvp-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/C277HqnUQgcqYoj2msMFt5-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/uk/amp/diablo-4-pvp-explained/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-pvp-explained/",
+      "publishedDateTime": "2021-02-24T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-diablo-4-should-resurrect-the-series-most-controversial-feature.md",
       "title": "Diablo 4 should resurrect the series’ most controversial feature",
       "excerpt": "We used to pay others to boost our RPG characters; now we pay the publisher. So why were we so against paying another player on the Diablo III auction house?",
@@ -1061,48 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story.md",
-      "title": "Diablo 4 is making fresh changes to items, skills, and how it tells a story",
-      "excerpt": "BlizzConOnline kicks off in a handful of hours, and while fans are expecting some sort of update on Diablo 4, it looks like the development team just dropped some early and meaty tidbits on how the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/index.json",
-      "webUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
-      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4-is-making-fresh-changes-to-items-skills-and-how-it-tells-a-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/media.criticalhit.net//2021/02/Diablo-4-3.jpg",
-          "width": 850,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T16:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "criticalhit.net",
-        "domain": "criticalhit.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

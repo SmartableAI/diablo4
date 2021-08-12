@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates"
+    excerpt: "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go."
+    publishedDateTime: 2021-08-11T17:09:00Z
+    webUrl: "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 107
+    images:
+      - url: "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Director Jesse McCree let go from Activision Blizzard"
     excerpt: "Multiple devs have been fired from Activision Blizzard for past behavior, including Diablo 4's director. The ongoing situation at Activision Blizzard has caused waves throughout the video game ..."
     publishedDateTime: 2021-08-11T14:25:00Z
@@ -158,6 +174,6 @@ related:
       domain: comicbook.com
     quality: 86
 
-secured: "HznQT+p1Do+Hmysh2zJx0wJLMoYmO72fKCZQp7+MOZlku2Svzk8qgXTKRV0sZyMPakrFnn3tqvMjOzOQ5p/ORdP+MSilGAMtZw6jgU8+8u8TmEYtozAz7fBb06Nbm3uYWSjCdd1k/mbuVSCFCvvXsNjqTAZMOsgjIrYeV5QG++q0p+mTaY3uPfYrBgLd1AjvhSSUyym4yisRy4Rg3qo/je8vV4fxl7FRbXTXW6Xt72fLkAMEmCfadi07ns5QNdNJd+ShXLmVUbADgUrK4McH7C1l+Gqo9jegfcHt6UW8EGeG+f9KpcV08iAc4799Wqrrm6fsIvjTtTMyxEaj1GNLX05LLj+fUvo3ZKQG+GqpKhY=;3bjS2FBOza1pZepYHRqpRg=="
+secured: "qmGAML7gnTof6kiZW81LGw7g67Jeuh0RkUd46dFNyNxhK4JsIBC734oHm4qTEoV/9ryDZIQhMRPe1T5E8UoWAe23gKyChHi+hrGDZG8VHW0JbcVF1OAclQw3O9B0XkE/vrH/b8Spmav4BDPGOeTyBKsibY9Qw6SgWpAcuQPchr/aBfrGeT8Gtnd++4qhsK2u3TmdS80EC6LPPIm+CV1gpn7Cnu5giEdIjI6KWi4nh/C8BBHv+wpSe6SIczvedYDqabmW+ud0QBvMKc1i0KbZ3Ml6cl83Ya7OrkUpVxUAc7Ll/gyNPfuf5QhTNwvBpptD5HAcixbQegEMMh2nlgEwduKqbSc46GOYOFxlI/Htsqw=;GOXatYIOe4thsCV5irYXmA=="
 ---
 

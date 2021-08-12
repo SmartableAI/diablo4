@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/"
 type: article
 quality: 146
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/T38wcQN2UiQdSGGhJ5sTvX-1200-80.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates"
+    excerpt: "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go."
+    publishedDateTime: 2021-08-11T17:09:00Z
+    webUrl: "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 107
+    images:
+      - url: "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 Director Jesse McCree let go from Activision Blizzard"
     excerpt: "Multiple devs have been fired from Activision Blizzard for past behavior, including Diablo 4's director. The ongoing situation at Activision Blizzard has caused waves throughout the video game ..."

@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates"
+    excerpt: "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go."
+    publishedDateTime: 2021-08-11T17:09:00Z
+    webUrl: "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 107
+    images:
+      - url: "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report: Diablo 4 director, two others let go at Activision Blizzard"
     excerpt: "According to Kotaku, the director of Diablo 4 and two others have been let go from Activision Blizzard. This follows the ongoing lawsuit against Activision Blizzard, alleging sexist workplace behavior ..."
     publishedDateTime: 2021-08-11T14:27:00Z
