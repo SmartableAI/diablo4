@@ -162,6 +162,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
+    excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
+    publishedDateTime: 2021-08-12T01:21:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 87
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
+        width: 1400
+        height: 922
+        isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
     publishedDateTime: 2021-08-11T15:13:00Z
@@ -174,6 +188,6 @@ related:
       domain: comicbook.com
     quality: 86
 
-secured: "RQk3LbDuSZXs/YpFGh37x9HqTfLp8n3E4XRIReaqPZc9Zexc1rvhc9Zw3T31KWoUn/FlHiBX/qQqGrWPGCMHWrIt2p5uT6MBvxP1/o+WxnGOlODbbH3a/GG8/+8zvpm3aRoGK9/vRNsYiJGXLg1Tz1gKGvvE3+2WZQYWVBKr8DiJ7k/FW2jy9/smaHAt8QT9TAm+9Zp+4XxrbKWFQq5mwJlrXZJxkoTZa6OR6no4f7IKgnTbQ/BsITsqWaLuyPXY91FjKamHbZ+otnME2FRafhwEngCVocBFlVdI5Ix8QmfIYWsqOctFGMnm1sadLr6P1uUd8Qp8gwqiJSn7YbVsvJ7FRgHJ4qxELHr40SSneIs=;sLHqB6teUcgnp5WewBXq1w=="
+secured: "g/WNpOIhILGoJ7zotw3EV7XiJFjB+pduvcXlZjtYxnVXMNMIWiMuOkQ1KFVEHdzrROCx67KDENwqyBIONUehQq8kexphrPqLgqrP0Sf1IIOfZXSENJMK2Hn3NxSoZVMbOiZZ9xzvpCHxFYtbhCx9xZ0QZ9mh0MZQAwjFkKUdD43zFX5NL2DYxWgP6QbrnCgGc2iPcySd2Ix84fBRDKAO4jTf2d1o14TDUidU8BFITOd1OmauFUfc9k1p4rKu8pulqonzvFfuFQcIImHF6VmYTdV/S9Kl91U5cjO7Akd3ezkILwthgTQP855sQOS3peNeN2DxknHGiQaxY8zr/+JWAI91NtmwK5jLpZd5uA3RXjo=;FUQoT34+WDZdNWCsnInaVA=="
 ---
 

@@ -162,6 +162,20 @@ related:
         width: 636
         height: 358
         isCached: true
+  - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
+    excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
+    publishedDateTime: 2021-08-12T01:21:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 87
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
+        width: 1400
+        height: 922
+        isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
     publishedDateTime: 2021-08-11T15:13:00Z

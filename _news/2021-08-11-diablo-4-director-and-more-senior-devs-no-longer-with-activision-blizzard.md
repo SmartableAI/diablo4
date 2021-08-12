@@ -172,6 +172,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
+    excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
+    publishedDateTime: 2021-08-12T01:21:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 87
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
+        width: 1400
+        height: 922
+        isCached: true
 
 secured: "81Vey+cz3wgTrCUdOIQuXQNafn8pQuT24FB9w2dBaK1PbOyXv6ELWAEF3qn4BlRaqiggVcbBljgOV5LCvyZ0+tPT0y2+c+aJ0ib43TN9e06YeAbUQXSG6MbNkr4cNUvt32z4m4E4krfDpY+3fGEPLtGthpEhkEA56vugU6aDG+0dqWx82N0pS8ybgioD1Bb6jI0wvIDZZqH4r2gRylUYMqkrEHB4xx7c/1AFZ5l6P07JdOujR7hL4tza+iIC9WzryiIqIbfmVSswrq2Hk7rnn+rOA3qK/gMnOc6ikGXvZgTK0mYhsoivfkGOPnEQc5rok1npNUFWP8LUKutFwALfq2x9ysnTAcRzv4gRjWegVS4=;cZk74omoHVuJmYWj/mZLjA=="
 ---

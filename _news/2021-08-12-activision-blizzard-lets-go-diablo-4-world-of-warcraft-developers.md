@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 game director out at Blizzard"
-excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."
-publishedDateTime: 2021-08-11T15:21:34Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
+title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
+excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
+publishedDateTime: 2021-08-12T01:21:00Z
+originalUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
+webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Polygon on MSN.com
-  domain: msn.com
+  name: Games Industry
+  domain: gamesindustry.biz
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
-    width: 1200
-    height: 630
+  - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
+    width: 1400
+    height: 922
     isCached: true
 
 related:
@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 game director out at Blizzard"
+    excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."
+    publishedDateTime: 2021-08-11T15:21:34Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-game-director-out-at-blizzard/ar-AANdt4B"
+    type: article
+    provider:
+      name: Polygon on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdsZS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=806&y=430"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jesse Mcree, Diablo 4 Director No Longer At Activision Blizzard"
     excerpt: "Diablo 4 game director Luis Barriga, Blizzard lead level designer Jesse McCree, and World of Warcraft designer Jonathan LeCraft were let go from Blizzard on Wednesday, two sources with knowledge of ..."
     publishedDateTime: 2021-08-11T15:22:00Z
@@ -162,20 +176,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
-    excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
-    publishedDateTime: 2021-08-12T01:21:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 87
-    images:
-      - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
-        width: 1400
-        height: 922
-        isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
     publishedDateTime: 2021-08-11T15:13:00Z
@@ -188,6 +188,6 @@ related:
       domain: comicbook.com
     quality: 86
 
-secured: "/D4Z/4Jz9hgkydUZJzdfYalEEj9bKCIh5o1zXGrvMNmYrv5UH/sOLT8gTEJnInzC2xz/qaDdX7ksaNXMDT5GkkLqgkJ/+IKTRRj+J/iHQJiGXCZR7TjSwlrCh46g0DnAGZCov8CLah1ONEdin4lHEhJlmOG//jupSHKTgUj/C7FMADbZTXMadAUKk/Nx/ITjpgB0Y8ogDTFmAO+qTx7Bdhv5/rxAZprAvNqWaH7fFoHdr/UbZ63WAqERIJFqqtvDhNqWCxZ4ztBp1nDfWvchHxzNwOWI0hZb2er1OIvNnW0xY7H6T4X7g4xnBgyGhHak+YS8DkzWNRa7bqDift19nKEVQ9o0KAh3PWq/ZKNqcLI=;qiSMPwk9AvW2XCHYgEnbug=="
+secured: "Dn69TT1WbvRltIz/T0nP00H0xOu21oxbLi5DRY69YjMClb3N6YwOZmcfMAwVR2ekG/J/V7GJB/yWXLzNh7/c7t+Gxi9gqm/0TeKoyNIFuKfEA8aRNlkO+g1HXTgNcaHcL8iyKGbWNmeWchxrldyEx/O1yyx3ct7dbuT4g+2O8BoUkcjMTLbrSwXv27YFc6aPKNz38j6QdHNEB74cOP2L5uX5gtl1zdM3ZpXcIZjpuEbHb32psj38HqzmNHL9pQ0tj+VsYxj3PwD6NoLSKpd8rUtolZUHJgbwmC5oy9NoKR4d2Rs4g/EcoFyw0FbpEQQlgOcyz73aINBPdrsNDqxUolaZpLcxmfFZkDj1HOBwqUY=;+0xsA4DNYbwTdkmcCqj9AA=="
 ---
 
