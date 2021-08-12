@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics.md",
+      "title": "New 'Dye' System Revealed for Diablo 4 Cosmetics",
+      "excerpt": "Diablo 4 cosmetics will include a new dye system that lets players customize their armor and it may be one of the game's cosmetic microtransactions.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics/index.json",
+      "webUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
+      "originalUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Diablo%204%20Cosmetics%20Microtransactions%20cover.jpg?itok=aH3Be484",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRaptor",
+        "domain": "techraptor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism.md",
       "title": "Diablo 4's Art Direction Emphasizes Hand-Crafted Details, Plenty Of Customization, And Just Enough Realism",
       "excerpt": "The Diablo IV art team breaks down the grim hand-crafted style that is being used to make Blizzard's return to its RPG series look grim and memorable.",
@@ -1061,48 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement.md",
-      "title": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)",
-      "excerpt": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=_s9AbCOLGEc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T06:30:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fextralife",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

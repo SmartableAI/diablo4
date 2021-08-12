@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard.md",
+      "title": "Diablo 4 Leads Luis Barriga and Jesse McCree, World of Warcraft Designer Jonathan LeCraft Let Go from Blizzard",
+      "excerpt": "Kotaku recently reported that Diablo 4 game director Luis Barriga and lead designer Jesse McCree have been let go from the company, as has World of Warcraft designer Jonathan LeCraft. While no reason ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard",
+      "originalUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/amp",
+      "publishedDateTime": "2021-08-11T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-diablo-4-director-and-lead-designer-exit-blizzard-following-cosby-suite-revelations.md",
       "title": "Diablo 4 director and lead designer exit Blizzard following Cosby Suite revelations",
       "excerpt": "Three senior developers at Blizzard are the latest to leave the company, amidst the ongoing furore over toxic work environments.",
@@ -103,7 +145,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 406,
+      "heat": 446,
       "tags": null,
       "images": [
         {
@@ -1052,48 +1094,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics.md",
-      "title": "New 'Dye' System Revealed for Diablo 4 Cosmetics",
-      "excerpt": "Diablo 4 cosmetics will include a new dye system that lets players customize their armor and it may be one of the game's cosmetic microtransactions.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics/index.json",
-      "webUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
-      "originalUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Diablo%204%20Cosmetics%20Microtransactions%20cover.jpg?itok=aH3Be484",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRaptor",
-        "domain": "techraptor.net",
         "images": null,
         "publishers": null,
         "authors": null

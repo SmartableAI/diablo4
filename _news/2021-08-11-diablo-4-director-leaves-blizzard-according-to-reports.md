@@ -120,6 +120,22 @@ related:
         width: 1920
         height: 1075
         isCached: true
+  - title: "Diablo 4 director and lead designer are no longer at Activision Blizzard"
+    excerpt: "Originally reported by Kotaku, Diablo 4 director, Luis Barriga, and lead designer, Jesse McCree, are confirmed to no longer be working at Activision Blizzard. In addition, World of Warcraft designer ..."
+    publishedDateTime: 2021-08-12T03:45:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-director-and-lead-designer-are-no-longer-at-activision-blizzard"
+    ampWebUrl: "https://www.techradar.com/amp/news/diablo-4-director-and-lead-designer-are-no-longer-at-activision-blizzard"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4-director-and-lead-designer-are-no-longer-at-activision-blizzard"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 106
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
+        width: 1195
+        height: 672
+        isCached: true
   - title: "Report: ‘Diablo 4’ Game Director, Lead Level Designer ‘No Longer At Blizzard’"
     excerpt: "Potentially enormous news out of Activision Blizzard today as the company continues to clean house in the wake of a lawsuit by the state of California alleging the mistreatment of women at the company ..."
     publishedDateTime: 2021-08-11T14:57:00Z
@@ -135,6 +151,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg"
         width: 1200
         height: 553
+        isCached: true
+  - title: "Diablo 4 director, lead level designer, and World of Warcraft designer leave Blizzard"
+    excerpt: "Activision Blizzard has confirmed the departure of three senior Blizzard employees. Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World of Warcraft senior designer Jonathan LeCraft ..."
+    publishedDateTime: 2021-08-12T04:16:00Z
+    webUrl: "https://www.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+    ampWebUrl: "https://amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+    type: article
+    provider:
+      name: True Achievements
+      domain: trueachievements.com
+    quality: 100
+    images:
+      - url: "https://www.trueachievements.com/customimages/carousel/119854.jpg"
+        width: 670
+        height: 377
         isCached: true
   - title: "Diablo 4 game director out at Blizzard"
     excerpt: "Veteran Blizzard Entertainment developers Luis Barriga, the director of Diablo 4, and Jesse McCree, one of the game’s lead designers, are no longer employed at the game company, Kotaku reported ..."

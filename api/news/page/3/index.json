@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement.md",
+      "title": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)",
+      "excerpt": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=_s9AbCOLGEc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:30:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fextralife",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-diablo-4-pvp-sounds-like-a-devilish-delight-that-will-challenge-every-hero-of-sanctuary.md",
       "title": "Diablo 4 PvP sounds like a devilish delight that will challenge every hero of Sanctuary",
       "excerpt": "Diablo 4 is the smouldering embodiment of the phrase 'high-risk, high-reward'. It's the first game in the series to properly embrace an open-world structure, a design decision that exerts additional ...",
@@ -1052,57 +1094,6 @@
         "name": "GamesRadar on MSN.com",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile.md",
-      "title": "What Diablo 4 can do to compete with Path of Exile",
-      "excerpt": "RPG, with its 24 years of dominance and a legacy that makes other games sweat. Diablo 3, despite a bumpy start, carried on that legacy, and players got to watch it evolve over a multitude of updates.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile/index.json",
-      "webUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "originalUrl": "https://www.pcgamer.com/au/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
-          "width": 710,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/what-diablo-4-can-do-to-compete-with-path-of-exile/",
-      "publishedDateTime": "2021-02-18T02:27:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

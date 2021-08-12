@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
-excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
-publishedDateTime: 2021-08-12T01:21:00Z
-originalUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
-webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
+title: "Diablo 4 director, lead level designer, and World of Warcraft designer leave Blizzard"
+excerpt: "Activision Blizzard has confirmed the departure of three senior Blizzard employees. Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World of Warcraft senior designer Jonathan LeCraft ..."
+publishedDateTime: 2021-08-12T04:16:00Z
+originalUrl: "https://www.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+webUrl: "https://www.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+ampWebUrl: "https://amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
 type: article
-quality: 87
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Games Industry
-  domain: gamesindustry.biz
+  name: True Achievements
+  domain: trueachievements.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
-    width: 1400
-    height: 922
+  - url: "https://www.trueachievements.com/customimages/carousel/119854.jpg"
+    width: 670
+    height: 377
     isCached: true
 
 related:
@@ -152,22 +154,6 @@ related:
         width: 1200
         height: 553
         isCached: true
-  - title: "Diablo 4 director, lead level designer, and World of Warcraft designer leave Blizzard"
-    excerpt: "Activision Blizzard has confirmed the departure of three senior Blizzard employees. Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World of Warcraft senior designer Jonathan LeCraft ..."
-    publishedDateTime: 2021-08-12T04:16:00Z
-    webUrl: "https://www.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
-    ampWebUrl: "https://amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
-    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
-    type: article
-    provider:
-      name: True Achievements
-      domain: trueachievements.com
-    quality: 100
-    images:
-      - url: "https://www.trueachievements.com/customimages/carousel/119854.jpg"
-        width: 670
-        height: 377
-        isCached: true
   - title: "Diablo 4 director leaves Blizzard, according to reports"
     excerpt: "Luis Barriga, game director on Diablo 4, is one of a number of high-profile departures from Blizzard, according to reports. Blizzard lead level designer Jesse McCree Jonathan LeCraft have also left ..."
     publishedDateTime: 2021-08-11T15:16:00Z
@@ -224,6 +210,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
+    excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
+    publishedDateTime: 2021-08-12T01:21:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 87
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
+        width: 1400
+        height: 922
+        isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
     publishedDateTime: 2021-08-11T15:13:00Z
@@ -250,6 +250,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Dn69TT1WbvRltIz/T0nP00H0xOu21oxbLi5DRY69YjMClb3N6YwOZmcfMAwVR2ekG/J/V7GJB/yWXLzNh7/c7t+Gxi9gqm/0TeKoyNIFuKfEA8aRNlkO+g1HXTgNcaHcL8iyKGbWNmeWchxrldyEx/O1yyx3ct7dbuT4g+2O8BoUkcjMTLbrSwXv27YFc6aPKNz38j6QdHNEB74cOP2L5uX5gtl1zdM3ZpXcIZjpuEbHb32psj38HqzmNHL9pQ0tj+VsYxj3PwD6NoLSKpd8rUtolZUHJgbwmC5oy9NoKR4d2Rs4g/EcoFyw0FbpEQQlgOcyz73aINBPdrsNDqxUolaZpLcxmfFZkDj1HOBwqUY=;+0xsA4DNYbwTdkmcCqj9AA=="
+secured: "QD50WjfSgPMz+o68eg2UAHfS83s1SUBOZbeeNJ3zBP1z1+kkrH/XCT0gOfVzjN8mvI70tbHwhj9nMb3Qpz17MV6sH2ZZN8yvaUrbtml2eak0+3HvR+KwYEg9xk76JszUaqMAbjkHixnGIpw+Jdaa/FozmxOLPGPBMrKWYLB3I3QJ0apz0SwPY5pjzW5M2eVZZZtuVXpUaLXsDR/tSmSmeYAnaoHEfq4dIzFO0ZIxtsmdg2BOhz8GZDh0o82L3PLkzgwGLSCHknhEMZvs3StEm2yGvEUWxpK7r/9cS0+1osUusHPApoAoNrAKjNzK31uO6UPZsy97s4GcFfSm1166Okb5rl4qUp3JGcMsYsc63F8=;B2JKDH/Kwd7671UgeWjB+g=="
 ---
 
