@@ -174,6 +174,6 @@ related:
       domain: comicbook.com
     quality: 86
 
-secured: "qmGAML7gnTof6kiZW81LGw7g67Jeuh0RkUd46dFNyNxhK4JsIBC734oHm4qTEoV/9ryDZIQhMRPe1T5E8UoWAe23gKyChHi+hrGDZG8VHW0JbcVF1OAclQw3O9B0XkE/vrH/b8Spmav4BDPGOeTyBKsibY9Qw6SgWpAcuQPchr/aBfrGeT8Gtnd++4qhsK2u3TmdS80EC6LPPIm+CV1gpn7Cnu5giEdIjI6KWi4nh/C8BBHv+wpSe6SIczvedYDqabmW+ud0QBvMKc1i0KbZ3Ml6cl83Ya7OrkUpVxUAc7Ll/gyNPfuf5QhTNwvBpptD5HAcixbQegEMMh2nlgEwduKqbSc46GOYOFxlI/Htsqw=;GOXatYIOe4thsCV5irYXmA=="
+secured: "NJxrz69IPHaxUmhnt3wV7HssjNJuiDMpodCV5wS3XgGNd8d+lH9MQHZ3HJgXxflxkgWigbi674MoaR9sjM6tk568x1nDnFz+sDXIIaO+++AQbmLSWRuP1oE6gHGfBk8tzBioe+VBP7RNhrp7wpeWh5GKugUOHz5gE1m+T+k3A3IdKuQEWVZsLRVaGM5H6r3oHWrdRF+Fovx7+dZGM2v/Lh93qht9YyXT38bM2Stj3w95b/rZHRv0M2K5g54wOkozPj2yZtRX1tYyX0ouS9tGL1GZpoU+qRuO/wafszS4xV6ulTcrmjkWdOs8Lcky/4Sb6cTy548Z17S52v3Rh5xG8VPRVrMzpIA2gPBZ73069r0=;jxRbZ52b+BAtjIa2ltfggw=="
 ---
 
