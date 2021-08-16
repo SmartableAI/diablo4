@@ -2,6 +2,90 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor.md",
+      "title": "Diablo 4’s Next Class Reveal is the Rogue – Rumor",
+      "excerpt": "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
+      "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
+      "publishedDateTime": "2021-02-18T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more.md",
+      "title": "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more",
+      "excerpt": "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more/ar-BB1dPtMv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dPoTk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1086&y=170",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T20:08:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-what-diablo-4-can-do-to-compete-with-path-of-exile.md",
       "title": "What Diablo 4 can do to compete with Path of Exile",
       "excerpt": "RPG, with its 24 years of dominance and a legacy that makes other games sweat. Diablo 3, despite a bumpy start, carried on that legacy, and players got to watch it evolve over a multitude of updates.",
@@ -1012,90 +1096,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old.md",
-      "title": "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old",
-      "excerpt": "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "publishedDateTime": "2020-12-15T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal.md",
-      "title": "Diablo 4 will be at BlizzCon, likely with a new class reveal",
-      "excerpt": "Blizzard says a big Diablo 4 update is coming to BlizzConline, the digital alternative to BlizzCon taking place in February. In the latest quarterly update from Blizzard, in which we learned a lot ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/index.json",
-      "webUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "originalUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AaSPFCQ7sbH3mWSqxpq8YW-1200-80.jpg",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
-      "publishedDateTime": "2020-12-15T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

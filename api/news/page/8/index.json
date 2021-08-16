@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit.md",
+      "title": "Diablo 4 Announced - Mathil Rambles A Bit",
+      "excerpt": "https://www.twitch.tv/mathil1 for daily live streams https://twitter.com/MathilExists https://www.instagram.com/mathilexists/ ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/",
+      "originalUrl": "https://youtube.com/watch?v=jZ2zooYZLNo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZ2zooYZLNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jZ2zooYZLNo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T18:54:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathilification",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019.md",
+      "title": "*NEW* DIABLO 4 ON PC ANNOUNCEMENT! Gameplay & Cinematic Trailer Reaction | BlizzCon 2019",
+      "excerpt": "Diablo 4 BlizzCon announcement. This is a full reaction video to the new game presentation as part of the opening ceremony. The video includes BlizzCon ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=ndOYedBmTbg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ndOYedBmTbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ndOYedBmTbg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T18:13:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MadSkillzzTV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction.md",
       "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
       "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer Blizzcon 2019 is here! The Blizzard opening ceremony has come and gone and ...",
@@ -966,90 +1050,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "PWilhelm",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon.md",
-      "title": "Diablo 4 Announcement PULLED Before Blizzcon...",
-      "excerpt": "Recent information would suggest that Diablo 4 was set to be announced at Blizzcon but ended being pulled after developers couldn't commit to the current ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon/",
-      "originalUrl": "https://youtube.com/watch?v=VaUFjfbPEoA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VaUFjfbPEoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VaUFjfbPEoA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-06T11:07:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Accolonn",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon.md",
-      "title": "New Leak Reveals Blizzard Was Going To Announce Diablo 4 at Blizzcon",
-      "excerpt": "LAMON GAMON ARE BACK!!!!! More nooz on Diablo, apparently there was a D4 reveal that was shelved last minute!!!! We discuss... MERCH!!!!!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon/",
-      "originalUrl": "https://youtube.com/watch?v=YkAOXqLls4k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YkAOXqLls4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YkAOXqLls4k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-05T19:58:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laymen Gaming",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

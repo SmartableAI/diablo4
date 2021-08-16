@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
+      "title": "Diablo 4 will actually let you customise your character's face",
+      "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face/index.json",
+      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg",
+          "width": 660,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "cdnAmpWebUrl": "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "publishedDateTime": "2021-06-30T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock, Paper, Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles.md",
+      "title": "Diablo 4’s new gear dye system produces some gorgeous styles",
+      "excerpt": "There’s plenty to be excited about if you’re into fiddling with your character’s look in Diablo 4. As we’ve reported, character customisation in this entry in the RPG game series is deeper than it’s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/dye-system",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/dye-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/06/diablo-4-fashion-rogues-580x326.jpg",
+          "width": 580,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/dye-system?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/dye-system?amp",
+      "publishedDateTime": "2021-06-30T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics.md",
       "title": "New 'Dye' System Revealed for Diablo 4 Cosmetics",
       "excerpt": "Diablo 4 cosmetics will include a new dye system that lets players customize their armor and it may be one of the game's cosmetic microtransactions.",
@@ -1001,108 +1085,6 @@
         "name": "Chicago Reacts",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
-      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
-      "excerpt": "Diablo 4 making the shift to an open world design raises several questions. After all, an open world is not just a type of map; on one end of the spectrum it’s a level design philosophy, and on the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
-      "webUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
-      "originalUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/news/h/how-diablo/how-diablo-4s-open-world-design-is-making-sanctuary-a-place_ktjf.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-diablo-4-everything-we-know-so-far.md",
-      "title": "Diablo 4 - Everything We Know So Far",
-      "excerpt": "BlizzConline offered a lot of new info on the upcoming action-RPG; here's everything we know so far. GameSpot may get a commission from retail offers. Perhaps the most anticipated game Blizzard has in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-everything-we-know-so-far/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/",
-      "publishedDateTime": "2021-02-24T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

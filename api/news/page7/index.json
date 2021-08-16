@@ -2,6 +2,90 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
+      "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=9I0gLbjENXU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9I0gLbjENXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9I0gLbjENXU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-10T23:14:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ultimate LUL",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy.md",
+      "title": "Diablo 4 Initial announcement perspective - Red Shirt Guy",
+      "excerpt": "My initial thoughts from playing the demo at blizzcon, watching the developer interviews, and listening to the wacky Q&A from the systems and features panel.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/",
+      "originalUrl": "https://youtube.com/watch?v=CIIjswFSzbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CIIjswFSzbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CIIjswFSzbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-10T11:35:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dontinquire",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating.md",
       "title": "Diablo IV Announcement Cinematic | By Three They Come Reaction / Review / Rating",
       "excerpt": "Adam and Jay react, review, riff, and rate the new announcement cinematic everyone wanted to see last year at Blizzcon, Diablo IV 'By Three They Come'.",
@@ -964,90 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Romeo Snow",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit.md",
-      "title": "Diablo 4 Announced - Mathil Rambles A Bit",
-      "excerpt": "https://www.twitch.tv/mathil1 for daily live streams https://twitter.com/MathilExists https://www.instagram.com/mathilexists/ ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/",
-      "originalUrl": "https://youtube.com/watch?v=jZ2zooYZLNo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZ2zooYZLNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jZ2zooYZLNo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T18:54:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathilification",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019.md",
-      "title": "*NEW* DIABLO 4 ON PC ANNOUNCEMENT! Gameplay & Cinematic Trailer Reaction | BlizzCon 2019",
-      "excerpt": "Diablo 4 BlizzCon announcement. This is a full reaction video to the new game presentation as part of the opening ceremony. The video includes BlizzCon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=ndOYedBmTbg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ndOYedBmTbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ndOYedBmTbg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T18:13:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MadSkillzzTV",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

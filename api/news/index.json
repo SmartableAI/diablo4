@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward.md",
+      "title": "Inside Diablo 4 - How Blizzard is pushing the series, and genre, forward!",
+      "excerpt": "Join us as we take an in-depth look at the past, present and future of Diablo in a three-part series with insight from the teams at Blizzard making it happen. Part Three: Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward/index.json",
+      "webUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
+      "originalUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/8/16/sjj6dbu1yms5cujnnhtf/diablo-4-in-game-screenshot",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.redbull.com/au-en/diablo-4-blizzard-insights",
+      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/au-en/diablo-4-blizzard-insights",
+      "publishedDateTime": "2021-08-15T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Red Bull",
+        "domain": "redbull.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard.md",
       "title": "Diablo 4 Leads Luis Barriga and Jesse McCree, World of Warcraft Designer Jonathan LeCraft Let Go from Blizzard",
       "excerpt": "Kotaku recently reported that Diablo 4 game director Luis Barriga and lead designer Jesse McCree have been let go from the company, as has World of Warcraft designer Jonathan LeCraft. While no reason ...",
@@ -176,6 +218,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad.md",
+      "title": "Diablo 2 Resurrected Beta Date Announced AND Diablo 4 Looks BAD!",
+      "excerpt": "Super Busy Day Today, I apologize for the potential and very likely lack of additional uploads today. That being said we have some AMAZING news today.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad/",
+      "originalUrl": "https://youtube.com/watch?v=XpwqiKLEsY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XpwqiKLEsY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XpwqiKLEsY8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T15:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Corey Allen",
+        "domain": "youtube.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1011,90 +1095,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
-      "title": "Diablo 4 will actually let you customise your character's face",
-      "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg",
-          "width": 660,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "cdnAmpWebUrl": "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "publishedDateTime": "2021-06-30T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock, Paper, Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles.md",
-      "title": "Diablo 4’s new gear dye system produces some gorgeous styles",
-      "excerpt": "There’s plenty to be excited about if you’re into fiddling with your character’s look in Diablo 4. As we’ve reported, character customisation in this entry in the RPG game series is deeper than it’s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/dye-system",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/dye-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/06/diablo-4-fashion-rogues-580x326.jpg",
-          "width": 580,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/dye-system?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/dye-system?amp",
-      "publishedDateTime": "2021-06-30T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
