@@ -36,6 +36,66 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
+    },
+    {
+      "path": "_games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4.md",
+      "title": "Sorceress (D2/Diablo 2 Resurrected/D4) Comparison Side by Side - Original vs Remaster vs Diablo 4",
+      "excerpt": "D2 - me D2R - MrLLamaSc D4 - Game Informer.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=f_pnbHYtJl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_pnbHYtJl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M27S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 113,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f_pnbHYtJl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-02T09:00:22-07:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -373,36 +433,6 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
-    },
-    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -431,36 +461,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
-    },
-    {
-      "path": "_games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4.md",
-      "title": "Sorceress (D2/Diablo 2 Resurrected/D4) Comparison Side by Side - Original vs Remaster vs Diablo 4",
-      "excerpt": "D2 - me D2R - MrLLamaSc D4 - Game Informer.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=f_pnbHYtJl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_pnbHYtJl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M27S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f_pnbHYtJl8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-02T09:00:22-07:00"
     },
     {
       "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
@@ -611,6 +611,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-02T21:56:36-07:00"
+    },
+    {
+      "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
+      "provider": {
+        "name": "Coolpedia",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
       "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
@@ -886,38 +918,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-02T17:29:59-07:00"
-    },
-    {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     }
   ],
   "nextPage": 2

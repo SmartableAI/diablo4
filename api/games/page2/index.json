@@ -4,6 +4,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
+    },
+    {
       "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
       "title": "Diablo 4: Barbarian Skills and Talents Overview",
       "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
@@ -32,38 +64,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-04-20T10:31:47-07:00"
-    },
-    {
-      "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
-      "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
-      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
-      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M36S",
-      "provider": {
-        "name": "Coolpedia",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
       "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
