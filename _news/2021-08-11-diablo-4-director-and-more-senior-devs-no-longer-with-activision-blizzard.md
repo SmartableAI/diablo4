@@ -296,6 +296,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Diablo 4 director and two other devs “let go” from Activision Blizzard"
+    excerpt: "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ..."
+    publishedDateTime: 2021-08-12T11:21:00Z
+    webUrl: "https://www.theloadout.com/blizzard-luis-barriga-let-go"
+    type: article
+    provider:
+      name: The Loadout
+      domain: theloadout.com
+    quality: 87
+    images:
+      - url: "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
     excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
     publishedDateTime: 2021-08-12T03:08:00Z

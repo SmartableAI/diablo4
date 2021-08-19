@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/"
 type: article
 quality: 146
-heat: 526
+heat: 546
 published: true
 
 provider:
@@ -289,6 +289,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANfbWT.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Diablo 4 director and two other devs “let go” from Activision Blizzard"
+    excerpt: "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ..."
+    publishedDateTime: 2021-08-12T11:21:00Z
+    webUrl: "https://www.theloadout.com/blizzard-luis-barriga-let-go"
+    type: article
+    provider:
+      name: The Loadout
+      domain: theloadout.com
+    quality: 87
+    images:
+      - url: "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."

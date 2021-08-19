@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Diablo 4 Director Jesse McCree let go from Activision Blizzard"
-excerpt: "Multiple devs have been fired from Activision Blizzard for past behavior, including Diablo 4's director. The ongoing situation at Activision Blizzard has caused waves throughout the video game ..."
-publishedDateTime: 2021-08-11T14:25:00Z
-originalUrl: "https://www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard"
-webUrl: "https://www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard"
-ampWebUrl: "https://www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard?amphtml=1"
+title: "Diablo 4 director and two other devs “let go” from Activision Blizzard"
+excerpt: "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ..."
+publishedDateTime: 2021-08-12T11:21:00Z
+originalUrl: "https://www.theloadout.com/blizzard-luis-barriga-let-go"
+webUrl: "https://www.theloadout.com/blizzard-luis-barriga-let-go"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: The Loadout
+  domain: theloadout.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/08/11/diablo-4-rogue_feature.jpg"
+  - url: "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -73,6 +71,22 @@ related:
       - url: "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 Director Jesse McCree let go from Activision Blizzard"
+    excerpt: "Multiple devs have been fired from Activision Blizzard for past behavior, including Diablo 4's director. The ongoing situation at Activision Blizzard has caused waves throughout the video game ..."
+    publishedDateTime: 2021-08-11T14:25:00Z
+    webUrl: "https://www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard"
+    ampWebUrl: "https://www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/126090/diablo-4-director-jesse-mccree-let-go-from-activision-blizzard?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/08/11/diablo-4-rogue_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Report: Diablo 4 director, two others let go at Activision Blizzard"
     excerpt: "According to Kotaku, the director of Diablo 4 and two others have been let go from Activision Blizzard. This follows the ongoing lawsuit against Activision Blizzard, alleging sexist workplace behavior ..."
@@ -286,20 +300,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Diablo 4 director and two other devs “let go” from Activision Blizzard"
-    excerpt: "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ..."
-    publishedDateTime: 2021-08-12T11:21:00Z
-    webUrl: "https://www.theloadout.com/blizzard-luis-barriga-let-go"
-    type: article
-    provider:
-      name: The Loadout
-      domain: theloadout.com
-    quality: 87
-    images:
-      - url: "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Director and More Senior Devs No Longer with Activision Blizzard"
     excerpt: "Activision Blizzard has revealed that three senior developers are no longer employed by the company: Luis Barriga, Jesse McCree, and Jonathan LeCraft. Following reporting from Kotaku, the outlet was ..."
     publishedDateTime: 2021-08-11T15:13:00Z
@@ -326,6 +326,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "nhdw9y4ErNNGffc5uvKdMjlPWxDBBfNYa96Om00v+XXtZG4YL332gMxSHeRtvoT55Mi9f/l6XjEvHKXzG6C23I9/JtR7IQ35PLMChtlxTUrkchEkChkbB/JTMVGIodSTAgALPTsTtSAaOhOjA3O9re1e4fnmg0UJJnKMisA7DfdJmQ6qvIQpoKRrmvqGVzxo6ygDVJ/nN555n9oz2R4grqduER5wKdd4BaQxGM1lotk/dYv8Rh3RT4YIo15fBIBlMaxflTpWYqdxCSCAUGePlaeAWJK+pZkufwoKmzZpVvBYcIMy9DtkIwYNtX47nIlihL1FsdRn+TcJSMJk2wqLGhqt3zTXRmTxwaHIzA62bGE=;tLcWIbac/rZQPp5dwwVgFA=="
+secured: "n6oRkVvNpSTii9BJGqQGSJBK4lXdKOopSqGNIubaHZKkiwjoYFOhVw9n+X1pmRyafeu6xcR9gHnC5+xa0IV8ibfkp3GinhnalnouXV+fGIycgFcSnBQ1gOvsFjIYRBZVPVPtYXflbXNv7Yza54cDkWPSsCoiQGTt551qPv4uuwVST7a6n14HBVjcCYhqLRrAlT7qqFaJWQnEQvVPgUhiINf0AjQqdearkMFcfH0kYu0v6PV/jP9mWgIZJsMnv+QotBU/trn0kI22FFa/u5qiD7q1JkwBmnRNpIh1Jj3fsuA+Zi1f9B0SJI3+ec4I2DlmEoPT1sH1rFtyJCcj5VPO1/Cy7iZ8P46dRmbmLPxiFVI=;bTScjiJILM0KJLxrtl12Gg=="
 ---
 
