@@ -9,7 +9,7 @@ ampWebUrl: "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-y
 cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp"
 type: article
 quality: 107
-heat: 108
+heat: 107
 published: true
 
 provider:
