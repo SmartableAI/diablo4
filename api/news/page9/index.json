@@ -44,6 +44,48 @@
       ]
     },
     {
+      "path": "_news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded.md",
+      "title": "Was Diablo 4 Really Intended To Be Announced At Blizzcon 2018? Blizzard Have Now Responded!",
+      "excerpt": "Diablo Immortal quickly became the most substantial news out of this year's Blizzcon but some sources have now suggested Diablo 4 was also going to be ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded/",
+      "originalUrl": "https://youtube.com/watch?v=Ouxwi-6Kvu4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ouxwi-6Kvu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ouxwi-6Kvu4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-06T05:58:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FuzzfingerGaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon.md",
       "title": "New Leak Reveals Blizzard Was Going To Announce Diablo 4 at Blizzcon",
       "excerpt": "LAMON GAMON ARE BACK!!!!! More nooz on Diablo, apparently there was a D4 reveal that was shelved last minute!!!! We discuss... MERCH!!!!!",
