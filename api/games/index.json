@@ -22,7 +22,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 292,
+      "heat": 232,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qfeYy1fvUPc/maxresdefault.jpg",
@@ -34,6 +34,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
+    },
+    {
+      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
+      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
+      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
+      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M21S",
+      "provider": {
+        "name": "Fallen",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-01T03:55:57-07:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
@@ -497,36 +527,6 @@
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
-      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
-      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
-      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
-      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
-      "provider": {
-        "name": "Fallen",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-01T03:55:57-07:00"
-    },
-    {
       "path": "_games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
       "title": "Diablo 4: Sorceress Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
       "excerpt": "The Diablo 4 sorceress Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
@@ -585,6 +585,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-30T18:30:01-07:00"
+    },
+    {
+      "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
+      "title": "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen",
+      "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/",
+      "originalUrl": "https://youtube.com/watch?v=5ITKehCJHUk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ITKehCJHUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M28S",
+      "provider": {
+        "name": "Bajheera",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ITKehCJHUk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-06T08:30:33-08:00"
     },
     {
       "path": "_games/bannik13-diablo-4-exclusive-20-minute-sorceress-gameplay-reaction.md",
@@ -765,37 +796,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
-    },
-    {
-      "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
-      "title": "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen",
-      "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen/",
-      "originalUrl": "https://youtube.com/watch?v=5ITKehCJHUk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ITKehCJHUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M28S",
-      "provider": {
-        "name": "Bajheera",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ITKehCJHUk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-06T08:30:33-08:00"
     },
     {
       "path": "_games/bannik13-diablo-4-exclusive-20-minute-barbarian-gameplay-reaction.md",
