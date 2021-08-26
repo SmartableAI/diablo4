@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
+originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo
+  name: Blizzard Türkiye
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "cjzDnw+gZF0WDFoKAdIf7DyNbcBpw7vCjCH6zcGpB/YytkzXgjXYGpn7nLorpXfH7hobYA64iWF5QCmqDBURj3EuXM7i/CTD0qlTljMOAVOfVq6Tz6Bfqpt/FKM8YZzKcNz04fke0PsG2zCDGk9o+bsvTELP2Gxoe1kJQg75y6z16pzjixNFc77Ao1ppkFTWkhReUBqfIPfBb13NebLPOZJf7dqx/AxKF3KTrlr6Dec4M5+KCPXu7D0d69njRbsfDGVl0xXttyHEzNRHYB4usyypxEwCVJiwtTrYFE6naFK7l0yYqCEAJvgq62sALgjLfh2taK+zLCd95ytoUwX695A1UGTXWNCw9dTi/SZqYeep7BYtex0Pfjan5nAJpYQJVKtDBcajRduTyZ5FdYpNDw==;KJouqGDDIXysgZ6Z35zRfQ=="
+secured: "t5aiAwMmVcwTRczZYDtIhviTUF53JSaDzqDIUlQq5TKW6fYF/GmmwF7ewARXnXFXDnI4CisZTfxXx5mhHWJocB4+voAg0wq4p17ao0KsefrhMdLMxlSqnKfFSrFzyOZrjz32BXkifHFvih02nERm3soPhghm5KwLl3uyEoAoqkdIiI41QsQsIxFiadwzsrIbAvjt46XBEUmmLt/92FMgKtpe51gp3MOIpW/c2syp/zfaecpPjVDgvpyEsfYwTKmIIeP/fYXTqvKtEBN80VZ1fhJvnon8Mm0LKepzhT48y+LtednDSngMtjtpW7txJzAMT9yQQHZyFePZsaW2h67paBHjKge7kkmh+SUWRxrZOjB/DfrwaL88OoOk9oSpDAl2FJ2hbER9xlTwiOCbpuvvBw==;f1yRcxjxm/cCvMJ+ywusmA=="
 ---
 
