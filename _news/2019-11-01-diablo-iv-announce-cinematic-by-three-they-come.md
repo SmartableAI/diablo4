@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo IV Announce Cinematic | By Three They Come"
-excerpt: "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike."
-publishedDateTime: 2019-11-01T18:05:30Z
-originalUrl: "https://youtube.com/watch?v=9bRWIdOMfro"
+excerpt: "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo."
+publishedDateTime: 2019-11-01T19:01:45Z
+originalUrl: "https://youtube.com/watch?v=0vE3rAjtqUY"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo
+  name: Game Clips And Tips
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/9bRWIdOMfro/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "yg+nAF2r9iiSrZIJz8LBmBaR98A9hQU6X5I2G4pHLuQe24ZqU0j+9As6tNtyB6j5urC/7FPpVvLgscJ/Ds3vJvlNVEZu0NyJMB5Kr0Hr4YKr23FrMPvILBS17Pnd1aciGmtznJduPOVW6ppM39Zf3FGStXA4DcweTZoHqtBRhV4BuPpjaRLJgwjSkHWqQCaKSyhDKajYdsa+uVzrF82bS1kWqm7Xm57vh6c4UANdzftKrupxi52MqiXcSVFG/qRC7c8pfH1rUUVU6E4GD+km42cFLGUgQsA9sdjK+YAn+EOPoLpZ4W1XzxZ16DTlBche3oMJIJfv6wJu62PDDRJ163LNmAwQbqxyODHUvFFLMayC8gL+CTrwJ3kPqajTX/qLqoUhwbIgtgEBRtknpSxy0g==;geqRXBNEcAMsMuGLOAgp7Q=="
+secured: "9mKuSG/6tPR2dsBTbWI6bLIc09HDy0jc0x9tRF0FZ28lB9qEJUCWO0xCGbQ4EprgVyYVsieiKqtQstWfCNqe5XtgYuuvdTOOyKnmixpa6LEw7X3zTq6JX83XXnu62SKkUoYYI3HK2tpugtp8nG7iN42TLQVIenK2AI1Ue1sH02fem6O5w7a5Q8PNR/VpyM1Y4odBV7mf830B7UBqw0POhvETi5Y4kii9C6XemAEuTgQQ6UlEPFzizuxaqLHlfHy5fySG58Xg7s90RQn0dhlelcltBZpvhz0Fs1AvEafsS+7gE6g4h3VyHQRVijxdqtxzO9qE5asiIzaccookbnYmD0xKEZUVP3ooP+V+3Nd429IbTPtbsaD/DyziCcq1ya0J9wcUCviyBe2xAg34Fjc7LA==;kH+DaUYl7lxSzD24KuawMQ=="
 ---
 
