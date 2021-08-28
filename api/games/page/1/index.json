@@ -22,7 +22,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 303,
+      "heat": 243,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qfeYy1fvUPc/maxresdefault.jpg",
@@ -34,6 +34,68 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
+    },
+    {
+      "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
+      "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/",
+      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
+      "provider": {
+        "name": "Coolpedia",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 123,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-05T14:40:16-07:00"
+    },
+    {
+      "path": "_games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay.md",
+      "title": "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE -  BARBARIAN - DIABLO 4 GAMEPLAY",
+      "excerpt": "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE - BARBARIAN - DIABLO 4 GAMEPLAY Art is a critical part of what makes ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=a-5aGfU1gNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a-5aGfU1gNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M49S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a-5aGfU1gNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-05T11:15:58-07:00"
     },
     {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
@@ -185,38 +247,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-27T08:33:17-08:00"
-    },
-    {
-      "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
-      "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
-      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021/",
-      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M36S",
-      "provider": {
-        "name": "Coolpedia",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
@@ -373,38 +403,6 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
-      "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
-      "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
-      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
-      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M36S",
-      "provider": {
-        "name": "Coolpedia",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-05T14:40:16-07:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
       "title": "New Gameplay Today – Diablo IV's Sorceress",
       "excerpt": "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ...",
@@ -433,6 +431,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-06T10:00:06-08:00"
+    },
+    {
+      "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
+      "provider": {
+        "name": "Coolpedia",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
       "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
@@ -889,36 +919,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T04:00:08-07:00"
-    },
-    {
-      "path": "_games/der-ryback-diablo-iv-druide-gameplay-german.md",
-      "title": "Diablo IV Druide Gameplay German",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/der-ryback-diablo-iv-druide-gameplay-german/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/der-ryback-diablo-iv-druide-gameplay-german/",
-      "originalUrl": "https://youtube.com/watch?v=GfwraRtzWaE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GfwraRtzWaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M10S",
-      "provider": {
-        "name": "Der Ryback",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GfwraRtzWaE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-04T07:48:20-08:00"
     }
   ],
   "nextPage": 2
