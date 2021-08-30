@@ -36,6 +36,66 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 116,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
+    },
+    {
+      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
+      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
+      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M18S",
+      "provider": {
+        "name": "GameSpot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:30:01-07:00"
+    },
+    {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
       "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
       "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
@@ -173,7 +233,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 66,
+      "heat": 67,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
@@ -281,66 +341,6 @@
       "publishedDateTime": "2021-04-28T02:15:14-07:00"
     },
     {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
-      "title": "New Gameplay Today – Diablo IV's Sorceress",
-      "excerpt": "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-sorceress/",
-      "originalUrl": "https://youtube.com/watch?v=qPTOEGU04X4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPTOEGU04X4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M22S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-06T10:00:06-08:00"
-    },
-    {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
       "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -373,6 +373,36 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
+      "title": "New Gameplay Today – Diablo IV's Sorceress",
+      "excerpt": "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=qPTOEGU04X4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPTOEGU04X4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M22S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-06T10:00:06-08:00"
+    },
+    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-druid.md",
       "title": "New Gameplay Today – Diablo IV's Druid",
       "excerpt": "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ...",
@@ -401,6 +431,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-08T06:00:15-08:00"
+    },
+    {
+      "path": "_games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
+      "title": "Diablo 4: Sorceress Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
+      "excerpt": "The Diablo 4 sorceress Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
+      "originalUrl": "https://youtube.com/watch?v=9FK923_Wjbg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9FK923_Wjbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M23S",
+      "provider": {
+        "name": "Game LORE Dash",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9FK923_Wjbg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-12-02T22:04:16-08:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
@@ -465,6 +525,36 @@
       "publishedDateTime": "2021-07-01T03:55:57-07:00"
     },
     {
+      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
+      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
+      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
+      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M2S",
+      "provider": {
+        "name": "Game LORE Dash",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-18T20:58:24-08:00"
+    },
+    {
       "path": "_games/game-lore-dash-diablo-4-druid-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
       "title": "Diablo 4: Druid Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
       "excerpt": "If you enjoyed this video please consider subscribing: http://bit.ly/2D9NKHK Diablo Lore Books: https://www.amazon.com/shop/gameloredash?",
@@ -495,26 +585,26 @@
       "publishedDateTime": "2020-11-09T21:27:21-08:00"
     },
     {
-      "path": "_games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
-      "title": "Diablo 4: Sorceress Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
-      "excerpt": "The Diablo 4 sorceress Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
-      "originalUrl": "https://youtube.com/watch?v=9FK923_Wjbg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9FK923_Wjbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M23S",
+      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
+      "title": "Diablo 4: Barbarian Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
       "provider": {
-        "name": "Game LORE Dash",
+        "name": "Click Shoot Loot",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Barbarian"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9FK923_Wjbg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -522,37 +612,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-02T22:04:16-08:00"
+      "publishedDateTime": "2020-04-20T10:31:47-07:00"
     },
     {
-      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
-      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
-      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
+      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
+      "title": "Diablo 4: Sorceress Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M44S",
       "provider": {
-        "name": "GameSpot",
+        "name": "Click Shoot Loot",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Sorceress"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-06-30T18:30:01-07:00"
+      "publishedDateTime": "2020-05-27T10:12:29-07:00"
     },
     {
       "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
@@ -583,36 +673,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-06T05:04:40-07:00"
-    },
-    {
-      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
-      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
-      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
-      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M2S",
-      "provider": {
-        "name": "Game LORE Dash",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
@@ -860,66 +920,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
-      "title": "Diablo 4: Barbarian Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-20T10:31:47-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
-      "title": "Diablo 4: Sorceress Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=BIXcOKpV9IY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BIXcOKpV9IY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M44S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BIXcOKpV9IY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-05-27T10:12:29-07:00"
     }
   ],
   "nextPage": 2
