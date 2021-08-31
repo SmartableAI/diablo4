@@ -42,54 +42,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Diablo 4 director among trio of men no longer at Blizzard"
-    excerpt: "Three high-profile Blizzard employees are no longer part of the company, Activision Blizzard has today confirmed. Luis Barriga and Jesse McCree, Diablo 4's game director and lead designer, as well as ..."
-    publishedDateTime: 2021-08-12T03:37:00Z
-    webUrl: "https://www.eurogamer.net/articles/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
-    ampWebUrl: "https://www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-08-12-diablo-4-director-among-trio-of-men-no-longer-at-blizzard"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 107
-    images:
-      - url: "https://cdn.gamer-network.net/2021/articles/2021-08-12-11-37/diablo-4-director-among-trio-of-men-no-longer-at-blizzard-1628764665486.jpg/EG11/thumbnail/1920x1075/format/jpg/quality/80"
-        width: 1920
-        height: 1075
-        isCached: true
-  - title: "Diablo 4 director and lead designer are no longer at Activision Blizzard"
-    excerpt: "Originally reported by Kotaku, Diablo 4 director, Luis Barriga, and lead designer, Jesse McCree, are confirmed to no longer be working at Activision Blizzard. In addition, World of Warcraft designer ..."
-    publishedDateTime: 2021-08-12T03:45:00Z
-    webUrl: "https://www.techradar.com/news/diablo-4-director-and-lead-designer-are-no-longer-at-activision-blizzard"
-    ampWebUrl: "https://www.techradar.com/amp/news/diablo-4-director-and-lead-designer-are-no-longer-at-activision-blizzard"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4-director-and-lead-designer-are-no-longer-at-activision-blizzard"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 106
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
-        width: 1195
-        height: 672
-        isCached: true
-  - title: "Diablo 4 director and lead designer exit Blizzard following Cosby Suite revelations"
-    excerpt: "Three senior developers at Blizzard are the latest to leave the company, amidst the ongoing furore over toxic work environments."
-    publishedDateTime: 2021-08-12T03:17:00Z
-    webUrl: "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/"
-    ampWebUrl: "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 101
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276"
-        width: 600
-        height: 276
-        isCached: true
   - title: "Diablo 4 director, lead level designer, and World of Warcraft designer leave Blizzard"
     excerpt: "Activision Blizzard has confirmed the departure of three senior Blizzard employees. Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World of Warcraft senior designer Jonathan LeCraft ..."
     publishedDateTime: 2021-08-12T04:16:00Z
@@ -147,20 +99,6 @@ related:
     quality: 87
     images:
       - url: "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
-    excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
-    publishedDateTime: 2021-08-12T03:08:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 80
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
         width: 1920
         height: 1080
         isCached: true
