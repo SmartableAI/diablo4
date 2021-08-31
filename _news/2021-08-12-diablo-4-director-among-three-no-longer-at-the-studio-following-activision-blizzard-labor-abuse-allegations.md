@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates"
-    excerpt: "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go."
-    publishedDateTime: 2021-08-11T17:09:00Z
-    webUrl: "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 107
-    images:
-      - url: "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Activision Blizzard: Diablo 4 director and two others leave company"
     excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
     publishedDateTime: 2021-08-12T06:35:00Z
@@ -106,6 +90,38 @@ related:
         width: 1195
         height: 672
         isCached: true
+  - title: "Diablo 4 director and lead designer exit Blizzard following Cosby Suite revelations"
+    excerpt: "Three senior developers at Blizzard are the latest to leave the company, amidst the ongoing furore over toxic work environments."
+    publishedDateTime: 2021-08-12T03:17:00Z
+    webUrl: "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/"
+    ampWebUrl: "https://metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/08/12/diablo-4-director-and-designer-exit-blizzard-after-cosby-suite-reveal-15080192/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 101
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276"
+        width: 600
+        height: 276
+        isCached: true
+  - title: "Diablo 4 director, lead level designer, and World of Warcraft designer leave Blizzard"
+    excerpt: "Activision Blizzard has confirmed the departure of three senior Blizzard employees. Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World of Warcraft senior designer Jonathan LeCraft ..."
+    publishedDateTime: 2021-08-12T04:16:00Z
+    webUrl: "https://www.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+    ampWebUrl: "https://amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
+    type: article
+    provider:
+      name: True Achievements
+      domain: trueachievements.com
+    quality: 100
+    images:
+      - url: "https://www.trueachievements.com/customimages/carousel/119854.jpg"
+        width: 670
+        height: 377
+        isCached: true
   - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
     excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
     publishedDateTime: 2021-08-12T01:21:00Z
@@ -148,6 +164,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
+    excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
+    publishedDateTime: 2021-08-12T03:08:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 80
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Is Diablo 4 in trouble? D4 game director, lead designer leave Blizzard"
+    excerpt: "A scathing discrimination lawsuit has set Blizzard aflame, and Diablo 4's development could burn as key talent leave the studio."
+    publishedDateTime: 2021-08-12T10:27:00Z
+    webUrl: "https://www.tweaktown.com/news/81102/is-diablo-4-in-trouble-d4-game-director-lead-designer-leave-blizzard/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 67
 
 secured: "NVcCATv2Hu7hfpJNzYoYuyNd2Xmv6AUaWccbNgMN22I6TASy5uQOaEJgb8AYvJm8y+zzUltoUd+VdwVYmd9bANU/9cUIU2iYOSBbeZqNW+nWfsxDvUOja7jYlf54ZdszCZMjsyrxNDl5Yjd5pfNBrB9nsF2XyEh7DLWJIHbqXmYEKgNpVc6Xxni6crLKXJ1SYFt0NQ+SGpB7JqRuxNQUG9AFy+5V9HimtH0BnPDJtZMuIx2yDcCK9B8K9t/P9kCXVnbCI4UMwapIZ5xLfwbhcV5t5fPGlCIeigItNmcBGXMVJOQauCPqMSLg4GS0coDvQelqXB6TPQkAJyNnrQluUYQLzt7H5N64sHsp0rnB01s=;+/aHjfKaU1LOULycIOoUdg=="
 ---
