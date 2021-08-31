@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-58187612.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp"
 type: article
 quality: 107
-heat: 327
+heat: 307
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/08/12/e3e33f63/mcree.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Activision Blizzard lets go Diablo 4, World of Warcraft developers"
-    excerpt: "Three Activision Blizzard employees have been let go following the lawsuit the company is facing about its alleged toxic workplace culture. As reported by Kotaku, Diablo 4 game director Luis Barriga, ..."
-    publishedDateTime: 2021-08-12T01:21:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2021-08-12-activision-blizzard-lets-go-diablo-wow-developers"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 87
-    images:
-      - url: "https://images.eurogamer.net/2021/articles/2021-08-12-09-06/Activision_Blizzard.jpeg"
-        width: 1400
-        height: 922
         isCached: true
   - title: "Activision Blizzard loses Diablo 4 game director"
     excerpt: "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4.Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ..."
