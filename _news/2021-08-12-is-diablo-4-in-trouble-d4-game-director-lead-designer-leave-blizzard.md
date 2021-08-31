@@ -50,22 +50,6 @@ related:
         width: 660
         height: 371
         isCached: true
-  - title: "Diablo 4 director, lead level designer, and World of Warcraft designer leave Blizzard"
-    excerpt: "Activision Blizzard has confirmed the departure of three senior Blizzard employees. Diablo 4 director Luis Barriga, lead designer Jesse McCree, and World of Warcraft senior designer Jonathan LeCraft ..."
-    publishedDateTime: 2021-08-12T04:16:00Z
-    webUrl: "https://www.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
-    ampWebUrl: "https://amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
-    cdnAmpWebUrl: "https://amp-trueachievements-com.cdn.ampproject.org/c/s/amp.trueachievements.com/n46654/diablo-4-director-world-of-warcraft-designer-blizzard"
-    type: article
-    provider:
-      name: True Achievements
-      domain: trueachievements.com
-    quality: 100
-    images:
-      - url: "https://www.trueachievements.com/customimages/carousel/119854.jpg"
-        width: 670
-        height: 377
-        isCached: true
   - title: "Diablo 4 Director Among Three No Longer At The Studio Following Activision Blizzard Labor Abuse Allegations"
     excerpt: "Game Informer has confirmed that the three are no longer with the company, though the nature of their departure is being contained."
     publishedDateTime: 2021-08-12T07:48:00Z
