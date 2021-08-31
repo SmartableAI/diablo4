@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats.md",
+      "title": "Diablo 4's latest developer update is all about itemization (and a bit of player stats)",
+      "excerpt": "The latest Diablo 4 development update dives deep into itemization, \"the lifeblood of Diablo,\" with a closer look at changes that have been made since the last time Blizzard talked about the game and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/index.json",
+      "webUrl": "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "originalUrl": "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "publishedDateTime": "2020-12-15T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old.md",
       "title": "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old",
       "excerpt": "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ...",
@@ -1062,48 +1113,6 @@
       "provider": {
         "name": "Smithtainment",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
-      "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
-      "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
-      "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
-      "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
-      "publishedDateTime": "2020-08-18T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
         "images": null,
         "publishers": null,
         "authors": null

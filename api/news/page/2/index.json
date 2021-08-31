@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-diablo-iv-quarterly-updatejune-2021.md",
+      "title": "Diablo IV Quarterly Update—June 2021",
+      "excerpt": "Explore the details of character design, customization, and monster design with some of the artists behind Diablo IV.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-iv-quarterly-updatejune-2021/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
       "title": "Diablo 4 will actually let you customise your character's face",
       "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
@@ -1043,48 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer - Actors React",
-      "excerpt": "Help get this channel off the ground - Like and Sub #Chicago #Blind #React.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/",
-      "originalUrl": "https://youtube.com/watch?v=-HCPFiw0a2g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HCPFiw0a2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-HCPFiw0a2g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Reacts",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

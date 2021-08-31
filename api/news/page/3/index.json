@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer - Actors React",
+      "excerpt": "Help get this channel off the ground - Like and Sub #Chicago #Blind #React.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/",
+      "originalUrl": "https://youtube.com/watch?v=-HCPFiw0a2g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HCPFiw0a2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HCPFiw0a2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
       "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
       "excerpt": "Diablo 4 making the shift to an open world design raises several questions. After all, an open world is not just a type of map; on one end of the spectrum it’s a level design philosophy, and on the ...",
@@ -1047,57 +1089,6 @@
       "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
       "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
       "publishedDateTime": "2021-02-19T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline.md",
-      "title": "Diablo 4 - Everything We Know Ahead Of BlizzConline",
-      "excerpt": "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 367,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "publishedDateTime": "2021-02-19T03:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GameSpot",

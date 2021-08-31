@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Three more high-profile Blizzard employees are no longer at the company, including Diablo 4’s director"
-    excerpt: "Three prominent Blizzard employees were let go from the company, reports Kotaku, marking the latest departures from the studio following a major sexual harassment lawsuit brought by the state of ..."
-    publishedDateTime: 2021-08-11T15:00:54Z
-    webUrl: "https://www.msn.com/en-us/money/other/three-more-high-profile-blizzard-employees-are-no-longer-at-the-company-including-diablo-4-s-director/ar-AANdi0H"
+  - title: "Diablo 4’s director, lead designer & World of Warcraft designer let go from Blizzard"
+    excerpt: "Three senior Activision Blizzard employees have been dismissed from Blizzard including Diablo 4's director, its lead designer and a designer on World of Warcraft."
+    publishedDateTime: 2021-08-12T03:08:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4s-director-lead-designer-world-of-warcraft-designer-let-go-from-blizzard/"
     type: article
     provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 71
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 80
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AANdls0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Is Diablo 4 in trouble? D4 game director, lead designer leave Blizzard"
     excerpt: "A scathing discrimination lawsuit has set Blizzard aflame, and Diablo 4's development could burn as key talent leave the studio."

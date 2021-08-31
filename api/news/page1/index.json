@@ -136,7 +136,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -160,6 +160,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates.md",
+      "title": "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates",
+      "excerpt": "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/index.json",
+      "webUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "originalUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "publishedDateTime": "2021-08-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1053,57 +1104,6 @@
       "topics": [
         "Diablo 4",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-iv-quarterly-updatejune-2021.md",
-      "title": "Diablo IV Quarterly Update—June 2021",
-      "excerpt": "Explore the details of character design, customization, and monster design with some of the artists behind Diablo IV.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-iv-quarterly-updatejune-2021/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],
