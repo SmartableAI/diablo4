@@ -22,7 +22,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 265,
+      "heat": 205,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qfeYy1fvUPc/maxresdefault.jpg",
@@ -36,34 +36,34 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
-      "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
-      "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
-      "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-sorceress-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-sorceress-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=c9x16b9UyXM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9x16b9UyXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M3S",
+      "path": "_games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4.md",
+      "title": "Sorceress (D2/Diablo 2 Resurrected/D4) Comparison Side by Side - Original vs Remaster vs Diablo 4",
+      "excerpt": "D2 - me D2R - MrLLamaSc D4 - Game Informer.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=f_pnbHYtJl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_pnbHYtJl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M27S",
       "provider": {
-        "name": "Ram's Play",
+        "name": "Taylorar",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 71,
+      "heat": 110,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/c9x16b9UyXM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/f_pnbHYtJl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-01-27T08:33:17-08:00"
+      "publishedDateTime": "2021-07-02T09:00:22-07:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
@@ -96,6 +96,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
+    },
+    {
+      "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
+      "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
+      "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-sorceress-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-sorceress-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=c9x16b9UyXM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9x16b9UyXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M3S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c9x16b9UyXM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-27T08:33:17-08:00"
     },
     {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
@@ -890,36 +920,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-05T14:15:30-07:00"
-    },
-    {
-      "path": "_games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4.md",
-      "title": "Sorceress (D2/Diablo 2 Resurrected/D4) Comparison Side by Side - Original vs Remaster vs Diablo 4",
-      "excerpt": "D2 - me D2R - MrLLamaSc D4 - Game Informer.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=f_pnbHYtJl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_pnbHYtJl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M27S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f_pnbHYtJl8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-02T09:00:22-07:00"
     }
   ],
   "nextPage": 2
