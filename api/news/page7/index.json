@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-11-19-system-design-in-diablo-iv-part-i.md",
+      "title": "System Design in Diablo IV (Part I)",
+      "excerpt": "Special Update from David Kim, Lead Systems Designer on Diablo IV",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-19-system-design-in-diablo-iv-part-i/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23232022/system-design-in-diablo-iv-part-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
+          "width": 760,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019.md",
       "title": "A Letter from our Game Director – BlizzCon 2019",
       "excerpt": "We&amp;#39;re overwhelmed by the response we&amp;#39;ve seen from our community to Diablo IV at BlizzCon. Our Game Director, Luis Barriga, has a few words he&amp;#39;d like to share.",
@@ -1016,48 +1068,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Rhykker",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming.md",
-      "title": "DIABLO 4 Official Announcement and Gameplay trailers / Hell is Coming",
-      "excerpt": "DIABLO 4 Official Announcement and Gameplay trailers. Hell is Coming my friends. For more game videos and trailers hit that like button, comment,share and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming/",
-      "originalUrl": "https://youtube.com/watch?v=GCQOL-Tb_eQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GCQOL-Tb_eQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GCQOL-Tb_eQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T01:27:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StanKO Gaming",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

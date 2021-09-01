@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
+      "title": "Diablo IV Quarterly Update—December 2020",
+      "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-iv-quarterly-updatedecember-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/qc/QCLQ69PQP0RZ1607723436521.jpg",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats.md",
       "title": "Diablo 4's latest developer update is all about itemization (and a bit of player stats)",
       "excerpt": "The latest Diablo 4 development update dives deep into itemization, \"the lifeblood of Diablo,\" with a closer look at changes that have been made since the last time Blizzard talked about the game and ...",
@@ -1072,48 +1123,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement.md",
-      "title": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT",
-      "excerpt": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT Blizzard Entertainment was forced to cancel its annual BlizzCon fan ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=xKnfRkaePPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKnfRkaePPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xKnfRkaePPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-26T17:39:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

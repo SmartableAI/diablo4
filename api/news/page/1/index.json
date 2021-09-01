@@ -44,6 +44,48 @@
       ]
     },
     {
+      "path": "_news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard.md",
+      "title": "Diablo 4 director and two other devs “let go” from Activision Blizzard",
+      "excerpt": "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard/index.json",
+      "webUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
+      "originalUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Loadout",
+        "domain": "theloadout.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company.md",
       "title": "Activision Blizzard: Diablo 4 director and two others leave company",
       "excerpt": "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ...",
@@ -1070,49 +1112,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes.md",
-      "title": "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes",
-      "excerpt": "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/index.json",
-      "webUrl": "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/",
-      "originalUrl": "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg",
-          "width": 749,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Play Station Universe",
-        "domain": "psu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
       ]
     }
   ],
