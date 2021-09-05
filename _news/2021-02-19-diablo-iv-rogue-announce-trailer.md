@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
+originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo
+  name: Blizzard Türkiye
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/LvrLZ4yETHI/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "dNfJQMWHRUKhexS/8bkxM14h4Em9jKJCCRqySJeHpoGxokuHSeo4XKcns3V/JY5Xv4D1LAl756VXv/SlVyZzGD3Mg8059aETRd0Z/4B+fb9Fez2dOjgolqoiqbmomTcDRFXrrOsIdkEBm4nRD/M1uKXBevB0M9mH0+Ut0lWHxQgs4B5og+1vaXzNWV2spUzYvVZLtnNwyW9mcLurgqIAKppEuDrpMUz5JRBTHJnKl2Zv2kSxF527TQCMeA+oWdVvHWqFOGJl2XHm+FsysUMVPz5NoXfb056eUxoqpKfM3R158p7WjzcHnFkp8IjYL/wZnK5QUiUF6jLPvlooHmk3Aq7ce9j9DGxcuda0+s2PhIaOOlERt61nUEbVUjdHm/oKt0MivcOBOIDJYJipMxLBQg==;/4ldEmMBNLOYPeVbitkhoQ=="
+secured: "6SsCTxiWXqJx+SgF1q3Tl1sU77I2uhIPOckM3OIej7wOUfl3ZK/TfRW8RGo99W+iR0TRJ9YFnC1lR/epdQz1LUonGlBkEiHac8Xik9584eCkYoXyc0UJuZISkhEdkTrJAVzFa3meub5v2BmyODJQMlFK68Uw6puhGLS3/Nvvcul5eqCnoOgsbE2asNB+0yvNu4KVO1Jq7RwwY1d5rKM1AF9iZwBD5DuxIAYj6KBwidWzdFk8F7u50lzvBrcuI7A6HXKWIz4J8QnjUs4iKrJpHixd6uM8GqMn/ORxrie0WgLOpGYVHNW2kV8H4WlNiP9uJK+7eOpT25Aju2+0q3n504Dwdg7OMY3W6MVmb6V4M746menXm4JTkewDl/cHXI+1wzD/pfD2iLJB6y8rO2pwkA==;+G+m7+cVh/YIJ1MlR6nDtw=="
 ---
 
