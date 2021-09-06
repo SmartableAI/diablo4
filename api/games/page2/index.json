@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
-      "title": "DIABLO 4 NEW Gameplay DRUID QUEST COMPLETE",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/crazygames-diablo-4-new-gameplay-druid-quest-complete/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/crazygames-diablo-4-new-gameplay-druid-quest-complete/",
-      "originalUrl": "https://youtube.com/watch?v=VtH1862QXaw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtH1862QXaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M58S",
-      "provider": {
-        "name": "crazygames",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VtH1862QXaw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-08T14:31:14-07:00"
-    },
-    {
       "path": "_games/der-ryback-diablo-iv-druide-gameplay-german.md",
       "title": "Diablo IV Druide Gameplay German",
       "excerpt": "",
@@ -909,6 +879,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T11:15:58-07:00"
+    },
+    {
+      "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
+      "title": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY",
+      "excerpt": "DIABLO 4 - CLASSE ULTIMATES - BARBARIAN, DRUID, SORCERESS - GAMEPLAY Players will be able to pick from the melee heavy Barbarian, the magic ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=29d7SJWFajw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29d7SJWFajw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M45S",
+      "provider": {
+        "name": "Smithtainment",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/29d7SJWFajw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-08-12T13:55:08-07:00"
     }
   ],
   "nextPage": 3
