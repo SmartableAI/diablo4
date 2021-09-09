@@ -22,7 +22,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 218,
+      "heat": 220,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qfeYy1fvUPc/maxresdefault.jpg",
@@ -36,26 +36,28 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
-      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
-      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
-      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
-      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
+      "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
       "provider": {
-        "name": "Fallen",
+        "name": "Coolpedia",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Druid",
+        "Barbarian",
+        "Sorceress"
       ],
-      "heat": 112,
+      "heat": 113,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -63,7 +65,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-01T03:55:57-07:00"
+      "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
@@ -371,36 +373,6 @@
       "publishedDateTime": "2019-11-06T10:00:06-08:00"
     },
     {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
-    },
-    {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
       "title": "Diablo 4 Blizzcon 2019 Demo Druid, Sorceress, Barbarian Gameplay",
       "excerpt": "I was fortunate enough to stream Diablo 4 at Blizzcon 2019, this is the original Gameplay Demo from the showroom floor, enjoy! PODCAST: ...",
@@ -433,28 +405,26 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
-      "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
-      "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
-      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
-      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M36S",
+      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
+      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
+      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
+      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M21S",
       "provider": {
-        "name": "Coolpedia",
+        "name": "Fallen",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
+        "Barbarian"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -462,7 +432,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-07-05T14:40:16-07:00"
+      "publishedDateTime": "2021-07-01T03:55:57-07:00"
     },
     {
       "path": "_games/game-lore-dash-diablo-4-druid-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
@@ -523,6 +493,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
+    },
+    {
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
