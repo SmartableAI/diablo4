@@ -296,6 +296,48 @@
       ]
     },
     {
+      "path": "_news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming.md",
+      "title": "The Future Of Diablo Is Coming - Diablo 3, Diablo 4, Announcement Incoming",
+      "excerpt": "My Breakdown and opinions on the Announcement made by the Diablo team today! The Future of Diablo is COMING!!!! I tried to make the edits in this video as ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming/",
+      "originalUrl": "https://youtube.com/watch?v=VbPJTyzvnTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VbPJTyzvnTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VbPJTyzvnTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-08-08T15:14:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wolfcryer",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2016-11-02-hints-to-a-possible-diablo-4-announcement-ign-daily-fix.md",
       "title": "Hints to a Possible Diablo 4 Announcement? - IGN Daily Fix",
       "excerpt": "Diablo 3 may get Necromancers, Call of Duty: Infinite Warfare to be bundled with PS4 Slim, and is Diablo 4 going to be announced at Blizzcon? Diablo 3 Getting ...",
