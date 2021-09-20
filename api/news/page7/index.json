@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019.md",
+      "title": "Diablo 4 Announcement Trailer Reaction \"By Three They Come\" from Blizzcon 2019",
+      "excerpt": "FRoZeNShAdY reacts to the Diablo 4 By Three They Come from Blizzcon 2019.For more like and subscribe.Thank you for watching!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=GiCO_gRVYoQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GiCO_gRVYoQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GiCO_gRVYoQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-19T16:35:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FRoZeNShAdY",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-19-system-design-in-diablo-iv-part-i.md",
       "title": "System Design in Diablo IV (Part I)",
       "excerpt": "Special Update from David Kim, Lead Systems Designer on Diablo IV",
@@ -1026,48 +1068,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "MackeyFam Reacts",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold.md",
-      "title": "Streamers React to Diablo 4 Announcement at Blizzcon [Soda, TimTheTatman, forsen, Swifty, Asmongold]",
-      "excerpt": "Asmongold, AvoidingThePuddle, forsen, NymN, sodapoppin, Swifty, and TimTheTatman reacts to the new Diablo 4 announcement. McconnellRet is also ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold/",
-      "originalUrl": "https://youtube.com/watch?v=i6brwuPXv1w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6brwuPXv1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i6brwuPXv1w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T09:41:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Olas",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
