@@ -66,6 +66,36 @@
       "publishedDateTime": "2021-06-30T18:30:01-07:00"
     },
     {
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
+      "provider": {
+        "name": "Taylorar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -889,36 +919,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-08T14:31:14-07:00"
-    },
-    {
-      "path": "_games/der-ryback-diablo-iv-druide-gameplay-german.md",
-      "title": "Diablo IV Druide Gameplay German",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/der-ryback-diablo-iv-druide-gameplay-german/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/der-ryback-diablo-iv-druide-gameplay-german/",
-      "originalUrl": "https://youtube.com/watch?v=GfwraRtzWaE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GfwraRtzWaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M10S",
-      "provider": {
-        "name": "Der Ryback",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GfwraRtzWaE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-04T07:48:20-08:00"
     }
   ],
   "nextPage": 2
