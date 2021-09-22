@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-druid-gam
 type: video
 length: PT13M27S
 publishedDateTime: 2020-11-10T05:27:21Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqijCULaS2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vUiZvQrsGjedJE3Fm/yMVHxZ5US1oyBv/sQ2Oc2DfkKnGvYKs4IR3sDhvQH87TywaNYyfkLprl97h7auSFTnPEp1cazlRNtG6nkwl2BKj+SAUbUhW5Z1efgie41kVmWeTo1OeuJsRTBgUk14H6r9xanDlStUxXKJZKK7xsKyGVBGuoFxgsNy02W1CT9NkzVzSFcaNbuSSYghTS72i4hJblFzi1ljcN/iN3ppaK10i1vz3o0VwbS5y5G8YjxOtvwZaaUEAb1gXZpDvTmK6jRxELMfc5HAxSYm+jruDUqJfqzmFxpaEz6WPTsmu7NEceiwCZtkLJYQ0fTFiG3+P7ALTKEevsKufSs+4FFreDJe1+pSd0vTX/MAYpD6KQHcNy1787UWSjb14y8WKlRkY0YAOBwGC+7a8u8GwXV8wbo0dgQ=;XVB5zznbSB/TdW0Mpu/GnA=="
+secured: "5lTz26JB5Ah54AW+g2WEblcIzkubMtq392/wEA/BeJn5vI6ysaOD84U9ypoBpypT75qeltYtE8IDers+2uRs7IUweij3xiLZNktuBbIDhivryLG36b0Fc2VH5VgeLUuYzrkK4tpiJHc5v8hTn6vRCuqQJPSjwtw+Np33QmEBalbY3qpH/ie8PcHk0mU223rDfQaMGpKuNgW1q3Gbw+S78gZgo/1ERZR2wh1kcVpasGOqdAsWXIbgkgHd38x/yDvG1XQbNLaQkIjWE5DGO99p4Jg+E6+A7+8mXhxNYS4pmAKixPgtSeBf1TfqSFVmLTrvBhhycEbBkqegRO+5YMyQnz6fhnChSzyiA3B0ROjvpdT0ED1/MokEzehzeHFDN+qGksabqC77MIJcAuM7h/J4tkraoFZoU3JnmcHWds4emTY=;5axBtQp0ZXF2aAHYtfaq8Q=="
 ---
 
