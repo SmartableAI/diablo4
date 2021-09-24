@@ -36,6 +36,36 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
+      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
+      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M18S",
+      "provider": {
+        "name": "GameSpot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-06-30T18:30:01-07:00"
+    },
+    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
       "title": "New Gameplay Today – Diablo IV's Barbarian",
       "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
@@ -343,36 +373,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
-    },
-    {
-      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
-      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
-      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
-      "provider": {
-        "name": "GameSpot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:30:01-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
