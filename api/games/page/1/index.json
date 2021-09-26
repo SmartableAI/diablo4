@@ -36,66 +36,6 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
-      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
-      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
-      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
-      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
-      "provider": {
-        "name": "Fallen",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-01T03:55:57-07:00"
-    },
-    {
-      "path": "_games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay.md",
-      "title": "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE -  BARBARIAN - DIABLO 4 GAMEPLAY",
-      "excerpt": "ALL NEW DIABLO 4 CHARACTER/MONSTER DESIGNS & ANIMATIONS - ROGUE - BARBARIAN - DIABLO 4 GAMEPLAY Art is a critical part of what makes ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=a-5aGfU1gNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a-5aGfU1gNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M49S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a-5aGfU1gNI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-05T11:15:58-07:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -735,6 +675,36 @@
       "publishedDateTime": "2020-06-06T05:04:40-07:00"
     },
     {
+      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
+      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
+      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
+      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M21S",
+      "provider": {
+        "name": "Fallen",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-01T03:55:57-07:00"
+    },
+    {
       "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
       "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
       "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
@@ -919,6 +889,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
+    },
+    {
+      "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
+      "title": "DIABLO 4 NEW Gameplay DRUID QUEST COMPLETE",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/crazygames-diablo-4-new-gameplay-druid-quest-complete/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/crazygames-diablo-4-new-gameplay-druid-quest-complete/",
+      "originalUrl": "https://youtube.com/watch?v=VtH1862QXaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtH1862QXaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M58S",
+      "provider": {
+        "name": "crazygames",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VtH1862QXaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-08T14:31:14-07:00"
     }
   ],
   "nextPage": 2
