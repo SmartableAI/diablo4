@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-28-what-has-diablo-2-resurrected-made-you-want-for-diablo-4.md",
+      "title": "What has Diablo 2: Resurrected made you want for Diablo 4?",
+      "excerpt": "One thing is clear -- a shared stash is crucial for a Diablo game, and Diablo 4 needs to have one. But in playing D2R, I keep thinking about how I really m ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-09-28-what-has-diablo-2-resurrected-made-you-want-for-diablo-4/index.json",
+      "webUrl": "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/",
+      "originalUrl": "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2021/08/Diablo_II_Char_Select_Act2_header.jpg",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/amp/",
+      "publishedDateTime": "2021-09-27T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-what-do-you-most-want-to-see-in-diablo-4.md",
       "title": "What do you most want to see in Diablo 4?",
       "excerpt": "One thing the Diablo series has always been hit or miss on is story -- there are some amazing moments in all three of the current games, but some real clun ...",
@@ -1045,57 +1087,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way.md",
-      "title": "Holy hell, Diablo 4 looks gorgeous (in a totally gross way)",
-      "excerpt": "Blizzard’s latest quarterly update on the development of Diablo 4 gives a deep-dive look at its gorgeously gruesome art style. From a gameplay perspective, perhaps the most important aspect is that ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way/index.json",
-      "webUrl": "https://www.techradar.com/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
-      "originalUrl": "https://www.techradar.com/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SRxtFj6Lsmz8FduJnwuzCg-480-80.png",
-          "width": 480,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way",
-      "publishedDateTime": "2021-06-30T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

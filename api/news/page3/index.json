@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-13-diablo-2-resurrected-dev-vicarious-visions-to-help-with-diablo-4.md",
+      "title": "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4",
+      "excerpt": "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-13-diablo-2-resurrected-dev-vicarious-visions-to-help-with-diablo-4/index.json",
+      "webUrl": "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/8/78721_67_diablo-ii-resurrected-dev-vicarious-visions-to-help-with-4.jpg",
+          "width": 620,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html",
+      "publishedDateTime": "2021-04-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever.md",
       "title": "Playing Diablo 2: Resurrected makes me want Diablo 4 more than ever",
       "excerpt": "It’s good to be back, adventuring among the demon-filled fields of Old Tristram in Diablo 2: Resurrected. But revisiting these familiar blood-soaked caverns and crumbling ruins made me long for what’s ...",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "From Software",
         "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4.md",
-      "title": "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4",
-      "excerpt": "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
-      "publishedDateTime": "2021-02-19T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
         "images": null,
         "publishers": null,
         "authors": null
