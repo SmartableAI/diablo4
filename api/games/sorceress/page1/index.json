@@ -36,6 +36,36 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/heather-haines-diablo-4-sorceress.md",
+      "title": "Diablo 4 Sorceress",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/heather-haines-diablo-4-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/heather-haines-diablo-4-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=IisTBmALEFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IisTBmALEFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9S",
+      "provider": {
+        "name": "Heather Haines",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IisTBmALEFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-10T21:35:17-07:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
       "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
       "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
@@ -588,36 +618,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:40:10-07:00"
-    },
-    {
-      "path": "_games/heather-haines-diablo-4-sorceress.md",
-      "title": "Diablo 4 Sorceress",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/heather-haines-diablo-4-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/heather-haines-diablo-4-sorceress/",
-      "originalUrl": "https://youtube.com/watch?v=IisTBmALEFQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IisTBmALEFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9S",
-      "provider": {
-        "name": "Heather Haines",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IisTBmALEFQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-10T21:35:17-07:00"
     },
     {
       "path": "_games/kamahl-diablo-4-sorceress-skills.md",
