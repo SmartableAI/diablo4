@@ -9,7 +9,7 @@ ampWebUrl: "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-
 cdnAmpWebUrl: "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/amp/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
