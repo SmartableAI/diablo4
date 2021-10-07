@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-07-diablo-iv-quarterly-updateoctober-2021.md",
+      "title": "Diablo IV Quarterly Update—October 2021",
+      "excerpt": "Learn more about the sound design of Diablo IV in this next Quarterly Developer Update.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-iv-quarterly-updateoctober-2021/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r6/R60LYBMC12GV1633114007854.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility.md",
+      "title": "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\"",
+      "excerpt": "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DE5LmnagA6p2g7WX37WMH8-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
+      "publishedDateTime": "2021-10-07T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-what-has-diablo-2-resurrected-made-you-want-for-diablo-4.md",
       "title": "What has Diablo 2: Resurrected made you want for Diablo 4?",
       "excerpt": "One thing is clear -- a shared stash is crucial for a Diablo game, and Diablo 4 needs to have one. But in playing D2R, I keep thinking about how I really m ...",
@@ -1001,99 +1094,6 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight.md",
-      "title": "Diablo 4 is Fixing a Big Diablo 3 Oversight",
-      "excerpt": "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight/index.json",
-      "webUrl": "https://heavy.com/games/diablo-4-character-creation/",
-      "originalUrl": "https://heavy.com/games/diablo-4-character-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2021/07/diablo-4-character-update.jpg?quality=65&strip=all",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/games/diablo-4-character-creation/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/diablo-4-character-creation/amp/",
-      "publishedDateTime": "2021-07-01T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3.md",
-      "title": "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’",
-      "excerpt": "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1573%26cropY1%3D0%26cropY2%3D885",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/",
-      "publishedDateTime": "2021-06-30T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

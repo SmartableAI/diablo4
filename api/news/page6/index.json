@@ -2,6 +2,99 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-29-diablo-iv-quarterly-updateseptember-2020.md",
+      "title": "Diablo IV Quarterly Update—September 2020",
+      "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. This time we take a closer look at a long-requested topic: Skills and Talents!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-diablo-iv-quarterly-updateseptember-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23529210/diablo-iv-quarterly-update-september-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/nk/NKM9J78MKCJI1601317704033.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-youll-only-be-able-to-unlock-30-40-of-the-diablo-4-skill-tree-on-a-single-character.md",
+      "title": "You’ll only be able to unlock “30-40%” of the Diablo 4 skill tree on a single character",
+      "excerpt": "Diablo 4 is still quite some time away, and Blizzard is still ironing out many of the details of how the mechanics will work come launch. Diablo 4 will force you to make tough decisions about your ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-youll-only-be-able-to-unlock-30-40-of-the-diablo-4-skill-tree-on-a-single-character/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/skill-tree",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/skill-tree",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2020/09/diablo-4-skill-tree-900x998.jpg",
+          "width": 900,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/skill-tree?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/skill-tree?amp",
+      "publishedDateTime": "2020-09-29T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-diablo-4s-reworked-skill-tree-revealed.md",
       "title": "Diablo 4's Reworked Skill Tree Revealed",
       "excerpt": "Under this new system, players won't be able to unlock all of the available skills and passives for a character by the end of the game.",
@@ -1023,90 +1116,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 Official Announcement Cinematic Trailer | Reaction",
-      "excerpt": "This was a re-upload as my old account got disabled. So be sure to re-subscribe as well! :) ✨Twitch✨ I stream via Twitch every Sunday, Tuesday & Thursday ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-01-30-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-01-30-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=fjGNrP1kI7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fjGNrP1kI7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fjGNrP1kI7s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-29T16:47:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hanroo _",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-01-05-penguinos007-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Penguinos007 Reacts to Diablo 4 Official Announcement Cinematic Trailer (Blizzcon 2019)",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-01-05-penguinos007-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-01-05-penguinos007-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=HA-QFLB9cZE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HA-QFLB9cZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HA-QFLB9cZE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-05T11:21:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penguinos007",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }
