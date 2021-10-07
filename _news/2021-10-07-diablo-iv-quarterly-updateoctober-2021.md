@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzard Provides Overdue Update on Diablo 4"
+    excerpt: "Blizzard has provided a long overdue update on Diablo 4, which is still without a release date or even a release window. Back in August, several senior developers on the game, including its director, ..."
+    publishedDateTime: 2021-10-07T14:29:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/10/07/0785a844-2690-4993-bd26-250c5849fb8b/resident-evil-movie-trailer-thumb-new-cropped-hed.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
     excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
     publishedDateTime: 2021-10-07T11:13:12Z
