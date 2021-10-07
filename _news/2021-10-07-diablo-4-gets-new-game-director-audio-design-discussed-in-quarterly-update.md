@@ -38,22 +38,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Diablo 4 Has A New Game Director"
-    excerpt: "A new Diablo IV quarterly update dives deep into the sounds of Sanctuary, while also revealing Joe Shely will serve as the game's new director."
-    publishedDateTime: 2021-10-07T10:56:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100-6496892/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "kc3AwJICLD74UH8iAW0EfPW0uCu1UELZ36t5Ef4WXdZAu/LeuUtfzqg36V0EIgSXtYFmep0Zybu3li5fBQ+1GtkG2NO0RMfTl8v73OEcrSof8jMb7S0WAM0sJx55LbOOJapsJLd0qb6L8Sa+lbEiL7STerqklgG8I06yx0CGVyopv+qzfN0cAJnULI7ORv8oQbwKtT/Kp0PqDER+HW8Ruak8Km/mPPJFkSHA4t3073dD26GjMl4h2cWIZt0mp2SyIFQE5s6PG+QBLXUTepp8Zv9JsbRZzEaBIk/5YJQ0w0Zkn2s/3PlYWzASqO1nHSCfP63SCjMoBkT0aAfBY7C9CPxdjeonuHtjljui+gzO0aQ=;ZEmUg70SKHGu1TlsJBMfhQ=="
 ---

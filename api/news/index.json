@@ -10,7 +10,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -53,21 +53,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility.md",
-      "title": "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\"",
-      "excerpt": "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
+      "path": "_news/2021-10-07-diablo-4-has-a-new-director.md",
+      "title": "Diablo 4 Has a New Director",
+      "excerpt": "Joe Shely, who has worked on World of Warcraft and DIablo 3, has taken over as director of Diablo 4. In today's Diablo 4 quarterly update, Shely said he is honored to continue the vision of the next ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-4-has-a-new-director/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-gets-new-director",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-gets-new-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/DE5LmnagA6p2g7WX37WMH8-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://assets-prd.ignimgs.com/2021/09/23/diablo2resurrected-review-blogroll-1632425763245.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,14 +75,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/",
-      "publishedDateTime": "2021-10-07T04:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T06:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
