@@ -2,6 +2,39 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard.md",
+      "title": "Diablo 4 will “advance the art of the action-RPG genre”, says Activision Blizzard",
+      "excerpt": "Activision Blizzard chief operating officer Daniel Alegre mentions that the company feels that Diablo 4 will “advance the art of the action-RPG genre”. Alegre also notes that development on the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/action-rpg",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/action-rpg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/action-rpg?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/action-rpg?amp",
+      "publishedDateTime": "2021-05-05T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts.md",
       "title": "I DIDN'T EXPECT THAT! | Diablo IV Announce Cinematic - By Three They Come REACTION (Agent Reacts)",
       "excerpt": "Hope you liked it! If you did, make sure to smash that like button down below, subscribe and turn on the bell for future notifications! Original video: ...",
@@ -1060,48 +1093,6 @@
       "provider": {
         "name": "Krimson KB",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique.md",
-      "title": "Diablo 4’s new Rogue class is completely unique",
-      "excerpt": "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique/index.json",
-      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/",
-      "publishedDateTime": "2021-02-19T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
         "images": null,
         "publishers": null,
         "authors": null
