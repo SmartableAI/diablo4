@@ -1,62 +1,80 @@
 ---
 category: news
-title: "Diablo 4 has a new game director"
-excerpt: "Joe Shely is the new game director of Diablo 4, Blizzard Entertainment revealed Thursday. Shely replaces former Diablo 4 game director Luis Barriga, who exited Blizzard in August in the wake of a ..."
-publishedDateTime: 2021-10-07T06:10:00Z
-originalUrl: "https://www.polygon.com/22714695/diablo-4-new-game-director-blizzard-entertainment"
-webUrl: "https://www.polygon.com/22714695/diablo-4-new-game-director-blizzard-entertainment"
-ampWebUrl: "https://www.polygon.com/platform/amp/22714695/diablo-4-new-game-director-blizzard-entertainment"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22714695/diablo-4-new-game-director-blizzard-entertainment"
+title: "Diablo 4 Has A New Game Director"
+excerpt: "A new Diablo IV quarterly update dives deep into the sounds of Sanctuary, while also revealing Joe Shely will serve as the game's new director."
+publishedDateTime: 2021-10-07T10:56:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100-6496892/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100-6496892/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
 type: article
-quality: 107
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/wvVFWAH3jO0D8jKR8YpLqJMi964=/0x0:3840x2160/1400x933/filters:focal(1674x166:2288x780):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69964966/D4_Inarius_and_Lilith.0.jpg"
-    width: 1400
-    height: 933
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
-  - title: "Diablo 4 Has a New Director"
-    excerpt: "Joe Shely, who has worked on World of Warcraft and DIablo 3, has taken over as director of Diablo 4. In today's Diablo 4 quarterly update, Shely said he is honored to continue the vision of the next ..."
-    publishedDateTime: 2021-10-07T13:36:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-gets-new-director"
+  - title: "Diablo IV Quarterly Update—October 2021"
+    excerpt: "Learn more about the sound design of Diablo IV in this next Quarterly Developer Update."
+    publishedDateTime: 2021-10-07T17:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
     images:
-      - url: "https://assets-prd.ignimgs.com/2021/09/23/diablo2resurrected-review-blogroll-1632425763245.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r6/R60LYBMC12GV1633114007854.jpg"
+        width: 600
+        height: 300
         isCached: true
-  - title: "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\""
-    excerpt: "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ..."
-    publishedDateTime: 2021-10-07T11:26:00Z
-    webUrl: "https://www.gamesradar.com/uk/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-    ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
+  - title: "Blizzard Provides Overdue Update on Diablo 4"
+    excerpt: "Blizzard has provided a long overdue update on Diablo 4, which is still without a release date or even a release window. Back in August, several senior developers on the game, including its director, ..."
+    publishedDateTime: 2021-10-07T14:29:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 99
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DE5LmnagA6p2g7WX37WMH8-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://sportshub.cbsistatic.com/i/2021/10/07/0785a844-2690-4993-bd26-250c5849fb8b/resident-evil-movie-trailer-thumb-new-cropped-hed.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
+  - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
+    excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
+    publishedDateTime: 2021-10-07T11:13:12Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-new-game-director-audio-design-discussed-in-quarterly-update/ar-AAPfnzv"
+    type: article
+    provider:
+      name: Windows Central on MSN.com
+      domain: msn.com
+    quality: 85
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfeYK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=105"
+        width: 600
+        height: 315
         isCached: true
 
-secured: "w7QuSvUlkm1OD0s+cF7b6RBidcT0JSq7HVcWmYyl1qagXjb+pGyYKVqzyYqLgC5XUzKU1JtTlklIP9qr7O/ja0nE34Z9MSFfYYrcacLW3TsFdpVIpMZV/jdkkr1x7Rq1R1q9sTC7/vsO5eMBroNInauzlOSEXU3LNKQ/pJtuBenYHIJuCXPt4xOvXX4h/QimWsDAn4Vebd1kZ3B+rtaSTklj0XBkJtjEbdndm9BRASUwbQu6N5Np8W1iIGM1slEkf5p2JoPYgwiQFV+5YIjh6L3kduKd6D+CE8Bo2xMUpDajPcgY2IGphYJas7rryaG5bTvomkSr/VW4bjuTfT+G74cIiStWT/WO9VJ5eEzuFTc=;qcOhAp+IiRMjryJJs76ItQ=="
+secured: "oZ5//sNIuLugZfHoZ3QVc8BIiS8f0xqRyhl742MFQF5oRfOH58H/eb9eJ85EHOh3D9flOwVjFlUcSMq5siABAzV4/W+dszsmWOPa1shVbnw5zVPHrojvb4mMTE/M7814hTCYv/kYUDet5Iwr7DyHq+GeLHtU/kGWFBx636pci56Heug8Mg/L1h13z7Rwkdo2WDdY9KboGKYbUZlBExFV1ZFDnyDYtFPK1umm2Ctz1yUOKtiw97tqP8gmAPFnSq0X/5dXZH35x1mF8o/CTFQZclX+9cyGjntPqecN83n0WYxQzEGyqmRnS5wqKAzkcLjklUKIGcnTUGID08l2i2Ip1OBOaIoZPKB6xNdjqXaLF2A=;x1l17UXqy8Bts6jFcIZtWQ=="
 ---
 

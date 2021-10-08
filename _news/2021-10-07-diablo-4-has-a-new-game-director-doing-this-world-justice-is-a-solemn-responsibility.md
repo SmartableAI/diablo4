@@ -40,23 +40,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 has a new game director"
-    excerpt: "Joe Shely is the new game director of Diablo 4, Blizzard Entertainment revealed Thursday. Shely replaces former Diablo 4 game director Luis Barriga, who exited Blizzard in August in the wake of a ..."
-    publishedDateTime: 2021-10-07T06:10:00Z
-    webUrl: "https://www.polygon.com/22714695/diablo-4-new-game-director-blizzard-entertainment"
-    ampWebUrl: "https://www.polygon.com/platform/amp/22714695/diablo-4-new-game-director-blizzard-entertainment"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22714695/diablo-4-new-game-director-blizzard-entertainment"
+  - title: "Blizzard reveals new Diablo 4 game director"
+    excerpt: "Back in August, former Diablo 4 game director Luis Barriga was let go from Blizzard along with the game’s lead designer, Jesse McCree. In an email to Kotaku, Blizzard confirmed that Barriga and McCree ..."
+    publishedDateTime: 2021-10-08T15:44:00Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/blizzard-reveals-new-diablo-4-game-director/ar-AAPicqX"
     type: article
     provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
+      name: Dot Esports on MSN.com
+      domain: msn.com
+    quality: 87
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wvVFWAH3jO0D8jKR8YpLqJMi964=/0x0:3840x2160/1400x933/filters:focal(1674x166:2288x780):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69964966/D4_Inarius_and_Lilith.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPiaUJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=401&y=239"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "77gLIa6jlTuDA4PXSPd4DGO5Ks2VZXS2MMNBCtRb3BfPsKZxMoDKwjeVE6oS79cjtnw5BXiAX1Ld021eiu+VmK49hXjmCa+ihllOahNdo0mXMPNkEQLjGkQET1oX1ifznGLeUeXefVfIFpPN8n5KDK/bPOzbUZkmNktWb83LgbIj71/vdBwmI0sqB/g7lyfRFTgFSjxYjbSkVI+OLo4VwKRvnnhMSEMBb3fWxYcFweUtP3JlvMu1lvmEWlIh43ykAorTs0jEVIP0K77JcCoJmG7+K6kgOhHVoPDrAk9PlqA93Gz7W+vjhFC3RMYewGK1kAG5nssH+FeAmFswsfGG8SyHNwuUSAZtBhGfIP9Z4K4=;DozZL+6Q3H6j5tWcTDGCGA=="
+secured: "0Wj2IknwegKXDuZ2WViau8Aw0y2mlKIRqIU2icMChlp1QFiQ70+ePHnJOVJQ0mvytBc9pMcgfwZB4JrbeVzqQKgFAG0e1mpSu2q7UtljKJgZUEZwcf0Afc5FxS03UPY15RZWY5Cf6AKkmEsjnimcQlOw7bVUfjbn8pTmveirkxaBaQ+Q5WkpOLLp+rjpiuCqFredv+/m5PYfP3Vg/3GQsqo1SfzzRzkztTSpo3+CkVCI9S/nWSluy4GT+Df/keSdxxYjUvYUZvZB5ECq1N/03dCvWQ7+sZM3mww4Azc7EbgXSFqi09JXifrpyTONsUn6N3fUQ+zxT2yYk9AFPN1EgI8PJ1o2DFh2u7cAAk5FQfk=;QEt+eZfcd/+fl1A8RrQf8w=="
 ---
 
