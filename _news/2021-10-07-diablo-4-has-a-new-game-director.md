@@ -74,6 +74,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Diablo 4 Gets a New Game Director as Quarterly Update Focuses on Sound Design"
+    excerpt: "With Blizzard in the midst of high profile lawsuits and reports of both a toxic and sexist culture, it was revealed that Diablo 4's game director Luis Barriga and lead designer Jesse McCree had left t ..."
+    publishedDateTime: 2021-10-07T17:55:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3637929/diablo-4-gets-a-new-game-director-as-quarterly-update-focuses-on-sound-design"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 84
+    images:
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/Front_End_Campfire.jpg"
+        width: 695
+        height: 390
+        isCached: true
 
 secured: "oZ5//sNIuLugZfHoZ3QVc8BIiS8f0xqRyhl742MFQF5oRfOH58H/eb9eJ85EHOh3D9flOwVjFlUcSMq5siABAzV4/W+dszsmWOPa1shVbnw5zVPHrojvb4mMTE/M7814hTCYv/kYUDet5Iwr7DyHq+GeLHtU/kGWFBx636pci56Heug8Mg/L1h13z7Rwkdo2WDdY9KboGKYbUZlBExFV1ZFDnyDYtFPK1umm2Ctz1yUOKtiw97tqP8gmAPFnSq0X/5dXZH35x1mF8o/CTFQZclX+9cyGjntPqecN83n0WYxQzEGyqmRnS5wqKAzkcLjklUKIGcnTUGID08l2i2Ip1OBOaIoZPKB6xNdjqXaLF2A=;x1l17UXqy8Bts6jFcIZtWQ=="
 ---
