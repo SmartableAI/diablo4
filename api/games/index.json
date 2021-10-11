@@ -174,7 +174,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 83,
+      "heat": 75,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
@@ -236,7 +236,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 64,
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
@@ -675,38 +675,6 @@
       "publishedDateTime": "2021-06-30T18:59:57-07:00"
     },
     {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
       "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
       "title": "DIABLO 4 NEW Gameplay SORCERESS  FIRST QUEST COMPLETE AND START NEXT  CALL OF THE DEEP",
       "excerpt": "Diablo IV is an upcoming online dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game ...",
@@ -765,37 +733,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T19:32:37-08:00"
-    },
-    {
-      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
-      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
-      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M51S",
-      "provider": {
-        "name": "Yurii Pit",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-01T21:17:18-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -919,6 +856,69 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T18:24:40-08:00"
+    },
+    {
+      "path": "_games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay.md",
+      "title": "Download Diablo 4 Barbarian, Sorcerer and Druid Gameplay",
+      "excerpt": "Link Download : http://bit.ly/diablo_4_4 Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=QXd_XLzzor4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QXd_XLzzor4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M44S",
+      "provider": {
+        "name": "Battlegrounds",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QXd_XLzzor4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T17:29:59-07:00"
+    },
+    {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     }
   ],
   "nextPage": 2

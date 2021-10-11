@@ -84,7 +84,7 @@
         "Druid",
         "Barbarian"
       ],
-      "heat": 83,
+      "heat": 75,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Yg2x5IBtT9k/maxresdefault.jpg",
@@ -116,7 +116,7 @@
         "Barbarian",
         "Sorceress"
       ],
-      "heat": 64,
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rg2m2n9HBPo/maxresdefault.jpg",
@@ -345,69 +345,6 @@
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
     },
     {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
-      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
-      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
-      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M51S",
-      "provider": {
-        "name": "Yurii Pit",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-01T21:17:18-07:00"
-    },
-    {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
       "title": "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen",
       "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
@@ -500,6 +437,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-02T17:29:59-07:00"
+    },
+    {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
       "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
@@ -929,6 +898,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-08T17:39:28-07:00"
+    },
+    {
+      "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
+      "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
+      "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/soulnsane-diablo-4-druide-competences-arbre-de-talent/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/soulnsane-diablo-4-druide-competences-arbre-de-talent/",
+      "originalUrl": "https://youtube.com/watch?v=cN41mSCU_dM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cN41mSCU_dM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M23S",
+      "provider": {
+        "name": "Soulnsane",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cN41mSCU_dM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-11T10:27:28-08:00"
     }
   ],
   "nextPage": 2
