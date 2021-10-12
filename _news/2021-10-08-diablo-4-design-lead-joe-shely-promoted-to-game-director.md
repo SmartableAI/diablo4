@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-she
 cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director?amp"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:

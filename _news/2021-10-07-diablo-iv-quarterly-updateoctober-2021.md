@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
 type: article
 quality: 162
-heat: 242
+heat: 243
 published: true
 
 provider:
