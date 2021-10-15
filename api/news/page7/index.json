@@ -588,6 +588,48 @@
       ]
     },
     {
+      "path": "_news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo IV - Official Announcement Cinematic Trailer REACTION",
+      "excerpt": "DiabloIV #DiabloIVReaction Support my channel over on Patreon for some amazing Unedited Reactions AND some Early Release Content: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=idPYzlxDFnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/idPYzlxDFnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/idPYzlxDFnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-07T12:55:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeanBarry Movie Reviews And Stuff",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights.md",
       "title": "DIABLO 4 - Announce Cinematic + Gameplay Trailer REACTION + REVIEW + INSIGHTS",
       "excerpt": "Make a difference with a FREEDOM SUPPORT: https://www.patreon.com/LawrenceBeyond ◉Donate, if you like to: https://www.paypal.me/LawrenceBeyond ...",
@@ -1036,48 +1078,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Best of McConnell",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight.md",
-      "title": "Fated Connections 21 Highlights | feat. SOMAYD and ibadda | Diablo 4 Announcement, ExileCon, Blight",
-      "excerpt": "FULL PODCAST ▻▻ https://youtu.be/Csav-pr0y7U LIVE STREAM ▻▻ https://www.twitch.tv/catmasterOP TWITTER ▻▻ https://www.twitter.com/catmasterOP ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/",
-      "originalUrl": "https://youtube.com/watch?v=aPoz7CLjCWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aPoz7CLjCWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aPoz7CLjCWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-03T09:30:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CatmasterOP",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
