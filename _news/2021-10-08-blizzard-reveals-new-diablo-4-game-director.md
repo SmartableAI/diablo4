@@ -40,19 +40,17 @@ related:
         isCached: true
   - title: "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\""
     excerpt: "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ..."
-    publishedDateTime: 2021-10-07T11:26:00Z
-    webUrl: "https://www.gamesradar.com/uk/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-    ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
+    publishedDateTime: 2021-10-07T11:26:55Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/ar-AAPfvx4"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 99
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 79
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DE5LmnagA6p2g7WX37WMH8-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfqdS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=175"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "uYEjA7uWqmm4fFg0OnE3+09SEF4a9vSoitzVKimxpPvaL+yA60ihy5yIcoR/7I/z4KKKvv+M8dXVk19xAlDpIctb2+/k8ODWsiNJ5VVmNJiUGw4ULkjX/nyqYLF8LZuwLztvBHSLHqHq6omhZk4Q85Me4Abx+G3Gl7zX3Lzv0ZqkBIyZHTgqzrkBGUpXITYfpdo+xJSCCJsTevVjhhPbkPNDxqfeYT4ZaSa5Alk6TO/05heVSeozNZbicb0Xe58UViiMmJOGMri7QXaYMGV+PXkiR34T3kaPADlSisBKfa8mcF0WhV6mYoU0JnIEdsDz0FmOm8i6hXgyXrdDcF9D3FPG91QgIiT6JPx+XD1xisM=;4BFeFBQ0gMbDJFcUTZD1fA=="
