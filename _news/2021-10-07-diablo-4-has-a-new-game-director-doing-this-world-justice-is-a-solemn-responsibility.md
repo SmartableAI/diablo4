@@ -2,27 +2,25 @@
 category: news
 title: "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\""
 excerpt: "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ..."
-publishedDateTime: 2021-10-07T11:26:00Z
-originalUrl: "https://www.gamesradar.com/uk/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-webUrl: "https://www.gamesradar.com/uk/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
-cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/"
+publishedDateTime: 2021-10-07T11:26:55Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/ar-AAPfvx4"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/ar-AAPfvx4"
 type: article
-quality: 99
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/DE5LmnagA6p2g7WX37WMH8-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfqdS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=175"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2tyPebcApjnt9nN5wJ/tmEUlxKCPQ/6jrSNpvRK+nEghIW93boB80qC+OQApDa9qgAfXFH5ndSd87BkcCkfgwRZA3Ri74Wq72RdxkgRuj7QOcbueV3syR9fejdSzqEuvm1owPWxPRSicOHKEbjo8FMt+FOjgVTfwJ9pgDwaobWHbG5AtoIWHpWMp6Sz2HGHwVsOpMmT+Xy5569yKax5DWPAcEViKxXyTyqaLL8rUpPU1POcY75+8SHmY5/MXZHXF6vylrDTAjEtZ8KxYihFZghgZSRFaE44IesYw+CKP8AKdp0FFkNKrQ6j67prBCv6gUQwKHOfg4S3dRFEW4m0Ghb7mH0OQvjO29Ovga1Gv8z8=;yH00ttQxRO+Zq0TUBvoNxg=="
+secured: "Qs5b6IlJV/3mh9WxB5+N/MrMs7Ov7olGujzK5SLDz/00FSjAl/0tNwmI2NCpEtRIKwqQ+r4jvqXglu6yKnol4XuD6mKOuwr3T26YQa2Nax2agD8ZpOJT/kOTRyhjxTGU6w+1ijX0uNy3sTc6mp+m0RkDIBRVxUZ0hY34u0SGSOBFns+6uEZmw8kV+XYFTYSEccfkL/vQUK0YsWZ0ynuD2maEj1WiV/SIi3DlJRaur9wEaqZvPHnwAk5Ir+NmvVGztKRy9OcsyGcPxw/D4uIHHfSltX3C9jWrprmtx7sqMi7Y2EU8WbmqE6hrIV3I90oAYksDQGON0oKDzbfNmiyI5oOVqfSwbzfjSTWipjVXFwE=;zKImdgBawo8fue6MKxDa/Q=="
 ---
 
