@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-gets-new-director"
 webUrl: "https://www.ign.com/articles/diablo-4-gets-new-director"
 type: article
 quality: 127
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Has a New Game Director"
-    excerpt: "Diablo 4 lost two of its leads not that long ago when it was confirmed that game director Luis Barriga and lead designer Jesse McCree had been let go from the company. Now, a replacement for the ..."
-    publishedDateTime: 2021-10-07T16:03:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-has-a-new-game-director/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 107
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Blizzard reveals new Diablo 4 game director"
     excerpt: "Back in August, former Diablo 4 game director Luis Barriga was let go from Blizzard along with the game’s lead designer, Jesse McCree. In an email to Kotaku, Blizzard confirmed that Barriga and McCree ..."
     publishedDateTime: 2021-10-08T15:44:00Z
@@ -73,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "37VzjA4Qpn38dwNn53CuAnHQj7JZDx9PCa3CgyTGS3v8jclcqVjJJu1a8N8cVLBU29YCLD8oF4794pbACFB8UsaL81YTn4q3+9U+bR4GROXpVbeozQp+KQJW3fjKsH7m5EnBpVXPVNKKt2eKSkmFsyDhsKjbcS0eFTg/pIVkq1ty51Esy2o98T81sOnBknz7Z/HS6f8DrbeWiq5eBz63aaxkqEl2dlFCircAE8FrbtIJCuiV3W9gqkkfC4jMK+i2N6w6+wCEAauLycT9xoqWULcGNF2s/s/8mwj5MFRodp2c52i4WAvsl57KoVPi30+ovIxXf6kab7poBQ+jbK+Be8f1pvT39D9AHJ202/MmPOs=;Ey0BXc5ZdfRDMzmJwFYU4w=="
+secured: "NKNXj8cnK+eTDO+h/cUdmxpnqgGwgb5T7qlWiUPFxyxClB5wrhbBiZlCG/4UkEDO7aLQQYlhCNlxVkPeWkYBhZ6tIqEb2/ox+FQ3itOQ5BZx5Y0YBYp385Du4NUtkKTgZQlw59RlBPW+gnfUJhr7FMcTVpvHPu/v+R9SzRfhaHxHVQcIjliesHvZcte4Ez8LZvMKA5uPxC0qJffIP9KbmrMAWPOQlbMH3U0fZucWMdYktANMPqsYEfwpdhnVx6wcLC4V2enJxchgPi1XvguvSGkUz/HCKa4bjaHeTFev4BJ0DdEq3V6RMTII5v85WwdWfx2Q+OmgubyyU21maohRIwqSBERUZrwOR9ppWFoGooU=;V//piaPu7aVZtkeGzcidRQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
 type: article
 quality: 162
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Has A New Game Director"
+    excerpt: "A new Diablo IV quarterly update dives deep into the sounds of Sanctuary, while also revealing Joe Shely will serve as the game's new director."
+    publishedDateTime: 2021-10-07T11:56:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100-6496892/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Blizzard Provides Overdue Update on Diablo 4"
     excerpt: "Blizzard has provided a long overdue update on Diablo 4, which is still without a release date or even a release window. Back in August, several senior developers on the game, including its director, ..."
     publishedDateTime: 2021-10-07T14:29:00Z
