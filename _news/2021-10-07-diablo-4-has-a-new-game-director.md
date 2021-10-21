@@ -8,9 +8,6 @@ webUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100
 ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
 type: article
-quality: 147
-heat: -1
-published: false
 
 provider:
   name: GameSpot
@@ -23,72 +20,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
-    width: 640
-    height: 360
-    isCached: true
-
-related:
-  - title: "Diablo IV Quarterly Update—October 2021"
-    excerpt: "Learn more about the sound design of Diablo IV in this next Quarterly Developer Update."
-    publishedDateTime: 2021-10-07T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r6/R60LYBMC12GV1633114007854.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "Blizzard Provides Overdue Update on Diablo 4"
-    excerpt: "Blizzard has provided a long overdue update on Diablo 4, which is still without a release date or even a release window. Back in August, several senior developers on the game, including its director, ..."
-    publishedDateTime: 2021-10-07T14:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/10/07/0785a844-2690-4993-bd26-250c5849fb8b/resident-evil-movie-trailer-thumb-new-cropped-hed.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
-  - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
-    excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
-    publishedDateTime: 2021-10-07T11:13:12Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-new-game-director-audio-design-discussed-in-quarterly-update/ar-AAPfnzv"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 85
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfeYK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=105"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Diablo 4 Gets a New Game Director as Quarterly Update Focuses on Sound Design"
-    excerpt: "With Blizzard in the midst of high profile lawsuits and reports of both a toxic and sexist culture, it was revealed that Diablo 4's game director Luis Barriga and lead designer Jesse McCree had left t ..."
-    publishedDateTime: 2021-10-07T17:55:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3637929/diablo-4-gets-a-new-game-director-as-quarterly-update-focuses-on-sound-design"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 84
-    images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/Front_End_Campfire.jpg"
-        width: 695
-        height: 390
-        isCached: true
-
-secured: "ChUrm/DFrQeaQn5lyjVIBlN4+kg0kVF5+OD88JvUq9Fg/KxggFxSPqWM6g6f999yAm1oXhoiS988Q/0pmtZJOLXXUOv212ppmxyIQi2C4dsJMLHmLvVu3Uwizw1PjbsiW/Jey+2fCvRuqwj91BZ1jqsdHo1LV+Q+foOiSlXEfcgjUZE2PYT+YicQpGKqxwA6okHwwMTyY77uGXLAJCRXJFbfENMJRMGeu6VByfW2dlyVRTxvS76lf7t4YvtlWAB/1TA6VAcSXnpSQO7BOLaHI7Dc5WKcAqKoujOFCCu+IeHA9eFQyJFBvh9xZx4frcoMbuKK1+MU0VCAeF7YcRgu4FJjPCc6+lFn7rK7kgFtZmw=;a+Hh/3TYX/IYj0S+gqfIXA=="
+secured: "DcEx+9GRIcYTgYi2rGCWgZ0SIlfiHtFOwgTWdxEoG2vTuCedm3rTvFvXqKtOnkFXEtB/6864MQrXJDA6p9+uO3aUp7rn6DRRNOY2ArsHKWqwPVrXhoE2dujgA8ZaSPhaBahQD5AuPYq7cXEWilK/N+J7BYy33E9wENohLGBkTHQopTP831aCKT2cI5tq5LYGlN9Y5hQ7EqAFMzxF3pUw/s87DJ0zHvuGrpx8I43kELWqPl7I6WvavdLilftbPHj5xT2vieVk3/YtE9svwG+/J5Y7mieBZ1TgbKIrmS9OfK39O676mhZFRZAnJrOzUCXnDJJ+heAKQniJq/ljWXsp313RvpfnAjFHz+/fWGZh6us=;hPACzA6GBAPZpez4jERiKQ=="
 ---
 
