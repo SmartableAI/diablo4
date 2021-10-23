@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Has a New Game Director"
+    excerpt: "Diablo 4 lost two of its leads not that long ago when it was confirmed that game director Luis Barriga and lead designer Jesse McCree had been let go from the company. Now, a replacement for the ..."
+    publishedDateTime: 2021-10-07T16:03:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-has-a-new-game-director/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Blizzard reveals new Diablo 4 game director"
     excerpt: "Back in August, former Diablo 4 game director Luis Barriga was let go from Blizzard along with the game’s lead designer, Jesse McCree. In an email to Kotaku, Blizzard confirmed that Barriga and McCree ..."
     publishedDateTime: 2021-10-08T15:44:00Z

@@ -1,94 +1,74 @@
 ---
 category: news
-title: "Diablo 4 Has A New Game Director"
-excerpt: "A new Diablo IV quarterly update dives deep into the sounds of Sanctuary, while also revealing Joe Shely will serve as the game's new director."
-publishedDateTime: 2021-10-07T11:56:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100-6496892/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-has-a-new-game-director/1100-6496892/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-has-a-new-game-director/1100-6496892/"
+title: "Diablo 4 Has a New Game Director"
+excerpt: "Diablo 4 lost two of its leads not that long ago when it was confirmed that game director Luis Barriga and lead designer Jesse McCree had been let go from the company. Now, a replacement for the ..."
+publishedDateTime: 2021-10-07T16:03:00Z
+originalUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director"
+webUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director"
+ampWebUrl: "https://gamingbolt.com/diablo-4-has-a-new-game-director/amp"
+cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-has-a-new-game-director/amp"
 type: article
-quality: 147
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: From Software
+  domain: gamingbolt.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg"
-    width: 640
-    height: 360
+  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
-  - title: "Diablo IV Quarterly Update—October 2021"
-    excerpt: "Learn more about the sound design of Diablo IV in this next Quarterly Developer Update."
-    publishedDateTime: 2021-10-07T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
+  - title: "Diablo 4 Has a New Director"
+    excerpt: "Joe Shely, who has worked on World of Warcraft and DIablo 3, has taken over as director of Diablo 4. In today's Diablo 4 quarterly update, Shely said he is honored to continue the vision of the next ..."
+    publishedDateTime: 2021-10-07T13:36:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-gets-new-director"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
+      name: IGN
+      domain: ign.com
+    quality: 127
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r6/R60LYBMC12GV1633114007854.jpg"
-        width: 600
-        height: 300
+      - url: "https://assets-prd.ignimgs.com/2021/09/23/diablo2resurrected-review-blogroll-1632425763245.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Blizzard Provides Overdue Update on Diablo 4"
-    excerpt: "Blizzard has provided a long overdue update on Diablo 4, which is still without a release date or even a release window. Back in August, several senior developers on the game, including its director, ..."
-    publishedDateTime: 2021-10-07T14:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
+  - title: "Blizzard reveals new Diablo 4 game director"
+    excerpt: "Back in August, former Diablo 4 game director Luis Barriga was let go from Blizzard along with the game’s lead designer, Jesse McCree. In an email to Kotaku, Blizzard confirmed that Barriga and McCree ..."
+    publishedDateTime: 2021-10-08T15:44:00Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/blizzard-reveals-new-diablo-4-game-director/ar-AAPicqX"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/10/07/0785a844-2690-4993-bd26-250c5849fb8b/resident-evil-movie-trailer-thumb-new-cropped-hed.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
-  - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
-    excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
-    publishedDateTime: 2021-10-07T11:13:12Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-new-game-director-audio-design-discussed-in-quarterly-update/ar-AAPfnzv"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
+      name: Dot Esports on MSN.com
       domain: msn.com
-    quality: 85
+    quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfeYK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=105"
-        width: 600
-        height: 315
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPiaUJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=401&y=239"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Diablo 4 Gets a New Game Director as Quarterly Update Focuses on Sound Design"
-    excerpt: "With Blizzard in the midst of high profile lawsuits and reports of both a toxic and sexist culture, it was revealed that Diablo 4's game director Luis Barriga and lead designer Jesse McCree had left t ..."
-    publishedDateTime: 2021-10-07T17:55:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3637929/diablo-4-gets-a-new-game-director-as-quarterly-update-focuses-on-sound-design"
+  - title: "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\""
+    excerpt: "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ..."
+    publishedDateTime: 2021-10-07T11:26:55Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/ar-AAPfvx4"
     type: article
     provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 84
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 79
     images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/Front_End_Campfire.jpg"
-        width: 695
-        height: 390
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfqdS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=175"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "BLv8JVUZy+fWt8o2+j87zK/l9ziIE3hu1BVVhgPa4E79jcAxcfUOQZAt4dt9QrHyKaVFTl2Btqc+W0SWMyLdxsbablxtWUkSTZJTL/Qw/PIIO2+/3j9dad6ZdQ9e67DUXCyusCsOis9QdeFzGGfABFsfP4xL0II1FTuGnexqJNIVlaD6se3fyfKQ5SvBpxG7vRz28S0M/Wz0GlX4/77lPdE1LZMKSwTriY0fQHchCcKO8XjpgzBngC+SMp5rAzulPmYxv1bIKik++Nkj/WhT9lFiB97fKLsTEJ34Nm1yfan9EvU1ltq7AjlveonfkiafZduitB3d4SlPu5IH/8iU+dnpiPQ8uNQEAg1xQCAwz2E=;5uOusB0Jn+2t8JKbopT8dg=="
+secured: "iAFn0dALH4qMlU/4IDUKe8C9VBTNUkK8WbogJe4eFip6Sx9q8pzLLO0ML12QVF5e+bJ1hvPi0mbVWDB77lzbzOuD/31Qy73/d2/eUJM4WABU4e+uXjPC2RMg3J/27lxt5eYF+Y4ZO0s4hTszdelvaGubgz1vMISu05km/va+yMPchGIHhDUKE/0uevz5q4SWlIx32EoBj6LeShdrXmvO3aZiOIOT33rhrimw0P2wRmzslhpgTYrehdPqnW5uAHJKwY3LqTii5vYLTl6xfKhY45rjqIffsZfG7cSMXcXwwOSkP/1NnAKGZWzGCqM+V87fdh2Q+dBfQrWUKhvVBltv2yrlNj0rZUHg5EQuXWP7l0g=;tR6zjkoFsWhsuHTzyF7bqA=="
 ---
 
