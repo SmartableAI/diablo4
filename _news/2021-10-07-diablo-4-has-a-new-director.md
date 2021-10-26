@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Has a New Director"
 excerpt: "Joe Shely, who has worked on World of Warcraft and DIablo 3, has taken over as director of Diablo 4. In today's Diablo 4 quarterly update, Shely said he is honored to continue the vision of the next ..."
-publishedDateTime: 2021-10-07T13:36:00Z
-originalUrl: "https://www.ign.com/articles/diablo-4-gets-new-director"
-webUrl: "https://www.ign.com/articles/diablo-4-gets-new-director"
+publishedDateTime: 2021-10-07T22:12:00Z
+originalUrl: "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director"
+webUrl: "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director"
 type: article
 quality: 127
 heat: 187
@@ -22,9 +22,9 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2021/09/23/diablo2resurrected-review-blogroll-1632425763245.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://sm.ign.com/t/ign_me/news/d/diablo-4-h/diablo-4-has-a-new-director_f5eh.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DBPDgwkbY6ITqTop2YxWQqTgFn1EuX1JOLzgNbe9L3+2Af7Fg5TUoGKKxA2sgatWkQ0/eeqV4+dLvlG4SkjsMnv57DXbwyBd/yR4CJI6WgCwYSrwCZ89quXc3qONM88I9lS9/qJbpTy8FH1fj0ubxgtq0n6/r+u8GcrRaFjXFAZ4Q4lrCY2fckSKKs4C3XIz23LivECkLvCQCLz1fbrEjIvkgvxGfCMtFR+zCnHpVXrxfKjfsxdgFJyYPd9/x4hI0WK2qW97iWF7Uuzi8QQB8DbDXhq5vkvjCtSj9NE/uGZtRd6/walFWSMG6Pe89iQQ81tWxzMT9kV4JVHe1Y16qAjoxqioqd5RTltpT2TnmI0=;CSLF9zMrFoiEKZEUT3BAdA=="
+secured: "Hdl7tgNV30geGFVTA6WqDRau4WFQSVR56q3CYzA09LDumIkvzysf4dtXHycHUI+MYEoDl6jGQfpMaHWmN9kDAcsT2e3188gqz+Hk5WKKKTsHWUFrt/jsxpRZ55grxenilA+bLp6WLOGGnZjtz4QApET2WB0nJuNXEMkqpR2J8wVnW0/oabGj/4XEKz31y6/bHHw6eBrrQQ7CDc8yo8kji7cFfm9GL0GwbV1tUNmtZ3lzP7AzdwoP3u2JeUyhoDX2UB+uQDOi4TjP63kt3Lyem4NOl0b/xP36QzN2fMgctGPmx6Ag0TitwVYMQCGkZsgDg8MDiAZxv5Wxt6ntdEL9vNkNlIzwyboSGLEN7nRkQaA=;hX0Xw/MzMAlMpsLxtwTr4g=="
 ---
 
