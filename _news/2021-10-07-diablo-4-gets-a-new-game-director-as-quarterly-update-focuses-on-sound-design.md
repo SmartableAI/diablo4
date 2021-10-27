@@ -38,22 +38,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Blizzard Provides Overdue Update on Diablo 4"
-    excerpt: "Blizzard has provided a long overdue update on Diablo 4, which is still without a release date or even a release window. Back in August, several senior developers on the game, including its director, ..."
-    publishedDateTime: 2021-10-07T14:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/10/07/0785a844-2690-4993-bd26-250c5849fb8b/resident-evil-movie-trailer-thumb-new-cropped-hed.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
 
 secured: "oyWGK0zCm8X4SeQ09LFO+AmV2O0/+csbbY68y2WWd85ASEyN/NEek6oAjzXXJrTs/fYtif1MdtyDbAkPOPsT+/sfrEe2VZrqs1V609Igd/9y7Dy6q0HBx/oflDCI8LLWgUDToBYf9F87o86QRUC5We4xh6WeI1oQBQaapqdjVaL6hkniAeE8iJRQb2TlESyLNq09FF+kNJUQDPciSoTDCFPCZ/r+zNqmKVsnZMpjvjFzd7wRAM0P6+89a2Rx9ZEhUN++Jzr83vdi14gDULtrH6GEdqmgagpRZR6Ewwjm03L8iaxl5v+DpSCFAxX0UtRXGKPtLNzfLSfjPKNogXp7KRQVWBdKrOPO+a8aj2ZYNko=;J7kkAHxQ5ZoYiSVKrn9ksw=="
 ---
