@@ -54,20 +54,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
-    excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
-    publishedDateTime: 2021-10-07T11:13:12Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-new-game-director-audio-design-discussed-in-quarterly-update/ar-AAPfnzv"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 85
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfeYK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=105"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "oyWGK0zCm8X4SeQ09LFO+AmV2O0/+csbbY68y2WWd85ASEyN/NEek6oAjzXXJrTs/fYtif1MdtyDbAkPOPsT+/sfrEe2VZrqs1V609Igd/9y7Dy6q0HBx/oflDCI8LLWgUDToBYf9F87o86QRUC5We4xh6WeI1oQBQaapqdjVaL6hkniAeE8iJRQb2TlESyLNq09FF+kNJUQDPciSoTDCFPCZ/r+zNqmKVsnZMpjvjFzd7wRAM0P6+89a2Rx9ZEhUN++Jzr83vdi14gDULtrH6GEdqmgagpRZR6Ewwjm03L8iaxl5v+DpSCFAxX0UtRXGKPtLNzfLSfjPKNogXp7KRQVWBdKrOPO+a8aj2ZYNko=;J7kkAHxQ5ZoYiSVKrn9ksw=="
 ---

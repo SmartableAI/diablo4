@@ -7,7 +7,7 @@ originalUrl: "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director"
 webUrl: "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director"
 type: article
 quality: 127
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPiaUJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=401&y=239"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 has a new game director: \"Doing this world justice is a solemn responsibility\""
-    excerpt: "Diablo 4 has a new game director taking the helm after the project's previous leader left Blizzard. Joe Shely introduced himself in his new role in the latest quarterly Diablo 4 update, and while his ..."
-    publishedDateTime: 2021-10-07T11:26:55Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-a-new-game-director-doing-this-world-justice-is-a-solemn-responsibility/ar-AAPfvx4"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 79
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfqdS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=175"
         width: 1200
         height: 630
         isCached: true

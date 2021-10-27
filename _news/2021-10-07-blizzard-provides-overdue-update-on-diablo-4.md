@@ -40,20 +40,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
-    excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
-    publishedDateTime: 2021-10-07T11:13:12Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-new-game-director-audio-design-discussed-in-quarterly-update/ar-AAPfnzv"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 85
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfeYK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=105"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Diablo 4 Gets a New Game Director as Quarterly Update Focuses on Sound Design"
     excerpt: "With Blizzard in the midst of high profile lawsuits and reports of both a toxic and sexist culture, it was revealed that Diablo 4's game director Luis Barriga and lead designer Jesse McCree had left t ..."
     publishedDateTime: 2021-10-07T17:55:00Z

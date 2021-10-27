@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021"
 type: article
 quality: 162
-heat: 222
+heat: 202
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2021/10/07/0785a844-2690-4993-bd26-250c5849fb8b/resident-evil-movie-trailer-thumb-new-cropped-hed.jpg?width=568&height=320"
         width: 568
         height: 320
-        isCached: true
-  - title: "Diablo 4 gets new game director, audio design discussed in quarterly update"
-    excerpt: "Blizzard Entertainment provided an update on the audio design of Diablo 4 in the latest quarterly update, while also confirming that Diablo 4 has a new game director."
-    publishedDateTime: 2021-10-07T11:13:12Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-new-game-director-audio-design-discussed-in-quarterly-update/ar-AAPfnzv"
-    type: article
-    provider:
-      name: Windows Central on MSN.com
-      domain: msn.com
-    quality: 85
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPfeYK.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=105"
-        width: 600
-        height: 315
         isCached: true
   - title: "Diablo 4 Gets a New Game Director as Quarterly Update Focuses on Sound Design"
     excerpt: "With Blizzard in the midst of high profile lawsuits and reports of both a toxic and sexist culture, it was revealed that Diablo 4's game director Luis Barriga and lead designer Jesse McCree had left t ..."
