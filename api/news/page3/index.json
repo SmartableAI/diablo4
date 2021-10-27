@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-05-new-diablo-4-tease-has-players-excited.md",
+      "title": "New Diablo 4 Tease Has Players Excited",
+      "excerpt": "Since Diablo 4 was announced and revealed for the PS4, Xbox One, and PC at BlizzCon 2019, Blizzard hasn't said much about the game, nor has it had a ton to show of the game. We know it's not releasing ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-05-new-diablo-4-tease-has-players-excited/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-excited/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-excited/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-excited/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-excited/",
+      "publishedDateTime": "2021-05-05T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard.md",
       "title": "Diablo 4 will “advance the art of the action-RPG genre”, says Activision Blizzard",
       "excerpt": "Activision Blizzard chief operating officer Daniel Alegre mentions that the company feels that Diablo 4 will “advance the art of the action-RPG genre”. Alegre also notes that development on the ...",
@@ -1050,48 +1092,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Slaydra",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021.md",
-      "title": "Krimson KB Reacts: ROGUE LIFE, BABAY!! -  Diablo IV  Rogue Announce Trailer Reaction - Blizzcon 2021",
-      "excerpt": "ROGUES 4 LIFE!!! Blizzcon 2021 is killing it!! Krimson KB's Patreon ➔ https://www.patreon.com/KrimsonKB Krimson KB's Twitch ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021/",
-      "originalUrl": "https://youtube.com/watch?v=I_A6HCd_8iM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I_A6HCd_8iM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I_A6HCd_8iM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T16:24:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Krimson KB",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

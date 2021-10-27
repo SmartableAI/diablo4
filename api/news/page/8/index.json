@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019.md",
+      "title": "Mcconnell and Asmongold react to the Diablo 4 announcement | Diablo 4 | Blizzcon 2019",
+      "excerpt": "So Diablo 4 was announced during Blizzcon 2019 and McCool was, for lack of better words, more than happy about it.... Mcconnell and Asmongold react to the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=rP2MxVIyG0g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rP2MxVIyG0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rP2MxVIyG0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T12:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best of McConnell",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight.md",
       "title": "Fated Connections 21 Highlights | feat. SOMAYD and ibadda | Diablo 4 Announcement, ExileCon, Blight",
       "excerpt": "FULL PODCAST ▻▻ https://youtu.be/Csav-pr0y7U LIVE STREAM ▻▻ https://www.twitch.tv/catmasterOP TWITTER ▻▻ https://www.twitter.com/catmasterOP ...",
@@ -1028,48 +1070,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website.md",
-      "title": "Diablo 4 Announcement - Cinematic, Gameplay, and Website",
-      "excerpt": "Thumbs up and subscribe to join the G3 fam! #Diablo #Blizzcon, #arpg Twitter: https://twitter.com/GGgaming3 Email: goodguygaming3@gmail.com Patreon: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-cinematic-gameplay-and-website/",
-      "originalUrl": "https://youtube.com/watch?v=epYzKG73ZYw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/epYzKG73ZYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/epYzKG73ZYw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:18:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoodGuyGaming3",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }

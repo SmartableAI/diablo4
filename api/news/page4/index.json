@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021.md",
+      "title": "Krimson KB Reacts: ROGUE LIFE, BABAY!! -  Diablo IV  Rogue Announce Trailer Reaction - Blizzcon 2021",
+      "excerpt": "ROGUES 4 LIFE!!! Blizzcon 2021 is killing it!! Krimson KB's Patreon ➔ https://www.patreon.com/KrimsonKB Krimson KB's Twitch ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021/",
+      "originalUrl": "https://youtube.com/watch?v=I_A6HCd_8iM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I_A6HCd_8iM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I_A6HCd_8iM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T16:24:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Krimson KB",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique.md",
       "title": "Diablo 4’s new Rogue class is completely unique",
       "excerpt": "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ...",
@@ -1044,48 +1086,6 @@
       "provider": {
         "name": "G-Mineo",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-overwatch-2-diablo-4-will-make-an-appearance-at-blizzcon.md",
-      "title": "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon",
-      "excerpt": "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-18-overwatch-2-diablo-4-will-make-an-appearance-at-blizzcon/index.json",
-      "webUrl": "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/",
-      "originalUrl": "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg",
-          "width": 880,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTeknix",
-        "domain": "eteknix.com",
         "images": null,
         "publishers": null,
         "authors": null

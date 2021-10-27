@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-18-overwatch-2-diablo-4-will-make-an-appearance-at-blizzcon.md",
+      "title": "Overwatch 2 & Diablo 4 Will Make an Appearance at BlizzCon",
+      "excerpt": "fame), Blizzard improved things significantly last year with the formal confirmation of both Diablo 4 and Overwatch 2. – To date, however, despite both games being announced, we haven’t heard much ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-18-overwatch-2-diablo-4-will-make-an-appearance-at-blizzcon/index.json",
+      "webUrl": "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/",
+      "originalUrl": "https://www.eteknix.com/overwatch-2-diablo-4-will-appear-blizzcon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/07/1-compressed-1.jpg",
+          "width": 880,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-17T20:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-17-diablo-4-release-date-trailers-news-and-rumors.md",
       "title": "Diablo 4 release date, trailers, news and rumors",
       "excerpt": "Interested in Diablo 4? Then you need this handy guide full of everything there is to know about the upcoming game from Blizzard – including what to expect and the Diablo 4 release date.- It’s been ...",
@@ -1079,49 +1121,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed.md",
-      "title": "Diablo 4 Skill and Talent Changes, Sorceress Enchantment System Revealed",
-      "excerpt": "Blizzard Entertainment isn’t any closer to offering a release date for Diablo 4. However, in its latest quarterly update, the development team does outline changes to the Skill system and Talents ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed",
-      "originalUrl": "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/amp",
-      "publishedDateTime": "2020-09-29T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
       ]
     }
   ],
