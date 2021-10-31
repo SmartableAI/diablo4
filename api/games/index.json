@@ -405,6 +405,38 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
+      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
+      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
+      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M46S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-02T18:15:15-07:00"
+    },
+    {
       "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
       "title": "Diablo 4: Barbarian Skills and Talents Overview",
       "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
@@ -553,36 +585,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
-    },
-    {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -739,38 +741,6 @@
       "publishedDateTime": "2019-11-02T17:29:59-07:00"
     },
     {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
       "path": "_games/click-shoot-loot-diablo-4-sorceress-skills-and-talents-overview.md",
       "title": "Diablo 4: Sorceress Skills and Talents Overview",
       "excerpt": "In this video, we break down the Diablo 4 Sorceress skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
@@ -919,6 +889,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-02T05:00:34-07:00"
+    },
+    {
+      "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M38S",
+      "provider": {
+        "name": "Ecxoes Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-12T06:18:06-07:00"
     }
   ],
   "nextPage": 2
