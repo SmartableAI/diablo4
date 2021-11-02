@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
-excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
-publishedDateTime: 2021-11-02T13:53:00Z
-originalUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
-webUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
-ampWebUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+title: "Diablo 4 And Overwatch 2 Have Been Delayed"
+excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
+publishedDateTime: 2021-11-02T14:56:00Z
+originalUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/"
+webUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/"
+ampWebUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
+cdnAmpWebUrl: "https://press--start-com-au.cdn.ampproject.org/c/s/press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
 type: article
-quality: 102
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: press-start.com.au
+  domain: press-start.com.au
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/02/overwatch-2-pvp_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -39,22 +39,6 @@ related:
       - url: "https://assets1.ignimgs.com/2021/02/19/overwatch2-blogroll-1613750375361.jpg?width=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Diablo 4 And Overwatch 2 Have Been Delayed"
-    excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
-    publishedDateTime: 2021-11-02T14:56:00Z
-    webUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/"
-    ampWebUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
-    cdnAmpWebUrl: "https://press--start-com-au.cdn.ampproject.org/c/s/press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
-    type: article
-    provider:
-      name: press-start.com.au
-      domain: press-start.com.au
-    quality: 107
-    images:
-      - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
     excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
@@ -136,6 +120,22 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
+    excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
+    publishedDateTime: 2021-11-02T13:53:00Z
+    webUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
+    ampWebUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 102
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/02/overwatch-2-pvp_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
     excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
     publishedDateTime: 2021-11-02T14:44:23Z
@@ -193,6 +193,6 @@ related:
         height: 398
         isCached: true
 
-secured: "QmVJmHAKhU71AoLlVcvxlT2ln0PM6/tMTZYa73hbRe3iXiUTcXZGLn55fliEnJORMEnAkkW5RsyXs7RlXF3YaxTvBqhispr/7PwzgrTQ2UrFjdeIrWXTWmh7UQktPYGvusAM4782WNC7gPeZr23OKj2v5Q2/sJ11WJjxEk6ms6PsZ/UUadfFCc3k5P/XO0J5/eh+FBXTmh7DW/dJss4F9B1G4coCoQp4nScfz7Y2NFqAvUCp16hSETjkJTgLSwblSkmxnfhuaL404BufKtoldwWTfoyd++UMB9SZKWlqQSL3QKbgu+R0GoOTjSBZUEOgvg+km0vbhSlARuDp7KbnZPYy2+7chkETQbLEnwCKvUs=;nUnzUbJTmBVdIarPvT9TjA=="
+secured: "o6/x2hXFaKvh8QEsuYpXjwxh6DWUGAbKyAnkKzL0iu7iAyByur2YWyEWA/qo+UvErW1ENOiL0n6QqLrkSEonUlIGI6RtlHNSgOiQEuTWY4o2hO8CfvDZRVrJlyJTXf51aCuUVCbz51r6DnHScPBJ1LaGKS4a7GkrcgmdUvDg+S5kxfY0E04R4Q5muRzLL0ox544O9+tNoiQ99h65dzyLUs6kZuZkKlvCJTIS4VBulEZfgyByXGIGOgvr34o6wVpi7fEDon9HEueHYApe4wburKuz6hIPSv0Vv+U+em/IvIX/lXpbECM+H7wH1U59L4QNeQYNT2Z/rM4E6b2lOAbNR2RdTf7zxBmJGXiU4r1UklU=;ls25LclgMryq0MyfwRRGdQ=="
 ---
 

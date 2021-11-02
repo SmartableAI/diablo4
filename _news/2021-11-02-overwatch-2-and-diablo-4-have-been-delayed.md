@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
-excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
-publishedDateTime: 2021-11-02T13:53:00Z
-originalUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
-webUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
-ampWebUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+title: "Overwatch 2 and Diablo 4 have been delayed"
+excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
+publishedDateTime: 2021-11-02T15:14:00Z
+originalUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+webUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+ampWebUrl: "https://www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
 type: article
-quality: 102
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: Eurogamer
+  domain: eurogamer.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/02/overwatch-2-pvp_feature.jpg"
+  - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
     width: 1920
-    height: 1080
+    height: 1078
     isCached: true
 
 related:
@@ -120,21 +120,21 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 have been delayed"
-    excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
-    publishedDateTime: 2021-11-02T15:14:00Z
-    webUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-    ampWebUrl: "https://www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+  - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
+    excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
+    publishedDateTime: 2021-11-02T13:53:00Z
+    webUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
+    ampWebUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
     type: article
     provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 107
+      name: Shacknews
+      domain: shacknews.com
+    quality: 102
     images:
-      - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/02/overwatch-2-pvp_feature.jpg"
         width: 1920
-        height: 1078
+        height: 1080
         isCached: true
   - title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
     excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
@@ -193,6 +193,6 @@ related:
         height: 398
         isCached: true
 
-secured: "QmVJmHAKhU71AoLlVcvxlT2ln0PM6/tMTZYa73hbRe3iXiUTcXZGLn55fliEnJORMEnAkkW5RsyXs7RlXF3YaxTvBqhispr/7PwzgrTQ2UrFjdeIrWXTWmh7UQktPYGvusAM4782WNC7gPeZr23OKj2v5Q2/sJ11WJjxEk6ms6PsZ/UUadfFCc3k5P/XO0J5/eh+FBXTmh7DW/dJss4F9B1G4coCoQp4nScfz7Y2NFqAvUCp16hSETjkJTgLSwblSkmxnfhuaL404BufKtoldwWTfoyd++UMB9SZKWlqQSL3QKbgu+R0GoOTjSBZUEOgvg+km0vbhSlARuDp7KbnZPYy2+7chkETQbLEnwCKvUs=;nUnzUbJTmBVdIarPvT9TjA=="
+secured: "UaVsmw0LAuE4UZxPaATnqQZWmIUpHok4x/6SH9/FpKfzbHRhkojtPKe3mwv1DAvLsdUxcNLs1bPSjyaRMBvAMqIDOJWm7HuofphGYqMMCAaLxuK6pFoY+c32roVGflDsvf48b/74uFpduRlCYVitbDsuzNBBM1KfpESxCfge9VZUzE02oZ2Y6x02fqN2BjhxZN+dKYZumpVYFtYO/JNfA2cxOCgAvjrGYxMNKhoqorgB8Qfemfp/V4z7A0DklQuGxKiaSdHtCYc1SPZAHvug/LnOKuvF8r0hIotHSl+TGSuf6jZjnivAbN3fX6yFYv+FF5MKjjPDRkCPHrLR7xnQsMFhzWKqB1dNvh8hKNacWWQ=;VvOxAW+lZPKY6t1UDch/DQ=="
 ---
 

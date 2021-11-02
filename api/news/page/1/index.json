@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed-to-2023.md",
-      "title": "Overwatch 2 and Diablo 4 have been delayed to 2023",
-      "excerpt": "We are confident that this is the right course of action for our people, our players and the long-term success of our franchises\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed-to-2023/index.json",
-      "webUrl": "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/",
-      "originalUrl": "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/",
+      "path": "_news/2021-11-02-overwatch-2-and-diablo-4-delayed.md",
+      "title": "Overwatch 2 and Diablo 4 Delayed",
+      "excerpt": "Activision Blizzard announced that Overwatch 2 and Diablo 4 are now planning for a \"later launch\" than \"previously envisaged.\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-02-overwatch-2-and-diablo-4-delayed/index.json",
+      "webUrl": "https://www.ign.com/articles/overwatch-2-diablo-4-delayed",
+      "originalUrl": "https://www.ign.com/articles/overwatch-2-diablo-4-delayed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 347,
       "tags": null,
       "images": [
         {
-          "url": "https://www.videogameschronicle.com/files/2021/03/Overwatch-2.jpg",
-          "width": 2560,
-          "height": 1440,
+          "url": "https://assets1.ignimgs.com/2021/02/19/overwatch2-blogroll-1613750375361.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/amp/",
-      "cdnAmpWebUrl": "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/amp/",
-      "publishedDateTime": "2021-11-02T05:53:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

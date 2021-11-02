@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
-excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
-publishedDateTime: 2021-11-02T13:53:00Z
-originalUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
-webUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
-ampWebUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
+excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
+publishedDateTime: 2021-11-02T15:03:00Z
+originalUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022"
+webUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022"
+ampWebUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
+cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
 type: article
-quality: 102
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: GameInformer
+  domain: gameinformer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/02/overwatch-2-pvp_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2019/11/05/8c31deb2/smallerlogo.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -55,22 +55,6 @@ related:
       - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
-    excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
-    publishedDateTime: 2021-11-02T15:03:00Z
-    webUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022"
-    ampWebUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
-    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
-    type: article
-    provider:
-      name: GameInformer
-      domain: gameinformer.com
-    quality: 107
-    images:
-      - url: "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2019/11/05/8c31deb2/smallerlogo.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "‘Overwatch 2’ and ‘Diablo 4’ catch delays after Blizzard scandals"
     excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. Read More: Sexual harassment claims, lawsuits, and several high profile ..."
@@ -136,6 +120,22 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
+    excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
+    publishedDateTime: 2021-11-02T13:53:00Z
+    webUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call"
+    ampWebUrl: "https://www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127473/diablo-4-overwatch-2-delayed-during-activision-blizzard-q3-2021-conference-call?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 102
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/11/02/overwatch-2-pvp_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
     excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
     publishedDateTime: 2021-11-02T14:44:23Z
@@ -193,6 +193,6 @@ related:
         height: 398
         isCached: true
 
-secured: "QmVJmHAKhU71AoLlVcvxlT2ln0PM6/tMTZYa73hbRe3iXiUTcXZGLn55fliEnJORMEnAkkW5RsyXs7RlXF3YaxTvBqhispr/7PwzgrTQ2UrFjdeIrWXTWmh7UQktPYGvusAM4782WNC7gPeZr23OKj2v5Q2/sJ11WJjxEk6ms6PsZ/UUadfFCc3k5P/XO0J5/eh+FBXTmh7DW/dJss4F9B1G4coCoQp4nScfz7Y2NFqAvUCp16hSETjkJTgLSwblSkmxnfhuaL404BufKtoldwWTfoyd++UMB9SZKWlqQSL3QKbgu+R0GoOTjSBZUEOgvg+km0vbhSlARuDp7KbnZPYy2+7chkETQbLEnwCKvUs=;nUnzUbJTmBVdIarPvT9TjA=="
+secured: "BAJOLl8k1FTl+d7wIIWSg5V7yLQ9eKEp0j4G2URfkJI6smgz6oszZnmk54s0zWTiP9Xzx40IRtXjJtBYJPRBk/ytmX9TGSIg+dvlxPzfCfbBRfGYoQbqnuQyN2jPJ9GTigzGD1mJVLFShwYWn/338VjMHz/eVh+qRJ2EGtveAv4w2F9V1JsXgBIIZTdx9mWN1+j+EgX5odKVrir3BBpJQALfH+V8+6u5sS+sTV7CW5/Y7A9+rV4grFf4nY98THqfOHO5/FZ+aE7CbaXA8w8gVvhvu1mlHsYsV7wP8oFXlwjQ0+0ONm6ztpRbqAfmrnrjYbPzwls8BzQYMzmOH6KSi9WP6ruNzuywgxros7B0c5w=;Wk01gZ6X6icbByg50wDqDQ=="
 ---
 
