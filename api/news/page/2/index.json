@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-02-diablo-4-everything-we-know-about-blizzards-sequel.md",
+      "title": "Diablo 4: Everything we know about Blizzard's sequel",
+      "excerpt": "Diablo 4 is still a ways away, but thanks to Blizzard's quarterly updates, we've already seen a good deal of gameplay, art, and developer insights painting a fairly in-depth picture of what to expect.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-02-diablo-4-everything-we-know-about-blizzards-sequel/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-about-blizzards-sequel/ar-AAKCbIF",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-about-blizzards-sequel/ar-AAKCbIF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AALIbgm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T05:24:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-diablo-4s-latest-quarterly-update-shows-off-art-style-armour-design.md",
       "title": "Diablo 4's Latest Quarterly Update Shows Off Art Style, Armour Design",
       "excerpt": "Here's how the development for Diablo 4 has been going, according to Blizzard's newest quarterly Diablo 4 update.",
@@ -1070,48 +1112,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming.md",
-      "title": "'Diablo 4' Latest Rumors: Activision Blizzard Boss Claims Different Kind Of RPG Is Coming",
-      "excerpt": "\"Diablo 4\" has yet to get a release date, but Activision Blizzard COO Daniel Alegre claimed that it will be an innovative addition to the action-RPG genre.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming/index.json",
-      "webUrl": "https://www.ibtimes.com/diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-rpg-coming-3194162",
-      "originalUrl": "https://www.ibtimes.com/diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-rpg-coming-3194162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/03/diablo.jpg",
-          "width": 1200,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

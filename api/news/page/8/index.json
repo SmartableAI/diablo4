@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019.md",
+      "title": "Diablo 4 FINALLY Announced at Blizzcon 2019",
+      "excerpt": "Diablo 4 is confirmed through a MUCH anticipated announcement at Blizzcon 2019. After a lot of waiting, patience and faith, Blizzard unveiled a Cinematic, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=tiBx6qv5zv8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiBx6qv5zv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tiBx6qv5zv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T18:46:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mnem",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019.md",
       "title": "Mcconnell and Asmongold react to the Diablo 4 announcement | Diablo 4 | Blizzcon 2019",
       "excerpt": "So Diablo 4 was announced during Blizzcon 2019 and McCool was, for lack of better words, more than happy about it.... Mcconnell and Asmongold react to the ...",
@@ -1018,58 +1060,6 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-unveiled.md",
-      "title": "Diablo IV Unveiled",
-      "excerpt": "Diablo IV is the newest incarnation of the genre-defining ARPG players have come to know and love. Take a glimpse into the terror that awaits.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-unveiled/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23189675/diablo-iv-unveiled",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23189675/diablo-iv-unveiled",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/yz/YZVVOMS949I61572620765672.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
         "Diablo 4"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021.md",
+      "title": "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021",
+      "excerpt": "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021/",
+      "originalUrl": "https://youtube.com/watch?v=cVI033qK9x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cVI033qK9x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T19:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-krimson-kb-reacts-rogue-life-babay-diablo-iv-rogue-announce-trailer-reaction-blizzcon-2021.md",
       "title": "Krimson KB Reacts: ROGUE LIFE, BABAY!! -  Diablo IV  Rogue Announce Trailer Reaction - Blizzcon 2021",
       "excerpt": "ROGUES 4 LIFE!!! Blizzcon 2021 is killing it!! Krimson KB's Patreon ➔ https://www.patreon.com/KrimsonKB Krimson KB's Twitch ...",
@@ -1044,48 +1086,6 @@
       "provider": {
         "name": "realsport101.com",
         "domain": "realsport101.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts.md",
-      "title": "Non-Diablo Players React to Diablo IV Announce Cinematic | By Three They Come | (G-Mineo Reacts)",
-      "excerpt": "Thank you for your support, and as always, GAME IT 'TIL YOU MAKE IT! ♡♡♡ Discord Server: ☆https://discord.gg/ah3hcmp Membership: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-01-03-non-diablo-players-react-to-diablo-iv-announce-cinematic-by-three-they-come-g-mineo-reacts/",
-      "originalUrl": "https://youtube.com/watch?v=1iMf_sxz2v0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1iMf_sxz2v0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1iMf_sxz2v0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-02T17:21:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "G-Mineo",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

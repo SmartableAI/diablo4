@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming.md",
+      "title": "'Diablo 4' Latest Rumors: Activision Blizzard Boss Claims Different Kind Of RPG Is Coming",
+      "excerpt": "\"Diablo 4\" has yet to get a release date, but Activision Blizzard COO Daniel Alegre claimed that it will be an innovative addition to the action-RPG genre.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming/index.json",
+      "webUrl": "https://www.ibtimes.com/diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-rpg-coming-3194162",
+      "originalUrl": "https://www.ibtimes.com/diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-rpg-coming-3194162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/03/diablo.jpg",
+          "width": 1200,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-new-diablo-4-tease-has-players-excited.md",
       "title": "New Diablo 4 Tease Has Players Excited",
       "excerpt": "Since Diablo 4 was announced and revealed for the PS4, Xbox One, and PC at BlizzCon 2019, Blizzard hasn't said much about the game, nor has it had a ton to show of the game. We know it's not releasing ...",
@@ -1050,48 +1092,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "TheTrueSmaugh",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021.md",
-      "title": "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021",
-      "excerpt": "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=cVI033qK9x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cVI033qK9x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cVI033qK9x0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T19:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slaydra",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
