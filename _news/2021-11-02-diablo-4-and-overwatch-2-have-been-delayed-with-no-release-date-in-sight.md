@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
-excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
-publishedDateTime: 2021-11-02T14:44:23Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-announces-delays-for-both-overwatch-2-and-diablo-4/ar-AAQfe9c"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-announces-delays-for-both-overwatch-2-and-diablo-4/ar-AAQfe9c"
+title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
+excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."
+publishedDateTime: 2021-11-02T16:48:00Z
+originalUrl: "https://www.techradar.com/news/diablo-4-and-overwatch-2-have-been-delayed-with-no-release-date-in-sight"
+webUrl: "https://www.techradar.com/news/diablo-4-and-overwatch-2-have-been-delayed-with-no-release-date-in-sight"
 type: article
-quality: 87
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: CNET on MSN.com
-  domain: msn.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQfe97.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=194&y=189"
-    width: 1200
-    height: 630
+  - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
+    width: 1195
+    height: 672
     isCached: true
 
 related:
@@ -152,6 +156,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
+    excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
+    publishedDateTime: 2021-11-02T14:44:23Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-announces-delays-for-both-overwatch-2-and-diablo-4/ar-AAQfe9c"
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQfe97.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=194&y=189"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blizzard delays highly-anticipated titles ‘Overwatch 2’ and ‘Diablo 4’"
     excerpt: "During a quarterly earnings call, Activision Blizzard announced delays for both Overwatch 2  and Diablo 4. Well beyond 2022 from the sounds of it too. “While we are still planning to deliver a ..."
     publishedDateTime: 2021-11-02T14:49:00Z
@@ -194,20 +212,6 @@ related:
         width: 1236
         height: 653
         isCached: true
-  - title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
-    excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."
-    publishedDateTime: 2021-11-02T16:48:00Z
-    webUrl: "https://www.techradar.com/news/diablo-4-and-overwatch-2-have-been-delayed-with-no-release-date-in-sight"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
-        width: 1195
-        height: 672
-        isCached: true
   - title: "‘Overwatch 2’ And ‘Diablo 4’ Have Been Delayed While Another Company Leader Leaves Blizzard"
     excerpt: "Activision Blizzard is one of the biggest companies in all of gaming with titles like Call of Duty, World of Warcraft, and Overwatch under its belt. Overwatch, a game developed by the Blizzard branch ..."
     publishedDateTime: 2021-11-02T14:48:00Z
@@ -223,6 +227,6 @@ related:
         height: 398
         isCached: true
 
-secured: "iXz7edkVuH7itYgkiODFy/BFrpHE+Sp+JhsbHo9HZxALDEnZ7UFE0I1zcDpHkPH+ucZQUXf5oR1BnFNOZ2B6fsBpBXY2UHFKtEABNs4f8wfljPzvJjSYRuaEhmgWYlJNtPLLG+wJgVd2qWuoKKq1vSzL22kOxz/HzQEv9cNl4gYjwU/8jT/904bwxjj9qWuQYZWP8dSQdDVt9iLrs7a7JIhTaJ6B3D0d+MluaId5JQCKWfhQqL5A1RJRJU4kFnjxoDOoiq0Fe43ooSugxoL1Y5hNtEYPwDmK5iWuEPjL99y1YYrXNAlW4kUqa2NtbtjIjjPGDUI8SGJNGk6ccKTQW/AxagFq6gfQdTSyMjDee/4=;Mzyvn3gHqnAEIaub2EyRdg=="
+secured: "QTK2eXgripwU/ccKk8MjlVqpqnbHKRLzcOKM2bT6tjxlSAmwyu9Zk68XEGgEZZNTvU0n5PxDEw5RmBbcg7Qtf+ExsNBWDis/0nXVsYS2Eu/2RjyaHWs8XuxaXOyxYzVoknwAI3HvLvv2o0DqwmE5m7KybRNnE2zdo5ouw/YdTK6cfx5P9cfm2uy3gFUWODQtO3lmfpYF3eUKxvh2BaG4v/ODDXcmf6AYDkITi593imeXzT8948P6jyDabJVUOnzKERgH4qp51UutO70cy1z7gio2JvGscI6s7oZSeeqoOux2VdpAENzS+TiFwCGsB0mpqOaPr39EdfcHGCHDs7Z458hj7af1o2Ca8Q4NoXgDlIY=;TX5Ec/t1Y591gVYDY8iOzQ=="
 ---
 

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overwatch 2 and Diablo 4 Delayed"
-    excerpt: "Activision Blizzard announced that Overwatch 2 and Diablo 4 are now planning for a \"later launch\" than \"previously envisaged.\" ..."
-    publishedDateTime: 2021-11-02T13:56:00Z
-    webUrl: "https://www.ign.com/articles/overwatch-2-diablo-4-delayed"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets1.ignimgs.com/2021/02/19/overwatch2-blogroll-1613750375361.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 And Overwatch 2 Have Been Delayed"
     excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
     publishedDateTime: 2021-11-02T14:56:00Z
@@ -55,6 +41,22 @@ related:
       - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
+    excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
+    publishedDateTime: 2021-11-02T16:02:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
     excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
@@ -177,6 +179,34 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQf7OB.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=431&y=82"
         width: 600
         height: 315
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 delayed"
+    excerpt: "Overwatch 2 and Diablo 4 have been delayed, Activision Blizzard announced today in a post-earnings conference call. While the two games didn't have previously announced launch windows, Activision ..."
+    publishedDateTime: 2021-11-02T16:23:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-11-02-overwatch-2-and-diablo-4-delayed"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 87
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-11-02-23-18/overwatch.jpg"
+        width: 1236
+        height: 653
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
+    excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."
+    publishedDateTime: 2021-11-02T16:48:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-and-overwatch-2-have-been-delayed-with-no-release-date-in-sight"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
+        width: 1195
+        height: 672
         isCached: true
   - title: "‘Overwatch 2’ And ‘Diablo 4’ Have Been Delayed While Another Company Leader Leaves Blizzard"
     excerpt: "Activision Blizzard is one of the biggest companies in all of gaming with titles like Call of Duty, World of Warcraft, and Overwatch under its belt. Overwatch, a game developed by the Blizzard branch ..."

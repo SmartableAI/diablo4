@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
-excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
-publishedDateTime: 2021-11-02T14:44:23Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-announces-delays-for-both-overwatch-2-and-diablo-4/ar-AAQfe9c"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-announces-delays-for-both-overwatch-2-and-diablo-4/ar-AAQfe9c"
+title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
+excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
+publishedDateTime: 2021-11-02T16:02:00Z
+originalUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
+webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
+ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: CNET on MSN.com
-  domain: msn.com
+  name: From Software
+  domain: gamingbolt.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQfe97.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=194&y=189"
-    width: 1200
-    height: 630
+  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
 related:
@@ -39,22 +41,6 @@ related:
       - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
-    excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
-    publishedDateTime: 2021-11-02T16:02:00Z
-    webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
-    ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
-    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
-    type: article
-    provider:
-      name: From Software
-      domain: gamingbolt.com
-    quality: 107
-    images:
-      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
     excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
@@ -152,6 +138,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
+    excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
+    publishedDateTime: 2021-11-02T14:44:23Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-announces-delays-for-both-overwatch-2-and-diablo-4/ar-AAQfe9c"
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQfe97.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=194&y=189"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blizzard delays highly-anticipated titles ‘Overwatch 2’ and ‘Diablo 4’"
     excerpt: "During a quarterly earnings call, Activision Blizzard announced delays for both Overwatch 2  and Diablo 4. Well beyond 2022 from the sounds of it too. “While we are still planning to deliver a ..."
     publishedDateTime: 2021-11-02T14:49:00Z
@@ -223,6 +223,6 @@ related:
         height: 398
         isCached: true
 
-secured: "iXz7edkVuH7itYgkiODFy/BFrpHE+Sp+JhsbHo9HZxALDEnZ7UFE0I1zcDpHkPH+ucZQUXf5oR1BnFNOZ2B6fsBpBXY2UHFKtEABNs4f8wfljPzvJjSYRuaEhmgWYlJNtPLLG+wJgVd2qWuoKKq1vSzL22kOxz/HzQEv9cNl4gYjwU/8jT/904bwxjj9qWuQYZWP8dSQdDVt9iLrs7a7JIhTaJ6B3D0d+MluaId5JQCKWfhQqL5A1RJRJU4kFnjxoDOoiq0Fe43ooSugxoL1Y5hNtEYPwDmK5iWuEPjL99y1YYrXNAlW4kUqa2NtbtjIjjPGDUI8SGJNGk6ccKTQW/AxagFq6gfQdTSyMjDee/4=;Mzyvn3gHqnAEIaub2EyRdg=="
+secured: "juyBwOY3/vtj770qULE2MVWKimjQ2aFKhpZpgr/8WoUA/7Ixas4rfqEKEiKPQfzEsMzc5N9F3O8Gf90k9RycCEIcKPI7URF5+eUmSrGBXntBdSnO2d0NCBMl+K+VRqXBK0WpnU+01Qe4xHoxkiJQlHaDQFESeAeifoPULL2lv/h66cVpXdVySZqmPQ1anP20Dp2dR3VTRhHBeuGRK2rRAX/RUNDWClJ50O4j9RnZDWrrfN9/0QW5NJMb4OXRzQ7z9FzzZEXwS6ZCJVRZc7t4jzB2q2KFXxXP8FN/4xO5HGO0h0fDLCmaxzqUkkkr7cmdSN8gK3etNzWkVSGHaLclFSiwgTGwzL3FGcr0shBMHpA=;V8MUv7cFb2okH0+l9aeFOg=="
 ---
 
