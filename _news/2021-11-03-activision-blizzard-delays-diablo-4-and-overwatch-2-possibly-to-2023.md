@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 are both delayed"
-excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
-publishedDateTime: 2021-11-03T05:12:00Z
-originalUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
-webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+title: "Activision Blizzard Delays Diablo 4 and Overwatch 2 possibly to 2023"
+excerpt: "Activision Blizzard revealed during its Q3 2021 earnings report that it's delaying the launch of Diablo 4 and Overwatch 2 to a later date."
+publishedDateTime: 2021-11-03T08:04:00Z
+originalUrl: "https://www.cgmagonline.com/news/activision-delays-diablo-4-overwatch-2/"
+webUrl: "https://www.cgmagonline.com/news/activision-delays-diablo-4-overwatch-2/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Rock, Paper, Shotgun
-  domain: rockpapershotgun.com
+  name: Comics Gaming Magazine
+  domain: cgmagonline.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cdn.cgmagonline.com/wp-content/uploads/2021/11/news-activision-blizzard-delays-diablo-4-and-overwatch-2-possibly-to-2023-2.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -272,20 +272,6 @@ related:
         width: 1236
         height: 653
         isCached: true
-  - title: "Activision Blizzard Delays Diablo 4 and Overwatch 2 possibly to 2023"
-    excerpt: "Activision Blizzard revealed during its Q3 2021 earnings report that it's delaying the launch of Diablo 4 and Overwatch 2 to a later date."
-    publishedDateTime: 2021-11-03T08:04:00Z
-    webUrl: "https://www.cgmagonline.com/news/activision-delays-diablo-4-overwatch-2/"
-    type: article
-    provider:
-      name: Comics Gaming Magazine
-      domain: cgmagonline.com
-    quality: 87
-    images:
-      - url: "https://cdn.cgmagonline.com/wp-content/uploads/2021/11/news-activision-blizzard-delays-diablo-4-and-overwatch-2-possibly-to-2023-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
     excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
     publishedDateTime: 2021-11-03T06:36:00Z
@@ -313,6 +299,20 @@ related:
       - url: "https://images.pushsquare.com/b41280a82edaf/1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 are both delayed"
+    excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
+    publishedDateTime: 2021-11-03T05:12:00Z
+    webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
     excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
@@ -415,6 +415,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Tlk7M1ltDjepjZAco4RRL1WGpz1j/sJFmbRwdS42/oZCAZqyPr71aoFAUSsaI/GEpQCawQHQX5P6yYAolILjOP174cQO4/d+PdPmgwl28DCo7vjpVOlIJDLoAwnfHdwA1ga84GBj9h4l+qNRXhpQaTAhiJRnZA4acr5z3saxz7Xb3f+I9i3aiIBRijEshOaOSAM6+i9F+ZP5k5uGyp6fYmDx6F7HJTqtZyR6kEgdFdCDebdfSX096GA3RwRI2jZoh1Z5TTpHrgE7hVI7Ju0LlUsVjpvFMsZeD9ro9NlPdS2J9/rf6WRWn9zgcZYSlYF46kO34s9brFRfyAEt/4OeLzo+mgt8sU/kpN+4g0Ov+7I=;fJCY4t8WKWHjX4grO1aBcQ=="
+secured: "DWnwyW5C2q9NB/MH5SNOgyMkZ4Hq5CR2Vbad2nWHJX6FFmRurOii2QGrSS9yWa/aGVkY1XOu01gHYN5O00/HAltkv3SCgVZk/xzfSP8StIThb6Zyr3QoHHbLz01kpxfjmn3vDvTIFVdsOxybk5qOezmQ3qaK292SrDd7OL9r+ZA1mlhRvBoLgAFbKyK3+W90ZR5T0BiVnkrKtWX2DyyZSt6DilonQ6sSmQdPGdPR5bkF3zwu43m7BjQg/+AXdsVZAdpGdgtbxupnOBnAnADTIW+eWAEYmcMwUXmh25OyOlnNmv5pOEn7UVUPTI9bAXatEjCest+9Ry6kySTo2JT180k6Hdba2qr7GPZSTfpAp7A=;1KXVTAZ73fax2JbtIYDosg=="
 ---
 

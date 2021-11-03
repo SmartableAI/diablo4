@@ -168,6 +168,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 delayed amid another Blizzard executive shake-up"
+    excerpt: "Two of Blizzard’s big upcoming titles have been hit with delays. During its most recent financial earnings call with investors, Activision Blizzard announced that both Diablo 4 and Overwatch ..."
+    publishedDateTime: 2021-11-03T08:40:00Z
+    webUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/"
+    ampWebUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 106
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/Overwatch-2-main-artwork.jpg"
+        width: 1422
+        height: 800
+        isCached: true
   - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
     excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
     publishedDateTime: 2021-11-02T13:53:00Z
@@ -256,6 +272,20 @@ related:
         width: 1236
         height: 653
         isCached: true
+  - title: "Activision Blizzard Delays Diablo 4 and Overwatch 2 possibly to 2023"
+    excerpt: "Activision Blizzard revealed during its Q3 2021 earnings report that it's delaying the launch of Diablo 4 and Overwatch 2 to a later date."
+    publishedDateTime: 2021-11-03T08:04:00Z
+    webUrl: "https://www.cgmagonline.com/news/activision-delays-diablo-4-overwatch-2/"
+    type: article
+    provider:
+      name: Comics Gaming Magazine
+      domain: cgmagonline.com
+    quality: 87
+    images:
+      - url: "https://cdn.cgmagonline.com/wp-content/uploads/2021/11/news-activision-blizzard-delays-diablo-4-and-overwatch-2-possibly-to-2023-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
     excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
     publishedDateTime: 2021-11-03T04:45:00Z
@@ -331,7 +361,7 @@ related:
   - title: "Overwatch 2 and Diablo 4 delayed as another studio head departs Blizzard"
     excerpt: "The turmoil at Blizzard Entertainment continues. Overwatch 2 and Diablo 4 have both been delayed, seemingly beyond the 2022 calendar year, as studio ..."
     publishedDateTime: 2021-11-03T01:18:00Z
-    webUrl: "https://www.thesixthaxis.com/2021/11/03/overwatch-2-and-diablo-4-delayed-studio-head-jen-oneal-departs-blizzard/"
+    webUrl: "https://www.thesixthaxis.com/2021/11/03/overwatch-2-and-diablo-4-delayed-studio-head-jen-oneal-departs-blizzard/?cmpscreen"
     type: article
     provider:
       name: The Sixth Axis
@@ -369,6 +399,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
         width: 500
         height: 500
+        isCached: true
+  - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
+    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+    publishedDateTime: 2021-11-03T08:18:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+    type: article
+    provider:
+      name: Business Insider on MSN.com
+      domain: msn.com
+    quality: 69
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQh70I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "k6f8iy6Tfaw2qzHA4yRzI8oZJLWw4qOCUFIn6yMC0qJ+/Ll2osANun/1KS24cYYojgF/Y8dYqVoYAZ+4VozURF9IZYu1TAMzE4EAO0k8q0v0d/i5iFGZwWLsqFBaY09N1MIeFzDCHtNyVRuerbF6oZctvIBTDvtPCzhrppkoLTUnUeG9eOIPgH71qTxIZiHQRQUNgT0Og6gJ0tGdfVrywxEbzTKL+SbnErUlhjpIxY1uZ7VO35CSkAmfTdPSXdkVuAFWkFtCXGVVBLJsn0tl0li43GlHi0w610pm0x0FeP8uVq9HqFib8wEMLEEKIXHHEOQKCzQ+c0Lfh84HNN5G6tdvgZ7/UT2snS76cEzvlCo=;qIp7TV3BYmGzByGj240z8g=="

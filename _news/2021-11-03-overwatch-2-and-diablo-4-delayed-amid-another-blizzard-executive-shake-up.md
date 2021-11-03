@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 are both delayed"
-excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
-publishedDateTime: 2021-11-03T05:12:00Z
-originalUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
-webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+title: "Overwatch 2 and Diablo 4 delayed amid another Blizzard executive shake-up"
+excerpt: "Two of Blizzard’s big upcoming titles have been hit with delays. During its most recent financial earnings call with investors, Activision Blizzard announced that both Diablo 4 and Overwatch ..."
+publishedDateTime: 2021-11-03T08:40:00Z
+originalUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/"
+webUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/"
+ampWebUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
+cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
 type: article
-quality: 87
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: Rock, Paper, Shotgun
-  domain: rockpapershotgun.com
+  name: SlashGear
+  domain: slashgear.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/Overwatch-2-main-artwork.jpg"
+    width: 1422
+    height: 800
     isCached: true
 
 related:
@@ -168,22 +170,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed amid another Blizzard executive shake-up"
-    excerpt: "Two of Blizzard’s big upcoming titles have been hit with delays. During its most recent financial earnings call with investors, Activision Blizzard announced that both Diablo 4 and Overwatch ..."
-    publishedDateTime: 2021-11-03T08:40:00Z
-    webUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/"
-    ampWebUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 106
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/Overwatch-2-main-artwork.jpg"
-        width: 1422
-        height: 800
-        isCached: true
   - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
     excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
     publishedDateTime: 2021-11-02T13:53:00Z
@@ -314,6 +300,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 are both delayed"
+    excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
+    publishedDateTime: 2021-11-03T05:12:00Z
+    webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
     excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
     publishedDateTime: 2021-11-03T02:45:00Z
@@ -415,6 +415,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Tlk7M1ltDjepjZAco4RRL1WGpz1j/sJFmbRwdS42/oZCAZqyPr71aoFAUSsaI/GEpQCawQHQX5P6yYAolILjOP174cQO4/d+PdPmgwl28DCo7vjpVOlIJDLoAwnfHdwA1ga84GBj9h4l+qNRXhpQaTAhiJRnZA4acr5z3saxz7Xb3f+I9i3aiIBRijEshOaOSAM6+i9F+ZP5k5uGyp6fYmDx6F7HJTqtZyR6kEgdFdCDebdfSX096GA3RwRI2jZoh1Z5TTpHrgE7hVI7Ju0LlUsVjpvFMsZeD9ro9NlPdS2J9/rf6WRWn9zgcZYSlYF46kO34s9brFRfyAEt/4OeLzo+mgt8sU/kpN+4g0Ov+7I=;fJCY4t8WKWHjX4grO1aBcQ=="
+secured: "TPMcY5Bn4MJmttJoTyYHpRLp42qSlOEMcxdJyHLkqncLzMwTbr6W0WCoJ8TLzrWNK7STWqJX7+4l8uZnnhfiZrNi5qTju/bPFDK9PDvuBtyOdhiDgkKlIbK8dnXaYjPmStnrkQH32iWH6I6T9J0b8p9xV3ads6AG9tZD4wKZRllgQOUtjVeegqbQw6oYrkR1XlsUFq+EmpuDohPkjtH7vJYBFTnUaEPKRsEamZ59dl9IXX/zf42/9HgCbAK9gZcMpdSlWjBZfiAQTNGUySpMTXVsS87eYmKpNHDzU7PAimQt+KnY9kFL7cjhKw607AjF3r6pR3sqwWUfNwKzSRjmIeCuxnI2zsbqgFyLjZjjYv0=;xqRpU3mlrx+U/m1EAlOgOg=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 are both delayed"
-excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
-publishedDateTime: 2021-11-03T05:12:00Z
-originalUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
-webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
+excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+publishedDateTime: 2021-11-03T08:18:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
 type: article
-quality: 87
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Rock, Paper, Shotgun
-  domain: rockpapershotgun.com
+  name: Business Insider on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
-    width: 1600
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQh70I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -314,6 +314,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 are both delayed"
+    excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
+    publishedDateTime: 2021-11-03T05:12:00Z
+    webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
     excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
     publishedDateTime: 2021-11-03T02:45:00Z
@@ -400,21 +414,7 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
-    publishedDateTime: 2021-11-03T08:18:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 69
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQh70I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "Tlk7M1ltDjepjZAco4RRL1WGpz1j/sJFmbRwdS42/oZCAZqyPr71aoFAUSsaI/GEpQCawQHQX5P6yYAolILjOP174cQO4/d+PdPmgwl28DCo7vjpVOlIJDLoAwnfHdwA1ga84GBj9h4l+qNRXhpQaTAhiJRnZA4acr5z3saxz7Xb3f+I9i3aiIBRijEshOaOSAM6+i9F+ZP5k5uGyp6fYmDx6F7HJTqtZyR6kEgdFdCDebdfSX096GA3RwRI2jZoh1Z5TTpHrgE7hVI7Ju0LlUsVjpvFMsZeD9ro9NlPdS2J9/rf6WRWn9zgcZYSlYF46kO34s9brFRfyAEt/4OeLzo+mgt8sU/kpN+4g0Ov+7I=;fJCY4t8WKWHjX4grO1aBcQ=="
+secured: "vqzoQDStBs76unos+4gWGUNDw/dCNTE1KpwVSoBke/G3Sb1RddiiFtNsk+3mtXsvvOAgoLNgyJQSQ12qoms2OOoE/RXdb5psMNJaVeWGYINOVCRrTN47ZlblrITn5EO49h7i81O2vqmfri2Su0qlAfRji4ZBih61wL8fQkt/x52j+r/9HOl45BHTTDZAGt6ktyKBDKGFpw+O+wQ/CuxmcVUIcO6TFuwiWpag6Q/7unfVI5N1tpwKqkL40JpgYa6LThy4b4ULv5ueSXT43O1hLAvivnCZ7d1wueTDqMHNi97qQ1ToG9sizwzsT1OGAseGy8h0eJzgWVK63ydxfaP++12Ij8rWJCVtoefdajQjb9Y=;SaEJ0wu3gSBDxuDNJuic9g=="
 ---
 
