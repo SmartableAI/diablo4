@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-pric
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
 type: article
 quality: 146
-heat: 666
+heat: 686
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/Overwatch-2-main-artwork.jpg"
         width: 1422
         height: 800
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock"
+    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+    publishedDateTime: 2021-11-03T09:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11"
+    ampWebUrl: "https://www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/6182a79723745d001824d68a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
     excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."

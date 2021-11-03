@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
-excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
-publishedDateTime: 2021-11-02T15:03:00Z
-originalUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022"
-webUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022"
-ampWebUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
-cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
+title: "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock"
+excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+publishedDateTime: 2021-11-03T09:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11"
+webUrl: "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11"
+ampWebUrl: "https://www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
 type: article
-quality: 107
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: GameInformer
-  domain: gameinformer.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2019/11/05/8c31deb2/smallerlogo.jpg"
-    width: 800
-    height: 450
+  - url: "https://i.insider.com/6182a79723745d001824d68a?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -73,6 +77,22 @@ related:
       - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
+    excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
+    publishedDateTime: 2021-11-02T15:03:00Z
+    webUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022"
+    ampWebUrl: "https://www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
+    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/11/02/overwatch-2-and-diablo-4-are-being-delayed-most-likely-out-of-2022?amp"
+    type: article
+    provider:
+      name: GameInformer
+      domain: gameinformer.com
+    quality: 107
+    images:
+      - url: "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2019/11/05/8c31deb2/smallerlogo.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "‘Overwatch 2’ and ‘Diablo 4’ catch delays after Blizzard scandals"
     excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. READ MORE: Sexual harassment claims, lawsuits, and sev ..."
@@ -169,22 +189,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/Overwatch-2-main-artwork.jpg"
         width: 1422
         height: 800
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock"
-    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
-    publishedDateTime: 2021-11-03T09:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11"
-    ampWebUrl: "https://www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/6182a79723745d001824d68a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
     excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
@@ -431,6 +435,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BAJOLl8k1FTl+d7wIIWSg5V7yLQ9eKEp0j4G2URfkJI6smgz6oszZnmk54s0zWTiP9Xzx40IRtXjJtBYJPRBk/ytmX9TGSIg+dvlxPzfCfbBRfGYoQbqnuQyN2jPJ9GTigzGD1mJVLFShwYWn/338VjMHz/eVh+qRJ2EGtveAv4w2F9V1JsXgBIIZTdx9mWN1+j+EgX5odKVrir3BBpJQALfH+V8+6u5sS+sTV7CW5/Y7A9+rV4grFf4nY98THqfOHO5/FZ+aE7CbaXA8w8gVvhvu1mlHsYsV7wP8oFXlwjQ0+0ONm6ztpRbqAfmrnrjYbPzwls8BzQYMzmOH6KSi9WP6ruNzuywgxros7B0c5w=;Wk01gZ6X6icbByg50wDqDQ=="
+secured: "aSYNLgFOSUtVGItZWy3c8JhtzFVf13MhhGlL2fXf6aImaEidllB+vzDRIuFL4+OFXmVYbQ5y9XQbskQXcPm7tiGY3RyRTgCAu5ryUkJZxY4BASOhrfurt51BNUN5+efQOrDTArkOLUoN3BidBkbaTKoqHUuN55pE/RDDUf5zwwgokUlru6S8FQ+Ee9shy39SSiLhIM3P95ez/gd8f7BnG5QE/10yhM8Pv0VtbQJvmrtt0p0R5FjHnR9N+9THnR17AYg99Rd+gf2IoccQUPYN/MuSbCWQ3KfjgE87HZKKkdPJhwnbwqer1vjlGp4CbQ4Ebo/tgtai3RCURxwWxYB8VXHBMlKpb93moNSrWVQQ0pk=;rtm+kdPQ1FE4C1wMK9wagA=="
 ---
 
