@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
-excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
-publishedDateTime: 2021-11-02T16:02:00Z
-originalUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
-webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
-ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
-cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
+excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
+publishedDateTime: 2021-11-03T04:45:00Z
+originalUrl: "https://www.pushsquare.com/news/2021/11/diablo-4-and-overwatch-2-delayed-seemingly-to-2023"
+webUrl: "https://www.pushsquare.com/news/2021/11/diablo-4-and-overwatch-2-delayed-seemingly-to-2023"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: From Software
-  domain: gamingbolt.com
+  name: Push Square
+  domain: pushsquare.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://images.pushsquare.com/b41280a82edaf/1280x720.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
       - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
+    excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
+    publishedDateTime: 2021-11-02T16:02:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
     excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
@@ -226,20 +240,6 @@ related:
         width: 1236
         height: 653
         isCached: true
-  - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
-    excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
-    publishedDateTime: 2021-11-03T04:45:00Z
-    webUrl: "https://www.pushsquare.com/news/2021/11/diablo-4-and-overwatch-2-delayed-seemingly-to-2023"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 87
-    images:
-      - url: "https://images.pushsquare.com/b41280a82edaf/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 are both delayed"
     excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
     publishedDateTime: 2021-11-03T05:12:00Z
@@ -355,6 +355,6 @@ related:
         height: 353
         isCached: true
 
-secured: "juyBwOY3/vtj770qULE2MVWKimjQ2aFKhpZpgr/8WoUA/7Ixas4rfqEKEiKPQfzEsMzc5N9F3O8Gf90k9RycCEIcKPI7URF5+eUmSrGBXntBdSnO2d0NCBMl+K+VRqXBK0WpnU+01Qe4xHoxkiJQlHaDQFESeAeifoPULL2lv/h66cVpXdVySZqmPQ1anP20Dp2dR3VTRhHBeuGRK2rRAX/RUNDWClJ50O4j9RnZDWrrfN9/0QW5NJMb4OXRzQ7z9FzzZEXwS6ZCJVRZc7t4jzB2q2KFXxXP8FN/4xO5HGO0h0fDLCmaxzqUkkkr7cmdSN8gK3etNzWkVSGHaLclFSiwgTGwzL3FGcr0shBMHpA=;V8MUv7cFb2okH0+l9aeFOg=="
+secured: "Mm2tc0a5B3yUCO43K1tksYgkPh95ndOXwjEFzu7eKBCymiVOu7sTFWjCCJdeZ3yJaN+R7Q0AmLR7LXmXB7W/UG4W48SsxuLhJZtbyZq+E6uJYuC5oCtCB6SJIrF/3PWSTxXU7AiJAQWaWhadzNXFMloAWo7Mk7xyGS/wlww95fD8M2DFWfO4k9eI5az/f5H8lSrZ06R05M2x5GVn95oLzsVEzO+5e0nd4ihYBqoKHOwta20UE+e5aSfZN0TJvVRKQTgkUQRktBGxGxb0nldaOicBoY169FTFvbjt/MeOSen3ZR0gUBFI9VM/N6YadO4cBHI6OtZYFVLLaI/y4txySwYSZPI/YdbO4Ji+GyFBGAE=;sRvzy15TLvaFPqNohIGivg=="
 ---
 

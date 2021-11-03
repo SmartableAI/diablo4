@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
-excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
-publishedDateTime: 2021-11-02T16:02:00Z
-originalUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
-webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
-ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
-cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
+excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
+publishedDateTime: 2021-11-03T03:19:00Z
+originalUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
 type: article
-quality: 107
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: From Software
-  domain: gamingbolt.com
+  name: TechSpot
+  domain: techspot.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
+    excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
+    publishedDateTime: 2021-11-02T16:02:00Z
+    webUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed"
+    ampWebUrl: "https://gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+    cdnAmpWebUrl: "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-have-both-been-delayed/amp"
+    type: article
+    provider:
+      name: From Software
+      domain: gamingbolt.com
+    quality: 107
+    images:
+      - url: "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Overwatch 2 And Diablo 4 Are Being Delayed, Most Likely Out Of 2022"
     excerpt: "During its quarterly investor call today, Activision Blizzard has announced the releases of Overwatch 2 and Diablo IV are being pushed back further than expected, enough to change the company's ..."
@@ -282,22 +298,6 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
-    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-    publishedDateTime: 2021-11-03T03:19:00Z
-    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed as another studio head departs Blizzard"
     excerpt: "The turmoil at Blizzard Entertainment continues. Overwatch 2 and Diablo 4 have both been delayed, seemingly beyond the 2022 calendar year, as studio ..."
     publishedDateTime: 2021-11-03T01:18:00Z
@@ -355,6 +355,6 @@ related:
         height: 353
         isCached: true
 
-secured: "juyBwOY3/vtj770qULE2MVWKimjQ2aFKhpZpgr/8WoUA/7Ixas4rfqEKEiKPQfzEsMzc5N9F3O8Gf90k9RycCEIcKPI7URF5+eUmSrGBXntBdSnO2d0NCBMl+K+VRqXBK0WpnU+01Qe4xHoxkiJQlHaDQFESeAeifoPULL2lv/h66cVpXdVySZqmPQ1anP20Dp2dR3VTRhHBeuGRK2rRAX/RUNDWClJ50O4j9RnZDWrrfN9/0QW5NJMb4OXRzQ7z9FzzZEXwS6ZCJVRZc7t4jzB2q2KFXxXP8FN/4xO5HGO0h0fDLCmaxzqUkkkr7cmdSN8gK3etNzWkVSGHaLclFSiwgTGwzL3FGcr0shBMHpA=;V8MUv7cFb2okH0+l9aeFOg=="
+secured: "dbVVzwIr33/EA5tcISrsS7bcEsDuENPs78waoiSq1Mg/oybvhuxuTEaI5OjXweXqUgRKarloKYJNvgUad9KzSwZoTlcAwP+cO3vxtUwynwDrmRUuU+Q/VBGHKI96fWvrdRs5Bec347vOM4ZYuuUqH3M1sCGYPOC+hGarR84X6XHNZjTiR2haP5HDlb3WdpWgi2EDLS3mF5U8WJyy5f+JQW3RZvprSqgFgqF4oINs0MsoH1pb7WBfrJ5UqP3zMlWYxvL1NuDxyd7Iih+S+9EaIgpZCCCLdxKckF1duHtjSlK8Nw9t4twaogO3k3QaTY4quAWGsWHVB44Dz5xdujPNDhEkCk2XUZruzmkZWAz7Poo=;ljU/9Q1FMuF6NazmuV8Ukg=="
 ---
 

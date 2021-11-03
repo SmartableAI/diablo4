@@ -240,6 +240,34 @@ related:
         width: 1236
         height: 653
         isCached: true
+  - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
+    excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
+    publishedDateTime: 2021-11-03T04:45:00Z
+    webUrl: "https://www.pushsquare.com/news/2021/11/diablo-4-and-overwatch-2-delayed-seemingly-to-2023"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 87
+    images:
+      - url: "https://images.pushsquare.com/b41280a82edaf/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 are both delayed"
+    excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
+    publishedDateTime: 2021-11-03T05:12:00Z
+    webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
     excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
     publishedDateTime: 2021-11-03T02:45:00Z
@@ -267,6 +295,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
         width: 1195
         height: 672
+        isCached: true
+  - title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
+    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
+    publishedDateTime: 2021-11-03T03:19:00Z
+    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "‘Overwatch 2’ And ‘Diablo 4’ Have Been Delayed While Another Company Leader Leaves Blizzard"
     excerpt: "Activision Blizzard is one of the biggest companies in all of gaming with titles like Call of Duty, World of Warcraft, and Overwatch under its belt. Overwatch, a game developed by the Blizzard branch ..."
@@ -311,6 +355,6 @@ related:
         height: 353
         isCached: true
 
-secured: "HaBPM2bF/VVzEjY+227R104My41oscMZFphPyfhO3v1FeCpVKTOiYirvdAjx/XEyiIygqC183GmwQyi//BAvzag1hB860k3n/SGyFY2QA7UNHTRkCKEdVbp665tWO9tP14vh2h4Vfx10I7HIx1m2bg3Jo1qLtZR14z5OoNxFpWOCmut6kVgpVe83Oiksv5bB1A1q6ZdIFDPU3LLPZEXwtI5AvwfKodvmB0b56aO4RKcmCQYObUTo97hjqYLrHoaOA/OvgZ8yuiJB3GQbdKwVmS+Byof/GkEQu8iL0UtaG2M4utqKC7CnNGILeCpCFOoEel7CmctKbVK7/5ohJV8IlPSOWut9jjXi2O4mcOrdTWM=;YS6bCSU6QX5fC4soMxgOCA=="
+secured: "F+t1jco9ID+x8SJQ8da/obtxRL4xQBu0Ge+xIp8y6aDAwf+Pnn4plU0uIsl+Pm69G8vmijnGEjjQwYOhJ8D4MhEkQzXePJKxvGtlJkQyPnSbJ/TWVAF6+HwkkHOGLiBNWWxci9H6TeSaKsptRfPQ6/5PQd/gRTiNyMq2j2gNIzDCp+llRTmoILILW7SBDn1ZDNlTsSGnMBZzda8ub/m/yuRWNS9lxUKvW8T014J02WJDlhZwzwXzrEwCcg6m4SFmPur+2bRuXOqSa5+uYbjspMyy3hK52GyM5VRzGS8BmlR1xU5O7v1jn1aosXYH5vuGCeZ/ZUZkMrl5LJzJvIN2K5IeFoUqh1xoWinbc+6meZk=;psPYFqKdhjSFE+koPE3aCA=="
 ---
 
