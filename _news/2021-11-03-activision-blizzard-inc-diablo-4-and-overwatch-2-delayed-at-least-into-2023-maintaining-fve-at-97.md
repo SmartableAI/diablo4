@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 delayed"
-excerpt: "Overwatch 2 and Diablo 4 have been delayed, Activision Blizzard announced today in a post-earnings conference call. While the two games didn't have previously announced launch windows, Activision ..."
-publishedDateTime: 2021-11-02T16:23:00Z
-originalUrl: "https://www.gamesindustry.biz/articles/2021-11-02-overwatch-2-and-diablo-4-delayed"
-webUrl: "https://www.gamesindustry.biz/articles/2021-11-02-overwatch-2-and-diablo-4-delayed"
+title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
+excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
+publishedDateTime: 2021-11-03T00:23:00Z
+originalUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
+webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
 type: article
-quality: 87
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Games Industry
-  domain: gamesindustry.biz
+  name: YAHOO!Finance
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://images.eurogamer.net/2021/articles/2021-11-02-23-18/overwatch.jpg"
-    width: 1236
-    height: 653
+  - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -194,6 +194,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 delayed"
+    excerpt: "Overwatch 2 and Diablo 4 have been delayed, Activision Blizzard announced today in a post-earnings conference call. While the two games didn't have previously announced launch windows, Activision ..."
+    publishedDateTime: 2021-11-02T16:23:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2021-11-02-overwatch-2-and-diablo-4-delayed"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 87
+    images:
+      - url: "https://images.eurogamer.net/2021/articles/2021-11-02-23-18/overwatch.jpg"
+        width: 1236
+        height: 653
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
     excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."
     publishedDateTime: 2021-11-02T16:48:00Z
@@ -222,20 +236,6 @@ related:
         width: 710
         height: 398
         isCached: true
-  - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
-    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
-    publishedDateTime: 2021-11-03T00:23:00Z
-    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: yahoo.com
-    quality: 71
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
     excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
     publishedDateTime: 2021-11-03T00:25:00Z
@@ -251,6 +251,6 @@ related:
         height: 353
         isCached: true
 
-secured: "wlfvjkBlB8bEqDOg5OJ6QJdiw6eaM+rMZRtlMKApJ1bPfpmWMArPfSw5W52PPUQ57lcbLmZXg/PyPuOQ7OoFmqLuJZNzBZfiY9Q00JeIaib8iNWJPhsmyGD0fiZdLJXHoBhEQYPpRM/nvwdsZslPVcMo+pJRDjfk5IiQ5IuktNtSikajVU2D7y4319uDTqUx2IbYqIApSlFTIfzdCqhhp97LZ81d4uZaehkvw2KfRgAYfHDaNq9sFj5x/UT0CTMRf1AhVXCOYfydvjFzNDLPc+77uuCRV+GEPENfusbtAc870oZhugOb3MDILqDmuL8dzFnlhbo/XGutVsRKT+pcKlu9vA9MR/U4KaebRu8pTYE=;s5cYgyRTy33T9VuCprAZDA=="
+secured: "hTOVuhvSP8G24R/sjAZ4DERgMCgac3MapylJLgkxde9Mg2dxiokPyOobFPswd6lKr24r9Y81AG5OHGQ4+BTjcudqnVd3wbB6RsqL3VnJJD4vhIyH5XIQVrpn79xQRX4bJ5iJXbtAV2QY43zFNgPu8d5JwxuCFgM4rhJwD9FQhKMak0je/5beA/IDy0LoVTUuGVL+fbuu38tAr4FNqSo7j1mWScBVuWgf9XX2Tdy8FlhcxP+DSdmHSTlILYCBKminfwkOLaxUbHgApbyhC1jNak0f1XqQdSn3j0wxm/uKzX3tHMMRPRfl5VNZrvp1xJDDSqtTuNETF5eyIWUTZYZnp7b8pNrTi+pLT3mfGcjMsBk=;S6cD+Mf4ARmKu1tOAFbdIQ=="
 ---
 

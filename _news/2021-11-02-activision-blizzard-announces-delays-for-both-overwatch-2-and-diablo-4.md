@@ -222,6 +222,34 @@ related:
         width: 710
         height: 398
         isCached: true
+  - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
+    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
+    publishedDateTime: 2021-11-03T00:23:00Z
+    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: yahoo.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
+    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
+    publishedDateTime: 2021-11-03T00:25:00Z
+    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 69
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
+        width: 837
+        height: 353
+        isCached: true
 
 secured: "iXz7edkVuH7itYgkiODFy/BFrpHE+Sp+JhsbHo9HZxALDEnZ7UFE0I1zcDpHkPH+ucZQUXf5oR1BnFNOZ2B6fsBpBXY2UHFKtEABNs4f8wfljPzvJjSYRuaEhmgWYlJNtPLLG+wJgVd2qWuoKKq1vSzL22kOxz/HzQEv9cNl4gYjwU/8jT/904bwxjj9qWuQYZWP8dSQdDVt9iLrs7a7JIhTaJ6B3D0d+MluaId5JQCKWfhQqL5A1RJRJU4kFnjxoDOoiq0Fe43ooSugxoL1Y5hNtEYPwDmK5iWuEPjL99y1YYrXNAlW4kUqa2NtbtjIjjPGDUI8SGJNGk6ccKTQW/AxagFq6gfQdTSyMjDee/4=;Mzyvn3gHqnAEIaub2EyRdg=="
 ---

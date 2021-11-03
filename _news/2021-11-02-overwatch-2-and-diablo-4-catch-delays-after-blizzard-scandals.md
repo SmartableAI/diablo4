@@ -222,6 +222,34 @@ related:
         width: 710
         height: 398
         isCached: true
+  - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
+    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
+    publishedDateTime: 2021-11-03T00:23:00Z
+    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: yahoo.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
+    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
+    publishedDateTime: 2021-11-03T00:25:00Z
+    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 69
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
+        width: 837
+        height: 353
+        isCached: true
 
 secured: "QS36+UcezSqriyLqlAl37ahbhxX3G3ToxJ7lo31MSJqsnD5xl6cE6wQXKNMwxe0FOLWpIypS6VQztDncXBqkFWm6hqs+S4Y60+od5dLbanvcv45jvmp3+VaHt0cOL4gOPwWjmwBUzEHbMONZNh47kNYE0006L3tLS5DwvCDIfljhPD6AwJRRNhR67iiFndXPqPNlBalPrj5U378mhHsIMr2jXmoADSXIqXy0LFQEWHtRYs5733UBo4jQ7By5JfLjzmYSsIN64zGEjf6CYfilBRGv0/vyCVU0RgOB7RtmzGe8B5VS3NiXdLQWRywcUD1Eyzhy2D91Ej00fELGc/dXAd5jlQcSD9Jz7BjHRQ40Mqw=;IIjIkeOiVuttyYKCcS7t7A=="
 ---
