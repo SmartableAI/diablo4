@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 have been delayed"
-excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
-publishedDateTime: 2021-11-02T15:14:00Z
-originalUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-webUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-ampWebUrl: "https://www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+title: "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays"
+excerpt: "Activision Blizzard's stock price started the day on Wednesday down by more than 14% on the New York Stock Exchange following an earnings release on Tuesday where the company announced delays for ..."
+publishedDateTime: 2021-11-03T07:03:00Z
+originalUrl: "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
+webUrl: "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
 type: article
-quality: 107
-heat: -1
-published: false
+quality: 146
+heat: 606
+published: true
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
-    width: 1920
-    height: 1078
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
-  - title: "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays"
-    excerpt: "Activision Blizzard's stock price started the day on Wednesday down by more than 14% on the New York Stock Exchange following an earnings release on Tuesday where the company announced delays for ..."
-    publishedDateTime: 2021-11-03T07:03:00Z
-    webUrl: "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 146
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 And Overwatch 2 Have Been Delayed"
     excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
     publishedDateTime: 2021-11-02T14:56:00Z
@@ -137,6 +125,22 @@ related:
       - url: "https://www.videogameschronicle.com/files/2021/03/Overwatch-2.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Overwatch 2 and Diablo 4 have been delayed"
+    excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
+    publishedDateTime: 2021-11-02T15:14:00Z
+    webUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+    ampWebUrl: "https://www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 107
+    images:
+      - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
+        width: 1920
+        height: 1078
         isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed as Blizzard meltdown continues"
     excerpt: "Another of Blizzard’s top execs has left the company, as its two biggest upcoming games are delayed until at least 2023."
@@ -371,6 +375,6 @@ related:
         height: 500
         isCached: true
 
-secured: "UaVsmw0LAuE4UZxPaATnqQZWmIUpHok4x/6SH9/FpKfzbHRhkojtPKe3mwv1DAvLsdUxcNLs1bPSjyaRMBvAMqIDOJWm7HuofphGYqMMCAaLxuK6pFoY+c32roVGflDsvf48b/74uFpduRlCYVitbDsuzNBBM1KfpESxCfge9VZUzE02oZ2Y6x02fqN2BjhxZN+dKYZumpVYFtYO/JNfA2cxOCgAvjrGYxMNKhoqorgB8Qfemfp/V4z7A0DklQuGxKiaSdHtCYc1SPZAHvug/LnOKuvF8r0hIotHSl+TGSuf6jZjnivAbN3fX6yFYv+FF5MKjjPDRkCPHrLR7xnQsMFhzWKqB1dNvh8hKNacWWQ=;VvOxAW+lZPKY6t1UDch/DQ=="
+secured: "wIURhmPmEpBlVMEoSmUXjYMNvrDkAU7bNSXSBebVItxnJ05bUxhAeUTPo3DAtpKJkOpj//TkGAdIo1XI56su5x8apcnvosWBFc2YceOOTy4b/W+nTT4mr+nN3jwlLe4+VpxiZrchXmVcvxq6XAOiaIJ9zmx9dVNebhxHlo6QqRoenlumX4MyEQXMmFRFJfq+FoWwSCKXug4Bf689QumZxDLMCfqC58AHWYP00Z3RRswj0nx2KujxbwDfCmoDm+m9gysMFjUWNKmj3SuBy0b4XKFtIAzyjPCOf4Hqyw4Tnd9zceCPYlLAwJCP8JxFHhPTHczByCryYsroQU/WM4eLES8e+aLDljL3YpdmixFRRSQ=;80meD/ukVvEqg4lZpMrXPg=="
 ---
 

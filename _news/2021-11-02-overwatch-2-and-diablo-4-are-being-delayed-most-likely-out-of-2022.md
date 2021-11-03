@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays"
+    excerpt: "Activision Blizzard's stock price started the day on Wednesday down by more than 14% on the New York Stock Exchange following an earnings release on Tuesday where the company announced delays for ..."
+    publishedDateTime: 2021-11-03T07:03:00Z
+    webUrl: "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 146
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 And Overwatch 2 Have Been Delayed"
     excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
     publishedDateTime: 2021-11-02T14:56:00Z
@@ -226,6 +242,20 @@ related:
         width: 1236
         height: 653
         isCached: true
+  - title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
+    excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
+    publishedDateTime: 2021-11-03T06:36:00Z
+    webUrl: "https://knowtechie.com/blizzard-says-overwatch-2-and-diablo-4-wont-be-here-until-2023/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 87
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
     excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
     publishedDateTime: 2021-11-03T04:45:00Z
@@ -339,20 +369,6 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
         width: 500
         height: 500
-        isCached: true
-  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
-    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
-    publishedDateTime: 2021-11-03T00:25:00Z
-    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 69
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
-        width: 837
-        height: 353
         isCached: true
 
 secured: "BAJOLl8k1FTl+d7wIIWSg5V7yLQ9eKEp0j4G2URfkJI6smgz6oszZnmk54s0zWTiP9Xzx40IRtXjJtBYJPRBk/ytmX9TGSIg+dvlxPzfCfbBRfGYoQbqnuQyN2jPJ9GTigzGD1mJVLFShwYWn/338VjMHz/eVh+qRJ2EGtveAv4w2F9V1JsXgBIIZTdx9mWN1+j+EgX5odKVrir3BBpJQALfH+V8+6u5sS+sTV7CW5/Y7A9+rV4grFf4nY98THqfOHO5/FZ+aE7CbaXA8w8gVvhvu1mlHsYsV7wP8oFXlwjQ0+0ONm6ztpRbqAfmrnrjYbPzwls8BzQYMzmOH6KSi9WP6ruNzuywgxros7B0c5w=;Wk01gZ6X6icbByg50wDqDQ=="

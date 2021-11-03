@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Overwatch 2 and Diablo 4 have been delayed"
-excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
-publishedDateTime: 2021-11-02T15:14:00Z
-originalUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-webUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-ampWebUrl: "https://www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
-cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
+excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
+publishedDateTime: 2021-11-03T06:36:00Z
+originalUrl: "https://knowtechie.com/blizzard-says-overwatch-2-and-diablo-4-wont-be-here-until-2023/"
+webUrl: "https://knowtechie.com/blizzard-says-overwatch-2-and-diablo-4-wont-be-here-until-2023/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: KnowTechie
+  domain: knowtechie.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
-    width: 1920
-    height: 1078
+  - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -138,6 +136,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 have been delayed"
+    excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
+    publishedDateTime: 2021-11-02T15:14:00Z
+    webUrl: "https://www.eurogamer.net/articles/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+    ampWebUrl: "https://www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+    cdnAmpWebUrl: "https://www-eurogamer-net.cdn.ampproject.org/c/s/www.eurogamer.net/amp/2021-11-02-overwatch-2-and-diablo-4-have-been-delayed"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 107
+    images:
+      - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
+        width: 1920
+        height: 1078
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed as Blizzard meltdown continues"
     excerpt: "Another of Blizzard’s top execs has left the company, as its two biggest upcoming games are delayed until at least 2023."
     publishedDateTime: 2021-11-03T01:06:00Z
@@ -241,20 +255,6 @@ related:
       - url: "https://images.eurogamer.net/2021/articles/2021-11-02-23-18/overwatch.jpg"
         width: 1236
         height: 653
-        isCached: true
-  - title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
-    excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
-    publishedDateTime: 2021-11-03T06:36:00Z
-    webUrl: "https://knowtechie.com/blizzard-says-overwatch-2-and-diablo-4-wont-be-here-until-2023/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 87
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
     excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
@@ -371,6 +371,6 @@ related:
         height: 500
         isCached: true
 
-secured: "UaVsmw0LAuE4UZxPaATnqQZWmIUpHok4x/6SH9/FpKfzbHRhkojtPKe3mwv1DAvLsdUxcNLs1bPSjyaRMBvAMqIDOJWm7HuofphGYqMMCAaLxuK6pFoY+c32roVGflDsvf48b/74uFpduRlCYVitbDsuzNBBM1KfpESxCfge9VZUzE02oZ2Y6x02fqN2BjhxZN+dKYZumpVYFtYO/JNfA2cxOCgAvjrGYxMNKhoqorgB8Qfemfp/V4z7A0DklQuGxKiaSdHtCYc1SPZAHvug/LnOKuvF8r0hIotHSl+TGSuf6jZjnivAbN3fX6yFYv+FF5MKjjPDRkCPHrLR7xnQsMFhzWKqB1dNvh8hKNacWWQ=;VvOxAW+lZPKY6t1UDch/DQ=="
+secured: "k6f8iy6Tfaw2qzHA4yRzI8oZJLWw4qOCUFIn6yMC0qJ+/Ll2osANun/1KS24cYYojgF/Y8dYqVoYAZ+4VozURF9IZYu1TAMzE4EAO0k8q0v0d/i5iFGZwWLsqFBaY09N1MIeFzDCHtNyVRuerbF6oZctvIBTDvtPCzhrppkoLTUnUeG9eOIPgH71qTxIZiHQRQUNgT0Og6gJ0tGdfVrywxEbzTKL+SbnErUlhjpIxY1uZ7VO35CSkAmfTdPSXdkVuAFWkFtCXGVVBLJsn0tl0li43GlHi0w610pm0x0FeP8uVq9HqFib8wEMLEEKIXHHEOQKCzQ+c0Lfh84HNN5G6tdvgZ7/UT2snS76cEzvlCo=;qIp7TV3BYmGzByGj240z8g=="
 ---
 
