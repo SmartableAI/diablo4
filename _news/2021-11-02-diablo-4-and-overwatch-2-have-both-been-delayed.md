@@ -59,11 +59,11 @@ related:
         height: 450
         isCached: true
   - title: "‘Overwatch 2’ and ‘Diablo 4’ catch delays after Blizzard scandals"
-    excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. Read More: Sexual harassment claims, lawsuits, and several high profile ..."
-    publishedDateTime: 2021-11-02T14:17:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738"
-    ampWebUrl: "https://www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738?amp"
+    excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. READ MORE: Sexual harassment claims, lawsuits, and sev ..."
+    publishedDateTime: 2021-11-02T21:43:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094"
+    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
+    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
     type: article
     provider:
       name: NME

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "‘Overwatch 2’ and ‘Diablo 4’ catch delays after Blizzard scandals"
-excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. Read More: Sexual harassment claims, lawsuits, and several high profile ..."
-publishedDateTime: 2021-11-02T14:17:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738"
-webUrl: "https://www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738"
-ampWebUrl: "https://www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3085738?amp"
+excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. READ MORE: Sexual harassment claims, lawsuits, and sev ..."
+publishedDateTime: 2021-11-02T21:43:00Z
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094"
+ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
 type: article
 quality: 107
 heat: -1
@@ -223,6 +223,6 @@ related:
         height: 398
         isCached: true
 
-secured: "eXVmnvKrL4C8R4S6gPtauBoMmrVIXhvm4r4w6C5a8eqXBmog45PNpmLQ3yrN1i6Vb0xSRKw/xvOg3zIugHPFHxAMC2rwzPpQRAJiN88MpBFqK4CAmPFfjajFUT/vSEysFw/F79DGMHXSbRy4VBTZ/tYoNDPrsEYiBN8btrrwzf1QD043aIiyvwZolb3NSxpjF1nj6OzlUUhKRXEsd4k8ZKVTzsF4RKocbslPa0kIWWgbzu0Ya1XHFosR1v19Udqxp0efMXRWq7Atoiw1o9D0ob75cZh5Rb4p/Fjk5tTX2tN/ZhJT6lmxzGIsm5isJNsrEJ6kijYosBJg2Mjbv29O5OGxYXFl5rrtYLdNN7eoAtM=;f66f0e16qRu5m5LkTIt5aw=="
+secured: "QS36+UcezSqriyLqlAl37ahbhxX3G3ToxJ7lo31MSJqsnD5xl6cE6wQXKNMwxe0FOLWpIypS6VQztDncXBqkFWm6hqs+S4Y60+od5dLbanvcv45jvmp3+VaHt0cOL4gOPwWjmwBUzEHbMONZNh47kNYE0006L3tLS5DwvCDIfljhPD6AwJRRNhR67iiFndXPqPNlBalPrj5U378mhHsIMr2jXmoADSXIqXy0LFQEWHtRYs5733UBo4jQ7By5JfLjzmYSsIN64zGEjf6CYfilBRGv0/vyCVU0RgOB7RtmzGe8B5VS3NiXdLQWRywcUD1Eyzhy2D91Ej00fELGc/dXAd5jlQcSD9Jz7BjHRQ40Mqw=;IIjIkeOiVuttyYKCcS7t7A=="
 ---
 
