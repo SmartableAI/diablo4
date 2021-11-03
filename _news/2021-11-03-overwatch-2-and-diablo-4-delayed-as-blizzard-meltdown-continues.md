@@ -1,26 +1,28 @@
 ---
 category: news
-title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
-excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
-publishedDateTime: 2021-11-03T00:25:00Z
-originalUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
-webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+title: "Overwatch 2 and Diablo 4 delayed as Blizzard meltdown continues"
+excerpt: "Another of Blizzard’s top execs has left the company, as its two biggest upcoming games are delayed until at least 2023."
+publishedDateTime: 2021-11-03T01:06:00Z
+originalUrl: "https://metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/"
+webUrl: "https://metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/"
+ampWebUrl: "https://metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/amp/"
+cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/amp/"
 type: article
-quality: 69
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: Metro
+  domain: metro.co.uk
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
-    width: 837
-    height: 353
+  - url: "https://metro.co.uk/wp-content/uploads/2020/12/OW2_Blizzcon_2019_Rio_IGC_Group_03-5dc8.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -135,22 +137,6 @@ related:
       - url: "https://cdn.gamer-network.net/2021/articles/2021-11-02-21-59/overwatch-2-and-diablo-4-have-been-delayed-1635890355123.jpg/EG11/thumbnail/1920x1078/format/jpg/quality/80"
         width: 1920
         height: 1078
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed as Blizzard meltdown continues"
-    excerpt: "Another of Blizzard’s top execs has left the company, as its two biggest upcoming games are delayed until at least 2023."
-    publishedDateTime: 2021-11-03T01:06:00Z
-    webUrl: "https://metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/"
-    ampWebUrl: "https://metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/03/overwatch-2-and-diablo-4-delayed-as-blizzard-meltdown-continues-15533357/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 107
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2020/12/OW2_Blizzcon_2019_Rio_IGC_Group_03-5dc8.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
         isCached: true
   - title: "Diablo 4 & Overwatch 2 delayed during Activision Blizzard Q3 2021 conference call"
     excerpt: "Activision Blizzard earnings call, it was announced that both Overwatch 2 and Diablo 4 have been delayed. During the Activision Blizzard Q3 2021 earnings call, the company discussed its catalogue of ..."
@@ -310,7 +296,21 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
+    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
+    publishedDateTime: 2021-11-03T00:25:00Z
+    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 69
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
+        width: 837
+        height: 353
+        isCached: true
 
-secured: "Un+V87nLPSSKy505nCKP9FVmynND2naqN5ykbuf/VB3mkv8rTOKbEfhx/iZBWrHu+KedtOAB16NWbM/sijcUnN5z79Z+xRiGMgKDN8l7lNRcpd9Uqop/uXoqEoNZEUQTFnJk5KP0vbBGXsGrTEy6rQpbH3zoz0W0eoDiEZXftUgtEOYzxAAW8sSHrPM3z9wNARqZTPi0HomwtDitzb+E6hLjU4Q6KLaSnAZYpn8l8dSdrqzt7UvaqFd24Kbk7Vu8qKvSchNCTt9yf0WgAoK8vQ8a+LG+hquiaf8LGND0Q5DvRwhAud0mqNvBdPcGw/58jsaej7NV/ighjkJ+yhzUOmJ1NFY/0W38zW87a2N64sg=;QwYDUg4QXOFhqMV389bMwQ=="
+secured: "MFS6tBLU8kRaoN76r2SgReEYO12YVYz6583lLawe8NL3s6RemSwfjLxQaXhnqDxnWJmv4nadAuMSXRstLDUccYH0U/Bl0fUt+7UfyI1tVdFRndEaqZ0I4tAVbG1jQGPPWGh6O/9OunlBdwWZz/MnfpfpVVpgpVXo9OmjMo0wwV9Fi3ugUoHk4zSs5KVPnPYYWHPwQ7ch+8cCWo5AaZvwKIxb5pLebTFfp8erlrrYzuSoT5YBWAcLnUkvvmrNTpIcvgAb78/wyOgIfEl1oJC+iy5ZhFwgZyaFr805A6wHa9WF6ot6nPgNgAnI5cdQZKSUHGGkLA5Knx48JOEbTkdE0hpBTTmIbzeA1sJBFqiSdVg=;gu7CWrDS9J8FrsiVSGlCag=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
-excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
-publishedDateTime: 2021-11-03T00:25:00Z
-originalUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
-webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
+excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
+publishedDateTime: 2021-11-03T02:45:00Z
+originalUrl: "https://www.videogamer.com/news/overwatch-2-and-diablo-4-have-been-delayed-potentially-into-2023/"
+webUrl: "https://www.videogamer.com/news/overwatch-2-and-diablo-4-have-been-delayed-potentially-into-2023/"
 type: article
-quality: 69
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
-    width: 837
-    height: 353
+  - url: "https://www.videogamer.com/wp-content/uploads/OW2_Blizzcon_2019_Screenshot_Rio_Tracer_3P_Gameplay_02.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -240,20 +240,6 @@ related:
         width: 1236
         height: 653
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
-    excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
-    publishedDateTime: 2021-11-03T02:45:00Z
-    webUrl: "https://www.videogamer.com/news/overwatch-2-and-diablo-4-have-been-delayed-potentially-into-2023/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/OW2_Blizzcon_2019_Screenshot_Rio_Tracer_3P_Gameplay_02.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
     excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."
     publishedDateTime: 2021-11-02T16:48:00Z
@@ -310,7 +296,21 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
+    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
+    publishedDateTime: 2021-11-03T00:25:00Z
+    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 69
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
+        width: 837
+        height: 353
+        isCached: true
 
-secured: "Un+V87nLPSSKy505nCKP9FVmynND2naqN5ykbuf/VB3mkv8rTOKbEfhx/iZBWrHu+KedtOAB16NWbM/sijcUnN5z79Z+xRiGMgKDN8l7lNRcpd9Uqop/uXoqEoNZEUQTFnJk5KP0vbBGXsGrTEy6rQpbH3zoz0W0eoDiEZXftUgtEOYzxAAW8sSHrPM3z9wNARqZTPi0HomwtDitzb+E6hLjU4Q6KLaSnAZYpn8l8dSdrqzt7UvaqFd24Kbk7Vu8qKvSchNCTt9yf0WgAoK8vQ8a+LG+hquiaf8LGND0Q5DvRwhAud0mqNvBdPcGw/58jsaej7NV/ighjkJ+yhzUOmJ1NFY/0W38zW87a2N64sg=;QwYDUg4QXOFhqMV389bMwQ=="
+secured: "2+EkjD5lq4oAP0DXaIBoKmcpEUODWc3YfDAqQE7ikx0K9iX3Tc96/xW//pJzHIQvXQB0CF+Mn+/NiKHB+3BB5zqSFhhJzyfTx5QE1s9x17QLomJAx1eRZ7MbmGyDTVW2tHGOh7yu57GZmcXx30Ui613zMcEMeW+SgdTKhBjbjls8XG8/ht6aFtDCWL2Rgdic7v5vm1KKG0Ak1YyTP/C+oNxxT+x8X7N33uEeGGZ82gUNKitdAHKoALTe+KX+OZnxvIBEx244qByvJUrU1T9cnyUJr2YxQYTaALOdNgcly7xWbgjUDawrRCNkOqRPJU+87a+0DKXqNyGlX3SRzjR0/191jFaMdpAcbvbQ3Grpk88=;q2gJdAeTnOG+25Z9NgxV8Q=="
 ---
 

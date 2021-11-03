@@ -1,26 +1,28 @@
 ---
 category: news
-title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
-excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
-publishedDateTime: 2021-11-03T00:25:00Z
-originalUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
-webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+title: "Overwatch 2 and Diablo 4 delayed indefinitely; Activision Blizzard co-leader Jen Oneal announces departure"
+excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
+publishedDateTime: 2021-11-03T03:19:00Z
+originalUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: TechSpot
+  domain: techspot.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
-    width: 837
-    height: 353
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -168,22 +170,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed indefinitely; Activision Blizzard co-leader Jen Oneal announces departure"
-    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-    publishedDateTime: 2021-11-03T03:19:00Z
-    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Activision Blizzard announces delays for both Overwatch 2 and Diablo 4"
     excerpt: "Following a whirlwind of change at Blizzard Entertainment in recent months, more shifts in leadership ocurr as two of its most anticipated games are delayed."
     publishedDateTime: 2021-11-02T14:44:23Z
@@ -310,7 +296,21 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
+    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
+    publishedDateTime: 2021-11-03T00:25:00Z
+    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 69
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
+        width: 837
+        height: 353
+        isCached: true
 
-secured: "Un+V87nLPSSKy505nCKP9FVmynND2naqN5ykbuf/VB3mkv8rTOKbEfhx/iZBWrHu+KedtOAB16NWbM/sijcUnN5z79Z+xRiGMgKDN8l7lNRcpd9Uqop/uXoqEoNZEUQTFnJk5KP0vbBGXsGrTEy6rQpbH3zoz0W0eoDiEZXftUgtEOYzxAAW8sSHrPM3z9wNARqZTPi0HomwtDitzb+E6hLjU4Q6KLaSnAZYpn8l8dSdrqzt7UvaqFd24Kbk7Vu8qKvSchNCTt9yf0WgAoK8vQ8a+LG+hquiaf8LGND0Q5DvRwhAud0mqNvBdPcGw/58jsaej7NV/ighjkJ+yhzUOmJ1NFY/0W38zW87a2N64sg=;QwYDUg4QXOFhqMV389bMwQ=="
+secured: "4lT2Dul3xyYzIBwx8v0JsbN6ntsx2ZW2twbne31l14WTnniJ00SFsd9FsSB6gV891ekFru0753uhfPrBTKcH7Mr2xHcaRC/2OAF2ZVHHZz/pW18PUSopRC+td05XkjZ69np+EGuoY9W31aybs1OOHIx6kzpwiaVDPhJGhAo4ZJLwsR+zqEJ8FWitNbA/qGBlvG6g/na5OSuY/ZWxl0GnprM4/+6KT/WE2uYnoysgjGVK14H3YDPATjoey3xU3uy/unAG4XpVKhNBSZhJixZhA5/nLRxsuUTcRLaUIIi5J7p4yLQcyXO+EWLjOM/6+kVqJuCdBIBVL3Nb/NvhC2uTzHZFCBv2sqXRfTFAkZa3DsU=;pBQMCDFmH8U7fUibl0C9EQ=="
 ---
 

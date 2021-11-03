@@ -1,26 +1,26 @@
 ---
 category: news
-title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
-excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
-publishedDateTime: 2021-11-03T00:25:00Z
-originalUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
-webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+title: "Overwatch 2 and Diablo 4 delayed as another studio head departs Blizzard"
+excerpt: "The turmoil at Blizzard Entertainment continues. Overwatch 2 and Diablo 4 have both been delayed, seemingly beyond the 2022 calendar year, as studio ..."
+publishedDateTime: 2021-11-03T01:18:00Z
+originalUrl: "https://www.thesixthaxis.com/2021/11/03/overwatch-2-and-diablo-4-delayed-studio-head-jen-oneal-departs-blizzard/"
+webUrl: "https://www.thesixthaxis.com/2021/11/03/overwatch-2-and-diablo-4-delayed-studio-head-jen-oneal-departs-blizzard/"
 type: article
-quality: 69
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: The Sixth Axis
+  domain: thesixthaxis.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
-    width: 837
-    height: 353
+  - url: "https://www.thesixthaxis.com/wp-content/uploads/2019/11/Overwatch2-Hero500.jpg"
+    width: 1260
+    height: 500
     isCached: true
 
 related:
@@ -268,20 +268,6 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed as another studio head departs Blizzard"
-    excerpt: "The turmoil at Blizzard Entertainment continues. Overwatch 2 and Diablo 4 have both been delayed, seemingly beyond the 2022 calendar year, as studio ..."
-    publishedDateTime: 2021-11-03T01:18:00Z
-    webUrl: "https://www.thesixthaxis.com/2021/11/03/overwatch-2-and-diablo-4-delayed-studio-head-jen-oneal-departs-blizzard/"
-    type: article
-    provider:
-      name: The Sixth Axis
-      domain: thesixthaxis.com
-    quality: 86
-    images:
-      - url: "https://www.thesixthaxis.com/wp-content/uploads/2019/11/Overwatch2-Hero500.jpg"
-        width: 1260
-        height: 500
-        isCached: true
   - title: "‘Overwatch 2’ And ‘Diablo 4’ Have Been Delayed While Another Company Leader Leaves Blizzard"
     excerpt: "Activision Blizzard is one of the biggest companies in all of gaming with titles like Call of Duty, World of Warcraft, and Overwatch under its belt. Overwatch, a game developed by the Blizzard branch ..."
     publishedDateTime: 2021-11-02T14:48:00Z
@@ -310,7 +296,21 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "‘Overwatch 2’ and ‘Diablo 4’ release date: 2023 could be the earliest possible launch window for both games"
+    excerpt: "Video game fans looking forward to the release of Overwatch 2 and Diablo 4 will now have to wait longer than expected before getting their hands on the much-awaited titles. In its latest earnings call ..."
+    publishedDateTime: 2021-11-03T00:25:00Z
+    webUrl: "https://www.econotimes.com/Overwatch-2-and-Diablo-4-release-date-2023-could-be-the-earliest-possible-launch-window-for-both-games-1620574"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 69
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211103a8fc2992a7dfdbaa2_th_1024x0.jpg"
+        width: 837
+        height: 353
+        isCached: true
 
-secured: "Un+V87nLPSSKy505nCKP9FVmynND2naqN5ykbuf/VB3mkv8rTOKbEfhx/iZBWrHu+KedtOAB16NWbM/sijcUnN5z79Z+xRiGMgKDN8l7lNRcpd9Uqop/uXoqEoNZEUQTFnJk5KP0vbBGXsGrTEy6rQpbH3zoz0W0eoDiEZXftUgtEOYzxAAW8sSHrPM3z9wNARqZTPi0HomwtDitzb+E6hLjU4Q6KLaSnAZYpn8l8dSdrqzt7UvaqFd24Kbk7Vu8qKvSchNCTt9yf0WgAoK8vQ8a+LG+hquiaf8LGND0Q5DvRwhAud0mqNvBdPcGw/58jsaej7NV/ighjkJ+yhzUOmJ1NFY/0W38zW87a2N64sg=;QwYDUg4QXOFhqMV389bMwQ=="
+secured: "HaBPM2bF/VVzEjY+227R104My41oscMZFphPyfhO3v1FeCpVKTOiYirvdAjx/XEyiIygqC183GmwQyi//BAvzag1hB860k3n/SGyFY2QA7UNHTRkCKEdVbp665tWO9tP14vh2h4Vfx10I7HIx1m2bg3Jo1qLtZR14z5OoNxFpWOCmut6kVgpVe83Oiksv5bB1A1q6ZdIFDPU3LLPZEXwtI5AvwfKodvmB0b56aO4RKcmCQYObUTo97hjqYLrHoaOA/OvgZ8yuiJB3GQbdKwVmS+Byof/GkEQu8iL0UtaG2M4utqKC7CnNGILeCpCFOoEel7CmctKbVK7/5ohJV8IlPSOWut9jjXi2O4mcOrdTWM=;YS6bCSU6QX5fC4soMxgOCA=="
 ---
 
