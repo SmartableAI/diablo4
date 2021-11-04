@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
-publishedDateTime: 2021-11-03T08:18:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+excerpt: "\"It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.\" ..."
+publishedDateTime: 2021-11-03T08:15:47Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
 type: article
 quality: 69
 heat: -1
@@ -344,6 +344,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 are delayed"
+    excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
+    publishedDateTime: 2021-11-03T16:26:00Z
+    webUrl: "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 87
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/11/Overwatch2_Gameplay.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
     excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
     publishedDateTime: 2021-11-03T02:45:00Z
@@ -431,6 +445,6 @@ related:
         height: 500
         isCached: true
 
-secured: "vqzoQDStBs76unos+4gWGUNDw/dCNTE1KpwVSoBke/G3Sb1RddiiFtNsk+3mtXsvvOAgoLNgyJQSQ12qoms2OOoE/RXdb5psMNJaVeWGYINOVCRrTN47ZlblrITn5EO49h7i81O2vqmfri2Su0qlAfRji4ZBih61wL8fQkt/x52j+r/9HOl45BHTTDZAGt6ktyKBDKGFpw+O+wQ/CuxmcVUIcO6TFuwiWpag6Q/7unfVI5N1tpwKqkL40JpgYa6LThy4b4ULv5ueSXT43O1hLAvivnCZ7d1wueTDqMHNi97qQ1ToG9sizwzsT1OGAseGy8h0eJzgWVK63ydxfaP++12Ij8rWJCVtoefdajQjb9Y=;SaEJ0wu3gSBDxuDNJuic9g=="
+secured: "H2yI/axjSFhxujR3bBUaf3mwJ8PfQ9mATKk3fEJOmK6bc1HfFm95ZwDFMqvCFfL0mZ8EbhBmtYmPVaNWZf4u8baDjnhlTtgyHonOc0Xm6mXyP2VAcpZ/njJId+nzuXIfNegyntSDL2mjptvGIOschpONGaAl33ZXo96oDNrGMu4ahF4brOoTZWuDq/yWauxZfYmG+0JTA/Tfv5TUuhug6KPNY04EVORx2nLFPnfj0MH9uZYiYnq+n+yi7bfgTe7luGp/pFir2cMlg9twJbm17CxUkLnH0qRTwt/M8UdmYMq962gHhozgpIg1R73BOekQpMfSVSNkQisAbPr6BN2tB0uVMNRPKfPVDCDH16htOkE=;HMiZYPVOnv88P8iWlWFctg=="
 ---
 

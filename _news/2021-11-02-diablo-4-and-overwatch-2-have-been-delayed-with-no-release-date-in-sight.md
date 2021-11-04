@@ -348,6 +348,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Overwatch 2 and Diablo 4 are delayed"
+    excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
+    publishedDateTime: 2021-11-03T16:26:00Z
+    webUrl: "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 87
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/11/Overwatch2_Gameplay.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed, potentially into 2023"
     excerpt: "Activision Blizzard has revealed that it is delaying the launch of both Overwatch 2 and Diablo 4 with no new window for their release."
     publishedDateTime: 2021-11-03T02:45:00Z
@@ -421,9 +435,9 @@ related:
         height: 500
         isCached: true
   - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
-    publishedDateTime: 2021-11-03T08:18:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+    excerpt: "\"It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.\" ..."
+    publishedDateTime: 2021-11-03T08:15:47Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
     type: article
     provider:
       name: Business Insider on MSN.com
