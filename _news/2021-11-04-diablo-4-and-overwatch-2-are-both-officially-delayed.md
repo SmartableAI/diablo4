@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 And Overwatch 2 Have Been Delayed"
-excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
-publishedDateTime: 2021-11-02T14:56:00Z
-originalUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/"
-webUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/"
-ampWebUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
-cdnAmpWebUrl: "https://press--start-com-au.cdn.ampproject.org/c/s/press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
+title: "Diablo 4 and Overwatch 2 Are Both Officially Delayed!"
+excerpt: "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ..."
+publishedDateTime: 2021-11-04T02:15:00Z
+originalUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
+webUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: press-start.com.au
-  domain: press-start.com.au
+  name: eTeknix
+  domain: eteknix.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
-    width: 1400
-    height: 787
+  - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
+    width: 880
+    height: 490
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Diablo 4 And Overwatch 2 Have Been Delayed"
+    excerpt: "Blizzard has confirmed this morning that Overwatch 2 and Diablo 4 will both now release later than envisaged. Both were presumed to be scheduled to release in 2022, it’s now likely that these games ..."
+    publishedDateTime: 2021-11-02T14:56:00Z
+    webUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/"
+    ampWebUrl: "https://press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
+    cdnAmpWebUrl: "https://press--start-com-au.cdn.ampproject.org/c/s/press-start.com.au/news/playstation/2021/11/03/diablo-4-and-overwatch-2-have-been-delayed/amp/"
+    type: article
+    provider:
+      name: press-start.com.au
+      domain: press-start.com.au
+    quality: 107
+    images:
+      - url: "https://cdn.pressstart.com.au/wp-content/uploads/2021/11/Diablo-Overwatch.jpg"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Diablo 4 And Overwatch 2 Have Both Been Delayed"
     excerpt: "Despite neither game having solid dates, Blizzard has confirmed that both will now launch further than originally envisioned."
@@ -358,20 +372,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 and Overwatch 2 Are Both Officially Delayed!"
-    excerpt: "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ..."
-    publishedDateTime: 2021-11-04T02:15:00Z
-    webUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
-    type: article
-    provider:
-      name: eTeknix
-      domain: eteknix.com
-    quality: 87
-    images:
-      - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
-        width: 880
-        height: 490
-        isCached: true
   - title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
     excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."
     publishedDateTime: 2021-11-02T16:48:00Z
@@ -459,6 +459,6 @@ related:
         height: 630
         isCached: true
 
-secured: "o6/x2hXFaKvh8QEsuYpXjwxh6DWUGAbKyAnkKzL0iu7iAyByur2YWyEWA/qo+UvErW1ENOiL0n6QqLrkSEonUlIGI6RtlHNSgOiQEuTWY4o2hO8CfvDZRVrJlyJTXf51aCuUVCbz51r6DnHScPBJ1LaGKS4a7GkrcgmdUvDg+S5kxfY0E04R4Q5muRzLL0ox544O9+tNoiQ99h65dzyLUs6kZuZkKlvCJTIS4VBulEZfgyByXGIGOgvr34o6wVpi7fEDon9HEueHYApe4wburKuz6hIPSv0Vv+U+em/IvIX/lXpbECM+H7wH1U59L4QNeQYNT2Z/rM4E6b2lOAbNR2RdTf7zxBmJGXiU4r1UklU=;ls25LclgMryq0MyfwRRGdQ=="
+secured: "aVfoEDxDrdcSb50UIYH2tl7FyluxPtUHD+Ktdu1pIjLmO73SbLjBrpZkcmHMTh+LVsaX9xViSZgdgrXjduOqtsQgfxhz4vS/d+Wy6vyy4NKOi7saedHRi5sfD5VY5cZZ2bpsSMDlqHhJl/f4ad8+nNwmY8dL4kmlMXLaxM17jCooqof94BXygsrBQTvnNLGwq1PLdcKhLcRXJB7Okg0jx0sWarNe7P/sLqK9TAuhc1w60B+Gm08fRgXEi2xXCafoLMmJyHTQBz1zAH394cG4Q/Un2uyz2IJOBEc7/mB1FfwPdzi8tIN+YaAu1ZXBAzvHX2jvYZ19DowzVPvdb5N65+aJI+Z/0POQGF5S2dp9IoA=;P0lFD9ayk4aCA9b24qbuJA=="
 ---
 

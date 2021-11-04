@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-pric
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
 type: article
 quality: 146
-heat: 706
+heat: 726
 published: true
 
 provider:
@@ -361,6 +361,20 @@ related:
       - url: "https://www.videogamer.com/wp-content/uploads/OW2_Blizzcon_2019_Screenshot_Rio_Tracer_3P_Gameplay_02.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4 and Overwatch 2 Are Both Officially Delayed!"
+    excerpt: "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ..."
+    publishedDateTime: 2021-11-04T02:15:00Z
+    webUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
+    type: article
+    provider:
+      name: eTeknix
+      domain: eteknix.com
+    quality: 87
+    images:
+      - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
+        width: 880
+        height: 490
         isCached: true
   - title: "Diablo 4 and Overwatch 2 have been delayed, with no release date in sight"
     excerpt: "The controversy surrounding Activision Blizzard continues to take its toll on the publisher's output, with the most recent announcement revealing delays for two of its major gaming titles – Overwatch ..."

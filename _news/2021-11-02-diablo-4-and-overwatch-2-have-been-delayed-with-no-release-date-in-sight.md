@@ -376,6 +376,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 and Overwatch 2 Are Both Officially Delayed!"
+    excerpt: "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ..."
+    publishedDateTime: 2021-11-04T02:15:00Z
+    webUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
+    type: article
+    provider:
+      name: eTeknix
+      domain: eteknix.com
+    quality: 87
+    images:
+      - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
+        width: 880
+        height: 490
+        isCached: true
   - title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
     excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
     publishedDateTime: 2021-11-03T03:19:00Z
