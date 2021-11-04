@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-18-non-diablo-players-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Non - Diablo Players Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "In today's video we react to Diablo 4 - Official Announcement Cinematic Trailer Subscribe To Our Vlog Channel:http://bit.ly/2RmUZVQ Original ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-05-18-non-diablo-players-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-05-18-non-diablo-players-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=UG912uOj898",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UG912uOj898\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UG912uOj898/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T16:00:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarioB & Nicole",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-05-14-scared-for-my-life-diablo-4-official-announcement-cinematic-trailer-reaction.md",
       "title": "SCARED FOR MY LIFE!! | Diablo 4 - Official Announcement Cinematic Trailer | REACTION",
       "excerpt": "If you enjoyed please like,comment, and subscribe! I love all you guys help me grow! Hope yall have a great day! THANKS FOR WATCHING!",
@@ -1036,48 +1078,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Jen TCC",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
-      "excerpt": "MP Gaming! Can't wait for this game to come out... ▻ My Merch: https://teespring.com/stores/matsu-patty Let's grow this channel together: ▻ Subscribe to my ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=q16u4f-nJg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q16u4f-nJg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q16u4f-nJg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-04T10:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Matsu Patty",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

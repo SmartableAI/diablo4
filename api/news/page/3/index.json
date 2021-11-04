@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-18-diablo-4-in-playstation-database-tests-may-be-approaching.md",
+      "title": "Diablo 4 in PlayStation Database; Tests May be Approaching",
+      "excerpt": "A mysterious game has appeared in the PlayStation database, which is most likely an early version of Diablo 4. It looks like the developers from Blizzard Entertainment will be testing their game on ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-18-diablo-4-in-playstation-database-tests-may-be-approaching/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-in-playstation-database-tests-may-be-approaching/z832c0",
+      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-in-playstation-database-tests-may-be-approaching/z832c0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamepressure.com/gallery/html/news/516903281.jpg",
+          "width": 592,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=12992",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=12992",
+      "publishedDateTime": "2021-05-17T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-diablo-4-latest-rumors-activision-blizzard-boss-claims-different-kind-of-rpg-is-coming.md",
       "title": "'Diablo 4' Latest Rumors: Activision Blizzard Boss Claims Different Kind Of RPG Is Coming",
       "excerpt": "\"Diablo 4\" has yet to get a release date, but Activision Blizzard COO Daniel Alegre claimed that it will be an innovative addition to the action-RPG genre.",
@@ -1050,48 +1092,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "TrepChains",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video.md",
-      "title": "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!",
-      "excerpt": "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video/",
-      "originalUrl": "https://youtube.com/watch?v=CDn9HcQD7cM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDn9HcQD7cM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T22:21:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheTrueSmaugh",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

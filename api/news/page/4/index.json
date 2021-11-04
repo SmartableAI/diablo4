@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video.md",
+      "title": "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!",
+      "excerpt": "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video/",
+      "originalUrl": "https://youtube.com/watch?v=CDn9HcQD7cM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDn9HcQD7cM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CDn9HcQD7cM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T22:21:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheTrueSmaugh",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-diablo-iv-rogue-announce-trailer-reaction-and-thoughts-new-class-reveal-with-diablo-4-gameplay-2021.md",
       "title": "Diablo IV Rogue Announce Trailer Reaction And Thoughts  New Class Reveal With Diablo 4 Gameplay 2021",
       "excerpt": "diablo4 #diabloiv #diablo Diablo IV - Rogue Announce Trailer official video (source) https://www.youtube.com/watch?v=LvrLZ4yETHI Hey Thanks for watching, ...",
@@ -1054,39 +1096,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more.md",
-      "title": "Blizzcon 2021: Dates, Rumors, WoW Classic TBC, Diablo 4, Overwatch 2 & more",
-      "excerpt": "Fans expect some huge things from Blizzcon 2021 - including Diablo 4, WoW Classic TBC, Overwatch 2, and other big possibilities. So what will we see during the 2-day event? Blizzcon 2021 will be a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more/index.json",
-      "webUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "originalUrl": "https://realsport101.com/misc/blizzcon-2021-date-wow-classic-tbc-burning-crusade-Diablo-4-overwatch-2-ticket-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "realsport101.com",
-        "domain": "realsport101.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
