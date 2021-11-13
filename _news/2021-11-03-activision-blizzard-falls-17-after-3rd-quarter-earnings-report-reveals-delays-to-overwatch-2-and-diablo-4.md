@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-03T08:15:47Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQh70I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays"
@@ -459,6 +453,6 @@ related:
         height: 500
         isCached: true
 
-secured: "9Uofc9shm+Yl0Ku9ENwrCyz5KCA7rdUtPKweFK6sqKY10P/YclyCrwFbY9l0PW0razzoB4d8yy8NWU/7eM99/mySSD86ETt2r7u5WhD2xASZryysNNap2xcLWlg6w2t8YgyXjc78KKjvzuhFxBI7HJOyggkCbM8L86sNbmly3yuCa9gUZIkhE7qZqT5pUhmWxZGEVahpf5AEQbzyMI6kAmluue7T8UdI7NFDayHsyWjFnlxLahnj/OTAVxy4oRq9TWgSg7JdcZTVVj8ycQOHj3ZfHt9IiWuN00XGTY24YKvw73XvYo0tpIrgpvzNUKQfqmKo4vfpvhCIXmTH7Am2EpGatGcFZzxEgdjg+Fqmifk=;r6QWPp9X3nKtpqg8NGhPEg=="
+secured: "PSKmFY5UrrVFj/4kvZRDQNkW1nuQvVwUAlxSyzDaUI3hfG97a7psl9qXMUhcMioYnWhBTlS/+IZzn6MPotoPyzvjPQb2X0y5boPAhVBaP0pTKXGw0v6lD8ataqeFFZzdmyGQ38CnLzQyfGPZA4I1Tlj0BjH2iACGrNtTqED4GIzqNPzEpx6AE+K3Pn6UhmsT31KC6ejF0wPyLbvDSRioavZCiw+4ca9T0fOqwTwrGvWoYem/CPnM81W/GvGsqc368/I76FiwmhdQmVg7Hm1QDiHZCbneJgr+bCTKV+wEUUZ9aXkZC4deQq6iqjyjZIxwRA90WpwwrSyI1RpbSg5Wk41LNes3f8mHthgzDgMwILM=;eupVggPWNCGwQ0i1z+ai8w=="
 ---
 

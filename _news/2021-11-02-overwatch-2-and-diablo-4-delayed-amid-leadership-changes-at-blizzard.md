@@ -456,12 +456,7 @@ related:
     provider:
       name: Business Insider on MSN.com
       domain: msn.com
-    quality: 69
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQh70I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 49
 
 secured: "CZTe+/0mdnZ1IiFlx9z6c7mKZujwhryMCACDOC7QSwSGmyHhUkFUGtxw63a6hXJ2WPSapkspXe91X9BomEgpZ0HIYkgHInDBjYKRDyFGqKGCOFnBFlXpFexpxd3ZtRZbnOjGVm/FKkUl4GX9YprZkR7MA1xNjAuhIsFogNe+QFhcR0EnWOMQ+8axGb8uGctFWgwueDVa/zxO2CYnT/l74s9qI3zvFemJ4lm7yWT+F86+8UCOAjxCZY+m3yOKr2i1fZkDApzyS4X93ffG6dMdrOam5eJdxVUzodpDlbN59HflVpvy1b+HpZTbi8yXEJwf5VyicP2aN+dPgtwUEVRTSpAjTstwIkpYSINeKaWuGDc=;pCalC3wIk1Up2JXH4E7O9Q=="
 ---
