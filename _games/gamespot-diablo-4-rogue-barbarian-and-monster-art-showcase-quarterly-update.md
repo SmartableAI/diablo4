@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian
 type: video
 length: PT9M18S
 publishedDateTime: 2021-07-01T01:30:01Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "pgfNYgvU0QRSqNG4ys5bnbZPaLwTdaQO+qfcblJ6RIF4aLrVC3MyRkBa788JNZMLWr/NlFgHl2ytxpcjN3GRla5/px29IS024B9wxdbVMqA2OeN9TFR/ypzsJkN3XLjf9GYHGZMevcYAlwN5uG8hX61PLbi2Pm4CNv02R69i+t4ADzKX8Nw3VSm4nwJRkdZPLD4K0e2rUWTKVUe3sB4iaicibqb/4Gj/6mDb9VZRQuzw7qyNQNQ61fc2SIpYptRCPw35np/nIh2pF09Axa8B82SrEniLnrUdADg+HLmYoiuba3reqLTSVvUFs6m5LaSOW5Hnh6DmrWS0ToZ7J1KnGEq4qRPwWZUzzZUIl83zOC4pOe2FT7i/HFOQpI0QE24AZeeUocS40cnsGdjliH1c6etYpxJOb2UK4OlHcBGBiNOxEl24zsB4U9oc3+g+8uxp;jCbD/wcUt0n09DTZXwq6IA=="
+secured: "LlavcvKBbPdQpAX5ZW86rxeJPfGvhrJ/HxBnu7k9GuionqliTr6UKPtL6w+Nlf7oFTLDncz/3wfwvVilgOPrtHp0qABfAL7LhZnXpiEupqLK/g2/KaQDOb8aUh7e3NPqcZVhhGMolGtIsuDkPrOQJQcvSugrdjkBQksvsfR1oElRmggVhtOC50GI8LjZDogB/bny9ncSTaEYo1/eHtddo2EPndZJgS2G6W2b3C7YoI5ML51jWBNR+ur8OXFaW1ZhmEBF4XP/vX4CL8l4R10aYpzlA2tcfcYgq33dQg7HIuVi4DNsrqQeJHV1MAJC+mbsBzbhpXS3BTrulDWlUnR+kg6JxLyAIIiu4K1+h3x5kcvAsPM5LkIIa8fl2SxFU6+9vkmQjCRgJgxOV2FffmLtuhyPbeSjrSj00fM7wbALcqNl/SqVIDSepdv/cZM3a/4Q;nhEDJwhtHz9jIoCF9KuK1w=="
 ---
 
