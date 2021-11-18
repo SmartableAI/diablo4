@@ -444,6 +444,20 @@ related:
         width: 710
         height: 398
         isCached: true
+  - title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
+    excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."
+    publishedDateTime: 2021-11-03T23:28:00Z
+    webUrl: "https://technosports.co.in/2021/11/03/activision-blizzard-delays-the-release-of-overwatch-2-and-diablo-4-with-no-new-release-dates-announced/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 71
+    images:
+      - url: "https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/11/Activision-Blizzard-delays-the-release-of-Overwatch-2-and-Diablo-4-with-no-new-release-dates-announced_TechnoSports.co_.in_.jpg"
+        width: 1328
+        height: 740
+        isCached: true
   - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
     excerpt: "\"It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.\" ..."
     publishedDateTime: 2021-11-03T08:15:47Z

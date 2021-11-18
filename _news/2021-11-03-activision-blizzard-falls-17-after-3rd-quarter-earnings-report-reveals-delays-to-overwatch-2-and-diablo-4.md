@@ -444,6 +444,20 @@ related:
         width: 710
         height: 398
         isCached: true
+  - title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
+    excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."
+    publishedDateTime: 2021-11-03T23:28:00Z
+    webUrl: "https://technosports.co.in/2021/11/03/activision-blizzard-delays-the-release-of-overwatch-2-and-diablo-4-with-no-new-release-dates-announced/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 71
+    images:
+      - url: "https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/11/Activision-Blizzard-delays-the-release-of-Overwatch-2-and-Diablo-4-with-no-new-release-dates-announced_TechnoSports.co_.in_.jpg"
+        width: 1328
+        height: 740
+        isCached: true
   - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
     excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
     publishedDateTime: 2021-11-03T00:23:00Z
@@ -459,6 +473,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0Lh0aG5UtcmL3z62pTZdKfIxgh+y6b0jDLy/s+ZcT3XVdGJx2K/VVN50905/nmd5Sgtpee5a+KxcETixmnR0EjG0V2Eb26jdc/aT+E8fMmRx3Q2wLfgW5pvdJ74i1E8TP2Zc2A3SjjYnp1EgJh22QmNHjVuN52OKpoakCo/HdCJg5+jv9cCkAu186CnyFMFyVt+6aaIWfiMzvzQmw0b4VFJmuNkcqSoJfCZR4R5oOfCeNiBjPAfSTwG4/2UXn+d7KlA5j/jn3/FRhHVfpoyPp4/gHE6x/g+FTpQARVxJJeIeNTqJ9o+IBNX81xr4OLB3Fxjm3ZSZgr8GoTRl9IlDr5mklDTgjSBgfd8WP83w+No=;KU7R8ifd3KuwouS6Lixrgw=="
+secured: "htYTrIMTR+1eB8oOqmVsZcWupbuntsFsK3dwTEMVhINLV1AsFB8nGJbKNHN9Y0kAII2Yl4rWJ+QvPEiTtn8dzv1h1Ocilk2t1Zs6RIeL4TmA8N9H4L8xO7tLiPTweIt2NPIwDzQWr0crYtF4hDOXzO6qQGMBN/rSS9vgdW8ZRSn0KYMOqgshi/ACDk8jPcBBmP43lUY0VsgOpsDcFkBkz5kHX9L8+P+SDDh3C5CYk5pKVatnSbZep6EfFs1U9aiYu4DJ7SAERssxlyqv0mF0Ii0YYdlWAY32vG2Q4vtoPe6TT6w4rmYIVEk5nv1Kb+1AwMrO9xMv5BVyZF62jXsO/jlIUpKj+N2xKj3rvRxD9uo=;wW8Qf88+m4xM8hS81HRX5g=="
 ---
 

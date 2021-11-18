@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
-excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-publishedDateTime: 2021-11-03T03:19:00Z
-originalUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
+excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."
+publishedDateTime: 2021-11-03T23:28:00Z
+originalUrl: "https://technosports.co.in/2021/11/03/activision-blizzard-delays-the-release-of-overwatch-2-and-diablo-4-with-no-new-release-dates-announced/"
+webUrl: "https://technosports.co.in/2021/11/03/activision-blizzard-delays-the-release-of-overwatch-2-and-diablo-4-with-no-new-release-dates-announced/"
 type: article
-quality: 86
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
+  name: TechnoSports
+  domain: technosports.co.in
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-    width: 1200
-    height: 800
+  - url: "https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/11/Activision-Blizzard-delays-the-release-of-Overwatch-2-and-Diablo-4-with-no-new-release-dates-announced_TechnoSports.co_.in_.jpg"
+    width: 1328
+    height: 740
     isCached: true
 
 related:
@@ -402,6 +400,22 @@ related:
         width: 1195
         height: 672
         isCached: true
+  - title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
+    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
+    publishedDateTime: 2021-11-03T03:19:00Z
+    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed as another studio head departs Blizzard"
     excerpt: "The turmoil at Blizzard Entertainment continues. Overwatch 2 and Diablo 4 have both been delayed, seemingly beyond the 2022 calendar year, as studio ..."
     publishedDateTime: 2021-11-03T01:18:00Z
@@ -429,20 +443,6 @@ related:
       - url: "https://uproxx.com/wp-content/uploads/2021/05/Overwatch-2-710.jpg?w=710"
         width: 710
         height: 398
-        isCached: true
-  - title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
-    excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."
-    publishedDateTime: 2021-11-03T23:28:00Z
-    webUrl: "https://technosports.co.in/2021/11/03/activision-blizzard-delays-the-release-of-overwatch-2-and-diablo-4-with-no-new-release-dates-announced/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 71
-    images:
-      - url: "https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/11/Activision-Blizzard-delays-the-release-of-Overwatch-2-and-Diablo-4-with-no-new-release-dates-announced_TechnoSports.co_.in_.jpg"
-        width: 1328
-        height: 740
         isCached: true
   - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
     excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
@@ -473,6 +473,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dbVVzwIr33/EA5tcISrsS7bcEsDuENPs78waoiSq1Mg/oybvhuxuTEaI5OjXweXqUgRKarloKYJNvgUad9KzSwZoTlcAwP+cO3vxtUwynwDrmRUuU+Q/VBGHKI96fWvrdRs5Bec347vOM4ZYuuUqH3M1sCGYPOC+hGarR84X6XHNZjTiR2haP5HDlb3WdpWgi2EDLS3mF5U8WJyy5f+JQW3RZvprSqgFgqF4oINs0MsoH1pb7WBfrJ5UqP3zMlWYxvL1NuDxyd7Iih+S+9EaIgpZCCCLdxKckF1duHtjSlK8Nw9t4twaogO3k3QaTY4quAWGsWHVB44Dz5xdujPNDhEkCk2XUZruzmkZWAz7Poo=;ljU/9Q1FMuF6NazmuV8Ukg=="
+secured: "fb0e94wi+yqAop26FaBIdEQX0GN7lVULvSfBU9pb1bfZNaTzjq6HSCxTJiWsO4JDRB+ui+CqlvaYkEvt0+9eJBiMG0XLyC3c8WeXM23XA8dOKuKjWjwp+WNKO6j3LQtaFTi6uFIH3Rm3bSvNJQBZ0lbfzAYvXDen+YFMxQ8fYJCpgY8fN0b5x8qhVS00+Tl12WPHyLl7jpC7cRYm1ndWo22njmfuU8FEjDr1PJg+6kzfMdfX3nW7MP+zgJrjTot2z8KtAcBkVcs33eV7XRdCUokwhvvbNvhCcB0hJHwbMJM/Y/fnhi0FGS/lM3NZh4uJfdnZzt+6xpO1i4rSbBy+tAsEFW6UmKl8HZ/TemDrric=;Ec1wduaEsowR4hgOGvOTpg=="
 ---
 
