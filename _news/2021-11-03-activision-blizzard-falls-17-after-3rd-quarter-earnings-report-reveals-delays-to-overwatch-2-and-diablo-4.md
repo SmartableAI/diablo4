@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-excerpt: "\"It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.\" ..."
-publishedDateTime: 2021-11-03T08:15:47Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+publishedDateTime: 2021-11-03T08:18:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
 type: article
 quality: 69
 heat: -1
@@ -473,6 +473,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Scm1ZprTab8GWLOruAktvRLcoQ+gSoGijBcy21cx44dhAEynpCRjMavrS34Z8nlbmCGS9KX/QS20TEffd3oV+TFOJW9J7wpFyUfamBYdVIS4DkIUlpEWswCatemBZlJWuJuo//goF6ZU/ljHIjwx/HtqW1J/gaKbjru6mkRIFyW0L3KO3A/C3mvnRzAF6rGtDg5WAP0PYzFjKLhdP86db0x+OP/4FxpWM5eE0hMoT64FVZ68yspXxqNeadBP3dDR1lSxE3rnFNdK8xapHrfrYFhmC4vvmpTDSgqppx239rWoCVkYMMsRDwWsvsr+/RVlWUH6w5ET3WE3Xft09DJ1UBRt7UsTUnXscsrHTuq8fqw=;Q3d75qP1aAA2Br1yWlMBAA=="
+secured: "hjWxnJXnBEBEUlKHqY6iJJjGcl7XZXQFAt3eueyJnxdgirPg3H2d/ValTLKY6gtl3Vy0yqZF0DptxnAlf8U5waSIk/GqjCle6h0MpURtgaWID0PJSr586VTC2KMuH3Kv1P6nHilVsuAcV+I/pWDQ2YHA1S5kAIh7kE5z1gQzn024fJ0qhVX9R+Pk8ZNf7O4OykY3rJrH9RDOB3GNkGKYuDtLdu7xhKvgDfbN4HJ0lvubFeLN1/JsuXBIVZMdKaLrav8a90AY9SRP/yfS637OcL7HOBRL00p7GWkUByUTkTI3mn6DhB3nsiZB1oEX1171ergPXjm+7soYY8fpnYrQTgssI2J2oPZHwyqiGYGBlB4=;dbMBeR4a2wO+ujgqmQcs7w=="
 ---
 

@@ -463,9 +463,9 @@ related:
         height: 500
         isCached: true
   - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-    excerpt: "\"It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.\" ..."
-    publishedDateTime: 2021-11-03T08:15:47Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+    publishedDateTime: 2021-11-03T08:18:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
     type: article
     provider:
       name: Business Insider on MSN.com
@@ -477,6 +477,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EHa67TAxGlqgmZjxEzJsCKC+oIVuCEr9Bxszf4Ug81tjyiHCQbNDGdte/mpVHfrX/Cdz4bf6Kx5buFxHSPONNefz2zw8dL2X4Cv/PnzAOYHS5CvKwz9CUZ7iUWq59IzEZKYvIMYA7RwWzXoSyWb8txL3Pv21UHLVvyvurRFMMURE6P6Zj3Db9KN/v5OxIax9oCQwUBEmRtUrfB47PSZOabzIvx3lKbxidMeZDZwdzJQlVIwPqA+sSJKeTUNL1C+SP5bwNdmTuZZK73AIN1RNkDy3oyHA8gTCgxqySJfY0Huki0Ip4U5yvy+yqyZemSXg/F1ChY3SWzvmOzZXvyA7sBHMpMeCrEQMhARctR+mEUo=;NsQXu0JCW8tTuXLv8ahkMg=="
+secured: "9XEvt+E7owSwQ3DdQTNZAntZ8gKG517cPeUPKgpKmhsW8xtRCCTHxXGOcEAl/zGhc6QsyNTxOUpdv5NNAFBHZU+CnU2L+GRDTpDbYLGLYAqCA6M2twhCVKBec09nitK0KwKxobzk90HIREjwVFzLC+WCaqS/jcTkVMrjCl6vBGQGWCQ2NEmCZgFRPwff5qFt3WLKTMm3d9ozR97y1hn9SCu102NVA5+/vM39xBC1DbzZtGpzNZZYg2oOK0kshXq1m33sXOslosKWFhhdgebNISDwUHf6tWs6WJ0aWhExS7DxpAn8tXvPpYkx7D1BL84zIztYCkKBr2HjUbd5Uum1N/9LvWG3o5UdshFqbNlYuG4=;PKAGyLXGqvAfUGlj5HGVQQ=="
 ---
 

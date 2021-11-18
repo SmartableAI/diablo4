@@ -459,9 +459,9 @@ related:
         height: 500
         isCached: true
   - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-    excerpt: "\"It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.\" ..."
-    publishedDateTime: 2021-11-03T08:15:47Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
+    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
+    publishedDateTime: 2021-11-03T08:18:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
     type: article
     provider:
       name: Business Insider on MSN.com
