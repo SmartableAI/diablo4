@@ -36,36 +36,6 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
-      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
-      "title": "Diablo IV Barbarian Gameplay",
-      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M20S",
-      "provider": {
-        "name": "Gigio Gameplay",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-14T07:41:09-07:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
       "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -283,36 +253,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
-    },
-    {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
@@ -684,6 +624,36 @@
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
+      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
+      "title": "Diablo IV Barbarian Gameplay",
+      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M20S",
+      "provider": {
+        "name": "Gigio Gameplay",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-14T07:41:09-07:00"
+    },
+    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Barbarian Class Introduction [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -924,6 +894,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-06T00:10:51-08:00"
+    },
+    {
+      "path": "_games/more-than-games-diablo-4-gameplay-barbarian-later-beta-version.md",
+      "title": "Diablo 4 Gameplay Barbarian (Later beta version)",
+      "excerpt": "Walkthrough of the quest \"Light in the Dark\" for Barbarian. Later beta version of Diablo 4 (Blizzcon 2019) http://www.diablo.com.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/more-than-games-diablo-4-gameplay-barbarian-later-beta-version/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/more-than-games-diablo-4-gameplay-barbarian-later-beta-version/",
+      "originalUrl": "https://youtube.com/watch?v=CT8xNtErEpk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CT8xNtErEpk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M44S",
+      "provider": {
+        "name": "More Than Games",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CT8xNtErEpk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-03T00:44:11-07:00"
     }
   ],
   "nextPage": 2
