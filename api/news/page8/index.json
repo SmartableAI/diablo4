@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-04-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
+      "title": "Diablo IV Announce Cinematic | By Three They Come Reaction",
+      "excerpt": "There is indeed no audio in the reaction. I am so sorry but I have tried my best to salvage what I could. Check out the original video! Diablo IV Announce ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-iv-announce-cinematic-by-three-they-come-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-iv-announce-cinematic-by-three-they-come-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=pKF8Rx-S3tY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pKF8Rx-S3tY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pKF8Rx-S3tY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T10:38:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jen TCC",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
       "excerpt": "MP Gaming! Can't wait for this game to come out... ▻ My Merch: https://teespring.com/stores/matsu-patty Let's grow this channel together: ▻ Subscribe to my ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GorTheMovieGod",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019.md",
-      "title": "DIABLO 4 ANNOUNCEMENT LIVE REACTION! Blizzcon 2019!",
-      "excerpt": "We made it boys. It's here. :) Please remember to like, comment, share, and of course subscribe for more content. Follow me at: Twitch.tv/PrimetimeCP23 Twitter ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=pNlfvTUUhrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNlfvTUUhrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pNlfvTUUhrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:53:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PrimetimeCP23",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions.md",
+      "title": "Fans Could Discover New Diablo 4 Classes Through Region Descriptions",
+      "excerpt": "Apparently the various Diablo 4 classes will have strong relationships with the various regions that you’ll be passing through over the course of the game. While this hasn’t been confirmed ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions/index.json",
+      "webUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
+      "originalUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
+      "publishedDateTime": "2020-10-06T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
       "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
       "excerpt": "Diablo 4 is still very early in development, and likely won't release for years, but we already know quite a bit about Blizzard's dungeon-crawler thanks to substantive dev updates released every ...",
@@ -1064,48 +1106,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "StankkkFace Nation",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come REACTION",
-      "excerpt": "Do you want to start transforming your back posture? You can get your Perfect Posture Corrector https://rebrand.ly/PerfectPostureClub ✓ PATREON ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-05-23-diablo-iv-announce-cinematic-by-three-they-come-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-05-23-diablo-iv-announce-cinematic-by-three-they-come-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=K0CoKr7imkQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K0CoKr7imkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K0CoKr7imkQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-23T09:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Homies",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

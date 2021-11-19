@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021.md",
+      "title": "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021",
+      "excerpt": "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021/index.json",
+      "webUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
+      "originalUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 767,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-blizzcon-2021-dates-rumors-wow-classic-tbc-diablo-4-overwatch-2-more.md",
       "title": "Blizzcon 2021: Dates, Rumors, WoW Classic TBC, Diablo 4, Overwatch 2 & more",
       "excerpt": "Fans expect some huge things from Blizzcon 2021 - including Diablo 4, WoW Classic TBC, Overwatch 2, and other big possibilities. So what will we see during the 2-day event? Blizzcon 2021 will be a ...",
@@ -1052,48 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions.md",
-      "title": "Fans Could Discover New Diablo 4 Classes Through Region Descriptions",
-      "excerpt": "Apparently the various Diablo 4 classes will have strong relationships with the various regions that you’ll be passing through over the course of the game. While this hasn’t been confirmed ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions/index.json",
-      "webUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
-      "originalUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
-      "publishedDateTime": "2020-10-06T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

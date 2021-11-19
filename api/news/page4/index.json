@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-20-diablo-iv-rogue-announcement-reaction-blizzconline-2021.md",
+      "title": "Diablo IV - Rogue Announcement Reaction (BlizzConline 2021)",
+      "excerpt": "TrepChains reacting to the announcement of the Rogue at BlizzConline 2021. Full trailer available at: https://www.youtube.com/watch?v=LvrLZ4yETHI Credit: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-iv-rogue-announcement-reaction-blizzconline-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-diablo-iv-rogue-announcement-reaction-blizzconline-2021/",
+      "originalUrl": "https://youtube.com/watch?v=ItZgcPkuMxQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ItZgcPkuMxQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ItZgcPkuMxQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T23:17:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrepChains",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-blizzconline-2021-diablo-4-rogue-announcement-reaction-video.md",
       "title": "Blizzconline 2021 - Diablo 4  - Rogue Announcement Reaction Video!",
       "excerpt": "Hope you enjoyed the video. Don't forget to like and subscribe! Join me LIVE on Twitch at https://www.twitch.tv/thetruesmaugh​​ Merch: ...",
@@ -1038,57 +1080,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021.md",
-      "title": "Don't Expect Overwatch 2 or Diablo 4 to Launch in 2021",
-      "excerpt": "Activision-Blizzard told investors that Overwatch 2 and Diablo 4's launches are not expected to happen in 2021.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-04-dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021/index.json",
-      "webUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
-      "originalUrl": "https://www.ign.com/articles/dont-expect-overwatch-2-or-diablo-4-to-launch-in-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 767,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2020/03/18/echo-overwatch-blog-2-1584548358714.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
