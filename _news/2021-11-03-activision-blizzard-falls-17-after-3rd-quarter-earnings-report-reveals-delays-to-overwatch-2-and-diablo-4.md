@@ -246,20 +246,6 @@ related:
         width: 1328
         height: 740
         isCached: true
-  - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
-    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
-    publishedDateTime: 2021-11-03T00:23:00Z
-    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: yahoo.com
-    quality: 71
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "hjWxnJXnBEBEUlKHqY6iJJjGcl7XZXQFAt3eueyJnxdgirPg3H2d/ValTLKY6gtl3Vy0yqZF0DptxnAlf8U5waSIk/GqjCle6h0MpURtgaWID0PJSr586VTC2KMuH3Kv1P6nHilVsuAcV+I/pWDQ2YHA1S5kAIh7kE5z1gQzn024fJ0qhVX9R+Pk8ZNf7O4OykY3rJrH9RDOB3GNkGKYuDtLdu7xhKvgDfbN4HJ0lvubFeLN1/JsuXBIVZMdKaLrav8a90AY9SRP/yfS637OcL7HOBRL00p7GWkUByUTkTI3mn6DhB3nsiZB1oEX1171ergPXjm+7soYY8fpnYrQTgssI2J2oPZHwyqiGYGBlB4=;dbMBeR4a2wO+ujgqmQcs7w=="
 ---

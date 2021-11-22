@@ -236,20 +236,6 @@ related:
         width: 1328
         height: 740
         isCached: true
-  - title: "Activision Blizzard, Inc.: Diablo 4 and Overwatch 2 Delayed at Least Into 2023; Maintaining FVE at $97"
-    excerpt: "Find the latest Activision Blizzard, Inc (ATVI) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance ..."
-    publishedDateTime: 2021-11-03T00:23:00Z
-    webUrl: "https://finance.yahoo.com/research/reports/MS_0P00000053_AnalystReport_1635913451000?ncid=dcm_306416306_490172245_127172993"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: yahoo.com
-    quality: 71
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
     excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
     publishedDateTime: 2021-11-03T08:18:00Z
@@ -265,6 +251,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yeltze/BsUmWlY/deMDH40163V/snHcs87PQW/Xki029KftgkKLzAdJt6B+CitwbBath0iTMMECrrsk0zHpf+me8+dpOPQoaZTXlYX650lBCK+6ByimINZ9o7ek5K2C/k9bzoG/T3WqyHXqEK4eDBOWK5DsNStI3iSjea4Uki9iZEZPTeOfzRAPqFvF2FLcryZ/8PcY0i1Syauro5HeWBY4zMEtDHrAU0z8qE2Yj1U02MMQtmfkgUzpgYEDl19Rl9gU7Z6i7S4ZwxDpSQtfTch1TvwnT/oLRh9A9NxDnXAShZD8F3a1xjKY4/EsC2SW0lCWTpDTcbUFXgNQp3dpbfuGoNhlCTsziLPlxYFaeSHA=;debdieYdwv1L3IYKIp2D2w=="
+secured: "Ay/61/7Xmz5q0oWMEhdqK8jHXqH0ke4QxneHOL90QqDe6K24K7UYUPLO6HDzQn0pU3L04cJRdKtfxcfAu/j0I262GTkdqiIKM8aRfvs5EDjK4Zo8wsQmLxAmvhpbPAiRTMMCV2hAMPyISM4hUCYbdzrEt64xFku3wq73lUPSXSVWK6igJLZatwuZgXvYURXSTkwgxKyfBQ0ww+sdcInUvT1hY4UOjE53AUTLDnYkTrPs7Ij23nGNyKSUOHEphpR0YdDFMjHQz4Z2oIrTO/in6RLhRCDn7VzuhrqNZLOozSkTwi2AObPM+eVYUxM7CCakdU0TbCO79Z6VwrcyxHqN0wyTGvukubfL/yPoXiysHAI=;TAoii1OJb0RWX6XbU0negg=="
 ---
 
