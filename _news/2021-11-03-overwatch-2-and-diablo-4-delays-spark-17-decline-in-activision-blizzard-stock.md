@@ -126,22 +126,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 have been delayed to 2023"
-    excerpt: "We are confident that this is the right course of action for our people, our players and the long-term success of our franchises\" ..."
-    publishedDateTime: 2021-11-02T12:53:00Z
-    webUrl: "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/"
-    ampWebUrl: "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/amp/"
-    cdnAmpWebUrl: "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/amp/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 107
-    images:
-      - url: "https://www.videogameschronicle.com/files/2021/03/Overwatch-2.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 have been delayed"
     excerpt: "Activision Blizzard has announced Diablo 4 and Overwatch 2 will now arrive later \"than originally envisaged\", potentially pushing the launch of both titles into 2023 at the earliest. \"As we have ..."
     publishedDateTime: 2021-11-02T15:14:00Z
@@ -477,6 +461,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7e0GXYcZWSAKJriNALfgoD9lmMDM2yiOdFnUHN6I03xT+gc/ZnwTLU8PzxsWC17LbQeVaYMK2XQ8fg53bYcFBaYN6uDqDn111GFj1RemDddGQ6qfxLAQ+KGNCqyXX5G40dsJye1HEUUx8YXqGxqXcSip86oIrGV5gFSMkaFD+4yrmS/74fda7SJdqNtYqBliTH1OWQc2UpBZRqGWIuQfwkT6ZXS26fvJlEfrip2dGHurmxEPO5CrRMxwNz4xp1imdu1On5HLXLfGF/jMGb3Kg6FFc0QAkvlqlVSvGioH+W8var68+5FvUl5X1mSVuIE7E/N+9MkmAtey8yD1pN3yTyX3Catv8aTkpFGjcCaUk+c=;qtxEOa5MafR/10A+uLWSfA=="
+secured: "mHQ8K420j73Xo2Msml4h4YfnCelYy94kxbze5vNoYhRX1gNUGPV5Mr+OEjvTF7lGDyaCqK8+uDJBH+mnYM11CVTBux9rMXSwvH671Q7mu5BH3mfoMVh1vI7126vKuCc9F+ffNIo1UcMKkJkdFsTRf9pI9qXVAvpXQvm8fGwnWylSMCv4NnlAlOF/6ljixMrl7rGVHwNf0A5zCIeCeCNir8LM/vp8Iov11+Q7/dK7AFRd6i6uHJ4LNz8Gh0l5VwqwmjyFei/KGyTTorjAf2ZhHaAbtRp0fJ6qwUuFCyiQD4Pgcf+OsB9jTQwx4+KNxjsTnpeWaqpDgsW/h41Fn4DL/8tUu48W9uxgsaalxZqo4no=;Wq19EL7FY9nDZxiCHkx0ZQ=="
 ---
 

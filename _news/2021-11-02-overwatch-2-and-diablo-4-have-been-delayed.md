@@ -122,22 +122,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 have been delayed to 2023"
-    excerpt: "We are confident that this is the right course of action for our people, our players and the long-term success of our franchises\" ..."
-    publishedDateTime: 2021-11-02T12:53:00Z
-    webUrl: "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/"
-    ampWebUrl: "https://www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/amp/"
-    cdnAmpWebUrl: "https://www-videogameschronicle-com.cdn.ampproject.org/c/s/www.videogameschronicle.com/news/overwatch-2-and-diablo-4-have-been-delayed-to-2023/amp/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 107
-    images:
-      - url: "https://www.videogameschronicle.com/files/2021/03/Overwatch-2.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed as Blizzard meltdown continues"
     excerpt: "Another of Blizzard’s top execs has left the company, as its two biggest upcoming games are delayed until at least 2023."
     publishedDateTime: 2021-11-03T01:06:00Z
