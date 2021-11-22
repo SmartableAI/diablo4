@@ -42,22 +42,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "‘Overwatch 2’ and ‘Diablo 4’ catch delays after Blizzard scandals"
-    excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. READ MORE: Sexual harassment claims, lawsuits, and sev ..."
-    publishedDateTime: 2021-11-02T21:43:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 107
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2021/10/Overwatch-2.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed amid another Blizzard executive shake-up"
     excerpt: "Two of Blizzard’s big upcoming titles have been hit with delays. During its most recent financial earnings call with investors, Activision Blizzard announced that both Diablo 4 and Overwatch ..."
     publishedDateTime: 2021-11-03T08:40:00Z

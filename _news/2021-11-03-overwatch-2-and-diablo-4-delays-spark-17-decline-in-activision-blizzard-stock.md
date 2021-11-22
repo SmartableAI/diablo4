@@ -46,22 +46,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "‘Overwatch 2’ and ‘Diablo 4’ catch delays after Blizzard scandals"
-    excerpt: "Activision Blizzard is delaying both Overwatch 2 and Diablo 4, with no new release dates set for either title as of writing. READ MORE: Sexual harassment claims, lawsuits, and sev ..."
-    publishedDateTime: 2021-11-02T21:43:00Z
-    webUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094"
-    ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/overwatch-2-and-diablo-4-catch-delays-after-blizzard-scandals-3086094?amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 107
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2021/10/Overwatch-2.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 delayed as Blizzard meltdown continues"
     excerpt: "Another of Blizzard’s top execs has left the company, as its two biggest upcoming games are delayed until at least 2023."
     publishedDateTime: 2021-11-03T01:06:00Z
@@ -281,6 +265,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cywJLVE7aso8+vWv0qSE/eDoWl0Sf8/yL0fQcymulzvGvYMAvoR4PZEBWrYWkgi0+HWLLxZKmW2eYSeSQ7cK0PxdqfN4P27oXi/jhCRUxzAdn/3Lw8eHW22K5DkPJJGAfS8mr4hnyWqTXh5ZCmNfLp2zSU/srdz14TrtPeszweN0LOvde7WaZS1pYXT63a0/PpKs2i0d3AgIOCod6mDddKPWEqSKK1GOHQO/IIxUIn4X2KYzkHFozb6lbXxY5R46Yqcz1vesroPMSkEzurdwtdlXs9GMzEAeRT4RyXLniGZmLi/y7+EHPTMi3QXUvTygVCgJTH2Nx3jnB3zff5mWOm7dgBmZJLauJt4aFL5u9uw=;dnWGUMj/DBqKTkliIsA2qA=="
+secured: "yeltze/BsUmWlY/deMDH40163V/snHcs87PQW/Xki029KftgkKLzAdJt6B+CitwbBath0iTMMECrrsk0zHpf+me8+dpOPQoaZTXlYX650lBCK+6ByimINZ9o7ek5K2C/k9bzoG/T3WqyHXqEK4eDBOWK5DsNStI3iSjea4Uki9iZEZPTeOfzRAPqFvF2FLcryZ/8PcY0i1Syauro5HeWBY4zMEtDHrAU0z8qE2Yj1U02MMQtmfkgUzpgYEDl19Rl9gU7Z6i7S4ZwxDpSQtfTch1TvwnT/oLRh9A9NxDnXAShZD8F3a1xjKY4/EsC2SW0lCWTpDTcbUFXgNQp3dpbfuGoNhlCTsziLPlxYFaeSHA=;debdieYdwv1L3IYKIp2D2w=="
 ---
 
