@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed indefinitely; Activision Blizzard co-leader Jen Oneal announces departure"
-    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-    publishedDateTime: 2021-11-03T03:19:00Z
-    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
     excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
     publishedDateTime: 2021-11-03T06:36:00Z
@@ -101,20 +85,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
-    excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
-    publishedDateTime: 2021-11-03T04:45:00Z
-    webUrl: "https://www.pushsquare.com/news/2021/11/diablo-4-and-overwatch-2-delayed-seemingly-to-2023"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 87
-    images:
-      - url: "https://images.pushsquare.com/b41280a82edaf/1280x720.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Overwatch 2 and Diablo 4 are both delayed"
     excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
@@ -157,22 +127,6 @@ related:
       - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
         width: 880
         height: 490
-        isCached: true
-  - title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
-    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-    publishedDateTime: 2021-11-03T03:19:00Z
-    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
     excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."

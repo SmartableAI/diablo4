@@ -62,22 +62,6 @@ related:
         width: 1422
         height: 800
         isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed indefinitely; Activision Blizzard co-leader Jen Oneal announces departure"
-    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-    publishedDateTime: 2021-11-03T03:19:00Z
-    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Activision Blizzard Delays Diablo 4 and Overwatch 2 possibly to 2023"
     excerpt: "Activision Blizzard revealed during its Q3 2021 earnings report that it's delaying the launch of Diablo 4 and Overwatch 2 to a later date."
     publishedDateTime: 2021-11-03T08:04:00Z
@@ -105,20 +89,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Diablo 4 and Overwatch 2 Delayed, Seemingly to 2023"
-    excerpt: "In the company's latest quarterly financial report, it's stated that Diablo IV and Overwatch 2 have been pushed back. These two games are Blizzard's most hotly anticipated titles, and both have been ..."
-    publishedDateTime: 2021-11-03T04:45:00Z
-    webUrl: "https://www.pushsquare.com/news/2021/11/diablo-4-and-overwatch-2-delayed-seemingly-to-2023"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 87
-    images:
-      - url: "https://images.pushsquare.com/b41280a82edaf/1280x720.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Overwatch 2 and Diablo 4 are both delayed"
     excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
@@ -162,22 +132,6 @@ related:
         width: 880
         height: 490
         isCached: true
-  - title: "Activision Blizzard announces Overwatch 2 and Diablo 4 delays, co-leader Jen Oneal is leaving after just 3 months"
-    excerpt: "Neither the highly anticipated Diablo 4 nor Overwatch 2 had been given official release dates, but Activision Blizzard, during its recent third-quarter 2021 earnings call, said, ..."
-    publishedDateTime: 2021-11-03T03:19:00Z
-    webUrl: "https://www.techspot.com/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92054-overwatch-2-diablo-4-delayed-activision-blizzard-co.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-03-image.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
     excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."
     publishedDateTime: 2021-11-03T23:28:00Z
@@ -207,6 +161,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZZIUvYQLWZ+/9aDKI5VFoYpnFvreb/Qki41MYQSL6buTw0I4OKbka3nXLCCGvP1iTr0oUBszJ5r5tPCpNTQXYnFHFDlprB6R2quW3mg0TyaybiY2hotq3tfFZWbyclxSra4W7fPT/onYFoj6stwAUt85oMJzXMMMLwPD52C2N1hZrMCOBnVJbBcdSJGUJX57dPYRO7qEPBMtTqsV8/yxwo/p9JSykvAwf23xmCxWHlYG6HwFPWDUor6KFTjhOsQA2fMYAoAVoAJT5bxOhRYcCDKSCnxcNhwP1eGNg5zjjcf8foBtOHN4Cc1tM/+achhqd8XPw8ONsSourUX2c19ErR/V2XWy4fyOGJ8tPJE+bzA=;iD4pNmTSZtoWcpy9UIfiLA=="
+secured: "4Qk4SILVjkvajdt33jq3r7AzFkOdrorx1BAfMbnKjM3/izOo66HmlO+0hrjqqEJXb3gdbv2uZMvvB8egAN6C6ropEYvZ+EsQ58QimLXeaWIpIcTammJGM83jV4Bezx3JEtKV4nlnGEGT/0jrs2Qq2Mb4clT9VRzDDt+9/4uUgVrJmnldGt/RuaXrX9quQyvJppPq+YzhJVwyC0BNSv6ppqaOdVRr5sMPtc29MJeouHNe4hZkXn02loEsizW16PnBjw1PJFMAgo65aYKC8W9BGpWonSwt3SrJuY8RymzqfzxS78xtB/L+p7pgr98HHWVz1W/clVIiV66uNUdPx41jhRiZJwdqdTudBbQ73OZGgrs=;Zu6eRTRFLqRNkyxMr1JH4Q=="
 ---
 
