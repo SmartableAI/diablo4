@@ -7,7 +7,7 @@ originalUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delay
 webUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activision Blizzard delays the release of Overwatch 2 and Diablo 4 with no new release dates announced"
-    excerpt: "IN a recent development, Activision Blizzard has announced the delay of the release of both Overwatch 2 and Diablo 4. these two are Blizzard’s most anticipated releases of this year, and this is a ..."
-    publishedDateTime: 2021-11-03T23:28:00Z
-    webUrl: "https://technosports.co.in/2021/11/03/activision-blizzard-delays-the-release-of-overwatch-2-and-diablo-4-with-no-new-release-dates-announced/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 71
-    images:
-      - url: "https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/11/Activision-Blizzard-delays-the-release-of-Overwatch-2-and-Diablo-4-with-no-new-release-dates-announced_TechnoSports.co_.in_.jpg"
-        width: 1328
-        height: 740
-        isCached: true
   - title: "Gaming News #176 – Diablo 4 & Overwatch 2 Delay, Forza Horizon 5 Raving Reviews, The Book of Boba Fett Trailer"
     excerpt: "The past week brought about a healthy mix of gaming news. Sadly, there were some delays of highly anticipated games but we also got some sleeper hits, ..."
     publishedDateTime: 2021-11-04T10:17:00Z
