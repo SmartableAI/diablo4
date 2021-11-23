@@ -7,7 +7,7 @@ originalUrl: "https://www.keengamer.com/articles/news/gaming-news-176-diablo-4-o
 webUrl: "https://www.keengamer.com/articles/news/gaming-news-176-diablo-4-overwatch-2-delay-forza-horizon-5-raving-reviews-the-book-of-bobba-fett-trailer/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Diablo 4 and Overwatch 2 Are Both Officially Delayed!"
-    excerpt: "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ..."
-    publishedDateTime: 2021-11-04T02:15:00Z
-    webUrl: "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/"
-    type: article
-    provider:
-      name: eTeknix
-      domain: eteknix.com
-    quality: 87
-    images:
-      - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
-        width: 880
-        height: 490
-        isCached: true
 
 secured: "1CgLfhHbSdjVoL50z+bx6V0MzqiKR5ABWjbxPBX4JvkNjo5rKZgdmyZ1ijvrZrLuUPwHR1ARLcZhUfU5s2CK0hw6lTSbnlV90Oxkgf79LGadfMqj1wxT3ifIi/tczW10l+MSCDIAQZ8jQ/WL7tval4D/EuN+JC7xLsQRSP5W7hZzcavco0f5WByPwiwbpjwtXEnPydngsl1sTvshFWRF8zM5zkXIQnq3xCponuZUaQ7FNN7tBgH6P3XW3QZk+ThgIWp+Qp52kdsRROaMKmQNx1JhrP+ek3vZRDvAawv0SzO3g1UlKTu/52W6W+yir/v1R3EFXUaJew1YVNaPlRGVZJyaZ1DiT8mSzAkIXo55ny0=;Zesb+SzEEav16AIkWFYM1w=="
 ---
