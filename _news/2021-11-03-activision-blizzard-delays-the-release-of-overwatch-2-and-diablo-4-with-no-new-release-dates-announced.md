@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overwatch 2 and Diablo 4 are delayed"
-    excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
-    publishedDateTime: 2021-11-03T16:26:00Z
-    webUrl: "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 87
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/11/Overwatch2_Gameplay.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 and Overwatch 2 Are Both Officially Delayed!"
     excerpt: "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ..."
     publishedDateTime: 2021-11-04T02:15:00Z

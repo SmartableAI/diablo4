@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat.md",
+      "title": "xQc Reacts To ''Diablo IV - Official Announce Cinematic Trailer'' (With Chat)",
+      "excerpt": "Thanks for watching. Checkout xQc on twitch, twitter, & youtube! https://twitter.com/xQc, https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat/",
+      "originalUrl": "https://youtube.com/watch?v=G3hClbKD6u8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G3hClbKD6u8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G3hClbKD6u8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T18:26:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ReddCinema",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-04-diablo-4-announcement-cinematic-trailer-reaction.md",
       "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
       "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer We finally get the announcement we've all wanted, Diablo 4 and Lillith are ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Reaction.... What a trailer!",
-      "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. Turn On ALL ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=C5JpvvHIbCQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5JpvvHIbCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C5JpvvHIbCQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:48:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NeonReaperGaming",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

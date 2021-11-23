@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games.md",
+      "title": "What should Diablo 4 preserve from previous Diablo games?",
+      "excerpt": "If I were making my dream Diablo game, I know it would bring back the original trio of classes from the original Diablo and update them for a modern audien ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games/index.json",
+      "webUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
+      "originalUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/05/Baal-Header-Diablo.png",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
+      "publishedDateTime": "2021-07-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
       "title": "Diablo 4: Latest Classes Revealed",
       "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "Den Of Geek",
         "domain": "denofgeek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects.md",
-      "title": "Diablo 4 and Overwatch 2 Are Not Blizzard's Only Projects",
-      "excerpt": "One of the employees of Blizzard Entertainment - Ion Hazzikostas, i.e. the director of WoW - admitted in a press interview that apart from Diablo 4 and Overwatch 2, the aforementioned studio is also ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
-      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gracza.pl/i_gp/h/22/359540992.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=13058",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=13058",
-      "publishedDateTime": "2021-05-23T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
         "images": null,
         "publishers": null,
         "authors": null

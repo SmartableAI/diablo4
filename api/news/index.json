@@ -95,6 +95,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed.md",
+      "title": "Diablo 4 and Overwatch 2 Are Both Officially Delayed!",
+      "excerpt": "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed/index.json",
+      "webUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "originalUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg",
+          "width": 880,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-overwatch-2-and-diablo-4-are-delayed.md",
       "title": "Overwatch 2 and Diablo 4 are delayed",
       "excerpt": "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ...",
@@ -1078,48 +1120,6 @@
       "provider": {
         "name": "Pocket-lint",
         "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games.md",
-      "title": "What should Diablo 4 preserve from previous Diablo games?",
-      "excerpt": "If I were making my dream Diablo game, I know it would bring back the original trio of classes from the original Diablo and update them for a modern audien ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games/index.json",
-      "webUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
-      "originalUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/05/Baal-Header-Diablo.png",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
-      "publishedDateTime": "2021-07-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
         "images": null,
         "publishers": null,
         "authors": null
