@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-04-xqc-reacts-to-diablo-4-official-announcement-cinematic-trailer-with-chat.md",
+      "title": "XQC Reacts To Diablo 4 - Official Announcement Cinematic Trailer (WITH CHAT)",
+      "excerpt": "CLICK THIS IF YOU'RE PEPEGA: https://bit.ly/35BnN0k ▷Like And Subscribe! ▷ORIGINAL VIDEO: https://www.youtube.com/watch?v=0SSYzl9fXOQ&t=10s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-xqc-reacts-to-diablo-4-official-announcement-cinematic-trailer-with-chat/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-xqc-reacts-to-diablo-4-official-announcement-cinematic-trailer-with-chat/",
+      "originalUrl": "https://youtube.com/watch?v=NvTY9lmAkJI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NvTY9lmAkJI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NvTY9lmAkJI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T11:15:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Dose Of Pepega",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-04-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
       "title": "Diablo IV Announce Cinematic | By Three They Come Reaction",
       "excerpt": "There is indeed no audio in the reaction. I am so sorry but I have tried my best to salvage what I could. Check out the original video! Diablo IV Announce ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Vulkan",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch.md",
-      "title": "Diablo 4 Cinematic Announcement Trailer & Gameplay LIVE GROUP REACTION (Don't watch!)",
-      "excerpt": "Follow me on Twitter: http://www.twitter.com/gorthemoviegod BUSINESS ENQUIRIES: gorthemoviegod@hotmail.com Stardust: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/",
-      "originalUrl": "https://youtube.com/watch?v=Q1kr7Qzb71s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q1kr7Qzb71s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q1kr7Qzb71s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T13:27:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GorTheMovieGod",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

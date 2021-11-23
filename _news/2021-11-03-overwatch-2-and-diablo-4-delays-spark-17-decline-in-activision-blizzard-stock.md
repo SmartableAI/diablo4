@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/activision-blizzard-stock-price-over
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
 type: article
 quality: 103
-heat: -1
-published: false
+heat: 163
+published: true
 
 provider:
   name: Business Insider
@@ -30,52 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays"
-    excerpt: "Activision Blizzard's stock price started the day on Wednesday down by more than 14% on the New York Stock Exchange following an earnings release on Tuesday where the company announced delays for ..."
-    publishedDateTime: 2021-11-03T07:03:00Z
-    webUrl: "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 146
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 delayed amid another Blizzard executive shake-up"
-    excerpt: "Two of Blizzard’s big upcoming titles have been hit with delays. During its most recent financial earnings call with investors, Activision Blizzard announced that both Diablo 4 and Overwatch ..."
-    publishedDateTime: 2021-11-03T08:40:00Z
-    webUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/"
-    ampWebUrl: "https://www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/overwatch-2-and-diablo-4-delayed-amid-another-blizzard-executive-shake-up-03698023/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 106
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/Overwatch-2-main-artwork.jpg"
-        width: 1422
-        height: 800
-        isCached: true
-  - title: "Activision Blizzard Delays Diablo 4 and Overwatch 2 possibly to 2023"
-    excerpt: "Activision Blizzard revealed during its Q3 2021 earnings report that it's delaying the launch of Diablo 4 and Overwatch 2 to a later date."
-    publishedDateTime: 2021-11-03T08:04:00Z
-    webUrl: "https://www.cgmagonline.com/news/activision-delays-diablo-4-overwatch-2/"
-    type: article
-    provider:
-      name: Comics Gaming Magazine
-      domain: cgmagonline.com
-    quality: 87
-    images:
-      - url: "https://cdn.cgmagonline.com/wp-content/uploads/2021/11/news-activision-blizzard-delays-diablo-4-and-overwatch-2-possibly-to-2023-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 are delayed"
     excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
     publishedDateTime: 2021-11-03T16:26:00Z
@@ -118,21 +72,7 @@ related:
         width: 1328
         height: 740
         isCached: true
-  - title: "Activision Blizzard falls 17% after 3rd-quarter earnings report reveals delays to Overwatch 2 and Diablo 4"
-    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
-    publishedDateTime: 2021-11-03T08:18:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/activision-blizzard-falls-17-25-after-3rd-quarter-earnings-report-reveals-delays-to-overwatch-2-and-diablo-4/ar-AAQhmIq"
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 69
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAQh70I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "cTNKKfmp6XqysBh9GqrNIKSYDiRmIk9ZkLmy1DTgFf9aEIcKt/9hB1McrG0HcPs2i/nJcrqfI3sopXArVXr+99e3ceaNhI+nhKIwJS3XEUMNKeUYGnganaTmv6McSGEjRQeO43JqVliwAHiWwgoKTyoCk5QnA2mdlR2Rnntr/rZEHlNbuJBMSSrhtA2wVybiuhZcsSxrIrth9W1KT9jTUV0Br00XJC8/Q+rwxbmtJcBl3FXIl7j6+onqRDGu0kvIlRGIKztQnTJT2RfrnndYw8y1RDsYz+mCARJMyWgIdHrooIgVF7Nt8RnlZPPsqRp1wy19Z5mp+Nmo+4JPYxLedb3xTIhV8TqnNWieFw33zPk=;5oYSd9sxY/c/A4S4T5KTDQ=="
+secured: "L0yw2Vy925YyQQmaklVvGRcq4CfNdFzjvqlZFwJ4worPGORgegM/phmjoPgsCxqeNcVk6o5ijkgdT8cqtpHjc7W9tOBmU3C8VfVFex8lETEK8e/ANIPNUp7KU6eaphU7eYY3jPubB3OQeezTyGLDdpK6o4xUfkrfvWnepTHxljL+bloUf+lgY5JvMu4b4TtW0z/uLADoUjKH54CShbDoOqQu0p+xhb9CuumyXL0zJhC9VzQ3wX19gx4HKYOBGUt6lMb3dIP1ue/NgFrNctaXwgDJ1cnQeFkF+5H67hSJHM9ylsaWX7uUwRANVEAockVmiG2VzoLaQY5F0krB5GUCOnBJDe1PbgyGbOAUdoyaA3I=;JmSmdHpiYciC9q4cmNEaHQ=="
 ---
 

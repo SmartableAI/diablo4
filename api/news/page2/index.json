@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Girls react on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Reaction video on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 --------------------------------------------------------------------------------------- Original ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=5NNOMBHyTHQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5NNOMBHyTHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5NNOMBHyTHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T06:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "1.1 TWINS REACTIONS",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs.md",
       "title": "Diablo 4 interview: “Diablo is the apex of dark fantasy in ARPGs”",
       "excerpt": "Diablo is Blizzard’s darkest series. In the world of Sanctuary, humanity desperately etches out an existence for itself, harangued by demonic invasions and the will of angels. There’s a lot of death, ...",
@@ -1062,57 +1104,6 @@
         "name": "From Software",
         "domain": "gamingbolt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together.md",
-      "title": "Report: ‘Messed Up Planning’ Means ‘Overwatch 2’ And ‘Diablo 4’ May Release Together",
-      "excerpt": "Diablo 4 and Overwatch 2 are coming, but if they launch together, that could mean another massive gap for Blizzard afterward.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/amp/",
-      "publishedDateTime": "2021-05-22T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
