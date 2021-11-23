@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-04-diablo-4-announcement-cinematic-trailer-reaction.md",
+      "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
+      "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer We finally get the announcement we've all wanted, Diablo 4 and Lillith are ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=XeMjbO6csRg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XeMjbO6csRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XeMjbO6csRg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T12:15:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ricktator",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-04-xqc-reacts-to-diablo-4-official-announcement-cinematic-trailer-with-chat.md",
       "title": "XQC Reacts To Diablo 4 - Official Announcement Cinematic Trailer (WITH CHAT)",
       "excerpt": "CLICK THIS IF YOU'RE PEPEGA: https://bit.ly/35BnN0k ▷Like And Subscribe! ▷ORIGINAL VIDEO: https://www.youtube.com/watch?v=0SSYzl9fXOQ&t=10s ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "NeonReaperGaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more.md",
-      "title": "DIABLO 4 ANNOUNCED! Classes, Progression, Loot, Mounts, SHARED WORLD & More!",
-      "excerpt": "Blizzard opened up Blizzcon 2019 with a bang! They immediately dove into Diablo 4 and showed off a cinematic and gameplay footage. Diablo 4 is shaping up ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more/",
-      "originalUrl": "https://youtube.com/watch?v=ETfO1wSe5qc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ETfO1wSe5qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ETfO1wSe5qc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:25:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vulkan",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

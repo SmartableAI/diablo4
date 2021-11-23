@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on.md",
+      "title": "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on",
+      "excerpt": "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
+      "originalUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
+      "publishedDateTime": "2021-05-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together.md",
       "title": "Report: ‘Messed Up Planning’ Means ‘Overwatch 2’ And ‘Diablo 4’ May Release Together",
       "excerpt": "Diablo 4 and Overwatch 2 are coming, but if they launch together, that could mean another massive gap for Blizzard afterward.",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine.md",
-      "title": "Diablo 4’s rogue revealing trailer was shown in the game engine",
-      "excerpt": "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/index.json",
-      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
-      "publishedDateTime": "2021-02-20T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
         "images": null,
         "publishers": null,
         "authors": null

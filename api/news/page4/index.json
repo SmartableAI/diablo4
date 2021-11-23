@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine.md",
+      "title": "Diablo 4’s rogue revealing trailer was shown in the game engine",
+      "excerpt": "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/index.json",
+      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
+      "publishedDateTime": "2021-02-20T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4.md",
       "title": "You can turn off enemy glow in Diablo 4",
       "excerpt": "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ...",
@@ -1044,48 +1086,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-diablo-4-will-not-release-this-year.md",
-      "title": "Diablo 4 Will Not Release This Year",
-      "excerpt": "Everyone knows about the Diablo franchise as it’s an iconic dungeon crawler and over the years we’ve seen three mainline installments to enjoy. It was during BlizzCon 2019 that we got the confirmation ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-05-diablo-4-will-not-release-this-year/index.json",
-      "webUrl": "https://gameranx.com/updates/id/216689/article/diablo-4-will-not-release-this-year/",
-      "originalUrl": "https://gameranx.com/updates/id/216689/article/diablo-4-will-not-release-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
-          "width": 1148,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
         "images": null,
         "publishers": null,
         "authors": null

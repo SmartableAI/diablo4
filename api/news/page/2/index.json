@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
+      "title": "Diablo 4: Latest Classes Revealed",
+      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
+      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
+      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T23:14:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GiveMeSport on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
       "title": "Girls react on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
       "excerpt": "Reaction video on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 --------------------------------------------------------------------------------------- Original ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on.md",
-      "title": "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on",
-      "excerpt": "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
-      "originalUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
-      "publishedDateTime": "2021-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
         "images": null,
         "publishers": null,
         "authors": null

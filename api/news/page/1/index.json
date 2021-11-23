@@ -95,6 +95,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-overwatch-2-and-diablo-4-are-delayed.md",
+      "title": "Overwatch 2 and Diablo 4 are delayed",
+      "excerpt": "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-overwatch-2-and-diablo-4-are-delayed/index.json",
+      "webUrl": "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/",
+      "originalUrl": "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/11/Overwatch2_Gameplay.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-overwatch-2-and-diablo-4-delays-spark-17-decline-in-activision-blizzard-stock.md",
       "title": "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock",
       "excerpt": "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ...",
@@ -103,7 +145,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1078,48 +1120,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
-      "title": "Diablo 4: Latest Classes Revealed",
-      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T23:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GiveMeSport on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

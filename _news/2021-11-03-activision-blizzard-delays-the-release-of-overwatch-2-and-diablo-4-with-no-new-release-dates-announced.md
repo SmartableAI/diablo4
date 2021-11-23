@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock"
-    excerpt: "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ..."
-    publishedDateTime: 2021-11-03T09:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11"
-    ampWebUrl: "https://www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/6182a79723745d001824d68a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 are delayed"
     excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
     publishedDateTime: 2021-11-03T16:26:00Z
@@ -67,6 +51,20 @@ related:
       - url: "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg"
         width: 880
         height: 490
+        isCached: true
+  - title: "Gaming News #176 – Diablo 4 & Overwatch 2 Delay, Forza Horizon 5 Raving Reviews, The Book of Boba Fett Trailer"
+    excerpt: "The past week brought about a healthy mix of gaming news. Sadly, there were some delays of highly anticipated games but we also got some sleeper hits, ..."
+    publishedDateTime: 2021-11-04T10:17:00Z
+    webUrl: "https://www.keengamer.com/articles/news/gaming-news-176-diablo-4-overwatch-2-delay-forza-horizon-5-raving-reviews-the-book-of-bobba-fett-trailer/"
+    type: article
+    provider:
+      name: keengamer.com
+      domain: keengamer.com
+    quality: 67
+    images:
+      - url: "https://www.keengamer.com/wp-content/uploads/2021/11/Gaming-News-176.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "fb0e94wi+yqAop26FaBIdEQX0GN7lVULvSfBU9pb1bfZNaTzjq6HSCxTJiWsO4JDRB+ui+CqlvaYkEvt0+9eJBiMG0XLyC3c8WeXM23XA8dOKuKjWjwp+WNKO6j3LQtaFTi6uFIH3Rm3bSvNJQBZ0lbfzAYvXDen+YFMxQ8fYJCpgY8fN0b5x8qhVS00+Tl12WPHyLl7jpC7cRYm1ndWo22njmfuU8FEjDr1PJg+6kzfMdfX3nW7MP+zgJrjTot2z8KtAcBkVcs33eV7XRdCUokwhvvbNvhCcB0hJHwbMJM/Y/fnhi0FGS/lM3NZh4uJfdnZzt+6xpO1i4rSbBy+tAsEFW6UmKl8HZ/TemDrric=;Ec1wduaEsowR4hgOGvOTpg=="
