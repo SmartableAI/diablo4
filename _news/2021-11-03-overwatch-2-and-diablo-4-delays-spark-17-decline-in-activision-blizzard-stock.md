@@ -76,34 +76,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
-    excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
-    publishedDateTime: 2021-11-03T06:36:00Z
-    webUrl: "https://knowtechie.com/blizzard-says-overwatch-2-and-diablo-4-wont-be-here-until-2023/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 87
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 are both delayed"
-    excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
-    publishedDateTime: 2021-11-03T05:12:00Z
-    webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 87
-    images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Overwatch 2 and Diablo 4 are delayed"
     excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
     publishedDateTime: 2021-11-03T16:26:00Z
@@ -161,6 +133,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4Qk4SILVjkvajdt33jq3r7AzFkOdrorx1BAfMbnKjM3/izOo66HmlO+0hrjqqEJXb3gdbv2uZMvvB8egAN6C6ropEYvZ+EsQ58QimLXeaWIpIcTammJGM83jV4Bezx3JEtKV4nlnGEGT/0jrs2Qq2Mb4clT9VRzDDt+9/4uUgVrJmnldGt/RuaXrX9quQyvJppPq+YzhJVwyC0BNSv6ppqaOdVRr5sMPtc29MJeouHNe4hZkXn02loEsizW16PnBjw1PJFMAgo65aYKC8W9BGpWonSwt3SrJuY8RymzqfzxS78xtB/L+p7pgr98HHWVz1W/clVIiV66uNUdPx41jhRiZJwdqdTudBbQ73OZGgrs=;Zu6eRTRFLqRNkyxMr1JH4Q=="
+secured: "cTNKKfmp6XqysBh9GqrNIKSYDiRmIk9ZkLmy1DTgFf9aEIcKt/9hB1McrG0HcPs2i/nJcrqfI3sopXArVXr+99e3ceaNhI+nhKIwJS3XEUMNKeUYGnganaTmv6McSGEjRQeO43JqVliwAHiWwgoKTyoCk5QnA2mdlR2Rnntr/rZEHlNbuJBMSSrhtA2wVybiuhZcsSxrIrth9W1KT9jTUV0Br00XJC8/Q+rwxbmtJcBl3FXIl7j6+onqRDGu0kvIlRGIKztQnTJT2RfrnndYw8y1RDsYz+mCARJMyWgIdHrooIgVF7Nt8RnlZPPsqRp1wy19Z5mp+Nmo+4JPYxLedb3xTIhV8TqnNWieFw33zPk=;5oYSd9sxY/c/A4S4T5KTDQ=="
 ---
 

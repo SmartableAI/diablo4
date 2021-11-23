@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/activision-blizzard-stock-pric
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/"
 type: article
 quality: 146
-heat: 326
+heat: 286
 published: true
 
 provider:
@@ -75,34 +75,6 @@ related:
       - url: "https://cdn.cgmagonline.com/wp-content/uploads/2021/11/news-activision-blizzard-delays-diablo-4-and-overwatch-2-possibly-to-2023-2.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Blizzard says Overwatch 2 and Diablo 4 won’t be here until 2023"
-    excerpt: "Activision Blizzard has found itself in the spotlight after the revelation of a toxic workplace environment lawsuit in July that included sexual harassment and unequal pay for women. Now, the highly ..."
-    publishedDateTime: 2021-11-03T06:36:00Z
-    webUrl: "https://knowtechie.com/blizzard-says-overwatch-2-and-diablo-4-wont-be-here-until-2023/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 87
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/02/blizzard-activision-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Overwatch 2 and Diablo 4 are both delayed"
-    excerpt: "Activision Blizzard have announced that both Overwatch 2 and Diablo 4 are delayed, pushed out from 2022 into 2023 at earliest."
-    publishedDateTime: 2021-11-03T05:12:00Z
-    webUrl: "https://www.rockpapershotgun.com/overwatch-2-and-diablo-4-are-both-delayed"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 87
-    images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-4-campfire.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-campfire.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Overwatch 2 and Diablo 4 are delayed"
     excerpt: "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ..."
