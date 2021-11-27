@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
-      "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
-      "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xgeRjVpx3xw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xgeRjVpx3xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "Ecxoes Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xgeRjVpx3xw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-02T05:00:34-07:00"
-    },
-    {
       "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
       "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
       "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
@@ -186,26 +156,26 @@
       "publishedDateTime": "2020-02-16T17:31:17-08:00"
     },
     {
-      "path": "_games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
-      "title": "Diablo 4: Sorceress Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
-      "excerpt": "The Diablo 4 sorceress Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
-      "originalUrl": "https://youtube.com/watch?v=9FK923_Wjbg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9FK923_Wjbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M23S",
+      "path": "_games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more.md",
+      "title": "Diablo 4: Barbarian Gameplay Trailer TOTAL BREAKDOWN - Skills, Abilities, Locations, Items & MORE!",
+      "excerpt": "The Diablo 4 Gameplayer trailer revealed alot about the class, but what did you miss? If you enjoyed this video please consider subscribing: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/",
+      "originalUrl": "https://youtube.com/watch?v=PRYtIiFs0Wc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M2S",
       "provider": {
         "name": "Game LORE Dash",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Barbarian"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9FK923_Wjbg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PRYtIiFs0Wc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -213,7 +183,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-12-02T22:04:16-08:00"
+      "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
       "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
@@ -275,6 +245,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
+    },
+    {
+      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
+      "title": "Diablo IV Barbarian Gameplay",
+      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M20S",
+      "provider": {
+        "name": "Gigio Gameplay",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-14T07:41:09-07:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
