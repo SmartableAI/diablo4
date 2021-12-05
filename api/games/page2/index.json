@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
-      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
-      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
-      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
-      "provider": {
-        "name": "Fallen",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-01T03:55:57-07:00"
-    },
-    {
       "path": "_games/future-gaming-with-oliver-a-staley-diablo-iv-sorceress-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley.md",
       "title": "Diablo IV Sorceress Gameplay Part 1 1080p/HD Future Gaming With Oliver A Staley",
       "excerpt": "Diablo IV, Future Gaming With Oliver A Staley (Footage Courtesy Of Game Informer)",
@@ -907,6 +877,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-03T00:44:11-07:00"
+    },
+    {
+      "path": "_games/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid.md",
+      "title": "DIABLO 4 GAMEPLAY AND TRAILER - BARBARIAN , SORCERER & DRUID",
+      "excerpt": "DIABLO 4 GAMEPLAY AND TRAILER - BARBARIAN , SORCERER & DRUID In Diablo IV, we'll be adventuring through Scosglen, the Druid homeland, as Lillith ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/online-gaming-tv-channel-diablo-4-gameplay-and-trailer-barbarian-sorcerer-druid/",
+      "originalUrl": "https://youtube.com/watch?v=IJvA3PPOzUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IJvA3PPOzUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
+      "provider": {
+        "name": "Online-Gaming-TV-Channel",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IJvA3PPOzUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-01-05T07:41:20-08:00"
     }
   ],
   "nextPage": 3
