@@ -15,6 +15,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "NdhV5bkuxQ4IREHYCEiixqXZ1L/8peRW1IplcMuyArIZw4G0d/jLVGTEad5KNZv6iZF1m2Nr2rlh7BzIOUp7DVRzuY32VqeoKrlRX+yr9qI5faut39w2Sv8uPVHuf3Ho494/sdjJ7ojoaY+CPv4iQRelMx0SYQrtFaflOdWvfEkwjVUUbz/YpCbMRcAor1B9pElHhG9BJtKhtxkkxlYBBfiu/tENG0zsbBbF+EJ2O7r4a8BTeDTUQnY9bVXLNkAO6d68xt2QqK9qmBlBEh2UXZc4QpiC1UXwMY2eO9ZKy2r+EPkMw0KYmr1r9IzaB4nfh1px9BHl78KZDkX9T4muN2ApRVnpTTZ4oy8INLRPeCySdaVq6FoBKlMUFWMj4wowjbfHxs63D8q5ozQCj65nAg==;gwVBVJYmvm3PyuZUakBmvw=="
+images:
+  - url: "https://i.ytimg.com/vi/2WdVc8J3_YU/maxresdefault.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "CtaaO9WswwdSaVgLK3U0PNbJLLD7v8VZgOuJXNB4RbRzO8mSfN1GdiCLd6pjxFcPq0Q6dYr5CjXy6GPMa4e6AT4RXgTgfXTMQppaZb0dOrZVww7ed3GXy5cFcoSSdQBvEUPHewq+miSFFt39FEhkyNeqvu2omjQwDK8KbhM4uooboLUMhYz5CyYw4gLW+6Q6PAQiNi7gVQ5HtkS5pVurkdD6vbmByFtjD4UzFUjjo4C4ZSHVZmbsl/g0lPmHF8s+XkvcnajeHrM5DeNdZ8dNnwvSPBB15dJ8hLqUjtzlbGfO9/Q9lMi3GRiWcgQkJmOOrzIy7XjAQqZmYU9zr7EsjlJERpqqL0zvz06aiO9pZmxcZiUftzr5aR8NyquiRgOV9KFD2H5dR3ikjBshAqxEPg==;TA6WqDWmCRN5/BEhv1dt3g=="
 ---
 
