@@ -315,6 +315,37 @@
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
     },
     {
+      "path": "_games/arabic-diablo3-3-diablo-iv-barbarian-sorcerer-druid-gameplay.md",
+      "title": "Diablo IV - Barbarian, Sorcerer, Druid Gameplay",
+      "excerpt": "تجربة شخصيات ديابلو4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arabic-diablo3-3-diablo-iv-barbarian-sorcerer-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arabic-diablo3-3-diablo-iv-barbarian-sorcerer-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=D-H_6zNym2g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D-H_6zNym2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M6S",
+      "provider": {
+        "name": "Arabic Diablo3 - ديابلو 3",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D-H_6zNym2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-05T23:00:49-08:00"
+    },
+    {
       "path": "_games/bajheera-diablo-4-druid-barbarian-gameplay-blizzcon-2019-demo-w-warcraftjen.md",
       "title": "Diablo 4: Druid / Barbarian Gameplay - Blizzcon 2019 Demo w/ Warcraftjen",
       "excerpt": "Twitch - http://www.twitch.tv/bajheera Twitter - https://twitter.com/BajheeraWoW Instagram - https://Instagram.com/BajheeraWoW Facebook ...",
@@ -898,36 +929,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-04-08T13:15:48-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING",
-      "excerpt": "NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING The Druid is a savage shapeshifter, fluidly transforming between the forms of a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=-N605UTTviU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-N605UTTviU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M21S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-N605UTTviU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-08T17:39:28-07:00"
     }
   ],
   "nextPage": 2
