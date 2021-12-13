@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV campfire, combining range and ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ..."
 publishedDateTime: 2021-02-19T22:43:03Z
 originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
 type: video
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "G5I1K4ushlSehcsztKfgwugRnk2nZc0Ybd6XxSpaHr4iwn9udZOEMXTd6mWWlYfCucsjqaxDXgSDlW5qykfi4mBTljduw4d9IzbFUOu4x6HVvOT9ZnJ+cxLh7BUli3XMvvWORsZ6IYLxgrYkRbf4XyCLpEDhn2b/veS4+6SG+9yhqp7OFJf+DOd4u3kmFsyGWdzjFYM5PCoMIVe4pzAWamAgs2WOXqnb8rYDy/NAcsWb1AK3Mk2YnqLldAjB1GoT3b/EPBTuKtVzfnQcol59wJZ+76xtOdT8unx9YuoYo2P2lNpCbJpc2eBHHKPPN33J7n1nZMdskrle5kkX3qTNN+Bd4MChPtam+VA0CSyq3GLv/m7aKG2kkidbSxWH5Zgmyc2FL/MlesFBPmztEJa4Ug==;BC7o1IqBjnOFYfKuUZBn1w=="
+secured: "j3QWnEE8HkXHPFAYtDNZMb8g7CviPGGynZOrA4qO8p2dKfmepdOpLHUGtuxlNK4TkIiDVvVIQehbPPWxufLRK3VALtPtFR8OycneAjAwiq4Y2RroNtDDSP0fsHrwc8wLkBD0NRU3P9Y6MXTFZwSGfJLMaBNgxuywtkm9Y7dBIujxxh5htxZKLMk7nTR22m810OxokKoFoum/O7kbE6uBiM455YTnC87REp9Kql1EKp5P70RxdHMK2hlUZiOVap0e5N1pWEPybNmrUe6bNv6cJMISnjAO0Z35MAW8lTdUaf867MUEJ1khcpX3oDuBBtvOyq29uesqhep1rvVwVz8C3Ia6gRsb0IS7XGLIjSciFUSxqDiGXmTE+TY7s/izHtxQIvNge3LydPy8bbdoddm1KA==;ANVMxZuql7xEzUuOMSvqHA=="
 ---
 
