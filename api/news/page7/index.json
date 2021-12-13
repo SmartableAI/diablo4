@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content.md",
+      "title": "Blizzard Drops Major 'Diablo 4' Updates On Gameplay, Open-World And Side Content",
+      "excerpt": "Blizzard released a handful of details about the \"Diablo 4\" Updates focus on gameplay, open-world and more \"Diablo 4\" is one of the most anticipated games from Blizzard Gaming studio Blizzard shared a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content/index.json",
+      "webUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
+      "originalUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/09/04/diablo-3-ps3.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
+      "publishedDateTime": "2020-06-26T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-diablo-iv-quarterly-updatejune-2020.md",
       "title": "Diablo IV Quarterly Update—June 2020",
       "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. Take a look at elements of the team playtest milestone, including blockout, storytelling, open world gameplay, multiplayer, items, progression, and more.",
@@ -1046,48 +1088,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Garfm",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACTION",
-      "excerpt": "Diablo4 Welcome back to another reaction video from J Boogie Enjoy the reaction video Original Video: https://m.youtube.com/watch?v=0SSYzl9fXOQ Comment ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=6UAYdz5RMfA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6UAYdz5RMfA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6UAYdz5RMfA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-04T21:30:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "J Boogie Crew",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

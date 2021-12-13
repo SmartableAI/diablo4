@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACTION",
+      "excerpt": "Diablo4 Welcome back to another reaction video from J Boogie Enjoy the reaction video Original Video: https://m.youtube.com/watch?v=0SSYzl9fXOQ Comment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=6UAYdz5RMfA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6UAYdz5RMfA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6UAYdz5RMfA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T21:30:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "J Boogie Crew",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat.md",
       "title": "xQc Reacts To ''Diablo IV - Official Announce Cinematic Trailer'' (With Chat)",
       "excerpt": "Thanks for watching. Checkout xQc on twitch, twitter, & youtube! https://twitter.com/xQc, https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww, ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "BlueSpartan",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now.md",
-      "title": "Diablo 4 Announced at BlizzCon 2019 - IGN Now",
-      "excerpt": "Diablo 4 was the first announced game at this year's BlizzCon, which is a good thing considering how anticipated it was prior to last year's BlizzCon (to much fan ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now/",
-      "originalUrl": "https://youtube.com/watch?v=0o5w_WhMEFk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0o5w_WhMEFk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0o5w_WhMEFk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T15:31:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

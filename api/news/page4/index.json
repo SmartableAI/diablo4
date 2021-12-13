@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
+      "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
+      "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=XmMAmltgdwA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmMAmltgdwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XmMAmltgdwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-21T06:58:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Accolonn",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-diablo-4-confirms-more-routine-updates-coming-in-2021.md",
       "title": "Diablo 4 Confirms More Routine Updates Coming In 2021",
       "excerpt": "Much as it did last year, Blizzard has confirmed that it will be doing quarterly updates for Diablo 4 over the course of 2021. Speaking to us here at ComicBook.com, Diablo 4’s L ...",
@@ -1054,48 +1096,6 @@
       "topics": [
         "Diablo 4",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more.md",
-      "title": "Last Epoch Dev Talks About Multiplayer, Raytracing, Diablo 4, PoE 2 and More",
-      "excerpt": "Last Epoch is the product of indie developer Eleventh Hour Games with a pretty straightforward goal of becoming \"the next great action role-playing game\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more/index.json",
-      "webUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
-      "originalUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2021/02/Last-Epoch-Undead.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
-      "publishedDateTime": "2021-02-09T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],
