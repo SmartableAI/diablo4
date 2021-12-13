@@ -392,6 +392,48 @@
       ]
     },
     {
+      "path": "_news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come.md",
+      "title": "Diablo IV Announce Cinematic | By Three They Come",
+      "excerpt": "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/",
+      "originalUrl": "https://youtube.com/watch?v=0vE3rAjtqUY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T12:01:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Clips And Tips",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-announce-cinematic-by-three-they-come-official-2020-game-hd.md",
       "title": "Diablo 4 | Announce Cinematic - By Three They Come | Official 2020 Game HD",
       "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike.",
@@ -630,48 +672,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come",
-      "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/",
-      "originalUrl": "https://youtube.com/watch?v=9bRWIdOMfro",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9bRWIdOMfro/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T11:05:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diablo",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
