@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo IV Announce Cinematic | By Three They Come"
-excerpt: "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo."
-publishedDateTime: 2019-11-01T19:01:45Z
-originalUrl: "https://youtube.com/watch?v=0vE3rAjtqUY"
+excerpt: "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High ..."
+publishedDateTime: 2019-11-01T18:05:30Z
+originalUrl: "https://youtube.com/watch?v=9bRWIdOMfro"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Game Clips And Tips
+  name: Diablo
   domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg"
+  - url: "https://i.ytimg.com/vi/9bRWIdOMfro/maxresdefault.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "XOsc6Ac5F5hAbchDfdwiC06hd7xV4kuw3oVswsFzNyVPYXQ9Nu5HwyIJbu2T5aON3M89HRX8TJY6O4kpgKO5S0bnfjEM62Zonke7elJMtWbfJduywBOrJebN7WyN/Mi0uWluh1NCdtBMDf1Jq4fIbXu/n/AK7Id1BvFOktxaurldsPrv6E/wTNpALE2VeybbbwSEoAQbIka2zOgudcfLV8tADxUovjYa18hd4y05GI+auZFnhgD/8yi/1j86CbqglIE6M3HduWcGnT3n60rkQMlXqDeIoDWxb7tA+wADnqR81QvSDwQNoG9PpLkUYUXTwtlkNHr3IKqfqGTkwnp4Y5wz6Y+J/OwrmLez/tKlAuMzTuFrKf9rIcU2ybpm87KwdW1Ld77U0Mf3NeXZvkoAQA==;msS278t5NLuBEgZ4d7fFpg=="
+secured: "4TnoPVNLyr05cPgVX06s/SLYWYNd1QSoGaBgXqBBi6tOR7aGtyTePeiMXgRpltt8nE5PO1reF9+7ikN9v7yF7tBx6uDym1fq0G3Dj1UXSLDYltHvRGinlg3+SYKL6xLN3q57keiBeLzqeR/1PjfBGowaihwf3qY2GaLzHJ0KFrBI3vLwP8j7w+lse15ykE6dMHa67z0dyJ4SF/yezGEkbtw7Tjr81DrfV5YGu1jUA7RhRZGM8UsgIrkRrAbK7LLgvJBFjEqW4WDzYyp9jxKPPgQVEWNtYMe9jnODh40+Fwk6SJFvfEvXyaUEjexodru9WP8eIyINqtAt+/CI30UCccjNKbHGx4oVbsV0AkZu5LRiglL4lWOGw1Bm6X5bzw4Me4sCXkrCQHWO+wcDxVW15g==;gQAE9zT7Ph9mtzvWcaGKNQ=="
 ---
 
