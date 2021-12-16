@@ -216,6 +216,36 @@
       "publishedDateTime": "2021-11-19T03:15:12-08:00"
     },
     {
+      "path": "_games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021.md",
+      "title": "New MustWatch - Diablo IV Barbarian Official Gameplay 2021",
+      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/",
+      "originalUrl": "https://youtube.com/watch?v=cCVfdPQYJhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cCVfdPQYJhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M42S",
+      "provider": {
+        "name": "Games Recap",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cCVfdPQYJhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-01T13:19:34-07:00"
+    },
+    {
       "path": "_games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021.md",
       "title": "Newest -Diablo IV Sorceress Official Gameplay 2021",
       "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
@@ -877,36 +907,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-10T21:43:43-08:00"
-    },
-    {
-      "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
-      "title": "diablo 4 gameplay barbarian no commentary,",
-      "excerpt": "diablo 4 gameplay 2021, diablo 4 gameplay reaction, diablo 4 gameplay 4k, diablo 4 gameplay android, diablo 4 gameplay barbarian, diablo 4 gameplay ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=Ejkex6VOqjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ejkex6VOqjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M57S",
-      "provider": {
-        "name": "Mahariya gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ejkex6VOqjc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-06T00:10:51-08:00"
     }
   ],
   "nextPage": 3
