@@ -32,6 +32,15 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Diablo 4 quarterly update details Legendary items and endgame progression"
+    excerpt: "More insight into the mechanics players will get to know in-game. What you need to know Blizzard Entertainment is sharing quarterly updates on the development of Diablo 4. This update focuses on how ..."
+    publishedDateTime: 2021-12-20T13:23:43Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-quarterly-update-details-legendary-items-and-endgame-progression/ar-AAS0fBi"
+    type: article
+    provider:
+      name: Windows Central on MSN.com
+      domain: msn.com
+    quality: 66
 
 secured: "VsFiHxnOG5v7b/rWaKiT6ENEzfd4JDFU3/b5Czk8GNbxGKJxohdbLG/Cdm0hWrlZmUIYEYapyEGvZOkXFFHgmu++fOQ4v2GDW3tS2+FG84QRjLZtGDCbDaI0BlOjuiCTFlkd/6dlv3MbXFWCrEONDPDkMBfAM1brUvxofInZPiDf5YQ4MUsZurGhE2Fo/Rdxp5R5TRBF9dKhD+XtC8Jnyu4pX3ZSRqm0QACORUse2Mo9w/Yv8FIfpymEWk9OrD3rwkQeWeoph6Us3z3jYQFcxfYyFfuT1aDpIRZ7Qd8YWDNUdT7LIPkQkst6wsXgx3duz5s+4t/PbyhnxKgNh71MPDb2W6E+pJquzylZ9owPUxs=;Myi85N92zR9htw8528HpSw=="
 ---

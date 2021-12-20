@@ -1,0 +1,47 @@
+---
+category: news
+title: "Diablo 4 quarterly update details Legendary items and endgame progression"
+excerpt: "More insight into the mechanics players will get to know in-game. What you need to know Blizzard Entertainment is sharing quarterly updates on the development of Diablo 4. This update focuses on how ..."
+publishedDateTime: 2021-12-20T13:23:43Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-quarterly-update-details-legendary-items-and-endgame-progression/ar-AAS0fBi"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-quarterly-update-details-legendary-items-and-endgame-progression/ar-AAS0fBi"
+type: article
+quality: 66
+heat: -1
+published: false
+
+provider:
+  name: Windows Central on MSN.com
+  domain: msn.com
+
+topics:
+  - Diablo 4
+
+related:
+  - title: "Diablo IV Quarterly Update—December 2021"
+    excerpt: "Learn more about itemization, Paragon updates, and the visual effects of Diablo IV in this next Quarterly Developer Update."
+    publishedDateTime: 2021-12-20T17:58:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5d/5DOAYVZ56YBD1639765731138.png"
+        width: 600
+        height: 300
+        isCached: true
+  - title: "Diablo 4 Dev Update Breaks Down Itemization, Visuals, & More"
+    excerpt: "Blizzard has revealed the last Q4 dev update for Diablo 4, detailing itemization, visual effects, and more for the upcoming game."
+    publishedDateTime: 2021-12-20T10:34:00Z
+    webUrl: "https://mp1st.com/news/diablo-4-dev-update-breaks-down-itemization-visuals-more"
+    type: article
+    provider:
+      name: mp1st.com
+      domain: mp1st.com
+    quality: 67
+
+secured: "FzvNovd1TozwYTWNiv7Pu5mFW+m2Qg9lj+a/2qfTvGvURnFAq6xYCwnavjRVNRtCskg6Zv3+7QpoEB5pI0HfuTGAKqOVS6Jq6Xs98GrF+/7gpkSjX9bNSdC35ncE/elz8XeSJU/lgZN0eJFYF9iJ36dYSSQ8OWoZB3ExmJmKrzMiZ6Ybx2Nt+KI4NjDCo1ntrla5wszv4DCx3iL469h0Z6sXSKvZoUE/RoybHGP7XSuc4ZyW/MXSM7ROCijWpT0ouEY4cgAd5hBu9nNGaKJQyblC4fcBYknyXc8lmY8Cc2d9iDvyM/LVdSti//WBdvxw8+t+m5y8evMk6BVpLmV8n87rrNg4g1vCBFt0ApPtFI4=;nYYDRSGlI7j/MdQpHHDgQQ=="
+---
+
