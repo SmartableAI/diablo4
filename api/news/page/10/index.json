@@ -2,6 +2,132 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon.md",
+      "title": "New Leak Reveals Blizzard Was Going To Announce Diablo 4 at Blizzcon",
+      "excerpt": "LAMON GAMON ARE BACK!!!!! More nooz on Diablo, apparently there was a D4 reveal that was shelved last minute!!!! We discuss... MERCH!!!!!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon/",
+      "originalUrl": "https://youtube.com/watch?v=YkAOXqLls4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YkAOXqLls4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YkAOXqLls4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-05T19:58:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laymen Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2018-11-05-diablo-4-blizzard-reportedly-pulled-announcement-from-blizzcon-2018-ign-news.md",
+      "title": "Diablo 4: Blizzard Reportedly Pulled Announcement from BlizzCon 2018 - IGN News",
+      "excerpt": "Blizzard reportedly had plans to tease Diablo 4 at BlizzCon 2018, but pulled it at the last minute. Subscribe to the IGN News ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-05-diablo-4-blizzard-reportedly-pulled-announcement-from-blizzcon-2018-ign-news/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-05-diablo-4-blizzard-reportedly-pulled-announcement-from-blizzcon-2018-ign-news/",
+      "originalUrl": "https://youtube.com/watch?v=H7DveYoDXpc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7DveYoDXpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/H7DveYoDXpc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-05T14:48:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN News",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming.md",
+      "title": "The Future Of Diablo Is Coming - Diablo 3, Diablo 4, Announcement Incoming",
+      "excerpt": "My Breakdown and opinions on the Announcement made by the Diablo team today! The Future of Diablo is COMING!!!! I tried to make the edits in this video as ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming/",
+      "originalUrl": "https://youtube.com/watch?v=VbPJTyzvnTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VbPJTyzvnTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VbPJTyzvnTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-08-08T15:14:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wolfcryer",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2016-11-02-hints-to-a-possible-diablo-4-announcement-ign-daily-fix.md",
       "title": "Hints to a Possible Diablo 4 Announcement? - IGN Daily Fix",
       "excerpt": "Diablo 3 may get Necromancers, Call of Duty: Infinite Warfare to be bundled with PS4 Slim, and is Diablo 4 going to be announced at Blizzcon? Diablo 3 Getting ...",

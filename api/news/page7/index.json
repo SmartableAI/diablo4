@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
+      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T16:22:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "He looks Familiar",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
+      "title": "Diablo 4 release date, trailers, news and rumors",
+      "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors/index.json",
+      "webUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
+      "originalUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
+          "width": 1195,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
+      "publishedDateTime": "2020-06-30T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react.md",
+      "title": "REACTION TO Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACT",
+      "excerpt": "REACTION TO Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACT If you like it, subscribe and definitely comment. Looking forward to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/",
+      "originalUrl": "https://youtube.com/watch?v=kLmgdqgUUZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kLmgdqgUUZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kLmgdqgUUZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-27T07:00:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FilipKubesReacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content.md",
       "title": "Blizzard Drops Major 'Diablo 4' Updates On Gameplay, Open-World And Side Content",
       "excerpt": "Blizzard released a handful of details about the \"Diablo 4\" Updates focus on gameplay, open-world and more \"Diablo 4\" is one of the most anticipated games from Blizzard Gaming studio Blizzard shared a ...",
@@ -962,132 +1099,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "DeanBarry Movie Reviews And Stuff",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights.md",
-      "title": "DIABLO 4 - Announce Cinematic + Gameplay Trailer REACTION + REVIEW + INSIGHTS",
-      "excerpt": "Make a difference with a FREEDOM SUPPORT: https://www.patreon.com/LawrenceBeyond ◉Donate, if you like to: https://www.paypal.me/LawrenceBeyond ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights/",
-      "originalUrl": "https://youtube.com/watch?v=soXVeQzc7GI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/soXVeQzc7GI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/soXVeQzc7GI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T09:37:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lawrence's Beyond",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-06-bitcast-79-diablo-4-announcement-and-death-stranding-reviews.md",
-      "title": "Bitcast 79 : Diablo 4 Announcement and Death Stranding Reviews",
-      "excerpt": "In Bitcast 79, the gang is back together to discuss the Diablo 4 and Overwatch 2 announcements from Blizzcon, Death Stranding reviews, Luigi's Mansion 3, and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-06-bitcast-79-diablo-4-announcement-and-death-stranding-reviews/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-06-bitcast-79-diablo-4-announcement-and-death-stranding-reviews/",
-      "originalUrl": "https://youtube.com/watch?v=Gj0NcSljh3E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gj0NcSljh3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gj0NcSljh3E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-06T04:04:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seasoned Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019.md",
-      "title": "Diablo 3 Speedrunner Reacts to Diablo 4 Announcement and Blizzcon 2019",
-      "excerpt": "A Voice for Viper which is a Diablo series speedrunning marathon in memory of the Diablo 3 speedrunner Viper will be starting Friday November 8th, 2019 at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=a3GAfZ1yVZw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a3GAfZ1yVZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a3GAfZ1yVZw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-05T12:36:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Garfm",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

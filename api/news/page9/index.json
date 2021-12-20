@@ -2,6 +2,132 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction.md",
+      "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
+      "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer Blizzcon 2019 is here! The Blizzard opening ceremony has come and gone and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=r4sU9fHV-ew",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r4sU9fHV-ew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r4sU9fHV-ew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T17:44:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MrMiles",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-02-lilith-is-back-diablo-4-announcement-cinematic-trailer-reaction-blizzcon-2019.md",
+      "title": "'Lilith Is Back''! Diablo 4 - Announcement Cinematic Trailer REACTION - Blizzcon 2019",
+      "excerpt": "Help Support our channel via PATREON https://www.patreon.com/HypeTrain1 Subscribe to HypeTrain : https://www.youtube.com/c/HypeTrain-Follow 'Lilith Is ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-lilith-is-back-diablo-4-announcement-cinematic-trailer-reaction-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-lilith-is-back-diablo-4-announcement-cinematic-trailer-reaction-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=APSebq1pvVM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/APSebq1pvVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/APSebq1pvVM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T17:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HypeTrain",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer Reaction",
+      "excerpt": "Here is My Reaction to the Diablo 4 - Official Announcement Cinematic Trailer Let me know what you thought of thought of the cinematic in the comments down ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=sh-1TMuph84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sh-1TMuph84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sh-1TMuph84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T15:37:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BlueSpartan",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now.md",
       "title": "Diablo 4 Announced at BlizzCon 2019 - IGN Now",
       "excerpt": "Diablo 4 was the first announced game at this year's BlizzCon, which is a good thing considering how anticipated it was prior to last year's BlizzCon (to much fan ...",
@@ -924,132 +1050,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "FuzzfingerGaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon.md",
-      "title": "New Leak Reveals Blizzard Was Going To Announce Diablo 4 at Blizzcon",
-      "excerpt": "LAMON GAMON ARE BACK!!!!! More nooz on Diablo, apparently there was a D4 reveal that was shelved last minute!!!! We discuss... MERCH!!!!!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-new-leak-reveals-blizzard-was-going-to-announce-diablo-4-at-blizzcon/",
-      "originalUrl": "https://youtube.com/watch?v=YkAOXqLls4k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YkAOXqLls4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YkAOXqLls4k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-05T19:58:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laymen Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-05-diablo-4-blizzard-reportedly-pulled-announcement-from-blizzcon-2018-ign-news.md",
-      "title": "Diablo 4: Blizzard Reportedly Pulled Announcement from BlizzCon 2018 - IGN News",
-      "excerpt": "Blizzard reportedly had plans to tease Diablo 4 at BlizzCon 2018, but pulled it at the last minute. Subscribe to the IGN News ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-05-diablo-4-blizzard-reportedly-pulled-announcement-from-blizzcon-2018-ign-news/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-05-diablo-4-blizzard-reportedly-pulled-announcement-from-blizzcon-2018-ign-news/",
-      "originalUrl": "https://youtube.com/watch?v=H7DveYoDXpc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7DveYoDXpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/H7DveYoDXpc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-05T14:48:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN News",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming.md",
-      "title": "The Future Of Diablo Is Coming - Diablo 3, Diablo 4, Announcement Incoming",
-      "excerpt": "My Breakdown and opinions on the Announcement made by the Diablo team today! The Future of Diablo is COMING!!!! I tried to make the edits in this video as ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-08-08-the-future-of-diablo-is-coming-diablo-3-diablo-4-announcement-incoming/",
-      "originalUrl": "https://youtube.com/watch?v=VbPJTyzvnTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VbPJTyzvnTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VbPJTyzvnTA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-08-08T15:14:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wolfcryer",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

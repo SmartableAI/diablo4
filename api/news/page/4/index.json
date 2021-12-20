@@ -2,6 +2,141 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-22-diablo-4-how-the-rogue-class-pvp-and-open-world-work.md",
+      "title": "Diablo 4: How The Rogue Class, PvP, And Open World Work",
+      "excerpt": "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4-how-the-rogue-class-pvp-and-open-world-work/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-the-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "publishedDateTime": "2021-02-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2.md",
+      "title": "Diablo 4 returns to the dark style of Diablo 2",
+      "excerpt": "One criticism you’ll often hear about Diablo III is that its visual style, which included 3D models for the first time and a new infusion of colour into what had previously been a technologically ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4-returns-to-the-dark-style-of-diablo-2/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/diablo-2-art-style?amp",
+      "publishedDateTime": "2021-02-22T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
+      "title": "Diablo 4's open world is as Diablo as it gets",
+      "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets/index.json",
+      "webUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "originalUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
+      "publishedDateTime": "2021-02-21T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
       "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
       "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
@@ -968,134 +1103,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-diablo-4-how-pvp-works-and-what-to-expect.md",
-      "title": "Diablo 4: How PVP works and what to expect",
-      "excerpt": "Adventurers can bash monsters and each other. Blizzard Entertainment's upcoming hack-and-slash RPG Diablo 4 is still a ways off. Still, even with the scourges of Goatmen and other monsters pillaging ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-10-diablo-4-how-pvp-works-and-what-to-expect/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-works-and-what-to-expect/ar-BB1dAeQu",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-pvp-works-and-what-to-expect/ar-BB1dAeQu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB14dK5L.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=423&y=106",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-heres-everything-we-know-about-druid-skills-in-diablo-4.md",
-      "title": "Here's everything we know about Druid skills in Diablo 4",
-      "excerpt": "Earth magic and raging animal strength are the names of the game for Druids in Diablo 4. One of the classes in Diablo 4 is the Druid. In touch with nature, Druids can shapeshift into werewolves or ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-10-heres-everything-we-know-about-druid-skills-in-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-druid-skills-in-diablo-4/ar-BB1dzVIc",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-druid-skills-in-diablo-4/ar-BB1dzVIc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dAeDz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-heres-everything-we-know-about-barbarian-skills-in-diablo-4.md",
-      "title": "Here's everything we know about Barbarian skills in Diablo 4",
-      "excerpt": "Barbarians are battle masters, wreaking havoc with massive weapons of all shapes and sizes. One of the classes in Diablo 4 is the mighty Barbarian. With this guide, I've assembled a full list of the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-10-heres-everything-we-know-about-barbarian-skills-in-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dzjh7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
       ]
     }
   ],
