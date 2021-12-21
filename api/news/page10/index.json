@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm.md",
+      "title": "Diablo 4 Announcement Was Never Planned For BlizzCon - PWilhelm",
+      "excerpt": "There was nothing about diablo 4 announced at blizzcon. Will we ever get it? Or will we go to the mobile version Diablo immortal? Thank you for watching.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm/",
+      "originalUrl": "https://youtube.com/watch?v=93DbILKYmaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/93DbILKYmaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/93DbILKYmaM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-07T12:38:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PWilhelm",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon.md",
       "title": "Diablo 4 Announcement PULLED Before Blizzcon...",
       "excerpt": "Recent information would suggest that Diablo 4 was set to be announced at Blizzcon but ended being pulled after developers couldn't commit to the current ...",

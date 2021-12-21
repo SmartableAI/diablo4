@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit.md",
+      "title": "Diablo 4 Announced - Mathil Rambles A Bit",
+      "excerpt": "https://www.twitch.tv/mathil1 for daily live streams https://twitter.com/MathilExists https://www.instagram.com/mathilexists/ ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/",
+      "originalUrl": "https://youtube.com/watch?v=jZ2zooYZLNo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZ2zooYZLNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jZ2zooYZLNo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T18:54:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathilification",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019.md",
       "title": "*NEW* DIABLO 4 ON PC ANNOUNCEMENT! Gameplay & Cinematic Trailer Reaction | BlizzCon 2019",
       "excerpt": "Diablo 4 BlizzCon announcement. This is a full reaction video to the new game presentation as part of the opening ceremony. The video includes BlizzCon ...",
@@ -602,48 +644,6 @@
       ]
     },
     {
-      "path": "_news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come",
-      "excerpt": "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/",
-      "originalUrl": "https://youtube.com/watch?v=0vE3rAjtqUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:01:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Clips And Tips",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2019-11-01-diablo-4-announce-cinematic-by-three-they-come-official-2020-game-hd.md",
       "title": "Diablo 4 | Announce Cinematic - By Three They Come | Official 2020 Game HD",
       "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike.",
@@ -896,6 +896,48 @@
       ]
     },
     {
+      "path": "_news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come.md",
+      "title": "Diablo IV Announce Cinematic | By Three They Come",
+      "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/",
+      "originalUrl": "https://youtube.com/watch?v=9bRWIdOMfro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9bRWIdOMfro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T11:05:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diablo",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019.md",
       "title": "Diablo 4 Announcement Trailer [Blizzcon 2019]",
       "excerpt": "Finally a game for real mobile gamers. #Diablo #Diablo4 #Blizzcon #Blizzcon2019 #BlizzardEntertainment #Blizzard #Overwatch2 #Overwatch.",
@@ -1008,48 +1050,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Rhykker",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm.md",
-      "title": "Diablo 4 Announcement Was Never Planned For BlizzCon - PWilhelm",
-      "excerpt": "There was nothing about diablo 4 announced at blizzcon. Will we ever get it? Or will we go to the mobile version Diablo immortal? Thank you for watching.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm/",
-      "originalUrl": "https://youtube.com/watch?v=93DbILKYmaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/93DbILKYmaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/93DbILKYmaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-07T12:38:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PWilhelm",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
