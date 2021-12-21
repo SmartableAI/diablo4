@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-diablo-4-will-feature-fully-customisable-characters-and-armor.md",
+      "title": "Diablo 4 Will Feature Fully Customisable Characters and Armor",
+      "excerpt": "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-feature-fully-customisable-characters-and-armor/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-character-customisation-art",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-character-customisation-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-my-girlfriend-reacts-to-diablo-4-official-announcement-cinematic-trailer-for-the-first-time.md",
       "title": "My girlfriend reacts to Diablo 4 - Official Announcement Cinematic Trailer for the FIRST time",
       "excerpt": "In today's episode of 'My girlfriend reacts: Game Trailer Edition' we take a look at Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Watch as ...",
@@ -1036,57 +1087,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
-      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
-      "excerpt": "Blizzard reveal the big changes they're making to how players will explore the world of Sanctuary in Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-open-world-map-design-camps-activities-locations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2021/02/24/diablo-4-rogue-sanctuary-1614170708300.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

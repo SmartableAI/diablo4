@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon.md",
+      "title": "Diablo 4 Announcement PULLED Before Blizzcon...",
+      "excerpt": "Recent information would suggest that Diablo 4 was set to be announced at Blizzcon but ended being pulled after developers couldn't commit to the current ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon/",
+      "originalUrl": "https://youtube.com/watch?v=VaUFjfbPEoA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VaUFjfbPEoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VaUFjfbPEoA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-06T11:07:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Accolonn",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded.md",
       "title": "Was Diablo 4 Really Intended To Be Announced At Blizzcon 2018? Blizzard Have Now Responded!",
       "excerpt": "Diablo Immortal quickly became the most substantial news out of this year's Blizzcon but some sources have now suggested Diablo 4 was also going to be ...",

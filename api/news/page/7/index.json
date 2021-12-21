@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Hey Everyone! Kyle here from Reacts by Kyle! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this video and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=yb7liR0g7vo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yb7liR0g7vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yb7liR0g7vo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-02T08:26:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reacts By Kyle",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy.md",
       "title": "Diablo IV Announce Cinematic | By Three They Come REACTION with Magy",
       "excerpt": "Check out our Full Movie/TV Shows Reactions on Patreon :) ✓ PATREON - https://www.patreon.com/thehomiesreact If you just want to give support ✓ PayPal ...",
@@ -1057,48 +1099,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Ozijak",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
-      "excerpt": "H2BTEEVEEPACK wesaid in the video and we'll say it again, we back again with another reaction video. We did the demonic and scary video game Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=BLZuZb2jwTU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BLZuZb2jwTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BLZuZb2jwTU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T14:23:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "H2BTEEVEE",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
