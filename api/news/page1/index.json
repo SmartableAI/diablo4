@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-20-diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2.md",
-      "title": "Diablo 4 to Bring Back Paragon System from Diablo 3 and Skill Rank Bonuses from Diablo 2",
-      "excerpt": "Albeit in a way that feels like the best of both worlds and something distinctly new. From the very beginning Diablo IV has felt like the next step for the franchise, something new and expansive built ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2/index.json",
-      "webUrl": "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2",
-      "originalUrl": "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2",
+      "path": "_news/2021-12-21-diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned.md",
+      "title": "Diablo 4 Will Use Diablo 3’s Paragon System, But Key Changes Are Planned",
+      "excerpt": "Blizzard has confirmed that Diablo 4 will bring back the Paragon system from Diablo 3, but with major changes planned.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/index.json",
+      "webUrl": "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/",
+      "originalUrl": "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "http://www.ausgamers.com/gameres/7407/images/695/vfx_skillDrivenDeaths.mp4_20211221_162816.043.jpg",
-          "width": 695,
-          "height": 390,
+          "url": "https://www.psu.com/wp/wp-content/uploads/2021/12/Diablo4-1.jpeg",
+          "width": 768,
+          "height": 417,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T13:48:00-08:00",
+      "publishedDateTime": "2021-12-20T20:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Aus Games",
-        "domain": "ausgamers.com",
+        "name": "Play Station Universe",
+        "domain": "psu.com",
         "images": null,
         "publishers": null,
         "authors": null
