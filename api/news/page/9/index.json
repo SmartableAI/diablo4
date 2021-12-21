@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | REACTION! | Hype Hideout",
+      "excerpt": "This is the kind of D2 channeling we were waiting for 0_0 Click Here To Subscribe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout/",
+      "originalUrl": "https://youtube.com/watch?v=AxJJmLUsPRU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AxJJmLUsPRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AxJJmLUsPRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T18:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hundo P Games",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction.md",
       "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
       "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer Blizzcon 2019 is here! The Blizzard opening ceremony has come and gone and ...",
@@ -1008,48 +1050,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Accolonn",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded.md",
-      "title": "Was Diablo 4 Really Intended To Be Announced At Blizzcon 2018? Blizzard Have Now Responded!",
-      "excerpt": "Diablo Immortal quickly became the most substantial news out of this year's Blizzcon but some sources have now suggested Diablo 4 was also going to be ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded/",
-      "originalUrl": "https://youtube.com/watch?v=Ouxwi-6Kvu4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ouxwi-6Kvu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ouxwi-6Kvu4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-06T05:58:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FuzzfingerGaming",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

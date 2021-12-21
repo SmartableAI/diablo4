@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endg
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/"
 type: article
 quality: 146
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes"
+    excerpt: "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ..."
+    publishedDateTime: 2021-12-20T13:58:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/"
+    ampWebUrl: "https://www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 142
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
     excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
     publishedDateTime: 2021-12-20T13:16:00Z

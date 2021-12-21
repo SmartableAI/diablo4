@@ -32,6 +32,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Diablo IV Quarterly Update December 2021 - Complete Details"
+    excerpt: "Diablo 4 is gearing up for a 2023 release, and the developers have shared some interesting details about the same. MORE: Diablo 2: How to Add Sockets and Use Runewords In the latest update, the ..."
+    publishedDateTime: 2021-12-20T13:59:00Z
+    webUrl: "https://www.dualshockers.com/diablo-iv-quarterly-update-december-2021-complete-details/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 72
+    images:
+      - url: "https://www.dualshockers.com/static/uploads/2021/12/5duAhobafARCQdjqBUgZ8Z.jpg"
+        width: 1195
+        height: 672
+        isCached: true
   - title: "Diablo 4 Dev Update Breaks Down Itemization, Visuals, & More"
     excerpt: "Blizzard has revealed the last Q4 dev update for Diablo 4, detailing itemization, visual effects, and more for the upcoming game."
     publishedDateTime: 2021-12-20T10:34:00Z

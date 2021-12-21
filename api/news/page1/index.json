@@ -10,7 +10,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -53,6 +53,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone.md",
+      "title": "Diablo 4 loot and endgame explained as the action-RPG nears \"a significant milestone\"",
+      "excerpt": "The latest Diablo 4 update teases \"a significant milestone\" for the development of the still far-off action-RPG, and more helpfully, it also tells us how loot and endgame builds will work. \"We’ve made ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/index.json",
+      "webUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "publishedDateTime": "2021-12-20T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board.md",
       "title": "Diablo 4 Is Getting A New Endgame Progression System In The Paragon Board",
       "excerpt": "In a new quarterly update, Blizzard dives deep on itemization, the new Paragon Board progression system, and more.",
@@ -61,7 +103,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1096,48 +1138,6 @@
       "provider": {
         "name": "Corey Allen",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-diablo-4-is-planned-to-drive-engagement-for-years-to-come.md",
-      "title": "Diablo 4 Is Planned To “Drive Engagement” For Years To Come",
-      "excerpt": "He also said the company looks for the game to drive engagement for the long haul, saying, “Blizzard continues to make strong progress on Diablo 4, the game is shaping up incredibly well and the team ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-06-diablo-4-is-planned-to-drive-engagement-for-years-to-come/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come",
-      "originalUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp",
-      "publishedDateTime": "2021-08-06T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
         "images": null,
         "publishers": null,
         "authors": null

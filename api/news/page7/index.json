@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy.md",
+      "title": "Diablo IV Announce Cinematic | By Three They Come REACTION with Magy",
+      "excerpt": "Check out our Full Movie/TV Shows Reactions on Patreon :) ✓ PATREON - https://www.patreon.com/thehomiesreact If you just want to give support ✓ PayPal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/",
+      "originalUrl": "https://youtube.com/watch?v=-HeOC0daNkE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HeOC0daNkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HeOC0daNkE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Homies",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
       "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
       "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
@@ -1057,48 +1099,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "H2BTEEVEE",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo IV - Official Announcement Cinematic Trailer REACTION",
-      "excerpt": "DiabloIV #DiabloIVReaction Support my channel over on Patreon for some amazing Unedited Reactions AND some Early Release Content: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=idPYzlxDFnI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/idPYzlxDFnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/idPYzlxDFnI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-07T12:55:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeanBarry Movie Reviews And Stuff",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

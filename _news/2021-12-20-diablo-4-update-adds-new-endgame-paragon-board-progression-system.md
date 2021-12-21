@@ -40,6 +40,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes"
+    excerpt: "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ..."
+    publishedDateTime: 2021-12-20T13:58:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/"
+    ampWebUrl: "https://www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 142
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "03W03Cg9axs7lSpaQdSwP8Inh20Cj8fho/y7T2h7SkuzNbx/u3LvLH7GeUhLZyStWk+LLX/yeak/lEulvIfm29WidpQ0sjHeuJMnxSWYDHaofFxTRsaM/Dh8B7oyfx8UeN6/w32UxqvzH5Ep9kJPA7CV4/um3uj8B1RczXXiBsBzBWNyzkxTp0h0rv0GcUQB9MWoe8hx7SnZSg0HAFwiFOMjXDriFPZS02UgUW+AkL6QxSsX8zrFyEKQbxRz9oyn4cNfmB/OkSIp68r+wTDvISQFieFPzdYOftXnqaa7iHZnz4xkBVafjYmbjydC0SpsXyPji/RU73b/0drSsejPk+WCG2GiPnScOKkSwGKem8s=;NUQCI5VDqSjgVFGP0WoGqg=="
 ---

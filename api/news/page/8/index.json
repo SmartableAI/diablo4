@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo IV - Official Announcement Cinematic Trailer REACTION",
+      "excerpt": "DiabloIV #DiabloIVReaction Support my channel over on Patreon for some amazing Unedited Reactions AND some Early Release Content: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=idPYzlxDFnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/idPYzlxDFnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/idPYzlxDFnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-07T12:55:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeanBarry Movie Reviews And Stuff",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights.md",
       "title": "DIABLO 4 - Announce Cinematic + Gameplay Trailer REACTION + REVIEW + INSIGHTS",
       "excerpt": "Make a difference with a FREEDOM SUPPORT: https://www.patreon.com/LawrenceBeyond ◉Donate, if you like to: https://www.paypal.me/LawrenceBeyond ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "MadSkillzzTV",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | REACTION! | Hype Hideout",
-      "excerpt": "This is the kind of D2 channeling we were waiting for 0_0 Click Here To Subscribe ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout/",
-      "originalUrl": "https://youtube.com/watch?v=AxJJmLUsPRU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AxJJmLUsPRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AxJJmLUsPRU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T18:05:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hundo P Games",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

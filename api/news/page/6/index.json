@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup.md",
+      "title": "Diablo IV Announce Cinematic By Three They Come - Epic Reaction Mashup",
+      "excerpt": "Diablo IV Announce Cinematic By Three They Come - Epic Reaction Mashup ▷ All WoW Cinematic Reaction Mashups ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup/",
+      "originalUrl": "https://youtube.com/watch?v=WEAkoQva8rM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEAkoQva8rM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WEAkoQva8rM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T14:50:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reaction Mashups",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-diablo-4-might-have-appeared-on-blizzard-battlenet-launcher.md",
       "title": "Diablo 4 Might Have Appeared On Blizzard Battle.net Launcher",
       "excerpt": "Diablo 4 reportedly appeared on the official Blizzard Battle.net Launcher earlier today for a few seconds before being removed.",
@@ -1061,48 +1103,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Reacts By Kyle",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come REACTION with Magy",
-      "excerpt": "Check out our Full Movie/TV Shows Reactions on Patreon :) ✓ PATREON - https://www.patreon.com/thehomiesreact If you just want to give support ✓ PayPal ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/",
-      "originalUrl": "https://youtube.com/watch?v=-HeOC0daNkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HeOC0daNkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-HeOC0daNkE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-01T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Homies",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
