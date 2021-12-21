@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress.md",
+      "title": "‘Diablo 4’ development update provides new details on current progress",
+      "excerpt": "Blizzard Entertainment has shared an update on the development of Diablo 4. READ MORE In a new Blizzard blog pos ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress/index.json",
+      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937",
+      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2021/02/diablo-iv-rogue@2000x1270.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp",
+      "publishedDateTime": "2021-12-21T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-diablo-4-skill-affixes-essences-and-paragon-boards-detailed.md",
+      "title": "Diablo 4 – Skill Affixes, Essences and Paragon Boards Detailed",
+      "excerpt": "The Paragon system makes a return and offers more build variety while Legendary powers can be extracted and imbued into other items.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-skill-affixes-essences-and-paragon-boards-detailed/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed",
+      "originalUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed/amp",
+      "publishedDateTime": "2021-12-21T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned.md",
       "title": "Diablo 4 Will Use Diablo 3’s Paragon System, But Key Changes Are Planned",
       "excerpt": "Blizzard has confirmed that Diablo 4 will bring back the Paragon system from Diablo 3, but with major changes planned.",
@@ -187,7 +271,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1028,108 +1112,6 @@
         "name": "From Software",
         "domain": "gamingbolt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development.md",
-      "title": "Blizzard parts ways with leaders of Diablo 4 game development",
-      "excerpt": "Activision Blizzard's Blizzard Entertainment division confirmed more departures among its leadership on the high-profile Diablo 4 game team.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development/index.json",
-      "webUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
-      "originalUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/diablo-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
-      "publishedDateTime": "2021-08-11T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates.md",
-      "title": "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates",
-      "excerpt": "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/index.json",
-      "webUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "originalUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "publishedDateTime": "2021-08-11T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

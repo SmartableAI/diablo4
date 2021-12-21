@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development.md",
+      "title": "Blizzard parts ways with leaders of Diablo 4 game development",
+      "excerpt": "Activision Blizzard's Blizzard Entertainment division confirmed more departures among its leadership on the high-profile Diablo 4 game team.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development/index.json",
+      "webUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
+      "originalUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/diablo-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
+      "publishedDateTime": "2021-08-11T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates.md",
+      "title": "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates",
+      "excerpt": "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/index.json",
+      "webUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "originalUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "publishedDateTime": "2021-08-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard.md",
       "title": "Diablo 4 Game Director And Two Other Devs Ousted From Activision Blizzard",
       "excerpt": "Level designer Jesse McCree, game director Luis Barriga, and designer Jonathan LeCraft were all unceremoniously let from from Activision Blizzard, according to Kotaku's anonymous sources.",
@@ -1002,99 +1104,6 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics.md",
-      "title": "New 'Dye' System Revealed for Diablo 4 Cosmetics",
-      "excerpt": "Diablo 4 cosmetics will include a new dye system that lets players customize their armor and it may be one of the game's cosmetic microtransactions.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics/index.json",
-      "webUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
-      "originalUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Diablo%204%20Cosmetics%20Microtransactions%20cover.jpg?itok=aH3Be484",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRaptor",
-        "domain": "techraptor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism.md",
-      "title": "Diablo 4's Art Direction Emphasizes Hand-Crafted Details, Plenty Of Customization, And Just Enough Realism",
-      "excerpt": "The Diablo IV art team breaks down the grim hand-crafted style that is being used to make Blizzard's return to its RPG series look grim and memorable.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "publishedDateTime": "2021-06-30T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

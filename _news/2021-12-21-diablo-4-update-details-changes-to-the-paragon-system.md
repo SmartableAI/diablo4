@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
-excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
-publishedDateTime: 2021-12-20T13:16:00Z
-originalUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
-webUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
+title: "Diablo 4 Update Details Changes to the Paragon System"
+excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
+publishedDateTime: 2021-12-21T09:13:00Z
+originalUrl: "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/"
+webUrl: "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Twinfinite
-  domain: twinfinite.net
+  name: Gameranx
+  domain: gameranx.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
-    width: 1280
-    height: 720
+  - url: "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Diablo 4 Update Details Changes to the Paragon System"
-    excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
-    publishedDateTime: 2021-12-21T09:13:00Z
-    webUrl: "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/"
+  - title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
+    excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
+    publishedDateTime: 2021-12-20T13:16:00Z
+    webUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
     type: article
     provider:
-      name: Gameranx
-      domain: gameranx.com
+      name: Twinfinite
+      domain: twinfinite.net
     quality: 87
     images:
-      - url: "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "03W03Cg9axs7lSpaQdSwP8Inh20Cj8fho/y7T2h7SkuzNbx/u3LvLH7GeUhLZyStWk+LLX/yeak/lEulvIfm29WidpQ0sjHeuJMnxSWYDHaofFxTRsaM/Dh8B7oyfx8UeN6/w32UxqvzH5Ep9kJPA7CV4/um3uj8B1RczXXiBsBzBWNyzkxTp0h0rv0GcUQB9MWoe8hx7SnZSg0HAFwiFOMjXDriFPZS02UgUW+AkL6QxSsX8zrFyEKQbxRz9oyn4cNfmB/OkSIp68r+wTDvISQFieFPzdYOftXnqaa7iHZnz4xkBVafjYmbjydC0SpsXyPji/RU73b/0drSsejPk+WCG2GiPnScOKkSwGKem8s=;NUQCI5VDqSjgVFGP0WoGqg=="
+secured: "qnkoy9pKNpWoxwLF/l6sw/AWzMtaMu/RK+Kfaxz9k1EsTpmKymRSNTeLKkH45Cdh5Ky299OOwTeIuIA8TfDSIxzRVd9OzvofxWfG9mW78D8SnWT6xk7gzu3BObBHQMyvgbI2NGuk0KlvIiOQtw9g79kmYCtfpxkxz+Vew3gRPSaZB2Wp6K+ctk8eqPsToCwcFafQUmfTCkihVnYxctiJhnIN06W+1j94zrWJ7qm8ZLyd9jiEUk+ZOTswcHUb+U2ZWx4u3bMg5MEOGgGjqudmjzIiu/bcJ8w5gl3bmIa5T6L6KglbhkT+bSVNHmtP/2oYHOfAnJN3GAEBvOg1vTJPnYv1Nm/f7fb/zgPnhTOC76w=;4RXb3kE+VpHQ8WkW8z1LnA=="
 ---
 

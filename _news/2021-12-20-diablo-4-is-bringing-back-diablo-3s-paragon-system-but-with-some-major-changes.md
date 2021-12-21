@@ -60,6 +60,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Update Details Changes to the Paragon System"
+    excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
+    publishedDateTime: 2021-12-21T09:13:00Z
+    webUrl: "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "kMnm5RgzaJnj5aYpMSqGdXNqFhf09UgCivCMixCVuJ8w7o/khGBgd5L9eh9MZSKFiubm28qvbltcpzih0L+yzhhNUn5pKZbWxYi69OKzqLShd5ggyxOn/Ksr0+2nMUIN5fTv0c3MuV+C5rDPYBOMWnq7IBdakpsvKzwo0S8/oZSeFi5q1TlfjWHCRB8ypTRjcTy8YZD+LppU4pkcajCPfowuBcGAWC0YgKtlrqd5qnA0Idp7Lw5LE0u+kn5ihLJaSbxKVagEzuc6CRkwCZpyVO2WRlun2AvpF/4OGc+MghPmuOKFqfbhTKaRvNd5JsJS4ALpjfLncQZPUqe1Sq9aSoImW8TUAhpbdDz1JEo0K+k=;nMYIQbg8QGX4wpux5NfxKA=="
 ---

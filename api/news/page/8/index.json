@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy.md",
+      "title": "Diablo 4 Initial announcement perspective - Red Shirt Guy",
+      "excerpt": "My initial thoughts from playing the demo at blizzcon, watching the developer interviews, and listening to the wacky Q&A from the systems and features panel.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/",
+      "originalUrl": "https://youtube.com/watch?v=CIIjswFSzbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CIIjswFSzbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CIIjswFSzbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-10T11:35:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dontinquire",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating.md",
+      "title": "Diablo IV Announcement Cinematic | By Three They Come Reaction / Review / Rating",
+      "excerpt": "Adam and Jay react, review, riff, and rate the new announcement cinematic everyone wanted to see last year at Blizzcon, Diablo IV 'By Three They Come'.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/",
+      "originalUrl": "https://youtube.com/watch?v=otb-mrjvwaQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/otb-mrjvwaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/otb-mrjvwaQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-08T04:00:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pReview'd",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-08-ozijak-reacts-to-diablo-4-announcement-gameplay-trailer.md",
       "title": "Ozijak Reacts to Diablo 4 Announcement & Gameplay Trailer",
       "excerpt": "G'day all, Ozijak here. Long time Diablo fan watching the much anticipated trailers as Blizzard streamed it. So so hyped!! Hahahaha :D Literal nerdgasm were ...",
@@ -964,90 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Rhykker",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming.md",
-      "title": "DIABLO 4 Official Announcement and Gameplay trailers / Hell is Coming",
-      "excerpt": "DIABLO 4 Official Announcement and Gameplay trailers. Hell is Coming my friends. For more game videos and trailers hit that like button, comment,share and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming/",
-      "originalUrl": "https://youtube.com/watch?v=GCQOL-Tb_eQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GCQOL-Tb_eQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GCQOL-Tb_eQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T01:27:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StanKO Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come Reaction",
-      "excerpt": "ORIGINAL VIDEO https://www.youtube.com/watch?v=9bRWIdOMfro FOLLOW ME FACEBOOK https://www.facebook.com/romeosnoww TWITTER ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=jdaB4H3UQCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jdaB4H3UQCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jdaB4H3UQCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T19:04:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Romeo Snow",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

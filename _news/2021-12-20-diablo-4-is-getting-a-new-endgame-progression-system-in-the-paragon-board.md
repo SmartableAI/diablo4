@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endg
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/"
 type: article
 quality: 146
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 Update Details Changes to the Paragon System"
+    excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
+    publishedDateTime: 2021-12-21T09:13:00Z
+    webUrl: "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "+nGiFLi2zXyvDI/WELomArhVdY4HelqIvvnwuqG8B2rU2T5ItEba1i+Wo/4VC8EpAoleA7LITuU2sY/CogdsSgqT4LarBhFV3uw52YTuXpM3QR2In672zApjKNgM5wBkRC2/AuY6vjAHH8AyuS7B7qCaM4Uj8WPr5TDpfoHIyGD/BUu6jx67MgELvKneTlrJ+Pv7Ppz+hUAe4Me7G4/rU9xDMFVREUrAZJV2SW6zrckdQ76Kd/2fJlepfCokYU45Mx58+CPDgHGwjp5GUZBpm1+BxyX/vV2BUMKYyPKKFImKl/z+iPOWb9IlvA5Ix1YoLFgGPN/VNw15Kkmjsx0k6bTxtV2QTWXvzI4Jz+EJKLU=;JAOSR/o8qx1Vh2ka5dSBSg=="

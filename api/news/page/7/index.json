@@ -2,6 +2,90 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development.md",
+      "title": "Blizzard Gives Encouraging Update on Diablo 4 Development",
+      "excerpt": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "publishedDateTime": "2020-08-08T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
+      "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
+      "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak/index.json",
+      "webUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
+      "originalUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
+          "width": 1148,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-diablo-4-team-is-moving-forward-despite-covid-19-pandemic.md",
       "title": "Diablo 4 team is 'moving forward' despite COVID-19 pandemic",
       "excerpt": "Rod Fergusson's move to Blizzard was not particularly well-timed. He left The Coalition in order to head up Diablo 4 in March, just ahead of the COVID-19 outbreak that forced the entire company to ...",
@@ -1024,90 +1108,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Ultimate LUL",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy.md",
-      "title": "Diablo 4 Initial announcement perspective - Red Shirt Guy",
-      "excerpt": "My initial thoughts from playing the demo at blizzcon, watching the developer interviews, and listening to the wacky Q&A from the systems and features panel.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy/",
-      "originalUrl": "https://youtube.com/watch?v=CIIjswFSzbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CIIjswFSzbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CIIjswFSzbk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-10T11:35:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dontinquire",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating.md",
-      "title": "Diablo IV Announcement Cinematic | By Three They Come Reaction / Review / Rating",
-      "excerpt": "Adam and Jay react, review, riff, and rate the new announcement cinematic everyone wanted to see last year at Blizzcon, Diablo IV 'By Three They Come'.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-08-diablo-iv-announcement-cinematic-by-three-they-come-reaction-review-rating/",
-      "originalUrl": "https://youtube.com/watch?v=otb-mrjvwaQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/otb-mrjvwaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/otb-mrjvwaQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-08T04:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pReview'd",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
