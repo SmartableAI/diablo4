@@ -36,6 +36,66 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021.md",
+      "title": "New MustWatch - Diablo IV Barbarian Official Gameplay 2021",
+      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/",
+      "originalUrl": "https://youtube.com/watch?v=cCVfdPQYJhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cCVfdPQYJhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M42S",
+      "provider": {
+        "name": "Games Recap",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cCVfdPQYJhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-01T13:19:34-07:00"
+    },
+    {
+      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
+      "title": "Diablo IV Barbarian Gameplay",
+      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M20S",
+      "provider": {
+        "name": "Gigio Gameplay",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-10-14T07:41:09-07:00"
+    },
+    {
       "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
       "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
       "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
@@ -654,36 +714,6 @@
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
-      "path": "_games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021.md",
-      "title": "New MustWatch - Diablo IV Barbarian Official Gameplay 2021",
-      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=cCVfdPQYJhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cCVfdPQYJhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M42S",
-      "provider": {
-        "name": "Games Recap",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cCVfdPQYJhg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-01T13:19:34-07:00"
-    },
-    {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
       "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
       "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
@@ -713,36 +743,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
-    },
-    {
-      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
-      "title": "Diablo IV Barbarian Gameplay",
-      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M20S",
-      "provider": {
-        "name": "Gigio Gameplay",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-14T07:41:09-07:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
