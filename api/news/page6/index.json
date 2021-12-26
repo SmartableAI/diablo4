@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old.md",
+      "title": "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old",
+      "excerpt": "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "publishedDateTime": "2020-12-15T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal.md",
       "title": "Diablo 4 will be at BlizzCon, likely with a new class reveal",
       "excerpt": "Blizzard says a big Diablo 4 update is coming to BlizzConline, the digital alternative to BlizzCon taking place in February. In the latest quarterly update from Blizzard, in which we learned a lot ...",
@@ -1062,48 +1104,6 @@
       "provider": {
         "name": "SegmentNext",
         "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees.md",
-      "title": "Diablo 4 and Overwatch 2 shown to Blizzard employees",
-      "excerpt": "A new report has come out by a French publication website regarding some unrelease Blizzard titles, Diablo 4 and Overwatch 2. The report says that both of the titles have been shown to a select ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees/index.json",
-      "webUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/6/6/66387_01_diablo-4-overwatch-2-blizzard-employees_full.jpg",
-          "width": 850,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
-      "publishedDateTime": "2020-08-18T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

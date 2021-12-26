@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/diablo-4-blog-reveals-massive-buildcrafting-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming-3361403?amp=1"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:

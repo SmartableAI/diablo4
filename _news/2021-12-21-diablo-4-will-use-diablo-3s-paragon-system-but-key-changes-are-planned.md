@@ -7,7 +7,7 @@ originalUrl: "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-syste
 webUrl: "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/"
 type: article
 quality: 86
-heat: 106
+heat: 107
 published: true
 
 provider:

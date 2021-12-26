@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
+      "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=9I0gLbjENXU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9I0gLbjENXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9I0gLbjENXU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-10T23:14:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ultimate LUL",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-10-diablo-4-initial-announcement-perspective-red-shirt-guy.md",
       "title": "Diablo 4 Initial announcement perspective - Red Shirt Guy",
       "excerpt": "My initial thoughts from playing the demo at blizzcon, watching the developer interviews, and listening to the wacky Q&A from the systems and features panel.",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Olas",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement: First Impressions & Reaction to Cinematic Trailer - Blizzcon 2019",
-      "excerpt": "The Diablo 4 announcement was made at Blizzcon 2019. Here are my first impressions and reaction to the cinematic trailer and ensuing panels. My live stream ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announcement-first-impressions-reaction-to-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=qOLlCGWoFdA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOLlCGWoFdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qOLlCGWoFdA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T01:52:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rhykker",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
