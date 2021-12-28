@@ -4,6 +4,66 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/der-ryback-diablo-iv-druide-gameplay-german.md",
+      "title": "Diablo IV Druide Gameplay German",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/der-ryback-diablo-iv-druide-gameplay-german/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/der-ryback-diablo-iv-druide-gameplay-german/",
+      "originalUrl": "https://youtube.com/watch?v=GfwraRtzWaE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GfwraRtzWaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M10S",
+      "provider": {
+        "name": "Der Ryback",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GfwraRtzWaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-04T07:48:20-08:00"
+    },
+    {
+      "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=xgeRjVpx3xw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xgeRjVpx3xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M11S",
+      "provider": {
+        "name": "Ecxoes Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xgeRjVpx3xw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-02T05:00:34-07:00"
+    },
+    {
       "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
       "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
       "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
@@ -214,66 +274,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-11-19T03:15:12-08:00"
-    },
-    {
-      "path": "_games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021.md",
-      "title": "New MustWatch - Diablo IV Barbarian Official Gameplay 2021",
-      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=cCVfdPQYJhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cCVfdPQYJhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M42S",
-      "provider": {
-        "name": "Games Recap",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cCVfdPQYJhg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-01T13:19:34-07:00"
-    },
-    {
-      "path": "_games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021.md",
-      "title": "Newest -Diablo IV Sorceress Official Gameplay 2021",
-      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=h4Xct8PtKYo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4Xct8PtKYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M21S",
-      "provider": {
-        "name": "Games Recap",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h4Xct8PtKYo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-02T00:31:39-07:00"
     },
     {
       "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
