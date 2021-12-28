@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/22846550/diablo-4-blog-legendar
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm"
 type: article
 quality: 107
-heat: 108
+heat: 107
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explaine
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/"
 type: article
 quality: 100
-heat: 101
+heat: 100
 published: true
 
 provider:
