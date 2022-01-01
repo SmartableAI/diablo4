@@ -36,6 +36,36 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
+      "path": "_games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look.md",
+      "title": "Diablo IV Druid Gameplay With Nvidia Freestyle TEST Comparison This is How Diablo 4 Should Look?",
+      "excerpt": "Make sure to leave a LIKE on the video and subscribe/hit the bell so when new videos upload you get a notification. Subscribe To Us Here: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look/",
+      "originalUrl": "https://youtube.com/watch?v=KrSMyZHyrzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KrSMyZHyrzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M3S",
+      "provider": {
+        "name": "Games Recap",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KrSMyZHyrzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-19T03:15:12-08:00"
+    },
+    {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
       "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -890,36 +920,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-02T05:00:34-07:00"
-    },
-    {
-      "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
-      "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
-      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M38S",
-      "provider": {
-        "name": "Ecxoes Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-12T06:18:06-07:00"
     }
   ],
   "nextPage": 2
