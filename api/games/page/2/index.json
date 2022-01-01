@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M38S",
+      "provider": {
+        "name": "Ecxoes Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-12T06:18:06-07:00"
+    },
+    {
       "path": "_games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents.md",
       "title": "Diablo 4 - SEPTEMBER 2020 QUARTERLY UPDATE - Sorceress Update, Skills and Talents!",
       "excerpt": "Like and ❤️Subscribe if you enjoyed the video! The Diablo 4 September 2020 Quarterly Update is HERE! In this video I go over the update and express some of ...",
@@ -877,36 +907,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-10T21:43:43-08:00"
-    },
-    {
-      "path": "_games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary.md",
-      "title": "diablo 4 gameplay barbarian no commentary,",
-      "excerpt": "diablo 4 gameplay 2021, diablo 4 gameplay reaction, diablo 4 gameplay 4k, diablo 4 gameplay android, diablo 4 gameplay barbarian, diablo 4 gameplay ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-gameplay-barbarian-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=Ejkex6VOqjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ejkex6VOqjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M57S",
-      "provider": {
-        "name": "Mahariya gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ejkex6VOqjc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-06T00:10:51-08:00"
     }
   ],
   "nextPage": 3
