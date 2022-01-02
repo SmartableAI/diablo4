@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-druid-comp
 type: video
 length: PT5M18S
 publishedDateTime: 2021-04-08T20:15:48Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rZbomhAL-48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DQazRLcaayckZrclVUJNSljZ+W75mq4u1UN8CWkjSixMnxYtZblnwEAgC4tkIAz+NRIhZSH7cyKQYTRoGZERTqJ1Njv3SZWwFpbrrKvDhAKPoKnX7SaF6SlIo7EgGGzLmThHzvfp4IFJJ4D70ocmeg3igRiOgFlZWjti084EqEN85TRyBeRipZDk0gGL58feO+2Lf8AeCpiMe4ECNb23kmCGMC0ZfI0DApTXxK0icAaYVifno0E+flro9IN0/LwWXNsDBGwxXSr2YWSiOVAthf/O4N4gt+lao2lI2atcSIWDTXjiY8X99jwfeMaZmreWUkD3Sl+6L4UPhB6z329CwxHXN7Lj5/sU/xOAc68bSBZVQ1xzVaM5G90J3a9EWKg9XGgoiMyOTQs0bQiR+Jwb6bVeRBeKjlPn2MHMIBEADKA=;wzw1sBD23tDk7wCHeG6uBA=="
+secured: "G//EOttEqNetNA/Qbq7ZTINmBcDPzxmWF7ckBfEgF4hVsC4SFyf7ouSuzPHsVZCUGdldXZZb9cfs0IdsJ49diBZev9AXAJfeZJnKcunO5+fyGgwgAk9/2jkeJIeiVTQeaey3SH8WTBsKrsheu4PEarxEe3XP4KB/gxuc5RqxaAE0bJFIbMmOZoHIvjb2ly9IdmlwZEqWdk/fKGohGKMyk1/6jsI83nhWIGvRlRKtGZ1mTWOrQzL2L8D+Wqqbu+Xix7F4htBHO2InpHYe6g59U+/TIy3iK2Wx01HdkDqYz/1r0jEwX1REygFcgQFxUUHeYM0XDFJZxDk2ITN1iaYQC/yy4wyW8XBbzoucfcCLfKpUnA8wYrKFplW3EGqLITm3q9oVMrkrFZIL3rlJic+fEpcMpWnXOeQvryfKmY9S6fw=;EQ410Icx/tCkBCqDtcLOLA=="
 ---
 
