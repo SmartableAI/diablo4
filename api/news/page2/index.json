@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company.md",
+      "title": "Activision Blizzard: Diablo 4 director and two others leave company",
+      "excerpt": "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company/index.json",
+      "webUrl": "https://www.bbc.com/news/technology-58187612.amp",
+      "originalUrl": "https://www.bbc.com/news/technology-58187612.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58187612.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp",
+      "publishedDateTime": "2021-08-11T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard.md",
       "title": "Diablo 4 Leads Luis Barriga and Jesse McCree, World of Warcraft Designer Jonathan LeCraft Let Go from Blizzard",
       "excerpt": "Kotaku recently reported that Diablo 4 game director Luis Barriga and lead designer Jesse McCree have been let go from the company, as has World of Warcraft designer Jonathan LeCraft. While no reason ...",
@@ -1062,48 +1113,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
-      "title": "Diablo 4 will actually let you customise your character's face",
-      "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg",
-          "width": 660,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "cdnAmpWebUrl": "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "publishedDateTime": "2021-06-30T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock, Paper, Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

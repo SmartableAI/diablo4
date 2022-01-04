@@ -46,6 +46,38 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 getting a New Endgame Progression system"
+    excerpt: "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ..."
+    publishedDateTime: 2021-12-23T04:40:00Z
+    webUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/"
+    ampWebUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 107
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/maxresdefault-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Diablo 4 Paragon Board expands end-game progression with endless potential"
+    excerpt: "Though it's still in development, the Paragon system in Diablo 4 will add a new way to approach character customization to the game with the Paragon Board."
+    publishedDateTime: 2021-12-21T14:30:00Z
+    webUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/"
+    ampWebUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
+    cdnAmpWebUrl: "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
+    type: article
+    provider:
+      name: Blizzard Watch
+      domain: blizzardwatch.com
+    quality: 103
+    images:
+      - url: "https://cdn.blizzardwatch.com/wp-content/uploads/2020/07/diablo-4-header-campfire.jpg"
+        width: 675
+        height: 380
+        isCached: true
   - title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
     excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
     publishedDateTime: 2021-12-20T13:16:00Z

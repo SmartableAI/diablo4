@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
-excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
-publishedDateTime: 2021-12-20T13:16:00Z
-originalUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
-webUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
+title: "Diablo 4 getting a New Endgame Progression system"
+excerpt: "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ..."
+publishedDateTime: 2021-12-23T04:40:00Z
+originalUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/"
+webUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/"
+ampWebUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
+cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Twinfinite
-  domain: twinfinite.net
+  name: TechnoSports
+  domain: technosports.co.in
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
+  - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/maxresdefault-4.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -56,22 +58,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Diablo 4 getting a New Endgame Progression system"
-    excerpt: "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ..."
-    publishedDateTime: 2021-12-23T04:40:00Z
-    webUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/"
-    ampWebUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 107
-    images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/maxresdefault-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Diablo 4 Paragon Board expands end-game progression with endless potential"
     excerpt: "Though it's still in development, the Paragon system in Diablo 4 will add a new way to approach character customization to the game with the Paragon Board."
     publishedDateTime: 2021-12-21T14:30:00Z
@@ -88,6 +74,20 @@ related:
         width: 675
         height: 380
         isCached: true
+  - title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
+    excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
+    publishedDateTime: 2021-12-20T13:16:00Z
+    webUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 Update Details Changes to the Paragon System"
     excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
     publishedDateTime: 2021-12-21T09:13:00Z
@@ -103,6 +103,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "03W03Cg9axs7lSpaQdSwP8Inh20Cj8fho/y7T2h7SkuzNbx/u3LvLH7GeUhLZyStWk+LLX/yeak/lEulvIfm29WidpQ0sjHeuJMnxSWYDHaofFxTRsaM/Dh8B7oyfx8UeN6/w32UxqvzH5Ep9kJPA7CV4/um3uj8B1RczXXiBsBzBWNyzkxTp0h0rv0GcUQB9MWoe8hx7SnZSg0HAFwiFOMjXDriFPZS02UgUW+AkL6QxSsX8zrFyEKQbxRz9oyn4cNfmB/OkSIp68r+wTDvISQFieFPzdYOftXnqaa7iHZnz4xkBVafjYmbjydC0SpsXyPji/RU73b/0drSsejPk+WCG2GiPnScOKkSwGKem8s=;NUQCI5VDqSjgVFGP0WoGqg=="
+secured: "slliP6htowvkh7ZU/dilbn+hEL6nwHUHqdJr/fKMiCEFcOUKKNZUNEp/vNfZRHMnozy4at4x582K3Qu9lfaTS8oF+U5dNSS1GIltPoD4yYsCQ0ZU4LAxNHCfqGuQCY2OsukyS0JC8Im0ejXH+MZ9mxRUAm5CqVWjcuuaNkWmIa1eJrl2+m0QeRp8vSt/6h1DrPlsTJoASk/r8ui3wyo5uSytbrJWm+WNk3viyAEqrUB/q62jx+tcM8b/A2xK9Yio1HyaDaXTUJPcFjt89AaDH+/NEcur7/lvjdiy5ztX6haZUVIej/23w2UZG/C6ZPyn6j47G/f0HejUmAvvwNJX1g+cJ2p27h7ObcgI9Fi+bdw=;K/9qXnB6Kdrpd8mk85kbDw=="
 ---
 

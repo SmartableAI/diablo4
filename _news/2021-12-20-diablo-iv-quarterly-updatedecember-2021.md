@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021"
 type: article
 quality: 162
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mastery Levels Will Return in Diablo 4; New Info"
+    excerpt: "Blizzard has released another quarterly update regarding Diablo 4. With this, we learned more about the systems featured in the game."
+    publishedDateTime: 2021-12-21T06:34:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34"
+    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=15924"
+    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=15924"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 107
+    images:
+      - url: "https://www.gamepressure.com/gallery/html/news/1043054218.jpg"
+        width: 720
+        height: 522
+        isCached: true
   - title: "Diablo IV Quarterly Update December 2021 - Complete Details"
     excerpt: "Diablo 4 is gearing up for a 2023 release, and the developers have shared some interesting details about the same. MORE: Diablo 2: How to Add Sockets and Use Runewords In the latest update, the ..."
     publishedDateTime: 2021-12-20T13:59:00Z

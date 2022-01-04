@@ -170,6 +170,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too.md",
+      "title": "Diablo 4’s gory kills look absolutely brutal – and its endgame is looking good, too",
+      "excerpt": "Diablo 4 is unlikely to release before the end of 2022, but regular updates from the development team mean we’re getting a good feel for how the game is likely to pan out. Blizzard Activision ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too/index.json",
+      "webUrl": "https://www.techradar.com/au/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "originalUrl": "https://www.techradar.com/au/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ES3UgP6kdtKsHyufGpSrba-1200-80.jpg",
+          "width": 968,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "publishedDateTime": "2021-12-20T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming.md",
       "title": "'Diablo 4' Blog Reveals Massive Buildcrafting Changes, Target Farming",
       "excerpt": "\"Diablo 4's\" Legendary farming and Paragon leveling will be receiving some hefty updates, according to Blizzard's latest quarterly update.",
@@ -220,7 +271,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -313,7 +364,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -1061,57 +1112,6 @@
         "name": "The Loadout",
         "domain": "theloadout.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company.md",
-      "title": "Activision Blizzard: Diablo 4 director and two others leave company",
-      "excerpt": "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company/index.json",
-      "webUrl": "https://www.bbc.com/news/technology-58187612.amp",
-      "originalUrl": "https://www.bbc.com/news/technology-58187612.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-58187612.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp",
-      "publishedDateTime": "2021-08-11T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

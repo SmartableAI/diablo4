@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019.md",
+      "title": "A Letter from our Game Director – BlizzCon 2019",
+      "excerpt": "We&amp;#39;re overwhelmed by the response we&amp;#39;ve seen from our community to Diablo IV at BlizzCon. Our Game Director, Luis Barriga, has a few words he&amp;#39;d like to share.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/me/MEMUO5FEFXMP1573606010411.jpg",
+          "width": 760,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
       "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
       "excerpt": "",
@@ -1006,48 +1058,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "MackeyFam Reacts",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold.md",
-      "title": "Streamers React to Diablo 4 Announcement at Blizzcon [Soda, TimTheTatman, forsen, Swifty, Asmongold]",
-      "excerpt": "Asmongold, AvoidingThePuddle, forsen, NymN, sodapoppin, Swifty, and TimTheTatman reacts to the new Diablo 4 announcement. McconnellRet is also ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-streamers-react-to-diablo-4-announcement-at-blizzcon-soda-timthetatman-forsen-swifty-asmongold/",
-      "originalUrl": "https://youtube.com/watch?v=i6brwuPXv1w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6brwuPXv1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i6brwuPXv1w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T09:41:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Olas",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

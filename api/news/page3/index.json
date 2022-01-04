@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
+      "title": "Diablo 4 will actually let you customise your character's face",
+      "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face/index.json",
+      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg",
+          "width": 660,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "cdnAmpWebUrl": "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
+      "publishedDateTime": "2021-06-30T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock, Paper, Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles.md",
       "title": "Diablo 4’s new gear dye system produces some gorgeous styles",
       "excerpt": "There’s plenty to be excited about if you’re into fiddling with your character’s look in Diablo 4. As we’ve reported, character customisation in this entry in the RPG game series is deeper than it’s ...",
@@ -1043,57 +1085,6 @@
         "name": "Chicago Reacts",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
-      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
-      "excerpt": "Diablo 4 making the shift to an open world design raises several questions. After all, an open world is not just a type of map; on one end of the spectrum it’s a level design philosophy, and on the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
-      "webUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
-      "originalUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/news/h/how-diablo/how-diablo-4s-open-world-design-is-making-sanctuary-a-place_ktjf.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

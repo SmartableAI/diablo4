@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
-excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
-publishedDateTime: 2021-12-20T13:16:00Z
-originalUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
-webUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
+title: "The Diablo 4 Paragon Board expands end-game progression with endless potential"
+excerpt: "Though it's still in development, the Paragon system in Diablo 4 will add a new way to approach character customization to the game with the Paragon Board."
+publishedDateTime: 2021-12-21T14:30:00Z
+originalUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/"
+webUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/"
+ampWebUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
+cdnAmpWebUrl: "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
 type: article
-quality: 87
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: Twinfinite
-  domain: twinfinite.net
+  name: Blizzard Watch
+  domain: blizzardwatch.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.blizzardwatch.com/wp-content/uploads/2020/07/diablo-4-header-campfire.jpg"
+    width: 675
+    height: 380
     isCached: true
 
 related:
@@ -72,21 +74,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Diablo 4 Paragon Board expands end-game progression with endless potential"
-    excerpt: "Though it's still in development, the Paragon system in Diablo 4 will add a new way to approach character customization to the game with the Paragon Board."
-    publishedDateTime: 2021-12-21T14:30:00Z
-    webUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/"
-    ampWebUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
-    cdnAmpWebUrl: "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
+  - title: "Diablo 4 Update Adds New Endgame Paragon Board Progression System"
+    excerpt: "Blizzard released its final Diablo 4 blog of the year, detailing a variety of quality of life improvements and changes coming soon."
+    publishedDateTime: 2021-12-20T13:16:00Z
+    webUrl: "https://twinfinite.net/2021/12/diablo-4-update-adds-new-endgame-paragon-board-progression-system/"
     type: article
     provider:
-      name: Blizzard Watch
-      domain: blizzardwatch.com
-    quality: 103
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
     images:
-      - url: "https://cdn.blizzardwatch.com/wp-content/uploads/2020/07/diablo-4-header-campfire.jpg"
-        width: 675
-        height: 380
+      - url: "https://twinfinite.net/wp-content/uploads/2021/12/diablo-4.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 Update Details Changes to the Paragon System"
     excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
@@ -103,6 +103,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "03W03Cg9axs7lSpaQdSwP8Inh20Cj8fho/y7T2h7SkuzNbx/u3LvLH7GeUhLZyStWk+LLX/yeak/lEulvIfm29WidpQ0sjHeuJMnxSWYDHaofFxTRsaM/Dh8B7oyfx8UeN6/w32UxqvzH5Ep9kJPA7CV4/um3uj8B1RczXXiBsBzBWNyzkxTp0h0rv0GcUQB9MWoe8hx7SnZSg0HAFwiFOMjXDriFPZS02UgUW+AkL6QxSsX8zrFyEKQbxRz9oyn4cNfmB/OkSIp68r+wTDvISQFieFPzdYOftXnqaa7iHZnz4xkBVafjYmbjydC0SpsXyPji/RU73b/0drSsejPk+WCG2GiPnScOKkSwGKem8s=;NUQCI5VDqSjgVFGP0WoGqg=="
+secured: "rjsAj0SAbSX7gLWE/XJCiZjeRy7i9FSKyvG3ozp3usmR2l/jAUzVVM14D6PdSVkQ77ly5MPjcQgeNEEmnC9vnim3isjSq5gf9qOkMu4mppai6stRav7ePIMMAI18WM0o9xLia0cHU0H/VtL6rwBVvahZLEqd4b7O1O4iF0+1JYsUtOnRCrlgEmK+xnV3AAlOD5cS46plynhDhkwrC51TtlZfPT0FFbcvQYZoE5giX9feNVB+tOIrCSjEXMS9SPwsNUuxYKGufbtjJ20KdoNDVfZg2465nOvgcqcSNonzduatOaVlYzOnvh3CIuJ1hBEXL6QtTSojsNoragh3TcnCOE9sT/HM2s7YiKobMoXUC+0=;kJmQf93xh/y/Aex9X1veUA=="
 ---
 
