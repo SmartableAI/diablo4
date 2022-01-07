@@ -36,36 +36,6 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
-      "path": "_games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021.md",
-      "title": "Newest -Diablo IV Sorceress Official Gameplay 2021",
-      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=h4Xct8PtKYo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4Xct8PtKYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M21S",
-      "provider": {
-        "name": "Games Recap",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h4Xct8PtKYo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-02T00:31:39-07:00"
-    },
-    {
       "path": "_games/mrcasual-diablo-4-vs-diablo-3-barbarian-first-impresion-compare.md",
       "title": "Diablo 4 vs Diablo 3 Barbarian First Impresion Compare",
       "excerpt": "Thanks for watching and if you like (or not    ‍♂️) my video don't forget to subscribe!",
@@ -921,6 +891,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T04:00:08-07:00"
+    },
+    {
+      "path": "_games/der-ryback-diablo-iv-druide-gameplay-german.md",
+      "title": "Diablo IV Druide Gameplay German",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/der-ryback-diablo-iv-druide-gameplay-german/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/der-ryback-diablo-iv-druide-gameplay-german/",
+      "originalUrl": "https://youtube.com/watch?v=GfwraRtzWaE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GfwraRtzWaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M10S",
+      "provider": {
+        "name": "Der Ryback",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GfwraRtzWaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-04T07:48:20-08:00"
     }
   ],
   "nextPage": 2
