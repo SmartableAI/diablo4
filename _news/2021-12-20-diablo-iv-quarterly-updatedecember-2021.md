@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021"
 type: article
 quality: 162
-heat: 242
+heat: 222
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "Diablo 4 Dev Update Breaks Down Itemization, Visuals, & More"
-    excerpt: "Blizzard has revealed the last Q4 dev update for Diablo 4, detailing itemization, visual effects, and more for the upcoming game."
-    publishedDateTime: 2021-12-20T10:34:00Z
-    webUrl: "https://mp1st.com/news/diablo-4-dev-update-breaks-down-itemization-visuals-more"
-    type: article
-    provider:
-      name: mp1st.com
-      domain: mp1st.com
-    quality: 67
   - title: "Diablo 4 quarterly update details Legendary items and endgame progression"
     excerpt: "More insight into the mechanics players will get to know in-game. What you need to know Blizzard Entertainment is sharing quarterly updates on the development of Diablo 4. This update focuses on how ..."
     publishedDateTime: 2021-12-20T13:23:43Z

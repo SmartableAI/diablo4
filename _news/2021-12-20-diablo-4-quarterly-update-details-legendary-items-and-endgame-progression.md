@@ -62,15 +62,6 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "Diablo 4 Dev Update Breaks Down Itemization, Visuals, & More"
-    excerpt: "Blizzard has revealed the last Q4 dev update for Diablo 4, detailing itemization, visual effects, and more for the upcoming game."
-    publishedDateTime: 2021-12-20T10:34:00Z
-    webUrl: "https://mp1st.com/news/diablo-4-dev-update-breaks-down-itemization-visuals-more"
-    type: article
-    provider:
-      name: mp1st.com
-      domain: mp1st.com
-    quality: 67
 
 secured: "FzvNovd1TozwYTWNiv7Pu5mFW+m2Qg9lj+a/2qfTvGvURnFAq6xYCwnavjRVNRtCskg6Zv3+7QpoEB5pI0HfuTGAKqOVS6Jq6Xs98GrF+/7gpkSjX9bNSdC35ncE/elz8XeSJU/lgZN0eJFYF9iJ36dYSSQ8OWoZB3ExmJmKrzMiZ6Ybx2Nt+KI4NjDCo1ntrla5wszv4DCx3iL469h0Z6sXSKvZoUE/RoybHGP7XSuc4ZyW/MXSM7ROCijWpT0ouEY4cgAd5hBu9nNGaKJQyblC4fcBYknyXc8lmY8Cc2d9iDvyM/LVdSti//WBdvxw8+t+m5y8evMk6BVpLmV8n87rrNg4g1vCBFt0ApPtFI4=;nYYDRSGlI7j/MdQpHHDgQQ=="
 ---
