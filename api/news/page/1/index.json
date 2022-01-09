@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-23-diablo-4-getting-a-new-endgame-progression-system.md",
+      "title": "Diablo 4 getting a New Endgame Progression system",
+      "excerpt": "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-23-diablo-4-getting-a-new-endgame-progression-system/index.json",
+      "webUrl": "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/",
+      "originalUrl": "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technosports.co.in/wp-content/uploads/2021/12/maxresdefault-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp",
+      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp",
+      "publishedDateTime": "2021-12-22T20:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-diablo-4-development-update-brings-fresh-new-look-to-legendary-gear-class-skills-end-game-character-and-more.md",
       "title": "Diablo 4 development update brings fresh new look to legendary gear, class skills, end game character, and more",
       "excerpt": "Diablo 4's itemization The developers announced that the +Skill Rank affix is returning in Diablo 4. Joe Piepiora, Lead Systems Designer, shares that: \"As players invest points in skills, they ...",
@@ -115,48 +157,6 @@
       "provider": {
         "name": "From Software",
         "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned.md",
-      "title": "Diablo 4 Will Use Diablo 3’s Paragon System, But Key Changes Are Planned",
-      "excerpt": "Blizzard has confirmed that Diablo 4 will bring back the Paragon system from Diablo 3, but with major changes planned.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/index.json",
-      "webUrl": "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/",
-      "originalUrl": "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.psu.com/wp/wp-content/uploads/2021/12/Diablo4-1.jpeg",
-          "width": 768,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Play Station Universe",
-        "domain": "psu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -295,6 +295,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes.md",
+      "title": "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes",
+      "excerpt": "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "publishedDateTime": "2021-12-20T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1069,48 +1120,6 @@
       "provider": {
         "name": "Red Bull",
         "domain": "redbull.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard.md",
-      "title": "Diablo 4 director and two other devs “let go” from Activision Blizzard",
-      "excerpt": "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard/index.json",
-      "webUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
-      "originalUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Loadout",
-        "domain": "theloadout.com",
         "images": null,
         "publishers": null,
         "authors": null

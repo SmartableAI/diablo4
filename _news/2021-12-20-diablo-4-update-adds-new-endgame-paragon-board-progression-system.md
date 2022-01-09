@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Is Getting A New Endgame Progression System In The Paragon Board"
-    excerpt: "In a new quarterly update, Blizzard dives deep on itemization, the new Paragon Board progression system, and more."
-    publishedDateTime: 2021-12-20T10:00:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 146
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3920079-d4_new_quarterly_update.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes"
     excerpt: "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ..."
     publishedDateTime: 2021-12-20T13:58:00Z
@@ -56,38 +40,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Diablo 4 getting a New Endgame Progression system"
-    excerpt: "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ..."
-    publishedDateTime: 2021-12-23T04:40:00Z
-    webUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/"
-    ampWebUrl: "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 107
-    images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2021/12/maxresdefault-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Diablo 4 Paragon Board expands end-game progression with endless potential"
-    excerpt: "Though it's still in development, the Paragon system in Diablo 4 will add a new way to approach character customization to the game with the Paragon Board."
-    publishedDateTime: 2021-12-21T14:30:00Z
-    webUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/"
-    ampWebUrl: "https://blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
-    cdnAmpWebUrl: "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/12/21/diablo-4-paragon-board/amp/"
-    type: article
-    provider:
-      name: Blizzard Watch
-      domain: blizzardwatch.com
-    quality: 103
-    images:
-      - url: "https://cdn.blizzardwatch.com/wp-content/uploads/2020/07/diablo-4-header-campfire.jpg"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Diablo 4 Update Details Changes to the Paragon System"
     excerpt: "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system."
     publishedDateTime: 2021-12-21T09:13:00Z
@@ -101,6 +53,34 @@ related:
       - url: "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4 Will Use Diablo 3’s Paragon System, But Key Changes Are Planned"
+    excerpt: "Blizzard has confirmed that Diablo 4 will bring back the Paragon system from Diablo 3, but with major changes planned."
+    publishedDateTime: 2021-12-21T04:58:00Z
+    webUrl: "https://www.psu.com/news/diablo-4-will-use-diablo-3s-paragon-system-but-key-changes-are-planned/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 86
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2021/12/Diablo4-1.jpeg"
+        width: 768
+        height: 417
+        isCached: true
+  - title: "Diablo 4 to Bring Back Paragon System from Diablo 3 and Skill Rank Bonuses from Diablo 2"
+    excerpt: "Albeit in a way that feels like the best of both worlds and something distinctly new. From the very beginning Diablo IV has felt like the next step for the franchise, something new and expansive built ..."
+    publishedDateTime: 2021-12-20T21:48:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 78
+    images:
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/vfx_skillDrivenDeaths.mp4_20211221_162816.043.jpg"
+        width: 695
+        height: 390
         isCached: true
 
 secured: "03W03Cg9axs7lSpaQdSwP8Inh20Cj8fho/y7T2h7SkuzNbx/u3LvLH7GeUhLZyStWk+LLX/yeak/lEulvIfm29WidpQ0sjHeuJMnxSWYDHaofFxTRsaM/Dh8B7oyfx8UeN6/w32UxqvzH5Ep9kJPA7CV4/um3uj8B1RczXXiBsBzBWNyzkxTp0h0rv0GcUQB9MWoe8hx7SnZSg0HAFwiFOMjXDriFPZS02UgUW+AkL6QxSsX8zrFyEKQbxRz9oyn4cNfmB/OkSIp68r+wTDvISQFieFPzdYOftXnqaa7iHZnz4xkBVafjYmbjydC0SpsXyPji/RU73b/0drSsejPk+WCG2GiPnScOKkSwGKem8s=;NUQCI5VDqSjgVFGP0WoGqg=="
