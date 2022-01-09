@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2019-12-27-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-a-true-successor.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer  Blizzcon 2019 (REACTION) A TRUE SUCCESSOR!",
+      "excerpt": "Whats up everyone! Is this finally going to be the Diablo we have been waiting for? Another video on our reaction stop. Hope you enjoy! Original video: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-12-27-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-a-true-successor/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-12-27-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-a-true-successor/",
+      "originalUrl": "https://youtube.com/watch?v=uyfn5qJEhJM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uyfn5qJEhJM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uyfn5qJEhJM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-12-27T11:51:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Captain Komplex",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-12-03-system-design-in-diablo-iv-part-ii.md",
       "title": "System Design in Diablo IV (Part II)",
       "excerpt": "In Part II of our deep dive into community feedback on system design, David Kim addresses community concerns and team thoughts about itemization.",
@@ -1026,48 +1068,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Nexos",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer (Jane and JV REACTION 🔥)",
-      "excerpt": "JV GAMING➜https://www.youtube.com/watch?v=Mj_9psoLIvY&list=PLhTZ6Ooe9zJWWLSpympKCowJVFAQUCtni Check out the Podcast on iTunes: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-/",
-      "originalUrl": "https://youtube.com/watch?v=6-ZeNp2r79E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6-ZeNp2r79E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6-ZeNp2r79E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T21:30:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "See Jane Go TV",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

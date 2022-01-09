@@ -212,6 +212,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-mastery-levels-will-return-in-diablo-4-new-info.md",
+      "title": "Mastery Levels Will Return in Diablo 4; New Info",
+      "excerpt": "Blizzard has released another quarterly update regarding Diablo 4. With this, we learned more about the systems featured in the game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-mastery-levels-will-return-in-diablo-4-new-info/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34",
+      "originalUrl": "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamepressure.com/gallery/html/news/1043054218.jpg",
+          "width": 720,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=15924",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=15924",
+      "publishedDateTime": "2021-12-20T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too.md",
       "title": "Diablo 4’s gory kills look absolutely brutal – and its endgame is looking good, too",
       "excerpt": "Diablo 4 is unlikely to release before the end of 2022, but regular updates from the development team mean we’re getting a good feel for how the game is likely to pan out. Blizzard Activision ...",
@@ -1079,48 +1121,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-what-has-diablo-2-resurrected-made-you-want-for-diablo-4.md",
-      "title": "What has Diablo 2: Resurrected made you want for Diablo 4?",
-      "excerpt": "One thing is clear -- a shared stash is crucial for a Diablo game, and Diablo 4 needs to have one. But in playing D2R, I keep thinking about how I really m ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-09-28-what-has-diablo-2-resurrected-made-you-want-for-diablo-4/index.json",
-      "webUrl": "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/",
-      "originalUrl": "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2021/08/Diablo_II_Char_Select_Act2_header.jpg",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/09/28/diablo-2-resurrected-made-want-diablo-4/amp/",
-      "publishedDateTime": "2021-09-27T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

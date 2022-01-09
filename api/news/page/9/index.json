@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer (Jane and JV REACTION 🔥)",
+      "excerpt": "JV GAMING➜https://www.youtube.com/watch?v=Mj_9psoLIvY&list=PLhTZ6Ooe9zJWWLSpympKCowJVFAQUCtni Check out the Podcast on iTunes: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-/",
+      "originalUrl": "https://youtube.com/watch?v=6-ZeNp2r79E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6-ZeNp2r79E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6-ZeNp2r79E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T21:30:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "See Jane Go TV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-03-diablo-iv-feature-overview.md",
       "title": "Diablo IV Feature Overview",
       "excerpt": "We know you’re all eager to learn as much about Diablo IV as possible, so to get you started, we&amp;#39;re taking a comprehensive look over the features and details being shared at BlizzCon 2019!",
@@ -1018,48 +1060,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "XboxViewTV",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019.md",
-      "title": "Diablo IV - Official Announce Cinematic Trailer | \"By Three They Come\" | BlizzCon 2019",
-      "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-official-announce-cinematic-trailer-by-three-they-come-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=WmKZaMDmwCo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WmKZaMDmwCo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WmKZaMDmwCo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T11:36:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot Trailers",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
