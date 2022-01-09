@@ -86,6 +86,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system.md",
+      "title": "Diablo 4 Update Details Changes to the Paragon System",
+      "excerpt": "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system/index.json",
+      "webUrl": "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/",
+      "originalUrl": "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress.md",
       "title": "‘Diablo 4’ development update provides new details on current progress",
       "excerpt": "Blizzard Entertainment has shared an update on the development of Diablo 4. READ MORE In a new Blizzard blog pos ...",
@@ -221,6 +263,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-20-diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2.md",
+      "title": "Diablo 4 to Bring Back Paragon System from Diablo 3 and Skill Rank Bonuses from Diablo 2",
+      "excerpt": "Albeit in a way that feels like the best of both worlds and something distinctly new. From the very beginning Diablo IV has felt like the next step for the franchise, something new and expansive built ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2",
+      "originalUrl": "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.ausgamers.com/gameres/7407/images/695/vfx_skillDrivenDeaths.mp4_20211221_162816.043.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming.md",
       "title": "'Diablo 4' Blog Reveals Massive Buildcrafting Changes, Target Farming",
       "excerpt": "\"Diablo 4's\" Legendary farming and Paragon leveling will be receiving some hefty updates, according to Blizzard's latest quarterly update.",
@@ -271,7 +355,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -1036,90 +1120,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-what-do-you-most-want-to-see-in-diablo-4.md",
-      "title": "What do you most want to see in Diablo 4?",
-      "excerpt": "One thing the Diablo series has always been hit or miss on is story -- there are some amazing moments in all three of the current games, but some real clun ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-09-15-what-do-you-most-want-to-see-in-diablo-4/index.json",
-      "webUrl": "https://blizzardwatch.com/2021/09/15/want-see-diablo-4-2/",
-      "originalUrl": "https://blizzardwatch.com/2021/09/15/want-see-diablo-4-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2019/11/diablo-4-art-chains.jpg",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2021/09/15/want-see-diablo-4-2/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/09/15/want-see-diablo-4-2/amp/",
-      "publishedDateTime": "2021-09-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward.md",
-      "title": "Inside Diablo 4 - How Blizzard is pushing the series, and genre, forward!",
-      "excerpt": "Join us as we take an in-depth look at the past, present and future of Diablo in a three-part series with insight from the teams at Blizzard making it happen. Part Three: Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward/index.json",
-      "webUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
-      "originalUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/8/16/sjj6dbu1yms5cujnnhtf/diablo-4-in-game-screenshot",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.redbull.com/au-en/diablo-4-blizzard-insights",
-      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/au-en/diablo-4-blizzard-insights",
-      "publishedDateTime": "2021-08-15T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Red Bull",
-        "domain": "redbull.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2019-11-03-diablo-iv-feature-overview.md",
+      "title": "Diablo IV Feature Overview",
+      "excerpt": "We know you’re all eager to learn as much about Diablo IV as possible, so to get you started, we&amp;#39;re taking a comprehensive look over the features and details being shared at BlizzCon 2019!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-iv-feature-overview/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23189677/diablo-iv-feature-overview",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23189677/diablo-iv-feature-overview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
+          "width": 760,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-02-diablo-4-announcement-everything-you-need-to-know.md",
+      "title": "Diablo 4 Announcement: Everything You Need To Know!",
+      "excerpt": "Diablo 4 has been announced at BlizzCon 2019. In this video I go over everything you need to know about this upcoming Blizzard Entertainment game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announcement-everything-you-need-to-know/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announcement-everything-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=Xmt_nsacr98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xmt_nsacr98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xmt_nsacr98/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T15:51:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LowkoTV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction-and-review.md",
       "title": "Diablo IV Announce Cinematic | By Three They Come- REACTION and REVIEW!!!",
       "excerpt": "Diablo IV Announce Cinematic | By Three They Come- REACTION and REVIEW!!! Support us on Patreon! https://www.patreon.com/MackeyFamReacts Hey!",
@@ -966,90 +1060,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GameSpot Trailers",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-asmongold-reacts-to-diablo-4-announcement-cinematic-gameplay-blizzcon-2019.md",
-      "title": "Asmongold Reacts To Diablo 4 Announcement Cinematic & Gameplay - Blizzcon 2019",
-      "excerpt": "Asmongold Reaction to DIABLO IV ANNOUNCEMENT TRAILER: By Three They Come. Diablo IV takes place many years after the events of Diablo III, after ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-asmongold-reacts-to-diablo-4-announcement-cinematic-gameplay-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-asmongold-reacts-to-diablo-4-announcement-cinematic-gameplay-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=6quwgd7wd3U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6quwgd7wd3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6quwgd7wd3U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T11:32:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Dose of Asmongold",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-official-cinematic-announcement-trailer-by-three-they-come-blizzcon-2019.md",
-      "title": "Diablo IV - Official Cinematic Announcement Trailer | \"By Three They Come\" | BlizzCon 2019",
-      "excerpt": "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High Heavens and Burning Hells alike.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-official-cinematic-announcement-trailer-by-three-they-come-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-official-cinematic-announcement-trailer-by-three-they-come-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=-9SJzvKcBhQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-9SJzvKcBhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-9SJzvKcBhQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T11:24:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
