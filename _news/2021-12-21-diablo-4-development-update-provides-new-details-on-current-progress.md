@@ -8,9 +8,6 @@ webUrl: "https://www.nme.com/news/gaming-news/diablo-4-development-update-provid
 ampWebUrl: "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp"
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp"
 type: article
-quality: 107
-heat: 107
-published: true
 
 provider:
   name: NME
@@ -25,6 +22,6 @@ images:
     height: 1270
     isCached: true
 
-secured: "318RKxC0dvDmLAwTc/BRFqZ17oyYjf6RDud6nsxyYH35SFSs9aJXGebVxF8u7KhU/4Q7N0zYddEPd5qw1DV0cFgnoonTk34u7Rlj3LCieTnjliA/KRwpbzl5tpOGY3v9672qLq576keAlcMad1v12KG7GWJti4h1zOL6zfTXLqzC8FbvFiKcKdwR8NpsYRGuBNd2NAJHbFGdL1ZVcYc50NKe69PtFJvIQx+cCK2B4ODhWM3KrOa3RjnZm1wBQ/qRHmJx22opjI8j/v3lwhIJTdq6yCUXdXf/TS8sPwGpU3b3034Uei/ZovKv+RV3P2oe4xjoTjp5oLBbWRME4XAJco8IXM9r1V6O07gd1zB+x/I=;KYXWvYxEXf/3rVJlhaBVIQ=="
+secured: "MroktjbhJJyaO3Xfc7aMfILKa0kwqUut5s+Cw5xjZMuQu9bmgR25WG6vwx2+42Z/TQdubd8WAFTBVUAAtBxzPPz79SoLEt1Tuiy5gWGZ8L5Me+O5zp4sjkPOyB9ipF+2YtZjSACfnKoXAEHiKOvNdEflf12xoIaojKcVCjRixfUZspsAEp5JkhQV23pNLpAuPqo9Xdo7nvLsdQIQWF8FzZMjI17nsIspwvgcR4jumfvgDxSvdeEDsq8pIqRfYFROOpkvWR4YXjQLBrboLON3Fv2xXgoA9dP92Os/fuCxUmRPd7f0w327H/gx/6WG8YoBoI6Zfsy7Pv/VDNe/v5c6fbCLmbQrDantYVbhT+Ln+nM=;aHfYwxXAsFsFZulyWP9J1w=="
 ---
 
