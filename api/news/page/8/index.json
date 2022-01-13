@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-05-penguinos007-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Penguinos007 Reacts to Diablo 4 Official Announcement Cinematic Trailer (Blizzcon 2019)",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-01-05-penguinos007-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-01-05-penguinos007-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=HA-QFLB9cZE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HA-QFLB9cZE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HA-QFLB9cZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-05T11:21:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penguinos007",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-12-27-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-a-true-successor.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer  Blizzcon 2019 (REACTION) A TRUE SUCCESSOR!",
       "excerpt": "Whats up everyone! Is this finally going to be the Diablo we have been waiting for? Another video on our reaction stop. Hope you enjoy! Original video: ...",
@@ -1026,48 +1068,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "AztBang",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement.md",
-      "title": "Blizzcon 2019 Reacts to DIABLO 4 Announcement!",
-      "excerpt": "This is how Blizzcon 2019 crowd reacted to announcement of Diablo 4 during opening ceremony! ♢ Buy games with code \"NEXOS\" for 3% CashBack ♢ Buy ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=NOZASlIeOQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOZASlIeOQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NOZASlIeOQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T21:39:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nexos",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

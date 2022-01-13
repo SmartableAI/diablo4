@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3.md",
+      "title": "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’",
+      "excerpt": "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ddba7d243d9e40469458fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1573%26cropY1%3D0%26cropY2%3D885",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/07/01/a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3/amp/",
+      "publishedDateTime": "2021-06-30T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-holy-hell-diablo-4-looks-gorgeous-in-a-totally-gross-way.md",
       "title": "Holy hell, Diablo 4 looks gorgeous (in a totally gross way)",
       "excerpt": "Blizzard’s latest quarterly update on the development of Diablo 4 gives a deep-dive look at its gorgeously gruesome art style. From a gameplay perspective, perhaps the most important aspect is that ...",
@@ -1043,48 +1094,6 @@
       "provider": {
         "name": "Agent Reacts",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4.md",
-      "title": "Diablo 2 Resurrected Developer ‘Vicarious Visions’ is Also Helping Out on Diablo 4",
-      "excerpt": "From the impressive Tony Hawk's Pro Skater 1 and 2 remake from last year and Diablo 2: Resurrection on track for release later this year (check out our hands-on impressions here) Vicarious Visions has ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4/index.json",
-      "webUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
-      "originalUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ausgamers.com/gameres/7605/images/695/Season_3_-_Diesel_Wraith.jpg",
-          "width": 695,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aus Games",
-        "domain": "ausgamers.com",
         "images": null,
         "publishers": null,
         "authors": null

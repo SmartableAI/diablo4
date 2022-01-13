@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4.md",
+      "title": "Diablo 2 Resurrected Developer ‘Vicarious Visions’ is Also Helping Out on Diablo 4",
+      "excerpt": "From the impressive Tony Hawk's Pro Skater 1 and 2 remake from last year and Diablo 2: Resurrection on track for release later this year (check out our hands-on impressions here) Vicarious Visions has ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
+      "originalUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ausgamers.com/gameres/7605/images/695/Season_3_-_Diesel_Wraith.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-diablo-2-resurrected-dev-vicarious-visions-to-help-with-diablo-4.md",
       "title": "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4",
       "excerpt": "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ...",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "Diablo PL",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue.md",
-      "title": "Diablo 4’s latest class is the dagger and bow-wielding Rogue",
-      "excerpt": "At BlizzConOnline, Blizzard’s newest Diablo 4 announcement was an update on a classic: The return of the Rogue class from the original Diablo game, who’ll be playable alongside the Barbarian, Druid, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/index.json",
-      "webUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
-      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.criticalhit.net//2021/02/Diablo-4-rogue-9.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "criticalhit.net",
-        "domain": "criticalhit.net",
         "images": null,
         "publishers": null,
         "authors": null

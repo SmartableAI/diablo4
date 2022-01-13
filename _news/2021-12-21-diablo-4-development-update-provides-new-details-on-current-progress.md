@@ -1,12 +1,12 @@
 ---
 category: news
 title: "‘Diablo 4’ development update provides new details on current progress"
-excerpt: "Blizzard Entertainment has shared an update on the development of Diablo 4. READ MORE In a new Blizzard blog pos ..."
-publishedDateTime: 2021-12-21T09:08:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937"
-webUrl: "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937"
-ampWebUrl: "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp"
-cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp"
+excerpt: "The development team has \"made big strides\" with Diablo IV. Blizzard Entertainment has shared an update on the development of Diablo 4. In a new Blizzard blog post, the developers confirmed that the ..."
+publishedDateTime: 2021-12-21T22:49:00Z
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460"
+ampWebUrl: "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460?amp"
+cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460?amp"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 1270
     isCached: true
 
-secured: "AEt2dRZ1QF+/SgqgZy1XCjlSzfItp+/KQDxvWk442Ac+o6ndYSjTAxatggXAYvxxllBzTIpE8jHK98PrWGVx/e+baGaxH76x2TgZ5Dt0+T9xAcc7mzfPAwVMRYyTwv/VqMAbHCA5Y6XUNZeI3fldy9oz0m3KScSrlwEwofJ6ZpyrM4FMYAK+rOPuTt90qWdZIjjPUtzb6YiNjCBNJ+2+Ei5aEGqQ9MHhLdycTUttiUO7rWiaFf9PxvhuO77AdlrGdBnyuih56NVP3Ww8J2adTMC5dXYeFEed7O4g5FaTwJfu4qx/7iDYfS/5BX7OHK8Bl5Q/KKt8qQFQHRP8A0CVE8FC1KxPsx3dfjVF0kW3fkE=;6y3+QYVo8sCJm3kQWbXBGQ=="
+secured: "0Zig+9ZAyEBNXhVKBe1wGTjT/EK+WVxB7Eo396gbIxNgiwBw7fazHn6eA9IZhYJjm80Bda7DDbDduUqd8QmyUnE/+KzUp+EOmOsf2VzhmFAqWQEP5MAJmuv8eiUnSWP2Lv3FvUheEPwhn4glMOyFaffEvrUZ+we29Pf+L1BrLCld216zbkiYH5eW6Zx6MwTVm/fOFzwUuaDjH7t82qNucl4tOEaPW7Leie80xbf5n3gxz+e4aX1tFhQTS/pTx4kJV5TzD5f2XD8nfXz4yrG88J2VEq7Nz6xHJSyWz1SvHtVHYBdivJ5kSh6vtsBPgjQ9BEoRAn4EHQutgZJLMaJYFIFkZClv6DYwwg7i+kWRdSg=;RbN1fbcv2GaVu9y/d8Bbmg=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-when-is-the-diablo-4-release-date-probably-not-until-2024-at-the-earliest.md",
+      "title": "When is the Diablo 4 release date? Probably not until 2024 at the earliest",
+      "excerpt": "We once thought we would be playing Diablo 4 by 2022, but now it looks like the game is unlikely to arrive for another year or two. So what happened? Life ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-11-when-is-the-diablo-4-release-date-probably-not-until-2024-at-the-earliest/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/01/11/diablo-4-release-date/",
+      "originalUrl": "https://blizzardwatch.com/2022/01/11/diablo-4-release-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/11/DiabloImmortalFace.jpg",
+          "width": 675,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2022/01/11/diablo-4-release-date/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/01/11/diablo-4-release-date/amp/",
+      "publishedDateTime": "2022-01-10T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-diablo-4-getting-a-new-endgame-progression-system.md",
       "title": "Diablo 4 getting a New Endgame Progression system",
       "excerpt": "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ...",
@@ -86,6 +128,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress.md",
+      "title": "‘Diablo 4’ development update provides new details on current progress",
+      "excerpt": "The development team has \"made big strides\" with Diablo IV. Blizzard Entertainment has shared an update on the development of Diablo 4. In a new Blizzard blog post, the developers confirmed that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2021/02/diablo-iv-rogue@2000x1270.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460?amp",
+      "publishedDateTime": "2021-12-21T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system.md",
       "title": "Diablo 4 Update Details Changes to the Paragon System",
       "excerpt": "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system.",
@@ -115,48 +199,6 @@
       "provider": {
         "name": "Gameranx",
         "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress.md",
-      "title": "‘Diablo 4’ development update provides new details on current progress",
-      "excerpt": "Blizzard Entertainment has shared an update on the development of Diablo 4. READ MORE In a new Blizzard blog pos ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress/index.json",
-      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937",
-      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2021/02/diablo-iv-rogue@2000x1270.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3123937?amp",
-      "publishedDateTime": "2021-12-21T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1063,57 +1105,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-diablo-iv-quarterly-updateoctober-2021.md",
-      "title": "Diablo IV Quarterly Update—October 2021",
-      "excerpt": "Learn more about the sound design of Diablo IV in this next Quarterly Developer Update.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-iv-quarterly-updateoctober-2021/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23731236/diablo-iv-quarterly-update-october-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/r6/R60LYBMC12GV1633114007854.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
