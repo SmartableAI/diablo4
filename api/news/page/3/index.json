@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight.md",
+      "title": "Diablo 4 is Fixing a Big Diablo 3 Oversight",
+      "excerpt": "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight/index.json",
+      "webUrl": "https://heavy.com/games/diablo-4-character-creation/",
+      "originalUrl": "https://heavy.com/games/diablo-4-character-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2021/07/diablo-4-character-update.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/games/diablo-4-character-creation/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/diablo-4-character-creation/amp/",
+      "publishedDateTime": "2021-07-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-a-diablo-4-update-is-here-correcting-a-mistake-of-diablo-3.md",
       "title": "A ‘Diablo 4’ Update Is Here, Correcting A Mistake Of ‘Diablo 3’",
       "excerpt": "While Diablo 4 is still a few years away, Blizzard has committed to releasing hefty quarterly updates on what is no doubt the most expansive project they’re currently working on.",
@@ -1052,48 +1094,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts.md",
-      "title": "I DIDN'T EXPECT THAT! | Diablo IV Announce Cinematic - By Three They Come REACTION (Agent Reacts)",
-      "excerpt": "Hope you liked it! If you did, make sure to smash that like button down below, subscribe and turn on the bell for future notifications! Original video: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts/",
-      "originalUrl": "https://youtube.com/watch?v=tIwNN3ktQnI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tIwNN3ktQnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tIwNN3ktQnI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T06:15:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Agent Reacts",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

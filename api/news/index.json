@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-19-bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty.md",
+      "title": "Bobby Kotick Blames Activision Blizzard Stock Sink On Overwatch 2, Diablo 4 And Call Of Duty",
+      "excerpt": "While Microsoft will not say it outright, the very likely outcome is that while Bobby Kotick remains CEO of Activision Blizzard for the moment, when the deal is finalized and everyone starts reporting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-19-bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61507aaea1129206d04f6a27/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/amp/",
+      "publishedDateTime": "2022-01-18T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-when-is-the-diablo-4-release-date-probably-not-until-2024-at-the-earliest.md",
       "title": "When is the Diablo 4 release date? Probably not until 2024 at the earliest",
       "excerpt": "We once thought we would be playing Diablo 4 by 2022, but now it looks like the game is unlikely to arrive for another year or two. So what happened? Life ...",
@@ -1061,57 +1112,6 @@
         "name": "GameInformer",
         "domain": "gameinformer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-diablo-4-has-a-new-director.md",
-      "title": "Diablo 4 Has a New Director",
-      "excerpt": "Joe Shely, who has worked on World of Warcraft and DIablo 3, has taken over as director of Diablo 4. In today's Diablo 4 quarterly update, Shely said he is honored to continue the vision of the next ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-4-has-a-new-director/index.json",
-      "webUrl": "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director",
-      "originalUrl": "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/news/d/diablo-4-h/diablo-4-has-a-new-director_f5eh.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
