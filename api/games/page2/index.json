@@ -276,26 +276,26 @@
       "publishedDateTime": "2021-11-19T03:15:12-08:00"
     },
     {
-      "path": "_games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021.md",
-      "title": "New MustWatch - Diablo IV Barbarian Official Gameplay 2021",
+      "path": "_games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021.md",
+      "title": "Newest -Diablo IV Sorceress Official Gameplay 2021",
       "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=cCVfdPQYJhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cCVfdPQYJhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M42S",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/",
+      "originalUrl": "https://youtube.com/watch?v=h4Xct8PtKYo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4Xct8PtKYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M21S",
       "provider": {
         "name": "Games Recap",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Sorceress"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cCVfdPQYJhg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/h4Xct8PtKYo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -303,7 +303,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-11-01T13:19:34-07:00"
+      "publishedDateTime": "2021-11-02T00:31:39-07:00"
     },
     {
       "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
@@ -334,6 +334,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-30T18:30:01-07:00"
+    },
+    {
+      "path": "_games/gamesrecap-new-mustwatch-diablo-iv-druid-official-gameplay-2021.md",
+      "title": "New MustWatch - Diablo IV Druid Official Gameplay 2021",
+      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamesrecap-new-mustwatch-diablo-iv-druid-official-gameplay-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamesrecap-new-mustwatch-diablo-iv-druid-official-gameplay-2021/",
+      "originalUrl": "https://youtube.com/watch?v=GG2GnEaWad0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GG2GnEaWad0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M21S",
+      "provider": {
+        "name": "GamesRecap",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GG2GnEaWad0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-01T10:47:27-07:00"
     },
     {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
@@ -876,37 +906,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-12T16:24:35-08:00"
-    },
-    {
-      "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
-      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
-      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M45S",
-      "provider": {
-        "name": "lzuniy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T11:25:33-07:00"
     }
   ],
   "nextPage": 3
