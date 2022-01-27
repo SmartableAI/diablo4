@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/128423/kotick-claims-overwatch-2-d
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/128423/kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit?amphtml=1"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 96
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61507aaea1129206d04f6a27/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Blizzard Promises Updates On Overwatch 2 & Diablo 4 “Over The Coming Weeks”"
+    excerpt: "Blizzard Entertainment is currently working on a brand new triple-a survival game which will introduce an all-new universe. The developer though wants to ..."
+    publishedDateTime: 2022-01-27T03:08:00Z
+    webUrl: "https://segmentnext.com/updates-overwatch-2-diablo-4/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 85
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2022/01/Overwatch-2-Omnic.jpg"
         width: 1200
         height: 675
         isCached: true
