@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-01-diablo-4s-look-is-inspired-by-renaissance-and-medieval-paintings.md",
+      "title": "Diablo 4’s look is inspired by Renaissance and medieval paintings",
+      "excerpt": "Since the beginning of the series, Diablo has always had a look: dark and gothic, even the grainy pixels of the original RPG game exuded a specific mood. It’s seen changes in the quarter century since ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4s-look-is-inspired-by-renaissance-and-medieval-paintings/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/old-masters-renaissance-art",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/old-masters-renaissance-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/07/raft-of-the-medusa.jpg",
+          "width": 1920,
+          "height": 1298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/old-masters-renaissance-art?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/old-masters-renaissance-art?amp",
+      "publishedDateTime": "2021-07-01T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-diablo-4-is-fixing-a-big-diablo-3-oversight.md",
       "title": "Diablo 4 is Fixing a Big Diablo 3 Oversight",
       "excerpt": "Meanwhile, support for Diablo 3 has continued and we’re on the cusp of Diablo 2: Resurrected, so the present and future of the franchise is looking quite good. Despite this, it’s no secret that the ...",
@@ -1061,39 +1103,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard.md",
-      "title": "Diablo 4 will “advance the art of the action-RPG genre”, says Activision Blizzard",
-      "excerpt": "Activision Blizzard chief operating officer Daniel Alegre mentions that the company feels that Diablo 4 will “advance the art of the action-RPG genre”. Alegre also notes that development on the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-05-diablo-4-will-advance-the-art-of-the-action-rpg-genre-says-activision-blizzard/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/action-rpg",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/action-rpg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/action-rpg?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/action-rpg?amp",
-      "publishedDateTime": "2021-05-05T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

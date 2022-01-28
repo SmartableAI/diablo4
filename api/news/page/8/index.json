@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-26-diablo-iv-quarterly-updatefebruary-2020.md",
+      "title": "Diablo IV Quarterly Update—February 2020",
+      "excerpt": "Join the Diablo IV team in previewing the content we&amp;#39;re hard at work developing! In our first quarterly update, we dig into UI design, PC controller support, couch co-op, and the savage cannibals of the Dry Steppes.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-02-26-diablo-iv-quarterly-updatefebruary-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23308274/diablo-iv-quarterly-update-february-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23308274/diablo-iv-quarterly-update-february-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/gallery/NC9DXF73C74Z1582662150907.jpg",
+          "width": 706,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-01-30-diablo-4-official-announcement-cinematic-trailer-reaction.md",
       "title": "Diablo 4 Official Announcement Cinematic Trailer | Reaction",
       "excerpt": "This was a re-upload as my old account got disabled. So be sure to re-subscribe as well! :) ✨Twitch✨ I stream via Twitch every Sunday, Tuesday & Thursday ...",
@@ -1026,48 +1078,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Best of McConnell",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight.md",
-      "title": "Fated Connections 21 Highlights | feat. SOMAYD and ibadda | Diablo 4 Announcement, ExileCon, Blight",
-      "excerpt": "FULL PODCAST ▻▻ https://youtu.be/Csav-pr0y7U LIVE STREAM ▻▻ https://www.twitch.tv/catmasterOP TWITTER ▻▻ https://www.twitter.com/catmasterOP ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/",
-      "originalUrl": "https://youtube.com/watch?v=aPoz7CLjCWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aPoz7CLjCWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aPoz7CLjCWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-03T09:30:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CatmasterOP",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-27-diablo-immortal-should-satisfyingly-bridge-the-gap-to-diablo-4.md",
+      "title": "Diablo Immortal Should Satisfyingly Bridge the Gap to Diablo 4",
+      "excerpt": "Diablo Immortal was much-maligned by a number of fans when it was first revealed all the way back at BlizzCon in 2018. This mobile, free-to-play take on the Diablo series was originally seen as ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-27-diablo-immortal-should-satisfyingly-bridge-the-gap-to-diablo-4/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-immortal-beta-preview/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-immortal-beta-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2021/03/18/8d5dcf24-4cb1-4d8b-b9df-b3ee682d196b/xbox-one-games-with-gold-1237385.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-immortal-beta-preview/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-immortal-beta-preview/",
+      "publishedDateTime": "2022-01-27T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit.md",
       "title": "Kotick claims Overwatch 2 & Diablo 4 delays affected ATVI stock more than abuse lawsuit",
       "excerpt": "According to Bobby Kotick, the ongoing toxicity and leadership issues at Activision Blizzard didn't affect the company as much as its major game delays.",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "Dot Esports on MSN.com",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-diablo-4-design-lead-joe-shely-promoted-to-game-director.md",
-      "title": "Diablo 4 Design Lead, Joe Shely, Promoted To Game Director",
-      "excerpt": "Diablo 4's design lead, Joe Shely, has been promoted to game director and will now lead development on Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-08-diablo-4-design-lead-joe-shely-promoted-to-game-director/index.json",
-      "webUrl": "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director",
-      "originalUrl": "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/10/08/b61d817e/scosglen_goatmen_1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director?amp",
-      "cdnAmpWebUrl": "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director?amp",
-      "publishedDateTime": "2021-10-07T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameInformer",
-        "domain": "gameinformer.com",
         "images": null,
         "publishers": null,
         "authors": null
