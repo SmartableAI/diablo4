@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Bobby Kotick Blames Activision Blizzard Stock Sink On Overwatch 2, Diablo 4 And Call Of Duty"
-    excerpt: "While Microsoft will not say it outright, the very likely outcome is that while Bobby Kotick remains CEO of Activision Blizzard for the moment, when the deal is finalized and everyone starts reporting ..."
-    publishedDateTime: 2022-01-19T06:02:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/01/19/bobby-kotick-blames-activision-blizzard-stock-sink-on-overwatch-2-diablo-4-and-call-of-duty/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61507aaea1129206d04f6a27/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "tVKbAcGJy4rLCZXmJ6rdN9TpQAnOiuT4lE28LsaGILAlAujb3Ox816MawZQiIktLm71zjRaNBjtagWKnreubSEcnrotAp/k1B+PaGBv3k9gKw+mO9CTr4yR/YIJIiJEMvZjXFUc/ldGRgfLwN+NzGGWTsyEWkPgXfxzItokVeR5TBjmtIn3IBW8HKSXQMDmZfCg1xTSah5h18hr3K+SrbMjpTu9K+n8r12Qk5nJu9wxv6dhLLiwVtBlMWy9ko/ctwDh15b03ocf4tMPitY6SaPsV8+nS4QQyaM+tfYLtPI25qUVxT9uVSaltj5vs8jqiGzHkE9flK9lu99fmrufpTZQgn5MGZY4XEwdCgbhSVhc=;iezkRyq9FA/Es6iyfj2eFw=="
 ---
