@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay.md",
+      "title": "Diablo 4 - Sorceress Gameplay & Comparison - 20 Minutes of Gameplay",
+      "excerpt": "Hi All, More of a podcasty type gaemplay view of the Sorceress, comparing with two other ARPG's I have played or have been playing in Last Epoch and Wolcen ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-sorceress-gameplay-comparison-20-minutes-of-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=3KZqT6Zvv6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3KZqT6Zvv6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M38S",
+      "provider": {
+        "name": "Ecxoes Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3KZqT6Zvv6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-12T06:18:06-07:00"
+    },
+    {
       "path": "_games/exellion-diablo-4-september-2020-quarterly-update-sorceress-update-skills-and-talents.md",
       "title": "Diablo 4 - SEPTEMBER 2020 QUARTERLY UPDATE - Sorceress Update, Skills and Talents!",
       "excerpt": "Like and ❤️Subscribe if you enjoyed the video! The Diablo 4 September 2020 Quarterly Update is HERE! In this video I go over the update and express some of ...",
@@ -485,36 +515,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-22T07:00:10-08:00"
-    },
-    {
-      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p.md",
-      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 2 [FHD 1080p]",
-      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/",
-      "originalUrl": "https://youtube.com/watch?v=ku-rElv48ho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ku-rElv48ho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M21S",
-      "provider": {
-        "name": "GameWorld",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ku-rElv48ho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-23T04:20:19-08:00"
     },
     {
       "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
