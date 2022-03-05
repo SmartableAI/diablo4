@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=i0CntI1Ez_U
 type: video
 length: PT1H1M50S
 publishedDateTime: 2019-11-03T20:06:38Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "mhcf2FToR8rJoIBo0IYm7RYt4hE7BpDHGSMD5ZLYIqSjlh7qpHJOYkdB61+26lEVnC50QJtSsgZceF8UxcUa7U3h0fRB2ZQKa22yWMPLHsIg9C47XSpTO9SHYT4e1+NdUuSRCqiu0VSKUOeJDmm9Se8A4IgGkWhU0L3SIUN5CpP7QGjNuK4fPBE5JU0oepseS+HMH95b1un5sQ3lL3jg2wsHLDjKL3Bg3f3gNMfBxGz/JOhSqR9D1TfJyTA6nx8ZpjMTpyx63vCEQTEMIVwmEYRNZ5ldL8t6fs7zwi00t1ZEmWoa+u08Ml3kt0reHfOsSBjtAEsTB5I9xzq58Hz/7rG5DIQ7KopUdYOMqqxKSV/QsgnXK7ErUXsMD2siVYKD6aauGv7r5sEpQ/xORhLJOm8wcltux53ULpoo0ErmvwEwiX8Orxa+5WQ/wv0NR5i2;V/xdUQn3v1sL2Z5OSmRafA=="
+secured: "m+x/O2hYnMbe2ZZuESwTarImodcbyF/4H+Yu8tKNrzkMPnANgj5w7FoJoGnXMn3SD3rjCAi/XiRc+8VWDoUNWNG53gulmjBbtLRzeIWChBJzyBbYfsYjvXgSN4RoGwebjdHcwjKQrrqH0iKI7pexSCsjw3WAklwP89FukhPAUqF4XuoPih8hq+jFOuuIQQjfiw0P4lPC8ZRcyx89cgXwd73BTyFgkMPSRXcdF8U3te6+CUXTGEy8YfSI4YPnOpouQOXNd8+t3WzAnaVPazITU75cSisaTda4bCCbBb7nCjmEm1fT1vrXjfN8IwEGEJpLdBHAky7LzAdlCGAYiKz0X6fD+MlDvlksP4WV8MfFDr/oTXnmLrAHW0jd6+2y+ZJJFKAOXdu+DuLFVjvrzMoWaQSFxeH1ha8AmJ5CsAKriN2zuLIuIOzgKwriXy/X54an;3NAxe3BFnpL9bqjWKXTUFg=="
 ---
 
