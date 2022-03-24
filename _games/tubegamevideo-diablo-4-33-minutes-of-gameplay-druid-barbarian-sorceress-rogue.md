@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/tubegamevideo-diablo-4-33-minutes
 type: video
 length: PT33M19S
 publishedDateTime: 2021-06-22T14:21:03Z
-heat: 90
+heat: 88
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qfeYy1fvUPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hnSbOYQF8jT0764EYd2Zf/pIb4oLIar4jLIN4I+ZFH3KPuVTmujsmrUHgDE1XR8jJ/0ZXjzkGVa7vMqt8FFIxybOjM6h7PpR1Cf/Rb+bQSSmQvACXKFHJ6EjvGAH02vzOQmRlB+1Lq/Ck0rrd7GpG+2kHAN6pJ3pBSQFCaw8BxweVcIs8VqSza/CbtZk2M9oA90jzjcxqW748cwrKcfZJeOchuhf6xeWcF+DnOEWC1Bk9KiXAPhBVK3CtIub12FXl6tfQD0976sePZFlflNItOPoUbPvMXQYwiJxEQCuLPIsk05+Fvc6+1hdYvt04+Fmfpwbu2NVAE09/FhISrygF9Va+LcwlIEAV64diGGliBBTE4IPbY+VpoC6w4q3PSD+liVz0EQ+WC7VP6Ri7VIxfYfJpJBEbkmetMv/mx8nxPMcc1AV8yLki4KU0f29rNsW;2rqyvWL4DM1X01mVGbYp4A=="
+secured: "PsAT6N8aFp0wDMN6rUdr1v332nmeSdUxzBE+coZ/bDO7SPmiqyIm/19bzANHp8thNTvmKzv9umm9SVx9J8u6wkjIeBRwhxvxDupN9PH+dqfMrlfMVX7w4kFTwh85ICPElQltyqKog9KeYZU7iDKfQ5w3gxvTVFo/VTx6cg5vmJ/3IJGwfgfl3NFcnxlkAcd4Eqp1NfqiEpD3uAomNvYyhq76k1INWdz4KvJPPIToL2acL6+wEuKBbUOXDj6605bMHdWBRsER3Nj/DMgvT9b2fVhLB+XjDdWXNqvGRnhtNEfugMJXJW5o8PWcrwpNX1Ibps1fzG9CokExqtHGvvDAl0+mbp8ozSnmq50SRxmZBAcbaMAR8eOymkygbbiJYVKB6YhLRgMLVMKW6yzShzQz6WZoKOfXLVPnv8vI4RlMvGdUydt6NtdGlMq7uo7rHJiE;VWQ8cNPzxTlYsFpVKTqs6w=="
 ---
 
