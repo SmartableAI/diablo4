@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/blizzard-responds-to-fan-frustration-ov
 webUrl: "https://www.gamesradar.com/blizzard-responds-to-fan-frustration-over-diablo-4-updates/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "szOXzziGo6DtpfOC3WEnn6fBRBsYX3tExoeLOdBCya5iMIuoOPNLUPNkDa/Guwd4wtvN9S8ekBk7c2v3rmad9089JBJC0Gajzuf4ocWSe6DkVOfMPEEJma4TOAxHVJUV5e+wn2fDGVse0BSDE1Ge7DY8ahqBJP7i7cPZkWlMWcZgVrdbzU//U1qJqwBgjz6ycIlsoh926U6kKNPbBQmYOtLqZi2BWG5h9I5kWZgTlbMZqYQdj2cckCrS+MB7ASk7ILdQ8xf3LYpBSp/JuAIbM5DRCD2aaJ2MDYJyQKBRcbU7NIBFE2a2QaP2O/wugYFJfWhIDF3idmHk82wKe4zDExMG7x4a20dGk9VWDbPYB7I=;u3ttw5Ts/0HwRA/b1gdtXw=="
+secured: "waQWJ91icJ7oHqYUd044oa6F7ss5gj4m4NMvN91fNO1gImdDdl4pP+Lirs028J3uL+613BXSO+a4jRSMkUGBWVB+DJU/G6ZTpnNfH4QxSMB2DV2mANIBsE8VJqDw6Fyv1T3iY0wgaEV1jH2s3JEmxniT+jLK5ArUqLOH8B6af96C0IlzN3qgppxsWFsfhZVuTgYGSKbZt4R4WQWVxVKepnzILKsu/cDrW5TEpc10qJYdsVD6hlTJRmIfuUoAtbUDkMqo/WD7XqrXcUyFINI4KYMNVPZE+of42bpV/ec2XBK/eFUkKajtA1TV83sZgggGm+izwVIL804/C4Exx6EnABO1Q9kW9InJC5mJhH/QdAY=;uxo/U1MSh9qlOADqioWiog=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-te
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
