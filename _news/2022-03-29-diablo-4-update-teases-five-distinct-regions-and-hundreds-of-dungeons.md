@@ -3,8 +3,8 @@ category: news
 title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
 excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
 publishedDateTime: 2022-03-29T10:00:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
-webUrl: "https://www.gamesradar.com/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
+originalUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
+webUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
 type: article
 quality: 87
 heat: 107
@@ -34,6 +34,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "qre74teJvaS+Cj2S6AF6cidbzf+pJpqHwr6yFYdvWyF3VcfE/Yy/QceYeqhiDYQrEIQ/Rzg9DEbnp0ARQ2RHWEr3U7htHqmKmLKxAPcz/tSpMq0/c1OZEgs1y1hy4sJxeYgl8NGx8l3+R4GRgAXb1J3S+uERNECVzR/jLinItbGrwF4LJPI3ZUVSAUhTS8xSceEdfPrEJQQ2Gbw1y8e1ecNp+RE4KSSm2DHr2aJVB1rtOM/5B0mQdr9+t8bPZaVD6iNbxFq4/GCauBLLO3nm+N2hrZRFB9yZpxmpsC5zCU+6P08Nm4oKKgZ0GAtSDj3/g05nnPQibB+xACGdz/LMM0FAsB8db3USz462tExjhZc=;ybSPX7FkjWShshCZWuHkKQ=="
+secured: "BNPn9Tfs7MVhgVn1UibOsKcj6NQwSukMojuhKJFRUrlWwIjX0RaQGMhbiEuU/j1orV9tyYAOwQJddnNgJP0G5NkPG31/9L47s/CGmVZGlg4WZgkFC6iKQe7aA6p7lQOR/45FRPL/HrW5Ee0FSUQynDoqkuRsb2tOc+fvpBTkuAR86x/DO/XeQ0Sz4puX/XoP21uunZ2011ia3fRi/UdIGrZEOo12/wFlWuRAKz5P4Ox4BplsahDIElwfox7nghRO7hQBTGBdkOuV1WR4e4UHdrr4gZNWYQaEKaZgQpjMX7sRiuZtxmzbui0iDIcFN0vW8lNm3LwSafxy9yC1zJzmptq9I7VL/pFUQsd+sp672Bo=;O47Izgr+JG8UvCrMghThdA=="
 ---
 

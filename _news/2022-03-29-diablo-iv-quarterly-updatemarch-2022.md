@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022"
 type: article
 quality: 162
-heat: 202
+heat: 242
 published: true
 
 provider:
@@ -59,6 +59,36 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Diablo 4 Gets New Update From Blizzard"
+    excerpt: "Diablo IV is once again in the spotlight with Blizzard sharing another quarterly update about the game ahead of its release. This is the first update on the new Diablo game that we've gotten this year ..."
+    publishedDateTime: 2022-03-29T11:33:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-quarterly-update-march-2022/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-quarterly-update-march-2022/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-quarterly-update-march-2022/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/03/18/ae4a8473-4c74-493d-ba59-117cebed6b2b/nintendo-switch-pro-space-2-1251724.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
+  - title: "Diablo 4 quarterly update focuses on environmental art"
+    excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
+    publishedDateTime: 2022-03-29T12:30:00Z
+    webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "BgH0nGg1hnQjXr/frdkSXTifMUx5fNPHD56eyYa3rlouduVHEDmufPR7DhGCg/gRfI0wM7wAJHY/QWPlDnTLYNhxiw/QLErKZks4fscGC7CgbVLEgSyrTOoNeqnIZHejf6TyVMDxWMNH8kf3TlxbeoyqSJeILQxR3iherJxpTPqAbRgwfWKikMywq3k2nN5a6AEOsp/sYLkNdc7UrsAuCoJSACSKcv+XWt18lxF3mkwXXG7nnYbxP0PxRvsjXq4ABHPeXcHrtjxNqc/qgKLPshPr5T/6DQmQfQuvFL/hETy9oKehYqYOkFtEGPz4IrYkU+uTB6ozRsuesZy8/H8Yo+TlmhVMpo6HiN01+bqH2Es=;5AiKhlV6We7E3Ots1ajwMA=="

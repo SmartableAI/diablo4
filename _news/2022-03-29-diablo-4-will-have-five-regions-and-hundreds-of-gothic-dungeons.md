@@ -21,7 +21,7 @@ related:
   - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
     excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
     publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
+    webUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
     type: article
     provider:
       name: GamesRadar

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "New Diablo 4 Tease Has Diablo Fans Excited"
-excerpt: "A new Diablo 4 tease has Diablo fans excited. Diablo 4 -- or Diablo IV as it's officially known -- was announced by Blizzard back on November 1, 2019. That was well over two years ago. Despite this, ..."
-publishedDateTime: 2022-03-24T08:09:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
+title: "Diablo 4 quarterly update focuses on environmental art"
+excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
+publishedDateTime: 2022-03-29T12:30:00Z
+originalUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
+webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
-    width: 568
-    height: 320
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -56,6 +54,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "New Diablo 4 Tease Has Diablo Fans Excited"
+    excerpt: "A new Diablo 4 tease has Diablo fans excited. Diablo 4 -- or Diablo IV as it's officially known -- was announced by Blizzard back on November 1, 2019. That was well over two years ago. Despite this, ..."
+    publishedDateTime: 2022-03-24T08:09:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Diablo 4 Gets New Update From Blizzard"
     excerpt: "Diablo IV is once again in the spotlight with Blizzard sharing another quarterly update about the game ahead of its release. This is the first update on the new Diablo game that we've gotten this year ..."
     publishedDateTime: 2022-03-29T11:33:00Z
@@ -72,21 +86,7 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 quarterly update focuses on environmental art"
-    excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
-    publishedDateTime: 2022-03-29T12:30:00Z
-    webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
-secured: "tM/xRUuGoSsiq64KnIbetfD7hbXyC0cxzGp5Pe9Nja45ZfKAsIJHZOEFjPfeyxj+0NaZptGXQ+4LSQ7CkhR3iqHbIG1MIksYL7kyigTKv2uhRvnl7P+Ifp/9HGjOoQrrTcSMJ0iTmhaNC7HoCrUV35Jx9Jsv5ZawZl0SjKrVv1jFxArviRXH/phdsWHm6WxUyY7rTQgFyXWJG8AxVDOveAMMem4C+fWRJV1LbjjOXEKhoypbIh6mjseq06q7GAAhZNuWHwQJMZZ+CiXFgaVcHDELubBHV6Whf2Mo9KRo8P7plUxzP5DgN8RTdGAIv9CbU3owt/ipkSxWUVF8c3XrdDFYMo/Kg8stcf+4aN49spo=;HbV5xfPTMM/ieacROVdLbQ=="
+secured: "PNW94hwLfMQts3Xp8l0w4hDYnVkj72ug4YIlguWECakT5WkLELOLKYnSkui0XofPA6n6eVfyO4wYYyEUrlBcCf3bWO0NXoRSLipR1RVw0awBJU77Ip0od58lH/1FaQrwYoxc22aJYHnn9gLS7bnLCrXQR0Ymn98jEZyaY0pwme1+Xx5SWNncXU+bWBjB44VL9zFD4jZcvaq1z7lRcpy3Z83OPMOQPzpqUsOsvuZufr84hPLlKJQ1v1lytv7IVYoz8qgznrOOEM5SoNmN/OhhF4xWybW8EnGUf54BZJ1kq0eX67rUFNi11cAkZ900h/DQGIWyGp+qapBsClqrFh4KsDGblyB7ZS28RC3pYP99xeE=;SKaO5Il5MCGTt9mRrYlGfQ=="
 ---
 

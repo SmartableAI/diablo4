@@ -1,12 +1,12 @@
 ---
 category: news
-title: "New Diablo 4 Tease Has Diablo Fans Excited"
-excerpt: "A new Diablo 4 tease has Diablo fans excited. Diablo 4 -- or Diablo IV as it's officially known -- was announced by Blizzard back on November 1, 2019. That was well over two years ago. Despite this, ..."
-publishedDateTime: 2022-03-24T08:09:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
+title: "Diablo 4 Gets New Update From Blizzard"
+excerpt: "Diablo IV is once again in the spotlight with Blizzard sharing another quarterly update about the game ahead of its release. This is the first update on the new Diablo game that we've gotten this year ..."
+publishedDateTime: 2022-03-29T11:33:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-quarterly-update-march-2022/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-quarterly-update-march-2022/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-quarterly-update-march-2022/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-quarterly-update-march-2022/"
 type: article
 quality: 107
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
+  - url: "https://sportshub.cbsistatic.com/i/2021/03/18/ae4a8473-4c74-493d-ba59-117cebed6b2b/nintendo-switch-pro-space-2-1251724.jpg?width=568&height=320"
     width: 568
     height: 320
     isCached: true
@@ -56,19 +56,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 Gets New Update From Blizzard"
-    excerpt: "Diablo IV is once again in the spotlight with Blizzard sharing another quarterly update about the game ahead of its release. This is the first update on the new Diablo game that we've gotten this year ..."
-    publishedDateTime: 2022-03-29T11:33:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-quarterly-update-march-2022/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-quarterly-update-march-2022/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-quarterly-update-march-2022/"
+  - title: "New Diablo 4 Tease Has Diablo Fans Excited"
+    excerpt: "A new Diablo 4 tease has Diablo fans excited. Diablo 4 -- or Diablo IV as it's officially known -- was announced by Blizzard back on November 1, 2019. That was well over two years ago. Despite this, ..."
+    publishedDateTime: 2022-03-24T08:09:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
     type: article
     provider:
       name: Comicbook.com
       domain: comicbook.com
     quality: 107
     images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/03/18/ae4a8473-4c74-493d-ba59-117cebed6b2b/nintendo-switch-pro-space-2-1251724.jpg?width=568&height=320"
+      - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
         width: 568
         height: 320
         isCached: true
@@ -87,6 +87,6 @@ related:
         height: 450
         isCached: true
 
-secured: "tM/xRUuGoSsiq64KnIbetfD7hbXyC0cxzGp5Pe9Nja45ZfKAsIJHZOEFjPfeyxj+0NaZptGXQ+4LSQ7CkhR3iqHbIG1MIksYL7kyigTKv2uhRvnl7P+Ifp/9HGjOoQrrTcSMJ0iTmhaNC7HoCrUV35Jx9Jsv5ZawZl0SjKrVv1jFxArviRXH/phdsWHm6WxUyY7rTQgFyXWJG8AxVDOveAMMem4C+fWRJV1LbjjOXEKhoypbIh6mjseq06q7GAAhZNuWHwQJMZZ+CiXFgaVcHDELubBHV6Whf2Mo9KRo8P7plUxzP5DgN8RTdGAIv9CbU3owt/ipkSxWUVF8c3XrdDFYMo/Kg8stcf+4aN49spo=;HbV5xfPTMM/ieacROVdLbQ=="
+secured: "hTcxZAL6/XkTP6EqfW2Wn8LX+jOgcuRjkwHE4DZTaXRFFm8riEFOM1GFUP5PogtEVSrYAemed6sJU1fdwopQQ32XlvXNXL8LBztnhRCDyRiTKL0dipD3sxntCLQlneMJkw3HY/ECyTourAcU2lwBA0L6RtXqHqrEpV9/ecD+88JETCoPtSk7taYbQvK+V87LvWmnf53qnX+u0/ByBq+XhMLKk7bJahyAPN+KJ9X48vZ3KhtTa7iR1KMJfIzaOeEX4cUGA1zt1XyWalfn7Ej3okHjhF0vaJAeNmmo8azX+JTztG18LdwFGlLU8txwqIa17kuVjsm4RaFiztkefzUVmT20gMHncMh/0iviqxGP3vI=;kwNhqObxiP59Gv9Jl31myg=="
 ---
 
