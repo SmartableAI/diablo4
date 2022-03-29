@@ -16,11 +16,11 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
+  - url: "https://i.ytimg.com/vi/0vE3rAjtqUY/maxresdefault.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "iXqgfrdC7R9X+RTcrEiVfLhRrlNwT0JgFRTekSQmK/EXhPt5DqYvrt/gPthI+ySIkR4/j2LSLltP/6ki7qsMo4TXTb6XfpMysu7xYz0Cvk74HUyxapfyV+yvL50x1nKhlFSZIrj8msmhLxDDwT2A/22SzWg0+h4rSqvCJknYbLDW9kIIC4FIkHIsNDe/tV7t9IYwyqa1zaZyX5ekzdEKGsaLeSN+EhxlkMVAworE+tYG8w3++VhT1h47NZgX20uighMJByuvNJWt4u4qfrcsvKblERKzlHEwkKBEhd25J4+Za8XPz0PqaVMPPiwN5il9dYeF9rW4du9W7hL6wteCShWxvKfZ2CulaLJBMRbmkQTjC7Ut9hQaj+unRppmeJTP10WgawkTi5UXcxdNfUzw3A==;PB6Jl3pHnnSF/zb6oLFn3g=="
+secured: "AEwnRbrfcmQv4krKF8xDG7WlyPbQEKrR/OS5osTwPwlnckqJma3niYATWZR4TRnYck1eCXCwngyg6/CNfd6UUC7D6A4FRgmnPmOAdTWBx/B8dXua45ndorfxm/jI5VEF77Z+r9sVRpru4/0QBVA9rOSOviVQetswFdszFTIIvprmJNMoGMnocfjqLaHATcZBFLrDGsUJSB9Vw70gOHWiMm0T1fIQEeuZnSuUU0TAgl3ZUhHMWuPCwYNAkUCWkG/rlE30/KQqHfPreWqjndatFMHjY4biz7/i5T3+xRNclGJgQYlGWOfYTFLjgUo83VLhUBRhNvNyE/L//6yEnwEwE3LJW4p+g/AO5cKY3hwsKYD2kvxRK/e2sX8acIEfqjpXao8H8ggfNVqpUyzdw8nzTA==;TRabQP9PIdQZjm7u94V3nA=="
 ---
 
