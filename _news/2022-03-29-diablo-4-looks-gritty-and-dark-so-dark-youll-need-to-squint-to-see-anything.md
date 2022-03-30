@@ -3,11 +3,11 @@ category: news
 title: "Diablo 4 looks gritty and dark – so dark you'll need to squint to see anything"
 excerpt: "It's been a hot minute since we've had some Diablo 4 news – three months in fact. But the devs are back with a quarterly update and a fresh batch of screenshots. The takeaway from the latest blog post ..."
 publishedDateTime: 2022-03-29T10:27:00Z
-originalUrl: "https://www.techradar.com/uk/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything"
-webUrl: "https://www.techradar.com/uk/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything"
+originalUrl: "https://www.techradar.com/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything"
+webUrl: "https://www.techradar.com/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "TbC71QOeqZu0i56zIUxJ6oUTLr97fyHxjiAS5uY0Ofkn6cwpe1HWHwkfGuADopIcdnixXeZliywTfK57hV/QBVh9b5MskN3hmhY/kPSDeR/8Ia6M3Zbc8ZTsbMSP09ZVeu/xKpZWMI4cZ+Aur+4wHW3VmYrHRKLSc8Puwv5UGzXsLAke2Neg2E497YOqk1ImBmeFQI1wXgdA8UCaAxCLZQNB/+nvOu5Fu8udaheQgDr1uzdT5IFOkvRisLBQduqFa1qWPKVWoxyrqpkG8Bnevk2k44pNsaBjHhmOrSDOjSsmbr4yO5nejGRCtVOG+ixs9W0ABDETPyKHFThIFBV5xHYBEb+Vd1FDzuEPHzVQIzY=;kp6l0uLK3Z4ttuLCUvvmGw=="
+secured: "4GrDzFdwH4I+HYr7EbQ6KJ3Mxs9iISqjWh9WNZFH2zVjm1nj+ki4Zf8EZJWlUyQY6qeTyOfz52ncRq+OHllZXOqsdGTnN45PYcxDmj25GTOqfjVyCtBS1fHC37I4YzVWpUD3sU9WYTYaa9sUiJGevtdwh/JmRx9deptG6ZURO+4XPA+zsRTeMbVhs69PLD+6sUpYD7vjP1F2Mt15/Dkezohsd14lQ9P4RvXULl9uqVZJoHufR6eOWnNPxBTKEuYyWZ/e7PSoC4IwuB/P83qv4z6GEPxJW7UKvDGuaO8PD097Bzl51uHh1zZ4HNFsHW7NQIKu2Aq1WswIrzr7bTlZfpmydkObIj4HRnIbppgSob8=;LcmjJW0Hs5sxEMViw9Wj/A=="
 ---
 
