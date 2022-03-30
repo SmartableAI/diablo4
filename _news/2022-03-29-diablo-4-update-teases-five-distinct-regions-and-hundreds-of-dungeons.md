@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct
 webUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘Diablo 4’ will include “five distinct regions and hundreds of dungeons”"
+    excerpt: "In a blog for Diablo 4, Blizzard has shared that fans can expect “five distinct regions and hundreds of dungeons” in the upcoming game, and detailed how the studio’s art team has designed each area."
+    publishedDateTime: 2022-03-30T03:44:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 86
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/03/Diablo-4-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Diablo 4 will have five regions and hundreds of gothic dungeons"
     excerpt: "The latest quarterly update for Diablo 4 reveals that there’ll be more than 150 dungeons and five regions ripe for exploration. On Tuesday, Blizzard gave some insight into Diablo 4’s sprawling open ..."
     publishedDateTime: 2022-03-29T10:43:22Z
