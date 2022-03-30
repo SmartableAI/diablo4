@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/diablo-4-looks-gritty-and-dark-so-d
 webUrl: "https://www.techradar.com/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:

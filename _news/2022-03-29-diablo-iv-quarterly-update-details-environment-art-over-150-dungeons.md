@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 quarterly update focuses on environmental art"
-excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
-publishedDateTime: 2022-03-29T12:30:00Z
-originalUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
-webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
+title: "Diablo IV quarterly update details environment art, over 150 dungeons"
+excerpt: "Diablo 4 was delayed last fall, but Blizzard appears to be hard at work on the next dungeon-crawling, loot-gathering entry in the popular RPG series. “Appears” is a good word here, because we just got ..."
+publishedDateTime: 2022-03-29T21:16:00Z
+originalUrl: "https://www.gamepur.com/news/diablo-iv-quarterly-update-details-environment-art-over-150-dungeons"
+webUrl: "https://www.gamepur.com/news/diablo-iv-quarterly-update-details-environment-art-over-150-dungeons"
 type: article
-quality: 87
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Gaming Polls
+  domain: gamepur.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
-    width: 800
-    height: 450
+  - url: "https://assets.gamepur.com/wp-content/uploads/2022/03/29225300/diablo-4.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -86,21 +86,21 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo IV quarterly update details environment art, over 150 dungeons"
-    excerpt: "Diablo 4 was delayed last fall, but Blizzard appears to be hard at work on the next dungeon-crawling, loot-gathering entry in the popular RPG series. “Appears” is a good word here, because we just got ..."
-    publishedDateTime: 2022-03-29T21:16:00Z
-    webUrl: "https://www.gamepur.com/news/diablo-iv-quarterly-update-details-environment-art-over-150-dungeons"
+  - title: "Diablo 4 quarterly update focuses on environmental art"
+    excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
+    publishedDateTime: 2022-03-29T12:30:00Z
+    webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
     type: article
     provider:
-      name: Gaming Polls
-      domain: gamepur.com
-    quality: 72
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
     images:
-      - url: "https://assets.gamepur.com/wp-content/uploads/2022/03/29225300/diablo-4.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
+        width: 800
+        height: 450
         isCached: true
 
-secured: "PNW94hwLfMQts3Xp8l0w4hDYnVkj72ug4YIlguWECakT5WkLELOLKYnSkui0XofPA6n6eVfyO4wYYyEUrlBcCf3bWO0NXoRSLipR1RVw0awBJU77Ip0od58lH/1FaQrwYoxc22aJYHnn9gLS7bnLCrXQR0Ymn98jEZyaY0pwme1+Xx5SWNncXU+bWBjB44VL9zFD4jZcvaq1z7lRcpy3Z83OPMOQPzpqUsOsvuZufr84hPLlKJQ1v1lytv7IVYoz8qgznrOOEM5SoNmN/OhhF4xWybW8EnGUf54BZJ1kq0eX67rUFNi11cAkZ900h/DQGIWyGp+qapBsClqrFh4KsDGblyB7ZS28RC3pYP99xeE=;SKaO5Il5MCGTt9mRrYlGfQ=="
+secured: "T6Qtt0jPIcfaJ/MFEQVOR4kWICyz68Ua/v0Xm50/VL+wEku2/WgNIL16yXwdndyiW1NY6Ve5d9XWxjTSisFYaVmdedvhOv0n0T4zzkTMFf25ldB8xW2PvIGHgioneXpNdo5mE/kRn1eYmBaoAQY/ZkBhbE547NLDH+K9wzHdjUyBAnZPtVunH53eZpL7jOzrl7TS1EorapghcwTDt6aQoqrWTdGsG3qfDu5HxO022OVijjgOYfvC4PjfVMHg074nXHj9g/zUGqkftVIxQKRg0YpneLXJaWn0dn/4WCzkvIRwIZeWDnasuQB8lcYIa2kX7J1qsdhQKUAUWbQVzwGUoVQyZmo9gYLKKh4bCtYfldo=;lJ63IjWGEfIVe/oL4UPduA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022"
 type: article
 quality: 162
-heat: 242
+heat: 263
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Diablo IV quarterly update details environment art, over 150 dungeons"
+    excerpt: "Diablo 4 was delayed last fall, but Blizzard appears to be hard at work on the next dungeon-crawling, loot-gathering entry in the popular RPG series. “Appears” is a good word here, because we just got ..."
+    publishedDateTime: 2022-03-29T21:16:00Z
+    webUrl: "https://www.gamepur.com/news/diablo-iv-quarterly-update-details-environment-art-over-150-dungeons"
+    type: article
+    provider:
+      name: Gaming Polls
+      domain: gamepur.com
+    quality: 72
+    images:
+      - url: "https://assets.gamepur.com/wp-content/uploads/2022/03/29225300/diablo-4.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BgH0nGg1hnQjXr/frdkSXTifMUx5fNPHD56eyYa3rlouduVHEDmufPR7DhGCg/gRfI0wM7wAJHY/QWPlDnTLYNhxiw/QLErKZks4fscGC7CgbVLEgSyrTOoNeqnIZHejf6TyVMDxWMNH8kf3TlxbeoyqSJeILQxR3iherJxpTPqAbRgwfWKikMywq3k2nN5a6AEOsp/sYLkNdc7UrsAuCoJSACSKcv+XWt18lxF3mkwXXG7nnYbxP0PxRvsjXq4ABHPeXcHrtjxNqc/qgKLPshPr5T/6DQmQfQuvFL/hETy9oKehYqYOkFtEGPz4IrYkU+uTB6ozRsuesZy8/H8Yo+TlmhVMpo6HiN01+bqH2Es=;5AiKhlV6We7E3Ots1ajwMA=="
