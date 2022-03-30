@@ -18,6 +18,22 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons"
+    excerpt: "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ..."
+    publishedDateTime: 2022-03-30T12:47:00Z
+    webUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons"
+    ampWebUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
+    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
+    type: article
+    provider:
+      name: GameInformer
+      domain: gameinformer.com
+    quality: 107
+    images:
+      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
     excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
     publishedDateTime: 2022-03-29T10:00:00Z

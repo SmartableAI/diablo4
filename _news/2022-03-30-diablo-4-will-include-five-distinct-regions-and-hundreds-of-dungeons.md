@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons"
+    excerpt: "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ..."
+    publishedDateTime: 2022-03-30T12:47:00Z
+    webUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons"
+    ampWebUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
+    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
+    type: article
+    provider:
+      name: GameInformer
+      domain: gameinformer.com
+    quality: 107
+    images:
+      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
     excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
     publishedDateTime: 2022-03-29T10:00:00Z
@@ -48,6 +64,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "zWxGEk9p5Fuz/NHHOd+kiOAYhXz+2R/QrESXjS1NvXzqatA3H0OcAzZrC6IqWDa7RjkSVEMsTqXe2rh7GIeRZ4orVDL3RxeQZWvRXea/SQO3v6y7FVR2nWx/jhiwP9aSrJiW6jdzDsprZSrqAgqxbed5FDVIJz0/9muazzllnOJi4LiaOoD4eD3/+JTFKZlMZqnBzoRo1y98RNZd+9mDuULa2sFGMV+qhd/icBlJws4bOGFpu9rwkpdztUOiEOllZDX26UBCyyfVRSU1+AzXL2ZL3sWQhX2Lhpc5vzmMFqd99qoaiyNF82FvvcTzpQf+MCcEvA2w+xv4EMEDgdxXoGLM+E1nFH2u4x44LirV1Xw=;EH1Ad47InJnXjy7vak5zqQ=="
+secured: "fR4a5TnNmpz0y2LUcsPSerx8Z9qUmU+gt52ZI4eom3V/d2EXL6dq+pIPDXUNHxcq+Kt98PuEK/fqzplJ83Jy9RruNH9lZWGe1DvvpAvaDsPBVcDzgcZ14RwOAAEtLpPxbWr2kDaTAYd7cbZNQ+z0x8lnzP/iF9BDLI0Bm/vFJ1L+0Uu5HPygYsJ4VjpPpQKTfflEKAZ5GAeetEWE778TbDw7wP3DWOfIV3spUDaYFRcfRmvO0aUcFDjMeaMz+02r82B8Ni77D0X8xpph/BR/MJZlgwPhK0AJ0OuMoO7N95qSWZu4wxC64n+RQ306uFR+CGz3Ib0LxjQa0duQpyp/UJ5Ih5z4hkwp7NgLMfx5+PU=;GSEeJP8hni8YAs2LLP2HdA=="
 ---
 
