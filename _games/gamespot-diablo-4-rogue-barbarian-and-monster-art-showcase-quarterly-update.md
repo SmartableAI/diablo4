@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian
 type: video
 length: PT9M18S
 publishedDateTime: 2021-07-01T01:30:01Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "cVoTVjkg9/vy2ORp9lfFh2JZMGWQPzQQQjxeieX9sa6WNHl2MVeG062MK9Rt3nORcxQ21gwsxUt3gqKAIR/y9QKCYuE6KClNw3lICnC5DHv/p59zHQ355gCKC/tLqV07kaPRGX9mjDPCd9pqd8iONclyA/vePI0uVLIj5pIeOvjLWkEksZBlA9R9Oh5+ADniBL5KyDRMtN7B5gG+NAnA2lt080FEAHPP68wRml+fbfFSqk13zLHIbpU/EMvh+tAMHA/En6fbn3XtQqbLg6PeD3PODqUThQ9mnXHW/CsprTo66IqRGuYi324CvmjRqJ7rRo9p8mQhqfy7zwJp5u5/TvvnFFCIlDQvSNB5uRwqr0l91z2kpXIUYU4cCPB7olJc2Lv+UyR3EnpIi6FN6fjoZ82Q6dShuoBXGOhNvuWPQdh0P5RWTRLA3ZHqGWkoZxTt;tT70hedpplvRAu/myza+zQ=="
+secured: "nqakl8IozD+JuU/Db269ItRAy46fsXT97E6Cvo8tBxUxaooP6XLmNhdOoH54qWP86HY7wDCCGeeXbtN3FmE3VWOszPQc4ScZn0dE++sISHafd6L9hJZnjbYJe8bedzwB9iyAZCq071mDGasERj5gBohoOSG2+m6mM+QioUInhB9CcGleWdEmDRRtbDF1x/oz+xEK2DBxuYbj75kagJw8iF38xyuimtc0BFWtuibgLXuCFOMb/PX0HhcvfLrGgks5n46ilaoy0kglO++sAVNCYoP6h+QjYo/yi7Mfgb5pXFBXyx83FWk1BdSmR4EJxQS6aFmlPh7BUzHUKuTu7p/+i4H+F3qgxs2v/fGJLq7CNCgJJ2KkWhEPKJB1wUDzXvPjgohjod3ixOS3CfW5unf12SMsebP6HJjPRnRC+YLZ3eQ=;H44YK5dIn780+HYL9eNrcQ=="
 ---
 
