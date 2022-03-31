@@ -1,40 +1,40 @@
 ---
 category: news
-title: "Diablo 4 has over 150 “handcrafted and procedural” dungeons"
-excerpt: "Blizzard has revealed that Diablo 4 will have more than 150 \"handcrafted and yet procedurally generated\" dungeons in a new quarterly update ..."
-publishedDateTime: 2022-03-29T10:09:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/dungeons"
-webUrl: "https://www.pcgamesn.com/diablo-4/dungeons"
+title: "New Diablo 4 Blog Update Confirms 150 Procedurally Generated Dungeons"
+excerpt: "Check out the latest Diablo 4 update blog from Blizzard, which delves into the game's environments and dungeons."
+publishedDateTime: 2022-03-31T01:46:00Z
+originalUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/"
+webUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/"
 type: article
 quality: 87
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: Play Station Universe
+  domain: psu.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/uploads/2022/03/diablo-4-dungeons.jpg"
+  - url: "https://www.psu.com/wp/wp-content/uploads/2022/03/Diablo4-2-min.jpeg"
     width: 1920
     height: 1080
     isCached: true
 
 related:
-  - title: "New Diablo 4 Blog Update Confirms 150 Procedurally Generated Dungeons"
-    excerpt: "Check out the latest Diablo 4 update blog from Blizzard, which delves into the game's environments and dungeons."
-    publishedDateTime: 2022-03-31T01:46:00Z
-    webUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/"
+  - title: "Diablo 4 has over 150 “handcrafted and procedural” dungeons"
+    excerpt: "Blizzard has revealed that Diablo 4 will have more than 150 \"handcrafted and yet procedurally generated\" dungeons in a new quarterly update ..."
+    publishedDateTime: 2022-03-29T10:09:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/dungeons"
     type: article
     provider:
-      name: Play Station Universe
-      domain: psu.com
+      name: PCGamesN
+      domain: pcgamesn.com
     quality: 87
     images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2022/03/Diablo4-2-min.jpeg"
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/03/diablo-4-dungeons.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -67,6 +67,6 @@ related:
         height: 675
         isCached: true
 
-secured: "guz18n4n5ste/3ZOx2v9OzDC3yZ69GlCQL+pLODyQs2K2HslLTyex9KId6rFUFKGyPUx1Z5L/GIyXTzldte7Z51Ehn7w6XkUCECFSkRaO7ByLvU7WX+QnfHcAADPWpCWlnpygFRfv8dMcN7G4YSr1WD3lVWtVu0PoozlhMPvGeujS9xxdokW3g4ELKPMJFCiXaRSarUfPXw1k7MMOwKkwkxni/wAiYJ8j0s6eQf1JKyCPFPRDCJFVCQetD6jTnqz3QvWKxxDYN3hAFHapsj2zese+ZAFD3UcMJS4aY0pDPW8y+v9Uggf3jKMz6+ODHThZFmRvxYVuqOdBQg7OQ4xJ2RsMiqYotvji9Q7bGLm5jk=;yXNCRgNW3vl+Dd4TL90XZQ=="
+secured: "wdCmj85aK2WKIFnsPPLoTkEC6L0LCKd7nE9fPFHhAjeDBZrZVVh3pnyfxIzTgvttq16EG0/QmUC8BPWI7RgNCcuOl3G2SJjw0TDxqMU2AAqAaRGJy2FhGatzSpxhQwUAgo1+MPWtw85mJ9kQrOKfuuU3pQxSnsZBg/v9SJes3k25/1wwXK0Ux7uyZIUKNPaniFIvLxnF3vFGYbbbczJd3TXar9VLBBEwS8wVdLU14ks1DR3FetyYEk2P7fJhAdxUg3GfaBl1HKhi0G/ul9nT3HUAKvD6DQn1S2VYVSrCMzKS8w+ZPCdOdurUIEQEZCXyx3vD+m8X2uiXnjNWShjf8kXCMSjftNzS0w1LCUbd/Y8=;XcZWUQ+6UE9bSd7F3SEGSg=="
 ---
 

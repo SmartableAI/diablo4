@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Diablo 4 Blog Update Confirms 150 Procedurally Generated Dungeons"
+    excerpt: "Check out the latest Diablo 4 update blog from Blizzard, which delves into the game's environments and dungeons."
+    publishedDateTime: 2022-03-31T01:46:00Z
+    webUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 87
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2022/03/Diablo4-2-min.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Dev Update Talks of More than 150 Procedurally Generated Dungeons"
     excerpt: "Indeed, titles like Diablo IV and Overwatch 2 are still very much in the works, even though setbacks within the company have quite clearly had an impact on development cycles, and, more importantly, ..."
     publishedDateTime: 2022-03-30T17:00:00Z
