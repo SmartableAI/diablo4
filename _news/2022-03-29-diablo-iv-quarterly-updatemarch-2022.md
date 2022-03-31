@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022"
 type: article
 quality: 162
-heat: 264
+heat: 263
 published: true
 
 provider:
