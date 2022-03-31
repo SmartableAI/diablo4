@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Dev Update Talks of More than 150 Procedurally Generated Dungeons"
+    excerpt: "Indeed, titles like Diablo IV and Overwatch 2 are still very much in the works, even though setbacks within the company have quite clearly had an impact on development cycles, and, more importantly, ..."
+    publishedDateTime: 2022-03-30T17:00:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/03/diablo-4-dev-update-talks-of-more-than-150-procedurally-generated-dungeons"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 85
+    images:
+      - url: "https://images.pushsquare.com/db63e381edee1/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "J7gfPas48uKHTVLxPaSeZVpfkIJtTQfY2ptlzOlGY7iuclyL7KqXWZPOoqp+efvEz2ocQdt2sXixKejHRI2Dl3ay2fbMFAqiuauLekT5OaKGYxnhT2z4XpUD2kP/thXZXUe/Sbz8tkxmcqXVlMkAl8+X/AeXHLSaq/KgUXLaGF+5eeLGbbcIzklJkmdFhQlqSv4oOJnSds6YC3p2PRObdUrG+BzwqEPvx/J4N86wuj754UZUi6y60jcsZzyR5FtoX8CL6F9SHPUq5Q+dkvHfDOo00HuCKvn+jKzVOI5LkqFbAxp7Eo5KnWLYfonWEM/MJI3aZAHwytSVKng9ABPM16XY3K3Nbb/WgRXBuDd3Bc0=;p9FTS9+IHlXApmLts2RNIw=="
 ---

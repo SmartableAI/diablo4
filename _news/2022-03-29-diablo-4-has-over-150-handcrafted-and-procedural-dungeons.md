@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/dungeons"
 webUrl: "https://www.pcgamesn.com/diablo-4/dungeons"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Dev Update Talks of More than 150 Procedurally Generated Dungeons"
+    excerpt: "Indeed, titles like Diablo IV and Overwatch 2 are still very much in the works, even though setbacks within the company have quite clearly had an impact on development cycles, and, more importantly, ..."
+    publishedDateTime: 2022-03-30T17:00:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/03/diablo-4-dev-update-talks-of-more-than-150-procedurally-generated-dungeons"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 85
+    images:
+      - url: "https://images.pushsquare.com/db63e381edee1/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 Will Have Over 150 “Varied, Handcrafted, Procedurally Created” Dungeons"
     excerpt: "Diablo 4 will have over a hundred dungeons for players to explore, loot, and survive; all uniquely designed around the \"return to darkness\" pillar. In a ..."
     publishedDateTime: 2022-03-30T01:15:00Z
