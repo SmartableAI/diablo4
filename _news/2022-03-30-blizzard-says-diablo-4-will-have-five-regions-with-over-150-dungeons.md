@@ -1,45 +1,31 @@
 ---
 category: news
-title: "‘Diablo 4’ will include “five distinct regions and hundreds of dungeons”"
-excerpt: "In a blog for Diablo 4, Blizzard has shared that fans can expect “five distinct regions and hundreds of dungeons” in the upcoming game, and detailed how the studio’s art team has designed each area."
-publishedDateTime: 2022-03-30T03:44:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
-webUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
+title: "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons"
+excerpt: "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ..."
+publishedDateTime: 2022-03-30T09:49:00Z
+originalUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/"
+webUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/"
+ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
+cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
 type: article
-quality: 86
-heat: -1
-published: false
+quality: 107
+heat: 187
+published: true
 
 provider:
-  name: NME
-  domain: nme.com
+  name: Ubergizmo Feed
+  domain: ubergizmo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/03/Diablo-4-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg"
+    width: 1200
+    height: 726
     isCached: true
 
 related:
-  - title: "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons"
-    excerpt: "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ..."
-    publishedDateTime: 2022-03-30T09:49:00Z
-    webUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/"
-    ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 107
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg"
-        width: 1200
-        height: 726
-        isCached: true
   - title: "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons"
     excerpt: "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ..."
     publishedDateTime: 2022-03-30T12:47:00Z
@@ -70,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Diablo 4’ will include “five distinct regions and hundreds of dungeons”"
+    excerpt: "In a blog for Diablo 4, Blizzard has shared that fans can expect “five distinct regions and hundreds of dungeons” in the upcoming game, and detailed how the studio’s art team has designed each area."
+    publishedDateTime: 2022-03-30T03:44:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 86
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/03/Diablo-4-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Diablo 4 will have five regions and hundreds of gothic dungeons"
     excerpt: "The latest quarterly update for Diablo 4 reveals that there’ll be more than 150 dungeons and five regions ripe for exploration. On Tuesday, Blizzard gave some insight into Diablo 4’s sprawling open ..."
     publishedDateTime: 2022-03-29T10:43:22Z
@@ -80,6 +80,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "LzgpJfYtJYxBsZJIpjPB2C6wREbfAiVuP1eK6NAT4MQXDrMLSOlATlp6unBmgwuAxHT+wQNP3YglPt6W6yjXAL/D2E9gQQwVhVj/Tu8YEo9gH0NpeZJnCr72wPV7jb6JukqyXSpk8fUD1BAMS4171Mg1w+T0F471DRpAXeHXUijAYHkMcQN2S4kPsOt2zdghn0aZv/LcYmQHNzDK20pBVD9s3sneMlKaiFMOQosOlMuVYPKj69L1AEM/TRFaCn0I0FHAt2vAr1hmpnxlvE9wGpqjh5J1EYlHMWKbc8J/IRPDVnOkkO1/xrG529kEIQjONvq7wmoqJQ+8hfBfk9zx/StLNYqFt6/cQCmC7rtj9H8=;efamTEkzasCiAgACaM0jLg=="
+secured: "RfAnDTH0OakbqOayIN+0ZPtKwNjbXXgrwH9ayeY3Mgn6k6k/LdC+YcLRtpaHCgLTJpHOispKuFksamGWXC7Zj7BbLH2YDgpfbadyRqTfAx0JyVG5KX1PZb5hsAKY0H3PJKCC2MMGTPuEfikBYMtz/leu55f89J2s1yzYzhT6afp5q4Ijh1SCjSXDRN4p0R+hZgMu1kUnEjDAl5hHT3oc1mjGhYjpHp8O1MMhZ905YPQzMg6tL7FMrC+l6SIgf+6Zo2vxDvZfMZHKrmtCGdHQrAFTP39ExE70POfJSdZgZBhkXQLv20P61nwul9qqQig3u680rJIWq5pRQEQRBbFob9fhMJ/l/7+oFT0XfkWh0a8=;3K5dwHXEVoWTo8tBNz3QGw=="
 ---
 

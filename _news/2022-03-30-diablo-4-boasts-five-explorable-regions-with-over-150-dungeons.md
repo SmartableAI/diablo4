@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explora
 cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
 type: article
 quality: 107
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: GameInformer
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons"
+    excerpt: "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ..."
+    publishedDateTime: 2022-03-30T09:49:00Z
+    webUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/"
+    ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 107
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg"
+        width: 1200
+        height: 726
+        isCached: true
   - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
     excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
     publishedDateTime: 2022-03-29T10:00:00Z

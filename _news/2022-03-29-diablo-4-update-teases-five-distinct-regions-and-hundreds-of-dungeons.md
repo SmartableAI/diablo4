@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons"
+    excerpt: "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ..."
+    publishedDateTime: 2022-03-30T09:49:00Z
+    webUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/"
+    ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 107
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg"
+        width: 1200
+        height: 726
+        isCached: true
   - title: "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons"
     excerpt: "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ..."
     publishedDateTime: 2022-03-30T12:47:00Z
