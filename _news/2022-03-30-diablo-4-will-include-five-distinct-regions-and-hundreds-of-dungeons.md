@@ -6,9 +6,6 @@ publishedDateTime: 2022-03-30T03:44:00Z
 originalUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
 webUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
 type: article
-quality: 86
-heat: -1
-published: false
 
 provider:
   name: NME
@@ -17,69 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/03/Diablo-4-2000x1270-1.jpg"
-    width: 2000
-    height: 1270
-    isCached: true
-
-related:
-  - title: "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons"
-    excerpt: "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ..."
-    publishedDateTime: 2022-03-30T09:49:00Z
-    webUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/"
-    ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 107
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg"
-        width: 1200
-        height: 726
-        isCached: true
-  - title: "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons"
-    excerpt: "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ..."
-    publishedDateTime: 2022-03-30T12:47:00Z
-    webUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons"
-    ampWebUrl: "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
-    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp"
-    type: article
-    provider:
-      name: GameInformer
-      domain: gameinformer.com
-    quality: 107
-    images:
-      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
-    excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4 will have five regions and hundreds of gothic dungeons"
-    excerpt: "The latest quarterly update for Diablo 4 reveals that there’ll be more than 150 dungeons and five regions ripe for exploration. On Tuesday, Blizzard gave some insight into Diablo 4’s sprawling open ..."
-    publishedDateTime: 2022-03-29T10:43:22Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-five-regions-and-hundreds-of-gothic-dungeons/ar-AAVDuXv"
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 67
-
-secured: "4YXf6eCJVPmYcD3MfSco7uQPQCivkT39yXnxmXsu0zc0MiklxHjK52MUAywsZwNwG1JVUUrMAgk0VO/EOVPPmJsENjp2O4Gkbxib/c4+6g2MtI3s7WwmwJ1vjYnQmR7pRWHI2SFlcwTE4yyrC4MG2WLVM8Gh4kYhJkGnPg9vaHycJqG+Ut75kok/4pOJONrkbwRoKzlHZwiYyZSRxWrswm4ni4N0JYUn10SLU1znmfHLVLS9r8FGJk4xzLSn0bFUSv0C4lA32w3QOLJO6nVMBMBBp4tFxQjDJQls1DY6DOkIGBoJNPQONEQmv5AdzSww7Efb8VFX2fLP7dB1hrPuUXLY0w24X7qwxMLI621JqjM=;T5lLrSTSSsi+jY9aCErRxg=="
+secured: "v8v3y2lw8dqfLm0w+doLN5IFiu3zg3jahfHf0iNCFmGDmzhC1F36fFfxC1WZmfL1wHcgxKsrVOQpE9wJhB76kVDQzAhFlF4sescsdV1M8rm7j9gOzsXJWiKv+4E0mtL5hfRh5t0KatprxzRqTMHbZtZFR0wImuAmv6LoDKuDVCSBlf2ImzFZhiXUgnOyRBnPvcGjBpBldTCBYEjjuyHfeLUamovORIZvpeirW3MPoj8G/zcTXWUAukkHm6qw6ijRVnQnIGVyd8AESVoQMoDT1aNir9lcRet2PTDyUPAtnKOu6BKqiX8MexvzNIzIsfhBe1kZhRTBpsnZQJ8Fb+rVY41YYH7tm7/Z8jUkWhq+9F0=;FbHBVcvN8DWpo7YmbkuMmw=="
 ---
 
