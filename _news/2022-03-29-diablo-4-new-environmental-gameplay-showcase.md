@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-new-environmental-gamep
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-new-environmental-gameplay-showcase/2300-6457759/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Reveals New Dungeon Details and Gameplay Footage"
+    excerpt: "Diablo 4 developer Blizzard Entertainment has revealed a ton of new information about the dungeons that will be present in the latest entry in the long-running action series. Although it has been ..."
+    publishedDateTime: 2022-04-04T06:04:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update-gameplay-dungeons/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/12/24/ae2f65df-ee69-4829-9c5a-fcd18919af2a/the-witcher-season-2.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Diablo 4 Update Reveals More Details, Gameplay Footage"
     excerpt: "Diablo 4 isn't slated to be released until 2023, but a new update is treating fans to more details--including plenty of gameplay footage."
     publishedDateTime: 2022-03-30T05:37:00Z

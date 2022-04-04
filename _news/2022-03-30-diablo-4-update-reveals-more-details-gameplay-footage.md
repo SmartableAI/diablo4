@@ -40,6 +40,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Reveals New Dungeon Details and Gameplay Footage"
+    excerpt: "Diablo 4 developer Blizzard Entertainment has revealed a ton of new information about the dungeons that will be present in the latest entry in the long-running action series. Although it has been ..."
+    publishedDateTime: 2022-04-04T06:04:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-blizzard-update-gameplay-dungeons/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/12/24/ae2f65df-ee69-4829-9c5a-fcd18919af2a/the-witcher-season-2.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
 
 secured: "6pdlIu8pM72itby5Q8OdR6g+0olGRuWXJnu3cmRW3XaH749meQuMuFXqo2Kcv7jgBn+xwOz90/bMABv6BcyJagAbc825EQ9ZLyqrkSrs60ozvl53kfsYxPU4Wbsg7yJQCY3sjqPQvLdyilVz0jEw0XBznnnxsVn1Pa0edunX3iHp4ZIg+preEBmHycb+ui4Y4JaSSwZ6pLlmJMqcH6Eajad7WHnPvusDG97P5GtPh2ZA+Db5OTHM+Oz50sB9O6PqQOLePfXwz6SO7g+z0ijHyQsKG0AeBBIH5QWeEuLoQxjTcLtEgL14FbQxnSACBEnlF3ylXxVzc95aWvC6eTc+GS1oC7SuP71ekRV4W0tf/Pw=;ik98KA4XQu5nF1kO9TxK0g=="
 ---
