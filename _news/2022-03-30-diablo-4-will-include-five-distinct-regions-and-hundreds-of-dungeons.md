@@ -80,6 +80,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "XinK6TyUZU830M1vuL+LPxU9LN5J+mJPYEnzB9pjJ3LGmRhclf3B4lF/yoVBZCUxWnzhtj5kOyuI7x/V16Q0vvY7yEWEvSUFxZiiRYodxRv1Lrl+K7Fm/ecXAz3oQEpWyEUvMvPSVULv7OHUy1jwLntnj8D0Le82tKTRVVwU5kIzjw1PcYgyb4GDGq73n9ZWa+k/Z6iUa8//PNiFSD2kvQdcaWNZM87i+7U63++c8HERErHFRr0DCxyvcpc8Hrm7GUi8hQYL+JEvs6GiRR6M+d+ubDaYfdqkQEVYpqEwVozKPjIKwUTO8jEooc9p7qy6S5AvBueiMbt490rJ+q+hm1FYBVX6g6PaXvPxH1FdT10=;ugXSMXH/Zb3iKMjx5y5laQ=="
+secured: "oiAEkHykuoM7+dCWMEtswmtZlB63i//Vej5f1dGovTEcS5V1XBhFeqeoS/X+k2d4yn62DO+rR/KeuSCpXQrIK7ebatiD4X+XHrN84+vablaKkfP7+DnVtbr9FOSfcsBBxyNsePC9wTtn1rsArJ/aXTqGzYLmQIZqZ4Pyy6/EpZJPKpMGaLWllYeJAkeMCqt0CEjwtRubOJoLJuarW/IKT2+WkDQjFH972W0K7T1yAlrOYTbediij2cD09gZ7CcldC3PbsvMlEk8wE0lqcXrm/zutCW47KpdBCvw6Dw35ezDt25kXVoh8sqLprjrdOYWSi0MNDnJkCtK4rHaZP5T2cftRgo48PSzd+fIt6zTOIPY=;VstJLAWLHt1vbdWraFrXHA=="
 ---
 
