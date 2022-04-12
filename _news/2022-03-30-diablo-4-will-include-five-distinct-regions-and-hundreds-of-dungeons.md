@@ -2,9 +2,9 @@
 category: news
 title: "‘Diablo 4’ will include “five distinct regions and hundreds of dungeons”"
 excerpt: "In a blog for Diablo 4, Blizzard has shared that fans can expect “five distinct regions and hundreds of dungeons” in the upcoming game, and detailed how the studio’s art team has designed each area."
-publishedDateTime: 2022-03-30T03:44:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
-webUrl: "https://www.nme.com/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3193980"
+publishedDateTime: 2022-03-30T08:24:00Z
+originalUrl: "https://www.nme.com/en_asia/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3194248"
+webUrl: "https://www.nme.com/en_asia/news/gaming-news/diablo-4-will-include-five-distinct-regions-and-hundreds-of-dungeons-3194248"
 type: article
 quality: 86
 heat: -1
@@ -80,6 +80,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "/2x6XKif3/gHQxuM6m6GseRFMIxI3AChmIXNkI9l3gpNRRDawL6X2sjIeQYXg8Ykw2z/hRjwxuLsDpI2Grki+yUFJfX0/w+vOiATtpMMhlnPr5htqHJpCmNdV1sFSdM4c9w+zVQUOwvZW8FqFiYSKurPM8POTlGqgWa1rL2ssoIt4RqTkw/q+GCkBBuZPXOxx9GnvzAlBWexJCd/NvN2E1GwoS3YvQXgggN/OGK6WO39F5bH213h5e8gr3A1tRyag8lUceFkaTCimGIh/h4HmLV7F9buaBxPdJxYczjNPyvKJrHpPu7cXwQxZW4RNZk9BhVqn3rrU+EZlhV1io16gTaX0i5RBtP7aH02bIE6QBg=;zc0L76/1NPyPnuGrcF2Ycg=="
+secured: "LJo9is7N2cs+sJTt/CqvZbH37V9U2yzPzIs6/Rl18ezVxiKtKE94t3YODrrjweqcWy4IjO+/hQcdRjnGj56Q6EO+6y7vBXyHbVyVVyUB1tRhxqhPBSamhTo8VA09Icfnb6yIQa6gzK2upGxkj2QlWDqk4Hyz45/TVFRVxlw0czbxQV+atmiXZqTuyvSzJ3wjVUy5ViAN5FcSR/br5Bvs+5RhGxS4EYHmHjwQATt7hsxPhNIZmvh+i1aSAjmKVidALzon7l6oWxHCBdGXS+fA7LqhFt8UGi3H3ECmCF2QlYnl1ayyX4amdymYTqkwqETtknYsYlB0xC/iQrnfmQyQHLqFHuB1io3jS8c1E8yooqo=;klbxsiOzg2sAZTZrxXXmgQ=="
 ---
 
