@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022"
 type: article
 quality: 162
-heat: 262
+heat: 242
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3957016-d4_quarterly_update.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "New Diablo 4 Tease Has Diablo Fans Excited"
-    excerpt: "A new Diablo 4 tease has Diablo fans excited. Diablo 4 -- or Diablo IV as it's officially known -- was announced by Blizzard back on November 1, 2019. That was well over two years ago. Despite this, ..."
-    publishedDateTime: 2022-03-24T08:09:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
-        width: 568
-        height: 320
         isCached: true
   - title: "Diablo 4 Gets New Update From Blizzard"
     excerpt: "Diablo IV is once again in the spotlight with Blizzard sharing another quarterly update about the game ahead of its release. This is the first update on the new Diablo game that we've gotten this year ..."

@@ -56,22 +56,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "New Diablo 4 Tease Has Diablo Fans Excited"
-    excerpt: "A new Diablo 4 tease has Diablo fans excited. Diablo 4 -- or Diablo IV as it's officially known -- was announced by Blizzard back on November 1, 2019. That was well over two years ago. Despite this, ..."
-    publishedDateTime: 2022-03-24T08:09:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-alpha-release-tease/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-alpha-release-tease/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/03/14/056c2cf2-7a1e-41b4-aac2-20ff478252c8/halo-series-review.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Diablo 4 quarterly update focuses on environmental art"
     excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
     publishedDateTime: 2022-03-29T12:30:00Z
