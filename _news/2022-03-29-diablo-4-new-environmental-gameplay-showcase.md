@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-new-environmental-gamep
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-new-environmental-gameplay-showcase/2300-6457759/"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://gameranx.com/wp-content/uploads/2022/02/Diablo-4.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Diablo 4 New Update Unveils Dungeon Details and Gameplay"
+    excerpt: "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ..."
+    publishedDateTime: 2022-04-04T13:35:00Z
+    webUrl: "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay"
+    type: article
+    provider:
+      name: Epicstream
+      domain: epicstream.com
+    quality: 87
+    images:
+      - url: "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format"
+        width: 686
+        height: 386
         isCached: true
 
 secured: "0f88PaHT+CllOA5sZE1rjjQ6CIbpJ+os6iovpIvtZw9rjsYnjTxrB0F45qLFZ4ZOLzioYSFjgTpBojxa62m5TozIe8lLJReQA4o29TxMAmT6nR3rIt/zV3+DByaKwu+yvgVQrnQ9epfQfRYjI+Q5Aw1RAcew3LjVKSuCrDlOApLKiF76MaMpp+BkB1kawRSaNhCR3t4UD/+N1h5vbggh6wPJ3V8zZQI400McOWbv+EwLqa4AH9qsCYI6HLypgak7X2GlpduPjJv7RLjlPF8JIvYman/J1UoHO7AqAoQHmZzTMn36A333K/sTfPkpAw69rgVoT6OIKeqefsTRA3NnJmy6Le0/wV3362RgjPr+5yg=;0fM1c8DuhFPZhwJfkQgyDQ=="

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 New Update Unveils Dungeon Details and Gameplay"
+    excerpt: "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ..."
+    publishedDateTime: 2022-04-04T13:35:00Z
+    webUrl: "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay"
+    type: article
+    provider:
+      name: Epicstream
+      domain: epicstream.com
+    quality: 87
+    images:
+      - url: "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format"
+        width: 686
+        height: 386
+        isCached: true
 
 secured: "RjR5cxaSvgyzcr/WpuAkOtAyAut7G6uuiwD6GuID7pp8ccLC7E3n+dcMlyiv7pfF2KLZ0NX6sbPDWVL129wGfTNdN+b3kfFmQEn3k4X8MIqUKH+2VnnCXQrXsLERW+4+VImhZGWpAdBdrnGoTC4gxZ2OnrhYkzepGgHvF62D+pbJRwBKbk/HIqudtlVHl2T+agi++WBdvNEaKle5fOGIyzmeeN7PFaQ+aLiENmL9IPnHHLZbk4bBj0s4JK+J1TtwEAlR1wv9+gah6G7KI0Cqqdk6btQqT90IBoifsIXIfMHUY/RTmtleLwOf6PBMjCFxnxgV/x8lPWP34o1aw3W9KBZqJv3lH2IKHsCMCcjRpAY=;CQcQODr4ZscorTTlI2xIoA=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Update Reveals More Details, Gameplay Footage"
-excerpt: "Diablo 4 isn't slated to be released until 2023, but a new update is treating fans to more details--including plenty of gameplay footage."
-publishedDateTime: 2022-03-30T05:37:00Z
-originalUrl: "https://gameranx.com/updates/id/295571/article/diablo-4-update-reveals-more-details-gameplay-footage/"
-webUrl: "https://gameranx.com/updates/id/295571/article/diablo-4-update-reveals-more-details-gameplay-footage/"
+title: "Diablo 4 New Update Unveils Dungeon Details and Gameplay"
+excerpt: "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ..."
+publishedDateTime: 2022-04-04T13:35:00Z
+originalUrl: "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay"
+webUrl: "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Gameranx
-  domain: gameranx.com
+  name: Epicstream
+  domain: epicstream.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gameranx.com/wp-content/uploads/2022/02/Diablo-4.jpg"
-    width: 1200
-    height: 800
+  - url: "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format"
+    width: 686
+    height: 386
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 New Update Unveils Dungeon Details and Gameplay"
-    excerpt: "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ..."
-    publishedDateTime: 2022-04-04T13:35:00Z
-    webUrl: "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay"
+  - title: "Diablo 4 Update Reveals More Details, Gameplay Footage"
+    excerpt: "Diablo 4 isn't slated to be released until 2023, but a new update is treating fans to more details--including plenty of gameplay footage."
+    publishedDateTime: 2022-03-30T05:37:00Z
+    webUrl: "https://gameranx.com/updates/id/295571/article/diablo-4-update-reveals-more-details-gameplay-footage/"
     type: article
     provider:
-      name: Epicstream
-      domain: epicstream.com
+      name: Gameranx
+      domain: gameranx.com
     quality: 87
     images:
-      - url: "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format"
-        width: 686
-        height: 386
+      - url: "https://gameranx.com/wp-content/uploads/2022/02/Diablo-4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
-secured: "6pdlIu8pM72itby5Q8OdR6g+0olGRuWXJnu3cmRW3XaH749meQuMuFXqo2Kcv7jgBn+xwOz90/bMABv6BcyJagAbc825EQ9ZLyqrkSrs60ozvl53kfsYxPU4Wbsg7yJQCY3sjqPQvLdyilVz0jEw0XBznnnxsVn1Pa0edunX3iHp4ZIg+preEBmHycb+ui4Y4JaSSwZ6pLlmJMqcH6Eajad7WHnPvusDG97P5GtPh2ZA+Db5OTHM+Oz50sB9O6PqQOLePfXwz6SO7g+z0ijHyQsKG0AeBBIH5QWeEuLoQxjTcLtEgL14FbQxnSACBEnlF3ylXxVzc95aWvC6eTc+GS1oC7SuP71ekRV4W0tf/Pw=;ik98KA4XQu5nF1kO9TxK0g=="
+secured: "XkgdY2ihMATnF2Izb7c4Brtr8eNCTJx9tWx6vrtv0kroQapE9bQetdawk6hjU3e8XYtU0ieY4mTr0hSRPP6agfabGB9HJfm9gH3J6Uv1l+dLurOLz8j3SCA1F7HdqV/QW+x61w+T44C8ypIx8asy8lYiy+Q1HPyoFt+LwGr5xDVG87tjuDWsb9Wyp6aQtiA9hgA+zJybSJK8/QrhP16W6xlzWCnQ9RIlnf15Ir654TL8j1jM+/T/hmbNKnbyTutA8TnZgwHXQlhk1ybEb5zFvLCi4U09sT5DJvPeYzmqb9KA4EhuBfz1iQs7QVqnoAJj1ls63c2zCrKWyF4slhhwgl1yDUePOtJEdyi5hJtzdhY=;T05gGurk6k08KI6Onqn5Tg=="
 ---
 
