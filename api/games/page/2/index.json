@@ -4,6 +4,66 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/crazygames-diablo-4-new-gameplay-druid-quest-complete.md",
+      "title": "DIABLO 4 NEW Gameplay DRUID QUEST COMPLETE",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/crazygames-diablo-4-new-gameplay-druid-quest-complete/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/crazygames-diablo-4-new-gameplay-druid-quest-complete/",
+      "originalUrl": "https://youtube.com/watch?v=VtH1862QXaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VtH1862QXaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M58S",
+      "provider": {
+        "name": "crazygames",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VtH1862QXaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-08T14:31:14-07:00"
+    },
+    {
+      "path": "_games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep.md",
+      "title": "DIABLO 4 NEW Gameplay SORCERESS  FIRST QUEST COMPLETE AND START NEXT  CALL OF THE DEEP",
+      "excerpt": "Diablo IV is an upcoming online dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/crazygames-diablo-4-new-gameplay-sorceress-first-quest-complete-and-start-next-call-of-the-deep/",
+      "originalUrl": "https://youtube.com/watch?v=MohNHDz3OQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MohNHDz3OQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M37S",
+      "provider": {
+        "name": "crazygames",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MohNHDz3OQA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-06T05:04:40-07:00"
+    },
+    {
       "path": "_games/dbrunski125-brand-new-skill-tree-and-the-introduction-of-the-sorceress-enchantment-system-big-diablo-4-update.md",
       "title": "Brand New Skill Tree and The Introduction of the Sorceress Enchantment System - Big Diablo 4 Update!",
       "excerpt": "Discord: https://discord.gg/xy3EynP Twitch: https://www.twitch.tv/dbrunski125 Twitter: https://twitter.com/dbrunski125 Membership: ...",
@@ -515,66 +575,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-22T12:27:39-08:00"
-    },
-    {
-      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-2-fhd-1080p.md",
-      "title": "Diablo 4 - New Gameplay With the Barbarian Class 2021 part: 2 [FHD 1080p]",
-      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-2-fhd-1080p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-2-fhd-1080p/",
-      "originalUrl": "https://youtube.com/watch?v=MtYCY5yRrO8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MtYCY5yRrO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M35S",
-      "provider": {
-        "name": "GameWorld",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-23T04:30:11-08:00"
-    },
-    {
-      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-1-fhd-1080p.md",
-      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 1 [FHD 1080p]",
-      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-1-fhd-1080p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-1-fhd-1080p/",
-      "originalUrl": "https://youtube.com/watch?v=Wue0qDsF278",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wue0qDsF278\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M21S",
-      "provider": {
-        "name": "GameWorld",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Wue0qDsF278/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-22T07:00:10-08:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-barbarian-class-introduction-pc-ps4-xbox-one.md",
