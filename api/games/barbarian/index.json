@@ -4,6 +4,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-1-fhd-1080p.md",
+      "title": "Diablo 4 - New Gameplay With the Barbarian Class 2021 part: 1 [FHD 1080p]",
+      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-1-fhd-1080p/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-1-fhd-1080p/",
+      "originalUrl": "https://youtube.com/watch?v=X1Nfm1FTc0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X1Nfm1FTc0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M52S",
+      "provider": {
+        "name": "GameWorld",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X1Nfm1FTc0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-22T12:27:39-08:00"
+    },
+    {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
       "title": "Diablo 4 - 33 Minutes of Gameplay (Druid, Barbarian, Sorceress, Rogue)",
       "excerpt": "Diablo 4 is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game was ...",
@@ -100,36 +130,6 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
-      "title": "New Gameplay Today – Diablo IV's Barbarian",
-      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M35S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T16:00:01-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
       "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
       "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
@@ -146,7 +146,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 54,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
@@ -158,6 +158,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-24T08:05:28-08:00"
+    },
+    {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
+      "title": "New Gameplay Today – Diablo IV's Barbarian",
+      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M35S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-gameplay-with-sorceress-barbarian-druid.md",
@@ -269,7 +299,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
@@ -283,16 +313,16 @@
       "publishedDateTime": "2021-10-14T07:41:09-07:00"
     },
     {
-      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
-      "title": "Diablo 4: Barbarian Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
+      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
+      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
+      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M49S",
       "provider": {
-        "name": "Click Shoot Loot",
+        "name": "Taylorar",
         "domain": "youtube.com"
       },
       "topics": [
@@ -302,7 +332,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -310,7 +340,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2020-04-20T10:31:47-07:00"
+      "publishedDateTime": "2021-06-30T18:59:57-07:00"
     },
     {
       "path": "_games/arabic-diablo3-3-diablo-iv-barbarian-sorcerer-druid-gameplay.md",
@@ -532,6 +562,36 @@
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
     },
     {
+      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
+      "title": "Diablo 4: Barbarian Skills and Talents Overview",
+      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
+      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "Click Shoot Loot",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-04-20T10:31:47-07:00"
+    },
+    {
       "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
       "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
       "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
@@ -745,36 +805,6 @@
       "publishedDateTime": "2019-11-01T11:38:31-07:00"
     },
     {
-      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-1-fhd-1080p.md",
-      "title": "Diablo 4 - New Gameplay With the Barbarian Class 2021 part: 1 [FHD 1080p]",
-      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-1-fhd-1080p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-1-fhd-1080p/",
-      "originalUrl": "https://youtube.com/watch?v=X1Nfm1FTc0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X1Nfm1FTc0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M52S",
-      "provider": {
-        "name": "GameWorld",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X1Nfm1FTc0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-22T12:27:39-08:00"
-    },
-    {
       "path": "_games/gameworld-diablo-4-new-gameplay-with-the-barbarian-class-2021-part-2-fhd-1080p.md",
       "title": "Diablo 4 - New Gameplay With the Barbarian Class 2021 part: 2 [FHD 1080p]",
       "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
@@ -894,36 +924,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-07-22T16:22:01-07:00"
-    },
-    {
-      "path": "_games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps.md",
-      "title": "Diablo 4 - Gameplay Barbarian (2021) 4K HDR 60fps",
-      "excerpt": "Gameplay de Diablo 4 Barbarian (2021) em 4K HDR 60fps . #diablo4 #diabloIV #barbarian Novo Trailers 2021! Novo Games 2021! Inscreva se no IGames TV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/",
-      "originalUrl": "https://youtube.com/watch?v=lMPwhQRZxBU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M1S",
-      "provider": {
-        "name": "IGames TV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lMPwhQRZxBU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-25T12:01:19-08:00"
     }
   ],
   "nextPage": 2
