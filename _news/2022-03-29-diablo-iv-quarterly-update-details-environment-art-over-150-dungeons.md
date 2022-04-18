@@ -38,22 +38,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Diablo 4 Will Have More Than 150 Dungeons"
-    excerpt: "The first quarterly update of 2022 dives deep on how Blizzard is crafting the look and feel of Diablo 4's gothic fantasy world, including its dungeons."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-will-have-more-than-150-dungeons/1100-6501935/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-will-have-more-than-150-dungeons/1100-6501935/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-will-have-more-than-150-dungeons/1100-6501935/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3957016-d4_quarterly_update.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 Gets New Update From Blizzard"
     excerpt: "Diablo IV is once again in the spotlight with Blizzard sharing another quarterly update about the game ahead of its release. This is the first update on the new Diablo game that we've gotten this year ..."
     publishedDateTime: 2022-03-29T11:33:00Z

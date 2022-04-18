@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons
 cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
 type: article
 quality: 107
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
-    excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "‘Diablo 4’ will include “five distinct regions and hundreds of dungeons”"
     excerpt: "In a blog for Diablo 4, Blizzard has shared that fans can expect “five distinct regions and hundreds of dungeons” in the upcoming game, and detailed how the studio’s art team has designed each area."

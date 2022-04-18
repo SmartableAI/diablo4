@@ -56,20 +56,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Diablo 4 update teases \"five distinct regions and hundreds of dungeons\""
-    excerpt: "The latest Diablo 4 quarterly update focuses on the dungeons and biomes of Sanctuary, with art director Chris Ryder promising \"five distinct regions and hundreds of dungeons\" featuring dynamic regions ..."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.gamesradar.com/uk/diablo-4-update-teases-five-distinct-regions-and-hundreds-of-dungeons/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 will have five regions and hundreds of gothic dungeons"
     excerpt: "The latest quarterly update for Diablo 4 reveals that there’ll be more than 150 dungeons and five regions ripe for exploration. On Tuesday, Blizzard gave some insight into Diablo 4’s sprawling open ..."
     publishedDateTime: 2022-03-29T10:43:22Z
