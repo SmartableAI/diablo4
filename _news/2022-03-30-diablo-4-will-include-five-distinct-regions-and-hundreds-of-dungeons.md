@@ -56,15 +56,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Diablo 4 will have five regions and hundreds of gothic dungeons"
-    excerpt: "The latest quarterly update for Diablo 4 reveals that there’ll be more than 150 dungeons and five regions ripe for exploration. On Tuesday, Blizzard gave some insight into Diablo 4’s sprawling open ..."
-    publishedDateTime: 2022-03-29T10:43:22Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-five-regions-and-hundreds-of-gothic-dungeons/ar-AAVDuXv"
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "LJo9is7N2cs+sJTt/CqvZbH37V9U2yzPzIs6/Rl18ezVxiKtKE94t3YODrrjweqcWy4IjO+/hQcdRjnGj56Q6EO+6y7vBXyHbVyVVyUB1tRhxqhPBSamhTo8VA09Icfnb6yIQa6gzK2upGxkj2QlWDqk4Hyz45/TVFRVxlw0czbxQV+atmiXZqTuyvSzJ3wjVUy5ViAN5FcSR/br5Bvs+5RhGxS4EYHmHjwQATt7hsxPhNIZmvh+i1aSAjmKVidALzon7l6oWxHCBdGXS+fA7LqhFt8UGi3H3ECmCF2QlYnl1ayyX4amdymYTqkwqETtknYsYlB0xC/iQrnfmQyQHLqFHuB1io3jS8c1E8yooqo=;klbxsiOzg2sAZTZrxXXmgQ=="
 ---

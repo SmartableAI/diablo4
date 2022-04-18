@@ -7,8 +7,8 @@ originalUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-proce
 webUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Play Station Universe
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 has over 150 “handcrafted and procedural” dungeons"
-    excerpt: "Blizzard has revealed that Diablo 4 will have more than 150 \"handcrafted and yet procedurally generated\" dungeons in a new quarterly update ..."
-    publishedDateTime: 2022-03-29T10:09:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/dungeons"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/03/diablo-4-dungeons.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Dev Update Talks of More than 150 Procedurally Generated Dungeons"
     excerpt: "Indeed, titles like Diablo IV and Overwatch 2 are still very much in the works, even though setbacks within the company have quite clearly had an impact on development cycles, and, more importantly, ..."
     publishedDateTime: 2022-03-30T17:00:00Z

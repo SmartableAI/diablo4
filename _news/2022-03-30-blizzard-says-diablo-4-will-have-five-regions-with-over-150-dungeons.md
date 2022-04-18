@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons
 cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/"
 type: article
 quality: 107
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Diablo 4 will have five regions and hundreds of gothic dungeons"
-    excerpt: "The latest quarterly update for Diablo 4 reveals that there’ll be more than 150 dungeons and five regions ripe for exploration. On Tuesday, Blizzard gave some insight into Diablo 4’s sprawling open ..."
-    publishedDateTime: 2022-03-29T10:43:22Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-five-regions-and-hundreds-of-gothic-dungeons/ar-AAVDuXv"
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "RfAnDTH0OakbqOayIN+0ZPtKwNjbXXgrwH9ayeY3Mgn6k6k/LdC+YcLRtpaHCgLTJpHOispKuFksamGWXC7Zj7BbLH2YDgpfbadyRqTfAx0JyVG5KX1PZb5hsAKY0H3PJKCC2MMGTPuEfikBYMtz/leu55f89J2s1yzYzhT6afp5q4Ijh1SCjSXDRN4p0R+hZgMu1kUnEjDAl5hHT3oc1mjGhYjpHp8O1MMhZ905YPQzMg6tL7FMrC+l6SIgf+6Zo2vxDvZfMZHKrmtCGdHQrAFTP39ExE70POfJSdZgZBhkXQLv20P61nwul9qqQig3u680rJIWq5pRQEQRBbFob9fhMJ/l/7+oFT0XfkWh0a8=;3K5dwHXEVoWTo8tBNz3QGw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gamep
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Comicbook.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 New Environmental Gameplay Showcase"
-    excerpt: "In this latest Diablo IV Quarterly update we get a glimpse of a few different locations in the game. This includes the 3 locations: the Scosglen Coast, Orbei Monastery, Kyovoshad. As well as Dungeons ..."
-    publishedDateTime: 2022-03-29T10:11:00Z
-    webUrl: "https://www.gamespot.com/videos/diablo-4-new-environmental-gameplay-showcase/2300-6457759/"
-    ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-new-environmental-gameplay-showcase/2300-6457759/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-new-environmental-gameplay-showcase/2300-6457759/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3957016-d4_quarterly_update.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 Update Reveals More Details, Gameplay Footage"
     excerpt: "Diablo 4 isn't slated to be released until 2023, but a new update is treating fans to more details--including plenty of gameplay footage."
     publishedDateTime: 2022-03-30T05:37:00Z
