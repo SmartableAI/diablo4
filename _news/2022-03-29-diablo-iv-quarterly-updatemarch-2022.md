@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022"
 type: article
 quality: 162
-heat: 202
+heat: 182
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 quarterly update focuses on environmental art"
-    excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
-    publishedDateTime: 2022-03-29T12:30:00Z
-    webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Diablo IV quarterly update details environment art, over 150 dungeons"
     excerpt: "Diablo 4 was delayed last fall, but Blizzard appears to be hard at work on the next dungeon-crawling, loot-gathering entry in the popular RPG series. “Appears” is a good word here, because we just got ..."
     publishedDateTime: 2022-03-29T21:16:00Z

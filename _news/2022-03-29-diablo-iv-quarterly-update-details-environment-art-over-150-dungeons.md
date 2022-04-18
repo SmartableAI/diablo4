@@ -38,20 +38,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Diablo 4 quarterly update focuses on environmental art"
-    excerpt: "Blizzard Entertainment shared more on the environmental art design of Diablo 4 in the March 2022 quarterly update, giving details on the various regions of the game."
-    publishedDateTime: 2022-03-29T12:30:00Z
-    webUrl: "https://www.windowscentral.com/diablo-4-march-2022-quarterly-update"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/03/diablo-4-march-2022-desert.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "T6Qtt0jPIcfaJ/MFEQVOR4kWICyz68Ua/v0Xm50/VL+wEku2/WgNIL16yXwdndyiW1NY6Ve5d9XWxjTSisFYaVmdedvhOv0n0T4zzkTMFf25ldB8xW2PvIGHgioneXpNdo5mE/kRn1eYmBaoAQY/ZkBhbE547NLDH+K9wzHdjUyBAnZPtVunH53eZpL7jOzrl7TS1EorapghcwTDt6aQoqrWTdGsG3qfDu5HxO022OVijjgOYfvC4PjfVMHg074nXHj9g/zUGqkftVIxQKRg0YpneLXJaWn0dn/4WCzkvIRwIZeWDnasuQB8lcYIa2kX7J1qsdhQKUAUWbQVzwGUoVQyZmo9gYLKKh4bCtYfldo=;lJ63IjWGEfIVe/oL4UPduA=="
 ---
