@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gamep
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Update Reveals More Details, Gameplay Footage"
-    excerpt: "Diablo 4 isn't slated to be released until 2023, but a new update is treating fans to more details--including plenty of gameplay footage."
-    publishedDateTime: 2022-03-30T05:37:00Z
-    webUrl: "https://gameranx.com/updates/id/295571/article/diablo-4-update-reveals-more-details-gameplay-footage/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 87
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/02/Diablo-4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Diablo 4 New Update Unveils Dungeon Details and Gameplay"
     excerpt: "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ..."
     publishedDateTime: 2022-04-04T13:35:00Z
