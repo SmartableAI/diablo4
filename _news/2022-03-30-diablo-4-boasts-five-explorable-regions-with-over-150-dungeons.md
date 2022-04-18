@@ -56,6 +56,20 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Diablo IV quarterly update details environment art, over 150 dungeons"
+    excerpt: "Diablo 4 was delayed last fall, but Blizzard appears to be hard at work on the next dungeon-crawling, loot-gathering entry in the popular RPG series. “Appears” is a good word here, because we just got ..."
+    publishedDateTime: 2022-03-29T21:16:00Z
+    webUrl: "https://www.gamepur.com/news/diablo-iv-quarterly-update-details-environment-art-over-150-dungeons"
+    type: article
+    provider:
+      name: Gaming Polls
+      domain: gamepur.com
+    quality: 72
+    images:
+      - url: "https://assets.gamepur.com/wp-content/uploads/2022/03/29225300/diablo-4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "D5Xd+PvmyjuLj1G91OUoLyCokE/khdQyUYyHdRNAEWIjrFgZ+4E9eyT6R2CjvE7qKBXIqgT42Ko7C5CTAukfCBtldm3GG1ymfGjM1iKlP4H0qCuaLF76wB/rlblvQ9vqgcU7ESjIZvsmyKpBNgg1A3qr/oMScHAFh1UOzxsIUYaVgSXTYs2lqyz4BW/zQ49z0o6DE2xpZijt9afJVQg7rtcCyXF0PbFrUh7B1T4qo1M9eUwAqmO+UE7u0cv5LMfW8A/E88xmzfBbWet3+jOXGl+k4NQKod2RDrbiacUwpRaMkatQmkTozs+tAOwFo2J4SROlEDA+dGkLnFidsyTKdh6gkkldCZmxmJWvNh3RtWQ=;4Lbul9FOje3oRg2A7JJLDQ=="
 ---
