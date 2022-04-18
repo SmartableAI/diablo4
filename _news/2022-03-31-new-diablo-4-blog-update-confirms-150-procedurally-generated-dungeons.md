@@ -7,7 +7,7 @@ originalUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-proce
 webUrl: "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://images.pushsquare.com/db63e381edee1/1280x720.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Diablo 4 Will Have Over 150 “Varied, Handcrafted, Procedurally Created” Dungeons"
-    excerpt: "Diablo 4 will have over a hundred dungeons for players to explore, loot, and survive; all uniquely designed around the \"return to darkness\" pillar. In a ..."
-    publishedDateTime: 2022-03-30T01:15:00Z
-    webUrl: "https://segmentnext.com/diablo-4-procedurally-created-dungeons/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 82
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2022/03/Diablo-4-Caves.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "wdCmj85aK2WKIFnsPPLoTkEC6L0LCKd7nE9fPFHhAjeDBZrZVVh3pnyfxIzTgvttq16EG0/QmUC8BPWI7RgNCcuOl3G2SJjw0TDxqMU2AAqAaRGJy2FhGatzSpxhQwUAgo1+MPWtw85mJ9kQrOKfuuU3pQxSnsZBg/v9SJes3k25/1wwXK0Ux7uyZIUKNPaniFIvLxnF3vFGYbbbczJd3TXar9VLBBEwS8wVdLU14ks1DR3FetyYEk2P7fJhAdxUg3GfaBl1HKhi0G/ul9nT3HUAKvD6DQn1S2VYVSrCMzKS8w+ZPCdOdurUIEQEZCXyx3vD+m8X2uiXnjNWShjf8kXCMSjftNzS0w1LCUbd/Y8=;XcZWUQ+6UE9bSd7F3SEGSg=="

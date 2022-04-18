@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Will Have Over 150 “Varied, Handcrafted, Procedurally Created” Dungeons"
-    excerpt: "Diablo 4 will have over a hundred dungeons for players to explore, loot, and survive; all uniquely designed around the \"return to darkness\" pillar. In a ..."
-    publishedDateTime: 2022-03-30T01:15:00Z
-    webUrl: "https://segmentnext.com/diablo-4-procedurally-created-dungeons/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 82
-    images:
-      - url: "https://cdn.segmentnext.com/wp-content/uploads/2022/03/Diablo-4-Caves.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Kk11Fyzw76a14LLZ6pXy3o1o5dYNoYfUveLNyhnKcXSOs4Fc7y/+XUsT9kj3FBOGAlie83fGbv38XNUh7IoRtn1UPfwQypPSdZAOEE36uFqKTxYopCSYyCZzzqv5yjYTM19zebC3j8HQaOghaBYG2LGxTr3yzAKsGE9SjmeOgfmq4yBUZPO9RFStu1jjwRhW8EvN4dO8gLiRc/ErUeCbgnpN8Yw9twUqrHVCXuFZdn0TwpbI67usM4oyoGMFHepVGONXMeGvNLuovoiCEhKZKh8i5BbkuSRfBEqQKntzWZoNq2GTyqoF4NbgaTwOUSsKfvvEKWNyOJUJtTCvnxEsBfWgPcDj1v/Uh57MFyUsUp4=;CsIuyrUoZRnUUJK2DVY/3g=="
 ---
