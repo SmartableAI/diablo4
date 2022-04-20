@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/diablo-4-guide/"
 webUrl: "https://www.gamesradar.com/diablo-4-guide/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

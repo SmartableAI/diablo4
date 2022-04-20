@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gamep
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/"
 type: article
 quality: 107
-heat: 127
+heat: 128
 published: true
 
 provider:
