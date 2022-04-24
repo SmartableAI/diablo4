@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming.md",
+      "title": "DIABLO 4 Official Announcement and Gameplay trailers / Hell is Coming",
+      "excerpt": "DIABLO 4 Official Announcement and Gameplay trailers. Hell is Coming my friends. For more game videos and trailers hit that like button, comment,share and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-official-announcement-and-gameplay-trailers-hell-is-coming/",
+      "originalUrl": "https://youtube.com/watch?v=GCQOL-Tb_eQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GCQOL-Tb_eQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GCQOL-Tb_eQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T01:27:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StanKO Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-sodapoppin-reacts-to-diablo-iv-announce-cinematic-gameplay.md",
       "title": "Sodapoppin Reacts to Diablo IV Announce Cinematic & Gameplay",
       "excerpt": "Trailer ▻ https://www.youtube.com/watch?v=9bRWIdOMfro&t ...",
@@ -1008,48 +1050,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement Trailer [Blizzcon 2019]",
-      "excerpt": "Finally a game for real mobile gamers. #Diablo #Diablo4 #Blizzcon #Blizzcon2019 #BlizzardEntertainment #Blizzard #Overwatch2 #Overwatch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=pESgI-_zgjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pESgI-_zgjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pESgI-_zgjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T09:19:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheMasterOfDooM",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
