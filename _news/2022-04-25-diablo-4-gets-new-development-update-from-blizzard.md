@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-new/"
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-new/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 568
     height: 320
     isCached: true
+
+related:
+  - title: "Diablo 4 Opens Up about Development Updates From Blizzard"
+    excerpt: "Blizzard Entertainment comes with such exciting updates for the fans of Diablo 4 based on the current status of the new update on the current development of Diablo 4. After the announcement all way ..."
+    publishedDateTime: 2022-04-27T23:48:00Z
+    webUrl: "https://technosports.co.in/2022/04/27/diablo-4-blizzard/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 87
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/04/d4.png"
+        width: 880
+        height: 440
+        isCached: true
 
 secured: "9hOf/GOZMkyg+/vVsjMiqZSbGUEBnW+c7nbBTAQ/z+GU4JAMAWZFsgVDxUfN2khYHQGK1nuOKAwZZytJYT0tKYFGHSuVmkDu5HixdEfht8Bqw8T/+eL6MN5z4oySqaZYdlH8Xw/R4fqp+tNg7ZcQwU1tSPgn2mS4amLZkib8x/D55cI5cOrgIa1NOur840/pcV3ZDIEOAtBJNJxFKD8KgibERMQss+lcwk5w4rM6LRnL0e83xH1HfjyfaH+RZ2qqRJ02qT75/Anl1t4dkW9e97HcvZb1ng7LDbUASm9oDVh/2ia7N9xXSzt9+p6j6vTUbTnKmFYHnaLeirsx5uz0hDshQiz9+F0xZBhzx80D4Gw=;cCnvEFq9fGQBAekT6HTq+w=="
 ---
