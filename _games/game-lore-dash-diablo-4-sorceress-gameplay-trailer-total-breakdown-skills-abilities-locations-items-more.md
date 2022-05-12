@@ -4,9 +4,9 @@ excerpt: "The Diablo 4 sorceress Gameplayer trailer revealed alot about the clas
 originalUrl: https://youtube.com/watch?v=9FK923_Wjbg
 webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-sorceress-gameplay-trailer-total-breakdown-skills-abilities-locations-items-more/
 type: video
-length: PT11M29S
+length: PT11M23S
 publishedDateTime: 2020-12-03T06:04:16Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9FK923_Wjbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Al0nbuCM+2GBGj8jOLSzMvp9reVX46xXeLG70rIATJ+tnmTHynMcYbKlGFYb54oVBmLiiB5gaEABV8dt2/734X5yU/CA1o1shhhPpHd8qyEeLgG6UX39GXsPXLAVI3qrPHtW/iRWGwv72dSp9M6ier25WTOJ5ZTe/zZxIUjNIwpv8qBn+As6C8BN3TrRfT9DIaqLSZvgURLdK90XEXtg2lKbV0O191LP98+XDsF3QwItDRtIcWpAqDvBo1tufGswgz72jDWvV4cr5v7dDVG6sz8QAbQS85zjFUNFVR8ITeICd6CZnVESvAPIv7O4nJhIgIh+t7GOTEvy9HUSw5cvhYWwNgKvRdxewmyfrI1uc1c7WWIWQhOphV91CABFf39F3DEj/m2uaUUQDMhLwpZXfSoxWZBdAWgwfwDPWitPPCk=;GAbY1NFgfPGKwOYloL6twQ=="
+secured: "7eRm/Om93ALeeYss5QR4iTxIqiXodd3pIi+nJcJFCa2g4fVxI1uIklozlcukLHtdaCltLI3akh8rmiaXDcyOFoHNBh5xK7Bb4AdBcjLhZasbEkqbm0UI6k65OpPa5sb6pzZ9mOSwDxcV68+cdE0j2t49ejJgixU9zhZU6XTaLvi78MYnldcYvy3c82KQFZYKD7oMBi85ENlzSplQw/rL+Y7Fab8PgSGuNq34YUYbOnsWpI0Ggn76FDpK/ilkRXJD/rPOSIYUvzK5PT0XDkeWD6mpkb9AkPN6RgF0pUIiP8SwlbLKG/o7cTj7tvSmbstFslyujPBjmyAiCLP4OK//qbCXUdvYpv5bkoWsHQcLnpVLurUMjBfqi+BzxxLnJGfbinEAXqpHkDphHGAE2lgxiAdtLEWJZ+0RAzgXM5xs+pLoJmrQFoBXvETZY5rsIcsy;jde+0mtLkzrbL4C42O+h1A=="
 ---
 
