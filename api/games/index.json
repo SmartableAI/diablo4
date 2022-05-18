@@ -128,6 +128,36 @@
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
+      "title": "New Gameplay Today – Diablo IV's Barbarian",
+      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M35S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T16:00:01-08:00"
+    },
+    {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
       "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
       "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
@@ -191,36 +221,6 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
-      "title": "New Gameplay Today – Diablo IV's Barbarian",
-      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M35S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T16:00:01-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
       "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
       "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
@@ -237,7 +237,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/c9x16b9UyXM/maxresdefault.jpg",
@@ -389,7 +389,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qPTOEGU04X4/maxresdefault.jpg",
