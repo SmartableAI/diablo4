@@ -190,6 +190,36 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
+      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
+      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
+      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M27S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-24T08:05:28-08:00"
+    },
+    {
       "path": "_games/mrcasual-diablo-4-vs-diablo-3-barbarian-first-impresion-compare.md",
       "title": "Diablo 4 vs Diablo 3 Barbarian First Impresion Compare",
       "excerpt": "Thanks for watching and if you like (or not    ‍♂️) my video don't forget to subscribe!",
@@ -279,6 +309,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-27T08:33:17-08:00"
+    },
+    {
+      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p.md",
+      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 2 [FHD 1080p]",
+      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/",
+      "originalUrl": "https://youtube.com/watch?v=ku-rElv48ho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ku-rElv48ho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M21S",
+      "provider": {
+        "name": "GameWorld",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ku-rElv48ho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-23T04:20:19-08:00"
     },
     {
       "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
@@ -433,36 +493,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
-      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
-      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
-      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M27S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-24T08:05:28-08:00"
     },
     {
       "path": "_games/-diablo-4-druid-gameplay.md",
@@ -890,36 +920,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-04T07:48:20-08:00"
-    },
-    {
-      "path": "_games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay.md",
-      "title": "Diablo 4 - Barbarian Gameplay - 20 Minutes of Gameplay",
-      "excerpt": "Hi All, *Updated* Turns out this was full footage from Blizzcon I came across some footage I hadn't seen of D4 before. Obviously the opening parts where at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ecxoes-gaming-diablo-4-barbarian-gameplay-20-minutes-of-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xgeRjVpx3xw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xgeRjVpx3xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "Ecxoes Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xgeRjVpx3xw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-02T05:00:34-07:00"
     }
   ],
   "nextPage": 2
