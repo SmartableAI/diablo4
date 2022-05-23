@@ -17,6 +17,6 @@ provider:
 topics:
   - Diablo 4
 
-secured: "I13tVvZNWmczFN49MHnwx5Sy+Rq3+/IA0EVmAiqo8ODTikOOSwMEPrHAB01kq1EY/UEo5ePRyB1QyGxVxvtFA/55Izm7GjQunpa6WXoruypCFkBtr+xK8MBGfso8FPwZcjHxVbGWrxQRFVvf9XRXm79WApg7V9aOAAv0kjX0D9ypxA+sws/bCSNxt4alVFl3dxS0wMFt7mxvpLiZp/KrjqCkDQyqZjk5WZB/Bz6b4CMX64kDbF9o7kRp3ylW7mZr0cud2Yob1XUfiN+wAKkT+0uycdQE1J+GYaBqjbyWV/yE9dktksR2bYk74O9r2YGZS+0lWiTmc4eUvQ/nXw1lA/zm3vNpWc2HKn13stzYtjs=;TDogafWIMcJ0C6z6eaZqkA=="
+secured: "XPjPQHycbfd9/YzkB9YOPFSeGA8qsOHxliLADqXBEb4DYzk94r7nLqgG6nHcC9heNbiVcmCTHlz5WLnpuuMUW443BXxQtA/2sx+e+lNz2daNyj7GNyws6cGs3znCJAsfu/ww6MMYwtHiVqqpCzNO5iBAuR1r2Ju5f9mFE2Y9dfXlW303VpZ2elZ8lpAYL0lbW/ug70EjUyqGI0gkVfTc5/8D+Mub315AlmawyzTpzCWwsc+1n99SC02Oby+CAblITDjy+x0WLuUFDdFCDE7I/tyAQHsIa148hpAQZPFosv+f8h6UqkL2/P0N40xj8AEACFRz2oik+6+1oA0fGcYRFeB/H88/7pPx4H9dC2L++kM=;JLY8vSvVwKEkXt8qLPdj7A=="
 ---
 
