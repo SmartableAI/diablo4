@@ -640,6 +640,36 @@
       "publishedDateTime": "2020-06-05T14:15:30-07:00"
     },
     {
+      "path": "_games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction.md",
+      "title": "Diablo IV Rogue & Druid Gameplay REACTION",
+      "excerpt": "I haven't seen much about Diablo IV at all after the initial reveal trailer, so I'm diving in to check it out. Steam gift card giveaway ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=-SARW0gkSBk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-SARW0gkSBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M24S",
+      "provider": {
+        "name": "Solitary Spark",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-04T01:16:56-08:00"
+    },
+    {
       "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
       "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
       "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
@@ -879,36 +909,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-29T10:49:04-07:00"
-    },
-    {
-      "path": "_games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay.md",
-      "title": "DIABLO 4 - NEW Enchantment System & Skill Trees Look MUCH BETTER! (Barb & Sorceress Gameplay)",
-      "excerpt": "Blizzard dropped some new info for Diablo 4! We get to see new skill trees, sorceress enchantments, and more! It's been a year since this game was revealed, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-new-enchantment-system-skill-trees-look-much-better-barb-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=Kv-Z52JtN18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kv-Z52JtN18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M56S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Kv-Z52JtN18/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-30T08:00:11-07:00"
     }
   ],
   "nextPage": 4
