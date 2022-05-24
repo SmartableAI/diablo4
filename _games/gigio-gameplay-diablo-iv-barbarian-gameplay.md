@@ -3,7 +3,7 @@ title: "Diablo IV Barbarian Gameplay"
 excerpt: "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ..."
 originalUrl: https://youtube.com/watch?v=oFQXUsqN3HE
 type: video
-length: PT21M27S
+length: PT17M20S
 publishedDateTime: 2021-10-14T14:41:09Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5rdVUFh8vl89XYKwm5aSBRO2kOSaf9ieAbtamyJTvIU+gQrPBXSugyOOf3bRvtJKQxpdrfUJYJITakSSAdJUngl8gwQPUUV392uTB0hkYnaZq4/z/AqrprVDCtK3fQ2gAaENOFdbBc9kx76OaSv1JFm+QllGXgnMeeaZIsR3Ogf4Vs+T9BMAZ/i+Wuf5IAynYM1aRpvXE7yFi6ued7/cVKU/GXhHWVQvo81o7Pqpw3IGqQex1rYAxh9w7rSZCpO7as6hd5Mh21ZRVAKWbSZY/ZWwbWcXa5IkomZ8fEV5K8B9YLKXifKZgyqtU4wEyi0MkXTnNB9RBFhWse3p3SjVVBM4WRfLg1EPoaWywO4+i+q10asyHdHa2I2ZDuwLboBMKCIFOSjxpO/Y73GKw6uBYMZsqEa95hTjt+ArXf1ke8Y=;QFWUCH0JblhPRlF2bYtyQA=="
+secured: "Gaej5Yc1irajFHjzECQGMeAJyX/f4uKvgmjd9FDZkalXVQKvsNpPy7OrjujcfaBLBiVV4+59+U6cYxnFfU3z0NV70HIDPlx3sm3sqhpj7CEoNEDcZC72QrjfYUHOoIThwoSnvMOOnnh4+ZpKt/ZaXa95DGLa5jfkrqOgvFBmPMy5q6ZWdDe2g8dF9OFg79m3PM+KCw15j/xU/t7Nm+gAylOAEUj4TPnnyLSSiyqOKlJTBKdtZvTzf37b6sxgndV/eMY98Dlbza6F6GEdLyfdSuXLPafi0zGHQiGNDAKXmnlkujGRTaGROQlLI964X+Chy2eHMJqD0ImmpiZKMQ9mxhL9CjA0cOQHUhVJAbRI0gished1GYV04woAuyhU5AqaSUrVVbvLMVNk4wmFxrtv2RwQCxphciVZdzEb/p9gnVc=;5G/7ucz6iPyaQ6/oBe6hUQ=="
 ---
 
