@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T11:41:00Z
 originalUrl: "https://www.gamesradar.com/games-like-diablo/"
 webUrl: "https://www.gamesradar.com/games-like-diablo/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: GamesRadar
@@ -14,6 +17,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "dX/Q25v6uNigo04N20JnAatVhkyOK8Qm0jJAnIb/0zZUtKdOxitOIb/v5Ul301mrfU83h1kX94Uif/pZn3/rgrjanJyV5dp0Z+MvYS/zX0dr0lbOEOPqVLF2+MggRLy7mofgsisVSe/f7SVqvawOAeExw9s8ulYsy8ssUIBmHzIcc1A+SRdGpJM0/XcdyQqwzf013XJOIBlfhZ0zLKLyhp1QIpLm7crsChrnzfZzV0UqJmYZM56RlQtmm6ASJIgQr4j9/7ilXYeIc3B70+r6IxByEsNnUvSJMor08OHv3d+9v7UXppT4oBay8+0JhNDh3FGt09xApfbRGaxNZQt7juh5QqmrlDQxmySSiY0C+dk=;6c3H8xwz+7Ms8Nkmk4vX+g=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/9A4xxSuU3XJGJBzfVkWqUV-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "UKfSluRWs8aH8sif/xIDex+RXOq/PW3o9G1LXiQO6YFojHmtC83SaHVqKIoq8wctw6C8Pi9SirHfwiJFQI1YeU+4maB7UVO8nc9mzCpGS0zPzcDFzOjiaoqYJPEqd1MMdZOZZs/T1ztO2NCYGCIrEFBP/4mAAq5Pl70SIbdIqITWh4GW7gp+lAxHpFDpxZNDqloKZVdgu+/RCcik9HjJj47FCJIGS62x83lNEzuFAOul3mKRg5eQaXmglwWhmvGJUwL2UcvtNnBFUjiPey2eHUJ+TcmAdJpi96fKmKmfCDX/usS/l+psUau7j7Ilm41syTQc9QLievii+P6cJSiXruZtR1f4aj2Pf9m+AqcYYA8=;BH9/LgjoZffMtzhGj+2JGA=="
 ---
 
