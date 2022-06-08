@@ -4,37 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/he-looks-familiar-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
-      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/he-looks-familiar-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/he-looks-familiar-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
-      "provider": {
-        "name": "He looks Familiar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-07-22T16:22:01-07:00"
-    },
-    {
       "path": "_games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps.md",
       "title": "Diablo 4 - Gameplay Barbarian (2021) 4K HDR 60fps",
       "excerpt": "Gameplay de Diablo 4 Barbarian (2021) em 4K HDR 60fps . #diablo4 #diabloIV #barbarian Novo Trailers 2021! Novo Games 2021! Inscreva se no IGames TV ...",
@@ -521,6 +490,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T01:00:07-07:00"
+    },
+    {
+      "path": "_games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1.md",
+      "title": "Diablo 4 Barbarian, Sorcerer, Druid walkthrough part 1.",
+      "excerpt": "Diablo IV – walkthrough Barbarian, Sorcerer, Druid Hi guys, please like and subscribe to my channel and press bell icon... diablo 4 werewolf , diablo 4 druid ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/yurii-pit-diablo-4-barbarian-sorcerer-druid-walkthrough-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=ZpC6aXZ110U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpC6aXZ110U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M51S",
+      "provider": {
+        "name": "Yurii Pit",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZpC6aXZ110U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-01T21:17:18-07:00"
     }
   ]
 }
