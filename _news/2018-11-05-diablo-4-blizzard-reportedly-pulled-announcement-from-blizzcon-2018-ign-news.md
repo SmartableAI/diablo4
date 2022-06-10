@@ -2,14 +2,14 @@
 category: news
 title: "Diablo 4: Blizzard Reportedly Pulled Announcement from BlizzCon 2018 - IGN News"
 excerpt: "Blizzard reportedly had plans to tease Diablo 4 at BlizzCon 2018, but pulled it at the last minute. Subscribe to the IGN News ..."
-publishedDateTime: 2018-11-05T23:30:00Z
-originalUrl: "https://youtube.com/watch?v=RGdq7yvgabg"
+publishedDateTime: 2018-11-05T22:48:15Z
+originalUrl: "https://youtube.com/watch?v=H7DveYoDXpc"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RGdq7yvgabg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H7DveYoDXpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: IGN
+  name: IGN News
   domain: youtube.com
 
 topics:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "I8Hz/dYy7tkHP5QV4C6+D/q1SkWCLt8EhcA1UTVVyWyFdefmHBaiQ4pSE4jbTClxYc6gUltGdtU43venD5OWeKxI0unRjg1uww7FelRBvmBQl7j4VRjQ4RjFJujfZCTFXQRcyF3aneozF9wzISQBzC8j8rUxA0HT0YaQoYbAzLx3icm9JTSlNRftFSMC48CiAyuMK/Hh62KroMfDO+hlnJpafsxa72wh44ei/8NrlQ1r9mMY6p+lMzExApFV0CkvwLLvryNmbaHev70FE3V6Y4p9195gggy3KvoRur7Aip3RiycH5KKo0WvkHJfkBc95R4taVdAvNRyaDZpzYHN2vHTygMCDkYhcnogbUI03Za3cEOfHcq6g+z5AQ/7GBjZQz5mkzUaJDEknGJqQW10HCmuD0QtQ0xnTmru91cmJpAFyIEkfJCC0yYQ/AYqW9VE/;BPu1ZCy89MTmIkyfaDgw7A=="
+secured: "i0q/G2G6mYsf7AraZmyVTs1JZLrxU2vDw4Q19MSZmw7Cn5rz5r984yGLNEUZCyUbczlg/nuRK/tKkZYYfGHKq2Qbph+u/wKDcmrJIctTAPRtW97xnai8uhHuPfDY4NTHnPjSI/UTcYX9sYOkBu4pFmDkVFlOvweS5LIh31XM/zPBg2oAXN0tVPJucZgU/FzIXei1B3V7hWK8eHQSIleM1+mz67SoXK2jeZWOO/VDgIIqbIA1GP5PtL8z5DgtwDaPvGZh0ZSQGCvwnxAREdQHMzuwwroNWvjvaxKaQaTpFz07182XtTqRSC8ORpSXzjSeAKGglXDdIgU4QjlKhJ4NA+gkhWksRN2Ud243vtGZOOWNcExDukbOp7KEh/X1JQOLWGHr1Aez/RYJMLhZatJRjQ==;ZPZ/J3Lla/HQX4uLUF3IsA=="
 ---
 
