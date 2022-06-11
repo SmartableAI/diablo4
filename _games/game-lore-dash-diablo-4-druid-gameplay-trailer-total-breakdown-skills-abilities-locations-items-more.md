@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-druid-gam
 type: video
 length: PT13M27S
 publishedDateTime: 2020-11-10T05:27:21Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqijCULaS2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qOsrE8sluQg0fJ+GH/T3tU5uy5PIFdyn83Jdgd+rZ226H+xsJ1bQQmJhy9SIP1aMfm27FpCSRxN41CxbbW9O0kt3R1nuqnizybRX6O4aTHQO0NxlC0s7xAqIxkP+4GGFKJO3hIjGrLB+4fu5Wyzd9IFpP2gcHBHjThliEvlTmpCw4LmUNJMxckBCeP2Px10S+FDrFKTPmuewBiMmvguv7nL+Ou8ZX5wwRabCNpj/2lBcKXsmIAUJKKyyusJPgSuzvD6MMgGo1BOM/jVwFmF/8qqU5YoPsv62zEieItb6HFJ3OpNfyt2TxMx/Imjkyrma82Ob4cEe4LoecmVdCg4p+KSZsaStTvprJv7Y5+ARIy8YfCztOqyUBHz3qXNJXjBUezfOy1m9qREDc+RrVN1GBSHaEeVICs/dMnjhFdjMD+8=;XN+HkoznlOUrIsINI0U2aQ=="
+secured: "m96tddmIW/CIV8wMAh5c2oTtNf+RCVbe04gONblXBn8bYG5jVUhh6/YLWYE3sV7o5LPEA+qRJGSPk1tlkyT0MtEZXfPxFq5Y50wbL9HfZtnaxSupo//PCvv90RGtKJ+lHLBNp3gF32JwDFUWrEibic9rfOZAPuHCuXnkNMfskddnzKcO51DmcbjgpTVky0wAmWvKWttT3Aa3uet8I3tVcoMTR8E0zP3+BgrjnYI3CgdNirwl5h691j8SD/iPb/vej3KQE/0EdxPRuVshO2z12wG4l/Reb7QW8JXjywWa8r8dZjIxuTMqdtjIz6g5xapUFuDbXV/qimT+azOPm2FUkKt8lGRlbP5dOn/fR+iVPOFOi5/LfA9mDoRxGNI5QS7zV1zcrn/ExYe2rlkwj8NgxemjXlFns3q7NaEveazo92U=;Q6BQpJW4axo9jgz+bhmgnQ=="
 ---
 
