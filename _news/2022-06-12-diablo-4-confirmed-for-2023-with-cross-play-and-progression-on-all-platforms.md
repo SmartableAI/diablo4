@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Every Xbox and Bethesda 2022 Showcase Reveal: From Starfield Gameplay to Diablo 4"
+    excerpt: "The highly anticipated Xbox and Bethesda Showcase has just ended, and we saw some rather remarkable reveals. Just like our breakdown of Summer Game Fest 2022, we've put together a complete list of all ..."
+    publishedDateTime: 2022-06-12T11:42:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0b81a8f542618e709d40fd6dde91be9796b3fc11/2022/06/12/afb08771-fa71-4264-a8a9-e48907cfe64f/ktytbeesjzlb3gggfuq33e.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 launches for PC, PlayStation and Xbox in 2023"
     excerpt: "Diablo 4, the game that's not Diablo Immortal, will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S in ..."
     publishedDateTime: 2022-06-12T11:09:00Z

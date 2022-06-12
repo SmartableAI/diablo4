@@ -38,6 +38,22 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Diablo 4 Looks Strangely Similar to Diablo Immortal"
+    excerpt: "When you’re out in Diablo 4‘s world, you may occasionally run into other players in certain areas. You and those other players will even be able to participate in certain “Local Events” and World Boss ..."
+    publishedDateTime: 2022-06-12T13:38:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-4-looks-strangely-similar-to-diablo-immortal/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Diablo-4-cinematic.jpg"
+        width: 3840
+        height: 2059
+        isCached: true
 
 secured: "Qbdl1bPbkw9WjWIY0uyCex/xuIibxIoNphEQ6hU9KKdwH/Pzzd+azxiVZSBA0NCyt2DKwcsjIcv1K5AOY17fXdYoPMQvLqAAwDTmkHYP57htcDz1VQhwuMrSijM00NzJGRHOBs1afyezOkNmu48tNLuoVYIWdcaoCHPsyDNHkj4QMW6CmmRrR+rW+O9alj7fgg7iS1Lju9GUNQkhOGQN2StGv3bUgbeE3kaMBHXU9IIMMjv23WRydJEMVZ88t0goaZQv41PFGUt+6/eftcmbX+Yi8IhYq8Uzp9bmQ9+eMLG2WQ+tEyUXsDdaBbT+Unva1q1aC7LHpZ2EJU6g6Lac/+8uKdS2TWT+2DgbBCsofRo=;LWiXzju2vtaAi/CxqubU8w=="
 ---

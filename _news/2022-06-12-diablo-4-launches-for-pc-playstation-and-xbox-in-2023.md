@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Every Xbox and Bethesda 2022 Showcase Reveal: From Starfield Gameplay to Diablo 4"
+    excerpt: "The highly anticipated Xbox and Bethesda Showcase has just ended, and we saw some rather remarkable reveals. Just like our breakdown of Summer Game Fest 2022, we've put together a complete list of all ..."
+    publishedDateTime: 2022-06-12T11:42:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0b81a8f542618e709d40fd6dde91be9796b3fc11/2022/06/12/afb08771-fa71-4264-a8a9-e48907cfe64f/ktytbeesjzlb3gggfuq33e.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 confirmed for 2023 with cross-play and progression on all platforms"
     excerpt: "We can’t wait to open the gates of Hell next year—the talented team behind Diablo IV puts gameplay first in everything they do, and they have built the biggest and most amb ..."
     publishedDateTime: 2022-06-12T10:18:00Z

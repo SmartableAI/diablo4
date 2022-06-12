@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
+    excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
+    publishedDateTime: 2022-06-12T12:19:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 98
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Diablo 4 Necromancer announced with new gameplay footage"
     excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
     publishedDateTime: 2022-06-12T11:15:00Z
@@ -52,6 +68,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Details Endgame, Open World, Couch Co-Op, and More"
+    excerpt: "During the Xbox and Bethesda Showcase, Blizzard reveals a new trailer for Diablo 4 including a huge open world, co-op, and end game details."
+    publishedDateTime: 2022-06-12T11:38:43Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "ZORtAYj3TELW0U6+N6AOLtuCdDkNENbZ/j0WV4u4TXo6Vz1e8XgqDDL/kL5yZslIFZr7TXt0Y5BHHDTyg6hlaMfEa81naUxx51leZIlBSOYBkyzXC25/dtU8FFKDsNhqkFmE8yZlqRjXsoxJJiVsN+/Gmv48cMwzBe7w50YEwaXm/lMckXaJL4zYL60ZBKnBsm4FomIO6DhT9JySnvu2i95enXcxq3R0Ve4cL2otOAT7u/tb3OR2+F9qp7x38rlQ2cyfUcPupxgIW4uosKlwgOKsxvayVNP4FBOk3wrT5Gir/LK7mHIQnLViv4Vfst2jh/dX/LHG3P7UI4W0GGRtFcJ/7hX5zZ2r0XnWluuhkdg=;tHKU1D+ZnO07jLChQ6gV5A=="
 ---

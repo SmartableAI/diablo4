@@ -7,8 +7,8 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
 webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: PCGamesN
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
+    excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
+    publishedDateTime: 2022-06-12T12:19:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 98
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay"
     excerpt: "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go."
     publishedDateTime: 2022-06-12T11:03:00Z
@@ -52,6 +68,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Details Endgame, Open World, Couch Co-Op, and More"
+    excerpt: "During the Xbox and Bethesda Showcase, Blizzard reveals a new trailer for Diablo 4 including a huge open world, co-op, and end game details."
+    publishedDateTime: 2022-06-12T11:38:43Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "n9ldSuKX+X0xWoI5L/PnC0QZgpL9TMONuPbmxS520KCBtpSe6mxPT+o+h/+7u2NI9fB9PYUON/fj2dt8smfBSHieMLg86V1rRc74UG4aN3FqIaKk1M1J3NA0CRj1FUx1RWa4G+RUZZ8hSpjrwVpe8sEBVjAMsLlQqOzBR933g+V7nnP0nGoRchoc7vk35vDleLavwfQoLmwX07lGhFfU/Qx2K8GvkLxft5NgnK1n7QTOGJUx1eE+NWG+nFO9p8dlmiDHuFP2Zog7yYldYICSvFduT0aiUaPVW+UQBSZajZWPPHE1uJp3J4pjmnAdYdWbYqk2B1vTfMzcPSo2SxrHnD2Nhcrmh5SqOhEWT6W7igo=;5NtIAgJxeo2LofM/Gff36A=="
 ---
