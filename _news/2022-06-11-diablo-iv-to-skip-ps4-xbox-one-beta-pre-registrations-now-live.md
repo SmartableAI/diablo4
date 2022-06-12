@@ -32,6 +32,20 @@ related:
         width: 938
         height: 568
         isCached: true
+  - title: "Diablo 4 beta sign-ups go live as the game’s confirmed for PS5 and Xbox Series X/S"
+    excerpt: "Players can now pre-register for the Diablo 4 beta. The beta hasn’t been dated, and it appears that the registration page has gone live early, as none of Blizzard‘s Diablo social channels have ..."
+    publishedDateTime: 2022-06-12T01:21:00Z
+    webUrl: "https://www.videogameschronicle.com/news/diablo-4-beta-sign-ups-go-live-as-the-games-confirmed-for-ps5-and-xbox-series-x-s/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 81
+    images:
+      - url: "https://www.videogameschronicle.com/files/2022/06/Diablo-IV-scaled.jpg"
+        width: 2560
+        height: 1265
+        isCached: true
   - title: "How to sign up for the Diablo 4 beta"
     excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
     publishedDateTime: 2022-06-11T22:40:33Z
