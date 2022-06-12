@@ -2,21 +2,72 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-12-how-to-pre-register-for-the-diablo-4-beta-version.md",
-      "title": "How to Pre-Register for the Diablo 4 Beta Version",
-      "excerpt": "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-how-to-pre-register-for-the-diablo-4-beta-version/index.json",
-      "webUrl": "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/",
-      "originalUrl": "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/",
+      "path": "_news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase.md",
+      "title": "‘Diablo 4’ Beta Registration Has Quietly Gone Live Ahead Of The Xbox Showcase",
+      "excerpt": "Diablo Immortal? Never heard of it. Time to move on to Diablo 4, says Blizzard, which has just put pre-registration live for the beta ahead of today’s Xbox Showcase, which seems likely to be linked.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7RdDpqCmjb4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a5f4887af06ca751876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
+      "publishedDateTime": "2022-06-12T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-diablo-4-beta-sign-up-page-is-now-live.md",
+      "title": "Diablo 4 beta sign-up page is now live",
+      "excerpt": "Pre-registration for the Diablo 4 beta is now open. Whilst there's still no date yet on when the beta will go live, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-beta-sign-up-page-is-now-live/index.json",
+      "webUrl": "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live",
+      "originalUrl": "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +77,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-11T18:58:00-07:00",
+      "publishedDateTime": "2022-06-11T22:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -44,21 +95,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-11-diablo-4-beta-sign-ups-go-live-ahead-of-the-xbox-showcase.md",
-      "title": "Diablo 4 beta sign-ups go live ahead of the Xbox showcase",
-      "excerpt": "The Xbox and Bethesda Showcase is just hours away as I write this, and this could be a significant hint that one certain Blizzard action RPG is about to show up in a big way. A few moments ago, Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-11-diablo-4-beta-sign-ups-go-live-ahead-of-the-xbox-showcase/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-beta-sign-ups-go-live-ahead-of-the-xbox-showcase",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-beta-sign-ups-go-live-ahead-of-the-xbox-showcase",
+      "path": "_news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access.md",
+      "title": "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access",
+      "excerpt": "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/",
+      "originalUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png",
-          "width": 938,
-          "height": 568,
+          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,13 +117,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-11T15:09:00-07:00",
+      "ampWebUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp",
+      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp",
+      "publishedDateTime": "2022-06-11T22:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1024,48 +1075,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-blizzard-promises-updates-on-overwatch-2-diablo-4-over-the-coming-weeks.md",
-      "title": "Blizzard Promises Updates On Overwatch 2 & Diablo 4 “Over The Coming Weeks”",
-      "excerpt": "Blizzard Entertainment is currently working on a brand new triple-a survival game which will introduce an all-new universe. The developer though wants to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-27-blizzard-promises-updates-on-overwatch-2-diablo-4-over-the-coming-weeks/index.json",
-      "webUrl": "https://segmentnext.com/updates-overwatch-2-diablo-4/",
-      "originalUrl": "https://segmentnext.com/updates-overwatch-2-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2022/01/Overwatch-2-Omnic.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T19:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
         "images": null,
         "publishers": null,
         "authors": null

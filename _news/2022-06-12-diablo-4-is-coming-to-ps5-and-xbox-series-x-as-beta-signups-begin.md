@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
-excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
-publishedDateTime: 2022-06-11T18:44:00Z
-originalUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
-webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
+title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
+excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
+publishedDateTime: 2022-06-12T07:44:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
 type: article
-quality: 52
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: GamesRadar
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access"
@@ -33,20 +39,6 @@ related:
       - url: "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
-    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
-    publishedDateTime: 2022-06-12T07:44:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How to Pre-Register for the Diablo 4 Beta Version"
     excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
@@ -76,7 +68,16 @@ related:
         width: 2560
         height: 1265
         isCached: true
+  - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
+    excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
+    publishedDateTime: 2022-06-11T18:44:00Z
+    webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 52
 
-secured: "heGhgm6RwjOxCHI5lGuD+SQAPAIPdtdpLju4UuzIFqOvvyKOuEXHjqigUTUNljw8qaRR1doREO4zv/RBchfQzBOR9qkKSrY2wGEObe66OY2FmQPR4NT+A3JW/b1lXly7g2fHTeev3NsC9lacz4ZPjQYMCD6vajn7d2ZrYgIIRE5Pnm6xWeZp85hEqjrfp8/0VHKSZf/sw1yL9N9KtNO4BvaSS5lokyYygDQe8f2MRTQq2KQGgtOaBvKx3yEIJmlDQk6l9iR8CF3rk8O936COTRPP5IAJG07bNMVWTHNbs5i+dn2jvlALyLgmAydKLnNfCcOloh0bQMaFyl5GpLn252DZE/VkCj7IVQv92IE/pVQ=;yVShVVJow8nVzxZGFEQcoQ=="
+secured: "Qbdl1bPbkw9WjWIY0uyCex/xuIibxIoNphEQ6hU9KKdwH/Pzzd+azxiVZSBA0NCyt2DKwcsjIcv1K5AOY17fXdYoPMQvLqAAwDTmkHYP57htcDz1VQhwuMrSijM00NzJGRHOBs1afyezOkNmu48tNLuoVYIWdcaoCHPsyDNHkj4QMW6CmmRrR+rW+O9alj7fgg7iS1Lju9GUNQkhOGQN2StGv3bUgbeE3kaMBHXU9IIMMjv23WRydJEMVZ88t0goaZQv41PFGUt+6/eftcmbX+Yi8IhYq8Uzp9bmQ9+eMLG2WQ+tEyUXsDdaBbT+Unva1q1aC7LHpZ2EJU6g6Lac/+8uKdS2TWT+2DgbBCsofRo=;LWiXzju2vtaAi/CxqubU8w=="
 ---
 

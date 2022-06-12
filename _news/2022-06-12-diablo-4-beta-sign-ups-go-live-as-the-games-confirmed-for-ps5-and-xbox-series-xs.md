@@ -24,43 +24,50 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta sign-ups go live ahead of the Xbox showcase"
-    excerpt: "The Xbox and Bethesda Showcase is just hours away as I write this, and this could be a significant hint that one certain Blizzard action RPG is about to show up in a big way. A few moments ago, Diablo ..."
-    publishedDateTime: 2022-06-11T22:09:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-beta-sign-ups-go-live-ahead-of-the-xbox-showcase"
+  - title: "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access"
+    excerpt: "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know."
+    publishedDateTime: 2022-06-12T05:29:00Z
+    webUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/"
+    ampWebUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
+    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 107
+    images:
+      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
+    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
+    publishedDateTime: 2022-06-12T07:44:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png"
-        width: 938
-        height: 568
+      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Diablo 4 beta sign-up page is now live"
-    excerpt: "Pre-registration for the Diablo 4 beta is now open. Whilst there's still no date yet on when the beta will go live, ..."
-    publishedDateTime: 2022-06-12T05:34:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live"
+  - title: "How to Pre-Register for the Diablo 4 Beta Version"
+    excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
+    publishedDateTime: 2022-06-12T01:58:00Z
+    webUrl: "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/"
     type: article
     provider:
-      name: Eurogamer
-      domain: eurogamer.net
+      name: DualShockers
+      domain: dualshockers.com
     quality: 87
     images:
-      - url: "https://assets.reedpopcdn.com/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i.ytimg.com/vi/7RdDpqCmjb4/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "How to sign up for the Diablo 4 beta"
-    excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
-    publishedDateTime: 2022-06-11T22:40:33Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
-    type: article
-    provider:
-      name: GamePur on MSN.com
-      domain: msn.com
-    quality: 67
   - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
     excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
     publishedDateTime: 2022-06-11T18:44:00Z

@@ -1,39 +1,31 @@
 ---
 category: news
-title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
-excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
-publishedDateTime: 2022-06-11T18:44:00Z
-originalUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
-webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
+title: "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access"
+excerpt: "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know."
+publishedDateTime: 2022-06-12T05:29:00Z
+originalUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/"
+webUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/"
+ampWebUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
+cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 107
+heat: 187
+published: true
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: Dexerto.com
+  domain: dexerto.com
 
 topics:
   - Diablo 4
 
+images:
+  - url: "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
 related:
-  - title: "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access"
-    excerpt: "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know."
-    publishedDateTime: 2022-06-12T05:29:00Z
-    webUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/"
-    ampWebUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 107
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
     excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
     publishedDateTime: 2022-06-12T07:44:00Z
@@ -76,7 +68,16 @@ related:
         width: 2560
         height: 1265
         isCached: true
+  - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
+    excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
+    publishedDateTime: 2022-06-11T18:44:00Z
+    webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 52
 
-secured: "heGhgm6RwjOxCHI5lGuD+SQAPAIPdtdpLju4UuzIFqOvvyKOuEXHjqigUTUNljw8qaRR1doREO4zv/RBchfQzBOR9qkKSrY2wGEObe66OY2FmQPR4NT+A3JW/b1lXly7g2fHTeev3NsC9lacz4ZPjQYMCD6vajn7d2ZrYgIIRE5Pnm6xWeZp85hEqjrfp8/0VHKSZf/sw1yL9N9KtNO4BvaSS5lokyYygDQe8f2MRTQq2KQGgtOaBvKx3yEIJmlDQk6l9iR8CF3rk8O936COTRPP5IAJG07bNMVWTHNbs5i+dn2jvlALyLgmAydKLnNfCcOloh0bQMaFyl5GpLn252DZE/VkCj7IVQv92IE/pVQ=;yVShVVJow8nVzxZGFEQcoQ=="
+secured: "7uXucr0aaBSnfSTN/6UWAMAtSdDjZWRNSPgWma4qJMzs1pz91AL6vt2xX8nCt5Wmg7/2W6BSOmNdY6qqDuwY2BPcr/IAaL07xHjiKYL7n64wBaoYtPOY/XxWBq9i7lvqoWKAb4zr5r/Z+2t95kFLaaCCfXD5UJlILVN3046jXR+/cHb/xn4Hy2dSa2p+IVnCrv8cMI8D6LxpjBD0rGXXzk5Di8h0aqzcraXOc+DCRxZ+O/91i4wCW/ljoGWvwAxwRDx49MOG0RsrHcwKN7EJQpsISTCEpNhn0aeRfZEFJy2t+V4imJHfeyO9oAnboUozaHnXfsgrqJW7qI14bvn6llIqsPmK72cr7gnsDULKG5I=;V0S0eVjKwElESql/ou3Yyg=="
 ---
 
