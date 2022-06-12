@@ -24,59 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access"
-    excerpt: "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know."
-    publishedDateTime: 2022-06-12T05:29:00Z
-    webUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/"
-    ampWebUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
+  - title: "Diablo 4 Beta Sign-Ups Now Available"
+    excerpt: "You can now sign up for the Diablo IV beta on the game's official website. The webpage currently only has the beta listed for PS5, Xbox Series X|S, and PC, although the game was announced to be coming ..."
+    publishedDateTime: 2022-06-12T08:51:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 107
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.gamespot.com/a/uploads/original/1599/15997278/3989762-diablo4.jpeg"
+        width: 1548
+        height: 885
         isCached: true
-  - title: "How to Pre-Register for the Diablo 4 Beta Version"
-    excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
-    publishedDateTime: 2022-06-12T01:58:00Z
-    webUrl: "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/"
+  - title: "Diablo 4 beta sign-up page is now live"
+    excerpt: "Pre-registration for the Diablo 4 beta is now open. Whilst there's still no date yet on when the beta will go live, ..."
+    publishedDateTime: 2022-06-12T05:34:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live"
     type: article
     provider:
-      name: DualShockers
-      domain: dualshockers.com
+      name: Eurogamer
+      domain: eurogamer.net
     quality: 87
     images:
-      - url: "https://i.ytimg.com/vi/7RdDpqCmjb4/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://assets.reedpopcdn.com/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Diablo 4 beta sign-ups go live as the game’s confirmed for PS5 and Xbox Series X/S"
-    excerpt: "Players can now pre-register for the Diablo 4 beta. The beta hasn’t been dated, and it appears that the registration page has gone live early, as none of Blizzard‘s Diablo social channels have ..."
-    publishedDateTime: 2022-06-12T01:21:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4-beta-sign-ups-go-live-as-the-games-confirmed-for-ps5-and-xbox-series-x-s/"
+  - title: "How to sign up for the Diablo 4 beta"
+    excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
+    publishedDateTime: 2022-06-11T22:40:33Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
     type: article
     provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 81
-    images:
-      - url: "https://www.videogameschronicle.com/files/2022/06/Diablo-IV-scaled.jpg"
-        width: 2560
-        height: 1265
-        isCached: true
-  - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
-    excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
-    publishedDateTime: 2022-06-11T18:44:00Z
-    webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 52
+      name: GamePur on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "Qbdl1bPbkw9WjWIY0uyCex/xuIibxIoNphEQ6hU9KKdwH/Pzzd+azxiVZSBA0NCyt2DKwcsjIcv1K5AOY17fXdYoPMQvLqAAwDTmkHYP57htcDz1VQhwuMrSijM00NzJGRHOBs1afyezOkNmu48tNLuoVYIWdcaoCHPsyDNHkj4QMW6CmmRrR+rW+O9alj7fgg7iS1Lju9GUNQkhOGQN2StGv3bUgbeE3kaMBHXU9IIMMjv23WRydJEMVZ88t0goaZQv41PFGUt+6/eftcmbX+Yi8IhYq8Uzp9bmQ9+eMLG2WQ+tEyUXsDdaBbT+Unva1q1aC7LHpZ2EJU6g6Lac/+8uKdS2TWT+2DgbBCsofRo=;LWiXzju2vtaAi/CxqubU8w=="
 ---

@@ -24,49 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access"
-    excerpt: "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know."
-    publishedDateTime: 2022-06-12T05:29:00Z
-    webUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/"
-    ampWebUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
+  - title: "Diablo 4 closed beta pre-registration is now open"
+    excerpt: "It's the first we've heard about someone outside of Blizzard actually playing Diablo 4 in a bit, but does track with the suspected release date of 2023. For more on that, check ou ..."
+    publishedDateTime: 2022-06-12T08:15:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 107
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
     images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg"
+        width: 1200
+        height: 686
         isCached: true
-  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
-    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
-    publishedDateTime: 2022-06-12T07:44:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+  - title: "Diablo 4 Beta Pre-Registration Open On PC And Consoles"
+    excerpt: "Activision Blizzard just opened the pre-registrations for the beta of Diablo 4 on PC, PlayStation 5, and Xbox Series X/S."
+    publishedDateTime: 2022-06-12T09:25:00Z
+    webUrl: "https://gameranx.com/updates/id/315388/article/diablo-4-beta-pre-registration-open-on-pc-and-consoles/"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
+      name: Gameranx
+      domain: gameranx.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4 beta sign-ups go live as the game’s confirmed for PS5 and Xbox Series X/S"
-    excerpt: "Players can now pre-register for the Diablo 4 beta. The beta hasn’t been dated, and it appears that the registration page has gone live early, as none of Blizzard‘s Diablo social channels have ..."
-    publishedDateTime: 2022-06-12T01:21:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4-beta-sign-ups-go-live-as-the-games-confirmed-for-ps5-and-xbox-series-x-s/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 81
-    images:
-      - url: "https://www.videogameschronicle.com/files/2022/06/Diablo-IV-scaled.jpg"
-        width: 2560
-        height: 1265
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
     excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."

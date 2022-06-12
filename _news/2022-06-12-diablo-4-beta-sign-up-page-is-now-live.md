@@ -7,8 +7,8 @@ originalUrl: "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live"
 webUrl: "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Eurogamer
@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Beta Sign-Ups Now Available"
+    excerpt: "You can now sign up for the Diablo IV beta on the game's official website. The webpage currently only has the beta listed for PS5, Xbox Series X|S, and PC, although the game was announced to be coming ..."
+    publishedDateTime: 2022-06-12T08:51:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1599/15997278/3989762-diablo4.jpeg"
+        width: 1548
+        height: 885
+        isCached: true
+  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
+    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
+    publishedDateTime: 2022-06-12T07:44:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to sign up for the Diablo 4 beta"
     excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
     publishedDateTime: 2022-06-11T22:40:33Z

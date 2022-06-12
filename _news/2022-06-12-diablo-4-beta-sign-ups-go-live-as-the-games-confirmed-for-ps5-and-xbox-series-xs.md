@@ -40,43 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
-    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
-    publishedDateTime: 2022-06-12T07:44:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to Pre-Register for the Diablo 4 Beta Version"
-    excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
-    publishedDateTime: 2022-06-12T01:58:00Z
-    webUrl: "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://i.ytimg.com/vi/7RdDpqCmjb4/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
-    excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
-    publishedDateTime: 2022-06-11T18:44:00Z
-    webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 52
 
 secured: "eVB4CYcxMZrrnrTmogWnyol6SP60DA5OSEfrbttCjWthDy0iSKWVVUHbRfK5aZ/7IPNS4xj0PJGdz4ghESnbGUpyvPG/49mzb32C5/+MYWHtQXEA+fmc9q/vQXeLjDy+4eDQJ37PZXtd9xy0AWOZSgGTbKNeIQIhnpS/UCOlmSpn+44u4MsUp2y/BXSDLaWZZhcsuLVFnHjxTnvo/WqiyKFs+1Ig8k/27S7CEFx8BqKz8VjrZH+rIMUo4DPTUYvE9kiUZTYZQ/BTcRz5cPT9EEfadJnPeXlrFm0GiHY3+vTokJL60hZETY2qrSEL+yyv1cd/3T9gtpMs7S0hdhcHxrcsyr7sEGbLcanpGpKfBk8=;LZAiV4mQSt3kvPeXgK8YTQ=="
 ---
