@@ -2,6 +2,243 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4.md",
+      "title": "The ‘Lost Ark’ Beta Looks To Fill The Massive Void Left By ‘Diablo 4’",
+      "excerpt": "Today marks the launch of the Lost Ark technical beta, where you can sign up to potentially get a code, or buy one of the early special additions for instant access.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6183e952d0cb0cefdd4a1e5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
+      "publishedDateTime": "2021-11-04T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed.md",
+      "title": "Diablo 4 and Overwatch 2 Are Both Officially Delayed!",
+      "excerpt": "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed/index.json",
+      "webUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "originalUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg",
+          "width": 880,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-overwatch-2-and-diablo-4-are-delayed.md",
+      "title": "Overwatch 2 and Diablo 4 are delayed",
+      "excerpt": "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-overwatch-2-and-diablo-4-are-delayed/index.json",
+      "webUrl": "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/",
+      "originalUrl": "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/11/Overwatch2_Gameplay.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-overwatch-2-and-diablo-4-delays-spark-17-decline-in-activision-blizzard-stock.md",
+      "title": "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock",
+      "excerpt": "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-overwatch-2-and-diablo-4-delays-spark-17-decline-in-activision-blizzard-stock/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6182a79723745d001824d68a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp",
+      "publishedDateTime": "2021-11-03T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays.md",
+      "title": "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays",
+      "excerpt": "Activision Blizzard's stock price started the day on Wednesday down by more than 14% on the New York Stock Exchange following an earnings release on Tuesday where the company announced delays for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/index.json",
+      "webUrl": "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "originalUrl": "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "publishedDateTime": "2021-11-03T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-blizzard-reveals-new-diablo-4-game-director.md",
       "title": "Blizzard reveals new Diablo 4 game director",
       "excerpt": "Back in August, former Diablo 4 game director Luis Barriga was let go from Blizzard along with the game’s lead designer, Jesse McCree. In an email to Kotaku, Blizzard confirmed that Barriga and McCree ...",
@@ -883,216 +1120,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
-      "title": "Diablo 4: Latest Classes Revealed",
-      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T23:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GiveMeSport on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Girls react on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "Reaction video on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 --------------------------------------------------------------------------------------- Original ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=5NNOMBHyTHQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5NNOMBHyTHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5NNOMBHyTHQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T06:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "1.1 TWINS REACTIONS",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs.md",
-      "title": "Diablo 4 interview: “Diablo is the apex of dark fantasy in ARPGs”",
-      "excerpt": "Diablo is Blizzard’s darkest series. In the world of Sanctuary, humanity desperately etches out an existence for itself, harangued by demonic invasions and the will of angels. There’s a lot of death, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/07/diablo-4-artwork-barbarian-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/artwork-interview-john-mueller?amp",
-      "publishedDateTime": "2021-07-05T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-diablo-4-will-offer-full-character-appearance-customization.md",
-      "title": "Diablo 4 will offer full character appearance customization",
-      "excerpt": "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-02-diablo-4-will-offer-full-character-appearance-customization/index.json",
-      "webUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
-      "originalUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://clutchpoints.com/wp-content/uploads/2021/07/Diablo-4-will-offer-full-character-appearance-customization-1024x574.jpg",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/amp/",
-      "cdnAmpWebUrl": "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/",
-      "publishedDateTime": "2021-07-02T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClutchPoints",
-        "domain": "clutchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-diablo-4-everything-we-know-about-blizzards-sequel.md",
-      "title": "Diablo 4: Everything we know about Blizzard's sequel",
-      "excerpt": "Diablo 4 is still a ways away, but thanks to Blizzard's quarterly updates, we've already seen a good deal of gameplay, art, and developer insights painting a fairly in-depth picture of what to expect.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-02-diablo-4-everything-we-know-about-blizzards-sequel/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-about-blizzards-sequel/ar-AAKCbIF",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-about-blizzards-sequel/ar-AAKCbIF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AALIbgm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T05:24:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
