@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Diablo 4 Details Endgame, Open World, Couch Co-Op, and More"
-excerpt: "During the Xbox and Bethesda Showcase, Blizzard reveals a new trailer for Diablo 4 including a huge open world, co-op, and end game details."
-publishedDateTime: 2022-06-12T11:38:43Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
+title: "‘Diablo 4’ reveals final playable class in new trailer"
+excerpt: "During the Xbox and Bethesda Games Showcase, Blizzard Entertainment has shared a first look at in-game footage for Diablo 4, while also revealing that the Necromancer will be the game’s final class."
+publishedDateTime: 2022-06-12T15:21:00Z
+originalUrl: "https://www.nme.com/news/diablo-4-reveals-final-playable-class-in-new-trailer-3245218"
+webUrl: "https://www.nme.com/news/diablo-4-reveals-final-playable-class-in-new-trailer-3245218"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GameRant on MSN.com
-  domain: msn.com
+  name: NME
+  domain: nme.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-2000x1270-1.jpg"
+    width: 2000
+    height: 1270
+    isCached: true
 
 related:
   - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
@@ -48,20 +54,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘Diablo 4’ reveals final playable class in new trailer"
-    excerpt: "During the Xbox and Bethesda Games Showcase, Blizzard Entertainment has shared a first look at in-game footage for Diablo 4, while also revealing that the Necromancer will be the game’s final class."
-    publishedDateTime: 2022-06-12T15:21:00Z
-    webUrl: "https://www.nme.com/news/diablo-4-reveals-final-playable-class-in-new-trailer-3245218"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 87
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-2000x1270-1.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay"
     excerpt: "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go."
     publishedDateTime: 2022-06-12T11:03:00Z
@@ -90,7 +82,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Details Endgame, Open World, Couch Co-Op, and More"
+    excerpt: "During the Xbox and Bethesda Showcase, Blizzard reveals a new trailer for Diablo 4 including a huge open world, co-op, and end game details."
+    publishedDateTime: 2022-06-12T11:38:43Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
-secured: "G1V3fDE6Vdx3SImHVXinZOotiTrsDzmtUg57Bwp2ndvw9WhpiUPF9Zvb2rjH/OcgwQXoHv7IYfbBFfN0TS/1NSznAAw0BHgdQv2m0DqoUiuRCAu2gkKWtKUSBEDbmBx9RGD0Y8zGrYkDVhrODef3cxI3VepZ0tCg+k+bx4r6PLNbNoSnPOUEdwY5QamH6XlnVWPimfT9UMGEIrGQ2a5ogmCSDta50Jv8akCmPtxss5u17AshxoxSnescpi9sw2Y8R9ITtdFEy+HtP7qiMvHgAfXzv7fldUKbgV/K2BxA7PY2un/Ml1pA1BF/HAJKtqGvbtOSEC+Ag5rbj8YB9tiU7P5x3if51GHNbEzY8kh5mDw=;jU7ljFnFE5Gm2SDvMQQ4yA=="
+secured: "F4RNiXc8zWoFIz3nSSOXoo5c83+awq/9C4vEOoT87Cezqk88HssLMB06moMWPiyYyL1VMx/pqPEOy84D413/sZP+ZyfIo7GnGvLAKi1/ceQ67c5Irf3nHWqmQ65P14ENnk4eJx1C/V1Vx0jGiPeM0uJN208NtGBGsqBTMyCPAKThep9bhArtqwuwe2VLnu9aE7dnPZ84bQxfHtiU4vOfpNYiTgd6jmOxV7Ds9kgiCaYg3fmQYf5Zd/G8jSu0teV+kXLKcDPD4e5NgetdipHBWa0NOTU1UUGyRE2N8CVkDKevjb1jQbkbJcwZ6uOWZbldUBVicUAnskE9tA9ZzlnuvVEv6DI3SJjDtKxIeaPr69E=;AA9L0y9i11SRjKPXmvaEGg=="
 ---
 

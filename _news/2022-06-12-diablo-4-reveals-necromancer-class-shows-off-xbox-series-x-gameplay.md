@@ -54,6 +54,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "‘Diablo 4’ reveals final playable class in new trailer"
+    excerpt: "During the Xbox and Bethesda Games Showcase, Blizzard Entertainment has shared a first look at in-game footage for Diablo 4, while also revealing that the Necromancer will be the game’s final class."
+    publishedDateTime: 2022-06-12T15:21:00Z
+    webUrl: "https://www.nme.com/news/diablo-4-reveals-final-playable-class-in-new-trailer-3245218"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 87
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-2000x1270-1.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Diablo 4’s final class revealed in in-depth gameplay trailer"
     excerpt: "Activision Blizzard may not yet be a part of Microsoft, but that’s not stopped them from rocking up in Microsoft Xbox and Bethesda Showcase to give a chunky gameplay video of Diablo 4 in action."
     publishedDateTime: 2022-06-12T11:23:00Z

@@ -95,6 +95,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-12-diablo-4-will-be-supported-for-years-to-come.md",
+      "title": "Diablo 4 will be supported for \"years to come\"",
+      "excerpt": "The developer took to the stage during today's Xbox Bethesda showcase to reveal a ton of gameplay for Diablo 4 as well as a 2023 launch window. Blizzard had previously confirmed t ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-will-be-supported-for-years-to-come/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6jRupjbBHtesdvUSpMRZPB-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-diablo-4-release-date-necromancer-character-class-open-world-gameplay-how-to-play-beta.md",
       "title": "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA",
       "excerpt": "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase.",
@@ -103,7 +145,7 @@
       "originalUrl": "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -1052,57 +1094,6 @@
         "name": "Pocket-lint",
         "domain": "pocket-lint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-diablo-iv-quarterly-updatemarch-2022.md",
-      "title": "Diablo IV Quarterly Update—March 2022",
-      "excerpt": "Today we have artists here to talk about their craft and everything that goes into building the world of Sanctuary.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-29-diablo-iv-quarterly-updatemarch-2022/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/t0/T03F8R1V5IY01647903242759.png",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
