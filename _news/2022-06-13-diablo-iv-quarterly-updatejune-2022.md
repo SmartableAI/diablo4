@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Diablo 4 Doesn't Have Any New Classes At Launch"
+    excerpt: "Blizzard recently revealed Diablo IV's fifth and final class for the game's launch, the Necromancer, as part of the Xbox and Bethesda Showcase. While the Necromancer is no doubt a fan-favorite class, ..."
+    publishedDateTime: 2022-06-13T12:34:00Z
+    webUrl: "https://www.gamespot.com/articles/why-diablo-4-doesnt-have-any-new-classes-at-launch/1100-6504555/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/why-diablo-4-doesnt-have-any-new-classes-at-launch/1100-6504555/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/why-diablo-4-doesnt-have-any-new-classes-at-launch/1100-6504555/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989767-diablo-4-thumbnail_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 Update Has Fans Ready to Boycott the Game"
     excerpt: "A new update out of Blizzard pertaining to Diablo 4 has some Diablo fans worried about the upcoming action-RPG. The update specifically comes the way of the official Blizzard website, where it is ..."
     publishedDateTime: 2022-06-11T08:35:00Z

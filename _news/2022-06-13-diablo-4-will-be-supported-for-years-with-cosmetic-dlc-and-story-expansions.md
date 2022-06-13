@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Diablo 4 to be ‘anchored around optional cosmetic items and full story driven expansions’"
-excerpt: "The general manager of the Diablo franchise has stated that the upcoming Diablo 4 will be supported with content for years after release, including “optional cosmetic items”. Alongside the release of ..."
-publishedDateTime: 2022-06-12T12:09:00Z
-originalUrl: "https://www.videogameschronicle.com/news/diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions/"
-webUrl: "https://www.videogameschronicle.com/news/diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions/"
+title: "Diablo 4 Will Be Supported for Years With Cosmetic DLC and Story Expansions"
+excerpt: "Diablo franchise GM Rod Fergusson reveals how Blizzard plans on supporting Diablo 4 in the years after its release."
+publishedDateTime: 2022-06-13T10:32:44Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-be-supported-for-years-with-cosmetic-dlc-and-story-expansions/ar-AAYpAq3"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-be-supported-for-years-with-cosmetic-dlc-and-story-expansions/ar-AAYpAq3"
 type: article
-quality: 78
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: GameRant on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-campfire.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions"
@@ -66,16 +60,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Will Be Supported for Years With Cosmetic DLC and Story Expansions"
-    excerpt: "Diablo franchise GM Rod Fergusson reveals how Blizzard plans on supporting Diablo 4 in the years after its release."
-    publishedDateTime: 2022-06-13T10:32:44Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-be-supported-for-years-with-cosmetic-dlc-and-story-expansions/ar-AAYpAq3"
+  - title: "Diablo 4 to be ‘anchored around optional cosmetic items and full story driven expansions’"
+    excerpt: "The general manager of the Diablo franchise has stated that the upcoming Diablo 4 will be supported with content for years after release, including “optional cosmetic items”. Alongside the release of ..."
+    publishedDateTime: 2022-06-12T12:09:00Z
+    webUrl: "https://www.videogameschronicle.com/news/diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions/"
     type: article
     provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 65
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 78
+    images:
+      - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-campfire.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "QQOtj7VB+fH5ZShTjxKvTUB7P0VcpdNTgEitcteIbu9kqh+YKiz132T/jzGoWtXlj5LlZVIb6rNJoP22rJhgxhSdWwr3tMtHYNJJI0THmnOB7AG1Kh6AKvjz0ogQa0vQ629GhD8zQnH8QEXJM7yvnHFJwTQJaU/QTMw9z54fje/OEPMY8QTU6AOriv3+70bWStxZB2gzfbV8zciIDCNzuOViueRex8q34cMPeK5xoR3SNIhudgKSdJ4oul+Ilyq3MnUoSw5bOmug7Qte8YklwoQLkeTPzbNp4d7O/8MYGFLnQf9oBmkNld1ige/erWnZNay+Hq8vhSpMeBivdb5Zjr4BfQpjBA6SOHSZVgGZbow=;5j6LvnI+36uNj6C/bVEXiA=="
+secured: "518rkHgaZpOvPlL9CP+LZk5QMuLfZuMEt1LMkq0B77fhrY4gsEGZK3Uf06vzQO2X3BX1fSwLTk5+6nBFGcEEF6g81iE1XU3V+asVpVqiQ3gBMQUGgnW3Xi6u8NcNlCfvXVhw33lPmOvOn9pxP6kZ+bFIgHh54EBCcGc6q63QFNlBQ94SDZd+7QXKH+wWoWPMSo46ADF+WVr8jkQFHI8eutfg6ceDqP/MFxMANap5CH+C5UpY5zt9MdP8h+R1uqkTM9AQVypOoBR+3B8i3jgI/6I7q58kVGIw+iy5XzV1B6Ia/Q6e2vxuGUyxGWLBSrphE41G6TOly4o1Fl32/ZM9eVuSOMot5CLFjtzeB98P2cs=;wLgaIRESnrmsXc540gtxxA=="
 ---
 

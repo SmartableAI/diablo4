@@ -7,8 +7,8 @@ originalUrl: "https://www.gamesradar.com/diablo-4-ps4-ps5/"
 webUrl: "https://www.gamesradar.com/diablo-4-ps4-ps5/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: GamesRadar
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?"
+    excerpt: "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere."
+    publishedDateTime: 2022-06-13T13:52:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Overwatch-23.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "yVIozv05tPklT0Osl2dMTLcRv2kIckn8UYENBmpioTt1ReQX1WvVikL0qSAfQJbqKETYP4AcEXgQDILBN7+2+1rwb3TjQMqvThaCN9VzuCwY5Sa2RbsvMeWeXES2W6B7taR31+ru6VO0ZgyB9P2jZaGsPctai7GkzOFGX9TmsoyikPWIUSYavhws2o7T+GsR1EgWQGcUvwC/yHF2qjWChaRdgSm9ArNOqZ4U5DAPVK5sMQxb4jzX3MBsUGDwaGGQasnBsapiyI9UdhtLGfGVlMfKxqYxCrlpeDdaA9IwShHzIAICSvqSlehBzuYsittNNCW29G1go7kkOXPv1xvvsOrfy+4rrasvGwDZexw7c6c=;nS5nXKbermsYk21YSd3tHg=="
 ---
