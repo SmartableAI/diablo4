@@ -2,6 +2,132 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-13-diablo-4-dlc-includes-cosmetics-and-full-story-expansions.md",
+      "title": "Diablo 4 DLC includes cosmetics and “full” story expansions",
+      "excerpt": "The surprise Xbox showcase blowout has given us info on Diablo 4 DLC, and it'll restrict microtransactions to cosmetics - with proper story expansions coming ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-dlc-includes-cosmetics-and-full-story-expansions/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/dlc-expansions",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/dlc-expansions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-story-expansions.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-right-now-it-seems-like-diablo-4-will-be-on-ps4-and-ps5.md",
+      "title": "Right now it seems like Diablo 4 WILL be on PS4 and PS5",
+      "excerpt": "Will Diablo 4 be on PS4 and PS5, and what other consoles besides that? Right now the answer looks like yes, it will be, as well as a host of other consoles around the same time. It's been a slightly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-right-now-it-seems-like-diablo-4-will-be-on-ps4-and-ps5/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-ps4-ps5/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-ps4-ps5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta.md",
+      "title": "Diablo 4: everything you need to know about multiplayer and how to sign up for the beta",
+      "excerpt": "Microsoft’s big showcase event detailed a bit more about Diablo 4, but will the game feature crossplay? The Xbox Series X version of Diablo 4 was shown off in detail at the Xbox & Bethesda Showcase at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/index.json",
+      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/ar-AAYoNum",
+      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/ar-AAYoNum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYoBJr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T19:21:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we.md",
       "title": "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!! How Hyped are we??",
       "excerpt": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/mrllamasc.",
@@ -217,48 +343,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions.md",
-      "title": "Diablo 4 to be ‘anchored around optional cosmetic items and full story driven expansions’",
-      "excerpt": "The general manager of the Diablo franchise has stated that the upcoming Diablo 4 will be supported with content for years after release, including “optional cosmetic items”. Alongside the release of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions/index.json",
-      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions/",
-      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-to-be-anchored-around-optional-cosmetic-items-and-full-story-driven-expansions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2021/08/Diablo-4-campfire.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1018,90 +1102,6 @@
       "provider": {
         "name": "Play Station Universe",
         "domain": "psu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-diablo-4-boasts-five-explorable-regions-with-over-150-dungeons.md",
-      "title": "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons",
-      "excerpt": "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-diablo-4-boasts-five-explorable-regions-with-over-150-dungeons/index.json",
-      "webUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons",
-      "originalUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp",
-      "cdnAmpWebUrl": "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp",
-      "publishedDateTime": "2022-03-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameInformer",
-        "domain": "gameinformer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons.md",
-      "title": "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons",
-      "excerpt": "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons/index.json",
-      "webUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
-      "originalUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
-      "publishedDateTime": "2022-03-30T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
         "images": null,
         "publishers": null,
         "authors": null
