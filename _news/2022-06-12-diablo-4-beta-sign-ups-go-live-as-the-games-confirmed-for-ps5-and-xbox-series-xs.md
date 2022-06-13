@@ -40,6 +40,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5"
+    excerpt: "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ..."
+    publishedDateTime: 2022-06-13T11:03:00Z
+    webUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 107
+    images:
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eVB4CYcxMZrrnrTmogWnyol6SP60DA5OSEfrbttCjWthDy0iSKWVVUHbRfK5aZ/7IPNS4xj0PJGdz4ghESnbGUpyvPG/49mzb32C5/+MYWHtQXEA+fmc9q/vQXeLjDy+4eDQJ37PZXtd9xy0AWOZSgGTbKNeIQIhnpS/UCOlmSpn+44u4MsUp2y/BXSDLaWZZhcsuLVFnHjxTnvo/WqiyKFs+1Ig8k/27S7CEFx8BqKz8VjrZH+rIMUo4DPTUYvE9kiUZTYZQ/BTcRz5cPT9EEfadJnPeXlrFm0GiHY3+vTokJL60hZETY2qrSEL+yyv1cd/3T9gtpMs7S0hdhcHxrcsyr7sEGbLcanpGpKfBk8=;LZAiV4mQSt3kvPeXgK8YTQ=="
 ---

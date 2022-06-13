@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre
 cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5"
+    excerpt: "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ..."
+    publishedDateTime: 2022-06-13T11:03:00Z
+    webUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 107
+    images:
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 beta sign-ups go live as the game’s confirmed for PS5 and Xbox Series X/S"
     excerpt: "Players can now pre-register for the Diablo 4 beta. The beta hasn’t been dated, and it appears that the registration page has gone live early, as none of Blizzard‘s Diablo social channels have ..."
     publishedDateTime: 2022-06-12T01:21:00Z
