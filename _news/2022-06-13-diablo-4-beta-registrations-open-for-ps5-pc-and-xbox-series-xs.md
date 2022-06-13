@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Every Xbox and Bethesda 2022 Showcase Reveal: From Starfield Gameplay to Diablo 4"
-excerpt: "The highly anticipated Xbox and Bethesda Showcase has just ended, and we saw some rather remarkable reveals. Just like our breakdown of Summer Game Fest 2022, we've put together a complete list of all ..."
-publishedDateTime: 2022-06-12T11:42:00Z
-originalUrl: "https://www.cnet.com/tech/gaming/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
-webUrl: "https://www.cnet.com/tech/gaming/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+title: "Diablo 4 beta registrations open for PS5, PC and Xbox Series X|S"
+excerpt: "RPG fans can register for the upcoming Diablo 4 beta with signups now live over on the game’s website. There are two things to note here – first, there’s no given date for the beta, nor has it been ..."
+publishedDateTime: 2022-06-13T07:10:00Z
+originalUrl: "https://www.thesixthaxis.com/2022/06/13/diablo-4-beta-registrations-open-for-ps5-pc-and-xbox-series-xs/"
+webUrl: "https://www.thesixthaxis.com/2022/06/13/diablo-4-beta-registrations-open-for-ps5-pc-and-xbox-series-xs/"
 type: article
-quality: 102
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sixth Axis
+  domain: thesixthaxis.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.cnet.com/a/img/resize/0b81a8f542618e709d40fd6dde91be9796b3fc11/2022/06/12/afb08771-fa71-4264-a8a9-e48907cfe64f/ktytbeesjzlb3gggfuq33e.jpg?auto=webp&fit=crop&height=630&width=1200"
-    width: 1200
-    height: 630
+  - url: "https://www.thesixthaxis.com/wp-content/uploads/2019/11/diablo-4-hero.jpg"
+    width: 1260
+    height: 500
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Every Xbox and Bethesda 2022 Showcase Reveal: From Starfield Gameplay to Diablo 4"
+    excerpt: "The highly anticipated Xbox and Bethesda Showcase has just ended, and we saw some rather remarkable reveals. Just like our breakdown of Summer Game Fest 2022, we've put together a complete list of all ..."
+    publishedDateTime: 2022-06-12T11:42:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 102
+    images:
+      - url: "https://www.cnet.com/a/img/resize/0b81a8f542618e709d40fd6dde91be9796b3fc11/2022/06/12/afb08771-fa71-4264-a8a9-e48907cfe64f/ktytbeesjzlb3gggfuq33e.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 launches for PC, PlayStation and Xbox in 2023"
     excerpt: "Diablo 4, the game that's not Diablo Immortal, will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S in ..."
     publishedDateTime: 2022-06-12T11:09:00Z
@@ -59,20 +69,6 @@ related:
       - url: "https://assets.reedpopcdn.com/diablo-4-release-date.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-release-date.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Diablo 4 beta registrations open for PS5, PC and Xbox Series X|S"
-    excerpt: "RPG fans can register for the upcoming Diablo 4 beta with signups now live over on the game’s website. There are two things to note here – first, there’s no given date for the beta, nor has it been ..."
-    publishedDateTime: 2022-06-13T07:10:00Z
-    webUrl: "https://www.thesixthaxis.com/2022/06/13/diablo-4-beta-registrations-open-for-ps5-pc-and-xbox-series-xs/"
-    type: article
-    provider:
-      name: The Sixth Axis
-      domain: thesixthaxis.com
-    quality: 87
-    images:
-      - url: "https://www.thesixthaxis.com/wp-content/uploads/2019/11/diablo-4-hero.jpg"
-        width: 1260
-        height: 500
         isCached: true
   - title: "Diablo 4 confirmed for 2023 with cross-play and progression on all platforms"
     excerpt: "We can’t wait to open the gates of Hell next year—the talented team behind Diablo IV puts gameplay first in everything they do, and they have built the biggest and most amb ..."
@@ -89,6 +85,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "93GuKNueVlXS4hz40Imb0gwmUcoHjz+ziQZlwTRFEL6nbGkA92yQFsLnBeHWKhjcz4pJX18akTa0Uc/DEh3ITOSZQ+7SiCGWW42N9eN23ITAFG0xKS8RZNEXekNoyMNKRHdTqFxrhZc42g7Y99GzXQl2PE1ektA3LewRa1rxdgNFGhDEQ5UVTZcbkxoFiwu8zuDeQ85rhJaid7gKspBECmQQYSTrCwF5BK9fYRzFZIeS9FxstV05pABwgyFL9GdUJ2HI3RkugMpsn/vftmBHAslBTB3q9rHj1d2EvW+IaXWjdleeJPARRdNrhPY+uxT4gG4LWjNA/xEXJeP1+gSJeX4FWQgDuuf6H68khiilvZU=;6JO6j0V4CBT8mUjQkrfpvA=="
+secured: "CycD3If+0OqD7CacLtkHVnqxdl7My0wfHOZr1QaHMnBpBYFjHIWlFKdnju96/v4RGiHjb2sE1t+bLSyfLC3Kfe4bpnAaj6eIoRigpbwtzYpE7H0JcjSDa6Us1iC+uLqSBwIKr1sE/JcxvNaPfKwD6A2WBPUOtx9dBJiDRaCtykkbRjMPcUT7U7tZneMjBemLk4i7mgBS0P3eRDcE4J7NGCZiYBwNto1KloAcnNALMs6M0gyUrETimZekzYPPd53OxOnzFfzGHyPcaE4mk4zYGm2x95fo0zY8je4cni50oPEUbTyxz2qV/7xS9E/fkr8I29xiHAKqX0T7iv6IfN/XUAjqXfYya/Sr6LjS6HwVTNM=;xpUBr5kqHWoXWiSZ9IyTcA=="
 ---
 

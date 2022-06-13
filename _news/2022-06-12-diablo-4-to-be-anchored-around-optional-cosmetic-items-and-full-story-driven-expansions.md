@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Will Be a Full Price Release with Premium Cosmetic Items and Expansions"
+    excerpt: "Blizzard has opened up on the model that it's using for Diablo 4. Just in case there was any doubt, Diablo 4 will be a full price release. There were some rumours floating around that it could end up ..."
+    publishedDateTime: 2022-06-13T07:15:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 82
+    images:
+      - url: "https://images.pushsquare.com/2020327ad5105/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "QQOtj7VB+fH5ZShTjxKvTUB7P0VcpdNTgEitcteIbu9kqh+YKiz132T/jzGoWtXlj5LlZVIb6rNJoP22rJhgxhSdWwr3tMtHYNJJI0THmnOB7AG1Kh6AKvjz0ogQa0vQ629GhD8zQnH8QEXJM7yvnHFJwTQJaU/QTMw9z54fje/OEPMY8QTU6AOriv3+70bWStxZB2gzfbV8zciIDCNzuOViueRex8q34cMPeK5xoR3SNIhudgKSdJ4oul+Ilyq3MnUoSw5bOmug7Qte8YklwoQLkeTPzbNp4d7O/8MYGFLnQf9oBmkNld1ige/erWnZNay+Hq8vhSpMeBivdb5Zjr4BfQpjBA6SOHSZVgGZbow=;5j6LvnI+36uNj6C/bVEXiA=="
 ---
