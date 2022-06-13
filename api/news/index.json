@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-13-diablo-4-dlc-includes-cosmetics-and-full-story-expansions.md",
-      "title": "Diablo 4 DLC includes cosmetics and “full” story expansions",
-      "excerpt": "The surprise Xbox showcase blowout has given us info on Diablo 4 DLC, and it'll restrict microtransactions to cosmetics - with proper story expansions coming ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-dlc-includes-cosmetics-and-full-story-expansions/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/dlc-expansions",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/dlc-expansions",
+      "path": "_news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed.md",
+      "title": "Blizzard's Diablo 4 developers try to put monetisation worries to bed",
+      "excerpt": "Blizzard confirmed that Diablo 4, the game that's not Diablo Immoral (sorry, I meant Immortal), will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S next year. Since this news came to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed/index.json",
+      "webUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
+      "originalUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-story-expansions.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://assets.reedpopcdn.com/Diablo-4_p8rJ9b5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Diablo-4_p8rJ9b5.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,105 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T20:35:00-07:00",
+      "publishedDateTime": "2022-06-13T01:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions.md",
+      "title": "Diablo 4 Will Be a Full Price Release with Premium Cosmetic Items and Expansions",
+      "excerpt": "Blizzard has opened up on the model that it's using for Diablo 4. Just in case there was any doubt, Diablo 4 will be a full price release. There were some rumours floating around that it could end up ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions/index.json",
+      "webUrl": "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions",
+      "originalUrl": "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.pushsquare.com/2020327ad5105/1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Push Square",
+        "domain": "pushsquare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-diablo-4-will-be-updated-for-years-after-launch-including-with-story-expansions.md",
+      "title": "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions",
+      "excerpt": "Following the release of new gameplay for Diablo 4 at the Xbox Bethesda Game Showcase, franchise lead Rod Fergusson took to Twitter (below) to answer some fan questions regarding ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-will-be-updated-for-years-after-launch-including-with-story-expansions/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -178,7 +271,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -229,7 +322,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -301,48 +394,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-will-be-supported-for-years-to-come.md",
-      "title": "Diablo 4 will be supported for \"years to come\"",
-      "excerpt": "The developer took to the stage during today's Xbox Bethesda showcase to reveal a ton of gameplay for Diablo 4 as well as a 2023 launch window. Blizzard had previously confirmed t ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-will-be-supported-for-years-to-come/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6jRupjbBHtesdvUSpMRZPB-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1060,48 +1111,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-new-diablo-4-blog-update-confirms-150-procedurally-generated-dungeons.md",
-      "title": "New Diablo 4 Blog Update Confirms 150 Procedurally Generated Dungeons",
-      "excerpt": "Check out the latest Diablo 4 update blog from Blizzard, which delves into the game's environments and dungeons.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-31-new-diablo-4-blog-update-confirms-150-procedurally-generated-dungeons/index.json",
-      "webUrl": "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/",
-      "originalUrl": "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.psu.com/wp/wp-content/uploads/2022/03/Diablo4-2-min.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Play Station Universe",
-        "domain": "psu.com",
         "images": null,
         "publishers": null,
         "authors": null

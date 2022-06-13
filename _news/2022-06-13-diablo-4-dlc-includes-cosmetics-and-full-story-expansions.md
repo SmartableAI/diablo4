@@ -7,8 +7,8 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/dlc-expansions"
 webUrl: "https://www.pcgamesn.com/diablo-4/dlc-expansions"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: PCGamesN
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Be a Full Price Release with Premium Cosmetic Items and Expansions"
-    excerpt: "Blizzard has opened up on the model that it's using for Diablo 4. Just in case there was any doubt, Diablo 4 will be a full price release. There were some rumours floating around that it could end up ..."
-    publishedDateTime: 2022-06-13T07:15:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions"
+  - title: "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions"
+    excerpt: "Following the release of new gameplay for Diablo 4 at the Xbox Bethesda Game Showcase, franchise lead Rod Fergusson took to Twitter (below) to answer some fan questions regarding ..."
+    publishedDateTime: 2022-06-13T05:44:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions"
     type: article
     provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 82
+      name: IGN
+      domain: ign.com
+    quality: 122
     images:
-      - url: "https://images.pushsquare.com/2020327ad5105/1280x720.jpg"
+      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 will be supported for \"years to come\""
+    excerpt: "The developer took to the stage during today's Xbox Bethesda showcase to reveal a ton of gameplay for Diablo 4 as well as a 2023 launch window. Blizzard had previously confirmed t ..."
+    publishedDateTime: 2022-06-12T13:01:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6jRupjbBHtesdvUSpMRZPB-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 to be ‘anchored around optional cosmetic items and full story driven expansions’"
     excerpt: "The general manager of the Diablo franchise has stated that the upcoming Diablo 4 will be supported with content for years after release, including “optional cosmetic items”. Alongside the release of ..."

@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Diablo 4 coming next year, Blizzard reveals Necromancer class"
-excerpt: "Diablo 4 will release sometime in 2023, Blizzard Entertainment announced Sunday during the Xbox and Bethesda Games Showcase. The new trailer for the action RPG revealed the Necromancer, the game’s ..."
-publishedDateTime: 2022-06-12T11:10:00Z
-originalUrl: "https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
-webUrl: "https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
-ampWebUrl: "https://www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+title: "How Diablo 4's Necromancer Class Changes From Past Games"
+excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
+publishedDateTime: 2022-06-13T07:09:54Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
 type: article
-quality: 107
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: GameRant on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.vox-cdn.com/thumbor/2wRccKM4ZFhLlLXSKGghGIQ_8PQ=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70968903/vlcsnap_2022_06_12_14h01m57s096.0.png"
-    width: 1400
-    height: 933
-    isCached: true
 
 related:
   - title: "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed"
@@ -55,6 +47,22 @@ related:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Diablo 4 coming next year, Blizzard reveals Necromancer class"
+    excerpt: "Diablo 4 will release sometime in 2023, Blizzard Entertainment announced Sunday during the Xbox and Bethesda Games Showcase. The new trailer for the action RPG revealed the Necromancer, the game’s ..."
+    publishedDateTime: 2022-06-12T11:10:00Z
+    webUrl: "https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/2wRccKM4ZFhLlLXSKGghGIQ_8PQ=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70968903/vlcsnap_2022_06_12_14h01m57s096.0.png"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
     excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
@@ -165,16 +173,7 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
-  - title: "How Diablo 4's Necromancer Class Changes From Past Games"
-    excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
-    publishedDateTime: 2022-06-13T07:09:54Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
-secured: "2jffMHcJzNckKKmc7x1//owasTqgNwB0setoWGEUuaDM4DzJEpB03ubySDI2XAgPUthh+bBpZ268bGU98o4x6k4EGShCpborSiPF/Qia/h88jRwPE8tanDgKS8LvxFNZZzalLu061a5/R5A2Chi7V13COdj/UJH1eaNrlgmc1pmjhqRQwWJB4cLXl+iZkMS9UILXBB+TRrc7xp4sxZja6+E2nuAx9PhR6ehUorejHBbTWoXVGPbUpfbnIHGmwsXlfV4D8wGf/U5s4KIYA7wGZZeXGAjnk3lpLkeRjFSUdBKG+BiyElp1lnLTfPQWA6zncqJKH6T5LDwUiq9ANdKNBr4Q1q8SIzRD3Y2u2mRdzuI=;vSi/jGdHVbaSY7uc2KWnlw=="
+secured: "tfJkokpaBr60ooImNpXZIFY9G+Ilhir96BentCtneKHDoqwqFi36dKv95qYFO8lmxbmPcMwht2CfcJIal0GEHdRSdIx3QdLJpg0Uj6jSCJg0++nTRALFVx3X4jA/rDLmqE+f5byFnHc0rMisbBR0XA4B2kO5obo22Xr8Mq/yu3D3jr0LVQtdBgR/bkpdKo8OS+77+mh2QAakMY4ENttkTvQalqoq/tuQhVf+Zei5Y/yPUht7/Hp/p39ngyzBJi5hD1Ew2BqOvlYhxu2UOu5bGO4Q7Son+32cHN6D8eybN6n6V5m5h7H1sXBPs3yQW85+QvisQ3pYFrXcZdtyrXIvaaIYXzxOrklDHUj5klvCbjA=;g5oIMpmsvpnKbBij9eDJjw=="
 ---
 

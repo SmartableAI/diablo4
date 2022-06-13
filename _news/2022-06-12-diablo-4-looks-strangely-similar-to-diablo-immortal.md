@@ -40,6 +40,38 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
+    excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
+    publishedDateTime: 2022-06-13T09:45:00Z
+    webUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/"
+    ampWebUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 107
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
+    excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
+    publishedDateTime: 2022-06-13T09:30:00Z
+    webUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
     excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
     publishedDateTime: 2022-06-12T07:44:00Z

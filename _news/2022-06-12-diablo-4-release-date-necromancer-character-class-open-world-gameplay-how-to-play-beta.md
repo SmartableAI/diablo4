@@ -165,6 +165,15 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
+  - title: "How Diablo 4's Necromancer Class Changes From Past Games"
+    excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
+    publishedDateTime: 2022-06-13T07:09:54Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "FrmtCn6uPLkqVjV47v38CrX/iQZwJ5MSorAS4K5ESSg6cLYPu6IGLucU0RQaTI/usfdDgzedyoPx1xh2VWReFLW2JQ9SfYEOBQ3aRZsLxijMd0y9qtpnsgmpeiHpgbpDYmOjXi9tiHqscZk6Mz27+OHzOzyLubvw8RSiZFtnrF2K04NIoXOmUhgxqyvxsw0Y3FkikHB7vnLQqcMd1DVHBWRBIGMDLRBVZ16UCkIzeTIol3w8YpmT1Z32S3lYLXuqQ67D60CQ0z4ovi6Ky6KwjsOB3r3iqLUMDeZZuvPVGYhShQcCKn5FqvJY6ehemCZe8fSRfuvDqL49DdRVdBfIW3PO41V7pAX7bMlenY4ycRA=;LCbMK9zBbQ1ngd8ZU3nk1g=="
 ---

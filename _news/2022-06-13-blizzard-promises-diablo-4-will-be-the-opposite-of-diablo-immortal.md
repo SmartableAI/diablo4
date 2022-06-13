@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
-excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
-publishedDateTime: 2022-06-12T07:44:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
-webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
+excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
+publishedDateTime: 2022-06-13T09:45:00Z
+originalUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/"
+webUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/"
+ampWebUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
+cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: Metro
+  domain: metro.co.uk
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -54,22 +56,6 @@ related:
         width: 3840
         height: 2059
         isCached: true
-  - title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
-    excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
-    publishedDateTime: 2022-06-13T09:45:00Z
-    webUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/"
-    ampWebUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 107
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
     excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
     publishedDateTime: 2022-06-13T09:30:00Z
@@ -86,7 +72,21 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
+    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
+    publishedDateTime: 2022-06-12T07:44:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "Qbdl1bPbkw9WjWIY0uyCex/xuIibxIoNphEQ6hU9KKdwH/Pzzd+azxiVZSBA0NCyt2DKwcsjIcv1K5AOY17fXdYoPMQvLqAAwDTmkHYP57htcDz1VQhwuMrSijM00NzJGRHOBs1afyezOkNmu48tNLuoVYIWdcaoCHPsyDNHkj4QMW6CmmRrR+rW+O9alj7fgg7iS1Lju9GUNQkhOGQN2StGv3bUgbeE3kaMBHXU9IIMMjv23WRydJEMVZ88t0goaZQv41PFGUt+6/eftcmbX+Yi8IhYq8Uzp9bmQ9+eMLG2WQ+tEyUXsDdaBbT+Unva1q1aC7LHpZ2EJU6g6Lac/+8uKdS2TWT+2DgbBCsofRo=;LWiXzju2vtaAi/CxqubU8w=="
+secured: "Y2x9VkFjs0KH1L+kqFM+pB7/a/wgc59PD8jgvBAlpKnkxAWpBJqJ6coWmOkUhhwudMXx8rGc1jx2uID3pLQmLcIpFFsUvHDpYWNgon+n66+6GNGjgNA3xHaPna5KsUBfDyD1sgzDZi4OJVffg0QBXdi/oj467x/PUTfkPXdMjq6miegxcTYujlwS6W7bjK86rr66esTU3tudWEnu+TdtjipP2XJTIpOCqHQc3M6BnU53T4pOA/mNh5Fiz88LLQv7EVQndM/ZO0EjEKeHaRJ1KUTEyLMp94PPaq9YSIBAA/pVoqu7bqvxARxRX64D7/qgdiGxZfZHjSLSIxUvFmipvw04PMLakOnz/QlqPFAaQRk=;4jhAB8WWX7TTAJvq2ReZ0w=="
 ---
 

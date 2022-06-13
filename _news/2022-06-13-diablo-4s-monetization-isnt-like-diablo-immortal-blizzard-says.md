@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
-excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
-publishedDateTime: 2022-06-12T07:44:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
-webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
+title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
+excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
+publishedDateTime: 2022-06-13T09:30:00Z
+originalUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+webUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+ampWebUrl: "https://www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: Polygon
+  domain: polygon.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
+    width: 1400
+    height: 933
     isCached: true
 
 related:
@@ -70,23 +72,21 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
-    excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
-    publishedDateTime: 2022-06-13T09:30:00Z
-    webUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-    ampWebUrl: "https://www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
+    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
+    publishedDateTime: 2022-06-12T07:44:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
     type: article
     provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "Qbdl1bPbkw9WjWIY0uyCex/xuIibxIoNphEQ6hU9KKdwH/Pzzd+azxiVZSBA0NCyt2DKwcsjIcv1K5AOY17fXdYoPMQvLqAAwDTmkHYP57htcDz1VQhwuMrSijM00NzJGRHOBs1afyezOkNmu48tNLuoVYIWdcaoCHPsyDNHkj4QMW6CmmRrR+rW+O9alj7fgg7iS1Lju9GUNQkhOGQN2StGv3bUgbeE3kaMBHXU9IIMMjv23WRydJEMVZ88t0goaZQv41PFGUt+6/eftcmbX+Yi8IhYq8Uzp9bmQ9+eMLG2WQ+tEyUXsDdaBbT+Unva1q1aC7LHpZ2EJU6g6Lac/+8uKdS2TWT+2DgbBCsofRo=;LWiXzju2vtaAi/CxqubU8w=="
+secured: "yEhjTvuFNjUX3Z0XDlKB5FGD3kaO2qkOESsRaDEFO85B43697peXm01Pk5W1HuBjSC0HR8JM2wO8TfhiebZZaKK+NNIEHDasuRVhaypuId+7Oizm8+5b26HI0x5uCwOvArWubV1sT3T4j7/DtXBtAu5Fgvg1dR87jn7BAuO9mPIOLiA5Vb41QWKUzJ0xiqtxj2MfLgNQWwCdIYM2f9G9t9tiH4CASva+sR3meP2OXAAzJWEMRZTLj8G1rmdHQ6WJsKrn03lwv/Ns0ydbMKZ9iO4pjjpHXrvkTCWMqXR6VIggzFShBirp5k1+8TDRjs/9cD+sMlg/DSueyxO6/ujLfZvGCHsbBNZBQrqpWdseIfk=;B1ZdJ8sEOHeEClMSOJFnuQ=="
 ---
 
