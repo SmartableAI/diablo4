@@ -2,27 +2,25 @@
 category: news
 title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
 excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
-publishedDateTime: 2022-06-13T09:45:00Z
-originalUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/"
-webUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/"
-ampWebUrl: "https://metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/13/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal-16821080/amp/"
+publishedDateTime: 2022-06-13T09:45:01Z
+originalUrl: "https://www.msn.com/en-gb/finance/technology/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal/ar-AAYpAf9"
+webUrl: "https://www.msn.com/en-gb/finance/technology/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal/ar-AAYpAf9"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Metro
-  domain: metro.co.uk
+  name: Metro on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-    width: 600
-    height: 337
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYpAeW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1257&y=343"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -87,6 +85,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/UL/LK4ETPZKUbcX+8esctn75si0fyk49NbzIVFVHZysLo3j/WRq8rUZosDutGF95ACh+f6JKW7Q54sTxu94qO+LUBlWQ70qZ9FAbp8QzE3vIG2Uch5VO0Wh8H79aVFjCYGAydFN3dQQeVNOlng2vCxOG/gEYYx+8KlNKYt7Nv13Gs6H6m+a3mTs9INHEeGhRRslD6t4Ze8aL2yXGCs5zT927V+Vpl1yN8B9OM4SQ888Zk6l04mgGjE8jSK/ft9kbjt3NmwttEZZX2qmAlxjS1iKIwr5rjafWOigwYBuk8YE59R/NO9fgymd/ykatEjmqm0NCFB579QH4OlLLK8pLNimSpEYnlQoJBd5MrvcskI=;7d1d4aEfQG3xCifmTCUUMA=="
+secured: "jk08LrAuZ27uJpEQXXbGArkABWqmH5MCvVSEeBkdzdW/UBHJCKI2p0pVvtCk2vpScG7agQAJXglEPyEGMbb6IJq6vGMBoMIlIvu6TR8VuV4BpTsBqe/YWcJFakTnTXIzwD8z5UW4Fx+3roGDh3W5edDvqT60iC3DdCaTKQ57OiC4WIxd4VBDAAygeSvlrcifMR6DxFU0zza6FHRsj7crE5ZCKpxNxIcaOg4b5OANkR7Ja+OP9amd8/SRUQTr4yiXLeNj79G+PLpsVVmXWfHcBHjeOdL2KA/+uhxy+1J399jTPaPt90oltGIZNEiQtVWxA7d8cwykMmkg1toBgLayHulWWpmwm0+zsKtYt4HQy+g=;wVCc3LWXUs9hzyRx+TWrUA=="
 ---
 

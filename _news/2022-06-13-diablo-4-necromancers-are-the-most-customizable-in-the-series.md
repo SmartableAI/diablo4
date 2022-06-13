@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Update Has Fans Ready to Boycott the Game"
-excerpt: "A new update out of Blizzard pertaining to Diablo 4 has some Diablo fans worried about the upcoming action-RPG. The update specifically comes the way of the official Blizzard website, where it is ..."
-publishedDateTime: 2022-06-11T08:35:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
+title: "Diablo 4 Necromancers are the most customizable in the series"
+excerpt: "The Diablo 4 necromancer class offers extensive customization not just in its skills and specialties, but even in how you build your undead army."
+publishedDateTime: 2022-06-13T14:47:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/necromancer-overview"
+webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-overview"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2021/10/21/84409d83-5f59-434b-8e8a-bc14d328140d/xbox-series-x-controller.png?width=568&height=320"
-    width: 568
-    height: 320
+  - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-1.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -56,19 +54,21 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 Necromancers are the most customizable in the series"
-    excerpt: "The Diablo 4 necromancer class offers extensive customization not just in its skills and specialties, but even in how you build your undead army."
-    publishedDateTime: 2022-06-13T14:47:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-overview"
+  - title: "Diablo 4 Update Has Fans Ready to Boycott the Game"
+    excerpt: "A new update out of Blizzard pertaining to Diablo 4 has some Diablo fans worried about the upcoming action-RPG. The update specifically comes the way of the official Blizzard website, where it is ..."
+    publishedDateTime: 2022-06-11T08:35:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
     images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://sportshub.cbsistatic.com/i/2021/10/21/84409d83-5f59-434b-8e8a-bc14d328140d/xbox-series-x-controller.png?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "The latest Diablo 4 quarterly update focuses on the Necromancer"
     excerpt: "Developer and publisher Blizzard Entertainment is continuing to share quarterly updates on Diablo 4, going over the gameplay, world design, sounds, art direction, and more. In the June 2022 quarterly ..."
@@ -85,6 +85,6 @@ related:
         height: 675
         isCached: true
 
-secured: "F5g4xIO3gnl1sP7W3hMNUAowrfGadlnbXYBSDNU06Y4rHKC1ezkg4rMtLakgeq4iB/Sd/pb8Wxdyh0+LTVTX3sjwnu6dgqrP0YUFwhk3VzwN7vL84lO+ujpeJgEWm5K6OTnGeiskVSd6FPCBg2a1+Dvat05/Ui+naET+zO/7Sbr6ZAXIwJbgSCXFrRcrzzzdZPQPXtev/+O/M2mh1SsaxkpftegefjCAtmYYW7yxNwLb0rRcC5XuZwWs/KzDyr80MSnwU4jYFTTL83cEts77jSorkPhwvWLFf40V3zE5uIMLSVtQ6rptEzLBR26bfrslO6OOXkDl4VEOcHv6HnkXNUA79gLJe8NQLcCGp2MKrDo=;BdcsSRcY2QsI9TXdv7LFOQ=="
+secured: "sldGZZuAi0DOLBhoTIyCZUARN5q6u2KOZAqLb1Feo8JvJk3s5wbCszvUu/QtzPgeA7X1248e3GZRKdABut+pEv1S03vsVyooIAewxX6gDqrIvwoUfGjG9ZTRiPcxdpEWqBjvPFqHtq1B8KBFkTqmogJgzGGTEnS4HeknkJLLkfhAFMDMVTHD9D4CLvUUCa/gQy+ylT4TPSFmMZZtnc3srWeZV+TPtpad1/o6ZQfn23v+sa1A1dOZpoYA/yxVdK1GmrURGjuutg8xv+L941Z7VmrR1srG4Bw2mROD80g/YsW8BiqQD7QQqb6jtwrYjTNB0oykMgAesEdqqqtJTtBevGNa3jkipbpGgNBLvQEw4Dg=;Zc+98s1iDSlM4KaXunGrSg=="
 ---
 

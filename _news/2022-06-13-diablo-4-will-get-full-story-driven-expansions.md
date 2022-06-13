@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Diablo 4 will be supported for \"years to come\""
-excerpt: "The developer took to the stage during today's Xbox Bethesda showcase to reveal a ton of gameplay for Diablo 4 as well as a 2023 launch window. Blizzard had previously confirmed t ..."
-publishedDateTime: 2022-06-12T13:01:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/"
-webUrl: "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/"
+title: "Diablo 4 will get \"full story driven expansions\""
+excerpt: "Blizzard has confirmed that Diablo 4 will receive full story expansions as DLC after launch. \"To be clear, D4 is a full price game built for PC/PS/Xbox audiences,\" franchise GM Rod Fergusson says in a ..."
+publishedDateTime: 2022-06-13T14:58:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-will-get-full-story-driven-expansions/"
+webUrl: "https://www.gamesradar.com/diablo-4-will-get-full-story-driven-expansions/"
 type: article
 quality: 87
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/6jRupjbBHtesdvUSpMRZPB-1200-80.jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/LtZzRyHQGDgYRwteWnZeFX-1200-80.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 will be supported for \"years to come\""
+    excerpt: "The developer took to the stage during today's Xbox Bethesda showcase to reveal a ton of gameplay for Diablo 4 as well as a 2023 launch window. Blizzard had previously confirmed t ..."
+    publishedDateTime: 2022-06-12T13:01:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-will-be-supported-for-years-to-come/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6jRupjbBHtesdvUSpMRZPB-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 DLC includes cosmetics and “full” story expansions"
     excerpt: "The surprise Xbox showcase blowout has given us info on Diablo 4 DLC, and it'll restrict microtransactions to cosmetics - with proper story expansions coming ..."
     publishedDateTime: 2022-06-13T03:35:00Z
@@ -51,20 +65,6 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-story-expansions.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo 4 will get \"full story driven expansions\""
-    excerpt: "Blizzard has confirmed that Diablo 4 will receive full story expansions as DLC after launch. \"To be clear, D4 is a full price game built for PC/PS/Xbox audiences,\" franchise GM Rod Fergusson says in a ..."
-    publishedDateTime: 2022-06-13T14:58:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-will-get-full-story-driven-expansions/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/LtZzRyHQGDgYRwteWnZeFX-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Diablo 4 to be ‘anchored around optional cosmetic items and full story driven expansions’"
     excerpt: "The general manager of the Diablo franchise has stated that the upcoming Diablo 4 will be supported with content for years after release, including “optional cosmetic items”. Alongside the release of ..."
@@ -90,6 +90,6 @@ related:
       domain: msn.com
     quality: 65
 
-secured: "rah/HM02pExk+bRykTNhONFS3X0qEXQcusvzImC728UCVS8y0RUumm71r5nOSwP710MWLk8YF4nRTSj+5nCR9RwZDmJp2i5IXdJuJh2wfA9cYWAWm1gO1v8HHP7jRcT7TnMciwKjn2rRvcZ1zpEjk4nW9DJ6JVQVxyvdt/oJlkRH8aOGN8BGw6nBmlBHha8tQGutF6RBcFjI95+yQ/pby1Re40DI9hG9+WPEERTgze1fSg6brtTpIpQUDF0PPGZWpeyYvD1nhnl+qMGzlyHstja3Uyj/QegVwvikJkdsHSbNdDksP8ixX4XD6KqEdB6uCYbDLkH/2JBhyhI3aFDUV2dih2Y2bi4cQ/Gpc3Qrvik=;P17af2miO7lxEVIPL4l1yA=="
+secured: "zGT7+fDCdfyAsozElMcFChlF4okU3LMMxNItwll5ZEyb9hCLA7+JsDFLIxt7KhcvKPUEJXYH+8gNM0/ksgbnvAug4CRrqceyKtiN29QQ4/c6vJBobAzHiBaQYVsECb42oHlZvbtCXUeY/DHSma+IESHD7YAFtzOPP67ShkrPvaRU/iDTH3jsf8j2Bnrm25R5yO/V9vqMaY8VjouzgoSPvku5pe6st1bMHXxxNrAHMyiSLpShHUH+Dty3n1qHDBntL3gC51tg11vilx3JHvQam6IPx5f6jLdORun6Iiy1YQIHSbWSenrqjVMBrOOTQf76uOWdU3474vm925takELb7rfj9oWn617+7ODq+hwEw0k=;tJ6kEg88QE/hw/V2lZD3ZQ=="
 ---
 

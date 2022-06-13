@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 will get \"full story driven expansions\""
+    excerpt: "Blizzard has confirmed that Diablo 4 will receive full story expansions as DLC after launch. \"To be clear, D4 is a full price game built for PC/PS/Xbox audiences,\" franchise GM Rod Fergusson says in a ..."
+    publishedDateTime: 2022-06-13T14:58:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-will-get-full-story-driven-expansions/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/LtZzRyHQGDgYRwteWnZeFX-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 to be ‘anchored around optional cosmetic items and full story driven expansions’"
     excerpt: "The general manager of the Diablo franchise has stated that the upcoming Diablo 4 will be supported with content for years after release, including “optional cosmetic items”. Alongside the release of ..."
     publishedDateTime: 2022-06-12T12:09:00Z
