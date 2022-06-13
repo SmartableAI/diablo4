@@ -1,21 +1,27 @@
 ---
 category: news
-title: "How to sign up for the Diablo 4 beta"
-excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
-publishedDateTime: 2022-06-11T22:40:33Z
-originalUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
-webUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
+title: "How to sign up for the Diablo 4 Beta"
+excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
+publishedDateTime: 2022-06-12T16:50:00Z
+originalUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
+webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamePur on MSN.com
-  domain: msn.com
+  name: Dot Esports
+  domain: dotesports.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
+    width: 768
+    height: 403
+    isCached: true
 
 related:
   - title: "Diablo 4 Beta Sign-Ups Now Available"
@@ -48,21 +54,16 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How to sign up for the Diablo 4 Beta"
-    excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
-    publishedDateTime: 2022-06-12T16:50:00Z
-    webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
+  - title: "How to sign up for the Diablo 4 beta"
+    excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
+    publishedDateTime: 2022-06-11T22:40:33Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
     type: article
     provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
-        width: 768
-        height: 403
-        isCached: true
+      name: GamePur on MSN.com
+      domain: msn.com
+    quality: 67
 
-secured: "tj1iwcCcyu47J/H1i1E2EyDbJk8meLhx78AJvUIQWATDPfJPWqU9zOLHyzsMmCNQWlbOn2WqEzR6hg7YtveijliVfqlkPxwpXqa9y4a1a34dzN0WTPzEgYQqS3+tZ+QGUCGMIStDwf6emX/BO7WENcM9S0U/EGyeQkmnuUSja87ODs970dhJGnZ48WQW1DZLSBDDPkMpzYM1wFAkOyeN/UpFMyQk05tKMSqq9Q37YiWiASgGNtGA26Zbjo9jlc43M8w795dzDrBmENzQFrEd1yto3gk6pHZrmsGEcC4cVMgOarYi6pJTUU+1Q5VMZX5YvdE5kEnQ1t1oipYrr1FlMUB0MKLsEPpsGCFeGxVOhJA=;QmcrEcoadckkC4DdWXJ0Ow=="
+secured: "HPQ+sRG/U9DsF/qgHo4xc0tOlp58UMzW68bc7NiSh58h8pxID3N78/OTIhce82EwR8OOVJRCRDGouE2+ZXDKteEs/vK/yASMfPN+eOC+2zPtJ7/ztMe0Diqdwthl3pr9COe0YVcawzP5dBalytzHJZoG+RKD3I3AklOsmgZxSnl4aOVLENu1qm+L0wEV1XaqO+C+gXfe0R8S6AjXaCE7OWuGlYjdw3dGVfxemTdvykS5XJkmZo+7TdPOZRXeBbtr1dvQOHc5ow3OtzXekmradN/ja18isrzc4KOl6FYEiOtqwWwUupCxyIjZKcITMYjrjNmfakPoc1nxdNk47K+FaMLrnxylIj1fEgQ6vmPhhD0=;lQQZsAhQdzmbTecMJLWbFw=="
 ---
 
