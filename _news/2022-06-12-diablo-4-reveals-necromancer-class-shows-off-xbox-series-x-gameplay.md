@@ -7,8 +7,8 @@ originalUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necrom
 webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Windows Central
@@ -22,75 +22,6 @@ images:
     width: 1200
     height: 671
     isCached: true
-
-related:
-  - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
-    excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
-    publishedDateTime: 2022-06-12T12:19:00Z
-    webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
-    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 98
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Diablo 4 Necromancer announced with new gameplay footage"
-    excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
-    publishedDateTime: 2022-06-12T11:15:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "‘Diablo 4’ reveals final playable class in new trailer"
-    excerpt: "During the Xbox and Bethesda Games Showcase, Blizzard Entertainment has shared a first look at in-game footage for Diablo 4, while also revealing that the Necromancer will be the game’s final class."
-    publishedDateTime: 2022-06-12T15:21:00Z
-    webUrl: "https://www.nme.com/news/diablo-4-reveals-final-playable-class-in-new-trailer-3245218"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 87
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-2000x1270-1.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
-  - title: "Diablo 4’s final class revealed in in-depth gameplay trailer"
-    excerpt: "Activision Blizzard may not yet be a part of Microsoft, but that’s not stopped them from rocking up in Microsoft Xbox and Bethesda Showcase to give a chunky gameplay video of Diablo 4 in action."
-    publishedDateTime: 2022-06-12T11:23:00Z
-    webUrl: "https://www.techradar.com/news/diablo-4s-final-class-revealed-in-in-depth-gameplay-trailer"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NoqcffDZLYNk4mvvSTXRcn-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4 Details Endgame, Open World, Couch Co-Op, and More"
-    excerpt: "During the Xbox and Bethesda Showcase, Blizzard reveals a new trailer for Diablo 4 including a huge open world, co-op, and end game details."
-    publishedDateTime: 2022-06-12T11:38:43Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "ZORtAYj3TELW0U6+N6AOLtuCdDkNENbZ/j0WV4u4TXo6Vz1e8XgqDDL/kL5yZslIFZr7TXt0Y5BHHDTyg6hlaMfEa81naUxx51leZIlBSOYBkyzXC25/dtU8FFKDsNhqkFmE8yZlqRjXsoxJJiVsN+/Gmv48cMwzBe7w50YEwaXm/lMckXaJL4zYL60ZBKnBsm4FomIO6DhT9JySnvu2i95enXcxq3R0Ve4cL2otOAT7u/tb3OR2+F9qp7x38rlQ2cyfUcPupxgIW4uosKlwgOKsxvayVNP4FBOk3wrT5Gir/LK7mHIQnLViv4Vfst2jh/dX/LHG3P7UI4W0GGRtFcJ/7hX5zZ2r0XnWluuhkdg=;tHKU1D+ZnO07jLChQ6gV5A=="
 ---

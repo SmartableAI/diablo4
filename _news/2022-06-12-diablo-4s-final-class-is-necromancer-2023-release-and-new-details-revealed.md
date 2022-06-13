@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
-excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
-publishedDateTime: 2022-06-12T12:19:00Z
-originalUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
-webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
-ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
-cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+title: "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed"
+excerpt: "Blizzard's much-anticipated Diablo 4 showed up in a major way during the Xbox/Bethesda showcase, giving us our first look at the fifth and final class, the Necromancer. The presentation included much ..."
+publishedDateTime: 2022-06-12T14:12:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
 type: article
-quality: 98
-heat: -1
-published: false
+quality: 144
+heat: 344
+published: true
 
 provider:
-  name: Daily Express
-  domain: express.co.uk
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
-    width: 590
-    height: 350
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png"
+    width: 640
+    height: 360
     isCached: true
 
 related:
-  - title: "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed"
-    excerpt: "Blizzard's much-anticipated Diablo 4 showed up in a major way during the Xbox/Bethesda showcase, giving us our first look at the fifth and final class, the Necromancer. The presentation included much ..."
-    publishedDateTime: 2022-06-12T14:12:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 144
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Necromancer Class Revealed for Diablo 4!  Release Window confirmed!  Diablo IV Announcement Reaction"
     excerpt: "Today we reacted to the live Diablo 4 reveal during the Xbox and Bethesda event! Join this channel to get access to perks: ..."
     publishedDateTime: 2022-06-12T18:41:22Z
@@ -71,6 +59,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/2wRccKM4ZFhLlLXSKGghGIQ_8PQ=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70968903/vlcsnap_2022_06_12_14h01m57s096.0.png"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
+    excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
+    publishedDateTime: 2022-06-12T12:19:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 98
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
+        width: 590
+        height: 350
         isCached: true
   - title: "Diablo 4 Necromancer announced with new gameplay footage"
     excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
@@ -166,6 +170,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "FrmtCn6uPLkqVjV47v38CrX/iQZwJ5MSorAS4K5ESSg6cLYPu6IGLucU0RQaTI/usfdDgzedyoPx1xh2VWReFLW2JQ9SfYEOBQ3aRZsLxijMd0y9qtpnsgmpeiHpgbpDYmOjXi9tiHqscZk6Mz27+OHzOzyLubvw8RSiZFtnrF2K04NIoXOmUhgxqyvxsw0Y3FkikHB7vnLQqcMd1DVHBWRBIGMDLRBVZ16UCkIzeTIol3w8YpmT1Z32S3lYLXuqQ67D60CQ0z4ovi6Ky6KwjsOB3r3iqLUMDeZZuvPVGYhShQcCKn5FqvJY6ehemCZe8fSRfuvDqL49DdRVdBfIW3PO41V7pAX7bMlenY4ycRA=;LCbMK9zBbQ1ngd8ZU3nk1g=="
+secured: "YRmny6asln93LPntl/OTW0qGx5HlsuDck2ohNaWLnsjvcOSwcmzRq0xWHaVYfBqJb7eNP7Nef5n8hzfGQyDafu5SHepJ+0FhdJWSUbZTwX+A26rAL/gmBSc/D4MIDmCvYYA/Jnsn4Mw1pKqXvDFUnFObYEGIm8kxayg3wzNMc5VMvCKKMV7OUESVNUL9jAB3QWy8DfZagaRff6dc4TSZ5DCyyWahBFaN8zPhhQI9xXuC4udXbWdIrgqMMwJY7Gomnd6I7NNqUqv6AZNgidzMTkZHMij9rlUV1oaQODs6kfBfz+CJifYeTUetYojzV8QozODYfMPdp8n/wVXFJYguIZ9mA3hugOvJAFq0b2Dxl/s=;i3XNdYcg7OZnbnFkwfT+8w=="
 ---
 

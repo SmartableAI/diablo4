@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/how-diablo-4-reinvents-necroma
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame/1100-6504471/"
 type: article
 quality: 142
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Diablo 4 Necromancer Class and Endgame Content Detailed in New Trailer"
-    excerpt: "Diablo 4 players don't really need to worry about the amount of content they are going to get as the developers have prepared tons of activities."
-    publishedDateTime: 2022-06-12T12:14:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-necromancer-class-and-endgame-content-detailed-in-new-trailer/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://www.dualshockers.com/static/uploads/2022/06/Xbox-Bethesda-Games-Showcase-2022-YouTube-Google-Chrome-6_12_2022-1_01_59-PM-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "lvFBwXW2JYp0s/O35nxL1DBrhz+gAun1pndgIJWLOd6RSveQieuKDKfhgEdc9V6nTdjiFwR7BHRNu3LNDUKsURfgdmajpgTGtHAxXLK8gE+7SAiiF+A67x0+eqOwXzB2IfoV/VDC0zHDum09IqMDn4YEp9J7GcYRvko74Nc14E9fUcke5+TOefLKR07bmOSVrt6XvnDvOqvplVk/90PnP7ej+T6bA+Zf5X4yEgyvQIAvPzkx2sCSDDXA0tznQTzx6FY8ZAS1gmMlsKKOAU1RVa42jRb1+8mM+k0QUeaDa0TqzZLDKVv5VtcvW4e2lCboBG/e6zkX6p4WV2wxBksOnRBqFX6kjcFJuOmSeAqKFe4=;30bBx/+1OchSpLB8SCEQjA=="
 ---

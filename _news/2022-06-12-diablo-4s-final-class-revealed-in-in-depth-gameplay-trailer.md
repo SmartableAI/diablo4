@@ -28,6 +28,52 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed"
+    excerpt: "Blizzard's much-anticipated Diablo 4 showed up in a major way during the Xbox/Bethesda showcase, giving us our first look at the fifth and final class, the Necromancer. The presentation included much ..."
+    publishedDateTime: 2022-06-12T14:12:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 144
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Necromancer Class Revealed for Diablo 4!  Release Window confirmed!  Diablo IV Announcement Reaction"
+    excerpt: "Today we reacted to the live Diablo 4 reveal during the Xbox and Bethesda event! Join this channel to get access to perks: ..."
+    publishedDateTime: 2022-06-12T18:41:22Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Rizarjay
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 coming next year, Blizzard reveals Necromancer class"
+    excerpt: "Diablo 4 will release sometime in 2023, Blizzard Entertainment announced Sunday during the Xbox and Bethesda Games Showcase. The new trailer for the action RPG revealed the Necromancer, the game’s ..."
+    publishedDateTime: 2022-06-12T11:10:00Z
+    webUrl: "https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/2wRccKM4ZFhLlLXSKGghGIQ_8PQ=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70968903/vlcsnap_2022_06_12_14h01m57s096.0.png"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
     excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
     publishedDateTime: 2022-06-12T12:19:00Z
@@ -58,6 +104,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Necromancer Class and Endgame Content Detailed in New Trailer"
+    excerpt: "Diablo 4 players don't really need to worry about the amount of content they are going to get as the developers have prepared tons of activities."
+    publishedDateTime: 2022-06-12T12:14:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-necromancer-class-and-endgame-content-detailed-in-new-trailer/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://www.dualshockers.com/static/uploads/2022/06/Xbox-Bethesda-Games-Showcase-2022-YouTube-Google-Chrome-6_12_2022-1_01_59-PM-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Diablo 4 Release Window Narrows As The Necromancer Joins Roster"
+    excerpt: "Though we still don't know exactly when the game will be released, Blizzard has revealed a general timeframe for when fans can expect to get \"Diablo 4.\" ..."
+    publishedDateTime: 2022-06-12T13:59:00Z
+    webUrl: "https://www.slashgear.com/892813/diablo-4-release-window-narrows-as-the-necromancer-joins-roster/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://www.slashgear.com/img/gallery/diablo-4-release-window-narrows-as-the-necromancer-joins-roster/l-intro-1655063924.jpg"
+        width: 1600
+        height: 901
+        isCached: true
   - title: "‘Diablo 4’ reveals final playable class in new trailer"
     excerpt: "During the Xbox and Bethesda Games Showcase, Blizzard Entertainment has shared a first look at in-game footage for Diablo 4, while also revealing that the Necromancer will be the game’s final class."
     publishedDateTime: 2022-06-12T15:21:00Z
@@ -72,24 +146,24 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay"
-    excerpt: "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go."
-    publishedDateTime: 2022-06-12T11:03:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay"
+  - title: "Diablo 4 is out next year, confirms Necromancer class and makes it sound rad as hell"
+    excerpt: "Diablo 4 is coming out some time in 2023, plus the classic Necromancer is confirmed as the fifth and final playable class."
+    publishedDateTime: 2022-06-12T12:06:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-is-out-next-year-confirms-necromancer-class-and-makes-it-sound-rad-as-hell"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 80
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/F23Mq3DqQ9jTv5GpxkPgZi-1200-80.jpg"
-        width: 1200
-        height: 671
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-necromancer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-necromancer.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Diablo 4 Details Endgame, Open World, Couch Co-Op, and More"
-    excerpt: "During the Xbox and Bethesda Showcase, Blizzard reveals a new trailer for Diablo 4 including a huge open world, co-op, and end game details."
-    publishedDateTime: 2022-06-12T11:38:43Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-endgame-open-world-couch-co-op-and-more/ar-AAYnIwi"
+  - title: "Chilling Diablo 4 Trailer Reveals 5th and Final Class"
+    excerpt: "Blizzard releases a chilling and spooky new trailer for Diablo 4 that confirms the game's fifth and final playable class."
+    publishedDateTime: 2022-06-12T11:23:24Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/chilling-diablo-4-trailer-reveals-5th-and-final-class/ar-AAYnG9W"
     type: article
     provider:
       name: GameRant on MSN.com
