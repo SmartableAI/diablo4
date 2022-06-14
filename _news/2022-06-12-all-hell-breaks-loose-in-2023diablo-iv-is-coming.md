@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-l
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming"
 type: article
 quality: 162
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Diablo Immortal’s sins could doom Diablo 4 as well"
+    excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
+    publishedDateTime: 2022-06-14T08:07:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
+    ampWebUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
+    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 107
+    images:
+      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-immortal-diablo-4-microtransactions-1.jpeg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
     excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."

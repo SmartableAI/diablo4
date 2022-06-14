@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
-excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
-publishedDateTime: 2022-06-13T09:30:00Z
-originalUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-webUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-ampWebUrl: "https://www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+title: "Diablo Immortal’s sins could doom Diablo 4 as well"
+excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
+publishedDateTime: 2022-06-14T08:07:00Z
+originalUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
+webUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
+ampWebUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
+cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: Dexerto.com
+  domain: dexerto.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
-    width: 1400
-    height: 933
+  - url: "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-immortal-diablo-4-microtransactions-1.jpeg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 3840
         height: 2059
         isCached: true
-  - title: "Diablo Immortal’s sins could doom Diablo 4 as well"
-    excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
-    publishedDateTime: 2022-06-14T08:07:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
-    ampWebUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
+  - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
+    excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
+    publishedDateTime: 2022-06-13T09:30:00Z
+    webUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
+      name: Polygon
+      domain: polygon.com
     quality: 107
     images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-immortal-diablo-4-microtransactions-1.jpeg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
     excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
@@ -110,6 +110,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "yEhjTvuFNjUX3Z0XDlKB5FGD3kaO2qkOESsRaDEFO85B43697peXm01Pk5W1HuBjSC0HR8JM2wO8TfhiebZZaKK+NNIEHDasuRVhaypuId+7Oizm8+5b26HI0x5uCwOvArWubV1sT3T4j7/DtXBtAu5Fgvg1dR87jn7BAuO9mPIOLiA5Vb41QWKUzJ0xiqtxj2MfLgNQWwCdIYM2f9G9t9tiH4CASva+sR3meP2OXAAzJWEMRZTLj8G1rmdHQ6WJsKrn03lwv/Ns0ydbMKZ9iO4pjjpHXrvkTCWMqXR6VIggzFShBirp5k1+8TDRjs/9cD+sMlg/DSueyxO6/ujLfZvGCHsbBNZBQrqpWdseIfk=;B1ZdJ8sEOHeEClMSOJFnuQ=="
+secured: "Wo6mr1Daa7u/16Kla/vddxY/zc9rteFiafZONz0Ed2CQOM2IzKfZVnUd32SjpnTGg0Egj9A3TzAFDRrV21v/gphrUtvBtQBkhBJYmZakyIHQffvkf//JwZ13En+6ku2+dt+PjS4TqYzNDLwSyLNUnZXLk57W4w9p/qIZwBLZg4H5PNuHx3N+tIj3kv/S4lHxMj8mjPV2st1cF6Yz/Y6Y8ExsrIYrUiCs962Ryr77h9Y9TxkSfg7iSvOJR/8v4vMfzsPMXwxK/m6TGAk5XMwN6r9spiqA0Z1LXrHV88oJ5GlqH+oFLYq4R5karG0AtqA/geq6ziqWdrbRYZtdcF4jhkfbyBkbWKfmQmD7+04EY5I=;OBUT9GqSu17VTKHPvdMuFQ=="
 ---
 
