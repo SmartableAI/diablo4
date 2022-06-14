@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4.md",
+      "title": "Asmongold explains why he’s worried about Diablo 4",
+      "excerpt": "Twitch streamer Asmongold has voiced concerns for Diablo 4 citing issues with D3 and Diablo Immortal for the lack of hype.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
+      "originalUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-asmongold-critic-immortal-blizzard.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
+      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
+      "publishedDateTime": "2022-06-14T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected.md",
+      "title": "Diablo 4 Devs Explain Why the Necromancer Class Is Appearing Sooner Than Anyone Expected",
+      "excerpt": "Diablo 4 developers Joe Shely and Rod Fergusson go in-depth on the Necromancer, the fifth and final class in Blizzard's upcoming dungeon crawler.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/06/14/diabloiv-necromancer-blogroll-1655180489432.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-diablo-4-will-let-necromancers-customise-their-armies.md",
       "title": "‘Diablo 4’ will let Necromancers customise their armies",
       "excerpt": "Following its announcement for Diablo 4 at the Xbox and Bethesda Showcase event, the Necromancer has received a more in-depth look at how the class will work. The Necromancer will use two different ...",
@@ -508,7 +601,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 282,
+      "heat": 302,
       "tags": null,
       "images": [
         {
@@ -847,7 +940,7 @@
       "originalUrl": "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1054,90 +1147,6 @@
       "provider": {
         "name": "GamesRadar on MSN.com",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard.md",
-      "title": "Diablo 4 Opens Up about Development Updates From Blizzard",
-      "excerpt": "Blizzard Entertainment comes with such exciting updates for the fans of Diablo 4 based on the current status of the new update on the current development of Diablo 4. After the announcement all way ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard/index.json",
-      "webUrl": "https://technosports.co.in/2022/04/27/diablo-4-blizzard/",
-      "originalUrl": "https://technosports.co.in/2022/04/27/diablo-4-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technosports.co.in/wp-content/uploads/2022/04/d4.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-diablo-4-development-is-progressing-well-says-blizzard.md",
-      "title": "Diablo 4 development is \"progressing well,\" says Blizzard",
-      "excerpt": "Diablo 4's development is progressing smoothly, Blizzard has confirmed. Activision Blizzard released its first-quarter financial results report yesterday. It gives us not only a look at the company's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-26-diablo-4-development-is-progressing-well-says-blizzard/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-development-is-progressing-well-says-blizzard/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-development-is-progressing-well-says-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

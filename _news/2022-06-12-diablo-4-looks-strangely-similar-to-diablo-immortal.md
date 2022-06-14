@@ -40,6 +40,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Diablo Hell's Ink Tattoo Shop Takeover Tour"
+    excerpt: "The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!"
+    publishedDateTime: 2022-06-14T17:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png"
+        width: 880
+        height: 400
+        isCached: true
   - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
     excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
     publishedDateTime: 2022-06-13T09:30:00Z

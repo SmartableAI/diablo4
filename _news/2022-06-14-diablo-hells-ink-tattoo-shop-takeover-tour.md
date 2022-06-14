@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
-excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
-publishedDateTime: 2022-06-13T09:45:01Z
-originalUrl: "https://www.msn.com/en-gb/finance/technology/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal/ar-AAYpAf9"
-webUrl: "https://www.msn.com/en-gb/finance/technology/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal/ar-AAYpAf9"
+title: "Diablo Hell's Ink Tattoo Shop Takeover Tour"
+excerpt: "The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!"
+publishedDateTime: 2022-06-14T17:00:00Z
+originalUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour"
+webUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour"
 type: article
-quality: 87
+quality: 162
 heat: -1
 published: false
 
 provider:
-  name: Metro on MSN.com
-  domain: msn.com
+  name: Blizzard
+  domain: blizzard.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYpAeW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1257&y=343"
-    width: 1200
-    height: 630
+  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png"
+    width: 880
+    height: 400
     isCached: true
 
 related:
@@ -35,20 +39,6 @@ related:
     quality: 162
     images:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "Diablo Hell's Ink Tattoo Shop Takeover Tour"
-    excerpt: "The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!"
-    publishedDateTime: 2022-06-14T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png"
         width: 880
         height: 400
         isCached: true
@@ -114,6 +104,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
+    excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
+    publishedDateTime: 2022-06-13T09:45:01Z
+    webUrl: "https://www.msn.com/en-gb/finance/technology/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal/ar-AAYpAf9"
+    type: article
+    provider:
+      name: Metro on MSN.com
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYpAeW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1257&y=343"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
     excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
     publishedDateTime: 2022-06-13T12:59:02Z
@@ -124,6 +128,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "jk08LrAuZ27uJpEQXXbGArkABWqmH5MCvVSEeBkdzdW/UBHJCKI2p0pVvtCk2vpScG7agQAJXglEPyEGMbb6IJq6vGMBoMIlIvu6TR8VuV4BpTsBqe/YWcJFakTnTXIzwD8z5UW4Fx+3roGDh3W5edDvqT60iC3DdCaTKQ57OiC4WIxd4VBDAAygeSvlrcifMR6DxFU0zza6FHRsj7crE5ZCKpxNxIcaOg4b5OANkR7Ja+OP9amd8/SRUQTr4yiXLeNj79G+PLpsVVmXWfHcBHjeOdL2KA/+uhxy+1J399jTPaPt90oltGIZNEiQtVWxA7d8cwykMmkg1toBgLayHulWWpmwm0+zsKtYt4HQy+g=;wVCc3LWXUs9hzyRx+TWrUA=="
+secured: "rDp4kiXp1AluRj4O5moj8a4aIdMNgE6/jjuAzaDBcYu94vcly33dj1xjKuqf4p1hF6gN8OsjV6q0UYzThB2zZW7BqAlr6b9Pag8CSHKaGQo3T2VbOrGPUHMmszslw+4C8E9hhkox0r/mOEGtezDAPMoYqNFC7SdRKa1O1bOcHVac3gtVlUkXZu6If+y9hyTjeBc8xFuKrxFDxNpH5yppaX8zOV2wzypDRXZT3BEY4DKFuY5MwYoJ/S7y47QFiV8rnWW/srZ6yiTvaBCPL9Z8+Eh1zF5H/584e36OniWzvd6tDJARylDmmF4UAQ4qOcCzPyt0dpGEYtUxkqG3s5+AIeWVHHdeST7JYJZi3/pLK5M=;kimAOBoeNcFMNtEi+GWXOg=="
 ---
 

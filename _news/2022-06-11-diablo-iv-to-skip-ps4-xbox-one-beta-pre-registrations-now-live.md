@@ -32,6 +32,22 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "How to pre-register for the Diablo 4 closed beta"
+    excerpt: "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet."
+    publishedDateTime: 2022-06-14T10:34:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 107
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Diablo 4 Beta Pre-Registration Open On PC And Consoles"
     excerpt: "Activision Blizzard just opened the pre-registrations for the beta of Diablo 4 on PC, PlayStation 5, and Xbox Series X/S."
     publishedDateTime: 2022-06-12T09:25:00Z

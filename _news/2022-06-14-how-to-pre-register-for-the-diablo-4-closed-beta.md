@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Diablo 4 Beta Pre-Registration Open On PC And Consoles"
-excerpt: "Activision Blizzard just opened the pre-registrations for the beta of Diablo 4 on PC, PlayStation 5, and Xbox Series X/S."
-publishedDateTime: 2022-06-12T09:25:00Z
-originalUrl: "https://gameranx.com/updates/id/315388/article/diablo-4-beta-pre-registration-open-on-pc-and-consoles/"
-webUrl: "https://gameranx.com/updates/id/315388/article/diablo-4-beta-pre-registration-open-on-pc-and-consoles/"
+title: "How to pre-register for the Diablo 4 closed beta"
+excerpt: "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet."
+publishedDateTime: 2022-06-14T10:34:00Z
+originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/"
+webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/"
+ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Gameranx
-  domain: gameranx.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -38,21 +44,19 @@ related:
         width: 1200
         height: 686
         isCached: true
-  - title: "How to pre-register for the Diablo 4 closed beta"
-    excerpt: "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet."
-    publishedDateTime: 2022-06-14T10:34:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
+  - title: "Diablo 4 Beta Pre-Registration Open On PC And Consoles"
+    excerpt: "Activision Blizzard just opened the pre-registrations for the beta of Diablo 4 on PC, PlayStation 5, and Xbox Series X/S."
+    publishedDateTime: 2022-06-12T09:25:00Z
+    webUrl: "https://gameranx.com/updates/id/315388/article/diablo-4-beta-pre-registration-open-on-pc-and-consoles/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 107
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1"
-        width: 1024
-        height: 576
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How to Pre-Register for the Diablo 4 Beta Version"
     excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
@@ -78,6 +82,6 @@ related:
       domain: tweaktown.com
     quality: 52
 
-secured: "Moi8aHG+mutkagoCqSSVUtence8OR/kPbwM+cx7ozYhsGDq2kt/5t66rHLgeS5A8KTvDPdXz6qNouA11ovfbsrtfrjqYg3rlaPYgOYn35j33eDyBkh8X1XOiDXnVvabGOZgB5Rhhu9e8BY+/myCi2RGj0yU/D7PGcZ8BC4y0TdtQnfHXQf+WDE2V2Sj7DRu8L8OYG91glezE6zd/UfV5pbUBt7d6UVrMsGQU9arweVgCf9/paRPNp/C3lUnukYg/dhUAZa5a4JqoMUyeRjETdio6+EY32QheRjiPhdQyGUBuI5UvhdXBY3Go3clVr0QMJiBS/dB06CWP4bvb3QJNftDSrFe5rwBCGppIeccNYro=;mV+or3xmw336gHxOgDHHAA=="
+secured: "ZlJGBSoCRG9uPMsfmSWQG+blR2mLd+kcjbDQihFfk/Hr15/TIucmk7BwpFHpKisrPyGW5ZkoT7hD7MsCkx0+aNvxlLUZ3NA2SdwurR02Dh8BgJyfeYw+L63fMvjUOkkL25CGauYSb0vz8+dJLWNrPcEJp7jBrnOfJj017LneW5CCSbsH6hxMa36GCpysVZArCBUqJO7JsjtzmkRNMozF5WegFcqWSCsKu/jAO4VXRicWy4quQOvXM6BB7BZLhZjZV8iN5amwErkgZSEssMcsOXxCrikbjfsxlFz6uwRrKGftzmGJydgal7yE4eLhsMmytuCYgf/MItg3oVRFM3rqQBEA8q237GqWC0wctkWtjFU=;X4fTrdc3pfSCro97QDWX0A=="
 ---
 

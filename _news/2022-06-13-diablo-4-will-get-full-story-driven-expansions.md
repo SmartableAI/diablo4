@@ -2,26 +2,20 @@
 category: news
 title: "Diablo 4 will get \"full story driven expansions\""
 excerpt: "Blizzard has confirmed that Diablo 4 will receive full story expansions as DLC after launch. \"To be clear, D4 is a full price game built for PC/PS/Xbox audiences,\" franchise GM Rod Fergusson says in a ..."
-publishedDateTime: 2022-06-13T14:58:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-will-get-full-story-driven-expansions/"
-webUrl: "https://www.gamesradar.com/diablo-4-will-get-full-story-driven-expansions/"
+publishedDateTime: 2022-06-13T14:58:48Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-get-full-story-driven-expansions/ar-AAYqhpi"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-get-full-story-driven-expansions/ar-AAYqhpi"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/LtZzRyHQGDgYRwteWnZeFX-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions"
@@ -90,6 +84,6 @@ related:
       domain: msn.com
     quality: 65
 
-secured: "m7/q4F5v0a6Gcp0Cr93DLHwirUOn76OVlLFY8kY70Sv0JNC9Vap2y1jsRM1NNyNRc9RslY29cen0qLLKionr/DT+SSqAJKZBCBwG0XBwZSQr6cEnR/uMn/wcwTPlFjqqfkOU+gz/5JnznIR6anALunnwM9fr7MCp24NLis5xJT+7ou0fTdmRlfKktAs9WExi3NJDlXH6cbaW8oVVHiZFUc4UkZjC9GKHpbRU02GKL6IWZS8YpUjjO33lL55gCjokhywPcymsnzhvpv0TpVn5TkQDLSOqwKRHRKloM9X4b0L1vUh3Gbx+b2LMJAcqs1yQcCmhIaZ7sQ7KeivBHNbVGCjF11sbv9/IH+QFgzM9tU0=;rPS2oC/0vvmvZhka/qVxlw=="
+secured: "UfnLRjDkcKQzM069jNPv81gcb54XcDnLCwOWpxwJN4L0ObBM6Wh9ynSyPag3H33epL9cqjnLDuTMc4qZDZi9oNxZDuqNsM30qBKpuCm+H0GuD3yrC2/2+Seloa1mevmX7fJsFYeMBERtd7Dhm0XAbCYndpIY7C7D7GWTo0davPRXI2CGypt18wF1kxPwp0J3OnDTrZ2tLQw1Lc6b2Wrw+1uNMhg0HRWTiKqilPoCTj3cRMjuKeYwTzPUJl8oSUXaLfpohLkGlTSwWsLaxi2nAMfsvdzkkKf29YO4G6TPqMOPrS0pq7n5tD9PjTFQ+WhZIjX6og1HgQ+O2ybsBZN5n8qy9CIGfhokkiJ6OlReT7k=;0gBWDBLr0UIL3LRYZJv0cg=="
 ---
 
