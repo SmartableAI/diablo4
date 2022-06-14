@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-bl
 cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
 type: article
 quality: 103
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dexerto.com
@@ -24,6 +24,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Blizzard Confirms Less Microtransactions In 'Diablo 4'"
+    excerpt: "A Blizzard executive has promised a more traditional approach to post-launch monetization for \"Diablo 4\" following the community's overwhelmingly negative reaction to \"Diablo Immortal's\" ..."
+    publishedDateTime: 2022-06-14T03:00:00Z
+    webUrl: "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214"
+    ampWebUrl: "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 107
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/01/diablo-4s-rogue-class-uses-ranged-bow-shots-lightning-fast-dagger-attacks-eviscerate.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "k3IUAvbWuCey6RH08uLeTMdbBy8qA7DpBNOLkc0GrA3nLJN3ICRc2jqQFJkyrU24GHBWgn6DgJeRkJnUwNRoxykvaCbYrBTKS/iapH+ZF1th+ziL/wCeo323hNBqSTAWHZCk/tCv7Hhwggf3tQRib0pvORaGdVtAHGLXxh2iJT+nTo2uPyKeBr6mK/khxNFaRSLOcY/+nj2peC/JnnKPy7MxYLfmhpdF6Qt7vhJoQioFr1AjFBFhVlwPgI4FFwv+5vor5J0ZgoNWJFs5UPGBP//UYOkcr2dXXlGZureQSocAecVsLrPx9qgzRV9mRbn4aayupZ3MlF5hbqIIY8yXb3gLiBhW/Y4ax0GcOl0CR7s=;GQDuOwKtSDRJLNKUGAQJYw=="
 ---
