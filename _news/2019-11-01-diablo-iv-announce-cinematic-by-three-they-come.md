@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Diablo IV Announce Cinematic | By Three They Come"
-excerpt: "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High ..."
-publishedDateTime: 2019-11-01T18:05:30Z
-originalUrl: "https://youtube.com/watch?v=9bRWIdOMfro"
+excerpt: "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo."
+publishedDateTime: 2019-11-01T19:01:45Z
+originalUrl: "https://youtube.com/watch?v=0vE3rAjtqUY"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo
+  name: Game Clips And Tips
   domain: youtube.com
 
 topics:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "wmdUC1c3TxqpiQvIdikf1rfKXhIS10R0hBBgf7ASZZiqu6CeUD/fuHrd0Au0QOBjlwcZMSl9oDD5dkKtKc1xhKinGZOq6Y4ewdbKBqTjzU8XK+fprVxFHpz2OEcBI/A3hxQmE7q9Swh6hqysOmcbqH7WWTyfgIewRIPy/kSrMGGD02LPPls1o8GyRqsxfLR9nX1yNi0w+MHd5V5STGiYmfyge5GRnTQVMypcB5bLL9V/xi6PGsU9EMdCy1LsoER4corzXjeJGmbZYanVAiDcO3IniddY762RkLQrCw286eAkUx0euieXcCuc9jUVIlk7CWKB7YFr+SMLoMasKJF+eW7Nv0XoQ1+p5EmDKnLQGxdLuxp9htQhuOx4ha5x2Uzwqd1FDg9EHi8tON48ssBrP1Tglvu7RoOemlCvWIaYDeOzllCfaHxCClRTBZ4MlHaM;dbyS3eTeHatTCeDf2rTn9g=="
+secured: "1+KYTGg+6lwaV7G7RhKoQIsivGNdo6KQ5QzoOVaM54pC6i/vGL9KMViwrDQ6AoOxkjU4wP78kS7T/KmSm4aTSvXgXip27ouFx9AisMoDBSeCuvSl6rfWyeXjAGpBO31KrrxQNGwOZoEpQo4MbeUHMAsbBUIQMo8T3zRyqFelUQ/IKZlHOTEsr2ccq7h73cD6405I98ZNgdRicbeewCQvSXgQQoV/vDGESvidLpDKphBhCbBAfqcSH5y4cZgR4sTBscbKqg8JUJoSXjTayazDx01p5Pvk8lPkuJLx3+wa7wK5K3goKeLNQUu8la6tdf3/Iy8QrF+bs+3KU1PRIGirD0bJJWfjcSVIAL1YP9I7ZEJKAKCUgMnbk2rTM63RNM7i4dytwSPP0CRFHIi/3xL9uA==;K1SFNYaD3jtDKvDpzOhjiQ=="
 ---
 
