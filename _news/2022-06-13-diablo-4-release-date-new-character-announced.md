@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DIABLO 4 is coming! NECROMANCER Announced!"
+    excerpt: "Blog Post https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming Necromancer ..."
+    publishedDateTime: 2022-06-12T20:17:59Z
+    webUrl: ""
+    type: video
+    provider:
+      name: AnnacakeLIVE
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!! How Hyped are we??"
     excerpt: "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/mrllamasc."
     publishedDateTime: 2022-06-12T23:45:02Z
