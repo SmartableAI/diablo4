@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/"
 type: article
 quality: 136
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Diablo 4 Necromancers have a 'Book of the Dead' for customizing undead armies"
+    excerpt: "Diablo 4's Necromancer class will have a new class mechanic called 'Book of the Dead' that lets you customize and fine-tune your undead army. The Necromancer was revealed as Diablo 4's fifth and final ..."
+    publishedDateTime: 2022-06-13T16:50:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-necromancers-have-a-book-of-the-dead-for-customizing-undead-armies/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "bwqp5c0xLwRUheuEufDfMQ/CU3VfgHQmcKs9vTeaD4PPnxivN+RMNA2m+oQjMLdwpXb3ghq5zR87KCymAmPzVxMpf8u1nKA0jaI4MRCQMfSA/QpxSikNJ71o/leH8Jyh9ECZ3rgZAQ/ETc/8vNwPr7pmEDej0gEWIoW0vF0D00UBfZl9XPCED1kyLDyAnC/2GVIJJBcBo/jZffukUJt8ELMedNHVQhf1+KTBmMv9biGoxuqeZZYYoTBaYoyctOcESzS7yXrq3wBcR7PiCCDpcfMTEOHR+otMP+jQaENPO73/6ECLOTFyHx3e3uhx/1a5Ca671cBIcWnZ9Ia8025UP2cYclYd8/f5TzFMs6VcOEA=;yeKp0JEoHsUaT1guh2rtRA=="
 ---

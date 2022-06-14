@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
+    excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
+    publishedDateTime: 2022-06-13T12:59:02Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
+    type: article
+    provider:
+      name: SVG on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "jk08LrAuZ27uJpEQXXbGArkABWqmH5MCvVSEeBkdzdW/UBHJCKI2p0pVvtCk2vpScG7agQAJXglEPyEGMbb6IJq6vGMBoMIlIvu6TR8VuV4BpTsBqe/YWcJFakTnTXIzwD8z5UW4Fx+3roGDh3W5edDvqT60iC3DdCaTKQ57OiC4WIxd4VBDAAygeSvlrcifMR6DxFU0zza6FHRsj7crE5ZCKpxNxIcaOg4b5OANkR7Ja+OP9amd8/SRUQTr4yiXLeNj79G+PLpsVVmXWfHcBHjeOdL2KA/+uhxy+1J399jTPaPt90oltGIZNEiQtVWxA7d8cwykMmkg1toBgLayHulWWpmwm0+zsKtYt4HQy+g=;wVCc3LWXUs9hzyRx+TWrUA=="
 ---

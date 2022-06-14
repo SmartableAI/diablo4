@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Diablo 4 Looks Strangely Similar to Diablo Immortal"
-excerpt: "When you’re out in Diablo 4‘s world, you may occasionally run into other players in certain areas. You and those other players will even be able to participate in certain “Local Events” and World Boss ..."
-publishedDateTime: 2022-06-12T13:38:00Z
-originalUrl: "https://www.denofgeek.com/games/diablo-4-looks-strangely-similar-to-diablo-immortal/"
-webUrl: "https://www.denofgeek.com/games/diablo-4-looks-strangely-similar-to-diablo-immortal/"
-ampWebUrl: "https://www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
-cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
+title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
+excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
+publishedDateTime: 2022-06-13T12:59:02Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
 type: article
-quality: 107
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Den Of Geek
-  domain: denofgeek.com
+  name: SVG on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Diablo-4-cinematic.jpg"
-    width: 3840
-    height: 2059
-    isCached: true
 
 related:
   - title: "All Hell Breaks Loose in 2023—Diablo IV is Coming"
@@ -39,6 +31,22 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png"
         width: 880
         height: 400
+        isCached: true
+  - title: "Diablo 4 Looks Strangely Similar to Diablo Immortal"
+    excerpt: "When you’re out in Diablo 4‘s world, you may occasionally run into other players in certain areas. You and those other players will even be able to participate in certain “Local Events” and World Boss ..."
+    publishedDateTime: 2022-06-12T13:38:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-4-looks-strangely-similar-to-diablo-immortal/"
+    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
+    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
+    type: article
+    provider:
+      name: Den Of Geek
+      domain: denofgeek.com
+    quality: 107
+    images:
+      - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Diablo-4-cinematic.jpg"
+        width: 3840
+        height: 2059
         isCached: true
   - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
     excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
@@ -84,16 +92,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
-    excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
-    publishedDateTime: 2022-06-13T12:59:02Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
-    type: article
-    provider:
-      name: SVG on MSN.com
-      domain: msn.com
-    quality: 67
 
-secured: "lUXE/KRKF/cu8SB9pJGEz7HWDFXPbaqt7SG12rF4L2sYPU+4a9breHnOeZfzwL24QgEkPlZFY0yLwzMj9Wr4Opxgr+WVbpHbo5id9zGHNrt7w+bCEyaET2VztO4Mi3GBzbtAEokZDDIhLdoZ2RHUDIbVAW919KicxYEpH1fmatL0xE0nuhSOn63oHX1azzOnRPg7Us6XBujZcU1EFVdtZ314vWQd/2L6bAhe521eof+7rH+0cG2fXccIlXggyeezsdVJpq27ebs8pSEA0SrIcX7RGw/+9UlDTCcTHpAV2oFC/zPEJUJsabWtrmfD0tsKhWnecGMvNipwV0CRTo8orBwOK93cxXpKbAG1R4tID6A=;Wfymk7VS1kIQkCPfgff2QA=="
+secured: "qK6ywQZxFkW9U2IgW9u+olx+MRQa59LsEK5RN2h9OBpU7J4sAfF00MvDfkDngmrOYOBC+JbsZo0Xe/3keTNkzF8QWZZwM8t874wLCLTOh4GJaheUqtYcFbo/KmiXdS0w/dggvCEBR15+TjgBmA4iDrggpeYfUrkd7X+XMvi7BSfGf/0MonRRGfP2QFhTNTikJFGpBUVXwRMFAGsZxv/YytBCmcrOG+2djxOEspSworBCvj8PwIJKkz+BrWHHMELV86URTPP1DRqY5GPPXC9do5DHBukb/R06twGjWG6/ekmzlpkUTVfc/s2u1zWWZOJgDV3GJwTXPbP/JAkAMKe45SSCEGnBIvuZOaU2O8LIYHo=;Rhse7eRZazAuw2q4+xjMqQ=="
 ---
 

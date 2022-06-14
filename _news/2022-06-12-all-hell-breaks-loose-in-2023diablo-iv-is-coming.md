@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-l
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming"
 type: article
 quality: 162
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
+    excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
+    publishedDateTime: 2022-06-13T12:59:02Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
+    type: article
+    provider:
+      name: SVG on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "wrRy34X/O3bJqp+bUtuVvEGTRkvbmacg3qlDfyvCfbwmJJ7Gqn2ofuOFE9kTkYjqAI6tMlDxvh/ABOPOn8wgknwWBkFwsblcYXnSEfF7TlpPQ0OEwZtUb/PmFxicoVMnuGu5bhgGvm8q3wpuAeFTfmYKXqF7QoINPRms5+CounBw13tQ7QyjCDE+kV4Kt2qEpMw+eQBRh5ODIdD0s9aHB1RDCIlEOmj6UGp1vMJgqOchE6El1Dawo74BnaUst9q+wTWgbZ5pT2gZSaUY7GERQhbdHSubxPbsRIIkMibHDm35PiUde0B052Wa1fyhvILSYV+u1JD/HvDc/Gf9vhI3NKoZfQOIyitZlR2vCohCcK8=;u4qwgbyVMec4tUWO55cHLw=="
 ---
