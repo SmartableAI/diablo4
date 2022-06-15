@@ -7,8 +7,8 @@ originalUrl: "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-pr
 webUrl: "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Push Square
@@ -22,6 +22,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\""
+    excerpt: "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4."
+    publishedDateTime: 2022-06-14T15:41:00Z
+    webUrl: "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 101
+    images:
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/15/news/1655246076_110120_1655246244_portada_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7Ar2bfE+L5cWdAK8qGNVq8mTkFlulIq9OtnwBRrd5Om2dxgmHkTY1Wkx0pILYA5+7OQYHqPngpetkkE1nZkv8mXmH6dGYkGqlK8ti1jfXX7EyTZ+E1s80FnM9noS6Il6DZXzS2AwHXwKR4p8EhZ01wRWinP/MfT6Kiai+eM05yPfilHcTY/qlsdGcBcW9qETCsxSAnTQpdA0B0ddPDOoDoc+S0RCK/FCOKQvir4r7wV9YFgPQHP9LyerC73hMqkglpNryisYPeK6yhb/JqVOX2FF9ogNXaI7ieEz8ef7bpYfzzaVtE6+CfKLO9J5/HNkh1RlZqYyrd9yhX/yKr2LbESUXsgUO+0Jzm1Ig7PJj3M=;D26nVRTXfd/+EixkzU2vJA=="
 ---
