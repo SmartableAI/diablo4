@@ -7,7 +7,7 @@ originalUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necrom
 webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 671
     isCached: true
+
+related:
+  - title: "Diablo 4 Gets 11 Minutes of New Necromancer Gameplay"
+    excerpt: "Following the reveal of its fifth and final class, Diablo 4 shows off the customization available for those wanting to control armies of the dead."
+    publishedDateTime: 2022-06-15T06:50:45Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-gets-11-minutes-of-new-necromancer-gameplay/ar-AAYuOMp"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "ZORtAYj3TELW0U6+N6AOLtuCdDkNENbZ/j0WV4u4TXo6Vz1e8XgqDDL/kL5yZslIFZr7TXt0Y5BHHDTyg6hlaMfEa81naUxx51leZIlBSOYBkyzXC25/dtU8FFKDsNhqkFmE8yZlqRjXsoxJJiVsN+/Gmv48cMwzBe7w50YEwaXm/lMckXaJL4zYL60ZBKnBsm4FomIO6DhT9JySnvu2i95enXcxq3R0Ve4cL2otOAT7u/tb3OR2+F9qp7x38rlQ2cyfUcPupxgIW4uosKlwgOKsxvayVNP4FBOk3wrT5Gir/LK7mHIQnLViv4Vfst2jh/dX/LHG3P7UI4W0GGRtFcJ/7hX5zZ2r0XnWluuhkdg=;tHKU1D+ZnO07jLChQ6gV5A=="
 ---

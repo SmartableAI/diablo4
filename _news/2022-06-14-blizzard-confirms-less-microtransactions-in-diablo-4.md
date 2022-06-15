@@ -45,7 +45,7 @@ related:
   - title: "Diablo 4 won't have Diablo Immortal's horrible microtransations, Blizzard insists"
     excerpt: "Diablo 4 won't share Diablo Immortal's monetization systems, Blizzard has confirmed. Some have criticized the game's content for just not being all that fun or engaging. Others have become bitter ..."
     publishedDateTime: 2022-06-15T04:00:00Z
-    webUrl: "https://www.techradar.com/uk/news/diablo-4-wont-have-diablo-immortals-horrible-microtransations-blizzard-insists"
+    webUrl: "https://www.techradar.com/news/diablo-4-wont-have-diablo-immortals-horrible-microtransations-blizzard-insists"
     type: article
     provider:
       name: TechRadar
