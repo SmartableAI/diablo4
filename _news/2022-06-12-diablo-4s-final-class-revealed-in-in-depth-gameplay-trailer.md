@@ -178,6 +178,15 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
+    excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
+    publishedDateTime: 2022-06-15T13:51:46Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "Rf11Gch54flRusTjtOJZf9zaZydK7ZqQqGWc5q+mY7FKwej2NBJDSKyfL1WhdnMHBTdXyHzPUNFojR8OMsyaCGW7CE8Lksm+Xdi5e24uKMpgtUDA9hARG3kNRBELNVkcruwrKQ3axS7UCYHJiDVnImFdWCf5yLgQ7ep8C/DKbie9CY1bM7Pwup+DCS9eCkQ8L52xpAWs7IIay8PRLBP2mx/IjqxBNT/vDOo7QPQUI3/k13SsDF4vTqqT1ANBO0sDyECBJM95j7KIY7LleEm4v+qplwYruj5hcR1xF5dJWsCLkEWvR5g5/Y4cH0O8ykO+xLYP7vpeBYQCmb0qIEtIUkpTdCmkZaBnHLu816dP4J8=;cdg8cCDqha5SO4OPpJLG1w=="
 ---

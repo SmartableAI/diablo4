@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Diablo 4 Necromancer announced with new gameplay footage"
-excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
-publishedDateTime: 2022-06-12T11:15:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
-webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
+title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
+excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
+publishedDateTime: 2022-06-15T13:51:46Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: GameRant on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed"
@@ -85,6 +79,20 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
         width: 590
         height: 350
+        isCached: true
+  - title: "Diablo 4 Necromancer announced with new gameplay footage"
+    excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
+    publishedDateTime: 2022-06-12T11:15:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Necromancer Class and Endgame Content Detailed in New Trailer"
     excerpt: "Diablo 4 players don't really need to worry about the amount of content they are going to get as the developers have prepared tons of activities."
@@ -174,16 +182,7 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
-    excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
-    publishedDateTime: 2022-06-15T13:51:46Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
-secured: "n9ldSuKX+X0xWoI5L/PnC0QZgpL9TMONuPbmxS520KCBtpSe6mxPT+o+h/+7u2NI9fB9PYUON/fj2dt8smfBSHieMLg86V1rRc74UG4aN3FqIaKk1M1J3NA0CRj1FUx1RWa4G+RUZZ8hSpjrwVpe8sEBVjAMsLlQqOzBR933g+V7nnP0nGoRchoc7vk35vDleLavwfQoLmwX07lGhFfU/Qx2K8GvkLxft5NgnK1n7QTOGJUx1eE+NWG+nFO9p8dlmiDHuFP2Zog7yYldYICSvFduT0aiUaPVW+UQBSZajZWPPHE1uJp3J4pjmnAdYdWbYqk2B1vTfMzcPSo2SxrHnD2Nhcrmh5SqOhEWT6W7igo=;5NtIAgJxeo2LofM/Gff36A=="
+secured: "Em/hemIaeDVVUGd+ujsE3tDzu5ZTjjqvhiNeG+0qf6I1IAFO2WWfzzF3kUzmFUR2xnicPhNQbe5Nb87C7qqNnUqdace0E4uDGgZcsTMiaFbg1rvZ47QdGKCglKGfcINaSDtLu3si5byMJyrP9YIbZLVDLO1WrBO/qKWI7MCi/+6YeIwDavrCC5bKOVtZKy0ZaN0aTPIFwiVgbmc/VyCS3tilmvq9jJTXyAEIbH8ZDQSbVYkcjAgjVO+rMM+E4r8dC5Tmxa8IhS4tT/wtmqPxep5RpMczDFUeF4TzVciFePiIueNyyFWrwHGUFL/5+s7PhtoUMQN0ZUBOYX2gco1fuihnslJTXGd23N+PscPkrn8=;9J7ZFkbbxtUZYdtNm0IZnQ=="
 ---
 

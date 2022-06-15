@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necrom
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
 type: article
 quality: 144
-heat: 364
+heat: 384
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
     excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
     publishedDateTime: 2022-06-13T07:09:54Z
     webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
+  - title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
+    excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
+    publishedDateTime: 2022-06-15T13:51:46Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
     type: article
     provider:
       name: GameRant on MSN.com
