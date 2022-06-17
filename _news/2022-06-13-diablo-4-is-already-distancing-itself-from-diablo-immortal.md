@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo IV will be a 35-hour experience, says Blizzard"
+    excerpt: "We’ve worked really hard on the campaign in Diablo 4 and we’re really proud of how it’s developing.” Shely says that, by the time players finish the campaign, they will be around level forty-five. Of ..."
+    publishedDateTime: 2022-06-17T08:50:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-iv-will-be-a-35-hour-experience-says-blizzard/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 72
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "qK6ywQZxFkW9U2IgW9u+olx+MRQa59LsEK5RN2h9OBpU7J4sAfF00MvDfkDngmrOYOBC+JbsZo0Xe/3keTNkzF8QWZZwM8t874wLCLTOh4GJaheUqtYcFbo/KmiXdS0w/dggvCEBR15+TjgBmA4iDrggpeYfUrkd7X+XMvi7BSfGf/0MonRRGfP2QFhTNTikJFGpBUVXwRMFAGsZxv/YytBCmcrOG+2djxOEspSworBCvj8PwIJKkz+BrWHHMELV86URTPP1DRqY5GPPXC9do5DHBukb/R06twGjWG6/ekmzlpkUTVfc/s2u1zWWZOJgDV3GJwTXPbP/JAkAMKe45SSCEGnBIvuZOaU2O8LIYHo=;Rhse7eRZazAuw2q4+xjMqQ=="
 ---

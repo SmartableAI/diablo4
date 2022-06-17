@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-l
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming"
 type: article
 quality: 162
-heat: 302
+heat: 322
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYpAeW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1257&y=343"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo IV will be a 35-hour experience, says Blizzard"
+    excerpt: "We’ve worked really hard on the campaign in Diablo 4 and we’re really proud of how it’s developing.” Shely says that, by the time players finish the campaign, they will be around level forty-five. Of ..."
+    publishedDateTime: 2022-06-17T08:50:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-iv-will-be-a-35-hour-experience-says-blizzard/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 72
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
     excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
