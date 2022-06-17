@@ -62,6 +62,20 @@ related:
         width: 768
         height: 403
         isCached: true
+  - title: "Diablo 4: What Classes Are Available?"
+    excerpt: "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game."
+    publishedDateTime: 2022-06-17T09:47:00Z
+    webUrl: "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tj1iwcCcyu47J/H1i1E2EyDbJk8meLhx78AJvUIQWATDPfJPWqU9zOLHyzsMmCNQWlbOn2WqEzR6hg7YtveijliVfqlkPxwpXqa9y4a1a34dzN0WTPzEgYQqS3+tZ+QGUCGMIStDwf6emX/BO7WENcM9S0U/EGyeQkmnuUSja87ODs970dhJGnZ48WQW1DZLSBDDPkMpzYM1wFAkOyeN/UpFMyQk05tKMSqq9Q37YiWiASgGNtGA26Zbjo9jlc43M8w795dzDrBmENzQFrEd1yto3gk6pHZrmsGEcC4cVMgOarYi6pJTUU+1Q5VMZX5YvdE5kEnQ1t1oipYrr1FlMUB0MKLsEPpsGCFeGxVOhJA=;QmcrEcoadckkC4DdWXJ0Ow=="
 ---

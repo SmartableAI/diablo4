@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says.md",
+      "title": "Diablo 4 “A Love Letter To Fans”, Game Director Says",
+      "excerpt": "Blizzard Entertainment have shared some further details on the highly-anticipated Diablo 4, which they hope fans will love.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says/index.json",
+      "webUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "originalUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-diablo-4-campaign-length-revealed.md",
       "title": "Diablo 4 Campaign Length Revealed",
       "excerpt": "During the Xbox Bethesda showcase, Blizzard Entertainment finally pulled back the curtain on Diablo 4. The game isn't set to release until sometime in the first half of 2023, but several details are ...",
@@ -364,7 +406,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -1024,7 +1066,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-beta-sign-ups-now-available/1100-6504475/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1099,57 +1141,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase.md",
-      "title": "‘Diablo 4’ Beta Registration Has Quietly Gone Live Ahead Of The Xbox Showcase",
-      "excerpt": "Diablo Immortal? Never heard of it. Time to move on to Diablo 4, says Blizzard, which has just put pre-registration live for the beta ahead of today’s Xbox Showcase, which seems likely to be linked.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a5f4887af06ca751876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
-      "publishedDateTime": "2022-06-12T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

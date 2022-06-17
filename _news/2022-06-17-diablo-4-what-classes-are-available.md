@@ -1,26 +1,26 @@
 ---
 category: news
-title: "How to sign up for the Diablo 4 Beta"
-excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
-publishedDateTime: 2022-06-12T16:50:00Z
-originalUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
-webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
+title: "Diablo 4: What Classes Are Available?"
+excerpt: "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game."
+publishedDateTime: 2022-06-17T09:47:00Z
+originalUrl: "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/"
+webUrl: "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Dot Esports
-  domain: dotesports.com
+  name: Gameranx
+  domain: gameranx.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
-    width: 768
-    height: 403
+  - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -54,19 +54,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4: What Classes Are Available?"
-    excerpt: "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game."
-    publishedDateTime: 2022-06-17T09:47:00Z
-    webUrl: "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/"
+  - title: "How to sign up for the Diablo 4 Beta"
+    excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
+    publishedDateTime: 2022-06-12T16:50:00Z
+    webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
     type: article
     provider:
-      name: Gameranx
-      domain: gameranx.com
+      name: Dot Esports
+      domain: dotesports.com
     quality: 87
     images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
+        width: 768
+        height: 403
         isCached: true
   - title: "How to sign up for the Diablo 4 beta"
     excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
@@ -78,6 +78,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "HPQ+sRG/U9DsF/qgHo4xc0tOlp58UMzW68bc7NiSh58h8pxID3N78/OTIhce82EwR8OOVJRCRDGouE2+ZXDKteEs/vK/yASMfPN+eOC+2zPtJ7/ztMe0Diqdwthl3pr9COe0YVcawzP5dBalytzHJZoG+RKD3I3AklOsmgZxSnl4aOVLENu1qm+L0wEV1XaqO+C+gXfe0R8S6AjXaCE7OWuGlYjdw3dGVfxemTdvykS5XJkmZo+7TdPOZRXeBbtr1dvQOHc5ow3OtzXekmradN/ja18isrzc4KOl6FYEiOtqwWwUupCxyIjZKcITMYjrjNmfakPoc1nxdNk47K+FaMLrnxylIj1fEgQ6vmPhhD0=;lQQZsAhQdzmbTecMJLWbFw=="
+secured: "9BV5vezV4XsP2IvXhvtBlC8mxHSDlPW9FaFbDfZSrTjhuVRDOFXjqEUcK0egLqfIOIACAJ0SNxiUJmz7JKgdnJ1xBM3Jl2gyUADmBME1qbXdzP0bcxMswcVnt5p4eQmd+7ZIf4ZqxwVCRisEBBjBTTqQ0CMX99MarkkBdb7MbCwPogd5MorT2yd2q19aPLhiRqKlybXSiGpNqNUHqSynQdTfJE+2rao5CfuEL1oXxW5ZI5XwNBUFjFMsZlmKyUWKipsDDi5470I4SlPZPUmcfjuAq0790DHeQGHbtIQ3v13BHQ+BvJaweSCTI4tn9ucVm7Xt9O9BLl+CYcNHfoz6gf4G9f0ueZRHwVCJsjn/t7c=;TFjYI40AlKOa4JNXy70g9A=="
 ---
 

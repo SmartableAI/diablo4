@@ -70,6 +70,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Blizzard Gives Diablo 4 Fans Hope With New Update"
+    excerpt: "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ..."
+    publishedDateTime: 2022-06-17T09:46:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "The latest Diablo 4 quarterly update focuses on the Necromancer"
     excerpt: "Developer and publisher Blizzard Entertainment is continuing to share quarterly updates on Diablo 4, going over the gameplay, world design, sounds, art direction, and more. In the June 2022 quarterly ..."
     publishedDateTime: 2022-06-13T13:04:00Z

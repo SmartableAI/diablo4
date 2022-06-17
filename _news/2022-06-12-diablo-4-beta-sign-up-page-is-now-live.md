@@ -54,6 +54,20 @@ related:
         width: 768
         height: 403
         isCached: true
+  - title: "Diablo 4: What Classes Are Available?"
+    excerpt: "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game."
+    publishedDateTime: 2022-06-17T09:47:00Z
+    webUrl: "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How to sign up for the Diablo 4 beta"
     excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
     publishedDateTime: 2022-06-11T22:40:33Z

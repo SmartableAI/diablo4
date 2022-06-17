@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-ava
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
 type: article
 quality: 147
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
         width: 768
         height: 403
+        isCached: true
+  - title: "Diablo 4: What Classes Are Available?"
+    excerpt: "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game."
+    publishedDateTime: 2022-06-17T09:47:00Z
+    webUrl: "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How to sign up for the Diablo 4 beta"
     excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."

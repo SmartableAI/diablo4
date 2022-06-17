@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Diablo 4 Update Has Fans Ready to Boycott the Game"
-excerpt: "A new update out of Blizzard pertaining to Diablo 4 has some Diablo fans worried about the upcoming action-RPG. The update specifically comes the way of the official Blizzard website, where it is ..."
-publishedDateTime: 2022-06-11T08:35:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
+title: "Blizzard Gives Diablo 4 Fans Hope With New Update"
+excerpt: "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ..."
+publishedDateTime: 2022-06-17T09:46:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
 type: article
 quality: 107
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2021/10/21/84409d83-5f59-434b-8e8a-bc14d328140d/xbox-series-x-controller.png?width=568&height=320"
+  - url: "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320"
     width: 568
     height: 320
     isCached: true
@@ -56,19 +56,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Blizzard Gives Diablo 4 Fans Hope With New Update"
-    excerpt: "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ..."
-    publishedDateTime: 2022-06-17T09:46:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
+  - title: "Diablo 4 Update Has Fans Ready to Boycott the Game"
+    excerpt: "A new update out of Blizzard pertaining to Diablo 4 has some Diablo fans worried about the upcoming action-RPG. The update specifically comes the way of the official Blizzard website, where it is ..."
+    publishedDateTime: 2022-06-11T08:35:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
     type: article
     provider:
       name: Comicbook.com
       domain: comicbook.com
     quality: 107
     images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320"
+      - url: "https://sportshub.cbsistatic.com/i/2021/10/21/84409d83-5f59-434b-8e8a-bc14d328140d/xbox-series-x-controller.png?width=568&height=320"
         width: 568
         height: 320
         isCached: true
@@ -101,6 +101,6 @@ related:
         height: 675
         isCached: true
 
-secured: "F5g4xIO3gnl1sP7W3hMNUAowrfGadlnbXYBSDNU06Y4rHKC1ezkg4rMtLakgeq4iB/Sd/pb8Wxdyh0+LTVTX3sjwnu6dgqrP0YUFwhk3VzwN7vL84lO+ujpeJgEWm5K6OTnGeiskVSd6FPCBg2a1+Dvat05/Ui+naET+zO/7Sbr6ZAXIwJbgSCXFrRcrzzzdZPQPXtev/+O/M2mh1SsaxkpftegefjCAtmYYW7yxNwLb0rRcC5XuZwWs/KzDyr80MSnwU4jYFTTL83cEts77jSorkPhwvWLFf40V3zE5uIMLSVtQ6rptEzLBR26bfrslO6OOXkDl4VEOcHv6HnkXNUA79gLJe8NQLcCGp2MKrDo=;BdcsSRcY2QsI9TXdv7LFOQ=="
+secured: "sa9Oa9IZs+Juzy8Y9V5wtw94rXh7oyCfsTH0XN2afQh6vhMlw9ajqvhcodxpbYP3l2BQo9VbMZEbwt7b7WMKfs9EaLlxttJ5fDhIjIB1YdwcW0gOY1R72fWvezEBwORN2i+mst53kaNuojfZ9hqd3oLbNWDBMSZW7fsiwvEGRDi18HOkC8QT6fdy3JyGN5UbXG2OmtV0pLZ5a5OA9fIc6Fso1JKNdV8/+3OTFrndUfG2JmDoZpjsZ9TBEYhA6zcZE88SIyZvhZ2D+CAN5Lfu0MOya0oiimEE2s8yXjT7OC16RbkO3JQNefZxh0TGgMeVIXez8TbJEo2iyacCwflDJmfoLI6bubx1PhWJ+HppEZI=;6Ux6c79BRbfDGGQ4iXZl3w=="
 ---
 
