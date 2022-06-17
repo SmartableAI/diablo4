@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-campaign-length-plays
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Level Cap And Game Length Revealed"
+    excerpt: "Diablo fans were given a look at the upcoming Diablo 4 in action at the Xbox Bethesda Games Showcase. Now, the game’s director, Joe Shely has revealed in an interview with Gamespot how long players ..."
+    publishedDateTime: 2022-06-16T16:54:00Z
+    webUrl: "https://mp1st.com/news/diablo-4-level-cap-and-length-revealed"
+    type: article
+    provider:
+      name: mp1st.com
+      domain: mp1st.com
+    quality: 67
 
 secured: "qzFiU193WxkG52icbtPEl+lDl5eOj+gIoup55Q/0r1NrQ2ycxQrufZz4lJPWUx3wJMNgpne4Q3dYZ8sd38vgA2fm+8rSHG1sK9t3BriwvwvXgFxHdRmKSjw5REflLL3XMG06YYj52RDQfLtCiOfdT5IrWwuzK1fBk2pIXadrOPd0iP8wzYKHRTOmS7wEXrX/OptbM3MZag40qQL/SI34hlZWB69GV9Ct3GOgqWsf6y4AxjLqa/Kt5bU7nnKMXFq0NRr/oVoPQqIUThgmgV0ukaYi4DjVmucDKydvhY+WBmYVDmf0ghOkG11oJdoFnufBRlTjq6YvPyAEVLpSlsckMNC2sPYvfO5xpKzUHMfyLv0=;xDo4TREMSwWl55iWuGTvwg=="
 ---
