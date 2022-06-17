@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necrom
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/"
 type: article
 quality: 144
-heat: 384
+heat: 404
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/NoqcffDZLYNk4mvvSTXRcn-1200-80.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 Necromancer class guide – skills and summons explained"
+    excerpt: "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ..."
+    publishedDateTime: 2022-06-16T16:45:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 is out next year, confirms Necromancer class and makes it sound rad as hell"
     excerpt: "Diablo 4 is coming out some time in 2023, plus the classic Necromancer is confirmed as the fifth and final playable class."

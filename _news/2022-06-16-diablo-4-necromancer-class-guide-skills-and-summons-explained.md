@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
-excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
-publishedDateTime: 2022-06-12T12:19:00Z
-originalUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
-webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
-ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
-cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+title: "Diablo 4 Necromancer class guide – skills and summons explained"
+excerpt: "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ..."
+publishedDateTime: 2022-06-16T16:45:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
+webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
 type: article
-quality: 98
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Daily Express
-  domain: express.co.uk
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
-    width: 590
-    height: 350
+  - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -71,6 +69,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/2wRccKM4ZFhLlLXSKGghGIQ_8PQ=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70968903/vlcsnap_2022_06_12_14h01m57s096.0.png"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
+    excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
+    publishedDateTime: 2022-06-12T12:19:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 98
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
+        width: 590
+        height: 350
         isCached: true
   - title: "Diablo 4 Necromancer announced with new gameplay footage"
     excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
@@ -142,20 +156,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 Necromancer class guide – skills and summons explained"
-    excerpt: "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ..."
-    publishedDateTime: 2022-06-16T16:45:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 is out next year, confirms Necromancer class and makes it sound rad as hell"
     excerpt: "Diablo 4 is coming out some time in 2023, plus the classic Necromancer is confirmed as the fifth and final playable class."
     publishedDateTime: 2022-06-12T12:06:00Z
@@ -198,6 +198,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "FrmtCn6uPLkqVjV47v38CrX/iQZwJ5MSorAS4K5ESSg6cLYPu6IGLucU0RQaTI/usfdDgzedyoPx1xh2VWReFLW2JQ9SfYEOBQ3aRZsLxijMd0y9qtpnsgmpeiHpgbpDYmOjXi9tiHqscZk6Mz27+OHzOzyLubvw8RSiZFtnrF2K04NIoXOmUhgxqyvxsw0Y3FkikHB7vnLQqcMd1DVHBWRBIGMDLRBVZ16UCkIzeTIol3w8YpmT1Z32S3lYLXuqQ67D60CQ0z4ovi6Ky6KwjsOB3r3iqLUMDeZZuvPVGYhShQcCKn5FqvJY6ehemCZe8fSRfuvDqL49DdRVdBfIW3PO41V7pAX7bMlenY4ycRA=;LCbMK9zBbQ1ngd8ZU3nk1g=="
+secured: "LZe2LJD2/UxlGkOxkKAlyjgQvJdOHbIhVuvCVJZWQpp0/Xw1vlU1mbqjv33oKycEHdWQYze5zTOsFoYFSYtQwvkbAS3s6YVbD3N0B79aI8MW7NVRxieClX3qF5Ic1YGBxU3h+TVWqlFTpgoiB2X54II3eJFVQHIAsD02DpcX1k7S6BAWVQRd7s1Ky41qbJd27NSXdBz0KrlrPLyz6AkISA768HhUfjL2ZjYqW40uBhkXzGLBkF9/PvL0jXEy8/iolRdyPKMbsZfNB3sboH2cZ94NtFLf8hMQSMCHhji4RD9jFBcyasrif5k3hAXQB8U1zaaJBhX5NDdTOjLAUfSyyy4Smu9Vv7fluLQJ0l3bQTU=;cEl36JCZUS9OE9mmfKVF2w=="
 ---
 
