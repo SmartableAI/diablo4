@@ -40,6 +40,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "How long is Diablo 4? Main campaign length & time to beat"
+    excerpt: "If you're wondering how long will it take to complete the main campaign of Diablo 4 with story details, here's everything you need to know."
+    publishedDateTime: 2022-06-20T04:23:00Z
+    webUrl: "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/"
+    ampWebUrl: "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp"
+    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 107
+    images:
+      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/20/diablo-4-campaign-length.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 Level Cap And Game Length Revealed"
     excerpt: "Diablo fans were given a look at the upcoming Diablo 4 in action at the Xbox Bethesda Games Showcase. Now, the game’s director, Joe Shely has revealed in an interview with Gamespot how long players ..."
     publishedDateTime: 2022-06-16T16:54:00Z
