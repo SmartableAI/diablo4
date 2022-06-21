@@ -2,26 +2,20 @@
 category: news
 title: "Diablo 4's campaign will last around 35 hours, Blizzard confirms"
 excerpt: "Diablo 4's game director has confirmed that the main campaign is around 35 hours long. Shely revealed that Diablo 4 will take around 35 hours to complete. Elaborating on the campaign, he describes it ..."
-publishedDateTime: 2022-06-17T06:36:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4s-campaign-will-last-around-35-hours-blizzard-confirms/"
-webUrl: "https://www.gamesradar.com/diablo-4s-campaign-will-last-around-35-hours-blizzard-confirms/"
+publishedDateTime: 2022-06-17T06:36:52Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-campaign-will-last-around-35-hours-blizzard-confirms/ar-AAYADoP"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-campaign-will-last-around-35-hours-blizzard-confirms/ar-AAYADoP"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/P7nU4LLk8aUFZ6XZdt3ge7-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Diablo 4 will have an in-game store, job ad confirms"
@@ -39,6 +33,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "sFLMpPEXS6cclUL1KWcv2fV0UcFHiEJi3z4gBhmJ9euNKEhd4VS9OL2Zz96z2ts35DZbYKw2X41YDvLUChY66LcsOyOz8jHfLfxcAlZf8pXtcQ0uZ3uaCO2sVudY3THvpf67OonY31ku91U2X47VzjfGagbkbMkdSMKH3LB+DRHdeiTtMJ/T6U31LrHHsaygIbBEqs0/YZef1zvRs2dyrCrwd4eBWGJ4sMKty/EpJjsN9O7vICysdwq82Ezl3DXQzVDKO1Qd10H5h7iVhuTVf5C1B1UiBK71YAFmvFJoSrT+FGt6RM2UVIS/04PkZ1bV0Wq6OSyz0tik1DVZfDI0thji+tS67hRNqu30Xmo+0dg=;H4IKbwVEozyykqn3A3fimQ=="
+secured: "qdjnVLIy7ULB8aUIB4NTEdduGemSk5mq6FhBhhZqSmTGZ9u/deBe11tGV19PmehPONOtoOTxllRXgWMnBtnlFP2qqfqo6EzL0td8DFc98kI4Te37YNz9wPMZtHHjw217nOfdwwH0WZgEL+5icgihrXIuw4DS0ATZ8kI2ZcfCfledUv1mI/wQ2SV2AwZcei6SBkp0Pw/sBJbcTwtPFZJ/8W0k8mNpAtSL0tcSf782U+G8/30XWlE3JLcCKMu0SSjRebJNg1r8H0i+VsHbfbsgl4GVeFp7xJkw5iwIzr1E0ftFhFaA9kl8IcF59pLM/AUZ/wOk6GLrInZEdWxgrq1z1KsDIc1U+lnNUGDwnPfRNgU=;Dn29lnImQ6cZM7yt9Zy1FQ=="
 ---
 

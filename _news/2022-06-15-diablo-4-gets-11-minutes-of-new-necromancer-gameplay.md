@@ -18,19 +18,21 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay"
-    excerpt: "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go."
-    publishedDateTime: 2022-06-12T11:03:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay"
+  - title: "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood"
+    excerpt: "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ..."
+    publishedDateTime: 2022-06-21T08:00:00Z
+    webUrl: "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/"
+    ampWebUrl: "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/"
+    cdnAmpWebUrl: "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
+      name: Blizzard Watch
+      domain: blizzardwatch.com
+    quality: 91
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/F23Mq3DqQ9jTv5GpxkPgZi-1200-80.jpg"
-        width: 1200
-        height: 671
+      - url: "https://cdn.blizzardwatch.com/wp-content/uploads/2022/06/D4NecroHeader.png"
+        width: 675
+        height: 380
         isCached: true
 
 secured: "S/Q85afyJ9iHTNzLw/FScpocTbp7uChVoKMj0gfLCMYU8sG2Cxx9uOY55U29Q4ey+YEM8Xw39MaQB9n6iiA4BP/4uehrnKVepbjrunTtqz6yraZ4lIwSuxWM5Vypwm2otcanGza3OK/w+DK3lUAwCUAm80s1z+VHoXpJmev25eKiZEXfuQMZEitduWMUzWAfZcATgQmntRskTprB+wZE3b480oJVd3goAVntzZxKDCaQeyrWIPcwv4/A6qTfF0c5Adn+Z4Pfz5m5kbh2yHAzkogXzGzTTQ3h5zAmwXIiPMPvMN3YzP6YA3C1LswprE7ZP4X1RleuedzRdMnvhYMqJjc5g+ZSl/mzngFQr5b5sUI=;cY8ZMfOId+vr/K2+L5frUw=="
