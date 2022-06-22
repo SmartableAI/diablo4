@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-17T06:36:52Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-campaign-will-last-around-35-hours-blizzard-confirms/ar-AAYADoP"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-campaign-will-last-around-35-hours-blizzard-confirms/ar-AAYADoP"
 type: article
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: GamesRadar on MSN.com
@@ -14,6 +17,22 @@ provider:
 topics:
   - Diablo 4
 
-secured: "CZKxdXWU/eZX96BQDY98e+ORYh4wg2hFRqxaNqlneXNOe35ONJ7GoYt3NF16k0rCtfXntXsuafZGSJBF+NDo/4M03IIsTglsE5NwvUYw+iQUywLirGlMB/nHW5FXsrG5PgAs5o0B3+8yN9yHOUDSusOV5Sge6Oj9yZqGnr8Jzgb2N/sxEfk5NsquvMhRxLQ1SbIZv58aV0tvuxvTh63bFwdw6vo+RosYOk1t6GAUSQoPh2bbw6Z8Wg1UmoxWRUx83ICGt3jtCJQRAKYTtzzOc9TnrAfdkgGXzqJiouhc6PMuUgMGZGmOjzSNFrOO6MdzPSK7JwyeuzFXmdFLz8nAyyqtSgUC1h7qWPz5DDibRbI=;AoHBgdASU8n6wL0CJVwlCg=="
+related:
+  - title: "Diablo 4 will have an in-game store, job ad confirms"
+    excerpt: "It’s now confirmed, perhaps to no one’s surprise: there will be an in-game Diablo IV store when the RPG game finally releases. Activision Blizzard is currently hiring someone to manage this “Diablo IV ..."
+    publishedDateTime: 2022-06-11T09:57:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/in-game-store"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-in-game-store.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "wnqSgc7EzeMzLWWH2vdZzsrf9MfBqu+pMltPW4gT1wg14w6VFC7NUhn4KOsWA/7Cl6m1KObH2H3AbwEmsah7cSloYerbhXlvr3VYK6KSRIqn+f84kORUVbskIe6TEIvxrqd6j4Jrxcipap54gn1wirMzn33JsBa1R2DfredWApVj1uPwAflegx3rLW6EIeUdCY5HkLqNA4Lr+w1jG0CQXP5GVEFWV86KPDRw0r5IWaOo0EZ4FiXfsN8oSvVc99qH5+yV0RrGnXeX/xv0xG+Yo2y9yO5o84IbYjhL82jKrkaog8YBNiieAmjbJ0ojamPXkouIPccHbWSXCMu03kMosuKXK9GQo1SQRY5ED1iIukQ=;ZXstJ5JjpMSv8tya6fXkpQ=="
 ---
 
