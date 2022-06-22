@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Necromancer Class Revealed for Diablo 4!  Release Window confirmed!  Diablo IV Announcement Reaction"
-excerpt: "Today we reacted to the live Diablo 4 reveal during the Xbox and Bethesda event! Join this channel to get access to perks: ..."
-publishedDateTime: 2022-06-12T18:41:22Z
-originalUrl: "https://youtube.com/watch?v=7R2h3Azpupk"
-type: video
-quality: 122
+title: "Diablo 4 reveals Necromancer class as fifth and final class, playable in 2023"
+excerpt: "Today, during the Xbox Bethesda showcase, more was revealed about the upcoming Diablo 4 franchise, including the reveal of Necromancer as the fifth and final class of the game, which will be playable ..."
+publishedDateTime: 2022-06-22T14:41:08Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-necromancer-class-as-fifth-and-final-class-playable-in-2023/ar-AAYnzs5"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-necromancer-class-as-fifth-and-final-class-playable-in-2023/ar-AAYnzs5"
+type: article
+quality: 64
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7R2h3Azpupk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: Rizarjay
-  domain: youtube.com
+  name: Try Hard Guides on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed"
@@ -40,6 +33,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png"
         width: 640
         height: 360
+        isCached: true
+  - title: "Necromancer Class Revealed for Diablo 4!  Release Window confirmed!  Diablo IV Announcement Reaction"
+    excerpt: "Today we reacted to the live Diablo 4 reveal during the Xbox and Bethesda event! Join this channel to get access to perks: ..."
+    publishedDateTime: 2022-06-12T18:41:22Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Rizarjay
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Diablo 4 coming next year, Blizzard reveals Necromancer class"
     excerpt: "Diablo 4 will release sometime in 2023, Blizzard Entertainment announced Sunday during the Xbox and Bethesda Games Showcase. The new trailer for the action RPG revealed the Necromancer, the game’s ..."
@@ -198,16 +205,7 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Diablo 4 reveals Necromancer class as fifth and final class, playable in 2023"
-    excerpt: "Today, during the Xbox Bethesda showcase, more was revealed about the upcoming Diablo 4 franchise, including the reveal of Necromancer as the fifth and final class of the game, which will be playable ..."
-    publishedDateTime: 2022-06-22T14:41:08Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-necromancer-class-as-fifth-and-final-class-playable-in-2023/ar-AAYnzs5"
-    type: article
-    provider:
-      name: Try Hard Guides on MSN.com
-      domain: msn.com
-    quality: 64
 
-secured: "+YajYY+awqCQVdKTZSSqROhXsH8nsASZ2Y99bDpbBvqdjxIQe9bn98LN1kT/MT7YJKA8TvhXqlzNgV3qSso+zXXP1jNlRWAkIME+SLYLCgbqNYrWORH9KrKc+qx1eUdepREaqVRdBpHFGT2FBHYo0Z59Mfr5XiPoMOajx9kMHRGg98QtaHgtbqg9TGb9ty2Wa+yVl7AQMLX/W8jrSLk2ug4oxTWhZ8IHjzsbHpcg8jy1Yvf0q6pHQvLzBMG84ewSwzbAqzil3B7+BW9SlQZYSa/nbuVgbmZcuI7tL40oGAaGODHPvRK6kOXjSTBJFpmMuvNh4veqknLpa2etODz7uaDJY+piRm3LB6uhzZq0CGOE3xYl4acrNr1tbOqIAl8zX9wkPD/r0yDtqfoUW+pOLw==;IY6xxJKazQZbJGKQREoZDQ=="
+secured: "htjepIrCcKUFWiNuixsOcQZ37TlC2xwAXbqxRATTSuEfr1PO+ym3yH/u02VP9foGPgmlYW/Ozum5JeOF5uIX5WLWeDaKBAHlctGKPeaSKMqPT52/s0ow+TQU4JJaFQmWvHAoVg4E6SsirhAh4TAzqXxgjNIG+qc+S4NNCGMBsWjZrbYCzm3gIi9XA7kAjobdZsZptBWT5NBkwd6LHI4kx3HtkjHN6m2gfY1FkYAerMXGYHv6g3L8SX8hXBJUc17RzwbTCZsVmHS1yEva5Y6sSg6Lj58wXOrXwH88NFVTRKMP7HKTRN2824BI/7+cn3aDsNwpc/DERnzK+6E7PpXZY15bll07qNBzc8zUI1hoMYA=;gpFJBesgjEi8s5lH+hONxQ=="
 ---
 

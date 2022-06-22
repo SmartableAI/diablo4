@@ -197,6 +197,15 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Diablo 4 reveals Necromancer class as fifth and final class, playable in 2023"
+    excerpt: "Today, during the Xbox Bethesda showcase, more was revealed about the upcoming Diablo 4 franchise, including the reveal of Necromancer as the fifth and final class of the game, which will be playable ..."
+    publishedDateTime: 2022-06-22T14:41:08Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-necromancer-class-as-fifth-and-final-class-playable-in-2023/ar-AAYnzs5"
+    type: article
+    provider:
+      name: Try Hard Guides on MSN.com
+      domain: msn.com
+    quality: 64
 
 secured: "FrmtCn6uPLkqVjV47v38CrX/iQZwJ5MSorAS4K5ESSg6cLYPu6IGLucU0RQaTI/usfdDgzedyoPx1xh2VWReFLW2JQ9SfYEOBQ3aRZsLxijMd0y9qtpnsgmpeiHpgbpDYmOjXi9tiHqscZk6Mz27+OHzOzyLubvw8RSiZFtnrF2K04NIoXOmUhgxqyvxsw0Y3FkikHB7vnLQqcMd1DVHBWRBIGMDLRBVZ16UCkIzeTIol3w8YpmT1Z32S3lYLXuqQ67D60CQ0z4ovi6Ky6KwjsOB3r3iqLUMDeZZuvPVGYhShQcCKn5FqvJY6ehemCZe8fSRfuvDqL49DdRVdBfIW3PO41V7pAX7bMlenY4ycRA=;LCbMK9zBbQ1ngd8ZU3nk1g=="
 ---
