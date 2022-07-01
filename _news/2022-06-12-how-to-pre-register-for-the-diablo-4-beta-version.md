@@ -68,15 +68,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
-    excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
-    publishedDateTime: 2022-06-11T18:44:00Z
-    webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 52
 
 secured: "0rQF2ViYfYbqq4RYktiZlclmyshj2DoB82uvQNKio0ZR+gE2UlhsrZETNAusmIgvYeYJBhdU6QJ6B2DTyX9lMs5aUel6hKvUdYvC/cjH6haJLtvUOF3OA7MqyPRwsK6yg8gji+OeArKQe7ltgxg9HNvm7qxiZQ9oO5seuIQ3sdJ/MITeJj8BIn99O6TUTIjNt9uNDGA/QQYnzxt91cwZ+c7PMthBBkUI3IgL40AuHGw9SaaQTiCdvrMw/Lf916zP6+noL7/X2ko0H1POoFypRYFl2xb9z9KSvcF1cMrvJ+5dSeCpSv2KNhCQtHFgtqf9LPI++2lJ/xTl3PCtJjABxwEMzpQE48xzaolmnf59yK0=;1OOlj2RxFgicSr/1ay05WA=="
 ---

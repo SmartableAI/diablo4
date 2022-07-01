@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-n
 webUrl: "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/"
 type: article
 quality: 127
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Diablo IV to skip PS4, Xbox One, beta pre-registrations now live"
-    excerpt: "Our speculation indicates Diablo 4 could release in 2023 to coincide with Activision-Blizzard's massive growth forecast for that year and beyond. Blizzard has confirmed Diablo IV will have ..."
-    publishedDateTime: 2022-06-11T18:44:00Z
-    webUrl: "https://www.tweaktown.com/news/86804/diablo-iv-to-skip-ps4-xbox-one-beta-pre-registrations-now-live/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 52
 
 secured: "/yTK453rla8e/ylEozDa4UUnOXD+zc+dLq3qjiBqREMy2G45tH2i+XrLGZksO3YsuRr3m/jiStGh4omICI09mPr63LuY+wL8lG3/Nie4jrVa5aBMZ9eWGrwqgQFKnjefg6SFEYHoslDeLoA8HsV9TEYoEt6O6IR3imDXkpr4xYuZR3q6fBXaaOvSFClkGJd9LgjD1LiXu58uJG22lQANIwCCRWpQMebiCwSG1Fe60okI5ZXPwOT5qr//NhEi5LTQnerlJmmKE41XkWSZVUgFqJx5xlsV2QIjG9QhjK7O/C+Cs832UsIaeHNFMNORRR1fh8TzbxLXO0tys/IIT9PKDqTQRr+okX4pAwxk9rJfO8w=;idamXvgO6MYOMOx3unaNPQ=="
 ---
