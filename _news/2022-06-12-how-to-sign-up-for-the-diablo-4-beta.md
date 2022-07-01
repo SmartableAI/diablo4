@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to sign up for the Diablo 4 beta"
-    excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
-    publishedDateTime: 2022-06-11T22:40:33Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
-    type: article
-    provider:
-      name: GamePur on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "HPQ+sRG/U9DsF/qgHo4xc0tOlp58UMzW68bc7NiSh58h8pxID3N78/OTIhce82EwR8OOVJRCRDGouE2+ZXDKteEs/vK/yASMfPN+eOC+2zPtJ7/ztMe0Diqdwthl3pr9COe0YVcawzP5dBalytzHJZoG+RKD3I3AklOsmgZxSnl4aOVLENu1qm+L0wEV1XaqO+C+gXfe0R8S6AjXaCE7OWuGlYjdw3dGVfxemTdvykS5XJkmZo+7TdPOZRXeBbtr1dvQOHc5ow3OtzXekmradN/ja18isrzc4KOl6FYEiOtqwWwUupCxyIjZKcITMYjrjNmfakPoc1nxdNk47K+FaMLrnxylIj1fEgQ6vmPhhD0=;lQQZsAhQdzmbTecMJLWbFw=="
 ---

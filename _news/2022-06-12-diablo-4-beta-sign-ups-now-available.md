@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-ava
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
 type: article
 quality: 147
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How to sign up for the Diablo 4 beta"
-    excerpt: "Diablo IV is undoubtedly one of the most anticipated video games coming down the pipeline. While we still are unsure about when the title will actually release as of this writing, there is a chance ..."
-    publishedDateTime: 2022-06-11T22:40:33Z
-    webUrl: "https://www.msn.com/en-us/sports/esports/how-to-sign-up-for-the-diablo-4-beta/ar-AAYmGo7"
-    type: article
-    provider:
-      name: GamePur on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "ioxbUurcow5JJjKkDdiIVx/LclwXJlQA2ZTxtQDRoztIMfuXUflGJsHYn5aaQQpA6mN2cgmJ17YW8yqBbJiM+One2kR+Ws25ichUvjEge2A+FFAa1KAFjElRk21z4YsmFPJayxQMMGjyv0BBm6UG3CcU4YXMYrWsDT3VcuOskfrqMKIRN46GB1ZtMNROKuI1ZqypqhNQTUCc9hcI6IsUN5jB5eJ/C26IW6YCGs2QTHxW8Y1asIHhY/WYGf9qM7tUmWF2BWuvWx8bzQ4skJxdhgYIRP+xo1F6Uh6XoR+VwVqscLz6gdqqb6uPCbWzKB5356kf2Ie7GFFiAfnurZnQvIbHzBPQmWVsK6ghSIHQIjA=;xKEPBQzAkGxdzML0W5x/ZA=="
 ---
