@@ -44,22 +44,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Diablo 4 Update Has Fans Ready to Boycott the Game"
-    excerpt: "A new update out of Blizzard pertaining to Diablo 4 has some Diablo fans worried about the upcoming action-RPG. The update specifically comes the way of the official Blizzard website, where it is ..."
-    publishedDateTime: 2022-06-11T08:35:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-update-reddit-reaction/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-reddit-reaction/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/10/21/84409d83-5f59-434b-8e8a-bc14d328140d/xbox-series-x-controller.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Blizzard Gives Diablo 4 Fans Hope With New Update"
     excerpt: "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ..."
     publishedDateTime: 2022-06-17T09:46:00Z
