@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-n
 webUrl: "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/"
 type: article
 quality: 127
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How to Pre-Register for the Diablo 4 Beta Version"
-    excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
-    publishedDateTime: 2022-06-12T01:58:00Z
-    webUrl: "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://i.ytimg.com/vi/7RdDpqCmjb4/hqdefault.jpg"
-        width: 480
-        height: 360
         isCached: true
 
 secured: "/yTK453rla8e/ylEozDa4UUnOXD+zc+dLq3qjiBqREMy2G45tH2i+XrLGZksO3YsuRr3m/jiStGh4omICI09mPr63LuY+wL8lG3/Nie4jrVa5aBMZ9eWGrwqgQFKnjefg6SFEYHoslDeLoA8HsV9TEYoEt6O6IR3imDXkpr4xYuZR3q6fBXaaOvSFClkGJd9LgjD1LiXu58uJG22lQANIwCCRWpQMebiCwSG1Fe60okI5ZXPwOT5qr//NhEi5LTQnerlJmmKE41XkWSZVUgFqJx5xlsV2QIjG9QhjK7O/C+Cs832UsIaeHNFMNORRR1fh8TzbxLXO0tys/IIT9PKDqTQRr+okX4pAwxk9rJfO8w=;idamXvgO6MYOMOx3unaNPQ=="

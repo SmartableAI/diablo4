@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How to Pre-Register for the Diablo 4 Beta Version"
-    excerpt: "Blizzard Entertainment has recently added a Pre-Register option to the Diablo 4 official webpage, and if you complete the steps, you will have a chance to be included in the upcom ..."
-    publishedDateTime: 2022-06-12T01:58:00Z
-    webUrl: "https://www.dualshockers.com/how-to-pre-register-for-the-diablo-4-beta-version/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://i.ytimg.com/vi/7RdDpqCmjb4/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "ZlJGBSoCRG9uPMsfmSWQG+blR2mLd+kcjbDQihFfk/Hr15/TIucmk7BwpFHpKisrPyGW5ZkoT7hD7MsCkx0+aNvxlLUZ3NA2SdwurR02Dh8BgJyfeYw+L63fMvjUOkkL25CGauYSb0vz8+dJLWNrPcEJp7jBrnOfJj017LneW5CCSbsH6hxMa36GCpysVZArCBUqJO7JsjtzmkRNMozF5WegFcqWSCsKu/jAO4VXRicWy4quQOvXM6BB7BZLhZjZV8iN5amwErkgZSEssMcsOXxCrikbjfsxlFz6uwRrKGftzmGJydgal7yE4eLhsMmytuCYgf/MItg3oVRFM3rqQBEA8q237GqWC0wctkWtjFU=;X4fTrdc3pfSCro97QDWX0A=="
 ---
