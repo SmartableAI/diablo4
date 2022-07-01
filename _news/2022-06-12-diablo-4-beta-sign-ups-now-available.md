@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-ava
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-beta-sign-ups-now-available/1100-6504475/"
 type: article
 quality: 147
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta sign-up page is now live"
-    excerpt: "Pre-registration for the Diablo 4 beta is now open. Whilst there's still no date yet on when the beta will go live, ..."
-    publishedDateTime: 2022-06-12T05:34:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How to sign up for the Diablo 4 Beta"
     excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
     publishedDateTime: 2022-06-12T16:50:00Z

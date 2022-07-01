@@ -40,20 +40,6 @@ related:
         width: 1548
         height: 885
         isCached: true
-  - title: "Diablo 4 beta sign-up page is now live"
-    excerpt: "Pre-registration for the Diablo 4 beta is now open. Whilst there's still no date yet on when the beta will go live, ..."
-    publishedDateTime: 2022-06-12T05:34:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-beta-sign-up-page-is-now-live"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blizzard-announces-joe-shely-as-new-diablo-4-game-director-1633644630309.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Diablo 4: What Classes Are Available?"
     excerpt: "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game."
     publishedDateTime: 2022-06-17T09:47:00Z
