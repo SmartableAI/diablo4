@@ -221,6 +221,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-14-which-classes-are-in-diablo-4-with-the-introduction-of-the-necromancer-we-now-know-all-of-the-games-five-classes.md",
+      "title": "Which classes are in Diablo 4? With the introduction of the Necromancer, we now know all of the game’s five classes",
+      "excerpt": "When Diablo 4 was announced, we only knew about three classes: Sorceress, Druid, and Barbarian. Then we learned about the return of the Rogue, last seen in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-which-classes-are-in-diablo-4-with-the-introduction-of-the-necromancer-we-now-know-all-of-the-games-five-classes/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/",
+      "originalUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2021/03/d4AllClasses.png",
+          "width": 675,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/14/diablo-4-classes/amp/",
+      "publishedDateTime": "2022-06-14T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions.md",
       "title": "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\"",
       "excerpt": "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4.",
@@ -769,7 +811,7 @@
       "originalUrl": "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -862,7 +904,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 302,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -913,7 +955,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1088,48 +1130,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay.md",
-      "title": "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay",
-      "excerpt": "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/F23Mq3DqQ9jTv5GpxkPgZi-1200-80.jpg",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

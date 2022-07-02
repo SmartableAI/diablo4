@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-l
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming"
 type: article
 quality: 162
-heat: 302
+heat: 282
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png"
         width: 880
         height: 400
-        isCached: true
-  - title: "Diablo 4 Looks Strangely Similar to Diablo Immortal"
-    excerpt: "When you’re out in Diablo 4‘s world, you may occasionally run into other players in certain areas. You and those other players will even be able to participate in certain “Local Events” and World Boss ..."
-    publishedDateTime: 2022-06-12T13:38:00Z
-    webUrl: "https://www.denofgeek.com/games/diablo-4-looks-strangely-similar-to-diablo-immortal/"
-    ampWebUrl: "https://www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-gameplay-trailer-diablo-immortal-comparison-features/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 107
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2022/06/Diablo-4-cinematic.jpg"
-        width: 3840
-        height: 2059
         isCached: true
   - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
     excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."

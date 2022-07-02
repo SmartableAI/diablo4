@@ -54,50 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
-    excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
-    publishedDateTime: 2022-06-12T12:19:00Z
-    webUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA"
-    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1624415/Diablo-4-release-date-Necromancer-character-class-open-world-gameplay-how-to-play-BETA/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 98
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Diablo 4 Necromancer Class and Endgame Content Detailed in New Trailer"
-    excerpt: "Diablo 4 players don't really need to worry about the amount of content they are going to get as the developers have prepared tons of activities."
-    publishedDateTime: 2022-06-12T12:14:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-necromancer-class-and-endgame-content-detailed-in-new-trailer/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://www.dualshockers.com/static/uploads/2022/06/Xbox-Bethesda-Games-Showcase-2022-YouTube-Google-Chrome-6_12_2022-1_01_59-PM-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Diablo 4 Release Window Narrows As The Necromancer Joins Roster"
-    excerpt: "Though we still don't know exactly when the game will be released, Blizzard has revealed a general timeframe for when fans can expect to get \"Diablo 4.\" ..."
-    publishedDateTime: 2022-06-12T13:59:00Z
-    webUrl: "https://www.slashgear.com/892813/diablo-4-release-window-narrows-as-the-necromancer-joins-roster/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: "https://www.slashgear.com/img/gallery/diablo-4-release-window-narrows-as-the-necromancer-joins-roster/l-intro-1655063924.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "‘Diablo 4’ reveals final playable class in new trailer"
     excerpt: "During the Xbox and Bethesda Games Showcase, Blizzard Entertainment has shared a first look at in-game footage for Diablo 4, while also revealing that the Necromancer will be the game’s final class."
     publishedDateTime: 2022-06-12T15:21:00Z
@@ -111,20 +67,6 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-2000x1270-1.jpg"
         width: 2000
         height: 1270
-        isCached: true
-  - title: "Diablo 4 is out next year, confirms Necromancer class and makes it sound rad as hell"
-    excerpt: "Diablo 4 is coming out some time in 2023, plus the classic Necromancer is confirmed as the fifth and final playable class."
-    publishedDateTime: 2022-06-12T12:06:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-is-out-next-year-confirms-necromancer-class-and-makes-it-sound-rad-as-hell"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 80
-    images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-4-necromancer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-necromancer.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "How Diablo 4's Necromancer Class Changes From Past Games"
     excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
