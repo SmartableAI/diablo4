@@ -9,7 +9,7 @@ ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.a
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
 type: article
 quality: 107
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.thesixthaxis.com/wp-content/uploads/2019/11/diablo-4-hero.jpg"
         width: 1260
         height: 500
-        isCached: true
-  - title: "Diablo 4: everything you need to know about multiplayer and how to sign up for the beta"
-    excerpt: "Microsoft’s big showcase event detailed a bit more about Diablo 4, but will the game feature crossplay? The Xbox Series X version of Diablo 4 was shown off in detail at the Xbox & Bethesda Showcase at ..."
-    publishedDateTime: 2022-06-13T02:21:19Z
-    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/ar-AAYoNum"
-    type: article
-    provider:
-      name: Metro on MSN.com
-      domain: msn.com
-    quality: 79
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYoBJr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ZGeIsI0JMbpGWdv5RirRd80HypJ0OI5YlMT2TO4qOhJuuSMR+QWcVNCV4v/exJVTsAs/orCpwR2RsJqpqdjEfIMnqVAc76dIsXzSVZChKkF/MF1QM5KGBuv3y+2UkjgQUJ+r5xv+xx290rCMMsPXqvoX6/Ixp6bfwtO4Klcp+NJIpaIzaFTZFuvY5mzCop/P9/P/Ok5TWOxlLsqSI8bdtDl7tVMgDwxtmiSWklTpYu6oKojUWOrToYT8eUyaKxgO2sSxxO0jnAVD1COXQMT+5oKWSdOkiuHZRVcj5H2tyIzCJH+IpBoJGRKa7mecBM2sFw38aubLo9cXskGgVZKeKC9X27xxcr9PbsQ3I8yiv7w=;OhkSlAaVbky9AsQE0fdqAg=="

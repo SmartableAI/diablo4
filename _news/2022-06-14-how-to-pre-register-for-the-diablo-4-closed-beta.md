@@ -60,20 +60,6 @@ related:
         width: 1260
         height: 500
         isCached: true
-  - title: "Diablo 4: everything you need to know about multiplayer and how to sign up for the beta"
-    excerpt: "Microsoft’s big showcase event detailed a bit more about Diablo 4, but will the game feature crossplay? The Xbox Series X version of Diablo 4 was shown off in detail at the Xbox & Bethesda Showcase at ..."
-    publishedDateTime: 2022-06-13T02:21:19Z
-    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/ar-AAYoNum"
-    type: article
-    provider:
-      name: Metro on MSN.com
-      domain: msn.com
-    quality: 79
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYoBJr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZlJGBSoCRG9uPMsfmSWQG+blR2mLd+kcjbDQihFfk/Hr15/TIucmk7BwpFHpKisrPyGW5ZkoT7hD7MsCkx0+aNvxlLUZ3NA2SdwurR02Dh8BgJyfeYw+L63fMvjUOkkL25CGauYSb0vz8+dJLWNrPcEJp7jBrnOfJj017LneW5CCSbsH6hxMa36GCpysVZArCBUqJO7JsjtzmkRNMozF5WegFcqWSCsKu/jAO4VXRicWy4quQOvXM6BB7BZLhZjZV8iN5amwErkgZSEssMcsOXxCrikbjfsxlFz6uwRrKGftzmGJydgal7yE4eLhsMmytuCYgf/MItg3oVRFM3rqQBEA8q237GqWC0wctkWtjFU=;X4fTrdc3pfSCro97QDWX0A=="
 ---

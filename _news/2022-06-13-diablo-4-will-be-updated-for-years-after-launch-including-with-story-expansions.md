@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-updated-years-after-launch-s
 webUrl: "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions"
 type: article
 quality: 122
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 DLC includes cosmetics and “full” story expansions"
-    excerpt: "The surprise Xbox showcase blowout has given us info on Diablo 4 DLC, and it'll restrict microtransactions to cosmetics - with proper story expansions coming ..."
-    publishedDateTime: 2022-06-13T03:35:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/dlc-expansions"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-story-expansions.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 will get \"full story driven expansions\""
     excerpt: "Blizzard has confirmed that Diablo 4 will receive full story expansions as DLC after launch. \"To be clear, D4 is a full price game built for PC/PS/Xbox audiences,\" franchise GM Rod Fergusson says in a ..."
     publishedDateTime: 2022-06-13T14:58:48Z
