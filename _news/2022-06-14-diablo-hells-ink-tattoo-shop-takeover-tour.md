@@ -7,8 +7,8 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink
 webUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 242
+published: true
 
 provider:
   name: Blizzard
@@ -28,65 +28,51 @@ images:
     isCached: true
 
 related:
-  - title: "All Hell Breaks Loose in 2023—Diablo IV is Coming"
-    excerpt: "Diablo IV is set to raise Hell’s temperature to a new level. Join us around the campfire to learn what’s coming in this next generation installment of the Diablo series."
-    publishedDateTime: 2022-06-12T18:03:54Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming"
+  - title: "Can We Trust Blizzard With ‘Diablo 4’ After ‘Diablo Immortal’?"
+    excerpt: "There’s one question I’ve been asked a lot over the past week, and one I’ve asked myself: Given the current state of Blizzard, can we trust that Diablo 4 will actually deliver, given recent events?"
+    publishedDateTime: 2022-06-16T07:05:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/amp/"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says"
-    excerpt: "Diablo 3 did not have paid cosmetics. Still, Diablo 4 sounds like a far cry from the business model of Diablo Immortal, a game primarily designed for mobile devices but which also launched (in beta) ..."
-    publishedDateTime: 2022-06-13T09:30:00Z
-    webUrl: "https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-    ampWebUrl: "https://www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
+      name: Forbes
+      domain: forbes.com
     quality: 107
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3-vFTcYMg_1TSxUu4A2spIZldh4=/0x0:1920x1013/1400x933/filters:focal(810x100:1116x406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70971263/TSUVHT8NTASR1617672542767.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://imageio.forbes.com/specials-images/imageserve//60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 553
         isCached: true
-  - title: "Diablo Immortal’s sins could doom Diablo 4 as well"
-    excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
-    publishedDateTime: 2022-06-14T08:07:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
-    ampWebUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
+  - title: "Diablo 4 devs respond to microtransaction fears after Diablo Immortal backlash"
+    excerpt: "Amid widespread backlash about Diablo Immortal's pay-to-win elements, Diablo 4 devs have addressed concerns regarding microtransactions."
+    publishedDateTime: 2022-06-13T09:14:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/"
+    ampWebUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
+    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
     type: article
     provider:
       name: Dexerto.com
       domain: dexerto.com
-    quality: 107
+    quality: 103
     images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-immortal-diablo-4-microtransactions-1.jpeg"
+      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/13/diablo-4-devs-talk-mtx-concerns.jpeg"
         width: 1600
         height: 900
         isCached: true
-  - title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
-    excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
-    publishedDateTime: 2022-06-13T09:45:01Z
-    webUrl: "https://www.msn.com/en-gb/finance/technology/blizzard-promises-diablo-4-will-be-the-opposite-of-diablo-immortal/ar-AAYpAf9"
+  - title: "Diablo 4 won't have Diablo Immortal's horrible microtransations, Blizzard insists"
+    excerpt: "Diablo 4 won't share Diablo Immortal's monetization systems, Blizzard has confirmed. Some have criticized the game's content for just not being all that fun or engaging. Others have become bitter ..."
+    publishedDateTime: 2022-06-15T04:00:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-wont-have-diablo-immortals-horrible-microtransations-blizzard-insists"
     type: article
     provider:
-      name: Metro on MSN.com
-      domain: msn.com
-    quality: 87
+      name: TechRadar
+      domain: techradar.com
+    quality: 82
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYpAeW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1257&y=343"
+      - url: "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Diablo IV will be a 35-hour experience, says Blizzard"
     excerpt: "We’ve worked really hard on the campaign in Diablo 4 and we’re really proud of how it’s developing.” Shely says that, by the time players finish the campaign, they will be around level forty-five. Of ..."
@@ -102,15 +88,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
-    excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
-    publishedDateTime: 2022-06-13T12:59:02Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
-    type: article
-    provider:
-      name: SVG on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "rDp4kiXp1AluRj4O5moj8a4aIdMNgE6/jjuAzaDBcYu94vcly33dj1xjKuqf4p1hF6gN8OsjV6q0UYzThB2zZW7BqAlr6b9Pag8CSHKaGQo3T2VbOrGPUHMmszslw+4C8E9hhkox0r/mOEGtezDAPMoYqNFC7SdRKa1O1bOcHVac3gtVlUkXZu6If+y9hyTjeBc8xFuKrxFDxNpH5yppaX8zOV2wzypDRXZT3BEY4DKFuY5MwYoJ/S7y47QFiV8rnWW/srZ6yiTvaBCPL9Z8+Eh1zF5H/584e36OniWzvd6tDJARylDmmF4UAQ4qOcCzPyt0dpGEYtUxkqG3s5+AIeWVHHdeST7JYJZi3/pLK5M=;kimAOBoeNcFMNtEi+GWXOg=="
 ---
