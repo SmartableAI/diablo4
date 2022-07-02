@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Necromancer Class Revealed for Diablo 4!  Release Window confirmed!  Diablo IV Announcement Reaction"
+    excerpt: "Today we reacted to the live Diablo 4 reveal during the Xbox and Bethesda event! Join this channel to get access to perks: ..."
+    publishedDateTime: 2022-06-12T18:41:22Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Rizarjay
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "YXDVCIsVktRxf1xO5En+fuE1a3MQkprWxJLyHotzpGaTy2qUwf9dH3JLeSRJpsMnmb1pZLSqin/kTXt4lb8uoifSqdzB7nbg0k7cyRd4Kyj9wSLwfxl1mI4cP1eicIycM3Sa5Ya/zHm6wQ18BjzdZSFLoMx6LySJCFSxMRH8RqsVIHouzKz5KiOcFuT4mzDHECZy/iJERdD2sT99b1KT88HL99vMFVIYGXpRifOyjF+V8ZEXPeBNguCvGHWrF0lIiHXS/VefVjV7M41oO3LHvpIdtf5ZMFlbVbn2Y+M2li5GwenZgVv+CUwKUOioCLS9IWfB4X3EYkP6JgeveReVqhwHFR6lW1VZX3VZCkRk9GDhx5+4tibISoGfbI/sccGQtXLzScYZd/jRCKLNQVkkwgnpU/n1YS+R/QVD+uQ8eCKTR1kt6XmnQhFcg1nLH1AL;sZlfHjMwPOuy/rMJwzHwuw=="
 ---

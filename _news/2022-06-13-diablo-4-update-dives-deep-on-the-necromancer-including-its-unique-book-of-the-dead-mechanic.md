@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/"
 type: article
 quality: 136
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Diablo 4's Necromancer Class Changes From Past Games"
+    excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
+    publishedDateTime: 2022-06-13T07:09:54Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "bwqp5c0xLwRUheuEufDfMQ/CU3VfgHQmcKs9vTeaD4PPnxivN+RMNA2m+oQjMLdwpXb3ghq5zR87KCymAmPzVxMpf8u1nKA0jaI4MRCQMfSA/QpxSikNJ71o/leH8Jyh9ECZ3rgZAQ/ETc/8vNwPr7pmEDej0gEWIoW0vF0D00UBfZl9XPCED1kyLDyAnC/2GVIJJBcBo/jZffukUJt8ELMedNHVQhf1+KTBmMv9biGoxuqeZZYYoTBaYoyctOcESzS7yXrq3wBcR7PiCCDpcfMTEOHR+otMP+jQaENPO73/6ECLOTFyHx3e3uhx/1a5Ca671cBIcWnZ9Ia8025UP2cYclYd8/f5TzFMs6VcOEA=;yeKp0JEoHsUaT1guh2rtRA=="
 ---

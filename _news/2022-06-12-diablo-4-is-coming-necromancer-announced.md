@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-12T20:17:59Z
 originalUrl: "https://youtube.com/watch?v=K43JIZZ4j50"
 type: video
 quality: 137
-heat: 177
+heat: 197
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K43JIZZ4j50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -48,6 +48,20 @@ related:
       name: StewGaming | Diablo Immortal
       domain: youtube.com
     quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Necromancer Class Revealed for Diablo 4!  Release Window confirmed!  Diablo IV Announcement Reaction"
+    excerpt: "Today we reacted to the live Diablo 4 reveal during the Xbox and Bethesda event! Join this channel to get access to perks: ..."
+    publishedDateTime: 2022-06-12T18:41:22Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Rizarjay
+      domain: youtube.com
+    quality: 122
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
