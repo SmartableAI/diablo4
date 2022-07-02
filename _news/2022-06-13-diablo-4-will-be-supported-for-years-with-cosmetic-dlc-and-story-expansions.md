@@ -18,17 +18,33 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions"
-    excerpt: "Following the release of new gameplay for Diablo 4 at the Xbox Bethesda Game Showcase, franchise lead Rod Fergusson took to Twitter (below) to answer some fan questions regarding ..."
-    publishedDateTime: 2022-06-13T05:44:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions"
+  - title: "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\""
+    excerpt: "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4."
+    publishedDateTime: 2022-06-14T15:41:00Z
+    webUrl: "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 122
+      name: as.com
+      domain: as.com
+    quality: 101
     images:
-      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/15/news/1655246076_110120_1655246244_portada_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Diablo 4 Will Be a Full Price Release with Premium Cosmetic Items and Expansions"
+    excerpt: "Blizzard has opened up on the model that it's using for Diablo 4. Just in case there was any doubt, Diablo 4 will be a full price release. There were some rumours floating around that it could end up ..."
+    publishedDateTime: 2022-06-13T07:15:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 82
+    images:
+      - url: "https://images.pushsquare.com/2020327ad5105/1280x720.jpg"
         width: 1280
         height: 720
         isCached: true
