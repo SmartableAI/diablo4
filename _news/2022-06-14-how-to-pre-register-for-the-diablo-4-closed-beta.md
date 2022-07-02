@@ -30,33 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 closed beta pre-registration is now open"
-    excerpt: "It's the first we've heard about someone outside of Blizzard actually playing Diablo 4 in a bit, but does track with the suspected release date of 2023. For more on that, check ou ..."
-    publishedDateTime: 2022-06-12T08:15:00Z
-    webUrl: "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/"
+  - title: "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5"
+    excerpt: "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ..."
+    publishedDateTime: 2022-06-13T11:03:00Z
+    webUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 127
+      name: as.com
+      domain: as.com
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg"
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg"
         width: 1200
-        height: 686
+        height: 675
         isCached: true
-  - title: "Diablo 4 Beta Pre-Registration Open On PC And Consoles"
-    excerpt: "Activision Blizzard just opened the pre-registrations for the beta of Diablo 4 on PC, PlayStation 5, and Xbox Series X/S."
-    publishedDateTime: 2022-06-12T09:25:00Z
-    webUrl: "https://gameranx.com/updates/id/315388/article/diablo-4-beta-pre-registration-open-on-pc-and-consoles/"
+  - title: "How to sign up for the Diablo 4 Beta"
+    excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
+    publishedDateTime: 2022-06-12T16:50:00Z
+    webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
     type: article
     provider:
-      name: Gameranx
-      domain: gameranx.com
+      name: Dot Esports
+      domain: dotesports.com
     quality: 87
     images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
+        width: 768
+        height: 403
+        isCached: true
+  - title: "Diablo 4: everything you need to know about multiplayer and how to sign up for the beta"
+    excerpt: "Microsoft’s big showcase event detailed a bit more about Diablo 4, but will the game feature crossplay? The Xbox Series X version of Diablo 4 was shown off in detail at the Xbox & Bethesda Showcase at ..."
+    publishedDateTime: 2022-06-13T02:21:19Z
+    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/ar-AAYoNum"
+    type: article
+    provider:
+      name: Metro on MSN.com
+      domain: msn.com
+    quality: 79
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYoBJr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZlJGBSoCRG9uPMsfmSWQG+blR2mLd+kcjbDQihFfk/Hr15/TIucmk7BwpFHpKisrPyGW5ZkoT7hD7MsCkx0+aNvxlLUZ3NA2SdwurR02Dh8BgJyfeYw+L63fMvjUOkkL25CGauYSb0vz8+dJLWNrPcEJp7jBrnOfJj017LneW5CCSbsH6hxMa36GCpysVZArCBUqJO7JsjtzmkRNMozF5WegFcqWSCsKu/jAO4VXRicWy4quQOvXM6BB7BZLhZjZV8iN5amwErkgZSEssMcsOXxCrikbjfsxlFz6uwRrKGftzmGJydgal7yE4eLhsMmytuCYgf/MItg3oVRFM3rqQBEA8q237GqWC0wctkWtjFU=;X4fTrdc3pfSCro97QDWX0A=="
