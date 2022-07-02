@@ -86,20 +86,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4 is coming to PS5 and Xbox Series X as beta signups begin"
-    excerpt: "Diablo 4 beta signups are now available, and it appears that the next iteration in the series will now be coming to PS5 and Xbox Series X. The website also directs players towards a pre-registration ..."
-    publishedDateTime: 2022-06-12T07:44:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-coming-to-ps5-and-xbox-series-x-as-beta-signups-begin/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tkCdQyeFN8DG9gXovvxde6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Blizzard promises Diablo 4 will be the opposite of Diablo Immortal"
     excerpt: "Blizzard general manager Rod Fergusson has taken to Twitter to try and address fan concerns about Diablo 4. One of the big announcements at the Xbox showcase on Sunday night was for Diablo 4, with a ..."
     publishedDateTime: 2022-06-13T09:45:01Z
