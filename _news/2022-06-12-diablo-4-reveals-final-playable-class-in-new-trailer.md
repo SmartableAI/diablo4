@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Diablo 4 coming next year, Blizzard reveals Necromancer class"
-    excerpt: "Diablo 4 will release sometime in 2023, Blizzard Entertainment announced Sunday during the Xbox and Bethesda Games Showcase. The new trailer for the action RPG revealed the Necromancer, the game’s ..."
-    publishedDateTime: 2022-06-12T11:10:00Z
-    webUrl: "https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
-    ampWebUrl: "https://www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/2wRccKM4ZFhLlLXSKGghGIQ_8PQ=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70968903/vlcsnap_2022_06_12_14h01m57s096.0.png"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Diablo 4 release date, Necromancer character class, open-world gameplay, how to play BETA"
     excerpt: "DIABLO 4 gameplay looks absolutely stunning, as the upcoming dungeon-crawler takes centre stage during the Xbox and Bethesda Showcase."
     publishedDateTime: 2022-06-12T12:19:00Z
@@ -85,20 +69,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/Diablo-4-Necromancer-character-class-1624415.jpg?r=1655061545411"
         width: 590
         height: 350
-        isCached: true
-  - title: "Diablo 4 Necromancer announced with new gameplay footage"
-    excerpt: "Blizzard has shown the Diablo 4 Necromancer class at the Xbox Bethesda Games showcase - the fifth and final class for the ARPG game ..."
-    publishedDateTime: 2022-06-12T11:15:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-gameplay"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Diablo 4 Necromancer Class and Endgame Content Detailed in New Trailer"
     excerpt: "Diablo 4 players don't really need to worry about the amount of content they are going to get as the developers have prepared tons of activities."
@@ -128,20 +98,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Diablo 4’s final class revealed in in-depth gameplay trailer"
-    excerpt: "Activision Blizzard may not yet be a part of Microsoft, but that’s not stopped them from rocking up in Microsoft Xbox and Bethesda Showcase to give a chunky gameplay video of Diablo 4 in action."
-    publishedDateTime: 2022-06-12T11:23:00Z
-    webUrl: "https://www.techradar.com/news/diablo-4s-final-class-revealed-in-in-depth-gameplay-trailer"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NoqcffDZLYNk4mvvSTXRcn-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Necromancer class guide – skills and summons explained"
     excerpt: "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ..."
     publishedDateTime: 2022-06-16T16:45:00Z
@@ -170,15 +126,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Chilling Diablo 4 Trailer Reveals 5th and Final Class"
-    excerpt: "Blizzard releases a chilling and spooky new trailer for Diablo 4 that confirms the game's fifth and final playable class."
-    publishedDateTime: 2022-06-12T11:23:24Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/chilling-diablo-4-trailer-reveals-5th-and-final-class/ar-AAYnG9W"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
   - title: "How Diablo 4's Necromancer Class Changes From Past Games"
     excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
     publishedDateTime: 2022-06-13T07:09:54Z

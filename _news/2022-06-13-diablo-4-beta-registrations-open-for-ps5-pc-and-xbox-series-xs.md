@@ -24,65 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Launches in 2023, Coming to PC, Xbox and PlayStation Consoles"
-    excerpt: "Revealed at the Xbox and Bethesda showcase, Blizzard had new gameplay for the highly anticipated Diablo IV, and it was also announced that the game is coming to PC, Xbox and PlayStation consoles in ..."
-    publishedDateTime: 2022-06-12T11:04:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/"
+  - title: "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5"
+    excerpt: "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ..."
+    publishedDateTime: 2022-06-13T11:03:00Z
+    webUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: as.com
+      domain: as.com
     quality: 107
     images:
-      - url: "https://www.cnet.com/a/img/resize/b20a2104c0ec765bc9ffd9fad22ea6c368f0866f/2022/06/12/965f77b9-a69f-4d71-b5bd-0118a44c5d13/diablo4.png?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Every Xbox and Bethesda 2022 Showcase Reveal: From Starfield Gameplay to Diablo 4"
-    excerpt: "The highly anticipated Xbox and Bethesda Showcase has just ended, and we saw some rather remarkable reveals. Just like our breakdown of Summer Game Fest 2022, we've put together a complete list of all ..."
-    publishedDateTime: 2022-06-12T11:42:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/every-xbox-and-bethesda-2022-showcase-reveal-from-starfield-gameplay-to-diablo-4/"
+  - title: "How to pre-register for the Diablo 4 closed beta"
+    excerpt: "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet."
+    publishedDateTime: 2022-06-14T10:34:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 102
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 107
     images:
-      - url: "https://www.cnet.com/a/img/resize/0b81a8f542618e709d40fd6dde91be9796b3fc11/2022/06/12/afb08771-fa71-4264-a8a9-e48907cfe64f/ktytbeesjzlb3gggfuq33e.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Diablo 4 launches for PC, PlayStation and Xbox in 2023"
-    excerpt: "Diablo 4, the game that's not Diablo Immortal, will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S in ..."
-    publishedDateTime: 2022-06-12T11:09:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-launches-for-pc-playstation-and-xbox-in-2023"
+  - title: "How to sign up for the Diablo 4 Beta"
+    excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
+    publishedDateTime: 2022-06-12T16:50:00Z
+    webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
     type: article
     provider:
-      name: Eurogamer
-      domain: eurogamer.net
+      name: Dot Esports
+      domain: dotesports.com
     quality: 87
     images:
-      - url: "https://assets.reedpopcdn.com/diablo-4-release-date.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-release-date.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
+        width: 768
+        height: 403
         isCached: true
-  - title: "Diablo 4 confirmed for 2023 with cross-play and progression on all platforms"
-    excerpt: "We can’t wait to open the gates of Hell next year—the talented team behind Diablo IV puts gameplay first in everything they do, and they have built the biggest and most amb ..."
-    publishedDateTime: 2022-06-12T10:18:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4-confirmed-for-2023-with-cross-play-and-progression-on-all-platforms/"
+  - title: "Diablo 4: everything you need to know about multiplayer and how to sign up for the beta"
+    excerpt: "Microsoft’s big showcase event detailed a bit more about Diablo 4, but will the game feature crossplay? The Xbox Series X version of Diablo 4 was shown off in detail at the Xbox & Bethesda Showcase at ..."
+    publishedDateTime: 2022-06-13T02:21:19Z
+    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-everything-you-need-to-know-about-multiplayer-and-how-to-sign-up-for-the-beta/ar-AAYoNum"
     type: article
     provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 84
+      name: Metro on MSN.com
+      domain: msn.com
+    quality: 79
     images:
-      - url: "https://www.videogameschronicle.com/files/2022/06/diablo-4-necromancer.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYoBJr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CycD3If+0OqD7CacLtkHVnqxdl7My0wfHOZr1QaHMnBpBYFjHIWlFKdnju96/v4RGiHjb2sE1t+bLSyfLC3Kfe4bpnAaj6eIoRigpbwtzYpE7H0JcjSDa6Us1iC+uLqSBwIKr1sE/JcxvNaPfKwD6A2WBPUOtx9dBJiDRaCtykkbRjMPcUT7U7tZneMjBemLk4i7mgBS0P3eRDcE4J7NGCZiYBwNto1KloAcnNALMs6M0gyUrETimZekzYPPd53OxOnzFfzGHyPcaE4mk4zYGm2x95fo0zY8je4cni50oPEUbTyxz2qV/7xS9E/fkr8I29xiHAKqX0T7iv6IfN/XUAjqXfYya/Sr6LjS6HwVTNM=;xpUBr5kqHWoXWiSZ9IyTcA=="
