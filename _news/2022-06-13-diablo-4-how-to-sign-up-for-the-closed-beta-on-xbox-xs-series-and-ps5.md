@@ -9,7 +9,7 @@ ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.a
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
 type: article
 quality: 107
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1"
         width: 1024
         height: 576
-        isCached: true
-  - title: "How to sign up for the Diablo 4 Beta"
-    excerpt: "Diablo Immortal has been distracting the franchise’s fans over the last couple of weeks since the game was initially designed for mobile platforms and was then ported to PC. Con ..."
-    publishedDateTime: 2022-06-12T16:50:00Z
-    webUrl: "https://dotesports.com/general/news/how-to-sign-up-for-the-diablo-4-beta"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/01/18124319/diablo-4-1-768x403.jpg"
-        width: 768
-        height: 403
         isCached: true
   - title: "Diablo 4 beta registrations open for PS5, PC and Xbox Series X|S"
     excerpt: "RPG fans can register for the upcoming Diablo 4 beta with signups now live over on the game’s website. There are two things to note here – first, there’s no given date for the beta, nor has it been ..."
