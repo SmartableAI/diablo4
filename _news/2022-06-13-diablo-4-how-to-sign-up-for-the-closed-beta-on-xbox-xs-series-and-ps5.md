@@ -9,7 +9,7 @@ ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.a
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Diablo 4 beta registrations open for PS5, PC and Xbox Series X|S"
-    excerpt: "RPG fans can register for the upcoming Diablo 4 beta with signups now live over on the game’s website. There are two things to note here – first, there’s no given date for the beta, nor has it been ..."
-    publishedDateTime: 2022-06-13T07:10:00Z
-    webUrl: "https://www.thesixthaxis.com/2022/06/13/diablo-4-beta-registrations-open-for-ps5-pc-and-xbox-series-xs/"
-    type: article
-    provider:
-      name: The Sixth Axis
-      domain: thesixthaxis.com
-    quality: 87
-    images:
-      - url: "https://www.thesixthaxis.com/wp-content/uploads/2019/11/diablo-4-hero.jpg"
-        width: 1260
-        height: 500
         isCached: true
 
 secured: "ZGeIsI0JMbpGWdv5RirRd80HypJ0OI5YlMT2TO4qOhJuuSMR+QWcVNCV4v/exJVTsAs/orCpwR2RsJqpqdjEfIMnqVAc76dIsXzSVZChKkF/MF1QM5KGBuv3y+2UkjgQUJ+r5xv+xx290rCMMsPXqvoX6/Ixp6bfwtO4Klcp+NJIpaIzaFTZFuvY5mzCop/P9/P/Ok5TWOxlLsqSI8bdtDl7tVMgDwxtmiSWklTpYu6oKojUWOrToYT8eUyaKxgO2sSxxO0jnAVD1COXQMT+5oKWSdOkiuHZRVcj5H2tyIzCJH+IpBoJGRKa7mecBM2sFw38aubLo9cXskGgVZKeKC9X27xxcr9PbsQ3I8yiv7w=;OhkSlAaVbky9AsQE0fdqAg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.a
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html"
 type: article
 quality: 101
-heat: 161
+heat: 141
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Be a Full Price Release with Premium Cosmetic Items and Expansions"
-    excerpt: "Blizzard has opened up on the model that it's using for Diablo 4. Just in case there was any doubt, Diablo 4 will be a full price release. There were some rumours floating around that it could end up ..."
-    publishedDateTime: 2022-06-13T07:15:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/06/diablo-4-will-be-a-full-price-release-with-premium-cosmetic-items-and-expansions"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 82
-    images:
-      - url: "https://images.pushsquare.com/2020327ad5105/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 will get \"full story driven expansions\""
     excerpt: "Blizzard has confirmed that Diablo 4 will receive full story expansions as DLC after launch. \"To be clear, D4 is a full price game built for PC/PS/Xbox audiences,\" franchise GM Rod Fergusson says in a ..."
     publishedDateTime: 2022-06-13T14:58:48Z

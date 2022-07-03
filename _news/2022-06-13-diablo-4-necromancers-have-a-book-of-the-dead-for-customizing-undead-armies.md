@@ -40,15 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "How Diablo 4's Necromancer Class Changes From Past Games"
-    excerpt: "The Xbox and Bethesda Games Showcase was packed full of exciting announcements, including the final starting class for Diablo 4."
-    publishedDateTime: 2022-06-13T07:09:54Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-necromancer-class-changes-from-past-games/ar-AAYpjMu"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "Mfw+d9NSCswFtQSRutzkVJrir5V6Tc0Dha5kqKVO6CtaDYzkoZ7AM0FFTRrQj82TixdpnpdK7fu3mLGn0Z4XKwbhg7e8RGIVSOgG+BwMoHVYWK/6fo2n3vleb5udDLdJ1crL48rv4TzRJYzbpt97K3LBQZQ83hzArFKULg7TnDhGkDsDgGEWKy1tHz/j4tzoqASmQReaIQCCMJDBw9es6i1/5Ts05Dr6JmGlKm1Na2L+LF+g50lGJA/o8ZhxoRfc6/YSX/7WCaKnw4E7aqVsb7zfrwX6xThOs6mBivFp4TK0+UeR5WyYhBf2TWod/ZARTtUVpOxXSdJOqcXVuyi33Y76RCqYIuT5LHBbtVkhcOw=;oTDzvHucgkxUxu945ZHdFQ=="
 ---
