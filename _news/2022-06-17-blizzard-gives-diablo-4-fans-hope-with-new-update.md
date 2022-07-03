@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-upd
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Comicbook.com
@@ -24,38 +24,6 @@ images:
     width: 568
     height: 320
     isCached: true
-
-related:
-  - title: "Diablo IV Quarterly Update—June 2022"
-    excerpt: "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will."
-    publishedDateTime: 2022-06-13T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3q/3QIS84S3PJK41654707055839.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "Diablo Immortal’s sins could doom Diablo 4 as well"
-    excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
-    publishedDateTime: 2022-06-14T08:07:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
-    ampWebUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 107
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-immortal-diablo-4-microtransactions-1.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "sa9Oa9IZs+Juzy8Y9V5wtw94rXh7oyCfsTH0XN2afQh6vhMlw9ajqvhcodxpbYP3l2BQo9VbMZEbwt7b7WMKfs9EaLlxttJ5fDhIjIB1YdwcW0gOY1R72fWvezEBwORN2i+mst53kaNuojfZ9hqd3oLbNWDBMSZW7fsiwvEGRDi18HOkC8QT6fdy3JyGN5UbXG2OmtV0pLZ5a5OA9fIc6Fso1JKNdV8/+3OTFrndUfG2JmDoZpjsZ9TBEYhA6zcZE88SIyZvhZ2D+CAN5Lfu0MOya0oiimEE2s8yXjT7OC16RbkO3JQNefZxh0TGgMeVIXez8TbJEo2iyacCwflDJmfoLI6bubx1PhWJ+HppEZI=;6Ux6c79BRbfDGGQ4iXZl3w=="
 ---
