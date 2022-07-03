@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 553
         isCached: true
-  - title: "Diablo 4 devs respond to microtransaction fears after Diablo Immortal backlash"
-    excerpt: "Amid widespread backlash about Diablo Immortal's pay-to-win elements, Diablo 4 devs have addressed concerns regarding microtransactions."
-    publishedDateTime: 2022-06-13T09:14:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/"
-    ampWebUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 103
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/13/diablo-4-devs-talk-mtx-concerns.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Diablo IV will be a 35-hour experience, says Blizzard"
     excerpt: "We’ve worked really hard on the campaign in Diablo 4 and we’re really proud of how it’s developing.” Shely says that, by the time players finish the campaign, they will be around level forty-five. Of ..."
     publishedDateTime: 2022-06-17T08:50:00Z

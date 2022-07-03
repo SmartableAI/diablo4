@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 553
         isCached: true
-  - title: "Diablo 4 devs respond to microtransaction fears after Diablo Immortal backlash"
-    excerpt: "Amid widespread backlash about Diablo Immortal's pay-to-win elements, Diablo 4 devs have addressed concerns regarding microtransactions."
-    publishedDateTime: 2022-06-13T09:14:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/"
-    ampWebUrl: "https://www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-4-microtransaction-concerns-blizzard-immortal-backlash-1846685/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 103
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/13/diablo-4-devs-talk-mtx-concerns.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Diablo 4 won't have Diablo Immortal's horrible microtransations, Blizzard insists"
     excerpt: "Diablo 4 won't share Diablo Immortal's monetization systems, Blizzard has confirmed. Some have criticized the game's content for just not being all that fun or engaging. Others have become bitter ..."
     publishedDateTime: 2022-06-15T04:00:00Z
