@@ -56,20 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4 Necromancers are the most customizable in the series"
-    excerpt: "The Diablo 4 necromancer class offers extensive customization not just in its skills and specialties, but even in how you build your undead army."
-    publishedDateTime: 2022-06-13T14:47:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-overview"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "sa9Oa9IZs+Juzy8Y9V5wtw94rXh7oyCfsTH0XN2afQh6vhMlw9ajqvhcodxpbYP3l2BQo9VbMZEbwt7b7WMKfs9EaLlxttJ5fDhIjIB1YdwcW0gOY1R72fWvezEBwORN2i+mst53kaNuojfZ9hqd3oLbNWDBMSZW7fsiwvEGRDi18HOkC8QT6fdy3JyGN5UbXG2OmtV0pLZ5a5OA9fIc6Fso1JKNdV8/+3OTFrndUfG2JmDoZpjsZ9TBEYhA6zcZE88SIyZvhZ2D+CAN5Lfu0MOya0oiimEE2s8yXjT7OC16RbkO3JQNefZxh0TGgMeVIXez8TbJEo2iyacCwflDJmfoLI6bubx1PhWJ+HppEZI=;6Ux6c79BRbfDGGQ4iXZl3w=="
 ---

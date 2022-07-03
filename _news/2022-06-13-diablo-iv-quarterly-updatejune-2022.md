@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022"
 type: article
 quality: 162
-heat: 222
+heat: 202
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320"
         width: 568
         height: 320
-        isCached: true
-  - title: "Diablo 4 Necromancers are the most customizable in the series"
-    excerpt: "The Diablo 4 necromancer class offers extensive customization not just in its skills and specialties, but even in how you build your undead army."
-    publishedDateTime: 2022-06-13T14:47:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-overview"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "bZOv6pxrd4+kOjF7dMWmWtMjEPxi/SbWrTAOLEE43m9TYicUL2AM4zlfgyAQBueS3Cp7hoQA+zC8uHYRWbIp0DNONCukFMFSa0XkJWQTjJYIYt1it1xBAvb3L6oet+X2DqAx6CP4JlCsxVE81rVXT8Vjp8yeb6y8DWZDiY1fXTvL8sYp1oRpUCzXRbb2gJRxPfZk4BzAniAZ6tBK4Ksk1gSYa2dyW1a4kEjHBkZOzh6tBA1yTOuPDwlIksWI0xCGlaXbytJFTdKbJYBymhmyj2DpkMc9izQgC9U93hmFK7nxQ3b4jyUu+g8shajrcOMYbijb4blM4Z1SBdusTXuToxhjm9jMUayda9vrz2dawfw=;DaNo3ICdKaQdPsoVLCcZcw=="
