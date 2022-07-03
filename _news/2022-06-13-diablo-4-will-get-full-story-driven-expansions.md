@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 Will Be Supported for Years With Cosmetic DLC and Story Expansions"
-    excerpt: "Diablo franchise GM Rod Fergusson reveals how Blizzard plans on supporting Diablo 4 in the years after its release."
-    publishedDateTime: 2022-06-13T10:32:44Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-be-supported-for-years-with-cosmetic-dlc-and-story-expansions/ar-AAYpAq3"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 65
 
 secured: "UfnLRjDkcKQzM069jNPv81gcb54XcDnLCwOWpxwJN4L0ObBM6Wh9ynSyPag3H33epL9cqjnLDuTMc4qZDZi9oNxZDuqNsM30qBKpuCm+H0GuD3yrC2/2+Seloa1mevmX7fJsFYeMBERtd7Dhm0XAbCYndpIY7C7D7GWTo0davPRXI2CGypt18wF1kxPwp0J3OnDTrZ2tLQw1Lc6b2Wrw+1uNMhg0HRWTiKqilPoCTj3cRMjuKeYwTzPUJl8oSUXaLfpohLkGlTSwWsLaxi2nAMfsvdzkkKf29YO4G6TPqMOPrS0pq7n5tD9PjTFQ+WhZIjX6og1HgQ+O2ybsBZN5n8qy9CIGfhokkiJ6OlReT7k=;0gBWDBLr0UIL3LRYZJv0cg=="
 ---

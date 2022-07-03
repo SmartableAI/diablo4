@@ -40,22 +40,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Why Diablo 4 Doesn't Have Any New Classes At Launch"
-    excerpt: "Blizzard recently revealed Diablo IV's fifth and final class for the game's launch, the Necromancer, as part of the Xbox and Bethesda Showcase. While the Necromancer is no doubt a fan-favorite class, ..."
-    publishedDateTime: 2022-06-13T12:34:00Z
-    webUrl: "https://www.gamespot.com/articles/why-diablo-4-doesnt-have-any-new-classes-at-launch/1100-6504555/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/why-diablo-4-doesnt-have-any-new-classes-at-launch/1100-6504555/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/why-diablo-4-doesnt-have-any-new-classes-at-launch/1100-6504555/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989767-diablo-4-thumbnail_site.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo Immortal’s sins could doom Diablo 4 as well"
     excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
     publishedDateTime: 2022-06-14T08:07:00Z
@@ -86,29 +70,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The latest Diablo 4 quarterly update focuses on the Necromancer"
-    excerpt: "Developer and publisher Blizzard Entertainment is continuing to share quarterly updates on Diablo 4, going over the gameplay, world design, sounds, art direction, and more. In the June 2022 quarterly ..."
-    publishedDateTime: 2022-06-13T13:04:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-quarterly-update-june-2022"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HyXkW5kwCFqDry6piLRy7Z-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4 Is Already Distancing Itself From Diablo Immortal"
-    excerpt: "Diablo 4 has distanced itself from Diablo Immortal by eschewing microtransactions. The new game will only feature paid cosmetics, not weapons, says one dev."
-    publishedDateTime: 2022-06-13T12:59:02Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-already-distancing-itself-from-diablo-immortal/ar-AAYpLdt"
-    type: article
-    provider:
-      name: SVG on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "sa9Oa9IZs+Juzy8Y9V5wtw94rXh7oyCfsTH0XN2afQh6vhMlw9ajqvhcodxpbYP3l2BQo9VbMZEbwt7b7WMKfs9EaLlxttJ5fDhIjIB1YdwcW0gOY1R72fWvezEBwORN2i+mst53kaNuojfZ9hqd3oLbNWDBMSZW7fsiwvEGRDi18HOkC8QT6fdy3JyGN5UbXG2OmtV0pLZ5a5OA9fIc6Fso1JKNdV8/+3OTFrndUfG2JmDoZpjsZ9TBEYhA6zcZE88SIyZvhZ2D+CAN5Lfu0MOya0oiimEE2s8yXjT7OC16RbkO3JQNefZxh0TGgMeVIXez8TbJEo2iyacCwflDJmfoLI6bubx1PhWJ+HppEZI=;6Ux6c79BRbfDGGQ4iXZl3w=="
 ---

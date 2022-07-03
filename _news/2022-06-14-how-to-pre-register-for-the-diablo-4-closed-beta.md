@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregiste
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Digital Trends
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5"
-    excerpt: "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ..."
-    publishedDateTime: 2022-06-13T11:03:00Z
-    webUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html"
-    ampWebUrl: "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
-    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html"
-    type: article
-    provider:
-      name: as.com
-      domain: as.com
-    quality: 107
-    images:
-      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ZlJGBSoCRG9uPMsfmSWQG+blR2mLd+kcjbDQihFfk/Hr15/TIucmk7BwpFHpKisrPyGW5ZkoT7hD7MsCkx0+aNvxlLUZ3NA2SdwurR02Dh8BgJyfeYw+L63fMvjUOkkL25CGauYSb0vz8+dJLWNrPcEJp7jBrnOfJj017LneW5CCSbsH6hxMa36GCpysVZArCBUqJO7JsjtzmkRNMozF5WegFcqWSCsKu/jAO4VXRicWy4quQOvXM6BB7BZLhZjZV8iN5amwErkgZSEssMcsOXxCrikbjfsxlFz6uwRrKGftzmGJydgal7yE4eLhsMmytuCYgf/MItg3oVRFM3rqQBEA8q237GqWC0wctkWtjFU=;X4fTrdc3pfSCro97QDWX0A=="
 ---

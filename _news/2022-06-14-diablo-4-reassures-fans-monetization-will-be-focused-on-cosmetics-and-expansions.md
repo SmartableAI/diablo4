@@ -9,7 +9,7 @@ ampWebUrl: "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.a
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html"
 type: article
 quality: 101
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: GamesRadar on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Diablo 4 Will Be Supported for Years With Cosmetic DLC and Story Expansions"
-    excerpt: "Diablo franchise GM Rod Fergusson reveals how Blizzard plans on supporting Diablo 4 in the years after its release."
-    publishedDateTime: 2022-06-13T10:32:44Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-be-supported-for-years-with-cosmetic-dlc-and-story-expansions/ar-AAYpAq3"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 65
 
 secured: "Zqdl4BWGyqTruWBNvOeqA0N5yy1PDSf/aASb0s4E/IDCR3ZhF9LXWKzpIDGlrfsMOEUW2ucFG3MN8KjSBK58FnlQVnGDbPkd2R6bl7tpS3DjwAGyMEY+nDruqm1OntjnrVaSgV907lzdroHB7Gw6ax7ILAc9YEd3btsKrmudh8TRYO2qdsyevczjIZ5UzE/WWmqColbZq9yiPZP9ZnOxp595O1ctkAbLDxGqdLI1fKGXQnRohyWZ99LBHK442yPiUaeqkIe4e+mkN6srN8p9SBdUMrjxhFby3sHF4g90Znyuwtyv5b9nLokselYv/Q865yfNaFE55V79ij9OSgNaMRgykrkYpKwwjxAHlaxwEVo=;YwO9WW9Wklub7XAixNLEMg=="
 ---
