@@ -44,22 +44,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Diablo Immortal’s sins could doom Diablo 4 as well"
-    excerpt: "Following a series of new tears for Diablo 4, can Blizzard ever fully regain the playerbase's trust following the backlash to Immortal?"
-    publishedDateTime: 2022-06-14T08:07:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/"
-    ampWebUrl: "https://www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
-    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/diablo-immortals-sins-could-doom-diablo-4-well-1847489/?amp"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 107
-    images:
-      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-immortal-diablo-4-microtransactions-1.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Diablo 4 won't have Diablo Immortal's horrible microtransations, Blizzard insists"
     excerpt: "Diablo 4 won't share Diablo Immortal's monetization systems, Blizzard has confirmed. Some have criticized the game's content for just not being all that fun or engaging. Others have become bitter ..."
     publishedDateTime: 2022-06-15T04:00:00Z

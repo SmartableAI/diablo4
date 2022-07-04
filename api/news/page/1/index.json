@@ -212,26 +212,35 @@
       ]
     },
     {
-      "path": "_news/2022-06-15-diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class.md",
-      "title": "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class",
-      "excerpt": "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-15-diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX",
+      "path": "_news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained.md",
+      "title": "Diablo 4 Necromancer class guide – skills and summons explained",
+      "excerpt": "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 127,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T06:51:46-07:00",
+      "publishedDateTime": "2022-06-16T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GameRant on MSN.com",
-        "domain": "msn.com",
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -253,7 +262,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 222,
       "tags": null,
       "images": [
         {

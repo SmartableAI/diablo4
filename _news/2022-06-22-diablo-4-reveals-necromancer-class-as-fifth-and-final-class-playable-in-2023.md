@@ -18,6 +18,20 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Diablo 4 Necromancer class guide – skills and summons explained"
+    excerpt: "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ..."
+    publishedDateTime: 2022-06-16T16:45:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
     excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
     publishedDateTime: 2022-06-15T13:51:46Z

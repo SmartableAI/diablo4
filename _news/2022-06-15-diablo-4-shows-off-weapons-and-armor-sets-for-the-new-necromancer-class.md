@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: GameRant on MSN.com
@@ -18,6 +18,20 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Diablo 4 Necromancer class guide – skills and summons explained"
+    excerpt: "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ..."
+    publishedDateTime: 2022-06-16T16:45:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 reveals Necromancer class as fifth and final class, playable in 2023"
     excerpt: "Today, during the Xbox Bethesda showcase, more was revealed about the upcoming Diablo 4 franchise, including the reveal of Necromancer as the fifth and final class of the game, which will be playable ..."
     publishedDateTime: 2022-06-22T14:41:08Z
