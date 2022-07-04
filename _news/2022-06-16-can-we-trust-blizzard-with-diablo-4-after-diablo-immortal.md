@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/amp/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Forbes
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo Hell's Ink Tattoo Shop Takeover Tour"
-    excerpt: "The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!"
-    publishedDateTime: 2022-06-14T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Diablo 4 won't have Diablo Immortal's horrible microtransations, Blizzard insists"
     excerpt: "Diablo 4 won't share Diablo Immortal's monetization systems, Blizzard has confirmed. Some have criticized the game's content for just not being all that fun or engaging. Others have become bitter ..."
     publishedDateTime: 2022-06-15T04:00:00Z
