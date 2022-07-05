@@ -32,15 +32,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
-    excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
-    publishedDateTime: 2022-06-15T13:51:46Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "htjepIrCcKUFWiNuixsOcQZ37TlC2xwAXbqxRATTSuEfr1PO+ym3yH/u02VP9foGPgmlYW/Ozum5JeOF5uIX5WLWeDaKBAHlctGKPeaSKMqPT52/s0ow+TQU4JJaFQmWvHAoVg4E6SsirhAh4TAzqXxgjNIG+qc+S4NNCGMBsWjZrbYCzm3gIi9XA7kAjobdZsZptBWT5NBkwd6LHI4kx3HtkjHN6m2gfY1FkYAerMXGYHv6g3L8SX8hXBJUc17RzwbTCZsVmHS1yEva5Y6sSg6Lj58wXOrXwH88NFVTRKMP7HKTRN2824BI/7+cn3aDsNwpc/DERnzK+6E7PpXZY15bll07qNBzc8zUI1hoMYA=;gpFJBesgjEi8s5lH+hONxQ=="
 ---

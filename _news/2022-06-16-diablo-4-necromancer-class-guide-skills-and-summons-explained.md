@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
 webUrl: "https://www.pcgamesn.com/diablo-4/necromancer-class-skills"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Shows Off Weapons and Armor Sets for the New Necromancer Class"
-    excerpt: "Diablo 4 shows off in-development arms and armor for the recently-announced Necromancer class, which is making its grim and grisly return."
-    publishedDateTime: 2022-06-15T13:51:46Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-weapons-and-armor-sets-for-the-new-necromancer-class/ar-AAYvRUX"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
   - title: "Diablo 4 reveals Necromancer class as fifth and final class, playable in 2023"
     excerpt: "Today, during the Xbox Bethesda showcase, more was revealed about the upcoming Diablo 4 franchise, including the reveal of Necromancer as the fifth and final class of the game, which will be playable ..."
     publishedDateTime: 2022-06-22T14:41:08Z
