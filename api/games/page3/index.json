@@ -4,6 +4,36 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial.md",
+      "title": "DIABLO 4 - DRUIDA - TODAS AS SUAS HABILIDADES EM PT-BR - NÃO OFICIAL",
+      "excerpt": "Link da Gameplay: https://www.youtube.com/watch?v=uij9ysBKs4w&t=4s Lives nos Canais abaixo, siga pra não perder nenhuma! ⭐ Seja Membro no ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial/",
+      "originalUrl": "https://youtube.com/watch?v=d2OnR_vcYgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d2OnR_vcYgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M21S",
+      "provider": {
+        "name": "Imp",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d2OnR_vcYgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T09:14:24-08:00"
+    },
+    {
       "path": "_games/kamahl-diablo-4-barbarian-skills.md",
       "title": "Diablo 4 Barbarian Skills",
       "excerpt": "What's up Everyone. Kamahl here and welcome to another Diablo 4 video. In today's episode we are going to be looking at the barbarian skills. I hope you enjoy ...",
@@ -878,36 +908,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-14T07:00:01-07:00"
-    },
-    {
-      "path": "_games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress.md",
-      "title": "Diablo 4 - Fire Bolt and Inferno Skills (Sorceress)",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress/",
-      "originalUrl": "https://youtube.com/watch?v=BunDqRP31Gs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BunDqRP31Gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30S",
-      "provider": {
-        "name": "Tiago Costa",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-12T09:11:05-08:00"
     }
   ],
   "nextPage": 4
