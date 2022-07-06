@@ -42,15 +42,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 Level Cap And Game Length Revealed"
-    excerpt: "Diablo fans were given a look at the upcoming Diablo 4 in action at the Xbox Bethesda Games Showcase. Now, the game’s director, Joe Shely has revealed in an interview with Gamespot how long players ..."
-    publishedDateTime: 2022-06-16T16:54:00Z
-    webUrl: "https://mp1st.com/news/diablo-4-level-cap-and-length-revealed"
-    type: article
-    provider:
-      name: mp1st.com
-      domain: mp1st.com
-    quality: 67
 
 secured: "aLe95xrLj0arAHLcMkt1rqMipr8S03sdwfT09puvzYpvQTXdX+4dZI6OmbzOjaiNcSqWBatOQ4mg31WepncuXh+ffVx8sNuRsC/DMZyM/meHk4VBkut4eIEgxH0++zAvMzUw7PkzmmLW5anx3wlm3xNcexeyRvsVxHAXi/CENEqzU/mMRkFSCFNYYjV9O9QiObUy073UqyUB/UExHjrX42zDVzsrhJnJ1Wlx7GV2o0q31xqRpE7TBhEqvKIAK0JOBom6hdryFLMqZXJvUIvyvy+sqJ+GP3k9emusvJ3cRqU6ykKg0Tp+MNTzPHqI9KfObCiCLPbVelnMdomLVlmQ46Gio36OOUa5XC+xOCCyaXI=;C6o1vffp2PJQdn67VwIQNA=="
 ---
