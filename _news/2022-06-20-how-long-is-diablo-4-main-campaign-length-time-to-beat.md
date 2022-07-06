@@ -42,20 +42,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 level cap and campaign length revealed by director"
-    excerpt: "Diablo 4’s level cap has been revealed by the game’s director Joe Shely, along with details about the length of the main campaign, bosses, and the returning Paragon board. In an interview with ..."
-    publishedDateTime: 2022-06-16T07:29:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/campaign"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-in-game-store.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Level Cap And Game Length Revealed"
     excerpt: "Diablo fans were given a look at the upcoming Diablo 4 in action at the Xbox Bethesda Games Showcase. Now, the game’s director, Joe Shely has revealed in an interview with Gamespot how long players ..."
     publishedDateTime: 2022-06-16T16:54:00Z

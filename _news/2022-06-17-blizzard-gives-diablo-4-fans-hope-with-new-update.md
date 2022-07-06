@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-upd
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 568
     height: 320
     isCached: true
+
+related:
+  - title: "Diablo IV will be a 35-hour experience, says Blizzard"
+    excerpt: "We’ve worked really hard on the campaign in Diablo 4 and we’re really proud of how it’s developing.” Shely says that, by the time players finish the campaign, they will be around level forty-five. Of ..."
+    publishedDateTime: 2022-06-17T08:50:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-iv-will-be-a-35-hour-experience-says-blizzard/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 72
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "sa9Oa9IZs+Juzy8Y9V5wtw94rXh7oyCfsTH0XN2afQh6vhMlw9ajqvhcodxpbYP3l2BQo9VbMZEbwt7b7WMKfs9EaLlxttJ5fDhIjIB1YdwcW0gOY1R72fWvezEBwORN2i+mst53kaNuojfZ9hqd3oLbNWDBMSZW7fsiwvEGRDi18HOkC8QT6fdy3JyGN5UbXG2OmtV0pLZ5a5OA9fIc6Fso1JKNdV8/+3OTFrndUfG2JmDoZpjsZ9TBEYhA6zcZE88SIyZvhZ2D+CAN5Lfu0MOya0oiimEE2s8yXjT7OC16RbkO3JQNefZxh0TGgMeVIXez8TbJEo2iyacCwflDJmfoLI6bubx1PhWJ+HppEZI=;6Ux6c79BRbfDGGQ4iXZl3w=="
 ---
