@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-15-diablo-immortal-only-makes-me-want-diablo-4-more.md",
+      "title": "Diablo Immortal only makes me want Diablo 4 more",
+      "excerpt": "I've played Diablo Immortal in short bursts, enough to reach level 43 as a Necromancer – and I don't regret a single undead minute of it. There's a lot that can (and should) be said about the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-15-diablo-immortal-only-makes-me-want-diablo-4-more/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-immortal-only-makes-me-want-diablo-4-more/",
+      "originalUrl": "https://www.gamesradar.com/diablo-immortal-only-makes-me-want-diablo-4-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bkaEJ2ZeEyR4LAwdWo47Sg-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood.md",
       "title": "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood",
       "excerpt": "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ...",
@@ -1070,48 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-release-date-new-character-announced.md",
-      "title": "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!",
-      "excerpt": "diablo immortal gameplay,diablo immortal best class,diablo immortal necromancer,diablo immortal announcement,diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-release-date-new-character-announced/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-13-diablo-4-release-date-new-character-announced/",
-      "originalUrl": "https://youtube.com/watch?v=QSAc7Spkb-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSAc7Spkb-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T20:26:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StewGaming | Diablo Immortal",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
