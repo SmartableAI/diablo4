@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-15T11:50:47Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-be-one-of-2023s-biggest-game-pass-additions/ar-AAZCFRJ"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-be-one-of-2023s-biggest-game-pass-additions/ar-AAZCFRJ"
 type: article
-quality: 67
-heat: 67
-published: false
 
 provider:
   name: GameRant on MSN.com
@@ -17,6 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-secured: "UnoSPWJ0wda+UjqwfFSNlZFrrHPmvTt4UmvGjYV9Cgbwoy6THfl/4VO67+uHoT+P82IvA/9PnaG+kqFSmF2MehYlcDzkCl4s0W1CsFFj6JAb4SHpXNQmjjVeRQ7gXRE1XpPRZOLRfSK760KALQSq4XZZINSsjo2oYZrsyRoOJagIhhETNEh8VQzGbZtCSkVLsVLKHg2Bjws7ZGIaXvHw8RKWkPyy/ymjBmdDojBFN7kDmGf+Mj91x5xHseqfuFUYEZdcS+s0/uMWWceFzvB/4srUI8Ry2x09TJfeg9w4AZkfaxX/xgNdBo9O48os8ws7nphMUyrDNaisvWBW1HNJIbk1qbdfAS1QIlRO2o+8FoE=;K0LnonJNy295PmbZzeR/SQ=="
+secured: "lx/tm5gIvAJKIpmKueAHX7rfT7/Shvm9BKPtad+04mbXE/IikzuHODIl3PmVQvgtIE3LQPUDHf7HTcZAhWWbCvgKltRft+D0rrQg0WjDfghkx7BdQelUCi+2eawZAIeoR3gSrbFvF1jPfgEntgpqhf8QvYNqQyGU61nmLb4Kh0JDFJzuGvSur6Hk2SXIAlIibdydS6lkOpl588iFn/puNMV03HhfrEfew3bxGO4/+8ejWpzvKt2ByQgofViVbsA3tAJvTR80MSkMcjxzvrZZ2MJrueFOBpS92AUNslktjHGRls2PHA6WBjv7KWsPI+vfd8uV5ScKhrNYBlDhSylsaVuuWuXjp7yjBr05T/m8CUI=;jiT5XYiMndVVzfG7VqrYjw=="
 ---
 
