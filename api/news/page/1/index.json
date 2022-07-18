@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-18-blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos.md",
+      "title": "Blizzard is giving out Diablo 4 beta keys to fans who get themed tattoos",
+      "excerpt": "Elsewhere in Blizzard news, the company recently terminated development on Heroes of the Storm, struggled with new characters in Overwatch 2, and found 'no evidence' of systemic m ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-18-blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/index.json",
+      "webUrl": "https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/",
+      "originalUrl": "https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YNWMv9kNHRsBbdhkToRWQQ-1200-80.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-17T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-what-diablo-4-is-doing-to-help-the-series-reclaim-its-crown-as-the-action-rpg-king.md",
       "title": "What Diablo 4 is doing to help the series reclaim its crown as the action-RPG king",
       "excerpt": "Between the release of Diablo Immortal and the Necromancer class reveal, Diablo fans are in a weird place right now ...",
@@ -1061,48 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5.md",
-      "title": "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5",
-      "excerpt": "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
-      "publishedDateTime": "2022-06-13T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
