@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone.md",
+      "title": "Diablo 4 loot and endgame explained as the action-RPG nears \"a significant milestone\"",
+      "excerpt": "The latest Diablo 4 update teases \"a significant milestone\" for the development of the still far-off action-RPG, and more helpfully, it also tells us how loot and endgame builds will work. \"We’ve made ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/index.json",
+      "webUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "publishedDateTime": "2021-12-20T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board.md",
       "title": "Diablo 4 Is Getting A New Endgame Progression System In The Paragon Board",
       "excerpt": "In a new quarterly update, Blizzard dives deep on itemization, the new Paragon Board progression system, and more.",
@@ -1087,48 +1129,6 @@
       "provider": {
         "name": "From Software",
         "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard.md",
-      "title": "Diablo 4 Release Date Possibly Hinted at in New Update From Blizzard",
-      "excerpt": "Activision Blizzard, during a recent earnings call, provided a quick update on Diablo 4, and possibly hinted at its release date. According to Activision, the game's development is making \"strong ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
-      "publishedDateTime": "2021-08-04T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
