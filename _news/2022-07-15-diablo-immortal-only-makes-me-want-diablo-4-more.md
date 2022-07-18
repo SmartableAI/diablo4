@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-15T09:56:00Z
 originalUrl: "https://www.gamesradar.com/diablo-immortal-only-makes-me-want-diablo-4-more/"
 webUrl: "https://www.gamesradar.com/diablo-immortal-only-makes-me-want-diablo-4-more/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: GamesRadar
@@ -14,6 +17,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "aZsGuGMV5J6SVprAdvNnXiptuV8965e0oTBvcc6TDE9Fd5tTKAnGDA1MtRp8sxfASVO78GCznxzmQxaYxUnxvTRnUvmt/worFEVmVQf0kziw5s5DMQ4Ywgdr1SvGJlAAI3BdM5GBK4ET45Bq1HVj9ypnSLY6Sfd99vKe853JlVjukSuEQOU80zYYa3wcNQKu+cXdC2fo9vZ2zFn+ZAnSfZESK06/MqhdjrKmvxMHWikZOdhrc0aUkJTWg3jytO2ARUuFlOnIweIZrGsUeln8nSuNGKSplXkfQDsgWX6UsdR2LHpCbkPsHcaO+A+z0OzhY1nDyR6q/iKLvY4TBNI7mkngWyo0p6pM1jWaXP789/4=;kUHybKyOJlrBGRDmp9UD6g=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/bkaEJ2ZeEyR4LAwdWo47Sg-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "+q43Lcu1reeoQixn5fSu4UG7LP4cUZQcODYF5xs1EmqHdgBzXqN7f64XsiKrrZRKpAryvpt0NJWou4x+B9VluzV0oO5Pfasg2x7tzfb+y6AWZKUvGX9XeWGydz6pkOo3uKphL4oJ/M/SPy6kfhKFIuJtz18PCwc2nlx1h8+snWA6kiib/JwMk0QmK3Dhw8ZW81HEp1a1/tx4lFp34gSI093zTyyTaiXEL2QMfofupNVOyGL9DDiW+PkqesaSfZK7VvAUWWjh5TTqak1QkrkJwR9+aTHbXg+BU3sSk+49lPwqw774/2NwgVPByvMfPIKR7oJRhMiDqL6WOJBDkqzFzRXcx+kzZykeIQe2EUs+/ts=;/sB14FeTzTkxWtbbZfPsSA=="
 ---
 
