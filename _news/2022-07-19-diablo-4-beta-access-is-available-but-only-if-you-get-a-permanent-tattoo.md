@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "You can get Diablo 4 beta access with a permanent flesh mark"
-    excerpt: "Players taking part in the Diablo Hell’s Ink promotion to get a free flash tattoo are also being given Diablo 4 beta access and a free copy of the RPG game ..."
-    publishedDateTime: 2022-07-17T04:01:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-access-tattoo"
+  - title: "Diablo 4 Fans Receive Free Copy of Game and Beta Access for Getting Diablo Tattoos"
+    excerpt: "The Hell's Ink tattoo campaign was announced back in June with Blizzard laying out the stops planned for July and August where Diablo fans could visit to get unique Diablo-themed tattoos. Planned ..."
+    publishedDateTime: 2022-07-20T12:58:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-free-game-beta-access-tattoos/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 101
     images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-access-tattoo-flesh-tribute.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://sportshub.cbsistatic.com/i/2022/07/20/9f3d4a56-f68e-459a-ad5f-b6f13ddf1773/fifa-23-havertz.png?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
     excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
@@ -56,7 +58,44 @@ related:
         width: 1200
         height: 592
         isCached: true
+  - title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
+    excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
+    publishedDateTime: 2022-07-20T07:38:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Want Access Diablo 4 Beta? Then Get a Tattoo!"
+    excerpt: "Blizzard are touring around North America, Europe and Australia offering free tattoos, digital copies of Diablo 4 as well as a access to the beta."
+    publishedDateTime: 2022-07-20T03:55:00Z
+    webUrl: "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-demon.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
+    excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
+    publishedDateTime: 2022-07-18T11:29:15Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-keys-are-available-for-fans-willing-to-get-permanent-tattoos/ar-AAZHYbp"
+    type: article
+    provider:
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 65
 
-secured: "bvk+xwzXUwtZdtNKomU/jU2EYy0ATBDulvoDtzhOImkBK+U9PEbVPOhjhY9qW32sEqf3n2Mk4fz/8W2cAcBefQeUcz4KsJJXlNgRzWRogZlxqDASeEFywMH/TGvgmpMzNEKrJvYKqTvqARtg5NagkYYXT4fdXOxEIMalthHUgR4SKMtQPOP1V4drIzQqsjAwjEz4ZzYob6h/O+lYuzesde3NUMHDyw/8AxBzgPVlekCe0rrWXuFjr9c99RP5HOou7vq0HkdA2S3V0hDaAFqdqMiQYLaQ9cwDwmGBx+/2rIAKhfoCdfSuPKAwDdDwE4GsKzchPoUAsls2AqUcW+m1rBzhuCTYCGdyGYGyVzh62eA=;em6fcJnT5kQD8FERDEm0cQ=="
+secured: "hwdeJFq5+M41caKQN0/bIzp4ahFGgjb+fgakuWu6/kX0j1p2gvHhlTl9enbHkUXntineqd6833VG9kP43O6+3YBYKLZWByUpRXZjNHxyYZfON5E6lugnMQLXZyLLM1wQMcj7UHXfs+FkX7Rnxlffzz5Z6Csc64qeEQugUg6y6zCtAIe7UppqJRqt5vAPupyr28YEadVwNg35h0e6Q6CWHUsdZM0a7d2q+bahltP8ruT7v5xyHau8uFdedtymXDtxmiCyoNPcwF6JxcaUKvD+f9Q3auU/y8n6bXUqcEncch8gmovm7hxnk6Ujylz5WL5QtfqzcJemsju5mhOOWeToFONwKm8Ymcm+/s2GnglZGUM=;FIRjjQIpJxky1P9NalAW6A=="
 ---
 

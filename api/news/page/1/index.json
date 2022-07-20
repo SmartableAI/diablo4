@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-20-want-access-diablo-4-beta-then-get-a-tattoo.md",
-      "title": "Want Access Diablo 4 Beta? Then Get a Tattoo!",
-      "excerpt": "Blizzard are touring around North America, Europe and Australia offering free tattoos, digital copies of Diablo 4 as well as a access to the beta.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-want-access-diablo-4-beta-then-get-a-tattoo/index.json",
-      "webUrl": "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/",
-      "originalUrl": "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/",
+      "path": "_news/2022-07-20-diablo-4-fans-receive-free-copy-of-game-and-beta-access-for-getting-diablo-tattoos.md",
+      "title": "Diablo 4 Fans Receive Free Copy of Game and Beta Access for Getting Diablo Tattoos",
+      "excerpt": "The Hell's Ink tattoo campaign was announced back in June with Blizzard laying out the stops planned for July and August where Diablo fans could visit to get unique Diablo-themed tattoos. Planned ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-diablo-4-fans-receive-free-copy-of-game-and-beta-access-for-getting-diablo-tattoos/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-free-game-beta-access-tattoos/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-free-game-beta-access-tattoos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 201,
       "tags": null,
       "images": [
         {
-          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-demon.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://sportshub.cbsistatic.com/i/2022/07/20/9f3d4a56-f68e-459a-ad5f-b6f13ddf1773/fifa-23-havertz.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T20:55:00-07:00",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/",
+      "publishedDateTime": "2022-07-20T05:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -48,17 +48,17 @@
       "title": "Blizzard is giving out Diablo 4 beta keys to fans who get themed tattoos",
       "excerpt": "Elsewhere in Blizzard news, the company recently terminated development on Heroes of the Storm, struggled with new characters in Overwatch 2, and found 'no evidence' of systemic m ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-18-blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/index.json",
-      "webUrl": "https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/",
-      "originalUrl": "https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/",
+      "webUrl": "https://www.msn.com/en-gb/finance/technology/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/ar-AAZHTtg",
+      "originalUrl": "https://www.msn.com/en-gb/finance/technology/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/ar-AAZHTtg",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/YNWMv9kNHRsBbdhkToRWQQ-1200-80.jpg",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAZHTt7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=603&y=217",
           "width": 1200,
-          "height": 676,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,21 +68,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-17T23:56:00-07:00",
+      "publishedDateTime": "2022-07-17T23:56:07-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PC Gamer on MSN.com",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -103,7 +94,7 @@
       "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "images": [
         {

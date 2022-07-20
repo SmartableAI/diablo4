@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/beta-access-tattoo"
 webUrl: "https://www.pcgamesn.com/diablo-4/beta-access-tattoo"
 type: article
 quality: 87
-heat: 127
+heat: 87
 published: true
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
-    excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
-    publishedDateTime: 2022-07-18T09:33:00Z
-    webUrl: "https://www.gamesradar.com/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DA9fdP9EAjcowxFLJkGxvF-1200-80.jpg"
-        width: 1200
-        height: 592
-        isCached: true
-  - title: "Diablo 4 beta access is available, but only if you get a permanent tattoo"
-    excerpt: "Blizzard is giving away beta access to dedicated Diablo 4 fans who get permanent tattoos. In the lead-up to Diablo 4’s release next year, the publisher is offering free Diablo-inspired tattoos as part ..."
-    publishedDateTime: 2022-07-19T09:00:00Z
-    webUrl: "https://www.techradar.com/nz/news/diablo-4-beta-access-is-available-but-only-if-you-get-a-permanent-tattoo"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
-        width: 1195
-        height: 672
-        isCached: true
 
 secured: "n79BCyeDu2vRmO+BCS+SUcWpEMxsegEdI/z5rkxjpLba+wBMXKwappvcz0J+s3mJL2VlUWgF0nKnPSIkJzcvpZlZu7MgKiiXcRKqUJF/3MgFq4ddPd2R/qOTEpVOUE2phxJC7CjeVwXiSZB7ECllgtvCkqYFVBuD8N+NGy0R9uUnOBwhpEsTHJtFVW9suqBciZafwnTIecHB/kATCRKEKLZhRfKA+pMAXw3DN8s1uhaZaFgfPvAk11zCkqjILSdVI/KL3B71sWEH+7/nEtHLxoTc4RI8FnCI56dHUGkoIJy2T1JsNOuxXW466qOeXbO1IXeDHddq4w+9azk6YtvP3CADQSj8U9XljwOmUb8MvRo=;jBofBtwzVaTuk9hhE76GKA=="
 ---
