@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-
 webUrl: "https://www.pcgamer.com/blizzard-is-giving-out-diablo-4-beta-keys-to-fans-who-get-themed-tattoos/"
 type: article
 quality: 126
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
+    excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
+    publishedDateTime: 2022-07-20T07:38:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
     excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
     publishedDateTime: 2022-07-18T11:29:15Z
@@ -38,6 +52,6 @@ related:
       domain: msn.com
     quality: 65
 
-secured: "nWL9Jsx71ZN3eMhl7rN0gs/JOthsV194W6rDYyHBy/fMzYfcMOYkEhngi+7Mc6VxGIA3QbspsKVU3i06ye/HVHd/tbNCNQsaVyNa9i4E9VosNi1BQBx2asJrApSL5pJLVa85xLYPSfpUByBw/YWER6MGkxxSfsd5tOdyp62JzAzpBbKkadAxMZBjOpuz2nKHWv02AopEE+ptbD9g494sqaKUhE01OpEWu/EAyi3Nb6IeZwbkYlrRESG3VeYv0+eWxqdcuIdPitN07pi8+9ySbPzZPJmreFJYPG1Z0DhPiesHdxNqK4rznW6VZBaf8kC8SfN1sWU1L1F+yt0ddXBhpskeOEurC8RCAbz4DN91Les=;5OlyWZ/6ny9qvh+nSoNgFg=="
+secured: "CavyX0SH74Id3p/xhV9+0g/OeQBNiv15gCLykxzB31zSosIU3SQcAd5Yw7lVZKBJyp9NJawUVy+Zxo6vsXBWUX+RrE3Ea+neEDj3/f6zujb7t4TQ2ShJoz8kyV69lTMIb2nPu02XaH2bvrPpzHt6ScgCU+rmI4JD8T6vmrMwU8kTf6NyQDSMLVVPXHfY4PFz97FC/i3nPu+N6EZ0WUsmWITo0VL+MmCvYKeT1COI2no44T7RYUgGTrpVz3cQv+1ttRijO1hnMYRjVKmwEC2veQKAVkLGIQNrcHB+fvOCRFmrzuViM58DanyTOdpiW5/y+/vKnJnKK8+s9iPfThX/v1EL5pVoV1pq4XVwpVEM4rM=;3RrVAg/0aovwUMAzb36oUQ=="
 ---
 

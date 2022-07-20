@@ -32,7 +32,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
+    excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
+    publishedDateTime: 2022-07-20T07:38:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "UY+J7TEM+xsl9ZsAExJy7TWVCtYZ+pWChdX/fJ2p4jMVE8G3T8XCMI1An0SNkq9lIv533UoyszJwMRkol7+DsBMObBLSAjbWgZdKSdR8etI68emRHzxZRIz5gIxmvJBCp+KqHmvzw0wRyCiUmekgu0S3S2w09B5VzlHbrIitDc5qQJR60Mr5L/n1Ua+vg2s3elgkaj72u7Uz+CShMOMk1S2/UnsQzG3yvkpla2TveONWlvMdblFz0CMtGr/ZJkJIgshpagzUbieb6hX4H/0Fpwck65GGBqSOlVIj2YUuKvEqONKrqXKhBfFmEUb12nShwAHXblcyieQbLHZpxxEyZyCdp8rZY0+GY6YL5mAhvxI=;Vr5rRM7y6YiV00web7oUEA=="
+secured: "Th23oYOEFIPT7JAWO4QXkZJpCcLF41n9hpZ4fb4PzBgjP50prwuGuwefrKHKUS1KMs6TNf2EXxoLaGFyU3Xp0c9VRjuFjPajnItITaoIEHTESj6EbS8sL7V53DPtSu6qbZC5Ur/KVh/BYi4pM7osOhXRkoY5Qhoj8bgcyze+INV4cnSon5soqn7KmsHl/Zx+ZizEKB8/revQpM0npziOLW62gm+x+mN6gP/0SQxX7WpfyXg+vdGTWTrQSIawfETosvTPui/mH+5YfLvM1tN0SxAeXO2i0YfIgWstPWjFb43McSVDlaHWqPTdIpIFv+KriQG7xiI4aRZLXENXprqiZ8EQZHZ0XSoAJfXy53ISTII=;Xz4rOBuSy8dw9k/mv1fBsw=="
 ---
 
