@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
-excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
-publishedDateTime: 2022-07-20T07:38:00Z
-originalUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
-webUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
+title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
+excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."
+publishedDateTime: 2022-07-21T04:13:36Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-give-you-a-free-copy-of-diablo-4-if-you-get-a-tattoo/ar-AAZOQFl"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-give-you-a-free-copy-of-diablo-4-if-you-get-a-tattoo/ar-AAZOQFl"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: Metro on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "Diablo 4 are keys free if you get the game’s tattoo"
@@ -56,6 +50,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
+    excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
+    publishedDateTime: 2022-07-20T07:38:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 beta access is available, but only if you get a permanent tattoo"
     excerpt: "Blizzard is giving away beta access to dedicated Diablo 4 fans who get permanent tattoos. In the lead-up to Diablo 4’s release next year, the publisher is offering free Diablo-inspired tattoos as part ..."
     publishedDateTime: 2022-07-19T09:00:00Z
@@ -79,15 +87,6 @@ related:
       name: GamesRadar on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
-    excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."
-    publishedDateTime: 2022-07-21T04:13:36Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-give-you-a-free-copy-of-diablo-4-if-you-get-a-tattoo/ar-AAZOQFl"
-    type: article
-    provider:
-      name: Metro on MSN.com
-      domain: msn.com
-    quality: 67
   - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
     excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
     publishedDateTime: 2022-07-18T11:29:15Z
@@ -98,6 +97,6 @@ related:
       domain: msn.com
     quality: 65
 
-secured: "8+DrXFpWQhn1vZMn9e3G9e75P8lsjFetwIc4VWXjiZ/RjXtVhXOcXVk52eSTdQ6/5l3Nk1+Dh2FdBz12TFHPrft2IjHD3UKYjdruyskRapi5UimARwee9KiYF0XaAE0JisxtS7HvVnIX3IZZ0e6mDn67o9nYs26W7KO7BrDNIX2XRxddC3yH1E4282/xh4vrBVe8Cb2Nne/TJd4SWv7ZwS6DCDWC/1KYAAPVnFHw5CGs/cdFLoYrUd8Yu94eXjo1T1ZY1uIlnHJNXDpqZZbvr6URDUtpkvNoGS4nDO34x9q/WIzMQ2/Xsrk+ERyC1zq++YZ0QC6gAhCbOgQuiCTZQtwA0nMkTMO614XWMpbJbpc=;dX39nO44WHF23nFPvpFGeQ=="
+secured: "VPwtYdk5Ie+n4lbkopjOull8nu6kdwAflgP3FTWZD7UdaCrashtrMRnYNRw/MTN5AKNX0/b5X4OYMhfLx22nHYzVUCqJ9oeMqgqizAtxk/+w5gfOUewafCByyrz19Bzk/jBOyb6vBlO5GPCSxS+Qvh06pLUvtvz3y4q2fMmP/UhPMbhnGUu2+1/LJvFqy+58Crm77av1yHt+gqWDioZtIHIWFLGfSQoT42SFGM40isOOwhGqQDPst5xsTbLrFo+o2nL4dUMHTP+5FkbyTU/W6Vs7zAMEB82/YT0QpPXYq+FcNROdGxNbRWvhwBObNkeF0P/IAVNsmCAVVZKljPmwTrIIw9eicVWm3xCTpmRKVc4=;9bho3CSINWPTj8YggWMjOw=="
 ---
 

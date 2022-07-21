@@ -87,7 +87,16 @@ related:
       name: GamesRadar on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
+    excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."
+    publishedDateTime: 2022-07-21T04:13:36Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-give-you-a-free-copy-of-diablo-4-if-you-get-a-tattoo/ar-AAZOQFl"
+    type: article
+    provider:
+      name: Metro on MSN.com
+      domain: msn.com
+    quality: 67
 
-secured: "Y7iSIP9vSygK2LJ5JTjy9deQdzbCPQkvHKLGeyXhZI4eF9kO8qs5UyGcYr9Mrh3IrJWgVpa/SScLskyt70SSvjv4faYGkRndHn7X9+yh/nPh7dPkXzJoGS3AI3fIunpJxSY6vOvaboZEB+gG+dlRB1qTQ8ii8aOe/UaPRdlqBcXMg9E+NACAtWVViOm1QNEpbDcx2GI5rZ+y1yV6AqpzBm2DzYP7cnSlrZ0X9JmWb2FrNl/Pjqvyz+Q+eIi0xadCw3KjOYWKz/OoyeZWDqvQzM0JnTzWIhAAHQJNfRYC7FBxePUCOuVPXVcs2apv7kY3EDBrvk38zchVqWwlPlhsTFtPYfgEdN6b50NeEqBTzuI=;ksCASc/6VQGcj0clGn833w=="
+secured: "gFQuAM5DzIMqNLs0gPxtq9BFe4fN5BNT1PeTCeJlQpLNV1i1o7ydTToEmmsVYMQl48st61YmCVPijqrVya7qAAfv0mqGzUpAMbRRskIWSsQIQHXX1/EJivRCb2CS5yfX9kavK1rXlxMV8Tna5cJo/wBXR4eaeuqpFSvwU7WRhjXdhXt4XZfQr+SnpHR02RwAiJfJGl/2Sm3HBktrwthA3Qi89vHfxB76f/FEdF9sCbgkzTGYL84ZWIzY+5TiyCCDWJfY/zQlecmc3xg+hcxTtVQpa4yiO8WFFByAIiPyxeaJBY5n/yKPSioz95ZG6LQ+gPLiAH17w6jG/+4Mz6vRVidxRvY+acA6gH9N1+es3sU=;mUQ3ANxwPtUMLGwmFOyMFQ=="
 ---
 

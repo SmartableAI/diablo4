@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/am
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
 type: article
 quality: 107
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
     type: article
     provider:
       name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 67
+  - title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
+    excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."
+    publishedDateTime: 2022-07-21T04:13:36Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-give-you-a-free-copy-of-diablo-4-if-you-get-a-tattoo/ar-AAZOQFl"
+    type: article
+    provider:
+      name: Metro on MSN.com
       domain: msn.com
     quality: 67
   - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
