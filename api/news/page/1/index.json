@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-20-diablo-4-fans-receive-free-copy-of-game-and-beta-access-for-getting-diablo-tattoos.md",
-      "title": "Diablo 4 Fans Receive Free Copy of Game and Beta Access for Getting Diablo Tattoos",
-      "excerpt": "The Hell's Ink tattoo campaign was announced back in June with Blizzard laying out the stops planned for July and August where Diablo fans could visit to get unique Diablo-themed tattoos. Planned ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-diablo-4-fans-receive-free-copy-of-game-and-beta-access-for-getting-diablo-tattoos/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-free-game-beta-access-tattoos/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-free-game-beta-access-tattoos/",
+      "path": "_news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo.md",
+      "title": "Diablo 4 are keys free if you get the game’s tattoo",
+      "excerpt": "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo/index.json",
+      "webUrl": "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/",
+      "originalUrl": "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 207,
       "tags": null,
       "images": [
         {
-          "url": "https://sportshub.cbsistatic.com/i/2022/07/20/9f3d4a56-f68e-459a-ad5f-b6f13ddf1773/fifa-23-havertz.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,55 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/",
-      "publishedDateTime": "2022-07-20T05:58:00-07:00",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/",
+      "publishedDateTime": "2022-07-20T20:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-want-access-diablo-4-beta-then-get-a-tattoo.md",
+      "title": "Want Access Diablo 4 Beta? Then Get a Tattoo!",
+      "excerpt": "Blizzard are touring around North America, Europe and Australia offering free tattoos, digital copies of Diablo 4 as well as a access to the beta.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-want-access-diablo-4-beta-then-get-a-tattoo/index.json",
+      "webUrl": "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/",
+      "originalUrl": "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-demon.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1061,48 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5.md",
-      "title": "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5",
-      "excerpt": "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
-      "publishedDateTime": "2022-06-13T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

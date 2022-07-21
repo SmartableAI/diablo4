@@ -9,8 +9,8 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/"
 type: article
 quality: 101
-heat: 201
-published: true
+heat: -1
+published: false
 
 provider:
   name: Comicbook.com
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
-    excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
-    publishedDateTime: 2022-07-18T09:33:00Z
-    webUrl: "https://www.gamesradar.com/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/"
+  - title: "Diablo 4 are keys free if you get the game’s tattoo"
+    excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
+    publishedDateTime: 2022-07-21T03:42:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DA9fdP9EAjcowxFLJkGxvF-1200-80.jpg"
-        width: 1200
-        height: 592
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
     excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
@@ -54,20 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Want Access Diablo 4 Beta? Then Get a Tattoo!"
-    excerpt: "Blizzard are touring around North America, Europe and Australia offering free tattoos, digital copies of Diablo 4 as well as a access to the beta."
-    publishedDateTime: 2022-07-20T03:55:00Z
-    webUrl: "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 87
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-demon.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 beta access is available, but only if you get a permanent tattoo"
     excerpt: "Blizzard is giving away beta access to dedicated Diablo 4 fans who get permanent tattoos. In the lead-up to Diablo 4’s release next year, the publisher is offering free Diablo-inspired tattoos as part ..."
     publishedDateTime: 2022-07-19T09:00:00Z
@@ -82,6 +70,15 @@ related:
         width: 1195
         height: 672
         isCached: true
+  - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
+    excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
+    publishedDateTime: 2022-07-18T09:33:20Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/ar-AAZIj63"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 67
   - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
     excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
     publishedDateTime: 2022-07-18T11:29:15Z

@@ -1,39 +1,31 @@
 ---
 category: news
-title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
-excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
-publishedDateTime: 2022-07-18T09:33:20Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/ar-AAZIj63"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/ar-AAZIj63"
+title: "Diablo 4 are keys free if you get the game’s tattoo"
+excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
+publishedDateTime: 2022-07-21T03:42:00Z
+originalUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/"
+webUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/"
+ampWebUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 107
+heat: 207
+published: true
 
 provider:
-  name: GamesRadar on MSN.com
-  domain: msn.com
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - Diablo 4
 
+images:
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
+    isCached: true
+
 related:
-  - title: "Diablo 4 are keys free if you get the game’s tattoo"
-    excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
-    publishedDateTime: 2022-07-21T03:42:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 107
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Fans Receive Free Copy of Game and Beta Access for Getting Diablo Tattoos"
     excerpt: "The Hell's Ink tattoo campaign was announced back in June with Blizzard laying out the stops planned for July and August where Diablo fans could visit to get unique Diablo-themed tattoos. Planned ..."
     publishedDateTime: 2022-07-20T12:58:00Z
@@ -78,6 +70,15 @@ related:
         width: 1195
         height: 672
         isCached: true
+  - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
+    excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
+    publishedDateTime: 2022-07-18T09:33:20Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/ar-AAZIj63"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 67
   - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
     excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
     publishedDateTime: 2022-07-18T11:29:15Z
@@ -88,6 +89,6 @@ related:
       domain: msn.com
     quality: 65
 
-secured: "n3SY187EIdc44qeEcdJUlv8q8gY2Ljc2pxlFMk0Aq52Dm2Fdc+b1B+cnINxYkVclBT+9FOV075hVRIf1sm7hRSKK3sS9BVQy0jwYSOVI+cycWZZ0qvHI9pGUCST9jw0bZxqanJrEKR2YNptYu5AFy+yWl4fa2vCG2sIcOU5K6mKCk0gTxjxHPzB0fgYmjcshBT4HskT8JKygRCL4tSvhj68rKP6TbPCm9MQdeaAdx2V7xRNkziZnwALw15KPJeEJlaXqp76psF2ncyQaoPfQ9KYz6Oa17xv/lDWcMaVc9HXbLk3Vg1bclsQsQkkDwUXTR3ID83lGtJJ/inZb3lqmPwMHaUV7sUSWf5OupaQAZBU=;b1qkoL5wpX0kDDGieR452w=="
+secured: "iHPE8m2DpcqBcPS13rv+8SEX5UrN8PZv1e3+bhV6xewBl72d0iyFSQi72xA8BTxJeF8gn2CQ46e1q6dUOKz3P1OgSFVBuWFsIqLZsK+00LjQr2ZmHe4KQ88iz8naZwmno35axGfMpkAnblg0OXsZDHApizm1nsYZVIFRvX5CsMHOVYIlcAVU6NYhXX1S87rutlsGh2RpKN5Q6DQgDd6s8GCrT2t29DqBMXKdHKlYIIEnyjkEqZGZSorRtOWhUa9AZV/Inx1xZCm0ZAXxUc5N+Z+EkZax5yMgWW7CpcmuUFCOIcj7rqf2EL6dcg8IsyND9okl8oAiQhbxZ4720cerodm4rjqIIPXO8DTi0dZkRG8=;69sKfCV2QEoVE5AMc1WkAA=="
 ---
 
