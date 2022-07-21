@@ -30,6 +30,22 @@ images:
 related:
   - title: "Diablo 4 are keys free if you get the game’s tattoo"
     excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
+    publishedDateTime: 2022-07-21T02:42:00Z
+    webUrl: "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/"
+    ampWebUrl: "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 107
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 keys are free if you get the game’s tattoo"
+    excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
     publishedDateTime: 2022-07-21T03:42:00Z
     webUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/"
     ampWebUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/amp/"
@@ -74,6 +90,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
+    excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
+    publishedDateTime: 2022-07-18T17:52:00Z
+    webUrl: "https://ftw.usatoday.com/2022/07/diablo-4-beta-keys-tattoos"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+    images:
+      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/02/Burning_Crusade_Classic_BlizzConline_Villans_1920x1080.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
     excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
     publishedDateTime: 2022-07-18T09:33:20Z
@@ -92,16 +122,7 @@ related:
       name: Metro on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
-    excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
-    publishedDateTime: 2022-07-18T11:29:15Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-keys-are-available-for-fans-willing-to-get-permanent-tattoos/ar-AAZHYbp"
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 65
 
-secured: "i+8WlaDMWBZuUs3NQPPnMJ4T9d0+3wUQM/Dofp6WqaLCyqNLNlfbUufjj6guLOQvNocSXvesqOSnxFKGYJkx7Zt2cGRuLwKcWHAuaMorXvsLwejFSeHsfQ/u1snE+T9hTCc3PnbTioIbYAIpoNlqFzwWKeeYzh5gWO9EYnxgiGNa6GPb3Cs/tAfVoo7FoWg4oV2Jon6nK6gAPaKUqqD9BZ/DJPnykyIv9xgjPIYyEcvNUFtsPxyP+50ke6brRJ0MBUcpas/6wt49mc+IMJ6lf0MrAOcQe5nZ6w96JLfokl1ANM/i0ht/7kroEsjZ3lBd+P8cZ5PdBUC+bsAt0ZFNjuVOKc1RJ2bLJjwsp1dhwiQ=;B2JWBOqVK6M2IeYTW3aTUQ=="
+secured: "FPADO/EowH6gF0sxaLu3XvkcR5Tv3xFH+AafpIp6Zm8SE2V24e5E0t/0i1qybzR3Fl4LN+lN/+4LsqddRwDLsA0Gj2gZO5m0rezVTpmBzTssLv9qMQhbZLB5OIFpLZ0wSRuOFag545Hi31CJQelXsAaDJrxs4/zIKbrXaNm7PHWFb/GQgJeTBV+tZyKF3Z8y9P9f1W4Mw5ZS+oYKnUMHSE/R5IIu6boLnva5OdvcdLjzUAaZOO7u/ieKk4L2i3fYi6CwNI90WgNPfHgyMWlfWMCR2mZSHqGNSUhO+WxQLrraV5tAiaHCzkMyzbdHmUkHVxZhMZsLSe5doxUWs0erL9wcdYgqy5ALwUZ6h6Kz2Ck=;yL/mDb/7nGbhTlgckbnuGw=="
 ---
 

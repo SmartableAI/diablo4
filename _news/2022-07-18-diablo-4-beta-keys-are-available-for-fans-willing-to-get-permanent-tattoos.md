@@ -2,23 +2,45 @@
 category: news
 title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
 excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
-publishedDateTime: 2022-07-18T11:29:15Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-keys-are-available-for-fans-willing-to-get-permanent-tattoos/ar-AAZHYbp"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-keys-are-available-for-fans-willing-to-get-permanent-tattoos/ar-AAZHYbp"
+publishedDateTime: 2022-07-18T17:52:00Z
+originalUrl: "https://ftw.usatoday.com/2022/07/diablo-4-beta-keys-tattoos"
+webUrl: "https://ftw.usatoday.com/2022/07/diablo-4-beta-keys-tattoos"
 type: article
-quality: 65
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: USA Today on MSN.com
-  domain: msn.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - Diablo 4
 
+images:
+  - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/02/Burning_Crusade_Classic_BlizzConline_Villans_1920x1080.jpg?w=1000"
+    width: 1000
+    height: 562
+    isCached: true
+
 related:
   - title: "Diablo 4 are keys free if you get the game’s tattoo"
+    excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
+    publishedDateTime: 2022-07-21T02:42:00Z
+    webUrl: "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/"
+    ampWebUrl: "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 107
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 keys are free if you get the game’s tattoo"
     excerpt: "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ..."
     publishedDateTime: 2022-07-21T03:42:00Z
     webUrl: "https://www.thesun.co.uk/tech/19271115/diablo-4-tattoos-free-game/"
@@ -97,6 +119,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "gFQuAM5DzIMqNLs0gPxtq9BFe4fN5BNT1PeTCeJlQpLNV1i1o7ydTToEmmsVYMQl48st61YmCVPijqrVya7qAAfv0mqGzUpAMbRRskIWSsQIQHXX1/EJivRCb2CS5yfX9kavK1rXlxMV8Tna5cJo/wBXR4eaeuqpFSvwU7WRhjXdhXt4XZfQr+SnpHR02RwAiJfJGl/2Sm3HBktrwthA3Qi89vHfxB76f/FEdF9sCbgkzTGYL84ZWIzY+5TiyCCDWJfY/zQlecmc3xg+hcxTtVQpa4yiO8WFFByAIiPyxeaJBY5n/yKPSioz95ZG6LQ+gPLiAH17w6jG/+4Mz6vRVidxRvY+acA6gH9N1+es3sU=;mUQ3ANxwPtUMLGwmFOyMFQ=="
+secured: "mG4TTnAmQrFi6wwUKRsvfiVQIbMcXmrc5Y7MigQS5OscZIuW4jpsv43D5SdZ9V15vLom2v2W0T9UVjxAWrgvbBn9LyxupSgeh+hG/N8w3wSs3SkwYy+oVzqrtxCJ9eJaT3DtkYYFr6Cs+0ZNAjfkrvwk1rHdNjq9POUBgZx+6k5xjfRaW9iL1EGaTWp9RyiFHBEs4iey73tmfcIUeS7O0kNrMI6PxHHKJ6bICHZ70KwjKm0SnPDMkgvH90hY+brWKk/7Nnek8pizF50Yg/BXl5meIsAzFx9rB5zz5ypn56Pe3oQk8rPP99S05lG4/BPAJP1c0i3ceh/7sXjXX5tdRFKq5tgLnVWSiYq01AAhcfw=;0sfy2EcG2AH/MlY/Eb6UmA=="
 ---
 
