@@ -92,6 +92,6 @@ related:
       domain: msn.com
     quality: 65
 
-secured: "Drpusgo6RBs4yk/V9Hi7Rr7mvxjk4JvBK2hRjzIrZJntORk9SZiNkGTMuRyggjsf1WYYRHvP+ig7wi5gfaXK/43TNOXOTAllvIMLb/VZeafqHL4jjK90SRPq9rPgctXD+wn0dpuCyJVvxZ0GYTitS4FYvxAOa7B6Mb3Bqx4v43gOJxIZiUI2xaC5QxfNLh3Ir9O6XrnDJ4UUWWzAY0RcHxdBFHHi2zbwvFfEHYa1TS/9Sdojfn8BMIlpFtbK4u41MOpMsof1i6qPao7ykZm9C/190tFMd/cML/tSvLZ3+/P5xLnUk5tPOSLSeTxw6U5AjlkNX/mSbmcu2hutX6SB/H+aUQnzxwe4Yfk+nkbkI8s=;XLAiRJClkTvEPoBbCxDOjQ=="
+secured: "btTZXau47oeTRbT6gEjTssK8mheDfUe+ag87SUH5Jt+fe2uq7pAGP4wf3sadsfPT+uIrWOycvnHL/nfxoi/C7mc+mhzYcfyDkdM1DU0jB0wlVDuGkjbDKlOhyyKXvG2ss1UeGsEcPGfYxIbY5c0eKi1froQNSGX8seaQDXjkrizMbn3l7eunjdfh2tmQItf4zcjbfiZsIIisVpr9gQNUMUqkz9w3ahgN3VfOwDlkb9ift9DftGCATwNFv0zFEn6boVfpp+787YzSI9nD7BL/ktouJvytW2kiL3NycnC3ZCBwI84sA/cz2a9kW6hhSoO9QkuVpQd7YBdS/QjFtCwwy3xXn+ih/YufUNyYeB41jkE=;cFToN0ejBkYqA0R314PkmQ=="
 ---
 
