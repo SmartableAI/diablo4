@@ -7,8 +7,8 @@ originalUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-laun
 webUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: GamesRadar
@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Fans have spotted the Diablo 4 beta on Battle.net launcher"
+    excerpt: "Some observant fans have spotted the Diablo 4 beta on Battle.net. Although the beta isn’t visible on Blizzard’s launcher, the same cannot be said of Diablo 4‘s presence in the configuration files."
+    publishedDateTime: 2022-07-22T09:30:00Z
+    webUrl: "https://www.pcinvasion.com/diablo-4-beta-on-battle-net/"
+    ampWebUrl: "https://www.pcinvasion.com/diablo-4-beta-on-battle-net/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/diablo-4-beta-on-battle-net/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 107
+    images:
+      - url: "https://assets.pcinvasion.com/wp-content/uploads/2022/07/diablo-4-beta-spotted-on-battle-net-config-files.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Diablo 4 Beta Found on Battle.net"
+    excerpt: "After a microtransaction-ridden Diablo Immortal experience, fans have turned their eyes on Blizzard Entertainment's upcoming Diablo 4. Although Diablo 4's ..."
+    publishedDateTime: 2022-07-22T07:10:00Z
+    webUrl: "https://segmentnext.com/diablo-4-beta/"
+    type: article
+    provider:
+      name: SegmentNext
+      domain: segmentnext.com
+    quality: 87
+    images:
+      - url: "https://cdn.segmentnext.com/wp-content/uploads/2018/11/diablo-immortal-e1541414247407.jpg"
+        width: 698
+        height: 349
+        isCached: true
   - title: "Diablo 4 beta spotted on Battle.net launcher"
     excerpt: "The Diablo 4 beta has appeared on the catalogue config for the Battle.net launcher, suggesting players might be able to get their hands on the RPG game soon ..."
     publishedDateTime: 2022-07-22T03:01:00Z
@@ -53,6 +83,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "1gnN70I3U0u0fmbogDEqZdul/QP2h1Y4LaY5Ymf4zrbaxe/DPx7LvDQQ68uC0SGwm47HMqXT7DfUhE3sG0ZUhFkF8xAgPGU2gRCdPbnYtnbpwMmY86wAhhoyBayaQL/heZfzpGbH3P+Ot1ahguqcaTGkgCGRta6TWGHQ6N1fNoWmsinUc3N2X5vI6fJNP6YQMoQ2aaK+YoJkR6a7i8ql2qf/FOn3TTDgafpmB1EyThDfb3gb40A/7i5YP8/t2iFXnBtKSUQmdsPZT/eFU0diHcSFJNlYIIFfJCeOQlWTASDC/fzCoFOlTWg6SvdWzN6ko0UhHHejorIccyWxus2KnKSQXkGwV23r1uiXBraK5IM=;V9inbAgNL8QQLmu2nmGfAA=="
+secured: "GAESDmSBMdyBiz8R3WOQb6RnMfV8PAu+IIQOx7NVPs+rifAq7q2Zt+Q+a/XeDzD8n14muYWgY6HyO/V3FS51D4SItmXBLEfdBTlXur6dPTg2MsPucpqEOif1dYbiTAGUmrj8VoHB7EuaI+3fzCAbGr6GlIR9lmJAozFgDEgpy6o6cilB+ZclOzJHR52myFhpi0kL6MSUK/0vGeW6GTFBPR4TsQswlR4hCGQuhUrsWf754sY5q7L2h3xZ5gtaeNmnNu62S9AxNqE723C2rbc9x5fbzkOHkGdpWzRJVxAtn4euVAcRpGjnxlbrqrdhgRSKTFjbho4MAHwRW0EyrHeDrUKD1xaA1rdCl6sC9eFyu2k=;LlUfbSVr9p4yCP5kYySsmA=="
 ---
 
