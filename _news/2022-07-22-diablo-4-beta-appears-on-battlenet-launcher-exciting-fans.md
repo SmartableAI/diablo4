@@ -18,7 +18,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/sqFZRodt6YFRb4upjAijAo-1200-80.jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -83,6 +83,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "GAESDmSBMdyBiz8R3WOQb6RnMfV8PAu+IIQOx7NVPs+rifAq7q2Zt+Q+a/XeDzD8n14muYWgY6HyO/V3FS51D4SItmXBLEfdBTlXur6dPTg2MsPucpqEOif1dYbiTAGUmrj8VoHB7EuaI+3fzCAbGr6GlIR9lmJAozFgDEgpy6o6cilB+ZclOzJHR52myFhpi0kL6MSUK/0vGeW6GTFBPR4TsQswlR4hCGQuhUrsWf754sY5q7L2h3xZ5gtaeNmnNu62S9AxNqE723C2rbc9x5fbzkOHkGdpWzRJVxAtn4euVAcRpGjnxlbrqrdhgRSKTFjbho4MAHwRW0EyrHeDrUKD1xaA1rdCl6sC9eFyu2k=;LlUfbSVr9p4yCP5kYySsmA=="
+secured: "h+Q3th2ViZjLsR5CeDMkVRfb4bdM4bGXmjp96td3g+QF9XUAVYC7DllXnxO4GTynV9NVyZ6Nrmmy0LYvUfBBVfHZYTQr/ZmlSXfaaXtYddBX7LPoA3cYvePRr2hMEpOjDk9rsYqgOi/X5p7soVDjmmm0+osq5VHcLd1yaUO6WrOnVJKDFjjiNy7fKTGbqvhKKvm54rq0R2o95uJGAkTjcWabLQmLnTp2GHNooPvww5Vr9h6TPzBTaURlIuvNpgq2CPJaHG4x/iV8KHfRkOZC+tLS25C6mXNlesGsIlzp42SyKJiJT/OCRFs2YsW7goWR5J77r8ubdB5Eyq1Y75d1kiPhoJHtmSFr2syBLmrBEW0=;HBvklX9FPCysmFa6ALJG1A=="
 ---
 

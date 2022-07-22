@@ -50,7 +50,7 @@ related:
       domain: gamesradar.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/sqFZRodt6YFRb4upjAijAo-1200-80.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
