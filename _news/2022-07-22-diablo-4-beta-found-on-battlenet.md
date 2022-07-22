@@ -40,20 +40,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
-    excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
-    publishedDateTime: 2022-07-22T04:04:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 beta spotted on Battle.net launcher"
     excerpt: "The Diablo 4 beta has appeared on the catalogue config for the Battle.net launcher, suggesting players might be able to get their hands on the RPG game soon ..."
     publishedDateTime: 2022-07-22T03:01:00Z
@@ -82,6 +68,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
+    excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
+    publishedDateTime: 2022-07-22T04:04:15Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/ar-AAZRaAz"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "iu2RV5L6Df5Bkn5POLKfDiVZ1N9JqSPmWH4PT+tRdAK1bF+qkEmfkGPXQCGwADN82LiAcVg9ny/GO66/QfmwrldULdHq4P0/+nI5jGwRa+EykfBANSTLE0ru83Yeih8d1Mw3SRdof7uZCbagDoP4uhsLvAg/iSCowEI1SNQo0870htCPx6Aj4k+NNrKOVqgjoH8AzzxVgilc7Q4UTVUKMf9SjEK3LEYU4cnrIiC1FZzL9jcOYo/6MSfAIaPrqse4mv4ARy99Dfp/gVuuzaZDYEVzQGFCeA+q3tqbxgXn+/LPaTYCDypAdxx5BvNtOXLATQ3Ht8waBlU+qZW+DDw93ABIkzCTSFSwIkloX1YmP2w=;zCYySi7NhDo1QDzkJK/QMw=="
 ---

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
-    excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
-    publishedDateTime: 2022-07-22T04:04:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Beta Found on Battle.net"
     excerpt: "After a microtransaction-ridden Diablo Immortal experience, fans have turned their eyes on Blizzard Entertainment's upcoming Diablo 4. Although Diablo 4's ..."
     publishedDateTime: 2022-07-22T07:10:00Z
@@ -82,6 +68,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
+    excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
+    publishedDateTime: 2022-07-22T04:04:15Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/ar-AAZRaAz"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "lDOjl8m3DWVHlVO6qkexblkHcfNXSqB2wVBRXGzxq5Fy+XQmtIlWKcWHZ/QnMwowvvxV0SB6Jp8RAOYZOo2tu3Q9fzm3A6pRdDSfnC3H9MksXfbBKl6u90XhhersfkpYx1FZRorfJq8h3AEWWPbGTCy7N6qcwe+HVqQxkwVex+J9BXnC9OLqI2EcY/4lIY+8HHXzXYaYw1WHldQ1rl9WhG+RswclbzP+pAtq5vslgbDcpvlNbivXyu/uXF2vqgj2n3tl/kHOcp065idVqR6sn8VklPfu0a6JvOkt0c8L/E1IqdWEmiE+OMWM3Kyu6TyojDJQKEzOQj+PDRcUwwuYXyc46zKnJyWFmv5Crxcq69k=;kzIKHb18Hjy4gpYviJDTxg=="
 ---

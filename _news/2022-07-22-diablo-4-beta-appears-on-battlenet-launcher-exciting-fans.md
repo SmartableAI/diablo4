@@ -2,26 +2,20 @@
 category: news
 title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
 excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
-publishedDateTime: 2022-07-22T04:04:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
-webUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
+publishedDateTime: 2022-07-22T04:04:15Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/ar-AAZRaAz"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/ar-AAZRaAz"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Fans have spotted the Diablo 4 beta on Battle.net launcher"
@@ -83,6 +77,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "wQQo278lTz1UEg04FBfBc0zgUeV1wPXxY9EntdNq521XrwuYgY+WhkWQNtAGzrSYKyojpWy2+balcByRqdHvA7ZN4MmMJx0KWRFk+3N7G/bJojAYtd/TFysM6z2dc1Q6todxPgNQ7SvpOqsyWFgh8FrzeutuvhbyCEjEGb3PO3gE2xsCCMBAOSSWEamOPD2+Nttp1RjW0Xt2CBIWig8vFj49eG8ayKCyRZqDSAlcCh40kzYBgA+pkcIatneluroRDJ9QS3s9iJHdOzRFPjJQZK+L1u5Ui34ppdrFdXrsmvkKMH5KLnUS6QZL+AA/r2MNDulHEhhiP7whGPNeBNiu1xly2ly5vNChA3y+RplLpdc=;/f71S+75bLGJEu1pBTNJ0A=="
+secured: "Mjr+AlyoDhwCj+QQNk+nhAw/9sMEtSg2szh1OZvY+kSLk9MhfacxnlhqaNkuTLGkabbHlT3CVVN1ylfSTlBxZhgEs28RMn97tj/n1gVl8ysLjQMvitJ6Y+NmkgUvrF5LuZueu4mcI/S/21BmN7IlpJKC3jZcd6CUfk2hUXBkAamgVHs3UurxiArclnbkrj5e9Kzv0P3MhnSDaBCOCBUP4VvSz5fa9S1+jj9syVjo4jrz7G10dyoo2jipLXNamZIMAlYIer+MKC9djfwo9QFTBCN85DtFMf1CeaQjmDhzvUc+UbEX0rJt6Sn0WYdsYvWQWPdLFLhXDWqNYc6nIvTHgXQyp6jW7d62LTtwPHQPDUY=;7UxQ6cpxo8zUbiSn9aq2FQ=="
 ---
 
