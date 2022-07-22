@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-22-diablo-4-beta-spotted-on-battlenet-launcher.md",
-      "title": "Diablo 4 beta spotted on Battle.net launcher",
-      "excerpt": "The Diablo 4 beta has appeared on the catalogue config for the Battle.net launcher, suggesting players might be able to get their hands on the RPG game soon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-22-diablo-4-beta-spotted-on-battlenet-launcher/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-battle-net",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-battle-net",
+      "path": "_news/2022-07-22-diablo-4-beta-appears-on-battlenet-launcher-exciting-fans.md",
+      "title": "Diablo 4 beta appears on Battle.net launcher, exciting fans",
+      "excerpt": "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-22-diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-battle-net-launcher.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.mos.cms.futurecdn.net/sqFZRodt6YFRb4upjAijAo-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T20:01:00-07:00",
+      "publishedDateTime": "2022-07-21T21:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
