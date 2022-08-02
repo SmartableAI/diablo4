@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-22T11:47:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
 webUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: GamesRadar
@@ -17,12 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "F7XpsQ7CjIeS8CnnWxXkpj+nk+kwyz0PC7pywmHXRXlhYOa+5qRxbHXyYuTWNxKV/GRjKG6+2TFw0wj+lJgoEqiMWICm7PJfofrxp/B0WSoMhHBt/GQcRawlYxP7T2qzjkuLGUaFoO3FIz38muWgz4T3McZCaV7gPxy5pOGFru6YTo+zYBUs+/jo2W52UsqZMrk9MKMCl5lE1rVLh/btyUByRQgqc0cju9rrOsYwHiHcLASZ+H++MnWXYi3AEuY+PLHrmRptGZcayXNL8w2h6FWX7LXlOajYElXjIDBLdbgIqLWJw2H4A3psqzkKLZTw6RSKH+A4Izw4I5yPe1LVNDvbm5raOLkn9H1SM2mJ5rk=;bvbW2CX3hB3C2PdJ5ZhkaQ=="
+secured: "31Y10JHEaX060+wYI2YMBlNYehwpiWGhbrXQMTyHIpTg5Lq18tawMnl+iMWcHrN5q5fcbksCQxxynMQwXKqgnQCsLTyA/vJcHEzH4SYW30vHFxt7TcH+zW1VOMjAHKDNVjOCpfAoFo0tSHWdf5t3n1yC4eYnEBIx//EwFSsmhmVk4QE5Hd0jqdUBV0YVrd0QcoPjZgoAQIQNa0HpBUdc0oLvz9EpNwdeSCN8qx5d94YCBxHsA4nlhIw5KCe/Sx3+6P5C6OBoS+ccDV2LgQgfZmcD1sGdxpG0OVS2TSm+NCagvG+r5haujJhHrZmxwY8r4L0F6/eiCredPggnJfliG0t0JHZBLRuk+MEoFSEPQbk=;ApRZijyH4B5dePBDQW0now=="
 ---
 
