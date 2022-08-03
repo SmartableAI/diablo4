@@ -1,28 +1,22 @@
 ---
 category: news
 title: "That Diablo 4 beta is just an internal test, Blizzard says"
-excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
-publishedDateTime: 2022-07-22T11:47:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
-webUrl: "https://www.gamesradar.com/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/"
+excerpt: "Update: It turns out that the Diablo 4 beta spotted on the Battle.net launcher earlier today is just for internal testing. Series GM Rod Fergusson took to Twitter to clarify that the Diablo 4 beta ..."
+publishedDateTime: 2022-07-22T18:16:00Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battle-net-launcher-exciting-fans/ar-AAZRaAz"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battle-net-launcher-exciting-fans/ar-AAZRaAz"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/K8zbpjXSxBu6csNoWF9LaZ-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "s46b1LbE1h9XjQlDb9MQvbesbIDcNAEWLr+v28r7oLEQTGiKyVzgydMhh5mkMQChbVc0GqeaxQFeyCRSSRDG8HGUTnIPDOFq+IOJFrTkcIZ1fFoyoRmw7K8WCLLps0Ir5KuVRvWNY1x1c4aPGPdRPZfcKt0e/dOSbVWUChQoKBgyA+PchQlPvoC+898CzDCUO171TAEvLgOo8/isj2iuevHnFl6h5IK56zsJCuhTsZmiY7GFFG39cvGbjEbQmD6y4ubqBkD4CSaLjGsGkGy/CrZGS4Genjo+Jqtsu53GvMjvpwOHe7Lp0zLzsK5QM+/t7OlfowLpv8MMdyhmnaYqmAzVAG34JqDN6nvPmh8YInE=;bHfvctZHiipPGNpKAoKdXg=="
+secured: "hqYqMlJRbnc+bLORzvIKaZmobmu05PQ/iekbcJu9qYm9yYp3CnO6INKbzVtc4Y3hfHkzqUWtKm6tOgQ7H4FqO4P7lEC/rORxC3jYh2aBsh9uZZ5qf+BrEo9p7G4EoruP917Wf+qdblcrW85IqujOPAYMcUe7j7LsFfwyQPq+mz+8+ocJlYBZdA5MgN1DUgMocna8lNF3216NCo4kqn20T6VzKWTtHVZC93s349Qpcq05Nu40AP9+v1jgMriRqCqLjzywgx8mAWd2T/PySSMiDD0o3lPFrzEctAr05ReDl+F2EnHy26W/7VRhw0oe0mkxR0XCOv7f6ocj8YDssxkHS5hCeSdGXfzM6UFWC+R7zFM=;JnVsccuUEIaeJmghqVAfew=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.dualshockers.com/diablo-4-alpha-testers-are-reportedly
 webUrl: "https://www.dualshockers.com/diablo-4-alpha-testers-are-reportedly-happy-with-the-game/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: DualShockers
@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway"
+    excerpt: "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ..."
+    publishedDateTime: 2022-08-03T13:40:00Z
+    webUrl: "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A Diablo 4 alpha test for Blizzard friends and family is reportedly in progress"
+    excerpt: "It was recently claimed that the Diablo 4 beta had been added to the Battle.net launcher in preparation for its release, which hasn’t been dated. Diablo 4 is planned for release ..."
+    publishedDateTime: 2022-08-03T13:29:00Z
+    webUrl: "https://www.videogameschronicle.com/news/a-diablo-4-alpha-test-for-blizzard-friends-and-family-is-reportedly-in-progress/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 83
+    images:
+      - url: "https://www.videogameschronicle.com/files/2022/06/diablo-4-necromancer.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
     excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
     publishedDateTime: 2022-08-03T10:38:00Z
