@@ -66,7 +66,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Alpha Test Is Reportedly Ongoing for Blizzard Associates"
+    excerpt: "Blizzard reportedly launches a Friend and Family Alpha test for Diablo 4 and the early word is that the response is 'mostly positive.' ..."
+    publishedDateTime: 2022-08-03T17:10:56Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-test-is-reportedly-ongoing-for-blizzard-associates/ar-AA10hxDR"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
-secured: "2napavw9uI8pLD/cB5JGpyyRwzV3k7IPpG/gRyYmJivlfG9bL4ism56R5Ny0vck0WTF0wioTnhj2MxuH1kZbIbipG+X+zd5gjlsr1L94iRZtpQQOlQ/me5nniflQlLi2sqrpzjazJLAuV7zSxb5vKOCvSD2EG14LhAVo+jTPSIQWeSvBYucm/LA+Q9VBCEW8CPRanLWudLyKbEDeYmVv6Gumuf0uI5JypmM9iGHyWYBPqO305dpFi6xs0ZffP0l3ZL1tzw5groosUofFGT4dFOzHg8oeZxnEU8gH9Y6C/Jph9nqmN5mHQcZLxW3MxPrbTHlDZCjo56Ic0OkCXBVTyPommU212VPH6PnLy2jnrWw=;QhQGdDmhmhw+802VG0EhIA=="
+secured: "QfhqEkQs6MWhvn/XpWsSyzRjmCr07m1a0mpEkKvCVgD5c5uWjTSRSW+mswcgYp67syKZxQPpHb8BTJQrK0p7X0j9AGY8t+G57kDnqFrZx01E3+GBEg3bQjE5OG1Qm2AFvwkqAMzp2lAJx8xTZQG7erHg60EeRIPsDMJTHU8+d9Q++7GyuTEMzLJvv8oYL5uzVybX7i/Kiy+TAzKdOPa19ZXjZ/p1ZyFiPwW+Quwt31eb2Oqu78A+R7JIfnjuToSCzaaJL1NqtSlZFd5Si63kX/o0fdZsJp2SwtiVOlEKeNDP8o2TFGpiQ46+mdJqFuTxfuLHwu+WJwJXPuQutDnMtpOeRLEcyVUk2n40L46J3pU=;94dEapYaqi1PhGkK4875Dw=="
 ---
 

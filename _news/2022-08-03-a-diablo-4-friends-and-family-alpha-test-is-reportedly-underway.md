@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha
 webUrl: "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Alpha Test Is Reportedly Ongoing for Blizzard Associates"
+    excerpt: "Blizzard reportedly launches a Friend and Family Alpha test for Diablo 4 and the early word is that the response is 'mostly positive.' ..."
+    publishedDateTime: 2022-08-03T17:10:56Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-test-is-reportedly-ongoing-for-blizzard-associates/ar-AA10hxDR"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "C5hbCWRkFMquTAVKpwxJLJDVenASfpNG3yrPVmxEqCcsk02TJz7eIVI/ZPwnRLbI4Ka0zbMkVGCWnOUEONmIKEqQbGnekpfl49DtzkWXIhkxqoOep3MrHz6LfQj2zQXOMhEXV+qaE0swaM9a8D1QyqOtpH+KwJKcRfPukJMp8/1fhyQpkwgFOy51ekSifZgXvN6DZXA0GLmglztmEUZMGvCqf4QZmzxnA+aSRFMzBLq9GR4eJGNBQLlFONrNNVrm5hWwuPBvCgaVNQ5D4qYuE5GjQK5/QuWYu82a8V+szglijF3e48c4FLp5WsON7iM0w9LKqUSgL2kVXMNNJsU96giTvyGYrFOaQeIILemfWIw=;Z26XvgRNogdQaiEQoCnUIQ=="
 ---
