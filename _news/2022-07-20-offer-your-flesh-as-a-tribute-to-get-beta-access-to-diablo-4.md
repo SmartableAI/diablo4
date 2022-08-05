@@ -7,8 +7,8 @@ originalUrl: "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribu
 webUrl: "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: levelup
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "You can get Diablo 4 beta access with a permanent flesh mark"
-    excerpt: "Players taking part in the Diablo Hell’s Ink promotion to get a free flash tattoo are also being given Diablo 4 beta access and a free copy of the RPG game ..."
-    publishedDateTime: 2022-07-17T04:01:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-access-tattoo"
+  - title: "Want Access Diablo 4 Beta? Then Get a Tattoo!"
+    excerpt: "Blizzard are touring around North America, Europe and Australia offering free tattoos, digital copies of Diablo 4 as well as a access to the beta."
+    publishedDateTime: 2022-07-20T03:55:00Z
+    webUrl: "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: Gameranx
+      domain: gameranx.com
     quality: 87
     images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-access-tattoo-flesh-tribute.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-demon.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "v52zs9mnRGhGu8d6WWTnzVlpSQ0eRtR4/TwS38ngeHNTQKXO3pFxnS2mEF79z+/yyn4Kpy//ZjEJ732NmUd3QkraiTAqXQCoZyVaq+rdW2UBYwuA+LaTEbyBtHbbNPd4M0NGonJNSjQ+svtqGr4X4FeqbUSnK5SsF2DANE3kPQEhFbvEZ06Wz5jkBOdpDEmIGBHMunxhFS0T2ikXs7/mGvR0i7rBG6SmbPKiyKVOHC5myuYjhIJf0c0dA5xuYC0OeCVG9O6ZrvtJHMchnXqbIWeCoOMkzg1lcY9kmAI61bOh3H1VklhVYUGT+GOUj+EAaOpLSde6GWr9S/rs1l9sSJm1KKxeSMBZZpiA2bz9srE=;pujhZaZR6f+NhF+8r5og2g=="

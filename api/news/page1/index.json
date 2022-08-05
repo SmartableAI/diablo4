@@ -389,21 +389,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-20-want-access-diablo-4-beta-then-get-a-tattoo.md",
-      "title": "Want Access Diablo 4 Beta? Then Get a Tattoo!",
-      "excerpt": "Blizzard are touring around North America, Europe and Australia offering free tattoos, digital copies of Diablo 4 as well as a access to the beta.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-want-access-diablo-4-beta-then-get-a-tattoo/index.json",
-      "webUrl": "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/",
-      "originalUrl": "https://gameranx.com/updates/id/332886/article/want-access-diablo-4-beta-then-get-a-tattoo/",
+      "path": "_news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4.md",
+      "title": "Offer your flesh as a tribute to get beta access to Diablo 4",
+      "excerpt": "Blizzard's Diablo Hell's Ink takeover event kicked off in Los Angeles on Saturday and will continue through September 10. During this time, fans can get a free Diablo tattoo. But this is getting huge ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4/index.json",
+      "webUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
+      "originalUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-demon.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/751951/751951_600x315.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -413,11 +413,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T20:55:00-07:00",
+      "publishedDateTime": "2022-07-20T09:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
+        "name": "levelup",
+        "domain": "levelup.com",
         "images": null,
         "publishers": null,
         "authors": null
