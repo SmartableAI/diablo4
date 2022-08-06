@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-redd
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 568
     height: 320
     isCached: true
+
+related:
+  - title: "Diablo 4 Test Build Footage is Leaking Online"
+    excerpt: "Screenshots and video recordings are beginning to leak from Blizzard's recently started 'Friends and Family Alpha' for Diablo 4."
+    publishedDateTime: 2022-08-06T15:00:11Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-test-build-footage-is-leaking-online/ar-AA10nT8c"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "AHDinWSo5P6FPOEBB/keeGdxBGY3NljfVCDroo+u47n48nIujQwwLRxIoRUnoCIXKMevYvnjaSgCeP1dpfVR1ZkOX3Up21oZC47fj9TkNcANuZYPO3kHA7IIaZq3LQ2Afk2l/uhcm3wHw5cQO1rlMLZl7pWXdk2DrNWD0dl9D99Hu0Ontmvnp2il6B8waOj1CkMhQvIv3YGNgljUWA/kO3+8Txq8RMzde8IGpmp0MN31n0IJbo32WlvVMKwE4BWNRMu48jCg19VVA/4584KlXW3KwyjDybUVk1tKoVu3zbpDWEQC2jFNMjnuCSC+zVmXQE/ldRi2wamMvwemtY/8yX97bSNNx7Rk4uOCBnoj1js=;YQdyXkRF8+M6/yJx7eb1kg=="
 ---
