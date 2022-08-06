@@ -52,20 +52,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
-    excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
-    publishedDateTime: 2022-08-03T10:38:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 83
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Alpha Test Is Reportedly Ongoing for Blizzard Associates"
     excerpt: "Blizzard reportedly launches a Friend and Family Alpha test for Diablo 4 and the early word is that the response is 'mostly positive.' ..."
     publishedDateTime: 2022-08-03T17:10:56Z
@@ -75,6 +61,15 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
+    excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
+    publishedDateTime: 2022-08-03T10:38:23Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/ar-AA10gGuE"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 63
 
 secured: "fig4E/+5N6n8F0Y5UUTvsNkTk/M7Gv1F+wDkUlQ+pIZ3IKZdjWv1F2+yajTJ75VyRu2AHFBk4th03t0kEq6FlRZCum2vZjBKxnQF0d2IQpkaJnHxWBe+jVI2EiiGcRsY2ikIoo3aCGtfpUOYAUShTYi6ujEEVtCopxPf8jLTvNusdqp1AIGp3WO1mquM7Mjaotqc3MXreNiNB1qpGt1Vet+TE7sifilS3xWYdaoEoU/xC8x54CWwStEPU5hKkMuAt8BgjPhEqMze/IxVsHw+G7yKGich3nSXcxrNDxruf7Pxc/m6Lw+NZOcz1j7ScrEvO+vWL3roU2H3HljoPHY6Y4yZweRrYzqulcn6e5WCREc=;2BUXd1urJNu7scU1n3m6Wg=="
 ---

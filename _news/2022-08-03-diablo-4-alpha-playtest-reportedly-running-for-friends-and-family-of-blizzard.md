@@ -2,26 +2,20 @@
 category: news
 title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
 excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
-publishedDateTime: 2022-08-03T10:38:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/"
-webUrl: "https://www.gamesradar.com/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/"
+publishedDateTime: 2022-08-03T10:38:23Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/ar-AA10gGuE"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/ar-AA10gGuE"
 type: article
-quality: 83
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar
-  domain: gamesradar.com
+  name: GamesRadar on MSN.com
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway"
@@ -76,6 +70,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "ZfqTU3ipg4cgU8YAjE7YSwXA2oPRE5d7+wgPe3pKGQ3uf/HnV7SWeYJuRfWLo0azGKUXcdhRr3HzX6jq9yx7zJmYV3RkHmFjju8vF3gqq7KLhVuEDDZmZ+l0/AEbMuiDB1X5KcCNoikAW+faNx8HEa7Nygs/AhKGzLkhk9mC7yJ4ZzCbEgcuO3koMsfWzm89KV+SY7gsHxmENKKzckLZZ/dHvljdo/koIrvJA0Aw6fAlnpp+4/Ic6PEyiiYXmGmO4iU8i+kWYFTkSQGNfd3wQ/iyI4ASRH80YdKgTpHuUKveq2v9LEAyXbT2IF+bf/OR044E1rDl0ATMrFtfB1eM0TgTr4UrJHYueJeYzD+awyw=;eaUI+CGkpYjVFMeNvr3d9A=="
+secured: "xMW+tBHKNMn4gLsvFbzCMrVVPGe+Y1PLTBt00AEHDgJ/K3wH7gyCTeHtSKI8hoBQYMK7vGrdjF/Cvw12b8rASTAG5rGUboVWNMACqhAEwtVZUz7/TrgLAQz1Zfy8FRv9L2gIIp4rpGNpsbwI97TtIxhg9zGCQOeNIx/0ucGY8nLF02TocakUFucZOiwym7XgqNDAdjlanwX+sOF7e8+eI2JxgWCtfsphY0dcHpmAhySg3jfqMB2vmpa2EwEmV83A5smRMvYVYesMCtJMmhqFcPwWCW96mJMtVJ9l5MLdXcl3L7Uk3gHHTKNvvSLZ0fCC30fVEdippNxDu0wQsVaoeW3km60yxibitjdVs+23qOU=;OPujmIHfUKBuZUG5NbU2MQ=="
 ---
 

@@ -52,20 +52,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
-    excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
-    publishedDateTime: 2022-08-03T10:38:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 83
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Alpha Test Is Reportedly Ongoing for Blizzard Associates"
     excerpt: "Blizzard reportedly launches a Friend and Family Alpha test for Diablo 4 and the early word is that the response is 'mostly positive.' ..."
     publishedDateTime: 2022-08-03T17:10:56Z
@@ -75,6 +61,15 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
+    excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
+    publishedDateTime: 2022-08-03T10:38:23Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/ar-AA10gGuE"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 63
 
 secured: "NT8kXWXxI62MihOslACldSYQDRu7aBqgd2kYsLMKRFbp/umQMjjvXFM7SVLpm4Z7DYeO9MQ2gWT1t96HJ953r/MFTYmp/d1iUGWkm/8xv2y0HRoExDgBTWwiOV0UM6JO8H3jyyrcmWeS+zlfnsm+a+n4HYqWQf2hMpHR/ss8Vrm7v7mvOBjokBNFeMe281qiNkfkF7iRgw+BpB8jxg4T6c08/+b0AhZTpQE8J3307V1/uhdwwwt+WQnTrwksjCjkgYYN15BXMoL0cENTd5mAmAN8im97pSgL2IciyouzSTjzufPZLvz7K1do/hSjLiYmZVvaPcKCzU7/ojBF9pudSDzJEdG+f3uA33WzVc/lRM8=;iFoLkbLF+wGC8WJ8Pv0txQ=="
 ---
