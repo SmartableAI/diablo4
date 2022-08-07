@@ -94,20 +94,6 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "Diablo 4 beta keys are available for fans willing to get permanent tattoos"
-    excerpt: "Blizzard announced the Hell’s Ink promotional tour for Diablo 4. Select tattoo shops throughout the UK, US, Australia, and Germany from July 16 until Sept. 10, 2022, are offering diehard fans the ..."
-    publishedDateTime: 2022-07-18T17:52:00Z
-    webUrl: "https://ftw.usatoday.com/2022/07/diablo-4-beta-keys-tattoos"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 85
-    images:
-      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/02/Burning_Crusade_Classic_BlizzConline_Villans_1920x1080.jpg?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "VPwtYdk5Ie+n4lbkopjOull8nu6kdwAflgP3FTWZD7UdaCrashtrMRnYNRw/MTN5AKNX0/b5X4OYMhfLx22nHYzVUCqJ9oeMqgqizAtxk/+w5gfOUewafCByyrz19Bzk/jBOyb6vBlO5GPCSxS+Qvh06pLUvtvz3y4q2fMmP/UhPMbhnGUu2+1/LJvFqy+58Crm77av1yHt+gqWDioZtIHIWFLGfSQoT42SFGM40isOOwhGqQDPst5xsTbLrFo+o2nL4dUMHTP+5FkbyTU/W6Vs7zAMEB82/YT0QpPXYq+FcNROdGxNbRWvhwBObNkeF0P/IAVNsmCAVVZKljPmwTrIIw9eicVWm3xCTpmRKVc4=;9bho3CSINWPTj8YggWMjOw=="
 ---
