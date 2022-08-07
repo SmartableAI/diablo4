@@ -100,15 +100,6 @@ related:
         width: 1195
         height: 672
         isCached: true
-  - title: "You can get Diablo 4 beta access - if you get a permanent tattoo"
-    excerpt: "During last month's Xbox and Bethesda showcase, Blizzard confirmed that Diablo 4 will be coming to PC and consoles in 2023. But if that's too long to wait, the developer is offering die-hard Diablo ..."
-    publishedDateTime: 2022-07-18T09:33:20Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/you-can-get-diablo-4-beta-access-if-you-get-a-permanent-tattoo/ar-AAZIj63"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 67
   - title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
     excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."
     publishedDateTime: 2022-07-21T04:13:36Z
