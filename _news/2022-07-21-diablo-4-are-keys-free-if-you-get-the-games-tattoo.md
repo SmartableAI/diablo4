@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/"
 cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/"
 type: article
 quality: 107
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Diablo 4 beta access is available, but only if you get a permanent tattoo"
-    excerpt: "Blizzard is giving away beta access to dedicated Diablo 4 fans who get permanent tattoos. In the lead-up to Diablo 4’s release next year, the publisher is offering free Diablo-inspired tattoos as part ..."
-    publishedDateTime: 2022-07-19T09:00:00Z
-    webUrl: "https://www.techradar.com/nz/news/diablo-4-beta-access-is-available-but-only-if-you-get-a-permanent-tattoo"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
-        width: 1195
-        height: 672
         isCached: true
   - title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
     excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."

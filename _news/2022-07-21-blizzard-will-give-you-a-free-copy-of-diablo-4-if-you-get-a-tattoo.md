@@ -80,20 +80,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4 beta access is available, but only if you get a permanent tattoo"
-    excerpt: "Blizzard is giving away beta access to dedicated Diablo 4 fans who get permanent tattoos. In the lead-up to Diablo 4’s release next year, the publisher is offering free Diablo-inspired tattoos as part ..."
-    publishedDateTime: 2022-07-19T09:00:00Z
-    webUrl: "https://www.techradar.com/nz/news/diablo-4-beta-access-is-available-but-only-if-you-get-a-permanent-tattoo"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg"
-        width: 1195
-        height: 672
-        isCached: true
 
 secured: "VPwtYdk5Ie+n4lbkopjOull8nu6kdwAflgP3FTWZD7UdaCrashtrMRnYNRw/MTN5AKNX0/b5X4OYMhfLx22nHYzVUCqJ9oeMqgqizAtxk/+w5gfOUewafCByyrz19Bzk/jBOyb6vBlO5GPCSxS+Qvh06pLUvtvz3y4q2fMmP/UhPMbhnGUu2+1/LJvFqy+58Crm77av1yHt+gqWDioZtIHIWFLGfSQoT42SFGM40isOOwhGqQDPst5xsTbLrFo+o2nL4dUMHTP+5FkbyTU/W6Vs7zAMEB82/YT0QpPXYq+FcNROdGxNbRWvhwBObNkeF0P/IAVNsmCAVVZKljPmwTrIIw9eicVWm3xCTpmRKVc4=;9bho3CSINWPTj8YggWMjOw=="
 ---
