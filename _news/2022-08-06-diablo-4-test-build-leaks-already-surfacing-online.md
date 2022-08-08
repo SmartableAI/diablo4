@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-redd
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
+  - title: "Diablo IV Leaks Send Blizzard Into Damage Control"
+    excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
+    publishedDateTime: 2022-08-08T09:10:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-iv-leaks-send-blizzard-into-damage-control/ar-AA10rzqK"
+    type: article
+    provider:
+      name: Kotaku on MSN.com
+      domain: msn.com
+    quality: 52
 
 secured: "AHDinWSo5P6FPOEBB/keeGdxBGY3NljfVCDroo+u47n48nIujQwwLRxIoRUnoCIXKMevYvnjaSgCeP1dpfVR1ZkOX3Up21oZC47fj9TkNcANuZYPO3kHA7IIaZq3LQ2Afk2l/uhcm3wHw5cQO1rlMLZl7pWXdk2DrNWD0dl9D99Hu0Ontmvnp2il6B8waOj1CkMhQvIv3YGNgljUWA/kO3+8Txq8RMzde8IGpmp0MN31n0IJbo32WlvVMKwE4BWNRMu48jCg19VVA/4584KlXW3KwyjDybUVk1tKoVu3zbpDWEQC2jFNMjnuCSC+zVmXQE/ldRi2wamMvwemtY/8yX97bSNNx7Rk4uOCBnoj1js=;YQdyXkRF8+M6/yJx7eb1kg=="
 ---

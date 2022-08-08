@@ -34,6 +34,15 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo IV Leaks Send Blizzard Into Damage Control"
+    excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
+    publishedDateTime: 2022-08-08T09:10:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-iv-leaks-send-blizzard-into-damage-control/ar-AA10rzqK"
+    type: article
+    provider:
+      name: Kotaku on MSN.com
+      domain: msn.com
+    quality: 52
 
 secured: "RGzdT5vz0cEcLHiYwfP79gYRhEnIPSAjCIKY/IPRVmjxIouFI4LI9yfY6N00jE8Uk7J9SvMNm2+ZOFHjktJ2KyFURf6i8/owqcfwF61/UsztPMcCbMQsUrqvhq9iQp96iJ1qoiTR0oeg1GOIXw1+hOI0Yk8m5t2j1iIw2kybkmCDieTGewdJZsMDYmc7ZYxWk1244X3LHW88Xnm3xhPMEdxZrrQLBYWHIikiXjK1Vvw6TIYco7a2paFbCQE+tqgsYAWiDZYC1Fh27PSEGLxl+Sw1X2lNmFIvzQ9ATrE8xzdVkTx9+43vBULgOY8ALy7c8x7zbNKNko9cEnpY3qdUUHH5ALwzk5stxKld+cs7Ua4=;eaowd8m96ssbWTGhifCL3g=="
 ---
