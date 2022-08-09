@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/demone-kim-diablo-4-class-deep-di
 type: video
 length: PT4M59S
 publishedDateTime: 2022-07-07T22:16:05Z
-heat: 58
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/378MFMg4e8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "VoJ9b8V7wbXyL9NZFCMvYGTluVFiOAy1f6qId2lFPrL08dRogm+lUh+o9O1BiKuMNqrrFVEB5pYsXGr4HHoGoc9RtsntFybZkeS/Xlr4UqQe3o6Udtzxos0PexRaKg1kxZh/Tr0fT+O/Pf1KJviQqLrBHw+lbwtDV+J2QjIL/w3FKoHut6w+5KUeNxK63CRWTaqEeWQe1sNkI+Y/vBIkCFyAHu6vG4iQiGCXG/OdtWZSBKqAoQPlKpEICs6Qjfx061rhCoHQUz8sWz1oWE4PP5oYFvCUKxYhdApenG/Ya6tfnEqNH92ZbV8fTjPqkVtslX4ehKmBbykqJR4XpVoai2wnuDUxg+xob9svLemJvpav4ASf93jWkTF7PqlL8rqri0ft95EHRYUCUjazRqSrwsuLBFO8apNUmcLwachBc/4=;6qT0x7WggMr25MEfJIdtrg=="
+secured: "x5AMDXnFpQEdbIfoQlIM4Sfdz1eJw0Y9GPapD5PQWOwErBj2dQGWfSGYQDrQ0LR+pxGVvuvxlIIQ2/1UpZOZc40CvN3svQ/jdu8GI02U487LTBYC/CqqlLOgC0NHoBE0bye2LvIp3dAtl9rpCyXfXt1Ow7SRRTwgFqFHrX5wK6h9BF7rF3HCPa1WrsO+k8q3Ky+V3tF2w0Rlfk8TVrzd5HrdjRz3aCKFdkiI2RofpQgH7enMHFV/n5E9Ll0t+tsWorS1io+bk6vyLzs1bX2Rebz+Km5NtDcT8C1DqiforqMwpwM6/e2jkHT1IosfkMuui64dLORtAhTXYtyCRD5x1B9SMqT0p+Lk6OkYCXcB49FXp4PpInJ7Rcmznv1FgboXCOe/gaiJSPqANP3p96Ct+8LYK1E4Qi/TtKgPRotau40=;/EWxLUphKJbEjDFnshkHsg=="
 ---
 
