@@ -40,6 +40,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo IV Starts Leaking, And The People Doing It Are Plastered All Over It"
+    excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
+    publishedDateTime: 2022-08-08T09:10:00Z
+    webUrl: "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-161000016.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: yahoo.com
+    quality: 70
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/AYsBFuE7ajvMCdVGMRXJzA--~B/aD0zNTg7dz02MzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kotaku_564/812b835518191f16ed3489d3be2e9717"
+        width: 636
+        height: 358
+        isCached: true
   - title: "Diablo 4 Test Build Footage is Leaking Online"
     excerpt: "Screenshots and video recordings are beginning to leak from Blizzard's recently started 'Friends and Family Alpha' for Diablo 4."
     publishedDateTime: 2022-08-06T15:00:11Z
@@ -49,16 +63,7 @@ related:
       name: GameRant on MSN.com
       domain: msn.com
     quality: 67
-  - title: "Diablo IV Starts Leaking, And The People Doing It Are Plastered All Over It"
-    excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
-    publishedDateTime: 2022-08-08T09:10:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-iv-starts-leaking-and-the-people-doing-it-are-plastered-all-over-it/ar-AA10rzqK"
-    type: article
-    provider:
-      name: Kotaku on MSN.com
-      domain: msn.com
-    quality: 50
 
-secured: "52ZYD0FAxosR2w9Egzi54GuXdwdK/3RYQWP1fKr8Ym08DhStun/iKRgnucdeBsirSYtZv8B3IsGi2rBFDqNYAoIRn52wx84m5LX9LD3HHZpLvlZ8uv4TXzrpMEHUfh+L8Yl7/+cNpm9kGo83YaQgbraMHSUTxc7IM0J1r1pRTDSbgb+H4cjgQR1aHP5h/BXe6Og5HjsoetDCgUtnY0gRDnH0W0u0yqgsm+DF/VIbd+YtDf+8sMpldou7887ntk2GNBfn/r3JOHS6X+DfJ/glPnVoCExUVYrp906ZJ/D5MS/WJpJMoKauggKIqKAjn4zsDH18D2CgBwwqCsAbTDiO+/y7ee9s56zrHyMdWjtgmS4=;OkBOVJC/ejQzZp0I3H+hRw=="
+secured: "baLxEf9WkJIgfAlTNd4+g91ER1AI/4Lc4ppIPZ+YX0xa9wNT5Ma7PKumRStLhes99GElPPb6nzLmcvOcgCCA08OkRFZKtIqkZZmmaEK6j3K5s/7lxuNv5KJNRqEGxGa293KZinpdoGyZOq4pnUfEBWUD70CDj8HEXX+0rQbdwJKzh20fYBQoQOXjDipS4RCYKFhjjrpZ7cG8mn5QjqR/qgfRUoLtJLHgifh+Bu+Jz3p9BzkFoEfNw2xwbPEekO+IQDNC3Wx0sGlnZ7X5JUZL53NRTX0KqoAUiOD7gDjHLA7cpd6ZML4RuwphYac8qBweHkeA8Eqe8G/pqzqDHdpfazzcAuB5CC5ODoox/vsMvK8=;xm9wvHfP42LuETJxiN1DoA=="
 ---
 

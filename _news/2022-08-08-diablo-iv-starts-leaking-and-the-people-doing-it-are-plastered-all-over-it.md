@@ -3,19 +3,25 @@ category: news
 title: "Diablo IV Starts Leaking, And The People Doing It Are Plastered All Over It"
 excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
 publishedDateTime: 2022-08-08T09:10:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-iv-starts-leaking-and-the-people-doing-it-are-plastered-all-over-it/ar-AA10rzqK"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-iv-starts-leaking-and-the-people-doing-it-are-plastered-all-over-it/ar-AA10rzqK"
+originalUrl: "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-161000016.html"
+webUrl: "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-161000016.html"
 type: article
-quality: 50
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Kotaku on MSN.com
-  domain: msn.com
+  name: YAHOO!Finance
+  domain: yahoo.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://s.yimg.com/uu/api/res/1.2/AYsBFuE7ajvMCdVGMRXJzA--~B/aD0zNTg7dz02MzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kotaku_564/812b835518191f16ed3489d3be2e9717"
+    width: 636
+    height: 358
+    isCached: true
 
 related:
   - title: "Diablo 4 Test Build Leaks Already Surfacing Online"
@@ -58,6 +64,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "8XfWqkQcrrgHeyEtWQHX+JnlSS6Ry5IpELOiFsE79m9jhRc+hYCPOg1/Royuz/tz/0FaFkZRjM1d6KVVU/fzFkgqP+TN/KnHKaI7u8LK2YuSZMLCQAIt10PSQ8acpu2rxVm84XQ/cXPjNScPrNQm9kXEYVdMVL17VYKOfNT0ImRgWVZXkyM1D3tFFgtAZKsJLPAjCnIkjEuQgevfQYLh/umpQ6/h2Z+ur72Q94Stfj9AZBIBOYxYDl8QnwMlqt09/VlBp1GFhzMNQbVWB8DYlZRhYhsVUJO8TTlQHQVjQ8LY1nns7ti2LHA3prMhDS/M9pKD+TU3KVq/S7Sjr7vV23WF6Dpwd9HXYQzFm505QAg=;v1SyWiB4xa89FKyaWlIiTQ=="
+secured: "eCawYXQav3TNgTzYm9UM8elRnS8II5rGVkshkIkgv/TNG/Zfmk0w7jlRFE7+02VWtj5iTf59iJJnW2vIkHu+/J23LNej67d96lW5lwW+4iFQlE2bmn+iPXqskubTFFKgtQrWiqxotg2iYcrsv/SBSW8tjMwsVPzjXx7nHxnyuXYplnQaqG8UcO3t0TbA0lO/gt3JJB1GDmyTgE9Ojs0DPlu8EaqRat+z41/9pd+Kfidw0ZcR4AcWuxILpGoZy6OiGYOx+wHXoDR+HV2KSK3kDXyOBAzsn1MRjofyZ7IiypP8xdJZPTIzvZD4jNIr6kT8LDNiDoi/324w3/8OGcdCa25m1e3ICeq0rfp4OgvE3SU=;vs6ruPWjFLsDe4yKMp9DEg=="
 ---
 
