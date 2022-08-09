@@ -58,20 +58,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Blizzard offering Diablo 4 beta access if you get a tattoo"
-    excerpt: "Blizzard is giving away beta access to Diablo 4, as well as a digital copy of the game, for free. The price? A permanent place on your skin. Talk about branding in all sense of the word. Blizzard's ..."
-    publishedDateTime: 2022-07-20T07:38:00Z
-    webUrl: "https://www.eurogamer.net/blizzard-offering-diablo-4-beta-access-if-you-get-a-tattoo"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablotat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablotat.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Blizzard will give you a free copy of Diablo 4 if you get a tattoo"
     excerpt: "Access to the Diablo 4 beta and a free copy of the final game can be yours if you take part in the Diablo Hell’s Ink tour this August."
     publishedDateTime: 2022-07-21T04:13:36Z
