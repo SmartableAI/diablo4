@@ -50,22 +50,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Fans Receive Free Copy of Game and Beta Access for Getting Diablo Tattoos"
-    excerpt: "The Hell's Ink tattoo campaign was announced back in June with Blizzard laying out the stops planned for July and August where Diablo fans could visit to get unique Diablo-themed tattoos. Planned ..."
-    publishedDateTime: 2022-07-20T12:58:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-free-game-beta-access-tattoos/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-free-game-beta-access-tattoos/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 101
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/07/20/9f3d4a56-f68e-459a-ad5f-b6f13ddf1773/fifa-23-havertz.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
 
 secured: "VPwtYdk5Ie+n4lbkopjOull8nu6kdwAflgP3FTWZD7UdaCrashtrMRnYNRw/MTN5AKNX0/b5X4OYMhfLx22nHYzVUCqJ9oeMqgqizAtxk/+w5gfOUewafCByyrz19Bzk/jBOyb6vBlO5GPCSxS+Qvh06pLUvtvz3y4q2fMmP/UhPMbhnGUu2+1/LJvFqy+58Crm77av1yHt+gqWDioZtIHIWFLGfSQoT42SFGM40isOOwhGqQDPst5xsTbLrFo+o2nL4dUMHTP+5FkbyTU/W6Vs7zAMEB82/YT0QpPXYq+FcNROdGxNbRWvhwBObNkeF0P/IAVNsmCAVVZKljPmwTrIIw9eicVWm3xCTpmRKVc4=;9bho3CSINWPTj8YggWMjOw=="
 ---

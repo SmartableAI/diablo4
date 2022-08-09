@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T21:00:00Z
 originalUrl: "https://www.techradar.com/news/diablo-4-leaks-show-a-controversial-diablo-3-feature-is-making-a-comeback"
 webUrl: "https://www.techradar.com/news/diablo-4-leaks-show-a-controversial-diablo-3-feature-is-making-a-comeback"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: TechRadar
