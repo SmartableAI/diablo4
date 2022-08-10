@@ -27,7 +27,7 @@ related:
   - title: "Diablo 4 alpha footage has leaked with a quick look at the character creator"
     excerpt: "Despite being meant only for trusted friends and family, footage of the Diablo 4 alpha has leaked online anyway - if only briefly."
     publishedDateTime: 2022-08-08T02:10:00Z
-    webUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/"
+    webUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts"
     ampWebUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/"
     cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/"
     type: article

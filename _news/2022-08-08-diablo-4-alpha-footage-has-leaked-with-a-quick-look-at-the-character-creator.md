@@ -3,8 +3,8 @@ category: news
 title: "Diablo 4 alpha footage has leaked with a quick look at the character creator"
 excerpt: "Despite being meant only for trusted friends and family, footage of the Diablo 4 alpha has leaked online anyway - if only briefly."
 publishedDateTime: 2022-08-08T02:10:00Z
-originalUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/"
-webUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/"
+originalUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts"
+webUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts"
 ampWebUrl: "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/"
 type: article
@@ -41,6 +41,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "jIoXX3MbTDKtD5C5eTUIc2bi83Wb2UR6TrK/0APfYmt/xqCsZd6L8qBoHJn2jkDOF97B9GpnxuiBRvuY4ZWicJo+rn0GFDT5cCTpe9RX9vpygsCR9VzCdiIK4d2T4pUdIL+AWDAjfkK1dzxG0ouicLq07u/NwwXxovCB2nrK9H0ZRjcAEFPkjDdtNtMfVaaaS4tc5352EBaExdckOVj+W+ucxmOYlUL3gO+6bZBCZGznobJSq/1SQmepcyZsnzyl+omr6jLTLPCSTmDyIIdGIxhT7/gx5JGrvamGbqwlfQ9Hav5D/phbgAksjkxdMpCxkNzuOGcphHm5+5q7wYYGdnjjb8TOdgJZ/JxI2WDPTc0=;rEAIedL+XtAy8mA/E+0L4Q=="
+secured: "LT0V20746oD+/KFXowhYDGzv5yx3qVOcqlm/3demTFKb4utVNtQh5wN4ZCY5Wr/7W7aWmA4QZcIO0m+jnowfwfEqmIVcVjRxNoTg6+OdLPKCIVJFZsU1X93tuoWeCuEni3oOqYAIX5gU7GvCO7+Ng0scDt6ubkWsaySLvGzPHoxY1XV04VeTYZW4n7Ay0c0CIFIk/xTUJhlBF6QmdLxkidJISGdCVILhc067BXziZKnZuZp8mjYuKoIDGB1BMGRhGt4H6gM3abel064aoBD/MRzVpurZE8DWp1t+m/TOSG9f4hcybZHVqT2HSpprLuu1fKK+ZcJrvOUNd8uJ6oWYlKRm+R9iR1tzvcWG1SYSDVs=;wPvVIBiAolp4Cz2rUylKVw=="
 ---
 
