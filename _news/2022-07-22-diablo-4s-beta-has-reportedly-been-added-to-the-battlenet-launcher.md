@@ -54,20 +54,6 @@ related:
         width: 698
         height: 349
         isCached: true
-  - title: "Diablo 4 beta spotted on Battle.net launcher"
-    excerpt: "The Diablo 4 beta has appeared on the catalogue config for the Battle.net launcher, suggesting players might be able to get their hands on the RPG game soon ..."
-    publishedDateTime: 2022-07-22T03:01:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-battle-net"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-battle-net-launcher.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
     excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
     publishedDateTime: 2022-07-22T04:04:15Z
