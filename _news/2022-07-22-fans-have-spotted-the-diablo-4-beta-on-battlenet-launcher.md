@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcinvasion.com/diablo-4-beta-on-battle-net/amp/"
 cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/diablo-4-beta-on-battle-net/amp/"
 type: article
 quality: 107
-heat: 167
+heat: 127
 published: true
 
 provider:
@@ -40,29 +40,6 @@ related:
         width: 698
         height: 349
         isCached: true
-  - title: "Diablo 4’s beta has reportedly been added to the Battle.net launcher"
-    excerpt: "Users have found files indicating that the Diablo 4 beta has been added to the Battle.net launcher. According to Wowhead, the Battle.net Catalog config files include new data which suggests the Diablo ..."
-    publishedDateTime: 2022-07-22T04:50:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4s-beta-has-reportedly-been-added-to-the-battle-net-launcher/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 87
-    images:
-      - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 beta appears on Battle.net launcher, exciting fans"
-    excerpt: "Fans are getting excited at the prospect of finally playing Diablo 4 now that the beta has appeared on the Battle.net launcher. Last month's Xbox and Bethesda showcase revealed Diablo 4 is set to ..."
-    publishedDateTime: 2022-07-22T04:04:15Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-appears-on-battlenet-launcher-exciting-fans/ar-AAZRaAz"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "lDOjl8m3DWVHlVO6qkexblkHcfNXSqB2wVBRXGzxq5Fy+XQmtIlWKcWHZ/QnMwowvvxV0SB6Jp8RAOYZOo2tu3Q9fzm3A6pRdDSfnC3H9MksXfbBKl6u90XhhersfkpYx1FZRorfJq8h3AEWWPbGTCy7N6qcwe+HVqQxkwVex+J9BXnC9OLqI2EcY/4lIY+8HHXzXYaYw1WHldQ1rl9WhG+RswclbzP+pAtq5vslgbDcpvlNbivXyu/uXF2vqgj2n3tl/kHOcp065idVqR6sn8VklPfu0a6JvOkt0c8L/E1IqdWEmiE+OMWM3Kyu6TyojDJQKEzOQj+PDRcUwwuYXyc46zKnJyWFmv5Crxcq69k=;kzIKHb18Hjy4gpYviJDTxg=="
 ---
