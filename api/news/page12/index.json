@@ -2,6 +2,174 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
+      "excerpt": "MP Gaming! Can't wait for this game to come out... ▻ My Merch: https://teespring.com/stores/matsu-patty Let's grow this channel together: ▻ Subscribe to my ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=q16u4f-nJg8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q16u4f-nJg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q16u4f-nJg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T10:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Matsu Patty",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019.md",
+      "title": "Diablo 4 FINALLY Announced at Blizzcon 2019",
+      "excerpt": "Diablo 4 is confirmed through a MUCH anticipated announcement at Blizzcon 2019. After a lot of waiting, patience and faith, Blizzard unveiled a Cinematic, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=tiBx6qv5zv8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiBx6qv5zv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tiBx6qv5zv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T18:46:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mnem",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-diablo-4-announcement-reaction.md",
+      "title": "Diablo 4 Announcement Reaction",
+      "excerpt": "Looks like even the cutscenes will have killer graphics.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-announcement-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-announcement-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=HlCMtx6JKsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HlCMtx6JKsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T13:29:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LemonSquiggle Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019.md",
+      "title": "Mcconnell and Asmongold react to the Diablo 4 announcement | Diablo 4 | Blizzcon 2019",
+      "excerpt": "So Diablo 4 was announced during Blizzcon 2019 and McCool was, for lack of better words, more than happy about it.... Mcconnell and Asmongold react to the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=rP2MxVIyG0g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rP2MxVIyG0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rP2MxVIyG0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T12:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best of McConnell",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight.md",
       "title": "Fated Connections 21 Highlights | feat. SOMAYD and ibadda | Diablo 4 Announcement, ExileCon, Blight",
       "excerpt": "FULL PODCAST ▻▻ https://youtu.be/Csav-pr0y7U LIVE STREAM ▻▻ https://www.twitch.tv/catmasterOP TWITTER ▻▻ https://www.twitter.com/catmasterOP ...",
@@ -474,6 +642,48 @@
       ]
     },
     {
+      "path": "_news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon.md",
+      "title": "Diablo IV - Announcement + TrepChains initial thoughts from BlizzCon",
+      "excerpt": "My initial recap of the Diablo IV announcement from BlizzCon 2019 Day 1. Update on Diablo 4 following day 2 and reflection ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon/",
+      "originalUrl": "https://youtube.com/watch?v=8pCaUtaS1ko",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8pCaUtaS1ko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T23:48:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrepChains",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-sodapoppin-reacts-to-diablo-iv-announce-cinematic-gameplay.md",
       "title": "Sodapoppin Reacts to Diablo IV Announce Cinematic & Gameplay",
       "excerpt": "Trailer ▻ https://www.youtube.com/watch?v=9bRWIdOMfro&t ...",
@@ -838,216 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Reaction.... What a trailer!",
-      "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. Turn On ALL ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=C5JpvvHIbCQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5JpvvHIbCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C5JpvvHIbCQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:48:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NeonReaperGaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more.md",
-      "title": "DIABLO 4 ANNOUNCED! Classes, Progression, Loot, Mounts, SHARED WORLD & More!",
-      "excerpt": "Blizzard opened up Blizzcon 2019 with a bang! They immediately dove into Diablo 4 and showed off a cinematic and gameplay footage. Diablo 4 is shaping up ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more/",
-      "originalUrl": "https://youtube.com/watch?v=ETfO1wSe5qc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ETfO1wSe5qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ETfO1wSe5qc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:25:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-reaction-commentary-diablo-4-announce-cinematic-by-three-they-come-thoughts-on-diablo-iv.md",
-      "title": "Reaction / Commentary Diablo 4 Announce Cinematic | By Three They Come  Thoughts on Diablo IV",
-      "excerpt": "Official Diablo IV Announce Cinematic | By Three They Come https://www.youtube.com/watch?v=9bRWIdOMfro Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-reaction-commentary-diablo-4-announce-cinematic-by-three-they-come-thoughts-on-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-reaction-commentary-diablo-4-announce-cinematic-by-three-they-come-thoughts-on-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=fysJvaR6Kjw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fysJvaR6Kjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T13:33:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slaydra",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch.md",
-      "title": "Diablo 4 Cinematic Announcement Trailer & Gameplay LIVE GROUP REACTION (Don't watch!)",
-      "excerpt": "Follow me on Twitter: http://www.twitter.com/gorthemoviegod BUSINESS ENQUIRIES: gorthemoviegod@hotmail.com Stardust: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/",
-      "originalUrl": "https://youtube.com/watch?v=Q1kr7Qzb71s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q1kr7Qzb71s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q1kr7Qzb71s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T13:27:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GorTheMovieGod",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019.md",
-      "title": "DIABLO 4 ANNOUNCEMENT LIVE REACTION! Blizzcon 2019!",
-      "excerpt": "We made it boys. It's here. :) Please remember to like, comment, share, and of course subscribe for more content. Follow me at: Twitch.tv/PrimetimeCP23 Twitter ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=pNlfvTUUhrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNlfvTUUhrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pNlfvTUUhrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:53:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PrimetimeCP23",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

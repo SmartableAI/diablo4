@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer.md",
+      "title": "Diablo 4 - Lilith Awakening, By Three They Come | Announcement Cinematic Trailer",
+      "excerpt": "Amazing cinematic trailer of Lilith awakening in Diablo IV. Thanks for watching! Like and subscribe, check other videos on my ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=7RlIk8RYkaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7RlIk8RYkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T12:54:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "K2Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator.md",
       "title": "Diablo 4 Leaks Highlight Difficulty Options, In-Depth Character Creator",
       "excerpt": "Screenshots show players will be able to choose from a number of different body types, faces, hairstyles, accessories, tattoos, and more when it comes to customizing their character, with the leaked ...",
@@ -1018,57 +1060,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-hells-ink-tattoo-shop-takeover-tour.md",
-      "title": "Diablo Hell's Ink Tattoo Shop Takeover Tour",
-      "excerpt": "The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-hells-ink-tattoo-shop-takeover-tour/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

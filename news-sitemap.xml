@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/</loc>
+    <lastmod>2022-08-11T12:54:40-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/diablo4/news/2022-06-13-diablo-4-release-date-new-character-announced/</loc>
     <lastmod>2022-06-12T20:26:31-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://smartable.ai/apps/diablo4/news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction/</loc>
     <lastmod>2021-11-12T04:01:57-08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2021-10-07-diablo-iv-quarterly-update-new-game-director-announcement/</loc>
+    <lastmod>2021-10-07T14:58:56-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -75,6 +87,12 @@
   <url>
     <loc>https://smartable.ai/apps/diablo4/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/</loc>
     <lastmod>2021-02-21T06:58:20-08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021/</loc>
+    <lastmod>2021-02-20T13:14:08-08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -207,6 +225,12 @@
   <url>
     <loc>https://smartable.ai/apps/diablo4/news/2019-11-20-diablo-4-announcement-trailer-reaction-by-three-they-come-from-blizzcon-2019/</loc>
     <lastmod>2019-11-19T16:35:30-08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2019-11-17-diablo-4-blizzcon-announcement/</loc>
+    <lastmod>2019-11-17T06:00:08-08:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -379,6 +403,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon/</loc>
+    <lastmod>2019-11-01T23:48:59-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/diablo4/news/2019-11-02-sodapoppin-reacts-to-diablo-iv-announce-cinematic-gameplay/</loc>
     <lastmod>2019-11-01T20:56:22-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -481,12 +511,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/</loc>
-    <lastmod>2019-11-01T12:01:45-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announce-cinematic-by-three-they-come-official-2020-game-hd/</loc>
     <lastmod>2019-11-01T12:00:13-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -523,8 +547,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-iv-announce-cinematic-by-three-they-come/</loc>
+    <lastmod>2019-11-01T11:05:30-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019/</loc>
     <lastmod>2019-11-01T09:19:43-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/diablo4/news/2019-10-27-diablo-4-artwork-leaked-announcement-at-blizzcon-is-coming/</loc>
+    <lastmod>2019-10-27T03:00:04-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
