@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing.md",
+      "title": "Activision Blizzard wants all Diablo 4 employees to vote on unionizing",
+      "excerpt": "The NLRB is hearing Activision Blizzard Albany Union arguments to determine who has the right to vote, and the Diablo 4 maker introduced an unorthodox argument ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/activision-blizzard-shareholders-meeting.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-overwatch-2-moira-skin-idea-is-the-perfect-diablo-4-crossover.md",
       "title": "Overwatch 2 Moira skin idea is the perfect Diablo 4 crossover",
       "excerpt": "The Overwatch 2 Moira changes have been pretty significant so far, but this skin idea would completely transform her into Lilith, the antagonist of Diablo 4 ...",
@@ -1011,48 +1053,6 @@
       "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
       "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
       "publishedDateTime": "2022-06-17T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-diablo-4-campaign-length-revealed.md",
-      "title": "Diablo 4 Campaign Length Revealed",
-      "excerpt": "During the Xbox Bethesda showcase, Blizzard Entertainment finally pulled back the curtain on Diablo 4. The game isn't set to release until sometime in the first half of 2023, but several details are ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-campaign-length-revealed/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/06/17/016c98f2-93d3-4b3e-8226-810484300c52/stalker-2-hero-shot.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "publishedDateTime": "2022-06-16T11:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Comicbook.com",
