@@ -2,6 +2,252 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-18-diablo-iv-quarterly-updateaugust-2022.md",
+      "title": "Diablo IV Quarterly Update—August 2022",
+      "excerpt": "We’re back with another Diablo IV Quarterly Update, fresh from the Burning Hells! Join our development team as they introduce and elaborate on Diablo IV’s Seasons and Season Journeys.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-iv-quarterly-updateaugust-2022/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/a8/A88KX5PHSGB41660608957353.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win.md",
+      "title": "‘Diablo 4’ Is Much More Of A Live Service, But Blizzard Swears It’s Not Pay-To-Win",
+      "excerpt": "Diablo 4 has continued its tradition of lengthy developer blogs, and this time around, this one seems specifically crafted to combat all the Diablo Immortal pushback, and D4 team seems determined to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/08/18/diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/08/18/diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe743dd90d8172759de215/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/08/18/diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/08/18/diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win/amp/",
+      "publishedDateTime": "2022-08-18T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-diablo-4-reveals-monetization-plans.md",
+      "title": "Diablo 4 Reveals Monetization Plans",
+      "excerpt": "Blizzard has today revealed how monetization practices will work in Diablo 4 when the game launches next year. In recent months, the Diablo series as a whole has been under fire from fans following ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-reveals-monetization-plans/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
+      "publishedDateTime": "2022-08-18T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay.md",
+      "title": "Blizzard Says Diablo 4 Microtransactions Won't 'Affect Gameplay'",
+      "excerpt": "Cosmetics will give characters new looks but won't make them more powerful. Diablo IV is set to launch sometime in 2023. On Thursday, developer Blizzard Entertainment unveiled its plans for the game's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/a354bfe45dc7f8f840e62c71d9070a52968186d9/2022/06/03/0b432133-a175-4f5a-9ccb-a7f1fc159b22/diablo-customize.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "publishedDateTime": "2022-08-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3.md",
+      "title": "Diablo 4's Paid Battle Pass And Shop Will Be For Cosmetics Only, With Seasons Modeled After Diablo 3",
+      "excerpt": "Players won't be able to pay for power in Diablo 4, as Blizzard outlines its post-launch plans for the highly-anticipated ARPG.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "publishedDateTime": "2022-08-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing.md",
       "title": "Activision Blizzard wants all Diablo 4 employees to vote on unionizing",
       "excerpt": "The NLRB is hearing Activision Blizzard Albany Union arguments to determine who has the right to vote, and the Diablo 4 maker introduced an unorthodox argument ...",
@@ -69,48 +315,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-14T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-diablo-4-survey-hints-at-potential-microtransactions.md",
-      "title": "Diablo 4 survey hints at potential microtransactions",
-      "excerpt": "A Diablo 4 survey sent out by Activision Blizzard suggests some of the potential microtransactions and pre-order bonuses we might see in the upcoming RPG game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-14-diablo-4-survey-hints-at-potential-microtransactions/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/survey-pre-order-microtransactions",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/survey-pre-order-microtransactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-survey-pre-order-microtransactions.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-14T00:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PCGamesN",
@@ -889,174 +1093,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat.md",
-      "title": "How long is Diablo 4? Main campaign length & time to beat",
-      "excerpt": "If you're wondering how long will it take to complete the main campaign of Diablo 4 with story details, here's everything you need to know.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
-      "originalUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/20/diablo-4-campaign-length.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
-      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
-      "publishedDateTime": "2022-06-19T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says.md",
-      "title": "Diablo 4 “A Love Letter To Fans”, Game Director Says",
-      "excerpt": "Blizzard Entertainment have shared some further details on the highly-anticipated Diablo 4, which they hope fans will love.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says/index.json",
-      "webUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
-      "originalUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-diablo-4-what-classes-are-available.md",
-      "title": "Diablo 4: What Classes Are Available?",
-      "excerpt": "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-what-classes-are-available/index.json",
-      "webUrl": "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/",
-      "originalUrl": "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update.md",
-      "title": "Blizzard Gives Diablo 4 Fans Hope With New Update",
-      "excerpt": "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
-      "publishedDateTime": "2022-06-17T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
