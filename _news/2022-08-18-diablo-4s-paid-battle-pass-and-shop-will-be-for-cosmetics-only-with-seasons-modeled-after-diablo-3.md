@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/"
 type: article
 quality: 132
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/9W9Cjgx3sLRAngxWpZPecg-1200-80.jpg"
         width: 1200
         height: 553
+        isCached: true
+  - title: "Diablo 4 will have a season pass, cosmetic shop and years of post-release content"
+    excerpt: "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop."
+    publishedDateTime: 2022-08-18T14:45:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 82
+    images:
+      - url: "https://assets2.rockpapershotgun.com/diablo-4-post-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-post-release.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Diablo 4 Details Season Pass Plans and More"
     excerpt: "Blizzard outlines its plans for post-launch Diablo 4 support including how Seasons will work and what fans can expect from live service features."
