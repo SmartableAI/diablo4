@@ -40,6 +40,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Details Season Pass Plans and More"
+    excerpt: "Blizzard outlines its plans for post-launch Diablo 4 support including how Seasons will work and what fans can expect from live service features."
+    publishedDateTime: 2022-08-18T12:42:58Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-season-pass-plans-and-more/ar-AA10Otxb"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "y+zYkr1iKodCVbg2R2/uVtR5H84LZ/WmTU60Lfi/1zHm4AhDlE2LaU7P2sVru1WYcaM734gFNcTQZJuTAnivySi/Aih4MEcFkaEjbjbvcVgGS3kFI9Y8OcBYH5Fz3kTfzyei3scIrGjEixarHZbWaYZKbIGYHPRkHs+M2UVNj9u7w1s51i68q9NcX8jI/X02gPY1UJef6ydTnxXyPhIKxIsO6yKVAOATePOb0iIoGAzZI13oapuah1flPpi1AtvX73C9LZO4d3a9Dz4pTS7Rc2/Y8O/+z/QugsbZcAS9lA1KoAYOVTxMzxHDiBCZ440eXuk4AUP4vXsGj2fv4caoWbmlVglf4tsQMxaNSubCvoM=;Jda98pQmF58/UarsNnZN/Q=="
 ---

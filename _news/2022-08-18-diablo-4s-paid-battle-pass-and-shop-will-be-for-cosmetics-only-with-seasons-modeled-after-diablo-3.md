@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/"
 type: article
 quality: 132
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 553
         isCached: true
+  - title: "Diablo 4 Details Season Pass Plans and More"
+    excerpt: "Blizzard outlines its plans for post-launch Diablo 4 support including how Seasons will work and what fans can expect from live service features."
+    publishedDateTime: 2022-08-18T12:42:58Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-season-pass-plans-and-more/ar-AA10Otxb"
+    type: article
+    provider:
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "HZs1/MEsNUBNMGOoHk43JggS22tlxqe9dXHylRG+7q+eKAnU97pXUiiEUnZPCWoH83f1BIpwg31Z4ctQQnZHSj7d+N2rOdmyYK/d4XzWlc/MrGGtodr8pFyFzgdPww+jX+PFA+YqAXXymI1w2//FuLW9qMw8CdtQ5d0T3Xb46kIpJLFTaYbMy4BmV8ppKWwAxXIvxuc4u7ZLA0FPaKrQKZTFMEInykQ/CfrGMUbz7z4OYuke8xyxReNM7dRbjU6kyRiDxeLTdzmDbrk+29kb7m0GOPS0GFpmtJdZpuikC4tVnlgZo998HcWJcIyprIvl3V/PqSUir9LC4YanJjJorMv57AM+x21SrvbWXa+u1JQ=;GurH7l1YHHat29Nl696AKA=="
 ---

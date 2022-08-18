@@ -53,6 +53,48 @@
       ]
     },
     {
+      "path": "_news/2022-08-18-diablo-4-devs-reiterate-that-the-game-wont-be-pay-to-win.md",
+      "title": "Diablo 4 devs reiterate that the game won’t be ‘pay-to-win’",
+      "excerpt": "Diablo 4 ‘s director and associate game director have stressed again that players won’t be able to spend real money to upgrade their character’s abilities. In a new ‘quarterly update’ on the Blizzard ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-devs-reiterate-that-the-game-wont-be-pay-to-win/index.json",
+      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reiterate-that-the-game-wont-be-pay-to-win/",
+      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reiterate-that-the-game-wont-be-pay-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg",
+          "width": 1952,
+          "height": 1074,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win.md",
       "title": "‘Diablo 4’ Is Much More Of A Live Service, But Blizzard Swears It’s Not Pay-To-Win",
       "excerpt": "Diablo 4 has continued its tradition of lengthy developer blogs, and this time around, this one seems specifically crafted to combat all the Diablo Immortal pushback, and D4 team seems determined to ...",
@@ -61,7 +103,7 @@
       "originalUrl": "https://www.forbes.com/sites/paultassi/2022/08/18/diablo-4-is-much-more-of-a-live-service-but-blizzard-swears-its-not-pay-to-win/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -205,7 +247,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood.md",
-      "title": "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood",
-      "excerpt": "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
-      "originalUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2022/06/D4NecroHeader.png",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
-      "publishedDateTime": "2022-06-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
         "images": null,
         "publishers": null,
         "authors": null
