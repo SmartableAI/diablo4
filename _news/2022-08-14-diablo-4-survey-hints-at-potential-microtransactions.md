@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4's Microtransactions Will Be Strictly Cosmetic"
+    excerpt: "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised."
+    publishedDateTime: 2022-08-19T04:12:28Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-e2-80-99s-microtransactions-will-be-strictly-cosmetic/ar-AA10PNg4"
+    type: article
+    provider:
+      name: DualShockers on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "UnsVZiZ8OPGy4Datazv2PF/ePIAWdkbd+aTgiL8hlDHI6qfoi/SLA9pT1tnucRlfXQplwIR77gqyWPDKBKgROqyiy5MnfpG8e4Z0fI4zIvh5T+23X+BL/CPweDs5SHKIePthiEIrrVOQfzr5Ty301K2cvRl8jE2UwcxxrVtFs3VXmZ43m54IQaVH8vAvAjIfKyMvx7sl+MKDGaJVAlequg6T+x8TA/mMxWWOPujFRozSouk55dA69NAaI6VimS7B8diTLdUXNdHW5JpRQgwLTF5PMIp81+GcyfDybPY3QuGqfnb0BT+rizt8JzuC85OtnjublaeQQMCHsA4/6KCanIqPk6jkbKX1Vc+hWwtimg8=;BMO3XXKRkYrDH42BJTo7fw=="
 ---
