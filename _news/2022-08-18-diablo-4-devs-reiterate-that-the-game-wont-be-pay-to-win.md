@@ -7,8 +7,8 @@ originalUrl: "https://www.videogameschronicle.com/news/diablo-4-devs-reiterate-t
 webUrl: "https://www.videogameschronicle.com/news/diablo-4-devs-reiterate-that-the-game-wont-be-pay-to-win/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Video Games Chronicle
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard really wants you to know that there’s no pay-to-win in Diablo 4"
-    excerpt: "In a new developer blog, Blizzard has gone to great pains to reiterate something it had already said: Diablo 4’s monetization will not include any way to buy power or gameplay advantages. In extremely ..."
-    publishedDateTime: 2022-08-18T10:01:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-really-wants-you-to-know-that-there-e2-80-99s-no-pay-to-win-in-diablo-4/ar-AA10ObX4"
+  - title: "Diablo 4 devs promise Season Pass and shop items won’t be “pay-to-win”"
+    excerpt: "Diablo 4 developers have assured players Season Pass and other shop content won't be \"pay-to-win\", alleviating community concerns."
+    publishedDateTime: 2022-08-18T22:59:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-4-devs-promise-season-pass-shop-cosmetics-not-pay-to-win-1908362/"
     type: article
     provider:
-      name: Polygon on MSN.com
-      domain: msn.com
-    quality: 66
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/19/Untitled-design-88.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "WnnHph96e4Yum40yH56GYFq8gRvgfywK7yfnGwljLn4euCBQ5BlFcUsPrqXP4xqEhSSS5oZxyvteeDFElTw7VBQZfaSeTxEiZf/upS7+NM7BCpgkY3mNL+eeohjxSC8FX9707TesYXIclpzA6YC5Sqe5zzSH7DZCOQlzT3Rl2OGGfzAiQDkSsBOhv6i+JAzzghv4EQuVaTGYCQmoSddXj0ZrNa/F0XqFpRjw8kbALghM7JM5vszKza28tB6GFvY/Nnkud7xIP16z/2WBjYzQmKyE0RvBG8kuupr8DypIzYM6e115yNp419lFwM60QNhyOX0UIzQj8/6UGSamN5+nqo5tXxvpAdnZqNr0q846JO0=;G5365HVcm8L7umY/HgdZkQ=="
 ---
