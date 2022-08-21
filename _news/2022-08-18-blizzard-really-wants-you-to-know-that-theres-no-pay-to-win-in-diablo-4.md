@@ -80,18 +80,13 @@ related:
         isCached: true
   - title: "Diablo 4's \"much more ambitious\" seasons won't be pay-to-win, Blizzard says"
     excerpt: "After the whole mess over Diablo Immortal's microtransactions, you can almost sense the tension beaming through the internet as the developers very carefully assure players that Diablo 4 won't have ..."
-    publishedDateTime: 2022-08-18T13:04:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4s-much-more-ambitious-seasons-wont-be-pay-to-win-blizzard-says/"
+    publishedDateTime: 2022-08-18T13:04:55Z
+    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4s-much-more-ambitious-seasons-wont-be-pay-to-win-blizzard-says/ar-AA10OxtG"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 85
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 65
 
 secured: "rC3SCFgVgUsVyBnJcNdglFsMFPYBvafijTrb3d2XPzcUPS9/bNxdPsJDEmEtheAWa9A8yOnk0+HYTOICe9b095qCdZIt1FtlJI36QT048vsKTdgjziYYuB1BojAr1uY5mhNWEcJQvSvIIC57sAuXiOzeHHtvxj3/yl4GVzp9Ym/7ctouIFx8PL4r5S4gpPAZjV+5nU8GsR02NKH1q0o02rLMt0yqvmoCqE1o92ouJcMN49b3X6xM41i/VIevui81eKTFNB7SZWpiR+CDbYBNmplJJluLfdIlX+UOYHsv46SIwZY8cqPy/xPnb6+N6vdhKZzFMTUDQ7+zJhDwvlUhoo1gQ+C6I+Qs1K/nAZQXcKQ=;lDXGbr4ckoTs6AlPYnQxQQ=="
 ---

@@ -70,20 +70,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4's \"much more ambitious\" seasons won't be pay-to-win, Blizzard says"
-    excerpt: "After the whole mess over Diablo Immortal's microtransactions, you can almost sense the tension beaming through the internet as the developers very carefully assure players that Diablo 4 won't have ..."
-    publishedDateTime: 2022-08-18T13:04:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4s-much-more-ambitious-seasons-wont-be-pay-to-win-blizzard-says/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 85
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Blizzard really wants you to know that there’s no pay-to-win in Diablo 4"
     excerpt: "In a new developer blog, Blizzard has gone to great pains to reiterate something it had already said: Diablo 4’s monetization will not include any way to buy power or gameplay advantages. In extremely ..."
     publishedDateTime: 2022-08-18T10:01:00Z
@@ -93,6 +79,15 @@ related:
       name: Polygon on MSN.com
       domain: msn.com
     quality: 66
+  - title: "Diablo 4's \"much more ambitious\" seasons won't be pay-to-win, Blizzard says"
+    excerpt: "After the whole mess over Diablo Immortal's microtransactions, you can almost sense the tension beaming through the internet as the developers very carefully assure players that Diablo 4 won't have ..."
+    publishedDateTime: 2022-08-18T13:04:55Z
+    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4s-much-more-ambitious-seasons-wont-be-pay-to-win-blizzard-says/ar-AA10OxtG"
+    type: article
+    provider:
+      name: GamesRadar on MSN.com
+      domain: msn.com
+    quality: 65
 
 secured: "WnnHph96e4Yum40yH56GYFq8gRvgfywK7yfnGwljLn4euCBQ5BlFcUsPrqXP4xqEhSSS5oZxyvteeDFElTw7VBQZfaSeTxEiZf/upS7+NM7BCpgkY3mNL+eeohjxSC8FX9707TesYXIclpzA6YC5Sqe5zzSH7DZCOQlzT3Rl2OGGfzAiQDkSsBOhv6i+JAzzghv4EQuVaTGYCQmoSddXj0ZrNa/F0XqFpRjw8kbALghM7JM5vszKza28tB6GFvY/Nnkud7xIP16z/2WBjYzQmKyE0RvBG8kuupr8DypIzYM6e115yNp419lFwM60QNhyOX0UIzQj8/6UGSamN5+nqo5tXxvpAdnZqNr0q846JO0=;G5365HVcm8L7umY/HgdZkQ=="
 ---
