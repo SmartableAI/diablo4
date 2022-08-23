@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 Alpha Testers Are Reportedly Happy With The Game"
-    excerpt: "Diablo 4 is reportedly being tested by a small number of players at the moment under NDA, and the feedback is reportedly positive."
-    publishedDateTime: 2022-08-03T10:35:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-alpha-testers-are-reportedly-happy-with-the-game/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://www.dualshockers.com/static/uploads/2022/08/Diablo-4-scaled.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "A Diablo 4 alpha test for Blizzard friends and family is reportedly in progress"
     excerpt: "It was recently claimed that the Diablo 4 beta had been added to the Battle.net launcher in preparation for its release, which hasn’t been dated. Diablo 4 is planned for release ..."
     publishedDateTime: 2022-08-03T13:29:00Z
@@ -60,15 +46,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 alpha playtest reportedly running for \"friends and family\" of Blizzard"
-    excerpt: "A Diablo 4 playtest is reportedly underway for a number of players outside the Blizzard offices, as part of what's described as a \"friends-and-family alpha test.\" \"A bunch of people are playing an ..."
-    publishedDateTime: 2022-08-03T10:38:23Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-alpha-playtest-reportedly-running-for-friends-and-family-of-blizzard/ar-AA10gGuE"
-    type: article
-    provider:
-      name: GamesRadar on MSN.com
-      domain: msn.com
-    quality: 63
 
 secured: "CSS3tpt1k+gHAXODooafqh434w8CnAhmjlpAtaSTfI15ym3CBh8v5qVOQGLoutls9VIzzOmvuzuGP2yJvP1yIMDSUW0QAbRRXy+MODdXYlMswNn59B0fnYKVRk8Xo2UaBk8YHAZ2qnDz6mh6VWKsI4Ud16LXGKId8mZfhRZQDI15nRuAbaIjQhNEzQNAlo8m7MS3Ste+70kzUCR/0aLpCG6TLu+NfNWH5VXzZCiZKWY3MbEq8aIxOWRW80DJdZc5VQAIlqCLAr+JrCj4ElRIu820q4ZtHdQZR9kXcah8jnpoqwDX3N5245N+JpQKlwzE3AbW0JUtUTSLxgpgy1Y/qqfKzfQ/xN9Rwut3bll6bqs=;o3T+ax3A1crmOwwiAY79sQ=="
 ---
