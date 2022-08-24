@@ -2,20 +2,26 @@
 category: news
 title: "Diablo 4's Microtransactions Will Be Strictly Cosmetic"
 excerpt: "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised."
-publishedDateTime: 2022-08-19T04:12:28Z
-originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-e2-80-99s-microtransactions-will-be-strictly-cosmetic/ar-AA10PNg4"
-webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-e2-80-99s-microtransactions-will-be-strictly-cosmetic/ar-AA10PNg4"
+publishedDateTime: 2022-08-19T09:53:00Z
+originalUrl: "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/"
+webUrl: "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: DualShockers on MSN.com
-  domain: msn.com
+  name: DualShockers
+  domain: dualshockers.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://www.dualshockers.com/static/uploads/2022/08/diablo-4-microtransactions-will-be-strictly-cosmetic-scaled.jpg"
+    width: 1920
+    height: 960
+    isCached: true
 
 related:
   - title: "Blizzard Says Diablo 4 Microtransactions Won't 'Affect Gameplay'"
@@ -49,6 +55,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "CMLPQyTKuZrpRjYl/CUzEVTuq7o9bDJCK42oOprBNhPrnXaP4w0aY9wPQfeM0BV6sGYXFwOTZXSzuaWdTKxmf6pOAwGOnh+8ujOV/2f3QG+xSWZGqAvd/qeDi+J4W4CCceDjZ2VtT7VkqV7FICDuii/2r7et0al4hdY+52OA3QJg/AEnP9HDAbLK+pLmd4avGT5Cl8jTePN7xuAVPlPNipMNo3tHtsBsP3XoWUUjGR37cf+idZ9gs8ru8+gXraB/Yhl29ICcHxGWlgdlggw/yZr7ds2l0OJoMSDRTEpwqtCwOYgsdT//KSQD1G51hBayLIVVNJFYnZrGv0feGnZntEIU9Ev7jS0YdYSG51sWqtw=;pVdEuHkh2TgXp83KAFpYxg=="
+secured: "c+7DQHQcyEYyMRWlJs07ObAtbwip/6gHk/6C+cAIQfX9Lmd2iYPFLZ4mehQXiNgWRMCc+9aSHBJkPOZ+ERCopwxrcwKko3AVlih2Li8wBcbuEjgq86QDkUf6iYiuCVktd/tdqcQdIDaj0JUZHl7ONI46NrsdHATTxAZH6cgOswYIPe/5c8JZAdhRtO6vDV0KvE7NM3RaPzVR3OkRk6zqkBgQFp8SSr02B3JuMr0jikqLVg1xahpSqkogPVhH7fmt7r0cul/nxf7wZnFJ9sv7CicEhV9i9iML4cUDPEB4+znjTBkiHWsD6YT/DBsPSLlHEEBLkpHPEDyBTmVo92L6Pt2rxWdayR9MivTdtyedITM=;WI7DAjGXeHa/xaPfYDIvuw=="
 ---
 
