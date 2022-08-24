@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-20T15:51:20Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-live-service-model-may-be-less-appealing-to-dedicated-players/ar-AA10Sp55"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-live-service-model-may-be-less-appealing-to-dedicated-players/ar-AA10Sp55"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: GameRant on MSN.com
@@ -14,6 +17,6 @@ provider:
 topics:
   - Diablo 4
 
-secured: "7sg+3iULS4ChroJrxn8Y08oSi03PFbkR6pT81bH5jqJQWgr+/ROn6EN6FgCcC+LGDpq1Zc4JKqBx8uBwZBmPwzSlrNv6FlFx5VWyt1sNtvXZbtb2gaVYI26HRk6sNeGkgOkZdQd0SRIW/bYRZ1AAprH8hMA7yHJ0MeOB2JT/XaxXfgdGQS7ypPJjt+iuOwEgA3X1zeHnlOgmym0XtneiZduRVEX6jleP0duxx7gwaEXT6lq1vjTlwLufB4TOsOPcpuuNtf2OUC98rx/jwAD0WZs4kv/j9natazf/ddPcl4O3E2yCaHGZlolEmLyooIg/yWaOj6r753EHciKqqF1Sh5X8p62GH/t/sXPn8V+jSwU=;Qgn8bd+xrfzK5MtonRjfNQ=="
+secured: "UeUDSFCBVHfRWZ87mxMmOor2NhSBeAypwd1s9oaJVK2+y1IGai8WbvdqPdCiJIpQ3AEgL8doLiSRgOGHpWE3n8Od8q2eakdXYhrwlFVFi8fPspmPg9O+JMPQ69ANBDhSKjm+nmtUvrCoK2tiazBGJWjI2/nJoSdO3P09uMeSGJVFdB65XcefxvLZUkU/IfA2iNUZkkcQNM5LE7AXUiZTguaCr8bhc8gh70rY2pQYUwNnDrMMKQTU6bKv80CR2RFae1cmDLptbUh5lgym0eS2M8kjv+SzVst7iSU+6j2RO0QW5+knA2Kj4rxB6AE6+B02aKwUB4xOvzKPf7dYAeI3YXbsbz/nWuRrnBcBOtoszf8=;it1zVwrAA6FYnKSjH2blUQ=="
 ---
 
