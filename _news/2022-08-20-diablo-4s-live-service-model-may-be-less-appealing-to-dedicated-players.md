@@ -3,12 +3,9 @@ category: news
 title: "Diablo 4's Live-Service Model May Be Less Appealing to Dedicated Players"
 excerpt: "Although Diablo 4's live-service model may sound promising, it seemingly won't avoid common trappings of the ARPG genre for dedicated players."
 publishedDateTime: 2022-08-20T15:51:20Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-live-service-model-may-be-less-appealing-to-dedicated-players/ar-AA10Sp55"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-live-service-model-may-be-less-appealing-to-dedicated-players/ar-AA10Sp55"
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-live-service-model-may-be-less-appealing-to-dedicated-players/ar-AA10Sp55"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-live-service-model-may-be-less-appealing-to-dedicated-players/ar-AA10Sp55"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
   name: GameRant on MSN.com
@@ -17,6 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-secured: "V+yy3B/GHKvws0YgkYaaxDrwNvoyKFevwWnUMk56Gl3CJ6uYG+3ftWM9SsWvyByI11cnE0/Q3zUVy1u2oIBxXC1c9wNMl5B6a9YCPKG88Ib+4B3QciP4YIHs8n8h4aLjO5ZCOO7Qwkmnt3y3gd+K+FpGxdYIesoZuz0HdIsFoV1dNaZO+kKvwwKyzj09dNhtvwzdc49VP1HkJ/GdUUnXfooaVQYGGNmTCu9TgIRst0c5HLu9A6Wu8HoXzdJHvg8a+wP9EdPHYdzr/UyPezMQdMPBgvoAAWp7TtLO7RlPUFBpQYXAao3fOtsy/MqOCsx6K97oRaCUtaEvLlSEZFpiZm6fZ+u8iJmaq2YdQzS1F+0=;wRepiE9JsEkOZRGSdFSOyg=="
+secured: "7sg+3iULS4ChroJrxn8Y08oSi03PFbkR6pT81bH5jqJQWgr+/ROn6EN6FgCcC+LGDpq1Zc4JKqBx8uBwZBmPwzSlrNv6FlFx5VWyt1sNtvXZbtb2gaVYI26HRk6sNeGkgOkZdQd0SRIW/bYRZ1AAprH8hMA7yHJ0MeOB2JT/XaxXfgdGQS7ypPJjt+iuOwEgA3X1zeHnlOgmym0XtneiZduRVEX6jleP0duxx7gwaEXT6lq1vjTlwLufB4TOsOPcpuuNtf2OUC98rx/jwAD0WZs4kv/j9natazf/ddPcl4O3E2yCaHGZlolEmLyooIg/yWaOj6r753EHciKqqF1Sh5X8p62GH/t/sXPn8V+jSwU=;Qgn8bd+xrfzK5MtonRjfNQ=="
 ---
 

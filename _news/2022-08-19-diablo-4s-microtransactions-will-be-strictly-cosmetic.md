@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-19T04:12:28Z
 originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-e2-80-99s-microtransactions-will-be-strictly-cosmetic/ar-AA10PNg4"
 webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-e2-80-99s-microtransactions-will-be-strictly-cosmetic/ar-AA10PNg4"
 type: article
-quality: 67
-heat: -1
-published: false
 
 provider:
   name: DualShockers on MSN.com
@@ -17,38 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-related:
-  - title: "Blizzard Says Diablo 4 Microtransactions Won't 'Affect Gameplay'"
-    excerpt: "Cosmetics will give characters new looks but won't make them more powerful. Diablo IV is set to launch sometime in 2023. On Thursday, developer Blizzard Entertainment unveiled its plans for the game's ..."
-    publishedDateTime: 2022-08-18T10:00:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 107
-    images:
-      - url: "https://www.cnet.com/a/img/resize/a354bfe45dc7f8f840e62c71d9070a52968186d9/2022/06/03/0b432133-a175-4f5a-9ccb-a7f1fc159b22/diablo-customize.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 survey hints at potential microtransactions"
-    excerpt: "A Diablo 4 survey sent out by Activision Blizzard suggests some of the potential microtransactions and pre-order bonuses we might see in the upcoming RPG game ..."
-    publishedDateTime: 2022-08-14T07:47:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/survey-pre-order-microtransactions"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-survey-pre-order-microtransactions.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
-secured: "xZbvtu2PDdedMSaIAh6gnFEgH7vN/0hs/setTnOYQCTlSPTYWrWcj5y3DgJ6JC9OCoNKgkLC638I9oOTETdq5Yp/MmeVBFwGp5CJgfIQJz+lcgv9Rdc+Mq/J9P1FOyD99jo6n5IrpsW3s+Z1LXmHBaBznP+7jrKo1L0EL1us4usD7TCTm0FZo7aH0q0BVnJKMCkbA3ecf0k7qHZxMNaPQEPApSwynibWG4h1N3t7yuX7bUudBlw1Z3UkjUlGMnl4xHgSXkiirWW4HFDKqs3wjhZVV8Skdqa6jl3bDK319XMo0iTT0twLnlCifpVN6k/jo/qerpm/Vg06ZEB09weOUypuji37VZFklvw/vsqu3cI=;b5VigwzFvUC2/XlyR/pNSQ=="
+secured: "e9FoTEXy3t8ua/jL0Hah34EWmAKmkRs/OLGon0JtmXmgH+7K0ywXug+ormnCK1Gncp+2ilIc4Oun41DhG7eSgu0GeGx7ss9M7ZSN0dLqOaAz6ihqfMfci4xvyDtb51vPnxFhxXBdG9jEwbE1cxTrkgg5uDmOGJwLCb9lWe8yGoQJXGIbKe6kIo8Cu+8cUVg/pC6YpRYyRMA34LzNtNx6C32+HbSuSzuRyP6leMh9Snlq/kZE+aV1OMIh9xcEdLuUF7N3LHKbr6gICHmmNuwQ26u5El3IaEdw5d0IrGMLwGxs4SJDsPeb3JyMCkkjs74fehJDV8UVp0adMrV4PAsLW7qTBZ/aRZMzcA4VPD+ZQiA=;KmJLckpByEOJVGz3hDmMcQ=="
 ---
 
