@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Diablo IV Announce Cinematic | By Three They Come"
-excerpt: "diablo 4 cinematic trailer from blizzcon #d4 #blizzcon #diablo."
-publishedDateTime: 2019-11-01T19:01:45Z
-originalUrl: "https://youtube.com/watch?v=0vE3rAjtqUY"
+excerpt: "Diablo IV takes place many years after the events of Diablo III, after millions have been slaughtered by the actions of the High ..."
+publishedDateTime: 2019-11-01T18:05:30Z
+originalUrl: "https://youtube.com/watch?v=9bRWIdOMfro"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vE3rAjtqUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9bRWIdOMfro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Game Clips And Tips
+  name: Diablo
   domain: youtube.com
 
 topics:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "/jZI+Vg7WYguNMpPrFLlpLaFhIKvym2Ojx6uvS4Q+xhvfqbCWYgmFfEmc9T4qIdIKh/U3KXrdXO/1WYTn7aQbR+ZeQbBQvDZddxDBJPAwK6VTJnIzRn+haUvzDTkjbHY38RNVlI/dDFBURegwv+bq40jPvBtrbk44unmym8i24N9GAKsoELazcR+Shiy5I9T2A3AYyccBtbWf06xEj7YlCivI/v40JaEMcUqcGfh/ui1st9ep02m8aATz6zKtOUd7/YIuYft+oXGE8zj2ElLInbyGIlpCPlZnDaa2vGuYqUwWCzxgptGtue0Vp6GPzi7glVLwFEapn4vgLg/BbtJ+T8Ka+SzaHwWXLZk7U0bvv1YzZpI9WlBx1z32pd9sAQNYGmrCMHvR3qwxiVJzMVn6g==;Bg97aQjth9SNrErDrPCovg=="
+secured: "YrADhr8lM43XsqErJYdyAj5wtYtUKX7YQpqwwJQCsNlsU1w6qkvPJ/ZEHspxdapkaBowf8Ue+mx04wxFLj7Z2CnRZw0AShBTvNqJr5l2OYR4QW33djRsort0PdBpSouzw9VetS7Mvtt8SoHj4JNyduc9yV09As1WeA4IADC5NI8piVI1FsymJeJBvNKnN93zBD28TR/j9R5SqNiaSTX0s6l6cpXUBw4sPZP6bWVxEki5DnIUvknzayJDSxBKDqFP9tfDRbvYAeOCcakWRMWWRXVkiDwYLbbz27Ayx1cfvfcH2xkd+raUu7leGpnsvYEUrUuQIYV658pF+V/3orWHyDOU9nGQe8VphsZ01vmzLCRLkLEQq2Kt3q5moJ5yiAZhL21nLH5SxM2uSY7FfEDWaA==;aDNmjJQtbfpC+4c5zFGQlQ=="
 ---
 
