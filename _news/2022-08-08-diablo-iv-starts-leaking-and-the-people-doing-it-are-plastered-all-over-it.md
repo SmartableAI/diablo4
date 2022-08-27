@@ -7,8 +7,8 @@ originalUrl: "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-16100
 webUrl: "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-161000016.html"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: YAHOO!Finance
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard battling Diablo 4 leaks"
-    excerpt: "Blizzard is attempting to scrub the internet of Diablo 4 leaked footage and screenshots, which were posted over the ..."
-    publishedDateTime: 2022-08-08T04:41:00Z
-    webUrl: "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks"
+  - title: "Diablo 4 leaks show a controversial Diablo 3 feature is making a comeback"
+    excerpt: "A fresh wave of Diablo 4 leaks has surfaced online following a private playtest, suggesting a controversial feature from its predecessor is making a return. A Smart Loot system was first introduced in ..."
+    publishedDateTime: 2022-08-08T21:00:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-leaks-show-a-controversial-diablo-3-feature-is-making-a-comeback"
     type: article
     provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: TechRadar
+      domain: techradar.com
+    quality: 66
   - title: "Diablo IV Leaks Send Blizzard Into Damage Control"
     excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
     publishedDateTime: 2022-08-08T09:10:00Z
