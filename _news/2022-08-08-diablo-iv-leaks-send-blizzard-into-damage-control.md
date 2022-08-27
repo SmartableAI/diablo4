@@ -18,19 +18,19 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 beta leaks spark smart loot and trading discussions"
-    excerpt: "While the first Diablo 4 beta leaks may not be indicative of the final product, they have spawned conversations around smart loot and trading in the RPG game ..."
-    publishedDateTime: 2022-08-07T07:49:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading"
+  - title: "Blizzard battling Diablo 4 leaks"
+    excerpt: "Blizzard is attempting to scrub the internet of Diablo 4 leaked footage and screenshots, which were posted over the ..."
+    publishedDateTime: 2022-08-08T04:41:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: Eurogamer
+      domain: eurogamer.net
     quality: 87
     images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-beta-leaks-smart-loot-trading.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Diablo IV Starts Leaking, And The People Doing It Are Plastered All Over It"
     excerpt: "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ..."
