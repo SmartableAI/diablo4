@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=gFSHNYUXV58
 type: video
 length: PT7M19S
 publishedDateTime: 2020-04-20T17:31:47Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "MLSNe926i6aspd9Heb/X8lb1y2A0o5fzNxhLkNboekIt334bsYxns/2+JK/U4bovufAbhuZV57FDQjjYhZf988D9teLW6aVMQtaENHYZTIjyVvN5hyoEByq6qYDfxF8ltLIAYCKRx+S4fyMjNg5hnLjq6mMvwHO79XGr4Fw4AFIyQeWz13VPqEjQXOPRqkqtKgi6jVqd+MHWOFqshsZv0o4QIf7vOTsXnnOhau44KyWfYimK71gdyf9/7vJnlKs+ZlKr9mYLYQZ86L2R335/NJPBiElqY10pGRPU5glxBp6N5KLp+noJijfENQ/jsqBZULvH0V8Uyq3Vu1/bGXyWZBzUgbEko7H7tdhmRVywfGDtU883DqwQtmrSB7gpeJ6nd4/mXYI/Q3JdIFiCSt7tpfwh2kQ+MA2wzbZNxZ9Kur4=;v8uEYSCdA9aHjwGSXGUAMA=="
+secured: "02HvSmM2oDh5DWUclKnZrAD09lEZstSsfnOxww5N6ssHWcITMMt52nxLFURbsd1NUISr50ohQ+HavdhZO0Ondm3hm0gd5wFWxPsLSvyowDodlyxphUVS3mV7NfrYagGKSkz7Me7ys/L//ehMc6fL0HkAsT7kegAvssxLAIGbJj6zOL8vZ88Q8g0EpvX1fbMBcaxRI56I8CoZ05g3yXdA9MMQ8TwzCUPTSKvwQDlhSKkoaZwPiAj7O5bwIF3m2MfjjWZy3hUi+3IW7f2iZqRqOTzxEBa8O1BoPMyvGIAJAnJzJ4axuli8Rgk33Bt/9MY09QumJXbJG7hqqZEPQHIUUM7vcApwzTN5K3sHnCOQ2A9l39FGsmKJhtOaKnT6BcIm9wTvT/06wZHTslr2fSGdXETLKCAPWwa14JopLcjiwBA=;dKtLb3Efo8HyRpwo0DYAhQ=="
 ---
 
