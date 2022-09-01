@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3.md",
+      "title": "What are the best aspects of Season play that Diablo 4 should make sure to borrow from Diablo 3?",
+      "excerpt": "Diablo 4 will have Seasons, iterating on the Ladder Seasons from Diablo 2 and the Seasons of Diablo 3. Because it's a new game, there will obviously be dif ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
+      "originalUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2017/10/treasure-goblin-header.jpg",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more.md",
       "title": "Diablo 4: Release Date, Classes, Gameplay, Leaks, Beta Sign Up, and More",
       "excerpt": "Awaiting Diablo IV's launch but don't know much about it? Know the Diablo 4 release date, classes, beta, leaks, & more in this info dump.",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "Irish Sun",
         "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4.md",
-      "title": "Offer your flesh as a tribute to get beta access to Diablo 4",
-      "excerpt": "Blizzard's Diablo Hell's Ink takeover event kicked off in Los Angeles on Saturday and will continue through September 10. During this time, fans can get a free Diablo tattoo. But this is getting huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4/index.json",
-      "webUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
-      "originalUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/751951/751951_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "levelup",
-        "domain": "levelup.com",
         "images": null,
         "publishers": null,
         "authors": null
