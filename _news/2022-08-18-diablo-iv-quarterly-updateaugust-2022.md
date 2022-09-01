@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Monetization and Paid Season Pass Announced - Diablo 4 HUGE Quarterly Update"
+    excerpt: "Official Diablo 4 Blog Post: https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022 ..."
+    publishedDateTime: 2022-08-18T21:59:15Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Sweet Phil
+      domain: youtube.com
+    quality: 134
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 will have 'an army of developers' working on years of seasonal updates"
     excerpt: "Diablo 4 will be supported by an \"army of developers\" working on new seasonal content for years to come, Blizzard said in today's new quarterly update, with updates and new content ranging from polish ..."
     publishedDateTime: 2022-08-18T10:02:00Z

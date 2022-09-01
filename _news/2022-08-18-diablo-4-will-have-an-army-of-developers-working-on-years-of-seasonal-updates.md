@@ -42,6 +42,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Monetization and Paid Season Pass Announced - Diablo 4 HUGE Quarterly Update"
+    excerpt: "Official Diablo 4 Blog Post: https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022 ..."
+    publishedDateTime: 2022-08-18T21:59:15Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Sweet Phil
+      domain: youtube.com
+    quality: 134
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "jLrVMfmP8s7BGBuCOyPHo9MRIGPQae8Z5LePsakNtErDMkVVwlwvm+RjzP47+6NR7zBUt0oFe0NvlKZSL4LOnSIFakJad3oEcnyMRkOznXl9dayd41yjLu867KXd8v7+zqzM35I/zDyDg1cCjnD6GASqIvJUL2v1UR2tmZCY8ESaYy1FbuGAnlMchvqG5r95YAWtpBSwZX4oklx7EnL489CTuaBU+yMNxvwjwXGtIauoLpXGlIXcmSx0KoUBB/it5N0g4S9T2P8CaMuOC94mq89L+mgNcbdkTwgHzGr7dcNk8Er2ERwNDDk8nTiZlI7a7ret58Y6pKxE5THg+JmUZuiD1fcBUPDMWtMWX/ay2NQ=;M3yY5esSibdPP9UrYbd1cg=="
 ---
