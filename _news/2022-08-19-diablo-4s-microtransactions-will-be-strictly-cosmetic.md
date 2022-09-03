@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 survey hints at potential microtransactions"
-    excerpt: "A Diablo 4 survey sent out by Activision Blizzard suggests some of the potential microtransactions and pre-order bonuses we might see in the upcoming RPG game ..."
-    publishedDateTime: 2022-08-14T07:47:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/survey-pre-order-microtransactions"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-survey-pre-order-microtransactions.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "c+7DQHQcyEYyMRWlJs07ObAtbwip/6gHk/6C+cAIQfX9Lmd2iYPFLZ4mehQXiNgWRMCc+9aSHBJkPOZ+ERCopwxrcwKko3AVlih2Li8wBcbuEjgq86QDkUf6iYiuCVktd/tdqcQdIDaj0JUZHl7ONI46NrsdHATTxAZH6cgOswYIPe/5c8JZAdhRtO6vDV0KvE7NM3RaPzVR3OkRk6zqkBgQFp8SSr02B3JuMr0jikqLVg1xahpSqkogPVhH7fmt7r0cul/nxf7wZnFJ9sv7CicEhV9i9iML4cUDPEB4+znjTBkiHWsD6YT/DBsPSLlHEEBLkpHPEDyBTmVo92L6Pt2rxWdayR9MivTdtyedITM=;WI7DAjGXeHa/xaPfYDIvuw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtra
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 survey hints at potential microtransactions"
-    excerpt: "A Diablo 4 survey sent out by Activision Blizzard suggests some of the potential microtransactions and pre-order bonuses we might see in the upcoming RPG game ..."
-    publishedDateTime: 2022-08-14T07:47:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/survey-pre-order-microtransactions"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-survey-pre-order-microtransactions.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4's Microtransactions Will Be Strictly Cosmetic"
     excerpt: "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised."
     publishedDateTime: 2022-08-19T09:53:00Z
