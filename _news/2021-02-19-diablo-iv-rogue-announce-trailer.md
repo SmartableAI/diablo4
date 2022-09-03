@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
+originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Blizzard Türkiye
+  name: Diablo
   domain: youtube.com
 
 topics:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "PKc+hcPtcDHkR1+YaIgqCzx3MbIWhWvgP6o/aujrl676ipINHsl7JHVmnlfHsmbeam1za4Fn4NxZd4CeP4JZexydnpkS/dA9hXJ+ZdqjHWFW4a2hrypPfJSwuLfWb22pw5YPOrHSd0FEZP4BeOA/Pc8M85VWxTGujkUBaCl+163atO0FU33XVWaWqpqxl/3EL8fPN2M8oX7t+u7G2dJRPfS3E16gtkrYMz57BoHHp3GedHKmqj7dvgYCS6E/QS1tABGEWBSQCrYiFxNeNcsvSHG7RI/CG9nEg1x0ojPOA2YSykTchOBf6esAk4M7zzmF2oV2CDdkycm696Nedrz06VD/A8Cpm9FgMBm5wPABRtOQ5g6n9nJvQqUOTb5z9tVg8kKgBU4KyCJ6MwA6fKSZWw==;s5Jo20Xv2b3+wtYNKEcDYA=="
+secured: "msQ/GXnsGjGazrAintHjCsbD7BJsMX5NCEKSZWXRIKgK8hDgBsHBDkJ20HwOMvbShwU/VvLswiquAmffzKF63O120GMB7L5z8amDchGPmIzKMDzypulbizS0DfruFDEinylfcWxqeRc+LPNTG5lr2/YjRMvc2Sz0gxlL8tWDRHWWRlj2Q+rmmOvtsNL2ur9KU+2O1e53+IMcSXkvlgdAesDjiCUrteILzB1Gbj1fD0uLLi9SU8N2V3p85n9CdwOyaP836cw7FlD2z8ZdSoq5ccgf4LdZ9+XSr5n/FbBJwSOoGn3MjyeCeJ2sMAqGRbUST+xVHP0ErnnGo/38IIfdPq6JxQrAxk4dTpaAEZMOK0TSrT7DPvoijlno1qLGL1IUyAeWN9DqVFOHeTBu2GEJfQ==;dPqSK1Qh3gYiCgqPl8dRnQ=="
 ---
 
