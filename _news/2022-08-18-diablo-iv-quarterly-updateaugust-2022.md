@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarter
 webUrl: "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022"
 type: article
 quality: 162
-heat: 202
+heat: 203
 published: true
 
 provider:
