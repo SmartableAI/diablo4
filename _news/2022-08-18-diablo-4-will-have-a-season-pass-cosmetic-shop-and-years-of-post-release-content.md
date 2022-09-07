@@ -7,8 +7,8 @@ originalUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-
 webUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Rock Paper Shotgun
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 shop to sell cosmetic-only outfits, Season Pass with free and paid tiers"
-    excerpt: "The latest quarterly update for Diablo 4 is all about the game's live service systems. Blizzard Entertainment confirms there will be a Season Pass with paid and free tiers, with Diablo 4 aiming for ..."
-    publishedDateTime: 2022-08-18T10:52:00Z
-    webUrl: "https://www.windowscentral.com/gaming/xbox/diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers"
+  - title: "Diablo 4 Details Season Pass Plans and More"
+    excerpt: "Blizzard outlines its plans for post-launch Diablo 4 support including how Seasons will work and what fans can expect from live service features."
+    publishedDateTime: 2022-08-18T12:42:58Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-season-pass-plans-and-more/ar-AA10Otxb"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 82
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9W9Cjgx3sLRAngxWpZPecg-1200-80.jpg"
-        width: 1200
-        height: 553
-        isCached: true
+      name: GameRant on MSN.com
+      domain: msn.com
+    quality: 67
 
 secured: "+8ECoRlCmfVTvCNT3zF7hpdhih+u6ZbOehBRYkrQqc7u2qjozndJiqO/SOA+1LIiHil2EnvtKp66e0/MQwf1mgUr0iMddav+hd0tWwwgLG7ZvL2JgRpBXtKcfo8gdCLdtQU7G+Lu+g/SKWcLL/x7hmIyjdT2puGks5vIl1zGT9l5O5IPkGaeYAXyJ6v2OmZJMdBaX7wzDESv5XBQKhhtVSD6PErrKG0kUBVMOGrniarqzt1kbZksbxBLepy4NHxKdoE2qj4elSE7+hVWib9p+Fu0cJzD1SyOQgpNt5HcvXtiHYEpsBEwrC8dh+eX8UN5s52Bw1cIujwh1f+PWoHJJHGxqkI038anJB+HvWHCgRQ=;vvTo59vgVChQ6icXdJqLGg=="
 ---

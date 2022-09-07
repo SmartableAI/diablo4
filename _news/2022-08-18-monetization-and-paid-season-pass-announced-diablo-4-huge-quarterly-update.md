@@ -39,20 +39,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Diablo 4 will have 'an army of developers' working on years of seasonal updates"
-    excerpt: "Diablo 4 will be supported by an \"army of developers\" working on new seasonal content for years to come, Blizzard said in today's new quarterly update, with updates and new content ranging from polish ..."
-    publishedDateTime: 2022-08-18T10:02:00Z
-    webUrl: "https://www.pcgamer.com/diablo-4-will-have-an-army-of-developers-working-on-years-of-seasonal-updates/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 123
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ctW3HccbaGzzxdR8XRs8nD-1200-80.jpg"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "CWVW+JuNY4BvGmdSb5dvJ56HvYbJlYnKTaQ4pJaBgMADn9eCoYo3aNgh6iKDbqRBxQDF8bIcIfgKmBJHABO6dIRdKgjkkFgFs9DdzfHqymTQx6J+UYI+sAuwQwThNziAOoR3ZTGfxrBvqHFG4FRjcJyk4xW9KW99ZwFe63nxaKFWN01i79/n1T37gUUlJ/Hb+DcpmxdiyyjxBNd/uhN0Urnx7vTgend/VuA2HG4+quRH7vAESedtdJ5o6IMNLnTSCTx8PBjBGmF+0CAR8jNjY2fFz1g6fsbkv7YNhN6KbtK5ejFT0W7cfgTzBoB1pCh/gJiOEfgCV+WT5zMvVGzZvBcCKPndz0/mr9lENYe0nymUSiTC1Mq9aVJLA5pEyli4iMczyrc8co+jjEhpCOlYkA==;+CRMf1Q5H7dI4yu1LmwxBQ=="
 ---
