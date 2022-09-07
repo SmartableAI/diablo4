@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4's Paid Battle Pass And Shop Will Be For Cosmetics Only, With Seasons Modeled After Diablo 3"
-    excerpt: "Players won't be able to pay for power in Diablo 4, as Blizzard outlines its post-launch plans for the highly-anticipated ARPG."
-    publishedDateTime: 2022-08-18T10:00:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 132
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 shop to sell cosmetic-only outfits, Season Pass with free and paid tiers"
     excerpt: "The latest quarterly update for Diablo 4 is all about the game's live service systems. Blizzard Entertainment confirms there will be a Season Pass with paid and free tiers, with Diablo 4 aiming for ..."
     publishedDateTime: 2022-08-18T10:52:00Z
@@ -54,15 +38,6 @@ related:
         width: 1200
         height: 553
         isCached: true
-  - title: "Diablo 4 Details Season Pass Plans and More"
-    excerpt: "Blizzard outlines its plans for post-launch Diablo 4 support including how Seasons will work and what fans can expect from live service features."
-    publishedDateTime: 2022-08-18T12:42:58Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-season-pass-plans-and-more/ar-AA10Otxb"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "+8ECoRlCmfVTvCNT3zF7hpdhih+u6ZbOehBRYkrQqc7u2qjozndJiqO/SOA+1LIiHil2EnvtKp66e0/MQwf1mgUr0iMddav+hd0tWwwgLG7ZvL2JgRpBXtKcfo8gdCLdtQU7G+Lu+g/SKWcLL/x7hmIyjdT2puGks5vIl1zGT9l5O5IPkGaeYAXyJ6v2OmZJMdBaX7wzDESv5XBQKhhtVSD6PErrKG0kUBVMOGrniarqzt1kbZksbxBLepy4NHxKdoE2qj4elSE7+hVWib9p+Fu0cJzD1SyOQgpNt5HcvXtiHYEpsBEwrC8dh+eX8UN5s52Bw1cIujwh1f+PWoHJJHGxqkI038anJB+HvWHCgRQ=;vvTo59vgVChQ6icXdJqLGg=="
 ---
