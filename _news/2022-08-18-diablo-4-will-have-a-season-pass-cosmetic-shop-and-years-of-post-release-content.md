@@ -7,7 +7,7 @@ originalUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-
 webUrl: "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content"
 type: article
 quality: 82
-heat: 102
+heat: 82
 published: true
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Diablo 4 Details Season Pass Plans and More"
-    excerpt: "Blizzard outlines its plans for post-launch Diablo 4 support including how Seasons will work and what fans can expect from live service features."
-    publishedDateTime: 2022-08-18T12:42:58Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-details-season-pass-plans-and-more/ar-AA10Otxb"
-    type: article
-    provider:
-      name: GameRant on MSN.com
-      domain: msn.com
-    quality: 67
 
 secured: "+8ECoRlCmfVTvCNT3zF7hpdhih+u6ZbOehBRYkrQqc7u2qjozndJiqO/SOA+1LIiHil2EnvtKp66e0/MQwf1mgUr0iMddav+hd0tWwwgLG7ZvL2JgRpBXtKcfo8gdCLdtQU7G+Lu+g/SKWcLL/x7hmIyjdT2puGks5vIl1zGT9l5O5IPkGaeYAXyJ6v2OmZJMdBaX7wzDESv5XBQKhhtVSD6PErrKG0kUBVMOGrniarqzt1kbZksbxBLepy4NHxKdoE2qj4elSE7+hVWib9p+Fu0cJzD1SyOQgpNt5HcvXtiHYEpsBEwrC8dh+eX8UN5s52Bw1cIujwh1f+PWoHJJHGxqkI038anJB+HvWHCgRQ=;vvTo59vgVChQ6icXdJqLGg=="
 ---
