@@ -9,7 +9,7 @@ ampWebUrl: "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransa
 cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Diablo 4 devs promise Season Pass and shop items won’t be “pay-to-win”"
-    excerpt: "Diablo 4 developers have assured players Season Pass and other shop content won't be \"pay-to-win\", alleviating community concerns."
-    publishedDateTime: 2022-08-18T22:59:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-4-devs-promise-season-pass-shop-cosmetics-not-pay-to-win-1908362/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 87
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/19/Untitled-design-88.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "b8Q38Pd4kP9KshHiaAfRToKBdMEhTCNJVK2zWRJwf3fw3M1LKuocHBVhbCu05hN7ktwS2GUCk8TEvN30mreSGHBDwXHuOEd/25Si3+UCBJJrO0QW2Sen8DmROnHp7CGrOdhBK9hlVAquunA4LjyJb5UuSq6GipVNZKwCSuYwxdBLkrdj4YRX5GZnbQhKCd9NonEyGhdLMmWGfDtHMSBXx3lF4Z9ufndkm7/0GNNrnOOSD8zZbt/HOe/i6V/JBNlHZcGT76+k08hDBTzK2Mns3FQ39MwtQbBcG549eyDVUop72hA1OhtChdmfS34u4XEI0BGz1rWHsKBINLGgrJdOtQe33Gxn+Dc+TIKQwret3FY=;7llXwV8yRbeA5kCpo1SsLQ=="
 ---
