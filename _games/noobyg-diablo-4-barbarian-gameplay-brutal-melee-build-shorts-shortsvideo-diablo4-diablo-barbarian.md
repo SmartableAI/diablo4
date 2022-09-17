@@ -2,6 +2,7 @@
 title: "Diablo 4 Barbarian gameplay!  Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian"
 excerpt: "Diablo 4 Barbarian gameplay! Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian Please subscribe for more ..."
 originalUrl: https://youtube.com/watch?v=YBPcxotmWDY
+webUrl: https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/
 type: video
 length: PT26S
 publishedDateTime: 2022-09-17T05:14:08Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "jclCFl7Un6akHgHVFi0cIyM7ZICC2G3dPnhDnJi77uCPT6Hlx+z+1qids67zL1rYAIZ5IQASHcsxNT1bA2KfeviGnX6mgxCMiR5mAf7zTYe7geTJ47W/gJFcskWhY3U4SdD0lGEP2dl/7D1Bgc+qDrvMbVz4rmkzJYSk4eznsXxm18WVXwNO1sbRhCWrFzAo1Z7GdK4hlNQ5hZimXTFXj6QCiJGVjAo7N2yOauY+9rnAvNzTZ9zhbZepXaID6e5dFdBWkrwm00S8rPT41XEktnkHxU3tmS7j8ghT0PaE1BDzyq498MYCPmXCAb/UTxnmXYAw89o0wfIRYFoB3DP5lHuObSf+lIW5PzWxdq2OmJw8SfIo9niUXTglvZBWt3Ivu5/gGdf1SjorHNXUCVV9BA==;AtdbgcEYx3lYWBSBnTWgOg=="
+secured: "mpxHgusyk6rk0ESsMOM/l7HndLCvApDqtUfh1ZaIBp3SdQtWLiwXwFQcIsA3CHo4ZeFDa+x9MKTZQJd3t/eLCgieB7tOYIiRS3EM2y/E4QoDncyAu8O2diEPa+4sbGIdYbS1/EK8IMsAljsXrjhIsLo/+wvGCYex9MkacvoEAi7i16xB+PmIZyC/jugTV9N+eR7WBHB0+ip9VuIJMM0rcwYU9tc7dcjHdGajM8rkdTOCEZPxh/nTFmHf6MZ2y2I0lh4drft6lzjUJ/56X+fqrl6JRtCO3FkYZGSmNU4EsZkRy19UCNHTxMs9na7pOQSjK4IbhdQXFOZN6WOQ0cqB18taBHZKKPcUO0fRBq1UFQAojQ15Yu5inZv1XSYECHGA;/sSfJiQ+6UOM7UJHaeNk/w=="
 ---
 
