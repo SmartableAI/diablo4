@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
+      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
+      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-diablo-4-everything-we-know.md",
       "title": "Diablo 4: Everything we know",
       "excerpt": "The latest on Diablo 4's classes, world, trailers, and everything else we know about it. After years of speculation and rumors, Blizzard finally revealed Diablo 4 during BlizzCon 2019. It wasn't a ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch.md",
-      "title": "Diablo 4's Alpha Has Begun, But There's A Catch",
-      "excerpt": "Some gamers are getting to play Diablo 4's alpha build, but there's a catch: the alpha is for friends and family only.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch/index.json",
-      "webUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
-      "originalUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.svg.com/img/gallery/diablo-4s-alpha-has-begun-but-theres-a-catch/l-intro-1659716552.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "svg",
-        "domain": "svg.com",
         "images": null,
         "publishers": null,
         "authors": null
