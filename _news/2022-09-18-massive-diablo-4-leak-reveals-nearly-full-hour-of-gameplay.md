@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
+    excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
+    publishedDateTime: 2022-09-19T00:23:00Z
+    webUrl: "https://www.videogameschronicle.com/news/over-40-minutes-of-diablo-4-gameplay-has-seemingly-been-leaked/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
+    images:
+      - url: "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg"
+        width: 1952
+        height: 1074
+        isCached: true
 
 secured: "Xzgopdo3SnQ+IgYHZBP57lZo05TFHBFLKJDVd5nvqELwXoUZ0Bcr5/DwScz6E3efk0OY9f7CY8wQK8jniN6Tss+hzd8DblYVIlqfMqqIdQBZBDYhl8EQT3PDVCpV7HhwziQDUthoVImt8SJq8bAJ+VM4gQ8XVmedewU5t6CAPVmgyICBp2m37ah+ST17PqXDmHpeTVClykpga/xxufXTtBldwhi1DRe7Cl4mFXJ2uYIDIMAWF2LNFgw6o7RKOSI63A8t83zqg3Ij4FIIb5lWAv3cyyctJsHl4idZvHASq8KGeoO44RCxJ6UF2VRmw/mmbTkhsR4Fmw5aR1LeuykCv84+b+WfJNFNUB1m08QOGeA=;UENFDIm9n/oJePGcZvE3UA=="
 ---

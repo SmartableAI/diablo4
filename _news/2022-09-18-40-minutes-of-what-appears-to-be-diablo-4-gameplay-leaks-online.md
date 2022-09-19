@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-d
 cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/18/diablo-4-1.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
+    excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
+    publishedDateTime: 2022-09-19T00:23:00Z
+    webUrl: "https://www.videogameschronicle.com/news/over-40-minutes-of-diablo-4-gameplay-has-seemingly-been-leaked/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
+    images:
+      - url: "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg"
+        width: 1952
+        height: 1074
         isCached: true
 
 secured: "Gw5/5O2lbrWgm6F1y3vqyAkhV4A/W/3kGB1ED/jEFAxjKQ/WD2Y90MM4Vo3KSwTRvIo18IFTK372Opv3knVEQ/ZaWpAHH5wv0Ic/QGeaJrjo+qVrhUHJYo8DhxsHCBUDRKoM6z4WLKlkPK7nfBu70ObRRkQ/LUfgwSea79vpAFqKEBv+ea8Z+BGiB318c8j3n15FydV+k645ElsVecwS0ui/uFQyHQZ2fEsF2BrF8B7qsUOtkPeM4is7jh23w7cHSaswYyItG4XQaGVjPLLRq9yH8M6PRzOUTHL8i7K1j6dsHAZu5Ra4PVj4zRlY3f4/S0cs7UzIpLRz6C4WWkPGNR4U5nh7jNc9UgpUsePJOI4=;D/Ab5WfLZFHP+UYayX+tkA=="
