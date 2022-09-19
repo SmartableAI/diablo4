@@ -40,6 +40,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 closed end game beta early details revealed"
+    excerpt: "Blizzard offers an early indication of what will be included in the upcoming closed end game beta for Diablo 4."
+    publishedDateTime: 2022-09-19T11:35:00Z
+    webUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings"
+    ampWebUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/09/19/front-end-barbarian_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "o24+NQpsD0bWWr8DPLj8t4lVp5C8PYLLDEpm2TgD7DerB4TQ6YZKzsS4dfCyeGkfUenl27r8P0pT1WdCb7Z3ikTyZF7htMeCeqzYKx90G4dx9Zrummtv0zVmTvNreW3LdJEvIMR+yMgNpPW9d1RnwADDoOlyCsgRVRbizudIzqghSicwFaAZVKYjoQrUP35ZTDyCEWoj4oK+EjREBdfxTpBZ+fOMU2x56P5EIlRibAJxXAVMzQiCi1kTUHicNroDmq+yqHicQilSR/lNsXtZlKt5KGd9/M8ZBq63E0HwKxsbAY+9s4j3pKl7OJ3z5QnnEt9542q1nhEQdeet9rn2AVxypHL7tNiv1ENyG7fi+h0=;4pRmPDgBK44aaFkg2EUo8Q=="
 ---
