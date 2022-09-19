@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Massive Diablo 4 leak reveals nearly full hour of gameplay"
-excerpt: "Nearly a full hour of gameplay footage from Diablo 4 hit the internet in a massive leak of Blizzard's upcoming game."
-publishedDateTime: 2022-09-18T10:48:00Z
-originalUrl: "https://www.dexerto.com/diablo/massive-diablo-4-leak-reveals-nearly-full-hour-of-gameplay-1934740/"
-webUrl: "https://www.dexerto.com/diablo/massive-diablo-4-leak-reveals-nearly-full-hour-of-gameplay-1934740/"
+title: "Rumour: Over 40 Minutes of Diablo 4 Gameplay Has Apparently Leaked"
+excerpt: "More than 40 minutes of gameplay from the Diablo 4 beta has apparently leaked, on the same day that 90-odd videos that purport to be early work-in-progress clips of Grand Theft Auto VI surfaced online ..."
+publishedDateTime: 2022-09-18T23:00:00Z
+originalUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
+webUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Dexerto.com
-  domain: dexerto.com
+  name: Push Square
+  domain: pushsquare.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/18/diablo-4-1.jpg"
-    width: 1600
-    height: 900
+  - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -56,19 +56,19 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Rumour: Over 40 Minutes of Diablo 4 Gameplay Has Apparently Leaked"
-    excerpt: "More than 40 minutes of gameplay from the Diablo 4 beta has apparently leaked, on the same day that 90-odd videos that purport to be early work-in-progress clips of Grand Theft Auto VI surfaced online ..."
-    publishedDateTime: 2022-09-18T23:00:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
+  - title: "Massive Diablo 4 leak reveals nearly full hour of gameplay"
+    excerpt: "Nearly a full hour of gameplay footage from Diablo 4 hit the internet in a massive leak of Blizzard's upcoming game."
+    publishedDateTime: 2022-09-18T10:48:00Z
+    webUrl: "https://www.dexerto.com/diablo/massive-diablo-4-leak-reveals-nearly-full-hour-of-gameplay-1934740/"
     type: article
     provider:
-      name: Push Square
-      domain: pushsquare.com
+      name: Dexerto.com
+      domain: dexerto.com
     quality: 87
     images:
-      - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/18/diablo-4-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
     excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
@@ -85,6 +85,6 @@ related:
         height: 1074
         isCached: true
 
-secured: "Xzgopdo3SnQ+IgYHZBP57lZo05TFHBFLKJDVd5nvqELwXoUZ0Bcr5/DwScz6E3efk0OY9f7CY8wQK8jniN6Tss+hzd8DblYVIlqfMqqIdQBZBDYhl8EQT3PDVCpV7HhwziQDUthoVImt8SJq8bAJ+VM4gQ8XVmedewU5t6CAPVmgyICBp2m37ah+ST17PqXDmHpeTVClykpga/xxufXTtBldwhi1DRe7Cl4mFXJ2uYIDIMAWF2LNFgw6o7RKOSI63A8t83zqg3Ij4FIIb5lWAv3cyyctJsHl4idZvHASq8KGeoO44RCxJ6UF2VRmw/mmbTkhsR4Fmw5aR1LeuykCv84+b+WfJNFNUB1m08QOGeA=;UENFDIm9n/oJePGcZvE3UA=="
+secured: "PnprDJOmYw+aUAW6ZetwMq1C+wxtTvBvq5DR5GKGb1LJoOynR3a8e0jlefnSVVBzXeVrg96rJIYxEwr/CP+qxjrk0V5QJQaOhGtSp6pasFe9O2eJze7DY0dJyiSJuefrE3lqT1t5f4mu3SUWWfxDATS+PpCG81XThrIqC0P8UmBYV4pq6WLIizgv/U9biWzrt04nlUzNibjT24ov5PSzmK6mk/hZwG/OFmfdA73k7vq8X1rGEFiaHHMIn/hseOSTGJRxP3RhsNoeXZiSSVhISyM+7QJhdTlwKPdQEFU/9isYQ552XEhs4aR/OqUPmO1dXrKZDkBJ+mI3HV6NMdhCDLOIAfaP6bHP2ihg6Qv/E0o=;j4pY/We9srFwZ3xh03Q2Xg=="
 ---
 

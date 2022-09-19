@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-d
 cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
 type: article
 quality: 107
-heat: 147
+heat: 187
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Gameplay Leaks Online"
+    excerpt: "The Diablo IV test gameplay footage was spotted and shared to Reddit yesterday and includes a grand total of 43 minutes of gameplay from the in-testing title across two clips. While obviously not ..."
+    publishedDateTime: 2022-09-19T05:12:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-gameplay-leak/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-gameplay-leak/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-gameplay-leak/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2022/04/12/a0a7eec8-8aa9-4871-b5e0-bb735e3e3b25/gta-6.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Massive Diablo 4 leak reveals nearly full hour of gameplay"
     excerpt: "Nearly a full hour of gameplay footage from Diablo 4 hit the internet in a massive leak of Blizzard's upcoming game."
     publishedDateTime: 2022-09-18T10:48:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/18/diablo-4-1.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Rumour: Over 40 Minutes of Diablo 4 Gameplay Has Apparently Leaked"
+    excerpt: "More than 40 minutes of gameplay from the Diablo 4 beta has apparently leaked, on the same day that 90-odd videos that purport to be early work-in-progress clips of Grand Theft Auto VI surfaced online ..."
+    publishedDateTime: 2022-09-18T23:00:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 87
+    images:
+      - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
     excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
