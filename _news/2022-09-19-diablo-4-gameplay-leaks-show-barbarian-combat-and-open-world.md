@@ -1,46 +1,51 @@
 ---
 category: news
-title: "40 Minutes Of What Appears To Be Diablo 4 Gameplay Leaks Online"
-excerpt: "Roughly 40 minutes of footage allegedly from an early build of Blizzard's upcoming RPG Diablo 4 has found its way onto social media."
-publishedDateTime: 2022-09-18T10:30:00Z
-originalUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/"
-webUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/"
-ampWebUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
-cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
+title: "Diablo 4 Gameplay Leaks Show Barbarian Combat And Open World"
+excerpt: "As indicated by PC Gamer, a link to both videos was posted in the Gaming Leaks and Rumours subreddit by user iV1rus. The footage shows a barbarian character exploring a city, and then heading out ..."
+publishedDateTime: 2022-09-19T11:06:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
 type: article
-quality: 107
-heat: -1
-published: false
+quality: 164
+heat: 284
+published: true
 
 provider:
-  name: Kotaku Australia
-  domain: kotaku.com.au
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
+  - Barbarian
 
 images:
-  - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/09/19/Story04-Medium.jpg?quality=80&resize=1280,720"
-    width: 1280
-    height: 720
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
+    width: 640
+    height: 360
     isCached: true
 
 related:
-  - title: "Diablo 4 Gameplay Leaks Show Barbarian Combat And Open World"
-    excerpt: "As indicated by PC Gamer, a link to both videos was posted in the Gaming Leaks and Rumours subreddit by user iV1rus. The footage shows a barbarian character exploring a city, and then heading out ..."
-    publishedDateTime: 2022-09-19T11:06:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+  - title: "40 Minutes Of What Appears To Be Diablo 4 Gameplay Leaks Online"
+    excerpt: "Roughly 40 minutes of footage allegedly from an early build of Blizzard's upcoming RPG Diablo 4 has found its way onto social media."
+    publishedDateTime: 2022-09-18T10:30:00Z
+    webUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/"
+    ampWebUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 164
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 107
     images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
-        width: 640
-        height: 360
+      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/09/19/Story04-Medium.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 Gameplay Leaks Online"
     excerpt: "The Diablo IV test gameplay footage was spotted and shared to Reddit yesterday and includes a grand total of 43 minutes of gameplay from the in-testing title across two clips. While obviously not ..."
@@ -115,6 +120,6 @@ related:
         height: 1074
         isCached: true
 
-secured: "Gw5/5O2lbrWgm6F1y3vqyAkhV4A/W/3kGB1ED/jEFAxjKQ/WD2Y90MM4Vo3KSwTRvIo18IFTK372Opv3knVEQ/ZaWpAHH5wv0Ic/QGeaJrjo+qVrhUHJYo8DhxsHCBUDRKoM6z4WLKlkPK7nfBu70ObRRkQ/LUfgwSea79vpAFqKEBv+ea8Z+BGiB318c8j3n15FydV+k645ElsVecwS0ui/uFQyHQZ2fEsF2BrF8B7qsUOtkPeM4is7jh23w7cHSaswYyItG4XQaGVjPLLRq9yH8M6PRzOUTHL8i7K1j6dsHAZu5Ra4PVj4zRlY3f4/S0cs7UzIpLRz6C4WWkPGNR4U5nh7jNc9UgpUsePJOI4=;D/Ab5WfLZFHP+UYayX+tkA=="
+secured: "JRQAXbVoNFxMkV81vSwGRKGrk72g9JjhsHEIA+Y2p4cTEQUwuAztDelATocNkSFl1xgAWahf+RdewRXLG7+lzr1GMvBlTx8lJvWemZbWLCi86s3CttnMohJ8sU51BiAEJyM77doNjPHa3gq15uaoOlltBvsbOMYtYOith4cHK1KXEfkVb/qOttZZPy9dWwC1hu3BYyv7sFq0DFKPAcuNqprvz0O7qgyc0+aGxQL4aPfeLfgi6fDYCWifr87DTWlixnzP+lrDZanCpVIR30cEZ3kS/0xKaBUH9DY0vMQd5Ql+lys/mbwClv2zCLBa4Z1g6ai7utfzgWg/ncN/06l5L1dgIxtA02OGHs2eyyaA0GY=;9A6GPMnsKWbqyDTxnnLqwg=="
 ---
 

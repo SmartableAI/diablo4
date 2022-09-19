@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T05:02:00Z
 originalUrl: "https://www.svg.com/1014560/diablo-4-leak-apparently-reveals-a-major-quality-of-life-inventory-upgrade/"
 webUrl: "https://www.svg.com/1014560/diablo-4-leak-apparently-reveals-a-major-quality-of-life-inventory-upgrade/"
 type: article
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: svg

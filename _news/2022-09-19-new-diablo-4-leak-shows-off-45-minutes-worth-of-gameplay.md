@@ -1,28 +1,26 @@
 ---
 category: news
-title: "40 Minutes Of What Appears To Be Diablo 4 Gameplay Leaks Online"
-excerpt: "Roughly 40 minutes of footage allegedly from an early build of Blizzard's upcoming RPG Diablo 4 has found its way onto social media."
-publishedDateTime: 2022-09-18T10:30:00Z
-originalUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/"
-webUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/"
-ampWebUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
-cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
+title: "New Diablo 4 leak shows off 45 minutes worth of gameplay"
+excerpt: "Diablo IV leaked beta gameplay footage from GamingLeaksAndRumours Reddit user iV1rus0 recently posted this link stating that there are about 53 minutes of untitled footage captured from the upcoming ..."
+publishedDateTime: 2022-09-19T02:43:00Z
+originalUrl: "https://dotesports.com/general/news/new-diablo-4-leak-shows-off-45-minutes-worth-of-gameplay"
+webUrl: "https://dotesports.com/general/news/new-diablo-4-leak-shows-off-45-minutes-worth-of-gameplay"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Kotaku Australia
-  domain: kotaku.com.au
+  name: Dot Esports
+  domain: dotesports.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/09/19/Story04-Medium.jpg?quality=80&resize=1280,720"
-    width: 1280
-    height: 720
+  - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg"
+    width: 768
+    height: 432
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
         width: 640
         height: 360
+        isCached: true
+  - title: "40 Minutes Of What Appears To Be Diablo 4 Gameplay Leaks Online"
+    excerpt: "Roughly 40 minutes of footage allegedly from an early build of Blizzard's upcoming RPG Diablo 4 has found its way onto social media."
+    publishedDateTime: 2022-09-18T10:30:00Z
+    webUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/"
+    ampWebUrl: "https://www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
+    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/09/40-minutes-of-what-appears-to-be-diablo-4-gameplay-leaks-online/amp/"
+    type: article
+    provider:
+      name: Kotaku Australia
+      domain: kotaku.com.au
+    quality: 107
+    images:
+      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/09/19/Story04-Medium.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 Gameplay Leaks Online"
     excerpt: "The Diablo IV test gameplay footage was spotted and shared to Reddit yesterday and includes a grand total of 43 minutes of gameplay from the in-testing title across two clips. While obviously not ..."
@@ -86,20 +100,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Diablo 4 leak shows off 45 minutes worth of gameplay"
-    excerpt: "Diablo IV leaked beta gameplay footage from GamingLeaksAndRumours Reddit user iV1rus0 recently posted this link stating that there are about 53 minutes of untitled footage captured from the upcoming ..."
-    publishedDateTime: 2022-09-19T02:43:00Z
-    webUrl: "https://dotesports.com/general/news/new-diablo-4-leak-shows-off-45-minutes-worth-of-gameplay"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
     excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
     publishedDateTime: 2022-09-19T00:23:00Z
@@ -115,6 +115,6 @@ related:
         height: 1074
         isCached: true
 
-secured: "Gw5/5O2lbrWgm6F1y3vqyAkhV4A/W/3kGB1ED/jEFAxjKQ/WD2Y90MM4Vo3KSwTRvIo18IFTK372Opv3knVEQ/ZaWpAHH5wv0Ic/QGeaJrjo+qVrhUHJYo8DhxsHCBUDRKoM6z4WLKlkPK7nfBu70ObRRkQ/LUfgwSea79vpAFqKEBv+ea8Z+BGiB318c8j3n15FydV+k645ElsVecwS0ui/uFQyHQZ2fEsF2BrF8B7qsUOtkPeM4is7jh23w7cHSaswYyItG4XQaGVjPLLRq9yH8M6PRzOUTHL8i7K1j6dsHAZu5Ra4PVj4zRlY3f4/S0cs7UzIpLRz6C4WWkPGNR4U5nh7jNc9UgpUsePJOI4=;D/Ab5WfLZFHP+UYayX+tkA=="
+secured: "I24ZGnFQqj7ErNhp7G03wJIegJb6/Avl8butAmLAH970kvz26tDyKkx3DFq7q47i9Entu3EeqCLFZLn0Lr/bsRt8DCHvIphUE8WBStqfgVJWfsPWJ6ZBFXXG1GCUcMttpNKyxhPtGh+6miF6u38BlwR10P69F/7qlhCszo8WeOSvAd0SjNfOX03sFCauLESTqY+Grr8OQdbO4O8spz3SExO0nssLZOZanm9s740zZYCsEZ+1ypEA1yqnNyrtOhm3pymFQcNyLeqC3Jv8FLXYZW/i/0CD8N75IpapRUZ3gbD2otqa7fxw9v0+ddSGuqNgIWZxTwzzgrkTQj6WO7JmMKJNtaZfgM2LEUEYOdrw7LM=;MT0BnQCR3LQ/4gpgSt5WSQ=="
 ---
 

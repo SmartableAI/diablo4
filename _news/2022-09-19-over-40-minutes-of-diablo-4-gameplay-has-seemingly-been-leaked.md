@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Gameplay Leaks Show Barbarian Combat And Open World"
+    excerpt: "As indicated by PC Gamer, a link to both videos was posted in the Gaming Leaks and Rumours subreddit by user iV1rus. The footage shows a barbarian character exploring a city, and then heading out ..."
+    publishedDateTime: 2022-09-19T11:06:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 164
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "40 Minutes Of What Appears To Be Diablo 4 Gameplay Leaks Online"
     excerpt: "Roughly 40 minutes of footage allegedly from an early build of Blizzard's upcoming RPG Diablo 4 has found its way onto social media."
     publishedDateTime: 2022-09-18T10:30:00Z
@@ -83,6 +99,20 @@ related:
       - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "New Diablo 4 leak shows off 45 minutes worth of gameplay"
+    excerpt: "Diablo IV leaked beta gameplay footage from GamingLeaksAndRumours Reddit user iV1rus0 recently posted this link stating that there are about 53 minutes of untitled footage captured from the upcoming ..."
+    publishedDateTime: 2022-09-19T02:43:00Z
+    webUrl: "https://dotesports.com/general/news/new-diablo-4-leak-shows-off-45-minutes-worth-of-gameplay"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 87
+    images:
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "fYxyOTTZXKxynpHydyLvQDmwM3eaL6SxtnQasrleHbLygWzyPgceN1gCSOLb4c30VO1BHZTESNmmJeJt5S+Bh2+sqVjqeERuOId01y9ydwy6XbmN1vOsGQi0PHH6xe128XzAapO1WEc99bIL+n0a/FoxeCTiX1I8lxhnqcjyme0nJMRZ3yNnlDc8SLpBHl5C6h7TJUPacPUBuoUVNy+cLTF3IE0VCC+dpqmTZKR/sC3PDHhzrBX5f8EmmNYEIuYSkTQV1ckf4UM/WENr8X3USi9abzORguFurGlZ9mKP5pFsPHGVtj97VGzNTWNhAfFi2oswzQIN92zHQPxGLYfD8XnD6J0JDdVoiLPDy9KuqKU=;/w5Otk6YVphLG373d/E9uw=="
