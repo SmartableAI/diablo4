@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-drui
 type: video
 length: PT20M40S
 publishedDateTime: 2022-07-02T22:00:31Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "/NyxxiYR24pOe+Os7wTMLuRi+HDW20K77vOy9tEMXoaSzv4y1ZeLlf0ArS0jzcBv7Sn6tZubZddP2b197D4GBlwRIygY/AkH/q08UlW8xSAyJbyV5DCirUC9mB6WX2DC0d/+1r1HZb6oM34Q2GO6LiMYUJd6izoH5VSlNGewm8T2CFuOdiV/kQymB24V1tBgNe/ZXxxuzRJqSALYXFA+MMjzdEE4R/kTzpPY08rrGf+MwufvrrQUy+Hvmoll9MApeH0TGZBA3y+K76bCMx8n4FDQ6iWmWfY2xfIH0qT+95CxMS2IrPLRpej3ZzUAK3uRHgJADDlo7JukxNYXPD1ivwh7e3qTVojhPVRCjXy3ljbmhKjfNyG76GUIGciHHqRXiYkR3JOM0X5rvWzVjrq+MFQzUyFheTH0cLWc7rwIY30=;Bc0gub8aTyLppr6xD5efaw=="
+secured: "YydqE2Cww+Z5JoVH1lljcXFD/3fSGDZj4Dxhzp/Tvjbc7+OmkzWwng145bOww4kFMDPtQn45HTbfGSp15ewK5IxAPco4P9gOqOFpMeQHsZm8vFWwKZrfgqq7+NoiUswRvWzDuMJVy8HAHt92govKJO5BPnyFbF6oknXjdWogMspjzXvNJLaFhF7OrIY2Rsbj7Bt+vGPRv6+66hby6w0tnbGE1iC7BwYIu8Luv0gvSkSdOf26+VSP90xUFVAmdEk2jvSywVpnWZObsgFS/9ZjiqGvcO3MByj2xJmzdx40qYUdoz2Dq/nQz7a8ajSULng/+fksuTJV97WpaV62ri/SQr4CZXFEVGc/K8knrtq3ASNpAw6tBMRHhzbXts0XjUzJAWnorVJ+DddYNlAyXh0gGlZfxUv1mBJk0eiqSCGmVag=;TCdmgc+Y7RLraD8huNF3fw=="
 ---
 
