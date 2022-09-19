@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Rumour: Over 40 Minutes of Diablo 4 Gameplay Has Apparently Leaked"
-excerpt: "More than 40 minutes of gameplay from the Diablo 4 beta has apparently leaked, on the same day that 90-odd videos that purport to be early work-in-progress clips of Grand Theft Auto VI surfaced online ..."
-publishedDateTime: 2022-09-18T23:00:00Z
-originalUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
-webUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
+title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
+excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
+publishedDateTime: 2022-09-19T09:34:24Z
+originalUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-gets-its-own-massive-leak-with-over-40-minutes-of-gameplay/ar-AA120Bb7"
+webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-gets-its-own-massive-leak-with-over-40-minutes-of-gameplay/ar-AA120Bb7"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Push Square
-  domain: pushsquare.com
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Diablo 4 Gameplay Leaks Show Barbarian Combat And Open World"
@@ -86,6 +80,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Rumour: Over 40 Minutes of Diablo 4 Gameplay Has Apparently Leaked"
+    excerpt: "More than 40 minutes of gameplay from the Diablo 4 beta has apparently leaked, on the same day that 90-odd videos that purport to be early work-in-progress clips of Grand Theft Auto VI surfaced online ..."
+    publishedDateTime: 2022-09-18T23:00:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 87
+    images:
+      - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New Diablo 4 leak shows off 45 minutes worth of gameplay"
     excerpt: "Diablo IV leaked beta gameplay footage from GamingLeaksAndRumours Reddit user iV1rus0 recently posted this link stating that there are about 53 minutes of untitled footage captured from the upcoming ..."
     publishedDateTime: 2022-09-19T02:43:00Z
@@ -114,16 +122,7 @@ related:
         width: 1952
         height: 1074
         isCached: true
-  - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
-    excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
-    publishedDateTime: 2022-09-19T09:34:24Z
-    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-gets-its-own-massive-leak-with-over-40-minutes-of-gameplay/ar-AA120Bb7"
-    type: article
-    provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
-    quality: 67
 
-secured: "PnprDJOmYw+aUAW6ZetwMq1C+wxtTvBvq5DR5GKGb1LJoOynR3a8e0jlefnSVVBzXeVrg96rJIYxEwr/CP+qxjrk0V5QJQaOhGtSp6pasFe9O2eJze7DY0dJyiSJuefrE3lqT1t5f4mu3SUWWfxDATS+PpCG81XThrIqC0P8UmBYV4pq6WLIizgv/U9biWzrt04nlUzNibjT24ov5PSzmK6mk/hZwG/OFmfdA73k7vq8X1rGEFiaHHMIn/hseOSTGJRxP3RhsNoeXZiSSVhISyM+7QJhdTlwKPdQEFU/9isYQ552XEhs4aR/OqUPmO1dXrKZDkBJ+mI3HV6NMdhCDLOIAfaP6bHP2ihg6Qv/E0o=;j4pY/We9srFwZ3xh03Q2Xg=="
+secured: "YEur78fylVwPutB4FoMYllv517osMY5I2uZc91ps1x4ln6kygHIwZkYmawBteU6xQmjjUUgczsYnkzMvbtQEs1HEC87FI3sh2WT12CMlFxN5rf3tkvvgj3PEI4rtNhGG65pg4XiB5cvNH5EHv25pUMD6xeFvRQPAWeGzzD5wi5FGGbp7aVCLe8sKeFIHYu6lAkzvf1cfizyIV2Gb1QN6Z4i25Ig3TH5SRMWltEgFWwyH4XnvSXjvlUnhcG6kWNV+ldX8YXZ1uKf0JVRaGdpIG1dZGBPdPMofRuk6o9d9d5tn7o3zQhXx9j9b2TzatL3BSKH5CUWXPdq3EqaMKo6HBqzyP1lZ/duRbzhvuI8rV50=;3VChsk+tmAW+OThow/MTHA=="
 ---
 

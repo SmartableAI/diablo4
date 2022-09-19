@@ -114,6 +114,15 @@ related:
         width: 1952
         height: 1074
         isCached: true
+  - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
+    excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
+    publishedDateTime: 2022-09-19T09:34:24Z
+    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-gets-its-own-massive-leak-with-over-40-minutes-of-gameplay/ar-AA120Bb7"
+    type: article
+    provider:
+      name: GamesRadar+ on MSN
+      domain: msn.com
+    quality: 67
 
 secured: "Xzgopdo3SnQ+IgYHZBP57lZo05TFHBFLKJDVd5nvqELwXoUZ0Bcr5/DwScz6E3efk0OY9f7CY8wQK8jniN6Tss+hzd8DblYVIlqfMqqIdQBZBDYhl8EQT3PDVCpV7HhwziQDUthoVImt8SJq8bAJ+VM4gQ8XVmedewU5t6CAPVmgyICBp2m37ah+ST17PqXDmHpeTVClykpga/xxufXTtBldwhi1DRe7Cl4mFXJ2uYIDIMAWF2LNFgw6o7RKOSI63A8t83zqg3Ij4FIIb5lWAv3cyyctJsHl4idZvHASq8KGeoO44RCxJ6UF2VRmw/mmbTkhsR4Fmw5aR1LeuykCv84+b+WfJNFNUB1m08QOGeA=;UENFDIm9n/oJePGcZvE3UA=="
 ---
