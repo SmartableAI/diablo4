@@ -1,35 +1,39 @@
 ---
 category: news
-title: "Diablo 4 Closed Endgame Beta Coming Soon"
-excerpt: "Blizzard has announced that it will be running a closed beta for Diablo 4 soon, focused on its endgame content."
-publishedDateTime: 2022-09-19T11:49:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
+title: "Blizzard Announces Diablo 4 Closed Beta"
+excerpt: "Blizzard announces when both the closed and open betas for Diablo 4 will be available for fans, but there is a catch regarding the former."
+publishedDateTime: 2022-09-20T02:24:06Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-announces-diablo-4-closed-beta/ar-AA121S6U"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-announces-diablo-4-closed-beta/ar-AA121S6U"
 type: article
-quality: 147
-heat: 227
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
-images:
-  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
-    width: 640
-    height: 360
-    isCached: true
-
 related:
+  - title: "Diablo 4 Closed Endgame Beta Coming Soon"
+    excerpt: "Blizzard has announced that it will be running a closed beta for Diablo 4 soon, focused on its endgame content."
+    publishedDateTime: 2022-09-19T11:49:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-closed-endgame-beta-coming-soon/1100-6507651/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 closed end game beta early details revealed"
     excerpt: "Blizzard offers an early indication of what will be included in the upcoming closed end game beta for Diablo 4."
     publishedDateTime: 2022-09-19T11:35:00Z
@@ -74,16 +78,7 @@ related:
         width: 926
         height: 521
         isCached: true
-  - title: "Blizzard Announces Diablo 4 Closed Beta"
-    excerpt: "Blizzard announces when both the closed and open betas for Diablo 4 will be available for fans, but there is a catch regarding the former."
-    publishedDateTime: 2022-09-20T02:24:06Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-announces-diablo-4-closed-beta/ar-AA121S6U"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 67
 
-secured: "rY+ABZmM2fgm/dVs6dwrFEbRHXS/uS7Rj+EnjjopjY2/YFgqVu+liD2mqie5JA72dVekg4Kx2+OY+AgycE6xQcZED4PbBL5yICoa6CwaqwMLBkSoHWiB5PbxKrMclpESv56uYrs1GVNLvUR5qCdWGKQeGZiNZWues+pwR/CIUvGOZ1nwV7zCT5atI3CmI167TKiXcokHalXXCaS/zFytWIrA2YjaioTw2kOaew7cey33QE+rlNfFp7/HbxVn09fE0v4gjiiOAi4FbIbH+DyuZhwl/3BVVbmE3mNrpe9riBR36HFBRiPqdag8K5VyVm6SXThDAls92PjD9UnHvqudcJVrpOZUfd+gRIZvuuTVI+c=;w2qP0QilgvihSZMbQ+KwRQ=="
+secured: "RByXbUrruXsyA9uc1UR4oh2l7PEiTDByYKN+ER43mCKIG5JlXJs5POvWZEPo7OnKCYleuS6dtVM8GtEmaZjU5mzREndrm1ruZPRNOKGcHXQvGMyymGx/F5c1wxD3el+XzoPkLj3P6GSOmej8TjG3Rjwbc/LlrxZpfKbubvLAxSQ/RguHbIRokUM/g6mhw2EweBbXDakz0lq5YCnaSaRFSOb+rmq3PvowQhA5DnxeBWqCVZtPjUI5pCAKPatceowJDBlvsQ7rIf0vLPBM7UNHUbrsaCnD1UL0GC3hjFIgAljVzlaLPMut4vd8PIk5teVxFj2724bxkvAzp1CySxfUYH4d6MGhAaGpqi2WinY0BiA=;K3/Vvdgzrv5T4xfE5YO1yw=="
 ---
 
