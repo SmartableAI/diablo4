@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-b
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
 type: article
 quality: 164
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg"
         width: 1952
         height: 1074
+        isCached: true
+  - title: "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat"
+    excerpt: "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ..."
+    publishedDateTime: 2022-09-20T14:33:00Z
+    webUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 86
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg"
+        width: 708
+        height: 400
         isCached: true
   - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
     excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."

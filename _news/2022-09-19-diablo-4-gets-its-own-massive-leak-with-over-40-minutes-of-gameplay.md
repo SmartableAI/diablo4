@@ -122,6 +122,20 @@ related:
         width: 1952
         height: 1074
         isCached: true
+  - title: "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat"
+    excerpt: "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ..."
+    publishedDateTime: 2022-09-20T14:33:00Z
+    webUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 86
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg"
+        width: 708
+        height: 400
+        isCached: true
 
 secured: "YEur78fylVwPutB4FoMYllv517osMY5I2uZc91ps1x4ln6kygHIwZkYmawBteU6xQmjjUUgczsYnkzMvbtQEs1HEC87FI3sh2WT12CMlFxN5rf3tkvvgj3PEI4rtNhGG65pg4XiB5cvNH5EHv25pUMD6xeFvRQPAWeGzzD5wi5FGGbp7aVCLe8sKeFIHYu6lAkzvf1cfizyIV2Gb1QN6Z4i25Ig3TH5SRMWltEgFWwyH4XnvSXjvlUnhcG6kWNV+ldX8YXZ1uKf0JVRaGdpIG1dZGBPdPMofRuk6o9d9d5tn7o3zQhXx9j9b2TzatL3BSKH5CUWXPdq3EqaMKo6HBqzyP1lZ/duRbzhvuI8rV50=;3VChsk+tmAW+OThow/MTHA=="
 ---

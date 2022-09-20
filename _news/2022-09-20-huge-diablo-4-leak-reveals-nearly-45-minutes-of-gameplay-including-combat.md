@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
-excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
-publishedDateTime: 2022-09-19T00:23:00Z
-originalUrl: "https://www.videogameschronicle.com/news/over-40-minutes-of-diablo-4-gameplay-has-seemingly-been-leaked/"
-webUrl: "https://www.videogameschronicle.com/news/over-40-minutes-of-diablo-4-gameplay-has-seemingly-been-leaked/"
+title: "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat"
+excerpt: "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ..."
+publishedDateTime: 2022-09-20T14:33:00Z
+originalUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes"
+webUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes"
 type: article
-quality: 87
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg"
-    width: 1952
-    height: 1074
+  - url: "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg"
+    width: 708
+    height: 400
     isCached: true
 
 related:
@@ -114,19 +114,19 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat"
-    excerpt: "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ..."
-    publishedDateTime: 2022-09-20T14:33:00Z
-    webUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes"
+  - title: "Over 40 minutes of Diablo 4 gameplay has seemingly been leaked"
+    excerpt: "More than 40 minutes of Diablo IV footage has been seemingly shared online. As spotted and shared by Reddit user iV1rus0, the footage consists of two clips, one lasting 5 minutes and the other lasting ..."
+    publishedDateTime: 2022-09-19T00:23:00Z
+    webUrl: "https://www.videogameschronicle.com/news/over-40-minutes-of-diablo-4-gameplay-has-seemingly-been-leaked/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 86
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg"
-        width: 708
-        height: 400
+      - url: "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg"
+        width: 1952
+        height: 1074
         isCached: true
   - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
     excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
@@ -138,6 +138,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "fYxyOTTZXKxynpHydyLvQDmwM3eaL6SxtnQasrleHbLygWzyPgceN1gCSOLb4c30VO1BHZTESNmmJeJt5S+Bh2+sqVjqeERuOId01y9ydwy6XbmN1vOsGQi0PHH6xe128XzAapO1WEc99bIL+n0a/FoxeCTiX1I8lxhnqcjyme0nJMRZ3yNnlDc8SLpBHl5C6h7TJUPacPUBuoUVNy+cLTF3IE0VCC+dpqmTZKR/sC3PDHhzrBX5f8EmmNYEIuYSkTQV1ckf4UM/WENr8X3USi9abzORguFurGlZ9mKP5pFsPHGVtj97VGzNTWNhAfFi2oswzQIN92zHQPxGLYfD8XnD6J0JDdVoiLPDy9KuqKU=;/w5Otk6YVphLG373d/E9uw=="
+secured: "L4vBgNZzyuUsNo/X/gAhdjcvlj4TRfG23VZQMrB+TfmOkkj8c72IAXXkdRRDNPAAff/JKULSD3qDO+oR12fbBNhbyo22QSF7SSC0gCBaqtm4pC/3wj/aEDvP1hZoK/tF9pOMbh45iqVpAGOdGJxFEA6ePhfI4/yN2KEhM0T/xkj1HcCEdD4JseX0y1zcKGBvql5Xh9vfTbrIN27BbiOlrl8j7vTUUM/HR/p8ic9g+96GFQWUEmhuljH4eGHqp8B/7yHNXCH15SLQNqm4WJpba8NR4MrVaBAhrg0kFuUP3ZlGeAhznIQvyYTWnJtt85OOyhBVixjprtihFj/YAZXu9ripoQhoGxeeSsD/WsgCu+c=;gZnYtZ/m+ZAGBGxNYSheWw=="
 ---
 
