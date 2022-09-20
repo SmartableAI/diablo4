@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Diablo 4 closed end game beta early details revealed"
-excerpt: "Blizzard offers an early indication of what will be included in the upcoming closed end game beta for Diablo 4."
-publishedDateTime: 2022-09-19T11:35:00Z
-originalUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings"
-webUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings"
-ampWebUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings?amphtml=1"
-type: article
-quality: 107
+title: "NEW Diablo 4 Update, Closed Beta Announced, My Thoughts."
+excerpt: "Blog post to sign up for closed End Game Beta: ..."
+publishedDateTime: 2022-09-19T18:23:47Z
+originalUrl: "https://youtube.com/watch?v=z6jJapa7SDs"
+type: video
+quality: 137
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z6jJapa7SDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: Sweet Phil
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/09/19/front-end-barbarian_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,20 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "NEW Diablo 4 Update, Closed Beta Announced, My Thoughts."
-    excerpt: "Blog post to sign up for closed End Game Beta: ..."
-    publishedDateTime: 2022-09-19T18:23:47Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Sweet Phil
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Blizzard Announces Diablo 4 Closed Beta for 2022"
     excerpt: "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023."
     publishedDateTime: 2022-09-20T06:52:00Z
@@ -69,6 +54,22 @@ related:
       - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 closed end game beta early details revealed"
+    excerpt: "Blizzard offers an early indication of what will be included in the upcoming closed end game beta for Diablo 4."
+    publishedDateTime: 2022-09-19T11:35:00Z
+    webUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings"
+    ampWebUrl: "https://www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/132347/diablo-4-closed-end-game-beta-privacy-settings?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/09/19/front-end-barbarian_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4’s closed beta test thrusts players into its dangerous endgame"
     excerpt: "It seems like we are one step closer to that destination as Blizzard Entertainment recently announced that a closed beta test for Diablo IV will be taking place in November 2022. Revealed earlier this ..."
@@ -108,6 +109,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "4Sjws8LsHtxDF93wpzgh9xi/qf/PO/mNk4iFwGEwEq0fXGKFGD9lduoNXZL4My+IGG5ItCAvG3PCuXF9qRrD17/Z7eH48EUG+9jNUsMYR59xE+tRcupCpUBSfTH0ovndSze6/GzoRQ/x8VICVlL2GrrXo8wihZ/a+U/T0tsmQmCyUfQ22GDcw+Vofe9juKKWmkf2TgkF2waiX/RnPNUw0OjGK7rTJacC2iZJb4rfN7u1S72DJrL82ugs43m/pvqRv3JRJt+q3SbD+a2dkt/hyzQQSQ7vm5uHB0h8Q05fVRJ8Bq9ElXpfnL0GUGWMavjUwzK5sd12MTe0CSCOtxiymEAe6iPZwPcuSbpsL6pmCYw=;ESsDRxxgFCaTL3rRMYJGEw=="
+secured: "4M9UHvgmLYtnAt7P9PY1N4hMwRcZdzQsJsk3vihI5laQ2THhYvJ/seHTZiE7emIz4p8pLPYC8gYzXnPpxRb1wWuewdW4ktVamWJWX2Ly+idkkV87H1YhDK1G6Ra0Rfr44QrRc0cp3ZosYpjSAvEi86qN9lItG+9+ewNmTiVKHj6WBmDb0II6j0dKDD14yOGZWeRPpPr6rIi4Y2dtqHgrzoWOqVcGzTkiIBIw1YDzbGdZa+8vtpF34ym4AJIDR0R0YQb0KvEjTFfOq8fZzMe+jIYRQk+lQGRutGiGQSLGz4lxlrLnyfgxblzRfzWCHgQPzkS9vCCPW0l/mPe/F8N4gAQIsGRGDGJ0zvebEUKRhZJWMh/F6g0dk/wrHGsQSc2qqceloLiZDFCotag/gicAvw==;p/psy4hzKhJd2EiJzhpB8w=="
 ---
 
