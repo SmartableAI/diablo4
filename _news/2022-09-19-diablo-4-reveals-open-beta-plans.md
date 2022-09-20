@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-plays
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 568
     height: 320
     isCached: true
+
+related:
+  - title: "Blizzard Reveals Secretive Beta Testing Plans For Diablo 4"
+    excerpt: "Blizzard's hotly-anticipated \"Diablo 4\" isn't due until next year, but there is some good news for the franchise's most loyal fans: a closed beta testing phase."
+    publishedDateTime: 2022-09-20T07:40:00Z
+    webUrl: "https://www.slashgear.com/1017072/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://www.slashgear.com/img/gallery/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/l-intro-1663698781.jpg"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "HBelZM673mUUFcyzcccELv2o7CGnLpK1PBEOfy5aMABZhNQfjN/FQRkqt3GeAB4H1CXvUhvikDMUyO/3QDGDq5DhvEluMvVmBO/2dn84XXVnV2w38hdbd+ZYS36YDjKEPix6yS+t0IYBAGsUmhraFUooqAmqNZ2/TyNahaGJJibovLGWCklLsGbk7QTDQUHVkDdHnZUAScgsZN+K/yC+UVGXbUS6EDDvSk2lRCAoHphXweYojD4bSFjqnGmNath6ce/njtPHLVgMVBmR2DjMWB9/6XVZlaccyMQF06gOJofXRCswhUZcRUQ6tGhKbpLIQ0FztwRVBV1Mq051cY3mMhkGKUveYnwQmOt4u5sHmoM=;hkmjZnPn4xidGQ9fVPiwqg=="
 ---
