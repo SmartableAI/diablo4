@@ -40,6 +40,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Developers reveal Diablo 4 Closed Beta for late 2022"
+    excerpt: "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression."
+    publishedDateTime: 2022-09-20T14:13:00Z
+    webUrl: "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "fK5x1IGE4WfeUeZVhmF4LNezDdEqeWH92FYWwzdPdkmubSXp/h+pawHS7yvq/N7D7i+GCrh6Ha/eexNEfGJU0bM8gImEj9Q+H3KAKO9ceJerG99RgT8lhFgOzZiNgjMRGiEYMRJEs1bzER9klLgFdu5VUeNo9jQGv44HSKM+eD/4SSFOaPSGLog+7v9tqfrvnCr8z3DF2pkjXaprLbkFREAo5KelpDw5YuLvtXgsvpdhsxrainsXzVFWxVf1KxcpchxI5k3IGWeuvI1SkQmgrR/0Dk3yj8i1BbwWAdGnIAbKX9uTe2ITtwaKUx/yjAyx481PqiieOExKsi3PiGhg/K8nbL/9AYD2lV66PlhOfME=;fRuuYH11ByHJ/F4rnexIiQ=="
 ---

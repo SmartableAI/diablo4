@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-plays
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.slashgear.com/img/gallery/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/l-intro-1663698781.jpg"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Developers reveal Diablo 4 Closed Beta for late 2022"
+    excerpt: "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression."
+    publishedDateTime: 2022-09-20T14:13:00Z
+    webUrl: "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "HBelZM673mUUFcyzcccELv2o7CGnLpK1PBEOfy5aMABZhNQfjN/FQRkqt3GeAB4H1CXvUhvikDMUyO/3QDGDq5DhvEluMvVmBO/2dn84XXVnV2w38hdbd+ZYS36YDjKEPix6yS+t0IYBAGsUmhraFUooqAmqNZ2/TyNahaGJJibovLGWCklLsGbk7QTDQUHVkDdHnZUAScgsZN+K/yC+UVGXbUS6EDDvSk2lRCAoHphXweYojD4bSFjqnGmNath6ce/njtPHLVgMVBmR2DjMWB9/6XVZlaccyMQF06gOJofXRCswhUZcRUQ6tGhKbpLIQ0FztwRVBV1Mq051cY3mMhkGKUveYnwQmOt4u5sHmoM=;hkmjZnPn4xidGQ9fVPiwqg=="
