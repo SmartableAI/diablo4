@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-new-gory-diablo-4-gameplay
 type: video
 length: PT33S
 publishedDateTime: 2022-09-19T00:09:47Z
-heat: 106
+heat: 126
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Pgmj5gCcgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "je/R7UOEctTiX4U6oTXiidZVYOrnCPEaQB8ITe+unhuT4qHVes9oPykyQzUGNJn4AjHPo2uCTbXxob/sMG2n35Umc6CCdHJWerDSWlmpBhJtvkcvwtuXFziyYi2iNRhSmuEzxRujKNF0WxW8hbKs1BViO/iv6+ERz2oGlOByiYsZMTOfPOPgGN7NxdxopBJFly5r8TXV6kBbcjjYSJtFJSYajCyv1JNJD4XBEz2GRZU1YHOsaj6ykj0Ezrd+hoGqGiufYyyR1QrR0DqbR1bkv0dckk3WgUJRzJB5i2TeDdJF5fyTIhpM5brPHv7c0Qv1qInjTAN0GEYeBWk9OOGzZ2tYMgBjFZmmPvmPMDxKgaDhLjzSPVY48AgLxvQgQ3VM;s5zpFkhDRHYGLjhl+WuPSg=="
+secured: "6aLeNNOPsdfcwTDye45DIW/iUGsCTNU8MqsAjgYCpVtrlpM++iRqQtFRVobCMR424NYS0AzGVXOpnUecDvAlig121WcELMozJDY2zz2IOmw3UdG46fDrnMUH9j9tLjWqR3fOE7wB/PVzjlBZQVR9Yu+J8gugKcPn8No6i9p7oAJN46Q4lBg/jR4dKc10MCfgxG8FYPC+N6rUvFpimy9PQBh609PSipcID2ME5dbRFenzpHK9k4BEFmOs3espohGlk/Rik2NZsvQFMVmj3CLFaDiZfj5a+IQMwLqhqbHzvIiI7t1l/7y2B+apvmDDosGjKfNagamWoRuDEsOPu2INCQ+IBG0rHcr3UbrMZivMGh1ryfDSX4bnCHNk31ahHNrZsFfMlCF+ILwvsjds2MOlP3NHZR4wyEOj7uiYu47cXGg=;fOmi8h83G0sSzt0mO199KA=="
 ---
 
