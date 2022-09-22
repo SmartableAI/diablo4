@@ -44,6 +44,48 @@
       ]
     },
     {
+      "path": "_news/2022-09-19-diablo-iv-beta-announced-multiple-phases-how-to-get-in.md",
+      "title": "Diablo IV Beta announced! Multiple Phases, how to get in!",
+      "excerpt": "Diablo4 #Beta #Blizzard Blog Post: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-iv-beta-announced-multiple-phases-how-to-get-in/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-19-diablo-iv-beta-announced-multiple-phases-how-to-get-in/",
+      "originalUrl": "https://youtube.com/watch?v=zAO4fXr_Rz4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAO4fXr_Rz4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T14:47:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wudijo",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-developer-update-closed-end-game-beta-draws-near.md",
       "title": "Developer Update: Closed End Game Beta Draws Near",
       "excerpt": "The Diablo IV development team is marching toward our announced 2023 release! Learn about our next milestone and how members of the community can potentially participate.",
@@ -176,48 +218,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-blizzard-announces-diablo-4-beta-but-not-everyone-is-invited.md",
-      "title": "Blizzard announces Diablo 4 beta, but not everyone is invited",
-      "excerpt": "The first Diablo 4 beta is coming, but it's a closed beta with some strict sign-up requirements meant only for experienced endgame players ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-blizzard-announces-diablo-4-beta-but-not-everyone-is-invited/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-closed-signup",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-closed-signup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-4-beta-closed.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
