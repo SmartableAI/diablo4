@@ -98,6 +98,20 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Diablo 4 endgame closed beta announced"
+    excerpt: "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players."
+    publishedDateTime: 2022-09-21T03:26:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Blizzard Announces Diablo 4 Closed Beta"
     excerpt: "Blizzard announces when both the closed and open betas for Diablo 4 will be available for fans, but there is a catch regarding the former."
     publishedDateTime: 2022-09-20T02:24:06Z

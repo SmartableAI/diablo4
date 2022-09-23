@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Blizzard Announces Diablo 4 Closed Beta for 2022"
-excerpt: "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023."
-publishedDateTime: 2022-09-20T06:52:00Z
-originalUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
-webUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
+title: "Diablo 4 endgame closed beta announced"
+excerpt: "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players."
+publishedDateTime: 2022-09-21T03:26:00Z
+originalUrl: "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced"
+webUrl: "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Eurogamer
+  domain: eurogamer.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -58,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Blizzard Announces Diablo 4 Closed Beta for 2022"
+    excerpt: "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023."
+    publishedDateTime: 2022-09-20T06:52:00Z
+    webUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 closed end game beta early details revealed"
     excerpt: "Blizzard offers an early indication of what will be included in the upcoming closed end game beta for Diablo 4."
     publishedDateTime: 2022-09-19T11:35:00Z
@@ -88,20 +98,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Diablo 4 endgame closed beta announced"
-    excerpt: "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players."
-    publishedDateTime: 2022-09-21T03:26:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Blizzard has detailed everything you need to know about the Diablo 4 closed beta"
     excerpt: "What you need to know. Diablo 4 developers have released a statement detailing more about the imminent closed beta. The closed beta will focus on the end game Diablo experience as ..."
     publishedDateTime: 2022-09-19T13:31:00Z
@@ -126,6 +122,6 @@ related:
       domain: msn.com
     quality: 67
 
-secured: "WTQLnPDDZkIFVYGFtAnJ9cc7yy1DWeF9dDR36yepXyAPN4hA1VBBuOplyLSR2BXj1hC4ZbFzBcWkvZAZQBMBn4vKgadRdPh9CQylWcoi8o8SFzssS5DwYfN1K/d6Gw9p9SrGXaqezxowXuPhcQ/B1U3m6n5JgR0AhPFkCmxUqJ1xo5DGSml8aY7AiGuW2wE8XiCs4pLjGkpHbIGjD3h+6fZGcpQhjWj69Vghr0gegHe9WpjxjkKon0BshJM3RPk3O6cQPoYwJKoAC2RHn2QLP7wBwiXMnCJjM3eVjdMe4DpIC0Amf212teWLuguPuqV3UimYzRDT/uv8Y1HE0UfvT8E+gk+5m+uT0++Jq1Y2tfo=;Jwyezt3bV8U7ygSd8Ly6EA=="
+secured: "nKk4zDNTQ8wK6yAQUBn7SPXC3gnv+ZwgM9djuQoAh5HIFjKwhNxHUjZrkkJPQULAkS4qaWEYmC4HvStjC/aJAcIo748JIkX1apWmauYE0kj12/iTbWUMYgaNUeKxOVs+FQOFy1f+HcZqDvm8GLwG14qvk1wcXStOSqE/86CFd/e07caiyz/wTTUW6LjIPO74nif9wRl4orGqbSzDKWenWo5YVJd+YLLIbBKjJDkN2FDLjx9j6BzrWm83Z8qh54vTdbwyqFBp4yCjvEd4Ci5eLokeTda+MMDYyzw1ZQMKl9kdWd9dWE+pmqy+MSgVUz38xZRmFERwer+PpKnwhTBNJORZPpVOmq7/xyYafBZ8Ikw=;YFx72kF1mT7Kpi4ZVzPIew=="
 ---
 
