@@ -2,6 +2,7 @@
 title: "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian"
 excerpt: "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian Please subscribe for more Diablo 3 ..."
 originalUrl: https://youtube.com/watch?v=diEpJGTcOeo
+webUrl: https://smartable.ai/apps/diablo4/game/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/
 type: video
 length: PT35S
 publishedDateTime: 2022-09-23T17:06:33Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "3DTLfe/d5HA6+tlcJQUr3d3aphkdiOOC3xtSfjKtzJ7/l3Mqhcx65VPvPjdGBJ1lweN9AXv9/Zau1uDSwz83ZMoT+fE3ldEkwEHVa/C/twZUiw/FCrfuN5QNLGrAXpgcZXQkmY8B8awDgNsMHB0N88Pwm2qsB5ZoIBCAHsX7NzLzCZSt0XNh+9JhuWP3jX4WX03jWpX760Jgg464oF+MNfLt7UiR20hFHRBOig60JxXGcLU1WZmq4mZn8Qy78S/Kc8sVWpLqfcxWlbk3Llwse+/mU4ASrirAgif7oGB0tWaLcS6AHF0nZdSt4JdGgVo4Cr8md5PiQG9fGLxIujVzw17Nrlr8scQhXkw20Scw2k9x2r53PhNujgO/bGMzK5Vvc7EjI3yWQnoqJhqIlzR0+Q==;VSMK+Vsjah/vzv4G9N7gkg=="
+secured: "hSx6hslErijYPO0pY5X3GgDOeIRUnrwht9iPdS6q74RPEFl6LMfBxT4Eqe3HPErE2C6481GBaYv2kF2FqJbEqbWNiAmy43hIRj5aSkVeI5dTiMtVPN+SOqygXuw9UbkHMh16rq9LvBCQeeAgiEc5s89g2Xh6vThYa4l5ABgOE+u0CYTVqIEMf/4tBQFXru/gH6bBjWP10YwEZ8FMqgao0GtF1xpV1bZF4kKAzktwfuVGU6lhtqajhtTqLbF2ZnHJ6ppf5TLB2VdUvuzbYQ4PGQYjnisVs3PmLnaH1xaA6jLz+uGoWWuwwJPrvpOuyuwGMhRN9HRMLmXVGpJ6o8Li+jYrgGly25IvRflx0bB3V3whCUZ46wpC7g2YEn9RuRy65cu7bVJOGoLBagiHuHxTsw==;iWM1NsSzRQmhzqH21/L7dg=="
 ---
 
