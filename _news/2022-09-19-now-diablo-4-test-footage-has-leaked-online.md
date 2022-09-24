@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-onlin
 webUrl: "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online/"
 type: article
 quality: 107
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/09/Diablo-4-Lilith.jpg"
         width: 1400
         height: 700
+        isCached: true
+  - title: "More than 40 minutes of Diablo 4 footage leaked on Reddit"
+    excerpt: "Diablo 4 might not be coming out until next year, but heaps of new gameplay footage leaked over the weekend. Over on Reddit, user iV1rus0 shared roughly 44 minutes of Diablo 4 video from a private ..."
+    publishedDateTime: 2022-09-20T07:26:00Z
+    webUrl: "https://ftw.usatoday.com/2022/09/diablo-4-leak-reddit-video"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 87
+    images:
+      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/02/Burning_Crusade_Classic_BlizzConline_Villans_1920x1080.jpg?w=1000"
+        width: 1000
+        height: 562
         isCached: true
   - title: "More than 40 minutes of Diablo 4 footage leaked on Reddit"
     excerpt: "Diablo 4 might not be coming out until next year, but heaps of new gameplay footage leaked over the weekend. Over on Reddit, user iV1rus0 shared roughly 44 minutes of Diablo 4 video from a private ..."
