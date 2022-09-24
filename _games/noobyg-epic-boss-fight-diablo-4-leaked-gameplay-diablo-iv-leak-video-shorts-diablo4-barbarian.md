@@ -2,6 +2,7 @@
 title: "Epic Boss fight!  Diablo 4 leaked gameplay!  Diablo IV leak video.  #shorts #diablo4 #barbarian"
 excerpt: "Epic Boss fight! Diablo 4 leaked gameplay! Diablo IV leak video. #shorts #diablo4 #barbarian Please subscribe for more DIablo 3 ..."
 originalUrl: https://youtube.com/watch?v=kPOykrAeBGE
+webUrl: https://smartable.ai/apps/diablo4/game/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/
 type: video
 length: PT58S
 publishedDateTime: 2022-09-23T19:24:26Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "6oEWgmssO+dIqD8K5joGBPu8Qb08Lo1Yj2akAvqbvwzInegjs9gZofQ4t1j1fMrFbl83F/qx3G4HHfomAFo4USw8ad7jcM4EnZQC80NJ61m/dTM0mcmf+cXK6h8/nWEgTbrFJP+AvaVz5IBVm38G81PFaoFzSV7geT+UOLrMZdYvTZv0+A23h1W87pDDM9ZRnBH4yncxDj44YQeILcIAirDGU5lHQ2i2a8MzkaZDpOlrAf9kvOuqDLCMm5awTAGdyl2nswFrcTGO1gf7F+TprX4pSYT5z4Tn8tjDLgioWMRWi9IQww8xv0sd9iLyhbcf15sa8tmPLC5oUf3zBd2AmQN065+y3h5Ifvsl1pAoxhXnhe8F8RJLQ4og1a1QYc8UlkSk54F7hLHXRkDB77RNBg==;W9XeEUZvWk0PnB86hJ1iig=="
+secured: "ud40T2SwMxtimtOmbeMDHhkebvD6g8fJ5aWkTWJxujHa8XdqDJMUbRVka9Nmpbm9coE0AbYuV7SZLzO02n/VNetjYiytBoinQGr95FF8PGd8n+xNKzf9fUU1X0YBlfNWlsGKt2jhq+uzCWnFClz60ln1ysKWLHsre+xRkRdNzh0+ATKNl/zK3KDUn4LZ1WVeg47G3vkEqahA3RVMNg8arPmG7s0VNNXDZZCvml6/ccadilkG2+Iuqb05RFoLDezwRehstYWfaQt5ijsVNepe5wTB7TM8DabASuWiRUBIWF8hx3RJsJgXTQRC64X4KHh003NhNZCRF7ImJ+CVzLgj0zYmGsG988+gUbb1CzA9APvyc+wBS2z15/z9kdz6qgWadKs12/fYdR7QEgBV/YZTJQ==;toTUFDfhXlhd2ccDTUH8ZA=="
 ---
 
