@@ -34,6 +34,36 @@
       "publishedDateTime": "2022-09-23T14:40:19-07:00"
     },
     {
+      "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
+      "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
+      "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/",
+      "originalUrl": "https://youtube.com/watch?v=vL5dEt2Izf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M40S",
+      "provider": {
+        "name": "Patife",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-02T15:00:31-07:00"
+    },
+    {
       "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
       "title": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid",
       "excerpt": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid Please subscribe for more Diablo 4 and Diablo 3 content!",
@@ -889,36 +919,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-23T04:20:19-08:00"
-    },
-    {
-      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
-      "title": "Diablo IV Barbarian Gameplay",
-      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M20S",
-      "provider": {
-        "name": "Gigio Gameplay",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-14T07:41:09-07:00"
     }
   ],
   "nextPage": 2
