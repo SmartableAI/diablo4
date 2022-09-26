@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-epic-boss-fight-diablo-4-l
 type: video
 length: PT58S
 publishedDateTime: 2022-09-23T19:24:26Z
-heat: 103
+heat: 105
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPOykrAeBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "zWrUMcGWprf+cl5S698DIIfaiwszfkpxRxwD6A1IOk5U5VPmPoA3SnS5FmE5FuN2dOmgE13a7q6BPE2yHCz2wo/7N6Gj8X9IDnvNcpiBhtq29QJ5U4JWdtxuRjb+f9wsZ/t9lff2oQgHsVEKOLGvhk9Enf8poMQHtSevmXcPweapn7KAY0XpZKPCu4x9zCVqqVzDvAsxYsoPdQOzcUrozHzikHKlS5L40d/cNVRy1iTV7FPFrk/mPgPryYeBjwUjXzVh0lFJL+/pS9PMcWkXF7yKIO59ouu6aW1dFqq9bNdhCjNxEoZ20GNMf8CvRZ+2PxRPOLDBTs7tROf9iZSwBQgqBeLYaApKPlePLUD0moymuv92+3KaE9JZZSD02JAXyss7MwKa447Lx/T70nGzgMtLe0tMh9GwvbnKkmgZmMY=;ssrySCoQJ/y8XvPoPoY+jw=="
+secured: "z738OQKhx/QwF4WZ7X+ggaaNdK4VsRRnm5BhRTKdFYRF6rLhAlZJSaJuZjLhTb3HTYUR/08tcWpTe9WQhVyxlGbD886KMCZm95XaxZumCcfiqfN7SIudwDbp9lngPw87HUxxVaVwyva/8+a5jQ06EpiqUOqNi/nHke3XBefxga1FIDSraySrUITwqZdgnWQhD8+cLoNhu9JZg8ygNdO52SPVvVEhCK3/nbs6gnjx15Z4ggGBd1N11E1acpVronHcUASTGYMGfduGnDHkZyQv2E1+4gNULkQ6s8MmPJ83xn1N1wEXtuYYr1UCRgVUAA+VYShz+3Fxy8tSvBU0YE9Z0gb+bQWjZl6sRaFL0XeQLqdLuuLGcZQ+Mima2/IabqSnMz5GOk9KnvVATuMSxzuDg+37CNxhuC1Ht5n+aJBxbvY=;BUFUY5m1cmpJXK3Z0kAxAg=="
 ---
 
