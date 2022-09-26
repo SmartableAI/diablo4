@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-sorceress-gamepla
 type: video
 length: PT31S
 publishedDateTime: 2022-09-17T17:33:53Z
-heat: 82
+heat: 88
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErUFRRz4vr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Rt2CwRWDMffsIRtt/mUz0jHdAxWV33+OyGUC19lHOXAptzbwGjh+7rjnH380PwOyhqn0r5BjSWFAHQJh+ew1TnwKJMSBXykxMjb0Ocs3OAbTIaciFBez2s2YE7XVW9rli8TebfsEot5ul5uo4FVVmQ95+lH54aTcBnpBnlRwLSfZxfNcljjDQBs7pniTR/3m54YTSMCxmgl0IGrz5HFVNAODkytiEObTOw7QjgLk308QoL7K3Ik1Ay6EP6eqP2pmO+kf/bQNclltid3yKp1h1T888VQbz+sGmtoFQNNWEOI6EjmoHHs9plj6TkgaAtKrtjPDVaoLPEz8y1el8sLAu1B3+b70NI1A6qHceqSRVYVzt50sU2zUtgGI6v+75dRc/QV0pvkgDDbLHxGYoEWF/FSoiKDjMUOZC/iLG0O1Px4=;tPbteKFcma4O8miHjk5ktQ=="
+secured: "mdmolrzQ1wZquoJjEw+/NDClFZigjJ6MZh6APhmPf4oq11bzOPeXIaZK8sqVZRWYVBY4wliUQBq20FhMKgvZTCMBfBjyFPE6bR7S3bg/9TaWb36HHaa2j+hA2YF0UtBdUKRGSKWiU6u5YMhfWOd677lvQPSerC0Mve8pWX+8nDXtt+BGnj+bEYA6r9m+riPvWHAA7M0iZw+AWkAdVZeYQd4hVVCDTfsnhWuN95H31sAeC+r/IZzQMjKwASJUoQN2itG00UfrEXRoW7P9pHi/K4h3OnKrcoyovXcl47FZrs/gPsjOHJf5l2UPY++tpaKml3AG3rH/vp/ytkPKDfvCmwJ2aRnHrAbw+1cUFuzu1xXvQIr1gO8Tqe+j6BsWR6X/p3MvTy2Dm1YRCmQyir/dVVv3/RwZTJPMCu3OjGwcWYE=;GkTMYl1koXlbywvVwM2rBg=="
 ---
 
