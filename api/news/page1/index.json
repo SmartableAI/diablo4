@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out.md",
+      "title": "Diablo 4 end game beta invites are being sent out",
+      "excerpt": "The first wave of invites to the Diablo 4 closed end game beta have reportedly been distributed. Diablo players on Resetera and Reddit began receiving invites to the game’s latest testing phase on ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out/index.json",
+      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
+      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2022/09/diablo-4-x.jpg",
+          "width": 1249,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg.md",
       "title": "Diablo 4 daily events spark live service concerns for the Blizzard RPG",
       "excerpt": "The appearance of Diablo 4 daily events in the latest Blizzard update for its upcoming fantasy RPG game has fans worried about the game’s live service nature ...",
@@ -1062,57 +1104,6 @@
         "name": "Comicbook.com",
         "domain": "comicbook.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay.md",
-      "title": "Blizzard Says Diablo 4 Microtransactions Won't 'Affect Gameplay'",
-      "excerpt": "Cosmetics will give characters new looks but won't make them more powerful. Diablo IV is set to launch sometime in 2023. On Thursday, developer Blizzard Entertainment unveiled its plans for the game's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/index.json",
-      "webUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a354bfe45dc7f8f840e62c71d9070a52968186d9/2022/06/03/0b432133-a175-4f5a-9ccb-a7f1fc159b22/diablo-customize.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "publishedDateTime": "2022-08-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
