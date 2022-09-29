@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Test footage from ‘Diablo 4’ appears to have leaked"
+    excerpt: "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ..."
+    publishedDateTime: 2022-09-20T19:31:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 87
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
 
 secured: "E2c3WuYWr4pCYMhmuUKRQ3TI4uK3LTUtjdo2ZjPI4yQ7tpsJfeIHnoQYHwRvrEIsLEy4lXpXnFgozzUR6XvAkzy2aMcWHsm2fHo9jgynpTL/m7pSVOdYg2HhkwuGMfUgFCQwZCKbaaUBoWfqwxXKiJ0oBJxrsRQTURwWv6MyLaHOKOPSsy4zsKOJrLKgS+3EoHDQ9gzaDHDNypf3k7OE22Wzb+Ftel6zvL0FaIBG2mqVu6fiz2CYDCYpQQ2QvoIJ3CjOtJOKcO4MMzhoVZujHU/pYPtIgyijYuaDj+XoO77g2BUo71+8BDcqg1xAq1ltq14X9wrnxkYtxei+UVDWxmRZIOZvS8Fo4FJqej/stVQ=;jte4k81LRSm+xiPTot9BXA=="
 ---
