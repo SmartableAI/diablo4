@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg.md",
+      "title": "Diablo 4 skills are tied to weapon damage in Blizzard RPG",
+      "excerpt": "A video showing that Diablo 4 skills are tied to weapon damage in the Blizzard ARPG game has fans discussing the benefits of the Diablo 3 vs Diablo 2 systems ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-skills-tied-weapon-dps-necromancer-blizzard-rpg.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out.md",
       "title": "Diablo 4 end game beta invites are being sent out",
       "excerpt": "The first wave of invites to the Diablo 4 closed end game beta have reportedly been distributed. Diablo players on Resetera and Reddit began receiving invites to the game’s latest testing phase on ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "Rock Paper Shotgun",
         "domain": "rockpapershotgun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers.md",
-      "title": "Diablo 4 shop to sell cosmetic-only outfits, Season Pass with free and paid tiers",
-      "excerpt": "The latest quarterly update for Diablo 4 is all about the game's live service systems. Blizzard Entertainment confirms there will be a Season Pass with paid and free tiers, with Diablo 4 aiming for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/9W9Cjgx3sLRAngxWpZPecg-1200-80.jpg",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null
