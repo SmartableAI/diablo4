@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look.md",
+      "title": "Diablo IV Druid Gameplay With Nvidia Freestyle TEST Comparison This is How Diablo 4 Should Look?",
+      "excerpt": "Make sure to leave a LIKE on the video and subscribe/hit the bell so when new videos upload you get a notification. Subscribe To Us Here: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look/",
+      "originalUrl": "https://youtube.com/watch?v=KrSMyZHyrzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KrSMyZHyrzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M3S",
+      "provider": {
+        "name": "Games Recap",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KrSMyZHyrzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-19T03:15:12-08:00"
+    },
+    {
       "path": "_games/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge.md",
       "title": "DIABLO 4 ALL CLASSES - GAMEPLAY - BARBARO - DRUIDA - MAGA -- ROUGE",
       "excerpt": "Diablo IV foi apresentado na blizzcon em 2019 oficialmente, desenvolvido para as plataformas Pc, XboxOne e palystation 4. Bárbaro: 00:00 Maga : 16:34 ...",
@@ -520,36 +550,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T12:45:17-07:00"
-    },
-    {
-      "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
-      "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
-      "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/",
-      "originalUrl": "https://youtube.com/watch?v=vL5dEt2Izf8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M40S",
-      "provider": {
-        "name": "Patife",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-02T15:00:31-07:00"
     },
     {
       "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
