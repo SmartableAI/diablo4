@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional.md",
+      "title": "Leaked Diablo 4 screenshots hint at the campaign being optional",
+      "excerpt": "Diablo 4 screenshots have leaked online, seemingly confirming that you can skip the game's campaign after beating it once. Over the past weekend, the Twitter user below uploaded four images, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/index.json",
+      "webUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
+      "originalUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-02T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg.md",
       "title": "Diablo 4 skills are tied to weapon damage in Blizzard RPG",
       "excerpt": "A video showing that Diablo 4 skills are tied to weapon damage in the Blizzard ARPG game has fans discussing the benefits of the Diablo 3 vs Diablo 2 systems ...",
@@ -1062,48 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content.md",
-      "title": "Diablo 4 will have a season pass, cosmetic shop and years of post-release content",
-      "excerpt": "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/diablo-4-post-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-post-release.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock Paper Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
