@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T03:30:17Z
 originalUrl: "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/ar-AA12xqE6"
 webUrl: "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/ar-AA12xqE6"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: GamesRadar+ on MSN
@@ -14,6 +17,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "uOxNTjRGSrXIYHjqEb+nX4fV6OjqZ8c8Va65v1BHpDFa8Eg8Cn0+0bMRCVt+Ke3juXLsb8mCpQwmw+Y74fcZLuz86Klp2kS7kVUzUWvwJ5bP4mLuN+Z4OTr8KQQLRMHYDSSFU8ITK1pDwhxz5gxE6vSOX3OppdZHh+5jGPsrM6ceHwPW8qD9OWyMtShO2UKNKkvdJOyH0GsVYt/je8yM/p6QYDJp1BRp6VJDiY5zEWt2dBKi2Uc7aFcBworNjvI14kIRpkDrQBdjbcp/IXn21Ff5XlkichTEfFpG75PPmywlO6qmVzxPpFedhAHrMCPCn3wGaHCuAFuxGup7aLFfeJI2PP/GxAZmaV2jXppMnn8=;qEkZaFQSoDh1VpyAXBAxQg=="
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10m4Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "CAnIp77DVV9EaDG32xPQeoifbrX1mBV8tExYDnMFP+u7nLiFrKX+NYWC69wShsLcKcIq4ek9Z9K1KL66u3PKARmn2s1aq6dVX13ki0zjGozxvm0uRei9DwZSpYJSFIXEH771L6ouQ1ep0sOl53W35fvRyOJwXgdigC7/U2jP8kGZ77UOXncCjasUFGFrHQrI+QoXpKjn6dksFdVcCMKS1SvCnKYMEg1Jiyh4PIXOCzvCmDGinmnO72Hm2+KCFJK75rjKIRCuCLPY4svyOCl63uDcq/rAo8Fnh0Z0reNSBxAQzrgo9qTEKLUs9WSTJEkTHwSBWHxerq/fZT4/hCRKZCBrfwkbo0AstTM3Z94oIHY=;Cp9zWFmfUssZf9IuuYmOJg=="
 ---
 
