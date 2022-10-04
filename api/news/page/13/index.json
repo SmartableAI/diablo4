@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights.md",
+      "title": "DIABLO 4 - Announce Cinematic + Gameplay Trailer REACTION + REVIEW + INSIGHTS",
+      "excerpt": "Make a difference with a FREEDOM SUPPORT: https://www.patreon.com/LawrenceBeyond ◉Donate, if you like to: https://www.paypal.me/LawrenceBeyond ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-4-announce-cinematic-gameplay-trailer-reaction-review-insights/",
+      "originalUrl": "https://youtube.com/watch?v=soXVeQzc7GI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/soXVeQzc7GI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/soXVeQzc7GI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-07T09:37:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lawrence's Beyond",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-06-bitcast-79-diablo-4-announcement-and-death-stranding-reviews.md",
       "title": "Bitcast 79 : Diablo 4 Announcement and Death Stranding Reviews",
       "excerpt": "In Bitcast 79, the gang is back together to discuss the Diablo 4 and Overwatch 2 announcements from Blizzcon, Death Stranding reviews, Luigi's Mansion 3, and ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Twitcher",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come Reaction",
-      "excerpt": "ORIGINAL VIDEO https://www.youtube.com/watch?v=9bRWIdOMfro FOLLOW ME FACEBOOK https://www.facebook.com/romeosnoww TWITTER ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-iv-announce-cinematic-by-three-they-come-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=jdaB4H3UQCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jdaB4H3UQCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jdaB4H3UQCU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T19:04:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Romeo Snow",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

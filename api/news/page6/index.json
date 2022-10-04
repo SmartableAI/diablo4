@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Reaction. Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019.",
+      "excerpt": "Girls On Omegle. Reaction. Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019. Original: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8upHrKcqVEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8upHrKcqVEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8upHrKcqVEU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T06:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "G.R. GIRLS REACTION",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer REACTION",
       "excerpt": "This is the best!",
@@ -1078,48 +1120,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
-      "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
-      "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4/index.json",
-      "webUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
-      "originalUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44189/og_image.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Backstage",
-        "domain": "backstage.com",
         "images": null,
         "publishers": null,
         "authors": null
