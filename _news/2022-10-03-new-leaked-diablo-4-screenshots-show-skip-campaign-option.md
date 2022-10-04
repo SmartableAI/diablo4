@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Leaked Diablo 4 screenshots hint at the campaign being optional"
-    excerpt: "Diablo 4 screenshots have leaked online, seemingly confirming that you can skip the game's campaign after beating it once. Over the past weekend, the Twitter user below uploaded four images, ..."
-    publishedDateTime: 2022-10-03T03:30:17Z
-    webUrl: "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/ar-AA12xqE6"
+  - title: "Diablo 4 leak shows you’ll be able to skip the whole campaign"
+    excerpt: "Newly leaked screenshots of Diablo 4 suggest you’ll be able to skip the upcoming action RPG’s main campaign. The details of how campaign skipping will work are unclear. It’s not obvious whether you’ll ..."
+    publishedDateTime: 2022-10-03T09:00:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign"
     type: article
     provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
+      name: TechRadar
+      domain: techradar.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10m4Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/5CVs7ck3HEmyEtZw8QFaib-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "6zzZ9i8SAjR7r7VVXOEbPvMPo8z3JDOuRhLteq1pBMxiiJt3mZW9nTLSS30Jc0Y0cUed5ZnZjTO3AQMcE9cr0tpDLSI7vUBHyCTB9tG7jenx3fiRKqgdVYmJwa5eqCE2tHGPtR4qVLo921ZAmDrUv3gb81AQX9fDZe9Mkdyx+G04iRyW9Fw/m0f/Z9SRTG3H3Vgoig7I/+jXRP663onw5mgpN4lWV7AZH2tfSnq0proarxMqHm3tEre1xAj+4DpAam1EabOn7HDGk6r+s4qFZU8bYJNiWGiubB/z/avjNy3piMQkQJuCDkZ01+9LTzCsH/BL09hMu/D4Cy6FMO80gGs1LT4TUeA22Kx+ZqMVw+M=;K38YsdnlU/R4hPKxQWwgag=="

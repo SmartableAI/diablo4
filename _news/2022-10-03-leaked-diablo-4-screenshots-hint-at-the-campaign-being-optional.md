@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-scree
 webUrl: "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/ar-AA12xqE6"
 type: article
 quality: 87
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "New Leaked Diablo 4 Screenshots Show “Skip Campaign” Option"
-    excerpt: "In a new set of leaked Diablo 4 screenshots, we get to see character creator, Number of Acts for the campaign and a couple of gameplay snippets. One of ..."
-    publishedDateTime: 2022-10-03T07:50:00Z
-    webUrl: "https://segmentnext.com/diablo-4-skip-campaign/"
-    type: article
-    provider:
-      name: SegmentNext
-      domain: segmentnext.com
-    quality: 87
-    images:
-      - url: "https://segmentnextimages.com/wp-content/uploads/2022/10/diablo-4-6.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "DaNS1X7gjjRuMomU+TuhekFQ/yVp/58TGuIR/59PGEFb7elanVAl9NBvGNcEZNnWUy7cUvLehN9a4dlEWAHwDrZl3J+M0Nj09CfK0LSdil5CDJigdG9yD8g4auDtNSNC2D9CVPU9P6Z4F5Az5w5hOCp71EwSavwtnlOuvNOReT93/47mJhJT2h7EbhNHIsJoSyqEZ3xgX8EITeNAIT+Evnlsrb1hWdoTAqfS+aRBnOoaj3vqSuVV3RJraskTWv95G54oplktwJFrkpAhdzBmXo85TSaE5wyMie0KgRWEfXr5bjjqpJ3bpsFkcydWuTfgUXZoYW+Y4rYiCxy1fNKw2a6HlaS2Go94paJACvxw3xw=;GeTMhlrNLOeK+kvyLdcddw=="
+secured: "tvg268AMuEWAJvL29xP/rMnawMcdVBmEy962Oj9+yDJod2GnIGJwKxXvN14q0jKu32yy8aEccSTe1xgDi4oQvlh82frdieVJ46p2tHf8mCrztMsDXBz6RMY9jFPmBFAe/lDInKEI1SdfyIQGjuGOlVac56olDMu7L8ESGGwTUaNLqs9LE/2Dpih0CRoU0LYD9mE2ceTqTa3U1/1JYp3HIPWnNRPBLieGx4DM1xkbcOt56Q4ds203F/DreAdzAL2t0Vt+Q6ZAeYwwDsAKNd+HVV086lWf7uKvKAGlb3XA5Y/0HCAyc15NjmQBK5bbRcHoUg1pXqvus4pfw7nh0jq6AatMfEUnnTFSdfsDGEKTNPc=;8pVNZIYprjmqADYD7dImVw=="
 ---
 
