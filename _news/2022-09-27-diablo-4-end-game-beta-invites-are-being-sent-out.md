@@ -7,7 +7,7 @@ originalUrl: "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-in
 webUrl: "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Is Sending Out Invites for Its End Game Beta"
+    excerpt: "Diablo 4 devs have reportedly started to send out invites for the first wave of its closed end game beta. Multiple fans have shared on social media that they received invites to the game’s ..."
+    publishedDateTime: 2022-09-27T16:24:00Z
+    webUrl: "https://cogconnected.com/2022/09/diablo-4-sending-out-invites-end-game-beta/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 87
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2016/07/Diablo-4-rumor-feature.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "Blizzard Is Sending Out First Wave Of Diablo 4 End Game Beta Invites"
     excerpt: "Blizzard has reportedly started distributing Diablo 4 end game Beta invites out to players, according to a number of users on ResetEra and Reddit. Participants of the end game beta will be able to ..."
     publishedDateTime: 2022-09-28T02:23:00Z
