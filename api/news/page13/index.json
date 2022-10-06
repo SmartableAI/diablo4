@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
+      "excerpt": "H2BTEEVEEPACK wesaid in the video and we'll say it again, we back again with another reaction video. We did the demonic and scary video game Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-07-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=BLZuZb2jwTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BLZuZb2jwTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BLZuZb2jwTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-07T14:23:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "H2BTEEVEE",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-07-diablo-iv-official-announcement-cinematic-trailer-reaction.md",
       "title": "Diablo IV - Official Announcement Cinematic Trailer REACTION",
       "excerpt": "DiabloIV #DiabloIVReaction Support my channel over on Patreon for some amazing Unedited Reactions AND some Early Release Content: ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "StanKO Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon.md",
-      "title": "Diablo IV - Announcement + TrepChains initial thoughts from BlizzCon",
-      "excerpt": "My initial recap of the Diablo IV announcement from BlizzCon 2019 Day 1. Update on Diablo 4 following day 2 and reflection ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-iv-announcement-trepchains-initial-thoughts-from-blizzcon/",
-      "originalUrl": "https://youtube.com/watch?v=8pCaUtaS1ko",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8pCaUtaS1ko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T23:48:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrepChains",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
