@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/3p-venom-games-rpg-diablo-4-druid
 type: video
 length: PT15M58S
 publishedDateTime: 2022-09-23T21:40:19Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i7HZWMhoDxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Vt5dTustbJRPnoo3lr22DEMsEaSKdmOiQtguukcgCl6xS6HgAYtHp+Y0MIqt27EmAa7238tFWJV/Cm+KsOa5npVxgeVp8PPB6Vzp6yviR6/U6/chBFQp73k04zMX1RWaWfrI5gFMxphjycXGwRgmvW25nttHG3D3m8nC2LNdr2CeihSzW5ZLCRVUW7bLdlQv78W7rD2W3CWSGt9tpxdmb/VmZWSvtj5LW00ZJRZVur/UuHZ93ccT2xH3r0Pu/+kDP3Yr4eu+C1Jxz0QZK9/1Ua2+BkxFGQ754kez4n4yMC0T/hTWnt9tUornPDFalF1o2x8ZYoFUhArTjvoKwV0PErOjMYvDtXAjuzFPdFd8yvBsyiuIFZgj6iionFWLNMJxYtTl1mRoJRX0GMCVV1ARGRj1ByYNSquw+OvXWwiSvxU=;xQqH7PmGWMkRoSJs8vDFiA=="
+secured: "JpiZ3hCxtqnJq1NU1e7rzAqSlQFRqkpL+MYGtwr5wwCD3kqMuwedgfhY1gsmU3ANkVizy09a4nbIjAeYaQPfc3c19IOkhbhybrGuPWdoOEwBp7PeUX0euliNCXkuhhMuCfmEdBIlFDM2jrTzQImQ094F1NWsrRbysFlH5HJ/dyeC94Yk+ZCdN3KyJwRNojTXGvKICoN0RmPhMs8X+sDanbUwyes0nqc/gOI1QKCbXMqJ5qfXpn3bOyeXinh6tnTPVdDT1MvfYzN4qYcrkde5Alsxgxb33XWT/64eP8iryx/1CsVbuJ4jdVcRGZkF8f6TZP41aHmCLzPcg9+8R6S/n0Bfkeutmo3LbGhiGm47FFPDJ9ofwIm2JIuw7FqdvAVvn5YLbX5qKGPb+Op3ybKo8ZSIGq02g6sFBVI13AnOgzY=;BblTAOHvdbxQAKYJXWG7xQ=="
 ---
 
