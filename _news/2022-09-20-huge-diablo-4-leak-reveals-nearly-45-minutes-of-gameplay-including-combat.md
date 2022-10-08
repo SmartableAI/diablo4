@@ -40,22 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 Gameplay Leaks Online"
-    excerpt: "The Diablo IV test gameplay footage was spotted and shared to Reddit yesterday and includes a grand total of 43 minutes of gameplay from the in-testing title across two clips. While obviously not ..."
-    publishedDateTime: 2022-09-19T05:12:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-gameplay-leak/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-gameplay-leak/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-gameplay-leak/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/04/12/a0a7eec8-8aa9-4871-b5e0-bb735e3e3b25/gta-6.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
     excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
     publishedDateTime: 2022-09-19T09:34:24Z

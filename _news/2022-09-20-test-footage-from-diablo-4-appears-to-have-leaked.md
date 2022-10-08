@@ -52,15 +52,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Diablo 4 joins GTA 6 as 40 minutes of footage leaks"
-    excerpt: "Another, much meatier, Diablo 4 leak involves over 40 minutes of footage from the private alpha leak online. You’re no doubt already familiar with the massive Grand Theft Auto 6 leak that took place ..."
-    publishedDateTime: 2022-09-19T05:06:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-joins-gta-6-as-40-minutes-of-footage-leaks/ar-AA11ZCoF"
-    type: article
-    provider:
-      name: Metro on MSN
-      domain: msn.com
-    quality: 67
   - title: "More than 40 minutes of Diablo 4 footage leaked on Reddit"
     excerpt: "Diablo 4 might not be coming out until next year, but heaps of new gameplay footage leaked over the weekend. Over on Reddit, user iV1rus0 shared roughly 44 minutes of Diablo 4 video from a private ..."
     publishedDateTime: 2022-09-19T11:49:51Z

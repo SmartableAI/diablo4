@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-b
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
 type: article
 quality: 164
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Gameplay Leaks Online"
-    excerpt: "The Diablo IV test gameplay footage was spotted and shared to Reddit yesterday and includes a grand total of 43 minutes of gameplay from the in-testing title across two clips. While obviously not ..."
-    publishedDateTime: 2022-09-19T05:12:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-gameplay-leak/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-gameplay-leak/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-gameplay-leak/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/04/12/a0a7eec8-8aa9-4871-b5e0-bb735e3e3b25/gta-6.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat"
     excerpt: "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ..."
     publishedDateTime: 2022-09-20T14:33:00Z
