@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-07-diablo-4-release-date-window-classes-beta-and-more.md",
+      "title": "Diablo 4: Release date window, classes, beta and more",
+      "excerpt": "Diablo 4 will come out on the PC, PS4, PS5, Xbox One and Xbox Series X/S, and will hopefully give demon slayers everywhere a meaty original adventure with a minimum o ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-07-diablo-4-release-date-window-classes-beta-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
+      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12IVgk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T07:17:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-diablo-4-everything-we-know-so-far.md",
       "title": "Diablo 4: everything we know so far",
       "excerpt": "Diablo 4 has officially been confirmed. And while we don't have all that much to go on yet, there have been some small leaks and rumors that might just help tide us over. Diablo 4 has been in ...",
@@ -1062,57 +1104,6 @@
         "name": "DualShockers",
         "domain": "dualshockers.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it.md",
-      "title": "Diablo 4 Will Ditch Lootboxes for Battle Passes, Like Overwatch Before It",
-      "excerpt": "Blizzard has made clear that Diablo 4 will not include lootboxes and, like Overwatch before it, will instead offer Battle Passes and cosmetics through an in-game store.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
