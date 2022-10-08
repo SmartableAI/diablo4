@@ -18,15 +18,6 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Now Diablo 4 test footage has leaked online"
-    excerpt: "A few hours after Rockstar's highly anticipated sequel spilled online, around forty minutes of Diablo 4 test footage also leaked onto the net, showing off gameplay of Blizzard's upcoming ARPG. Spotted ..."
-    publishedDateTime: 2022-09-19T03:06:00Z
-    webUrl: "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 107
   - title: "40 Minutes Of Diablo 4 Test Footage Has Leaked Online"
     excerpt: "From the looks of it, more than 40 minutes of gameplay footage from Diablo 4 has leaked online, giving us a rough idea of ​​what the game will look like."
     publishedDateTime: 2022-09-19T16:18:00Z
@@ -69,6 +60,15 @@ related:
         width: 2000
         height: 1270
         isCached: true
+  - title: "Diablo 4 joins GTA 6 as 40 minutes of footage leaks"
+    excerpt: "Another, much meatier, Diablo 4 leak involves over 40 minutes of footage from the private alpha leak online. You’re no doubt already familiar with the massive Grand Theft Auto 6 leak that took place ..."
+    publishedDateTime: 2022-09-19T05:06:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-joins-gta-6-as-40-minutes-of-footage-leaks/ar-AA11ZCoF"
+    type: article
+    provider:
+      name: Metro on MSN
+      domain: msn.com
+    quality: 67
 
 secured: "E2c3WuYWr4pCYMhmuUKRQ3TI4uK3LTUtjdo2ZjPI4yQ7tpsJfeIHnoQYHwRvrEIsLEy4lXpXnFgozzUR6XvAkzy2aMcWHsm2fHo9jgynpTL/m7pSVOdYg2HhkwuGMfUgFCQwZCKbaaUBoWfqwxXKiJ0oBJxrsRQTURwWv6MyLaHOKOPSsy4zsKOJrLKgS+3EoHDQ9gzaDHDNypf3k7OE22Wzb+Ftel6zvL0FaIBG2mqVu6fiz2CYDCYpQQ2QvoIJ3CjOtJOKcO4MMzhoVZujHU/pYPtIgyijYuaDj+XoO77g2BUo71+8BDcqg1xAq1ltq14X9wrnxkYtxei+UVDWxmRZIOZvS8Fo4FJqej/stVQ=;jte4k81LRSm+xiPTot9BXA=="
 ---

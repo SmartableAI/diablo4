@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-30-diablo-4-boasts-five-explorable-regions-with-over-150-dungeons.md",
+      "title": "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons",
+      "excerpt": "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-diablo-4-boasts-five-explorable-regions-with-over-150-dungeons/index.json",
+      "webUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons",
+      "originalUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp",
+      "cdnAmpWebUrl": "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp",
+      "publishedDateTime": "2022-03-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameInformer",
+        "domain": "gameinformer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons.md",
       "title": "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons",
       "excerpt": "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ...",
@@ -1036,57 +1078,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes.md",
-      "title": "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes",
-      "excerpt": "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
-      "publishedDateTime": "2021-12-20T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

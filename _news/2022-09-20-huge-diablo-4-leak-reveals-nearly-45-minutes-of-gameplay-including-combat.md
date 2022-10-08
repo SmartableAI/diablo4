@@ -56,20 +56,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "New Diablo 4 leak shows off 45 minutes worth of gameplay"
-    excerpt: "Diablo IV leaked beta gameplay footage from GamingLeaksAndRumours Reddit user iV1rus0 recently posted this link stating that there are about 53 minutes of untitled footage captured from the upcoming ..."
-    publishedDateTime: 2022-09-19T02:43:00Z
-    webUrl: "https://dotesports.com/general/news/new-diablo-4-leak-shows-off-45-minutes-worth-of-gameplay"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
     excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
     publishedDateTime: 2022-09-19T09:34:24Z
