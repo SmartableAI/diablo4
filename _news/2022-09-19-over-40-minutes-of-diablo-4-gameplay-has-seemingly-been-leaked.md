@@ -56,20 +56,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Rumour: Over 40 Minutes of Diablo 4 Gameplay Has Apparently Leaked"
-    excerpt: "More than 40 minutes of gameplay from the Diablo 4 beta has apparently leaked, on the same day that 90-odd videos that purport to be early work-in-progress clips of Grand Theft Auto VI surfaced online ..."
-    publishedDateTime: 2022-09-18T23:00:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/09/rumour-over-40-minutes-of-diablo-4-gameplay-has-apparently-leaked"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 87
-    images:
-      - url: "https://images.pushsquare.com/f4d7cc38b3475/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "New Diablo 4 leak shows off 45 minutes worth of gameplay"
     excerpt: "Diablo IV leaked beta gameplay footage from GamingLeaksAndRumours Reddit user iV1rus0 recently posted this link stating that there are about 53 minutes of untitled footage captured from the upcoming ..."
     publishedDateTime: 2022-09-19T02:43:00Z
