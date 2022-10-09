@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch.md",
+      "title": "Blizzard Is Giving Away Diablo 4, But There's A Huge Catch",
+      "excerpt": "Blizzard is giving away free copies of Diablo 4, but there's a huge catch: fans have to get tattooed to do it. A new event is sweeping across the nation.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/index.json",
+      "webUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
+      "originalUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.svg.com/img/gallery/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/l-intro-1658767061.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "svg",
+        "domain": "svg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-diablo-4-release-date-speculation-and-all-the-latest-details.md",
+      "title": "Diablo 4 release date speculation and all the latest details",
+      "excerpt": "Want a roundup of the latest Diablo 4 release date speculation and news? Announced during BlizzCon 2019, the upcoming entry in the demon-slaying action RPG game series has had many different ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-25-diablo-4-release-date-speculation-and-all-the-latest-details/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/07/diablo-4-release-date.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-diablo-4-beta-files-reportedly-found-online.md",
       "title": "Diablo 4 Beta Files Reportedly Found Online",
       "excerpt": "Files for a Diablo 4 beta have been reportedly spotted online, suggesting that we may get access to the game soon.",
@@ -994,99 +1078,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5.md",
-      "title": "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?",
-      "excerpt": "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2022/06/Overwatch-23.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
-      "publishedDateTime": "2022-06-13T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4s-new-legendary-system-has-transformed-the-game-blizzard-says.md",
-      "title": "Diablo 4's New Legendary System Has \"Transformed The Game,\" Blizzard Says",
-      "excerpt": "Diablo IV is learning big lessons from previous Diablo games, including how the game approaches legendary items and its endgame Paragon progression system. In a recent GameSpot interview, game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4s-new-legendary-system-has-transformed-the-game-blizzard-says/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989655-d4_v0.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
-      "publishedDateTime": "2022-06-13T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

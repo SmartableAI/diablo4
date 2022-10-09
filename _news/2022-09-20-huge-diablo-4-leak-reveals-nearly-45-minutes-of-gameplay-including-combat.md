@@ -7,8 +7,8 @@ originalUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gamep
 webUrl: "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: HotHardware
@@ -22,24 +22,6 @@ images:
     width: 708
     height: 400
     isCached: true
-
-related:
-  - title: "Diablo 4 Gameplay Leaks Show Barbarian Combat And Open World"
-    excerpt: "As indicated by PC Gamer, a link to both videos was posted in the Gaming Leaks and Rumours subreddit by user iV1rus. The footage shows a barbarian character exploring a city, and then heading out ..."
-    publishedDateTime: 2022-09-19T11:06:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 164
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "L4vBgNZzyuUsNo/X/gAhdjcvlj4TRfG23VZQMrB+TfmOkkj8c72IAXXkdRRDNPAAff/JKULSD3qDO+oR12fbBNhbyo22QSF7SSC0gCBaqtm4pC/3wj/aEDvP1hZoK/tF9pOMbh45iqVpAGOdGJxFEA6ePhfI4/yN2KEhM0T/xkj1HcCEdD4JseX0y1zcKGBvql5Xh9vfTbrIN27BbiOlrl8j7vTUUM/HR/p8ic9g+96GFQWUEmhuljH4eGHqp8B/7yHNXCH15SLQNqm4WJpba8NR4MrVaBAhrg0kFuUP3ZlGeAhznIQvyYTWnJtt85OOyhBVixjprtihFj/YAZXu9ripoQhoGxeeSsD/WsgCu+c=;gZnYtZ/m+ZAGBGxNYSheWw=="
 ---

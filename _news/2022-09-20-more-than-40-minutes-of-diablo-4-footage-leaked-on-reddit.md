@@ -52,15 +52,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "More than 40 minutes of Diablo 4 footage leaked on Reddit"
-    excerpt: "Diablo 4 might not be coming out until next year, but heaps of new gameplay footage leaked over the weekend. Over on Reddit, user iV1rus0 shared roughly 44 minutes of Diablo 4 video from a private ..."
-    publishedDateTime: 2022-09-19T11:49:51Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/more-than-40-minutes-of-diablo-4-footage-leaked-on-reddit/ar-AA120AZR"
-    type: article
-    provider:
-      name: USA Today on MSN
-      domain: msn.com
-    quality: 67
 
 secured: "EBiWAQmHW613gk24WNricisyPKv/nRw5HUpD3p4uBBvQClnjKUpStjUzUwVcqDmvjP/hOJje4yiZu5athRUSFgzAU3l89BPeJZaC2cWZAzqZnuny3pTlrMxSyPWiB9ft8qJDjrhYI57QvsJns5Cji+T4XGAGZfM4GQt/PgiYIoErPrXWr7oRYPCsM6qLDXSJ7FAIHkDJz0jqxd4fjTEPuBn3m6Nx576XmGbcPzqk/wyas3ye3z8cYD3of+cWD6ibkXRDTSgkm7xOAqUNU5hxcaTQYGUan371yfy4FOYstzW7yuArTSMxq6gKy0IEfOZwLG1gWlJJ7STIamje3n53bjFMmrA9ETlYyd/LQgIIB78=;HV6FjEA2+AqcK+r1isimQA=="
 ---
