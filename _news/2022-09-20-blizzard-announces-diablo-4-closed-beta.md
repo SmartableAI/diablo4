@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Blizzard announces Diablo 4 beta, but not everyone is invited"
-    excerpt: "The first Diablo 4 beta is coming, but it's a closed beta with some strict sign-up requirements meant only for experienced endgame players ..."
-    publishedDateTime: 2022-09-19T12:22:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-closed-signup"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-4-beta-closed.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 endgame closed beta announced"
     excerpt: "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players."
     publishedDateTime: 2022-09-21T03:26:00Z
