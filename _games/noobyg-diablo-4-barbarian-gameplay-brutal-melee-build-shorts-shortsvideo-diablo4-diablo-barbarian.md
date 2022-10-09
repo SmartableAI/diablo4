@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-barbarian-gamepla
 type: video
 length: PT26S
 publishedDateTime: 2022-09-17T05:14:08Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YBPcxotmWDY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ik5UDK9kqw8Lwx+MYOhsqBbk03EQCcx/Cr/KhuuGuMR+i1BXRH7NC1dhxIn6iSqy6ccZJIg64EbWymHpVcyZYhtdDZE465pgKiuxFCuVwjL5PkGWLPaN/yT3TqFJJwMTalEsg52R/3nZ5523tbH1Z65cD3Hto6YZBCn3HfYlYvy9YntAmknry0Xf0N4hFgObDmHQ5QIJdydo/IZiUJ9iXssebTX7G2S9u+vsGPvwUOwAVN569d4Lq4o/x5Rx4bBympUCEMFME7/LJm9fR5aSOrSq26/irc4S7BtOoD/iSPDVW6Strg22v21YY5fga8KwSAaYHOfJmvAMk2y/X2MH0Dhq3/5gNFTZkeVrysrgcJnOpK3PlNre6DYDEu2yT7cmXK2iuQ0C7jBNGQ86mbfZZSjPBqlwHID5p6XI3tW49GI=;de/0md5LN4O5Ui5qv+4KEQ=="
+secured: "b6sJw9Mw2KgmWxGsD2Y6jkPZZHCNSAZ32LopH/iDhtvFmvlR9fO2fyBi0onyFotT4Kg7TIG1biZ3QVYkkVIcm00SHHrweftv+6lXQnblhwcS+KzLkGb2RuV0QBfaH6RP9xRBU7vU4o32d5C/RU19WfxSpyN0QSGI4n1uY4UiM5iFYoquEK7+YjQGZvGaFIxCZAoE2wkLaXfnZjqyjKVqCGKTRkSb1vS0gghBge4z+KM2VgUsQUN/dxxrvQot86+cL3aIgKwgM2UKglu4EkTVjXzXEH7z2+JargscRSdz/FhoUjHZx9LdeJvF1ZY0IdxPXuQOdxp2evFGGOP/mRJm6xi459YgO/iYrlPBmwz8LRju9hSVx9Syay7TGeqpFCJqkpxvNhvqOzOVNf8nYOyoFwmqDpg0+Ctb1h2fn5Uqq/8=;ig2bgRH+sY+ukCXXZ8WpAw=="
 ---
 
