@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo IV Beta announced! Multiple Phases, how to get in!"
-    excerpt: "Diablo4 #Beta #Blizzard Blog Post: ..."
-    publishedDateTime: 2022-09-19T21:47:07Z
-    webUrl: ""
-    type: video
-    provider:
-      name: wudijo
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Developers reveal Diablo 4 Closed Beta for late 2022"
     excerpt: "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression."
     publishedDateTime: 2022-09-20T14:13:00Z

@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo IV Beta announced! Multiple Phases, how to get in!"
-    excerpt: "Diablo4 #Beta #Blizzard Blog Post: ..."
-    publishedDateTime: 2022-09-19T21:47:07Z
-    webUrl: ""
-    type: video
-    provider:
-      name: wudijo
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Diablo 4’s closed beta test thrusts players into its dangerous endgame"
     excerpt: "It seems like we are one step closer to that destination as Blizzard Entertainment recently announced that a closed beta test for Diablo IV will be taking place in November 2022. Revealed earlier this ..."
     publishedDateTime: 2022-09-20T04:43:00Z
