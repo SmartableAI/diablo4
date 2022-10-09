@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-be
 webUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
 type: article
 quality: 127
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Diablo 4’s closed beta test thrusts players into its dangerous endgame"
-    excerpt: "It seems like we are one step closer to that destination as Blizzard Entertainment recently announced that a closed beta test for Diablo IV will be taking place in November 2022. Revealed earlier this ..."
-    publishedDateTime: 2022-09-20T04:43:00Z
-    webUrl: "https://dotesports.com/general/news/diablo-4-closed-beta-test-thrusts-players-into-its-dangerous-endgame"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/09/20064208/aMYMFK7FHw3viJCZ869hJH-768x439.jpg"
-        width: 768
-        height: 439
         isCached: true
   - title: "Diablo 4 endgame closed beta announced"
     excerpt: "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players."

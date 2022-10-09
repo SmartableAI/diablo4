@@ -52,20 +52,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4’s closed beta test thrusts players into its dangerous endgame"
-    excerpt: "It seems like we are one step closer to that destination as Blizzard Entertainment recently announced that a closed beta test for Diablo IV will be taking place in November 2022. Revealed earlier this ..."
-    publishedDateTime: 2022-09-20T04:43:00Z
-    webUrl: "https://dotesports.com/general/news/diablo-4-closed-beta-test-thrusts-players-into-its-dangerous-endgame"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/09/20064208/aMYMFK7FHw3viJCZ869hJH-768x439.jpg"
-        width: 768
-        height: 439
-        isCached: true
 
 secured: "nKk4zDNTQ8wK6yAQUBn7SPXC3gnv+ZwgM9djuQoAh5HIFjKwhNxHUjZrkkJPQULAkS4qaWEYmC4HvStjC/aJAcIo748JIkX1apWmauYE0kj12/iTbWUMYgaNUeKxOVs+FQOFy1f+HcZqDvm8GLwG14qvk1wcXStOSqE/86CFd/e07caiyz/wTTUW6LjIPO74nif9wRl4orGqbSzDKWenWo5YVJd+YLLIbBKjJDkN2FDLjx9j6BzrWm83Z8qh54vTdbwyqFBp4yCjvEd4Ci5eLokeTda+MMDYyzw1ZQMKl9kdWd9dWE+pmqy+MSgVUz38xZRmFERwer+PpKnwhTBNJORZPpVOmq7/xyYafBZ8Ikw=;YFx72kF1mT7Kpi4ZVzPIew=="
 ---
