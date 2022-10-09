@@ -347,6 +347,48 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked.md",
+      "title": "Test footage from ‘Diablo 4’ appears to have leaked",
+      "excerpt": "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
       "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
       "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
@@ -460,6 +502,48 @@
       "provider": {
         "name": "SlashGear",
         "domain": "slashgear.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-more-than-40-minutes-of-diablo-4-footage-leaked-on-reddit.md",
+      "title": "More than 40 minutes of Diablo 4 footage leaked on Reddit",
+      "excerpt": "Diablo 4 might not be coming out until next year, but heaps of new gameplay footage leaked over the weekend. Over on Reddit, user iV1rus0 shared roughly 44 minutes of Diablo 4 video from a private ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-more-than-40-minutes-of-diablo-4-footage-leaked-on-reddit/index.json",
+      "webUrl": "https://ftw.usatoday.com/2022/09/diablo-4-leak-reddit-video",
+      "originalUrl": "https://ftw.usatoday.com/2022/09/diablo-4-leak-reddit-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/02/Burning_Crusade_Classic_BlizzConline_Villans_1920x1080.jpg?w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1010,90 +1094,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide.md",
-      "title": "Diablo 4 Rogue class, skills, and imbue system guide",
-      "excerpt": "Looking to find out more about the Diablo 4 Rogue class? Look no further. Created to fulfil a dexterity role, Rogue is a truly hybrid character who combines her excellence in both range and melee ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo4-rogue-class-trailer.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "Hey Everyone! Kyle here ! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=IrTta5nR4ys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrTta5nR4ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T08:05:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kyle Stencell Gaming",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
