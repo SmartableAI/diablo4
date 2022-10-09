@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-b
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Diablo 4 gets its own massive leak with over 40 minutes of gameplay"
-    excerpt: "The buffet of leaked Diablo 4 footage surfaced over the weekend and was quickly flagged on ResetEra. The two MP4s mentioned in the post – one five minutes long and the other a whopping 38 minutes long ..."
-    publishedDateTime: 2022-09-19T09:34:24Z
-    webUrl: "https://www.msn.com/en-gb/finance/technology/diablo-4-gets-its-own-massive-leak-with-over-40-minutes-of-gameplay/ar-AA120Bb7"
-    type: article
-    provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
-    quality: 67
 
 secured: "JRQAXbVoNFxMkV81vSwGRKGrk72g9JjhsHEIA+Y2p4cTEQUwuAztDelATocNkSFl1xgAWahf+RdewRXLG7+lzr1GMvBlTx8lJvWemZbWLCi86s3CttnMohJ8sU51BiAEJyM77doNjPHa3gq15uaoOlltBvsbOMYtYOith4cHK1KXEfkVb/qOttZZPy9dWwC1hu3BYyv7sFq0DFKPAcuNqprvz0O7qgyc0+aGxQL4aPfeLfgi6fDYCWifr87DTWlixnzP+lrDZanCpVIR30cEZ3kS/0xKaBUH9DY0vMQd5Ql+lys/mbwClv2zCLBa4Z1g6ai7utfzgWg/ncN/06l5L1dgIxtA02OGHs2eyyaA0GY=;9A6GPMnsKWbqyDTxnnLqwg=="
 ---
