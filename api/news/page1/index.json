@@ -431,48 +431,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022.md",
-      "title": "Developers reveal Diablo 4 Closed Beta for late 2022",
-      "excerpt": "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
-      "originalUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2022-09-20-blizzard-reveals-secretive-beta-testing-plans-for-diablo-4.md",
       "title": "Blizzard Reveals Secretive Beta Testing Plans For Diablo 4",
       "excerpt": "Blizzard's hotly-anticipated \"Diablo 4\" isn't due until next year, but there is some good news for the franchise's most loyal fans: a closed beta testing phase.",
@@ -557,21 +515,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-20-diablo-4s-closed-beta-test-thrusts-players-into-its-dangerous-endgame.md",
-      "title": "Diablo 4’s closed beta test thrusts players into its dangerous endgame",
-      "excerpt": "It seems like we are one step closer to that destination as Blizzard Entertainment recently announced that a closed beta test for Diablo IV will be taking place in November 2022. Revealed earlier this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-diablo-4s-closed-beta-test-thrusts-players-into-its-dangerous-endgame/index.json",
-      "webUrl": "https://dotesports.com/general/news/diablo-4-closed-beta-test-thrusts-players-into-its-dangerous-endgame",
-      "originalUrl": "https://dotesports.com/general/news/diablo-4-closed-beta-test-thrusts-players-into-its-dangerous-endgame",
+      "path": "_news/2022-09-20-blizzard-announces-diablo-4-closed-beta-for-2022.md",
+      "title": "Blizzard Announces Diablo 4 Closed Beta for 2022",
+      "excerpt": "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-blizzard-announces-diablo-4-closed-beta-for-2022/index.json",
+      "webUrl": "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022",
+      "originalUrl": "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 227,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2022/09/20064208/aMYMFK7FHw3viJCZ869hJH-768x439.jpg",
-          "width": 768,
-          "height": 439,
+          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -581,12 +539,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T21:43:00-07:00",
+      "publishedDateTime": "2022-09-19T23:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1090,6 +1057,48 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-18T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide.md",
+      "title": "Diablo 4 Rogue class, skills, and imbue system guide",
+      "excerpt": "Looking to find out more about the Diablo 4 Rogue class? Look no further. Created to fulfil a dexterity role, Rogue is a truly hybrid character who combines her excellence in both range and melee ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo4-rogue-class-trailer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T01:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PCGamesN",
