@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-be
 webUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
 type: article
 quality: 127
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Blizzard Announces Diablo 4 Closed Beta"
-    excerpt: "Blizzard announces when both the closed and open betas for Diablo 4 will be available for fans, but there is a catch regarding the former."
-    publishedDateTime: 2022-09-20T02:24:06Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-announces-diablo-4-closed-beta/ar-AA121S6U"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 67
 
 secured: "WTQLnPDDZkIFVYGFtAnJ9cc7yy1DWeF9dDR36yepXyAPN4hA1VBBuOplyLSR2BXj1hC4ZbFzBcWkvZAZQBMBn4vKgadRdPh9CQylWcoi8o8SFzssS5DwYfN1K/d6Gw9p9SrGXaqezxowXuPhcQ/B1U3m6n5JgR0AhPFkCmxUqJ1xo5DGSml8aY7AiGuW2wE8XiCs4pLjGkpHbIGjD3h+6fZGcpQhjWj69Vghr0gegHe9WpjxjkKon0BshJM3RPk3O6cQPoYwJKoAC2RHn2QLP7wBwiXMnCJjM3eVjdMe4DpIC0Amf212teWLuguPuqV3UimYzRDT/uv8Y1HE0UfvT8E+gk+5m+uT0++Jq1Y2tfo=;Jwyezt3bV8U7ygSd8Ly6EA=="
 ---

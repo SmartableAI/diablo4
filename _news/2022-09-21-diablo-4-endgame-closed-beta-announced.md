@@ -66,15 +66,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Blizzard Announces Diablo 4 Closed Beta"
-    excerpt: "Blizzard announces when both the closed and open betas for Diablo 4 will be available for fans, but there is a catch regarding the former."
-    publishedDateTime: 2022-09-20T02:24:06Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-announces-diablo-4-closed-beta/ar-AA121S6U"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 67
 
 secured: "nKk4zDNTQ8wK6yAQUBn7SPXC3gnv+ZwgM9djuQoAh5HIFjKwhNxHUjZrkkJPQULAkS4qaWEYmC4HvStjC/aJAcIo748JIkX1apWmauYE0kj12/iTbWUMYgaNUeKxOVs+FQOFy1f+HcZqDvm8GLwG14qvk1wcXStOSqE/86CFd/e07caiyz/wTTUW6LjIPO74nif9wRl4orGqbSzDKWenWo5YVJd+YLLIbBKjJDkN2FDLjx9j6BzrWm83Z8qh54vTdbwyqFBp4yCjvEd4Ci5eLokeTda+MMDYyzw1ZQMKl9kdWd9dWE+pmqy+MSgVUz38xZRmFERwer+PpKnwhTBNJORZPpVOmq7/xyYafBZ8Ikw=;YFx72kF1mT7Kpi4ZVzPIew=="
 ---
