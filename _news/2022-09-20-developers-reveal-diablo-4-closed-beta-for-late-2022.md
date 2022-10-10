@@ -7,8 +7,8 @@ originalUrl: "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-b
 webUrl: "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Dexerto.com
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Announces Diablo 4 Closed Beta for 2022"
-    excerpt: "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023."
-    publishedDateTime: 2022-09-20T06:52:00Z
-    webUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 endgame closed beta announced"
     excerpt: "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players."
     publishedDateTime: 2022-09-21T03:26:00Z

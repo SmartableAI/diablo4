@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard Announces Diablo 4 Closed Beta for 2022"
-    excerpt: "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023."
-    publishedDateTime: 2022-09-20T06:52:00Z
-    webUrl: "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Developers reveal Diablo 4 Closed Beta for late 2022"
     excerpt: "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression."
     publishedDateTime: 2022-09-20T14:13:00Z
