@@ -347,6 +347,48 @@
       ]
     },
     {
+      "path": "_news/2022-09-21-diablo-4-endgame-closed-beta-announced.md",
+      "title": "Diablo 4 endgame closed beta announced",
+      "excerpt": "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-endgame-closed-beta-announced/index.json",
+      "webUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
+      "originalUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked.md",
       "title": "Test footage from ‘Diablo 4’ appears to have leaked",
       "excerpt": "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ...",
@@ -1062,48 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
-      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
-      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
-      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
