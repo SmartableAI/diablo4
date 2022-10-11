@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions.md",
+      "title": "Diablo 4 beta leaks spark smart loot and trading discussions",
+      "excerpt": "While the first Diablo 4 beta leaks may not be indicative of the final product, they have spawned conversations around smart loot and trading in the RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-beta-leaks-smart-loot-trading.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online.md",
       "title": "Diablo 4 Test Build Leaks Already Surfacing Online",
       "excerpt": "As leaks typically are when it comes to an upcoming game, the leaks from whatever Diablo 4 test is going on now have been spotted here and there throughout the game's subreddit. One such post pulls ...",
@@ -1025,57 +1067,6 @@
         "name": "Dexerto.com",
         "domain": "dexerto.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta.md",
-      "title": "How to pre-register for the Diablo 4 closed beta",
-      "excerpt": "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta/index.json",
-      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp",
-      "publishedDateTime": "2022-06-14T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
