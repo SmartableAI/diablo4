@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-druid-gameplay-bo
 type: video
 length: PT41S
 publishedDateTime: 2022-09-17T19:05:13Z
-heat: 83
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoT4QP14XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "q/2OOF/IZrOXrgDQRw2EEh4WBktWes+dkXt9yel+FBaegRGurbBvz5NwI7c4YWV+lJwRQbxIuBz4eUC6V3Tn8caRqiN6ZfMRYeLrHqkRIKM48ZRP0zNEgDlVIhCKTf1NFmiuIlxSbUYP3FDvnaPHKtnMOjUl0R5w0fV7yhDB0dsEE0Ce1ymNRKFp0gEceDIktLFaVzATrBk9elDEzlSiLeIbAc5NyR0PyOs8GTAY3WiJBRlV18QtAqRkE3kJuXQbsimsaORQiLyULdCoq8kP/tifQ6XTe61lEDTTrqcQykGONQI8vJFyekeITZIhgLO/vbNK1Bc8Glw+VEnB0VbJL5X4HZxH4goOc3FzmKh+XXrL1qhcz3RTysyQ0u790fmqb5BqYme7Kb40F5E3vvLA3Q==;GYefPANfxIhBcPZXY5hc7Q=="
+secured: "7budGqiKFDl8Nb7VYeOvOvtZeDpqXXEETBgI9/aj5CT8UoDTEtlornRoBL7Wolb3/aHMl2nlWjZXXKcoMCGDpgZ2sbbvnKz2KQek+rBZnj9aG2KO5ydWRNXAumT3+Tf8eDiLTOoJlevpkmAMcTqMWRRuM5ay1ApWMCGFLJQ4jDPV3gk8EEp8XT4pBCzrPDYwTytimaRrfjXy4t+SUm1bLhq9dYIPRYNCRPWqZjy7FS8MHOvFabQ6baMEkO7i4vZwkEpL72Ms8YbZ1R9GA7zeoTQdbJ7FTpdiLn+Vnu8jf6YHM7pGwbMr0+l7GMFaq9HYAeU3J3nsOdkfZJy7/JO2booVdmrqvhwpM0uqqo3FKfSpRoa1dSWCoQ+lkE0ltsK47p2kslHFDbaT5E+eN5FCZ+vKiErLvV1ib07kmvJxt1k=;zOs0dYL+rX8zZP+/MdUY3w=="
 ---
 
