@@ -46,19 +46,19 @@
     {
       "path": "_news/2022-10-07-diablo-4-release-date-window-classes-beta-and-more.md",
       "title": "Diablo 4: Release date window, classes, beta and more",
-      "excerpt": "Diablo 4 will come out on the PC, PS4, PS5, Xbox One and Xbox Series X/S, and will hopefully give demon slayers everywhere a meaty original adventure with a minimum o ...",
+      "excerpt": "Diablo 4 couldn’t have come at a better time. Diablo 3 debuted a full 10 years ago, meaning players have already plumbed its demonic depths. Diablo 2: Resurrected didn’t introduce anything new ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-07-diablo-4-release-date-window-classes-beta-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
-      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
+      "webUrl": "https://www.tomsguide.com/reference/diablo-4-release-date-window-classes-beta",
+      "originalUrl": "https://www.tomsguide.com/reference/diablo-4-release-date-window-classes-beta",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12IVgk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "url": "https://cdn.mos.cms.futurecdn.net/fMDLcMCrzURzMqqu8xW3Jk-1200-80.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,11 +68,53 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T07:17:56-07:00",
+      "publishedDateTime": "2022-10-07T07:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tom's Guide on MSN",
-        "domain": "msn.com",
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional.md",
+      "title": "Leaked Diablo 4 screenshots hint at the campaign being optional",
+      "excerpt": "Diablo 4 screenshots have leaked online, seemingly confirming that you can skip the game's campaign after beating it once. Over the past weekend, the Twitter user below uploaded four images ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/index.json",
+      "webUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
+      "originalUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -167,48 +209,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional.md",
-      "title": "Leaked Diablo 4 screenshots hint at the campaign being optional",
-      "excerpt": "Diablo 4 screenshots have leaked online, seemingly confirming that you can skip the game's campaign after beating it once. Over the past weekend, the Twitter user below uploaded four images, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/index.json",
-      "webUrl": "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/ar-AA12xqE6",
-      "originalUrl": "https://www.msn.com/en-gb/finance/technology/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/ar-AA12xqE6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10m4Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T20:30:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
