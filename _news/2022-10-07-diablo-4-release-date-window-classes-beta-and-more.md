@@ -6,9 +6,6 @@ publishedDateTime: 2022-10-07T14:17:00Z
 originalUrl: "https://www.tomsguide.com/reference/diablo-4-release-date-window-classes-beta"
 webUrl: "https://www.tomsguide.com/reference/diablo-4-release-date-window-classes-beta"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: Tom's Guide
@@ -17,12 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/fMDLcMCrzURzMqqu8xW3Jk-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "h8IGo1rSQSblvuIyEiT/gnAyItdsC3BDrc7VFc8tE5U/7kupwkkVSrhDOV/ye7pwRKli9NZRXUft6d3EBqvJYX78Ewhq//yqoCOM+rC6wwM/4/Ssh5vL0ecGKgwjX/x9oWxrx4HcIFTGeb7SfqLt2glYSYA8fGoLI/PY3C3+EhD6nPnrgmDdPc1eoC9cnszSEipmpNXxhFl+UVhZJcXPjQ5BTfoDv4sOejnCFp624OrmdbfK0w6sDDSr5RXdoVWohepa99aC8+yDSlKYXRQfYppge05VrZ6zmsGzOQG9LtvO4aOAaXWC/RYTcd79AyA7wZWpIKHa08yOwZsqtcZT4G3oqxzvIi7gXYV3i/GkhDY=;5ugk/C6ZjIR16/AAg+kHBQ=="
+secured: "jPM38elgEi0OSRvPQIaJjLWLySGnNam14DJZ7UsJUNooXy8XQIdVn/H3TQY+3fMBlTLLkU73MzHNGSG6W+OPZEZuzxEpiXUof7nld/pVuQ0Q5gDqX+pj9fv9tnLaSR3xmJO/pSJZ5Dn69I9/KDIUXoqBYD2ZFMar8A8b6hwgn/Nb9HIcNWQdcrjwixqtL2mIYJkjWIPOjz4sY1cPKEtQu1TZdUG6X8RI0JXeJBr7C5AidPtFMy4lTuZglfVMlWemSRiTs8dJUc7i98zTQbyXsMPivTsPB88CSX6ilFMRuNH1MDJgIzp8Xlf5sZRIPZz7Nn/ca16H5jPTm2rrrqkLK3OmR8LFjI3hKBE3BUX2Zq4=;J1accHG2QxVNqTlixTIVuA=="
 ---
 
