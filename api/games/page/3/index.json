@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021.md",
-      "title": "Newest -Diablo IV Sorceress Official Gameplay 2021",
-      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=h4Xct8PtKYo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4Xct8PtKYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M21S",
-      "provider": {
-        "name": "Games Recap",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h4Xct8PtKYo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-02T00:31:39-07:00"
-    },
-    {
       "path": "_games/games-world-diablo-4-all-classes-gameplay-barbaro-druida-maga-rouge.md",
       "title": "DIABLO 4 ALL CLASSES - GAMEPLAY - BARBARO - DRUIDA - MAGA -- ROUGE",
       "excerpt": "Diablo IV foi apresentado na blizzcon em 2019 oficialmente, desenvolvido para as plataformas Pc, XboxOne e palystation 4. Bárbaro: 00:00 Maga : 16:34 ...",
@@ -907,6 +877,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-12-23T06:34:15-08:00"
+    },
+    {
+      "path": "_games/midtier-gamer-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer.md",
+      "title": "DIABLO 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer",
+      "excerpt": "Diablo 4 gameplay featuring Barbarian, Sorcerer and Druid. Enjoy.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/midtier-gamer-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/midtier-gamer-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=-e1pTJ4p6nw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-e1pTJ4p6nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "MidTier Gamer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-26T02:05:48-07:00"
     }
   ],
   "nextPage": 4
