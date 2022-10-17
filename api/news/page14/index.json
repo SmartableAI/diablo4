@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Reaction",
+      "excerpt": "MP Gaming! Can't wait for this game to come out... ▻ My Merch: https://teespring.com/stores/matsu-patty Let's grow this channel together: ▻ Subscribe to my ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=q16u4f-nJg8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q16u4f-nJg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q16u4f-nJg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T10:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Matsu Patty",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019.md",
       "title": "Diablo 4 FINALLY Announced at Blizzcon 2019",
       "excerpt": "Diablo 4 is confirmed through a MUCH anticipated announcement at Blizzcon 2019. After a lot of waiting, patience and faith, Blizzard unveiled a Cinematic, ...",
@@ -1006,48 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Reaction.... What a trailer!",
-      "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. Turn On ALL ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=C5JpvvHIbCQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5JpvvHIbCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C5JpvvHIbCQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:48:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NeonReaperGaming",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
