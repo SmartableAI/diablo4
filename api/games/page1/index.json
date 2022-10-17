@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian.md",
-      "title": "Diablo 4 Barbarian gameplay!  Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian",
-      "excerpt": "Diablo 4 Barbarian gameplay! Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian Please subscribe for more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=YBPcxotmWDY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YBPcxotmWDY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-16T22:14:08-07:00"
-    },
-    {
       "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
       "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
       "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
@@ -129,6 +99,36 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
+      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
+      "title": "Diablo IV Druid Gameplay . (No Commentary)",
+      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M2S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-26T03:13:29-08:00"
+    },
+    {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
       "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -159,36 +159,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
-    },
-    {
-      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
-      "title": "Diablo IV Druid Gameplay . (No Commentary)",
-      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M2S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
       "path": "_games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
@@ -916,6 +886,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T14:40:19-07:00"
+    },
+    {
+      "path": "_games/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay.md",
+      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay",
+      "excerpt": "Diablo IV Blizzcon 2019.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=b1Z1CAELiRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b1Z1CAELiRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M50S",
+      "provider": {
+        "name": "Amaraa Channel",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-22T12:36:08-08:00"
     }
   ],
   "nextPage": 2

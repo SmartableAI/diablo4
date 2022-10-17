@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian.md",
-      "title": "Diablo 4 Barbarian gameplay!  Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian",
-      "excerpt": "Diablo 4 Barbarian gameplay! Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian Please subscribe for more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=YBPcxotmWDY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YBPcxotmWDY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-16T22:14:08-07:00"
-    },
-    {
       "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
       "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
       "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
@@ -926,6 +896,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-16T02:34:53-08:00"
+    },
+    {
+      "path": "_games/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p.md",
+      "title": "DIABLO 4 Gameplay Trailer First Look at Sorceress, Barbarian and Druid 720p",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p/",
+      "originalUrl": "https://youtube.com/watch?v=vFnPrLqyjuE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFnPrLqyjuE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M11S",
+      "provider": {
+        "name": "GAME AND ANIME PORTAL GaMeR",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vFnPrLqyjuE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-02-16T17:31:17-08:00"
     }
   ],
   "nextPage": 2
