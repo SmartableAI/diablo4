@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 end game beta invites are being sent out"
-    excerpt: "The first wave of invites to the Diablo 4 closed end game beta have reportedly been distributed. Diablo players on Resetera and Reddit began receiving invites to the game’s latest testing phase on ..."
-    publishedDateTime: 2022-09-27T11:08:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 87
-    images:
-      - url: "https://www.videogameschronicle.com/files/2022/09/diablo-4-x.jpg"
-        width: 1249
-        height: 703
-        isCached: true
   - title: "Diablo 4 Is Sending Out Invites for Its End Game Beta"
     excerpt: "Diablo 4 devs have reportedly started to send out invites for the first wave of its closed end game beta. Multiple fans have shared on social media that they received invites to the game’s ..."
     publishedDateTime: 2022-09-27T16:24:00Z
