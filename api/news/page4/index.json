@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained.md",
+      "title": "Diablo 4 Necromancer class guide – skills and summons explained",
+      "excerpt": "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-can-we-trust-blizzard-with-diablo-4-after-diablo-immortal.md",
       "title": "Can We Trust Blizzard With ‘Diablo 4’ After ‘Diablo Immortal’?",
       "excerpt": "There’s one question I’ve been asked a lot over the past week, and one I’ve asked myself: Given the current state of Blizzard, can we trust that Diablo 4 will actually deliver, given recent events?",
@@ -1090,57 +1132,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles.md",
-      "title": "Diablo 4 Launches in 2023, Coming to PC, Xbox and PlayStation Consoles",
-      "excerpt": "Revealed at the Xbox and Bethesda showcase, Blizzard had new gameplay for the highly anticipated Diablo IV, and it was also announced that the game is coming to PC, Xbox and PlayStation consoles in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/index.json",
-      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/b20a2104c0ec765bc9ffd9fad22ea6c368f0866f/2022/06/12/965f77b9-a69f-4d71-b5bd-0118a44c5d13/diablo4.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
-      "publishedDateTime": "2022-06-12T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
