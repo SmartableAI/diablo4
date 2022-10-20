@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T01:30:00Z
 originalUrl: "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4"
 webUrl: "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Tom's Guide
@@ -14,6 +17,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "Q0smYZ5SmXaII2VDGMyIz0U1b0kAcyGdwWyw9tpTgPmv6L1qo7PFptT+EUE9cFpfFczCriRSVmqJCheu7qLssGxfWaxWNpMYzIYFCdMmw7w2oauaZvc5QJPscCRAV00O0+cq5/6031ZGAnJZS6aMlHk6HDklM9Bp0doSzXWMS6Xrko4lgf8yzhk2O5Ml+A72/LqXeoK+//jRKTP7INSfSCN7QZFb2nRH6aJCRp+2Zkx0dtMGAtQCoGn/RuFcMX+pdpMEF4Re+tG6tIfMISODWioJZBINJ8GxxH7Bi4CEP3H18OK4qgf/4iE4L+sksFXMd/WnafaK04+hBW6//ABdv8VrELKTDAE+ynDy4RiknsE=;jKR3YvsdsApW1WajJFp4pQ=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/qj3dCAH9Lsr5haXr9j8b9o-1200-80.png"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "yRGDddd6iLnIXghL7+wTCt4+HKuYTwlYM/uGEadBDLaP6oS8X+zv+iAppOJaCy7xOZe+GgXd5zIrmeq/4P/03XET4/yWx7/c+ZT10pcqRkn+gbIv3P1x8kpuHQAIcYvyafQOKovynU+O7Jql42gzC3SeelhXO/CHB1JChr0/+b6KSCesc7SSoAAKxI4jhTHjxnuPbu9voPgti7f/6JBtZ4zZFpBlPBOrcHc4PhGn7n+0dyijM/Ym+DY5FAM0BITwuBz5wtcQyxqFYTcKMVQDdLx3w+Zy6WL7VGogn087xN3Jof0zXCBEpS7R7S1cocTgc2RUdGF4ivhZaI+qfA4dHMfkYViYuwwlT86SkiYqigM=;tCme6fgwe0WKj/JF69ZTeA=="
 ---
 
