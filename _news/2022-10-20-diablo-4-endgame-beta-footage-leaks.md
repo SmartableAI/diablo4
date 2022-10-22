@@ -1,44 +1,44 @@
 ---
 category: news
-title: "Beware Diablo 4 endgame leaks as fans confirm beta access"
-excerpt: "Excited fans have revealed that a new Diablo 4 closed beta has started for the game’s endgame. Initially, the only ones able to play Diablo 4 early were friends and family of Blizzard Entertainment ..."
-publishedDateTime: 2022-10-19T09:42:00Z
-originalUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/"
-webUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/"
-ampWebUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
+title: "Diablo 4 Endgame Beta Footage Leaks"
+excerpt: "Hours' worth of Diablo 4 beta gameplay footage leaks thanks to the ongoing closed beta, highlighting the game's endgame gameplay loop."
+publishedDateTime: 2022-10-20T01:51:21Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-endgame-beta-footage-leaks/ar-AA13aXAn"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-endgame-beta-footage-leaks/ar-AA13aXAn"
 type: article
-quality: 107
-heat: 207
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Metro
-  domain: metro.co.uk
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-    width: 600
-    height: 337
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13b4kT.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Diablo 4 Endgame Beta Footage Leaks"
-    excerpt: "Hours' worth of Diablo 4 beta gameplay footage leaks thanks to the ongoing closed beta, highlighting the game's endgame gameplay loop."
-    publishedDateTime: 2022-10-20T01:51:21Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-endgame-beta-footage-leaks/ar-AA13aXAn"
+  - title: "Beware Diablo 4 endgame leaks as fans confirm beta access"
+    excerpt: "Excited fans have revealed that a new Diablo 4 closed beta has started for the game’s endgame. Initially, the only ones able to play Diablo 4 early were friends and family of Blizzard Entertainment ..."
+    publishedDateTime: 2022-10-19T09:42:00Z
+    webUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/"
+    ampWebUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
     type: article
     provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
+      name: Metro
+      domain: metro.co.uk
+    quality: 107
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13b4kT.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
+        width: 600
+        height: 337
         isCached: true
   - title: "Diablo 4 Endgame Footage Is Being Leaked By Beta Testers"
     excerpt: "Some Diablo fans are receiving access to Diablo 4's Closed Beta Test, but not all of them have been able to keep it or its gameplay secret."
@@ -97,6 +97,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "i9Uk5pzf4fOxs5eeUQu8LEK+d+yn2tFWxLkFXQIZrdpn5tWbavXKjVzxJUp1+iyn79+FKyCIz0ZOBYjJijEL94BeH+C/mn9KJq2HvInjhGMuYLdqAuBHx8/Duis7o7MG66Hpo6ABCqlQSoHXrwj9B3HCb+qKPIQ5tgoLRzD8LwR0KznEPY75vrIw/rAIsEW+5S/XQmZwWY7NtDG5CYCrShb4OLmzdyc6AEFkDB4dak29zorJhvKjrXhXf/YPDv00Ttal9eoOZpPruk6ROAOq8I9EU31/UKkL7nX6sYDNmbajB3iOJTyUNXIKlaV3EJM2mkjVDnT5hLMVvd+Z0rKcD4OmgUKgSIIeZg7axCrk9bg=;a71lGFg7VfldFXgukwj/MA=="
+secured: "C6J6mJr8Mc3vr8id+cjIxZFxtn9y1V+SuiYetlwds/yBcqdR2JAEdNaycD4AZjsbdKuf6Ld5ljykSGILMg1S+MocZtgcl9r6pv39mTIF1pZML1kANM7VVEb3QD1ZuLo6l0v2Vtglwa3YuKQQKQZ+ZhbkhJjFA4fcTDUWavSXBlSWQcjY2xRt1OmwcZJPaTJU6RBgSYFQmxIe0Mw3D9ikmFJtN+2vihvBqdHrAeBVZp+KjC3DrTZn1mlwZCyJx/8cteWbmGRaLTnNZ7xA7dhbBtH5gj9vHmBUJ0Z8JhAhnSgfhMuGRIrNtJr4/Hz1GbNxXxv9RqIOBumaZzIEDisJDhrusmBAYnnWHt+C2Gb//UE=;W57x+4a+fu95LbOdb30hUg=="
 ---
 

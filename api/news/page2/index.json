@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet.md",
+      "title": "Massive Diablo 4 leak gives us our best look at the game yet",
+      "excerpt": "Over 40 minutes of Diablo 4 test footage has leaked online, giving us our most comprehensive look at the upcoming action RPG yet. Blizzard hasn’t confirmed the leak to be genuine, but the footage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet/index.json",
+      "webUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
+      "originalUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fsoXQ8TDH2p9PjGkPoN3gY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts.md",
       "title": "NEW Diablo 4 Update, Closed Beta Announced, My Thoughts.",
       "excerpt": "Blog post to sign up for closed End Game Beta: ...",
@@ -1061,48 +1112,6 @@
       "provider": {
         "name": "Windows Central",
         "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-reveals-monetization-plans.md",
-      "title": "Diablo 4 Reveals Monetization Plans",
-      "excerpt": "Blizzard has today revealed how monetization practices will work in Diablo 4 when the game launches next year. In recent months, the Diablo series as a whole has been under fire from fans following ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-reveals-monetization-plans/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
-      "publishedDateTime": "2022-08-18T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
