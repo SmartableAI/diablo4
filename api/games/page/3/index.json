@@ -4,6 +4,38 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian.md",
+      "title": "Diablo 4 first gameplay reveal - Sorceress,Druid,Barbarian",
+      "excerpt": "Enjoy the 1st look of Diablo 4 gameplay This game looks simply amazing lets hope Blizzard can finally deliver a true successor to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/",
+      "originalUrl": "https://youtube.com/watch?v=igR2p0V37h0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igR2p0V37h0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M50S",
+      "provider": {
+        "name": "Gameclyps",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T18:02:33-08:00"
+    },
+    {
       "path": "_games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer.md",
       "title": "Diablo 4   Barbarian, Sorcerer & Druid Gameplay Trailer",
       "excerpt": "",
@@ -878,36 +910,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T11:25:33-07:00"
-    },
-    {
-      "path": "_games/mahariya-gaming-diablo-4-druid-gameplay-no-commentary.md",
-      "title": "diablo 4 druid gameplay no commentary",
-      "excerpt": "diablo 4 gameplay 2021 sorcerer, diablo 4 gameplay trailer reaction, diablo 4 gameplay trailer reaction mashup, diablo 4 gameplay trailer voice actor, diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mahariya-gaming-diablo-4-druid-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mahariya-gaming-diablo-4-druid-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=isAlz5FZAx8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/isAlz5FZAx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M52S",
-      "provider": {
-        "name": "Mahariya gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/isAlz5FZAx8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-10T21:43:43-08:00"
     }
   ],
   "nextPage": 4
