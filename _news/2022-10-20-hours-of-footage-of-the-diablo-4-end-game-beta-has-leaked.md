@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 endgame beta invites are coming, leaks Blizzard president"
+    excerpt: "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ..."
+    publishedDateTime: 2022-10-25T02:38:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo players who got beta access are already leaking Diablo 4 endgame details"
     excerpt: "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ..."
     publishedDateTime: 2022-10-20T21:59:00Z

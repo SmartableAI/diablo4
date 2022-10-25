@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo players who got beta access are already leaking Diablo 4 endgame details"
-excerpt: "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ..."
-publishedDateTime: 2022-10-20T21:59:00Z
-originalUrl: "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details"
-webUrl: "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details"
+title: "Diablo 4 endgame beta invites are coming, leaks Blizzard president"
+excerpt: "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ..."
+publishedDateTime: 2022-10-25T02:38:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president"
+webUrl: "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president"
 type: article
-quality: 83
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Dot Esports
-  domain: dotesports.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/05/31100852/diablo-gear-key-art-768x356.png"
-    width: 768
-    height: 356
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -82,19 +82,19 @@ related:
         width: 1600
         height: 675
         isCached: true
-  - title: "Diablo 4 endgame beta invites are coming, leaks Blizzard president"
-    excerpt: "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ..."
-    publishedDateTime: 2022-10-25T02:38:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president"
+  - title: "Diablo players who got beta access are already leaking Diablo 4 endgame details"
+    excerpt: "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ..."
+    publishedDateTime: 2022-10-20T21:59:00Z
+    webUrl: "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 83
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/05/31100852/diablo-gear-key-art-768x356.png"
+        width: 768
+        height: 356
         isCached: true
   - title: "Diablo IV Endgame Beta Testers Have Reportedly Been Leaking Footage"
     excerpt: "As you may already know, a Diablo 4 closed beta testing was scheduled for this year, which has gone live a few days earlier apparently, as some invited players have shared their invitation email from ..."
@@ -111,6 +111,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "DBE3E6qD8953JhdZPWhd2GIILX4uKaRoj2WepseXPK8bpYDqE9qAEhgMUp9ZdYhq1oA+sYK6tBMgCcPt88o3GzqgqhZMmr9XNG72cZZekoQRwHPBR7+Lr+RTRZ3em9a5UMU5fYspCEaHj+LgygJPQowvRvCYYFRXTxz+W0EBX9zF1PjZIVqJlLHFduNRKMRLGXPlV8ctiTJZSG2y/0Dk5chSI58V1TYT/1rqy80OR0ckLuNgCuE3iG0uD1kyMGAdk2nO2AFxLdeKzVk/IobFy6zpEU85xl4DnvDhrh0h+FP1LdOA6nyvK1EsJ+wbZYA/wcbT8Iqub0yVyEMKmE8s7fpRh8HzcNzgMmaWGtXym4Y=;mZhT8qvAd4pAwHrODmSkVQ=="
+secured: "seFTBNqQJ1I/a0nrOKDA3CDt1J5M0HmccE/tGvf4tYuEMrX6Vcoigx97kEsC0XO2JDhsKQDcJc8fycIZvqT5Zqn29+RNlyhGvPiPlwmmNuAL3u5X2Asa/aA7sIKfLJIKDFgLyQtm0jNpJsja2wkyR2s01ml0Xuil6TxCYaGuIyJUkl6uzn2L03fb1JkpRIfe+1hguTuRivhK6FOJGgKsdEdLOMfGSXwmPlENB9za/KzXxsdOriJwP0Px8GKlQhZOnvs6G05gtHOGIfPUOq4KS3RGb0lqHeZATvy3BwPwCeiNo7PA75HME/a7Nk+LQB67nTP+vR8RzPwSaw85VWuGb8peCo9Ob5m98DuHY5d5DGg=;COE+A+pZEbHVebAxHWLeIw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
 type: article
 quality: 107
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://www.videogameschronicle.com/files/2022/10/diablo-4-necromancer.jpg"
         width: 1600
         height: 675
+        isCached: true
+  - title: "Diablo 4 endgame beta invites are coming, leaks Blizzard president"
+    excerpt: "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ..."
+    publishedDateTime: 2022-10-25T02:38:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo players who got beta access are already leaking Diablo 4 endgame details"
     excerpt: "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ..."
