@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming.md",
-      "title": "All Hell Breaks Loose in 2023—Diablo IV is Coming",
-      "excerpt": "Diablo IV is set to raise Hell’s temperature to a new level. Join us around the campfire to learn what’s coming in this next generation installment of the Diablo series.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T11:03:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2022-06-12-diablo-4s-final-class-is-necromancer-2023-release-and-new-details-revealed.md",
       "title": "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed",
       "excerpt": "Blizzard's much-anticipated Diablo 4 showed up in a major way during the Xbox/Bethesda showcase, giving us our first look at the fifth and final class, the Necromancer. The presentation included much ...",
@@ -1130,6 +1079,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-diablo-4-has-over-150-handcrafted-and-procedural-dungeons.md",
+      "title": "Diablo 4 has over 150 “handcrafted and procedural” dungeons",
+      "excerpt": "Blizzard has revealed that Diablo 4 will have more than 150 \"handcrafted and yet procedurally generated\" dungeons in a new quarterly update ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-29-diablo-4-has-over-150-handcrafted-and-procedural-dungeons/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/dungeons",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/dungeons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/03/diablo-4-dungeons.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

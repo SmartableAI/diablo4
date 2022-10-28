@@ -24,21 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Beware Diablo 4 endgame leaks as fans confirm beta access"
-    excerpt: "Excited fans have revealed that a new Diablo 4 closed beta has started for the game’s endgame. Initially, the only ones able to play Diablo 4 early were friends and family of Blizzard Entertainment ..."
-    publishedDateTime: 2022-10-19T09:42:00Z
-    webUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/"
-    ampWebUrl: "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/"
+  - title: "Diablo 4 endgame beta asked testers not to leak it, so they leaked it immediately"
+    excerpt: "Oh well. The Diablo 4 subreddit has already had to clamp down (opens in new tab) on posts from excited beta participants violating their NDAs, but the cat's out of the bag. The internet is already ..."
+    publishedDateTime: 2022-10-20T11:00:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 122
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kwF6fZr3V9dJeqQoLeSq6b-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Diablo 4 Gameplay, Details Leak Right After Start of Beta"
+    excerpt: "Posts like this one within the Diablo subreddit indicated to others who might not've been in the know that the beta was indeed live. Some have questioned whether or not PSAs like this one are against ..."
+    publishedDateTime: 2022-10-20T14:14:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-gameplay-beta-leak/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-gameplay-beta-leak/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-gameplay-beta-leak/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
     quality: 107
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
+      - url: "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
+  - title: "The Diablo 4 endgame beta is live - and already leaking"
+    excerpt: "Blizzard said not to tell anyone about the Diablo 4 beta, according to players telling everyone about the Diablo 4 beta ..."
+    publishedDateTime: 2022-10-19T08:20:11Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-endgame-beta-is-live-and-already-leaking/ar-AA139A1I"
+    type: article
+    provider:
+      name: GamesRadar+ on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA120OUA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 Endgame Beta Footage Leaks"
     excerpt: "Hours' worth of Diablo 4 beta gameplay footage leaks thanks to the ongoing closed beta, highlighting the game's endgame gameplay loop."
@@ -67,20 +95,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13cAuV.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo 4 endgame beta invites are coming, leaks Blizzard president"
-    excerpt: "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ..."
-    publishedDateTime: 2022-10-25T02:38:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Diablo players who got beta access are already leaking Diablo 4 endgame details"
     excerpt: "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ..."
