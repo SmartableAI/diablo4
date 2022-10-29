@@ -3,13 +3,13 @@ category: news
 title: "Diablo IV - Rogue Announce Trailer"
 excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=6vVF-vYLUH0"
+originalUrl: "https://youtube.com/watch?v=2WdVc8J3_YU"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6vVF-vYLUH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2WdVc8J3_YU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo PL
+  name: Blizzard Türkiye
   domain: youtube.com
 
 topics:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Ui9iLo1XWQ8Uivi9j8XynbXNEkJnThPTjIg7tgCtiRgtRYtyLje94JOAc9N3e6EWT/Xkfj1NEJ2xoK5TUVuv130WWZcx3ZHdeGxFNfc/nbyEu1e/1tg25EusPRKaTJSgjdTNs168KQdJlih372AbuYY9oyABrLLc+EG1LsQ7nDqY3NPMyx/AfQi5ib1TewP3nOPADEX9CmpZXh7Y00ZhCYfkjd+MnocG09PCHLX4TktmISJcuUqUqA5qIRaFEEgevv1SfFBPWoy6Ezokchi1w4/WibAw2STSL8ljGvbhOPq2jRWMqFjZ8Lt4/Hmhaqju9yP9MZWA56maB9GB6lUOSJf77N1VH6r6xa1xMp6YIZxFkLPhJGW8lsyT4Ak1H931gIDleciDnN1ExkVSoEsGow==;Q/BBzA7Gh35aARdo6gJOIg=="
+secured: "hI34X3NJpOeI0fw/13priOQN1Y9dlFNkDPM1vQrN8ABKDZp2ugwPeqW0m7WHLr0fnoT0qe8zYOc4LuWJ5o9KIBcNjpM6AkKl1qoYzYYdbLbyrbjikTH/zvqI/VUYf0VYztndwhn0UMNJoC0NrZRlVigN1mYFOJPeObg9kVWisCR+57b12NGc5dQw5A2sbSpUAbnAT+tf8Ew1REnU/3EWxMJo9cx/QqOsHytpRD8SH+TFFhb4B4oAmxULqDCYNv+69tYU2vfbA++3YsV09/ufYBxEzfjp0zBqVOKAJJwY8cCTPhAMV8R0gTaH70amyH7IVj+LRAmEl1i9WDfEpNyaPFHRwJl+4GXkV2yVNObzg2EqGe4mpTkdWwnLLJUkRiga2boeJ4gBvsgxGfn6FV3HDw==;UhVt96Xszpfl4xbHmuRLvA=="
 ---
 
