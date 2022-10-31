@@ -4,38 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
-      "title": "Diablo IV -  All Classes GAMEPLAY / Rogue, Barbarian, Sorceress, Druid, Necromancer, BOSS, PVP",
-      "excerpt": "Which class would you like to play? Please don't forget to LIKE & SUBSCRIBE! You can also COMMENT & ↪ SHARE!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/",
-      "originalUrl": "https://youtube.com/watch?v=cgaeM4CyZdE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgaeM4CyZdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M35S",
-      "provider": {
-        "name": "Salus Vindex Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-14T08:16:53-07:00"
-    },
-    {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
       "title": "Diablo 4 - 33 Minutes of Gameplay (Druid, Barbarian, Sorceress, Rogue)",
       "excerpt": "Diablo 4 is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game was ...",
@@ -932,6 +900,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-02-23T10:00:01-08:00"
+    },
+    {
+      "path": "_games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian.md",
+      "title": "Diablo 4 first gameplay reveal - Sorceress,Druid,Barbarian",
+      "excerpt": "Enjoy the 1st look of Diablo 4 gameplay This game looks simply amazing lets hope Blizzard can finally deliver a true successor to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/",
+      "originalUrl": "https://youtube.com/watch?v=igR2p0V37h0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igR2p0V37h0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M50S",
+      "provider": {
+        "name": "Gameclyps",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T18:02:33-08:00"
     }
   ],
   "nextPage": 2
