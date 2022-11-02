@@ -4,38 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian.md",
-      "title": "Diablo 4 first gameplay reveal - Sorceress,Druid,Barbarian",
-      "excerpt": "Enjoy the 1st look of Diablo 4 gameplay This game looks simply amazing lets hope Blizzard can finally deliver a true successor to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/",
-      "originalUrl": "https://youtube.com/watch?v=igR2p0V37h0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igR2p0V37h0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M50S",
-      "provider": {
-        "name": "Gameclyps",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T18:02:33-08:00"
-    },
-    {
       "path": "_games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer.md",
       "title": "Diablo 4   Barbarian, Sorcerer & Druid Gameplay Trailer",
       "excerpt": "",
@@ -909,6 +877,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-12T16:24:35-08:00"
+    },
+    {
+      "path": "_games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019.md",
+      "title": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019",
+      "excerpt": "DIABLO 4 Gameplay Reveal (Barbarian, Druid, Mage) BlizzCon 2019 SUBSCRIBE → https://goo.gl/wiBNvo subscribe for the latest PS4, Xbox One and PC, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lzuniy-diablo-4-gameplay-reveal-barbarian-druid-mage-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=p6zv-Y_masI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p6zv-Y_masI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M45S",
+      "provider": {
+        "name": "lzuniy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p6zv-Y_masI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T11:25:33-07:00"
     }
   ],
   "nextPage": 4
