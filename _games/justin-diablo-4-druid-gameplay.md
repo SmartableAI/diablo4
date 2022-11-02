@@ -2,6 +2,7 @@
 title: "Diablo 4 Druid gameplay"
 excerpt: "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best."
 originalUrl: https://youtube.com/watch?v=MbzOPWjk9GE
+webUrl: https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/
 type: video
 length: PT5M41S
 publishedDateTime: 2022-11-02T05:53:54Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1Qhr3xHKRs2aNf4DWmE0LtNf4DiWgCWpFoDYBLlZcyIZ5BtS4dHdMZGkno49fpyztBKJ9LOe2tzlsA4Yue1CE3aoBWjSD/VHB5Qha5LqHHMXgqraz1G+31bZWQ86KZFVJNL+I643vLQ+ckA32e7X2IyyOBa6yxC6QfdXMHjdn1jqcwYmqe7ZxtPcLcAxJ+ioPbR79RMtbCsbgGw43ihu4NDy81SMmU5OqK2GaJjKlvo3pDgw9Oin8xMJKqGGASBfMeFVGG/XVYz2U/di/So/8RPNJ+g5lflLjHSSdOmRtIT34mFkHm8yJ3SiKGLfNthKDVkEm/UnJ3y0jr5J7TLgegBehPw/f50pOCWwA9Y+dhR+TIq/okKWE9pDCepm1a4mZFbzIh5si0FDYw5tBRYMTA==;eRe9YJiXErBRdEn3u4RW1A=="
+secured: "9TuyXElQvcFof46j5TMiSIlc7UDvPsc1pTMj9rIAqPRw5c77oCY3liMfDISs2FRP7TfoAYOWG99Fq43B2oSkPHzlciwCyGI/LqonVkaHu9TCLX/ExCzU8/rkz+WBFGsFam5SpGRBzDR2Rea75Ek9l4pgYF8xizkHKudTg7hIT8XpYceYknDvjmwl1knIcH+iD4vfa5nZ8AsCTgqEW0w9a6AB1Dq3Qi9upgcDZOgflGQCW5KyBGlFCLS8STTt7UI4h3+rlZ8MsWZZJKypLdkpcCTh+qDriIxpiMan+YOrInvfRxDZX1T1qRyPYGxYkkxRKHvjvgLbOemjihjlOOAleCXahONOoYhZ5WS6/dFhAV3rOW0V4J6ho7KZx+0G8SqAPJeCsYgoUIVYwAw042Ek4A==;3fN9F8JP7vfAlC+HS4gUoQ=="
 ---
 
