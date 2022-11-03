@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-27T05:05:41Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-fans-are-still-worried-about-monetization-after-blizzards-messy-overwatch-2-and-diablo-immortal-launches/ar-AA13ruaT"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-fans-are-still-worried-about-monetization-after-blizzards-messy-overwatch-2-and-diablo-immortal-launches/ar-AA13ruaT"
 type: article
-quality: 65
-heat: 65
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,12 +17,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "4tZyR+9edp43eADj3vdtrN56U8gaxI+TVwGOI4gnum3+DJgV28OTued0ojsyS7gwLjj6x/kTUT8l5GoiVwP2SzSLXsR/YU9xTMGnuv8ijRovUuzl7GYB7B9FkohtZLZqmM34U5alZIFIZzOhpcZwLMVBo9dzgbUFWoURQk5KOcczVgbd1HEwozXpd0yGlqmYNrse+6VwrWxMdE6Fmy3r8pYCAZovdFW3EPFIoWsaNl87Vmfp/C+S3EyIiX9+NUYBW8TuwJIcNmUuzy5+wmsQHIoXlNWfleJFkLhCnZy9LWiUsqC+AsAJh4Xmleo3DBYNlMujQilDosL58bD9syvXbrqpKcvoWFisgDfrSyGo6j4=;lTF5y3u1CcPSqMydXvCXOQ=="
+secured: "+7RRpY8nAiCnx0rr5t3Y7iFg9bY5jL25yvPpB37kaK00Gwao2PIGt8DQ3Ji33sQKab8Bxo6TE/USBJOOhXUorAToIzFK8ZJ45OPoJWfDyYY5SmI1Y8oTFiVzTb7M26kDNTiz3bP97JOq4uwIO8D3e1nLjHDAQvfLYoy4pPF8huWiBLs1kC20b4MyZcopNNyFapVmKeqfu/sqiTdt9N02A2rW6CDOwDU6RKsWTERLj6YgZSNhvAEQXjm3zmleJgoBJd2wWil9VU0DQRUyDPKjGFghwtURVpvE3p5iQizdG6O56rLAY1IrNrzEtjeU8f3tdxf7JLwrxwXQRuyRoiuXjAOXwSDv6FHEwgVgvHqETGg=;qq2E57rFsDnoKWW7mGbkgQ=="
 ---
 
