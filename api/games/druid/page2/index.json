@@ -4,6 +4,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian.md",
+      "title": "Diablo 4 first gameplay reveal - Sorceress,Druid,Barbarian",
+      "excerpt": "Enjoy the 1st look of Diablo 4 gameplay This game looks simply amazing lets hope Blizzard can finally deliver a true successor to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/",
+      "originalUrl": "https://youtube.com/watch?v=igR2p0V37h0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igR2p0V37h0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M50S",
+      "provider": {
+        "name": "Gameclyps",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T18:02:33-08:00"
+    },
+    {
       "path": "_games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer.md",
       "title": "Diablo 4   Barbarian, Sorcerer & Druid Gameplay Trailer",
       "excerpt": "",
@@ -641,38 +673,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-02T15:00:31-07:00"
-    },
-    {
-      "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
-      "title": "Diablo IV -  All Classes GAMEPLAY / Rogue, Barbarian, Sorceress, Druid, Necromancer, BOSS, PVP",
-      "excerpt": "Which class would you like to play? Please don't forget to LIKE & SUBSCRIBE! You can also COMMENT & ↪ SHARE!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/",
-      "originalUrl": "https://youtube.com/watch?v=cgaeM4CyZdE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgaeM4CyZdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M35S",
-      "provider": {
-        "name": "Salus Vindex Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-14T08:16:53-07:00"
     },
     {
       "path": "_games/silvao-old-gamer-diablo-4-barbarian-sorcerer-druid-gameplay-blizzcon-2019.md",
