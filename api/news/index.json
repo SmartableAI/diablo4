@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate.md",
+      "title": "Diablo 4 uniques scale to character level, sparking RPG fan debate",
+      "excerpt": "Reports that Diablo 4 uniques scale with character level cause fans to ask how they’re unique in Blizzard’s fantasy RPG game as it prepares for more beta tests ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-uniques-scaling-character-level-blizzard-rpg-debate.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately.md",
       "title": "Diablo 4 endgame beta asked testers not to leak it, so they leaked it immediately",
       "excerpt": "Oh well. The Diablo 4 subreddit has already had to clamp down (opens in new tab) on posts from excited beta participants violating their NDAs, but the cat's out of the bag. The internet is already ...",
@@ -1034,57 +1076,6 @@
         "name": "USA Today",
         "domain": "usatoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-blizzard-announces-diablo-4-closed-beta-for-2022.md",
-      "title": "Blizzard Announces Diablo 4 Closed Beta for 2022",
-      "excerpt": "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-blizzard-announces-diablo-4-closed-beta-for-2022/index.json",
-      "webUrl": "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022",
-      "originalUrl": "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
