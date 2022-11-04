@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-sorceress
 type: video
 length: PT11M23S
 publishedDateTime: 2020-12-03T06:04:16Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9FK923_Wjbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1vADXPGjHRLOLlI/E+7DSt/rVZg0R061fdE12PP0rDMfc4vOBSNq7tjAoy685Dawr77o1trACRhJKwapaGY0XMMoECRAogBLbEITrkwdiXGqjsR7SkGEd7RX419zBXsREqIW7iV1336Pt+7BwxRApv3PDG/BZmh6pap43mV8dGk/rrQ1t/M4SUjCGP0orX1UcCJj25sDikn76U0m2HgTHQw4mlRhlGp6XNTo7Ssm5CuVNY2sBKn2xlEPzpHxMSjSFaAjMFUiv2mkBsSyN49s5hApRub9IBd7wowtJ0ZQxD9d5vyQBm/R5dJFZIueg/ypfkuaIscqNQyKpPOiOs/NDHeDAldnKZdQCoodd1aXtUg5oZJfVQ13u07z01+GTzg9bZ9MNkjiq56j9QJnEEVL7MYss1U1sN3uTWYc6iNtx2LJiL1V+vsEU2yJs+qBIwes;MLzAptGpK5A6R0sL6DtyAA=="
+secured: "O/+pZQanuG5piyVHSIlj/J2ZySo81d2/qtQsCHFqu6AXPf9kDYfCAW2r7edrvERJ1LNq94ALieVLBeQSSwZmx7IAZHK/I7nOcx2L5nDMCvGt3vaTtiN5fUrBHrQ9GpQlM9hsXj3orCVUEJRIqg+ci5yvF/MLU6LjUJqqAW3kZeBa2NyCIQoBWVjnjmiHNTFnG8V2LQynpx788ROE/JL3rNUvgllWoTOQDPZ+fgnqXQe4M6J9I6ayjdTVoborMlF76j5PBqWe8jF5fANvEfemiGk+HSi02QP3p+IPG3QoeP4lOoifBXTpNTNPazhgLhYTlnw1j1pqDdJAE2SaQpsqYz0h7/XBBcCXLB7MyhyyCKX0/gGMsGHcDInlRqCMzw+YqDYdzghRRMhahSKfV/WVvh8qXHjkcD+X6Y5bymKS9jacquMmOjawfulFc4AppCy7;pD1AKNchQ7fzfp1GpPr0rw=="
 ---
 
