@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to
 webUrl: "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/"
 type: article
 quality: 122
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.videogameschronicle.com/files/2022/10/diablo-4-necromancer.jpg"
         width: 1600
         height: 675
+        isCached: true
+  - title: "End game beta test for Diablo 4 has been leaked"
+    excerpt: "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ..."
+    publishedDateTime: 2022-10-21T11:33:00Z
+    webUrl: "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/"
+    type: article
+    provider:
+      name: xfire
+      domain: xfire.com
+    quality: 87
+    images:
+      - url: "https://www.xfire.com/wp-content/uploads/2022/10/new-diablo-leak.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo players who got beta access are already leaking Diablo 4 endgame details"
     excerpt: "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ..."

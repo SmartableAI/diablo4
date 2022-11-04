@@ -110,6 +110,20 @@ related:
         width: 1600
         height: 675
         isCached: true
+  - title: "End game beta test for Diablo 4 has been leaked"
+    excerpt: "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ..."
+    publishedDateTime: 2022-10-21T11:33:00Z
+    webUrl: "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/"
+    type: article
+    provider:
+      name: xfire
+      domain: xfire.com
+    quality: 87
+    images:
+      - url: "https://www.xfire.com/wp-content/uploads/2022/10/new-diablo-leak.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo IV Endgame Beta Testers Have Reportedly Been Leaking Footage"
     excerpt: "As you may already know, a Diablo 4 closed beta testing was scheduled for this year, which has gone live a few days earlier apparently, as some invited players have shared their invitation email from ..."
     publishedDateTime: 2022-10-20T14:49:00Z
