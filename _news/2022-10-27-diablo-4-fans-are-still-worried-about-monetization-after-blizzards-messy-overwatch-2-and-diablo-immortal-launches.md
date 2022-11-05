@@ -2,27 +2,27 @@
 category: news
 title: "Diablo 4 fans are still worried about monetization after Blizzard's messy Overwatch 2 and Diablo Immortal launches"
 excerpt: "Diablo 4 fans are growing increasingly concerned about how Blizzard plans to monetize the upcoming RPG following its messy Overwatch 2 and Diablo Immortal launches. As pointed out in this specific ..."
-publishedDateTime: 2022-10-27T05:05:41Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-fans-are-still-worried-about-monetization-after-blizzards-messy-overwatch-2-and-diablo-immortal-launches/ar-AA13ruaT"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-fans-are-still-worried-about-monetization-after-blizzards-messy-overwatch-2-and-diablo-immortal-launches/ar-AA13ruaT"
+publishedDateTime: 2022-10-27T14:21:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-fans-are-still-worried-about-monetization-after-blizzards-messy-overwatch-2-and-diablo-immortal-launches/"
+webUrl: "https://www.gamesradar.com/diablo-4-fans-are-still-worried-about-monetization-after-blizzards-messy-overwatch-2-and-diablo-immortal-launches/"
 type: article
 quality: 65
 heat: 65
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/GSwXfP4vHkngZchRUHXf2k-1200-80.jpg"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
-secured: "+r/Xs0sb29nl4tpC9gfBLelCrR2H0qgb1nXj/QhU7hBoA+3dABU0XZzHAG9uX1zG8B2PWFuIieQjV+MOxBDcu5kp2Zn7TE7HBsmyHGmGs/IcreSFhGkIFYCyx4x5/gAzPBwsl/63e2XButWb1aKstY7Fu4ptVXet8BK7BOwe8Rdt0bjsl7/Zp84M8Tay7BDUa0sdtxA4MlqbPFLGKvcsF6wDzrxi4CVyTgh3bL3z1VS9gEBQOv5YKyyeR/cSC7Osx8w6CgJdLD4oWSCFhFySLYwgTwlawogyFenvHNP+pg1AlKmn9pZeQxMdKDQvm05Lm8MxYr0Z+8+qeA3v2fGZF546YSLCELxvAhzYzLBxjh8=;O+K9igVVDSKTxrsoM5eP6A=="
+secured: "9UPp7PtCYzs/AGW/ZkfIZuMlW8Yx9yt6qutoeMHyutIxrBraxkjIy1nJTOc5lCW0yHFEF/wvEq1nXJaTMW3wMlObDJHpECtDiCHFGMD85XgCAXnZgS9MvyLpwQpdRYwucspm9ymUfwhPUtRbN8ah046RS09K2bqah/lilqsRnVmWWFadiU6sR7gx0/TxZ5kk9SkA+NU2Z504UdXIHYKEspiOyFzESkbBEpI59AbV2slz90FJM9krSejjFyEiuatXZbAhZqW7saHPUMFOQC0pmWp5uZ/noSt3FvHxw8mJYmeB6LSNXe4q+7gHh7A4FjhPUCnNIUTDAtRvTwJiAmR4kJhXcdll5i/L6qJzPcjfdAM=;DFi/sCQ3pI0k4jXV/wkdNw=="
 ---
 
