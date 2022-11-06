@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
+      "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
+      "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat/index.json",
+      "webUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
+      "originalUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022.md",
       "title": "Developers reveal Diablo 4 Closed Beta for late 2022",
       "excerpt": "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression.",
@@ -1071,48 +1113,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises.md",
-      "title": "Diablo 4 Won’t Be Pay-to-Win, Blizzard Promises",
-      "excerpt": "Following the Diablo Immortal fiasco, Blizzard Entertainment has promised that Diablo 4 microtransactions won't have pay-to-win mechanics.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises/index.json",
-      "webUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
-      "originalUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.playstationlifestyle.net/assets/uploads/2022/08/diablo-4-microtransactions.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
-      "cdnAmpWebUrl": "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
-      "publishedDateTime": "2022-08-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PlayStation LifeStyle",
-        "domain": "playstationlifestyle.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

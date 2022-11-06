@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december.md",
+      "title": "Diablo 4 could be launching in April 2023, with preorders going live December",
+      "excerpt": "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-05-diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png",
+          "width": 938,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay.md",
       "title": "Diablo 4 endgame is designed to offer \"thousands of hours\" of gameplay",
       "excerpt": "Diablo 4 players can look forward to a game that just keeps on giving, with the game's general manager Rod Fergusson saying that there will be \"thousands of hours\" of fun to be had. Fergusson was ...",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "NME",
         "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
-      "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
-      "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat/index.json",
-      "webUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
-      "originalUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null
