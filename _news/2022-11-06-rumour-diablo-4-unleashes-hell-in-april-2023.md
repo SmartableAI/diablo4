@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 is reportedly launching in April 2023"
-excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
-publishedDateTime: 2022-11-06T01:43:00Z
-originalUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
-webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
+title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
+excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
+publishedDateTime: 2022-11-06T11:30:00Z
+originalUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
+webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: Push Square
+  domain: pushsquare.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -55,6 +55,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 553
+        isCached: true
+  - title: "Diablo 4 is reportedly launching in April 2023"
+    excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
+    publishedDateTime: 2022-11-06T01:43:00Z
+    webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
+    images:
+      - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
     excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
@@ -98,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
-    excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
-    publishedDateTime: 2022-11-06T11:30:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 87
-    images:
-      - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
     excerpt: "What you need to know Diablo 4 is the next installment in the legendary action RPG series from Blizzard. A rumor over the summer suggested that Diablo 4 may be getting revealed at The Game Awards in ..."
     publishedDateTime: 2022-11-05T17:30:23Z
@@ -127,6 +127,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Fdo69l4BkBEgSNzcE4C3B7da12Kv5odxl8h1Bphlp0bUXPQszEkOpH01GAcxHdNw48B66+oH92wGKb7MTDMLt457BcO0E/t+u4GmaXsXr6jm8Y0VHkI6Co2BMsGpSq7P++hfpFoAlTqvZCKit6T16yyyJLGrvB+1Aoqz7gTeRey2PFq5hwdADDtT16yNUNFhRuWfXwfUO1gTgDiQN/kwjasMBF1Ld26Y70Pf2RL+nLMVZa9Z0sjODfGcRG58HbEhEZ1DjLkeGdAdVtVO3MzLAjuxuQBO3IM75Q7MBkgrF2GhA4xEL1dkwpLyK7w0tLCEkLvo5ukOcNgCV2lPFk47zANZryWLMnf1LqPRYoeu260=;1vXAogpKEJ/Kn8Y6aSg7aA=="
+secured: "Anh1Xgn1bZc20SoZYM9VwrvBAhe1SE+uO7DK4BMBkUU9mBzjIBMBCmENB2N/mkzEWVw+24gvORz02WzvWxC6L/eF1a4DCFdTCtryIN5sRFnljJ0flXS+ev6zDcNDp4JrlEkUXt1qpHfTxcSNaUcRTidOhbd4ZOpO6ItKOo5IlD6vrVE96Kf+xCi5fN9pvzhfqS+hLLxNdXseEjITY+JJQ5FA7gjyj4oorcpm+BnSGGQRwH2Z7b7MJn9sez0vNq01DOuVQ8YliMkrR/wlsnUpQmyAhSdYoF1cohF7O9BLYOmuFlqLG3a7/Q0zourkkGK8QspcJZbzTQoIHU+AqArUCXE9aEeECXlzzOWDqpT6pz4=;2zP9nW6OrppNuBLVwY6PPA=="
 ---
 
