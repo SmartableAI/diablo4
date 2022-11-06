@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-t
 webUrl: "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 675
     isCached: true
 
-secured: "FA3MyDhsc5aK3rh9AC4u7JlURTn2U+XZ7ltko6m+cC6SLKLkAtLuIcW1OVlAJRibw/6xOOaalV0HPLJwb8Pk76R4i+7Nr8oSrr3aLSQxpxiGBzA/KBq5+oNqn7qGL9pqV+9LVytl7DOkMqyk/S0suEo8vqq7rVLTOdnnVQaKuA5t6vjewmLXJ07K1+hMSH+FWu+CWEkvXml8CjR77ufToCNirm+wc0WVf1qPKU0zwBhHJGnjfh8DzF/+ScLej+XKHY7KBQh31yVoP47VXnIVWcaNykxPF/44kWfyMUjhmhT/fFMnT6RAJlOxgtKfuGwRM8RLGCQZKHgOc6YFj9IKadFBaX8DzzcgGsR/r9dw60o=;UvcaoNCkbA1tnvQIr+pXNw=="
+related:
+  - title: "Diablo 4 Wants You To Play Its Endgame For \"Thousands Of Hours\""
+    excerpt: "Diablo 4 is going to be different from Diablo 3 in a number of very important ways, but perhaps most important is the vast amount of testing that’s going into Diablo 4 at every level. And, for the ..."
+    publishedDateTime: 2022-11-04T10:08:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KdM6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=537&y=158"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "sM9INZLXDch+/iMLhKL/JI3MaGIYf+CH1J5rSQ05NoXp9kxEndb9Rm2AhzuDyan4Vbmg2Iqt+jvXkD8+0BaNlhyyJGKc4nFnFQ9NSX+1JMHcrPI/bQMc2bOQDiLuAiWb0GTh9nn07kCr5uObXaGNBjoBJm7lcbz0lBN2ilyyCNPMf+G2rbe/CC/uRGpTPNSx8KYZ/6payCjPqQfao6W6w7+ZbDwlPtsK0az0Wg+hBhTDJEw/tIfvG998mqXcX/XM4tCWAPavztdsDqDy4qP2lqMt9GSrFWZ037BEGVxdHQA+SrrNYCo7gWkx3y2NVf91uugzinOZRrRKet8V8fi184aV9ZYFXTnjvxX/XBFDl1I=;GEHJwXuqPMM4uM7JT1Em6g=="
 ---
 
