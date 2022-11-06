@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Report: Diablo 4’s Release Date Is Shockingly Close"
-excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
-publishedDateTime: 2022-11-06T05:28:00Z
-originalUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+title: "Diablo 4 will reportedly release in April 2023"
+excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
+publishedDateTime: 2022-11-06T12:32:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
+webUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
+  - url: "https://cdn.mos.cms.futurecdn.net/GSwXfP4vHkngZchRUHXf2k-1200-80.jpg"
     width: 1200
-    height: 553
+    height: 675
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
+    excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
+    publishedDateTime: 2022-11-06T05:28:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 553
         isCached: true
   - title: "Diablo 4 is reportedly launching in April 2023"
     excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
@@ -87,20 +97,6 @@ related:
       - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Diablo 4 will reportedly release in April 2023"
-    excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
-    publishedDateTime: 2022-11-06T12:32:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GSwXfP4vHkngZchRUHXf2k-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Rumor: Diablo 4 May Launch in April 2023"
     excerpt: "Sources suggest that Activision Blizzard may be preparing to launch its next flagship ARPG, the long-awaited Diablo 4, in April 2023."
@@ -145,6 +141,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ONZbcotovJWx1zFA0qacEH09kbIrEL2/jaB82fQDnHTYW5vQUcg8kEf8oWUR3xYai00KNlstJth2LbOrtcwVIzvmHjGpjizMkhXMGlN4yYaBQ7dVgGCcct6wVJFr7585y6dVdlBExVVBfe3Y3/Nhg1SLltsiMGFJVvFARxONh1dMmbiXi++F5rXUcwgxatYxBmkK0LJrwuzyhzOVlCg7lMq9YMVaZFKtU33vIqiotUUPNGVFHFQGYrSmvM2FXumoeJAd6NuXP37NZc9S5sSD7X8/SNgJcL/nG9oQj1JCNQsV9e2kDBe1Y3IGnMaBmQP0Js+W3voI5tpPAjOcuh3E+tPgRqNRtnefIJFmIrdVNm8=;H2i1ZO5z5sq3AwEOInnkIw=="
+secured: "bd3cUP6VGGH3CXcMBovyE5yAGYUhfBaCUz/PEyvQ8boTLO675vU+xXOlqcKR782FkV44Y55CMyj/scE6m6zZ2JE2H2s93/dYYFKrxPfDXluB90cOHB3FZhGsrD3ZC/LLL0O7FhMNM2gn/ZdSSSajoiv3MrgxHJfKR+IU27SeekZkUJFETHLAIARUbU5/uxoQMjC165wZ833PDmUqEW434eXQA2WIX1R221WgPKl/oMlA+EjS+eGg+o64vaRzuMMnIKd4QvPB+b4XsKSgAw5DxWaKgAjUvkcxXQEWE5Q+KBb9QTphOG3F35Qa7jE9zp84/l+uzVve7KHbvs+u9OVd3r9NRWNNLaR4o8B+bAZnhlw=;XQ880pZqvwBHfz71iIYvhA=="
 ---
 

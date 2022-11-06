@@ -98,6 +98,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Diablo 4 will reportedly release in April 2023"
+    excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
+    publishedDateTime: 2022-11-06T12:32:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GSwXfP4vHkngZchRUHXf2k-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
     excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
     publishedDateTime: 2022-11-06T11:30:00Z
