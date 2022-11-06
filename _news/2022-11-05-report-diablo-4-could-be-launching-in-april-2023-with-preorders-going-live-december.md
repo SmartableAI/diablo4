@@ -40,6 +40,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
+    excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
+    publishedDateTime: 2022-11-06T01:30:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-reportedly-targets-april-2023-launch/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
 
 secured: "UbytMpDQ/ygWm/McQQXA4qwaeHGCa/pmWUX/XH1YDaAIwiZKsFoj3pjjz7aoSLqpHWFhPbLEiDeuM5JkQd3e31kFMMr49u8V+2pdt8q75CYF+Iqd8cgZCCkBisQpqlrJifqdDrAlU4lM4CPiL6h4aGExv18g/GctEpcYg3yHQyN0ECRtQEI7RZoHtLjwjauUj9tZVrOgKtxwxFBzaoCt06lkEZBYTC8VdxRvC6X4xyhoQ7e1ktIlAi2/bXZK19FetEcD2jv9ia8qR4vVW1U90M+sS5+PDLbpmPWUDRqjOFG12s2rXzipsJ8JOVXsqCJJ3Rwi6IFtKbVtfrs/Q5EZzKSivCW2lYHkRRauX1aPxWE=;WCnqJDjRpWFD39epWk5yyw=="
 ---

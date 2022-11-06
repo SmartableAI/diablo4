@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-repor
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
+    excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
+    publishedDateTime: 2022-11-06T01:30:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-reportedly-targets-april-2023-launch/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
     excerpt: "What you need to know Diablo 4 is the next installment in the legendary action RPG series from Blizzard. A rumor over the summer suggested that Diablo 4 may be getting revealed at The Game Awards in ..."
     publishedDateTime: 2022-11-05T17:30:23Z
