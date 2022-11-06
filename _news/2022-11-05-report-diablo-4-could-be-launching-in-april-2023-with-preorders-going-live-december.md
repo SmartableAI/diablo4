@@ -40,6 +40,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
+    excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
+    publishedDateTime: 2022-11-06T05:28:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 553
+        isCached: true
   - title: "Diablo 4 is reportedly launching in April 2023"
     excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
     publishedDateTime: 2022-11-06T01:43:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Rumor: Diablo 4 May Launch in April 2023"
+    excerpt: "Sources suggest that Activision Blizzard may be preparing to launch its next flagship ARPG, the long-awaited Diablo 4, in April 2023."
+    publishedDateTime: 2022-11-06T06:57:17Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/rumor-diablo-4-may-launch-in-april-2023/ar-AA13NunU"
+    type: article
+    provider:
+      name: GameRant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13NBf5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "UbytMpDQ/ygWm/McQQXA4qwaeHGCa/pmWUX/XH1YDaAIwiZKsFoj3pjjz7aoSLqpHWFhPbLEiDeuM5JkQd3e31kFMMr49u8V+2pdt8q75CYF+Iqd8cgZCCkBisQpqlrJifqdDrAlU4lM4CPiL6h4aGExv18g/GctEpcYg3yHQyN0ECRtQEI7RZoHtLjwjauUj9tZVrOgKtxwxFBzaoCt06lkEZBYTC8VdxRvC6X4xyhoQ7e1ktIlAi2/bXZK19FetEcD2jv9ia8qR4vVW1U90M+sS5+PDLbpmPWUDRqjOFG12s2rXzipsJ8JOVXsqCJJ3Rwi6IFtKbVtfrs/Q5EZzKSivCW2lYHkRRauX1aPxWE=;WCnqJDjRpWFD39epWk5yyw=="

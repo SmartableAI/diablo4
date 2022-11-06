@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Diablo 4 is reportedly launching in April 2023"
-excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
-publishedDateTime: 2022-11-06T01:43:00Z
-originalUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
-webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
+title: "Report: Diablo 4’s Release Date Is Shockingly Close"
+excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
+publishedDateTime: 2022-11-06T05:28:00Z
+originalUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
+webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
+ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 553
     isCached: true
 
 related:
@@ -40,21 +46,19 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
-    excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
-    publishedDateTime: 2022-11-06T05:28:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+  - title: "Diablo 4 is reportedly launching in April 2023"
+    excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
+    publishedDateTime: 2022-11-06T01:43:00Z
+    webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 553
+      - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
     excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
@@ -99,6 +103,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Fdo69l4BkBEgSNzcE4C3B7da12Kv5odxl8h1Bphlp0bUXPQszEkOpH01GAcxHdNw48B66+oH92wGKb7MTDMLt457BcO0E/t+u4GmaXsXr6jm8Y0VHkI6Co2BMsGpSq7P++hfpFoAlTqvZCKit6T16yyyJLGrvB+1Aoqz7gTeRey2PFq5hwdADDtT16yNUNFhRuWfXwfUO1gTgDiQN/kwjasMBF1Ld26Y70Pf2RL+nLMVZa9Z0sjODfGcRG58HbEhEZ1DjLkeGdAdVtVO3MzLAjuxuQBO3IM75Q7MBkgrF2GhA4xEL1dkwpLyK7w0tLCEkLvo5ukOcNgCV2lPFk47zANZryWLMnf1LqPRYoeu260=;1vXAogpKEJ/Kn8Y6aSg7aA=="
+secured: "ONZbcotovJWx1zFA0qacEH09kbIrEL2/jaB82fQDnHTYW5vQUcg8kEf8oWUR3xYai00KNlstJth2LbOrtcwVIzvmHjGpjizMkhXMGlN4yYaBQ7dVgGCcct6wVJFr7585y6dVdlBExVVBfe3Y3/Nhg1SLltsiMGFJVvFARxONh1dMmbiXi++F5rXUcwgxatYxBmkK0LJrwuzyhzOVlCg7lMq9YMVaZFKtU33vIqiotUUPNGVFHFQGYrSmvM2FXumoeJAd6NuXP37NZc9S5sSD7X8/SNgJcL/nG9oQj1JCNQsV9e2kDBe1Y3IGnMaBmQP0Js+W3voI5tpPAjOcuh3E+tPgRqNRtnefIJFmIrdVNm8=;H2i1ZO5z5sq3AwEOInnkIw=="
 ---
 
