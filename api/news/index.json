@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-05-diablo-4-report-leaks-april-release-date.md",
+      "title": "Diablo 4 Report Leaks April Release Date",
+      "excerpt": "And of course, if any information about a specific day in April emerges, we will also be sure to update the story. Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-05-diablo-4-report-leaks-april-release-date/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/",
+      "publishedDateTime": "2022-11-05T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december.md",
       "title": "Diablo 4 could be launching in April 2023, with preorders going live December",
       "excerpt": "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ...",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "Eurogamer",
         "domain": "eurogamer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked.md",
-      "title": "Test footage from ‘Diablo 4’ appears to have leaked",
-      "excerpt": "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked/index.json",
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null
