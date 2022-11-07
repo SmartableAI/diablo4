@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 will allegedly launch in April 2023"
-excerpt: "Rumour has it, Blizzard may be set to release Diablo 4 in April 2023. That's according to the XboxEra podcast and ..."
-publishedDateTime: 2022-11-06T10:16:00Z
-originalUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
-webUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
+title: "Diablo 4 Reportedly Headed For April 2023 Launch"
+excerpt: "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April."
+publishedDateTime: 2022-11-07T12:04:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: SlashGear on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
-    width: 1600
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -82,6 +82,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Diablo 4 will allegedly launch in April 2023"
+    excerpt: "Rumour has it, Blizzard may be set to release Diablo 4 in April 2023. That's according to the XboxEra podcast and ..."
+    publishedDateTime: 2022-11-06T10:16:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Rumor: Diablo 4 May Launch in April 2023"
     excerpt: "Sources suggest that Activision Blizzard may be preparing to launch its next flagship ARPG, the long-awaited Diablo 4, in April 2023."
     publishedDateTime: 2022-11-06T06:57:17Z
@@ -124,20 +138,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Diablo 4 Reportedly Headed For April 2023 Launch"
-    excerpt: "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April."
-    publishedDateTime: 2022-11-07T12:04:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI"
-    type: article
-    provider:
-      name: SlashGear on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "‘Diablo 4’ reportedly set to arrive in April 2023"
     excerpt: "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ..."
     publishedDateTime: 2022-11-07T06:14:00Z
@@ -153,6 +153,6 @@ related:
         height: 1270
         isCached: true
 
-secured: "kjQviEp5oXJyCvm9Q2MhN1J0WgwabqfP2GKjBcUMqOpRM7yjHSsp0YhGVz8VNvKpx6jsuqqf0HP3C6c3FTLbXmlne3Jh7MXxXUUNUSFsX7V+zw7ggfNGCYr3T7o20YtlGe489WIVXUAKhhdQ/FRU40xFfoESzBBkgdEzBFJMAZEyZkl89mZJCMLazsDghv7Smsr9IcRyj/FgV8k47+zgxsE7022zmRXEjO05lGlr/lv3cpsMC1ivQuwsFRq4fF6L/y/7h2eWtC4e8P6Pg47WItoJ2+FHYl84w1oR4xmYIo9NzEFNI3DgviHTIIaKiJG8wt/jJHvUyOYl5LZabb/bE8Ej6hhNg7Y0jut6x38LSsE=;NTxU8HiCG6mneGZt4DDe7w=="
+secured: "xG+l3CmJNGw4AHNEwTH13q4XCQQhVt3tIS9buP63JbJ4BqeFn7FF8JVVsVV5tvl2o1wQvBDCDpT/G3lk5ZD7Jp7E6NJ2eNJ3YFzseluJLzRuH+O0KmKlOJw7N93HqGat08OmKgZPd/bMROIoQcuoRlnl/y7xqob2n1iHgts0ICRcSkgt3YGSxxXRv/nHApl49HKKcXPCbcKWFNzDisW17LUmp6rcEKQGfDfJEOuBFhjPrkdQxxAJ++uQlIJJKLUM63wnLRm2TpvcL/d2+iwibGCexvoDg9GEKgCVwFPmQOKo2z9wRgqAunq10gPQoOAqw1jrDF7Ek1kYMh+JoqZdnvhk6WUNyRmhgl1SIUMfbrA=;2GbvaUZVuNWl+F8IaE45HQ=="
 ---
 

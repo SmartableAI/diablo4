@@ -138,6 +138,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Diablo 4 Reportedly Headed For April 2023 Launch"
+    excerpt: "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April."
+    publishedDateTime: 2022-11-07T12:04:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI"
+    type: article
+    provider:
+      name: SlashGear on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "3/EnY8XxtiSXP8ccAhBr0q0tebzISyDNJi6jUPaSqzyY+yjqlB2BtI3nUwQ86o6TjpIwkLgsDwXH5UVFJPXbKSMtYF9t3k0ckQ3HQyKV2TB8p3EI5QYPQ1dYcC4dcM6rLlPNuG2kM/d2kBQ9y3Cb+U4K/LHL6jeKl/SveLXNfiw4W7KNustlTxSJJJsSiq3hfa23nz5hiMEs6y9r2kGondPG/LTl230vpBFTCqDi5wse7LqSx8j6N4ZuMNfa5o2HjTwAYZyiJKrZrJeMImPp/zjMyH/kqM/+HEi13nZ5ycjVLamclQwVguWNFNqH3J99gnHqARgXHvg40RTImcYxSRPRgqAPbqkOk+saRSrcQ3I=;730l2e6VPultAkHUR0GyIg=="
 ---

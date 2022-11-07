@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-01-10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4.md",
+      "title": "10 games like Diablo to play if you're bored of waiting for Diablo 4",
+      "excerpt": "Here are the 10 best games like Diablo that you really should play, especially if you're getting a little bored of waiting for Diablo 4 to release. While Diablo Immortal for mobile and PC certainly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-01-10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4/index.json",
+      "webUrl": "https://www.msn.com/en-gb/finance/technology/10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4/ar-AAXYAEY",
+      "originalUrl": "https://www.msn.com/en-gb/finance/technology/10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4/ar-AAXYAEY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAXYDyA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T04:41:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard.md",
       "title": "Diablo 4 Opens Up about Development Updates From Blizzard",
       "excerpt": "Blizzard Entertainment comes with such exciting updates for the fans of Diablo 4 based on the current status of the new update on the current development of Diablo 4. After the announcement all way ...",
@@ -1024,48 +1066,6 @@
       "provider": {
         "name": "Sportskeeda",
         "domain": "sportskeeda.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress.md",
-      "title": "‘Diablo 4’ development update provides new details on current progress",
-      "excerpt": "The development team has \"made big strides\" with Diablo IV. Blizzard Entertainment has shared an update on the development of Diablo 4. In a new Blizzard blog post, the developers confirmed that the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-development-update-provides-new-details-on-current-progress/index.json",
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2021/02/diablo-iv-rogue@2000x1270.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/en_asia/news/gaming-news/diablo-4-development-update-provides-new-details-on-current-progress-3124460?amp",
-      "publishedDateTime": "2021-12-21T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

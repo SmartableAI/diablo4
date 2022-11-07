@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-world-tiers-will-be-g
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-world-tiers-will-be-gatekept-by-powerful-world-bosses/1100-6508965/"
 type: article
 quality: 147
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1589
     height: 894
     isCached: true
+
+related:
+  - title: "Diablo 4 endgame has a level 100 boss that “gatekeeps” world tiers"
+    excerpt: "The Diablo 4 endgame will have a mammoth level 100 boss that players will need to defeat to progress through different world tiers in Blizzard's action RPG game ..."
+    publishedDateTime: 2022-11-07T12:11:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/endgame-boss-world-tier"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-endgame-bosses-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "6R60u7S1X7Co9a54LuEbU6qq9zKKZAh1qO/fkOTVPw8BkU+bnKaHcvejGGsf0OMqvxzIbdniTiOmKEFMr6QNK2wkhzRjYqrJOOuMHC1PhpzBe0PfPf2/Jq8Rtrh+R0oqZaU0cRgIUZ/vcKFrEQIotiABfsRWT2N2igUS4fgBIogFvC+kHldT8DA6M/NwcF8uj7LixrAViNoKVurPbweOsEURgwYAEVDtQ+puZd4SDhXOCl23I5CP3rP+4cq7DtgWvbmw9X2fYnMQEK783fC/e7raaQrQKdK+3idjnQ0sY6mVGzOaA4scF/Lhny7I9IijbQdSu9oXmOfVQT2KsDt/gdV6U40rT3FdxE8X3eN5DRI=;zIF1IdWqVi0foNvIQNAg2Q=="
 ---

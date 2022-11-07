@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
+      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
+      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide.md",
       "title": "Diablo 4 Rogue class, skills, and imbue system guide",
       "excerpt": "Looking to find out more about the Diablo 4 Rogue class? Look no further. Created to fulfil a dexterity role, Rogue is a truly hybrid character who combines her excellence in both range and melee ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online.md",
-      "title": "Diablo 4 Test Build Leaks Already Surfacing Online",
-      "excerpt": "As leaks typically are when it comes to an upcoming game, the leaks from whatever Diablo 4 test is going on now have been spotted here and there throughout the game's subreddit. One such post pulls ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
-      "publishedDateTime": "2022-08-06T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
