@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Hey Everyone! Kyle here ! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=IrTta5nR4ys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrTta5nR4ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T08:05:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kyle Stencell Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-diablo-4-everything-we-know.md",
       "title": "Diablo 4: Everything we know",
       "excerpt": "The latest on Diablo 4's classes, world, trailers, and everything else we know about it. After years of speculation and rumors, Blizzard finally revealed Diablo 4 during BlizzCon 2019. It wasn't a ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch.md",
-      "title": "Diablo 4's Alpha Has Begun, But There's A Catch",
-      "excerpt": "Some gamers are getting to play Diablo 4's alpha build, but there's a catch: the alpha is for friends and family only.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch/index.json",
-      "webUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
-      "originalUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.svg.com/img/gallery/diablo-4s-alpha-has-begun-but-theres-a-catch/l-intro-1659716552.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "svg",
-        "domain": "svg.com",
         "images": null,
         "publishers": null,
         "authors": null

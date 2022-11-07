@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-07-diablo-4s-release-month-has-reportedly-been-revealed.md",
+      "title": "Diablo 4's Release Month Has Reportedly Been Revealed",
+      "excerpt": "The site went on to say that Diablo 4, which was announced in 2019, will appear during The Game Awards in December. Blizzard will ramp up Diablo 4 marketing soon, beginning during The Game Awards in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4s-release-month-has-reportedly-been-revealed/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/",
+      "publishedDateTime": "2022-11-07T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft.md",
       "title": "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft",
       "excerpt": "A new trailer for Diablo 4 is rumoured for The Game Awards 2022 and will announce a release date and pre-order details. While it was confirmed for a 2023 launch back at the June Xbox showcase, neither ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -170,6 +221,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-06-diablo-4-release-date-set-for-april-2024-according-to-reports.md",
+      "title": "Diablo 4 Release Date Set for April 2024 - According to Reports",
+      "excerpt": "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-diablo-4-release-date-set-for-april-2024-according-to-reports/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report",
+      "originalUrl": "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-06T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-06-seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected.md",
       "title": "Seems The Diablo 4 Release Date Could Be A Lot Closer Than We Expected",
       "excerpt": "Another pull from the Activision Blizzard rumour mill this morning: it seems Blizzard could be preparing Diablo 4 for launch in April 2023. The current thinking is that, if Blizzard has anything to ...",
@@ -178,7 +271,7 @@
       "originalUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -199,48 +292,6 @@
       "provider": {
         "name": "Kotaku Australia",
         "domain": "kotaku.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-diablo-4-report-leaks-april-release-date.md",
-      "title": "Diablo 4 Report Leaks April Release Date",
-      "excerpt": "And of course, if any information about a specific day in April emerges, we will also be sure to update the story. Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-05-diablo-4-report-leaks-april-release-date/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 427,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/",
-      "publishedDateTime": "2022-11-05T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1033,48 +1084,6 @@
       "provider": {
         "name": "Pocket-lint",
         "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg.md",
-      "title": "Diablo 4 skills are tied to weapon damage in Blizzard RPG",
-      "excerpt": "A video showing that Diablo 4 skills are tied to weapon damage in the Blizzard ARPG game has fans discussing the benefits of the Diablo 3 vs Diablo 2 systems ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-skills-tied-weapon-dps-necromancer-blizzard-rpg.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

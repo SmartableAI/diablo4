@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Report: Diablo 4’s Release Date Is Shockingly Close"
-excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
-publishedDateTime: 2022-11-06T05:28:00Z
-originalUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+title: "The Diablo 4 release date has been leaked, and it’s very soon"
+excerpt: "According to several sources, Diablo 4 is launching much sooner than we expected, with it being planned for a reveal during The Game Awards 2022."
+publishedDateTime: 2022-11-07T08:34:00Z
+originalUrl: "https://en.as.com/meristation_en/2022/11/07/news/1667837734_015373.html"
+webUrl: "https://en.as.com/meristation_en/2022/11/07/news/1667837734_015373.html"
+ampWebUrl: "https://en.as.com/meristation_en/2022/11/07/news/1667837734_015373.amp.html"
+cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/11/07/news/1667837734_015373.amp.html"
 type: article
 quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: as.com
+  domain: as.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
+  - url: "https://as01.epimg.net/meristation_en/imagenes/2022/11/07/news/1667837734_015373_1667838602_portada_normal.jpg"
     width: 1200
-    height: 553
+    height: 675
     isCached: true
 
 related:
@@ -62,21 +58,21 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "The Diablo 4 release date has been leaked, and it’s very soon"
-    excerpt: "According to several sources, Diablo 4 is launching much sooner than we expected, with it being planned for a reveal during The Game Awards 2022."
-    publishedDateTime: 2022-11-07T08:34:00Z
-    webUrl: "https://en.as.com/meristation_en/2022/11/07/news/1667837734_015373.html"
-    ampWebUrl: "https://en.as.com/meristation_en/2022/11/07/news/1667837734_015373.amp.html"
-    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/11/07/news/1667837734_015373.amp.html"
+  - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
+    excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
+    publishedDateTime: 2022-11-06T05:28:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
     type: article
     provider:
-      name: as.com
-      domain: as.com
+      name: Forbes
+      domain: forbes.com
     quality: 107
     images:
-      - url: "https://as01.epimg.net/meristation_en/imagenes/2022/11/07/news/1667837734_015373_1667838602_portada_normal.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 553
         isCached: true
   - title: "Diablo 4 will reportedly release in April 2023"
     excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
@@ -107,6 +103,6 @@ related:
         height: 428
         isCached: true
 
-secured: "ONZbcotovJWx1zFA0qacEH09kbIrEL2/jaB82fQDnHTYW5vQUcg8kEf8oWUR3xYai00KNlstJth2LbOrtcwVIzvmHjGpjizMkhXMGlN4yYaBQ7dVgGCcct6wVJFr7585y6dVdlBExVVBfe3Y3/Nhg1SLltsiMGFJVvFARxONh1dMmbiXi++F5rXUcwgxatYxBmkK0LJrwuzyhzOVlCg7lMq9YMVaZFKtU33vIqiotUUPNGVFHFQGYrSmvM2FXumoeJAd6NuXP37NZc9S5sSD7X8/SNgJcL/nG9oQj1JCNQsV9e2kDBe1Y3IGnMaBmQP0Js+W3voI5tpPAjOcuh3E+tPgRqNRtnefIJFmIrdVNm8=;H2i1ZO5z5sq3AwEOInnkIw=="
+secured: "jRYRdRKyaco/l7bmQhoMrwt5vnZ8d7ODaYKRhPELkfuQwbcEhn/PhUJ8yA2pmaYN4lKkD4LCPD5u1TmyxSZB34FgdeYL89R5NOOROWq7LTuXUkZKWeU0T2YiwBCMpDTtbzcMXUs01F+FUGLLLAEeFNnhPTNaplC2vXY1op8XKFxw4muGfWyfzUYRRuHvxSC4NxX5XZB5WU3cFKlmAIJi6kJohzZv/1flfEOhWjo5vXrc5ui1uvw0ri+g02TIDvlJAU7cfotqQzgdSeJwnpHowtpL+sTSf9z7ey0WgPiWoN+01jzzl2N0SCZ/HKyHJt0jGgyrZZ0Vvcclyf6Wg4zp2Q1ISnEJRF9yYkzracKADQk=;iL2oZhytvmWYBu40Wqdr7A=="
 ---
 
