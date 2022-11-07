@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
-excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
-publishedDateTime: 2022-11-06T11:30:00Z
-originalUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
-webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
+title: "Rumor: Diablo 4 Releasing This Coming April"
+excerpt: "An new leak with several sources claims that Diablo 4 has already been pegged for release as soon as April of next year."
+publishedDateTime: 2022-11-07T03:35:00Z
+originalUrl: "https://gameranx.com/updates/id/396032/article/rumor-diablo-4-releasing-this-coming-april/"
+webUrl: "https://gameranx.com/updates/id/396032/article/rumor-diablo-4-releasing-this-coming-april/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Push Square
-  domain: pushsquare.com
+  name: Gameranx
+  domain: gameranx.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
-    width: 1280
-    height: 720
+  - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
+    excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
+    publishedDateTime: 2022-11-06T11:30:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
+    type: article
+    provider:
+      name: Push Square
+      domain: pushsquare.com
+    quality: 87
+    images:
+      - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 claimed to be launching in April 2023"
     excerpt: "Diablo 4 could launch in April 2023, if new rumours are accurate. It's also alleged that the game's release date will be set at The Game Awards on December 8th."
     publishedDateTime: 2022-11-07T03:46:00Z
@@ -195,20 +209,6 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-release-date-april-pre-orders.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Rumor: Diablo 4 Releasing This Coming April"
-    excerpt: "An new leak with several sources claims that Diablo 4 has already been pegged for release as soon as April of next year."
-    publishedDateTime: 2022-11-07T03:35:00Z
-    webUrl: "https://gameranx.com/updates/id/396032/article/rumor-diablo-4-releasing-this-coming-april/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 87
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diablo 4 Release Reportedly Targeting April 2023, Preorders Live In December"
     excerpt: "Diablo 4 could be launching in April 2023, according to sources at both Windows Central and the team at the XboxEra podcast. Blizzard is reportedly planning a significant marketing campaign for Diablo ..."
@@ -253,6 +253,6 @@ related:
         height: 568
         isCached: true
 
-secured: "Anh1Xgn1bZc20SoZYM9VwrvBAhe1SE+uO7DK4BMBkUU9mBzjIBMBCmENB2N/mkzEWVw+24gvORz02WzvWxC6L/eF1a4DCFdTCtryIN5sRFnljJ0flXS+ev6zDcNDp4JrlEkUXt1qpHfTxcSNaUcRTidOhbd4ZOpO6ItKOo5IlD6vrVE96Kf+xCi5fN9pvzhfqS+hLLxNdXseEjITY+JJQ5FA7gjyj4oorcpm+BnSGGQRwH2Z7b7MJn9sez0vNq01DOuVQ8YliMkrR/wlsnUpQmyAhSdYoF1cohF7O9BLYOmuFlqLG3a7/Q0zourkkGK8QspcJZbzTQoIHU+AqArUCXE9aEeECXlzzOWDqpT6pz4=;2zP9nW6OrppNuBLVwY6PPA=="
+secured: "+pnNt4nvdQJ7Jl5ImPYDlQO0HSzY6OBfs835LQ0cdHeS/qNqpu5fP6wH/ydZsYp6yB/XOY7YNGajsczTIdpBHb0U01FnS0XM2qM1RtehbILkyENR2q9ngRRGcAKiqzieWKWIWZW7yJmo7pmXOniljVierO6ysodibQHuQKh909Fsd8vQ4gSneV9Fj3fF+pzvryGCmv9sTNcK8GIz72LCQ8DV7S1xKcekM0e1UbSIr2E4t5g3a7AAmOval5HTSmL2aiIZ+TsHp77r923ThekuB2DcTgPJsUxVFzaxk5MUf/dr4GbniUIpSaVG/F2Ac/AuFo3iCGF4M7ZHFMZfgEzfHpu8z6xe2z38Z214BB7IACM=;Gk9k3qSwfft9OPN8IwQDjA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/96572-diablo-4-could-launch-april-20
 webUrl: "https://www.techspot.com/news/96572-diablo-4-could-launch-april-2023-pre-orders.html"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 could be launching in April 2023, with preorders going live December"
-    excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."
-    publishedDateTime: 2022-11-05T17:30:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
+  - title: "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft"
+    excerpt: "A new trailer for Diablo 4 is rumoured for The Game Awards 2022 and will announce a release date and pre-order details. While it was confirmed for a 2023 launch back at the June Xbox showcase, neither ..."
+    publishedDateTime: 2022-11-07T05:30:00Z
+    webUrl: "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/"
+    ampWebUrl: "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 84
+      name: Metro
+      domain: metro.co.uk
+    quality: 102
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png"
-        width: 938
-        height: 568
+      - url: "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276"
+        width: 600
+        height: 276
         isCached: true
 
 secured: "6yF2Y7uCLuxsoYTTYuLjLGvNZmZNZ1rBzUdxN8HYGclyJt3prOBkkd2PlbUNwdWvEe3A4LmqDrXo7SUCiQNz0Mks9jh5nQHYI3znggdcrDNMlpvPwYfvtHm5KA2LSyIT6IiRf7jwHZB9taocbSLwhpJ0u2xhLGRo9n8KqsriCo09kCc13dJXfe+qY+zsZz7NPiGU7oVXlbixB8B4wp+mQKOqrXahluVEv+1zk36WCMIO6owIdzCCQEbaRvAtgT2puiaFRRvA2LF1bMPpySvkj+UsVfxLB+S1/UaBGpCi/S4jfxO59DSZ9nHD+wn4DIoTrFYFZW3lVWf7s9q8GUFGDyVCXfE6SH/ADJ5Uv2bdTE4=;nkk+1zMLt8cwYnL2GV8lfw=="

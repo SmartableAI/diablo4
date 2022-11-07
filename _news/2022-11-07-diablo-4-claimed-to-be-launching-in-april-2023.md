@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
-excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
-publishedDateTime: 2022-11-06T11:30:00Z
-originalUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
-webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
+title: "Diablo 4 claimed to be launching in April 2023"
+excerpt: "Diablo 4 could launch in April 2023, if new rumours are accurate. It's also alleged that the game's release date will be set at The Game Awards on December 8th."
+publishedDateTime: 2022-11-07T03:46:00Z
+originalUrl: "https://www.rockpapershotgun.com/diablo-4-claimed-to-be-launching-in-april-2023"
+webUrl: "https://www.rockpapershotgun.com/diablo-4-claimed-to-be-launching-in-april-2023"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Push Square
-  domain: pushsquare.com
+  name: Rock Paper Shotgun
+  domain: rockpapershotgun.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets2.rockpapershotgun.com/diablo-4-battle-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-battle-art.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -168,19 +168,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 claimed to be launching in April 2023"
-    excerpt: "Diablo 4 could launch in April 2023, if new rumours are accurate. It's also alleged that the game's release date will be set at The Game Awards on December 8th."
-    publishedDateTime: 2022-11-07T03:46:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-claimed-to-be-launching-in-april-2023"
+  - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
+    excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
+    publishedDateTime: 2022-11-06T11:30:00Z
+    webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
     type: article
     provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
+      name: Push Square
+      domain: pushsquare.com
     quality: 87
     images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-4-battle-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-battle-art.jpg"
-        width: 1600
-        height: 900
+      - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 release date supposedly set for April, pre-orders soon"
     excerpt: "The Diablo 4 release date has supposedly been set for April 2023, with pre-orders for the next chapter of Blizzard's woeful RPG saga set to drop in December ..."
@@ -253,6 +253,6 @@ related:
         height: 568
         isCached: true
 
-secured: "Anh1Xgn1bZc20SoZYM9VwrvBAhe1SE+uO7DK4BMBkUU9mBzjIBMBCmENB2N/mkzEWVw+24gvORz02WzvWxC6L/eF1a4DCFdTCtryIN5sRFnljJ0flXS+ev6zDcNDp4JrlEkUXt1qpHfTxcSNaUcRTidOhbd4ZOpO6ItKOo5IlD6vrVE96Kf+xCi5fN9pvzhfqS+hLLxNdXseEjITY+JJQ5FA7gjyj4oorcpm+BnSGGQRwH2Z7b7MJn9sez0vNq01DOuVQ8YliMkrR/wlsnUpQmyAhSdYoF1cohF7O9BLYOmuFlqLG3a7/Q0zourkkGK8QspcJZbzTQoIHU+AqArUCXE9aEeECXlzzOWDqpT6pz4=;2zP9nW6OrppNuBLVwY6PPA=="
+secured: "QPgkdY4X4kjvBOgNlkPJ7e1HyhQgoeJlTZKTv7q1420RV7iyVxg9G8NMq48+H9zxw+mkXwLIto7qJDktuoaCRU/yRstxdo0p/no/pVdO1lwlhaoXBG3w1eBSwuoAKHCw9fU8B71LmjdVWrnXFt0MFOv6XWK3jljkS0O/VOG1HtkZi+hsgoGERjK+Ie9qkIqicqxQruQsmi6zXJntlKOLR5D5e6+QpUPxl64RfTve1o6W7W3qyYzB8VsasVIZPNP7RxWrMg/H2QtYjWD1g5581/FR2ZQ7/cvogdSv0RovkByhbrrv0nsXGoxAUm13MYUfp/f5vve7UDRfbFzL0L7L+0Hx6s4NphHhXz5XyuxrNvw=;VAAsBCSHgsXuwQjYugow4A=="
 ---
 

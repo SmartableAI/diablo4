@@ -7,8 +7,8 @@ originalUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-
 webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Windows Central
@@ -22,22 +22,6 @@ images:
     width: 938
     height: 568
     isCached: true
-
-related:
-  - title: "Diablo 4 could launch in April 2023, open pre-orders next month"
-    excerpt: "several reports have narrowed the release date for the highly anticipated Diablo 4 down to April 2023. Blizzard hasn't been more specific than \"sometime in 2023\" when it comes to Diablo 4's release ..."
-    publishedDateTime: 2022-11-07T02:47:00Z
-    webUrl: "https://www.techspot.com/news/96572-diablo-4-could-launch-april-2023-pre-orders.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "QZCT1dYXbEeP1Vj0CkZjoGebxmj0EzuC/6ilYkZgf5z7Q3j9iMYSymXAWojIenhsD/szl4Q3Tdejp2kjjJOOKnslrccTFVETGNszCXltWQPAF3TAsnHALe5tI72a0PaWQU7xWRXs+UNruj9rkC4BWlYz8ibFs8OOZEZrQ4k8FvjgfT3qvWLvFLBOkx6fAD+8jr9R/cNAmvwi9a1vnZQSAgwYEYTZc+ONxLWMdYADLV6CFtsgHl4cGyyerm0/H1oWuOXe8v3JufHVAflu1s3WGHDuVL/DicLAiI1NMJ3kRgleNsmRiHeVF24ClQ+xrcb3mmiWT3csE2NDT5SIhAxCrf2zGvgb8m6NlCICBfEwQnA=;P2i5/Yn54aV+IhUPxAK9kg=="
 ---
