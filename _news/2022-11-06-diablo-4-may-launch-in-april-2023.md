@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4 is reportedly launching in April 2023"
-excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
-publishedDateTime: 2022-11-06T01:43:00Z
-originalUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
-webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
+title: "Diablo 4 May Launch In April 2023"
+excerpt: "Rumor says Diablo 4 is reported to release in April 2023, with preorders open in December. More recently, reports suggested that Blizzards Diablo 4 would be shown off on the Game Awards 2022 show on ..."
+publishedDateTime: 2022-11-06T17:50:00Z
+originalUrl: "https://techstory.in/diablo-4-may-launch-in-april-2023/"
+webUrl: "https://techstory.in/diablo-4-may-launch-in-april-2023/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Video Games Chronicle
-  domain: videogameschronicle.com
+  name: tech
+  domain: techstory.in
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
+  - url: "https://techstory.in/wp-content/uploads/2022/11/diablo-4.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -56,17 +56,17 @@ related:
         width: 1200
         height: 553
         isCached: true
-  - title: "Diablo 4 May Launch In April 2023"
-    excerpt: "Rumor says Diablo 4 is reported to release in April 2023, with preorders open in December. More recently, reports suggested that Blizzards Diablo 4 would be shown off on the Game Awards 2022 show on ..."
-    publishedDateTime: 2022-11-06T17:50:00Z
-    webUrl: "https://techstory.in/diablo-4-may-launch-in-april-2023/"
+  - title: "Diablo 4 is reportedly launching in April 2023"
+    excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
+    publishedDateTime: 2022-11-06T01:43:00Z
+    webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
     quality: 87
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/diablo-4.jpg"
+      - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -169,6 +169,6 @@ related:
         height: 568
         isCached: true
 
-secured: "Fdo69l4BkBEgSNzcE4C3B7da12Kv5odxl8h1Bphlp0bUXPQszEkOpH01GAcxHdNw48B66+oH92wGKb7MTDMLt457BcO0E/t+u4GmaXsXr6jm8Y0VHkI6Co2BMsGpSq7P++hfpFoAlTqvZCKit6T16yyyJLGrvB+1Aoqz7gTeRey2PFq5hwdADDtT16yNUNFhRuWfXwfUO1gTgDiQN/kwjasMBF1Ld26Y70Pf2RL+nLMVZa9Z0sjODfGcRG58HbEhEZ1DjLkeGdAdVtVO3MzLAjuxuQBO3IM75Q7MBkgrF2GhA4xEL1dkwpLyK7w0tLCEkLvo5ukOcNgCV2lPFk47zANZryWLMnf1LqPRYoeu260=;1vXAogpKEJ/Kn8Y6aSg7aA=="
+secured: "gQgzb/gXPRbpbiOfgrLNN0MVbE26dFs/STCXlI0tZWWkINmV/B4eeA/esYB3moFQgq964mKDCs2f1puWBJzb7OUCHSAGasqDSelacG93qoPOFML4iERD/bu4YoojqXFeUmSD0PeYWdemovwdZR+53bRiFz1fGmPmaN6ZP3Y+WrN4mmShg/qZPsbGA2NcxAu3JdWE/QTai3BTxn6u/2J0e7Zte3yVbD/BO5KyhCKbAZe0a7LHl2ZjherEQh96/N+/PH4aoGrhYCgko26F/ru/s3dtqIK6xXJ4WowzPhlLBFSe9eUvz+vu6jIupcOpiK9bhbRVUftUbm0ZsULKrNlURgr1wiF0VcLndvc06hAD4tQ=;9Y3/IO73Ijy569MDChRa4g=="
 ---
 

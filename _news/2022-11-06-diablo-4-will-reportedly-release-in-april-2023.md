@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Diablo 4 will reportedly release in April 2023"
-excerpt: "Another day, another release day rumor, this one about Blizzard's upcoming Diablo 4.If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in ..."
+excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
 publishedDateTime: 2022-11-06T12:32:10Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
@@ -67,6 +67,20 @@ related:
     quality: 87
     images:
       - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 May Launch In April 2023"
+    excerpt: "Rumor says Diablo 4 is reported to release in April 2023, with preorders open in December. More recently, reports suggested that Blizzards Diablo 4 would be shown off on the Game Awards 2022 show on ..."
+    publishedDateTime: 2022-11-06T17:50:00Z
+    webUrl: "https://techstory.in/diablo-4-may-launch-in-april-2023/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 87
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/11/diablo-4.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -155,6 +169,6 @@ related:
         height: 568
         isCached: true
 
-secured: "Dpb7zAbbH1m1t3epFA7OmMoANrBfu/AKZPBrz74c9469xbuzlaUlaAB6r+eIwAb0Pjmnes8Zo7wPIWOHzP6pCURIhHPzdsKE1GpuwqxPICLYSTO6wxvlSws1eQ7R7XgBAHV3cBFwEfKp4BHrQ1Qeij+LDK3Ygih3xjXpGfn0yu5ZuJMvYH1F25eTl5btmQJa7LdTsf3mMGkHva/1a3IBY+4ZaA01seSXg0t5My4y96UN1PFMpUdQCe0MWCrEpaV5m0RFrZQs7ETFgErcIEH8Q22XT8wYmsvrGAQa5x57JlICZXdWXBDL2ozpS7ivlCdFti9Jd+beRcW9G7SxEiQTFnAQeTmFfQvnm0jMMcfLRLg=;ExG1cOYweQeu57IX0ZruNA=="
+secured: "juUc3xWjMmegwu7DG3eJnxgLafcCYOWnvyHuMhWTSreSKMglOybiIlGUpNe6XtCxl/xKoU2EL0LqSBu0GmRTU6UFRpLEqq7SBqbmY7Dn55Aziy8A1mxRxr97iRH5lerMChg6GW6ILpth/nXGKVd2qot4JeHIS5Li66RKzcZjOQic1JZaWdiuNa5VTCMFGfmuGuUrmyXR4NbPCmSNmou9z4rrqew2q4gzpd1ewJeq96CD2gpV/ekq7y+Ehg49ZIptNYCrN3LAPtMnboR0eJ1W0lVbC2bLnLuwUoyuIi5X8PGjxeLt1IgxkVKDwmsaS34SObYkRP8tfdDUghkOmNdCYgKtdfqjNoVcjv50de65APY=;4GtsQaEzImRtNtQzavRnuw=="
 ---
 
