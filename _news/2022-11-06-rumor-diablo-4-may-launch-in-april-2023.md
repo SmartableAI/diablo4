@@ -99,18 +99,18 @@ related:
         height: 900
         isCached: true
   - title: "Diablo 4 will reportedly release in April 2023"
-    excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
-    publishedDateTime: 2022-11-06T12:32:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
+    excerpt: "Another day, another release day rumor, this one about Blizzard's upcoming Diablo 4.If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in ..."
+    publishedDateTime: 2022-11-06T12:32:10Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: GamesRadar on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GSwXfP4vHkngZchRUHXf2k-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
     excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
@@ -139,6 +139,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13MJi1.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=589&y=319"
         width: 600
         height: 315
+        isCached: true
+  - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
+    excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."
+    publishedDateTime: 2022-11-06T12:17:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png"
+        width: 938
+        height: 568
         isCached: true
 
 secured: "jznRVC2yH3Uc4sAI8UAFLiXxXHvpKi0S9vZJeZnCp3QmWcz8oqcfszTGukzqR/SxUblbliJFxjSPblIDaqimzWPjqItxj53YFaehAyC+2JHArneb9xFzyvCyeTs8wyucfz7dUNaOBulzK2ChrwZkSYPjalcJSHeXVVj9Kj88X3rU8Y5+lHtkwwREOLfB+6A/5iTkqC+wSepnmRKfuTUdaRjRSm3z9eobdlzr59ZuU1UUpV9ypQ7b1b6DTCFTWoUwZRp7QRkXLlTqagL08hu42rFAoXk9xV55Ec+C1WSi4+VW5sg9xeWovUxq/+5qTzvONAHn8ut5j4AQ7kLefy6Z8gBrqSpkZFbcGnr3A24nuFQ=;b02zHFNofhp87mGA1KCV/g=="

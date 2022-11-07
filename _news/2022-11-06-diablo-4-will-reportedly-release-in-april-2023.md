@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4 will reportedly release in April 2023"
-excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
-publishedDateTime: 2022-11-06T12:32:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
-webUrl: "https://www.gamesradar.com/diablo-4-will-reportedly-release-in-april-2023/"
+excerpt: "Another day, another release day rumor, this one about Blizzard's upcoming Diablo 4.If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in ..."
+publishedDateTime: 2022-11-06T12:32:10Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: GamesRadar on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/GSwXfP4vHkngZchRUHXf2k-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -140,7 +140,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
+    excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."
+    publishedDateTime: 2022-11-06T12:17:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png"
+        width: 938
+        height: 568
+        isCached: true
 
-secured: "JGIDq2eONP+QIZfpQ3ji85JtYnjqSFOGQAifSPyGEUcQlNJfYnTOjRgRZnKWu+78jvuDneuyH3Net23h9UqznkAjXbmx7f/VS5H/ruZ0GjNLibjkSBJUDVOS+2/kItPAiWP9OIfVkTe6bSlC0V/42l1oqvE9VQJh4lgEMueS2eg1ONR0MVztFApYS2DZ4t7CzMqGDQkqoDV0ZUhAczjD0uzIm21dv2B8FU813RDGsmNWEbrwvcmKxkR+3Pk9NRajnW1k/m1qJrZzJaMY/6yXFCD1M2bWMYzSI7CnM1ytw62LxKotOFUGp3Ei8JF5842hmHCZDv3gJcp+ne3wdM+Rwnyr0p9MZqXhndJaIHMtKcI=;VNQ/w03bZjFUeeXqK7JI/A=="
+secured: "Dpb7zAbbH1m1t3epFA7OmMoANrBfu/AKZPBrz74c9469xbuzlaUlaAB6r+eIwAb0Pjmnes8Zo7wPIWOHzP6pCURIhHPzdsKE1GpuwqxPICLYSTO6wxvlSws1eQ7R7XgBAHV3cBFwEfKp4BHrQ1Qeij+LDK3Ygih3xjXpGfn0yu5ZuJMvYH1F25eTl5btmQJa7LdTsf3mMGkHva/1a3IBY+4ZaA01seSXg0t5My4y96UN1PFMpUdQCe0MWCrEpaV5m0RFrZQs7ETFgErcIEH8Q22XT8wYmsvrGAQa5x57JlICZXdWXBDL2ozpS7ivlCdFti9Jd+beRcW9G7SxEiQTFnAQeTmFfQvnm0jMMcfLRLg=;ExG1cOYweQeu57IX0ZruNA=="
 ---
 
