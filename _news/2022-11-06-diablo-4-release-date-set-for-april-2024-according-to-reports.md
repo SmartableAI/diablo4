@@ -1,31 +1,45 @@
 ---
 category: news
-title: "Diablo 4 Report Leaks April Release Date"
-excerpt: "And of course, if any information about a specific day in April emerges, we will also be sure to update the story. Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series ..."
-publishedDateTime: 2022-11-05T19:39:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
+title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
+excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
+publishedDateTime: 2022-11-06T19:18:00Z
+originalUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
+webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
 type: article
-quality: 107
-heat: 327
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: Aus Games
+  domain: ausgamers.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320"
-    width: 568
-    height: 320
+  - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
+    width: 695
+    height: 390
     isCached: true
 
 related:
+  - title: "Diablo 4 Report Leaks April Release Date"
+    excerpt: "And of course, if any information about a specific day in April emerges, we will also be sure to update the story. Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series ..."
+    publishedDateTime: 2022-11-05T19:39:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
     excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
     publishedDateTime: 2022-11-06T05:28:00Z
@@ -69,20 +83,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/11/diablo-4.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
-    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
-    publishedDateTime: 2022-11-06T19:18:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
-        width: 695
-        height: 390
         isCached: true
   - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
     excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
@@ -183,6 +183,6 @@ related:
         height: 568
         isCached: true
 
-secured: "gz89MtsH32u7cMPfHFwTx+D6sDNxZykJluXHKXFsu6DknrLigeK8joZ4YyUIV5jcCxQcbZobatWS5uIua/kiYFz1QVlnV+DjVi631tWJck4t6fcaqijNztSeqEqSE2h3e4PkjLw3ipMU+YeqWhJLHBJ0bYelC12QvWgDVbb9AH85SQ1X8l16VxhGum0ex+kDnmSG8os6rnxg8xv/Wrp8SRfHu7tKoEvp5z1EiRequnWglQEUPW4zfFx9ENpB7JeHQNUfn6zbBvuZMOd1/nMSeaxEzCDNZ06eGHvAMax82ORppEWPN+wmMprwuhewNmdnAyVjGVSdw8wq6Ys3T1dqOXFE6QAGG1hPJ1GcHThbB0Y=;+9RKlI5thUb3Q+P9YUaxdQ=="
+secured: "YfQnOnp9VfTW3DzTFNFXbelfTUtCujf3DZe0K5JeLZHvt5VWsCCSLQNgfSdW6ynbkfY9Z4Sd75c1QHlZI41A9eeBVVLluZhkCrmwmC/YlwcLmIJJNkV3UwyX3ccl5BQGgTT84cUg089PtOJSy4L4zeeA2+WiVF7rWMjJ61PlApumP79dH7ADrpnlxTIDY6X0XIU5rFK3vKgCnmK1afq3Pi73hzbHY03tzGYjzQ2zi0qxLsHBtau0maxdKJG2KFaIrrCh6KhNyfYuNQcmAumyYl1u588d5W5lCokoQAX1i2sD2KPHYOb9YFoXbLljAlwGLsiiJKUTMJGpgXmbIAt3OAGFrXo8aNqMRE+RDrnHD4E=;lwqPw3jaYPMkgcSDqHG7sw=="
 ---
 

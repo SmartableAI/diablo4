@@ -84,6 +84,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
+    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
+    publishedDateTime: 2022-11-06T19:18:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 87
+    images:
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
+        width: 695
+        height: 390
+        isCached: true
   - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
     excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
     publishedDateTime: 2022-11-06T01:30:00Z
@@ -169,6 +183,6 @@ related:
         height: 568
         isCached: true
 
-secured: "juUc3xWjMmegwu7DG3eJnxgLafcCYOWnvyHuMhWTSreSKMglOybiIlGUpNe6XtCxl/xKoU2EL0LqSBu0GmRTU6UFRpLEqq7SBqbmY7Dn55Aziy8A1mxRxr97iRH5lerMChg6GW6ILpth/nXGKVd2qot4JeHIS5Li66RKzcZjOQic1JZaWdiuNa5VTCMFGfmuGuUrmyXR4NbPCmSNmou9z4rrqew2q4gzpd1ewJeq96CD2gpV/ekq7y+Ehg49ZIptNYCrN3LAPtMnboR0eJ1W0lVbC2bLnLuwUoyuIi5X8PGjxeLt1IgxkVKDwmsaS34SObYkRP8tfdDUghkOmNdCYgKtdfqjNoVcjv50de65APY=;4GtsQaEzImRtNtQzavRnuw=="
+secured: "K+7XWCmnJ+kl3C8XegITYzQ/gzTrrls0Bj1zkcLh8AKXkNAcAG2Vxx7hnRXsqDqji42jSmHKxuNIDCloAdWDpAKqPjfkoJ10dkXTKziSG82RxoQMhWdf+iPKcP/qu++Qc/LruH1tA15filOffdDcpSVbYJgG4DYF7qUEIKHCzqoZgHwcRiwcWBzRYHFSN/kTsPFcoxEyNIYGWT1DVnEBV5rvgKADld4Ye6q+wbcaFtemhdwYNw1x7NRnPhPfdIAyXB2yiwo/Iav9MnVUYyEB0D3cI0C5UkiulU9Zp9jVKBdO/YWfJmJeHfwGI3Bo64NgRFIDG/s3mEO4Y3iGpZi/ndhZHMWd8yqdClhFdG2+2Jo=;0fvTJWkfJTpRXT+f8mP1jQ=="
 ---
 
