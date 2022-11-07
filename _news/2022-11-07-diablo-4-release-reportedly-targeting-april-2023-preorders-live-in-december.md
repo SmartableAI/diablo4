@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 will allegedly launch in April 2023"
-excerpt: "Rumour has it, Blizzard may be set to release Diablo 4 in April 2023. That's according to the XboxEra podcast and ..."
-publishedDateTime: 2022-11-06T10:16:00Z
-originalUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
-webUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
+title: "Diablo 4 Release Reportedly Targeting April 2023, Preorders Live In December"
+excerpt: "Diablo 4 could be launching in April 2023, according to sources at both Windows Central and the team at the XboxEra podcast. Blizzard is reportedly planning a significant marketing campaign for Diablo ..."
+publishedDateTime: 2022-11-07T01:50:00Z
+originalUrl: "https://www.psu.com/news/diablo-4-release-reportedly-targeting-april-2023-preorders-live-in-december/"
+webUrl: "https://www.psu.com/news/diablo-4-release-reportedly-targeting-april-2023-preorders-live-in-december/"
 type: article
-quality: 87
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: Play Station Universe
+  domain: psu.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
-    width: 1600
-    height: 900
+  - url: "https://www.psu.com/wp/wp-content/uploads/2022/11/Diablo4-1.jpeg"
+    width: 768
+    height: 428
     isCached: true
 
 related:
@@ -126,6 +126,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Diablo 4 will allegedly launch in April 2023"
+    excerpt: "Rumour has it, Blizzard may be set to release Diablo 4 in April 2023. That's according to the XboxEra podcast and ..."
+    publishedDateTime: 2022-11-06T10:16:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 will reportedly release in April 2023"
     excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
     publishedDateTime: 2022-11-06T12:32:10Z
@@ -168,20 +182,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Release Reportedly Targeting April 2023, Preorders Live In December"
-    excerpt: "Diablo 4 could be launching in April 2023, according to sources at both Windows Central and the team at the XboxEra podcast. Blizzard is reportedly planning a significant marketing campaign for Diablo ..."
-    publishedDateTime: 2022-11-07T01:50:00Z
-    webUrl: "https://www.psu.com/news/diablo-4-release-reportedly-targeting-april-2023-preorders-live-in-december/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 84
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2022/11/Diablo4-1.jpeg"
-        width: 768
-        height: 428
-        isCached: true
   - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
     excerpt: "What you need to know Diablo 4 is the next installment in the legendary action RPG series from Blizzard. A rumor over the summer suggested that Diablo 4 may be getting revealed at The Game Awards in ..."
     publishedDateTime: 2022-11-05T17:30:23Z
@@ -211,6 +211,6 @@ related:
         height: 568
         isCached: true
 
-secured: "kjQviEp5oXJyCvm9Q2MhN1J0WgwabqfP2GKjBcUMqOpRM7yjHSsp0YhGVz8VNvKpx6jsuqqf0HP3C6c3FTLbXmlne3Jh7MXxXUUNUSFsX7V+zw7ggfNGCYr3T7o20YtlGe489WIVXUAKhhdQ/FRU40xFfoESzBBkgdEzBFJMAZEyZkl89mZJCMLazsDghv7Smsr9IcRyj/FgV8k47+zgxsE7022zmRXEjO05lGlr/lv3cpsMC1ivQuwsFRq4fF6L/y/7h2eWtC4e8P6Pg47WItoJ2+FHYl84w1oR4xmYIo9NzEFNI3DgviHTIIaKiJG8wt/jJHvUyOYl5LZabb/bE8Ej6hhNg7Y0jut6x38LSsE=;NTxU8HiCG6mneGZt4DDe7w=="
+secured: "GEnV14E204U3X0AAdQHikYlrYonU4B8XxWwm7jnaXofYT5Jf+4Ue8OQy7OA48vGoXx2PHCr/FN9JvVl+HDBCRfCHIHFPIukASG9PEMZHOaWI4V36/pDJIxFI9hWLVO+9/YOcoIfjpGiepLo9xS++pPRI+TmFrMt3eEcKfgRe8SvYRKZWVJOU6Xpeoyp5T6nf5hkwUvH0GpMTZZjdooe+4wkswPLYNpKBhsywvsUI9MUDYpYJeZglM3QIAePll0B34OvxXIxBGpjVDcDH2o5Cf1Y7pWHH9zkyHWlUDketwJIJ3IXklP0JP+u48OpKkE9+xCaTShTsTYX2FtmaxE+1bVMunZJn1TQro5smqF/ohec=;FGWakwUAMzaXMYHS7wm0Ug=="
 ---
 

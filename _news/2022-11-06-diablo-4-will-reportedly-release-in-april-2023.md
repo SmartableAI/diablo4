@@ -168,6 +168,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Release Reportedly Targeting April 2023, Preorders Live In December"
+    excerpt: "Diablo 4 could be launching in April 2023, according to sources at both Windows Central and the team at the XboxEra podcast. Blizzard is reportedly planning a significant marketing campaign for Diablo ..."
+    publishedDateTime: 2022-11-07T01:50:00Z
+    webUrl: "https://www.psu.com/news/diablo-4-release-reportedly-targeting-april-2023-preorders-live-in-december/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 84
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2022/11/Diablo4-1.jpeg"
+        width: 768
+        height: 428
+        isCached: true
   - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
     excerpt: "What you need to know Diablo 4 is the next installment in the legendary action RPG series from Blizzard. A rumor over the summer suggested that Diablo 4 may be getting revealed at The Game Awards in ..."
     publishedDateTime: 2022-11-05T17:30:23Z
@@ -197,6 +211,6 @@ related:
         height: 568
         isCached: true
 
-secured: "R2kKkPSbccHzw8K+05RZc/BRd39KE5uYonv7PAGSdnsrHbN8p03JntJu8uyc6Lj4l5Lse3DqBswKXveeYgWTo9dMhXIkFTza6zR5Mkz0k+Bk1SlhyJdO9CU51iiTPX7eS7/vJgVZFf9FgWiYt1jPWsYVL6I4xUqIe75vzd/1iXy6L/WIGdYF5pOqvDsxYNqmy6RYmNJcpF9W8CcuvYSM5ShVJTxLmoajTC19KSFAuTx80qD3IaPwE8jaKgXYdJu45xsgyVmRoxGCKEGQ4JsvUKz2zbJXQupgw3wLaVAtZ8RZqNfIyTuLAM1QgZQZnDNZUJLJb9b5iJj0wAd05+ZlXaTYGHBZ96sDy/P9qZp7R+Q=;bAei0HFd9vk5iHxzfqFejA=="
+secured: "2rI0D4Y192eQ3nNU2X41xIKhD6GOdJhNzLA9jII+UitHOstXiy+xifW8tZtlmwlITGj7prlQ4F9eFg4CQOHtH3vUQlM8iL9coM9HFvl21tVgPCpgJwTXGt68CTDPDsP9QjAWMdgrrxdV0K/l6aKSUWeGz7tLm2xWQIpglRPMlLWbvL/C7u3R7koy67XWuFmDT7Y0olO5r+DuiC0bxFLjmxMVGUbkRe1UKR4etlyYdSlAo5QEax8/E/Yz49gV/I6wFW4JP7vCHGYCp3ZPXW0WfwWjUa4ZcRTugnDYxb8prw6KB0gmNj4wEDqNQgVrjk2OGTpYCPqbkQ2rMYRE3OLxO6378U+dGFPVsc2BRXtSQiY=;+BMBtEi6+WONjKWtazkeaA=="
 ---
 
