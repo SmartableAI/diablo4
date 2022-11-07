@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4 will reportedly release in April 2023"
-excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
-publishedDateTime: 2022-11-06T12:32:10Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
+title: "Diablo 4 release date might be in April 2023"
+excerpt: "Diablo 4’s release date may have been revealed, although not officially, to be in April 2023. Just as a disclaimer, Blizzard, as of the writing of this article, has not revealed the true release date ..."
+publishedDateTime: 2022-11-06T22:00:58Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-might-be-in-april-2023/ar-AA13Ol4O"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-might-be-in-april-2023/ar-AA13Ol4O"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar on MSN
+  name: Jerry on MSN
   domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13OGpu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=200"
     width: 1200
     height: 630
     isCached: true
@@ -84,20 +84,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 release date might be in April 2023"
-    excerpt: "Diablo 4’s release date may have been revealed, although not officially, to be in April 2023. Just as a disclaimer, Blizzard, as of the writing of this article, has not revealed the true release date ..."
-    publishedDateTime: 2022-11-06T22:00:58Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-might-be-in-april-2023/ar-AA13Ol4O"
-    type: article
-    provider:
-      name: Jerry on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13OGpu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
     excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
     publishedDateTime: 2022-11-06T19:18:00Z
@@ -139,6 +125,20 @@ related:
       - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Diablo 4 will reportedly release in April 2023"
+    excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
+    publishedDateTime: 2022-11-06T12:32:10Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
+    type: article
+    provider:
+      name: GamesRadar on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rumor: Diablo 4 May Launch in April 2023"
     excerpt: "Sources suggest that Activision Blizzard may be preparing to launch its next flagship ARPG, the long-awaited Diablo 4, in April 2023."
@@ -197,6 +197,6 @@ related:
         height: 568
         isCached: true
 
-secured: "yDlWiFnoVBARcTLwiBAcOUPv4K/nDOZzrr4TZHRxWbxReLZQkf8BpNv3kEsxnuE/2Ia8csl67LBSyDB8m51Y7K6tnHFjSvHXkJQQYBWWXrscM332VkPQP7ZREKI/8v9+g6BdmA1Oxu9/kPC6k2FGYzmxealQar4vyZd8v2Mqs3kh14JR11ZqjTKJgv/vWUC7rtsOZfmREdTjBfh7/Gq1uQVkYOVUtSXwfdH6LaQAYsjmCUoP7/UrH5V+LltRQT3Ivdjgs7ERZkR5Qv3b3e55cpgalzeYFaKOG11mEZvn79pjrSFrupR+TNkweDUlSP0KJffABZXzNzxbB3NtPWgfoZllG9ssbdSsIMoTFglNZyA=;/ZxIoFZDCq64PffQaXzAOQ=="
+secured: "Uh4KjPIeGX3AcbJNck2UzlEev7yejiXHNoW9PaiQ6/LxR9AIacbSncKTNSZKh9m3LpJtp9b9XbhnmCNAV03Yhqbc1erKL4JCZLGeSBW5fqMeSa/RViR6K6tLb0WPptEAELhmCVToFKHo6LtfFIEp+vAE3wq+ZPh7rpg58aGBZGlZRMpOQGbYSoec8/GyKfOoQuog6gRoJXiEjY/vXq3TXqGQeeUkexPyen/btvmy/aWvRxVg7V0QDgtqPcoq+hmFvIQcmbKZlxvOv/668/8zFL7yVyvmP0v2CrwpttjRftdff90VPWA06IwIWSliwQF6desSNxQIVFTEzyCxenOoklPYfVKpYwJ775Qu1SsEzqM=;qGYz3Lnxv9V7rXSTgYHXGg=="
 ---
 
