@@ -54,34 +54,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 Endgame Beta Footage Leaks"
-    excerpt: "Hours' worth of Diablo 4 beta gameplay footage leaks thanks to the ongoing closed beta, highlighting the game's endgame gameplay loop."
-    publishedDateTime: 2022-10-20T01:51:21Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-endgame-beta-footage-leaks/ar-AA13aXAn"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13b4kT.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hours of footage of the Diablo 4 end game beta has leaked"
-    excerpt: "Hours of footage of the Diablo 4 end game beta has been published online following the launch of the closed test. The game’s latest testing phase in supposed to be confidential, meaning players aren’t ..."
-    publishedDateTime: 2022-10-20T02:04:00Z
-    webUrl: "https://www.videogameschronicle.com/news/hours-of-footage-of-the-diablo-4-end-game-beta-has-leaked/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 87
-    images:
-      - url: "https://www.videogameschronicle.com/files/2022/10/diablo-4-necromancer.jpg"
-        width: 1600
-        height: 675
-        isCached: true
   - title: "End game beta test for Diablo 4 has been leaked"
     excerpt: "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ..."
     publishedDateTime: 2022-10-21T11:33:00Z

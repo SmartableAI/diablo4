@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4 could launch earlier in 2023 than we expected"
-excerpt: "Windows Central and the XboxEra Podcast, both reputable entities in the gaming sphere, heard about Diablo 4’s release date from supposedly reliable sources. While that doesn’t mean the game is set in ..."
-publishedDateTime: 2022-11-07T08:14:32Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-launch-earlier-in-2023-than-we-expected/ar-AA13QkFy"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-launch-earlier-in-2023-than-we-expected/ar-AA13QkFy"
+excerpt: "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ..."
+publishedDateTime: 2022-11-07T10:44:00Z
+originalUrl: "https://www.tomsguide.com/news/diablo-4-possible-release-date"
+webUrl: "https://www.tomsguide.com/news/diablo-4-possible-release-date"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Tom's Guide on MSN
-  domain: msn.com
+  name: Tom's Guide
+  domain: tomsguide.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13QcxZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=522&y=247"
+  - url: "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg"
     width: 1200
-    height: 630
+    height: 711
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ALVeQYEt6GZtjW69+Oaqd1/2RGXgYlt1qOVG2OZKUoQhG6+MRdRR6vhMT6MnKyhtYUwsbU4SRXMX+95nVuecbikB1vulH6eg20BiP7InkT5K7ULsiK7Xl3ueM8Ch8DeMY7JpvpRRaahZHgTY8kRl4Cq4an65TTWjokWVsHkdEDjt4BoHluIzT2tE1747aCGhs/b8QPaRhhdZVDfHBtTBV2Ts1PkJUOjyoGsOcC9/zDjz4TmdvzT/KyJJU0Fp5cZWW7MGaO1IUmOlzTz+qmIswAk4UfcIvd3P7qyHAjviEaXhkJ8fEYr7G6Ur9kE/bF1tgc/2NxBz+d2Ok8aWjuJy+tLbgaEq7DlMfH4qPRUtGJ4=;urdjLXoaHno6UxYQT67x8g=="
+secured: "uJTNPwDV95h+rTvAj1s7ZEItYHyoTUlN3QcqEOZ9bZ/vf8p545+nR7+UOTqQ3rLd68qHKB+mtMI6jk8oEMb6Zw4ZJ70gm6Nf5qdziJ+bcoLWpWOM0pnTJOx93MFhRGUAaWt41phEr5ysA5rqmi0z1Cpk5XxwvFCEtcz9tZx9zwxjQmuCpS5QzsAOcxbRqwas97KID57WfpuUpWZ9Upr0kFDfJzzOXwRlmh9pMSrIf84iM0ezU1HNBn96GIaaZslWbnR7CaaytDmpkflbpswHkKPMMQJVcir8IqjbFb2QZFoS3PuKW/jBiuVImlw8fjXJJXMpB88ksKO/siSSX8c1l3Z3Z6pZPDPPaGw6/wks39g=;HeFRQNZcm+OfC7Y9I6iWxg=="
 ---
 

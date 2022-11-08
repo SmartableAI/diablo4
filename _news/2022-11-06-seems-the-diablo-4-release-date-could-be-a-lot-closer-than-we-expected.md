@@ -41,18 +41,18 @@ related:
         height: 630
         isCached: true
   - title: "Diablo 4 could launch earlier in 2023 than we expected"
-    excerpt: "Windows Central and the XboxEra Podcast, both reputable entities in the gaming sphere, heard about Diablo 4’s release date from supposedly reliable sources. While that doesn’t mean the game is set in ..."
-    publishedDateTime: 2022-11-07T08:14:32Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-launch-earlier-in-2023-than-we-expected/ar-AA13QkFy"
+    excerpt: "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ..."
+    publishedDateTime: 2022-11-07T10:44:00Z
+    webUrl: "https://www.tomsguide.com/news/diablo-4-possible-release-date"
     type: article
     provider:
-      name: Tom's Guide on MSN
-      domain: msn.com
+      name: Tom's Guide
+      domain: tomsguide.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13QcxZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=522&y=247"
+      - url: "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 711
         isCached: true
 
 secured: "tCT3bf3zKcGslwKEejdrAzxD/GATSUQ0TKMhn5qUfLihZ68DSdrMrsKCNzXOVYu/NWU49PS2WB3tdaWsInaWFx7bubpLmN8zjdrUG3gOltRV6g7aqcMTBEObwmoPetaUeaK22IyeL6AWGcX2ElJE1fZLY+pk+FKn5/0gYed6nToEa50yV3D8DVvBLikkqQ1rHb/rtejbGw69XG9Ac+uo5BV3eoNLIP55fF0V5iRYwfaP9rulVoSkT9S6X/Tsg5zn28MGqRXhmvCCB0GF6qkI08Bbj5NauCkcfUu1fqWW9VZgn85RbcdM4puJaBMl+KqD7m5hA/5Vk3BMMAUIOGwOAhWgEVngwYCFdu70m+Vkquc=;jjBIvPD+2gldpv6bD0uCeg=="
