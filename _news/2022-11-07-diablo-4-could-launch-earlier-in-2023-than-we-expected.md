@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 4 could launch earlier in 2023 than we expected"
 excerpt: "Windows Central and the XboxEra Podcast, both reputable entities in the gaming sphere, heard about Diablo 4’s release date from supposedly reliable sources. While that doesn’t mean the game is set in ..."
-publishedDateTime: 2022-11-07T08:14:00Z
-originalUrl: "https://www.tomsguide.com/news/diablo-4-possible-release-date"
-webUrl: "https://www.tomsguide.com/news/diablo-4-possible-release-date"
+publishedDateTime: 2022-11-07T08:14:32Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-launch-earlier-in-2023-than-we-expected/ar-AA13QkFy"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-could-launch-earlier-in-2023-than-we-expected/ar-AA13QkFy"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Tom's Guide
-  domain: tomsguide.com
+  name: Tom's Guide on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13QcxZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=522&y=247"
     width: 1200
-    height: 711
+    height: 630
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FqvlSicnS/UmypZpPg9cIoc/4TBpcoRVXW5XaxdHNAmuocvjce/EkJGSsMYgBem0QHvwf3Upffmbsm6AKff/jZzwreDQPSXSMi4F6R4ShgMf/wRlqqYUC3HaHY+WABKHAycWMZ2wpI6TqTB+LOVni8pre5qIyqR5HR+8t0Fv6KUePDPU/A1m6jZ9IUFhd2RiOuXVbsWE2sn1NPDzFt1HRgp007XJRwx1V3gylEcH3lcOyDxnG9zEZbs9BZR3C0loLvR65ShBbih5BeDNtcvjMK2x81oOrmm+sJ5YeONHIThVlZB8aG6/iwZlrWemYIb8jL9yiJ9p0WlMIOKOubuGmeghgHKjJsS80v2QAG12g6A=;0CbSH2u+50zQwNgHrCCFRw=="
+secured: "vZioROqW0QZFnaze6iIh5VloPywICAtQPz7rufQtaaLd1EHGAV2h8ehf3D++8lzMFQY4eeOP2zlqP8fVXSqX9lv6Rc84c4AtTmrI2Gyd9I802FjN+ugwvDKG5LSYU74vVYySBS+u9rrUAKCV7Iyc6XAb1WLZV4CNMJGyjOilONSNbbXT+TCiPaqNHvkFifCRE0fl+6P2hO3hGp4VoZ+r2pmhZM10VbqY9A5j82F6RiVx3fz9ggQwrf+iJzhP3qXc9nys5u31CpLPslmqB9gY605QGdxBH+PpxoPUx6FaqcnMvN9fv0IQ1czbsqFENhLgXmgL0HNz+hUnPhey9JJsCyT0qqR/0RozYtGBcXLAlOM=;DSOFQ6+4tlb8tiQn45sZTw=="
 ---
 

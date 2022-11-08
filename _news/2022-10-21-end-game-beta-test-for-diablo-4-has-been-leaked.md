@@ -54,20 +54,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "The Diablo 4 endgame beta is live - and already leaking"
-    excerpt: "Blizzard said not to tell anyone about the Diablo 4 beta, according to players telling everyone about the Diablo 4 beta ..."
-    publishedDateTime: 2022-10-19T08:20:11Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-endgame-beta-is-live-and-already-leaking/ar-AA139A1I"
-    type: article
-    provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA120OUA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Endgame Beta Footage Leaks"
     excerpt: "Hours' worth of Diablo 4 beta gameplay footage leaks thanks to the ongoing closed beta, highlighting the game's endgame gameplay loop."
     publishedDateTime: 2022-10-20T01:51:21Z
