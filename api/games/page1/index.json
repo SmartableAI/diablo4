@@ -34,36 +34,6 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian.md",
-      "title": "Epic Boss fight!  Diablo 4 leaked gameplay!  Diablo IV leak video.  #shorts #diablo4 #barbarian",
-      "excerpt": "Epic Boss fight! Diablo 4 leaked gameplay! Diablo IV leak video. #shorts #diablo4 #barbarian Please subscribe for more DIablo 3 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=kPOykrAeBGE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPOykrAeBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-23T12:24:26-07:00"
-    },
-    {
       "path": "_games/justin-diablo-4-druid-gameplay.md",
       "title": "Diablo 4 Druid gameplay",
       "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
@@ -431,6 +401,36 @@
       "publishedDateTime": "2022-09-23T09:18:11-07:00"
     },
     {
+      "path": "_games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian.md",
+      "title": "Epic Boss fight!  Diablo 4 leaked gameplay!  Diablo IV leak video.  #shorts #diablo4 #barbarian",
+      "excerpt": "Epic Boss fight! Diablo 4 leaked gameplay! Diablo IV leak video. #shorts #diablo4 #barbarian Please subscribe for more DIablo 3 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=kPOykrAeBGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPOykrAeBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T12:24:26-07:00"
+    },
+    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
       "title": "New Gameplay Today – Diablo IV's Barbarian",
       "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
@@ -489,6 +489,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-17T12:05:13-07:00"
+    },
+    {
+      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
+      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
+      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M50S",
+      "provider": {
+        "name": "Phillip Chu Joy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-03T12:06:38-08:00"
     },
     {
       "path": "_games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide.md",
@@ -854,37 +885,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
-    },
-    {
-      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
-      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
-      "provider": {
-        "name": "Phillip Chu Joy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-03T12:06:38-08:00"
     },
     {
       "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
