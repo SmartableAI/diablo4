@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-x
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/"
 type: article
 quality: 102
-heat: 282
+heat: 262
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "‘Diablo 4’ reportedly set to arrive in April 2023"
-    excerpt: "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ..."
-    publishedDateTime: 2022-11-07T06:14:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344082"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 87
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/07/Diablo-4-Necromancer-beta-2000x1270-1.jpg"
-        width: 2000
-        height: 1270
         isCached: true
 
 secured: "WFvCRhDI340bjNV37ZzKmsdEb3ACm7FoYGDrTvEa6AW7/7KMnNMJlRNMb3drdTjUBUoQBO8IVVHNKMBT6TPFIk5uvHKyyhEoKd2hJLV8nlsYppBUv2Hq57HS8eLq3rIs3Y3JWnFnSZVMj4HwuEqNdZxjnXzmbHcHFEARlgAzTl6Y9EfdHGplfYPy0rU28of0kkvnzMPxwCGgnpcIpkQDIh3pukj1Bo1ayGBgOOZK3apca5o0ZrK/EKqFMc416cSSGvn9U1XiKUPi7BtNNqQr5VkIB48ytVCr/LA46NIjCLDkBnGW6xgLiC0chFCY/fTUH4b6+Pcoyxg5PRjLD0yQ/l8qeRcV0Z2EGgEUk6wGgvU=;BL+ui6IDIB7kLwotWdZVUw=="

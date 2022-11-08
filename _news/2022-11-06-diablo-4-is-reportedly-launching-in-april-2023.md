@@ -138,20 +138,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "‘Diablo 4’ reportedly set to arrive in April 2023"
-    excerpt: "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ..."
-    publishedDateTime: 2022-11-07T06:14:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344082"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 87
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/07/Diablo-4-Necromancer-beta-2000x1270-1.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
 
 secured: "Fdo69l4BkBEgSNzcE4C3B7da12Kv5odxl8h1Bphlp0bUXPQszEkOpH01GAcxHdNw48B66+oH92wGKb7MTDMLt457BcO0E/t+u4GmaXsXr6jm8Y0VHkI6Co2BMsGpSq7P++hfpFoAlTqvZCKit6T16yyyJLGrvB+1Aoqz7gTeRey2PFq5hwdADDtT16yNUNFhRuWfXwfUO1gTgDiQN/kwjasMBF1Ld26Y70Pf2RL+nLMVZa9Z0sjODfGcRG58HbEhEZ1DjLkeGdAdVtVO3MzLAjuxuQBO3IM75Q7MBkgrF2GhA4xEL1dkwpLyK7w0tLCEkLvo5ukOcNgCV2lPFk47zANZryWLMnf1LqPRYoeu260=;1vXAogpKEJ/Kn8Y6aSg7aA=="
 ---
