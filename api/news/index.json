@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
+      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
+      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:42:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts.md",
+      "title": "Diablo 4 fans won't stop asking beta testers to break their Blizzard contracts",
+      "excerpt": "Fans keen for more Diablo 4 information are testing beta testers' commitments to their NDAs by asking questions about what they saw, just weeks after several players seemingly went against Blizzard's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5Mog5Bg9tsjknhxgyGU4eg-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices.md",
       "title": "Diablo 4 combat “grounded” to make room for tactical choices",
       "excerpt": "Diablo 4 combat feels “more grounded” than that of its predecessor, says Rod Fergusson of the upcoming RPG game. The Blizzard general manager for Diablo joins game director Joe Shely to detail how ...",
@@ -983,99 +1067,6 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-diablo-2-resurrected-forum-trading-blamed-for-diablo-4-changes.md",
-      "title": "Diablo 2: Resurrected forum trading blamed for Diablo 4 changes",
-      "excerpt": "Resurrected forum trading, blaming it for Diablo 4 changes as players speedrun ladder season two Fans are slamming Diablo 2: Resurrected forum trading once more following the arrival of the Diablo 2: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-15-diablo-2-resurrected-forum-trading-blamed-for-diablo-4-changes/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/forum-trading",
-      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/forum-trading",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-2-resurrected-forum-trading-ladder-season-two-diablo-4-assassin.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-diablo-4-trailers-gameplay-classes-and-news.md",
-      "title": "Diablo 4 trailers, gameplay, classes and news",
-      "excerpt": "Diablo 4 has officially been announced, and thanks to a series of recent reveals, we have a decent idea as to what we should expect. This is obviously big news, given how beloved Diablo is as an ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-13-diablo-4-trailers-gameplay-classes-and-news/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
