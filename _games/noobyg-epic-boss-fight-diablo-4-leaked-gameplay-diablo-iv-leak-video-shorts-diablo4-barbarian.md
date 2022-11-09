@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-epic-boss-fight-diablo-4-l
 type: video
 length: PT58S
 publishedDateTime: 2022-09-23T19:24:26Z
-heat: 55
+heat: 115
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPOykrAeBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
