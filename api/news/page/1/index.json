@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices.md",
+      "title": "Diablo 4 combat “grounded” to make room for tactical choices",
+      "excerpt": "Diablo 4 combat feels “more grounded” than that of its predecessor, says Rod Fergusson of the upcoming RPG game. The Blizzard general manager for Diablo joins game director Joe Shely to detail how ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/combat",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/combat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-combat-design-intentional-blizzard-interview-joe-shely-rod-fergusson.jpg",
+          "width": 1876,
+          "height": 1055,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss.md",
+      "title": "Diablo 4 Fans Worried Following Tweet From Blizzard Boss",
+      "excerpt": "Why are Diablo fans worried about comments made by Mike Ybarra? Well, because he is the President of Blizzard. Taking to Twitter, a day after the aforementioned report made the rounds, Ybarra ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/11/08/57aa28e7-4b7e-4db2-9b7b-565d110ae452/target-buy-two-get-one-deal.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
+      "publishedDateTime": "2022-11-08T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-diablo-4-explains-open-world-bosses-and-legendary-items.md",
       "title": "Diablo 4 Explains Open World, Bosses and Legendary Items",
       "excerpt": "Diablo 4 developers dive into the game's World Tier difficulties, World Bosses, and how Legendary items combine the best of Diablo 2 and Diablo 3.",
@@ -992,90 +1076,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4.md",
-      "title": "Diablo Immortal can (sort of) help pass the time until Diablo 4",
-      "excerpt": "We’ve had a lot of Diablo 4 news over the past few weeks, from exciting beta news to intriguing leaks about the campaign. But no matter how much we hear about the game, one thing is clear: It’s not ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4/index.json",
-      "webUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
-      "originalUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qj3dCAH9Lsr5haXr9j8b9o-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-diablo-4-release-date-window-classes-beta-and-more.md",
-      "title": "Diablo 4: Release date window, classes, beta and more",
-      "excerpt": "Diablo 4 couldn’t have come at a better time. Diablo 3 debuted a full 10 years ago, meaning players have already plumbed its demonic depths. Diablo 2: Resurrected didn’t introduce anything new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-09-diablo-4-release-date-window-classes-beta-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
-      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12IVgk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-08T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
