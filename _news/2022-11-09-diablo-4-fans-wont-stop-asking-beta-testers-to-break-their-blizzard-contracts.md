@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-09T09:50:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/"
 webUrl: "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/"
 type: article
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: GamesRadar+
@@ -14,6 +17,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "wIcSsOdrFB7cvwH/R6MJD1B8mMojaViy2p2XLBHgr8nVaPimzIs8tJZASAP4VpcN8XQFoTPvCsslTEGgrwCsv3l3eHWWVorhiJLg83HiQjorrX0mMmoEBLS0Ib4yU1mkONznVUp5nG5Uflu4Z598P0FiclnHKEHKTPrrvLUx12qtk9wx8YggsLOu7WpcDNDm/YiYkmN0N0VDN0/BtN0BwryVGlVFWjzArreTvjqGkif8MLPFQojE0qn7z6sUTS8vWn0uhbmJyGv/na5VzJZeytSpopBRLUsNn1B4r1HOoW1uSiIlWcRKAzqW411a/Mo5POJwjlgaPqIUx23D5tPted4sT9wvwex08muCLegINnQ=;ingslEsIIneWnaWV3H5mYw=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/5Mog5Bg9tsjknhxgyGU4eg-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "QyzLEzmUGkv3KJouBDYtDngKVQTtUiR4Ifqg2cO2xfP8Fu0gixljRjJaQefnm3Qg6E8UYjPQoHH+g57qcoDeF8pTWlND0oVfty71pS4GXuUHiPjUUMKYlxkzqjDf19I/LwZBGQ+9c43wENBo9jmUYS3z4D4mOeXdM3NsPQZtyeQJ3kGE7uVNPw8/mJbWIxj3QnugG1fUDTq4dGsWVyuM+XPRKzXy/ww1svnfnsAew3VseZO34gxw/ShuvfUoQ7aVSvFaan1UIkMe3Dfy/cx+irdZpUwQABM1OITvc44a4MyL2nYbCYVWUKx0uBtC7bax8WngyIHX4FjvjJgDYblH6wQAdQZfZMLVtc6MmXovw0M=;zB1Wvm71eci1KqilsPrKww=="
 ---
 
