@@ -2,6 +2,7 @@
 title: "Diablo 2 Druid Returns on Diablo 4"
 excerpt: "Xtimus Like and Subscribe to Xtimus for Diablo Content. Join the Notification Squad: Click the ▻Follow me. Twitter ..."
 originalUrl: https://youtube.com/watch?v=yxO0jX6j2ao
+webUrl: https://smartable.ai/apps/diablo4/game/xtimus-diablo-2-druid-returns-on-diablo-4/
 type: video
 length: PT14M12S
 publishedDateTime: 2022-11-11T14:00:38Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Hn7GAeTxfnh3Crv2NYFbzDQK3vjBWodtBfkUWhJcis29sNL1h4AiQ9xA0wURYfUCp4z6wiwsD5eazf0s1EB2VBFW+qqcTRtP2+ACEV4ut9zpdELQw3EfpiTs0YKxUlvS/G/E2CF39z9E49eYGqSk7/qrXuU/6DHvhmYV9DoJkgNRixV7dSbQ4+EaM7YxedJLpKH4ylCAszjjZP6TKf8IaSBgQCJJbuIdvLW9iUUDtNGOPpAuBVGRz62dJ8xTcgpf+zf5rOvmpaI0nRyY5IKIDYp3cloqb072dFn/DmYOt0ML290zEJapz0sPMcZrAzsSKMt1SRYlpJZgaHTYIUUJu7qapXEQ63mD1cD3Eoa6MV9Tyf0PzABx39NB52JSIxoK/dKenLkT2wkheQyyriAQGQ==;FI+quxgrzFXLOaQzm0fGRA=="
+secured: "QlYFesRZrmCNl9KfZRmhM/+P1wpvPmcLMdrXeTmV/p4oV1T8OKv1Y3ds5y7ryU8HzuYV4L6gwYU4Fi19Uqc1KoPiwDNHEMj4SRKA2o80klHVkRr44wSBammxaPzqfJAv8+Max14OIAjLXTLryLzpwuJrBxV3XZy9WWg71lgVaiwX3o140LOeRIt+4EJQBcVyUs+2QfINCexIew+xKzWUMVPeDQVgHn220ZO+eQ6qVvz/JgoHzsQWaFPt6xoBffICOFN6Au4vL35in3wG1Ehgtj/iChzBBYFy0ZHF+FdXwxvSD0jKAH8VE5foNHEWFyij/3DFjT24NANokG877xFEym7VeejdiIn+S8hYwkIOWZl2iRILw6i3ZVwL6lcHtj0TMMCsWqRDQnx7y1K0Pdj8qg==;Wfm3wfX1Ktx+4H91K3tVpA=="
 ---
 
