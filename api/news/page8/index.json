@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed.md",
+      "title": "Diablo 4 and Overwatch 2 Are Both Officially Delayed!",
+      "excerpt": "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed/index.json",
+      "webUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "originalUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg",
+          "width": 880,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-overwatch-2-and-diablo-4-are-delayed.md",
       "title": "Overwatch 2 and Diablo 4 are delayed",
       "excerpt": "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ...",
@@ -1069,48 +1111,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
-      "title": "Diablo 4: Latest Classes Revealed",
-      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T23:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GiveMeSport on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
