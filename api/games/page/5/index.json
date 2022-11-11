@@ -4,6 +4,36 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress.md",
+      "title": "Diablo 4 - Fire Bolt and Inferno Skills (Sorceress)",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=BunDqRP31Gs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BunDqRP31Gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30S",
+      "provider": {
+        "name": "Tiago Costa",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-12T09:11:05-08:00"
+    },
+    {
       "path": "_games/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
       "title": "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer",
       "excerpt": "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer MEET YOUR MAKER Lilith has returned to Santuary, summoned by a dark ritual after eons in exile.",
