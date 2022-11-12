@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached.md",
+      "title": "Work on Diablo 4 Picks up Pace; Another Milestone Reached",
+      "excerpt": "Diablo 4 has just reached another milestone in terms of development process. This is indicated by information found by one of the Reddit users.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
+      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/365690819.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=14068",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=14068",
+      "publishedDateTime": "2021-08-02T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
       "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
       "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
@@ -1062,48 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 Official Announcement Cinematic Trailer Reaction",
-      "excerpt": "We are finally getting to a Diablo trailer. Starting with Diablo 4 as it's the most requested of the franchise. Normally we do a lights out, in the dark reaction for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=LiA4zCjknh8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LiA4zCjknh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LiA4zCjknh8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Definitely Not Definitive",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
