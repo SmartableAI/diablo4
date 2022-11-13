@@ -1,17 +1,17 @@
 ---
 category: news
 title: "How Diablo 4's Legendary Items Differ From Diablo 3"
-excerpt: "Not every Diablo title has been successful, but Diablo 4 is hoping to set itself from past failures. Here's how Diablo 4's Legendary items differ from Diablo 3."
-publishedDateTime: 2022-11-11T02:54:19Z
-originalUrl: "https://www.msn.com/en-us/news/technology/how-diablo-4-s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx"
-webUrl: "https://www.msn.com/en-us/news/technology/how-diablo-4-s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx"
+excerpt: "It's no surprise that \"Diablo 4\" is already distancing itself from the mess that \"Diablo Immortal\" ended up being, and the pay-to-win mobile game isn't the only franchise embarrassment it's trying to ..."
+publishedDateTime: 2022-11-11T03:05:00Z
+originalUrl: "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx"
+webUrl: "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: SVG on MSN
+  name: MSN
   domain: msn.com
 
 topics:
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wCfDvftSK+e3WU0m7d2BCWvhNnhKsYP1muRsr2qdCuGUaQcLRMS/B/zJGaKNGgBWKW4hjfVlXk82oVrJTlxpbCXbLz9KvICXhd+uf4Mud0FF6LQmSY0cfVnZDtEbl3FGCHJ4dDT3AqCOR7m/uq1xcsC0iOA5fGdmyjK3UCJjvkoxQOismej60ZUwOvwvrcW8JziKeSYzFVeT3sfXwe6rREChI+JeqgpDAvCty1EVrQqubdaIfRJi0aM9XVxyC/8wCdUQvrtSLOD38oP1jKDS8uojMsP8c/n2UarAeIh0zPIjd30kha4AKFgyfh+OVGmaruoLfb6LfSGXwCinm+tIc+YSdan2QpnTXfhtspmyDzM=;7oRQnhvW5o/tgfRdRBZSVQ=="
+secured: "D+Ea5F3vZjJP9ElAz3qYqDv/LG4/XKDDA9osy9XHsWMyMLvaXRxeeI6yL1A+USJhNpzB7S+zCuhuAgKR5t4+0gvUlu0Q7NFMHBmk+eP3Ne5FGwCclypb8ItDMqc1E16FGt3ULnggVR04jMVF7i7lxC3J/tmwKT5vceQmdiKR8l1yND7T+KoabvyOEp/DrfhkDLRSNLHEZo/ObrhBZ52fYTenbxkRIMxBs/nCUQKWQp5uDbZqH+tmqRQ+fQcBKcg84SH17QnqcVR4pz/1EuqmeaCjNPaGKE63arTaGzVFzYdvflZCB9hzBqLB+4kKuvzsCJwjpmgh+JhgUzMz6+fXd/sBEiYd78i1cA6ayNxJL0Y=;qtqM8hElQnIdFDjw1blt1w=="
 ---
 

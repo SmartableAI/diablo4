@@ -25,12 +25,12 @@ images:
 
 related:
   - title: "How Diablo 4's Legendary Items Differ From Diablo 3"
-    excerpt: "Not every Diablo title has been successful, but Diablo 4 is hoping to set itself from past failures. Here's how Diablo 4's Legendary items differ from Diablo 3."
-    publishedDateTime: 2022-11-11T02:54:19Z
-    webUrl: "https://www.msn.com/en-us/news/technology/how-diablo-4-s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx"
+    excerpt: "It's no surprise that \"Diablo 4\" is already distancing itself from the mess that \"Diablo Immortal\" ended up being, and the pay-to-win mobile game isn't the only franchise embarrassment it's trying to ..."
+    publishedDateTime: 2022-11-11T03:05:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx"
     type: article
     provider:
-      name: SVG on MSN
+      name: MSN
       domain: msn.com
     quality: 87
     images:
