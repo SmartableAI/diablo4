@@ -128,6 +128,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story.md",
+      "title": "‘Diablo 4’ will offer players freedom from the main story",
+      "excerpt": "In a recent IGN interview, Diablo 4 director Joe Shely and general manager Rod Fergusson dived into the open world and discussed what players can expect from the upcoming sequel. Fergusson explains ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story/index.json",
+      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
+      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/09/Diablo-4-2000x1270-1.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
       "title": "Diablo 4 dev says players 'want open world and free choice, but they also want to be told where to go'",
       "excerpt": "We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the order in which they play its major parts—and then ...",
@@ -1015,48 +1057,6 @@
       "provider": {
         "name": "GameRant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate.md",
-      "title": "Diablo 4 uniques scale to character level, sparking RPG fan debate",
-      "excerpt": "Reports that Diablo 4 uniques scale with character level cause fans to ask how they’re unique in Blizzard’s fantasy RPG game as it prepares for more beta tests ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-uniques-scaling-character-level-blizzard-rpg-debate.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
