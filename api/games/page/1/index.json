@@ -64,37 +64,6 @@
       "publishedDateTime": "2022-11-11T06:00:38-08:00"
     },
     {
-      "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
-      "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
-      "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/",
-      "originalUrl": "https://youtube.com/watch?v=VpHdyyRvHtU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpHdyyRvHtU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M13S",
-      "provider": {
-        "name": "Gaming Rush",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-11T20:42:40-07:00"
-    },
-    {
       "path": "_games/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo.md",
       "title": "NEW Gory Diablo 4 gameplay!  Necromancer, Barbarian, Sorceress, and Druid! #shorts #diablo4 #diablo",
       "excerpt": "NEW Gory Diablo 4 gameplay! Necromancer, Barbarian, Sorceress, and Druid! #shorts #diablo4 #diablo Please subscribe for ...",
@@ -125,6 +94,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
+    },
+    {
+      "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
+      "title": "Diablo IV -  All Classes GAMEPLAY / Rogue, Barbarian, Sorceress, Druid, Necromancer, BOSS, PVP",
+      "excerpt": "Which class would you like to play? Please don't forget to LIKE & SUBSCRIBE! You can also COMMENT & ↪ SHARE!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/",
+      "originalUrl": "https://youtube.com/watch?v=cgaeM4CyZdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgaeM4CyZdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M35S",
+      "provider": {
+        "name": "Salus Vindex Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-14T08:16:53-07:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -827,6 +828,37 @@
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
     },
     {
+      "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
+      "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
+      "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/",
+      "originalUrl": "https://youtube.com/watch?v=VpHdyyRvHtU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpHdyyRvHtU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M13S",
+      "provider": {
+        "name": "Gaming Rush",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-11T20:42:40-07:00"
+    },
+    {
       "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",
       "title": "Diablo IV Sorceress Gameplay   60FPS 4K",
       "excerpt": "Diablo IV Sorceress Gameplay 60FPS 4K Diablo is an action role-playing hack and slash dungeon crawler video game series ...",
@@ -887,36 +919,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
-      "path": "_games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress.md",
-      "title": "Diablo 4 Sorceress gameplay!  Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress",
-      "excerpt": "Diablo 4 Sorceress gameplay! Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress Please subscribe for more Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/",
-      "originalUrl": "https://youtube.com/watch?v=ErUFRRz4vr4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErUFRRz4vr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-17T10:33:53-07:00"
     }
   ],
   "nextPage": 2
