@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4.md",
+      "title": "Blizzard Embraces Open World Gaming For 'Diablo 4'",
+      "excerpt": "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4/index.json",
+      "webUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
+      "originalUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
+          "width": 1455,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
+      "publishedDateTime": "2022-11-14T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-diablo-4-predicting-the-early-class-meta.md",
       "title": "Diablo 4: Predicting the Early Class Meta",
       "excerpt": "With fans anticipating Diablo 4's launch in early 2023, it's time to look at which classes seem best suited to both PvE and PvP situations.",
@@ -229,7 +271,7 @@
       "originalUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1023,48 +1065,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-diablo-4-closed-beta-ending-soon-public-testing-starting-next-year.md",
-      "title": "Diablo 4 Closed Beta Ending Soon, Public Testing Starting Next Year",
-      "excerpt": "Blizzard provides the end date for the Diablo 4 closed beta, which has been running smoothly for the past two weeks with a focus on endgame content.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-03-diablo-4-closed-beta-ending-soon-public-testing-starting-next-year/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-closed-beta-ending-soon-public-testing-starting-next-year/ar-AA13Isqv",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-closed-beta-ending-soon-public-testing-starting-next-year/ar-AA13Isqv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13I05Z.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T08:36:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
