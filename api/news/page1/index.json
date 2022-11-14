@@ -170,21 +170,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-11-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
+      "path": "_news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
       "title": "Diablo 4 dev says players 'want open world and free choice, but they also want to be told where to go'",
-      "excerpt": "We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the order in which they play its major parts—and then ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/index.json",
-      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/ar-AA140VsF",
-      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/ar-AA140VsF",
+      "excerpt": "We wanted to have a beginning, middle, and end. We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA141gQP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=498&y=233",
+          "url": "https://cdn.mos.cms.futurecdn.net/SfgGMU4muotXvyBY9XU49X-1200-80.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -194,12 +194,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T05:21:05-08:00",
+      "publishedDateTime": "2022-11-11T19:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Gamer on MSN",
-        "domain": "msn.com",
-        "images": null,
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -258,8 +267,8 @@
       "title": "How Diablo 4's World Tiers Change The Series' Difficulty Options",
       "excerpt": "\"Diablo\" is a linear, progression-based series. However, that's about to change. Here's how Diablo 4's World Tiers change the series' difficulty options.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-world-tiers-change-the-series-difficulty-options/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4-s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4-s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
+      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -281,7 +290,7 @@
       "publishedDateTime": "2022-11-10T19:31:24-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SVG on MSN",
+        "name": "svg on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
