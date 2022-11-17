@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/xtimus-diablo-2-druid-returns-on-
 type: video
 length: PT14M12S
 publishedDateTime: 2022-11-11T14:00:38Z
-heat: 108
+heat: 104
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxO0jX6j2ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "jVt4lkJ/2q2qOnx1HiPyGgsdTn8uAac0h8hAEY1N6q/bOh4/ql0rrCfmL43XwBm98wS5cKY2CtCDpX5zMypJuxss4htRcPnZNz6ZlRXYsxjKf3pkTsNv+nnuSP6LMaKuwFlwU9Hanx6F5dF5uga7YuJ70YPo7W/qgTd8oNzTSYQ67gAlo94WftVubSZVV1NEwHoxlF3lp7ZgXwanwmVfwxIe/e/Pz+fS0wfPYTx8EDu0Y3c9Lk3tZKQEB10PtgsrPY9KHx6UyAg6h/OZSdfzwIskc/Id+5YEHh3jmGCOWxARr/b37bwQ7TfgI1UxaB4yi596znnnf1H16uqyRIjrhvFolh6OO+MOUDwXyQqMJgX7pEIgZX/Ng2m3bQrZPLqQ9PEVq+EZvz3n0jfBaswgtf8bBeZ/ixDLerkwy8aWPns=;rjEGW477QHIhGFN7rvSTJw=="
+secured: "ATJZWtjoW2oIObbmK+X3Y+sfRacoxbjHJO4UJt7pNMErwZnn4R2CRrX5Tl00G0sM6JXsC17UsOiiFNUvrVX1erZxP+S9aV7hqRolOk9iWR7fYh7jxnd0RRrLM0YuIhOu524RcEv/DDfaIRzojGdX+qS1zl4Y7fQK1XqpQXn24wH7Q2U6LkCjwTDjFqFPlxnDKsUfc5XhINmioTQxjKCjd/W0p9Kz1BGKVqqBPIvENgsyt0OCIk9LEdke+zcv3bcPIWziDErTZYkuqGYlE1qsT7FNcHnhPJbWr/nDlX4e6qwvdg4JXLA+/P6OJS4dwJiyQiyy9hpTQkxMEe0vPJmR+zdRnwBgUyKNIJe9vQYC9FNZ/htjPYHSePadYj5qgPSrJiSTo7m6coxvC+6MtzPqfkMvr053EPNId28t2gx3Nf0=;ie8dxp96XWw6/MC5rV6OlA=="
 ---
 
