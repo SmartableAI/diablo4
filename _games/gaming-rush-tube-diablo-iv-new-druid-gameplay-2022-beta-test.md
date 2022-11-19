@@ -2,6 +2,7 @@
 title: "DIABLO IV - NEW DRUID GAMEPLAY - 2022  BETA TEST"
 excerpt: "DIABLO IV - NEW DRUID GAMEPLAY - 2022 BETA TEST Enjoying the video? pls make sure to subscribe for a regular dose of top ..."
 originalUrl: https://youtube.com/watch?v=F5JP4w0YGa4
+webUrl: https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/
 type: video
 length: PT11M13S
 publishedDateTime: 2022-11-18T13:00:32Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OfIFbDhSyclzevppwf3jvxT9PznZZpgZ6TLUSEvNdA4ULvaANKmrS7RT7N9JbDJ6INcbUhaonWidVKUX40PEOaIqiPD+Lzo+MJY5gr5NyY+D0JNL4NMdyxSDaOcJpgEqrJve2imo+npFm5n43+5nfAgacfloc7x3IYA0S4gH6zhFZy2+3tGdROaHpA+JH0eaOk2HmbY9IjjRNtKk2mqKRmyrBP8qhEvLL2aGX6bN4gJeWbCQbHB3v2MsBxDvqjyLdei5A6T9Tf9ts6QZauiLa9h4DWom+6nED/klETvIBRVLE4JSn3857uwb+3IqkxMd0SiF41XWeuQJW6eAQxXZavQ7QvaHmy2zh/KtmCD/QTnoUGzhhmhwnur2NIR0WYLCyggjf6Y0b4kwPCWbJlDPbg==;IidHF+33DsfrSkOJWrW8/g=="
+secured: "VG30SV81Ahik5rqA2UTuq8kD7uP917nXrbjpYE8r9Vuk+kaCAwa99UU5NU4GBUBMRV6fSml3Tag4wkaTsMhqRRBGMgxLMviTyfrPvwuNnqcX7SyvOPM2VBXSt7nDi/w4U9PItRzLpKkuknjjPfq8K/JKGDVhLnEMqdD173aE96E4V/PLpx/ng/AzsYHnq1ljvHWrYoaqARz1v73KCuZkcm9TIhsJSRiE5ik/vmrMYmPYj8QskhosgFiozcdwCVp4rnBB409pUMrtF4IjDNg23naAK3eh9ubmrA5fxCtP7KVUHCLF2jqDd19z3n3AGzI1NxVs6+qAAYtMCox8rNu9Gxa5wppX/qxi04RTGotIH4zSduSGVN7p9KQ/hA4WrSz7SZ97ckERQmKyxl5BhwiE6A==;gp+jE+tC9RZnKZhZuzy7FA=="
 ---
 
