@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/future-gaming-with-oliver-a-staley-diablo-iv-barbarian-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley.md",
-      "title": "Diablo IV Barbarian Gameplay Part 1 1080p/HD Future Gaming With Oliver A Staley",
-      "excerpt": "Diablo IV, Future Gaming With Oliver A Staley (Footage Courtesy Of Game Informer)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/future-gaming-with-oliver-a-staley-diablo-iv-barbarian-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/future-gaming-with-oliver-a-staley-diablo-iv-barbarian-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley/",
-      "originalUrl": "https://youtube.com/watch?v=_W2jOFizRjk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_W2jOFizRjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M14S",
-      "provider": {
-        "name": "Future Gaming With Oliver A Staley",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-16T02:34:53-08:00"
-    },
-    {
       "path": "_games/future-gaming-with-oliver-a-staley-diablo-iv-sorceress-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley.md",
       "title": "Diablo IV Sorceress Gameplay Part 1 1080p/HD Future Gaming With Oliver A Staley",
       "excerpt": "Diablo IV, Future Gaming With Oliver A Staley (Footage Courtesy Of Game Informer)",
@@ -914,6 +884,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-07T00:15:00-08:00"
+    },
+    {
+      "path": "_games/kamahl-diablo-4-druid-skills-and-talents.md",
+      "title": "Diablo 4 Druid Skills and Talents",
+      "excerpt": "What's up guys Kamahl here and today we are going to have an in depth look at the druid talent tree and skills available currently. #Diablo4 #Diablo4Druid ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-druid-skills-and-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-druid-skills-and-talents/",
+      "originalUrl": "https://youtube.com/watch?v=VHmZp3VlH4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VHmZp3VlH4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M34S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VHmZp3VlH4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-05T08:51:59-08:00"
     }
   ],
   "nextPage": 4
