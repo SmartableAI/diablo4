@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Diablo 4 Will Have a Branching Campaign In Its Open World"
-excerpt: "Joe Shely and Rod Fergusson sit down to discuss how Diablo 4's campaign had to adapt to its open world, and how exploration in the game gets rewarded."
-publishedDateTime: 2022-11-14T12:35:45Z
-originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg"
-webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg"
+excerpt: "Joe Shely and Rod Fergusson discuss how Diablo 4's campaign had to adapt to its open world, and how exploration in the game gets rewarded. Fergusson goes on to say that despite having a clear main ..."
+publishedDateTime: 2022-11-14T12:36:00Z
+originalUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
+webUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 127
+heat: 167
+published: true
 
 provider:
-  name: Game Rant on MSN
-  domain: msn.com
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA146zen.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-2.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
@@ -38,7 +42,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 may have a more open world, but the story will have \"a beginning, middle, and end\""
+    excerpt: "Diablo 4's world will permit players to leave and pick up the story at will, but although it will \"allow for non-linearity\", the story will have \"a beginning, middle, and end\". In an interview with ..."
+    publishedDateTime: 2022-11-12T09:09:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-may-have-a-more-open-world-but-the-story-will-have-a-beginning-middle-and-end"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 77
+    images:
+      - url: "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "xgWubK7+VUDkNX7hXkOzInQ44tDMgg6V56ujWsVA1T8GtyWw9/7FIlfv6l1KX6F1mLABOCDShg8Zp+W2qJuzq+0q5rDFO+K968ExW6vG+AL2uxM/V/UG0p2Eot+XiYGzuolf+2wyDLhZiuLy8hg6F14SGS0cPgwsMWauSBCKCr5KhSUySl12aItc6RR2STJI9nx7mLRWyiqejq/uUzu464gbPF0lyIqeCKkjbjeTdCUi34atG5iTmWc2Cl4kdv2T18qF3dR5ElpfOwSTYXVgz4XOssaK5PF3Mglp7oZ8uEJgAc1jtE5/3OmUI8C61xIB9DZky9wYmA5VGESz+6K1VQOEuHgYFuBTAjCkdTw5/DY=;9x0bvVTrKe7pFEF4ea5i/w=="
+secured: "UR2OT15AdLgOmvi6Eb7KHnSsPxMxgfumW5mRtHvfudW/8OGzFIFnW4CzIfcTTFW48F+StLVfFFAL7+SjbcvRAyv77ticDcdHnBEM7F0jZ+r+Ama0sCuqoNNSBpnhHcaWvm86Y4ZS55pVlERl1gpxEWsc/ZiQVy296alKu9mKjguil9HGMg6DoD81sgkrTrbMmGbnCsJWNbjaJwymWyXA/VbgWvgZOu9120Kxvqp4sXDmoTxM2X+4dIB5hB6LDJtUOdSrfz1fE2xdnKz6b8D1j9I8S3krR/CLYv/NZgk6gV0QIGn0CO8B3UP85TQdNyanl/pDJ7c2ePh08KJ/iQ3nGVDc4nmJJo5Hy+Zcp7ZQ6PI=;kkwpsMFL53i6Vf+b2RGn3Q=="
 ---
 
