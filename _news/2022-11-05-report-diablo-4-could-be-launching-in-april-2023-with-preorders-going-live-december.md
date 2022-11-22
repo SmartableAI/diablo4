@@ -24,48 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
-    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
-    publishedDateTime: 2022-11-06T19:18:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
-        width: 695
-        height: 390
-        isCached: true
-  - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
-    excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
-    publishedDateTime: 2022-11-06T11:30:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 87
-    images:
-      - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Diablo 4 Release Date Set for April 2023 - According to Reports"
-    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated a ..."
-    publishedDateTime: 2022-11-07T15:58:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2023-report"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
-        width: 695
-        height: 390
-        isCached: true
   - title: "Diablo 4 release date supposedly set for April, pre-orders soon"
     excerpt: "The Diablo 4 release date has supposedly been set for April 2023, with pre-orders for the next chapter of Blizzard's woeful RPG saga set to drop in December ..."
     publishedDateTime: 2022-11-07T04:06:00Z
@@ -80,19 +38,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rumor: Diablo 4 Releasing This Coming April"
-    excerpt: "An new leak with several sources claims that Diablo 4 has already been pegged for release as soon as April of next year."
-    publishedDateTime: 2022-11-07T03:35:00Z
-    webUrl: "https://gameranx.com/updates/id/396032/article/rumor-diablo-4-releasing-this-coming-april/"
+  - title: "Diablo 4 could be launching in April 2023, with preorders going live December"
+    excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."
+    publishedDateTime: 2022-11-05T17:30:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
     type: article
     provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 87
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 84
     images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png"
+        width: 938
+        height: 568
         isCached: true
   - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
     excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."

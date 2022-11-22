@@ -40,20 +40,6 @@ related:
         width: 600
         height: 276
         isCached: true
-  - title: "Diablo 4 May Launch In April 2023"
-    excerpt: "Rumor says Diablo 4 is reported to release in April 2023, with preorders open in December. More recently, reports suggested that Blizzards Diablo 4 would be shown off on the Game Awards 2022 show on ..."
-    publishedDateTime: 2022-11-06T17:50:00Z
-    webUrl: "https://techstory.in/diablo-4-may-launch-in-april-2023/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 87
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/diablo-4.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
     excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
     publishedDateTime: 2022-11-06T01:30:00Z
@@ -67,20 +53,6 @@ related:
       - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo.jpg"
         width: 2000
         height: 1000
-        isCached: true
-  - title: "Diablo 4 will allegedly launch in April 2023"
-    excerpt: "Rumour has it, Blizzard may be set to release Diablo 4 in April 2023. That's according to the XboxEra podcast and ..."
-    publishedDateTime: 2022-11-06T10:16:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Rumor: Diablo 4 May Launch in April 2023"
     excerpt: "Sources suggest that Activision Blizzard may be preparing to launch its next flagship ARPG, the long-awaited Diablo 4, in April 2023."
