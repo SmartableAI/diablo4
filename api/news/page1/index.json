@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-22-diablo-4-will-reportedly-receive-new-details-before-the-game-awards.md",
+      "title": "Diablo 4 Will Reportedly Receive New Details Before The Game Awards",
+      "excerpt": "Tom Henderson claimed in a new post that his sources have confirmed that Blizzard will share new details about Diablo 4 before December 8, which is expected to reveal the official release date of the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-diablo-4-will-reportedly-receive-new-details-before-the-game-awards/index.json",
+      "webUrl": "https://www.dualshockers.com/diablo-4-will-reportedly-receive-new-details-before-the-game-awards/",
+      "originalUrl": "https://www.dualshockers.com/diablo-4-will-reportedly-receive-new-details-before-the-game-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo-4-details.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end.md",
       "title": "Diablo 4 will have a \"more of a branching story\" with a beginning, middle and end",
       "excerpt": "The open world of Blizzard's next game will be detached from more free-roaming experiences like that of The Legend of Zelda: Breath of the Wild.",
@@ -88,19 +130,19 @@
     {
       "path": "_news/2022-11-12-diablo-4-predicting-the-early-class-meta.md",
       "title": "Diablo 4: Predicting the Early Class Meta",
-      "excerpt": "With fans anticipating Diablo 4's launch in early 2023, it's time to look at which classes seem best suited to both PvE and PvP situations.",
+      "excerpt": "With fans anticipating Diablo 4's launch in early 2023, it's time to look at which classes seem best suited to both PvE and PvP situations. While not official, most fans anticipate that Diablo 4 ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-predicting-the-early-class-meta/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-predicting-the-early-class-meta/ar-AA142R5d",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-predicting-the-early-class-meta/ar-AA142R5d",
+      "webUrl": "https://gamerant.com/diablo-4-early-class-meta-pvp-pve-predictions-necromancer-barbarian/",
+      "originalUrl": "https://gamerant.com/diablo-4-early-class-meta-pvp-pve-predictions-necromancer-barbarian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1431Vz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=691&y=95",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-4-predicting-early-class-meta-necro-sorc.jpg",
+          "width": 1800,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,12 +152,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T09:00:15-08:00",
+      "publishedDateTime": "2022-11-12T09:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1024,48 +1075,6 @@
       "provider": {
         "name": "GamesRadar+",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup.md",
-      "title": "According to this senior Diablo 4 dev, making a good endgame is just like making soup",
-      "excerpt": "Last month, select players were chosen to take part in a closed beta focused on Diablo 4's endgame content. In an interview with IGN (opens in new tab), Ferguson describes how the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/news/according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/ar-AA13KdGP",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/news/according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/ar-AA13KdGP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KaNM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T00:36:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
