@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-dr
 type: video
 length: PT11M13S
 publishedDateTime: 2022-11-18T13:00:32Z
-heat: 121
+heat: 125
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F5JP4w0YGa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "8XoBBErWA63mHUJLRowXovJkBPlgvHbd5C8qMGe7TQ43YBj7dLTtfIRd3w/JPDHSCCsIEhifGHZMDY4Do/XaNbviayoFfOKGlvRCIIaJnmwFTfbnbHdXE4vXbqOumntpYdsxjvMkKmwwfRSq64W1XPmA6pWIDha2fCI+hC0YNXBwiHCXqtIWZ8CLGc4CemEFw9QC8c5mCHAepDaMlxSXI26A8+Vg4HxpTwrUcnXCC44KBeXpFRS6Pzz4+yBaT0vB4OGggXegWAFjojYCHTqAr1YPkBqZ7o91uO2SIFGQb3unIsbKv5Yv0quIaVgwIeIJCftvrywn+92PNDQk4DPYHq9dHGj2ny3EM0l2ce3qpYnFQ4SUB/HzdFTftJk/lRjV1phQHOwORNUhOOgp4AdcQpTEI1UApbaZjz5+lk1hUyw=;8gH0TJEtRJrNwsRrLdHPVw=="
+secured: "2LK71hSRa5V5MR3gxojQbummi5Tg6hRyCkAD9HJKeh+b/dhUwY+VFLjGjisADymCfIJrEgl2HrqhXMpRQRsZy7tmrRDAOnXRBD5V7VjmHK+Bn0Zr7KeWCOdlZj6dR1aBX6maYG2OrCJdEOnNtjO2QywX4d8fUboS2Jk4uhwkD6oAiMaw6kzcsQCvlE9zkypPz/+T0/OD95p0Y4NWHTs7MHKPAKH/VV+xqYq4MLxFtu5eGkUS9KqJ2QOaaScjQub2u6GrRtnBB24OHMs3aWqODJPLGoqWDRsh3JqC2OxQsyiokwT+j4RRsmdpV52RkroKBu7A0gp2SbuwtBuyUpQseifbMcFpLAkH8eaxztPup7gQdiuc61H5v8kNhMIrBRgQ34Nj4nzLqbloDxsrlp5vlYMtHluWXevFxDszZ6YG1vc=;gb6TXdjJjnsCmrg1SwmvbQ=="
 ---
 
