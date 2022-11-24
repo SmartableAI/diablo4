@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-24-diablo-4-beta-release-date-speculation.md",
+      "title": "Diablo 4 beta release date speculation",
+      "excerpt": "The Diablo 4 beta release date has been in the rumour mill for quite some time now, and we’ve got the details on what to expect from the testing period ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-24-diablo-4-beta-release-date-speculation/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-beta-release-date-header.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-24T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023.md",
       "title": "'Diablo 4' release date: Game set for launch in April 2023",
       "excerpt": "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month.",
@@ -94,7 +136,7 @@
       "originalUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -116,6 +158,57 @@
         "name": "as.com",
         "domain": "as.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world.md",
+      "title": "Diablo 4 Will Have a Branching Campaign In Its Open World",
+      "excerpt": "Joe Shely and Rod Fergusson discuss how Diablo 4's campaign had to adapt to its open world, and how exploration in the game gets rewarded. Fergusson goes on to say that despite having a clear main ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-open-world-branching-campaign/",
+      "originalUrl": "https://gamerant.com/diablo-4-open-world-branching-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-2.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -344,48 +437,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest.md",
-      "title": "Diablo 4’s open world lets you walk away from its main quest",
-      "excerpt": "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-open-world-main-quest-blizzard-rpg-interview-rogue.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1033,48 +1084,6 @@
       "provider": {
         "name": "Kotaku Australia",
         "domain": "kotaku.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-rumour-diablo-4-unleashes-hell-in-april-2023.md",
-      "title": "Rumour: Diablo 4 Unleashes Hell in April 2023",
-      "excerpt": "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-rumour-diablo-4-unleashes-hell-in-april-2023/index.json",
-      "webUrl": "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023",
-      "originalUrl": "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Push Square",
-        "domain": "pushsquare.com",
         "images": null,
         "publishers": null,
         "authors": null

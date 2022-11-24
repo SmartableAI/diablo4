@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay.md",
+      "title": "Diablo 4 New Update Unveils Dungeon Details and Gameplay",
+      "excerpt": "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay/index.json",
+      "webUrl": "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay",
+      "originalUrl": "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format",
+          "width": 686,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Epicstream",
+        "domain": "epicstream.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-diablo-4-reveals-new-dungeon-details-and-gameplay-footage.md",
       "title": "Diablo 4 Reveals New Dungeon Details and Gameplay Footage",
       "excerpt": "Diablo 4 developer Blizzard Entertainment has revealed a ton of new information about the dungeons that will be present in the latest entry in the long-running action series. Although it has been ...",
@@ -1025,57 +1067,6 @@
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too.md",
-      "title": "Diablo 4’s gory kills look absolutely brutal – and its endgame is looking good, too",
-      "excerpt": "Diablo 4 is unlikely to release before the end of 2022, but regular updates from the development team mean we’re getting a good feel for how the game is likely to pan out. Blizzard Activision ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too/index.json",
-      "webUrl": "https://www.techradar.com/au/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
-      "originalUrl": "https://www.techradar.com/au/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ES3UgP6kdtKsHyufGpSrba-1200-80.jpg",
-          "width": 968,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
-      "publishedDateTime": "2021-12-20T20:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

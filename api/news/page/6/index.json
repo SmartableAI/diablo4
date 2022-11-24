@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-13-diablo-iv-quarterly-updatejune-2022.md",
+      "title": "Diablo IV Quarterly Update—June 2022",
+      "excerpt": "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-iv-quarterly-updatejune-2022/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3q/3QIS84S3PJK41654707055839.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5.md",
       "title": "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?",
       "excerpt": "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere.",
@@ -1087,48 +1138,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay.md",
-      "title": "Diablo 4 New Update Unveils Dungeon Details and Gameplay",
-      "excerpt": "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay/index.json",
-      "webUrl": "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay",
-      "originalUrl": "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format",
-          "width": 686,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Epicstream",
-        "domain": "epicstream.com",
         "images": null,
         "publishers": null,
         "authors": null
