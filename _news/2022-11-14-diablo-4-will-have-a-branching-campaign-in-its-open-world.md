@@ -6,9 +6,6 @@ publishedDateTime: 2022-11-14T12:36:00Z
 originalUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
 webUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
 type: article
-quality: 127
-heat: 167
-published: true
 
 provider:
   name: Game Rant
@@ -21,42 +18,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-2.jpg"
-    width: 1800
-    height: 900
-    isCached: true
-
-related:
-  - title: "Diablo 4’s open world lets you walk away from its main quest"
-    excerpt: "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ..."
-    publishedDateTime: 2022-11-11T09:38:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/open-world-renown"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-open-world-main-quest-blizzard-rpg-interview-rogue.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 may have a more open world, but the story will have \"a beginning, middle, and end\""
-    excerpt: "Diablo 4's world will permit players to leave and pick up the story at will, but although it will \"allow for non-linearity\", the story will have \"a beginning, middle, and end\". In an interview with ..."
-    publishedDateTime: 2022-11-12T09:09:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-may-have-a-more-open-world-but-the-story-will-have-a-beginning-middle-and-end"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 77
-    images:
-      - url: "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "S0bZKsWvRiqtSrau2s19vYrfOCF/9W95S0xOmuNOvf2K0ki9qrTb8j/tv+0REwxQEwXcQ36vDcX9KYslXez3ALLC24ddwZCe/egJVnmAX58r3sx/4as+yacAK7EnPk2O7yZVdgJ6AUd0BhUFM/xbzL/iDQ8RgWFFiah/nFQ9whSlqIcjAaJIl1ulR86LXx9ImsUGc/UDRZ8aSIzdqZnk6ZqzXFEqHBXVQdn1JsXgbQbTqtowketzewOlQtmqP/wjaJWeM0wCqMviWY1Rw2RE03eFduQbxw7qCTXAWV9pvzzzYX8TOU7viobG0xF6y6YAEqrw5LdITozUHMzclCSWUda4Wt7j7VoxFJTaiKGTBcA=;QxQ38uXV8H/PgGGj9wZq3A=="
+secured: "W/nxtX/OnMuszqt6uq01xg459IyYu2MiwIznYf3zCjE30rVhNw6zjWvYSl4auE9jAjlZnlFDrsVDcWNvSjyjNOzK897E0JSx84l9A9VJNQkZE+k6EqMXgIBtu6oXqCh1Dw3ziYlroWKnHDZB8dTBrdSU+mngSPhXyBH+CDVBhNExrY51knP2kYeExEnSfU3zD1IVyigG7k4Q10s1b6lA/cQT4y81gA7PGlFhnlUduZ4r939+tlBtzk7O8gWaBYz9dJHBEZBDRUEE4pJ98q/ilhtF6/f6PXFfLHMAvnrt4ODxRtTsyz17JzIsPuGUgTx9qbwR/1cyyLNP67Qx3rlVXSjlTX6dvgBH0ZHqENgfIEQ=;ISF2/t9/55qnwgaOiBK6Yg=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/xtimus-diablo-2-druid-returns-on-
 type: video
 length: PT14M12S
 publishedDateTime: 2022-11-11T14:00:38Z
-heat: 79
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxO0jX6j2ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
