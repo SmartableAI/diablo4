@@ -40,34 +40,6 @@ related:
         width: 600
         height: 276
         isCached: true
-  - title: "Diablo 4 is reportedly launching in April 2023"
-    excerpt: "Diablo 4 will reportedly release in April, and preorders for the game will open in December, according to a new report."
-    publishedDateTime: 2022-11-06T01:43:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4-is-reportedly-launching-in-april-2023/"
-    type: article
-    provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
-    quality: 87
-    images:
-      - url: "https://www.videogameschronicle.com/files/2021/08/Diablo-4-rogue-art.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 Reportedly Targets An April 2023 Launch"
-    excerpt: "As reported by Windows Central, sources have confirmed that Diablo 4 will get an official release date next month during The Game Awards 2022 ceremony. The source claims that the game will be released ..."
-    publishedDateTime: 2022-11-06T01:30:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-reportedly-targets-april-2023-launch/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Diablo 4 claimed to be launching in April 2023"
     excerpt: "Diablo 4 could launch in April 2023, if new rumours are accurate. It's also alleged that the game's release date will be set at The Game Awards on December 8th."
     publishedDateTime: 2022-11-07T03:46:00Z
