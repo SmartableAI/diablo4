@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-14T12:36:00Z
 originalUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
 webUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
 type: article
+quality: 127
+heat: 167
+published: true
 
 provider:
   name: Game Rant
@@ -18,6 +21,42 @@ provider:
 topics:
   - Diablo 4
 
-secured: "W/nxtX/OnMuszqt6uq01xg459IyYu2MiwIznYf3zCjE30rVhNw6zjWvYSl4auE9jAjlZnlFDrsVDcWNvSjyjNOzK897E0JSx84l9A9VJNQkZE+k6EqMXgIBtu6oXqCh1Dw3ziYlroWKnHDZB8dTBrdSU+mngSPhXyBH+CDVBhNExrY51knP2kYeExEnSfU3zD1IVyigG7k4Q10s1b6lA/cQT4y81gA7PGlFhnlUduZ4r939+tlBtzk7O8gWaBYz9dJHBEZBDRUEE4pJ98q/ilhtF6/f6PXFfLHMAvnrt4ODxRtTsyz17JzIsPuGUgTx9qbwR/1cyyLNP67Qx3rlVXSjlTX6dvgBH0ZHqENgfIEQ=;ISF2/t9/55qnwgaOiBK6Yg=="
+images:
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-2.jpg"
+    width: 1800
+    height: 900
+    isCached: true
+
+related:
+  - title: "Diablo 4’s open world lets you walk away from its main quest"
+    excerpt: "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ..."
+    publishedDateTime: 2022-11-11T09:38:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/open-world-renown"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-open-world-main-quest-blizzard-rpg-interview-rogue.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 may have a more open world, but the story will have \"a beginning, middle, and end\""
+    excerpt: "Diablo 4's world will permit players to leave and pick up the story at will, but although it will \"allow for non-linearity\", the story will have \"a beginning, middle, and end\". In an interview with ..."
+    publishedDateTime: 2022-11-12T09:09:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-may-have-a-more-open-world-but-the-story-will-have-a-beginning-middle-and-end"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 77
+    images:
+      - url: "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "mOLbL5hbpl0ZwiZE17m2XeKxqFzbicSlhKuujgeQNghR82pyZRAlbI2EudPEDEkUSwZkKWmKflIaPt5I6kJTH5KxfQo9zYW2c6XqMEHFXlHugMCYPi7bArwXQKSSVfQBRkpZ/vRDq64otDNa+u4A2gZ3uqNmrJceVtVxwGapcdE1UJlmRKWVxY4Hoe6QohN0LQ+dZj0ru6cyb5imZAqpThf+7wrV4NEe8NMoqK97ITWrZsIIMHveL5DOQL4tcqYAzfZuS5vu/v78PtXM/I1AkWOgxzu+FyWRnkN/AFBfso9cHJYvhCFYonf3VKM0TcOcD+wF4CIEiuwLjlUIZVK9KFMbLTaggqUSncEFYRqm3IU=;Z+tuCF1MZoFnvJ6a+5gfFA=="
 ---
 
