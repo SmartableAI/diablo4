@@ -46,22 +46,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 Report Leaks April Release Date"
-    excerpt: "And of course, if any information about a specific day in April emerges, we will also be sure to update the story. Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series ..."
-    publishedDateTime: 2022-11-05T19:39:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "The Diablo 4 release date has been leaked, and it’s very soon"
     excerpt: "According to several sources, Diablo 4 is launching much sooner than we expected, with it being planned for a reveal during The Game Awards 2022."
     publishedDateTime: 2022-11-07T08:34:00Z

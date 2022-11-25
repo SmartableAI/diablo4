@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-release-month-has-rep
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/"
 type: article
 quality: 147
-heat: 267
+heat: 247
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Report Leaks April Release Date"
-    excerpt: "And of course, if any information about a specific day in April emerges, we will also be sure to update the story. Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series ..."
-    publishedDateTime: 2022-11-05T19:39:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-release-date-report/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-release-date-report/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/03/18/8d392535-4d08-4a2a-9a51-fbdcba1a6e5f/playstation-orange-1242469.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
     excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
     publishedDateTime: 2022-11-06T05:28:00Z
