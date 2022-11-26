@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-x
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/"
 type: article
 quality: 102
-heat: 162
+heat: 122
 published: true
 
 provider:
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 claimed to be launching in April 2023"
-    excerpt: "Diablo 4 could launch in April 2023, if new rumours are accurate. It's also alleged that the game's release date will be set at The Game Awards on December 8th."
-    publishedDateTime: 2022-11-07T03:46:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-claimed-to-be-launching-in-april-2023"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 87
-    images:
-      - url: "https://assets2.rockpapershotgun.com/diablo-4-battle-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-battle-art.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Diablo 4 could launch in April 2023, open pre-orders next month"
-    excerpt: "several reports have narrowed the release date for the highly anticipated Diablo 4 down to April 2023. Blizzard hasn't been more specific than \"sometime in 2023\" when it comes to Diablo 4's release ..."
-    publishedDateTime: 2022-11-07T02:47:00Z
-    webUrl: "https://www.techspot.com/news/96572-diablo-4-could-launch-april-2023-pre-orders.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Diablo 4 Reportedly Headed For April 2023 Launch"
     excerpt: "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April."
     publishedDateTime: 2022-11-07T12:04:00Z
