@@ -42,22 +42,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
-    excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
-    publishedDateTime: 2022-11-06T05:28:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 553
-        isCached: true
   - title: "Diablo 4 will reportedly release in April 2023"
     excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
     publishedDateTime: 2022-11-06T12:32:10Z

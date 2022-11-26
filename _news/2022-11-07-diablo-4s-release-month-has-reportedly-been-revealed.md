@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-release-month-has-rep
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/"
 type: article
 quality: 147
-heat: 247
+heat: 227
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Diablo 4’s Release Date Is Shockingly Close"
-    excerpt: "It is genuinely a little hard to believe that Diablo 4 could be just six months away. We have seen very little footage from the game, relatively speaking, though we have gotten ma ..."
-    publishedDateTime: 2022-11-06T05:28:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 553
-        isCached: true
   - title: "The Diablo 4 release date has been leaked, and it’s very soon"
     excerpt: "According to several sources, Diablo 4 is launching much sooner than we expected, with it being planned for a reveal during The Game Awards 2022."
     publishedDateTime: 2022-11-07T08:34:00Z
