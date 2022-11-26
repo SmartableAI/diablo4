@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments.md",
-      "title": "Diablo 4 Quarterly Update  - Feedback on Skill Tree, Items and Sorceress Enchantments",
-      "excerpt": "In this video we dig deep in to the latest changes that have been announced for Diablo 4. These changes include things such as the Sorceress Enchantment ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments/",
-      "originalUrl": "https://youtube.com/watch?v=Mr1gylHtYQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mr1gylHtYQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M",
-      "provider": {
-        "name": "KokushiGG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mr1gylHtYQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-30T10:23:08-07:00"
-    },
-    {
       "path": "_games/konstantin-stelmach-sound-design-diablo-ivs-sorceress-gameplay.md",
       "title": "Sound Design: Diablo IV's Sorceress Gameplay",
       "excerpt": "Original video by Game Informer: https://youtu.be/qPTOEGU04X4.",
@@ -124,6 +94,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
+    },
+    {
+      "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
+      "title": "Diablo IV -  All Classes GAMEPLAY / Rogue, Barbarian, Sorceress, Druid, Necromancer, BOSS, PVP",
+      "excerpt": "Which class would you like to play? Please don't forget to LIKE & SUBSCRIBE! You can also COMMENT & ↪ SHARE!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/",
+      "originalUrl": "https://youtube.com/watch?v=cgaeM4CyZdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgaeM4CyZdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M35S",
+      "provider": {
+        "name": "Salus Vindex Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-14T08:16:53-07:00"
     },
     {
       "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
