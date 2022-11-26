@@ -40,20 +40,6 @@ related:
         width: 992
         height: 631
         isCached: true
-  - title: "Diablo 4 release date might be in April 2023"
-    excerpt: "Diablo 4’s release date may have been revealed, although not officially, to be in April 2023. Just as a disclaimer, Blizzard, as of the writing of this article, has not revealed the true release date ..."
-    publishedDateTime: 2022-11-06T22:00:58Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-might-be-in-april-2023/ar-AA13Ol4O"
-    type: article
-    provider:
-      name: Jerry on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13OGpu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=200"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Mk9VwlkkryfTYfhemLsCHTjAv/QgyfHQblRDsieXztdBn2dYZWw9Nyfo7ZxNA2bYBMf0tEf7ksrWFPyXUOlmR5EWGEpPLT2M4Pb2Wk0vVq1HaoHmPg1sGUENW/ht91hrT0JiaknbGk64zOmWLW9r+ntAylPeqwHAZY1cn/7/WV5OPAXvc74AvLO9/rEe2txz6Ogimfvs7v8gx6MprFP/T5FmQ/0P3jfdrgre2alfXDSd69mgdDXQV5jkO4P4gJRbzr7afKZ6xR0/bk5LSHYWmGUO1l0kxsniCsO/XTi77TIhOEAaiRztyPSkvPnT+wi8gHeXwqxcPATVSl3m/vdGoNTZLj7r2V+W9mvtW7SviyY=;vYMBLq0NQjeGEuqgGv0NKA=="
 ---

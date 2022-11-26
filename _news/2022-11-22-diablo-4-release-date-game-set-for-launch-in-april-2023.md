@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-apri
 cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 release date might be in April 2023"
-    excerpt: "Diablo 4’s release date may have been revealed, although not officially, to be in April 2023. Just as a disclaimer, Blizzard, as of the writing of this article, has not revealed the true release date ..."
-    publishedDateTime: 2022-11-06T22:00:58Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-might-be-in-april-2023/ar-AA13Ol4O"
-    type: article
-    provider:
-      name: Jerry on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13OGpu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Release Date Set for April 2023 - According to Reports"
     excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated a ..."
     publishedDateTime: 2022-11-07T15:58:00Z
