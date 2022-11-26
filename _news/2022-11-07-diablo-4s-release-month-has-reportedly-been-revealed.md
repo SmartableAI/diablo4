@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-release-month-has-rep
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/"
 type: article
 quality: 147
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2022/07/Diablo-4-Necromancer-beta-2000x1270-1.jpg"
         width: 2000
         height: 1270
-        isCached: true
-  - title: "Diablo 4 Release Reportedly Targeting April 2023, Preorders Live In December"
-    excerpt: "Diablo 4 could be launching in April 2023, according to sources at both Windows Central and the team at the XboxEra podcast. Blizzard is reportedly planning a significant marketing campaign for Diablo ..."
-    publishedDateTime: 2022-11-07T01:50:00Z
-    webUrl: "https://www.psu.com/news/diablo-4-release-reportedly-targeting-april-2023-preorders-live-in-december/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 84
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2022/11/Diablo4-1.jpeg"
-        width: 768
-        height: 428
         isCached: true
 
 secured: "jZclh5b0uOp4FuHGu5q9etz0PY+RAlI3ufHoLcfE7E330v7N4/eBLgoKWIhSYPys3b6HE7rBKrzgMM84Z45ZQGdgw0urzlDjGRJsevZCIZRaeiQDsmPxVe0KOX6TkEDmCKmEW5U4RR06jhCh2ypVFMjH4nlAk/HxPgSMoe+30ZQW1R3rlUP/uuWGasGP03O36ohLzJX8EIVblmj4IlI5tRG0dOHVoH/9meWm9TZQN15Ct1+ThZjdRAO8MjI439xJhhKaIgPp4EXST3NEq6SEbQfNmJzI/1pSnaEcEwTlbf4IvX9qBwkXU482iwSAKhbGzYoR1dYbwehPf5wkfnhThLzLRJ909X+MqAgs4aBG09k=;7p/9mgyVPT584AIBiNfTmg=="
