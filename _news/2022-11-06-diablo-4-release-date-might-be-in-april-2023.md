@@ -24,35 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Seems The Diablo 4 Release Date Could Be A Lot Closer Than We Expected"
-    excerpt: "Another pull from the Activision Blizzard rumour mill this morning: it seems Blizzard could be preparing Diablo 4 for launch in April 2023. The current thinking is that, if Blizzard has anything to ..."
-    publishedDateTime: 2022-11-06T16:02:00Z
-    webUrl: "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/"
-    ampWebUrl: "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/amp/"
-    cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/amp/"
+  - title: "'Diablo 4' release date: Game set for launch in April 2023"
+    excerpt: "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month."
+    publishedDateTime: 2022-11-22T03:54:00Z
+    webUrl: "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120"
+    ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120"
     type: article
     provider:
-      name: Kotaku Australia
-      domain: kotaku.com.au
+      name: IBTimes UK
+      domain: ibtimes.co.uk
     quality: 107
     images:
-      - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/csm_D4_TreasureBeast_8dacc3a1b82d982f9bdd_eced159fed-e1667778520823.png?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
+      - url: "https://d.ibtimes.co.uk/en/full/1390623/diablo-3-xbox-one.jpg"
+        width: 992
+        height: 631
         isCached: true
-  - title: "Diablo 4 could launch earlier in 2023 than we expected"
-    excerpt: "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ..."
-    publishedDateTime: 2022-11-07T10:44:00Z
-    webUrl: "https://www.tomsguide.com/news/diablo-4-possible-release-date"
+  - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
+    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
+    publishedDateTime: 2022-11-06T19:18:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
+      name: Aus Games
+      domain: ausgamers.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg"
-        width: 1200
-        height: 711
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
+        width: 695
+        height: 390
+        isCached: true
+  - title: "Diablo 4 Release Date Set for April 2023 - According to Reports"
+    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated a ..."
+    publishedDateTime: 2022-11-07T15:58:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2023-report"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 87
+    images:
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
+        width: 695
+        height: 390
         isCached: true
 
 secured: "Uh4KjPIeGX3AcbJNck2UzlEev7yejiXHNoW9PaiQ6/LxR9AIacbSncKTNSZKh9m3LpJtp9b9XbhnmCNAV03Yhqbc1erKL4JCZLGeSBW5fqMeSa/RViR6K6tLb0WPptEAELhmCVToFKHo6LtfFIEp+vAE3wq+ZPh7rpg58aGBZGlZRMpOQGbYSoec8/GyKfOoQuog6gRoJXiEjY/vXq3TXqGQeeUkexPyen/btvmy/aWvRxVg7V0QDgtqPcoq+hmFvIQcmbKZlxvOv/668/8zFL7yVyvmP0v2CrwpttjRftdff90VPWA06IwIWSliwQF6desSNxQIVFTEzyCxenOoklPYfVKpYwJ775Qu1SsEzqM=;qGYz3Lnxv9V7rXSTgYHXGg=="

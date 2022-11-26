@@ -785,6 +785,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected.md",
+      "title": "Diablo 4 could launch earlier in 2023 than we expected",
+      "excerpt": "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected/index.json",
+      "webUrl": "https://www.tomsguide.com/news/diablo-4-possible-release-date",
+      "originalUrl": "https://www.tomsguide.com/news/diablo-4-possible-release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-diablo-4s-world-tiers-will-be-gatekept-by-powerful-world-bosses.md",
       "title": "Diablo 4's World Tiers Will Be Gatekept By Powerful World Bosses",
       "excerpt": "An \"extremely difficult\" world boss designed for level-100 characters awaits players at the end of Diablo IV's endgame.",
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "Game Rant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments.md",
-      "title": "Diablo 4 announcement canceled. - Hearthstone Moments",
-      "excerpt": "Hearthstone Best Moments! Streamed 2018-11-07 - 2018-11-07. Remember to like and subscribe! Join my discord: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/",
-      "originalUrl": "https://youtube.com/watch?v=opNgV94aw3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/opNgV94aw3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T11:49:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoalai - Warcraft",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
