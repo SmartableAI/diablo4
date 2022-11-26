@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Rumour: Diablo 4 Unleashes Hell in April 2023"
-    excerpt: "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ..."
-    publishedDateTime: 2022-11-06T11:30:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023"
+  - title: "Diablo 4 release date supposedly set for April, pre-orders soon"
+    excerpt: "The Diablo 4 release date has supposedly been set for April 2023, with pre-orders for the next chapter of Blizzard's woeful RPG saga set to drop in December ..."
+    publishedDateTime: 2022-11-07T04:06:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders"
     type: article
     provider:
-      name: Push Square
-      domain: pushsquare.com
+      name: PCGamesN
+      domain: pcgamesn.com
     quality: 87
     images:
-      - url: "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-release-date-april-pre-orders.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
+    excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."
+    publishedDateTime: 2022-11-06T12:17:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZTnCus52zdGg2xK55e6QrS-1200-80.png"
+        width: 938
+        height: 568
         isCached: true
 
 secured: "+pnNt4nvdQJ7Jl5ImPYDlQO0HSzY6OBfs835LQ0cdHeS/qNqpu5fP6wH/ydZsYp6yB/XOY7YNGajsczTIdpBHb0U01FnS0XM2qM1RtehbILkyENR2q9ngRRGcAKiqzieWKWIWZW7yJmo7pmXOniljVierO6ysodibQHuQKh909Fsd8vQ4gSneV9Fj3fF+pzvryGCmv9sTNcK8GIz72LCQ8DV7S1xKcekM0e1UbSIr2E4t5g3a7AAmOval5HTSmL2aiIZ+TsHp77r923ThekuB2DcTgPJsUxVFzaxk5MUf/dr4GbniUIpSaVG/F2Ac/AuFo3iCGF4M7ZHFMZfgEzfHpu8z6xe2z38Z214BB7IACM=;Gk9k3qSwfft9OPN8IwQDjA=="

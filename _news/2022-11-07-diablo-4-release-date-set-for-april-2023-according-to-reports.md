@@ -68,20 +68,6 @@ related:
         width: 695
         height: 390
         isCached: true
-  - title: "Diablo 4 will allegedly launch in April 2023"
-    excerpt: "Rumour has it, Blizzard may be set to release Diablo 4 in April 2023. That's according to the XboxEra podcast and ..."
-    publishedDateTime: 2022-11-06T10:16:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-will-allegedly-launch-in-april-2023"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo-4-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-leak.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Mk9VwlkkryfTYfhemLsCHTjAv/QgyfHQblRDsieXztdBn2dYZWw9Nyfo7ZxNA2bYBMf0tEf7ksrWFPyXUOlmR5EWGEpPLT2M4Pb2Wk0vVq1HaoHmPg1sGUENW/ht91hrT0JiaknbGk64zOmWLW9r+ntAylPeqwHAZY1cn/7/WV5OPAXvc74AvLO9/rEe2txz6Ogimfvs7v8gx6MprFP/T5FmQ/0P3jfdrgre2alfXDSd69mgdDXQV5jkO4P4gJRbzr7afKZ6xR0/bk5LSHYWmGUO1l0kxsniCsO/XTi77TIhOEAaiRztyPSkvPnT+wi8gHeXwqxcPATVSl3m/vdGoNTZLj7r2V+W9mvtW7SviyY=;vYMBLq0NQjeGEuqgGv0NKA=="
 ---

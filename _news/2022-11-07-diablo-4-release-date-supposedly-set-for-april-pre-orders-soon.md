@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders"
 webUrl: "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rumor: Diablo 4 Releasing This Coming April"
+    excerpt: "An new leak with several sources claims that Diablo 4 has already been pegged for release as soon as April of next year."
+    publishedDateTime: 2022-11-07T03:35:00Z
+    webUrl: "https://gameranx.com/updates/id/396032/article/rumor-diablo-4-releasing-this-coming-april/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report: Diablo 4 could be launching in April 2023, with preorders going live December"
     excerpt: "Diablo 4 (also known as Diablo IV) is already officially slated for 2023, but now we may have narrowed it down to a specific month. Diablo 4 is the latest installment in Blizzard's legendary action ..."
     publishedDateTime: 2022-11-06T12:17:00Z

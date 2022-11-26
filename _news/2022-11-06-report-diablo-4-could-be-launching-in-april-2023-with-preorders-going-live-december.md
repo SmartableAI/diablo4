@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Rumor: Diablo 4 Releasing This Coming April"
+    excerpt: "An new leak with several sources claims that Diablo 4 has already been pegged for release as soon as April of next year."
+    publishedDateTime: 2022-11-07T03:35:00Z
+    webUrl: "https://gameranx.com/updates/id/396032/article/rumor-diablo-4-releasing-this-coming-april/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 87
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8C2SIapL7muTXiB/7+Z41rLr+71itxpF6Nqfs1kRGKZhusEAs0IYrt9RIUbMkJiGdpdUmyxdo14OOFSQuKu1jIt4X7pbJYEFUBDSIzQN299qYykiT9xvF5hnzIky82d9Zlfc5ASY7rlOlV8lk7OaY/l8BYYVfvVjx9LnM4apuNWIcHdymKKOXADY4ssC9IpD0XEudoMY7+arPnps0jOOB03WDDnUG9Pgl2rZ23NjuPBxW0E/DZw45Isz/apxWt9ZegHDdqLK6zn84jTTwbzwWJwft45g6zCWgrBVPDRJfWJWwcJYvWt7KxpMW9akUZHgpo2HFWCjWfvtxMw27IHV1nBhbqKkHJK329Uw1mJ0Y/8=;TiQOWSXOuvvyqD6gGOPKTw=="
 ---
