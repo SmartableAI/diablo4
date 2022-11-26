@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
-    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
-    publishedDateTime: 2022-11-06T19:18:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
-        width: 695
-        height: 390
-        isCached: true
 
 secured: "Mk9VwlkkryfTYfhemLsCHTjAv/QgyfHQblRDsieXztdBn2dYZWw9Nyfo7ZxNA2bYBMf0tEf7ksrWFPyXUOlmR5EWGEpPLT2M4Pb2Wk0vVq1HaoHmPg1sGUENW/ht91hrT0JiaknbGk64zOmWLW9r+ntAylPeqwHAZY1cn/7/WV5OPAXvc74AvLO9/rEe2txz6Ogimfvs7v8gx6MprFP/T5FmQ/0P3jfdrgre2alfXDSd69mgdDXQV5jkO4P4gJRbzr7afKZ6xR0/bk5LSHYWmGUO1l0kxsniCsO/XTi77TIhOEAaiRztyPSkvPnT+wi8gHeXwqxcPATVSl3m/vdGoNTZLj7r2V+W9mvtW7SviyY=;vYMBLq0NQjeGEuqgGv0NKA=="
 ---

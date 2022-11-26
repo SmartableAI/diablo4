@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-apri
 cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120"
 type: article
 quality: 107
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13OGpu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo 4 Release Date Set for April 2024 - According to Reports"
-    excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated action-RPG ..."
-    publishedDateTime: 2022-11-06T19:18:00Z
-    webUrl: "https://www.ausgamers.com/news/read/3643057/diablo-4-release-date-april-2024-report"
-    type: article
-    provider:
-      name: Aus Games
-      domain: ausgamers.com
-    quality: 87
-    images:
-      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4beta.jpg"
-        width: 695
-        height: 390
         isCached: true
   - title: "Diablo 4 Release Date Set for April 2023 - According to Reports"
     excerpt: "With a Closed Beta underway, testing the end-game features of Diablo 4, and a planned \"first-half of 2023\" release window currently - it's safe to assume that Blizzard's highly anticipated a ..."
