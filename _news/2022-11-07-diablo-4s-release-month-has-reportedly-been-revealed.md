@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-release-month-has-rep
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-release-month-has-reportedly-been-revealed/1100-6508961/"
 type: article
 quality: 147
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://as01.epimg.net/meristation_en/imagenes/2022/11/07/news/1667837734_015373_1667838602_portada_normal.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4 will reportedly release in April 2023"
-    excerpt: "If these reports are true, the highly-anticipated RPG will reportedly open up for pre-orders next month, launch in early access in February, and be fully released in April 2023. That's according to ..."
-    publishedDateTime: 2022-11-06T12:32:10Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-reportedly-release-in-april-2023/ar-AA13Obz9"
-    type: article
-    provider:
-      name: GamesRadar on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rx8e.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "‘Diablo 4’ reportedly set to arrive in April 2023"
     excerpt: "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ..."
