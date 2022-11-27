@@ -785,6 +785,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-07-diablo-4-endgame-has-a-level-100-boss-that-gatekeeps-world-tiers.md",
+      "title": "Diablo 4 endgame has a level 100 boss that “gatekeeps” world tiers",
+      "excerpt": "The Diablo 4 endgame will have a mammoth level 100 boss that players will need to defeat to progress through different world tiers in Blizzard's action RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-endgame-has-a-level-100-boss-that-gatekeeps-world-tiers/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/endgame-boss-world-tier",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/endgame-boss-world-tier",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-endgame-bosses-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch.md",
       "title": "Diablo 4 Reportedly Headed For April 2023 Launch",
       "excerpt": "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April.",
@@ -793,7 +835,7 @@
       "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window.md",
-      "title": "'Diablo 4' Gets An Open Beta Date And Release Window",
-      "excerpt": "\"Diablo 4\" is almost out of the development oven, but it still needs plenty of testing to ensure a favorable launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window/index.json",
-      "webUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
-      "originalUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
-          "width": 1455,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
-      "publishedDateTime": "2022-11-06T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
