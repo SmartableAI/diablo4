@@ -1,62 +1,46 @@
 ---
 category: news
 title: "Diablo 4 Will Have a Branching Campaign In Its Open World"
-excerpt: "Joe Shely and Rod Fergusson discuss how Diablo 4's campaign had to adapt to its open world, and how exploration in the game gets rewarded. Fergusson goes on to say that despite having a clear main ..."
-publishedDateTime: 2022-11-14T12:36:00Z
-originalUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
-webUrl: "https://gamerant.com/diablo-4-open-world-branching-campaign/"
+excerpt: "Diablo 4 is shaking up the saga's formula in a big way: its open world will allow players to tackle the storyline in an order of their choosing. In previous Diablo games, the narrative was linear ..."
+publishedDateTime: 2022-11-14T16:05:00Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg"
 type: article
-quality: 127
-heat: 167
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Game Rant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-2.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA146zen.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Diablo 4’s open world lets you walk away from its main quest"
-    excerpt: "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ..."
-    publishedDateTime: 2022-11-11T09:38:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/open-world-renown"
+  - title: "Blizzard Embraces Open World Gaming For 'Diablo 4'"
+    excerpt: "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ..."
+    publishedDateTime: 2022-11-14T11:38:00Z
+    webUrl: "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791"
+    ampWebUrl: "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 107
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-open-world-main-quest-blizzard-rpg-interview-rogue.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 may have a more open world, but the story will have \"a beginning, middle, and end\""
-    excerpt: "Diablo 4's world will permit players to leave and pick up the story at will, but although it will \"allow for non-linearity\", the story will have \"a beginning, middle, and end\". In an interview with ..."
-    publishedDateTime: 2022-11-12T09:09:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-may-have-a-more-open-world-but-the-story-will-have-a-beginning-middle-and-end"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 77
-    images:
-      - url: "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg"
-        width: 1600
-        height: 900
+      - url: "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png"
+        width: 1455
+        height: 796
         isCached: true
 
-secured: "h/UxWYJaLI6pLnRW0n8GAutXkrbhPF8RBjRP0LW/2BeKltpmK6OW1SigN3tac2NEAvbMB69Jp3YX5zXBEzal1wqiEW0lfRtJLOx/qLNepXQ8G0R0s+p8FAlGRtCERJ+f6KmJJQsO/OXP0Nazwa41aC72UR6xzTeqQpnAEr+by3FmERVvwuREZzOR3dq3l/7ypeZ78Lv5QoHVDK/Bp5Fq2O4gRYa202osei9sPVvgI3cZujIwALjuP7XpSckkcFRzdTr04A+kAtSzGgstGNdgcC616pluDRldch6IzHac+2xThOvvbHRnWQOkRjGASPUbirGkotkFBp+UYUvAU4idr/7ImEUWNWZQcSfwtAOuaAM=;TCvRMMoTFgS0/hZABAi+Ug=="
+secured: "ZRqk+lwGlV3H1AbIzT5sAwdTxvCwnR2bl1hLawsEgvQx+aGb2tvLwCsRvfEj1wypoQJ2lLqZQY/mVDG2cGID8MdSvw/ACVcdXkp0vn06ZHUI4plbrNBSJ4c7cY8nps3ilkcOHg2ZFUyipLQQnKVwY2PgUj2d3t9sIkCs4mKejK5eYR3xqUsmBPJswbU2L06bvv6uSp4va1y+Sm26xXgtEl4yyY50A48D4DBWJ8VV8A9YD0JotC4atwvY6zbKCgFKKDCjVBETiwfOH7zbWIWuTfdfhY7/lBcRBSRZgvK6H3zuynmbZxgz0JaVNbiJZM7teGNUm8QSh56dTPqYGS11r7/hvFaxn9PrUkRpX8UPhDM=;RJvtD17qMqkL2bRwntAwJg=="
 ---
 

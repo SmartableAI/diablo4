@@ -2,6 +2,90 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access.md",
+      "title": "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access",
+      "excerpt": "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/",
+      "originalUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp",
+      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp",
+      "publishedDateTime": "2022-06-11T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-diablo-4-will-have-an-in-game-store-job-ad-confirms.md",
+      "title": "Diablo 4 will have an in-game store, job ad confirms",
+      "excerpt": "It’s now confirmed, perhaps to no one’s surprise: there will be an in-game Diablo IV store when the RPG game finally releases. Activision Blizzard is currently hiring someone to manage this “Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-11-diablo-4-will-have-an-in-game-store-job-ad-confirms/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/in-game-store",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/in-game-store",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-in-game-store.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-11T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4.md",
       "title": "10 games like Diablo to play if you're bored of waiting for Diablo 4",
       "excerpt": "Here are the 10 best games like Diablo that you really should play, especially if you're getting a little bored of waiting for Diablo 4 to release. While Diablo Immortal for mobile and PC certainly ...",
@@ -982,90 +1066,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-diablo-4-getting-a-new-endgame-progression-system.md",
-      "title": "Diablo 4 getting a New Endgame Progression system",
-      "excerpt": "According to Blizzard's blog, the impending next installment in the iconic ARPG game will place a greater emphasis on character power obtained through player actions during leveling up, rather than a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-23-diablo-4-getting-a-new-endgame-progression-system/index.json",
-      "webUrl": "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/",
-      "originalUrl": "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technosports.co.in/wp-content/uploads/2021/12/maxresdefault-4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2021/12/23/diablo-4-getting-a-new-endgame/?amp",
-      "publishedDateTime": "2021-12-22T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-diablo-4-development-update-brings-fresh-new-look-to-legendary-gear-class-skills-end-game-character-and-more.md",
-      "title": "Diablo 4 development update brings fresh new look to legendary gear, class skills, end game character, and more",
-      "excerpt": "Diablo 4's itemization The developers announced that the +Skill Rank affix is returning in Diablo 4. Joe Piepiora, Lead Systems Designer, shares that: \"As players invest points in skills, they ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-22-diablo-4-development-update-brings-fresh-new-look-to-legendary-gear-class-skills-end-game-character-and-more/index.json",
-      "webUrl": "https://www.sportskeeda.com/esports/diablo-4-development-update-brings-fresh-new-look-legendary-gear-class-skills-end-game-character",
-      "originalUrl": "https://www.sportskeeda.com/esports/diablo-4-development-update-brings-fresh-new-look-legendary-gear-class-skills-end-game-character",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://staticg.sportskeeda.com/editor/2021/12/da176-16401592873492-1920.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sportskeeda.com/amp/esports/diablo-4-development-update-brings-fresh-new-look-legendary-gear-class-skills-end-game-character",
-      "cdnAmpWebUrl": "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/diablo-4-development-update-brings-fresh-new-look-legendary-gear-class-skills-end-game-character",
-      "publishedDateTime": "2021-12-21T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sportskeeda",
-        "domain": "sportskeeda.com",
         "images": null,
         "publishers": null,
         "authors": null
