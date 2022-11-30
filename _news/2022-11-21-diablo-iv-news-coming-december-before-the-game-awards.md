@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards"
+    excerpt: "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ..."
+    publishedDateTime: 2022-11-22T18:28:00Z
+    webUrl: "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/"
+    type: article
+    provider:
+      name: xfire
+      domain: xfire.com
+    quality: 86
+    images:
+      - url: "https://www.xfire.com/wp-content/uploads/2022/11/blizzard-release-date-diablo-4-the-game-awards-8.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Z6RDw33GOazEj288JDzBYcLideuyAdScKqCECiWod+XkUfN6WIUzI21zdxaBr4cjyyc6rGj70UV8jOT/U7zI2jGEVmh7qyKOcZwz0FzOWbQLctywJeCeQcz9/o3yNH0afi2EmFD+vYVwKpWfSdUgIad7EE/ZXuKL3r1F0p5k8zMjeOKnG78a06T7pUfX5tpmbp8ZNN70n17Fie/2kRmrn1SOvPKXJkt1OsJxhykV5UWHkrzPlUwa+doBtBrRpvR55vzeDJPL4fwjsWxghTKQxyk4iFLLjew6b+l+N6qEcdqevx0R5R9nenRxq65WE94y2XK9oqxu8wz2JisvUkwog68fpHc44w5io9l0LyTuCSo=;DHHWBhz17lG+mlBsCQOfvg=="
 ---
