@@ -7,8 +7,8 @@ originalUrl: "https://www.dualshockers.com/diablo-4-will-reportedly-receive-new-
 webUrl: "https://www.dualshockers.com/diablo-4-will-reportedly-receive-new-details-before-the-game-awards/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: DualShockers
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Info on Diablo 4 Could Appear Even Before The Game Awards"
+    excerpt: "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ..."
+    publishedDateTime: 2022-11-22T04:02:00Z
+    webUrl: "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a"
+    ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=19722"
+    cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722"
+    type: article
+    provider:
+      name: XCOM 2 Game Guide
+      domain: gamepressure.com
+    quality: 107
+    images:
+      - url: "https://cdn.gracza.pl/i_gp/h/22/406814604.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards"
     excerpt: "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ..."
     publishedDateTime: 2022-11-22T18:28:00Z
