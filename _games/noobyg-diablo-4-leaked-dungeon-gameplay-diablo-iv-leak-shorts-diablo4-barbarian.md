@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-ga
 type: video
 length: PT53S
 publishedDateTime: 2022-09-23T16:18:11Z
-heat: 55
+heat: 115
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
