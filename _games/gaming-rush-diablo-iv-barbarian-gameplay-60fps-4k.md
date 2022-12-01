@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=RIoOcxGbUDQ
 type: video
 length: PT21M10S
 publishedDateTime: 2022-10-17T00:10:12Z
-heat: 115
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RIoOcxGbUDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
