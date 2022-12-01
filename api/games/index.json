@@ -34,24 +34,23 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
-      "title": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer [Upscaled 4K]",
-      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. * Website: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/",
-      "originalUrl": "https://youtube.com/watch?v=ZpgHiJxbom0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpgHiJxbom0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M6S",
+      "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
+      "title": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid",
+      "excerpt": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid Please subscribe for more Diablo 4 and Diablo 3 content!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/",
+      "originalUrl": "https://youtube.com/watch?v=NoT4QP14XZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoT4QP14XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41S",
       "provider": {
-        "name": "Upscaled Game Trailers",
+        "name": "noobyG",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian",
         "Druid"
       ],
-      "heat": 112,
+      "heat": 114,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -62,23 +61,25 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-19T08:46:00-07:00"
+      "publishedDateTime": "2022-09-17T12:05:13-07:00"
     },
     {
-      "path": "_games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian.md",
-      "title": "Diablo 4 Barbarian gameplay!  Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian",
-      "excerpt": "Diablo 4 Barbarian gameplay! Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian Please subscribe for more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=YBPcxotmWDY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YBPcxotmWDY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26S",
+      "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
+      "title": "Diablo IV -  All Classes GAMEPLAY / Rogue, Barbarian, Sorceress, Druid, Necromancer, BOSS, PVP",
+      "excerpt": "Which class would you like to play? Please don't forget to LIKE & SUBSCRIBE! You can also COMMENT & ↪ SHARE!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/",
+      "originalUrl": "https://youtube.com/watch?v=cgaeM4CyZdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgaeM4CyZdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M35S",
       "provider": {
-        "name": "noobyG",
+        "name": "Salus Vindex Gaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
+        "Sorceress",
+        "Druid",
         "Barbarian"
       ],
       "heat": 110,
@@ -92,7 +93,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-16T22:14:08-07:00"
+      "publishedDateTime": "2022-09-14T08:16:53-07:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
@@ -552,36 +553,6 @@
       "publishedDateTime": "2022-09-23T12:24:26-07:00"
     },
     {
-      "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
-      "title": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid",
-      "excerpt": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid Please subscribe for more Diablo 4 and Diablo 3 content!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/",
-      "originalUrl": "https://youtube.com/watch?v=NoT4QP14XZo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoT4QP14XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-17T12:05:13-07:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
       "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
       "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
@@ -913,6 +884,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
+    },
+    {
+      "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer [Upscaled 4K]",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. * Website: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/",
+      "originalUrl": "https://youtube.com/watch?v=ZpgHiJxbom0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpgHiJxbom0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M6S",
+      "provider": {
+        "name": "Upscaled Game Trailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-19T08:46:00-07:00"
     }
   ],
   "nextPage": 2
