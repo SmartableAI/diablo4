@@ -4,37 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/game-highlights-diablo-4-gameplay-the-barbarian-the-druid-and-the-sorceresses.md",
-      "title": "Diablo 4 Gameplay The Barbarian, The Druid, and The Sorceresses",
-      "excerpt": "Diablo IV is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-highlights-diablo-4-gameplay-the-barbarian-the-druid-and-the-sorceresses/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-highlights-diablo-4-gameplay-the-barbarian-the-druid-and-the-sorceresses/",
-      "originalUrl": "https://youtube.com/watch?v=3hlAJSONoYg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3hlAJSONoYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M46S",
-      "provider": {
-        "name": "GAME HIGHLIGHTS",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-02-23T10:00:01-08:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-druid.md",
       "title": "New Gameplay Today – Diablo IV's Druid",
       "excerpt": "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ...",
@@ -912,6 +881,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-06T00:15:00-08:00"
+    },
+    {
+      "path": "_games/kamahl-diablo-4-barbarian-talents.md",
+      "title": "Diablo 4 Barbarian Talents",
+      "excerpt": "Morning everyone, Kamahl here with another Diablo 4 Barbarian video. In this episode we will be discussing or well... looking and reading the talent trees ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-barbarian-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-barbarian-talents/",
+      "originalUrl": "https://youtube.com/watch?v=v59oO1y7lig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v59oO1y7lig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v59oO1y7lig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-07T00:15:00-08:00"
     }
   ],
   "nextPage": 4
