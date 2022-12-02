@@ -34,51 +34,23 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
-      "title": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid",
-      "excerpt": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid Please subscribe for more Diablo 4 and Diablo 3 content!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/",
-      "originalUrl": "https://youtube.com/watch?v=NoT4QP14XZo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoT4QP14XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41S",
+      "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay All Classes Barbarian, Rogue, Sorceress & Druid",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=hyJzUEVS-Ww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hyJzUEVS-Ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
       "provider": {
-        "name": "noobyG",
+        "name": "Gaming Rush Tube",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
-      ],
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-17T12:05:13-07:00"
-    },
-    {
-      "path": "_games/3p-venom-games-rpg-diablo-4-druid-gameplay.md",
-      "title": "DIABLO 4 DRUID GAMEPLAY",
-      "excerpt": "AJUDE O CANAL COM SUA COLABORAÇÃO VIRANDO MEMBRO E GANHE BENEFICIUS EXCLUSIVOS!!!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/3p-venom-games-rpg-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/3p-venom-games-rpg-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=i7HZWMhoDxw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i7HZWMhoDxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M58S",
-      "provider": {
-        "name": "3p Venom GAMES RPG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
+        "Barbarian",
+        "Druid",
+        "Sorceress"
       ],
       "heat": 110,
       "images": [
@@ -91,7 +63,39 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-23T14:40:19-07:00"
+      "publishedDateTime": "2022-10-11T23:06:36-07:00"
+    },
+    {
+      "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",
+      "title": "Diablo IV -  All Classes GAMEPLAY / Rogue, Barbarian, Sorceress, Druid, Necromancer, BOSS, PVP",
+      "excerpt": "Which class would you like to play? Please don't forget to LIKE & SUBSCRIBE! You can also COMMENT & ↪ SHARE!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp/",
+      "originalUrl": "https://youtube.com/watch?v=cgaeM4CyZdE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cgaeM4CyZdE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M35S",
+      "provider": {
+        "name": "Salus Vindex Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-14T08:16:53-07:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
@@ -551,6 +555,36 @@
       "publishedDateTime": "2022-09-23T12:24:26-07:00"
     },
     {
+      "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
+      "title": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid",
+      "excerpt": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid Please subscribe for more Diablo 4 and Diablo 3 content!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/",
+      "originalUrl": "https://youtube.com/watch?v=NoT4QP14XZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoT4QP14XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-17T12:05:13-07:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
       "title": "Diablo IV Sorceress Gameplay . (No Commentary)",
       "excerpt": "The Sorceress shapes the elements into whatever form is necessary to ensure victory, from hurling bolts of lightning, impaling her foes upon jagged spikes of ice ...",
@@ -882,37 +916,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
-    },
-    {
-      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
-      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
-      "provider": {
-        "name": "Phillip Chu Joy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-03T12:06:38-08:00"
     }
   ],
   "nextPage": 2
