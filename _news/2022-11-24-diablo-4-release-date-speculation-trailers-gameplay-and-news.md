@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Everything we know about Diablo 4 gameplay and release date"
+    excerpt: "The first change players can expect in gameplay is that Diablo 4 is an open-world game. The game won’t have a linear storyline but instead almost 150 dungeons and locations for players to explore."
+    publishedDateTime: 2022-11-28T00:28:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-diablo-4-gameplay-and-release-date/ar-AA14Dj1a"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 67
 
 secured: "dgTF4om940BL0JODIQYjoVB5hPY5ndIGMUwCY3vcWgWPdu9k82QHwMcidlrFZH8f1sP/qlujE2kBzpuo6XFtleptz3nsHJ9uu5dBKTTCg6hQE8GjNqGnEVxX0smgXfyKC+9xJKPzpzx+awkunaKLp4VA8AGvLc81VPuQgizHU4q+yJqHFPUb+3BwgstR3YOIw/EH3wMYGX49rVY+Fq4Mhg/OmnYbcuI3pUndDC8SQrg36rd+Ge/HMFRl8oUlpEKpa1GW2hSwFTT31K06/BXiypVAN6zbpX7nZsAsxCKf12MQZ4tHqKL4mVmtB4vTvSgG7fiK0W4DN0KGSd0lNSA89WtXTZe1zhtGwHQzzFdA4r0=;R/L6i3MZPjwqoj7SM21FWg=="
 ---

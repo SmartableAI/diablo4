@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/in/news/diablo-4-news-release-date-trail
 webUrl: "https://www.techradar.com/in/news/diablo-4-news-release-date-trailers-rumors"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Everything we know about Diablo 4 gameplay and release date"
+    excerpt: "The first change players can expect in gameplay is that Diablo 4 is an open-world game. The game won’t have a linear storyline but instead almost 150 dungeons and locations for players to explore."
+    publishedDateTime: 2022-11-28T00:28:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-diablo-4-gameplay-and-release-date/ar-AA14Dj1a"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 67
 
 secured: "j9w18zleY+f6/jWeI++MpJtCAjacrXfFT+FynPhjHnlpCC3lCfFVhjDrdlerbh6+p7dGc5rmyNSB5YcuMsic3UBQYv/7mjFSpGci/jQ5D+t50VaHDOxKuVv1PesKnKqgN14GjACPd5JWeE57YGiaFqc5+aBSIR+dyrKzcNlutMVF52iS8GVlL8ZspeFtTfgzQ8ifjn/KDsRglx7hSWEYeZoeCsrUyzB+d01b41CNGzaEgTMPQVbGAE0tqm3BEcV3Mja28q/7+dYs0aVGTMTQHEbphD7OhqONcaJ5S54pX11HgSbVzewz9EKIFFcmKwIjAijm1nCIhW8cFVATgFb8p9EHhlRKtV26GLMKaErM4Oc=;qJelCxXDhbBIURonVGKY2A=="
 ---
