@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T03:01:24Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: DualShockers on MSN

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T05:15:00Z
 originalUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
 webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Windows Central
