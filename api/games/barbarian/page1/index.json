@@ -20,7 +20,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 314,
+      "heat": 254,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -34,23 +34,25 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
-      "title": "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian",
-      "excerpt": "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian Please subscribe for more Diablo 3 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=diEpJGTcOeo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/diEpJGTcOeo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
+      "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay All Classes Barbarian, Rogue, Sorceress & Druid",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=hyJzUEVS-Ww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hyJzUEVS-Ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
       "provider": {
-        "name": "noobyG",
+        "name": "Gaming Rush Tube",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Barbarian",
+        "Druid",
+        "Sorceress"
       ],
-      "heat": 117,
+      "heat": 110,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -61,7 +63,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-23T10:06:33-07:00"
+      "publishedDateTime": "2022-10-11T23:06:36-07:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -188,6 +190,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
+    },
+    {
+      "path": "_games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
+      "title": "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian",
+      "excerpt": "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian Please subscribe for more Diablo 3 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=diEpJGTcOeo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/diEpJGTcOeo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T10:06:33-07:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
@@ -896,36 +928,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
-      "title": "Diablo 4: Barbarian Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-20T10:31:47-07:00"
     }
   ],
   "nextPage": 2
