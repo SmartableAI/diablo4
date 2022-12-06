@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T06:48:00Z
 originalUrl: "https://www.xfire.com/diablo-4-release-date-reveal-the-game-awards/"
 webUrl: "https://www.xfire.com/diablo-4-release-date-reveal-the-game-awards/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: xfire

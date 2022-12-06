@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-may-feature-the
 webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-may-feature-the-return-of-inarius/ar-AA14Q0Nb"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

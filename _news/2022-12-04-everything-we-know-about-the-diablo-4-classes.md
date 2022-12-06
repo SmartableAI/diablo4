@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-04T20:37:29Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: WIN.gg on MSN
