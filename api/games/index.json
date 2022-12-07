@@ -4,6 +4,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
+      "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
+      "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=EEK9PrirmY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M16S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 310,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T08:00:11-08:00"
+    },
+    {
       "path": "_games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian.md",
       "title": "Latest Diablo 4 TRUE Leaked Beta Test Gameplay - Barbarian",
       "excerpt": "Diablo IV är ett framtida datorspel, under utveckling av Blizzard Entertainment. Wikipedia Släpptes första gången: 2023 Utgivare: ...",
@@ -34,46 +64,16 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
-      "title": "Diablo 4 Leaked Dungeon Gameplay!  Diablo IV Leak! #shorts #diablo4 #barbarian",
-      "excerpt": "Diablo 4 Leaked Dungeon Gameplay! Diablo IV Leak! #shorts #diablo4 #barbarian.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=_Tisi7CgyDQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
+      "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",
+      "title": "Diablo IV Sorceress Gameplay   60FPS 4K",
+      "excerpt": "Diablo IV Sorceress Gameplay 60FPS 4K Diablo is an action role-playing hack and slash dungeon crawler video game series ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/",
+      "originalUrl": "https://youtube.com/watch?v=aTR19gOlxgg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTR19gOlxgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M10S",
       "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-23T09:18:11-07:00"
-    },
-    {
-      "path": "_games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress.md",
-      "title": "Diablo 4 Sorceress gameplay!  Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress",
-      "excerpt": "Diablo 4 Sorceress gameplay! Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress Please subscribe for more Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/",
-      "originalUrl": "https://youtube.com/watch?v=ErUFRRz4vr4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErUFRRz4vr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31S",
-      "provider": {
-        "name": "noobyG",
+        "name": "Gaming Rush",
         "domain": "youtube.com"
       },
       "topics": [
@@ -91,7 +91,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-17T10:33:53-07:00"
+      "publishedDateTime": "2022-10-15T20:42:12-07:00"
+    },
+    {
+      "path": "_games/3p-venom-games-rpg-diablo-4-druid-gameplay.md",
+      "title": "DIABLO 4 DRUID GAMEPLAY",
+      "excerpt": "AJUDE O CANAL COM SUA COLABORAÇÃO VIRANDO MEMBRO E GANHE BENEFICIUS EXCLUSIVOS!!!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/3p-venom-games-rpg-diablo-4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/3p-venom-games-rpg-diablo-4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=i7HZWMhoDxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i7HZWMhoDxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M58S",
+      "provider": {
+        "name": "3p Venom GAMES RPG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T14:40:19-07:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -521,6 +551,36 @@
       "publishedDateTime": "2022-10-26T05:10:53-07:00"
     },
     {
+      "path": "_games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
+      "title": "Diablo 4 Leaked Dungeon Gameplay!  Diablo IV Leak! #shorts #diablo4 #barbarian",
+      "excerpt": "Diablo 4 Leaked Dungeon Gameplay! Diablo IV Leak! #shorts #diablo4 #barbarian.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=_Tisi7CgyDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T09:18:11-07:00"
+    },
+    {
       "path": "_games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian.md",
       "title": "Epic Boss fight!  Diablo 4 leaked gameplay!  Diablo IV leak video.  #shorts #diablo4 #barbarian",
       "excerpt": "Epic Boss fight! Diablo 4 leaked gameplay! Diablo IV leak video. #shorts #diablo4 #barbarian Please subscribe for more DIablo 3 ...",
@@ -762,36 +822,6 @@
       "publishedDateTime": "2022-10-11T20:42:40-07:00"
     },
     {
-      "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",
-      "title": "Diablo IV Sorceress Gameplay   60FPS 4K",
-      "excerpt": "Diablo IV Sorceress Gameplay 60FPS 4K Diablo is an action role-playing hack and slash dungeon crawler video game series ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/",
-      "originalUrl": "https://youtube.com/watch?v=aTR19gOlxgg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTR19gOlxgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
-      "provider": {
-        "name": "Gaming Rush",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-15T20:42:12-07:00"
-    },
-    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -820,6 +850,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
+    },
+    {
+      "path": "_games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress.md",
+      "title": "Diablo 4 Sorceress gameplay!  Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress",
+      "excerpt": "Diablo 4 Sorceress gameplay! Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress Please subscribe for more Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=ErUFRRz4vr4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErUFRRz4vr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-17T10:33:53-07:00"
     },
     {
       "path": "_games/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo.md",
@@ -852,68 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
-    },
-    {
-      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
-      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
-      "provider": {
-        "name": "Phillip Chu Joy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-03T12:06:38-08:00"
-    },
-    {
-      "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
-      "title": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer [Upscaled 4K]",
-      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. * Website: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/",
-      "originalUrl": "https://youtube.com/watch?v=ZpgHiJxbom0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpgHiJxbom0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M6S",
-      "provider": {
-        "name": "Upscaled Game Trailers",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-19T08:46:00-07:00"
     }
   ],
   "nextPage": 2
