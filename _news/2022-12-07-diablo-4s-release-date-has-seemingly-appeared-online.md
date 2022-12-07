@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T01:04:00Z
 originalUrl: "https://www.videogameschronicle.com/news/diablo-4s-release-date-has-seemingly-appeared-online/"
 webUrl: "https://www.videogameschronicle.com/news/diablo-4s-release-date-has-seemingly-appeared-online/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Video Games Chronicle

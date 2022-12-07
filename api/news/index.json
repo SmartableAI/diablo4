@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-06-the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date.md",
-      "title": "The Microsoft Store for Xbox may have leaked the Diablo 4 launch date",
-      "excerpt": "The Microsoft Store may have once again leaked an upcoming Xbox game's launch date, and this time it's Diablo 4. Diablo 4 is an upcoming action RPG from Blizzard, from the legendary franchise that ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-06-the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy",
+      "path": "_news/2022-12-07-diablo-4-june-release-date-leaked-by-microsoft-ahead-of-the-game-awards.md",
+      "title": "Diablo 4 June release date leaked by Microsoft ahead of The Game Awards",
+      "excerpt": "Details on Diablo 4’s release have leaked again, this time via the Xbox store - which gives it an exact launch date.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-june-release-date-leaked-by-microsoft-ahead-of-the-game-awards/index.json",
+      "webUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
+      "originalUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1502PQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/diablo4-multi-982a.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T14:47:54-08:00",
+      "ampWebUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/",
+      "publishedDateTime": "2022-12-06T18:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
+        "name": "Metro",
+        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -73,6 +73,39 @@
       "provider": {
         "name": "Play Station Universe",
         "domain": "psu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-04-everything-we-know-about-the-diablo-4-classes.md",
+      "title": "Everything we know about the Diablo 4 classes",
+      "excerpt": "So far, Blizzard has revealed five Diablo 4 classes. These are classes from previous titles with chances of adding more in the future. - December 4, 2022 - WIN.gg ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-04-everything-we-know-about-the-diablo-4-classes/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T12:37:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WIN.gg on MSN",
+        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1024,48 +1057,6 @@
       "provider": {
         "name": "Game Rant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-reportedly-set-to-arrive-in-april-2023.md",
-      "title": "‘Diablo 4’ reportedly set to arrive in April 2023",
-      "excerpt": "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-reportedly-set-to-arrive-in-april-2023/index.json",
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344601",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/07/Diablo-4-Necromancer-beta-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null
