@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T08:08:34Z
 originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-drags-the-series-demon-slaying-loot-harvesting-delight-into-the-2020s/ar-AA15110M"
 webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-drags-the-series-demon-slaying-loot-harvesting-delight-into-the-2020s/ar-AA15110M"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: TechRadar on MSN

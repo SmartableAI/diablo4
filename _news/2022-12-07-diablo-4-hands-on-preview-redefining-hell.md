@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T08:00:00Z
 originalUrl: "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/"
 webUrl: "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/"
 type: article
+quality: 107
+heat: 107
+published: true
 
 provider:
   name: GameSpot

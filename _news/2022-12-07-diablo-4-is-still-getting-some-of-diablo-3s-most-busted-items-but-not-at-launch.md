@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T09:59:00Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-still-getting-some-of-diablo-3s-most-busted-items-but-not-at-launch/ar-AA151bnP"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-still-getting-some-of-diablo-3s-most-busted-items-but-not-at-launch/ar-AA151bnP"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: GamesRadar+ on MSN

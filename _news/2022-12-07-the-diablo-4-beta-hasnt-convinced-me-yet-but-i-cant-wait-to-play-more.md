@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T08:00:00Z
 originalUrl: "https://www.gamesradar.com/the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/"
 webUrl: "https://www.gamesradar.com/the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: GamesRadar+
@@ -14,6 +17,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "jpqHGixmYlr9mJzjxw70jGI9E1WY9u9cEx2wbv+8Zah6ETEFLQBgtkp1HVL4xJfRVnSBSoFT+GuSHBlI1WCTLm4HkTIsjgZ1V31+fbhE+ets1Y+jMUEG1KYhH139rAHsOApVq7hMtep8bBAslcKyzMepTvi2oiwjUbsFkmoZb5N/aATVf6RHYdO1CtCSQEvNGsJnzgsl4egzHAKOWdP5LMoz57viMHTkZwibXcwT5GpPe2Cg44JWq0qUl4p5hQYLJiHLlHu+oX6YF5/g6Kmhs8KOY05f8ofsx4DH/pT1RRQYKhyjwF8Lj+mFnI3W8lANi1xaIU6uF+yYO9OFFQv86n3+JI+kD8wtIeCPuImsc8o=;3i2QkAWaC4k2xX4p9qwe/w=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/YFofpuCM3oV2Ucz6pGxhec-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "C61pL6vseTRVboeOMTrr4614u2TCBZZk69+JDqdoTRTcxcb9OnZk4X+d6aFE9uAt4qpmPuXD2KJMUGX6AbjPV3nMoFHg/f9YaSxj2s3xu8v4VeDuRvWXa+gPmjWaHDbnHwy5CF+/EJFZ94xNNVO4fllGtx+0g1C8b+CiQBZdmU2O1uaaFyjFLmDoL8LfQBJQKQebux81e1nUBILtnk4tQs/FBJHLDIRJnbFfcdnORhi0Rb646Iw1r487uPJJQXYqfIXQf8NxA/vsci0CWR9grW1QQsz5+qjCVaacNaDp5Yz8CmH2N9hT5KJsoiDvlLz5NJ6BXrxOHK33ml8vpMyeUNQ9sQ2YqQHy9OKud4VKfUs=;14FydAMx8P9vFy6ZahS/Zg=="
 ---
 

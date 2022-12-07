@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T08:00:00Z
 originalUrl: "https://www.pcgamesn.com/diablo-4/gameplay-preview"
 webUrl: "https://www.pcgamesn.com/diablo-4/gameplay-preview"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: PCGamesN

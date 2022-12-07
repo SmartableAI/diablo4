@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/diablo-4-takes-darkness-to-a-ne
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-takes-darkness-to-a-new-level/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:

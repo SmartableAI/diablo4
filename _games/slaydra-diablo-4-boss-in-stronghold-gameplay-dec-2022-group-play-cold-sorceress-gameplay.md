@@ -2,6 +2,7 @@
 title: "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay"
 excerpt: "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ..."
 originalUrl: https://youtube.com/watch?v=5N-DO6d7-sg
+webUrl: https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/
 type: video
 length: PT12M23S
 publishedDateTime: 2022-12-07T20:00:01Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "pjAk3K7tDRrJ4hjKWmRjCPM2MQ5oUW4emseZOnMBYMsdk6p4vYkzSzn+PRY1wu2P/WDX5agjxJmqhHqNH9owgthxIqFpNWZfXuJm6sXuJsgX7D00iczukOO8Hk2+WIA/1Ha60ROF9kuTHfngjOG1CeJHg9yCoSbNqgVZxOJApvYmR1J9ULi4rpkbewYdq4OD9DVIT3TmQZeT33oLqkKKxpyUeSB9WlT5jzlzKNZflDu+Bo6M+zuBGJOFmgIExb3Xn88AB52vOmwf7Af6IDv1v8Y3vOM8LG8U7/GIyLMbsUOoswptkvwklc9a+i53q0GiqIOKr2Pk0f9bzrIpuJI5zpJydK34NZpejORC7o1W8np53prr6Y3XjxObA3w7C2Sml4YN8Ba9enuG/9ZlCegHhw==;Qf7a/m/0MYNrEuEKbkE5Gg=="
+secured: "ZLcojPoWtU2gqJaY62XK9/4XMlYgvtsZN2y1+FEWg4e77t6/VrEk5xRcZvpzIPHIUVS3nSCToensilypFwYa+hyYJEx3Liw5J8cypwqM4HiS9GllV0mm+NsezKWBNPBpXhTrO885JB2puNQkxdlH8sNP+bJh1gO4N/zg3UhGhY5TMnyDWmeyYxVRqWwZr9dATO4fuMYusU2R3OzzFvxg7OqTeKj/bxboem3L+BEQ91oN2p7Y1/inFYMGVX7oVOHP3HMFLQX2ny4h2woOPV4sq05Bd7vllw0iPEalyqmQ010JDAnzRXdro/OMNQNtMtdEkFdq72xXG6+50ZR065qWUcfc5vmcf0FFYH9AYP8ISwKaiI2UjMyV2dEcZKjs69rkPHLV6weGNHgHp8ZMMWJTKQ==;24/wzg+uLdToIt1rFwyS2w=="
 ---
 
