@@ -4,19 +4,19 @@
     {
       "path": "_news/2022-12-06-the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date.md",
       "title": "The Microsoft Store for Xbox may have leaked the Diablo 4 launch date",
-      "excerpt": "Hell is June-bound for Diablo 4, quite possibly. The Microsoft Store may have once again leaked an upcoming Xbox game's launch date, and this time it's Diablo 4. Diablo 4 is an upcoming action RPG ...",
+      "excerpt": "The Microsoft Store may have once again leaked an upcoming Xbox game's launch date, and this time it's Diablo 4. Diablo 4 is an upcoming action RPG from Blizzard, from the legendary franchise that ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-06-the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date",
-      "originalUrl": "https://www.windowscentral.com/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/kWbsMqQdQJ6pxbLW5E4t5R-1200-80.jpg",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1502PQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
           "width": 1200,
-          "height": 502,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T14:50:00-08:00",
+      "publishedDateTime": "2022-12-06T14:47:54-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
