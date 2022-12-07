@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Diablo 4's Release Date Has Been Leaked"
+    excerpt: "The data miner took to Twitter to claim that a new release date for Diablo 4 has emerged on the Xbox Store's backend, revealing that the game will be available to play on the 5th of June 2023. Additionally,"
+    publishedDateTime: 2022-12-07T06:05:10Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-release-date-has-been-leaked/ar-AA150N7d"
+    type: article
+    provider:
+      name: DualShockers on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150FIv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=454&y=285"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 release date reveal at The Game Awards becomes more likely"
     excerpt: "If you're eager to find out more about Diablo 4, we've got good news for you. It's believed that Blizzard Entertainment and the next Diablo game will be at the said event. Insider Gaming is following ..."
     publishedDateTime: 2022-12-03T06:48:00Z
@@ -59,6 +73,6 @@ related:
       domain: pushsquare.com
     quality: 67
 
-secured: "eOWXkNcVOZy/jqzOLbaq63D/y52np24EH3UVEF2DRbqBIcBmyyCl6GhGY66xtAihvnfvGyPtju44D7pY5axITXzhWxXgEIj6cwEScYX3LpRWo6koskpwsH+yUZ7Zv5KR/BOAD9BJhb5+zxsHfK6AyZWvwKy2pYJUAqQAe/GB9aMZN/SQ8ntwJ6cTdjJiWBsvcXIPTVkJ/o/z1uEri0KGojyLX2Wl8clKzyJyrGrG4moq5L9xY8zZSy7e+netdk+U/Pvpo0xu5lMCmSgyJ4ZserFubbBDueETFfS3gJa4sK96FkNwRqJKgFVmvgitr7a97dZ9rleieHqtrXYLuKKdvyHPbd/DQMcYyP5zJdPu4IQ=;KzLeaWrrooFNMjtXY0ddSQ=="
+secured: "HP381quw/PT1dCpFUHjeeFuepFjfGozyyd3MycoCyiQSK9hOSdwiAwJNVywGJyVc/rFySCcsCKPbecu9WNjHzDc27tdMnzB4tDQYXYc/CwNuxqqvAvG99ywcR0jsV4pVtMMI+KZSTRJrUtn4KH5v/fjsC06tw2PPhwH7bmmWmsLd1oKpvll3iAAFGrO1fsGQNImHfywSo1r1qE5dysXgVD452U2RR+ERpEMJPhVfHM86GIObOkk68agOuAogLkEXudIXIy8xZK6JulfFza7mJe3XOspULqFcNXqqin+T3ocjk8scOmaU+gxHO5YlfCqVccqtqvhbm/Pmsv1PnCLy0MLGoLNH4VlbIqKrVuYRPt8=;nXWbyOQh33jc60h2ZlcX0Q=="
 ---
 

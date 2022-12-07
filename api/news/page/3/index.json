@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-20-diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately.md",
+      "title": "Diablo 4 endgame beta asked testers not to leak it, so they leaked it immediately",
+      "excerpt": "Oh well. The Diablo 4 subreddit has already had to clamp down (opens in new tab) on posts from excited beta participants violating their NDAs, but the cat's out of the bag. The internet is already ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-20-diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kwF6fZr3V9dJeqQoLeSq6b-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access.md",
+      "title": "Beware Diablo 4 endgame leaks as fans confirm beta access",
+      "excerpt": "Excited fans have revealed that a new Diablo 4 closed beta has started for the game’s endgame. Initially, the only ones able to play Diablo 4 early were friends and family of Blizzard Entertainment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-19-beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access/index.json",
+      "webUrl": "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/",
+      "originalUrl": "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/D4_Necromancer_KeyArt2-4f18.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/19/beware-diablo-4-endgame-leaks-as-fans-confirm-beta-access-17597789/amp/",
+      "publishedDateTime": "2022-10-19T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-diablo-4-beta-update-implies-tests-are-coming-soon.md",
       "title": "Diablo 4 beta update implies tests are coming soon",
       "excerpt": "The Diablo 4 beta client has appeared online and can be downloaded right now, according to an eagle-eyed Redditor, reigniting the hype around the Blizzard ARPG ...",
@@ -992,99 +1085,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet.md",
-      "title": "Massive Diablo 4 leak gives us our best look at the game yet",
-      "excerpt": "Over 40 minutes of Diablo 4 test footage has leaked online, giving us our most comprehensive look at the upcoming action RPG yet. Blizzard hasn’t confirmed the leak to be genuine, but the footage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet/index.json",
-      "webUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
-      "originalUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fsoXQ8TDH2p9PjGkPoN3gY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-diablo-4-closed-beta-announced.md",
-      "title": "DIABLO 4, Closed Beta Announced",
-      "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near Twitch ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-closed-beta-announced/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-19-diablo-4-closed-beta-announced/",
-      "originalUrl": "https://youtube.com/watch?v=DL0KRQtil_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DL0KRQtil_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T14:05:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

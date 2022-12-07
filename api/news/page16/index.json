@@ -2,6 +2,90 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019.md",
+      "title": "Diablo 3 Speedrunner Reacts to Diablo 4 Announcement and Blizzcon 2019",
+      "excerpt": "A Voice for Viper which is a Diablo series speedrunning marathon in memory of the Diablo 3 speedrunner Viper will be starting Friday November 8th, 2019 at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-diablo-3-speedrunner-reacts-to-diablo-4-announcement-and-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=a3GAfZ1yVZw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a3GAfZ1yVZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a3GAfZ1yVZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-05T12:36:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Garfm",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACTION",
+      "excerpt": "Diablo4 Welcome back to another reaction video from J Boogie Enjoy the reaction video Original Video: https://m.youtube.com/watch?v=0SSYzl9fXOQ Comment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-05-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=6UAYdz5RMfA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6UAYdz5RMfA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6UAYdz5RMfA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-04T21:30:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "J Boogie Crew",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-05-xqc-reacts-to-diablo-iv-official-announce-cinematic-trailer-with-chat.md",
       "title": "xQc Reacts To ''Diablo IV - Official Announce Cinematic Trailer'' (With Chat)",
       "excerpt": "Thanks for watching. Checkout xQc on twitch, twitter, & youtube! https://twitter.com/xQc, https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww, ...",
@@ -964,90 +1048,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Romeo Snow",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit.md",
-      "title": "Diablo 4 Announced - Mathil Rambles A Bit",
-      "excerpt": "https://www.twitch.tv/mathil1 for daily live streams https://twitter.com/MathilExists https://www.instagram.com/mathilexists/ ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-announced-mathil-rambles-a-bit/",
-      "originalUrl": "https://youtube.com/watch?v=jZ2zooYZLNo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZ2zooYZLNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jZ2zooYZLNo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T18:54:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathilification",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019.md",
-      "title": "*NEW* DIABLO 4 ON PC ANNOUNCEMENT! Gameplay & Cinematic Trailer Reaction | BlizzCon 2019",
-      "excerpt": "Diablo 4 BlizzCon announcement. This is a full reaction video to the new game presentation as part of the opening ceremony. The video includes BlizzCon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=ndOYedBmTbg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ndOYedBmTbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ndOYedBmTbg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T18:13:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MadSkillzzTV",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

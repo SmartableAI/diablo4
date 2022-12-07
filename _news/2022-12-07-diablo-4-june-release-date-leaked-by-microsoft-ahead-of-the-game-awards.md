@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/"
 type: article
 quality: 107
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4's Release Date Has Been Leaked"
+    excerpt: "The data miner took to Twitter to claim that a new release date for Diablo 4 has emerged on the Xbox Store's backend, revealing that the game will be available to play on the 5th of June 2023. Additionally,"
+    publishedDateTime: 2022-12-07T06:05:10Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-release-date-has-been-leaked/ar-AA150N7d"
+    type: article
+    provider:
+      name: DualShockers on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150FIv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=454&y=285"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 release date reveal at The Game Awards becomes more likely"
     excerpt: "If you're eager to find out more about Diablo 4, we've got good news for you. It's believed that Blizzard Entertainment and the next Diablo game will be at the said event. Insider Gaming is following ..."
     publishedDateTime: 2022-12-03T06:48:00Z
@@ -59,6 +73,6 @@ related:
       domain: pushsquare.com
     quality: 67
 
-secured: "lfqH8MbC6dkVIeOyaX1qBg1kymxJ77maN6XCIzyqUCIVVbLMWjqX6nzHug5Ca90vlqyXsIhue8NTm25q3oK8bGCqzwnLQF3M6so4AonmNf5Zl6z5Wq5ZFzB8fc/t9jaAqrG0pL4fT0nA8gmWj77TALRhjIR0eDN4QjS64wkl90SV9dXyOJiGqjdGaUqD/BGtyvkgExCggkzGdNjLojFzobyTelUuDW1Ie/LVRDl9IdBPDBGE/f3kDpKBTytPgWsEtr6t9IcfPh/fugNKpe7029cheu9iI1n3QDU/MaMhwVbG85wCIEHeHisojI67TPO1pa190cW9f4F3YBU2m3Yk3gFb6GWDnE4w2lyS6jx/NE4=;+1T67Pmudk0wOV9QRlPtRg=="
+secured: "nXL8QnCbrRPjEVnP8wow1GT82hBOB2lTNtWE6aVj9qX14j2HCZG6s5PdtfqPdSYG2/zftYlVkB8tt2Dcc8AhTkoVMk2tmR6ua4tdE9lOzie7F+WovgUg/q+7U1TJ/96KMm4RcF4vVS56MwdhzIy5q9xoj5kdMMM2c4SKMiQUrsc7awSaFr3EMJKauaq7zcz81CxxBu6r/cMYLQa9P8hVQzBdy1AL8N9sVptF4eqwaVvdYBt6NnojBqUa+g828QoClvT6N/Yt3J/CO3J1kOxzDLm7GmK7kdCOvrEW5m0/pEYlQvPjfwKPldW3IVSLMggDpmQOsglTtdF2yhvsxE/D/vU7kl8H9jkcIaUB5Xjb57o=;AxlxF4FTiBx1TWdmVuXSKA=="
 ---
 
