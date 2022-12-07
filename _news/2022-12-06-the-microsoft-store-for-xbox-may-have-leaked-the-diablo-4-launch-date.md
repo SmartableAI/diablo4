@@ -1,28 +1,19 @@
 ---
 category: news
 title: "The Microsoft Store for Xbox may have leaked the Diablo 4 launch date"
-excerpt: "The Microsoft Store may have once again leaked an upcoming Xbox game's launch date, and this time it's Diablo 4. Diablo 4 is an upcoming action RPG from Blizzard, from the legendary franchise that ..."
-publishedDateTime: 2022-12-06T22:47:54Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy"
+excerpt: "Hell is June-bound for Diablo 4, quite possibly. The Microsoft Store may have once again leaked an upcoming Xbox game's launch date, and this time it's Diablo 4. Diablo 4 is an upcoming action RPG ..."
+publishedDateTime: 2022-12-06T22:50:00Z
+originalUrl: "https://www.windowscentral.com/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date"
+webUrl: "https://www.windowscentral.com/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
-  name: Windows Central on MSN
-  domain: msn.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1502PQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "gM3YgKMkpWvHPqktgP6TvSrdmdnHXl6Ll0inEHVYpFDsnYx54fjfuJicd6CNR/iUtiunfzoO1pBmxBpa55+fHglcFehCyY19aUW9IWUBYIPF1fdyJjYbkyTbMefyTEvIjJ/tlFwIABp/dqaLoUfpx7l89JT+wVBing4yYTuI/87e0cwhR5ihPKNsJTJcdlP4qjEJDJC6zcAFpP/5h7KJk84hQYhHBdZE+jNtI4c/jcV1vt0+NqWcKBc7vKctJdGYsczvrig+9ZLtfxsHQc19gkkhzwdXEf/FM06nJfsXoeNepLtJhLNnvznycovTXngGpskGdZrdrGZa2Uy+hiES0i/HxwbmIE8JAuW19xUGLc0=;08XjL9yweb4Z0RKuwetV3Q=="
+secured: "zuQTP2ieVAqWg9zouMR3jyA9wImexILFOB6jp97DsJtjqqR+Z+tVQHKBpewrYO1PbP0zt2swSmd7ckRxX67BCLqEg0wHjJQfGyUFZYuh4l5nmwQFBGhAAg8D/r7HrzjUo2Ty1PrOMvw6MmYaPh8K+xqJj2Rtmi8j232DWGl87OwUkXtzW8dKjiNIB1/e6b6qKuAIWpR5MggECH7YgP0tYliXx/h7rd0JgAivCBEG2bouiZ4Zl5dHchXtILtAP5bWNQm9KTsogXNcUHok2L5lKX1J2U/yUAWWJxD3OlxG3rXpYxdAByrv8RDQaINH/guWLeo8iVmXjzyGPzJ3DTFEVFDdnR4thSBHMzISaEjnRcQ=;jqopqfCbHlnHsLJ9xKLyZA=="
 ---
 
