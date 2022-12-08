@@ -2,6 +2,7 @@
 title: "Diablo 4 Character Creation and Customization Options - Barbarian & Mage"
 excerpt: "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ..."
 originalUrl: https://youtube.com/watch?v=VpfzRYxrU98
+webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/
 type: video
 length: PT5M53S
 publishedDateTime: 2022-12-07T19:00:13Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "PnAjfmHbBEsx5lA09LEExnGvspovQzAyj0aDWmN0ZTEB4g43rH0ghpCzobNEkS1+CqlsfJB818QEZRcxOERIfcLH03VMdhs0GNVK0cIm1LLVaqoi16qFRZjuUBbmW++AHzFXA1CIOkV03snBPR87W9X4/BOJlnNnvxdtxDMSkN0gDfyCqH27S4bUPxTfhJNbHyr479vsHjbfkgDjZ92lMvG9fBaKHSW/MFpPd2RxCheMMagSFlS+e424Nd3fLvm1DK5we3RllgPzPoQtoYfMZ58CfhogjZHDzYeochUk6PFgoiSQ+6mEc2BMYk74cdyFbGBcwwCcoeZoZCRsdSYql3Y9RJn6Hq6ujkxcjU7Fe1ctzGe05KN47tvLt3CVLbUC9cNjy7OIUOsMeywNiVV2SQ==;fqmyexul9559AEWintmB7Q=="
+secured: "x6XXJHTJj/brf6ZpfrVOajq/Kno4KUoYy4tF44fDYPVBcn/YY1HbqPe8PQYErPyKDNjkd9mhLhCX2DqNAftSsvyguiwez16U7Ext/syU0pFoq0GXLFCA7m3StjrD9GTKId1IhghODplSCRtsQCLObJCABI4KxV/QZsX6NfnYtP2p2uP244+qgnETEpL28Ck/MeaONPfYrYuUjppryj9sIdO8XWrrHeA8O0Pj37UH+5qbntd/Evi/izqUhmtV5uQRc8mk5ysKJzbchvNQAsNIREzvoQBaeuTv+UZwqfiVVBkObo+O8GC0Kebr5sf+gTmmzcFsP3cW10XcglMNg7ChZGWBKOG+D8L0c2DuKmwU5TK39WMRDnBn4+5IwU4g8496ZnaIxZ/obJEW4I6JDRUhFQ==;C5x74bUatNdPHv9BZQ3yDA=="
 ---
 
