@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4.md",
+      "title": "Blizzard Confirms Less Microtransactions In 'Diablo 4'",
+      "excerpt": "A Blizzard executive has promised a more traditional approach to post-launch monetization for \"Diablo 4\" following the community's overwhelmingly negative reaction to \"Diablo Immortal's\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4/index.json",
+      "webUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214",
+      "originalUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/01/diablo-4s-rogue-class-uses-ranged-bow-shots-lightning-fast-dagger-attacks-eviscerate.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1",
+      "publishedDateTime": "2022-06-13T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-diablo-iv-quarterly-updatejune-2022.md",
       "title": "Diablo IV Quarterly Update—June 2022",
       "excerpt": "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will.",
@@ -1096,48 +1138,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-diablo-4-gets-new-development-update-from-blizzard.md",
-      "title": "Diablo 4 Gets New Development Update From Blizzard",
-      "excerpt": "Blizzard Entertainment has given eager fans a brief new update on the current development of Diablo 4. Despite being announced all the way back in 2019, news on the latest game in the Diablo franchise ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-25-diablo-4-gets-new-development-update-from-blizzard/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-new/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-new/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2021/08/09/daab2105-7ff1-4b82-8514-9a1a2e860ff3/community-day-hed-1267359.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-new/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-new/",
-      "publishedDateTime": "2022-04-25T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-09-diablo-4-everything-we-know.md",
+      "title": "Diablo 4: Everything we know",
+      "excerpt": "The latest on Diablo 4's classes, world, trailers, and everything else we know about it. After years of speculation and rumors, Blizzard finally revealed Diablo 4 during BlizzCon 2019. It wasn't a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-09-diablo-4-everything-we-know/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-will-diablo-4-be-free-to-play.md",
       "title": "Will Diablo 4 be free to play?",
       "excerpt": "The community has been getting more and more details about Diablo 4 as the game's expected 2023 launch nears. The August news drop from Blizzard elaborated ...",
@@ -1042,48 +1093,6 @@
       "provider": {
         "name": "svg",
         "domain": "svg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-diablo-4-report-shares-promising-development-update.md",
-      "title": "Diablo 4 Report Shares Promising Development Update",
-      "excerpt": "According to Bloomberg reporter Jason Schreier, Diablo 4 has recently entered a \"friends-and-family\" phase of testing. Essentially, this means that people outside of Blizzard who are tied to the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-04-diablo-4-report-shares-promising-development-update/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/06/01/0b6fca04-3b79-4cea-bbe2-0727f3c19279/pokemon-scarlet-violet.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
-      "publishedDateTime": "2022-08-04T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
