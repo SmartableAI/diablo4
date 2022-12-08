@@ -5,6 +5,9 @@ excerpt: "Diablo4 #Announcement #News Diablo Tweet mentioned: https://twitter.co
 publishedDateTime: 2022-12-08T02:26:20Z
 originalUrl: "https://youtube.com/watch?v=Eb2TK5GeT1Y"
 type: video
+quality: 117
+heat: 117
+published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Eb2TK5GeT1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

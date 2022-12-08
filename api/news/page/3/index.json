@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked.md",
+      "title": "End game beta test for Diablo 4 has been leaked",
+      "excerpt": "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked/index.json",
+      "webUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
+      "originalUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.xfire.com/wp-content/uploads/2022/10/new-diablo-leak.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xfire",
+        "domain": "xfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details.md",
       "title": "Diablo players who got beta access are already leaking Diablo 4 endgame details",
       "excerpt": "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ...",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-blizzard-reveals-secretive-beta-testing-plans-for-diablo-4.md",
-      "title": "Blizzard Reveals Secretive Beta Testing Plans For Diablo 4",
-      "excerpt": "Blizzard's hotly-anticipated \"Diablo 4\" isn't due until next year, but there is some good news for the franchise's most loyal fans: a closed beta testing phase.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/index.json",
-      "webUrl": "https://www.slashgear.com/1017072/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/",
-      "originalUrl": "https://www.slashgear.com/1017072/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/l-intro-1663698781.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
         "images": null,
         "publishers": null,
         "authors": null
