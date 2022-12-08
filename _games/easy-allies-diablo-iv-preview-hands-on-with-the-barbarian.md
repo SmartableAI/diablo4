@@ -2,6 +2,7 @@
 title: "Diablo IV Preview - Hands-On with the Barbarian"
 excerpt: "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ..."
 originalUrl: https://youtube.com/watch?v=0oGrqi3nJK0
+webUrl: https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/
 type: video
 length: PT13M34S
 publishedDateTime: 2022-12-07T16:00:02Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "jlD/6LXu38xQIHGgWyBBRQx3ZXnVG/2I6h3xsZNKI1Lj/QgXxx8yRV1jariLLCOb4khCladZQijfKdmbpdoaoUd0H9k6uVx833ftlt5DeGlx8+d7qLcyCR5oigMfjy5jVsw4kE7vV0DYo68u08LnKXdpBYQgSNaSeBBXGChH8P2IU2anmFASl6eLktf7X9XGPWQOOFoDDsMLtt+7LKa4R61WlLhtC/RNkQqe2hQ8WA2yyj/FOXDqbiHIPdGjQY4EaO27Cdtfe/Ku37/PRDbWe5C9eKIAkRs2zvqe7TEEcq3Dg+9di9p3XgYMQ0G+qWqcTNkSH77Mmy5K4Wqar5Cy0O7zWbi6DAQl1hXCvQOsbZMq9L3SOU0bTgYKPY7NlTwXjCchNiMBUT+16vPswYzoHw==;0PlGmhmhtoGicPenMpXUoQ=="
+secured: "sSBmRZgrp9oNBJCB2hD9W91wWTwXKc8q0hft7gyVOZ1QS3lNSMdaGLq2wRam0U/SkJekPKm9FrwUw3XFdCexVnZDKxE585ajzUfpTtFnJlB2A9JbAYUa4+wmRI2DJAuj2p5r4ir03i9DLunrREDT9AeI2DHuzu93EQk9xskcMG1DkISgB57pLxgaqfwx+bT1DUPOWbTBEzsCal/rzdU5WOF35MloCeaJRM2djV7iWsAtLrHAFnHYMplF0fdA4NDGZAcYAKOs3i1W+1YFol+WLezU4x0RC8ycncoZVju8cstWCGv9szYVfAT9btGptwPaTI2PhqBAegZd0sRKTmWWP6L57xuMVqbO/Hn1eOIESaNZNL4r2TpIBEBJ088sVu7qwash6HFUIZYdZ65eH68fbA==;7bHiEMIA5MbcVbrvjj45eg=="
 ---
 
