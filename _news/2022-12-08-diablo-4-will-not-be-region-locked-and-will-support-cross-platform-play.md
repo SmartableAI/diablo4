@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T01:51:07Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-not-be-region-locked-and-will-support-cross-platform-play/ar-AA152GXp"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-not-be-region-locked-and-will-support-cross-platform-play/ar-AA152GXp"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Game Rant on MSN

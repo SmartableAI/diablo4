@@ -77,6 +77,90 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more.md",
+      "title": "The Diablo 4 beta hasn’t convinced me yet, but I can’t wait to play more",
+      "excerpt": "Diablo 4 has a hell of a challenge in front of it. Created against Activision Blizzard’s alleged toxic working culture, a team of developers has been tasked with aiding the ongoing resurrection of a gaming behemoth.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T00:00:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-diablo-4-is-the-diablo-ive-been-waiting-for.md",
+      "title": "Diablo 4 is the Diablo I've been waiting for",
+      "excerpt": "I've given her an arsenal of spells that make ice fly out of her hands, and one of them spawns a snowstorm directly above her head. I click and click while she does the actual work of casting frost spells at legions of demons from hell.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-is-the-diablo-ive-been-waiting-for/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151zSX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=508&y=267",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T00:00:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-diablo-4-hands-on-preview-redefining-hell.md",
       "title": "Diablo 4 Hands-On Preview - Redefining Hell",
       "excerpt": "Diablo IV is quick to differentiate itself from its predecessors in almost every way, while intelligently iterating on new series staples with ideas that put freedom of play at the center.",
@@ -107,48 +191,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more.md",
-      "title": "The Diablo 4 beta hasn’t convinced me yet, but I can’t wait to play more",
-      "excerpt": "Diablo 4 has a hell of a challenge in front of it. Created against Activision Blizzard’s alleged toxic working culture, a team of developers has been tasked with aiding the ongoing resurrection of a gaming behemoth.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/index.json",
-      "webUrl": "https://www.gamesradar.com/the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/",
-      "originalUrl": "https://www.gamesradar.com/the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YFofpuCM3oV2Ucz6pGxhec-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1014,48 +1056,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "SVG on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3.md",
-      "title": "How Diablo 4's Legendary Items Differ From Diablo 3",
-      "excerpt": "It's no surprise that \"Diablo 4\" is already distancing itself from the mess that \"Diablo Immortal\" ended up being, and the pay-to-win mobile game isn't the only franchise embarrassment it's trying to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13ZTcl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
