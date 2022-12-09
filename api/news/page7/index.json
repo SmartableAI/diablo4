@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions.md",
+      "title": "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\"",
+      "excerpt": "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions/index.json",
+      "webUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html",
+      "originalUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/15/news/1655246076_110120_1655246244_portada_normal.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html",
+      "publishedDateTime": "2022-06-14T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4.md",
       "title": "Asmongold explains why he’s worried about Diablo 4",
       "excerpt": "Twitch streamer Asmongold has voiced concerns for Diablo 4 citing issues with D3 and Diablo Immortal for the lack of hype.",
@@ -1099,57 +1141,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase.md",
-      "title": "‘Diablo 4’ Beta Registration Has Quietly Gone Live Ahead Of The Xbox Showcase",
-      "excerpt": "Diablo Immortal? Never heard of it. Time to move on to Diablo 4, says Blizzard, which has just put pre-registration live for the beta ahead of today’s Xbox Showcase, which seems likely to be linked.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a5f4887af06ca751876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
-      "publishedDateTime": "2022-06-12T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

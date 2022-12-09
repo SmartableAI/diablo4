@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase.md",
+      "title": "‘Diablo 4’ Beta Registration Has Quietly Gone Live Ahead Of The Xbox Showcase",
+      "excerpt": "Diablo Immortal? Never heard of it. Time to move on to Diablo 4, says Blizzard, which has just put pre-registration live for the beta ahead of today’s Xbox Showcase, which seems likely to be linked.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a5f4887af06ca751876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/12/diablo-4-beta-registration-has-quietly-gone-live-ahead-of-the-xbox-showcase/amp/",
+      "publishedDateTime": "2022-06-12T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access.md",
       "title": "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access",
       "excerpt": "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know.",
@@ -1024,48 +1075,6 @@
       "provider": {
         "name": "Shacknews",
         "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-when-is-the-diablo-4-release-date-probably-not-until-2024-at-the-earliest.md",
-      "title": "When is the Diablo 4 release date? Probably not until 2024 at the earliest",
-      "excerpt": "We once thought we would be playing Diablo 4 by 2022, but now it looks like the game is unlikely to arrive for another year or two. So what happened? Life ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-11-when-is-the-diablo-4-release-date-probably-not-until-2024-at-the-earliest/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/01/11/diablo-4-release-date/",
-      "originalUrl": "https://blizzardwatch.com/2022/01/11/diablo-4-release-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/11/DiabloImmortalFace.jpg",
-          "width": 675,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/01/11/diablo-4-release-date/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/01/11/diablo-4-release-date/amp/",
-      "publishedDateTime": "2022-01-10T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
         "images": null,
         "publishers": null,
         "authors": null
