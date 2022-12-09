@@ -7,7 +7,7 @@ originalUrl: "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-
 webUrl: "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/"
 type: article
 quality: 81
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1952
     height: 1074
     isCached: true
+
+related:
+  - title: "Diablo 4 devs describe mismanagement, crunch"
+    excerpt: "Those perks range from $25 in DoorDash credit for people working more than 10 hours a day to a stock bonus plan where developers who finish the game and stay with the company for at least a year after ..."
+    publishedDateTime: 2022-12-08T13:26:00Z
+    webUrl: "https://www.gamesindustry.biz/diablo-4-devs-describe-mismanagement-crunch"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 67
 
 secured: "jx+nwCQ87LIN6PdB8oPsvOTkCWY2amt+7Q5VMzN6DHHFceaXwOBxFaATKju0XkU3YsRKrTt1jjLSU65Bot+vzujm09P0zvzOY3vlqJqza5HrLXzKLfLESZoSDlE1O3JJaHKl2Tco/r7of2l5XLR/sIFvoXURqKGmxXVsJcrzDCdrzwCT9dMVbn7/8JHNqIGpoukyUl5EgEv5o66+iVKJPNkzxRu8qGFE0hfT+IZ8psAwjhT355uLkjGG0Ggk/966QGLLi1Qd96yjym0RElJVK4SI7uJNIFl7L362PWTNNJc88R9MU0r38JZV0yaLkq6BbyEkDFDxy9hKBYAk8RBcEfO82LGefNd1qa4ngEFHk84=;DbY0r1X7KDp00eBDjKi8bA=="
 ---

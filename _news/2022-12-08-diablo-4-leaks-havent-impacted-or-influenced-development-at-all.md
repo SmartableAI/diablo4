@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T04:31:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4-leaks-havent-impacted-or-influenced-development-at-all/"
 webUrl: "https://www.gamesradar.com/diablo-4-leaks-havent-impacted-or-influenced-development-at-all/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: GamesRadar+
