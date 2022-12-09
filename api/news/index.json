@@ -52,7 +52,7 @@
       "originalUrl": "https://youtube.com/watch?v=6zNtgK0vthA",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6zNtgK0vthA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 197,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -94,7 +94,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -125,6 +125,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk.md",
+      "title": "Diablo 4 Finally Gets A Release Date, Preorders Arrive With Beta Perk",
+      "excerpt": "After years of hard work, Blizzard has finally revealed the erelease date for \"Diablo 4.\" The announcement was joined by the launch of preorders.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/ar-AA154x9M",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/ar-AA154x9M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154BT3.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:44:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear on MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -218,6 +260,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer.md",
+      "title": "Diablo 4 Release Date Revealed in New Trailer",
+      "excerpt": "Diablo 4 made an expected appearance at The Game Awards 2022 this week to reveal the release date for the game alongside another preview of the newest Diablo experience. According to Blizzard, Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
+      "publishedDateTime": "2022-12-08T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -973,99 +1057,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-diablo-4-trailers-gameplay-classes-and-news.md",
-      "title": "Diablo 4 trailers, gameplay, classes and news",
-      "excerpt": "Diablo 4 has been a long time coming. Fans have been waiting with baited breath for years now, so we're happy to say that there really isn't all that long to wait until release. So far ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-23-diablo-4-trailers-gameplay-classes-and-news/index.json",
-      "webUrl": "https://www.techradar.com/in/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/in/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards.md",
-      "title": "Info on Diablo 4 Could Appear Even Before The Game Awards",
-      "excerpt": "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
-      "originalUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gracza.pl/i_gp/h/22/406814604.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=19722",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722",
-      "publishedDateTime": "2022-11-21T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
         "images": null,
         "publishers": null,
         "authors": null

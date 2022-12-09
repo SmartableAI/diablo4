@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4 is the Diablo I've been waiting for"
-excerpt: "I've given her an arsenal of spells that make ice fly out of her hands, and one of them spawns a snowstorm directly above her head. I click and click while she does the actual work of casting frost spells at legions of demons from hell."
-publishedDateTime: 2022-12-07T08:00:28Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt"
+title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
+excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
+publishedDateTime: 2022-12-08T20:42:37Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: PC Gamer on MSN
+  name: Game Rant on MSN
   domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151zSX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=508&y=267"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -52,17 +52,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
-    excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
-    publishedDateTime: 2022-12-08T20:42:37Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+  - title: "Diablo 4 is the Diablo I've been waiting for"
+    excerpt: "I've given her an arsenal of spells that make ice fly out of her hands, and one of them spawns a snowstorm directly above her head. I click and click while she does the actual work of casting frost spells at legions of demons from hell."
+    publishedDateTime: 2022-12-07T08:00:28Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: PC Gamer on MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151zSX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=508&y=267"
         width: 1200
         height: 630
         isCached: true
@@ -81,6 +81,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ryqCJt6/k9W1XFXWyEz6UZ6r7CpQB6pRQZiesMDgdpbDJ2Jw25JBUQSUDsD50HN4EJ5oRZvh0TcQiNxeThKDy8j7qxb+S9lLe3RmH7gSb4C5ULo67Xn4Ug+igbTFAFSYr6+y/Ll3QaiDtVWdhpq/LOYdCsM2ToYyifDqaHOe/S4Dif8JL66GmS0LXRMo/Ry+5cb6IF2zVZVe88ycVe/7BLuZGWxfllnm7IkGuKmCESNtwzN3vFdms5lWanKKuq/52pOZMfYokbJYHflLaZ/N0FTPDX+Rlzd+LC9TCD0fHOhnEaKYT0unj1UMelL7cSGuDX8j25m67qsGqajEyb09TWWjpP4oiNrohmf1vo9+ZZQ=;7P6nWovn2ZP0deSuJl49Xg=="
+secured: "EwiyruWp3SupIiIAVSFCsO/wW/LmNjsZSoJ5MHW3mgeuS/6+Aft6boI+QSBNbYzMDa/ZW600wTT1jTjrdf5ueSvb9ovksCSi5blO3q1OM0yjmlKHPtYS2SisKQqQIAAarcHBcClU3Z6/I8++QLPTR1B+Ve52rCjgJWKHHA6W+g7gY9uLyJ2/IzEYnVP8jRP9/oi01Qgi3BokQGg8WaAa9CndGYRyxrnVAaOR3t5fD6kpmbzh90cIUqnkJ6FWzrD4MprxAdbJ/266qfH5AjulxX6jq2oc5z1W8ucYKfLYkKip1hG/MvKEf7tXJmVzrqMQTpbSKzTlqnwx3PFAUoT6jitKlN5MoW0/kzmQpJWw8j0=;MJ0fo7l/rrEn3NjHH4xH3w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-o
 webUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv"
 type: article
 quality: 162
-heat: 202
+heat: 242
 published: true
 
 provider:
@@ -53,6 +53,34 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151zSX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=508&y=267"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
+    excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
+    publishedDateTime: 2022-12-08T20:42:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 release date set for June 2023"
+    excerpt: "The release date for Diablo 4 has been revealed at The Game Awards 2022. It's been a long wait for fans but we now finally have a release date for Diablo 4, and it's June 6, 2023. During today's event ..."
+    publishedDateTime: 2022-12-08T18:48:42Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-set-for-june-2023/ar-AA154Cqc"
+    type: article
+    provider:
+      name: GamesRadar+ on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Fot.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=473&y=223"
         width: 1200
         height: 630
         isCached: true

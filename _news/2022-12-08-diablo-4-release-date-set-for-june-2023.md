@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Arrives in June 2023"
-excerpt: "Revealed at The Game Awards 2022, the 2023 release date was finally narrowed down as Blizzard confirmed the June date for its first take on an open world version of the action-RPG series. The release date announcement makes sense given that some players h"
-publishedDateTime: 2022-12-08T16:45:00Z
-originalUrl: "https://www.ign.com/articles/diablo-4-arrives-in-june-2023"
-webUrl: "https://www.ign.com/articles/diablo-4-arrives-in-june-2023"
+title: "Diablo 4 release date set for June 2023"
+excerpt: "The release date for Diablo 4 has been revealed at The Game Awards 2022. It's been a long wait for fans but we now finally have a release date for Diablo 4, and it's June 6, 2023. During today's event ..."
+publishedDateTime: 2022-12-08T18:48:42Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-set-for-june-2023/ar-AA154Cqc"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-set-for-june-2023/ar-AA154Cqc"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2022/12/09/diabloiv-blogroll-2-1670554032547.jpg?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Fot.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=473&y=223"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -41,6 +37,20 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/49/49492HO2G6XO1670029912679.png"
         width: 880
         height: 400
+        isCached: true
+  - title: "Diablo 4 Arrives in June 2023"
+    excerpt: "Revealed at The Game Awards 2022, the 2023 release date was finally narrowed down as Blizzard confirmed the June date for its first take on an open world version of the action-RPG series. The release date announcement makes sense given that some players h"
+    publishedDateTime: 2022-12-08T16:45:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-arrives-in-june-2023"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/12/09/diabloiv-blogroll-2-1670554032547.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 is the Diablo I've been waiting for"
     excerpt: "I've given her an arsenal of spells that make ice fly out of her hands, and one of them spawns a snowstorm directly above her head. I click and click while she does the actual work of casting frost spells at legions of demons from hell."
@@ -70,21 +80,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 release date set for June 2023"
-    excerpt: "The release date for Diablo 4 has been revealed at The Game Awards 2022. It's been a long wait for fans but we now finally have a release date for Diablo 4, and it's June 6, 2023. During today's event ..."
-    publishedDateTime: 2022-12-08T18:48:42Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-set-for-june-2023/ar-AA154Cqc"
-    type: article
-    provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Fot.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=473&y=223"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "e8pmA7/kkJCh5iQMKr/s4i0nMQ5B1eBd3gGQgiGBtZqjl41imhXBkitf8XR1tRkVk5pGLkZ76f19NEfssZiI8/YX9HcCGV/jlukcN0QRehibBPyCbPqS9t74w2b2QstS1J7DbTRSbvuCHBgtHqNFfxzPE5SFYD/5G/s2CBzF1LNKqLCU2xVvyOTqQn7e3XD5fLPGIOYARZ5TBpNO7Izy3gXKjJUp82E258BkJ0a9icl6TwK1SlEpQXIGkXPqx2miIRtRy/0qXi7FT/wt8JwNq1oHQGWxAvo/YZE5JZ8R5ewkdR/sKFGV0Iw/We3sVAQ2t5dd/kS/0uEQ0HIjKkC/P/BcyLUhVs0NeRwCXJRW1r8=;quL3sSw8IufO+4RxsqWD2w=="
+secured: "5KoU2rAtuoOhCdaoRLZ3bb/lXLUmBrFpIIRNF+rlVMvXcPn9yPjXJUGgmfP2VAGAUBwlZNFvGVqpWajwQHP6Yde497hBfz65CtSO1Nx+3/Lq4VDm5MN0O3XlWirSzP8yO4CWi5rNEKAy+bDm3EC1XSomc6MyDtQRcXM1+4F6yzZn1RHUFg2socHM1squqDv+uHe/uqjejK9GnOXGVO5P1s0gtsMJ8IJ4z64a49T2rhkBxopDZaR9vPUhzIYUo+D9tPX9sgO4H5GOVMaoVBsSzSB9GZ+/MU6zpOKE3EX6l8z9IWpwaPHKJZCIHiD4Gf7rQM87aLd4bdfOzYHZOhDEsiyaOd1Nk9j4unl0P7D6FQ0=;KNiGB3Rlka/89PzMjCihsQ=="
 ---
 

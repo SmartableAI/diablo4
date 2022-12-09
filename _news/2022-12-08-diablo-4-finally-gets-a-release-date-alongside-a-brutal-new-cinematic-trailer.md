@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
-excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
-publishedDateTime: 2022-12-06T03:01:24Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
+title: "Diablo 4 finally gets a release date alongside a brutal new cinematic trailer"
+excerpt: "Diablo 4 has finally got an official release date as announced at The Game Awards 2022 along with a cinematic trailer."
+publishedDateTime: 2022-12-08T19:02:23Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-finally-gets-a-release-date-alongside-a-brutal-new-cinematic-trailer/ar-AA154K8g"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-finally-gets-a-release-date-alongside-a-brutal-new-cinematic-trailer/ar-AA154K8g"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: DualShockers on MSN
+  name: TechRadar on MSN
   domain: msn.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154xeU.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Diablo 4 Release Date Announcement Cinematic From Game Awards"
@@ -60,20 +66,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 finally gets a release date alongside a brutal new cinematic trailer"
-    excerpt: "Diablo 4 has finally got an official release date as announced at The Game Awards 2022 along with a cinematic trailer."
-    publishedDateTime: 2022-12-08T19:02:23Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-finally-gets-a-release-date-alongside-a-brutal-new-cinematic-trailer/ar-AA154K8g"
-    type: article
-    provider:
-      name: TechRadar on MSN
-      domain: msn.com
-    quality: 84
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154xeU.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 release date reveal at The Game Awards becomes more likely"
     excerpt: "If you're eager to find out more about Diablo 4, we've got good news for you. It's believed that Blizzard Entertainment and the next Diablo game will be at the said event. Insider Gaming is following ..."
     publishedDateTime: 2022-12-03T06:48:00Z
@@ -82,6 +74,15 @@ related:
     provider:
       name: xfire
       domain: xfire.com
+    quality: 67
+  - title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
+    excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
+    publishedDateTime: 2022-12-06T03:01:24Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
+    type: article
+    provider:
+      name: DualShockers on MSN
+      domain: msn.com
     quality: 67
   - title: "The Diablo 4 Release Date Might Have Leaked Ahead of The Game Awards"
     excerpt: "It appears the release date of Diablo IV has leaked just one day prior to its expected reveal at The Game Awards. The Twitter account Aggiornamenti Lumina, which reliably scrubs the Microsoft Store ..."
@@ -93,6 +94,6 @@ related:
       domain: pushsquare.com
     quality: 67
 
-secured: "gaQRPCryevsJ02DNePbqNl4EGqfT9xqsHWgcAZp9vmx5bmSirQio8qCWsYySIVh2y2Q2vN/NwRzzljM00Qm1+fOzm5IQqZBEH6VSmUdqTu0nAGqqE1g7rwV+NbRmHciAVJa1ywy1Kx7Eo8H0MiAjbaWw5U6LSgB1TsDca8V+rRH2PhC08qrXUieeGQ8cIhy2J9s4eaWnGd5ohh96RfIsS8pbSppI/DUtNR6B8MsO7Ld7KkYdp//OXKSbks4eYnVwRtRLkvjuFBDTqbNPYg2/N/kZbz7zmQpAnxyGm8zWXO4C/4wBiexAHrtfKo0Q7XYYWRjNEZOWpFZoBr1iKaRw6IVSKb7EutWKbg5fxmzTTiM=;QD6bzqY5K1Fcm/NQElFo8g=="
+secured: "WQzZYsilPL6dTpJihPtqCP8I5AZdBIp045JORdaQHYfuD+OxP2S7bypnE46d97p8VADL607iCfVgubegWWdLj83pk0bvZTfhezmutGDkPnfl+Cuqq7/VOFgQAGvwlaki75RWAvcLWyXZ7cTmEzkh3rzZ2jLaZBRQqLsqxtkDAdrX8Y9rCVTnK2PJ5XBXGHVJN89PtKmWSY08oLB7KyhUVJgSOlAFDn+vvmWEiP8UeqEL3huhct2PKmsjjtWBAKJl5rQKZDbD1eztj+F78EWWMbNthut/Rjf1NGzsAaiw7GwBhsHptdBq54T+jBfasAc8WhVmCuywe1AfV31jcIXftrY9qLOpZKRpzoxfstKnGzI=;NzCHpxnQH6pQHSjS0Pr4Iw=="
 ---
 

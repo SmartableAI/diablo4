@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
-excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
-publishedDateTime: 2022-12-06T03:01:24Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
+title: "Diablo 4 release date and public beta confirmed by Blizzard"
+excerpt: "The Diablo 4 release date and details of a Diablo 4 public beta are announced at The Game Awards 2022, letting players know when they can play the fantasy RPG ..."
+publishedDateTime: 2022-12-08T18:52:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/release-date-trailer"
+webUrl: "https://www.pcgamesn.com/diablo-4/release-date-trailer"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: DualShockers on MSN
-  domain: msn.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/Diablo-4-release-date-trailer.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Diablo 4 Release Date Announcement Cinematic From Game Awards"
@@ -46,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 release date and public beta confirmed by Blizzard"
-    excerpt: "The Diablo 4 release date and details of a Diablo 4 public beta are announced at The Game Awards 2022, letting players know when they can play the fantasy RPG ..."
-    publishedDateTime: 2022-12-08T18:52:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/release-date-trailer"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/Diablo-4-release-date-trailer.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 finally gets a release date alongside a brutal new cinematic trailer"
     excerpt: "Diablo 4 has finally got an official release date as announced at The Game Awards 2022 along with a cinematic trailer."
     publishedDateTime: 2022-12-08T19:02:23Z
@@ -83,6 +75,15 @@ related:
       name: xfire
       domain: xfire.com
     quality: 67
+  - title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
+    excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
+    publishedDateTime: 2022-12-06T03:01:24Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
+    type: article
+    provider:
+      name: DualShockers on MSN
+      domain: msn.com
+    quality: 67
   - title: "The Diablo 4 Release Date Might Have Leaked Ahead of The Game Awards"
     excerpt: "It appears the release date of Diablo IV has leaked just one day prior to its expected reveal at The Game Awards. The Twitter account Aggiornamenti Lumina, which reliably scrubs the Microsoft Store ..."
     publishedDateTime: 2022-12-07T04:00:00Z
@@ -93,6 +94,6 @@ related:
       domain: pushsquare.com
     quality: 67
 
-secured: "gaQRPCryevsJ02DNePbqNl4EGqfT9xqsHWgcAZp9vmx5bmSirQio8qCWsYySIVh2y2Q2vN/NwRzzljM00Qm1+fOzm5IQqZBEH6VSmUdqTu0nAGqqE1g7rwV+NbRmHciAVJa1ywy1Kx7Eo8H0MiAjbaWw5U6LSgB1TsDca8V+rRH2PhC08qrXUieeGQ8cIhy2J9s4eaWnGd5ohh96RfIsS8pbSppI/DUtNR6B8MsO7Ld7KkYdp//OXKSbks4eYnVwRtRLkvjuFBDTqbNPYg2/N/kZbz7zmQpAnxyGm8zWXO4C/4wBiexAHrtfKo0Q7XYYWRjNEZOWpFZoBr1iKaRw6IVSKb7EutWKbg5fxmzTTiM=;QD6bzqY5K1Fcm/NQElFo8g=="
+secured: "QShcYM9x/CoLSZNTHz/4t3Bj1aY86m32/cGujpv4nmPklm3cjROhHl+yrzz3V3OivF1SRkXgKIKIaSphteXC22EZosmWltOGI2mbZ7m487nNVxzXLAlFPoRlTMNPb1LiAEPokZpAvejuNM5fp1CgHaujOIL43h+1/mqd5GdEN4cCPtMrIQ01RhpjOT5FOUEMZY3/I9gbzAIQ5p3cZmFmaZ1z/1wW/+9g0EyM2G9qlyiAO4MW7J+eStNGQF2yOPgWtIOYPQDdh470UKyI8ZUR7KQJ0B84XmhElXlpfp8qFDZpmtsEh56MyVQ6+xcrr1TMsdJsMPJHY4U2Q3l3du25DBxDJb4YFZariQNj/3d63BM=;pHfZx0mDrNaOi14c9CKwMQ=="
 ---
 
