@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-o
 webUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv"
 type: article
 quality: 162
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "When is the Diablo 4 beta? Before its June 2023 release, but that's all we know"
+    excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
+    publishedDateTime: 2022-12-09T07:15:00Z
+    webUrl: "https://www.gamesradar.com/when-is-diablo-4-beta-release-date/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 63
 
 secured: "miwkZZNRSCrWKnU5gWTcOXbkAp1NztWSBtpMls0VD38jqq2U5+dZDrD/s21G/+3Fubhl19WfBHpStiBtsB0eYc/Hln8PjDh6hwPD+z7BiySgy2S2Hadw1ncPkxtx8c3q68lUlUjoWeOVSC/BxHemk/11aL2BN2HoUXImeBUU/yRJDr2moBDvKU4ISapW98TLqOEnKZEai6U0jDJWujIrOV7/wXo2V/drbRZXLTTqOdYGUxwA9FiMxuwvZQiBSyolYMPFOYwfOstZR/AKH+//chW+Yj/OhEfGvIuRst7hR1Z+qcryYpI+rXvcIhV77DPnxhvEBdaT/ULItUEVdeAMEGQfyyO3b1wpvbm5/zNG+Ng=;R1gKE2M5Y6+Ykc9IF5Z7+A=="
 ---

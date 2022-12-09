@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T08:31:49Z
 originalUrl: "https://www.msn.com/en-us/news/technology/world-of-warcraft-is-getting-a-diablo-4-crossover-mount/ar-AA156jWP"
 webUrl: "https://www.msn.com/en-us/news/technology/world-of-warcraft-is-getting-a-diablo-4-crossover-mount/ar-AA156jWP"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Game Rant on MSN

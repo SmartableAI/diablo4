@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "When is the Diablo 4 beta? Before its June 2023 release, but that's all we know"
+    excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
+    publishedDateTime: 2022-12-09T07:15:00Z
+    webUrl: "https://www.gamesradar.com/when-is-diablo-4-beta-release-date/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 63
 
 secured: "e8pmA7/kkJCh5iQMKr/s4i0nMQ5B1eBd3gGQgiGBtZqjl41imhXBkitf8XR1tRkVk5pGLkZ76f19NEfssZiI8/YX9HcCGV/jlukcN0QRehibBPyCbPqS9t74w2b2QstS1J7DbTRSbvuCHBgtHqNFfxzPE5SFYD/5G/s2CBzF1LNKqLCU2xVvyOTqQn7e3XD5fLPGIOYARZ5TBpNO7Izy3gXKjJUp82E258BkJ0a9icl6TwK1SlEpQXIGkXPqx2miIRtRy/0qXi7FT/wt8JwNq1oHQGWxAvo/YZE5JZ8R5ewkdR/sKFGV0Iw/We3sVAQ2t5dd/kS/0uEQ0HIjKkC/P/BcyLUhVs0NeRwCXJRW1r8=;quL3sSw8IufO+4RxsqWD2w=="
 ---

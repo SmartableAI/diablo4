@@ -51,6 +51,15 @@ related:
       name: Yahoo
       domain: yahoo.com
     quality: 87
+  - title: "Diablo 4 £90 Ultimate Edition includes early access and accelerated battle pass"
+    excerpt: "Diablo 4 has a £90 Ultimate Edition which offers up to four days early access to the game, and includes an \"accelerated\" seasonal battle pass unlock with the ability to skip 20 tiers. The Deluxe ..."
+    publishedDateTime: 2022-12-09T08:23:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-90-ultimate-edition-includes-early-access-and-accelerated-battle-pass"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 63
 
 secured: "dZjarqlrAMv+F7Ia6136bGrX2K5NH2HioCFouU0twYBUUIh5YbjZubPaqiUNtE6EDUqNazOR2F7lGe13bjuhINotKF5NFF+r7yxf+LEZlGR3GHY1Y7/O+i31AljlbSzWxR8kEz17v+BBRGXGAJHxUpl1HCKfYX09TNrLCKZjrRTCV1UImL4h6GCD+XeCSAZdczKOj6QxhINSit5WO0Gq13Rz+S6sd+pcgEbIl2/OCNDxe+Pjj75Be8nu8tTNeCf8OmEE8dkOoh3XBBo0EqCo8ayf7ISUH8QsVvzsYIqcDKPPf33rYh7eRADRcGTRopyKFy7CbkYD15JFLNGGn7y5gl5Sn48phDueUb2BvywtaJw=;hTNYHFGRvfYyCyAFm3WtwQ=="
 ---
