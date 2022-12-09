@@ -2,6 +2,132 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard.md",
+      "title": "Diablo 4 Opens Up about Development Updates From Blizzard",
+      "excerpt": "Blizzard Entertainment comes with such exciting updates for the fans of Diablo 4 based on the current status of the new update on the current development of Diablo 4. After the announcement all way ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard/index.json",
+      "webUrl": "https://technosports.co.in/2022/04/27/diablo-4-blizzard/",
+      "originalUrl": "https://technosports.co.in/2022/04/27/diablo-4-blizzard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technosports.co.in/wp-content/uploads/2022/04/d4.png",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-diablo-4-development-is-progressing-well-says-blizzard.md",
+      "title": "Diablo 4 development is \"progressing well,\" says Blizzard",
+      "excerpt": "Diablo 4's development is progressing smoothly, Blizzard has confirmed. Activision Blizzard released its first-quarter financial results report yesterday. It gives us not only a look at the company's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-26-diablo-4-development-is-progressing-well-says-blizzard/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-development-is-progressing-well-says-blizzard/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-development-is-progressing-well-says-blizzard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-diablo-4-gets-new-development-update-from-blizzard.md",
+      "title": "Diablo 4 Gets New Development Update From Blizzard",
+      "excerpt": "Blizzard Entertainment has given eager fans a brief new update on the current development of Diablo 4. Despite being announced all the way back in 2019, news on the latest game in the Diablo franchise ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-25-diablo-4-gets-new-development-update-from-blizzard/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-new/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-new/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2021/08/09/daab2105-7ff1-4b82-8514-9a1a2e860ff3/community-day-hed-1267359.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-new/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-new/",
+      "publishedDateTime": "2022-04-25T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay.md",
       "title": "Diablo 4 New Update Unveils Dungeon Details and Gameplay",
       "excerpt": "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ...",
@@ -940,132 +1066,6 @@
       "provider": {
         "name": "NME",
         "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system.md",
-      "title": "Diablo 4 Update Details Changes to the Paragon System",
-      "excerpt": "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system/index.json",
-      "webUrl": "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/",
-      "originalUrl": "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-diablo-4-skill-affixes-essences-and-paragon-boards-detailed.md",
-      "title": "Diablo 4 – Skill Affixes, Essences and Paragon Boards Detailed",
-      "excerpt": "The Paragon system makes a return and offers more build variety while Legendary powers can be extracted and imbued into other items.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-skill-affixes-essences-and-paragon-boards-detailed/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed",
-      "originalUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed/amp",
-      "publishedDateTime": "2021-12-21T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-mastery-levels-will-return-in-diablo-4-new-info.md",
-      "title": "Mastery Levels Will Return in Diablo 4; New Info",
-      "excerpt": "Blizzard has released another quarterly update regarding Diablo 4. With this, we learned more about the systems featured in the game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-mastery-levels-will-return-in-diablo-4-new-info/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34",
-      "originalUrl": "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamepressure.com/gallery/html/news/1043054218.jpg",
-          "width": 720,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=15924",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=15924",
-      "publishedDateTime": "2021-12-20T22:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
         "images": null,
         "publishers": null,
         "authors": null

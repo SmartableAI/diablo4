@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/"
 type: article
 quality: 107
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1502PQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4's Release Date Has Been Leaked"
-    excerpt: "The data miner took to Twitter to claim that a new release date for Diablo 4 has emerged on the Xbox Store's backend, revealing that the game will be available to play on the 5th of June 2023. Additionally,"
-    publishedDateTime: 2022-12-07T06:05:10Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-release-date-has-been-leaked/ar-AA150N7d"
-    type: article
-    provider:
-      name: DualShockers on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150FIv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=454&y=285"
         width: 1200
         height: 630
         isCached: true

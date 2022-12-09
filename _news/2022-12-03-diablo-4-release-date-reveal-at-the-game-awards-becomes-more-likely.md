@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4's Release Date Has Been Leaked"
-    excerpt: "The data miner took to Twitter to claim that a new release date for Diablo 4 has emerged on the Xbox Store's backend, revealing that the game will be available to play on the 5th of June 2023. Additionally,"
-    publishedDateTime: 2022-12-07T06:05:10Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-release-date-has-been-leaked/ar-AA150N7d"
-    type: article
-    provider:
-      name: DualShockers on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150FIv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=454&y=285"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Diablo 4 Release Date Might Have Leaked Ahead of The Game Awards"
     excerpt: "It appears the release date of Diablo IV has leaked just one day prior to its expected reveal at The Game Awards. The Twitter account Aggiornamenti Lumina, which reliably scrubs the Microsoft Store ..."
     publishedDateTime: 2022-12-07T04:00:00Z

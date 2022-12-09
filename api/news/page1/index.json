@@ -2,6 +2,192 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta.md",
+      "title": "Diablo 4 RELEASE DATE OFFICIALLY ANNOUNCED. How to get into the Open Beta.",
+      "excerpt": "TWITTER   https://twitter.com/SweetPhil 🎙️DISCORD🎙️ https://discord.gg/Q9zE9E8 MERCH   ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta/",
+      "originalUrl": "https://youtube.com/watch?v=jZKa-xq3OD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZKa-xq3OD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T19:04:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sweet Phil",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-meet-your-maker-on-june-6pre-purchase-diablo-iv.md",
+      "title": "Meet Your Maker on June 6—Pre-Purchase Diablo IV!",
+      "excerpt": "All hell breaks loose on June 6, 2023! Prepare for your fated faceoff against Lilith, the Daughter of Hatred, by pre-purchasing any edition of Diablo IV, and tune in to our upcoming Developer Update livestream.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-meet-your-maker-on-june-6pre-purchase-diablo-iv/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/49/49492HO2G6XO1670029912679.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-players-can-skip-the-games-story.md",
+      "title": "Diablo 4 Players Can Skip the Game's Story",
+      "excerpt": "Diablo 4 developers reveal that players will have the option to skip the game's cinematic story and go straight into its open world.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-players-can-skip-the-games-story/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-games-story/ar-AA154DOc",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-games-story/ar-AA154DOc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154kNc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=517&y=257",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T10:01:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4s-bleak-storyline-is-reason-enough-to-play.md",
+      "title": "Diablo 4's Bleak Storyline Is Reason Enough to Play",
+      "excerpt": "The Diablo series has gone through some incredible highs and more than a few lows. Games like Diablo II: Resurrected received huge hype when announced but failed to win over fans",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4s-bleak-storyline-is-reason-enough-to-play/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/0b993105656d070f15c480480e6c1f4ced714f24/hub/2022/12/07/123e36a4-052b-46f0-a530-02b7f8bc3fde/igcshowcase-lilith-02.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "publishedDateTime": "2022-12-08T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement.md",
       "title": "Diablo 4 devs reportedly say crunch feels necessary, claiming lengthy mismanagement",
       "excerpt": "The employees also claim that the game’s development has been affected by gross mismanagement throughout the past five years. Diablo 4 has reportedly seen numerous delays throughout development, with ...",
@@ -380,48 +566,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-07-diablo-4-is-the-diablo-ive-been-waiting-for.md",
-      "title": "Diablo 4 is the Diablo I've been waiting for",
-      "excerpt": "I've given her an arsenal of spells that make ice fly out of her hands, and one of them spawns a snowstorm directly above her head. I click and click while she does the actual work of casting frost spells at legions of demons from hell.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-is-the-diablo-ive-been-waiting-for/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151zSX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=508&y=267",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T00:00:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2022-12-07-diablo-4-hands-on-preview-redefining-hell.md",
       "title": "Diablo 4 Hands-On Preview - Redefining Hell",
       "excerpt": "Diablo IV is quick to differentiate itself from its predecessors in almost every way, while intelligently iterating on new series staples with ideas that put freedom of play at the center.",
@@ -523,7 +667,7 @@
       "originalUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -922,132 +1066,6 @@
       "provider": {
         "name": "IBTimes UK",
         "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end.md",
-      "title": "Diablo 4 will have a \"more of a branching story\" with a beginning, middle and end",
-      "excerpt": "The open world of Blizzard's next game will be detached from more free-roaming experiences like that of The Legend of Zelda: Breath of the Wild.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/11/16/news/1668561753_691341_1668561955_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
-      "publishedDateTime": "2022-11-15T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world.md",
-      "title": "Diablo 4 Will Have a Branching Campaign In Its Open World",
-      "excerpt": "Diablo 4 is shaking up the saga's formula in a big way: its open world will allow players to tackle the storyline in an order of their choosing. In previous Diablo games, the narrative was linear ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA146zen.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4.md",
-      "title": "Blizzard Embraces Open World Gaming For 'Diablo 4'",
-      "excerpt": "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4/index.json",
-      "webUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
-      "originalUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
-          "width": 1455,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
-      "publishedDateTime": "2022-11-14T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

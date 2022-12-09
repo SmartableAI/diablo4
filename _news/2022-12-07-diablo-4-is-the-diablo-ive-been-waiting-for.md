@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-dia
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-diablo-ive-been-waiting-for/ar-AA151spt"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Gamer on MSN
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 is still getting some of Diablo 3's most busted items, but not at launch"
-    excerpt: "Blizzard has confirmed that Diablo 4 is still getting Set Items, though you'll likely be waiting until post-launch to use them in-game. Game director Joe Shely explains during a recent roundtable ..."
-    publishedDateTime: 2022-12-07T09:59:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-still-getting-some-of-diablo-3s-most-busted-items-but-not-at-launch/ar-AA151bnP"
+  - title: "Meet Your Maker on June 6—Pre-Purchase Diablo IV!"
+    excerpt: "All hell breaks loose on June 6, 2023! Prepare for your fated faceoff against Lilith, the Daughter of Hatred, by pre-purchasing any edition of Diablo IV, and tune in to our upcoming Developer Update livestream."
+    publishedDateTime: 2022-12-09T02:52:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv"
     type: article
     provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
-    quality: 62
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/49/49492HO2G6XO1670029912679.png"
+        width: 880
+        height: 400
+        isCached: true
 
 secured: "ryqCJt6/k9W1XFXWyEz6UZ6r7CpQB6pRQZiesMDgdpbDJ2Jw25JBUQSUDsD50HN4EJ5oRZvh0TcQiNxeThKDy8j7qxb+S9lLe3RmH7gSb4C5ULo67Xn4Ug+igbTFAFSYr6+y/Ll3QaiDtVWdhpq/LOYdCsM2ToYyifDqaHOe/S4Dif8JL66GmS0LXRMo/Ry+5cb6IF2zVZVe88ycVe/7BLuZGWxfllnm7IkGuKmCESNtwzN3vFdms5lWanKKuq/52pOZMfYokbJYHflLaZ/N0FTPDX+Rlzd+LC9TCD0fHOhnEaKYT0unj1UMelL7cSGuDX8j25m67qsGqajEyb09TWWjpP4oiNrohmf1vo9+ZZQ=;7P6nWovn2ZP0deSuJl49Xg=="
 ---
