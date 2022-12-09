@@ -32,6 +32,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Diablo 4 preorders: Bonuses and edition details"
+    excerpt: "Diablo 4 is on the way, and as development continues, preorder details have appeared, allowing players to know what they're getting when they reserve their copy of the fourth mainline entry in this ..."
+    publishedDateTime: 2022-12-08T07:13:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-preorders"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HBfs6xiiYoJtYTosK7vJeY-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2bQ0ZsdylYq1HfZgVEufgT3xSMPqLj8FcU7fSa3Eqn9uzmzQudrCAXwVby4C4yxCVA6Kx3fBuKp1jtg8Kccy8RhRfnwKGvfPG52hKnrnFrZHy4Ufy61fpZXoOrrSTRHWbxMnPsg3nuMB1n413G96JVo14KX27ATZ27cpW3unrcq7GCXcERlzcthgkfgTMi0hKBoKDUCwGQN2aBmk+aozAjUs7qm8O1wAQKwbvhCR4+kQ1vamLmNTozzcalamgtmWbgc6A4y0GT86hMTo4vCNBKNBaEnN5T8B/Cm4ZYG3htthmEmHVH0JKquNupYMPCTmfJkb3JcNTmyCBDufoot4VVPyL/A+iMOQ/uXx12aAYpM=;XBsYXWNIcDFcQtchFApYBA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.yahoo.com/amphtml/entertainment/diablo-4-battle-pass-ult
 cdnAmpWebUrl: "https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/diablo-4-battle-pass-ultimate-133541557.html"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Yahoo
@@ -20,19 +20,21 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 preorders: Bonuses and edition details"
-    excerpt: "Diablo 4 is on the way, and as development continues, preorder details have appeared, allowing players to know what they're getting when they reserve their copy of the fourth mainline entry in this ..."
-    publishedDateTime: 2022-12-08T07:13:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-preorders"
+  - title: "Accelerated battle pass and tier skips included in Diablo 4 ultimate edition, announces Blizzard"
+    excerpt: "Blizzard Entertainment has announced the features of Diablo 4. Gamers can access the game four days earlier at $89.99."
+    publishedDateTime: 2022-12-09T07:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/articleshow/96116778.cms"
+    ampWebUrl: "https://m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 94
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HBfs6xiiYoJtYTosK7vJeY-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-7328,msid-96116779/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Diablo 4 Ultimate Edition Comes With Accelerated Battle Pass And Tier Skips"
     excerpt: "Earlier this year, Blizzard announced that Diablo 4 would be adopting a more modern live-service approach by implementing battle passes. It claimed that these, along with paid comsetics and live ..."

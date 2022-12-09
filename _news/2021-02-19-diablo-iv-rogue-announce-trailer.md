@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=uvdpUFhLfng"
+originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvdpUFhLfng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo RU
+  name: Diablo
   domain: youtube.com
 
 topics:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "JjK+fTQ8QZPCqbYZ1iUPjJgLMLOusiSGSUXSLsyUIWFavM7D5GKrh3prTeud8iGXpxjQuTvlauqsfwuIRg3PTYfD745feUtI01/jrby1yh7TphdlM8MrO15cIL0E9vcc/tG+GiV5k3xgFXUnw1Fnh1Ywu/R0LFxsK3Z/OPGH+wO3LdakzsPDsordSMfIUjOhamvvjOMVTTmahsSeinmXrC7u4RICc5MZ9t4ofp6RaZ+tD3Qk0XRjZlwWf5RAF9/8crxDfRw6zpfaLG7brn/lUKRFc1hqSI/o6I9qRsWfdF2bDdtLAnfsdbsAY0RVzLqgOy4XMtuJPgcM8boZENGy8khHcvdlIvFPBpwPKraF/AChHRdLbh/v6bATqgRkbw3WMDK0jc8rDCb1ayNoZ1IWfw==;YOhH2Ysr5evxEsMEm2tM0Q=="
+secured: "JTpfjl9aI+a8CFf3MkLLIa7Q5ggeH0FVxjnbd01vOJGsTzQDQGtuTpVjEgyMzwDxqF4FbMZJxALJbe6ajFZyzNni/4LwUCMYOrTplnVWn/d/6fyT+w6D0AoC2KSuziOETWCZKPBAkxqMsHIS7jbW+/S/VFG8XDucRLNY/4UP2LHTCgv90cJWKVQ0hQMA9t6mmzSLSiSbk7EZKkRiF1t093wUNHccoSVhISiMrdveVUF5Fu90L7W+z8v8pq7agZA2M/HBUM6PTrl9alyGNBOpjaeOmKNX49CyhakgbVI1cWy1D4QQ6eCRBMSFX4Ha7NxPBzwpghARigGljMYV2c8HgnG+01vFutgbXXLcJAgVxwBauGLDuLQjdUZkgLcgByuTtqVTKBVO0UZ1CQXcnzeUoA==;1fX2qC9Ho6Bk7yVNSv0h6A=="
 ---
 

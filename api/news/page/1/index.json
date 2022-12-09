@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-09-accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard.md",
+      "title": "Accelerated battle pass and tier skips included in Diablo 4 ultimate edition, announces Blizzard",
+      "excerpt": "Blizzard Entertainment has announced the features of Diablo 4. Gamers can access the game four days earlier at $89.99.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/index.json",
+      "webUrl": "https://economictimes.indiatimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/articleshow/96116778.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/articleshow/96116778.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-7328,msid-96116779/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms",
+      "publishedDateTime": "2022-12-08T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta.md",
       "title": "Diablo 4 RELEASE DATE OFFICIALLY ANNOUNCED. How to get into the Open Beta.",
       "excerpt": "TWITTER   https://twitter.com/SweetPhil 🎙️DISCORD🎙️ https://discord.gg/Q9zE9E8 MERCH   ...",
@@ -187,7 +229,7 @@
       "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/ar-AA154x9M",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -225,8 +267,8 @@
       "title": "Diablo 4 Players Can Skip the Game's Story",
       "excerpt": "Diablo 4 developers reveal that players will have the option to skip the game's cinematic story and go straight into its open world.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-players-can-skip-the-games-story/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-games-story/ar-AA154DOc",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-games-story/ar-AA154DOc",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-game-s-story/ar-AA154DOc",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-game-s-story/ar-AA154DOc",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -248,7 +290,7 @@
       "publishedDateTime": "2022-12-08T10:01:10-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Game Rant on MSN",
+        "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
@@ -427,39 +469,6 @@
       "provider": {
         "name": "Radio Times",
         "domain": "radiotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-battle-pass-ultimate-edition-pre-order-bonuses-leaked.md",
-      "title": "Diablo 4 Battle Pass, Ultimate Edition, Pre-Order Bonuses Leaked",
-      "excerpt": "A Diablo 4 Battle Pass, Ultimate Edition, Deluxe Edition, and pre-order bonuses have all been leaked ahead of The Game Awards tonight. There will also be more open betas, and an early access period, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-battle-pass-ultimate-edition-pre-order-bonuses-leaked/index.json",
-      "webUrl": "https://www.yahoo.com/entertainment/diablo-4-battle-pass-ultimate-133541557.html",
-      "originalUrl": "https://www.yahoo.com/entertainment/diablo-4-battle-pass-ultimate-133541557.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yahoo.com/amphtml/entertainment/diablo-4-battle-pass-ultimate-133541557.html",
-      "cdnAmpWebUrl": "https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/diablo-4-battle-pass-ultimate-133541557.html",
-      "publishedDateTime": "2022-12-07T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yahoo",
-        "domain": "yahoo.com",
         "images": null,
         "publishers": null,
         "authors": null
