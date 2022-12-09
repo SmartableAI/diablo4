@@ -38,6 +38,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Diablo 4 Arrives in June 2023"
+    excerpt: "Revealed at The Game Awards 2022, the 2023 release date was finally narrowed down as Blizzard confirmed the June date for its first take on an open world version of the action-RPG series. The release date announcement makes sense given that some players h"
+    publishedDateTime: 2022-12-08T16:45:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-arrives-in-june-2023"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/12/09/diabloiv-blogroll-2-1670554032547.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ryqCJt6/k9W1XFXWyEz6UZ6r7CpQB6pRQZiesMDgdpbDJ2Jw25JBUQSUDsD50HN4EJ5oRZvh0TcQiNxeThKDy8j7qxb+S9lLe3RmH7gSb4C5ULo67Xn4Ug+igbTFAFSYr6+y/Ll3QaiDtVWdhpq/LOYdCsM2ToYyifDqaHOe/S4Dif8JL66GmS0LXRMo/Ry+5cb6IF2zVZVe88ycVe/7BLuZGWxfllnm7IkGuKmCESNtwzN3vFdms5lWanKKuq/52pOZMfYokbJYHflLaZ/N0FTPDX+Rlzd+LC9TCD0fHOhnEaKYT0unj1UMelL7cSGuDX8j25m67qsGqajEyb09TWWjpP4oiNrohmf1vo9+ZZQ=;7P6nWovn2ZP0deSuJl49Xg=="
 ---

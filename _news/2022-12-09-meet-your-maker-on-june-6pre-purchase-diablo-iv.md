@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-o
 webUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Arrives in June 2023"
+    excerpt: "Revealed at The Game Awards 2022, the 2023 release date was finally narrowed down as Blizzard confirmed the June date for its first take on an open world version of the action-RPG series. The release date announcement makes sense given that some players h"
+    publishedDateTime: 2022-12-08T16:45:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-arrives-in-june-2023"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/12/09/diabloiv-blogroll-2-1670554032547.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 is the Diablo I've been waiting for"
     excerpt: "I've given her an arsenal of spells that make ice fly out of her hands, and one of them spawns a snowstorm directly above her head. I click and click while she does the actual work of casting frost spells at legions of demons from hell."
     publishedDateTime: 2022-12-07T08:00:28Z
