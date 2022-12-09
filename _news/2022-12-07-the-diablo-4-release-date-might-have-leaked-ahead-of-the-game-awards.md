@@ -18,35 +18,19 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 June release date leaked by Microsoft ahead of The Game Awards"
-    excerpt: "Details on Diablo 4’s release have leaked again, this time via the Xbox store - which gives it an exact launch date."
-    publishedDateTime: 2022-12-07T02:42:00Z
-    webUrl: "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/"
-    ampWebUrl: "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/"
-    type: article
+  - title: "Diablo 4 Release Date Announcement Cinematic From Game Awards"
+    excerpt: "The leak was true, game releases 6-6-23. Pre order for Open Beta Early Access."
+    publishedDateTime: 2022-12-09T02:59:17Z
+    webUrl: ""
+    type: video
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 107
+      name: The D Cast
+      domain: youtube.com
+    quality: 137
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/06/diablo4-multi-982a.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "The Microsoft Store for Xbox may have leaked the Diablo 4 launch date"
-    excerpt: "The Microsoft Store may have once again leaked an upcoming Xbox game's launch date, and this time it's Diablo 4. Diablo 4 is an upcoming action RPG from Blizzard, from the legendary franchise that ..."
-    publishedDateTime: 2022-12-06T22:47:54Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-microsoft-store-for-xbox-may-have-leaked-the-diablo-4-launch-date/ar-AA1501iy"
-    type: article
-    provider:
-      name: Windows Central on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1502PQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "Diablo 4 release date reveal at The Game Awards becomes more likely"
     excerpt: "If you're eager to find out more about Diablo 4, we've got good news for you. It's believed that Blizzard Entertainment and the next Diablo game will be at the said event. Insider Gaming is following ..."
@@ -56,6 +40,15 @@ related:
     provider:
       name: xfire
       domain: xfire.com
+    quality: 67
+  - title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
+    excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
+    publishedDateTime: 2022-12-06T03:01:24Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
+    type: article
+    provider:
+      name: DualShockers on MSN
+      domain: msn.com
     quality: 67
 
 secured: "d0zrP2GccjPk0x5jMRUKGGeTHHK1JGFb5vsBXNgylMu0IZeFeWwKiC2xisLxbTsebPjST0IPIhPjF46+7tY1XScqACU0/ylYPdsDJbfqCkJBYdTGbiRMnfOV4VfBLfQw6I3c8RK3SfAxsUjnL1Imgvmg96mUVAIGEVI71iqlC9+bG7es52kyvaBz0hgTttQKwvw87SS0O3Bd3VuL0CV4jLXSBbAu4G2pmi6+j8Md3DV01Tq6OsgLBCnbUQJsXPSSFvK3arU69VCKTqjBFYjdqIrZMV4GhJx08Da33v1yUlBtekvtsU63LvpZJqQh+jrQUJ5RXmrioOt4s6umhzwpZu39ZxObv6923Ztx5rWCHSQ=;Tp1vQuOWMEKcZWzSKUBgIQ=="

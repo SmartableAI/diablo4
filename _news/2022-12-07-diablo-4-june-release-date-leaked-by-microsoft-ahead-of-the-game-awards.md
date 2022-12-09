@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/"
 type: article
 quality: 107
-heat: 167
+heat: 127
 published: true
 
 provider:
@@ -40,24 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 release date reveal at The Game Awards becomes more likely"
-    excerpt: "If you're eager to find out more about Diablo 4, we've got good news for you. It's believed that Blizzard Entertainment and the next Diablo game will be at the said event. Insider Gaming is following ..."
-    publishedDateTime: 2022-12-03T06:48:00Z
-    webUrl: "https://www.xfire.com/diablo-4-release-date-reveal-the-game-awards/"
-    type: article
-    provider:
-      name: xfire
-      domain: xfire.com
-    quality: 67
-  - title: "The Diablo 4 Release Date Might Have Leaked Ahead of The Game Awards"
-    excerpt: "It appears the release date of Diablo IV has leaked just one day prior to its expected reveal at The Game Awards. The Twitter account Aggiornamenti Lumina, which reliably scrubs the Microsoft Store ..."
-    publishedDateTime: 2022-12-07T04:00:00Z
-    webUrl: "https://www.pushsquare.com/news/2022/12/the-diablo-4-release-date-might-have-leaked-ahead-of-the-game-awards"
-    type: article
-    provider:
-      name: Push Square
-      domain: pushsquare.com
-    quality: 67
 
 secured: "nXL8QnCbrRPjEVnP8wow1GT82hBOB2lTNtWE6aVj9qX14j2HCZG6s5PdtfqPdSYG2/zftYlVkB8tt2Dcc8AhTkoVMk2tmR6ua4tdE9lOzie7F+WovgUg/q+7U1TJ/96KMm4RcF4vVS56MwdhzIy5q9xoj5kdMMM2c4SKMiQUrsc7awSaFr3EMJKauaq7zcz81CxxBu6r/cMYLQa9P8hVQzBdy1AL8N9sVptF4eqwaVvdYBt6NnojBqUa+g828QoClvT6N/Yt3J/CO3J1kOxzDLm7GmK7kdCOvrEW5m0/pEYlQvPjfwKPldW3IVSLMggDpmQOsglTtdF2yhvsxE/D/vU7kl8H9jkcIaUB5Xjb57o=;AxlxF4FTiBx1TWdmVuXSKA=="
 ---
