@@ -2,6 +2,7 @@
 title: "Diablo 4 Barbarian Arsenal System Explained"
 excerpt: "Diablo3 #Season27 #Hardcore #Maxroll #Blizzard Season 27 Guides: Leveling Guide (All Classes) ..."
 originalUrl: https://youtube.com/watch?v=-V3uM_uPKpQ
+webUrl: https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-arsenal-system-explained/
 type: video
 length: PT7M17S
 publishedDateTime: 2022-12-08T13:00:00Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4Fkktex8tiDk/zJaIQJCFQc9GFbKLTy6WzcQcNfi0WehCqlMmR0tiP0YeiJEPX23ZjRFFgt4hvIm9nX8t7KeJdODdII0jK27Y2O5IVLfg8TlE1Sc6b5RnbndSPiLz9i51HPybtJVD6JYOlOp2qbtxF962JPqJLd8BVcZ5v3x8z1JRqZHaGy1a3gSKUCAhK3TuJbKYpsTgXuHWrVYkI5/ttl4ADZbBywh5cFmgA0eCUcq/QnRYBXWnURzNUCkhfvM56ArLTjDY/CpeBYxlrm9iHNoU5LU7O+QOhvApwqNF4w+GBota3TX0sonVORW4HLQtZXSf9xLQPHDb3ifl/kVsGZzst+L5q2RYxTdu2uGBSKfqWBEglJLFPcC1aV/HPxwj9P6WmJoLqPoBIpNPj73rg==;OnwYKKzyQ1uxex25ciRC0Q=="
+secured: "9020h3RrHLvQ+iiV48sgs+VpYj6xs96O2GFqwjYjPp1BZ8r0z0AUXeHYWdwtRg4mnk5yk5M0ZTmaYyldrFRM4FOEzhQLmQ/S4vSCocqBoC69aQtOO+zG2Rb309AV80T8b/g16vWtOIUl3XKsQaJ0XhUG3/uzv+UlcdECPPKvMsu8Bt6puTpKBr2OB56C+8XLDgLe4AP7pN5TKUeuhLDPdndXCI1zuoYx1W3DBZZpDZ4MoxKUA7Q/Ndsuukeq7dzX6frRyKuLAFXR5TvHE4b1hnmNgI0+ORUSsMcEKV6gDhL9RhYOeWJN4mCS6a/mPOzmL+ycgtkC6gUgH/6bmpl04zXqb1OGNbqZ3m0I/jB13W9CpUynnlLhTmwOrI/cyva1IlvEfgyTbg+BFO5HA4UqNQ==;HCnkt7/P0FUVjYQlWPyLcg=="
 ---
 

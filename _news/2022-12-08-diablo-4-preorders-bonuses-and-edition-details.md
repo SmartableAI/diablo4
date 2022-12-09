@@ -36,6 +36,6 @@ related:
       domain: yahoo.com
     quality: 87
 
-secured: "g56ff3YaSrq0jixPRn3nYC//vi/ny/KDHZV2ZOTvBiSe8Hau2MmUgTLmzWCh+G2phWlr0X1I+sxXdpTuKf921rbF7MpbKGNVrlPFHtOFvw/3Gkw88jKjhB6qhZHu/3o8vKvDIlNscIx4QPz8zqHG0PgayLKsDuxLFwq/Y2YdKyIB/tXj6XdkxsuvLQhyD8Dwux/jw9/NssQS56XERghBawSFESb7lV1brZc7zrVl5C9f55jB4IfLVLB27bQW2iZI0mkmCgy+wOm4YzOlHdI2bj8NAfAuvUIb/X052W0Nbjzg0HuqUO8yuxh4jz9hpN+UiCpLYopO76og23BkxFpSL9UNwtq6OExk9BSq/sEwUaI=;p9g5pLeO+3m4iisqZD1BnQ=="
+secured: "CcxP2GZc+KTXbkb+V3seW7yCYa4CWlNhdYundDtwQc7FzHmHslo1L9L5+Utgf96DrI0Lu4kogdIr93YwjpAdv5EX+vaKcMJB4xaKDaXWvdwDf+VLW/69iUem6m9hXEsQ+rTTQAp5TmqQktQrmNL7kM6C92B+b9srB1vldAspmDdRk1tiTEoZxf3EjSlPqrmUJmU7rB2fYH7I6v5g3vcv0JxPzXrIJTkHBUlXtBAZdpPcrcwCOXRSSgyYkd+dC9dDb2P/AyJaah2dXBcVi2CJO3PlSr7HmixjVQfiPRQEqzpiUoR7KS65TuAYHHq0/sH7jGDSYwd16E/Kh1KnU3FKTVUdzKa5Te6d0QpxabLyqi4=;LIZaAJ63luOwgPLe1iFH5A=="
 ---
 
