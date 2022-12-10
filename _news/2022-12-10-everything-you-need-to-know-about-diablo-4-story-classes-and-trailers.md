@@ -1,0 +1,48 @@
+---
+category: news
+title: "Everything you need to know about Diablo 4: Story, classes and trailers"
+excerpt: "(Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer, albeit very, very slowly."
+publishedDateTime: 2022-12-10T01:26:00Z
+originalUrl: "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA157m1N"
+webUrl: "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA157m1N"
+type: article
+quality: 87
+heat: 127
+published: true
+
+provider:
+  name: MSN
+  domain: msn.com
+
+topics:
+  - Diablo 4
+
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150jRg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=798&y=413"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Everything we know about the Diablo 4 classes"
+    excerpt: "So far, Blizzard has revealed five Diablo 4 classes. These are classes from previous titles with chances of adding more in the future. - December 4, 2022 - WIN.gg ..."
+    publishedDateTime: 2022-12-04T20:37:29Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8"
+    type: article
+    provider:
+      name: WIN.gg on MSN
+      domain: msn.com
+    quality: 67
+  - title: "Everything you need to know about Diablo 4: Story, classes and trailers"
+    excerpt: "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ..."
+    publishedDateTime: 2022-12-07T02:14:00Z
+    webUrl: "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA150aNN"
+    type: article
+    provider:
+      name: Pocket-lint on MSN
+      domain: msn.com
+    quality: 67
+
+secured: "eGWoUnXaKaQOYh8fmvh1ekNClsm9FZ11Qg+xo+FBatiadM0bO6U+jE2y6nF37S55RNWAnfuhf2V3I56bqaTTEeAdc4WaRB0WC5Wil0pxxxwfLAQQq0NsvTk8zMcxfMaP+mhYcoKd8+i/NIk0eMuMd2yJEX3zCQL7L8uGqs3zwc2ClGU+fWFxyf2giHOGGi8NyCnKtFa6BkaU4UXuLN3END8LT0V/V7VEJURbT5G3/qy7TCLU5Wux4cofJwayJKyrdKHnN6i2IuArjO6sW/6K3pK8gsdWqrFa4SO7x6UvVkh0JrcxMJErkTkD4VZW1VmNNeNA7NpVGAQYzJQ8ZfnwCDz5dJNSr9vnBlgWi/cBLws=;cQ3TM/WT54W8zHnd5SpFtw=="
+---
+

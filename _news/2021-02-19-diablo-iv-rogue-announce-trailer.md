@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=uvdpUFhLfng"
+originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uvdpUFhLfng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo RU
+  name: Diablo
   domain: youtube.com
 
 topics:
   - Diablo 4
 
-secured: "J+lZ3D5fd7IEiI/6uB46ypEffJztD0xPTpCMrg/WmSLJWqBuO8SCiFQvp/11laCnO+d8zBJ+7SRBJMvM4sQYDad4B6of9jUT2KagdrZYt/Vs2BNzSu/z1nxCLkJPbEOkuYcX8gl6LolF49Skd4e7IsGr/2glC//fdfRQYBxjU5pYS+yyHua1ByDU7eAPKTpGLJ1mQlo74eQxvfHCO+R8AtwKqeXCa7IG//IHD4eYxIgAR+qeAegDw7JDDPLuf6Rm/1NUyJ//4ztuS9R9/X+cIgxfmRiTrmDQtkujZaXRs2QD0LclXu/RAgwxtj8HoXT0hr4ho29unip0zotRvALzcmCo6TU0+R7Ujq+VCFxc6hmu9iAfcrp3929lSecCI8KQl43gFXP+jCkzlAxMgPRqvg==;4RWlDcoINd2MAaV2hlVtZQ=="
+images:
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "pww39Pn93a+M4A2Sw8ZYOUrnl6kP3+DUmm84QDAU/yWhonLrjYy+hV4p64I8eJtvNflIVs+peJ4JYTmp/zvTv7ybhPcjxYc7oGKI1f1u+lLC0VjIBs59dZ/lTE/rLNPy4Rv5dgnhObtTuNg/GTLXiVrn28FylxfGIghDjijRdtXCgQoSXy+MCshINloYwTsyRE/6uTtQ0GCJlaqlhMXXlhpNXrtx715P+fFpaLeqPzCV8KAmWlVhugdSDCVEGmmZWAWUnOfWfmivvvGc6V+nanATFN49Q91XXIyU29FSw18g5T+5tnwiYiqMaQgIE7F6RhDLE99cCTxVPVbwA8dG1fto22MkuF70xonlYmXsoWj0fBAb/u0pT/c/3NLUxjw24prC3DKvSYREOPEvk77jKg==;vwF6PhHxbyqtp2FaOrqJSw=="
 ---
 

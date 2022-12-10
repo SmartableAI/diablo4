@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: WIN.gg on MSN
@@ -18,6 +18,20 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Everything you need to know about Diablo 4: Story, classes and trailers"
+    excerpt: "(Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer, albeit very, very slowly."
+    publishedDateTime: 2022-12-10T01:26:00Z
+    webUrl: "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA157m1N"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150jRg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=798&y=413"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Everything you need to know about Diablo 4: Story, classes and trailers"
     excerpt: "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ..."
     publishedDateTime: 2022-12-07T02:14:00Z
