@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Diablo IV - Rogue Announce Trailer"
-excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ..."
+excerpt: "Some call it murder. She calls it a job well done. Learn more at Diablo4.com The Rogue is the newest addition to the Diablo IV ..."
 publishedDateTime: 2021-02-19T22:43:03Z
-originalUrl: "https://youtube.com/watch?v=6vVF-vYLUH0"
+originalUrl: "https://youtube.com/watch?v=LvrLZ4yETHI"
 type: video
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6vVF-vYLUH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LvrLZ4yETHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Diablo PL
+  name: Diablo
   domain: youtube.com
 
 topics:
   - Diablo 4
 
-secured: "GSnmx24QtitIDHBXQNRsfBH+8Djk23gIx9NxpF6XR8UtU5P9grjwM/+BWZK8qNnAD88XKHAtEgcqugo+zVP+OFt6C/cKoOXo2DOM6+SE+xcTNakQ3PMb5kza++F0usJlsojc60/xOOdAYs7drQbtsj47aLeXkqCzxo7fAGxbm6ND0Klyivv/eefofQh9XzHORZe1bJdZ4R/sRUD5/u0CEeQ9vKFVQEq3Wfg0ovfDa0m5J6l1uIUbXV8TskPAI3Y0+XrSMGpD96EXbSy3Kh0tYf8FxIvmr+ipf0A+P8OhNCepsYfxFVoCOs1CVjoYRK/0Jqgt/xYHHtXczw8Y4QpzHpRibp06infsNBnDcGKn9VAdjPJaNTTyJAh4tuDGjcACVQxsmaung2oKKjw39bziVQ==;E+2IF8rQllL790DRi3WTVQ=="
+images:
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "zixT6K4L8DcV861EYemPav5DOTCiHNiQX00SDW5FwYWuH+feKdNIfNV/b94ea0xb+R0TK0sJh+j90dvEZtISNVeNpz5cYKGfRSVkSftoimsGBb70M5mZX0OBNFmQ6kOt0wvz3IRwPbdAtMxNhSeiKkn5RokvhdQlPYvm5L7OFOaOQ9oxOjv+Bozzx/hLapDwo33vWDhv1Idl3RWXI8p9K1UfyBZ2G/HxUpLWTus5o3EY4OzJlg8NvU3xrn/uRUz4z5KlFYfZasPh8pujJM7/0yqxtWfhIvi//FXT7ehobTQi3hhBRH8X89ZGPJCkdkhewZeEUv8dQH7mMdAX1dBcJXdtN5gHccedQ/16Elv+td+8vRu0V3KprPaNmeKJI8XmP19SQA088A6T0zv0+nwybw==;ttz1qCI1zTuGNbghr7U1XQ=="
 ---
 
