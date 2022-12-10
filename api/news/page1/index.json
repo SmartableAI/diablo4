@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-09-diablo-4-wiki-guide.md",
+      "title": "Diablo 4 Wiki Guide",
+      "excerpt": "The sequel to Blizzard's 2012 game, Diablo 4 is the next main installment in the war between the high heavens and burning hells - and most importantly, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-wiki-guide/index.json",
+      "webUrl": "https://www.ign.com/wikis/diablo-4",
+      "originalUrl": "https://www.ign.com/wikis/diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/12/17/diablo-iv-button-2021-1639768661633.jpg",
+          "width": 2160,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard.md",
       "title": "Accelerated battle pass and tier skips included in Diablo 4 ultimate edition, announces Blizzard",
       "excerpt": "Blizzard Entertainment has announced the features of Diablo 4. Gamers can access the game four days earlier at $89.99.",
@@ -52,7 +103,7 @@
       "originalUrl": "https://youtube.com/watch?v=jZKa-xq3OD4",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZKa-xq3OD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1024,48 +1075,6 @@
       "provider": {
         "name": "DualShockers",
         "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-diablo-4-release-date-leaked-game-awards-announcement-collectors-edition.md",
-      "title": "Diablo 4 Release Date Leaked! Game Awards Announcement! Collector's Edition!",
-      "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-25-diablo-4-release-date-leaked-game-awards-announcement-collectors-edition/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-11-25-diablo-4-release-date-leaked-game-awards-announcement-collectors-edition/",
-      "originalUrl": "https://youtube.com/watch?v=tGFap5FEe1Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tGFap5FEe1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T20:09:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bannik13",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

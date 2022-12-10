@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T09:59:54Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/if-diablo-4-s-queen-of-hell-is-a-spicy-tomato-this-burger-king-ad-gives-me-ideas/ar-AA156ur1"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/if-diablo-4-s-queen-of-hell-is-a-spicy-tomato-this-burger-king-ad-gives-me-ideas/ar-AA156ur1"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: TechRadar on MSN
