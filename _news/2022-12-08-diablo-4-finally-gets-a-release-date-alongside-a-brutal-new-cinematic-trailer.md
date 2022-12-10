@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Release Date and Pricing Announced! | Diablo 4"
+    excerpt: "Blizzard has finally announced the pricing and release date for Diablo 4! I go through everything that was announced."
+    publishedDateTime: 2022-12-09T23:45:01Z
+    webUrl: ""
+    type: video
+    provider:
+      name: ABGFenix Gaming
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Blizzard announces Diablo 4 release date in new trailer"
     excerpt: "The Washington Post recently published an inside look at Diablo 4’s development, which suggested the game is facing difficulties, not least because of direction issues and backlash over questionable ..."
     publishedDateTime: 2022-12-08T20:11:00Z
