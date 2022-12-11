@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Will Reportedly Receive New Details Before The Game Awards"
-    excerpt: "Tom Henderson claimed in a new post that his sources have confirmed that Blizzard will share new details about Diablo 4 before December 8, which is expected to reveal the official release date of the ..."
-    publishedDateTime: 2022-11-22T02:16:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-will-reportedly-receive-new-details-before-the-game-awards/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo-4-details.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
 secured: "tyavyHyrbf3AU+KYyLVBj9kkJvgQb5yVD05kmHCOkRGttR9PxKTR8oBkPffMUr6ovSEapLrqe+6lJxbYA2QEVMjn8V62AdsbqA1Efb9I3p3IO21R4znGHSitx50GJGoLOEDsjMcyupOCqVIme7Vjkdg2DhMSs5sUjaQrSd8Pz2DD0Z2nbh6535Pwv4Kn9isVNOqzrcxi1DpHh5fVuqxGoMKq03zd2tL8/gMrycAjdmTVhKpqpdXcGy4ZsnE/DGznET3pEMd6Tfn77UP48fKhscx56JD41hO4VnnWTHozKpPliNPWikfvQVde8OBbForb6Rh4qguKRz4jnodFwurPQZrvhic3tyzdu23VTX8g6nM=;bmi5Z667XBAWeK+OSrqt9A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=19722"
 cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Reportedly Receive New Details Before The Game Awards"
-    excerpt: "Tom Henderson claimed in a new post that his sources have confirmed that Blizzard will share new details about Diablo 4 before December 8, which is expected to reveal the official release date of the ..."
-    publishedDateTime: 2022-11-22T02:16:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-will-reportedly-receive-new-details-before-the-game-awards/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/11/Diablo-4-details.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards"
     excerpt: "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ..."
     publishedDateTime: 2022-11-22T18:28:00Z
