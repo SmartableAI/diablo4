@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian.md",
-      "title": "Latest Diablo 4 TRUE Leaked Beta Test Gameplay - Barbarian",
-      "excerpt": "Diablo IV är ett framtida datorspel, under utveckling av Blizzard Entertainment. Wikipedia Släpptes första gången: 2023 Utgivare: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=2ESG_FzS_yw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ESG_FzS_yw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M5S",
-      "provider": {
-        "name": "MRAZNBEAST",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 314,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-16T09:10:54-07:00"
-    },
-    {
       "path": "_games/raxxanterax-diablo-4-barbarian-class-preview.md",
       "title": "Diablo 4 Barbarian Class Preview",
       "excerpt": "diablo4 #Maxroll #Blizzard 00:00 Introduction 01:08 Strengths 03:40 Weaknesses 05:26 Equipment 07:29 Skill Tree & Passives ...",
@@ -62,6 +32,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-07T17:22:48-08:00"
+    },
+    {
+      "path": "_games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian.md",
+      "title": "Latest Diablo 4 TRUE Leaked Beta Test Gameplay - Barbarian",
+      "excerpt": "Diablo IV är ett framtida datorspel, under utveckling av Blizzard Entertainment. Wikipedia Släpptes första gången: 2023 Utgivare: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=2ESG_FzS_yw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ESG_FzS_yw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M5S",
+      "provider": {
+        "name": "MRAZNBEAST",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 254,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
       "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
@@ -336,36 +336,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-24T08:05:28-08:00"
-    },
-    {
-      "path": "_games/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps.md",
-      "title": "Barbarian & Rogue Gameplay - Diablo 4 - New Gameplay Trailer 2023 4K 60 FPS",
-      "excerpt": "gaming #video #gameplay #trailer #new #subscribe #shorts #4k Please leave a Like & Subscribe, it helps the channel grow!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps/",
-      "originalUrl": "https://youtube.com/watch?v=omv3b5x6Guw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/omv3b5x6Guw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38S",
-      "provider": {
-        "name": "Tarnished",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T20:34:03-08:00"
     },
     {
       "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
@@ -920,6 +890,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-25T06:27:02-07:00"
+    },
+    {
+      "path": "_games/coolpedia-diablo-4-gameplay-first-4-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay - First 4 Classes [Barbarian, Rogue, Sorceress & Druid]",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/coolpedia-diablo-4-gameplay-first-4-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/coolpedia-diablo-4-gameplay-first-4-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=rg2m2n9HBPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rg2m2n9HBPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
+      "provider": {
+        "name": "Coolpedia",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-05T14:40:16-07:00"
     }
   ],
   "nextPage": 2

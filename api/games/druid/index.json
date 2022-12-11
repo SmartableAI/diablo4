@@ -4,6 +4,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/justin-diablo-4-druid-gameplay.md",
+      "title": "Diablo 4 Druid gameplay",
+      "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/justin-diablo-4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=MbzOPWjk9GE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M41S",
+      "provider": {
+        "name": "Justin",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-01T22:53:54-07:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -96,36 +126,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
-      "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
-      "title": "*NEW* Druid Gameplay 100 FPS - Diablo 4 - Gameplay Demo Trailer (2023)",
-      "excerpt": "gaming #blizzard #video #trailer #gametrailers #shorts #new #subscribe #diablo #viral #trending #new #news Please leave a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/",
-      "originalUrl": "https://youtube.com/watch?v=OUWVbqZGmd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUWVbqZGmd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56S",
-      "provider": {
-        "name": "Tarnished",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T21:31:27-08:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
@@ -312,23 +312,23 @@
       "publishedDateTime": "2022-01-23T04:20:19-08:00"
     },
     {
-      "path": "_games/justin-diablo-4-druid-gameplay.md",
-      "title": "Diablo 4 Druid gameplay",
-      "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/justin-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=MbzOPWjk9GE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M41S",
+      "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
+      "title": "*NEW* Druid Gameplay 100 FPS - Diablo 4 - Gameplay Demo Trailer (2023)",
+      "excerpt": "gaming #blizzard #video #trailer #gametrailers #shorts #new #subscribe #diablo #viral #trending #new #news Please leave a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/",
+      "originalUrl": "https://youtube.com/watch?v=OUWVbqZGmd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUWVbqZGmd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56S",
       "provider": {
-        "name": "Justin",
+        "name": "Tarnished",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Druid"
       ],
-      "heat": 58,
+      "heat": 60,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -339,7 +339,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-01T22:53:54-07:00"
+      "publishedDateTime": "2022-11-27T21:31:27-08:00"
     },
     {
       "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
