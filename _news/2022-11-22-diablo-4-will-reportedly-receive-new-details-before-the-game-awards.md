@@ -54,20 +54,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo IV News Coming December, Before The Game Awards"
-    excerpt: "According to Henderson, The media embargo does imply that Diablo 4 will not be featured at The Game Awards, but a leaked Activision Blizzard document had previously revealed that pre-orders will ..."
-    publishedDateTime: 2022-11-21T14:35:00Z
-    webUrl: "https://gameranx.com/updates/id/404484/article/diablo-iv-news-coming-december-before-the-game-awards/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 72
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-rogue.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "d+clf7mnB4kfXKwk38e3pkhxIRY4X9O5JLGoI4JbU8U/3taWoTJGI1L/1n99fltc2P7Ey1XZpGADESX4V8nTmSKhBaKQYLsoqnaZleapPy6Xa1VQjimLvZ9vXu9M/DmhkuqnUepCYQILN7bm7BoGau2BtbNo0UCFr/fTmeyrhVDCT2bjG7stuOOO9kwr5kz7OECnTyebTowiwm4bDawnwvpEeKuo+RvWqRw6VN+BY+jX7/bIo4thdEXGpI4bFXlfIlksMN11+3lrd/ef4h7sdsSq8CWcd3PLtivV7inV58cSPBqlB+ZAQ82kBQXMUs7Or5ftw/jK4I/nkXIad8TfgN7Rv5qo8j78bs3SWuqcGus=;XmqxWuRjOqSy4ll8q3h8Tg=="
 ---

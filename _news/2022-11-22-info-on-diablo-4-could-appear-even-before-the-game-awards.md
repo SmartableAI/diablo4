@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamepressure.com/S013-amp.asp?ID=19722"
 cdnAmpWebUrl: "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722"
 type: article
 quality: 107
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://www.xfire.com/wp-content/uploads/2022/11/blizzard-release-date-diablo-4-the-game-awards-8.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo IV News Coming December, Before The Game Awards"
-    excerpt: "According to Henderson, The media embargo does imply that Diablo 4 will not be featured at The Game Awards, but a leaked Activision Blizzard document had previously revealed that pre-orders will ..."
-    publishedDateTime: 2022-11-21T14:35:00Z
-    webUrl: "https://gameranx.com/updates/id/404484/article/diablo-iv-news-coming-december-before-the-game-awards/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 72
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-rogue.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "ptvFLhBCbEGBpJkcM8EvrtOaABYlwbjiWoch/mLBYKElwUzuP+axguVszywzi2SuVSpGX8UZef1PqNXf5RlaApcbMH6onphs8P95dstB6L5rOiv5ae6JGD8bZcrc0b7oTh6b4aE5Boqx+mTGlIQKib704RrprRZpIG7lOEID13bHgEmBZq53+kfdHcPPAUSihOmS7kfBbfsoGBFZXOLo5Uj8QqyELkQt7CiwkdrEFpY9t8f5vGx7vmsTueECS36vgo8/Kcp2UtU/3vhcDwbnqLpN0sGbG5opHxMK+y4FM0xQvJ7rlsrWDLZ6ZPliq79bKB6twSvZBNaGtRSkNJHGetv69oc4Jn1wYu2Nnr3PrwU=;1xM49pflGEewaph/A7u1tg=="
