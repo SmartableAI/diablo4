@@ -137,6 +137,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards.md",
+      "title": "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards",
+      "excerpt": "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards/index.json",
+      "webUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
+      "originalUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.xfire.com/wp-content/uploads/2022/11/blizzard-release-date-diablo-4-the-game-awards-8.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xfire",
+        "domain": "xfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards.md",
       "title": "Info on Diablo 4 Could Appear Even Before The Game Awards",
       "excerpt": "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ...",
@@ -1024,48 +1066,6 @@
       "provider": {
         "name": "SlashGear on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected.md",
-      "title": "Diablo 4 could launch earlier in 2023 than we expected",
-      "excerpt": "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected/index.json",
-      "webUrl": "https://www.tomsguide.com/news/diablo-4-possible-release-date",
-      "originalUrl": "https://www.tomsguide.com/news/diablo-4-possible-release-date",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg",
-          "width": 1200,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T02:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
         "images": null,
         "publishers": null,
         "authors": null
