@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/international/us/accelerated-battle
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms"
 type: article
 quality: 94
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Yahoo
       domain: yahoo.com
     quality: 87
+  - title: "Diablo 4 pre-order beta access, ultimate edition bonus items detailed"
+    excerpt: "Blizzard details Diablo 4 pre-order beta access and bonus items included with the digital deluxe and ultimate editions of the fantasy RPG, including a WoW mount ..."
+    publishedDateTime: 2022-12-10T09:37:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-pre-order-bonus-items-early-beta-access-wow-mount-blizzard-lilith.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Ultimate Edition Comes With Accelerated Battle Pass And Tier Skips"
     excerpt: "Earlier this year, Blizzard announced that Diablo 4 would be adopting a more modern live-service approach by implementing battle passes. It claimed that these, along with paid comsetics and live ..."
     publishedDateTime: 2022-12-09T02:52:54Z

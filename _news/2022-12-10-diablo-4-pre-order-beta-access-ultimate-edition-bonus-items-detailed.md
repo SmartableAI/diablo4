@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Ultimate Edition Comes With Accelerated Battle Pass And Tier Skips"
-excerpt: "Earlier this year, Blizzard announced that Diablo 4 would be adopting a more modern live-service approach by implementing battle passes. It claimed that these, along with paid comsetics and live ..."
-publishedDateTime: 2022-12-09T02:52:54Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-ultimate-edition-comes-with-accelerated-battle-pass-and-tier-skips/ar-AA155izq"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-ultimate-edition-comes-with-accelerated-battle-pass-and-tier-skips/ar-AA155izq"
+title: "Diablo 4 pre-order beta access, ultimate edition bonus items detailed"
+excerpt: "Blizzard details Diablo 4 pre-order beta access and bonus items included with the digital deluxe and ultimate editions of the fantasy RPG, including a WoW mount ..."
+publishedDateTime: 2022-12-10T09:37:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
+webUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: TheGamer on MSN
-  domain: msn.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA155dJK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-pre-order-bonus-items-early-beta-access-wow-mount-blizzard-lilith.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -51,19 +51,19 @@ related:
       name: Yahoo
       domain: yahoo.com
     quality: 87
-  - title: "Diablo 4 pre-order beta access, ultimate edition bonus items detailed"
-    excerpt: "Blizzard details Diablo 4 pre-order beta access and bonus items included with the digital deluxe and ultimate editions of the fantasy RPG, including a WoW mount ..."
-    publishedDateTime: 2022-12-10T09:37:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
+  - title: "Diablo 4 Ultimate Edition Comes With Accelerated Battle Pass And Tier Skips"
+    excerpt: "Earlier this year, Blizzard announced that Diablo 4 would be adopting a more modern live-service approach by implementing battle passes. It claimed that these, along with paid comsetics and live ..."
+    publishedDateTime: 2022-12-09T02:52:54Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-ultimate-edition-comes-with-accelerated-battle-pass-and-tier-skips/ar-AA155izq"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
+      name: TheGamer on MSN
+      domain: msn.com
+    quality: 85
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-pre-order-bonus-items-early-beta-access-wow-mount-blizzard-lilith.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA155dJK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 £90 Ultimate Edition includes early access and accelerated battle pass"
     excerpt: "Diablo 4 has a £90 Ultimate Edition which offers up to four days early access to the game, and includes an \"accelerated\" seasonal battle pass unlock with the ability to skip 20 tiers. The Deluxe ..."
@@ -75,6 +75,6 @@ related:
       domain: eurogamer.net
     quality: 63
 
-secured: "dZjarqlrAMv+F7Ia6136bGrX2K5NH2HioCFouU0twYBUUIh5YbjZubPaqiUNtE6EDUqNazOR2F7lGe13bjuhINotKF5NFF+r7yxf+LEZlGR3GHY1Y7/O+i31AljlbSzWxR8kEz17v+BBRGXGAJHxUpl1HCKfYX09TNrLCKZjrRTCV1UImL4h6GCD+XeCSAZdczKOj6QxhINSit5WO0Gq13Rz+S6sd+pcgEbIl2/OCNDxe+Pjj75Be8nu8tTNeCf8OmEE8dkOoh3XBBo0EqCo8ayf7ISUH8QsVvzsYIqcDKPPf33rYh7eRADRcGTRopyKFy7CbkYD15JFLNGGn7y5gl5Sn48phDueUb2BvywtaJw=;hTNYHFGRvfYyCyAFm3WtwQ=="
+secured: "QKZn2WoFnK7yEitLGqwaswtRBNimA6KI89C0VC4OhTU53eDGQcSg2NPrI4favx3ProfEBSS8xeRpU18WNkvKP7QOzBgSPJqUpKcERQY+zL+7cNMpdKqRH25kpUdonT0RMz2lGkjpCL2X8cKIkNTBfEQ3bpTvVP/OnfJqettDjzprbMc/GubW89B//yoZVXP6goAjYq1T3tK8wCFkqNpTLKxtRWpcQPtiB6KL8HFwbSQeUfRU58w38pmzqpdHRnze8DjaF1DW+H9Sk5Zlj+VlQB959IWeCX1d1iXRsSfNR7m+0vGiPAcDmmuLX2+Q5d5OgBrG9U2cQSV0p8cGpSzYyPh+cCG4x+LxdsRzusDOg84=;BpmR/gsv26f0QBwkvjTJOw=="
 ---
 
