@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-gb/money/technology/everything-you-need-to-
 webUrl: "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA157m1N"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4: Everything we know about Blizzard's 2023 sequel"
+    excerpt: "Diablo 4 is one of the most anticipated new games of 2023, and with its appearance at The Game Awards 2022 confirming a release date, we now know exactly when to schedule some vacation time for hell."
+    publishedDateTime: 2022-12-09T16:46:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-guide/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Everything we know about the Diablo 4 classes"
     excerpt: "So far, Blizzard has revealed five Diablo 4 classes. These are classes from previous titles with chances of adding more in the future. - December 4, 2022 - WIN.gg ..."
     publishedDateTime: 2022-12-04T20:37:29Z

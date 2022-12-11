@@ -18,6 +18,20 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Diablo 4: Everything we know about Blizzard's 2023 sequel"
+    excerpt: "Diablo 4 is one of the most anticipated new games of 2023, and with its appearance at The Game Awards 2022 confirming a release date, we now know exactly when to schedule some vacation time for hell."
+    publishedDateTime: 2022-12-09T16:46:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-guide/"
+    type: article
+    provider:
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Everything you need to know about Diablo 4: Story, classes and trailers"
     excerpt: "(Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer, albeit very, very slowly."
     publishedDateTime: 2022-12-10T01:26:00Z

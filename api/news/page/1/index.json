@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-10-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers.md",
-      "title": "Everything you need to know about Diablo 4: Story, classes and trailers",
-      "excerpt": "(Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer, albeit very, very slowly.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-10-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/index.json",
-      "webUrl": "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA157m1N",
-      "originalUrl": "https://www.msn.com/en-gb/money/technology/everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/ar-AA157m1N",
+      "path": "_news/2022-12-09-diablo-4-everything-we-know-about-blizzards-2023-sequel.md",
+      "title": "Diablo 4: Everything we know about Blizzard's 2023 sequel",
+      "excerpt": "Diablo 4 is one of the most anticipated new games of 2023, and with its appearance at The Game Awards 2022 confirming a release date, we now know exactly when to schedule some vacation time for hell.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-everything-we-know-about-blizzards-2023-sequel/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-guide/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-guide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA150jRg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=798&y=413",
+          "url": "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T17:26:00-08:00",
+      "publishedDateTime": "2022-12-09T08:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
