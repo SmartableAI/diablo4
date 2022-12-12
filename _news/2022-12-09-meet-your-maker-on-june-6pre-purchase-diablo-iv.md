@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-o
 webUrl: "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv"
 type: article
 quality: 162
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -84,6 +84,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 shaping up well for June launch"
+    excerpt: "The Game Awards on Friday revealed that the next game in the long-running Diablo series, Diablo 4, will be released in June."
+    publishedDateTime: 2022-12-11T22:44:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
+    ampWebUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 87
   - title: "When is the Diablo 4 beta? Before its June 2023 release, but that's all we know"
     excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
     publishedDateTime: 2022-12-09T07:15:00Z

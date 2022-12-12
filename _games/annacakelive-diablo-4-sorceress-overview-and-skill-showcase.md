@@ -2,6 +2,7 @@
 title: "Diablo 4 - Sorceress Overview and Skill Showcase"
 excerpt: "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Enchantment Effects ..."
 originalUrl: https://youtube.com/watch?v=8tGo-_lSGwE
+webUrl: https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/
 type: video
 length: PT11M42S
 publishedDateTime: 2022-12-11T21:14:49Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1K97zwBUdI7wy8ConPm/an+3fiQFyOYSiubcCqDy9Idqa/OksLnJ4cr78jrNoGDmC0CetXT3+EyqBnIAFGj/cUARpCbvXL2md/DUPTZ/ieId2Bue72V9howBBXPPqw100i+bUVaRcYaKRGe3Nq+Hgp7OOPfni/E/T4j0YlSuPjfg10ipGGxj9j60TlssV5MBReZhPLwF4ezECaunGrkLuKly11R+hwJDFr0J9/MMkj6T8h63N0i1Bckz0pN2MBUyQL1Tte+K9hgr3VQSf9QcngcpUvouV5yuVw7Cy5iiHcm1qEyIRhtl7Xyjnble30OZisoDhDYY2zmuYuw4wVGCVUCLDhqMf8MoI1fKVEd7skX3vSLy9IGzvQN1H0dFF7Vy0oti86iuiP988NgYBbRUYA==;YjYeV3uWzjVd4T5/9V/98A=="
+secured: "+2OUiEJHwyCM7ZFOOvBw2RJGLAIlXFMn1PjA4qYOD5G9K4pKnJDbh6cRa1S+I2GhfuvOcjH9HDBWhrnwAKAaDPnScNr3L9o8odMni3UJs7rNDN7ipgmJiGsDmjzsMiruspql0NNaWLFuRHRunffEW6DLHqjFnDydjl/JVL5Kcmp4+3N7TidlRKKpjQSOenyTjsFJNbZnlV28V7CNNUjDXitEkScUqjoOCZzT9MV2Iui+Ui+1edjbdNoFJ688QeWKjVwgjiAgcfaxsVoGnZRLR1cIXnzQsDc1TMj0KVy4S9B/+5lHucUE2DIOquaODUfL6pdjwPH6lCIcq7c2qd9yQidiNjnzBncQUcC3UxFqT8I1apjrl2SnOVffjyBhUWdCrqCXuq63PdQ0eoRvPtkB6A==;NvtUGFdLk5H/W49vv5sK5Q=="
 ---
 

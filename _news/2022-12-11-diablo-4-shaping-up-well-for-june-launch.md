@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
-excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
-publishedDateTime: 2022-12-08T20:42:37Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+title: "Diablo 4 shaping up well for June launch"
+excerpt: "The Game Awards on Friday revealed that the next game in the long-running Diablo series, Diablo 4, will be released in June."
+publishedDateTime: 2022-12-11T22:44:00Z
+originalUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
+webUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
+ampWebUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
-  domain: msn.com
+  name: Couriermail
+  domain: news.com.au
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Meet Your Maker on June 6—Pre-Purchase Diablo IV!"
@@ -66,6 +62,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
+    excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
+    publishedDateTime: 2022-12-08T20:42:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 release date set for June 2023"
     excerpt: "The release date for Diablo 4 has been revealed at The Game Awards 2022. It's been a long wait for fans but we now finally have a release date for Diablo 4, and it's June 6, 2023. During today's event ..."
     publishedDateTime: 2022-12-08T18:48:42Z
@@ -80,17 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 shaping up well for June launch"
-    excerpt: "The Game Awards on Friday revealed that the next game in the long-running Diablo series, Diablo 4, will be released in June."
-    publishedDateTime: 2022-12-11T22:44:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
-    ampWebUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 87
   - title: "When is the Diablo 4 beta? Before its June 2023 release, but that's all we know"
     excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
     publishedDateTime: 2022-12-09T07:15:00Z
@@ -101,6 +100,6 @@ related:
       domain: gamesradar.com
     quality: 63
 
-secured: "EwiyruWp3SupIiIAVSFCsO/wW/LmNjsZSoJ5MHW3mgeuS/6+Aft6boI+QSBNbYzMDa/ZW600wTT1jTjrdf5ueSvb9ovksCSi5blO3q1OM0yjmlKHPtYS2SisKQqQIAAarcHBcClU3Z6/I8++QLPTR1B+Ve52rCjgJWKHHA6W+g7gY9uLyJ2/IzEYnVP8jRP9/oi01Qgi3BokQGg8WaAa9CndGYRyxrnVAaOR3t5fD6kpmbzh90cIUqnkJ6FWzrD4MprxAdbJ/266qfH5AjulxX6jq2oc5z1W8ucYKfLYkKip1hG/MvKEf7tXJmVzrqMQTpbSKzTlqnwx3PFAUoT6jitKlN5MoW0/kzmQpJWw8j0=;MJ0fo7l/rrEn3NjHH4xH3w=="
+secured: "dJHmyk+C66LXcaNr5Z1ls/x76yyELHAHbdkFAHq1z9lifA78TJSyk+yYaJTu/hUqsBfSVPltJk9CSRARz2kZ41NdAEspHNY6X21iFX8+JFvP6Zel1FGdvcGd/Wbytb2M86+krmrvDyJSJKl7QJu31CTiumJvyRiB5PDCMkkpd2wUK2yAaRHwKqbUlwPXaDy/coxhHYQtHFE+QjXLapKuP4ygDKZPrXQaPSsfeFDVgVF8mNqCAPgvH8vb99UT5YZArdfQm8eJvFsccAdrC5CB+EGIjIWvRMYgj8MquGnOAVY+vXD0MWvz2ZFqlLyuXm5yS/2qXuVKu3eMZVgRDBg83pWiH7dVfX6Q3vyZrKab54w=;Hi1I3SO6WXGwc+eDfMSFJg=="
 ---
 

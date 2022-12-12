@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 shaping up well for June launch"
+    excerpt: "The Game Awards on Friday revealed that the next game in the long-running Diablo series, Diablo 4, will be released in June."
+    publishedDateTime: 2022-12-11T22:44:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
+    ampWebUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 87
 
 secured: "YQmEkBg8yWQgMnxLc13bKrurjqQtzSDJuryXZnr4f+o9p+Cfco3h2mB7Pd6nWqsuCs1hncKxrkaB6Op1HCC2Nd9xYMQKCWAMNl/125lcPGY+TX0T16b3lNa7ibOyDfdkC0SXiHCPsYCAQpKocWVbn9p9VyPrEjyfZ7x9Dn4XQ+Qm/eopMkmuaRzruilYzt5Nd3+RJzG/+jgW3a3bv4qtja9tosNA2V8aanIf/b5uK47/rgPm6+jqOZbljKBQufOUK477lp8YoSUSzYgqlb7yuFzIomuyQgHBDW0HOvXBhUjlILbCf8Lgd8N7DMxJUTV1QDfMQQpy2qWCZKFkcDYmm25vi4VbQ10jAnlAs4zXOc4=;ggIf+upNX0P+9tmHTgjlWA=="
 ---
