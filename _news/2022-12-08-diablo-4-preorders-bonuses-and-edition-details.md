@@ -38,6 +38,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Diablo 4 preorders: Bonuses, edition details, and where to buy"
+    excerpt: "Diablo 4 preorders are on the way, and we've got details on what players can expect from each version of the game."
+    publishedDateTime: 2022-12-12T10:28:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preorders-bonuses-edition-details-and-where-to-buy/ar-AA153vbD"
+    type: article
+    provider:
+      name: Windows Central on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153Iaz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report: Diablo 4 could be launching in Spring 2023, with preorders going live December (Updated)"
     excerpt: "Insider Gaming also confirmed our report below that The Game Awards will play host to a range of Diablo 4 announcements, most likely the launch month, the collector's edition (which has some kind ..."
     publishedDateTime: 2022-12-03T05:15:00Z
