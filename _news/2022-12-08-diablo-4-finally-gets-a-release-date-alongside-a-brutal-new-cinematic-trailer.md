@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Streaming The Game Awards Til Diablo 4 Announcement"
+    excerpt: "Better be announced tonight for real."
+    publishedDateTime: 2022-12-09T14:55:51Z
+    webUrl: ""
+    type: video
+    provider:
+      name: The D Cast
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Blizzard announces Diablo 4 release date in new trailer"
     excerpt: "The Washington Post recently published an inside look at Diablo 4’s development, which suggested the game is facing difficulties, not least because of direction issues and backlash over questionable ..."
     publishedDateTime: 2022-12-08T20:11:00Z
