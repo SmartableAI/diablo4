@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-19-diablo-4-beta-update-implies-tests-are-coming-soon.md",
+      "title": "Diablo 4 beta update implies tests are coming soon",
+      "excerpt": "The Diablo 4 beta client has appeared online and can be downloaded right now, according to an eagle-eyed Redditor, reigniting the hype around the Blizzard ARPG ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-19-diablo-4-beta-update-implies-tests-are-coming-soon/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-update",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-beta-update.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-diablo-2-resurrected-forum-trading-blamed-for-diablo-4-changes.md",
       "title": "Diablo 2: Resurrected forum trading blamed for Diablo 4 changes",
       "excerpt": "Resurrected forum trading, blaming it for Diablo 4 changes as players speedrun ladder season two Fans are slamming Diablo 2: Resurrected forum trading once more following the arrival of the Diablo 2: ...",
@@ -1041,48 +1083,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "AnnacakeLIVE",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts.md",
-      "title": "NEW Diablo 4 Update, Closed Beta Announced, My Thoughts.",
-      "excerpt": "Blog post to sign up for closed End Game Beta: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts/",
-      "originalUrl": "https://youtube.com/watch?v=z6jJapa7SDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z6jJapa7SDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T11:23:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sweet Phil",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
