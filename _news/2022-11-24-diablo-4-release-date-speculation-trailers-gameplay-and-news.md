@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 trailers, gameplay, classes and news"
-    excerpt: "Diablo 4 has been a long time coming. Fans have been waiting with baited breath for years now, so we're happy to say that there really isn't all that long to wait until release. So far ..."
-    publishedDateTime: 2022-11-23T09:04:00Z
-    webUrl: "https://www.techradar.com/in/news/diablo-4-news-release-date-trailers-rumors"
+  - title: "Diablo 4 beta release date speculation"
+    excerpt: "The Diablo 4 beta release date has been in the rumour mill for quite some time now, and we’ve got the details on what to expect from the testing period ..."
+    publishedDateTime: 2022-11-24T09:49:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-release-date"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
+      name: PCGamesN
+      domain: pcgamesn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-beta-release-date-header.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Everything we know about Diablo 4 gameplay and release date"
-    excerpt: "The first change players can expect in gameplay is that Diablo 4 is an open-world game. The game won’t have a linear storyline but instead almost 150 dungeons and locations for players to explore."
-    publishedDateTime: 2022-11-28T00:28:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-diablo-4-gameplay-and-release-date/ar-AA14Dj1a"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 67
 
 secured: "dgTF4om940BL0JODIQYjoVB5hPY5ndIGMUwCY3vcWgWPdu9k82QHwMcidlrFZH8f1sP/qlujE2kBzpuo6XFtleptz3nsHJ9uu5dBKTTCg6hQE8GjNqGnEVxX0smgXfyKC+9xJKPzpzx+awkunaKLp4VA8AGvLc81VPuQgizHU4q+yJqHFPUb+3BwgstR3YOIw/EH3wMYGX49rVY+Fq4Mhg/OmnYbcuI3pUndDC8SQrg36rd+Ge/HMFRl8oUlpEKpa1GW2hSwFTT31K06/BXiypVAN6zbpX7nZsAsxCKf12MQZ4tHqKL4mVmtB4vTvSgG7fiK0W4DN0KGSd0lNSA89WtXTZe1zhtGwHQzzFdA4r0=;R/L6i3MZPjwqoj7SM21FWg=="
 ---
