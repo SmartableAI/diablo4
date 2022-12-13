@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-19-diablo-4-closed-beta-announced.md",
+      "title": "DIABLO 4, Closed Beta Announced",
+      "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near Twitch ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-closed-beta-announced/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-19-diablo-4-closed-beta-announced/",
+      "originalUrl": "https://youtube.com/watch?v=DL0KRQtil_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DL0KRQtil_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T14:05:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts.md",
       "title": "NEW Diablo 4 Update, Closed Beta Announced, My Thoughts.",
       "excerpt": "Blog post to sign up for closed End Game Beta: ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "Windows Central",
         "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-reveals-monetization-plans.md",
-      "title": "Diablo 4 Reveals Monetization Plans",
-      "excerpt": "Blizzard has today revealed how monetization practices will work in Diablo 4 when the game launches next year. In recent months, the Diablo series as a whole has been under fire from fans following ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-reveals-monetization-plans/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
-      "publishedDateTime": "2022-08-18T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
