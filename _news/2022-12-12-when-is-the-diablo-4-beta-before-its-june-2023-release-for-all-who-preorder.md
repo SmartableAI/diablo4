@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
-excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
-publishedDateTime: 2022-12-08T20:42:37Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+title: "When is the Diablo 4 beta? Before its June 2023 release for all who preorder"
+excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
+publishedDateTime: 2022-12-12T03:37:00Z
+originalUrl: "https://www.gamesradar.com/when-is-diablo-4-beta-release-date/"
+webUrl: "https://www.gamesradar.com/when-is-diablo-4-beta-release-date/"
 type: article
-quality: 87
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
-  domain: msn.com
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/VdntmkdmZj9jAcDqUZ6zKC-1200-80.jpg"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Confirms Release Date, Pre-Order Bonus"
+    excerpt: "Fans who have been patiently waiting for the next entry in Blizzard’s long-running action RPG franchise finally have a release date for Diablo 4."
+    publishedDateTime: 2022-12-08T20:42:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-release-date-pre-order-bonus/ar-AA154xpP"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154Txm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 release date set for June 2023"
     excerpt: "The release date for Diablo 4 has been revealed at The Game Awards 2022. It's been a long wait for fans but we now finally have a release date for Diablo 4, and it's June 6, 2023. During today's event ..."
     publishedDateTime: 2022-12-08T18:48:42Z
@@ -91,20 +105,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 87
-  - title: "When is the Diablo 4 beta? Before its June 2023 release for all who preorder"
-    excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
-    publishedDateTime: 2022-12-12T03:37:00Z
-    webUrl: "https://www.gamesradar.com/when-is-diablo-4-beta-release-date/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VdntmkdmZj9jAcDqUZ6zKC-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "When is the Diablo 4 beta? Before its June 2023 release, but that's all we know"
     excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
     publishedDateTime: 2022-12-09T07:15:00Z
@@ -115,6 +115,6 @@ related:
       domain: gamesradar.com
     quality: 63
 
-secured: "EwiyruWp3SupIiIAVSFCsO/wW/LmNjsZSoJ5MHW3mgeuS/6+Aft6boI+QSBNbYzMDa/ZW600wTT1jTjrdf5ueSvb9ovksCSi5blO3q1OM0yjmlKHPtYS2SisKQqQIAAarcHBcClU3Z6/I8++QLPTR1B+Ve52rCjgJWKHHA6W+g7gY9uLyJ2/IzEYnVP8jRP9/oi01Qgi3BokQGg8WaAa9CndGYRyxrnVAaOR3t5fD6kpmbzh90cIUqnkJ6FWzrD4MprxAdbJ/266qfH5AjulxX6jq2oc5z1W8ucYKfLYkKip1hG/MvKEf7tXJmVzrqMQTpbSKzTlqnwx3PFAUoT6jitKlN5MoW0/kzmQpJWw8j0=;MJ0fo7l/rrEn3NjHH4xH3w=="
+secured: "Qh+Mn587wbLtaWRNvNywZFqWed2oCSdmTLclkDy7uey9n+eOIMbrycb9VBoNN97dENRB8d/ryinw32jyIHJ/A0aM573MTh7cHWcF9uJhZonat/Us+tthA/lIry8AcT65hpoIus4a7X2NwP+mwhkknxSgbJwNUuoEBVhQD7h7DqQNHLjtci9fnC2/sSX1iiIjXsw3h0WUAsnJlOXrLIfTP5LMCKvjMh+IcCbNssHKDxG0QG154LfLyTMUIDpzmWL716eqrLPzjo1EyC96jcKpxvvFbzq/qtt/He3S2iqrx2SFz+QXfviywO6wsIkPT8+xMsPI0o22EIq8uIt6qxZ0bIOldTpJSU3MNNSAXAwDZhI=;pHcnC/IbcKH37Gr7aDOpYQ=="
 ---
 

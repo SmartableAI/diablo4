@@ -91,6 +91,20 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 87
+  - title: "When is the Diablo 4 beta? Before its June 2023 release for all who preorder"
+    excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
+    publishedDateTime: 2022-12-12T03:37:00Z
+    webUrl: "https://www.gamesradar.com/when-is-diablo-4-beta-release-date/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VdntmkdmZj9jAcDqUZ6zKC-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "When is the Diablo 4 beta? Before its June 2023 release, but that's all we know"
     excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
     publishedDateTime: 2022-12-09T07:15:00Z
