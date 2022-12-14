@@ -140,7 +140,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 152,
+      "heat": 140,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -170,7 +170,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 145,
+      "heat": 136,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -214,23 +214,23 @@
       "publishedDateTime": "2022-12-07T11:00:13-08:00"
     },
     {
-      "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",
-      "title": "Diablo IV Sorceress Gameplay   60FPS 4K",
-      "excerpt": "Diablo IV Sorceress Gameplay 60FPS 4K Diablo is an action role-playing hack and slash dungeon crawler video game series ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/",
-      "originalUrl": "https://youtube.com/watch?v=aTR19gOlxgg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTR19gOlxgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
+      "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
+      "title": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid",
+      "excerpt": "Diablo 4 Druid gameplay! Boulder toss! #shorts #diablo4 #druid Please subscribe for more Diablo 4 and Diablo 3 content!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid/",
+      "originalUrl": "https://youtube.com/watch?v=NoT4QP14XZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NoT4QP14XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41S",
       "provider": {
-        "name": "Gaming Rush",
+        "name": "noobyG",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Druid"
       ],
-      "heat": 112,
+      "heat": 114,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -241,28 +241,26 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-15T20:42:12-07:00"
+      "publishedDateTime": "2022-09-17T12:05:13-07:00"
     },
     {
-      "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
-      "title": "Diablo 4 Gameplay All Classes Barbarian, Rogue, Sorceress & Druid",
-      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
-      "originalUrl": "https://youtube.com/watch?v=hyJzUEVS-Ww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hyJzUEVS-Ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M36S",
+      "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
+      "title": "*NEW* Druid Gameplay 100 FPS - Diablo 4 - Gameplay Demo Trailer (2023)",
+      "excerpt": "gaming #blizzard #video #trailer #gametrailers #shorts #new #subscribe #diablo #viral #trending #new #news Please leave a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/",
+      "originalUrl": "https://youtube.com/watch?v=OUWVbqZGmd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUWVbqZGmd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56S",
       "provider": {
-        "name": "Gaming Rush Tube",
+        "name": "Tarnished",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian",
-        "Druid",
-        "Sorceress"
+        "Druid"
       ],
-      "heat": 110,
+      "heat": 109,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -273,7 +271,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-11T23:06:36-07:00"
+      "publishedDateTime": "2022-11-27T21:31:27-08:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
@@ -428,36 +426,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-07T08:00:02-08:00"
-    },
-    {
-      "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
-      "title": "*NEW* Druid Gameplay 100 FPS - Diablo 4 - Gameplay Demo Trailer (2023)",
-      "excerpt": "gaming #blizzard #video #trailer #gametrailers #shorts #new #subscribe #diablo #viral #trending #new #news Please leave a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/",
-      "originalUrl": "https://youtube.com/watch?v=OUWVbqZGmd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUWVbqZGmd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56S",
-      "provider": {
-        "name": "Tarnished",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T21:31:27-08:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
@@ -912,6 +880,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-16T17:10:12-07:00"
+    },
+    {
+      "path": "_games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer.md",
+      "title": "Diablo IV - 2023 One Hour Gameplay  – Barbarian, Sorcerer, Druid, Necromancer",
+      "excerpt": "Diablo IV - 2023 One Hour Gameplay – Barbarian, Sorcerer, Druid, Necromancer Enjoying the video? pls make sure to subscribe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer/",
+      "originalUrl": "https://youtube.com/watch?v=o0NLzW12paY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o0NLzW12paY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M39S",
+      "provider": {
+        "name": "Gaming Rush Tube",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-26T05:10:53-07:00"
     }
   ],
   "nextPage": 2
