@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/game-lore-dash-diablo-4-barbarian
 type: video
 length: PT12M2S
 publishedDateTime: 2020-11-19T04:58:24Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PRYtIiFs0Wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GO/Cn3wnXM6YcVGtklytqGdNv32XGnGaOEgZHUElUcpU7MyaR9VKGRF6dkyAx4vUIdlPaQvdf2bgcEhSm3lvOjK0gTrdREIxloqL2+DH0n/xKYrleE/bdsRvjbOWS9/uR5ffo6r8R4HQRf7YAZGWcDrEWLQbVhE//lcvF2deK/u3fbxxOWzduuvRUmgE1Pwk9rzHVfhi8oJwmEoDej6S2cbw48LiVBZOTrrGNiCUJMOYXia+RtrqKy4IN5O6rlYx4A0egp99ABUiZSr18lraYvgAP6iFur4icD4qe9oxoWiicSeI3fBcZD+s15H0vD7qvtQvB3ytrku1aH5wisgY69jOz25wahGifXU4KK8qxrR/UsiqYOSztvlVbvQ7P5qK3tVefVv5jBsAAiVhfrIm9QaWwGXTfHAsxNrJj3UXDR0=;4OlFEguow+8C/YsQAh+pyA=="
+secured: "dIRzbYK3ds+eFXzmXTokuYd+S330Uq94NSwDe+y5JrPCbk03HWcATKKHwDjrfsyU5ovMzHJoeGzOzxWnbBCNJRR34GWnWNLhbIG+oVZwe+ZU+KY4tan049w3uIcsmjHfKLhz2tDH4Qc/UFA6I4z37K/Ysg/aehDFwlSHichZIcwfHMxzbTnHpamCdeF4bpS7QjRTkDh0KWN4O28kR6fPtkHejoRpyNq87BvWcmiGbvgtF5upGa9w+0ll7lC2XEnJXZhBKxksd4kdLStGTskPISfiZ38MxFankKwTbLMdH7Cv/5GAMeIEWIKg4kjeYchhWWN8xoIbRoeg6ShFq1ot8gbFeVAGaKtgLANaPriU1WbmVh3+AgVUrUnzxKb3iRnJQssNB278/7Xo/gn5yTQ2f1eljIpq5v8Po1KRVf0Dh9o=;oCKwOe7UJ6xD4GQgVXoo2A=="
 ---
 
