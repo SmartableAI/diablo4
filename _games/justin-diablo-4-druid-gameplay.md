@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/
 type: video
 length: PT5M41S
 publishedDateTime: 2022-11-02T05:53:54Z
-heat: 118
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
