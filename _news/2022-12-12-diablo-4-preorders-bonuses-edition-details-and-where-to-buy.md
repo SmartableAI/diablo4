@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4 preorders: Bonuses, edition details, and where to buy"
-excerpt: "Reserve your copy and await the Blessed Mother. Over three years after it was first revealed, preorders are now live for Blizzard Entertainment's next big role-playing game. Diablo 4 is on the way ..."
-publishedDateTime: 2022-12-12T10:28:00Z
-originalUrl: "https://www.windowscentral.com/gaming/diablo-4-preorders"
-webUrl: "https://www.windowscentral.com/gaming/diablo-4-preorders"
+excerpt: "Diablo 4 preorders are on the way, and we've got details on what players can expect from each version of the game."
+publishedDateTime: 2022-12-12T10:28:37Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preorders-bonuses-edition-details-and-where-to-buy/ar-AA153vbD"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preorders-bonuses-edition-details-and-where-to-buy/ar-AA153vbD"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Windows Central on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/HBfs6xiiYoJtYTosK7vJeY-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153Iaz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 720
         isCached: true
 
-secured: "eKOPpFBkqX8FdSh9Sl6f6fy+aqqc5dh4+YGtenNJtjs126tF44WvzqbpiUEztKE+mzlqWWVat0qWXw6U0bcygZWhtbT45/75tRe7ADtOf/CgMkuEqz/vIeQvNw6WTrtl+E3p49ZGoRqoaao6Bh8m+p+An3ak+xX5RktynXFg4i2ghq0eQHGuOe4viPdq5cUFpy/RVfXnPYuUQI+NlRVqNryIf0PoUxCwCbrpmSuXDyx/WRiRshWNbKO876i8AgJiXCFvJYrK+h9s8Sy0QqmoQUAIxDixYAO3q7BcGmpUpflqLYQPR7j5C2GVUFSdcgAI6d2pq4Ma9Wv4ZrLiJuS898ksY+QjL+Psj3+ei//HkR4=;wyBCrlF1ccCpqkikjf422w=="
+secured: "jY/oHJj9w+lSLTzyKIOQys1vjEPkbgwkRsxxbtwl1FdqHc+A4nZrtCuTSFH3EEx28+2LEjamKQRUBXf5FRtlJWfe8pF11QtO9y3ZNQSmAU2XEDZfCL2P3UoxZrmFzCLFYHsxrRWp6QwkyLitNEYevjtX7GWecD1caxShADz0UggUjVhNe2lHGk8d3pF63KnWyzAzIqP/jyTs7YU3NHy50KtqWGiP9Qc7JpS65lxJ2DbM4LkRCyg0jym2xFCEinkgNkA91Jp2jNpga99o7EtziUGyv+cnmKH3D16PfIYxLujOtNRN9OCD1VgDqG7PDtHLZeJNWHw7X3771oBhkiTKgflfm7k94LQZDU7++CjiU+s=;BhqmtHN1hmcomEbh+2Jz+Q=="
 ---
 

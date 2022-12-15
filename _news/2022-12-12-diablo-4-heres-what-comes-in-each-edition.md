@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Diablo 4 preorders: Bonuses, edition details, and where to buy"
-    excerpt: "Reserve your copy and await the Blessed Mother. Over three years after it was first revealed, preorders are now live for Blizzard Entertainment's next big role-playing game. Diablo 4 is on the way ..."
-    publishedDateTime: 2022-12-12T10:28:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-preorders"
+    excerpt: "Diablo 4 preorders are on the way, and we've got details on what players can expect from each version of the game."
+    publishedDateTime: 2022-12-12T10:28:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preorders-bonuses-edition-details-and-where-to-buy/ar-AA153vbD"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Windows Central on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HBfs6xiiYoJtYTosK7vJeY-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153Iaz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "bP8+gfNQmJLq2uWeaHV3BvjGZv2y7M6aQTfMK2nQPdSJdJsFi9KzGelinZNFt6Ml44orVnmHRw04yzjYQY10odbDDlApfrIcmqtZUYLoq9CI3iUuHPN4TD5hAdiU9a8xFG+t/INwqwKsJ8nmJvcAKQITSKwHyMKU9+2IZ6pvDut+D8VZYr6kH0pixTjF/9+ZgxTJ9A34qBPMkUNdl2h9zG0BGIveFqHUlsVqt3pjJsi56Bp/lNcO27Ek67AyrGyGJRJfo8EBvDYMk/HmIlYGM0Xx3jjrzsjjR+US0Xid8tqMOswUYcTi0RyuAaH8OzHJjDYjOF4zQ27Xydngp5alcYYFTGy/hJAzVEo00a8tywM=;BUh/bIYJrWW6TnqyNmJc9Q=="
