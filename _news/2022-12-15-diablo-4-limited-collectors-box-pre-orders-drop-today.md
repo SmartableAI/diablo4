@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Diablo 4 Limited Collector's Box Pre-Orders Are About to Drop"
+title: "Diablo 4 Limited Collector's Box Pre-Orders Drop Today"
 excerpt: "In the meantime, you can check out Blizzard's current crop of Diablo 4 merch right here. The lineup includes the Diablo IV Inarius Collector's Edition Pin, the Diablo: Tales From the Horadric Library ..."
-publishedDateTime: 2022-12-12T07:07:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
+publishedDateTime: 2022-12-15T04:24:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-preorder/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-preorder/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-preorder/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-preorder/"
 type: article
 quality: 107
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Comicbook.com
@@ -26,12 +26,12 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Limited Collector's Box Pre-Orders Drop Today"
+  - title: "Diablo 4 Limited Collector's Box Pre-Orders Are About to Drop"
     excerpt: "In the meantime, you can check out Blizzard's current crop of Diablo 4 merch right here. The lineup includes the Diablo IV Inarius Collector's Edition Pin, the Diablo: Tales From the Horadric Library ..."
-    publishedDateTime: 2022-12-15T04:24:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-preorder/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-preorder/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-preorder/"
+    publishedDateTime: 2022-12-12T07:07:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/"
     type: article
     provider:
       name: Comicbook.com
@@ -68,6 +68,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4gVK/n7k7VNeSux3UzaBMOAOS1Oc9Gxymi+Wyont5Lh/RcdX2DhYnbRBHYUZDDaIrFsZiHSlhVpZt19wNpeaoSNxZHjxJBwuujEo7adSa6f9SgE8AiCs2y5Otum6vfA8ivuIJng2ZQmDMaO4Cvoxk3qbNh8b0AKrsTZBpRrJ1QEPZn3nehCSXn4eLKGiYvux5PnO7x3lBY9kFSeDeHHSIdKdLPNt/pJWk9cJcGsEjAiAtl2PN6V0SnmVhXcRvn9JdDk/kKeBnBkgy9FHbIyPLzxicyZ62Plsy48MEDtwYGQTh9IwJF3D2Ajg8zBj+2jGEAcKQyw57lHJ2nYLkxiwWbMMVO7woz4atEhJgW0iDMI=;nA8p7vQw4L56nF/ycjQmMA=="
+secured: "KKNoPpOpyz7nI/JYFF2R9isBSpR4HCBoGfMpv0UdzAVQlD8RUqQSBYWSGKp5tlJHS7ss4zblBYcQz4E44Ti4u7B7vVmaWvsWwxWMJnVbNiq/w3CbmGGo+bJiN9UEfCatiZtsW4cwVWW1Vu79EHpquojmmWsboKLvzkCAOFdtX8MVApsvgObWXx1SyD2C1SgBfu/97ItiiODSJWR1vtnfdRO/ARoRaBYa+6UXlnphQjE0EkCN31gvRBXZWKtkchqt/TOZSdDZkIDT5oq1Kpzpg+YnlVRKfYfH3HINe15NKfGKhMNF858xYZG0GyC/Vb7/99pEsFI/B1wYZiubgghqzytfohfdZPau+KXtsuORNEs=;7bG7afut51z085bGbdOFfA=="
 ---
 
