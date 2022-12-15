@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 pre-order beta access, ultimate edition bonus items detailed"
-excerpt: "Blizzard details Diablo 4 pre-order beta access and bonus items included with the digital deluxe and ultimate editions of the fantasy RPG, including a WoW mount ..."
-publishedDateTime: 2022-12-10T09:37:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
-webUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
+title: "Diablo 4 collector's box pre-orders are live and Blizzard warns \"it will sell out\""
+excerpt: "Even though it's $100 and doesn't include the game, Blizzard is confident Diablo 4's collector's box will go fast ..."
+publishedDateTime: 2022-12-15T13:36:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-collectors-box-pre-order/"
+webUrl: "https://www.gamesradar.com/diablo-4-collectors-box-pre-order/"
 type: article
-quality: 87
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-pre-order-bonus-items-early-beta-access-wow-mount-blizzard-lilith.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.mos.cms.futurecdn.net/E8J25WRoKH5XbarXfZcrxD-1200-80.jpg"
+    width: 1200
+    height: 736
     isCached: true
 
 related:
@@ -51,21 +51,21 @@ related:
       name: Yahoo
       domain: yahoo.com
     quality: 87
-  - title: "Diablo 4 collector's box pre-orders are live and Blizzard warns \"it will sell out\""
-    excerpt: "Even though it's $100 and doesn't include the game, Blizzard is confident Diablo 4's collector's box will go fast ..."
-    publishedDateTime: 2022-12-15T13:36:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-collectors-box-pre-order/"
+  - title: "Diablo 4 pre-order beta access, ultimate edition bonus items detailed"
+    excerpt: "Blizzard details Diablo 4 pre-order beta access and bonus items included with the digital deluxe and ultimate editions of the fantasy RPG, including a WoW mount ..."
+    publishedDateTime: 2022-12-10T09:37:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/pre-order-bonus-beta-access"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 81
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E8J25WRoKH5XbarXfZcrxD-1200-80.jpg"
-        width: 1200
-        height: 736
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-pre-order-bonus-items-early-beta-access-wow-mount-blizzard-lilith.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "QKZn2WoFnK7yEitLGqwaswtRBNimA6KI89C0VC4OhTU53eDGQcSg2NPrI4favx3ProfEBSS8xeRpU18WNkvKP7QOzBgSPJqUpKcERQY+zL+7cNMpdKqRH25kpUdonT0RMz2lGkjpCL2X8cKIkNTBfEQ3bpTvVP/OnfJqettDjzprbMc/GubW89B//yoZVXP6goAjYq1T3tK8wCFkqNpTLKxtRWpcQPtiB6KL8HFwbSQeUfRU58w38pmzqpdHRnze8DjaF1DW+H9Sk5Zlj+VlQB959IWeCX1d1iXRsSfNR7m+0vGiPAcDmmuLX2+Q5d5OgBrG9U2cQSV0p8cGpSzYyPh+cCG4x+LxdsRzusDOg84=;BpmR/gsv26f0QBwkvjTJOw=="
+secured: "M+riOgbH5aT3HEc1Cfpa7ezpevThgPIqN83VM0C+VLmVWsMh2KeksuC5t8vqYq/GoTnjAA7AylC/8KS0pSBX0S7SyFeWgnSev0GYoFkUxJP0r8yxs/COsYDN98v7mu6CUkcOdyNFeOKBhdQNIGzWbuvUWZOCNrfQH3wZxThytIepOX0sibX1mCpsxE+QYu77EmW9lecKXWx1qU3WhoSLfJikcfLuONyg/7928XB5Ak//H1LZ+IEAfUVdKNoNrzSrmOXmFy3flfEHRQ2LakwYLl3VCoHzAsLCX+xv+SdVLGOLhM5NCfikdGIxVZ2vvT7Pxv5EJ1YjNhlVLj3ZmsHv+iN8jDdJ1fVPdcRwfwYOhQE=;rjrPEyRTe0YWMwi8rp/50Q=="
 ---
 

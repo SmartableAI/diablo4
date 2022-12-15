@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-13-diablo-4-release-date-new-character-announced.md",
+      "title": "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!",
+      "excerpt": "diablo immortal gameplay,diablo immortal best class,diablo immortal necromancer,diablo immortal announcement,diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-release-date-new-character-announced/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-13-diablo-4-release-date-new-character-announced/",
+      "originalUrl": "https://youtube.com/watch?v=QSAc7Spkb-w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSAc7Spkb-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T20:26:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StewGaming | Diablo Immortal",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we.md",
+      "title": "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!! How Hyped are we??",
+      "excerpt": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/mrllamasc.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we/",
+      "originalUrl": "https://youtube.com/watch?v=ZeMaSOKdK3o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZeMaSOKdK3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T16:45:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MrLlamaSC",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-diablo-4-is-coming-necromancer-announced.md",
       "title": "DIABLO 4 is coming! NECROMANCER Announced!",
       "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming Necromancer ...",
@@ -1019,108 +1103,6 @@
         "name": "Pocket-lint",
         "domain": "pocket-lint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-diablo-iv-quarterly-updatemarch-2022.md",
-      "title": "Diablo IV Quarterly Update—March 2022",
-      "excerpt": "Today we have artists here to talk about their craft and everything that goes into building the world of Sanctuary.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-29-diablo-iv-quarterly-updatemarch-2022/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23788294/diablo-iv-quarterly-update-march-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/t0/T03F8R1V5IY01647903242759.png",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything.md",
-      "title": "Diablo 4 looks gritty and dark – so dark you'll need to squint to see anything",
-      "excerpt": "It's been a hot minute since we've had some Diablo 4 news – three months in fact. But the devs are back with a quarterly update and a fresh batch of screenshots. The takeaway from the latest blog post ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-29-diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-looks-gritty-and-dark-so-dark-youll-need-to-squint-to-see-anything",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vamitdnDReuimmxEHfg8YY-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
+      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
+      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:42:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts.md",
+      "title": "Diablo 4 fans won't stop asking beta testers to break their Blizzard contracts",
+      "excerpt": "Fans keen for more Diablo 4 information are testing beta testers' commitments to their NDAs by asking questions about what they saw, just weeks after several players seemingly went against Blizzard's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5Mog5Bg9tsjknhxgyGU4eg-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices.md",
       "title": "Diablo 4 combat “grounded” to make room for tactical choices",
       "excerpt": "Diablo 4 combat feels “more grounded” than that of its predecessor, says Rod Fergusson of the upcoming RPG game. The Blizzard general manager for Diablo joins game director Joe Shely to detail how ...",
@@ -973,90 +1057,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked.md",
-      "title": "End game beta test for Diablo 4 has been leaked",
-      "excerpt": "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked/index.json",
-      "webUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
-      "originalUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.xfire.com/wp-content/uploads/2022/10/new-diablo-leak.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xfire",
-        "domain": "xfire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details.md",
-      "title": "Diablo players who got beta access are already leaking Diablo 4 endgame details",
-      "excerpt": "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-20-diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details/index.json",
-      "webUrl": "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details",
-      "originalUrl": "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2022/05/31100852/diablo-gear-key-art-768x356.png",
-          "width": 768,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
         "images": null,
         "publishers": null,
         "authors": null
