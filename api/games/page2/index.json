@@ -4,6 +4,67 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer.md",
+      "title": "Diablo IV - 2023 One Hour Gameplay  – Barbarian, Sorcerer, Druid, Necromancer",
+      "excerpt": "Diablo IV - 2023 One Hour Gameplay – Barbarian, Sorcerer, Druid, Necromancer Enjoying the video? pls make sure to subscribe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer/",
+      "originalUrl": "https://youtube.com/watch?v=o0NLzW12paY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o0NLzW12paY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M39S",
+      "provider": {
+        "name": "Gaming Rush Tube",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-26T05:10:53-07:00"
+    },
+    {
+      "path": "_games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
+      "title": "Diablo 4 Leaked Dungeon Gameplay!  Diablo IV Leak! #shorts #diablo4 #barbarian",
+      "excerpt": "Diablo 4 Leaked Dungeon Gameplay! Diablo IV Leak! #shorts #diablo4 #barbarian.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=_Tisi7CgyDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T09:18:11-07:00"
+    },
+    {
       "path": "_games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian.md",
       "title": "Epic Boss fight!  Diablo 4 leaked gameplay!  Diablo IV leak video.  #shorts #diablo4 #barbarian",
       "excerpt": "Epic Boss fight! Diablo 4 leaked gameplay! Diablo IV leak video. #shorts #diablo4 #barbarian Please subscribe for more DIablo 3 ...",
@@ -366,36 +427,6 @@
       "publishedDateTime": "2022-06-22T07:00:32-07:00"
     },
     {
-      "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
-      "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
-      "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/soulnsane-diablo-4-druide-competences-arbre-de-talent/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/soulnsane-diablo-4-druide-competences-arbre-de-talent/",
-      "originalUrl": "https://youtube.com/watch?v=cN41mSCU_dM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cN41mSCU_dM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M23S",
-      "provider": {
-        "name": "Soulnsane",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cN41mSCU_dM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-11T10:27:28-08:00"
-    },
-    {
       "path": "_games/andy-gaming-hurricane-druid-diablo-4-shorts.md",
       "title": "Hurricane Druid Diablo 4 #shorts",
       "excerpt": "gaming #shorts #viral #new #video #subscribe Please leave a Like & Subscribe, it helps the channel grow!",
@@ -424,6 +455,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-27T22:32:04-08:00"
+    },
+    {
+      "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
+      "title": "Diablo 4 Blizzcon 2019 Demo Druid, Sorceress, Barbarian Gameplay",
+      "excerpt": "I was fortunate enough to stream Diablo 4 at Blizzcon 2019, this is the original Gameplay Demo from the showroom floor, enjoy! PODCAST: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=XKzD1NZwUmw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XKzD1NZwUmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H47M55S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
       "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
@@ -485,36 +548,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-15T20:42:12-07:00"
-    },
-    {
-      "path": "_games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress.md",
-      "title": "Diablo 4 Sorceress gameplay!  Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress",
-      "excerpt": "Diablo 4 Sorceress gameplay! Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress Please subscribe for more Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/",
-      "originalUrl": "https://youtube.com/watch?v=ErUFRRz4vr4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErUFRRz4vr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-17T10:33:53-07:00"
     },
     {
       "path": "_games/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo.md",
@@ -671,38 +704,6 @@
       "publishedDateTime": "2022-11-27T22:22:39-08:00"
     },
     {
-      "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
-      "title": "Diablo 4 Blizzcon 2019 Demo Druid, Sorceress, Barbarian Gameplay",
-      "excerpt": "I was fortunate enough to stream Diablo 4 at Blizzcon 2019, this is the original Gameplay Demo from the showroom floor, enjoy! PODCAST: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=XKzD1NZwUmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XKzD1NZwUmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H47M55S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T18:15:00-07:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
       "title": "New Gameplay Today – Diablo IV's Sorceress",
       "excerpt": "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ...",
@@ -793,6 +794,36 @@
       "publishedDateTime": "2021-10-14T07:41:09-07:00"
     },
     {
+      "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
+      "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
+      "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/soulnsane-diablo-4-druide-competences-arbre-de-talent/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/soulnsane-diablo-4-druide-competences-arbre-de-talent/",
+      "originalUrl": "https://youtube.com/watch?v=cN41mSCU_dM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cN41mSCU_dM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M23S",
+      "provider": {
+        "name": "Soulnsane",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cN41mSCU_dM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-11T10:27:28-08:00"
+    },
+    {
       "path": "_games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress.md",
       "title": "Diablo 4 - Fire Bolt and Inferno Skills (Sorceress)",
       "excerpt": "",
@@ -881,37 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-25T06:27:02-07:00"
-    },
-    {
-      "path": "_games/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay",
-      "excerpt": "Diablo IV Blizzcon 2019.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=b1Z1CAELiRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b1Z1CAELiRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
-      "provider": {
-        "name": "Amaraa Channel",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-12-22T12:36:08-08:00"
     }
   ],
   "nextPage": 3

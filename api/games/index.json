@@ -50,7 +50,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 222,
+      "heat": 203,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -92,36 +92,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-08T05:00:00-08:00"
-    },
-    {
-      "path": "_games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase.md",
-      "title": "Diablo 4 - Sorceress Overview and Skill Showcase",
-      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Enchantment Effects ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/",
-      "originalUrl": "https://youtube.com/watch?v=8tGo-_lSGwE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tGo-_lSGwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M42S",
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 168,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-11T13:14:49-08:00"
     },
     {
       "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
@@ -184,6 +154,36 @@
       "publishedDateTime": "2022-12-07T08:00:11-08:00"
     },
     {
+      "path": "_games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Sorceress Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Enchantment Effects ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=8tGo-_lSGwE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tGo-_lSGwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M42S",
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-11T13:14:49-08:00"
+    },
+    {
       "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
       "title": "Diablo 4 Character Creation and Customization Options - Barbarian & Mage",
       "excerpt": "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ...",
@@ -200,7 +200,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 133,
+      "heat": 129,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -214,23 +214,23 @@
       "publishedDateTime": "2022-12-07T11:00:13-08:00"
     },
     {
-      "path": "_games/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k.md",
-      "title": "Diablo IV Barbarian Gameplay 60FPS 4K",
-      "excerpt": "Enjoying the video? pls make sure to subscribe for a regular dose of top PC games videos! Subscribe: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k/",
-      "originalUrl": "https://youtube.com/watch?v=RIoOcxGbUDQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RIoOcxGbUDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
+      "path": "_games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress.md",
+      "title": "Diablo 4 Sorceress gameplay!  Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress",
+      "excerpt": "Diablo 4 Sorceress gameplay! Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress Please subscribe for more Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=ErUFRRz4vr4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ErUFRRz4vr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31S",
       "provider": {
-        "name": "Gaming Rush",
+        "name": "noobyG",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Sorceress"
       ],
-      "heat": 115,
+      "heat": 112,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -241,27 +241,28 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-16T17:10:12-07:00"
+      "publishedDateTime": "2022-09-17T10:33:53-07:00"
     },
     {
-      "path": "_games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer.md",
-      "title": "Diablo IV - 2023 One Hour Gameplay  – Barbarian, Sorcerer, Druid, Necromancer",
-      "excerpt": "Diablo IV - 2023 One Hour Gameplay – Barbarian, Sorcerer, Druid, Necromancer Enjoying the video? pls make sure to subscribe ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer/",
-      "originalUrl": "https://youtube.com/watch?v=o0NLzW12paY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o0NLzW12paY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M39S",
+      "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
+      "title": "Diablo 4 Gameplay All Classes Barbarian, Rogue, Sorceress & Druid",
+      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
+      "originalUrl": "https://youtube.com/watch?v=hyJzUEVS-Ww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hyJzUEVS-Ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M36S",
       "provider": {
         "name": "Gaming Rush Tube",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
+        "Barbarian",
         "Druid",
-        "Barbarian"
+        "Sorceress"
       ],
-      "heat": 115,
+      "heat": 110,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -272,7 +273,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-10-26T05:10:53-07:00"
+      "publishedDateTime": "2022-10-11T23:06:36-07:00"
     },
     {
       "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
@@ -305,38 +306,6 @@
       "publishedDateTime": "2022-11-27T21:31:27-08:00"
     },
     {
-      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
-      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
-      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
-      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M1S",
-      "provider": {
-        "name": "LFP Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -365,6 +334,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
+    },
+    {
+      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
+      "title": "Diablo IV Preview - Hands-On with the Barbarian",
+      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "Easy Allies",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T08:00:02-08:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -399,23 +398,25 @@
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
     },
     {
-      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
-      "title": "Diablo IV Preview - Hands-On with the Barbarian",
-      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
+      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
+      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
+      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
+      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M1S",
       "provider": {
-        "name": "Easy Allies",
+        "name": "LFP Gaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Druid",
+        "Barbarian",
+        "Sorceress"
       ],
-      "heat": 93,
+      "heat": 90,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -426,7 +427,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:02-08:00"
+      "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
@@ -519,6 +520,36 @@
       "publishedDateTime": "2022-12-07T16:26:46-08:00"
     },
     {
+      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
+      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
+      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T12:00:01-08:00"
+    },
+    {
       "path": "_games/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview.md",
       "title": "Diablo IV's Rogue And Barbarian Look Insane! New Gameplay Preview",
       "excerpt": "It's been a hot minute since we've heard from Diablo IV- the upcoming installment for the popular Diablo series that's not on ...",
@@ -607,36 +638,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-27T08:33:17-08:00"
-    },
-    {
-      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
-      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
-      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M23S",
-      "provider": {
-        "name": "Slaydra",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T12:00:01-08:00"
     },
     {
       "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
@@ -883,16 +884,16 @@
       "publishedDateTime": "2022-07-02T15:00:31-07:00"
     },
     {
-      "path": "_games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
-      "title": "Diablo 4 Leaked Dungeon Gameplay!  Diablo IV Leak! #shorts #diablo4 #barbarian",
-      "excerpt": "Diablo 4 Leaked Dungeon Gameplay! Diablo IV Leak! #shorts #diablo4 #barbarian.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=_Tisi7CgyDQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
+      "path": "_games/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k.md",
+      "title": "Diablo IV Barbarian Gameplay 60FPS 4K",
+      "excerpt": "Enjoying the video? pls make sure to subscribe for a regular dose of top PC games videos! Subscribe: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k/",
+      "originalUrl": "https://youtube.com/watch?v=RIoOcxGbUDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RIoOcxGbUDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M10S",
       "provider": {
-        "name": "noobyG",
+        "name": "Gaming Rush",
         "domain": "youtube.com"
       },
       "topics": [
@@ -910,7 +911,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-09-23T09:18:11-07:00"
+      "publishedDateTime": "2022-10-16T17:10:12-07:00"
     }
   ],
   "nextPage": 2
