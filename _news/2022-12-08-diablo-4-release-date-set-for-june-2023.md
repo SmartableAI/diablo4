@@ -92,7 +92,7 @@ related:
       domain: news.com.au
     quality: 87
   - title: "Diablo 4's Codex of Power builds on one of Diablo 3's best ideas"
-    excerpt: "Blizzard finally lifted the lid on Diablo 4's new Codex of Power feature, and it's a bit like a spiritual successor to Kanai's Cube from Diablo 3 and the Horadric Cube from Diablo 2. Diablo 4 game ..."
+    excerpt: "Blizzard finally lifted the lid on Diablo 4's new Codex of Power feature, and it's a bit like a spiritual successor to Kanai's Cube from Diablo 3 and the Horadric Cube from Diablo 2. Diablo 4 game director Joe Shely and associate game director Joseph Piep"
     publishedDateTime: 2022-12-15T17:15:00Z
     webUrl: "https://www.gamesradar.com/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/"
     type: article
