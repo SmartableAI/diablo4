@@ -1,13 +1,13 @@
 ---
 category: news
 title: "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet"
-excerpt: "It’s a surprisingly stark opening, and one made all the more grim just minutes later, as the surviving bandits have the blood sucked out of them, a sea of crimson summoning forth Diablo 4 ’s big bad: ..."
+excerpt: "From seamless multiplayer to righting the wrongs of Diablo 3, here’s how Blizzard is returning to the series’ bloody roots with Diablo 4."
 publishedDateTime: 2022-12-13T05:02:29Z
-originalUrl: "https://www.msn.com/en-us/news/technology/the-devil-e2-80-99s-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh"
-webUrl: "https://www.msn.com/en-us/news/technology/the-devil-e2-80-99s-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh"
+originalUrl: "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh"
+webUrl: "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh"
 type: article
 quality: 82
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
-secured: "uShcu2AexP8dd2cQfXkjUGd9BoeO2qJAjIsCReWFirW3k9YrxsyDJIBcwY34nwYQbIf9QjHnx6KcrBEIlgKwCihxbxUHXGTJgdDbgAd9RHq4V9wqMtsxswNydTkoJUaDQQtWhZ7SrkryLb6x1cBCNvm47/1Ak2v5EggKT8SdKFl+6G0YFQIGVyOhcOGmNMdpFV0ok2kSIk6t37Mwws5oKXJqzhajmCFisfipqsYte5pcN+lkoMcW0df/LFgfLQfh8AKytpKTGg6eRAoQb/RX1sDG1xIXbLte+/tBJbsaoSMbIONyhmtc2itdTiPKqLjr621h6mEIPzMrBDOSja0K1Ih2Lo8HU83v1RE409UnP5Q=;j7nY3znpQci9BYN//tbz0Q=="
+related:
+  - title: "Diablo 4 drags the series’ demon-slaying, loot-harvesting delight into the 2020s"
+    excerpt: "My problem with Blizzard’s Diablo series has always been that its cinematics and artwork depict an intriguing epic that its loot-loving gameplay never truly delivers. After playing ten hours of Diablo ..."
+    publishedDateTime: 2022-12-07T08:08:34Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-drags-the-series-demon-slaying-loot-harvesting-delight-into-the-2020s/ar-AA15110M"
+    type: article
+    provider:
+      name: TechRadar on MSN
+      domain: msn.com
+    quality: 62
+
+secured: "fMq56AuwoSrIyM+JWjDma3X2PYPAyHwXC/7FmLmYuY+HUTnLbslD2LOVpEOgtZ0HhrrpNGzl5O+6Oxe/XWKextj6+YIuOm5zHYIf7TwXKt/O0xAqHpEasJpH5PHQqi7ODQnUgquFN9xcWwsiIU6NectiTvwpK8D8tT38y6odohcsyCU50/UHjImzR+efWrEgNfTXBzpe4YgkQEzQnL8k86A3QF5Fy5jp+5PRZT7xTTYlIcP9wdL+1vKffjtFW+SyT9iwM92d35WD0aWCbXNFbkbevqEsO32tVFUcLTBP1tsyzUiKq7of/4ft6xbloTlqChZCtomGck7xEeRksyjBYCAn6wb2CGtOU/GOnA2EmTQ=;OmGi5f7K86Ei+YGJEfv8Vw=="
 ---
 

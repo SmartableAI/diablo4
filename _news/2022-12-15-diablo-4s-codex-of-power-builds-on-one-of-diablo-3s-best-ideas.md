@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Diablo 4 shaping up well for June launch"
-excerpt: "The Game Awards on Friday revealed that the next game in the long-running Diablo series, Diablo 4, will be released in June."
-publishedDateTime: 2022-12-11T22:44:00Z
-originalUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
-webUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
-ampWebUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
-cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+title: "Diablo 4's Codex of Power builds on one of Diablo 3's best ideas"
+excerpt: "Blizzard finally lifted the lid on Diablo 4's new Codex of Power feature, and it's a bit like a spiritual successor to Kanai's Cube from Diablo 3 and the Horadric Cube from Diablo 2. Diablo 4 game ..."
+publishedDateTime: 2022-12-15T17:15:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/"
+webUrl: "https://www.gamesradar.com/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Meet Your Maker on June 6—Pre-Purchase Diablo IV!"
@@ -90,20 +94,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4's Codex of Power builds on one of Diablo 3's best ideas"
-    excerpt: "Blizzard finally lifted the lid on Diablo 4's new Codex of Power feature, and it's a bit like a spiritual successor to Kanai's Cube from Diablo 3 and the Horadric Cube from Diablo 2. Diablo 4 game ..."
-    publishedDateTime: 2022-12-15T17:15:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/"
+  - title: "Diablo 4 shaping up well for June launch"
+    excerpt: "The Game Awards on Friday revealed that the next game in the long-running Diablo series, Diablo 4, will be released in June."
+    publishedDateTime: 2022-12-11T22:44:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6"
+    ampWebUrl: "https://www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/gaming/diablo-4-shaping-up-well-for-june-launch/news-story/daad4c053c99bb486e7f359ec5270ac6?amp"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: Couriermail
+      domain: news.com.au
     quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "When is the Diablo 4 beta? Before its June 2023 release for all who preorder"
     excerpt: "The Diablo 4 beta, as mentioned, has no official release date at time of writing, but we do know that there will be an open beta at some point prior to the game's release on June 6 2023 (assuming that ..."
     publishedDateTime: 2022-12-12T03:37:00Z
@@ -128,6 +129,6 @@ related:
       domain: gamesradar.com
     quality: 63
 
-secured: "dJHmyk+C66LXcaNr5Z1ls/x76yyELHAHbdkFAHq1z9lifA78TJSyk+yYaJTu/hUqsBfSVPltJk9CSRARz2kZ41NdAEspHNY6X21iFX8+JFvP6Zel1FGdvcGd/Wbytb2M86+krmrvDyJSJKl7QJu31CTiumJvyRiB5PDCMkkpd2wUK2yAaRHwKqbUlwPXaDy/coxhHYQtHFE+QjXLapKuP4ygDKZPrXQaPSsfeFDVgVF8mNqCAPgvH8vb99UT5YZArdfQm8eJvFsccAdrC5CB+EGIjIWvRMYgj8MquGnOAVY+vXD0MWvz2ZFqlLyuXm5yS/2qXuVKu3eMZVgRDBg83pWiH7dVfX6Q3vyZrKab54w=;Hi1I3SO6WXGwc+eDfMSFJg=="
+secured: "d/JJg/HToTCekchLv23HvTu1zCMwzOv1YSQxu7Czz3K0bxsLeu2EenqUE8cFtKjJz4wsaunqZIux0BTABXYB7lLZSHTBSpNP8VclZn24u9hy5CVYLO6yQUtuUohkNcvnYyT7RHWoltCxNeOmy5eFbSLAwdyJDhNspSxe+FzCtk35VaHW0SO3CwATWr2Ps7jxUXxEAhWhG0mMO6xxzKi40xhQffAfXJhR63YIYFPDxYeMon8RQOx6UT3qoWlFKINYo+9D3WS+e2qUEESL0kUwLMROjvCtXuQifqnxkBPOcqUT4a5W9woObrHtVEIfh/8ub1qGoJyfus7erYNGJvzlVApXY6XLqbsGYlmX0/HwlLY=;fSgvWH3DMbeqADQQ+AJTzQ=="
 ---
 
