@@ -53,6 +53,48 @@
       ]
     },
     {
+      "path": "_news/2022-12-16-diablo-4-battle-pass-price-and-more-details-revealed.md",
+      "title": "Diablo 4 Battle Pass Price and More Details Revealed",
+      "excerpt": "The premium version of the battle pass (there's a free version, too) will cost $10, community lead Adam Fletcher confirmed in the recent livestream. Fletcher specified that this battle pass will cost that much in term of the value of Diablo 4's in-game cu",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-battle-pass-price-and-more-details-revealed/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-battle-pass-price-duration-details/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-battle-pass-price-duration-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2021/04/21/2f7bd638-50fb-438e-af32-753a9bb7b73b/gta-6-vice-city-rockstar-games-1264869.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/",
+      "publishedDateTime": "2022-12-16T00:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
       "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
       "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely,",
@@ -1061,57 +1103,6 @@
         "name": "Radio Times",
         "domain": "radiotimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023.md",
-      "title": "‘Diablo 4’ Is Looking Like It Could Be The Biggest Game Of 2023",
-      "excerpt": "It is incredibly easy to be skeptical of Diablo 4 and Blizzard as a whole lately, given the problems within that studio and the fact that Diablo 4 itself even lost its director as one of the ousted ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60ddbaa83acec7bca0289ace/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/amp/",
-      "publishedDateTime": "2022-12-07T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
