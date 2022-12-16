@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Collector's Edition Doesn't Include the Actual Game"
-excerpt: "The Diablo 4 Limited Collector's Box is available for pre-purchase, but the rare edition doesn't actually come with a copy of the game itself."
-publishedDateTime: 2022-12-15T14:24:55Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-collectors-edition-doesnt-include-the-actual-game/ar-AA15kFZW"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-collectors-edition-doesnt-include-the-actual-game/ar-AA15kFZW"
+title: "Diablo 4 collector’s edition looks stunning, but there’s a huge catch"
+excerpt: "The Diablo 4 collector's edition is packed to bursting with some gruesome goodies, but it's missing one pretty important thing - the action RPG game itself ..."
+publishedDateTime: 2022-12-16T07:29:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-catch"
+webUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-catch"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
-  domain: msn.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kV8N.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=376&y=157"
-    width: 1200
-    height: 630
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-collectors-edition-catch-no-game.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 collector’s edition looks stunning, but there’s a huge catch"
-    excerpt: "The Diablo 4 collector's edition is packed to bursting with some gruesome goodies, but it's missing one pretty important thing - the action RPG game itself ..."
-    publishedDateTime: 2022-12-16T07:29:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-catch"
+  - title: "Diablo 4 Collector's Edition Doesn't Include the Actual Game"
+    excerpt: "The Diablo 4 Limited Collector's Box is available for pre-purchase, but the rare edition doesn't actually come with a copy of the game itself."
+    publishedDateTime: 2022-12-15T14:24:55Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-collectors-edition-doesnt-include-the-actual-game/ar-AA15kFZW"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: Game Rant on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-collectors-edition-catch-no-game.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kV8N.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=376&y=157"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "Ur9jt4+wziGj/61Iiq2Hw8IxC5VxCvjthOROTq8JhT/1FF2PZerPbFUz8NWnzyiKfF37Q3Tx+n/8qr5CN4XPqHfaN5NDIy4pmfgbDVG0Gn411g3aty5/gcwO0b+DO/ttCPr+6cT4MUqA1sfqoDE3uaFJkTTF95tABYPiEVTDGDSNeRiFAclGiytIQicY37bUpnfVJmqaJbeu/CZowk7i41oEh/6HiFlBYFga1uIphh7VEFuFys2QpfrP/w/vBrfaHgtesT+6mXJ7s/yboA2rBTd/01o3lmqYpQNms93g/12k2uspYHYjrNaEYPY5r4ihOXDict+warCCZrcOaBUFqi4KAB+8SCUzxT9mLVqCfus=;jH+5DY0UcF3cYLYeaMN7bA=="
+secured: "7I3aCNOjp2dbl+jDGULuoy8byYA6f7d0fadfY66JNvD9uQ6tCYfepgLJe9vgmBSf7lwXbRhGO+kbIXCQ2pDIK2NokQb8JDKLdgO7YP5aHqjzPZr87StSuZZkf95o1+gnCiaXFrc57c4ib29t+ODDhdoaXSP3g1lX2WqgP+bCISQk1SjTy6jO/J0sbaUXcNTuPGWZj3Q3RejrvxbC9IpzNm8JPe9j5J4pqU+gGP8cQLM3DJLdTaJbxUcos2TwKvxV48zaQnqIqfGwPVDgSbn9IoFTWv1sjCITLUWh3642Do+3i1V5wFbe0HYyKoZ3yEqhFC4pPyQPgY4gSDSD696W1KvOVec0c/9T7+136dDR0Zc=;pv6tMuKJ2i+ppCOsQCPAMQ=="
 ---
 

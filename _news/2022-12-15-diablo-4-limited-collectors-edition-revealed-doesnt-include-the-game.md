@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-limited-collectors-ed
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kV8N.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=376&y=157"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 collector’s edition looks stunning, but there’s a huge catch"
+    excerpt: "The Diablo 4 collector's edition is packed to bursting with some gruesome goodies, but it's missing one pretty important thing - the action RPG game itself ..."
+    publishedDateTime: 2022-12-16T07:29:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-catch"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-collectors-edition-catch-no-game.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wdE/QQUG+dxiiREzAR4x2LraS+xKUUjRsNm1iaas9imFIb2HfXNxJ2iRuqWWAfsIgeL65U6l0G/6uXiGVeWScIKGolU/DQrucdT+lfdWCGghMlH7ld160uvv/TI2dMX5tO/jJyvW54mz8YNuQNNGG/1k+PTbqt8h8auq227Nw32tWkSTt3GpMddBfD2LCXFAH97/jNKinWSlp0B2YzYef7LTZc657Ilh6poER7Vl594ipo9ZcnAo87WlI9bh68FQ7D8YUoFQnzx5iGCLZwiBPFpnLj/BNJmYM6A6c2zFnTmPbkQWpNpwSGrDkSJp/bR3xUDAxTLI1NJfv+YmtDpJioRAbF3ka/SJ/qifiHGsSJA=;s5f3Rg1zCaols6BN39lIyw=="

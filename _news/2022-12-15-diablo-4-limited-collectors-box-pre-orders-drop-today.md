@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 collector’s edition looks stunning, but there’s a huge catch"
+    excerpt: "The Diablo 4 collector's edition is packed to bursting with some gruesome goodies, but it's missing one pretty important thing - the action RPG game itself ..."
+    publishedDateTime: 2022-12-16T07:29:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-catch"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-collectors-edition-catch-no-game.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "KKNoPpOpyz7nI/JYFF2R9isBSpR4HCBoGfMpv0UdzAVQlD8RUqQSBYWSGKp5tlJHS7ss4zblBYcQz4E44Ti4u7B7vVmaWvsWwxWMJnVbNiq/w3CbmGGo+bJiN9UEfCatiZtsW4cwVWW1Vu79EHpquojmmWsboKLvzkCAOFdtX8MVApsvgObWXx1SyD2C1SgBfu/97ItiiODSJWR1vtnfdRO/ARoRaBYa+6UXlnphQjE0EkCN31gvRBXZWKtkchqt/TOZSdDZkIDT5oq1Kpzpg+YnlVRKfYfH3HINe15NKfGKhMNF858xYZG0GyC/Vb7/99pEsFI/B1wYZiubgghqzytfohfdZPau+KXtsuORNEs=;7bG7afut51z085bGbdOFfA=="
 ---
