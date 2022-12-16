@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-09T02:59:17Z
 originalUrl: "https://youtube.com/watch?v=6zNtgK0vthA"
 type: video
 quality: 137
-heat: 297
+heat: 277
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6zNtgK0vthA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -32,20 +32,6 @@ related:
     type: video
     provider:
       name: ABGFenix Gaming
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Streaming The Game Awards Til Diablo 4 Announcement"
-    excerpt: "Better be announced tonight for real."
-    publishedDateTime: 2022-12-09T14:55:51Z
-    webUrl: ""
-    type: video
-    provider:
-      name: The D Cast
       domain: youtube.com
     quality: 137
     images:
@@ -123,6 +109,6 @@ related:
       domain: pushsquare.com
     quality: 67
 
-secured: "Kew+SUYbPSbGYsFm1HC1edA3+jTY1wcvIaZufQRyYR2kVq2f9bBlvL4RG4fjYP3QzuwHdbx7u1Rex4TEi+28f81C7fctrTdDe+coR9VNKiwuyqAprNIy4kSJXXZ3uUodePWfq32BFlP694L44/nhtRYp4X6B++GWs+xcvuR+Uu9ItZxZL+yLmFGJOjZ6Q4OrjS+awbntRud3xNqP9Mz9uvFyRxHtdAYMjCNNHC5Rpf89BMRO2dhIZcP0Os9E3zz/3F+itFaIZbOLoe/L9w7VrgoUlFLBr+REqIXjS2z24gODnr+G52FIVQs7LTQjgkh7E1nlhyFwwlmnvJ4rLeW31Pd1BccFsAsxOjB112DIClx1jtMG3ZQ3dG909lAf4LgjzJSRWtoLtwZRk38HZGtP+oprq70CmHSpogMXKt6dNRY=;2XFK2qgXMZ758bzVi+ql1w=="
+secured: "BnkmAP72jiUpf8p0B4PWuXh/CrJpcmkIHUvNtBybDH1HXG5bf3cCFPUFZdRxL+l1fAZkiUlyI3xgOH+lDnkOQdc/KCvsLeRSI2+gZrf633xvdn89cPnpoor4usF/vHzWekGh9+rni+XVdOlpt86O2pvdVGwV2Nyd+YkUwxmKGm/Jy1GG5ZmFZRZx/3uUjhZcccPObt4Ib6W/KnaDr4ErtuJ6wjgBPnbZtPL/2j1+odyMuKEGYxuLYNltODycA5OeZXUfM0WMWxnJ6f5PSkhB6zRvS9LIbLuzb0tkyhAYvEkY7kUaY8oLaaxQg6Jlh6LzBCPMQLdHujb/jziqh4MMjD/5ykwga7A0nSNBQNhNPVjWlcpiob2dcqaK95mo48h1EK6HZHrvs5AtzjYX3/I2IdnkwTrEGXc+2H9CIq/Kios=;lvs/sf3OpC79jFnmET+dzA=="
 ---
 

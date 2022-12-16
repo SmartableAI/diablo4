@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons.md",
+      "title": "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons",
+      "excerpt": "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons/index.json",
+      "webUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
+      "originalUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg",
+          "width": 1200,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
+      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
+      "publishedDateTime": "2022-03-30T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ubergizmo Feed",
+        "domain": "ubergizmo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers.md",
       "title": "Everything you need to know about Diablo 4: Story, classes and trailers",
       "excerpt": "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ...",
@@ -1052,48 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone.md",
-      "title": "Diablo 4 loot and endgame explained as the action-RPG nears \"a significant milestone\"",
-      "excerpt": "The latest Diablo 4 update teases \"a significant milestone\" for the development of the still far-off action-RPG, and more helpfully, it also tells us how loot and endgame builds will work. \"We’ve made ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/index.json",
-      "webUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
-      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
-      "publishedDateTime": "2021-12-20T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
