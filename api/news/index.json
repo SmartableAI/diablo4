@@ -52,7 +52,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -141,17 +141,17 @@
       "title": "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet",
       "excerpt": "It’s a surprisingly stark opening, and one made all the more grim just minutes later, as the surviving bandits have the blood sucked out of them, a sea of crimson summoning forth Diablo 4 ’s big bad: ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/index.json",
-      "webUrl": "https://www.techradar.com/features/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet",
-      "originalUrl": "https://www.techradar.com/features/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet",
+      "webUrl": "https://www.msn.com/en-us/news/technology/the-devil-e2-80-99s-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/the-devil-e2-80-99s-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/c75qdwxAeqrq87MePDdALD-1200-80.png",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dMnF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=289",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -161,21 +161,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T21:02:00-08:00",
+      "publishedDateTime": "2022-12-12T21:02:29-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TechRadar on MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

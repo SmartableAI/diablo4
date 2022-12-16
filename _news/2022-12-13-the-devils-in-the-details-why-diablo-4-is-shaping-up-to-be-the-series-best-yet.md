@@ -2,31 +2,27 @@
 category: news
 title: "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet"
 excerpt: "It’s a surprisingly stark opening, and one made all the more grim just minutes later, as the surviving bandits have the blood sucked out of them, a sea of crimson summoning forth Diablo 4 ’s big bad: ..."
-publishedDateTime: 2022-12-13T05:02:00Z
-originalUrl: "https://www.techradar.com/features/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet"
-webUrl: "https://www.techradar.com/features/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet"
+publishedDateTime: 2022-12-13T05:02:29Z
+originalUrl: "https://www.msn.com/en-us/news/technology/the-devil-e2-80-99s-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh"
+webUrl: "https://www.msn.com/en-us/news/technology/the-devil-e2-80-99s-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh"
 type: article
 quality: 82
 heat: 82
 published: true
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TechRadar on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/c75qdwxAeqrq87MePDdALD-1200-80.png"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dMnF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=289"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
-secured: "hAXeFKY5VYX+15/t6/lanBP+42xEzb5GmPHVegLTDoUffIYxGkKn+pO3cvZCRyDwi0R9+fT3mxm2v0CpKwaliuDNJ4BZILjm2B5tE53NjbdY0uZa658+dhhS2kGv2Q+Uov3vaYLpkejhrgkG4WH5w+uQtgiJZeST2inhpQRJGN9K+Er4yNsNeTmh5+P0M7oPxaOfKayWRJB/HhGh4tpHqByxwSQ5m57iiBtXJoQIi4Z0z1GmXHCVEVMr9JtR6FRc+gEML0uKIgOyg4hK6jXJIAvsE9yrjtfffqJ3VgAC70Osbehb9goMFNtK+d3kjPWKPxvJwOWXbj/tgEn9ZvzDXPgBU9UCenAl1MP031j54iI=;Glw90WVLBV00TQ5ri2szMQ=="
+secured: "uShcu2AexP8dd2cQfXkjUGd9BoeO2qJAjIsCReWFirW3k9YrxsyDJIBcwY34nwYQbIf9QjHnx6KcrBEIlgKwCihxbxUHXGTJgdDbgAd9RHq4V9wqMtsxswNydTkoJUaDQQtWhZ7SrkryLb6x1cBCNvm47/1Ak2v5EggKT8SdKFl+6G0YFQIGVyOhcOGmNMdpFV0ok2kSIk6t37Mwws5oKXJqzhajmCFisfipqsYte5pcN+lkoMcW0df/LFgfLQfh8AKytpKTGg6eRAoQb/RX1sDG1xIXbLte+/tBJbsaoSMbIONyhmtc2itdTiPKqLjr621h6mEIPzMrBDOSja0K1Ih2Lo8HU83v1RE409UnP5Q=;j7nY3znpQci9BYN//tbz0Q=="
 ---
 
