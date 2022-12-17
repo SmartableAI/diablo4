@@ -52,17 +52,17 @@ related:
         isCached: true
   - title: "Diablo 4 collector's box pre-orders are live and Blizzard warns \"it will sell out\""
     excerpt: "Even though it's $100 and doesn't include the game, Blizzard is confident Diablo 4's collector's box will go fast ..."
-    publishedDateTime: 2022-12-15T13:36:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-collectors-box-pre-order/"
+    publishedDateTime: 2022-12-15T13:36:11Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-collectors-box-pre-orders-are-live-and-blizzard-warns-it-will-sell-out/ar-AA15kY7e"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: GamesRadar+ on MSN
+      domain: msn.com
     quality: 81
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/E8J25WRoKH5XbarXfZcrxD-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kGPa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 736
+        height: 630
         isCached: true
 
 secured: "waeodxw7cnU/flnmKgto0ruExSixAEgTlUDBtUwCwvHUGHlioZS31PDIXrZWBZUBrsJz4ZBT8JTCJWw1o48vt05d6aiZ2p4Cc55MdKQuLtR2jjZ9ohbCgV1Mg6dVPjxw6zWVE7JznCxxuuwSPQbdFOevGkFkkRudkdW2fwXjew/9OpSJ4+YNa290JoPe/QxNQKNnh+qFezKq/y+ZKlITpSJpBI+7juwXkcA3Wq2javwln5FUKHCCQgFa26yNvkIOn4fQglxuuUD5UZnpcCQBaHDcALrIMn+8cbPPsTvEZ8v4SDYMBJSsTNVAbBSWqixDEpuTIs26dHTvynJbOg4Z+DiQWiGr4LtXlJDA8OGM/tQ=;/eQ8iDFapLLrvNhZCbzyOQ=="

@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-09T02:59:17Z
 originalUrl: "https://youtube.com/watch?v=6zNtgK0vthA"
 type: video
 quality: 137
-heat: 277
+heat: 297
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6zNtgK0vthA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -34,6 +34,20 @@ related:
       name: ABGFenix Gaming
       domain: youtube.com
     quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Halsey Announces ‘Diablo IV’ at Game Awards 2022"
+    excerpt: "Halsey has revealed Blizzard Entertainment's “Diablo IV,” the latest edition of the action role-playing video game series."
+    publishedDateTime: 2022-12-09T18:54:57Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Dennis M Games
+      domain: youtube.com
+    quality: 122
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200

@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Diablo 4 release date and public beta confirmed by Blizzard"
-excerpt: "The Diablo 4 release date and details of a Diablo 4 public beta are announced at The Game Awards 2022, letting players know when they can play the fantasy RPG ..."
-publishedDateTime: 2022-12-08T18:52:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/release-date-trailer"
-webUrl: "https://www.pcgamesn.com/diablo-4/release-date-trailer"
-type: article
-quality: 87
+title: "Halsey Announces ‘Diablo IV’ at Game Awards 2022"
+excerpt: "Halsey has revealed Blizzard Entertainment's “Diablo IV,” the latest edition of the action role-playing video game series."
+publishedDateTime: 2022-12-09T18:54:57Z
+originalUrl: "https://youtube.com/watch?v=Jvc7z8oVfQI"
+type: video
+quality: 122
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvc7z8oVfQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: Dennis M Games
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/Diablo-4-release-date-trailer.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -52,20 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Halsey Announces ‘Diablo IV’ at Game Awards 2022"
-    excerpt: "Halsey has revealed Blizzard Entertainment's “Diablo IV,” the latest edition of the action role-playing video game series."
-    publishedDateTime: 2022-12-09T18:54:57Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Dennis M Games
-      domain: youtube.com
-    quality: 122
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Blizzard announces Diablo 4 release date in new trailer"
     excerpt: "The Washington Post recently published an inside look at Diablo 4’s development, which suggested the game is facing difficulties, not least because of direction issues and backlash over questionable ..."
     publishedDateTime: 2022-12-08T20:11:00Z
@@ -79,6 +66,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154KdO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=485&y=261"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 release date and public beta confirmed by Blizzard"
+    excerpt: "The Diablo 4 release date and details of a Diablo 4 public beta are announced at The Game Awards 2022, letting players know when they can play the fantasy RPG ..."
+    publishedDateTime: 2022-12-08T18:52:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/release-date-trailer"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/Diablo-4-release-date-trailer.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 finally gets a release date alongside a brutal new cinematic trailer"
     excerpt: "Diablo 4 has finally got an official release date as announced at The Game Awards 2022 along with a cinematic trailer."
@@ -122,6 +123,6 @@ related:
       domain: pushsquare.com
     quality: 67
 
-secured: "QShcYM9x/CoLSZNTHz/4t3Bj1aY86m32/cGujpv4nmPklm3cjROhHl+yrzz3V3OivF1SRkXgKIKIaSphteXC22EZosmWltOGI2mbZ7m487nNVxzXLAlFPoRlTMNPb1LiAEPokZpAvejuNM5fp1CgHaujOIL43h+1/mqd5GdEN4cCPtMrIQ01RhpjOT5FOUEMZY3/I9gbzAIQ5p3cZmFmaZ1z/1wW/+9g0EyM2G9qlyiAO4MW7J+eStNGQF2yOPgWtIOYPQDdh470UKyI8ZUR7KQJ0B84XmhElXlpfp8qFDZpmtsEh56MyVQ6+xcrr1TMsdJsMPJHY4U2Q3l3du25DBxDJb4YFZariQNj/3d63BM=;pHfZx0mDrNaOi14c9CKwMQ=="
+secured: "M1chrOuIuzAdHP/j86237vsWGl9vv+WqwKpVp87XLBDe0xmAyIBwbS7k1ED8Ec9CmfyWq5PydQsTeMGjWdExjnSecOgpBbkQkq7Pj7knTmxaihXD+r1qv+MVvF2/i0GZw0/WPEJxr0EMMknowVoi7Hy6b5ahNEUc25YsUbnm/113T8nW2zz0rebBfwFDxW3m+Rin0E+lLZ1S4Hr1PO9UFs8p2EAUIzmn38u3cMrEqSfHB5KZrCjNYlFszyZw5ZBW91hQhV8f5usGErKE+iIipcJnc6xhCpMY8GEOilUvuxSTvTmVeZCqHFQCeCbTH9iRurNVHLXnTqEtJux0WDJAb7kCWEDBD6aVwKHb2VoG7QjoYt9lRaX+rGLRscSD1sEw+1CbhYC20D1izJ8tJ6eipg==;v4r6Qnn/tfHRY29oMFGx/A=="
 ---
 

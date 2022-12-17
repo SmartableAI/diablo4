@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 4 collector's box pre-orders are live and Blizzard warns \"it will sell out\""
 excerpt: "Even though it's $100 and doesn't include the game, Blizzard is confident Diablo 4's collector's box will go fast ..."
-publishedDateTime: 2022-12-15T13:36:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-collectors-box-pre-order/"
-webUrl: "https://www.gamesradar.com/diablo-4-collectors-box-pre-order/"
+publishedDateTime: 2022-12-15T13:36:11Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-collectors-box-pre-orders-are-live-and-blizzard-warns-it-will-sell-out/ar-AA15kY7e"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-collectors-box-pre-orders-are-live-and-blizzard-warns-it-will-sell-out/ar-AA15kY7e"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/E8J25WRoKH5XbarXfZcrxD-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kGPa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 736
+    height: 630
     isCached: true
 
 related:
@@ -66,6 +66,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "mk0bBLKAvy4pyvv3u7ZmuApVPKu+1uOQbbpWbIPw/m8ZGGoROxn1gjEZWm9xSfEMYaBrJ8++kLzw+Vv37t0EBtXwDfjSwz6HAJhWmCShicYlbsuTjmxJJ4BXcpslKuKMyAej79AiuZJrS9g2fRfx3iy1NENkvec0MDotUzicfBDCzzEL91L4rNJLozvXKAInlKyXtM0BPS2HdILbmhhjllLqRiEkkboEdYK5tvRrvV5NZUCSpGNbEIH4BBXBj0HEzcEBKSJxij4GuMPA5OHONW3c+aQNM5EefimbooTjXCATe/5FTsy91BXZwuSR9628OPKv7CFqBVD8Fxf7c0KOljAj/hoZrrEyNLmIzTC9WYo=;cDpt3sueHRB+wUasha+atg=="
+secured: "ascp/j4inZ6fOdlTmc6BmU3yFxSm9YC/genIL8Ru2ZBsBD4k8HGgL8Y2NlY3jMRqqKUN5d/Z5Z6kpX+WRP8Wg04H6YQ4xfSyWz0LIpQ3sk/PqmG9QY/BJ284ImNdAzkZ96Fy+lSE8sWPjyt+PQgRm04QgqmIlFM0kg9MPJBSbbTuQ0LLVe2oFJbi/V4k4F3AtrjFqfPWAK66JA9cjdMhtvqUGcqsS0CUVTIreJacexHu3RziMI5Ej4FkiEzEDm9LqFw3cUkX1qj5cvAVvc5gsl7rl9XJllJoODzv32LiRAvdBD/XhBzS1PhsQ/nKsB4fWxqGKqxLxj2i+/oMAR1JYkimpiOBbSEtssBWmu4Qck8=;h4dyKCg0y198kfXRYMn2yQ=="
 ---
 

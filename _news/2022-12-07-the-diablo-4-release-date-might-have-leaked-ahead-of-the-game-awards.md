@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Halsey Announces ‘Diablo IV’ at Game Awards 2022"
+    excerpt: "Halsey has revealed Blizzard Entertainment's “Diablo IV,” the latest edition of the action role-playing video game series."
+    publishedDateTime: 2022-12-09T18:54:57Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Dennis M Games
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Blizzard announces Diablo 4 release date in new trailer"
     excerpt: "The Washington Post recently published an inside look at Diablo 4’s development, which suggested the game is facing difficulties, not least because of direction issues and backlash over questionable ..."
     publishedDateTime: 2022-12-08T20:11:00Z
