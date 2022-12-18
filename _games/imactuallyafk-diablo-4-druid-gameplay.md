@@ -2,6 +2,7 @@
 title: "DIABLO 4 DRUID GAMEPLAY"
 excerpt: "found it and wanted to share it :)"
 originalUrl: https://youtube.com/watch?v=xIE1EHhQsGQ
+webUrl: https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/
 type: video
 length: PT12M21S
 publishedDateTime: 2022-12-18T12:00:29Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "LVzYWKKA0Cfa65gOBcHJ3XythibFZkWQAGShEAxxtxXlXO/5eRwCGatwlOi4rQvTQ3G8oi2En1y5MpXayPn2ecvZW2Xt7kRBpcpuA+sSaZP83DXtPIcGQWfz/e3YYIRuccrcnl0+FiUiUcZycwiv2RcxZvgd5HvDF9JcPetNdgFARB8ZxqAkvIZrHvYvUAxoEdUDH405MiY1Xq9svVVQlyStO0fTxYlP0skE0jitIZi6nEFYMCdfJH3bddutEySjYJ+eXrv8S5ESrvA3W/39jQ2Cco0hUG9fn39TbMVC0BG9wvXpI4vB17nCAl3mvnywrk0VFLEdZciKcUPjNSyXRk/UfcyeedIeXX1L1gPlekD03iNqb4jqTQ41fkeUkzk/ElSZf9kHZec7RBm6cLxcBA==;H4NeYGQzGvzuh8pGDuwrDg=="
+secured: "EOybp2r5HQPJSX1Is2olwTSUebvtO3Ue0DVaib4fteh+9YyAjE7R4xyBX8El7uOeFA1JZdQXqe/9v0H49oezft4nXpxO2+rrRozbK8Z2oi6+uIzYd/JCdtaqC+za1lSWrKlymRUUW2TdedmF/bnMPWiZWDnBrSeYElbKzlQc4U4qY3mW2RMHQ5GgfC+z++JvmM+CjIvzGQL9SaOqXGYAcCDxQp3qwHmnM/G7Nd6/H7nbBEa+WqQbQsS9bNTQCVXvOj4RkgTPCkRzdmrBnlPO+D6c3YBBU1gW9LYOGIgbG9irjnrllT6TJBEwtmhNCRN9pKVrXhytTkqLOOZ4x99EKG1e2NMNo/t7eZCLAx/cPCzR0TZ+oDpJKTCQJTTFB2Y1;qYA0X1Lc4EmEzzQKBDMSjg=="
 ---
 
