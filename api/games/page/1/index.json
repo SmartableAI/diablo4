@@ -154,6 +154,37 @@
       "publishedDateTime": "2022-12-07T11:00:13-08:00"
     },
     {
+      "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
+      "title": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer [Upscaled 4K]",
+      "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. * Website: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k/",
+      "originalUrl": "https://youtube.com/watch?v=ZpgHiJxbom0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpgHiJxbom0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M6S",
+      "provider": {
+        "name": "Upscaled Game Trailers",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-19T08:46:00-07:00"
+    },
+    {
       "path": "_games/raxxanterax-diablo-4-barbarian-arsenal-system-explained.md",
       "title": "Diablo 4 Barbarian Arsenal System Explained",
       "excerpt": "Diablo3 #Season27 #Hardcore #Maxroll #Blizzard Season 27 Guides: Leveling Guide (All Classes) ...",
@@ -292,7 +323,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 94,
+      "heat": 93,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
@@ -564,7 +595,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 74,
+      "heat": 75,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
@@ -594,7 +625,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 70,
+      "heat": 71,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/c9x16b9UyXM/maxresdefault.jpg",
@@ -688,7 +719,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 59,
+      "heat": 61,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -792,6 +823,36 @@
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
     },
     {
+      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p.md",
+      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 2 [FHD 1080p]",
+      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/",
+      "originalUrl": "https://youtube.com/watch?v=ku-rElv48ho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ku-rElv48ho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M21S",
+      "provider": {
+        "name": "GameWorld",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ku-rElv48ho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-23T04:20:19-08:00"
+    },
+    {
       "path": "_games/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k.md",
       "title": "Diablo IV Barbarian Gameplay 60FPS 4K",
       "excerpt": "Enjoying the video? pls make sure to subscribe for a regular dose of top PC games videos! Subscribe: ...",
@@ -851,66 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-26T05:10:53-07:00"
-    },
-    {
-      "path": "_games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
-      "title": "Diablo 4 Leaked Dungeon Gameplay!  Diablo IV Leak! #shorts #diablo4 #barbarian",
-      "excerpt": "Diablo 4 Leaked Dungeon Gameplay! Diablo IV Leak! #shorts #diablo4 #barbarian.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=_Tisi7CgyDQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-23T09:18:11-07:00"
-    },
-    {
-      "path": "_games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian.md",
-      "title": "Epic Boss fight!  Diablo 4 leaked gameplay!  Diablo IV leak video.  #shorts #diablo4 #barbarian",
-      "excerpt": "Epic Boss fight! Diablo 4 leaked gameplay! Diablo IV leak video. #shorts #diablo4 #barbarian Please subscribe for more DIablo 3 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-epic-boss-fight-diablo-4-leaked-gameplay-diablo-iv-leak-video-shorts-diablo4-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=kPOykrAeBGE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPOykrAeBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58S",
-      "provider": {
-        "name": "noobyG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-09-23T12:24:26-07:00"
     }
   ],
   "nextPage": 2
