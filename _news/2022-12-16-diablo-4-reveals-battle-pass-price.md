@@ -40,7 +40,23 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "'Diablo 4' release date, battle pass cost, mounts, other details"
+    excerpt: "Two battle passes will be available in \"Diablo 4\" -- a free one for all players and a paid one that offers additional rewards to unlock."
+    publishedDateTime: 2022-12-19T06:15:00Z
+    webUrl: "https://www.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
+    ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 107
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1702857/gamer.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
-secured: "fskeNpts6yHJuU+RLhHyEMd+BpLwwUWDTUt7dOYmw6jZ7PfdzRzzrugqv3UNjQ8RmqkI1Cdt6zy8nx1SDOxD+OoqcXsVZattdPeHpaJi7teSexu8RQW292D2ewljdmkFxwngP3DeyPLFxK32sYqWCBaaF9yt5sVWebvmmPUQICEVJf9Y5IUSBELiV+1+tbDPEWjOsU8oLDNxVo/uXhM9+kmAwtj2ZQRaFFnHVJcPIC/dfodeA7wPLHhuIzbCrRmWfquIgH4XPAKTyZSFIYf802WOM1G5sEtvTLJtNkwl32NSF2MW/9SNZBIFeFTRDzrZXTtK1HGf1oufvJ0MRpvXM//KzcXbxQsO6UxfVHSehj0=;PlqaU42keXStvo0YQme8dA=="
+secured: "gWJGYjPEIYtERSiGtdqZbn9kHCcDCyyCVvBc37kBbgQgE4AFSFVjtAWKPYdsrPLHKFoYI35xkMgh0KLsX3FIHansTtc+T4chskQpwquxJ9/wVmWkwPI7z7+y7+g1myYgICMFWVkk4t8Z6kbhL5OxGO80Qlzab4/2lAYGuFsPNRvFCt9KW4MXgnEn3H5gRpNBj9mnDjslDiKuzWP2o9yHXtXGCn/V6tsfr8iBeAx40nuVeEFcSkh98OCk+Wm8zTEvAyN+sLjdzz8cGsHvoj4mZOZyI5yqGgxiUMAo76E4TN7FsDMLvXXnAcZTdw1nx97nsVME9MeVUShvH9f0UjthfzipCe0Uzv2OT9PaE5DgLnA=;ly4Cx0WkCrRbLuz4FpdPZg=="
 ---
 

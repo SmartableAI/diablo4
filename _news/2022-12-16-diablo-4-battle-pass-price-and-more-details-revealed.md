@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-dur
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Diablo 4' release date, battle pass cost, mounts, other details"
+    excerpt: "Two battle passes will be available in \"Diablo 4\" -- a free one for all players and a paid one that offers additional rewards to unlock."
+    publishedDateTime: 2022-12-19T06:15:00Z
+    webUrl: "https://www.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
+    ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 107
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1702857/gamer.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Diablo 4 Reveals Battle Pass Price"
     excerpt: "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last."
     publishedDateTime: 2022-12-16T13:40:49Z
