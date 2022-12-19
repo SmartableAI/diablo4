@@ -6,9 +6,6 @@ publishedDateTime: 2022-12-16T13:40:49Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-battle-pass-price/ar-AA15neJs"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-battle-pass-price/ar-AA15neJs"
 type: article
-quality: 87
-heat: -1
-published: false
 
 provider:
   name: Game Rant on MSN
@@ -17,30 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kV8N.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=376&y=157"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Diablo 4 Battle Pass Price and More Details Revealed"
-    excerpt: "The premium version of the battle pass (there's a free version, too) will cost $10, community lead Adam Fletcher confirmed in the recent livestream. Fletcher specified that this battle pass will cost that much in term of the value of Diablo 4's in-game cu"
-    publishedDateTime: 2022-12-16T08:48:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-battle-pass-price-duration-details/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/04/21/2f7bd638-50fb-438e-af32-753a9bb7b73b/gta-6-vice-city-rockstar-games-1264869.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
-
-secured: "fbqBJF0X9e3qZOQxhwgZwbyiTSsnzuUjhUlPvBRvBiOsX/fzhAXoiv0AjKWTM7osLmu439p3P+VIQa0KZbB9zG21XC5lgvqs36JZvDEhE/3RoPo3OBMl5vqITQshqwrGuIEpa1bLW+9vQTcwvp/yZhsvHfmlw8nKTAKPLOdGb+8K/e/oyoKeu8+lUvREMQjMpB5G4E++hFd2kl5LD9LISIqs33wfYi3JuFcpDX4rcAP3blizp/GGNbM779aNtVOQuEKtBFQLOHDRwscDtFGr8/a5fJaxlFHZ7jLzebDAZEYd52/yOhnwVy+6YenFxash/c6NO5HOVWfi3c5n1OFeHZ0sNfNiCjXvQ3LP3uIhZmk=;fLLS/IAddaXf3E6w1o70kA=="
+secured: "SQJ5iTwxL+3cJ/cJHleCyRZGL00Wx59bBI1bGzKluusjEWi4Tog7KOsBov2YICmE6TR3jcIK/zdZOauYueUjeZ/wxef1o1krp1sPd1wrI4tv2ZzKxOF/htTAZ4bs76gXSvdgeUN/OgjJPURzQ9xSnJ02KONH3MqouNI2g609wICvpnwDDohiRm2G2Qk4b8RwdXp0V/FNTBqOJ5UnWXDlXiJccjDA8L9kS+lA3Re11wMuFkhhfcos1yyrkCZtGRmwvSTHVwTMMU59j/OV0qmEFxVnm7Lh2ZlVjo+0mcN4ypM7QDJlT04ZYWCL7j6WARt2DrlWtBQNyf+oA+fMyEG7LnBfdGej08dd0dPLVpDVe2Y=;6CzLgq9dazTPt8/Rrk/aIQ=="
 ---
 

@@ -6,9 +6,6 @@ publishedDateTime: 2022-12-16T04:54:00Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: GamesRadar+ on MSN
@@ -17,12 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153feB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=286"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "W9RTzXwZsPMUC2yzKtw5qxjsrDq4erM2fiGQ+I8H5C1QF6tFI6qbpehYt0DQFoPsHdOUmDX99xT3IFJDyvgfYM0NVRrw3NPwhzA1GU4+TE5fa+kZYuNn6nTV/C6o9G54cRA9RJNMv3FV2hzZB5K6fHwGrq85Gcmb9VZ1OHrSfWyXWjAXrNW3+LShv74pGBoyI3rb9wZcpDajeHrnUjasQ7xuUysyLKefjXCmNJpYRTbGgi+MDcemX3rKERFLcldq3mH6JwDFcro7ZdFn29te4d9eIxinyDztQfM0IviFDrDnu42+WFpLAxNPTEBaE3M35usD7CV57hOFZEhd/tKgKoRNlhORUg5xDnZURzexXcg=;/j56JbY5f/diJE6VlB29uw=="
+secured: "vhJDQwyJs5353o8r2kFty/Ju+2mVzazFi7dRXaV5s6eJdZpCXZl57//wbnxRdPL88dBfa55EplYe9JVUttl6hEMm8fKcj4jD+A5Frbc0sHjlGebuo1iqWIlXWCnp6GWF7UFUwumdE1cbfCmCoqCquzqUBg/deW+Ja3B6UU+WeK77RkKUJwHlFO5edeBTt/1KB/FUZHVC/Eq+GfyLOtXn/oh/XnhgMQ+Fg5Ii/XmP+yUgRF+UDUy0E9P3is+3b2cx73rQhS7ZUOtDHZyRFwuLhsw/lwzT+8afNSSKJfBgMSfUjVguP11qlFXxZZTf24VW68BLsdMYEaq2Hbtz1iRHvXozd/sOUuRam0o1s22DFN0=;fakMP4jrxTA3tf4Wek51QA=="
 ---
 
