@@ -6,9 +6,6 @@ publishedDateTime: 2022-12-16T13:40:49Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-battle-pass-price/ar-AA15neJs"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-battle-pass-price/ar-AA15neJs"
 type: article
-quality: 87
-heat: -1
-published: false
 
 provider:
   name: Game Rant on MSN
@@ -17,46 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kV8N.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=376&y=157"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Diablo 4 Battle Pass Price and More Details Revealed"
-    excerpt: "The premium version of the battle pass (there's a free version, too) will cost $10, community lead Adam Fletcher confirmed in the recent livestream. Fletcher specified that this battle pass will cost that much in term of the value of Diablo 4's in-game cu"
-    publishedDateTime: 2022-12-16T08:48:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-battle-pass-price-duration-details/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-battle-pass-price-duration-details/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2021/04/21/2f7bd638-50fb-438e-af32-753a9bb7b73b/gta-6-vice-city-rockstar-games-1264869.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
-  - title: "'Diablo 4' release date, battle pass cost, mounts, other details"
-    excerpt: "Two battle passes will be available in \"Diablo 4\" -- a free one for all players and a paid one that offers additional rewards to unlock."
-    publishedDateTime: 2022-12-19T06:15:00Z
-    webUrl: "https://www.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
-    ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-battle-pass-cost-mounts-other-details-1710271"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 107
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1702857/gamer.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-
-secured: "20M1ZzRybptcDKOCHw7+qazjYbfR9IJleCmPVZP26tpErEz+1z+yHOBnmsWvj7pC+RCNNs3nftsh3BBJ6gbWdsG18UFIk8hxvbj1iQzCk6a4KL/vqF3hfwLVjA08x/UK7hUD6B8I8MXkT6nmskWHS4f+y/gNZ+AyYd1c93NZUUht24qwBQtwY8YaU2X+5+rYBQLNM2PH2MFMAHDKjxuUjLgFcEWjH+YzV4VhkpKx01UACqUg1uos5J29ECGsZprQM+oZb8B1JyVctkikAMxH6T9Ej4JsL9u/iZGfXXseRnUAI6z1W65jAEbIstZ4TDfoTHKwdFGaRBmYcC5jdxb1QWxGtVC34Oih214YW80W1r8=;9lugfzDHPz8rWBa9I6YL7Q=="
+secured: "th7syT5Vvp4Tehf7v/p6OCG4B8bO9+sHcWXR2AEkUeYNo2aN6mKlhXB+yupAnEnIapuQpPViGhmqpK0BKfKJkvIO0rTrjnCKbF/E/TbmSebFyv3Hm7EGWWIFgL8gINfWb/rSjgOBRcP6byuuShnXoXXTdRR0Os7JU20IesXCG/ge7UbW04QOoPSwxJStUcR811VlThvAf0+B68T640eP/YnzL+iL2j0tylSvkwHpR/VD5eEJ+HFarTWBW6D1herXzKoNcUeexqMHjHoX6MSVVXA6YJp72ust4f5KJ8l3CBP8E7AwQspGMmWZwDlDS3wK2yTXg/Wb0/Da+ipKPgMODoz9OqT/uNHZ3S/iCNOzhWA=;5VVTc8sKu5O0cBke+utzPA=="
 ---
 
