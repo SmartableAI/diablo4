@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 Announce Cinematic Trailer Reaction"
+    excerpt: "Watch the new cinematic trailer with me super hyped that the release is finally here!"
+    publishedDateTime: 2022-12-16T03:00:10Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Travis Collins
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Halsey Announces ‘Diablo IV’ at Game Awards 2022"
     excerpt: "Halsey has revealed Blizzard Entertainment's “Diablo IV,” the latest edition of the action role-playing video game series."
     publishedDateTime: 2022-12-09T18:54:57Z
