@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
+      "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
+      "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
+      "originalUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RSmVHnRfezmk8VcumjCrrj-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream.md",
       "title": "Watch the First Diablo IV Developer Update Livestream",
       "excerpt": "Join Diablo IV game director Joe Shely and associate game director Joseph Piepiora as they introduce the new Codex of Power system and more invitingly dark details.",
@@ -124,48 +166,6 @@
       "provider": {
         "name": "GamesRadar+ on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-new-diablo-4-burger-lets-you-feel-liliths-rage-in-your-mouth-at-japans-burger-king.md",
-      "title": "New Diablo 4 Burger Lets You Feel Lilith’s Rage in Your Mouth at Japan’s Burger King",
-      "excerpt": "The Japanese arm of Burger King is offering a brand new burger inspired by Diablo 4's Lilith to celebrate the release date.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-15-new-diablo-4-burger-lets-you-feel-liliths-rage-in-your-mouth-at-japans-burger-king/index.json",
-      "webUrl": "https://twinfinite.net/2022/12/diablo-4-burger-king-collaboration/",
-      "originalUrl": "https://twinfinite.net/2022/12/diablo-4-burger-king-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2022/12/Diablo-4-Burger-King-Japan-5.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
         "images": null,
         "publishers": null,
         "authors": null

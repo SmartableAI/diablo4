@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4's Codex of Power builds on one of Diablo 3's best ideas"
-excerpt: "Blizzard finally lifted the lid on Diablo 4's new Codex of Power feature, and it's a bit like a spiritual successor to Kanai's Cube from Diablo 3 and the Horadric Cube from Diablo 2. Diablo 4 game director Joe Shely and associate game director Joseph Piep"
-publishedDateTime: 2022-12-15T17:15:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/"
-webUrl: "https://www.gamesradar.com/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/"
+excerpt: "Blizzard finally lifted the lid on Diablo 4's new Codex of Power feature, and it's a bit like a spiritual successor to Kanai's Cube from Diablo 3 and the Horadric Cube from Diablo 2. Diablo 4 game ..."
+publishedDateTime: 2022-12-15T17:15:04Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/ar-AA15kUFG"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-codex-of-power-builds-on-one-of-diablo-3s-best-ideas/ar-AA15kUFG"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10OVYi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=483&y=110"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -129,6 +129,6 @@ related:
       domain: gamesradar.com
     quality: 63
 
-secured: "1K8cAquAdk9XSUJLo+5kdgWrUy+xiX8E+Qzl1GcxeMH2nmd+ovhn0Xa33KEWsIK8ynZxC3YWvTNfhy3hZ7bbk8fI2JdOW0WXNgWlnLLRY8AO1z+/UVdPPHGQ/OCMPv6blwIYf9U2S+aBR1ZMf5pNZxtkvXIxBHRVWPU+WSndl4dh83wye93zs0XqInUzw7ty2BCyRzoge0TwQ5MzzV1/+Cfqx+rfV4mWtMar55IeY3SrHvkbD2qVi30YtCbMGWic3VNXg9GQcfQ5+usUKLbV/ESIh9nHnvlphzhesVWyJe6Rck9LH9noexY08hLFArlkSSxzIXri+phyginJcRI4s2bOHduK65SJPEmxRWzX2OI=;VMvAb+ddaZVCMb7+P7e3UA=="
+secured: "hV/lQI+ZSLk3bopo6ycZFfo2HLZQ6Cjbgcau431G2mnVQJWMvagdDwSngnFvjIKBmvWdUtY4PUoXqbRCqd8RN9nhe0060+ORB8cpDeoL0ONYntvTAIgAPN+LGqP07CD8uxTs5cqucCRXRRxtai1qxTOHn7w5pXsHeMHnzuVodSONJhSJmYTUJ+KlBXwa5squIDeHyCWi5NrVzNaNLFevl2Xn31p0hSHrGDO9//IvYGr/Idgofu47gh5Uagc7b65eigEhHamqMiuPXl+UDdpVbD78Wj8mLL6PIPWfQ9PxeJib4cspGmmN3POarkxpgmMhXhUB6tgoVlAPOnd8UTuw6diq8LwGyac7npI9SRXlaqI=;kaEM3U41zuSLOrCSGHlKMg=="
 ---
 
