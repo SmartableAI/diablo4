@@ -38,15 +38,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Report: Diablo 4 could be launching in Spring 2023, with preorders going live December (Updated)"
-    excerpt: "Insider Gaming also confirmed our report below that The Game Awards will play host to a range of Diablo 4 announcements, most likely the launch month, the collector's edition (which has some kind ..."
-    publishedDateTime: 2022-12-03T05:15:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-could-be-launching-in-april-2023-with-preorders-going-live-december"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
 
 secured: "VAohBaJ6fQxlnk2+Kdt+2hmv2lveYwGePUAs+wLzSFMyHO3FZ5F0jHVPpX5t0EfqyF9MgYy8fA46aIv1etwk5+rxvy8Vz8vg00XXbTOkczWuomtsCr1Z8HQzSW4CndOlxNdbbG7EWxxHV13klhBFXf1wD+rKsPFIWYpzg3oCRmJFMJfdhugBI8VyzGr3SSnNP1sRQ5I6Pp6uip/Erwlum6+HKRqtjOb4nUILoS31jOIpvmugMW+hdCgL/dHZ73+G7gqqGe3LP1tcbErHPUvSrbuwtEvGqm9uRlZzeCeYgDUlGwDT+gSCr/WoDr9RtnnFP43WdK+OqGVA/mMZxOovL6y/74Dske8jjVLzF2lSQzs=;3eJp7zDJ6iAK8geS8FwOQQ=="
 ---
