@@ -4,6 +4,37 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
+      "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
+      "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/",
+      "originalUrl": "https://youtube.com/watch?v=VpHdyyRvHtU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpHdyyRvHtU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M13S",
+      "provider": {
+        "name": "Gaming Rush",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-11T20:42:40-07:00"
+    },
+    {
       "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
       "title": "DIABLO 4 DRUID GAMEPLAY",
       "excerpt": "found it and wanted to share it :)",
@@ -615,37 +646,6 @@
       "publishedDateTime": "2022-01-23T04:20:19-08:00"
     },
     {
-      "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
-      "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
-      "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/",
-      "originalUrl": "https://youtube.com/watch?v=VpHdyyRvHtU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpHdyyRvHtU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M13S",
-      "provider": {
-        "name": "Gaming Rush",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-11T20:42:40-07:00"
-    },
-    {
       "path": "_games/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo.md",
       "title": "NEW Gory Diablo 4 gameplay!  Necromancer, Barbarian, Sorceress, and Druid! #shorts #diablo4 #diablo",
       "excerpt": "NEW Gory Diablo 4 gameplay! Necromancer, Barbarian, Sorceress, and Druid! #shorts #diablo4 #diablo Please subscribe for ...",
@@ -800,38 +800,6 @@
       "publishedDateTime": "2022-11-27T22:22:39-08:00"
     },
     {
-      "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
-      "title": "Diablo 4 Blizzcon 2019 Demo Druid, Sorceress, Barbarian Gameplay",
-      "excerpt": "I was fortunate enough to stream Diablo 4 at Blizzcon 2019, this is the original Gameplay Demo from the showroom floor, enjoy! PODCAST: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=XKzD1NZwUmw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XKzD1NZwUmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H47M55S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T18:15:00-07:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-first-4-classes-barbarian-rogue-sorceress-druid.md",
       "title": "Diablo 4 Gameplay - First 4 Classes [Barbarian, Rogue, Sorceress & Druid]",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
@@ -922,6 +890,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-02-25T06:13:10-08:00"
+    },
+    {
+      "path": "_games/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay.md",
+      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay",
+      "excerpt": "Diablo IV Blizzcon 2019.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/amaraa-channel-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=b1Z1CAELiRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b1Z1CAELiRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M50S",
+      "provider": {
+        "name": "Amaraa Channel",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-12-22T12:36:08-08:00"
     }
   ],
   "nextPage": 2
