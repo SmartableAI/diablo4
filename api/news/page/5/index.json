@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out.md",
+      "title": "Diablo 4 end game beta invites are being sent out",
+      "excerpt": "The first wave of invites to the Diablo 4 closed end game beta have reportedly been distributed. Diablo players on Resetera and Reddit began receiving invites to the game’s latest testing phase on ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out/index.json",
+      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
+      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2022/09/diablo-4-x.jpg",
+          "width": 1249,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg.md",
+      "title": "Diablo 4 daily events spark live service concerns for the Blizzard RPG",
+      "excerpt": "The appearance of Diablo 4 daily events in the latest Blizzard update for its upcoming fantasy RPG game has fans worried about the game’s live service nature ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/daily-events-discussion",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/daily-events-discussion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/09/diablo-4-daily-quests-live-service-concerns-reddit.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-diablo-4-endgame-closed-beta-announced.md",
       "title": "Diablo 4 endgame closed beta announced",
       "excerpt": "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players.",
@@ -1015,90 +1099,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-06T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms.md",
-      "title": "Path of Exile devs hope to appease frustrated fans as Diablo 4 looms",
-      "excerpt": "Path of Exile devs take steps to appease frustrated fans as Diablo 4 approaches after several recent updates to the fantasy ARPG game leave the community upset ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms/index.json",
-      "webUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
-      "originalUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/path-of-exile-devs-community-lake-of-kalandra-diablo-4.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3.md",
-      "title": "What are the best aspects of Season play that Diablo 4 should make sure to borrow from Diablo 3?",
-      "excerpt": "Diablo 4 will have Seasons, iterating on the Ladder Seasons from Diablo 2 and the Seasons of Diablo 3. Because it's a new game, there will obviously be dif ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
-      "originalUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2017/10/treasure-goblin-header.jpg",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Blizzard Watch",
