@@ -732,6 +732,36 @@
       "publishedDateTime": "2021-03-14T07:00:01-07:00"
     },
     {
+      "path": "_games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress.md",
+      "title": "Diablo 4 - Fire Bolt and Inferno Skills (Sorceress)",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/tiago-costa-diablo-4-fire-bolt-and-inferno-skills-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=BunDqRP31Gs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BunDqRP31Gs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30S",
+      "provider": {
+        "name": "Tiago Costa",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-12T09:11:05-08:00"
+    },
+    {
       "path": "_games/trailer-games-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
       "title": "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer",
       "excerpt": "Diablo 4 Barbarian, Sorcerer and Druid Gameplay Trailer MEET YOUR MAKER Lilith has returned to Santuary, summoned by a dark ritual after eons in exile.",
@@ -881,37 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-30T01:34:43-07:00"
-    },
-    {
-      "path": "_games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world.md",
-      "title": "Diablo 4 Mage, Barbarian, and Druid, Lilith Will Be Diablo - Possible Open World",
-      "excerpt": "Like and Subscribe to Xtimus Diablo 2 Content. Join the Notification Squad: Click the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-4-mage-barbarian-and-druid-lilith-will-be-diablo-possible-open-world/",
-      "originalUrl": "https://youtube.com/watch?v=yl8XCtDSYQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yl8XCtDSYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M7S",
-      "provider": {
-        "name": "Xtimus",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yl8XCtDSYQ0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T01:00:07-07:00"
     }
   ],
   "nextPage": 6
