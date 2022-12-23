@@ -64,36 +64,6 @@
       "publishedDateTime": "2022-12-07T08:00:11-08:00"
     },
     {
-      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
-      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
-      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
-      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M40S",
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 180,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T08:00:36-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-ability-double-swing-barbarian.md",
       "title": "Diablo 4 Ability Double Swing - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -124,6 +94,36 @@
       "publishedDateTime": "2022-12-18T18:00:21-08:00"
     },
     {
+      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M40S",
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 139,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-21T08:00:36-08:00"
+    },
+    {
       "path": "_games/beefguyty-diablo-4-ability-call-of-ancients-barbarian.md",
       "title": "Diablo 4 Ability Call Of Ancients - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -152,6 +152,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-19T11:00:00-08:00"
+    },
+    {
+      "path": "_games/justin-diablo-4-druid-gameplay.md",
+      "title": "Diablo 4 Druid gameplay",
+      "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/justin-diablo-4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=MbzOPWjk9GE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M41S",
+      "provider": {
+        "name": "Justin",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 118,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-01T22:53:54-07:00"
+    },
+    {
+      "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",
+      "title": "Diablo IV Sorceress Gameplay   60FPS 4K",
+      "excerpt": "Diablo IV Sorceress Gameplay 60FPS 4K Diablo is an action role-playing hack and slash dungeon crawler video game series ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/",
+      "originalUrl": "https://youtube.com/watch?v=aTR19gOlxgg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTR19gOlxgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M10S",
+      "provider": {
+        "name": "Gaming Rush",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-10-15T20:42:12-07:00"
     },
     {
       "path": "_games/raxxanterax-diablo-4-barbarian-class-preview.md",
@@ -642,36 +702,6 @@
       "publishedDateTime": "2022-06-22T07:00:32-07:00"
     },
     {
-      "path": "_games/justin-diablo-4-druid-gameplay.md",
-      "title": "Diablo 4 Druid gameplay",
-      "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/justin-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=MbzOPWjk9GE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M41S",
-      "provider": {
-        "name": "Justin",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-01T22:53:54-07:00"
-    },
-    {
       "path": "_games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
       "title": "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian",
       "excerpt": "Barbarian Parkour! Diablo 4 leaked gameplay! Diablo IV Leak #shorts #diablo4 #barbarian Please subscribe for more Diablo 3 ...",
@@ -881,36 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T12:24:26-07:00"
-    },
-    {
-      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
-      "title": "Diablo IV Preview - Hands-On with the Barbarian",
-      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
-      "provider": {
-        "name": "Easy Allies",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:02-08:00"
     }
   ],
   "nextPage": 2
