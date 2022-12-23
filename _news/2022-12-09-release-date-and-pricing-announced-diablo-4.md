@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 release date reveal at The Game Awards becomes more likely"
-    excerpt: "If you're eager to find out more about Diablo 4, we've got good news for you. It's believed that Blizzard Entertainment and the next Diablo game will be at the said event. Insider Gaming is following ..."
-    publishedDateTime: 2022-12-03T06:48:00Z
-    webUrl: "https://www.xfire.com/diablo-4-release-date-reveal-the-game-awards/"
-    type: article
-    provider:
-      name: xfire
-      domain: xfire.com
-    quality: 67
   - title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
     excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
     publishedDateTime: 2022-12-06T03:01:24Z
