@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Everything we know about the Diablo 4 classes"
-    excerpt: "So far, Blizzard has revealed five Diablo 4 classes. These are classes from previous titles with chances of adding more in the future. - December 4, 2022 - WIN.gg ..."
-    publishedDateTime: 2022-12-04T20:37:29Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-we-know-about-the-diablo-4-classes/ar-AA14U6q8"
-    type: article
-    provider:
-      name: WIN.gg on MSN
-      domain: msn.com
-    quality: 67
   - title: "Everything you need to know about Diablo 4: Story, classes and trailers"
     excerpt: "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ..."
     publishedDateTime: 2022-12-07T02:14:00Z
