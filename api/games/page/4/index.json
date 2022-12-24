@@ -4,6 +4,36 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look.md",
+      "title": "Diablo IV Druid Gameplay With Nvidia Freestyle TEST Comparison This is How Diablo 4 Should Look?",
+      "excerpt": "Make sure to leave a LIKE on the video and subscribe/hit the bell so when new videos upload you get a notification. Subscribe To Us Here: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look/",
+      "originalUrl": "https://youtube.com/watch?v=KrSMyZHyrzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KrSMyZHyrzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M3S",
+      "provider": {
+        "name": "Games Recap",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KrSMyZHyrzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-11-19T03:15:12-08:00"
+    },
+    {
       "path": "_games/games-recap-new-mustwatch-diablo-iv-barbarian-official-gameplay-2021.md",
       "title": "New MustWatch - Diablo IV Barbarian Official Gameplay 2021",
       "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
@@ -273,38 +303,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-22T07:00:10-08:00"
-    },
-    {
-      "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
-      "title": "Diablo 4 Gameplay All Classes Barbarian, Rogue, Sorceress & Druid",
-      "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid/",
-      "originalUrl": "https://youtube.com/watch?v=hyJzUEVS-Ww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hyJzUEVS-Ww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M36S",
-      "provider": {
-        "name": "Gaming Rush Tube",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-11T23:06:36-07:00"
     },
     {
       "path": "_games/gigio-gameplay-diablo-iv-druid-gameplay.md",
