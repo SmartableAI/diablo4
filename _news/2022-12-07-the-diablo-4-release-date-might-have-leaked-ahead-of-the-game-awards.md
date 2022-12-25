@@ -116,15 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
-    excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
-    publishedDateTime: 2022-12-06T03:01:24Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
-    type: article
-    provider:
-      name: DualShockers on MSN
-      domain: msn.com
-    quality: 67
 
 secured: "d0zrP2GccjPk0x5jMRUKGGeTHHK1JGFb5vsBXNgylMu0IZeFeWwKiC2xisLxbTsebPjST0IPIhPjF46+7tY1XScqACU0/ylYPdsDJbfqCkJBYdTGbiRMnfOV4VfBLfQw6I3c8RK3SfAxsUjnL1Imgvmg96mUVAIGEVI71iqlC9+bG7es52kyvaBz0hgTttQKwvw87SS0O3Bd3VuL0CV4jLXSBbAu4G2pmi6+j8Md3DV01Tq6OsgLBCnbUQJsXPSSFvK3arU69VCKTqjBFYjdqIrZMV4GhJx08Da33v1yUlBtekvtsU63LvpZJqQh+jrQUJ5RXmrioOt4s6umhzwpZu39ZxObv6923Ztx5rWCHSQ=;Tp1vQuOWMEKcZWzSKUBgIQ=="
 ---

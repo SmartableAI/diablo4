@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-09T02:59:17Z
 originalUrl: "https://youtube.com/watch?v=6zNtgK0vthA"
 type: video
 quality: 137
-heat: 297
+heat: 277
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6zNtgK0vthA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Teaser Suggests Possible Game Awards Announcement"
-    excerpt: "With The Game Awards 2022 showcase only a few days away, more developers and publishers confirm their presence in the ceremony, where they will share new trailers from their upcoming projects. Diablo ..."
-    publishedDateTime: 2022-12-06T03:01:24Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-teaser-suggests-possible-game-awards-announcement/ar-AA14XQqD"
-    type: article
-    provider:
-      name: DualShockers on MSN
-      domain: msn.com
-    quality: 67
   - title: "The Diablo 4 Release Date Might Have Leaked Ahead of The Game Awards"
     excerpt: "It appears the release date of Diablo IV has leaked just one day prior to its expected reveal at The Game Awards. The Twitter account Aggiornamenti Lumina, which reliably scrubs the Microsoft Store ..."
     publishedDateTime: 2022-12-07T04:00:00Z
