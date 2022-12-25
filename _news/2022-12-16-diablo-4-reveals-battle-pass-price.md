@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Diablo 4 Reveals Battle Pass Price"
-excerpt: "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last."
-publishedDateTime: 2022-12-16T13:40:49Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-battle-pass-price/ar-AA15neJs"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-battle-pass-price/ar-AA15neJs"
+excerpt: "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last. Blizzard’s Diablo 4 team recently discussed the game's ..."
+publishedDateTime: 2022-12-16T13:43:00Z
+originalUrl: "https://gamerant.com/diablo-4-battle-pass-price/"
+webUrl: "https://gamerant.com/diablo-4-battle-pass-price/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 127
+heat: 167
+published: true
 
 provider:
-  name: Game Rant on MSN
-  domain: msn.com
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15kV8N.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=376&y=157"
-    width: 1200
-    height: 630
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-4-ultimate-edition-lilith.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
@@ -57,6 +61,6 @@ related:
         height: 853
         isCached: true
 
-secured: "xy9zTLU4erRLo4DexHBWqCss4a7wqVccYBMZcdaT1EQOWVOttJOl93n4PPaupFwNtJkMwuMkeID+RZV9u151y5n3Sbt27AvzPi4n9g1HsOXdV/Y4y3KliBciIAH92A24NvIE0CiejP69rJCC7R7RzB6ndVhk15U4mbsOR8/1rs2wfmYXH0l5SYr3MmOyqjZpduliOk+FKTd3RaMxeStVZKsIyJ+mWj0xNyh1r7Aj32Vx3CzwrhJ4umCe2Hovt9QLxWa5uzMv7qhJi15S+OZJqYRfog5eHAHufa6QmUhUWoJPxBE+Sn4uJLh8Pwuh4SrmHp4mIGrDo1IQaI7l9XBB1er4ZnwoNl+yhZUgU9/brJQ=;xOGeQhvfnDQsnvmchZ6ObA=="
+secured: "bwto9jhm9YiG3P/Rzd79Ua+QsJ5Uowx8Pb6CQaejYP/cNFTWCZ6e1SJQeRRdN8S5iHobBAOy2IVVDZmZD1AZFmahKZ3DuVaPsPKT7gmSEb2G7fvUfeTpuXERu7XLRnQQmbxh235U0VcSeFlQ+vGRjmyAM3Mfb0B0J39fKWjVEFW8Knu4NtG18pXa8y893A8FIacTlpIhNelZ+qb9Srgj/6PMAm4VOtEDytVTRBOhWdWFVVxSrftOO+Ew4h7Obqb+Q2pH3vL1uGtqs/+iMNySAOEUBfzX4y/DSrkino4GnLnqaW4VCDMDWHAzNglEwU3Uoh5r0kpU74GEA6a7Oh2dwnXB9tRjOhnxLioFllnNRLI=;sM7dAy/gNTKx2waN0sX5Rg=="
 ---
 
