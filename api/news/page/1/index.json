@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-15-diablo-4s-codex-of-power-system-explained.md",
+      "title": "Diablo 4's Codex of Power System Explained",
+      "excerpt": "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-15-diablo-4s-codex-of-power-system-explained/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
+      "originalUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-codex-of-power-v2.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-diablo-2-diablo-3-updates-outlined-as-blizzard-expands-diablo-4-team.md",
       "title": "Diablo 2, Diablo 3 updates outlined as Blizzard expands Diablo 4 team",
       "excerpt": "Resurrected and Diablo 3 updates as it hires additional staff to expand its Diablo 4 team ahead of the release date for the RPG game ...",
@@ -86,15 +137,15 @@
       ]
     },
     {
-      "path": "_news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview.md",
-      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways - Blizzard Interview",
-      "excerpt": "Speaking to the team at Blizzard about all things Diablo IV, we got confirmation that the team is planning some pretty epic stuff for its post-launch Seasons. The long-awaited Diablo IV from Blizzard ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview/index.json",
-      "webUrl": "https://www.ausgamers.com/features/read/3645703",
-      "originalUrl": "https://www.ausgamers.com/features/read/3645703",
+      "path": "_news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard.md",
+      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways According to Blizzard",
+      "excerpt": "The long-awaited Diablo IV from Blizzard is on track for a June release this year, and you can check out our recent hands-on preview here. Speaking to the team at Blizzard about all things Diablo IV, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3645705/diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard",
+      "originalUrl": "https://www.ausgamers.com/news/read/3645705/diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -110,7 +161,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T16:52:00-08:00",
+      "publishedDateTime": "2023-01-12T14:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Aus Games",
@@ -316,48 +367,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-diablo-4s-battle-pass-explained.md",
-      "title": "Diablo 4's Battle Pass Explained",
-      "excerpt": "2023 is already looking pretty stacked when it comes to big video game releases, and Diablo 4 is one of the most anticipated games on the calendar. Announced all the way back in 2019, it's finally ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-09-diablo-4s-battle-pass-explained/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4s-battle-pass-explained/ar-AA168WWT",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4s-battle-pass-explained/ar-AA168WWT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA168sUT.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=375&y=178",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
