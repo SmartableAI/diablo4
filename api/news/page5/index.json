@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-15-diablo-2-resurrected-forum-trading-blamed-for-diablo-4-changes.md",
+      "title": "Diablo 2: Resurrected forum trading blamed for Diablo 4 changes",
+      "excerpt": "Resurrected forum trading, blaming it for Diablo 4 changes as players speedrun ladder season two Fans are slamming Diablo 2: Resurrected forum trading once more following the arrival of the Diablo 2: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-15-diablo-2-resurrected-forum-trading-blamed-for-diablo-4-changes/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/forum-trading",
+      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/forum-trading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-2-resurrected-forum-trading-ladder-season-two-diablo-4-assassin.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-diablo-4-trailers-gameplay-classes-and-news.md",
       "title": "Diablo 4 trailers, gameplay, classes and news",
       "excerpt": "Diablo 4 has officially been announced, and thanks to a series of recent reveals, we have a decent idea as to what we should expect. This is obviously big news, given how beloved Diablo is as an ...",
@@ -1043,57 +1085,6 @@
         "name": "Sweet Phil",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-developer-update-closed-end-game-beta-draws-near.md",
-      "title": "Developer Update: Closed End Game Beta Draws Near",
-      "excerpt": "The Diablo IV development team is marching toward our announced 2023 release! Learn about our next milestone and how members of the community can potentially participate.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-developer-update-closed-end-game-beta-draws-near/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/g3/G3GCF07QODHW1662771897667.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
