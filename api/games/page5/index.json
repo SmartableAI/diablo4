@@ -4,6 +4,127 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/he-looks-familiar-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
+      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/he-looks-familiar-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/he-looks-familiar-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
+      "provider": {
+        "name": "He looks Familiar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-07-22T16:22:01-07:00"
+    },
+    {
+      "path": "_games/heather-haines-diablo-4-sorceress.md",
+      "title": "Diablo 4 Sorceress",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/heather-haines-diablo-4-sorceress/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/heather-haines-diablo-4-sorceress/",
+      "originalUrl": "https://youtube.com/watch?v=IisTBmALEFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IisTBmALEFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9S",
+      "provider": {
+        "name": "Heather Haines",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IisTBmALEFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-07-10T21:35:17-07:00"
+    },
+    {
+      "path": "_games/ibihs-diablo-4-new-barbarian-dungeon-gameplay.md",
+      "title": "Diablo 4 - New Barbarian Dungeon Gameplay",
+      "excerpt": "diablo #diablo4 #barbarian Below is some Barbarian Gameplay. You can see primary abilities in action, plus Battle Trance and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ibihs-diablo-4-new-barbarian-dungeon-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ibihs-diablo-4-new-barbarian-dungeon-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=zbOONAsh-Sc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOONAsh-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M35S",
+      "provider": {
+        "name": "IbiHs",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T01:11:56-08:00"
+    },
+    {
+      "path": "_games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps.md",
+      "title": "Diablo 4 - Gameplay Barbarian (2021) 4K HDR 60fps",
+      "excerpt": "Gameplay de Diablo 4 Barbarian (2021) em 4K HDR 60fps . #diablo4 #diabloIV #barbarian Novo Trailers 2021! Novo Games 2021! Inscreva se no IGames TV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/",
+      "originalUrl": "https://youtube.com/watch?v=lMPwhQRZxBU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M1S",
+      "provider": {
+        "name": "IGames TV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lMPwhQRZxBU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-25T12:01:19-08:00"
+    },
+    {
       "path": "_games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial.md",
       "title": "DIABLO 4 - DRUIDA - TODAS AS SUAS HABILIDADES EM PT-BR - NÃO OFICIAL",
       "excerpt": "Link da Gameplay: https://www.youtube.com/watch?v=uij9ysBKs4w&t=4s Lives nos Canais abaixo, siga pra não perder nenhuma! ⭐ Seja Membro no ...",
@@ -791,126 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-08-28T14:01:14-07:00"
-    },
-    {
-      "path": "_games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4.md",
-      "title": "DIABLO 4 - EVOLUTION OF THE SORCERESS - FROM D1 TO D4",
-      "excerpt": "DIABLO 4 - EVOLUTION OF THE SORCERES - FROM D1 TO D4 Sorceresses are of the Zann Esu Clan. Athletic, affable, and self-assured, Sorceresses hardly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-evolution-of-the-sorceress-from-d1-to-d4/",
-      "originalUrl": "https://youtube.com/watch?v=2kmG0225ORw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2kmG0225ORw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2kmG0225ORw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-15T14:39:08-07:00"
-    },
-    {
-      "path": "_games/smithtainment-diablo-4-skill-trees-update-sorceress-enchantment-system.md",
-      "title": "DIABLO 4 - SKILL TREES UPDATE - SORCERESS ENCHANTMENT SYSTEM",
-      "excerpt": "DIABLO 4 - SKILL TREES UPDATE - SORCERESS ENCHANTMENT SYSTEM Blizzard is continuing to keep fans abreast of Diablo 4's development, and the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-diablo-4-skill-trees-update-sorceress-enchantment-system/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-diablo-4-skill-trees-update-sorceress-enchantment-system/",
-      "originalUrl": "https://youtube.com/watch?v=KkTBaiXD_xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KkTBaiXD_xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M32S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KkTBaiXD_xo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-10-06T15:25:39-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING",
-      "excerpt": "NEW* DIABLO 4 BARBARIAN GAMEPLAY 2020 - MAGIC FINDING & QUESTING A brutal, physical warrior, the Barbarian roams around the battlefield ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-barbarian-gameplay-2020-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=PJFRQo7KDsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJFRQo7KDsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PJFRQo7KDsg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-06T06:11:03-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING",
-      "excerpt": "NEW* DIABLO 4 DRUID 2020 GAMEPLAY - MAGIC FINDING & QUESTING The Druid is a savage shapeshifter, fluidly transforming between the forms of a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-druid-2020-gameplay-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=-N605UTTviU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-N605UTTviU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M21S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-N605UTTviU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-08T17:39:28-07:00"
     }
   ],
   "nextPage": 6
