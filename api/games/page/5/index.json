@@ -4,6 +4,156 @@
   "page": 5,
   "value": [
     {
+      "path": "_games/kamahl-diablo-4-barbarian-talents.md",
+      "title": "Diablo 4 Barbarian Talents",
+      "excerpt": "Morning everyone, Kamahl here with another Diablo 4 Barbarian video. In this episode we will be discussing or well... looking and reading the talent trees ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-barbarian-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-barbarian-talents/",
+      "originalUrl": "https://youtube.com/watch?v=v59oO1y7lig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v59oO1y7lig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v59oO1y7lig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-07T00:15:00-08:00"
+    },
+    {
+      "path": "_games/kamahl-diablo-4-druid-skills-and-talents.md",
+      "title": "Diablo 4 Druid Skills and Talents",
+      "excerpt": "What's up guys Kamahl here and today we are going to have an in depth look at the druid talent tree and skills available currently. #Diablo4 #Diablo4Druid ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-druid-skills-and-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-druid-skills-and-talents/",
+      "originalUrl": "https://youtube.com/watch?v=VHmZp3VlH4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VHmZp3VlH4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M34S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VHmZp3VlH4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-05T08:51:59-08:00"
+    },
+    {
+      "path": "_games/kamahl-diablo-4-sorceress-skills.md",
+      "title": "Diablo 4 Sorceress Skills",
+      "excerpt": "Yo, Kamahl back with another Diablo 4 Character video. This one we are goin to be discussing the sorceress and her skills. At least as far as we can see thus far ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-sorceress-skills/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-sorceress-skills/",
+      "originalUrl": "https://youtube.com/watch?v=zO-DP_DCfcM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zO-DP_DCfcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M43S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zO-DP_DCfcM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-08T00:15:00-08:00"
+    },
+    {
+      "path": "_games/kamahl-diablo-4-sorceress-talents.md",
+      "title": "Diablo 4 Sorceress Talents",
+      "excerpt": "It's finally here the last video in the Diablo 4 Initial Class Over View series. This video is going to cover the Diablo 4 Sorceress Talents Tree. #Diablo4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-sorceress-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-sorceress-talents/",
+      "originalUrl": "https://youtube.com/watch?v=VLjJo1OeKqA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VLjJo1OeKqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M31S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VLjJo1OeKqA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-09T00:15:00-08:00"
+    },
+    {
+      "path": "_games/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments.md",
+      "title": "Diablo 4 Quarterly Update  - Feedback on Skill Tree, Items and Sorceress Enchantments",
+      "excerpt": "In this video we dig deep in to the latest changes that have been announced for Diablo 4. These changes include things such as the Sorceress Enchantment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments/",
+      "originalUrl": "https://youtube.com/watch?v=Mr1gylHtYQw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mr1gylHtYQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M",
+      "provider": {
+        "name": "KokushiGG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mr1gylHtYQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-09-30T10:23:08-07:00"
+    },
+    {
       "path": "_games/konstantin-stelmach-sound-design-diablo-ivs-sorceress-gameplay.md",
       "title": "Sound Design: Diablo IV's Sorceress Gameplay",
       "excerpt": "Original video by Game Informer: https://youtu.be/qPTOEGU04X4.",
@@ -761,156 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-04T01:16:56-08:00"
-    },
-    {
-      "path": "_games/sounds-of-sanctuary-diablo-4-the-druid.md",
-      "title": "Diablo 4: The Druid",
-      "excerpt": "This is a dedicatory piece for the Druid we remember from Diablo 2 that will now be making its way into Diablo 4. Music composed by Rob Tinney 2019 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/sounds-of-sanctuary-diablo-4-the-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/sounds-of-sanctuary-diablo-4-the-druid/",
-      "originalUrl": "https://youtube.com/watch?v=GXeDI56ENLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GXeDI56ENLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M33S",
-      "provider": {
-        "name": "Sounds of Sanctuary",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GXeDI56ENLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-16T06:58:21-08:00"
-    },
-    {
-      "path": "_games/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps.md",
-      "title": "Barbarian & Rogue Gameplay - Diablo 4 - New Gameplay Trailer 2023 4K 60 FPS",
-      "excerpt": "gaming #video #gameplay #trailer #new #subscribe #shorts #4k Please leave a Like & Subscribe, it helps the channel grow!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps/",
-      "originalUrl": "https://youtube.com/watch?v=omv3b5x6Guw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/omv3b5x6Guw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38S",
-      "provider": {
-        "name": "Tarnished",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T20:34:03-08:00"
-    },
-    {
-      "path": "_games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update.md",
-      "title": "Diablo 4 (Barbarian/Rogue/Blood Bishop/Skeleton Lord) Models Compilation - Blizzard Quarterly Update",
-      "excerpt": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021 Rogues - 0:00 Barbarians - 3:17 Blood Bishop - 5:25 Skeleton Lord ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-diablo-4-barbarianrogueblood-bishopskeleton-lord-models-compilation-blizzard-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=s_4j1pchpgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_4j1pchpgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M49S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s_4j1pchpgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:59:57-07:00"
-    },
-    {
-      "path": "_games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4.md",
-      "title": "Sorceress (D2/Diablo 2 Resurrected/D4) Comparison Side by Side - Original vs Remaster vs Diablo 4",
-      "excerpt": "D2 - me D2R - MrLLamaSc D4 - Game Informer.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/taylorar-sorceress-d2diablo-2-resurrectedd4-comparison-side-by-side-original-vs-remaster-vs-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=f_pnbHYtJl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_pnbHYtJl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M27S",
-      "provider": {
-        "name": "Taylorar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f_pnbHYtJl8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-02T09:00:22-07:00"
-    },
-    {
-      "path": "_games/the-void-diablo-the-diablo-iv-druid-thoughts-and-impressions.md",
-      "title": "The Diablo IV Druid (Thoughts and Impressions)",
-      "excerpt": "My thoughts on the Diablo 4 Druid ---------------------------------------------------------------- Socials ▻ Discord: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-void-diablo-the-diablo-iv-druid-thoughts-and-impressions/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/the-void-diablo-the-diablo-iv-druid-thoughts-and-impressions/",
-      "originalUrl": "https://youtube.com/watch?v=1KcqTsuhUw4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1KcqTsuhUw4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
-      "provider": {
-        "name": "The Void Diablo",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1KcqTsuhUw4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-14T07:00:01-07:00"
     }
   ],
   "nextPage": 6

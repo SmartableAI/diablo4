@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-game
 type: video
 length: PT12M21S
 publishedDateTime: 2022-12-18T12:00:29Z
-heat: 76
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
