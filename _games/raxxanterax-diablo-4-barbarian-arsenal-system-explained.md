@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-ar
 type: video
 length: PT7M17S
 publishedDateTime: 2022-12-08T13:00:00Z
-heat: 58
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V3uM_uPKpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "hSiRWuiye/N8t2LYEIDZChHEuSOmwoJ/M/21h++lCeN+6KU+Imgy2Bo78I8nwrCAEAsvuAintI7Tkg4FPCOS1f5rKYCU0RuE/OiftDzvWbLys5fRpJlh1K0Zho63wYhXtzJYyEgO+L0q6Mak4Uue7RlDI4rrR21t4sb4u3gLtBjW2edGp+bjlIWYhixINHe0JJ/K7X2hFHyoapOii2n2dRmXyNmHBtFfZ0JNyWyfDIJ61cvYrDR8FTAu7mVm4vV9vFgf1unV0YrjAJChlXJrRUnL+qB0MvFkN+GaHa3lkNnMzhSDHoEbOGwDIzRC0DgrmfAT5INLCbB6WqxtyRQwUPl0MTQEaMdL6FnIC6vK9xYAI54L6QzE9Z/iwxDM5kkiDObeVeBYqLEyuvWopMisP0H2+QbCy+cUxTQ/fJSIh6A=;ZKbVINl2iMLUlMRf/z7BnA=="
+secured: "cPNU9GpzjI9n9Q8g3fiQ9NzLQg85LIhjd6lUdlwS4R/7CaFx6M/r4TAAiapgPd291sC4sK9KqKQDjAvhdU9nd80K6vmRT/hJjSDN24buzAih5KbwDfw/qgevWKq2+H3/Cp56HcdFqPO7DQXL8UXOQu4yKA0Jys9FPzl9N7hASuhsSM/HVHZatE2/Ck3z3HCG39mN89bk0CpxNbR6Q0occw6v5VjfEaoym0F9GoaDefLL7AXpSsB0rxt3aLKHIUrtIXPJfietPuNwDEnxo8enFfPCW2OsHPFtvAMiJrCRtGg6sfvWRheoryqBALnZwCWMgCLpo+fNY7v7uUqLwgdoffkYsfubc2NCShGjGWIlMQG7H0kfmiQF8mL0/3tbO/pjjKjpRCbC8zdoveluD5/gMC3B/pxrgHEka2fKUk7N+A4=;qox4geIbFwnVOYVDds882A=="
 ---
 
