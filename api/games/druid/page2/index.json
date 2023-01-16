@@ -4,6 +4,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo.md",
+      "title": "NEW Gory Diablo 4 gameplay!  Necromancer, Barbarian, Sorceress, and Druid! #shorts #diablo4 #diablo",
+      "excerpt": "NEW Gory Diablo 4 gameplay! Necromancer, Barbarian, Sorceress, and Druid! #shorts #diablo4 #diablo Please subscribe for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-new-gory-diablo-4-gameplay-necromancer-barbarian-sorceress-and-druid-shorts-diablo4-diablo/",
+      "originalUrl": "https://youtube.com/watch?v=9Pgmj5gCcgc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Pgmj5gCcgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-18T17:09:47-07:00"
+    },
+    {
       "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
       "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
       "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
@@ -893,36 +925,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-22T07:00:10-08:00"
-    },
-    {
-      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p.md",
-      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 2 [FHD 1080p]",
-      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/",
-      "originalUrl": "https://youtube.com/watch?v=ku-rElv48ho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ku-rElv48ho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M21S",
-      "provider": {
-        "name": "GameWorld",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ku-rElv48ho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-23T04:20:19-08:00"
     }
   ],
   "nextPage": 3
