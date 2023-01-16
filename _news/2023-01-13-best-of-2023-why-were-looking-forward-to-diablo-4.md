@@ -2,29 +2,27 @@
 category: news
 title: "Best of 2023: Why we’re looking forward to Diablo 4"
 excerpt: "GameCentral previews another of this year’s biggest games, as the new Diablo sequel sets out to be the definitive high-tech dungeon crawler."
-publishedDateTime: 2023-01-13T07:00:00Z
-originalUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/"
-webUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/"
-ampWebUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/"
+publishedDateTime: 2023-01-13T08:00:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU"
 type: article
-quality: 107
-heat: 107
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: Metro
-  domain: metro.co.uk
+  name: Metro on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://metro.co.uk/wp-content/uploads/2023/01/D4_Rogue_CampfireWide-2c67.jpg?quality=90&strip=all&zoom=1&resize=600%2C337"
-    width: 600
-    height: 337
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16jIKu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=128"
+    width: 1199
+    height: 539
     isCached: true
 
-secured: "dUz+Ln7uTDMLAlRXGXrL1s5b+xaF278eGtolT5RvTiuW5ntXma3OBSbYE57ZllN3ffhAMoAhLPgRBTQ2YCGxbGgvPmSyvJ2+6pYu15ct8r0Dc9DOhTPnSalClNSmdjxEQJBtkPJfGEq0IXLtBGu90lZA/O/ZuyiRWybR8+zuWYbCOXNMoDR08DpFsBZy8rvlVEtpj21VdMcrEDX+8+Uw3Emn6+5j2oXZIdrm5XkiEl7V3Q0axuZrgc9OdWIEMicjkQ0DG5Zksp5Y4trHIk4UKqVuYC6x9La2j58SnfwwviNPAd1Z45nuLrj/Jhml0BSX2l1Vteo1hLe+k8Z3KMrVYm8BOnaYY7gK+AMeQOkSeYQ=;HIRrgKlLnAJl5ufvW/uQ4A=="
+secured: "VQxiJfwfq39DzGQPyxm/H9lI6WQtfkVqJ1SOVB0EWnSDpE5t/MowhakMa9ha6XFk8dQDPMMD8KdL3zpibDopk4ws+6hWtDC8A78C1CAxW6XMgmIVSwpfyRv5PD70CpKRJSYMalWwIxMfc2VYSRDTUY74SsASvIU3eTWALcCkytrQ0JIDLG1jmheuCtXFXBQlZ+25/Poc5yYHwIefMygiAdZTsiD7LOgy7duoAhNBuxS2g+t/c5A/UJtDu7vKosuUDreUB60smEjS/22TT8CSbYAy5IQ10HxxA3kpSxW5o0nOZy2whmathdn9xBuWSaB7jQp7A5Xx1cQ6PX2sNW5uKWxGB5TtxCVU4RM6hYJJttw=;5kqApiViGPA8hHABsllpBA=="
 ---
 

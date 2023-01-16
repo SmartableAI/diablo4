@@ -7,8 +7,8 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023"
 webUrl: "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: PCGamesN
@@ -22,6 +22,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Diablo 3 Schedules Likely Final Season Before Diablo 4's Launch"
+    excerpt: "Blizzard announces the release and PTR for Diablo 3 Season 28, in what is likely to be the game's final season before Diablo 4 launches in June."
+    publishedDateTime: 2023-01-16T10:54:00Z
+    webUrl: "https://gamerant.com/diablo-3-final-season-28-schedule/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo.jpg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "QmsKx8qIyeXoB3HUCvCsceO/dt7hT0WbiIiXA+5dSCY3Dwfp1dw+sGI3Iz2tO7LyeaWIYfKnauoGD9fPEZKJpowdNhIL3/YeObykozR1E7eHMEEMlh92EHNesuFDa8v8rbn4SktoHOnBoBw8lZ6F6gytG6retoiNnIB1xPGUk2+ux/3kHSeQMIVyauFsRC///H61zljU1pFH5w2rA4bS+rBs/dRX7BvO2WtR/9boJjdWLJbOE2GVjVa2dGVwuoCg77tvqcF3SGFjJy+jRXU9UPlI6nMU1aKkW7MDc0VDrDD7/G1C8v9CCelDbLUbmbqFytBW1dSIr4SVzdaxzTZaXAxFKmBxtWBZ3vEByhUBuYY=;pH/X38LYOou0yh1qJOEmkg=="
 ---
