@@ -1,32 +1,28 @@
 ---
 category: news
 title: "The Pros and Cons of Skipping Diablo 4's Story"
-excerpt: "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities. Another pro is that skipping the story can also save ..."
-publishedDateTime: 2023-01-16T18:03:00Z
-originalUrl: "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/"
-webUrl: "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/"
+excerpt: "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities."
+publishedDateTime: 2023-01-16T18:00:15Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pLXu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "RTYHp7dtWRhCNZt+/lVHkQe5V0D1iz6iunfconcvFg+sTF7Xzo9Y9Sums05xVSi9AJxCr3iBIo0vWCXQ/mlvx2i/IqfaNVnjPqZD31uxuaderyfsKBKBcNM4+fSSwIhcEfYpFtJ/gNz3/tE620/wTJPnzW+26H1WCGyeF+inMWdObadoTPX86xXXO3gCZmSDRqdXoWnaSSvYHR1Vn9rhMSB5sL5i7fdMx6iwZRfdYA+QABkBVdsnpnpO4Bw8tHPERFUzueus8Y+ykLasnotHMk2RKMo+hHo05JknVkENQx/4K4U5Pc6o40D8hQTzy2w35dlDtGcJ31dEW56jl0ejEj5iOYiDuDjgmjVyXoYXFg4=;XdFsghuEPlPBBdQudZTnNQ=="
+secured: "KM8dONSkec9whf99CyFvhSdhkw0Ymw476DeSE+TE8lLkqzGwdjo62c9u2VG2UaB7pQ2iGPu10YYBpNGaHzxJTCZU/+jyuNtcD8g6TZ1Gba681y0EIJGrt5gTESmGmFMTmbS9vVvLglF6ghu1bY8WJ7qrcoIdItKnTgJbRVcj+UPJ+scltJGQ0h+WYgqOE+2jyum/efWHNT1zLCuPocHZUhXuQS5/6zPlLp2GVjxa7Rp/4tiApqO3d4ejAj4BRuv7lbW9idRmYnRLTmfBVLhr7TBSGEZ8UtqGNbsEasQ9nnPYcE0zGJeGE0MJ+8lTkhLAVU5BhpVjHWhpPGASJRqLR8k98QQD6IKXzfJGH8vEr28=;FWF3Z+WAI4v9s+bkzfJgAw=="
 ---
 
