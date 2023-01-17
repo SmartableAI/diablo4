@@ -64,23 +64,23 @@
       "publishedDateTime": "2023-01-15T00:51:43-08:00"
     },
     {
-      "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
-      "title": "DIABLO IV - NEW DRUID GAMEPLAY - 2022  BETA TEST",
-      "excerpt": "DIABLO IV - NEW DRUID GAMEPLAY - 2022 BETA TEST Enjoying the video? pls make sure to subscribe for a regular dose of top ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/",
-      "originalUrl": "https://youtube.com/watch?v=F5JP4w0YGa4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F5JP4w0YGa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
+      "path": "_games/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps.md",
+      "title": "Barbarian & Rogue Gameplay - Diablo 4 - New Gameplay Trailer 2023 4K 60 FPS",
+      "excerpt": "gaming #video #gameplay #trailer #new #subscribe #shorts #4k Please leave a Like & Subscribe, it helps the channel grow!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-barbarian-rogue-gameplay-diablo-4-new-gameplay-trailer-2023-4k-60-fps/",
+      "originalUrl": "https://youtube.com/watch?v=omv3b5x6Guw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/omv3b5x6Guw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38S",
       "provider": {
-        "name": "Gaming Rush Tube",
+        "name": "Tarnished",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
-      "heat": 143,
+      "heat": 110,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -91,37 +91,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-18T05:00:32-08:00"
-    },
-    {
-      "path": "_games/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming.md",
-      "title": "*New* Druid Hurricane 4K 120 FPS - Diablo 4 #gaming",
-      "excerpt": "video #new #shorts #video #viral Please leave a Like & Subscribe, it helps the channel grow!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming/",
-      "originalUrl": "https://youtube.com/watch?v=8ox4FRpCLaU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ox4FRpCLaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12S",
-      "provider": {
-        "name": "Andy Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T22:22:39-08:00"
+      "publishedDateTime": "2022-11-27T20:34:03-08:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -216,6 +186,36 @@
       "publishedDateTime": "2023-01-10T08:47:25-08:00"
     },
     {
+      "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
+      "title": "DIABLO IV - NEW DRUID GAMEPLAY - 2022  BETA TEST",
+      "excerpt": "DIABLO IV - NEW DRUID GAMEPLAY - 2022 BETA TEST Enjoying the video? pls make sure to subscribe for a regular dose of top ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/",
+      "originalUrl": "https://youtube.com/watch?v=F5JP4w0YGa4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F5JP4w0YGa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "Gaming Rush Tube",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-18T05:00:32-08:00"
+    },
+    {
       "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
@@ -306,36 +306,6 @@
       "publishedDateTime": "2023-01-10T08:47:30-08:00"
     },
     {
-      "path": "_games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you.md",
-      "title": "Diablo 4 SORCERESS: 5 POTENTIAL BUILDS FOR YOU!",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Sorceress 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=4Z3rnnj3lbI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z3rnnj3lbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M11S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-07T09:00:03-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -364,6 +334,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
+    },
+    {
+      "path": "_games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you.md",
+      "title": "Diablo 4 SORCERESS: 5 POTENTIAL BUILDS FOR YOU!",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Sorceress 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=4Z3rnnj3lbI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z3rnnj3lbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
+      "provider": {
+        "name": "RustyPieLover",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-07T09:00:03-08:00"
     },
     {
       "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
