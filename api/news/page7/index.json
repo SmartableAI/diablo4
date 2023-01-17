@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay.md",
+      "title": "Blizzard Says Diablo 4 Microtransactions Won't 'Affect Gameplay'",
+      "excerpt": "Cosmetics will give characters new looks but won't make them more powerful. Diablo IV is set to launch sometime in 2023. On Thursday, developer Blizzard Entertainment unveiled its plans for the game's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/a354bfe45dc7f8f840e62c71d9070a52968186d9/2022/06/03/0b432133-a175-4f5a-9ccb-a7f1fc159b22/diablo-customize.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
+      "publishedDateTime": "2022-08-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3.md",
       "title": "Diablo 4's Paid Battle Pass And Shop Will Be For Cosmetics Only, With Seasons Modeled After Diablo 3",
       "excerpt": "Players won't be able to pay for power in Diablo 4, as Blizzard outlines its post-launch plans for the highly-anticipated ARPG.",
@@ -1024,48 +1075,6 @@
       "provider": {
         "name": "Gameranx",
         "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update.md",
-      "title": "Blizzard Gives Diablo 4 Fans Hope With New Update",
-      "excerpt": "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
-      "publishedDateTime": "2022-06-17T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
