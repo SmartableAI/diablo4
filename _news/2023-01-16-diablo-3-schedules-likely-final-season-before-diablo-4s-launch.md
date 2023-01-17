@@ -2,29 +2,25 @@
 category: news
 title: "Diablo 3 Schedules Likely Final Season Before Diablo 4's Launch"
 excerpt: "Blizzard announces the release and PTR for Diablo 3 Season 28, in what is likely to be the game's final season before Diablo 4 launches in June."
-publishedDateTime: 2023-01-16T10:54:00Z
-originalUrl: "https://gamerant.com/diablo-3-final-season-28-schedule/"
-webUrl: "https://gamerant.com/diablo-3-final-season-28-schedule/"
+publishedDateTime: 2023-01-16T10:47:16Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4-s-launch/ar-AA16prqD"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4-s-launch/ar-AA16prqD"
 type: article
-quality: 127
-heat: 147
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pybk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +39,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "8n0C+EJ81VnlycroatxqBtH08ris8+ElEEWPGUuEKswQJA2I1P0HAi9tPRIE1YsySjmgtZzRoA/0wjIm4Zo3PuTd/QpNeMVEwz0lPPBMNg189eFv7SbqdImeKZK04VMxQdgt5Ps8N4ee5JDUQHQ98XZf4con/ve/qlp+odlPcGCPmIEVcQ3Ca5vWckUAcbY+REgv3bdkJFfBP3nTnkckLNuSfWvrNqPk6CgAgTv2vjytvYU+nH/aSYQfVVGzGxp3De7l+tfcI3bb0Z6Tb83ULUJYmznpNxiUr8ApIoQ9RhU+pvSg91cFV4WPmFS0+g279nJ0QBthppXCReDlE3d06RAoIfR+/0g2oxz5hJ4l15E=;O2pxVzEWqDl/WKzi+QxfMQ=="
+secured: "gfpk5syZvcDZDlSgH4iLL8bw0zrgVM3XFT2c9xbQvtQLdqTOzbc2i0wVV0EHT3YKkbIfRypi+bMK+WoumU5ifJLWP2w8ohQ9lmBI98pN4hkOf63BNjq8lhLvaqRhfnSWiXUTWQ9xUjkAOvLLYvIe9LTRKZBy3jrUKq+tU+t+74W2nuJ2xrmVL+QkueTdvh2sSpNLTPAfrJYUwMefwTkpjQxy/HlCvvnjERDXQYkhTePmJZnNTOfjyCr1T6LNIpKZ+vQGIVM/4a9ozyJThDmxMKM1N3283l9M21+MeyRyX265r35aeNVhVmMnEN/yiNESdBa01qFHj8iklMC5/VfKgw9Zd+Y6NkFcblHWYZ4qtc8=;IQc+iI0J7OBx/pgIPfwYzg=="
 ---
 

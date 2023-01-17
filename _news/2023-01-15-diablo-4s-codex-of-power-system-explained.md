@@ -2,29 +2,25 @@
 category: news
 title: "Diablo 4's Codex of Power System Explained"
 excerpt: "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds."
-publishedDateTime: 2023-01-15T13:07:00Z
-originalUrl: "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/"
-webUrl: "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/"
+publishedDateTime: 2023-01-15T13:02:45Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-codex-of-power-system-explained/ar-AA16nj6E"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-codex-of-power-system-explained/ar-AA16nj6E"
 type: article
-quality: 127
-heat: 147
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-codex-of-power-v2.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16neBp.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gExbIAvAikTlr20CwO8T+Ygq4XBq9zw8EDwYzmaEd3Ake91yjFmdLJPDxoIOfRDbbJrt+3KjYtpTcNky5BjnU/F+63+cGJ+v2dwjsr7gLVtbgtnHOqXgb1shGEZZsmf4lcpCsVUp381JS5y1O8P/eHuIiT1kNB4JhaFtY3fyL60/zKdUIXaaAsPKUf7U7lsyOx0vR8Y+G93Cx/n6qeJiEYgF1/Twzx0EtVx5t2hmiJR8qTh07RavZ/L6u9qoy2sGpX0P8a92HGC5OiqGIfilWkrShRjXMfNq1it9Y2Lblj7k4DuyJUdIZ4sondaUTLUd9rG9FHRkHLq8rT8zFzFATXfvxwAZLDbmJ05EUyOxAX8=;88MzKZRx19gpYrL1uS5gMA=="
+secured: "YffYuPIuvr3RxeeqM70zsrgpbRB2CZ9qguIgEkb1WayEn/xalbLFqM+JzyJ80XpdKaAs4TkFtST4wpB0w0oaAZCcyfIjRSovnY6U+wR1RmXzd8avPn6YHq3nKNsLzU5cSXVlFLqUsLdPJ1J47q5zMXzHvfAB8FPBgVd3gGi9uSO438qkFZnjMeKmYrlkp7e7DwAICpqjnLrt/QtVf2Ws7ir3Hv8TLZii2efd2Xo+yZxDvwxRK8+WnSDUPiweA8yhhGovCYQmi7N090tlmKMaix5b9KsLe19BJGJ2Pskv/5j6jopxYik9MOx6I6MuSxNPHS6/3KmaeZWEXN+ySCh1Cr21TObcG4qKh8tRqnVdffI=;iLcIknHd7RXZ7HuRSb5GWg=="
 ---
 
