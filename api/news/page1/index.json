@@ -6,17 +6,17 @@
       "title": "The Pros and Cons of Skipping Diablo 4's Story",
       "excerpt": "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-16-the-pros-and-cons-of-skipping-diablo-4s-story/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu",
+      "webUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "originalUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pLXu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg",
+          "width": 1800,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T10:00:15-08:00",
+      "publishedDateTime": "2023-01-16T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -90,17 +99,17 @@
       "title": "Best of 2023: Why we’re looking forward to Diablo 4",
       "excerpt": "GameCentral previews another of this year’s biggest games, as the new Diablo sequel sets out to be the definitive high-tech dungeon crawler.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-best-of-2023-why-were-looking-forward-to-diablo-4/index.json",
-      "webUrl": "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/?ico=related-posts",
-      "originalUrl": "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/?ico=related-posts",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/01/D4_Rogue_CampfireWide-2c67.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
-          "width": 600,
-          "height": 337,
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16jIKu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=128",
+          "width": 1199,
+          "height": 539,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -108,13 +117,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/",
-      "publishedDateTime": "2023-01-12T23:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
+        "name": "Metro on MSN",
+        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

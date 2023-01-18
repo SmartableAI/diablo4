@@ -2,27 +2,31 @@
 category: news
 title: "The Pros and Cons of Skipping Diablo 4's Story"
 excerpt: "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities."
-publishedDateTime: 2023-01-16T18:00:15Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu"
+publishedDateTime: 2023-01-16T18:00:00Z
+originalUrl: "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/"
+webUrl: "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/"
 type: article
-quality: 87
-heat: 87
+quality: 127
+heat: 127
 published: true
 
 provider:
-  name: GameRant on MSN
-  domain: msn.com
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pLXu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
-secured: "P9ESfl8YQ1/tm7eumw3VY+po8P5OhPi7RDmEXKzSgquuQRKXImiWQ/WdGpxnavjznFBgrb5lrf5L3cWWfN7jnWCKQPQ97FENyDjqrPBNJdJuVdon7lytDa2v8o9ecQ+lJWIpVdcqdwty30p3XXCEOFeobEso4ZqzTkvpSkRY5LrEqykwL2fXTb/ALErwhenuGFQGIYB1UXrtHUkv8KxZDNlmZDJj0EzINhtfrAqC6/7O/dMtlciWRpem/KjPWGz038GwrWswR1PrB5vQVIbwLMMyS6PkQuxvqkjeOK6ht3i5/A23xVYuqmY11VsCGQFpIpqH31BGQprmbnED/YEZxcKGTsZ9LMi7O5ONOfoqvfs=;mDYueVaLGrRRHu3i7xxxlA=="
+secured: "6Vn/9ZBc/mdVMy6Tny6Xq+Z5gW3OjVpTHmM0detKOCJr4BqmqcXbfU5bgn9mO9H7wGF/JmPkB+T6V7neYDCDDukkE+T/RmD+VR0zrNR5NFsdXg2SzvfoPJIEmX8s/v41mf3Q0j6kQSV+OnJM9W7ElIqABVDeWhvd7wPsxxC5+sXp2U3pkKpFczt7J+HZdUArr4xbqXRuALljUI8qQF5Hq2T1egkHZsKc4GCizpv7z+i6Se3pC5+H6GhjEJsz1hNt0ZSFXniOSTklij3gTtG1zWSJynDIvfnlzJin90NAhWI3c1MfQEMBUW0lgr6FFMkTSvSRmSN7EYrBjnIj4bOLmuj2E9YvKXYsUC/WlUkURe4=;+nlKdhpPGjIYfgJLFqk/NQ=="
 ---
 
