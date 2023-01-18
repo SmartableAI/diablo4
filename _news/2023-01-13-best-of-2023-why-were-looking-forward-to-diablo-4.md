@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Best of 2023: Why we’re looking forward to Diablo 4"
-excerpt: "GameCentral previews another of this year’s biggest games, as the new Diablo sequel sets out to be the definitive high-tech dungeon crawler."
-publishedDateTime: 2023-01-13T08:00:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU"
+excerpt: "Since Diablo 4 is out on June 6 this year it’ll likely be released long before the acquisition deal goes through, if it does at all, and so it will remain multiformat, even if future sequels ..."
+publishedDateTime: 2023-01-13T08:40:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-were-looking-forward-to-diablo-4/ar-AA16jxSU"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-were-looking-forward-to-diablo-4/ar-AA16jxSU"
 type: article
 quality: 87
 heat: 87
 published: true
 
 provider:
-  name: Metro on MSN
+  name: MSN
   domain: msn.com
 
 topics:
@@ -23,6 +23,6 @@ images:
     height: 539
     isCached: true
 
-secured: "1Jh/3NKld7dX714j9gIXsDDSiizeIUYe69ALfWeqz0MwfBKCJyqbbCv8klo8R38qtRgocnLQeNGc8pGVyeuw5K50XCrqqQWzMgkYrbVTjvM7BxZdd5P2O3kMyLDCQEo6HCf42TgQt9JweHUwM3IQKqSRAVAWPaXuJF1OP4nZWqgtTWyVtmDn5dcH5Razq9f95Fg2M1sFfTAWJ2MvxJfLnqRBv7yYWQvQxrJhXVS5ET1pMQGKUsOuYl+fTrfpKV7vXCaeuV3avhK7orOFQg5gny2G1bCKdpC8x+NLphxDfVW8Of6zXvwC740vm5j3Dgl4eVeW0l5IDDwBYus0iAb9t0qOVla7Q/p5pJGCw2zGzuE=;/nOsLleYpEPUd/1ITMRx7Q=="
+secured: "Kzo9LlQDr3z1f7TEB/CSwl95QBRbQlk2nWKZjuLqHjEr8ca0H35SdKzxQnNM8gdCCxH4HNKTum61C2SlPhbEkP6Dxra4dwT1nkhqtTJo7czI4sEMYDgm6at5lRYPNeobPFewjRw/AJV9nkAV8rufPwfv3SmWlyi+4k6FTzaZvB7fACYHgqjqDLnirOj+IIluRBkVGnTxKuoN8XiP4xi/6/HqMgi6GmKITfjeesBEztHbzu+H1tD1Njf/spVwaVp0D/BpkLhh4VjB9tJRA37qXlcwDhPymR/0DJA0RIuYeqoYJ+1P9evASZIByxOtovMdB4o60teL7PiUjHdtIeLQGJlMnYhwDlKCnwJ1YUnLyns=;QVHniQJU779wr1b8MKCo3Q=="
 ---
 
