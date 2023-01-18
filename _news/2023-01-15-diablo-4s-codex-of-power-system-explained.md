@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-15T13:02:45Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-codex-of-power-system-explained/ar-AA16nj6E"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-codex-of-power-system-explained/ar-AA16nj6E"
 type: article
+quality: 87
+heat: -1
+published: false
 
 provider:
   name: GameRant on MSN
@@ -14,6 +17,28 @@ provider:
 topics:
   - Diablo 4
 
-secured: "okbN4CswMFEqNNHvvNX6iivNDLPs4NkSCv3urNyA+QJSePGU3AielfeRbNyenlMbnS+TjWv1g9vXGmRxP/Zel9G9Rz/TYoSrSi3hpVyQUMKbf3c0QfXang/gKGlOoMpcFCeomA+UILO5Pn1h+GW5lVR8EdKM4sU4woLvUhUxOF8+Rwbnk/S7QQGq8HribTbKocKioeOIb3r7p2hvNm5m2n8/vnS6kTrZTqyAzxpb72EY6Dmbo7FIVOW4Aou8ZyRLnC3aWXm16Fyz71ILV3pRTkAIfTPBt30ntLJicdg8POYJrNyL6MQsg0Dd5Id+goKnjt2Wt/0PAnSgp279K8w4G4dKhOqSmY+QgzrsjwdBt1o=;lX5j7JTxetq13PRqw73R4w=="
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16neBp.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Diablo 4's Battle Pass Explained"
+    excerpt: "2023 is already looking pretty stacked when it comes to big video game releases, and Diablo 4 is one of the most anticipated games on the calendar. Announced all the way back in 2019, it's finally ..."
+    publishedDateTime: 2023-01-09T11:34:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4s-battle-pass-explained/ar-AA168WWT"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA168sUT.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=375&y=178"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "AtgzTw3v9C7E0Wo/yWqQZTe5BYdFO39W86ll/vKIZhsjtrQOsHxmiC0h1Ps+oGAXTXknFcTxgEXoDqLRXk7MZJsZ9SsadYm+51srthw1f82e4H+Acebf6KuSWKA9eUSdUm/dFI40APOSdf9YMY9yBuw0hZuEa5UoQoEyCtJAwgoqQFB7ZXDUU+8L71TwyoQoGgUSBUJcKgdvAiU6+E5qQofUefEdlMiYA/bUe//Jzbaeab1EDchD6KYV6OQFIX0q+/saKe39Oat9eVy6Vy9/b+cmIHpAEvMNomzBdCKw1pkNcFpOwCXAKRsZ8seJ9pgH41ZnHZzJenlBEiEsKeXjqtvjj/BhY2GycF4LRz/oN00=;YmyunXrCKW8ZseUFiNLzYg=="
 ---
 
