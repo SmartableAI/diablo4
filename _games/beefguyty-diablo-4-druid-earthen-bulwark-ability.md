@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-
 type: video
 length: PT8S
 publishedDateTime: 2022-12-24T01:00:01Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "E/8UygK6zLnolX3uBnueqhnAEdHZCOKlX4fmSW4pvMsMjl9S29w4VONboVlre4HE2k3C/iL99KHOr++BuVpbqfvZyliMEr1X1tAhr5V6ZF6juShO75WpOjpD1aNZV5vAJzHlF+B7WkGrk8BRUfE5zJvxr1hVf8NLb1/3Ffk6xdf0TdVOzRK35y005FyCti2n9Rz1+WNEfxj3/0utmYBHZR1Ey3KmHXeSp4M+tFDDQ/OuvlssV7PIW32lyhpmURN9I7DsvKHiMgr2ZFug47qPUxowAg0ae9VlisTLiqGxDP3VY4tcaRjyXbQNwHzUeh+hnBNqjQnzeaYWdguXPizdXusw7FDTSi/jxpnKgV0e9oW1gemc2XTED18nKm6vGE6cq93bDhB4K2wXtsFNeNzIHr/TXMEq47YLeB3em5AF+1s=;ClaqGSPUXTg/89xbGwcHPQ=="
+secured: "7wRGmiGrQfkQIl+zAbUq3u/TNQYhMk61Nsgbq5XWcuroqtP+iWTPry5+YZVl+ypQAFi493/S9uEyKBPBQS07DV7LAOrXdwHyqSgZR6Ts8+TAPuuGUEchQSPoTHZhQB1UhvhJVUhyyEHgPkGjCVZxdaviGEUfw0PLuu5J2JlNJ1PdtkKzyNvCginKlQHfO+eFACCGURQKGsDEKqu/nP5M6ShI08VLO5UheEf3Se/rpHqL67mswuopuBivUL8ycU1J4/dOW2P1Dc4G6oX8+y768sE835sy5HlRDXVxLzVuDVZX5a9OJQHEQADEf1mXF/CJq6cHC8mb5+MongvTHJsPb4VqT2uHxfGzDUKkThh2pDiuWGnnw9vQv4zGC8TteCdl/+MTn5YVSTa/FNKGKFu1FRH4w04XKf8z5s617N69rs8=;FxupXKnBH0yEzq+wszkJ0Q=="
 ---
 

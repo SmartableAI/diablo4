@@ -6,9 +6,6 @@ publishedDateTime: 2023-01-13T08:00:00Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/best-of-2023-why-we-re-looking-forward-to-diablo-4/ar-AA16jxSU"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: Metro on MSN
@@ -17,12 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16jIKu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=128"
-    width: 1199
-    height: 539
-    isCached: true
-
-secured: "AAePebyOuSkOho8BmhP80PutOozlkknBcoe0CKIOuS2lNVEiL76Z7MTXgfTsMaeoaTbLKSNWQS3lNtXd8w8c9XAFK2YN42Z9X/Ezc9dCrIUGtRAyMAvMDPE9VHSIzbCisyvvCqhQsvAm9BjikRVJcVuSbZhGaO9cdYQntf2o40ajqDnBiY+gu4J31r9xmg1zFyAdm3dO8x8tlpVcCctsqHPC5esVyn7BXms04tWGKaCwFUqRAW4KDgnJTlIHuEd1zh9Gt4hqqFrkAV63eEjunqhKBXnc4qHxarmg7I2AvoRgY1v36nlNrFAU2eK7EDZqsEbJNn7DnhBF+jvj9uFLri3Efc2Mn+IHbvA3d+szVHw=;XDJNVQkDPc11UXui0OFUjQ=="
+secured: "OnuO3yfApkRK3zUSQex5q71baNN+4Ii1kJ1w73iJVBzEajzVF1gzOubVkfQzRc8c/Nwo1rPhF1Vz+e9h5Vtdh4jXqe/bW2Lfq0+maY/O+NgiBuUJr8J+bD+2Qf2W2zJYltSDuJ0h6sQnQXi+2l03l01uGbbWjDZlXzJune9Izr82Ixim5S9XkpDXtPJd9rJnQiF3WXsDSTZj3doMcnl+KyzEUJ1kYWgnG8BkO33yxo2yGYA97MwmP0yFUPQka4GHamcOehPhDdGjX8HcvPt1RKQ+dT15x9RWbs963mu8UMaU3ldz82ru1ZnCR1lKI54nktYa43IfOzs4zQNgwHI9kuEvRpYhU5H4ufKZVPBnWSg=;utPpwOtuyHuXU4aVbxpMXQ=="
 ---
 
