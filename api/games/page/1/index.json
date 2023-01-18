@@ -125,6 +125,36 @@
       "publishedDateTime": "2022-10-26T05:10:53-07:00"
     },
     {
+      "path": "_games/xtimus-diablo-2-druid-returns-on-diablo-4.md",
+      "title": "Diablo 2 Druid Returns on Diablo 4",
+      "excerpt": "Xtimus Like and Subscribe to Xtimus for Diablo Content. Join the Notification Squad: Click the ▻Follow me. Twitter ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-2-druid-returns-on-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-2-druid-returns-on-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=yxO0jX6j2ao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxO0jX6j2ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
+      "provider": {
+        "name": "Xtimus",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-11T06:00:38-08:00"
+    },
+    {
       "path": "_games/barricade-ttv-diablo-4-sorceress-offensive-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - SORCERESS OFFENSIVE LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
@@ -153,36 +183,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-15T22:32:20-08:00"
-    },
-    {
-      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
-      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
-      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
-      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M9S",
-      "provider": {
-        "name": "Arekkz Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-08T07:00:14-08:00"
     },
     {
       "path": "_games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv.md",
@@ -337,36 +337,6 @@
       "publishedDateTime": "2023-01-10T08:47:25-08:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power.md",
-      "title": "DIABLO 4 - BARBARIAN RESOURCE, MOBILITY, UTILITY LEGENDARY ASPECTS - Codex of Power",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource, Mobility, Utility Legendary Aspects you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/",
-      "originalUrl": "https://youtube.com/watch?v=z_03dGAzoEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_03dGAzoEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 79,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-09T04:53:33-08:00"
-    },
-    {
       "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
@@ -383,7 +353,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 79,
+      "heat": 81,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -455,6 +425,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-07T09:00:03-08:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power.md",
+      "title": "DIABLO 4 - BARBARIAN RESOURCE, MOBILITY, UTILITY LEGENDARY ASPECTS - Codex of Power",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource, Mobility, Utility Legendary Aspects you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/",
+      "originalUrl": "https://youtube.com/watch?v=z_03dGAzoEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_03dGAzoEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M15S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-09T04:53:33-08:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",

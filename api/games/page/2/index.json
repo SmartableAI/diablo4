@@ -274,36 +274,6 @@
       "publishedDateTime": "2022-09-17T12:05:13-07:00"
     },
     {
-      "path": "_games/xtimus-diablo-2-druid-returns-on-diablo-4.md",
-      "title": "Diablo 2 Druid Returns on Diablo 4",
-      "excerpt": "Xtimus Like and Subscribe to Xtimus for Diablo Content. Join the Notification Squad: Click the ▻Follow me. Twitter ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-2-druid-returns-on-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-2-druid-returns-on-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=yxO0jX6j2ao",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxO0jX6j2ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M12S",
-      "provider": {
-        "name": "Xtimus",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-11T06:00:38-08:00"
-    },
-    {
       "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
       "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
       "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
@@ -574,6 +544,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-11T13:14:49-08:00"
+    },
+    {
+      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
+      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
+      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
+      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M9S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T07:00:14-08:00"
     },
     {
       "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",

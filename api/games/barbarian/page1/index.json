@@ -95,36 +95,6 @@
       "publishedDateTime": "2022-10-26T05:10:53-07:00"
     },
     {
-      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
-      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
-      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
-      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M9S",
-      "provider": {
-        "name": "Arekkz Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-08T07:00:14-08:00"
-    },
-    {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
       "title": "Diablo 4 - 33 Minutes of Gameplay (Druid, Barbarian, Sorceress, Rogue)",
       "excerpt": "Diablo 4 is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game was ...",
@@ -173,7 +143,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 79,
+      "heat": 75,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -733,6 +703,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-08T05:00:00-08:00"
+    },
+    {
+      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
+      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
+      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
+      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M9S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T07:00:14-08:00"
     },
     {
       "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
