@@ -3,8 +3,8 @@ category: news
 title: "Best of 2023: Why we’re looking forward to Diablo 4"
 excerpt: "GameCentral previews another of this year’s biggest games, as the new Diablo sequel sets out to be the definitive high-tech dungeon crawler."
 publishedDateTime: 2023-01-13T07:00:00Z
-originalUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/?ico=related-posts"
-webUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/?ico=related-posts"
+originalUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/?ico=zone-post-strip_item_3_entertainment"
+webUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/?ico=zone-post-strip_item_3_entertainment"
 ampWebUrl: "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 337
     isCached: true
 
-secured: "4JDA0E/WaM1eScRbrfUgUv7173Y5KHJyowHGACtAwJA12Gs8g6YSTgxfk7wriKe46Kl/k1r/Kt4mSv16xApbJT5Es8tohYouNU89amglZUpYmege6c8dGuHCD5oLPOGT4TtOugTGfxpFyBGhtmU216EhDW12vAUHumw3iThamCIEk9nBwsiUVJSuUSrP4dnoD06dfsSwb6zus+m1E7IQ6xB8UfYwGKe6kuKB6ckapQhsy8QppCuguWulMljhoMNG9ghAy+SRpIsyekGp/3eT50RxrwUl8YlyNR6L5Um+FykvVyKdTMXwzD7QJF40oPvNJsxQ9A21oWdhfLZ9rDBzQZud42aibo3t1fgJOtVfkpE=;s0WHn9aZJQgajr2my+sSNw=="
+secured: "m9KnO4BVK6Pe/FfZGvRvU4ZytTP6mpi0jIPHfQ3crvTZ9W/Szo/bMayPzgj2YJ2rxmipHBn1VNJoFks4rxEwG/1Rx6Dsv72wlJmCROEfhw/z/l5JICdo2LPMp3fAWV5ncEAkjhpvQ6+KcBzJuF5peV0kWPzsjr5zuqNdBsJ7rm6TLbbwXu1uw0c48W7H4HEuhgDTvRroPLYO4/hdBPqk83IUOXM6rv5RrDHdZqiXMxKMr/npY9NZIF0narI+HOq8bBuHaR3A6ruRktFNdRS2iF8UafwEfRx4ayUyZONmSgPbg1HHAAnN/y1r/SWKofKXQbE7u37RKC+umn1eCA9WTRmRZNU/zPcx/N9PehK/OIE=;W4nuH0zu3IdiAVYARQgv/g=="
 ---
 
