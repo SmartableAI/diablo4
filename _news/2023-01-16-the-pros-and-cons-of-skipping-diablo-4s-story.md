@@ -2,31 +2,27 @@
 category: news
 title: "The Pros and Cons of Skipping Diablo 4's Story"
 excerpt: "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities."
-publishedDateTime: 2023-01-16T18:00:00Z
-originalUrl: "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/"
-webUrl: "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/"
+publishedDateTime: 2023-01-16T18:00:15Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/the-pros-and-cons-of-skipping-diablo-4-s-story/ar-AA16pYYu"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pLXu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "lOHcgaehe7QkNTCN0Tzwu409ecdDd68la/G4EnC0vwnzZDPxqXPRPFR1D+ePtH1lJsv57HjwBODpgwvx/gu5rAEQoOcW3jDQSqEhxVOCdhAcgj7unjBU/Iji8yur0rl+d3xlN6PjXzh5XNWjs8m+rkp0PeL7z1x8fK76JQaKtcaZ+bc73MiomL7jJeuOUTaLHKgloM/r0HlcKbWuqU1AOOhrG+n+SwJ3nB+dEkYLNMigbAyy6bJP45XH29LSg3vFzL4h77QVjGPHGhlEMOvVFdGBU/o4Kkf0DhVpY7JvAdvKb77VT0SkET+31FmIuCBOmeST2mU/4/AXEOf+h9PD8o/lCJZE0na6VROWYw+UfvM=;pZejLeM5gM667HvcrLYfVA=="
+secured: "gn49MdzZkTux+RDJD2/PHdC2dpF4n1FVf/Z7yVMA4sMIilapVxZiOLDO6fKWZrE1gxdV2+Fl2uUXvu47/obZX1+QqPf/oaTMAW5CvZhd9XilrdvHlNdAcan/g5HHCRspXUW6/VKaaScdZCRRxnneo1W9p1S19sBGR/aq/LdXO+Wpu2kvXZ5sToD0OhIR/IzrN7V4iw2+omV+YAwsUQjGSbZxTvP84d/25Hw0aD2Pp8beB/MnBJ4IeakPiXL6trVqpiKpPhO1wcb2IBzDERhH/wUpoI88P/qkX0ObCZ+Ys8U2VqDnczwAG2csHSAm4K1KuYfccg8cxDILLnfIjVviHKNGPwH2/kJhSCC2Cl1YvhQ=;B6+MxEVSy2y6L2mH0MXrCg=="
 ---
 
