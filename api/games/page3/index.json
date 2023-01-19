@@ -4,6 +4,36 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming.md",
+      "title": "*New* Druid Hurricane 4K 120 FPS - Diablo 4 #gaming",
+      "excerpt": "video #new #shorts #video #viral Please leave a Like & Subscribe, it helps the channel grow!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming/",
+      "originalUrl": "https://youtube.com/watch?v=8ox4FRpCLaU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ox4FRpCLaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12S",
+      "provider": {
+        "name": "Andy Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-27T22:22:39-08:00"
+    },
+    {
       "path": "_games/beefguyty-diablo-4-ability-double-swing-barbarian.md",
       "title": "Diablo 4 Ability Double Swing - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -392,6 +422,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-02T15:00:31-07:00"
+    },
+    {
+      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
+      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
+      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T12:00:01-08:00"
     },
     {
       "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
@@ -850,68 +910,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
-    },
-    {
-      "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
-      "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
-      "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=8qjAiki90cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8qjAiki90cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M46S",
-      "provider": {
-        "name": "Bluddshed",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8qjAiki90cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-02T18:15:15-07:00"
-    },
-    {
-      "path": "_games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview.md",
-      "title": "Diablo 4: Barbarian Skills and Talents Overview",
-      "excerpt": "In this video, we break down the Diablo 4 Barbarian skills and talents. Be sure to like and subscribe if you want to see more videos like this one!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/click-shoot-loot-diablo-4-barbarian-skills-and-talents-overview/",
-      "originalUrl": "https://youtube.com/watch?v=gFSHNYUXV58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gFSHNYUXV58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "Click Shoot Loot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gFSHNYUXV58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-04-20T10:31:47-07:00"
     }
   ],
   "nextPage": 4
