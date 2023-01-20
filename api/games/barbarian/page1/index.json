@@ -64,66 +64,6 @@
       "publishedDateTime": "2023-01-17T11:42:51-08:00"
     },
     {
-      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
-      "title": "Diablo IV Preview - Hands-On with the Barbarian",
-      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
-      "provider": {
-        "name": "Easy Allies",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:02-08:00"
-    },
-    {
-      "path": "_games/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview.md",
-      "title": "Diablo IV's Rogue And Barbarian Look Insane! New Gameplay Preview",
-      "excerpt": "It's been a hot minute since we've heard from Diablo IV- the upcoming installment for the popular Diablo series that's not on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview/",
-      "originalUrl": "https://youtube.com/watch?v=6dAnvMfe2kI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6dAnvMfe2kI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M50S",
-      "provider": {
-        "name": "GamerBraves",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T08:02:02-08:00"
-    },
-    {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
       "title": "Diablo 4 - 33 Minutes of Gameplay (Druid, Barbarian, Sorceress, Rogue)",
       "excerpt": "Diablo 4 is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game was ...",
@@ -280,36 +220,6 @@
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
     },
     {
-      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
-      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
-      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M27S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-24T08:05:28-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-ability-call-of-ancients-barbarian.md",
       "title": "Diablo 4 Ability Call Of Ancients - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -370,6 +280,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
+    },
+    {
+      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
+      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
+      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M27S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-24T08:05:28-08:00"
     },
     {
       "path": "_games/noobyg-barbarian-parkour-diablo-4-leaked-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
@@ -611,36 +551,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-21T08:00:36-08:00"
-    },
-    {
-      "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
-      "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
-      "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=EEK9PrirmY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M16S",
-      "provider": {
-        "name": "Arekkz Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:11-08:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-beta-test-analysis-for-barbarian.md",
@@ -918,6 +828,96 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-19T08:46:00-07:00"
+    },
+    {
+      "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
+      "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
+      "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=EEK9PrirmY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M16S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T08:00:11-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-ability-double-swing-barbarian.md",
+      "title": "Diablo 4 Ability Double Swing - Barbarian",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-ability-double-swing-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-ability-double-swing-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=y8gp_Jp34jI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y8gp_Jp34jI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-18T18:00:21-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-barbarian-ability-flay.md",
+      "title": "Diablo 4 Barbarian Ability FLAY",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-ability-flay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-ability-flay/",
+      "originalUrl": "https://youtube.com/watch?v=aJwdcH8KjYA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aJwdcH8KjYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-20T11:00:00-08:00"
     }
   ],
   "nextPage": 2
