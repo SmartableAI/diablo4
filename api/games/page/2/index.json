@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
+      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-30T17:00:12-08:00"
+    },
+    {
       "path": "_games/gaming-rush-diablo-iv-barbarian-gameplay-60fps-4k.md",
       "title": "Diablo IV Barbarian Gameplay 60FPS 4K",
       "excerpt": "Enjoying the video? pls make sure to subscribe for a regular dose of top PC games videos! Subscribe: ...",
@@ -273,36 +303,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-21T08:00:36-08:00"
-    },
-    {
-      "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
-      "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
-      "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=EEK9PrirmY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M16S",
-      "provider": {
-        "name": "Arekkz Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:11-08:00"
     },
     {
       "path": "_games/dash-clips-diablo-iv-barbarians-armor-customization-quarterly-update-june-2021.md",
