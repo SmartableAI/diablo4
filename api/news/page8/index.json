@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says.md",
+      "title": "Diablo 4 “A Love Letter To Fans”, Game Director Says",
+      "excerpt": "Blizzard Entertainment have shared some further details on the highly-anticipated Diablo 4, which they hope fans will love.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says/index.json",
+      "webUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "originalUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-diablo-4-what-classes-are-available.md",
       "title": "Diablo 4: What Classes Are Available?",
       "excerpt": "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game.",
@@ -1070,57 +1112,6 @@
         "name": "AnnacakeLIVE",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming.md",
-      "title": "All Hell Breaks Loose in 2023—Diablo IV is Coming",
-      "excerpt": "Diablo IV is set to raise Hell’s temperature to a new level. Join us around the campfire to learn what’s coming in this next generation installment of the Diablo series.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T11:03:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
