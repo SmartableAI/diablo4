@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4s-battle-pass-ex
 webUrl: "https://www.msn.com/en-us/news/technology/diablo-4s-battle-pass-explained/ar-AA168WWT"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Diablo 4's Codex of Power System Explained"
-    excerpt: "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds."
-    publishedDateTime: 2023-01-15T13:02:45Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-codex-of-power-system-explained/ar-AA16nj6E"
+    excerpt: "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds. To obtain these Legendary Aspects, players must first complete specific ..."
+    publishedDateTime: 2023-01-15T14:44:00Z
+    webUrl: "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/"
     type: article
     provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16neBp.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-codex-of-power-v2.jpg"
+        width: 1800
+        height: 900
         isCached: true
 
 secured: "+NwRmv7vbbztswo+Es2DGJwQZrLqN2BcnlbuBflH13r26ZdTYQdJuRaK/VrXyPKArf7Ng7AVpjysqD9mLdoIRK+nnYpgqYb5JyK8mAXnK0+n0hAcJZYhnZ+iNQ4oxMM/0r8HgdnCngcyjE1HnLSDWJemX9v+90gXC707Rqd9slxzSD/5Q8sG07uFmBEjShudF2zV8iu4yuW9splTWTAkjqwIQlGsmdiK5TZCoI5mJ0eN5eZDjo+waxqlICurpjrjrBtZkQmo/Yn86h9QxtglcVTWCFVxe2+JunvyqPci7yAHA2EvltzY/WrlFpTtdPJTFzYscMhnQfNFA0+kOrWwAIMGrk7RUrAM3aumhKBdtt4=;dLSOhUuEcijr0I+hWmOa+Q=="
