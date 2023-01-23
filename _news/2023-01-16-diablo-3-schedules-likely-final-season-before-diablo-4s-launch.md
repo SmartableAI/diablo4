@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-16T10:47:16Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4-s-launch/ar-AA16prqD"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4-s-launch/ar-AA16prqD"
 type: article
+quality: 87
+heat: -1
+published: false
 
 provider:
   name: GameRant on MSN
@@ -14,6 +17,28 @@ provider:
 topics:
   - Diablo 4
 
-secured: "lQgaUKjZ+cU37qMzKL/xR6KAp4t1Wn7FiSyCIYxmwUOpfnhlIIsPmwgs1av/XxQ/ADnklLYsl3+WB5uVFxhhQA0zjXrDuKjmRUIMFPCw6ax8PWasjhmh+WAQMc5ksnDDdiQ5CwzhwMx55/7vMIHEXaKFDA87beub3d/QXVyUbGOjBrnaqvLcgq7IIpo1OdMSXtKiWZmV1fMFXqlJyvW3x8w/dWiTP5NpnfASfMmkMtFcTp6aL1YaEQvV84sir3701BYWPSdW95MiwU1Fxb2bX7R40wtpVLAZ21fy4ZP72EM/Db8ZWAq5NyriQWoIEt6gL8YL8UghQsFtv1nk/Jlpk7LrxZ05a0+EBvX/8jeQizY=;dsAH1cN5zedWTg2TLhaJ8w=="
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pybk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Diablo 2, Diablo 3 updates outlined as Blizzard expands Diablo 4 team"
+    excerpt: "Resurrected and Diablo 3 updates as it hires additional staff to expand its Diablo 4 team ahead of the release date for the RPG game ..."
+    publishedDateTime: 2023-01-13T09:41:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-4-update-team-expands-d2r-d3-roadmap.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "c89xY+U1bfB7ZWirKbUx2EzTyB//7KoYR2q8IwfF7N1hOGvPBUA5KApXoIqBkfJIjpRvdxVfzpCPPeNjytDn0DJrJhCeFB2iHyZcCEB26vTdw6t5UpUUqBDHwkctkVj4ULbXIRWPdyy0Vc/5byncvkPrCARe82o9IbqcGjawqEWg54YwYKvfE2rKKMPpx/MgmzqBNsuOkfHsXljmcvubICw5kLIUiYjFGiI5+NSewMFXsohw//6QI0qb23vzGThvGJhOR0paSKTIPduFTlP9LpWLwxYIkt7kBB4oBbusi73MzaZMltitgYDTWqrgU88qikiV0SRnv0E7HfxNbbNO90phqgDufkvynQ26gI4qQNU=;Yp1v+9CFsWNtbWxd6nXEPA=="
 ---
 
