@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-early
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-early-access-how-to-apply/ar-AA16wwEm"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - Diablo 4
 
-secured: "NkGzNG5fFohbaCjaHjIOxqUk2A6hef8j5gHp27yBZiumGuezU32ey531PCrU2oLrO2r4tyZhHEtdaji2Olzhv2PzgxTlCQG1tObtBne/k4+E57RhBmxSp0hMgJ/8UbW4JO0A/UpxvxK2VYuVsY6vTULwIhGyr7WGCA40skzcf8Pn94mp3tckJ9ecLqiUOo64cp5amY0en9ZY770Q117pq8zwsSjrbKyKjrJNebIFFcH2SdWCQTc1IDspJk7cZM4eybNDfOK+eV8LT0aN9p26RqnSuMeBOTtCo0MQ1nngWOVxoc5bhoKSqXZvZG8vZ/wRjHJIW3KQ0y4q3vNrk/03X+rcvbrLUbR6oB6XsvfWtAc=;QKsb1h+5qwlJzRlVSw/MtQ=="
+related:
+  - title: "'Diablo 4' release date, details: How to ensure access to the upcoming open beta?"
+    excerpt: "While Blizzard is keeping things under wraps, the \"Diablo 4\" beta will likely arrive a couple of months before the \"Diablo 4\" release date arrives in June."
+    publishedDateTime: 2023-01-23T07:33:00Z
+    webUrl: "https://www.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669"
+    ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 82
+
+secured: "lzqK16hgvOGrbTgqcI2gMPghzujWEWi41dwWneRhIqIZR3N9Gpz9UrmvfXP9BRHi1d/cFbqXvg9WbCoDyx46v992OSFbf920/iWOfGR06EIJ3DUHfvlOJPvf6/I4j2TQ2qseFJvdQtIf1Dl8Gc8GPXzJR7w/ZBfQnTI+USGnAOL7nImlpeTgYGOC8PTGigBjiM4dPTjPKs8yoUFSYNnGKO4KIjyBG2oxXGAbMwOdBlHWF4O57MgUsRuPdR/z6v6RgSdL1Wceb9+q7imZJH4eBYrpvRVHp+XNfSvv22+O5ozkUVwXQN2GJAGRVZy1n364t9yNsn74WziRWZRYjeMAVAhLbWT7u3XRIv3ySnhNeqg=;qQpPpCSDcIxvSO5LetYwkQ=="
 ---
 
