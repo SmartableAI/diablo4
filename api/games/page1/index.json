@@ -34,6 +34,36 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
+      "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
+      "title": "Diablo 4 Character Creation and Customization Options - Barbarian & Mage",
+      "excerpt": "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/",
+      "originalUrl": "https://youtube.com/watch?v=VpfzRYxrU98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpfzRYxrU98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 128,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T11:00:13-08:00"
+    },
+    {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
       "title": "Diablo 4 Sorceress ч2. (Enchantment механика/первичный разбор ветки талантов фрост билда)",
       "excerpt": "",
@@ -64,53 +94,23 @@
       "publishedDateTime": "2023-01-15T00:51:43-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
-      "title": "Diablo 4 Druid Earthen Bulwark Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
-      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
+      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
+      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
+      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
+      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M9S",
       "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-23T17:00:01-08:00"
-    },
-    {
-      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
-      "title": "Diablo IV Preview - Hands-On with the Barbarian",
-      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
-      "provider": {
-        "name": "Easy Allies",
+        "name": "Arekkz Gaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -121,7 +121,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:02-08:00"
+      "publishedDateTime": "2022-12-08T07:00:14-08:00"
     },
     {
       "path": "_games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics.md",
@@ -306,36 +306,6 @@
       "publishedDateTime": "2023-01-15T22:32:21-08:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=-94tolPWQlU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-94tolPWQlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M5S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:27-08:00"
-    },
-    {
       "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
@@ -364,6 +334,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-10T08:47:30-08:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=-94tolPWQlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-94tolPWQlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-10T08:47:27-08:00"
     },
     {
       "path": "_games/barricade-ttv-diablo-4-sorceress-offensive-legendary-aspects-codex-of-power-diablo-iv.md",
@@ -456,36 +456,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
-    },
-    {
-      "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
-      "title": "Diablo 4 Character Creation and Customization Options - Barbarian & Mage",
-      "excerpt": "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/",
-      "originalUrl": "https://youtube.com/watch?v=VpfzRYxrU98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpfzRYxrU98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
-      "provider": {
-        "name": "Arekkz Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T11:00:13-08:00"
     },
     {
       "path": "_games/rustypielover-diablo-4-druid-5-potential-builds-for-you.md",
@@ -911,6 +881,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-26T05:10:53-07:00"
+    },
+    {
+      "path": "_games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian.md",
+      "title": "Diablo 4 Leaked Dungeon Gameplay!  Diablo IV Leak! #shorts #diablo4 #barbarian",
+      "excerpt": "Diablo 4 Leaked Dungeon Gameplay! Diablo IV Leak! #shorts #diablo4 #barbarian.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/noobyg-diablo-4-leaked-dungeon-gameplay-diablo-iv-leak-shorts-diablo4-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=_Tisi7CgyDQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Tisi7CgyDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53S",
+      "provider": {
+        "name": "noobyG",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-09-23T09:18:11-07:00"
     }
   ],
   "nextPage": 2
