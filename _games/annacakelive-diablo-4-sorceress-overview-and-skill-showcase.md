@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-sorceress-o
 type: video
 length: PT11M42S
 publishedDateTime: 2022-12-11T21:14:49Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tGo-_lSGwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "d8Wng8dNtdE9ATaU3uFE0WYgFk9G5wX/ZuEDgEEskT27mjaXVU0G1YN/IZSEsyy2GJOg69du4FWErLV3LdPxzgqLIz2ByGMVn5pC1IxcEeLPqDiGbVCyhFG/wLrlZ2siV8L89/B5280iWFRsVoEy8ICFWUW17fvdXBwosIUGeJnj3G67Njm0gUcfRanfgsFxUzETlt1347jtAJx1Z/tMKezk3hCg76SrhYk1X6VhQQH87YL1Bi8iFF2oaq6QrBoMsflUmLaUxrIi1TsweqoRdVev3UTxUsxFtEIJ/cqnnCTLjW5/JgsZGwguRq38KDaVFPRRPRPZHjm7lo4P7RKRHJqK5Y/MCnk4M1MqYqfUsT02nMXYUEfaNVuLEzQ8WWelRPxmMUoV63ax2YPCOgvKOwxrXcitMcTwiO8y+lyW5co=;Nh4tTvrv7JI7u1XiDum2og=="
+secured: "hT4l9gDG45ZeTTjwZYSfvvWPaR4nI4eg+A9n781NUW0P+CXqby95dqLhqqIupqnlmD6PhpZPgJlaM78HWkP7bhxzzh0peOcJkCpDMe9IPqEZWM70g1K73jI92XTDriAkkW+SoK2gc8IEceWmX7lB92cbN/Qco2y+Lnp4ui+zFhD4xG7+/YROjaReJXSOL03Q0s53jQjN5GXNKL617gMob2qraStbv4YMas7UwKtIbemr9ayf2Mic/8E7Vpvu4v8pRLgk7Mo1gkAYc4SXokml9KD2R8ClicfvC7nQEF3nIy1tfgvzPrT9NDPAxHXPkgHXF18xXh6uuoxVfMqvJfuJzJa7J2utbMzGFwPkIaKuugWSn56wkfRCz3Zv4Tmqwqqbv6UH+xxOTh+JcdqqStQcX2ov1Eagqoy+Y3xlNjNi36k=;QpXz0etfydTUdewBTs7ruw=="
 ---
 
