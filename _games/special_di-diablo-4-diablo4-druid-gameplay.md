@@ -2,6 +2,7 @@
 title: "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay"
 excerpt: ""
 originalUrl: https://youtube.com/watch?v=VSTcaE7qKRo
+webUrl: https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/
 type: video
 length: PT10S
 publishedDateTime: 2023-01-23T19:46:29Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Wql01IXDUx7d0jCqMUha0tSYJHHU3m4sxY0oJnTbHnySVdLczO1z8kofGMjEeFgllec8seUdTdn76Z0Njw9KYeJ845oHx3HMpZnkmf2FXTxAFjzMcsrqjzBOSna83NhXAxmZ6KW9TvCH3f5isiKs4QLJmmBQ7UyJDKbrdk1ACA5HM8dmfaYGvY3MEaqHunkYxEjFXffd/5+RtsR7T8JdWnkvuEv5rThB/qt57r5Stf7t33o0sPSXGiUEUy/AkakeOHXtCl0OPNsbym54UiajFvifWLe3aCCV0K9fSX4MsKQN0C+u/B7rv+qsMkWj0tOYAWFGjgv7l65+M+c5AonV9RDF6BEB2fzOuHo5GhLj6KM+NmhLNLPEgiiUbq/2npX4E7U6S3TdQZ0GmJMT5twMPA==;2NQLLDpWcMpbWvR5IQqAyg=="
+secured: "4ivNYAe55GjuXy95gnhGk4SRGpGpSFyc+io/4bKwPKh/Ybgxwo5NG0FdM0omAglsv0HmONt0yVUKuRcHZfjDNLCXxstdZ5+9N2bY8+jaAWE8AM7ZK8y3sgpvutqqhWVC6gUzjs/e/RLy/r3xrL0PbtlGUwvXHx5ioy9jXlL9znTh9b/GHCed+AVq8kPv1/HlKSqbkoN2yTLDT/tmr4YET99mOCFn+AaJTrRx4Ir44ExoVv8P1dYkEMfOH3Sg5xpDcivJA4wZ+MvVowgpZMzPDYXdfTAbpx7aYAT/A6WmSqNZA6NpF6v08uxc5TdlldhFFN+oWLzA3+HVvmJnuopo+AQHXXx+7fq6VUDDtsmYKPC6rHBDey+zJC9GtHb7srjV98FeHiyKFqaC9klVztbJuQ==;P8emrsUpLFTPReWSfDAMPw=="
 ---
 
