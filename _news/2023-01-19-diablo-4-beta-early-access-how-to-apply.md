@@ -6,9 +6,6 @@ publishedDateTime: 2023-01-19T08:01:00Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-early-access-how-to-apply/ar-AA16wwEm"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-early-access-how-to-apply/ar-AA16wwEm"
 type: article
-quality: 67
-heat: -1
-published: false
 
 provider:
   name: MSN
@@ -17,19 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-related:
-  - title: "'Diablo 4' release date, details: How to ensure access to the upcoming open beta?"
-    excerpt: "While Blizzard is keeping things under wraps, the \"Diablo 4\" beta will likely arrive a couple of months before the \"Diablo 4\" release date arrives in June."
-    publishedDateTime: 2023-01-23T07:33:00Z
-    webUrl: "https://www.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669"
-    ampWebUrl: "https://amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 82
-
-secured: "vEcPS0iPcSXDzGfK2b5pY+SVA784HMwmY+d05WQxgLVhwpH0YoozMRwozX2Jpi/fG3rfIHMUjaONh5Xj0iLbEwH285neQt4OjfrWUZOscwO1LWp2KJCQvWLlV7M4l2H4Dpy+sVONjXU5WijA008EXmhI0i9sZruMJD6HnTQmZ/Z97pf9lK/mcATuCyppQ2gpsaTTMlk+8BV+BeC7tIjpe+T8s6szRbBjWUy7BMRxxmeL34EyTLjSA+jdWDwvw/H6aKeK/CcDpU+Uy3PTKDeNx55ogQ4l+UcxyHdIPRqxQ//vzEGToSZsBldgjzrMd4XJ9rFxJ5Tul1IZ0JFXXJBsQfszHHZLUicQTlV2nkG3Lv0=;R+rUrBsr1bs91ok7BONHxA=="
+secured: "5UwZd5Kd3gCR5cuCO+HyddLs2b7TRBgI77RxQ3e6MKItbUbQnarrxcwNXxQ0Ik6rj+wLKmUa5t+5GUbHXm2UXiNB6CO3K3ZRggINw2e6SOpK3Z6zFOmE2YFBXynpFHyEdEjuTuSULPKy6uCMfkgaKJzkk4GHbhzIw+BMUvG5S8xz+kJxcLjBc6ojdnqgJsKX38y9D0qBM26O2li98AEJEWDbU4s1vcEePyoUKmn1sXaH65Z75tIud8+mKP1xadVf8P8oROpshxcNP1Oe0efWq2FH9JTkpplDmrUCxHzqIJMUsfzjn3y3iLWHytT+aUh08tgZO8qYz/IXLOfAVua4HZnfHXnjg5FORH4Rq1X15bY=;DavRKvCOl3sGbD4m1S6DbA=="
 ---
 
