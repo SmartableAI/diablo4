@@ -4,35 +4,34 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/osterberg501-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019.md",
-      "title": "Diablo 4 ANNOUNCEMENT! New Diablo 4 Gameplay! Sorcerer, Barbarian, & Druid Gameplay! Blizzcon 2019!",
-      "excerpt": "Diablo 4 was just announced at Blizzcon 2019, alongside a very good cinematic and some gameplay of the first 3 classes they're showing off. The gameplay ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/osterberg501-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/osterberg501-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=kIHwz6Gbkr4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kIHwz6Gbkr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
+      "path": "_games/rustypielover-diablo-4-barbarian-5-potential-builds-for-you.md",
+      "title": "Diablo 4 BARBARIAN: 5 POTENTIAL BUILDS FOR YOU!",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Barbarian 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential builds ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-barbarian-5-potential-builds-for-you/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-barbarian-5-potential-builds-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=NZYcNYYCoL4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NZYcNYYCoL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M12S",
       "provider": {
-        "name": "Osterberg501",
+        "name": "RustyPieLover",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid",
         "Barbarian"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kIHwz6Gbkr4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2019-11-01T12:45:17-07:00"
+      "publishedDateTime": "2022-12-18T09:00:21-08:00"
     },
     {
       "path": "_games/salus-vindex-gaming-diablo-iv-all-classes-gameplay-rogue-barbarian-sorceress-druid-necromancer-boss-pvp.md",

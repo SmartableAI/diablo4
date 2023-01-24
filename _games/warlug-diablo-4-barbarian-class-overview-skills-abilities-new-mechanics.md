@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/warlug-diablo-4-barbarian-class-o
 type: video
 length: PT7M49S
 publishedDateTime: 2023-01-17T19:42:51Z
-heat: 88
+heat: 82
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-gB1VSyDpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "g/rXW73WaHpRrwbyEVAj0jwUVd1iypqnHIqdEWiiRhVc7+NIfiOZZTzZnmg5MFUL4yIbe5JHojgrfrFlcH2/UyWxFmQQ2HQh04d1iZcBiWKGex5SFEMeev6PzyrbPjPYdP9NZZ0iquBCmSNVpXkjH60Kgrv1/sXGv3eM9zAfLBk2eC+EguwGqRzDgQVfWDmyLE0FlK/Jp4qQJoZgGW4q7iygRBso+RvIE4C8way1itmIc5PuvWWdEqQYJgYaYhy8h0Hfr/5pv1sigXSV6gSzKd2faKSTcaw3N44hChO+E0DVtPEaWf9iuMkYOJdtt4bjKDC3PnR/QDjqSvsnCUsEooQz5bbdEJBKH9kEtcvTg+HIsoj+LGrau3ae/cXZqiC/h9rpmOGx3VhZ2visciGFOiIIxrqj7Crw8GGOaCW+Jt4=;/pEZCVVVHTQVZa/tQDG8oQ=="
+secured: "0kW7X5vEZijnVUmTj0ssXtpZDAW1lh61RkBi/1o8yP0K5evgRhOrI2AdcvVJcapwgZ64et1daQ21yNfPe9FNvxLIDhQEKrEKWfvwDWhxA/PwGYK1SZvzWZp4lna30DF5SXEKlLVg6hIIxOTIhG0dyyfdaNk6ZolqIpRMkDSllOycffCrIX6A19F5Yn96GT+TacwIjo/8c4UzdDpchcwGNWwBrVeF6bXlVx9RlMM48WoLpS+AavZpz4e+8+K2CNP7CmOxipUdIl2W2X9FwcawhW22CWc05V5eyvDoxuE6xK8hAJBmltWOx5LEs+/bw9JemyrmYPGmU+SkPbvRo5kmM2p46VYjm5h4fmsLmJjCUiwKeO6Lak43JSwwQ3gi8UiEDLT23yMOZkDL8VHD0vFJuyS8bgkKMjxxtbSNuf14l8s=;+Gvw39Ls7CC3R7ywThPyCQ=="
 ---
 
