@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Diablo 3 Schedules Likely Final Season Before Diablo 4's Launch"
-excerpt: "Blizzard announces the release and PTR for Diablo 3 Season 28, in what is likely to be the game's final season before Diablo 4 launches in June."
-publishedDateTime: 2023-01-16T10:54:00Z
-originalUrl: "https://gamerant.com/diablo-3-final-season-28-schedule/"
-webUrl: "https://gamerant.com/diablo-3-final-season-28-schedule/"
+excerpt: "Diablo 3 is passing the torch to Diablo 4, as Blizzard Entertainment announces what is likely to be the game's final season before the sequel officially becomes Diablo's flagship title."
+publishedDateTime: 2023-01-16T12:01:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4s-launch/ar-AA16prqD"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4s-launch/ar-AA16prqD"
 type: article
-quality: 127
-heat: 147
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pybk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +39,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bXe9b8FeLDKtgKN1XbGLmvoZ9sDz54mYbptibEJFu0xWG2yMGXK3etFsuvot7h2fI+66Cu7flNn36pngh3p2jHJpGALdBtMbszdJhTGZL+uW/P0czIuW2pqkkQkvwInHZ1R9GdhUi1ZUB/BOYQxaWax0eawj91gFu5kwOjKW8k8whv+lcaCY2GH1lpZpU1R6UZifjhQv7Uk/OBM2KFoDOTzKA+xNYRPo2lwtVeM783KMox1urFrP6/YOjk30qY83shc8sWwLh6kfIhP7DeW7uAg6njBapvFEMv5P9dgTT2dkHz2Rwlf8a9Uxd6jk0gYZ4PD26LJAUzQIh6SosdHT8eabnDTLPOncvpScyzFpC+A=;nf8gyNfOGxo2q3wMNJOhpg=="
+secured: "z4Gov1kO3YUusKVtcSnu8MWoOvnRQMOlzqpe9/t6l2OrnfbqiP5nZlYin04z3LIYPzHhqXwhg7Nyex1NTkovMkFQHWqe4/vHjQoSwi/HfJBs6OdMN6KFjAh7aDrJB3WyypFKQYA946Iwf+0ZaXLCpeX//VvQk4Q0dteN17a4jXQAOuRhQA821KQBxPfxmb4U7oP/5Go86R+e7iQlnFJLDbUiTWasYzrSIOEtCQ0yHfA9rRSHrq71xVvnKJHzp6E/3ZSc7AI9GWt+zlH85zjKb3p9TUTsMwfLMDdcNDZnarL4mumGKN7t1yNXQ3ygm2WZ2iJHnPx5D9vxZN0AqP9O6BAPiHt3emAX84WLc+MCG4Y=;w9WllJq4tExQnpo9lOCWvw=="
 ---
 
