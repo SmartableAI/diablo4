@@ -94,23 +94,23 @@
       "publishedDateTime": "2023-01-23T11:46:29-08:00"
     },
     {
-      "path": "_games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase.md",
-      "title": "Diablo 4 - Sorceress Overview and Skill Showcase",
-      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Enchantment Effects ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/",
-      "originalUrl": "https://youtube.com/watch?v=8tGo-_lSGwE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tGo-_lSGwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M42S",
+      "path": "_games/gaming-rush-tube-diablo-iv-beta-test-analysis-for-barbarian.md",
+      "title": "DIABLO IV BETA TEST ANALYSIS for Barbarian",
+      "excerpt": "Enjoying the video? pls make sure to subscribe for a regular dose of top PC games videos! Subscribe to Gaming Rush Tube: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-beta-test-analysis-for-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-beta-test-analysis-for-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=EzGtJQGqtyU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EzGtJQGqtyU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
       "provider": {
-        "name": "AnnacakeLIVE",
+        "name": "Gaming Rush Tube",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Sorceress"
+        "Barbarian"
       ],
-      "heat": 112,
+      "heat": 113,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -121,7 +121,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-11T13:14:49-08:00"
+      "publishedDateTime": "2022-11-05T20:06:41-07:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-barbarian-ability-flay.md",
+      "title": "Diablo 4 Barbarian Ability FLAY",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-ability-flay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-ability-flay/",
+      "originalUrl": "https://youtube.com/watch?v=aJwdcH8KjYA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aJwdcH8KjYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-20T11:00:00-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-mount-ability.md",
@@ -152,36 +182,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-21T17:00:13-08:00"
-    },
-    {
-      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
-      "title": "DIABLO 4 DRUID GAMEPLAY",
-      "excerpt": "found it and wanted to share it :)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
-      "provider": {
-        "name": "ImActuallyAFK",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-18T04:00:29-08:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
