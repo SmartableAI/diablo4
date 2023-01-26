@@ -64,36 +64,6 @@
       "publishedDateTime": "2022-11-11T06:00:38-08:00"
     },
     {
-      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
-      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
-      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
-      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M40S",
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T08:00:36-08:00"
-    },
-    {
       "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
@@ -152,66 +122,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-30T22:23:08-07:00"
-    },
-    {
-      "path": "_games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror.md",
-      "title": "Diablo 4 Class Deep Dive - Sorceress/Sorceror",
-      "excerpt": "diablo4 #openworld Join me in this Diablo 4 video as we talk all about the Sorceress/Sorceror. Sources: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/",
-      "originalUrl": "https://youtube.com/watch?v=378MFMg4e8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/378MFMg4e8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M59S",
-      "provider": {
-        "name": "Demone Kim",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-07T15:16:05-07:00"
-    },
-    {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
-      "title": "New Gameplay Today – Diablo IV's Barbarian",
-      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M35S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-iv-beta-test-analysis-for-barbarian.md",
@@ -336,6 +246,36 @@
       "publishedDateTime": "2019-11-11T10:27:28-08:00"
     },
     {
+      "path": "_games/andy-gaming-hurricane-druid-diablo-4-shorts.md",
+      "title": "Hurricane Druid Diablo 4 #shorts",
+      "excerpt": "gaming #shorts #viral #new #video #subscribe Please leave a Like & Subscribe, it helps the channel grow!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-hurricane-druid-diablo-4-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-hurricane-druid-diablo-4-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=Exe_Brsda18",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Exe_Brsda18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12S",
+      "provider": {
+        "name": "Andy Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-27T22:32:04-08:00"
+    },
+    {
       "path": "_games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase.md",
       "title": "Diablo 4 - Sorceress Overview and Skill Showcase",
       "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Enchantment Effects ...",
@@ -364,6 +304,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-11T13:14:49-08:00"
+    },
+    {
+      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
+      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
+      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
+      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M9S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T07:00:14-08:00"
     },
     {
       "path": "_games/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects.md",
@@ -514,6 +484,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-31T17:00:06-08:00"
+    },
+    {
+      "path": "_games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror.md",
+      "title": "Diablo 4 Class Deep Dive - Sorceress/Sorceror",
+      "excerpt": "diablo4 #openworld Join me in this Diablo 4 video as we talk all about the Sorceress/Sorceror. Sources: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/",
+      "originalUrl": "https://youtube.com/watch?v=378MFMg4e8s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/378MFMg4e8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M59S",
+      "provider": {
+        "name": "Demone Kim",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-07T15:16:05-07:00"
+    },
+    {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
+      "title": "New Gameplay Today – Diablo IV's Barbarian",
+      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M35S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
@@ -730,6 +760,36 @@
       "publishedDateTime": "2022-12-08T05:00:00-08:00"
     },
     {
+      "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
+      "title": "*NEW* Druid Gameplay 100 FPS - Diablo 4 - Gameplay Demo Trailer (2023)",
+      "excerpt": "gaming #blizzard #video #trailer #gametrailers #shorts #new #subscribe #diablo #viral #trending #new #news Please leave a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/",
+      "originalUrl": "https://youtube.com/watch?v=OUWVbqZGmd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUWVbqZGmd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56S",
+      "provider": {
+        "name": "Tarnished",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-27T21:31:27-08:00"
+    },
+    {
       "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
       "title": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer [Upscaled 4K]",
       "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. * Website: ...",
@@ -761,76 +821,16 @@
       "publishedDateTime": "2022-10-19T08:46:00-07:00"
     },
     {
-      "path": "_games/andy-gaming-hurricane-druid-diablo-4-shorts.md",
-      "title": "Hurricane Druid Diablo 4 #shorts",
-      "excerpt": "gaming #shorts #viral #new #video #subscribe Please leave a Like & Subscribe, it helps the channel grow!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-hurricane-druid-diablo-4-shorts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-hurricane-druid-diablo-4-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=Exe_Brsda18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Exe_Brsda18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12S",
+      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M40S",
       "provider": {
-        "name": "Andy Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T22:32:04-08:00"
-    },
-    {
-      "path": "_games/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming.md",
-      "title": "*New* Druid Hurricane 4K 120 FPS - Diablo 4 #gaming",
-      "excerpt": "video #new #shorts #video #viral Please leave a Like & Subscribe, it helps the channel grow!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-new-druid-hurricane-4k-120-fps-diablo-4-gaming/",
-      "originalUrl": "https://youtube.com/watch?v=8ox4FRpCLaU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ox4FRpCLaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12S",
-      "provider": {
-        "name": "Andy Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T22:22:39-08:00"
-    },
-    {
-      "path": "_games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes.md",
-      "title": "Diablo 4 - 15 Minutes of New Gameplay - Mage, Rogue & Barbarian Classes",
-      "excerpt": "In this new gameplay video for Diablo 4, we take a look at the mage, rogue and barbarian classes. Watch as we explore the new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes-of-new-gameplay-mage-rogue-barbarian-classes/",
-      "originalUrl": "https://youtube.com/watch?v=WJgTU-ctow0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M9S",
-      "provider": {
-        "name": "Arekkz Gaming",
+        "name": "AnnacakeLIVE",
         "domain": "youtube.com"
       },
       "topics": [
@@ -848,19 +848,19 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-08T07:00:14-08:00"
+      "publishedDateTime": "2022-12-21T08:00:36-08:00"
     },
     {
-      "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
-      "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
-      "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=EEK9PrirmY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M16S",
+      "path": "_games/beefguyty-diablo-4-barbarian-ability-flay.md",
+      "title": "Diablo 4 Barbarian Ability FLAY",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-ability-flay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-ability-flay/",
+      "originalUrl": "https://youtube.com/watch?v=aJwdcH8KjYA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aJwdcH8KjYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
       "provider": {
-        "name": "Arekkz Gaming",
+        "name": "BeefGuyTy",
         "domain": "youtube.com"
       },
       "topics": [
@@ -878,19 +878,19 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:11-08:00"
+      "publishedDateTime": "2022-12-20T11:00:00-08:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=jTEL7Umaq1o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jTEL7Umaq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M56S",
+      "path": "_games/beefguyty-diablo-4-druid-cataclysm-ability.md",
+      "title": "Diablo 4 Druid Cataclysm Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-cataclysm-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-cataclysm-ability/",
+      "originalUrl": "https://youtube.com/watch?v=mbBHMCoyPyw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mbBHMCoyPyw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11S",
       "provider": {
-        "name": "Barricade TTV",
+        "name": "BeefGuyTy",
         "domain": "youtube.com"
       },
       "topics": [
@@ -908,7 +908,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:25-08:00"
+      "publishedDateTime": "2022-12-21T21:39:04-08:00"
     }
   ],
   "nextPage": 3

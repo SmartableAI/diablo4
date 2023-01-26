@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-han
 type: video
 length: PT13M34S
 publishedDateTime: 2022-12-07T16:00:02Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "C8etIVIIX6vFPAPkJQsU+VjTquse7Pokzmxid92w85tDA/eOJq9XmbhDy95ygUUfedfCxvHtFBHaikbEFDl9TZARuY9pdDIRWVtdX666xnDHva41tRxcSHJEcf1N359LlN2O7Bxye7OLlLmP7xAMUHmk280rC2myJIakg5NCFggSg4Gptb57+FjYqBK2Vh1uY1UAkBGvRYTuQqBQrwnK3+rNxfy8PERsESzVKshq1aD5KgNvTwR4m4NkJOHBl/d7jHY4qt1yOudu9BojQ9+fOSSVcKNkFOsE1AQVl1CKJiebwkmPj45Ycj6kkqKXR51tu8iSrSq9akJyHLsD0D6jw81NmdZyL5YhRKyQ+Sr8XR4SJceODvHA/goYa4qxIwcxSxox+7MBAk5ywDPeQIzCUBzaVxc+h2Z/1ZunprA84zc=;xFALf5x2fnZ9hDUzlgnzjQ=="
+secured: "zHOg1Kxxn9JzsV3aO2uV0xD3YYcJHkSx8S4SbCDHYGuJj5EVgAdhRm/HTeASgSMXbL2Xd66BeSvOQ6Fp6lZgVLq6wr/TigRnUUaY34QMx7+nim+PRmrWus0RqiLpaRDGW3WjSGuG7rsnickG7uN7bes/K0kvNl6mcwNOQfcuT8QL30918mYXLVBDYAafro+QQu4smRmH8Wyc2eqZ4jfODy2P44Ated1e6S7yCf9E1xez/2eIWwGMShYSmQbgEvtQRabQ3sbCp9rwhce3ThCqiYd6IH+zPKbydENrpM+6GDJMvsKW/X2SUWLOYjVqv2xwuV0wIbksZ45QJd3hbCWZ6ulJ8sfbrJwaYo5wcvubFFIbycvJBKdW62qZ0yCV5IF7oGNGREELjYzIb6yyGxZZ0m2WiWULVUTjBtUJosgaQLo=;wBoJbUo4ku7FtDvANoMkLQ=="
 ---
 
