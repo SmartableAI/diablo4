@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4.md",
+      "title": "Diablo 3 Season 28 is the perfect preparation for Diablo 4",
+      "excerpt": "This also positions its end date perfectly with the launch of Diablo 4 on June 2. This season’s thematic is the ‘Rites of Sanctuary,’ which thrusts players into the heart of the long-forgotten ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
+      "originalUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-3-season-28-ptr-rites-of-sanctuary.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-diablo-4-everything-we-know-so-far.md",
       "title": "Diablo 4: Everything we know so far",
       "excerpt": "Blizzard are very good at keeping fans waiting, and Diablo 4 was certainly no exception. After a long period of rumours Diablo 4 was finally revealed at BlizzCon 2019, but we were once again left in ...",
@@ -1018,57 +1060,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-diablo-4-reveals-battle-pass-price.md",
-      "title": "Diablo 4 Reveals Battle Pass Price",
-      "excerpt": "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last. Blizzard’s Diablo 4 team recently discussed the game's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-reveals-battle-pass-price/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
-      "originalUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-4-ultimate-edition-lilith.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

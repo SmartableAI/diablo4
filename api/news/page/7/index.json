@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises.md",
+      "title": "Diablo 4 Won’t Be Pay-to-Win, Blizzard Promises",
+      "excerpt": "Following the Diablo Immortal fiasco, Blizzard Entertainment has promised that Diablo 4 microtransactions won't have pay-to-win mechanics.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises/index.json",
+      "webUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
+      "originalUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.playstationlifestyle.net/assets/uploads/2022/08/diablo-4-microtransactions.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
+      "cdnAmpWebUrl": "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
+      "publishedDateTime": "2022-08-19T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PlayStation LifeStyle",
+        "domain": "playstationlifestyle.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update.md",
       "title": "Monetization and Paid Season Pass Announced - Diablo 4 HUGE Quarterly Update",
       "excerpt": "Official Diablo 4 Blog Post: https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022 ...",
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "Irish Sun",
         "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4.md",
-      "title": "Offer your flesh as a tribute to get beta access to Diablo 4",
-      "excerpt": "Blizzard's Diablo Hell's Ink takeover event kicked off in Los Angeles on Saturday and will continue through September 10. During this time, fans can get a free Diablo tattoo. But this is getting huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4/index.json",
-      "webUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
-      "originalUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/751951/751951_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "levelup",
-        "domain": "levelup.com",
         "images": null,
         "publishers": null,
         "authors": null
