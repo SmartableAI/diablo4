@@ -34,36 +34,6 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
-      "title": "Diablo IV Preview - Hands-On with the Barbarian",
-      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
-      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M34S",
-      "provider": {
-        "name": "Easy Allies",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T08:00:02-08:00"
-    },
-    {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
       "title": "Diablo 4 - 33 Minutes of Gameplay (Druid, Barbarian, Sorceress, Rogue)",
       "excerpt": "Diablo 4 is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game was ...",
@@ -918,6 +888,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-19T08:46:00-07:00"
+    },
+    {
+      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M40S",
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-21T08:00:36-08:00"
     }
   ],
   "nextPage": 2
