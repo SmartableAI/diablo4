@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update.md",
+      "title": "Monetization and Paid Season Pass Announced - Diablo 4 HUGE Quarterly Update",
+      "excerpt": "Official Diablo 4 Blog Post: https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=vCvq-fIGZjY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vCvq-fIGZjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T14:59:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sweet Phil",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-diablo-iv-quarterly-updateaugust-2022.md",
       "title": "Diablo IV Quarterly Update—August 2022",
       "excerpt": "We’re back with another Diablo IV Quarterly Update, fresh from the Burning Hells! Join our development team as they introduce and elaborate on Diablo IV’s Seasons and Season Journeys.",
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "levelup",
         "domain": "levelup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-17-you-can-get-diablo-4-beta-access-with-a-permanent-flesh-mark.md",
-      "title": "You can get Diablo 4 beta access with a permanent flesh mark",
-      "excerpt": "Players taking part in the Diablo Hell’s Ink promotion to get a free flash tattoo are also being given Diablo 4 beta access and a free copy of the RPG game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-17-you-can-get-diablo-4-beta-access-with-a-permanent-flesh-mark/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-access-tattoo-flesh-tribute.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-16T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
