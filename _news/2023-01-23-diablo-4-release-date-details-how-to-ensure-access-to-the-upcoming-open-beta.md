@@ -22,8 +22,8 @@ topics:
 related:
   - title: "Diablo 4 beta early access: How to apply"
     excerpt: "A Diablo 4 beta test has already been confirmed by Activision-Blizzard, which has demon hunters worldwide on edge. As with most modern multiplayer games, Blizzard will rely on the community to ..."
-    publishedDateTime: 2023-01-19T08:01:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-early-access-how-to-apply/ar-AA16wwEm"
+    publishedDateTime: 2023-01-19T12:28:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-early-access-how-to-apply/ar-AA16wX8U"
     type: article
     provider:
       name: MSN
