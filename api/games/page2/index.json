@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/raxxanterax-diablo-4-barbarian-class-preview.md",
-      "title": "Diablo 4 Barbarian Class Preview",
-      "excerpt": "diablo4 #Maxroll #Blizzard 00:00 Introduction 01:08 Strengths 03:40 Weaknesses 05:26 Equipment 07:29 Skill Tree & Passives ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/raxxanterax-diablo-4-barbarian-class-preview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-class-preview/",
-      "originalUrl": "https://youtube.com/watch?v=IrIO7GqjSyo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrIO7GqjSyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M56S",
-      "provider": {
-        "name": "Raxxanterax",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T17:22:48-08:00"
-    },
-    {
       "path": "_games/xtimus-diablo-2-druid-returns-on-diablo-4.md",
       "title": "Diablo 2 Druid Returns on Diablo 4",
       "excerpt": "Xtimus Like and Subscribe to Xtimus for Diablo Content. Join the Notification Squad: Click the ▻Follow me. Twitter ...",
@@ -334,6 +304,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-21T08:00:36-08:00"
+    },
+    {
+      "path": "_games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Sorceress Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Enchantment Effects ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-sorceress-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=8tGo-_lSGwE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8tGo-_lSGwE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M42S",
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-11T13:14:49-08:00"
     },
     {
       "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
