@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-28-rumor-diablo-4-release-date-could-get-pushed-back.md",
+      "title": "Rumor: Diablo 4 Release Date Could Get Pushed Back",
+      "excerpt": "A new rumor making the rounds online suggests that the upcoming Diablo 4 could very well have its release date pushed back.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-28-rumor-diablo-4-release-date-could-get-pushed-back/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-rumors-leaks-release-date-delay/",
+      "originalUrl": "https://gamerant.com/diablo-4-rumors-leaks-release-date-delay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-lilith.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-28T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-diablo-4-rumor-claims-release-date-is-questionable.md",
       "title": "Diablo 4 Rumor Claims Release Date Is \"Questionable",
       "excerpt": "The release date of Diablo 4 is reportedly in doubt. Diablo 4 is one of the most anticipated games of 2023 and it comes after almost a whole decade of Diablo 3. The franchise is slated to make its ...",
@@ -1016,48 +1067,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
-      "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
-      "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "originalUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RSmVHnRfezmk8VcumjCrrj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

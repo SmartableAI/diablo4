@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked.md",
+      "title": "Test footage from ‘Diablo 4’ appears to have leaked",
+      "excerpt": "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
       "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
       "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
@@ -1061,48 +1103,6 @@
       "provider": {
         "name": "Beebom",
         "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic.md",
-      "title": "Diablo 4's Microtransactions Will Be Strictly Cosmetic",
-      "excerpt": "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dualshockers.com/static/uploads/2022/08/diablo-4-microtransactions-will-be-strictly-cosmetic-scaled.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
         "images": null,
         "publishers": null,
         "authors": null
