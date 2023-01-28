@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it.md",
+      "title": "Diablo 4 Will Ditch Lootboxes for Battle Passes, Like Overwatch Before It",
+      "excerpt": "Blizzard has made clear that Diablo 4 will not include lootboxes and, like Overwatch before it, will instead offer Battle Passes and cosmetics through an in-game store.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises.md",
       "title": "Diablo 4 Won’t Be Pay-to-Win, Blizzard Promises",
       "excerpt": "Following the Diablo Immortal fiasco, Blizzard Entertainment has promised that Diablo 4 microtransactions won't have pay-to-win mechanics.",
@@ -1042,48 +1093,6 @@
       "provider": {
         "name": "pcinvasion.com",
         "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo.md",
-      "title": "Diablo 4 are keys free if you get the game’s tattoo",
-      "excerpt": "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo/index.json",
-      "webUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/",
-      "originalUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/",
-      "publishedDateTime": "2022-07-20T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
         "images": null,
         "publishers": null,
         "authors": null

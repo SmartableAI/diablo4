@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo.md",
+      "title": "Diablo 4 are keys free if you get the game’s tattoo",
+      "excerpt": "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo/index.json",
+      "webUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/",
+      "originalUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/",
+      "publishedDateTime": "2022-07-20T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4.md",
       "title": "Offer your flesh as a tribute to get beta access to Diablo 4",
       "excerpt": "Blizzard's Diablo Hell's Ink takeover event kicked off in Los Angeles on Saturday and will continue through September 10. During this time, fans can get a free Diablo tattoo. But this is getting huge ...",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "as.com",
         "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed.md",
-      "title": "Blizzard's Diablo 4 developers try to put monetisation worries to bed",
-      "excerpt": "Blizzard confirmed that Diablo 4, the game that's not Diablo Immoral (sorry, I meant Immortal), will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S next year. Since this news came to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed/index.json",
-      "webUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
-      "originalUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.reedpopcdn.com/Diablo-4_p8rJ9b5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Diablo-4_p8rJ9b5.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
         "images": null,
         "publishers": null,
         "authors": null
