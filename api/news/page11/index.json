@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-20-diablo-iv-quarterly-updatedecember-2021.md",
+      "title": "Diablo IV Quarterly Update—December 2021",
+      "excerpt": "Learn more about itemization, Paragon updates, and the visual effects of Diablo IV in this next Quarterly Developer Update.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-iv-quarterly-updatedecember-2021/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5d/5DOAYVZ56YBD1639765731138.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes.md",
       "title": "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes",
       "excerpt": "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ...",
@@ -1081,57 +1132,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard.md",
-      "title": "Diablo 4 Game Director And Two Other Devs Ousted From Activision Blizzard",
-      "excerpt": "Level designer Jesse McCree, game director Luis Barriga, and designer Jonathan LeCraft were all unceremoniously let from from Activision Blizzard, according to Kotaku's anonymous sources.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 546,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1578/15789366/3866145-3598980-diablo4.jpg",
-          "width": 2221,
-          "height": 1388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "publishedDateTime": "2021-08-11T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
