@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear
 webUrl: "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/"
 type: article
 quality: 127
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1800
     height: 900
     isCached: true
-
-related:
-  - title: "Diablo 4's Battle Pass Explained"
-    excerpt: "2023 is already looking pretty stacked when it comes to big video game releases, and Diablo 4 is one of the most anticipated games on the calendar. Announced all the way back in 2019, it's finally ..."
-    publishedDateTime: 2023-01-09T11:34:00Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4s-battle-pass-explained/ar-AA168WWT"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA168sUT.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=375&y=178"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "GFPkKvJ75CSwGvp/XT9Fybx3sui3+LaxCvWLExh1RUOE8st8oWOm29oVALzkDWVdifZX5S9ANDAHpTpZVIzcVF/cUmkwVtwOvk+MWyVhFmPdJso91mEZlCAJOr/rfN1/rm+0HmPe1MQEkaPvJGjEJltMXhpAj8ps2FiASoLb+9CmfqZQgzVuHJWfMcMJwgVbCNUedCZ9GScKWf1JIfuZING2iRI/bh2QKfekdWQVUZun1HWYADNanWXhDBA+YE/Xip/WF0wP0WHlMe+pyLQ6mko/U3Y7TVP35HZ+kUixtT1A3U4Moau2xPTORKGYj9uS4+HR3iRUDs37ueT2icbdKwpa5rTdzDI4NdqiAfjWXC8=;9fKloOkpoO4lzuU5qz6u4g=="
 ---
