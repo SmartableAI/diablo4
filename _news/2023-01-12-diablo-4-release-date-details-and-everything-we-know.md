@@ -7,7 +7,7 @@ originalUrl: "https://www.rockpapershotgun.com/diablo-4-release-date-details-eve
 webUrl: "https://www.rockpapershotgun.com/diablo-4-release-date-details-everything-we-know"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 release date, trailers, gameplay, and news"
+    excerpt: "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ..."
+    publishedDateTime: 2023-01-17T11:57:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/release-date"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/diablo-4-release-date.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "‘Diablo 4’ release date, trailers and latest news"
     excerpt: "Diablo 4 has been a long time coming, having been rumoured for many years before being announced. It looks set to be a return to form for the series, and appears to be much more akin to the first ..."
     publishedDateTime: 2023-01-19T07:24:00Z

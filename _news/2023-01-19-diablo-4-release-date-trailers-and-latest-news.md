@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 release date, trailers, gameplay, and news"
+    excerpt: "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ..."
+    publishedDateTime: 2023-01-17T11:57:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/release-date"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/diablo-4-release-date.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "dDIy+Nv+aLMQKhSVb+bYShcK8ue+LPChgX9xN+xTC9VjVK+sJz/rvhpJFKeNyBjTl+Dtx9GSiuwrlgVixy5ctCXFOPUhjgf+kaASIlIy6g73P+V8F5NArl6V/vnGQKVf08sz6rPFDzTBIulXJiQ4BeGIDmIh2Q/HmmnB6y0PsXjeFPWXDnc23ojwHl1sVXOyxPgViuYiWWqd6XEROuLU5Ksbqo2WOsejBK1T7UXOlWXVjH9Z11KulD/GxQMZFfTyKKnmaC5svj+sOFGae3JgyTZaPTxc5Zv4Amxzuu+V58szwx8SfDlgPDo08tWYR6Tzu4AYR81yCwm/F3SUcusarRylZ3NdlnCz0Ng3tAqgOuo=;34ed64lv7mO4sfT3LqRjMQ=="
 ---
