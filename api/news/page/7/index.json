@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more.md",
+      "title": "Diablo 4: Release Date, Classes, Gameplay, Leaks, Beta Sign Up, and More",
+      "excerpt": "Awaiting Diablo IV's launch but don't know much about it? Know the Diablo 4 release date, classes, beta, leaks, & more in this info dump.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more/index.json",
+      "webUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/",
+      "originalUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2022/08/Untitled-design-9-1.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/amp/",
+      "publishedDateTime": "2022-08-28T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic.md",
       "title": "Diablo 4's Microtransactions Will Be Strictly Cosmetic",
       "excerpt": "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised.",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "svg",
         "domain": "svg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-diablo-4-release-date-speculation-and-all-the-latest-details.md",
-      "title": "Diablo 4 release date speculation and all the latest details",
-      "excerpt": "Want a roundup of the latest Diablo 4 release date speculation and news? Announced during BlizzCon 2019, the upcoming entry in the demon-slaying action RPG game series has had many different ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-25-diablo-4-release-date-speculation-and-all-the-latest-details/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/release-date",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/release-date",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/07/diablo-4-release-date.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
