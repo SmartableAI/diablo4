@@ -64,23 +64,23 @@
       "publishedDateTime": "2023-01-28T16:50:31-08:00"
     },
     {
-      "path": "_games/andy-gaming-hurricane-druid-diablo-4-shorts.md",
-      "title": "Hurricane Druid Diablo 4 #shorts",
-      "excerpt": "gaming #shorts #viral #new #video #subscribe Please leave a Like & Subscribe, it helps the channel grow!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-hurricane-druid-diablo-4-shorts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-hurricane-druid-diablo-4-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=Exe_Brsda18",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Exe_Brsda18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12S",
+      "path": "_games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch.md",
+      "title": "DIABLO 4 - DRUIDE Klassenmechanik BETA LEAK (Deutsch)!",
+      "excerpt": "Wie funktioniert beim Druide in Diablo 4 die einzigartige Klassenmechanik? Diesen Leak aus der Beta besprechen wir heute im ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/",
+      "originalUrl": "https://youtube.com/watch?v=K_gMbFOboG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_gMbFOboG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
       "provider": {
-        "name": "Andy Gaming",
+        "name": "rellihcs",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Druid"
       ],
-      "heat": 112,
+      "heat": 115,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -91,26 +91,26 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-11-27T22:32:04-08:00"
+      "publishedDateTime": "2022-12-01T07:00:11-08:00"
     },
     {
-      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
-      "title": "DIABLO 4 DRUID GAMEPLAY",
-      "excerpt": "found it and wanted to share it :)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
+      "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
+      "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
+      "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=EEK9PrirmY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M16S",
       "provider": {
-        "name": "ImActuallyAFK",
+        "name": "Arekkz Gaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
-      "heat": 111,
+      "heat": 113,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -121,7 +121,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-18T04:00:29-08:00"
+      "publishedDateTime": "2022-12-07T08:00:11-08:00"
     },
     {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
