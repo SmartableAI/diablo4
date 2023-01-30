@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/dash-clips-diablo-iv-barbarians-armor-customization-quarterly-update-june-2021.md",
-      "title": "Diablo IV Barbarians Armor & Customization -  Quarterly Update June 2021",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/dash-clips-diablo-iv-barbarians-armor-customization-quarterly-update-june-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/dash-clips-diablo-iv-barbarians-armor-customization-quarterly-update-june-2021/",
-      "originalUrl": "https://youtube.com/watch?v=4yHBhFWp5dc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4yHBhFWp5dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M11S",
-      "provider": {
-        "name": "DASH CLIPS",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T22:23:08-07:00"
-    },
-    {
       "path": "_games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror.md",
       "title": "Diablo 4 Class Deep Dive - Sorceress/Sorceror",
       "excerpt": "diablo4 #openworld Join me in this Diablo 4 video as we talk all about the Sorceress/Sorceror. Sources: ...",
@@ -276,6 +246,66 @@
       "publishedDateTime": "2021-12-25T22:00:08-08:00"
     },
     {
+      "path": "_games/raxxanterax-diablo-4-barbarian-arsenal-system-explained.md",
+      "title": "Diablo 4 Barbarian Arsenal System Explained",
+      "excerpt": "Diablo3 #Season27 #Hardcore #Maxroll #Blizzard Season 27 Guides: Leveling Guide (All Classes) ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/raxxanterax-diablo-4-barbarian-arsenal-system-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-arsenal-system-explained/",
+      "originalUrl": "https://youtube.com/watch?v=-V3uM_uPKpQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V3uM_uPKpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Raxxanterax",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T05:00:00-08:00"
+    },
+    {
+      "path": "_games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch.md",
+      "title": "DIABLO 4 - DRUIDE Klassenmechanik BETA LEAK (Deutsch)!",
+      "excerpt": "Wie funktioniert beim Druide in Diablo 4 die einzigartige Klassenmechanik? Diesen Leak aus der Beta besprechen wir heute im ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/",
+      "originalUrl": "https://youtube.com/watch?v=K_gMbFOboG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_gMbFOboG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "rellihcs",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-01T07:00:11-08:00"
+    },
+    {
       "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
       "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
       "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
@@ -424,36 +454,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-05T08:26:37-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
-      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
-      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-30T17:00:12-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
@@ -821,6 +821,36 @@
       "publishedDateTime": "2022-12-20T11:00:00-08:00"
     },
     {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
+      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-30T17:00:12-08:00"
+    },
+    {
       "path": "_games/extraxp-diablo-4-sorceress-combat-gameplay.md",
       "title": "Diablo 4 -  Sorceress Combat Gameplay",
       "excerpt": "diablo4.",
@@ -879,36 +909,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-14T07:41:09-07:00"
-    },
-    {
-      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
-      "title": "DIABLO 4 DRUID GAMEPLAY",
-      "excerpt": "found it and wanted to share it :)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
-      "provider": {
-        "name": "ImActuallyAFK",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-18T04:00:29-08:00"
     }
   ],
   "nextPage": 3

@@ -4,6 +4,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
+      "title": "Diablo 4 Druid Earth Spike Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earth-spike-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earth-spike-ability/",
+      "originalUrl": "https://youtube.com/watch?v=wk4o1q_7Ez0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wk4o1q_7Ez0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 148,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-24T17:00:30-08:00"
+    },
+    {
       "path": "_games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info.md",
       "title": "Diablo 4 One with Nature DRUID Class Overview - Skills, Abilities, New Mechanics! (More INFO)!",
       "excerpt": "In this video I show you an overview of the druid class for the upcoming open world ARPG, Diablo 4. We go over skills, abilites, ...",
@@ -64,36 +94,6 @@
       "publishedDateTime": "2023-01-23T11:46:29-08:00"
     },
     {
-      "path": "_games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch.md",
-      "title": "DIABLO 4 - DRUIDE Klassenmechanik BETA LEAK (Deutsch)!",
-      "excerpt": "Wie funktioniert beim Druide in Diablo 4 die einzigartige Klassenmechanik? Diesen Leak aus der Beta besprechen wir heute im ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/",
-      "originalUrl": "https://youtube.com/watch?v=K_gMbFOboG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_gMbFOboG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M54S",
-      "provider": {
-        "name": "rellihcs",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-01T07:00:11-08:00"
-    },
-    {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
       "title": "Diablo 4 - 33 Minutes of Gameplay (Druid, Barbarian, Sorceress, Rogue)",
       "excerpt": "Diablo 4 is an upcoming dungeon crawler action role-playing game developed by Blizzard Entertainment, the fourth title in the Diablo series. The game was ...",
@@ -124,36 +124,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-22T07:21:03-07:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
-      "title": "Diablo 4 Druid Earth Spike Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earth-spike-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earth-spike-ability/",
-      "originalUrl": "https://youtube.com/watch?v=wk4o1q_7Ez0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wk4o1q_7Ez0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-24T17:00:30-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-mount-ability.md",
@@ -462,6 +432,36 @@
       "publishedDateTime": "2022-06-22T07:00:32-07:00"
     },
     {
+      "path": "_games/beefguyty-diablo-4-druid-tornado-ability.md",
+      "title": "Diablo 4 Druid Tornado Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-tornado-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-tornado-ability/",
+      "originalUrl": "https://youtube.com/watch?v=h7TnYHGp6lA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h7TnYHGp6lA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-27T17:00:09-08:00"
+    },
+    {
       "path": "_games/gaming-rush-tube-diablo-iv-2023-one-hour-gameplay-barbarian-sorcerer-druid-necromancer.md",
       "title": "Diablo IV - 2023 One Hour Gameplay  – Barbarian, Sorcerer, Druid, Necromancer",
       "excerpt": "Diablo IV - 2023 One Hour Gameplay – Barbarian, Sorcerer, Druid, Necromancer Enjoying the video? pls make sure to subscribe ...",
@@ -645,6 +645,36 @@
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
+      "path": "_games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch.md",
+      "title": "DIABLO 4 - DRUIDE Klassenmechanik BETA LEAK (Deutsch)!",
+      "excerpt": "Wie funktioniert beim Druide in Diablo 4 die einzigartige Klassenmechanik? Diesen Leak aus der Beta besprechen wir heute im ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/",
+      "originalUrl": "https://youtube.com/watch?v=K_gMbFOboG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_gMbFOboG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "rellihcs",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-01T07:00:11-08:00"
+    },
+    {
       "path": "_games/soulnsane-diablo-4-druide-competences-arbre-de-talent.md",
       "title": "DIABLO 4 - Druide: Compétences & Arbre de Talent",
       "excerpt": "Aperçu détaillé des compétences et de l'arbre de talent du Druide. Compétences: https://imgur.com/gallery/IuR7N30 Arbre de Talent: ...",
@@ -703,36 +733,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-27T22:32:04-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
-      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
-      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-30T17:00:12-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
