@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 3 Season 28 leaves players mostly excited, but looking toward Diablo 4"
 excerpt: "Diablo 3 Season 28 is called Rites of Sanctuary and revolves around a newly found, ominous altar found deep within the woods. That's your glimpse of the story, but what that means for gameplay is that ..."
-publishedDateTime: 2023-01-27T06:14:00Z
-originalUrl: "https://www.gamesradar.com/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/"
-webUrl: "https://www.gamesradar.com/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/"
+publishedDateTime: 2023-01-27T06:14:11Z
+originalUrl: "https://www.msn.com/en-us/entertainment/other/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/ar-AA16OkvM"
+webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/ar-AA16OkvM"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/XtgqJFqFupDQyc2fUrHQG4-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16Ox9x.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "060K3EHsAA6ojo51ApV7lkuG0kqSiJRrjk0/AaZuuKmGJxbFDbxGuTwwKG0xuZDtIhXQH6ovXKHGw1ESEGsHkJ7zyUEnPseFYEzBP/Ge8BdC+QC4R28pLOM55wKJ/tv95OBPrh/ARhxz3N/BhkxPSHKMrXXo+0+DPE4QswNXx+bTaWNNNGsR+hpAXSjBLlBWfP9cnqkX4xvhl6WXEuyabGhF7RaD6GaBLLrCHB36tzcEaUr25z+x6Ml0LCn5qVNfw66V7bkj0bYW+gha45abh1r7bIRnryEyJuXWpKNAp2YNCkafzYrOEeXBVlPkYyGzClDt9l9K8vIUe9xE16TwhOf/91rm07e44Iy/hofb1FQ=;nMOkAF8uYgq6CS0OHZZIbg=="
+secured: "BiyU39N+ZB4Ng09Ez/YHral86sPLPvUL79EWYkkyDxa18KaAxNoXS5u/x4WyvfnaDjpvi7owGlXPIc8tqdberc87fenIi11/iPJvjvneNacpYyZXht5E8CttMMVMVEjdmRidQG7M9/Rx/3HMjyrwci2WWnI8P+XSK538lIQ1L+aU1oHs/YbhfR8sili4QCnPOrDMshbYqjolIch+XUJSi6eCSgkxj/oKN5mPPomrg6EblySV5kE6VK9Bm/Jq98R6zpDhBIqJ3rf06gSaq/Pi2vfnzTtKnde+g5FtOcWaOtOGShCQTO3gO+r3q4xMFi7Tu6mv/UK9Gp7OBig9iOo6IVQ/cJz9Z/hghJ4OzVOhiFA=;AEBrZt++7ROrrRH0yumQbQ=="
 ---
 

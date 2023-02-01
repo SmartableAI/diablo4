@@ -26,17 +26,17 @@ images:
 related:
   - title: "Diablo 3 Season 28 leaves players mostly excited, but looking toward Diablo 4"
     excerpt: "Diablo 3 Season 28 is called Rites of Sanctuary and revolves around a newly found, ominous altar found deep within the woods. That's your glimpse of the story, but what that means for gameplay is that ..."
-    publishedDateTime: 2023-01-27T06:14:00Z
-    webUrl: "https://www.gamesradar.com/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/"
+    publishedDateTime: 2023-01-27T06:14:11Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/ar-AA16OkvM"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: GamesRadar+ on MSN
+      domain: msn.com
     quality: 84
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XtgqJFqFupDQyc2fUrHQG4-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16Ox9x.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "LuJOMO+gTyA7NcGWX/jdu5IaJaldaUZ7MqUHO0npOxt7t67s1ZpGAGHxxiyEWdrRIxkeF8TcKdYtx7Q0qJ/MMj4/HTMax7f9PiElPaBhE9ulpk2HolQVwpcebeb9JOEv34sJugRrOdJj7NXp6Un/t8ceGXRtbnxp94VOi7g+xcYV4Ww61BVPT6nPD4wzOPM9bJOwBrF/CAvQJcnWLXe9JvcvNulRPhXC/gj8c9cnD/PtmK5ZFvdkDYOI/B2McbA0n3+uwCRXgjRkATX+nvK9uJrVIN0e5NyTf2wyDexn2rA17AASWO/JwFdryOP8vQpCUSERtYYaL1MAB3w/fog/mlU0XkbZB/bDV+Xf+yqw7hY=;lUhkl0m3W6n1M2AOnfsOzg=="
