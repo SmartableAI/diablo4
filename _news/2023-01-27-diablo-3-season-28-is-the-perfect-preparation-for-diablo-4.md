@@ -27,7 +27,7 @@ related:
   - title: "Diablo 3 Season 28 leaves players mostly excited, but looking toward Diablo 4"
     excerpt: "Diablo 3 Season 28 is called Rites of Sanctuary and revolves around a newly found, ominous altar found deep within the woods. That's your glimpse of the story, but what that means for gameplay is that ..."
     publishedDateTime: 2023-01-27T06:14:11Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/ar-AA16OkvM"
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-3-season-28-leaves-players-mostly-excited-but-looking-toward-diablo-4/ar-AA16OkvM"
     type: article
     provider:
       name: GamesRadar+ on MSN
