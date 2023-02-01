@@ -4,36 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
-      "title": "Diablo 4 Druid Earthen Bulwark Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
-      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-23T17:00:01-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-druid-windshear-ability.md",
       "title": "Diablo 4 Druid Windshear Ability",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -672,6 +642,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-27T11:35:38-08:00"
+    },
+    {
+      "path": "_games/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview.md",
+      "title": "Diablo IV's Rogue And Barbarian Look Insane! New Gameplay Preview",
+      "excerpt": "It's been a hot minute since we've heard from Diablo IV- the upcoming installment for the popular Diablo series that's not on ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview/",
+      "originalUrl": "https://youtube.com/watch?v=6dAnvMfe2kI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6dAnvMfe2kI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M50S",
+      "provider": {
+        "name": "GamerBraves",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T08:02:02-08:00"
     },
     {
       "path": "_games/games-recap-diablo-iv-druid-gameplay-with-nvidia-freestyle-test-comparison-this-is-how-diablo-4-should-look.md",
