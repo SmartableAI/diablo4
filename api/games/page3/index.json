@@ -4,6 +4,68 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay.md",
+      "title": "Diablo 4 Blizzcon 2019 Demo Druid, Sorceress, Barbarian Gameplay",
+      "excerpt": "I was fortunate enough to stream Diablo 4 at Blizzcon 2019, this is the original Gameplay Demo from the showroom floor, enjoy! PODCAST: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bluddshed-diablo-4-blizzcon-2019-demo-druid-sorceress-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=XKzD1NZwUmw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XKzD1NZwUmw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H47M55S",
+      "provider": {
+        "name": "Bluddshed",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XKzD1NZwUmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T18:15:00-07:00"
+    },
+    {
+      "path": "_games/extraxp-diablo-4-sorceress-combat-gameplay.md",
+      "title": "Diablo 4 -  Sorceress Combat Gameplay",
+      "excerpt": "diablo4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/extraxp-diablo-4-sorceress-combat-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/extraxp-diablo-4-sorceress-combat-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=z5ifOX2ydtA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z5ifOX2ydtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "ExtraXP",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T16:26:46-08:00"
+    },
+    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
       "title": "New Gameplay Today – Diablo IV's Barbarian",
       "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
@@ -182,6 +244,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-18T04:00:29-08:00"
+    },
+    {
+      "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
+      "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
+      "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/",
+      "originalUrl": "https://youtube.com/watch?v=vL5dEt2Izf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M40S",
+      "provider": {
+        "name": "Patife",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-02T15:00:31-07:00"
     },
     {
       "path": "_games/-diablo-4-druid-gameplay.md",
@@ -818,96 +910,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-01T17:00:12-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-cataclysm-ability.md",
-      "title": "Diablo 4 Druid Cataclysm Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-cataclysm-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-cataclysm-ability/",
-      "originalUrl": "https://youtube.com/watch?v=mbBHMCoyPyw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mbBHMCoyPyw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T21:39:04-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-cyclone-ability.md",
-      "title": "Diablo 4 Druid Cyclone Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-cyclone-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-cyclone-ability/",
-      "originalUrl": "https://youtube.com/watch?v=kaQtOE4QBpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kaQtOE4QBpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-22T17:00:17-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
-      "title": "Diablo 4 Druid Earthen Bulwark Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
-      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-23T17:00:01-08:00"
     }
   ],
   "nextPage": 4

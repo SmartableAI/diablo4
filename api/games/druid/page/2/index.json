@@ -4,6 +4,37 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
+      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
+      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M50S",
+      "provider": {
+        "name": "Phillip Chu Joy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-03T12:06:38-08:00"
+    },
+    {
       "path": "_games/upscaled-game-trailers-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer-upscaled-4k.md",
       "title": "Diablo 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer [Upscaled 4K]",
       "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid. * Website: ...",
@@ -185,6 +216,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-18T04:00:29-08:00"
+    },
+    {
+      "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
+      "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
+      "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/",
+      "originalUrl": "https://youtube.com/watch?v=vL5dEt2Izf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M40S",
+      "provider": {
+        "name": "Patife",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-02T15:00:31-07:00"
     },
     {
       "path": "_games/-diablo-4-druid-gameplay.md",
@@ -643,36 +704,6 @@
       "publishedDateTime": "2022-12-23T17:00:01-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-windshear-ability.md",
-      "title": "Diablo 4 Druid Windshear Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-windshear-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-windshear-ability/",
-      "originalUrl": "https://youtube.com/watch?v=gmPgWd5oxY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmPgWd5oxY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-28T17:00:14-08:00"
-    },
-    {
       "path": "_games/bluddshed-diablo-4-pvp-rune-words-mythic-items-progression-barbarian-druid-sorceress-blizzcon-2019.md",
       "title": "Diablo 4 Pvp, Rune Words, Mythic Items, Progression, Barbarian, Druid, Sorceress Blizzcon 2019",
       "excerpt": "Welcome to my massive Diablo 4 information station, I spent all weekend playing the demo and talking with developers, hopefully this video helps you out!",
@@ -890,37 +921,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-04T18:02:33-08:00"
-    },
-    {
-      "path": "_games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer.md",
-      "title": "Diablo 4   Barbarian, Sorcerer & Druid Gameplay Trailer",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=HwQR-FRevjA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HwQR-FRevjA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M3S",
-      "provider": {
-        "name": "GamePlay",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-11-27T11:35:38-08:00"
     }
   ],
   "nextPage": 3

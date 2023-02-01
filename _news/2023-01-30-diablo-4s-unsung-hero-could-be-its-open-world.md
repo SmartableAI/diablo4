@@ -6,9 +6,6 @@ publishedDateTime: 2023-01-30T07:00:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4s-unsung-hero-could-be-its-open-world/"
 webUrl: "https://www.gamesradar.com/diablo-4s-unsung-hero-could-be-its-open-world/"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: GamesRadar+
@@ -17,12 +14,6 @@ provider:
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/EKcRqJtHgymGSwHdyojvpH-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "Qt842uKtAC1+XQSB3iEae3Mvim62vOJJthG9zNmUpoZkW0T/aKqT6xqnGdb6VaIlYQyxNQEJ/8t67lPvtuG625lYuf/Pnkk3tJ0qV97fUBDoAEoG/xNg0mo8C4WmVIuiUaSqFpiYDKemS8vnjzyqgDw5AE5LxXePF9hTX/qZ6QFhMWtSm+YZJExW3pTOZW91WxLQYoO2mr/6OTCAP96d779afrsresOQtHlzzDJGOfTBcVaRLfxfph4ZF4ctYdmqIgaQwwSnYGV1h7UPzgDm/JUAEpRf1QGmsr8eNUv3MTRuBVe6/6Iq+ff6AfrS7smb96Re9xCz8cE6zbZ3koJZ5fl2dP4Pm3dxF5eVDj+IYwA=;Ak4zTvR1OAvxJFAXPEn0ng=="
+secured: "k8l+K3yHoFsRe7N1Gs+aZRhdpTH3PIdPjD5J+ASRY/6dN8o2itZRrYCV/btesv8HZrF6tvQ+RxEmikVxyUjzRr4kG/j+3RuFAq/ynmPILTrUUzxzQ9TE5ZRyqr/G2Y5GfHvZQfhIC+81hhbszpmABYu2d3sqoPbzEkAHQKupzoWMBM6a8qXYA/PKiPvA0gmGc0W8Q5Mvb+wPFAzRDgufjITmaBU8bOaCj8CILd3DVl2IgAvrz7Cta3kSJ2+zymtEJoQRr8CCqH0HsnFBeRgD40f/URONSmcJBE49VT0ng/Esw4F1KQIAcNPoEUFPDzjUwi/VViE5BVSLa8GV925OWhJ0HOtirCMgssHUo9YaFNs=;TnOIxdHSsIylSd9GmNez5Q=="
 ---
 
