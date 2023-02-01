@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms.md",
+      "title": "Path of Exile devs hope to appease frustrated fans as Diablo 4 looms",
+      "excerpt": "Path of Exile devs take steps to appease frustrated fans as Diablo 4 approaches after several recent updates to the fantasy ARPG game leave the community upset ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms/index.json",
+      "webUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
+      "originalUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/path-of-exile-devs-community-lake-of-kalandra-diablo-4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3.md",
       "title": "What are the best aspects of Season play that Diablo 4 should make sure to borrow from Diablo 3?",
       "excerpt": "Diablo 4 will have Seasons, iterating on the Ladder Seasons from Diablo 2 and the Seasons of Diablo 3. Because it's a new game, there will obviously be dif ...",
@@ -1043,57 +1085,6 @@
         "name": "Comicbook.com",
         "domain": "comicbook.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway.md",
-      "title": "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway",
-      "excerpt": "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway/index.json",
-      "webUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
-      "originalUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
