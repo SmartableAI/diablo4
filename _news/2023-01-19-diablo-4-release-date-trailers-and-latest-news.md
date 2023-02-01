@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 release date, details, and everything we know"
-    excerpt: "Learn everything you need to know about Diablo 4, including the release date, gameplay details, info on classes and skills, latest news, and more!"
-    publishedDateTime: 2023-01-12T09:12:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-release-date-details-everything-we-know"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 87
-    images:
-      - url: "https://assets2.rockpapershotgun.com/Diablo-4-release-date_eEGbuoc.jpg/BROK/thumbnail/1200x630/Diablo-4-release-date_eEGbuoc.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 release date, trailers, gameplay, and news"
     excerpt: "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ..."
     publishedDateTime: 2023-01-17T11:57:00Z
