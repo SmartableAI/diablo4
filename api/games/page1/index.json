@@ -34,6 +34,36 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
+      "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
+      "title": "Diablo 4 Druid Earth Spike Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earth-spike-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earth-spike-ability/",
+      "originalUrl": "https://youtube.com/watch?v=wk4o1q_7Ez0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wk4o1q_7Ez0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-24T17:00:30-08:00"
+    },
+    {
       "path": "_games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info.md",
       "title": "Diablo 4 One with Nature DRUID Class Overview - Skills, Abilities, New Mechanics! (More INFO)!",
       "excerpt": "In this video I show you an overview of the druid class for the upcoming open world ARPG, Diablo 4. We go over skills, abilites, ...",
@@ -62,36 +92,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-28T16:50:31-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-barbarian-ability-flay.md",
-      "title": "Diablo 4 Barbarian Ability FLAY",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-ability-flay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-ability-flay/",
-      "originalUrl": "https://youtube.com/watch?v=aJwdcH8KjYA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aJwdcH8KjYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-20T11:00:00-08:00"
     },
     {
       "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
@@ -274,36 +274,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-18T05:00:32-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
-      "title": "Diablo 4 Druid Earth Spike Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earth-spike-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earth-spike-ability/",
-      "originalUrl": "https://youtube.com/watch?v=wk4o1q_7Ez0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wk4o1q_7Ez0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-24T17:00:30-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-barbarian-mount-ability.md",
@@ -911,6 +881,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T12:24:26-07:00"
+    },
+    {
+      "path": "_games/raxxanterax-diablo-4-barbarian-arsenal-system-explained.md",
+      "title": "Diablo 4 Barbarian Arsenal System Explained",
+      "excerpt": "Diablo3 #Season27 #Hardcore #Maxroll #Blizzard Season 27 Guides: Leveling Guide (All Classes) ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/raxxanterax-diablo-4-barbarian-arsenal-system-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-arsenal-system-explained/",
+      "originalUrl": "https://youtube.com/watch?v=-V3uM_uPKpQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V3uM_uPKpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Raxxanterax",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-08T05:00:00-08:00"
     }
   ],
   "nextPage": 2
