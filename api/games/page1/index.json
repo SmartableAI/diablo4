@@ -64,23 +64,23 @@
       "publishedDateTime": "2023-01-28T16:50:31-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-tornado-ability.md",
-      "title": "Diablo 4 Druid Tornado Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-tornado-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-tornado-ability/",
-      "originalUrl": "https://youtube.com/watch?v=h7TnYHGp6lA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h7TnYHGp6lA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
+      "path": "_games/ibihs-diablo-4-new-barbarian-dungeon-gameplay.md",
+      "title": "Diablo 4 - New Barbarian Dungeon Gameplay",
+      "excerpt": "diablo #diablo4 #barbarian Below is some Barbarian Gameplay. You can see primary abilities in action, plus Battle Trance and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ibihs-diablo-4-new-barbarian-dungeon-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ibihs-diablo-4-new-barbarian-dungeon-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=zbOONAsh-Sc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOONAsh-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M35S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "IbiHs",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
-      "heat": 116,
+      "heat": 110,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -91,37 +91,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-27T17:00:09-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
-      "title": "Diablo 4 Druid Ravens Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
-      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-26T16:00:13-08:00"
+      "publishedDateTime": "2022-12-08T01:11:56-08:00"
     },
     {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
@@ -730,6 +700,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T10:06:33-07:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-tornado-ability.md",
+      "title": "Diablo 4 Druid Tornado Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-tornado-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-tornado-ability/",
+      "originalUrl": "https://youtube.com/watch?v=h7TnYHGp6lA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h7TnYHGp6lA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-27T17:00:09-08:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
