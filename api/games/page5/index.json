@@ -4,66 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update.md",
-      "title": "Diablo 4 Rogue, Barbarian and Monster Art Showcase (Quarterly Update)",
-      "excerpt": "Get a glimpse of Diablo IV characters recorded in slow motion in Diablo IV's real time engine for the Rogue, Barbarian, Blood Bishop, Skeleton Lord, Spider Host ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamespot-diablo-4-rogue-barbarian-and-monster-art-showcase-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=DxaZnD_fFPw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DxaZnD_fFPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
-      "provider": {
-        "name": "GameSpot",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DxaZnD_fFPw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-06-30T18:30:01-07:00"
-    },
-    {
-      "path": "_games/gamesrecap-new-mustwatch-diablo-iv-druid-official-gameplay-2021.md",
-      "title": "New MustWatch - Diablo IV Druid Official Gameplay 2021",
-      "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamesrecap-new-mustwatch-diablo-iv-druid-official-gameplay-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamesrecap-new-mustwatch-diablo-iv-druid-official-gameplay-2021/",
-      "originalUrl": "https://youtube.com/watch?v=GG2GnEaWad0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GG2GnEaWad0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M21S",
-      "provider": {
-        "name": "GamesRecap",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GG2GnEaWad0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-11-01T10:47:27-07:00"
-    },
-    {
       "path": "_games/gametrailers-diablo-4-barbarian-sorcerer-and-druid-gameplay-trailer.md",
       "title": "Diablo 4 - Barbarian, Sorcerer and Druid Gameplay Trailer",
       "excerpt": "Watch the first gameplay reveal of Diablo 4's three confirmed classes: The Barbarian, the Sorcerer, and the Druid.",
@@ -183,6 +123,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-01-22T07:00:10-08:00"
+    },
+    {
+      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p.md",
+      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 2 [FHD 1080p]",
+      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/",
+      "originalUrl": "https://youtube.com/watch?v=ku-rElv48ho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ku-rElv48ho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M21S",
+      "provider": {
+        "name": "GameWorld",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ku-rElv48ho/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-01-23T04:20:19-08:00"
     },
     {
       "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
@@ -305,6 +275,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:21:50-07:00"
+    },
+    {
+      "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
+      "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
+      "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/",
+      "originalUrl": "https://youtube.com/watch?v=Rp55G6LzuMY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rp55G6LzuMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M24S",
+      "provider": {
+        "name": "Giuseppe's Gaming - Twinfinite",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rp55G6LzuMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-01T14:30:13-07:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-sorceress-introduction-and-gameplay-pc-ps4-xbox-one.md",
