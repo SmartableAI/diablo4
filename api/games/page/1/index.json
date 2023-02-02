@@ -64,21 +64,51 @@
       "publishedDateTime": "2023-01-28T16:50:31-08:00"
     },
     {
-      "path": "_games/ibihs-diablo-4-new-barbarian-dungeon-gameplay.md",
-      "title": "Diablo 4 - New Barbarian Dungeon Gameplay",
-      "excerpt": "diablo #diablo4 #barbarian Below is some Barbarian Gameplay. You can see primary abilities in action, plus Battle Trance and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ibihs-diablo-4-new-barbarian-dungeon-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ibihs-diablo-4-new-barbarian-dungeon-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=zbOONAsh-Sc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOONAsh-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M35S",
+      "path": "_games/beefguyty-diablo-4-barbarian-ability-flay.md",
+      "title": "Diablo 4 Barbarian Ability FLAY",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-ability-flay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-ability-flay/",
+      "originalUrl": "https://youtube.com/watch?v=aJwdcH8KjYA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aJwdcH8KjYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
       "provider": {
-        "name": "IbiHs",
+        "name": "BeefGuyTy",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-20T11:00:00-08:00"
+    },
+    {
+      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
+      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
+      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
       ],
       "heat": 110,
       "images": [
@@ -91,7 +121,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-08T01:11:56-08:00"
+      "publishedDateTime": "2022-12-07T12:00:01-08:00"
     },
     {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
@@ -881,36 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T12:24:26-07:00"
-    },
-    {
-      "path": "_games/raxxanterax-diablo-4-barbarian-arsenal-system-explained.md",
-      "title": "Diablo 4 Barbarian Arsenal System Explained",
-      "excerpt": "Diablo3 #Season27 #Hardcore #Maxroll #Blizzard Season 27 Guides: Leveling Guide (All Classes) ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/raxxanterax-diablo-4-barbarian-arsenal-system-explained/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-arsenal-system-explained/",
-      "originalUrl": "https://youtube.com/watch?v=-V3uM_uPKpQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-V3uM_uPKpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
-      "provider": {
-        "name": "Raxxanterax",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-08T05:00:00-08:00"
     }
   ],
   "nextPage": 2
