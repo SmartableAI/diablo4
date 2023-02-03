@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023.md",
+      "title": "'Diablo 4' release date: Game set for launch in April 2023",
+      "excerpt": "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023/index.json",
+      "webUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "originalUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.co.uk/en/full/1390623/diablo-3-xbox-one.jpg",
+          "width": 992,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "publishedDateTime": "2022-11-21T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end.md",
       "title": "Diablo 4 will have a \"more of a branching story\" with a beginning, middle and end",
       "excerpt": "The open world of Blizzard's next game will be detached from more free-roaming experiences like that of The Legend of Zelda: Breath of the Wild.",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window.md",
-      "title": "'Diablo 4' Gets An Open Beta Date And Release Window",
-      "excerpt": "\"Diablo 4\" is almost out of the development oven, but it still needs plenty of testing to ensure a favorable launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window/index.json",
-      "webUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
-      "originalUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
-          "width": 1455,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
-      "publishedDateTime": "2022-11-06T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
