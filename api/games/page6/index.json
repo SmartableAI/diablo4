@@ -4,6 +4,36 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/more-than-games-diablo-4-gameplay-barbarian-later-beta-version.md",
+      "title": "Diablo 4 Gameplay Barbarian (Later beta version)",
+      "excerpt": "Walkthrough of the quest \"Light in the Dark\" for Barbarian. Later beta version of Diablo 4 (Blizzcon 2019) http://www.diablo.com.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/more-than-games-diablo-4-gameplay-barbarian-later-beta-version/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/more-than-games-diablo-4-gameplay-barbarian-later-beta-version/",
+      "originalUrl": "https://youtube.com/watch?v=CT8xNtErEpk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CT8xNtErEpk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M44S",
+      "provider": {
+        "name": "More Than Games",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CT8xNtErEpk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-06-03T00:44:11-07:00"
+    },
+    {
       "path": "_games/noobyg-diablo-4-barbarian-gameplay-brutal-melee-build-shorts-shortsvideo-diablo4-diablo-barbarian.md",
       "title": "Diablo 4 Barbarian gameplay!  Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian",
       "excerpt": "Diablo 4 Barbarian gameplay! Brutal Melee Build! #shorts #shortsvideo #diablo4 #diablo #barbarian Please subscribe for more ...",
@@ -217,36 +247,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-14T17:08:07-07:00"
-    },
-    {
-      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
-      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
-      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M23S",
-      "provider": {
-        "name": "Slaydra",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T12:00:01-08:00"
     },
     {
       "path": "_games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay.md",
