@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-dr
 type: video
 length: PT11M13S
 publishedDateTime: 2022-11-18T13:00:32Z
-heat: 83
+heat: 143
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F5JP4w0YGa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
