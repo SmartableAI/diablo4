@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-strongho
 type: video
 length: PT12M23S
 publishedDateTime: 2022-12-07T20:00:01Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "eHQXos1q44qzf0DJk1+JVgfPyvsRW5O+mjw51lyRAb2iqMX3gfpC17DlGmpU4oECoJe6eT0v0L7LAAKq1vTTYpU7IBQSkVIXxdhhPS8aN29SO/VZqie5dfUMg/rcR0r7WGIG6RmELFW8+WJWvcRqwsVn5HIaa+5Vso5Brsj0Nx3S/F6iZv5Tal6p0Sa78milFxFikkAVA3InWHpWGwdDGDpnk+ynFzYwyn6ztdP+zTWG0bklnv9NjFtG/4cyZ0op5vjwCThC5YPrU8fC0fNt52zNmBElD87HYZrb6vfXhCE1za4RlIHxZYMptcyK6csCQcSoailFjpKYiqTKCwAOMiiLS9E/N6d/c712FWPgXKPrlu8kiyt+tYeIRFlXknPXgKiJ91VzhMRSj3hl/VZi7+IvKWQbKfWMPDV5InFtihE=;eCPGJnFd8SM9ghF8iVu/BA=="
+secured: "l/m93Ei4qtmAKRRCf+EmII4qE47sQYtxEJ553IUVbBejKDoFWIrQmm4xUTypXpxPDlMDL5w2RSk45eZeDf9S7tE1tbHYSslmYUUAKcMCsEnnAL1+JIgO5+0aJpcDVPV1uo5wtNZWmV9GmvgP0KYAlDkfxb6MjLm/j7pEXpmGLsZlNElfixeah4sEY5OkWt03D5eUIqJNuHTyN23k/kNLOsmhSoZH1cQaP9Gs9jh0qXFl+j+jRf+ngW1qOEPB33RgZaHesLgFBBoauRDIIlbzs/UH/8QX+cgy0WQ/NPUnFJdWc9+/74cqw2vpoN09mJXtNCLvlzRnf/+8JYXdJTmw3lLW4tyQyjIQPe3L7bw82urbsAtBNGLe+llZaUzDGHRrJyKlHZXCNBK+ke1/zENqx6a9zRhL6pBKGIKRkx3S7n0=;zuNAO7zDZ1QeiTMWRdKA+g=="
 ---
 
