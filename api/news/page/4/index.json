@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards.md",
+      "title": "Info on Diablo 4 Could Appear Even Before The Game Awards",
+      "excerpt": "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
+      "originalUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/406814604.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=19722",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722",
+      "publishedDateTime": "2022-11-21T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023.md",
       "title": "'Diablo 4' release date: Game set for launch in April 2023",
       "excerpt": "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month.",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-release-date-supposedly-set-for-april-pre-orders-soon.md",
-      "title": "Diablo 4 release date supposedly set for April, pre-orders soon",
-      "excerpt": "The Diablo 4 release date has supposedly been set for April 2023, with pre-orders for the next chapter of Blizzard's woeful RPG saga set to drop in December ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-release-date-supposedly-set-for-april-pre-orders-soon/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-release-date-april-pre-orders.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

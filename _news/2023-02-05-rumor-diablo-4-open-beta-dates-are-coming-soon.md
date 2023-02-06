@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-05T16:18:57Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/rumor-diablo-4-open-beta-dates-are-coming-soon/ar-AA178UXM"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/rumor-diablo-4-open-beta-dates-are-coming-soon/ar-AA178UXM"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: GameRant on MSN

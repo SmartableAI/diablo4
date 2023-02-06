@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-05T15:53:00Z
 originalUrl: "https://comicbook.com/gaming/news/diablo-4-beta-dates-tease-ps5-xbox-pc/"
 webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-dates-tease-ps5-xbox-pc/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Comicbook.com
