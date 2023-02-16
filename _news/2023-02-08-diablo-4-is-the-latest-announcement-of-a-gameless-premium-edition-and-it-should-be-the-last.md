@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Diablo 4 is The Latest Announcement of a Gameless Premium Edition, and It Should Be the Last"
-excerpt: "Diablo 4's Limited Collector's Edition doesn't actually come with the game despite its high price tag, and this is becoming all too common nowadays. For the longest time, special or limited ..."
-publishedDateTime: 2023-02-08T15:34:00Z
-originalUrl: "https://gamerant.com/diablo-4-gameless-premium-edition-bad-trend/"
-webUrl: "https://gamerant.com/diablo-4-gameless-premium-edition-bad-trend/"
+excerpt: "However, over the last decade or so, some video games have chosen to forego actually putting the game inside their collector's editions, and Diablo 4 is just the latest example of this disappointing ..."
+publishedDateTime: 2023-02-08T12:29:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-latest-announcement-of-a-gameless-premium-edition-and-it-should-be-the-last/ar-AA17ggiV"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-the-latest-announcement-of-a-gameless-premium-edition-and-it-should-be-the-last/ar-AA17ggiV"
 type: article
-quality: 116
-heat: 116
+quality: 76
+heat: 76
 published: true
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-collectors-edition.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17fPso.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "gIr6/7ORrRlAA8BCSPT4AMLcEV90sn8di8c1N45F7KPUDZR+gLX+blWodyBP8UbQtzBmVYeVq55UvGrTQrGaBaK7q285RNCK3v/an1BlIfLIfbW5HNmU2pXxG9uWdQHYYA/rje6mCPqzEGo2GX20i9fFHf9RBxXjNE0J2Ypw9uPmJH9v13oXE7yJnd5LwdYTcj4oNrORcJ4TUJJgO0RgRsOyMpyE/GVi1QcK75WzGiNquBpSgJo4Epi9GTwv83Mji3tUL/A8yOVK7Uu6GiwXAh3luQdfrTJ99J8NfqImEQdZcK368XgxKJFYbH4ZcqJYlH9yvUqZUqq7qT6pqzGWwhK24BNyVCTvQ+Pdd11ssh0=;gHkSzK/EQjUite/uHVRxXA=="
+secured: "Ij4bxrBcu34UtUDNTTRZt48zL2dI7xPHzsugYCstPP3FFe7SGAM2Wp4BsaT80/4XnIIpRoescgGeZi0lmirAL3k+GdOu5MGrFzcfQXEh8SuGZ72uahwHVmVqV8LuTuncqdHtGfJwHeY69QfRSAoG3pnHn60c3t87Vrr1+oz4bU2Bw4mlaaPFGTo4xi9UVaCwJ3Cbm/DLFYWn0dPHm+35GxMA+iYwEogp/QYM3JmqIuQzNWQPmBpkZdTVAWmDt0SdKSw85Jr+TbNAugro2ozR/OMXke2OPMKdcmoCtxxrgkZ2oZ53nphAb8XtAC0xGuAc5oRFsogI0UX6Qk+EKJiE3NVDuic39wsYi2CJnYeEPLU=;9OGlwgXjX0HUnGDPjGx1dw=="
 ---
 
