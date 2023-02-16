@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T07:00:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4s-unsung-hero-could-be-its-open-world/"
 webUrl: "https://www.gamesradar.com/diablo-4s-unsung-hero-could-be-its-open-world/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: GamesRadar+
