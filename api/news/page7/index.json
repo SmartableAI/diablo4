@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out.md",
+      "title": "Diablo 4 is asking people to play the end of the game before it comes out",
+      "excerpt": "In the Diablo games (and many others), vanquishing evil does not signal the end, but rather the beginning: Of endless grinding for incrementally better weapons, equipment, and res ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-diablo-4-closed-endgame-beta-coming-soon.md",
       "title": "Diablo 4 Closed Endgame Beta Coming Soon",
       "excerpt": "Blizzard has announced that it will be running a closed beta for Diablo 4 soon, focused on its endgame content.",
@@ -1061,48 +1112,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer.md",
-      "title": "Diablo 4 - Lilith Awakening, By Three They Come | Announcement Cinematic Trailer",
-      "excerpt": "Amazing cinematic trailer of Lilith awakening in Diablo IV. Thanks for watching! Like and subscribe, check other videos on my ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=7RlIk8RYkaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7RlIk8RYkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T12:54:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "K2Gaming",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
