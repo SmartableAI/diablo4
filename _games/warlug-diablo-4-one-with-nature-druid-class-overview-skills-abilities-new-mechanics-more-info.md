@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/warlug-diablo-4-one-with-nature-d
 type: video
 length: PT3M26S
 publishedDateTime: 2023-01-29T00:50:31Z
-heat: 59
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AEJV6xcGrGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "fVMmoJKkzquMKhiTpdFjvwH3VPtyYFqndO/k0Hph88wNDibu0iSE+ZrmPHNJGuU7mYixaXiZEYqnI3xSKVSN2h6bKDNRzvb3yjtIbam1m1UssixTXe//m0nK5t+hUZ2qnRnq/jNx70iZd0sRw1z4mdJ7X/id4bqIYAsHyjM1qOAacOc2HoRtXkcfdjlsKUL4vGS1TH9wijdv4krz2iA4GI6UDhtZgSHPosCXsdqon7LQfFMPZ2t90DzXT5BIRAs+8ItdkTn9W8MZUJafsgxaB3eab46gP8GeQvsHfBozd/KNCIpy5Mui3E49+EFWVdVzdVi6jr/JfVBo/F+CAipnXNGHZInRuPVXZB0NyP55kExcDNruW1T6+Hi6rIiHaoOAps9qbJDCAXWkNQa4xCm92iK1+gfh52E4w4njuaXk/+M=;/InrZTfp6T+WnFllYLHO5Q=="
+secured: "fRqa2OMmNU/fmnBcJtrKBD1der1WLJKigvgeuMu2+mZFrggLpjBhLk2YtwxE4UKhfxwHm5BB7Uea1eOj+J3jWP7PELjbG4nm0AQ7JPWM7HeeLW5Cqp+d6QQt9sy6AvC86C8Zjg4ifXHtCgqxVkvT71sYG+Lk50hmL6n+aAyDdKbYwpgEjzvOW4KWuq4K8pdxWiGkf3Apd0mYb0h/FvvA2S/4D8JYJQOKDXVFr6tpMXuL7VZcFOTHkV3uajsb/jzvwlbmnAO1mBCDFbvm+9rbg8pctdbRHH1Ykx0yY1yevA+xY35Gu8xAFUKA0QWQzqLR7iuvoXH3V2j0CbKoXRvPJ7wpNKVjvvV2NfGFoEKU1ZReffva6s8MlFPDwpnDUW4HbFIGhOgksyCsgZRSs+bhN698XsYBPUcIBcYRJ9LMA7k=;s6axFIv0XwSM/nEOhFk/wg=="
 ---
 
