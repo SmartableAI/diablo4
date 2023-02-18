@@ -2,6 +2,7 @@
 title: "Diablo 4: Finalmente as Habilidades Passivas do Druida!"
 excerpt: "Diablo IV já tem uma calculadora de Builds e nós não perdemos tempo e vamos te explicar TODAS as habilidades e mecânicas ..."
 originalUrl: https://youtube.com/watch?v=cRncxAWu5iY
+webUrl: https://smartable.ai/apps/diablo4/game/hadomancer-diablo-4-finalmente-as-habilidades-passivas-do-druida/
 type: video
 length: PT7M38S
 publishedDateTime: 2023-02-17T14:45:02Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "trAv9NTlf5oImQeePO3+SnRSzfpjIQsToJ1THr39lZgBLL3BVefHoUCrSoSkawNfC4PKSNcKIX7FRwfud+KHnRPQY7WywKwnI2z0JePweBgqA8ZYCy5XOdlua7xaisGqo0YW6Hu9GAbwHoWKZvwJo1oYVIdQH4SfbgoJOftnB3Omy/ArtBzKarHKsg+iucURtevWAPwCuHjDxGNrMxGaSiAJNqNrA4adXZqs63KXuVEltxHMUlFj4LCwNl715UVLVfah3tF5FKZ7NqejBrIIfLKHrAGtAiG3WBKbn+mWOoXsdV5dmT1s492mPch74joAVh/GVXpz4Kn0X+4h0K/rJtRtmq5vRyGZL32BE6Fo1Nkn7wQZFCjLLubKYVq3cTqJP/6TX8o3AgHWLqhZ5YSG7w==;4A7QxV6WQ2VM+IVvuJtVHw=="
+secured: "MmqrKjBZ1iGOGlyc6tS2LuVbPzK1SHlIWeNsG+hbDyhf/iv6GY1Z/z9vJxQl54aC/v3RY1QILqW+agpJvPJavp0JqqWJW81FS4w2zLawL+AKOot7VNEAQI7rxw7RS2kAKzbh083njRT4IVGFquw5yJn9R4HjsakM2Igc28KJlTHGsvFp0/eAZvoq6NbNP1JDXx0CU1wMiwuMFKlDJZvlE9Zx2D+kC9cKyKYNe7dx7BEj636IGY+scsTP/XAugK1Cce5L9fDs6Q7+saxu7Ifg/bp5O9rsAiBkXk6LJMzVOj6Z8C7eEl0fPL69Ipfqm3Rv4CelBPwdejC08BzkM6BpoT2dmLrlh/qR4RF60sqDCG8WHLDFlzo/8RT3YIWRDFUQew1+9bh0m8OnbrS0hGLPWw==;Ip+oK8PcEdQb7xZuxDpLLQ=="
 ---
 
