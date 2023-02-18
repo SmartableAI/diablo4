@@ -2,6 +2,7 @@
 title: "Druid is AWESOME in Diablo 4!"
 excerpt: "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7."
 originalUrl: https://youtube.com/watch?v=B0B-2rtWGMg
+webUrl: https://smartable.ai/apps/diablo4/game/the-comeback-kids-druid-is-awesome-in-diablo-4/
 type: video
 length: PT35S
 publishedDateTime: 2023-02-17T20:54:20Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "eRPeulvo52ejQBuZDkVS3x3VKflvJmFWG0mTenGPmkCdStRwxbYl1LhDXIAb/IF6AcsamdtZ9CZlG0Q4oUXoYKXsLhCXaqCqpUA7wgoAnnVcVwiw7BWFH6vGGW/H7v552dVfdBT7dKP8hxDX37UF4YARAU8zKjDWonGzHGS1UwsrpvPX0d/SP2/q2uYUIwkAj73yD6UUy4JwB+fH+A78IithoRROEHNZyTsMUvYi3NXgEETn8qZatdu4FKKVO2yqAk7Ho8vb/Eprh4x5SV3uZW423rme1PNH0eZ/HnGffEpB40Dl+amgzrGk9vsRyVkKOzONhCFrwqF7zqEhXKS0M93QcMu8hMPoZv/Ha3GB3udHV/7kT6jWp2R3ee23OJ26wOA5y+jJ2vdbB3iQgxj8mA==;lFviaVASl9csf9B6hrYlRg=="
+secured: "u/KSEaTL0s5rL9CkEdo+P9BEmBkO1ibF3tZbCQt8/ncbA5QdjQqzVglZwwXPr6r/6siDpFM7sSjsRLwrOieaqiH+f0mm2TvJrcFrmtlvYHYRYzCKSpnLe9lpd5amBU4IbXORaAztI+10izf/L5ACis3e/Vhv23FD01uln2o4ig3viufpX15Ub6VmHgAxtghAJpkvSKLGVkYYmikgiciewreY4+I8TSN3oAtb9nXYIWdO5BdghmVysoCA9qNj/Y9/Iv2VTL5ZTon8t3Mw3TUSRIP69xwW4kXC7rqC69jpIOtJuRlwnn/64YRMiKa/DTe9xaB+MvIm4ju/MXCX+VXuPnXPIL5cPbb+NNZ15v1iQEGt6Gecfbjeuh5juNv14e74o2muqSJiUGAkY0E1+Zleow==;+2STIpT5dOjDRG4sdGl3PQ=="
 ---
 
