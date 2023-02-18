@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-02-18-diablo-3-season-28-aims-to-get-players-ready-for-diablo-4s-arrival.md",
-      "title": "Diablo 3 season 28 aims to get players ready for Diablo 4’s arrival",
-      "excerpt": "Blizzard says it wants the Diablo 3 season 28 release to celebrate the arrival of Diablo 4 ahead of the release of the next instalment for one of the most storied RPG games on PC. Revealing the full ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-diablo-3-season-28-aims-to-get-players-ready-for-diablo-4s-arrival/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-iii/season-28-get-ready-diablo-4",
-      "originalUrl": "https://www.pcgamesn.com/diablo-iii/season-28-get-ready-diablo-4",
+      "path": "_news/2023-02-18-your-guide-to-the-diablo-iv-open-beta.md",
+      "title": "Your Guide to the Diablo IV Open Beta",
+      "excerpt": "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-your-guide-to-the-diablo-iv-open-beta/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 242,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-3-season-28-celebrates-diablo-4-blizzard.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg",
+          "width": 880,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,72 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T20:22:00-08:00",
+      "publishedDateTime": "2023-02-18T10:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-diablo-4s-first-playtests-are-coming-in-just-a-few-weeks.md",
+      "title": "Diablo 4's first playtests are coming in just a few weeks",
+      "excerpt": "I found it really reminiscent of the story FMVs from Diablo 2 with its presentation of a lone warrior wandering a desolate landscape, this time your player character instead of the afflicted Diablo 1 warrior.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4g3gDxfdLxPt86y8anBef5-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -247,7 +307,7 @@
       "originalUrl": "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1060,48 +1120,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview.md",
-      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways - Blizzard Interview",
-      "excerpt": "Speaking to the team at Blizzard about all things Diablo IV, we got confirmation that the team is planning some pretty epic stuff for its post-launch Seasons. The long-awaited Diablo IV from Blizzard ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview/index.json",
-      "webUrl": "https://www.ausgamers.com/features/read/3645703",
-      "originalUrl": "https://www.ausgamers.com/features/read/3645703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.ausgamers.com/gameres/7407/images/695/CharacterDevelopment_Campfire_001.jpg",
-          "width": 695,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aus Games",
-        "domain": "ausgamers.com",
         "images": null,
         "publishers": null,
         "authors": null

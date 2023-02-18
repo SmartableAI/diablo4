@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
-    excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
-    publishedDateTime: 2023-02-13T05:01:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/blizzard-beta-date-tease"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-beta-release-date-blizzard-tease.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Looks like the Diablo 4 open beta start date could be revealed next week"
     excerpt: "A new tease points to Diablo 4's open beta start date being unveiled \"soon\", possibly even at a gaming event next week. Just last week, one fan took to Twitter to ask Diablo general manager Rod ..."
     publishedDateTime: 2023-02-06T09:09:00Z
