@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/hadomancer-diablo-4-finalmente-as
 type: video
 length: PT7M38S
 publishedDateTime: 2023-02-17T14:45:02Z
-heat: 209
+heat: 174
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cRncxAWu5iY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "MmqrKjBZ1iGOGlyc6tS2LuVbPzK1SHlIWeNsG+hbDyhf/iv6GY1Z/z9vJxQl54aC/v3RY1QILqW+agpJvPJavp0JqqWJW81FS4w2zLawL+AKOot7VNEAQI7rxw7RS2kAKzbh083njRT4IVGFquw5yJn9R4HjsakM2Igc28KJlTHGsvFp0/eAZvoq6NbNP1JDXx0CU1wMiwuMFKlDJZvlE9Zx2D+kC9cKyKYNe7dx7BEj636IGY+scsTP/XAugK1Cce5L9fDs6Q7+saxu7Ifg/bp5O9rsAiBkXk6LJMzVOj6Z8C7eEl0fPL69Ipfqm3Rv4CelBPwdejC08BzkM6BpoT2dmLrlh/qR4RF60sqDCG8WHLDFlzo/8RT3YIWRDFUQew1+9bh0m8OnbrS0hGLPWw==;Ip+oK8PcEdQb7xZuxDpLLQ=="
+secured: "+vBeB9x2X7S/P2kmK2Sjqn8q/YgR4LV+z+GJEyEnJbtoW0fyocIU82pjLp7k8NWbw/BkpfZKwtZBQDcwdZ4cwohGJnrjUXSeeTKK6GxjMk1LvcjMRxshkwAh2UcNdUnodG7FK+mtpVOjekjDBlZ5vu+8ydG05urc541Qr8NNjNZPJIDZwvb6qq1VJzvv0hJKaFW4vYVf56EfBy2RV7ed046GmKC4iG41PRczv2lj23Vua/L4VUfyMNGByK2Cv3v/1dDEPYQTsKIDx+A38EOxIaWOyP2NVWDcGi+DDgN36CenJ5IiLKIrhlNP/wtQBfBp/jWE4kkEWCIGRc6mNm5lkksv20o/HaOx829OrBWtdvazOs8RebbtB0tza75wcQfKhzgaqPOA/3sJqTPzS96KYZKUV5hK93N7nFcBVnOxpsQ=;+miI9mrun9Fkm7h7HxCFFg=="
 ---
 
