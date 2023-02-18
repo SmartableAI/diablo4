@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-12-diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles.md",
+      "title": "Diablo 4 Launches in 2023, Coming to PC, Xbox and PlayStation Consoles",
+      "excerpt": "Revealed at the Xbox and Bethesda showcase, Blizzard had new gameplay for the highly anticipated Diablo IV, and it was also announced that the game is coming to PC, Xbox and PlayStation consoles in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/b20a2104c0ec765bc9ffd9fad22ea6c368f0866f/2022/06/12/965f77b9-a69f-4d71-b5bd-0118a44c5d13/diablo4.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-launches-in-2023-coming-to-pc-xbox-and-playstation-consoles/",
+      "publishedDateTime": "2022-06-12T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay.md",
       "title": "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay",
       "excerpt": "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go.",
@@ -1051,48 +1102,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-diablo-4-release-date.md",
-      "title": "Diablo 4 Release Date",
-      "excerpt": "Many gamers around the world were pleased when Blizzard announced and confirmed that the long-awaited Diablo 4 is currently in the works. There is no denying that Diablo is one of the most iconic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-02-24-diablo-4-release-date/index.json",
-      "webUrl": "https://epicstream.com/article/diablo-4-release-date-trailers-gameplay-update-blizzard-making-big-changes-to-items-game-comes-with-4-classes-3-new-stats-skill-tree-and-more",
-      "originalUrl": "https://epicstream.com/article/diablo-4-release-date-trailers-gameplay-update-blizzard-making-big-changes-to-items-game-comes-with-4-classes-3-new-stats-skill-tree-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.realsport101.com/images/ncavvykf/epicstream/0bfd1aab0a9b3549d732c4c384ac9ebdb7c29fed-1620x1011.png?rect=0,49,1620,912&w=686&h=386&auto=format",
-          "width": 686,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T15:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Epicstream",
-        "domain": "epicstream.com",
         "images": null,
         "publishers": null,
         "authors": null

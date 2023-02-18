@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-18-diablo-3-season-28-aims-to-get-players-ready-for-diablo-4s-arrival.md",
+      "title": "Diablo 3 season 28 aims to get players ready for Diablo 4’s arrival",
+      "excerpt": "Blizzard says it wants the Diablo 3 season 28 release to celebrate the arrival of Diablo 4 ahead of the release of the next instalment for one of the most storied RPG games on PC. Revealing the full ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-diablo-3-season-28-aims-to-get-players-ready-for-diablo-4s-arrival/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-iii/season-28-get-ready-diablo-4",
+      "originalUrl": "https://www.pcgamesn.com/diablo-iii/season-28-get-ready-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-3-season-28-celebrates-diablo-4-blizzard.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
       "title": "Diablo 4   Official Announcement Cinematic Trailer  Blizzcon 2019",
       "excerpt": "Diablo 4 Official Cinematic Release Date Trailer.",
@@ -97,19 +139,19 @@
     {
       "path": "_news/2023-02-10-diablo-4-will-not-have-item-sets-at-launch.md",
       "title": "Diablo 4 Will Not Have Item Sets At Launch",
-      "excerpt": "One iconic feature of the Diablo franchise is not returning to Diablo 4, as Blizzard Entertainment reveals that item sets will only make their way to the hack-and-slash sequel in a post-launch update.",
+      "excerpt": "One of the most iconic parts of the Diablo franchise won't be making its way to Diablo 4 at launch, as the game's set items have been postponed. Ultimately, fans will be able to test out the game ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-10-diablo-4-will-not-have-item-sets-at-launch/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-not-have-item-sets-at-launch/ar-AA17ldgn",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-not-have-item-sets-at-launch/ar-AA17ldgn",
+      "webUrl": "https://gamerant.com/diablo-4-item-sets-launch/",
+      "originalUrl": "https://gamerant.com/diablo-4-item-sets-launch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17kYum.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo.jpg",
+          "width": 1800,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,12 +161,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T01:24:00-08:00",
+      "publishedDateTime": "2023-02-10T03:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1047,48 +1098,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-12T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aus Games",
-        "domain": "ausgamers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard.md",
-      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways According to Blizzard",
-      "excerpt": "The long-awaited Diablo IV from Blizzard is on track for a June release this year, and you can check out our recent hands-on preview here. Speaking to the team at Blizzard about all things Diablo IV, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard/index.json",
-      "webUrl": "https://www.ausgamers.com/news/read/3645705/diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard",
-      "originalUrl": "https://www.ausgamers.com/news/read/3645705/diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.ausgamers.com/gameres/7407/images/695/CharacterDevelopment_Campfire_001.jpg",
-          "width": 695,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T14:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Aus Games",

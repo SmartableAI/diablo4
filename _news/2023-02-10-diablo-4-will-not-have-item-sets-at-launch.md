@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Diablo 4 Will Not Have Item Sets At Launch"
-excerpt: "One iconic feature of the Diablo franchise is not returning to Diablo 4, as Blizzard Entertainment reveals that item sets will only make their way to the hack-and-slash sequel in a post-launch update."
-publishedDateTime: 2023-02-10T09:24:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-not-have-item-sets-at-launch/ar-AA17ldgn"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-not-have-item-sets-at-launch/ar-AA17ldgn"
+excerpt: "One of the most iconic parts of the Diablo franchise won't be making its way to Diablo 4 at launch, as the game's set items have been postponed. Ultimately, fans will be able to test out the game ..."
+publishedDateTime: 2023-02-10T11:04:00Z
+originalUrl: "https://gamerant.com/diablo-4-item-sets-launch/"
+webUrl: "https://gamerant.com/diablo-4-item-sets-launch/"
 type: article
-quality: 87
-heat: 87
+quality: 127
+heat: 127
 published: true
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: Game Rant
+  domain: gamerant.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17kYum.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
-secured: "MLQeUC4poojZhyle3OCQ2ut2TI14xsAyul//ZPTrLEg0bk4LCzChHRI6xL7HIy1uWhcZj1+YzmMOk04aItO/isKEHOtY+1NPiCVO8eIxlxdoXkyn1rnxnaEZcG/KftuDIWl+VXv+g4U+Rp8XTfAsL6jj4mw6NyUJ9LZ54LQQAzDrWYhOKS4HjYMGqcg2Sv/h6QqlBj5Ay+9iQK5aDmcTUvvK05YBg02XoYwkyf86ZTnXSFShsNGsnJPEZ8wa+8Wp4rlzwTBwdvJ+qq7tITegSk0q3N3hTzOO9B0TvzRlpCWdLVjCwFiU54XBHDW/MUPNNHSiCau5z8jxZiqZpVVvgYoEAaqGiKifN2o5bm54fMo=;B04QlmcU0TnBMSNrCnIIEA=="
+secured: "Vw0XBBbF+sJGU6sG3Appy7oxMsbtAcNhasAPdmzvtLaqNimPmzfY48N9Gbk7XheGqidlIUS9/EZIEVYoCyQq0OVLch0Xb7lxiy29mHktE2B+Wu25SlpAE8pdsdwZb9/EKzoBcc+iJbq302D4eZbWR8HQOCIs6wC9Oj9dmgEva+8bt+O+u+wJZh4ZTXe7cH87L2nsu+v3VLH+zcBeM3jRVWhmmy8iPWFheR9TKsrlILQUpMTlwMtg7Am8KxHnyquLtOLqhdgX8yxtrYVnh/16/MvjksS1+VQQAKy6lo/ozY06w2Qc1u+wMigvc7z1O18ABeVT6ChAD0aT6bITVQ9td31L6HCrw+005tQVSMPu2pc=;VeGnKtE+6xN6WXu+At0+kw=="
 ---
 
