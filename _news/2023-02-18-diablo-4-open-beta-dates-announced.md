@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
-excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
-publishedDateTime: 2023-02-18T18:10:48Z
-originalUrl: "https://youtube.com/watch?v=-Sj0qesw0ok"
-type: video
-quality: 136
+title: "Diablo 4 Open Beta Dates Announced"
+excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
+publishedDateTime: 2023-02-18T10:29:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
+type: article
+quality: 107
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Sj0qesw0ok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: IGN
-  domain: youtube.com
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
+  - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
+    width: 568
+    height: 320
     isCached: true
 
 related:
@@ -81,6 +82,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
+    excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
+    publishedDateTime: 2023-02-18T18:10:48Z
+    webUrl: ""
+    type: video
+    provider:
+      name: IGN
+      domain: youtube.com
+    quality: 136
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023 - Reaction"
     excerpt: "I'm guessing the wolf is supposed to represent something or be someone."
     publishedDateTime: 2023-02-18T19:12:52Z
@@ -108,22 +123,6 @@ related:
       - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Diablo 4 Open Beta Dates Announced"
-    excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
-    publishedDateTime: 2023-02-18T10:29:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
-        width: 568
-        height: 320
         isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
@@ -168,6 +167,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ALFPicLPpFTMweIPTIWSwQA5UgVbFNJAiLePqKkpp1f4UjM9cLNP1cYtz3GltIU2Cgq4K3KourkewsGJ+DTja3X1FrPxVZv7K4bW3M2Rg0SVkveOjarnzT60RJdkLPwwYg/ouPqFpIvJUQFD6BwY0zvLGECsO2RflBpz+VKrK/O9c2YVHZmI8KcUtoQxeDbw/+ojuNOKJFn9msohUcsBKRlXdtf0fj1AXZgMRPlCkIeDAke5nVCtSctwJ9DebQzNKIKMTP5OVz+ey7Vh7OEdw1Ll/nKnNlEj6ryq947zBfm7ACVmocKEl89Lvq2cOuZwId86HgfBY/D0vqZiloGThdHE0LJay3u+n13fCcHAByGY4b/Xfn84ZFYY9c7ujAdsRsC9fBFspmet6H98iSjWPQ==;A7CLfq1P1mNY8ee4mxAx1g=="
+secured: "5wErT50IJKUsZdyEH3qrSzcmF5O0O4sx8N2SCKJHw5O9REaGKkkE2FcgQep9rkD7UjU1Kcd0WMxqE58DiDfTazisrBop557qDioPkrCcznB9+k1iozMKl8kDNbNGXChUTpoQJl1lEYJTP0xW0by7qOJubRQJD6JCbVa/l81UAJmOXmUyhtMDL+rN6QPP6HTH96peelwMPf5sEe71RuXR5e2ytd9RxQ0T9n/4N8NsEO35tkG5dqRJVpLI0wKCo8xhuHGmPLa6iYLyumtkfXNiXAM3LTZNFzqmT+Txkslhdz9GLYJXzVRrZZLGkurNY9zE7GzE0+sIXxQ8bXK8eAo6y1eLfK9uk7ijNZlsd9FtGdY=;DZuIL8KatB7yvgCWUS7B9A=="
 ---
 

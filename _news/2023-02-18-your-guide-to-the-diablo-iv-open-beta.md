@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 322
+heat: 362
 published: true
 
 provider:
@@ -97,6 +97,36 @@ related:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Diablo 4 Beta Kicks Off Next Month"
+    excerpt: "It's been a long road, but we're finally just months away from the long-awaited release of Diablo 4. And as revealed today at IGN FanFest, we're getting a taste of gameplay even sooner. Diablo 4 is getting an open beta next month, with pre-order early ..."
+    publishedDateTime: 2023-02-18T08:16:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-beta-kicks-off-next-month"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4 Open Beta Dates Announced"
+    excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
+    publishedDateTime: 2023-02-18T10:29:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."

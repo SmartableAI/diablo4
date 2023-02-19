@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
-excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
-publishedDateTime: 2023-02-18T18:10:48Z
-originalUrl: "https://youtube.com/watch?v=-Sj0qesw0ok"
-type: video
-quality: 136
+title: "Diablo 4 Beta Kicks Off Next Month"
+excerpt: "It's been a long road, but we're finally just months away from the long-awaited release of Diablo 4. And as revealed today at IGN FanFest, we're getting a taste of gameplay even sooner. Diablo 4 is getting an open beta next month, with pre-order early ..."
+publishedDateTime: 2023-02-18T08:16:00Z
+originalUrl: "https://www.ign.com/articles/diablo-4-beta-kicks-off-next-month"
+webUrl: "https://www.ign.com/articles/diablo-4-beta-kicks-off-next-month"
+type: article
+quality: 127
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Sj0qesw0ok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
   name: IGN
-  domain: youtube.com
+  domain: ign.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
+  - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -81,6 +84,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
+    excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
+    publishedDateTime: 2023-02-18T18:10:48Z
+    webUrl: ""
+    type: video
+    provider:
+      name: IGN
+      domain: youtube.com
+    quality: 136
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023 - Reaction"
     excerpt: "I'm guessing the wolf is supposed to represent something or be someone."
     publishedDateTime: 2023-02-18T19:12:52Z
@@ -94,20 +111,6 @@ related:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Diablo 4 Beta Kicks Off Next Month"
-    excerpt: "It's been a long road, but we're finally just months away from the long-awaited release of Diablo 4. And as revealed today at IGN FanFest, we're getting a taste of gameplay even sooner. Diablo 4 is getting an open beta next month, with pre-order early ..."
-    publishedDateTime: 2023-02-18T08:16:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-beta-kicks-off-next-month"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Diablo 4 Open Beta Dates Announced"
     excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
@@ -168,6 +171,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ALFPicLPpFTMweIPTIWSwQA5UgVbFNJAiLePqKkpp1f4UjM9cLNP1cYtz3GltIU2Cgq4K3KourkewsGJ+DTja3X1FrPxVZv7K4bW3M2Rg0SVkveOjarnzT60RJdkLPwwYg/ouPqFpIvJUQFD6BwY0zvLGECsO2RflBpz+VKrK/O9c2YVHZmI8KcUtoQxeDbw/+ojuNOKJFn9msohUcsBKRlXdtf0fj1AXZgMRPlCkIeDAke5nVCtSctwJ9DebQzNKIKMTP5OVz+ey7Vh7OEdw1Ll/nKnNlEj6ryq947zBfm7ACVmocKEl89Lvq2cOuZwId86HgfBY/D0vqZiloGThdHE0LJay3u+n13fCcHAByGY4b/Xfn84ZFYY9c7ujAdsRsC9fBFspmet6H98iSjWPQ==;A7CLfq1P1mNY8ee4mxAx1g=="
+secured: "fR4EeRNQ9ZD9eIX6dy6vdEoaKoBUDWW0dgZHSbNSoz/3yA5IYqCVYg7IcD6l2IUq1ZoAm9mV6bijqOvJj5JckMM6EH+xp/Gfk9RQaQBpRX/hkjNCaPo39gYLK/dT2gYKtLW5OJ1cwT0EFKDGERR4lng8AnYngmWruKeRLx4Fx17i1YDAikh5TxGHMvIvamrEqf6ehJ5gUu3/EoZjxSk/toUlS36/mG1zNrOJlalM6SY4c5AMA7q8ieKf8DHHMnyySVIb3x8rXizbbCUqyq/mFb+7pgi0tKb/zuGxWvNmYNG9RnLZyHAFRUSZSe/pp7H9irRfrkyVYeiFkK2IdQOPyzHEVMv45suPKEF1mmKqCy4=;CTv9eHYU3eV/Q8rjuUKk6w=="
 ---
 
