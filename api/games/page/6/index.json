@@ -4,36 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_games/markos-x-projectdiablo-2czekajac-na-diablo-4druid-przywoywacz.md",
-      "title": "ProjectDiablo 2.Czekając na Diablo 4.Druid przywoływacz.",
-      "excerpt": "Druid Wolfmaster przywoływacz.Kolejny tani build.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/markos-x-projectdiablo-2czekajac-na-diablo-4druid-przywoywacz/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/markos-x-projectdiablo-2czekajac-na-diablo-4druid-przywoywacz/",
-      "originalUrl": "https://youtube.com/watch?v=oJkjNkNbpB8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oJkjNkNbpB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M",
-      "provider": {
-        "name": "Markos X",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-12-23T06:34:15-08:00"
-    },
-    {
       "path": "_games/midtier-gamer-diablo-4-barbarian-sorcerer-druid-official-gameplay-trailer.md",
       "title": "DIABLO 4 - Barbarian, Sorcerer & Druid Official Gameplay Trailer",
       "excerpt": "Diablo 4 gameplay featuring Barbarian, Sorcerer and Druid. Enjoy.",
@@ -368,6 +338,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-06-14T17:08:07-07:00"
+    },
+    {
+      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
+      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
+      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T12:00:01-08:00"
     },
     {
       "path": "_games/smithtainment-all-new-diablo-4-charactermonster-designs-animations-rogue-barbarian-diablo-4-gameplay.md",

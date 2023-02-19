@@ -4,38 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian.md",
-      "title": "Diablo 4 first gameplay reveal - Sorceress,Druid,Barbarian",
-      "excerpt": "Enjoy the 1st look of Diablo 4 gameplay This game looks simply amazing lets hope Blizzard can finally deliver a true successor to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/",
-      "originalUrl": "https://youtube.com/watch?v=igR2p0V37h0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igR2p0V37h0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M50S",
-      "provider": {
-        "name": "Gameclyps",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-04T18:02:33-08:00"
-    },
-    {
       "path": "_games/games-recap-newest-diablo-iv-sorceress-official-gameplay-2021.md",
       "title": "Newest -Diablo IV Sorceress Official Gameplay 2021",
       "excerpt": "Make sure to SUBSCRIBE also Hit The Bell so don't miss out when we upload new videos! If you like our videos please consider SUBSCRIBE = More ...",
@@ -368,6 +336,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-14T08:16:53-07:00"
+    },
+    {
+      "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
+      "title": "Diablo 4 Boss in Stronghold Gameplay Dec 2022 Group Play Cold Sorceress Gameplay",
+      "excerpt": "Keep up to date with all the GAMES by hitting Subscribe! https://www.youtube.com/c/slaydra?sub_confirmation=1 Join The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=5N-DO6d7-sg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5N-DO6d7-sg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T12:00:01-08:00"
     },
     {
       "path": "_games/smithtainment-diablo-4-classe-ultimates-barbarian-druid-sorceress-gameplay.md",
