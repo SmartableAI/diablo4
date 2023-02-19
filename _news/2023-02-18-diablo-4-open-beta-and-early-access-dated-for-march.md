@@ -166,6 +166,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 beta date announced with opening cinematic reveal"
+    excerpt: "Blizzard reveals the next Diablo 4 beta release date, letting players eager to get their hands on the upcoming fantasy RPG game know exactly when they can do so. Speaking at IGN Fan Fest, Diablo 4 game director Joe Shely tells fans they will be able to .."
+    publishedDateTime: 2023-02-18T10:12:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-opening-cinematic"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-public-beta-date-lilith-blizzard-ign-fan-fest.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Reveals Open Beta Dates"
     excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
     publishedDateTime: 2023-02-18T12:34:00Z

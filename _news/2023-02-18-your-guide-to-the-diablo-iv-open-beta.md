@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 382
+heat: 402
 published: true
 
 provider:
@@ -153,6 +153,20 @@ related:
     quality: 87
     images:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-3-season-28-celebrates-diablo-4-blizzard.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 beta date announced with opening cinematic reveal"
+    excerpt: "Blizzard reveals the next Diablo 4 beta release date, letting players eager to get their hands on the upcoming fantasy RPG game know exactly when they can do so. Speaking at IGN Fan Fest, Diablo 4 game director Joe Shely tells fans they will be able to .."
+    publishedDateTime: 2023-02-18T10:12:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-opening-cinematic"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-public-beta-date-lilith-blizzard-ign-fan-fest.jpg"
         width: 1920
         height: 1080
         isCached: true

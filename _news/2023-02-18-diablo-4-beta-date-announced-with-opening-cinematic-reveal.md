@@ -1,27 +1,26 @@
 ---
 category: news
-title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
-excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
-publishedDateTime: 2023-02-18T18:45:33Z
-originalUrl: "https://youtube.com/watch?v=FhkR8HD7mtE"
-type: video
-quality: 137
+title: "Diablo 4 beta date announced with opening cinematic reveal"
+excerpt: "Blizzard reveals the next Diablo 4 beta release date, letting players eager to get their hands on the upcoming fantasy RPG game know exactly when they can do so. Speaking at IGN Fan Fest, Diablo 4 game director Joe Shely tells fans they will be able to .."
+publishedDateTime: 2023-02-18T10:12:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/beta-opening-cinematic"
+webUrl: "https://www.pcgamesn.com/diablo-4/beta-opening-cinematic"
+type: article
+quality: 87
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhkR8HD7mtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: BeefGuyTy
-  domain: youtube.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-public-beta-date-lilith-blizzard-ign-fan-fest.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -46,6 +45,20 @@ related:
     type: video
     provider:
       name: AnnacakeLIVE
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
+    excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
+    publishedDateTime: 2023-02-18T18:45:33Z
+    webUrl: ""
+    type: video
+    provider:
+      name: BeefGuyTy
       domain: youtube.com
     quality: 137
     images:
@@ -153,20 +166,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 beta date announced with opening cinematic reveal"
-    excerpt: "Blizzard reveals the next Diablo 4 beta release date, letting players eager to get their hands on the upcoming fantasy RPG game know exactly when they can do so. Speaking at IGN Fan Fest, Diablo 4 game director Joe Shely tells fans they will be able to .."
-    publishedDateTime: 2023-02-18T10:12:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-opening-cinematic"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-public-beta-date-lilith-blizzard-ign-fan-fest.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 open beta and early access dated for March"
     excerpt: "Activision Blizzard has announced open beta and early access dates for Diablo 4, ahead of the game's full launch on Xbox, PlayStation, and PC this June. Diablo 4's open beta and early access are split across two weekends, starting with early access from ."
     publishedDateTime: 2023-02-18T10:30:00Z
@@ -196,6 +195,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+s8XMDVFyI6EXqvWPXMo19si1TK44mTPB1pw0oPqTwhXCCCxrekBcxdlj5psVDJ1ZCRRpglz3+m5mfRFGPce8mHChvFG1DDY/pO7e6z0AyAac1aChOsL697negzOfViiIA9KZx0fu9xXKdjIcSL6IVst62gLvSCNa+bImbGlfX3rUraBz5vAZr1lG6Wo6iPuYT3oT8BmeyzfXRmsNyghEEKvbYWfxn+LtFjbBYTcbb1H/pO+ZwJYqrw85WDTYiHS/9ArYFFUM/SiBWoDvjTFleg9HHdHjc+POtmS/eTGf8iGp20PfwlTplnSeOllCvmbk+Ei/dSj9hhSZ99x+6mEGMMAQZEbLMGwHg1fF/7LWECka2N/gQyWGwgc27EV5rT68vxV9i0icFkXqSEDhtWf5g==;tbuISBWGjUY15xEAKuR0TA=="
+secured: "87TGgp3u2+CKRP0f9KS18dvTmQXNR5sJS9huoE4xhZt3XZLNcEDi69A/E+H6/vKXe7IlJfrb9G/cEpjKBV8cbhgx45KoRi79NdS+UKX8GIaBOBbDDvsh1sLftcMifgk6SBDEYBW4c1dz+JADrncMVqd6DhhiY/MX3b3jv7q1aJxfLnEdJmKwT2Ei0zZI63Ku6i+IPOr3ubvR1XXSgTaiGyZWpZUJK4FlteG/xq35oc4pJTipEysgYZIrOodn9KTIu1eHkdUOz/kuQFB1wKKFK1XulDilvGT94sa99ROzonuIBsBM6IIvgUhFs2/zkmaCya9XdWU5CuqWoAW2I2FP0qG5xLJVu7B7ClcyCiauaGE=;vcDCixria4Nxpdn0KLMRjw=="
 ---
 
