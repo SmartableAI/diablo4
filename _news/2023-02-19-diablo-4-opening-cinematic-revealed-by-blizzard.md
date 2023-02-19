@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Diablo IV will get early access and open betas in March"
-excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
-publishedDateTime: 2023-02-18T14:10:00Z
-originalUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
-webUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
+title: "Diablo 4 Opening Cinematic Revealed by Blizzard"
+excerpt: "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla"
+publishedDateTime: 2023-02-19T12:47:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
 type: article
-quality: 72
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Rock Paper Shotgun
-  domain: rockpapershotgun.com
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/Diablo-4-rogue_CYvx8yA.jpg/BROK/thumbnail/1200x630/Diablo-4-rogue_CYvx8yA.jpg"
-    width: 1200
-    height: 630
+  - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
+    width: 568
+    height: 320
     isCached: true
 
 related:
@@ -166,22 +168,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 Opening Cinematic Revealed by Blizzard"
-    excerpt: "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla"
-    publishedDateTime: 2023-02-19T12:47:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
     excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
     publishedDateTime: 2023-02-19T04:28:00Z
@@ -282,7 +268,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo IV will get early access and open betas in March"
+    excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
+    publishedDateTime: 2023-02-18T14:10:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 72
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-rogue_CYvx8yA.jpg/BROK/thumbnail/1200x630/Diablo-4-rogue_CYvx8yA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "ENIlrUA5BUxvHXD9Fy1CE2TZH3vi+HZ9lbmrsE8iZKT6v54d5hujMsH+umKEswsGycgT2sR4BIXAzHmgAJUMAOm5l5pJ2dRg+ry19WBe32S19nL+ah4frZGqXu5KeGBur1v2fUUI4yIa1wrMgjxPg3vxzRiEsVhVZ4AMbEs/RpzbnuGCAi07+i8uRjnx58gPkGzowRpK/BAwVf5TzJreAmWuqaT9HX8AXHoNUwYZW1AytAq+VHUi+wmEZnf5IuWSLexVP/voEz0DD8oD9jMluqVuRp2EEIlgf66bOFoOj+cVWpKPSzVeruMfTSpXXh8vP0aYcLOzlcR+Y8WUowwTH7dYUe14xf7JNYITKSWsS6s=;39VyeGe2/pUD14HHzfqdig=="
+secured: "yz0u1E2dboWxirFTRzZNcnrDCDGJcmbMhHgUnxKQCL3+1aGQSrJb2BXw4ihzScGc7U4Xvd5garOfCEYnW1MePdCrV6gBrP4Y0jfhhVQ20T8RrAFWyflsdHRlbojnW1X42juwlWbznEQgB1kX6XUwgMCiw1rOuIYI27fDmAzQMsb2ajfrMusVHPnFDZTihkolbWDf1ziByzNMXEmNLR6eJTZTphIRdT0uOwUL4wOWKfBFidjX9UBhkUiW6JD9O0ZmkEPPU9RDALX98GN48eL9vA9eqnZJdFm47aTpN9p43xBgDhUdfZ+BjDUNjclcn5wN2tcV2KfKvq3YuM8HiIhVAJFwjicCcZSfwbR5GR0/WxU=;EOr46ABKCsCVCfXJ8Ko3Dw=="
 ---
 

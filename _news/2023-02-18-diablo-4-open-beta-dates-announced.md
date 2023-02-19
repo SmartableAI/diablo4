@@ -138,6 +138,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
+    excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
+    publishedDateTime: 2023-02-19T20:04:26Z
+    webUrl: ""
+    type: video
+    provider:
+      name: waydong91
+      domain: youtube.com
+    quality: 126
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 Opening Cinematic Revealed by Blizzard"
+    excerpt: "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla"
+    publishedDateTime: 2023-02-19T12:47:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
     excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
     publishedDateTime: 2023-02-19T04:28:00Z

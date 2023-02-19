@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Diablo IV will get early access and open betas in March"
-excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
-publishedDateTime: 2023-02-18T14:10:00Z
-originalUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
-webUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
-type: article
-quality: 72
+title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
+excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
+publishedDateTime: 2023-02-19T20:04:26Z
+originalUrl: "https://youtube.com/watch?v=CJXqvGF6kQQ"
+type: video
+quality: 126
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CJXqvGF6kQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: Rock Paper Shotgun
-  domain: rockpapershotgun.com
+  name: waydong91
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/Diablo-4-rogue_CYvx8yA.jpg/BROK/thumbnail/1200x630/Diablo-4-rogue_CYvx8yA.jpg"
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -135,20 +136,6 @@ related:
       - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
-    excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
-    publishedDateTime: 2023-02-19T20:04:26Z
-    webUrl: ""
-    type: video
-    provider:
-      name: waydong91
-      domain: youtube.com
-    quality: 126
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Diablo 4 Open Beta Dates Announced"
     excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
@@ -282,7 +269,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo IV will get early access and open betas in March"
+    excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
+    publishedDateTime: 2023-02-18T14:10:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 72
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-rogue_CYvx8yA.jpg/BROK/thumbnail/1200x630/Diablo-4-rogue_CYvx8yA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "ENIlrUA5BUxvHXD9Fy1CE2TZH3vi+HZ9lbmrsE8iZKT6v54d5hujMsH+umKEswsGycgT2sR4BIXAzHmgAJUMAOm5l5pJ2dRg+ry19WBe32S19nL+ah4frZGqXu5KeGBur1v2fUUI4yIa1wrMgjxPg3vxzRiEsVhVZ4AMbEs/RpzbnuGCAi07+i8uRjnx58gPkGzowRpK/BAwVf5TzJreAmWuqaT9HX8AXHoNUwYZW1AytAq+VHUi+wmEZnf5IuWSLexVP/voEz0DD8oD9jMluqVuRp2EEIlgf66bOFoOj+cVWpKPSzVeruMfTSpXXh8vP0aYcLOzlcR+Y8WUowwTH7dYUe14xf7JNYITKSWsS6s=;39VyeGe2/pUD14HHzfqdig=="
+secured: "k3pihKQXT0p5u7em2VONqfxDT7+LZXPVCcUWmPK9p+tC4tQswLBrgHR+7RwPgjJNo9ZzKK48aD3+YM2ln0+rlV376BTmBwWUsRZps2io2nhO64Vhg/RC/CL2h48OqywcFwI0D3iAvJ+BXccrF9GsqfsnkI7QfYG0jMKUP1tYmd6fCw/3J/0ZF58agWlvpwX7zQCbRgFeTbYM77u23xnjIFANeC4zoegUeaiKV0Ynls1V5IydmFZEv61L7Z/7ti68m/zOimcxYn6L7Q0l267rQyLMNf12Bl/coprzzQvdGXZj9a5450nI/qrSiXjyeNAUbsQJsfG1Rht09/dffbzhWQg/9dMRM55mcx+3Ur+58LdqPnAJ4VVkUEdh/+RQRot9njHcCp/zReeG6ztUVbzo9Q==;snOA4M39J6ZsahW7nkuobQ=="
 ---
 
