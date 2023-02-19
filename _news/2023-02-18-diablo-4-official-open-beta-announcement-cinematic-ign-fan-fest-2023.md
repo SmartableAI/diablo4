@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 Open Beta ANNOUNCED!"
+    excerpt: "Ladies and Gentlemen it's here! We finally know the dates of the open beta for Diablo 4 and it is coming sooner than you expect!"
+    publishedDateTime: 2023-02-18T22:53:55Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Hawg
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 Open Beta Dates Announced for March, the Hype is REAL!"
     excerpt: "Diablo4 #Beta #Announcement Much more D4 content to come! My Diablo 4 Playlist: ..."
     publishedDateTime: 2023-02-18T23:05:40Z
@@ -196,6 +210,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ALFPicLPpFTMweIPTIWSwQA5UgVbFNJAiLePqKkpp1f4UjM9cLNP1cYtz3GltIU2Cgq4K3KourkewsGJ+DTja3X1FrPxVZv7K4bW3M2Rg0SVkveOjarnzT60RJdkLPwwYg/ouPqFpIvJUQFD6BwY0zvLGECsO2RflBpz+VKrK/O9c2YVHZmI8KcUtoQxeDbw/+ojuNOKJFn9msohUcsBKRlXdtf0fj1AXZgMRPlCkIeDAke5nVCtSctwJ9DebQzNKIKMTP5OVz+ey7Vh7OEdw1Ll/nKnNlEj6ryq947zBfm7ACVmocKEl89Lvq2cOuZwId86HgfBY/D0vqZiloGThdHE0LJay3u+n13fCcHAByGY4b/Xfn84ZFYY9c7ujAdsRsC9fBFspmet6H98iSjWPQ==;A7CLfq1P1mNY8ee4mxAx1g=="
+secured: "TVQYuzrctfs01rWy9ha+Li4Tx0TuHN4A4CoxjGybLPEUTxpAAZxXFCOE/WCJDJ9dlCWBY03xO6GO32bAFKoGgW6aukgsjVP2HlUmo9g2NPYq67KeWkH9wtHXQqS6nRCobUmUBhzif9Vrku4AEc+DBnottCfz6ApE1Mb5NbSXZU7o/GiOlt1cNqn00UKaAAselUmu2q11O6wdQhmoCX6/d09DlvYhMmOuxuq3au1AG0vrf5A+uUJTpLbeucYiVVBocl7bbpOqzMocL0SoniN1Y872+7Jwv6d9LfMIhhTzf+crv8EqF//RuUNImj+pMb45KmmqIA8xuQTMq0H6WsvlostQqkr5gjNIkSmMi17EKAv+v2IQPe6ggmBUVE5jtO8sZzmsJq1/0voMQ6q8oUr/YlA+5jhg42WGhF4PS0aNUV51fAgUV5ajSDeQI/EYNLYW;qxJY8Xr1YSnWUtpadOXI/g=="
 ---
 

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 Open Beta ANNOUNCED!"
+    excerpt: "Ladies and Gentlemen it's here! We finally know the dates of the open beta for Diablo 4 and it is coming sooner than you expect!"
+    publishedDateTime: 2023-02-18T22:53:55Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Hawg
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 Open Beta Dates Announced for March, the Hype is REAL!"
     excerpt: "Diablo4 #Beta #Announcement Much more D4 content to come! My Diablo 4 Playlist: ..."
     publishedDateTime: 2023-02-18T23:05:40Z

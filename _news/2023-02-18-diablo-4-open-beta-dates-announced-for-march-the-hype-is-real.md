@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 Open Beta ANNOUNCED!"
+    excerpt: "Ladies and Gentlemen it's here! We finally know the dates of the open beta for Diablo 4 and it is coming sooner than you expect!"
+    publishedDateTime: 2023-02-18T22:53:55Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Hawg
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
     excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
     publishedDateTime: 2023-02-18T18:10:48Z

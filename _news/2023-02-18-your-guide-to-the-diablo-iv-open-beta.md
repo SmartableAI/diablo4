@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 402
+heat: 422
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     type: video
     provider:
       name: BeefGuyTy
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 Open Beta ANNOUNCED!"
+    excerpt: "Ladies and Gentlemen it's here! We finally know the dates of the open beta for Diablo 4 and it is coming sooner than you expect!"
+    publishedDateTime: 2023-02-18T22:53:55Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Hawg
       domain: youtube.com
     quality: 137
     images:
