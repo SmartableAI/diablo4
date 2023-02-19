@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Blizzard Reveals Pricey Diablo 4 Statue of Inarius"
-excerpt: "Blizzard reveals its next premium statue offering, which will be a very pricey Diablo 4 statue of the former archangel Inarius."
-publishedDateTime: 2023-02-18T14:55:16Z
+excerpt: "While Diablo 4 remains months away from its June 2 release date, Blizzard is already capitalizing on anticipation for the game with high-quality merchandise. Inarius isn't the first Diablo 4 statue to be announced by Blizzard, but it's certainly the ..."
+publishedDateTime: 2023-02-18T14:55:00Z
 originalUrl: "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo"
 webUrl: "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+O0tBZxvBDb7VkR2iVupsFt1piIhr/m2g04fFIvvsDNHgIR+NJyVuOKVqEvd8CBiD1pYKROJFe3YAFIk6KlCqbPFdJmz0xfIrQUo6oDHB3IGmS39LBOC/9GRrSTKrEoOYF7rTzi66yKTs8du3Ir00yHdl7WdwjRzMatqMyUuyvelU5YOXDSUrPnWnAs5zBUxD/8ZXrFno6n0H6WYiI9fp2bPOc+rAJu5U4c4b5gV3QsY1yI2SLWdFzR7lU3YjLomweX39WB5hokV32mnwYCVdpizNgJYZjuhn6gtjgWuNvK5w0KHkavzWhcRc73i8DAx9IgcDe/WZtSNrITzcqVpdMxFLtTf9eoxL9bNKuYbNHM=;njqolS8QDPPChHeJ30Roqw=="
+secured: "mOfmhMcvSKyFDlPgl9FIwG3Gv9wU4sXoJwwLHtquxnKsJdSZpvxsp/ihzC18QZX0c2+BD3kR4JVEhBPOJUR1GG1NlUt59WH8ijLpky2d0vEakyvXpKZeRkYBN/M/qZnxyvmZBEO26LXlJS7MXJJ01vwydRjTRyWJ3frer07GgeV9iTj8oMFAagwgGlq1xh03wWdb2gKu22jbaq+u+Do3icWuw0G3bVBCQJEOQrVhoVI0UY4lCihH4Xh8POX9U7epm1goBrCxxVAWBAObwYsgRf4a70gxdHjDrSkrJc31+1jTNcnR6WHvlGIL+XoaeNFL7xmKur8jix69oEcHqM+ltSflLmTF83Orp30NFSdDbFA=;Odu6yc8badaoGIA+wGLV8A=="
 ---
 

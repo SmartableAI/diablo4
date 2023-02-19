@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 422
+heat: 462
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
+    excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
+    publishedDateTime: 2023-02-19T04:28:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe743dd90d8172759de215/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
     publishedDateTime: 2023-02-13T05:01:00Z
@@ -209,6 +225,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EpKH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo IV will get early access and open betas in March"
+    excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
+    publishedDateTime: 2023-02-18T14:10:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-iv-will-get-early-access-and-open-betas-in-march"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 72
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-rogue_CYvx8yA.jpg/BROK/thumbnail/1200x630/Diablo-4-rogue_CYvx8yA.jpg"
         width: 1200
         height: 630
         isCached: true
