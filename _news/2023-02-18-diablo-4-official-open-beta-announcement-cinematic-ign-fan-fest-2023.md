@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 Open Beta Dates Announced for March, the Hype is REAL!"
+    excerpt: "Diablo4 #Beta #Announcement Much more D4 content to come! My Diablo 4 Playlist: ..."
+    publishedDateTime: 2023-02-18T23:05:40Z
+    webUrl: ""
+    type: video
+    provider:
+      name: wudijo
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
     publishedDateTime: 2023-02-13T05:01:00Z

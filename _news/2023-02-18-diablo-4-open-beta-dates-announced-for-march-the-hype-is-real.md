@@ -1,33 +1,44 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-type: article
-quality: 162
-heat: 262
-published: true
+title: "Diablo 4 Open Beta Dates Announced for March, the Hype is REAL!"
+excerpt: "Diablo4 #Beta #Announcement Much more D4 content to come! My Diablo 4 Playlist: ..."
+publishedDateTime: 2023-02-18T23:05:40Z
+originalUrl: "https://youtube.com/watch?v=C4ANfRPCbV8"
+type: video
+quality: 137
+heat: -1
+published: false
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C4ANfRPCbV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: wudijo
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
     excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
     publishedDateTime: 2023-02-18T18:45:33Z
@@ -35,20 +46,6 @@ related:
     type: video
     provider:
       name: BeefGuyTy
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Diablo 4 Open Beta Dates Announced for March, the Hype is REAL!"
-    excerpt: "Diablo4 #Beta #Announcement Much more D4 content to come! My Diablo 4 Playlist: ..."
-    publishedDateTime: 2023-02-18T23:05:40Z
-    webUrl: ""
-    type: video
-    provider:
-      name: wudijo
       domain: youtube.com
     quality: 137
     images:
@@ -99,6 +96,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "CesfcnYRNNv3JmSfeg/ZAd+DHwlwQWfOF6HB9r5kxI8FIutJ7ZNsAIROlNATlNrfY6HhLDbjve+sXrqk+yDem5f3lRqkr/74BEgRfjWDyCJRl3sj2vNaQfTExEKIsZT6YSCy9V0IF126oonjfroLIIsz9Nrsz7Qit5xuNtBezNHCgtHca6hYGcKNzAjzQxfeL+MxNLjetHNtf+ZqozBNlgf3BhOnfGTwaoOQvlkjMIvOLOfSSUwPgwasAywVZ1azL+hz1PqdkSVRbWNV0lCEUCZRoSCo3O9Uhxd4VMLVxDclxPEU7rfWO/RFcOaGGuWoaYtcVf6ewDxLko151jD7FiE9LCKno4NiJkQaRmDACIi3l7PuzXmH3cTLfqtaRR7rlz0kfunnxxtSm+Fsuo8A4w==;Iqe17e0nq94xhpTavUSqxw=="
 ---
 
