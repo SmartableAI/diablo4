@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Diablo 4's first playtests are coming in just a few weeks"
-excerpt: "I found it really reminiscent of the story FMVs from Diablo 2 with its presentation of a lone warrior wandering a desolate landscape, this time your player character instead of the afflicted Diablo 1 warrior."
+excerpt: "Pre-order customers will be able to play the beta a week ahead of schedule. The cutscene itself is full-on classic Diablo, even if it doesn't reveal much. I found it really reminiscent of the story FMVs from Diablo 2 with its presentation of a lone warrio"
 publishedDateTime: 2023-02-18T11:42:00Z
 originalUrl: "https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/"
 webUrl: "https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/"
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "1vjd0H4kS7GfmNqJRHCC9JvaRGIbMbcD7Gi84/yO+WMhd5Q/TwKZiePaRVzCiXghjCgi9JIzBjpDyjGULzs5RFgb3WJCVkYTcMLOJ2sCoOFOMneC2aJHD2NuH3sga5S+QPjWrvZNLtgQf+I/YENTkBprSUVWRBCJcHcjIaS9uP2Qepe83mbdVRSolryjgYOvX+iNVUHxy19u2do/e3ffPRdCJYzOycIJZOQ2sikdUtMQbrQOObz/evyZSvLMPv8lNTqPvekbgsjSI+K1ZkWozz1j1dxwLCw8VIInhj0yROUgzxOQ54a69IhoJ4VGTeQXoXlOIXLzjfxt08Ei3naVfv7NgG5BJ4Bx9kiMCMX2mAM=;sIIEPhadjLHG6Ts4YsyUdw=="
+secured: "bOsKk9VrKsOIoEGeBlUj96bM9tzmsiDpiC/viuH7FcA4sHZz4RbqRWZDQzfcg/2TJvUyhANTbkajZXptt5gmr05V1c9CipdjCi4SwjK8zC5FQen9vO4suff311+264Y5859/ysWNS9MJDtbtycVaiWj3YATrlYhd6kEmhRfZFD2H8C25CQh2HItRAaY23kFXBrtmSLMX9RBQe1VW1m6cUQapOMCbBqTOAPSes3LFDAWXIjVISPTljkAe4SMfsL6QkLtm6xKLB7+Ro51RhpWZ26yYdIdFLsOv/0EcipXV3a3zX0TThLmgcoA1F2ApbgUk6ZUWJjFCEcKOUcXjN2vEARM+ifrx5It8mPdFVtIAcNU=;CZ+cED3FAGx8l1x+Qlti5A=="
 ---
 
