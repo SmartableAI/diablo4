@@ -224,6 +224,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 open beta scheduled for late-March"
+    excerpt: "Blizzard has announced Diablo 4 early access and open beta weekends will take place in March. Those who have dropped cash on the game ahead of its June 6 release will be granted early access to the open beta from March 17-19. The following weekend ..."
+    publishedDateTime: 2023-02-18T12:40:00Z
+    webUrl: "https://www.vg247.com/diablo-4-open-beta-scheduled-for-late-march"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-new-01.png/BROK/thumbnail/1200x630/diablo-4-new-01.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Reveals Open Beta Dates"
     excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
     publishedDateTime: 2023-02-18T12:34:00Z
