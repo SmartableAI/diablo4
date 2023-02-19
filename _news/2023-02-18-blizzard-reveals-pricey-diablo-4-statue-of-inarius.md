@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Blizzard Reveals Pricey Diablo 4 Statue of Inarius"
-excerpt: "Blizzard reveals its next premium statue offering, which will be a very pricey Diablo 4 statue of the former archangel Inarius. Blizzard has officially unveiled its next premium statue offering, which will be a pricey effigy of the former archangel Inariu"
-publishedDateTime: 2023-02-18T14:57:00Z
-originalUrl: "https://gamerant.com/diablo-4-expensive-statue-inarius/"
-webUrl: "https://gamerant.com/diablo-4-expensive-statue-inarius/"
+excerpt: "Blizzard reveals its next premium statue offering, which will be a very pricey Diablo 4 statue of the former archangel Inarius."
+publishedDateTime: 2023-02-18T14:55:16Z
+originalUrl: "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo"
+webUrl: "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-statue-inarius.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EUBf.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "ni/8/ySi6wTnrId+UJM+1lRtzF/8fjWJECkRWFSrLcQwABL+wpLNB+OrTU+sA7E5jBzWMnn/pydTNGXiCGSpJnewGmDTmJOGjUn/Im0Gd5x8Oh9J4wihYsyAh+sugGcGeqxDzDGcv01GBxVZyDZJ7EMD+Ws7ySvhhed06+XzmNQjkeWA80/LWA2tacm09X7aKmPNf6V0NE6QbF8AOrpzyJcSyTbTjPL+m267mj80lawq3or/dLoj5ZvR1sRJBc4hljGr6irknzCJqUAaD5kzDSiMjFOvEzRG8VUQtc38PKDMZ5sL6PQzX8HJlsf0Wo10GtYoIUtK2tGAvqFQsOeM/BfM+dOIrZHwJyA7v1MUsgk=;ZRSOMWGgl79IfMdviDE6KA=="
+secured: "cMtZyyx+USuTy3528TH5Q9f3KIqBLp3xeK+WqeTyyXPCGAZHQiG0dEmtm/AHL4zTP34ruchE6RgLJrdX/MeWbcWO+uLjRE5jLJ8sg2wSIWOgdmJxwZxGsY/Pib4QzJHD+I6biUPQmGhHWJEUBg2sz2k3m02Adl7AwS1X4gsgWogc4Sys3UHvv5si5OcILqS/W4gMclnfqJj886FK62zHS2q4wmK1DGVu9142Mr3/0ELKdt6jkYgRmtBFRhLk+OGF/UnjS2tloWr+60XiCpAFptCGaiX15F3Xu+UeVfG0Oe8L3DhdrUhf/4Y92mfTC6yr0IdEkLR8BAHWm3dc/au4tskFJx/WRChNO85FhVASE6k=;Gufi7WSoJXrNR3Vm0+/OIg=="
 ---
 

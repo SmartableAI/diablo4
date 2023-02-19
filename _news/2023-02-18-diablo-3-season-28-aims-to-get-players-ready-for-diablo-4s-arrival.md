@@ -94,6 +94,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Reveals Open Beta Dates"
+    excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
+    publishedDateTime: 2023-02-18T12:34:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-open-beta-dates/ar-AA17EKi1"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EpKH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QWJwBII8Q2NlURDhaCUGilMT3qm9O9LG6BtQ1YJeV8T6UwsUxUj8F4UnNVX22x2Mywg0RCUCKan9tP6nQDBdZKKDsl002qUC0uaMpGNjiZw+sAJUwjvAMGuvs14h0PJOEjY18fQ9GWglEa0rfkgjPUQ93lm4gBwKz7Rl5jjiv+fMW/Ea2DWe2HKwL6fCkZTdltVBAFBnCxp0ARRqCBxZDc1/GssnyzgqHxC0MzGqhcgLk3G1cofqn6Pe7OWV3FdvdpKvm7vMP8Vh23py8Yt7rEw1YOHUZLaatPMeU9nS9GK5RmVMl38JESTadqd+qITMoVLxFU+RkxxomcSVZBV3BSgfFLzHZjAzdvjDU3YrTOE=;U9Qf1dv7DI+lyzkm2+pAeg=="
 ---
