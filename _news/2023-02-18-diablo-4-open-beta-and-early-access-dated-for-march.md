@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
-excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
-publishedDateTime: 2023-02-18T18:10:48Z
-originalUrl: "https://youtube.com/watch?v=-Sj0qesw0ok"
-type: video
-quality: 136
+title: "Diablo 4 open beta and early access dated for March"
+excerpt: "Activision Blizzard has announced open beta and early access dates for Diablo 4, ahead of the game's full launch on Xbox, PlayStation, and PC this June. Diablo 4's open beta and early access are split across two weekends, starting with early access from ."
+publishedDateTime: 2023-02-18T10:30:00Z
+originalUrl: "https://www.eurogamer.net/diablo-4-open-beta-and-early-access-dated-for-march"
+webUrl: "https://www.eurogamer.net/diablo-4-open-beta-and-early-access-dated-for-march"
+type: article
+quality: 87
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Sj0qesw0ok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: IGN
-  domain: youtube.com
+  name: Eurogamer
+  domain: eurogamer.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+  - url: "https://assets.reedpopcdn.com/diablo-4-release-date.jpg/BROK/thumbnail/1200x630/diablo-4-release-date.jpg"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -76,6 +75,20 @@ related:
       name: wudijo
       domain: youtube.com
     quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023"
+    excerpt: "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4."
+    publishedDateTime: 2023-02-18T18:10:48Z
+    webUrl: ""
+    type: video
+    provider:
+      name: IGN
+      domain: youtube.com
+    quality: 136
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
@@ -153,20 +166,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 open beta and early access dated for March"
-    excerpt: "Activision Blizzard has announced open beta and early access dates for Diablo 4, ahead of the game's full launch on Xbox, PlayStation, and PC this June. Diablo 4's open beta and early access are split across two weekends, starting with early access from ."
-    publishedDateTime: 2023-02-18T10:30:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-open-beta-and-early-access-dated-for-march"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo-4-release-date.jpg/BROK/thumbnail/1200x630/diablo-4-release-date.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Reveals Open Beta Dates"
     excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
     publishedDateTime: 2023-02-18T12:34:00Z
@@ -182,6 +181,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ALFPicLPpFTMweIPTIWSwQA5UgVbFNJAiLePqKkpp1f4UjM9cLNP1cYtz3GltIU2Cgq4K3KourkewsGJ+DTja3X1FrPxVZv7K4bW3M2Rg0SVkveOjarnzT60RJdkLPwwYg/ouPqFpIvJUQFD6BwY0zvLGECsO2RflBpz+VKrK/O9c2YVHZmI8KcUtoQxeDbw/+ojuNOKJFn9msohUcsBKRlXdtf0fj1AXZgMRPlCkIeDAke5nVCtSctwJ9DebQzNKIKMTP5OVz+ey7Vh7OEdw1Ll/nKnNlEj6ryq947zBfm7ACVmocKEl89Lvq2cOuZwId86HgfBY/D0vqZiloGThdHE0LJay3u+n13fCcHAByGY4b/Xfn84ZFYY9c7ujAdsRsC9fBFspmet6H98iSjWPQ==;A7CLfq1P1mNY8ee4mxAx1g=="
+secured: "4rc2zmeYfFFBcA/kDCIolf+WvwlCoHx7BIBFGNUd4HmUSbuNGJgzlpGCzq5yMYMGNOFf0u2sBNSaC18Ja/DUUM1LU8xBaw5TWYUMg1MtZYBhdpagY8yZqfaq6Hg2w8mIe+iRmfHLCYXJsc1H1AIURPD9FRA1Q0mJX4YmeQuYyaaRGC0CZl2VkZ25Hambppob+7/kTYrbAoo11CnqKUmw4hCE8uk5XBPhB+OyvwYPrC6e/3/FdIohbcCC2q4Ntx1MNfLjl0VBb7obRC07AYthrkJ1TJsvGU8PK0nF2U3rQ5dLvhQUCgNlsXlJLnd32/YFtEOgjwa9p8mIaSMeaV3/lvqQxXu6N2d5BYGqlRTQMJA=;q3/LVP2KQCGhx7z8bWzpcw=="
 ---
 

@@ -152,6 +152,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 open beta and early access dated for March"
+    excerpt: "Activision Blizzard has announced open beta and early access dates for Diablo 4, ahead of the game's full launch on Xbox, PlayStation, and PC this June. Diablo 4's open beta and early access are split across two weekends, starting with early access from ."
+    publishedDateTime: 2023-02-18T10:30:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-open-beta-and-early-access-dated-for-march"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-4-release-date.jpg/BROK/thumbnail/1200x630/diablo-4-release-date.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Reveals Open Beta Dates"
     excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
     publishedDateTime: 2023-02-18T12:34:00Z
