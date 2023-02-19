@@ -39,6 +39,20 @@ related:
         width: 880
         height: 440
         isCached: true
+  - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
+    excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
+    publishedDateTime: 2023-02-18T19:41:15Z
+    webUrl: ""
+    type: video
+    provider:
+      name: AnnacakeLIVE
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 Open Beta Dates Announced for March, the Hype is REAL!"
     excerpt: "Diablo4 #Beta #Announcement Much more D4 content to come! My Diablo 4 Playlist: ..."
     publishedDateTime: 2023-02-18T23:05:40Z
@@ -62,6 +76,20 @@ related:
       name: IGN
       domain: youtube.com
     quality: 136
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023 - Reaction"
+    excerpt: "I'm guessing the wolf is supposed to represent something or be someone."
+    publishedDateTime: 2023-02-18T19:12:52Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Xsezz
+      domain: youtube.com
+    quality: 131
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200

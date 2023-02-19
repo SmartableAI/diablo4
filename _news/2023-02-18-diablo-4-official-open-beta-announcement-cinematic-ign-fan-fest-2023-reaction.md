@@ -1,33 +1,44 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-type: article
-quality: 162
-heat: 322
-published: true
+title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023 - Reaction"
+excerpt: "I'm guessing the wolf is supposed to represent something or be someone."
+publishedDateTime: 2023-02-18T19:12:52Z
+originalUrl: "https://youtube.com/watch?v=DnpbRYk0WnY"
+type: video
+quality: 131
+heat: -1
+published: false
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DnpbRYk0WnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Xsezz
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
     excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
     publishedDateTime: 2023-02-18T19:41:15Z
@@ -84,20 +95,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Diablo 4 - Official Open Beta Announcement Cinematic | IGN Fan Fest 2023 - Reaction"
-    excerpt: "I'm guessing the wolf is supposed to represent something or be someone."
-    publishedDateTime: 2023-02-18T19:12:52Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Xsezz
-      domain: youtube.com
-    quality: 131
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
     publishedDateTime: 2023-02-13T05:01:00Z
@@ -141,6 +138,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "Hr6mb1sy5c/r26Fw748I8zt+mK7CrKiKgLSgTZHebg2aIxLAE/OvLtuvT7XZom66i0L+aSXehJphmPStTbecSjAFg1gXermA6nw/V5B9ejNOBoWzvASRl54ZhlW23USdBDFmniFdHPjnVZOYoxqCxTDYA6s6DtYqhHXhi3PF87ldABTtqFeAT1kih6K0UzzqetAMS9Ce81vqWsPZKD9neTdTjsH5Qe3bJHjhy9jAPdLy/ruwjCwG1Sm7TAbbQIsHEGgq/XVwDfM3JAnxlrj0RpTVqit8iKoFE0SDUfWLR/S2s64vyEqX+suHlQKPoYKYIXRicCWDpus0qvT0MfsbVpwa4bb1jfMdAIGQlBJFOaW7Cx+rj4Upm9IvJ7paqDRFvXLkgJfplM5DB0CNXvujBw==;PoaosaUhgDSqPXpUTaoX5w=="
 ---
 

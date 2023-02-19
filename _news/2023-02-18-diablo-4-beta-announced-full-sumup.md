@@ -1,46 +1,43 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-type: article
-quality: 162
-heat: 322
-published: true
+title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
+excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
+publishedDateTime: 2023-02-18T19:41:15Z
+originalUrl: "https://youtube.com/watch?v=XMwQzB44xWc"
+type: video
+quality: 137
+heat: -1
+published: false
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XMwQzB44xWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AnnacakeLIVE
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
-  - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
-    excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
-    publishedDateTime: 2023-02-18T19:41:15Z
-    webUrl: ""
-    type: video
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
     provider:
-      name: AnnacakeLIVE
-      domain: youtube.com
-    quality: 137
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
     images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
         isCached: true
   - title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
     excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
@@ -141,6 +138,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "qVH25pdE8pkkAEZzUorJWJZ0d3nBmio0tiBVwj+affRv8AtAj6TnT0sjv+/7+3ARc68tOSbvu3CtnWbRe2kVzm3OqurDTNENMH4OOu2biiXmhU64Gk7j3KzS8FubxHxN3YW2sRIEctje/1fIAptm2NMA4kNGpWQFIEQymg8X65WDStmk8UXhc//YaX0dsppdcKJ1n4utdK/HWwx/WA/5y6J9YZEfVRteKb98l0StOCT4nbHF4+FG20d+LnZP28gDhPLtX9lygnV04z6Sjq9nFWnmMffzlTcmUJk2L831GbI5G8Ucc08qa159md4tojyayCDf4SWLfc8bPiNbec8+CPzELvq2Y8AaF6cutqQYQkq4G25jJqNrkJk4lGyWiw+MLDkqodq92mwiGuF2uESUiQ==;k9j6284GNlSUeaGGMW0X0Q=="
 ---
 
