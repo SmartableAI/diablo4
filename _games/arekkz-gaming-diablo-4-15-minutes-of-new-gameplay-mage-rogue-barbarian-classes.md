@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-15-minutes
 type: video
 length: PT15M9S
 publishedDateTime: 2022-12-08T15:00:14Z
-heat: 57
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJgTU-ctow0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "FFThhcPsqItI5bYUytLoYQ6ulzuhBwKlk3EFGMsH0kEF/G5OOOj6lGbu2ePb/hDABeYgEhDITWT1KWXkXoZCw04JJMoLIyaL7j9aLm1F6imYewESr1Mo6tHycmVu/gTTPnbTJuOXxJJLesW3n+FttEAqiO4K+efYfmwuNCof7Dqs+YUVqzVUmD+KoqjwPAq1kqs5L90fanu2HPMj2nxb55m0E90dDlFoVHnEMNPBGp/kmaFWnTCr36eN7JcztnWZsTRHP9ezR7grHvI1oq/CbFC8qRQah7ySwgkJtVaN/BwZM8+7OYhmUE8pFnUprZrfVYJPTSU+T8x/qYJi8Kd5ypY18rfUdi3puGBVxMXn5v7Eia6UirbqdWsJj7TEzvtAwoWpguqRSi5rEvrbdrrdUIM9WGcs47CBfq36ZY3Zrjc=;9BtmbiVUPfTzu0QoQi+i0g=="
+secured: "K2fH6fqyEpufWfLoFN+/vU5FBJLhqlK75sgUzFJ7RU9mtprPJIQoJyPk0yIMe88PVZjyuxt6ur6GQmzrgFOIhd+5P66RXbI47fd/prkyjCdqaAGywghmfm6+bh0KRQRcqJEBabCME51gMKf9hFKfmITka01v67pKk+vsrEOdTVrUtUBfdSv5Y1BsshhoTZmS5yx72mX/TwnvkNaMAy+n5bUcL5Iz1TjutuKpRh0cLlJuXNgKtQSiRDy/voBzWiBT+zmRA3W2L1QRKdPCJjTYem8tlJucWS0kr19nm4axMbXwNrvv9CC0WiwJ7aJ9apUpiEiaoT3qU+CBUhnihT4pDFqUWw1mrkLoUUutjmcw50cmucb4DQwG9zCyIV9Png08RjXomagGRWXvCHyQNwLk+M+FbcQ0ZNcn2Bc4Wlb78Y4=;+dbw44hEi/1rt0xsKDWFUw=="
 ---
 
