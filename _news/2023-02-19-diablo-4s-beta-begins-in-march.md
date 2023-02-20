@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Reveals Open Beta Dates"
-excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
-publishedDateTime: 2023-02-18T12:34:00Z
-originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-open-beta-dates/ar-AA17EKi1"
-webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-open-beta-dates/ar-AA17EKi1"
+title: "Diablo 4’s beta begins in March"
+excerpt: "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from"
+publishedDateTime: 2023-02-19T03:12:00Z
+originalUrl: "https://www.videogameschronicle.com/news/diablo-4s-beta-begins-in-march/"
+webUrl: "https://www.videogameschronicle.com/news/diablo-4s-beta-begins-in-march/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: Video Games Chronicle
+  domain: videogameschronicle.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EpKH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.videogameschronicle.com/files/2023/02/Diablo-3.jpg"
+    width: 959
+    height: 521
     isCached: true
 
 related:
@@ -282,19 +282,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4’s beta begins in March"
-    excerpt: "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from"
-    publishedDateTime: 2023-02-19T03:12:00Z
-    webUrl: "https://www.videogameschronicle.com/news/diablo-4s-beta-begins-in-march/"
+  - title: "Diablo 4 Reveals Open Beta Dates"
+    excerpt: "Blizzard has announced the open beta and early access dates for its upcoming action RPG Diablo 4 to be March 24 to March 26. The news arrived with just under four months to go until the full release of Diablo 4, and it comes at a bit of an awkward and ..."
+    publishedDateTime: 2023-02-18T12:34:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-reveals-open-beta-dates/ar-AA17EKi1"
     type: article
     provider:
-      name: Video Games Chronicle
-      domain: videogameschronicle.com
+      name: MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://www.videogameschronicle.com/files/2023/02/Diablo-3.jpg"
-        width: 959
-        height: 521
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EpKH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo IV will get early access and open betas in March"
     excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
@@ -311,6 +311,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wX0w+rlK4VBn6HZy3zFEbhA2JFtXhFvseQe+U1YYJh54fPSIZ7msBZdCQRRE6Ob4eV9guC/XuxrkN/phtIasv7z4ULl3ZJmAoIcObzK0lqqCO/B+MfV74iEJ8S1AoaxxJI4vCLFRQ+VPLePqnRpPp0o226Y7XrtJkhF17Y05c/OqwSNTaUchYcp97LXdYSYgNRXoJJi15cSoEyOvt218obfzDSRWrkmEP6rMys17feT0tEPTSuqAEOlltX2tpc5BoZSNNCWlxNPs1iId4jkfY3VOue9zvS/ngjfpnNm69LAFmwMXsWiNKZnzliDYlf97LzSYHaR22gT9gK/6zOUxfhEPQ/OmO43ToMXKrYwceR0=;WibhoUuLLAAPNq+YhPBnvg=="
+secured: "QdI6olVaCsALANlfSWrVNhyu8n3AkSrH8qRfJ6gjWuKLBLOKzroYkR7RR7RKM1p/dZzIbGCLMCBqb2t8DyMbUJF0NPXHQJmcoI2RkTN1Xnhh3Z59kWVnOFealT1OJ67j7x5N10sIi3olstOgd0yvMueNWGRvDScNA/CTZ0b8n2iQUZV3g0GQ5x2hIZ6xgx6daYl4RP+ZYxGDMtRSicCByODKgqSv3l+EqJkrmpIpEzc8rX4skuHx28PPxrTPjH+OJyyuT3Kggv5oLneHeA7BFZm61DmC9cu0Awn0PjEucNl+jaoW4mAXyehvvaWzxVPad/pWoug5AAfFnahIHnNcKicG7nDk+q50vxYto61ctAo=;ovrFQ0qqxDE819pEbV+ygg=="
 ---
 

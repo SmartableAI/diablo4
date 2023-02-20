@@ -296,6 +296,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4’s beta begins in March"
+    excerpt: "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from"
+    publishedDateTime: 2023-02-19T03:12:00Z
+    webUrl: "https://www.videogameschronicle.com/news/diablo-4s-beta-begins-in-march/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
+    images:
+      - url: "https://www.videogameschronicle.com/files/2023/02/Diablo-3.jpg"
+        width: 959
+        height: 521
+        isCached: true
 
 secured: "ENIlrUA5BUxvHXD9Fy1CE2TZH3vi+HZ9lbmrsE8iZKT6v54d5hujMsH+umKEswsGycgT2sR4BIXAzHmgAJUMAOm5l5pJ2dRg+ry19WBe32S19nL+ah4frZGqXu5KeGBur1v2fUUI4yIa1wrMgjxPg3vxzRiEsVhVZ4AMbEs/RpzbnuGCAi07+i8uRjnx58gPkGzowRpK/BAwVf5TzJreAmWuqaT9HX8AXHoNUwYZW1AytAq+VHUi+wmEZnf5IuWSLexVP/voEz0DD8oD9jMluqVuRp2EEIlgf66bOFoOj+cVWpKPSzVeruMfTSpXXh8vP0aYcLOzlcR+Y8WUowwTH7dYUe14xf7JNYITKSWsS6s=;39VyeGe2/pUD14HHzfqdig=="
 ---
