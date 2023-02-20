@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+title: "Diablo 4 Early Access – how to sign up for the beta"
+excerpt: "How to get into the Diablo IV early access beta, including steps on how to redeem your beta code and download the game on console."
+publishedDateTime: 2023-02-20T07:08:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-early-access-beta-how-to-sign-up/"
+webUrl: "https://www.videogamer.com/news/diablo-4-early-access-beta-how-to-sign-up/"
 type: article
-quality: 162
-heat: 702
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
     excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
     publishedDateTime: 2023-02-18T19:41:15Z
@@ -330,20 +340,6 @@ related:
         width: 959
         height: 521
         isCached: true
-  - title: "Diablo 4 Early Access – how to sign up for the beta"
-    excerpt: "How to get into the Diablo IV early access beta, including steps on how to redeem your beta code and download the game on console."
-    publishedDateTime: 2023-02-20T07:08:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-early-access-beta-how-to-sign-up/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 release date, beta dates, trailers and more"
     excerpt: "Diablo 4 is on the way - there's plenty more hacking and slashing to be had. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer."
     publishedDateTime: 2023-02-20T01:50:00Z
@@ -410,6 +406,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "9wHvwCQUcp5UdJ4RqHuKIVRNyQW9N+AliGA01s8U0NcLc0z/VJfsqAzCVOhs5t6LquAJ2XLxaqGc2FsO/nlWCKy1DKDjkvhY9CHBD+PXLLjxG18RUJpyXOWfpIpvKc+KquGVkQnpAw0nX5/O95kx0xCh+l8Dge0eUlu7jyVXc2TqHkQPHTIPG36+TOOBYzBGfZTl+9i+8pq+wCQ1LFOA1jyDSc6RGGg65baDf1rBORPqlPIDuQJ9RUstL+0kf+sSnsQ4VRQC05EE6Ser/ImP+aCPlHNTOYKQvec4MuEGonIQg5ZyIEDuX7xET5rBQTLxzvJvqC+SLdXUrbMoRGvT/w427vNn+qMysGOIMOBy3PE=;Ojn82UN7smGzmwnyvsiVdQ=="
 ---
 

@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+title: "Diablo 4 beta tests are coming to all platforms next month"
+excerpt: "We had an inkling that Diablo 4's open beta start date was due to be unveiled \"soon\", and now it's been confirmed that the beta early access test will run from March 17-19 for pre-orderers. An open ..."
+publishedDateTime: 2023-02-19T05:15:16Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-tests-are-coming-to-all-platforms-next-month/ar-AA17Gan9"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-tests-are-coming-to-all-platforms-next-month/ar-AA17Gan9"
 type: article
-quality: 162
-heat: 702
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GamesRadar on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VWjZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
     excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
     publishedDateTime: 2023-02-18T19:41:15Z
@@ -302,20 +312,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 beta tests are coming to all platforms next month"
-    excerpt: "We had an inkling that Diablo 4's open beta start date was due to be unveiled \"soon\", and now it's been confirmed that the beta early access test will run from March 17-19 for pre-orderers. An open ..."
-    publishedDateTime: 2023-02-19T05:15:16Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-tests-are-coming-to-all-platforms-next-month/ar-AA17Gan9"
-    type: article
-    provider:
-      name: GamesRadar on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VWjZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4’s beta begins in March"
     excerpt: "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from"
     publishedDateTime: 2023-02-19T03:12:00Z
@@ -410,6 +406,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "Yiaz4kBN4QOhQbbLfFkeQmyY/TyPTYzw3eRnP7eic/CGKKd4dGTrPi+Bp2pLIDIzGvrd9lOZAReAZnnwEHwCG9VT1HqT2aECqYbGaTaGT1b+yxH08Pg+onpy/lI8W9MtD8q96wV+7MN5eIFK25E4S8at7vZswsg0VJ1wJvXtcexlsMR/zy41AQlgYzuKOV9iNx0jMOrG0E6FBolPcRalCsiLa0GgIPv9vv+kp9uJ7MrwflUvzkqd6eTanxmaQbIbdwjZ8DIV0uv1C7++G//3tQVcSCRLysxTa7MwAEU6cRsqGEHWZXdA55W3qtMZx8LeDJbbcZEEvobIv6KBp1w9fE4Qb/w1R14Q7BvlX2konH8=;gk/PgUdM4/bi/vM0ShOn6g=="
 ---
 

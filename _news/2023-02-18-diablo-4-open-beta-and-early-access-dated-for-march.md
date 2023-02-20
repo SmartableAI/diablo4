@@ -212,6 +212,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 open beta starts next month"
+    excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
+    publishedDateTime: 2023-02-20T02:04:00Z
+    webUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 107
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
     publishedDateTime: 2023-02-13T05:01:00Z
@@ -282,6 +298,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 beta tests are coming to all platforms next month"
+    excerpt: "We had an inkling that Diablo 4's open beta start date was due to be unveiled \"soon\", and now it's been confirmed that the beta early access test will run from March 17-19 for pre-orderers. An open ..."
+    publishedDateTime: 2023-02-19T05:15:16Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-tests-are-coming-to-all-platforms-next-month/ar-AA17Gan9"
+    type: article
+    provider:
+      name: GamesRadar on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VWjZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4’s beta begins in March"
     excerpt: "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from"
     publishedDateTime: 2023-02-19T03:12:00Z
@@ -295,6 +325,62 @@ related:
       - url: "https://www.videogameschronicle.com/files/2023/02/Diablo-3.jpg"
         width: 959
         height: 521
+        isCached: true
+  - title: "Diablo 4 Early Access – how to sign up for the beta"
+    excerpt: "How to get into the Diablo IV early access beta, including steps on how to redeem your beta code and download the game on console."
+    publishedDateTime: 2023-02-20T07:08:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-early-access-beta-how-to-sign-up/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 release date, beta dates, trailers and more"
+    excerpt: "Diablo 4 is on the way - there's plenty more hacking and slashing to be had. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer."
+    publishedDateTime: 2023-02-20T01:50:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-beta-dates-trailers-and-more/ar-AA17Hvne"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17HHG4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=798&y=413"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "When does Diablo 4 Open Beta start?"
+    excerpt: "Dates for the Open Beta of Diablo 4. March 17-19 for players who have pre-ordered Diablo 4; March 24-26 for everyone else; What will I be able to do during the Diablo 4 Open Beta?"
+    publishedDateTime: 2023-02-20T06:56:00Z
+    webUrl: "https://www.windowscentral.com/gaming/pc-gaming/when-does-diablo-4-open-beta-start"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/V3WoShWjLAPF6Q2BhqyrrW-1200-80.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
+    excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
+    publishedDateTime: 2023-02-20T04:27:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-dates/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 84
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betadetails.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo IV will get early access and open betas in March"
     excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
@@ -310,6 +396,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 to hold open beta next month"
+    excerpt: "Blizzard, the developer behind the Diablo series as well as World of Warcraft and Overwatch 2, has announced that Diablo fans will get to play an early version of Diablo 4 next month."
+    publishedDateTime: 2023-02-20T07:37:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-to-hold-open-beta-next-month/news-story/6dcde2b8a3f23796e18db41dd3fe61cc"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 67
 
 secured: "4rc2zmeYfFFBcA/kDCIolf+WvwlCoHx7BIBFGNUd4HmUSbuNGJgzlpGCzq5yMYMGNOFf0u2sBNSaC18Ja/DUUM1LU8xBaw5TWYUMg1MtZYBhdpagY8yZqfaq6Hg2w8mIe+iRmfHLCYXJsc1H1AIURPD9FRA1Q0mJX4YmeQuYyaaRGC0CZl2VkZ25Hambppob+7/kTYrbAoo11CnqKUmw4hCE8uk5XBPhB+OyvwYPrC6e/3/FdIohbcCC2q4Ntx1MNfLjl0VBb7obRC07AYthrkJ1TJsvGU8PK0nF2U3rQ5dLvhQUCgNlsXlJLnd32/YFtEOgjwa9p8mIaSMeaV3/lvqQxXu6N2d5BYGqlRTQMJA=;q3/LVP2KQCGhx7z8bWzpcw=="
 ---

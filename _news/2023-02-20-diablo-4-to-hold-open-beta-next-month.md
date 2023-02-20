@@ -1,33 +1,37 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+title: "Diablo 4 to hold open beta next month"
+excerpt: "Blizzard, the developer behind the Diablo series as well as World of Warcraft and Overwatch 2, has announced that Diablo fans will get to play an early version of Diablo 4 next month."
+publishedDateTime: 2023-02-20T07:37:00Z
+originalUrl: "https://www.news.com.au/technology/gaming/diablo-4-to-hold-open-beta-next-month/news-story/6dcde2b8a3f23796e18db41dd3fe61cc"
+webUrl: "https://www.news.com.au/technology/gaming/diablo-4-to-hold-open-beta-next-month/news-story/6dcde2b8a3f23796e18db41dd3fe61cc"
 type: article
-quality: 162
-heat: 702
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Couriermail
+  domain: news.com.au
 
 topics:
   - Diablo 4
 
-images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
-    isCached: true
-
 related:
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
     excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
     publishedDateTime: 2023-02-18T19:41:15Z
@@ -400,16 +404,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 to hold open beta next month"
-    excerpt: "Blizzard, the developer behind the Diablo series as well as World of Warcraft and Overwatch 2, has announced that Diablo fans will get to play an early version of Diablo 4 next month."
-    publishedDateTime: 2023-02-20T07:37:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-to-hold-open-beta-next-month/news-story/6dcde2b8a3f23796e18db41dd3fe61cc"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 67
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "n7sgvs9u7NyldMRMW/8tq8+PGcjTp/eitCNXaHLKSqMpbAMzl7cH8WH10ITND7zdZXQLj4/HauCFwlw857tDD8v6b1p4d972qXUtKhT8u2d41AMGmbyvX92GEpVt3ziHYJ86EtDui/jo/6vrvx89CNVfPoxHeV0e7ab8HH8lgvhrY6SIMeT5wdi0kaKCh//hs8FFDwRH9xWdAmL0tzqxoxPMP5+23+pag5H3EIYKhhbiIv8avYKoAnCpK9JmgF4eNqRAGkVz+HWrW4Imf8Yt3qV0lVYhN2fuJPGJdYdNwWvTQIDpEfyGfD7DTfQWlbhMto1m5iePB2CbnJkTFjoFCpHxwnEAB9tFwfoZcIc2vAc=;vr4O6Be2UjCX7BOb2jO8zA=="
 ---
 

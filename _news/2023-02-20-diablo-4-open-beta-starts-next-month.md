@@ -1,33 +1,45 @@
 ---
 category: news
-title: "Your Guide to the Diablo IV Open Beta"
-excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
-publishedDateTime: 2023-02-18T18:16:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+title: "Diablo 4 open beta starts next month"
+excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
+publishedDateTime: 2023-02-20T02:04:00Z
+originalUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
+webUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
+ampWebUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
 type: article
-quality: 162
-heat: 702
-published: true
+quality: 107
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
-    width: 880
-    height: 440
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Your Guide to the Diablo IV Open Beta"
+    excerpt: "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details."
+    publishedDateTime: 2023-02-18T18:16:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg"
+        width: 880
+        height: 440
+        isCached: true
   - title: "DIABLO 4 BETA ANNOUNCED, FULL SUMUP"
     excerpt: "Twitch https://www.twitch.tv/annacakelive Instagram https://www.instagram.com/annacakelive/ Twitter ..."
     publishedDateTime: 2023-02-18T19:41:15Z
@@ -201,22 +213,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62fe743dd90d8172759de215/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4 open beta starts next month"
-    excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
-    publishedDateTime: 2023-02-20T02:04:00Z
-    webUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 107
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
@@ -410,6 +406,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "GNDL1kZ5P26NChdHEYkDVrlCdOS1QKaEe/bX/drQdNjXMoPUoyyzZ5iyCHcaHj7oyvJ1+HnLZQNTEbH7NCcktaDoFeUhqYB1xlRApL5ejpDITVAPhuSo/fOxOWpzK9ZVKjYbNAmXuWOhWjQvty5u/e0Nl4RYH0/8PnsmV5Cgg9t7aK0wV4NiMAXJxrBwXbJ4rgek1IWPOWOucrmRcQw9CBKY9v75pmiP2aqYHQ3qjo1gHWKCt+Bo2ggC/eZmKPMkN1HY5i5GKoQw8g8Jn1IBxDRxBzIRKoqKiyK/uCI/cm7hVevwu0QWuRt+g6Yc+Ly7eSRf0QD8sdQXk3UiULKgprMUf0KTuiBCqg7BvQ2WsGo=;rz/81eqSjXXmT+aASxhXEg=="
+secured: "sC7URyLMUQrqgyxPFtAGDBqVpVN+8xhZAjqITx17nJWO1z6rAwQtm+wRHbMK75ZDaBhg7HU1diKy4rBSexI33vub0PNj0BEjYKcLvMX4rMIN04YV4SQRDN11d6cu19kFw0bR08CqPbLqTOBDFSC2ukIR8xWUqetjK3hOwdAprsICkD3mx3JB4rLJ7TxQmcBcFbX5u3Geb7LDThveSXBCwEmOXe9IjN90eZfj7D+448lEcVglR+vvd/1jr4J9sPSJXVNwIQxfmdFPovMz+jzkkgCq6jO6gLTWuT0QYqnBs2rvQBGGrCGcSto44NpEJ26grTYWRvpVdcsMJY3av49Qx6+axypBVYVperYwvnFP8dw=;JakDFYSnfWZpv0QaIhZDLw=="
 ---
 
