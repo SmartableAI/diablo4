@@ -156,6 +156,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo IV - Official Open Beta Announcement Cinematic Trailer - Reaction"
+    excerpt: "Hey guys! This is my reaction to the Diablo IV trailer! Thank you for watching! Let me know what you think too! My other stuff: Vlog ..."
+    publishedDateTime: 2023-02-18T18:59:52Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Beeb1up
+      domain: youtube.com
+    quality: 121
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 Open Beta Dates Announced"
     excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
     publishedDateTime: 2023-02-18T10:29:00Z

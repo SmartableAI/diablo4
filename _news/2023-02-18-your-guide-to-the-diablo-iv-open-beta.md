@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 522
+heat: 542
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       name: waydong91
       domain: youtube.com
     quality: 126
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo IV - Official Open Beta Announcement Cinematic Trailer - Reaction"
+    excerpt: "Hey guys! This is my reaction to the Diablo IV trailer! Thank you for watching! Let me know what you think too! My other stuff: Vlog ..."
+    publishedDateTime: 2023-02-18T18:59:52Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Beeb1up
+      domain: youtube.com
+    quality: 121
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200

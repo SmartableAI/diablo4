@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Diablo 4 Open Beta Dates Announced"
-excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
-publishedDateTime: 2023-02-18T10:29:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
-type: article
-quality: 107
+title: "Diablo IV - Official Open Beta Announcement Cinematic Trailer - Reaction"
+excerpt: "Hey guys! This is my reaction to the Diablo IV trailer! Thank you for watching! Let me know what you think too! My other stuff: Vlog ..."
+publishedDateTime: 2023-02-18T18:59:52Z
+originalUrl: "https://youtube.com/watch?v=dqCXq2EUz0g"
+type: video
+quality: 121
 heat: -1
 published: false
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dqCXq2EUz0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: Beeb1up
+  domain: youtube.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
-    width: 568
-    height: 320
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -152,19 +151,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Diablo IV - Official Open Beta Announcement Cinematic Trailer - Reaction"
-    excerpt: "Hey guys! This is my reaction to the Diablo IV trailer! Thank you for watching! Let me know what you think too! My other stuff: Vlog ..."
-    publishedDateTime: 2023-02-18T18:59:52Z
-    webUrl: ""
-    type: video
+  - title: "Diablo 4 Open Beta Dates Announced"
+    excerpt: "Diablo 4's open beta is starting next month with players able to get their hands on the game throughout two different weekends in March, Blizzard announced this week. The first of those weekends will be a closed beta, however, which will only be available"
+    publishedDateTime: 2023-02-18T10:29:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-release-dates/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-release-dates/"
+    type: article
     provider:
-      name: Beeb1up
-      domain: youtube.com
-    quality: 121
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
     images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "Diablo 4 Opening Cinematic Revealed by Blizzard"
     excerpt: "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla"
@@ -297,6 +298,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5wErT50IJKUsZdyEH3qrSzcmF5O0O4sx8N2SCKJHw5O9REaGKkkE2FcgQep9rkD7UjU1Kcd0WMxqE58DiDfTazisrBop557qDioPkrCcznB9+k1iozMKl8kDNbNGXChUTpoQJl1lEYJTP0xW0by7qOJubRQJD6JCbVa/l81UAJmOXmUyhtMDL+rN6QPP6HTH96peelwMPf5sEe71RuXR5e2ytd9RxQ0T9n/4N8NsEO35tkG5dqRJVpLI0wKCo8xhuHGmPLa6iYLyumtkfXNiXAM3LTZNFzqmT+Txkslhdz9GLYJXzVRrZZLGkurNY9zE7GzE0+sIXxQ8bXK8eAo6y1eLfK9uk7ijNZlsd9FtGdY=;DZuIL8KatB7yvgCWUS7B9A=="
+secured: "B8XjPSQ0VDYUXfspMTy9ADS/8LPcLL6s1vOu7TCNA96/xX8tdzuT+W5MAlw1RrGayoowz78AajsvYOyWM3hayVk9cJUKrJ3F2JgmbPW8mb9GPr80cp6Wp/CTCQxVWmL7/xQ4tOy7o029vb6Nm/rFTl/SbXDdw+UuFt2Ge9SopQzABViTkIefd0O/jJWN0MDQH+u4xWwHM2zTvCoVQeZQMlSBctF5SJsMQkuJO68HmAb0BIf7Ap8CbIzzGsiGhhjz+J/0GYWmSAoV+6NttXT7p9l2wmCtLP6ZvhGif6/yCrPMoc5EdmIG9UuYwKkk3BNkJXl6XL9aMjuGD3d2eIswqiK5avk9e3DTbIv5ftTIQEclCwzQHr/OeMIN1GQQ5lVX9zBTmTIVJTemAyw13VdjWg==;gd7whEoCqC+B3xtVWAHV9A=="
 ---
 
