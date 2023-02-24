@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/mlge-the-mage-diablo-4-sorceress-
 type: video
 length: PT10M19S
 publishedDateTime: 2023-01-15T08:51:43Z
-heat: 160
+heat: 100
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PxPbGyrIH5U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
