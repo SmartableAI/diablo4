@@ -2,6 +2,216 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3.md",
+      "title": "How Diablo 4's Legendary Items Differ From Diablo 3",
+      "excerpt": "It's no surprise that \"Diablo 4\" is already distancing itself from the mess that \"Diablo Immortal\" ended up being, and the pay-to-win mobile game isn't the only franchise embarrassment it's trying to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13ZTcl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
+      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
+      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:42:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts.md",
+      "title": "Diablo 4 fans won't stop asking beta testers to break their Blizzard contracts",
+      "excerpt": "Fans keen for more Diablo 4 information are testing beta testers' commitments to their NDAs by asking questions about what they saw, just weeks after several players seemingly went against Blizzard's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5Mog5Bg9tsjknhxgyGU4eg-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices.md",
+      "title": "Diablo 4 combat “grounded” to make room for tactical choices",
+      "excerpt": "Diablo 4 combat feels “more grounded” than that of its predecessor, says Rod Fergusson of the upcoming RPG game. The Blizzard general manager for Diablo joins game director Joe Shely to detail how ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/combat",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/combat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-combat-design-intentional-blizzard-interview-joe-shely-rod-fergusson.jpg",
+          "width": 1876,
+          "height": 1055,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss.md",
+      "title": "Diablo 4 Fans Worried Following Tweet From Blizzard Boss",
+      "excerpt": "Why are Diablo fans worried about comments made by Mike Ybarra? Well, because he is the President of Blizzard. Taking to Twitter, a day after the aforementioned report made the rounds, Ybarra ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/11/08/57aa28e7-4b7e-4db2-9b7b-565d110ae452/target-buy-two-get-one-deal.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
+      "publishedDateTime": "2022-11-08T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-diablo-4-explains-open-world-bosses-and-legendary-items.md",
       "title": "Diablo 4 Explains Open World, Bosses and Legendary Items",
       "excerpt": "Diablo 4 developers dive into the game's World Tier difficulties, World Bosses, and how Legendary items combine the best of Diablo 2 and Diablo 3.",
@@ -848,225 +1058,6 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-diablo-4-endgame-beta-invites-are-coming-leaks-blizzard-president.md",
-      "title": "Diablo 4 endgame beta invites are coming, leaks Blizzard president",
-      "excerpt": "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-25-diablo-4-endgame-beta-invites-are-coming-leaks-blizzard-president/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked.md",
-      "title": "End game beta test for Diablo 4 has been leaked",
-      "excerpt": "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked/index.json",
-      "webUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
-      "originalUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.xfire.com/wp-content/uploads/2022/10/new-diablo-leak.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xfire",
-        "domain": "xfire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details.md",
-      "title": "Diablo players who got beta access are already leaking Diablo 4 endgame details",
-      "excerpt": "Diablo fans have leaked information from the Diablo 4 end-game beta. Blizzard sent out beta invites to players who have recently “spent significant amounts of time” playing the end-game experiences of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-20-diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details/index.json",
-      "webUrl": "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details",
-      "originalUrl": "https://dotesports.com/general/news/diablo-players-who-got-beta-access-are-already-leaking-diablo-4-endgame-details",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2022/05/31100852/diablo-gear-key-art-768x356.png",
-          "width": 768,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-diablo-4-gameplay-details-leak-right-after-start-of-beta.md",
-      "title": "Diablo 4 Gameplay, Details Leak Right After Start of Beta",
-      "excerpt": "Posts like this one within the Diablo subreddit indicated to others who might not've been in the know that the beta was indeed live. Some have questioned whether or not PSAs like this one are against ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-20-diablo-4-gameplay-details-leak-right-after-start-of-beta/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-gameplay-beta-leak/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-gameplay-beta-leak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-gameplay-beta-leak/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-gameplay-beta-leak/",
-      "publishedDateTime": "2022-10-20T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately.md",
-      "title": "Diablo 4 endgame beta asked testers not to leak it, so they leaked it immediately",
-      "excerpt": "Oh well. The Diablo 4 subreddit has already had to clamp down (opens in new tab) on posts from excited beta participants violating their NDAs, but the cat's out of the bag. The internet is already ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-20-diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/kwF6fZr3V9dJeqQoLeSq6b-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
