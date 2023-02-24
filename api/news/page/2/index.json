@@ -2,6 +2,81 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
+      "title": "This trailer is DARK! | Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 reaction",
+      "excerpt": "Time to check out an older trailer from the diablo 4 video game, this one was from 2019 but the trailer is absolutely amazing! Lilith ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=ohGndBIfK8A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ohGndBIfK8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T05:00:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Necrotic",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-diablo-4-release-date-details-how-to-ensure-access-to-the-upcoming-open-beta.md",
+      "title": "'Diablo 4' release date, details: How to ensure access to the upcoming open beta?",
+      "excerpt": "While Blizzard is keeping things under wraps, the \"Diablo 4\" beta will likely arrive a couple of months before the \"Diablo 4\" release date arrives in June.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-23-diablo-4-release-date-details-how-to-ensure-access-to-the-upcoming-open-beta/index.json",
+      "webUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "originalUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "publishedDateTime": "2023-01-22T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-diablo-4-release-date-trailers-and-latest-news.md",
       "title": "‘Diablo 4’ release date, trailers and latest news",
       "excerpt": "Diablo 4 has been a long time coming, having been rumoured for many years before being announced. It looks set to be a return to form for the series, and appears to be much more akin to the first ...",
@@ -976,99 +1051,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
-      "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
-      "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "originalUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RSmVHnRfezmk8VcumjCrrj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream.md",
-      "title": "Watch the First Diablo IV Developer Update Livestream",
-      "excerpt": "Join Diablo IV game director Joe Shely and associate game director Joseph Piepiora as they introduce the new Codex of Power system and more invitingly dark details.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ls/LSX25ZTHA9E11670628043496.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

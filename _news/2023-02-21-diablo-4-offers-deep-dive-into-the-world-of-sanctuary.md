@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
-excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
-publishedDateTime: 2023-02-19T04:28:00Z
-originalUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/"
-webUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/"
-ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
+title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
+excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
+publishedDateTime: 2023-02-21T13:21:00Z
+originalUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
+webUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
 type: article
-quality: 107
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: Game Rant
+  domain: gamerant.com
   images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +22,9 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/62fe743dd90d8172759de215/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-sanctuary.jpg"
+    width: 1800
+    height: 900
     isCached: true
 
 related:
@@ -202,20 +200,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
-    excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
-    publishedDateTime: 2023-02-21T13:21:00Z
-    webUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-sanctuary.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
     excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
     publishedDateTime: 2023-02-19T20:04:26Z
@@ -275,6 +259,22 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
+    excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
+    publishedDateTime: 2023-02-19T04:28:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe743dd90d8172759de215/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 open beta starts next month"
     excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
@@ -498,6 +498,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "p8K+39nJJ1b79KMXf+9ld7pSyirsK+r0OsmThgVnxcDuBfEuk1SUHimvQNr7HdDDBuyH2h6czV44hw3CNOKlfe7buGaoYfsoNngq+kK07lqTrc4IEpn/eXMjQ3EHywrXpkNG/yqYtbgHYDE8hjaIf7OODWbfRJOHr4aF0sEEC7qgOOtR7S5fI/NQK8UpNZA0msPXHbclXf+RYvAeuoWfHyxKYYYuku7rapYYQGHSyZRYpvAT6rYtfXxCa+PAUfnvKPrdnvYcPLG2TLhwAa4cI3/V+ReAuOVDfTD3jRMjbpdPS1EHhvLurD+jRU/J0IWjoxBf4Q5+RyCD+Q1L1T0EayQHuykyL4BUJeBI9QIOcfo=;S1o4DyaX6MwjqWMRdXAY+w=="
+secured: "L0ri/8xB5s9h95KBh0Tnrep//CmV7OpSXgz7uTaeghvE6ZSK868tTP/D/t7VxawWSdwt5ksWFA5aDCmqtc3ccXEOv6v1KJHOutWXdqkAaf+yHOKcsgTo7GGTJ2YzHROV5swu0LJaCz7+p16BLYGJomMJghX6Dt54xE7gJe157m/TyD7sZhDf8lgLvkbXKnG8pFXWA6YXaS6Z5jGqhzpL7R+79rhQ7kBr2SxOgNerL3IP+gNSmgFrNErQ/hQbjURZXd9iBiSOnwB5BSJElLoBY1cE7LLyQfzh15B1xYdt36fqkXghj2C8+3nXKsWERUv/TofCKOe47z8r0L/t9d6xVbifla57NxEd9KNgofq1XWg=;ZIwa2RDAzTWDdspQ8ItzuQ=="
 ---
 

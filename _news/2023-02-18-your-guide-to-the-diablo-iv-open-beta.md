@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 802
+heat: 822
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
+    excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
+    publishedDateTime: 2023-02-21T13:21:00Z
+    webUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-sanctuary.jpg"
+        width: 1800
+        height: 900
         isCached: true
   - title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
     excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
