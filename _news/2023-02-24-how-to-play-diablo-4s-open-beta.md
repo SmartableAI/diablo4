@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4 video takes a look inside the creation of Sanctuary"
-excerpt: "A new video for Diablo 4 has been released and it takes a dive into its design, the regions, and monstrous inhabitants of Sanctuary."
-publishedDateTime: 2023-02-22T08:34:00Z
-originalUrl: "https://www.vg247.com/diablo-4-video-takes-a-look-inside-the-creation-of-sanctuary"
-webUrl: "https://www.vg247.com/diablo-4-video-takes-a-look-inside-the-creation-of-sanctuary"
+title: "How to play Diablo 4’s Open Beta"
+excerpt: "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two Open Beta weekends in March. Let’s talk about ..."
+publishedDateTime: 2023-02-24T10:06:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TG4q"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TG4q"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: vg247
-  domain: vg247.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
     width: 1200
     height: 630
     isCached: true
@@ -456,17 +456,17 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "How to play Diablo 4’s Open Beta"
-    excerpt: "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two Open Beta weekends in March. Let’s talk about ..."
-    publishedDateTime: 2023-02-24T10:06:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TG4q"
+  - title: "Diablo 4 video takes a look inside the creation of Sanctuary"
+    excerpt: "A new video for Diablo 4 has been released and it takes a dive into its design, the regions, and monstrous inhabitants of Sanctuary."
+    publishedDateTime: 2023-02-22T08:34:00Z
+    webUrl: "https://www.vg247.com/diablo-4-video-takes-a-look-inside-the-creation-of-sanctuary"
     type: article
     provider:
-      name: MSN
-      domain: msn.com
+      name: vg247
+      domain: vg247.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
+      - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -508,6 +508,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "6Yyb4caHyWEP+qjyxMtD3NMGokc/zVItDwyB5Fu8weDB6+meblaDnnf8L5JKne5lyLKuvJGcCkK9J+CMUaj5gSOuHI9fw18KaUnzvwTgTxenBWLbvXs6YzMwAZtNVlCyYkOOBS49PDL5Kev7W9PsEZ0QytGi6nMglUbK4DGWtiaMRkVYgfT4twcqs44lNanzIf+FmyOGl0oS+yMXJLP1I2jia5Z7iaaBT4J2lT9UIH5gUxN9fmiM/l7m42XbcMzXNrSGkYGEqV6dZyhlHVnkVmpZGKBm1dFutLW6cNfBLj/ZV7rZlISeChGtntOwqBbiYJaND2Olw/nVtWBKWsgNrOMWSTZsnmsWvbilQDTwiA8=;XbCodXAsOmDrhLXYk3ZQRg=="
+secured: "bxa3j7r/SkYrODoqWVR+6AIlS+enUs5pv2F+IgcMcDzeKRJ2i5JE36O+E+z4Oa733EMlXpSCYE/zwOxPIPyJwgmk2NpJySCX/uialmGyw/EkCuOk4bh0MvzoED6zuA+yJSzIEoRYdQKeZzHq4/a/i+P9bwxcYIeKYUosY5KFY1tzWLzNgwZY5vBMlVTZKJO5AMFDJrLn36HlkTzT5s5IQhJdKpdCwSj/pdBEl94Gxp4O3tsLvXv/eB/Eq8YDIi5yrBc942bvrxKblJfXvwW5P+UmclKSu8T2nE2s/4QlNsVTz2uQ0g9BFSKSfillLpkJHarA3wFr29Sl2gSKXW5pB/2CNq1K9UxkU02AOPSfHwo=;YaqVz94Vuzyh5okJF0w8GQ=="
 ---
 

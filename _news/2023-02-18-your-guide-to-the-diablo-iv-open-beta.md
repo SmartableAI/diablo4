@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 822
+heat: 842
 published: true
 
 provider:
@@ -457,6 +457,20 @@ related:
     quality: 87
     images:
       - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How to play Diablo 4’s Open Beta"
+    excerpt: "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two Open Beta weekends in March. Let’s talk about ..."
+    publishedDateTime: 2023-02-24T10:06:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TG4q"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
         width: 1200
         height: 630
         isCached: true

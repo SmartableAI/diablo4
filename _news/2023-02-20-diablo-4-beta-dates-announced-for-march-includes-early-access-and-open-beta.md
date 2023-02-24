@@ -470,6 +470,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to play Diablo 4’s Open Beta"
+    excerpt: "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two Open Beta weekends in March. Let’s talk about ..."
+    publishedDateTime: 2023-02-24T10:06:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TG4q"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo IV will get early access and open betas in March"
     excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
     publishedDateTime: 2023-02-18T14:10:00Z
