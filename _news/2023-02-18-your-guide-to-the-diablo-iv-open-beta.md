@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 842
+heat: 862
 published: true
 
 provider:
@@ -459,6 +459,20 @@ related:
       - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How many classes are in Diablo 4?"
+    excerpt: "The Diablo franchise has often been known for its myriad of class offerings and players are hoping that Diablo 4 brings the same wealth of choices upon its release. NOW READ: Is Diablo 4 crossplay?"
+    publishedDateTime: 2023-02-22T17:29:00Z
+    webUrl: "https://www.videogamer.com/news/how-many-classes-are-in-diablo-4/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
+        width: 1519
+        height: 675
         isCached: true
   - title: "How to play Diablo 4’s Open Beta"
     excerpt: "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two Open Beta weekends in March. Let’s talk about ..."

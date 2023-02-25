@@ -15,6 +15,12 @@ provider:
 topics:
   - Diablo 4
 
-secured: "/2SB0S9u4taw+OFlAm+795g+Kl+oSw8piijsGpRXn7VZ2F43e9lXuHvXJc7Iw/H8BHXNiZI1bAPPP+slMrZa6RxKeVbNI/6s92lmHC4vB/km+xFrBX8U8OvkHNDLQcK+qOeSY8CW4lAooaG+jNspXkRToHjh8/YqLAPjjwDYHpQC7hqURExJVoDL3XKYhoFyxpSVxzpEa5w4ePXUNa/2S0kRSnbcLcYuuI7y0mu4OYo8nvIDadDWczSBij9gKPpLYGrwysl9aLw96tOwqMcMZYDMbBThx8FObgCOxHKcPR4j6cEnHMR+RxWC8DPsPOoq1R7F3E7p7cLFNxXzpcMluYfXealKuFmQ9w4tIbYVGFskJylsqusBgUMMG2wT8bPZWNJ6fbdr4WrmZ8dECcTvrQ==;IIkiXlvSGgzpnvqPtDSK2w=="
+images:
+  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "cjdftyF2pJdWW2EPWhmen0Gf8zgYnLyEkGQo0p71JP1PgnBK6vxdzHECltliCC3lGkkIxiDrPg6dl0Won7GBeZz9mc3xXeIlWQmfSq+adAzif9DIwkKhgyg/cPEPHAE4ZjGQgQ3P/Kad+hy8O8AjqcrhRczSEnNL6k3Qrli/FAu6LrmzSaisKNFbOPEz06hE7puQhGOr9BnrBcI6T1OMCMFJtHxchxqbN00gYdfRvlw65SwgYiIVRPRIqEEJnwyIclmtJhk7IgsAL9VPL6KZNJ07xXQn1Oy27vf7jH55/t8vywrt5j/pj1RRteya6H+NrRZfs8k0dTqOVbSbmohLunm81iSiUNiTC4YgQrE26PGr7vFn6b2CNLPaGS6o1hWH4QO+lQQy5b0PBiky0JGEcw==;xlgVr9Upf1xK3ePFQbw/Tw=="
 ---
 

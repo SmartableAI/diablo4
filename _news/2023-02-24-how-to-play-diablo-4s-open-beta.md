@@ -470,6 +470,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How many classes are in Diablo 4?"
+    excerpt: "The Diablo franchise has often been known for its myriad of class offerings and players are hoping that Diablo 4 brings the same wealth of choices upon its release. NOW READ: Is Diablo 4 crossplay?"
+    publishedDateTime: 2023-02-22T17:29:00Z
+    webUrl: "https://www.videogamer.com/news/how-many-classes-are-in-diablo-4/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
+        width: 1519
+        height: 675
+        isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
     publishedDateTime: 2023-02-20T04:27:00Z

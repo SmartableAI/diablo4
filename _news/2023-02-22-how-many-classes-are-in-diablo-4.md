@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Opening Cinematic Revealed by Blizzard"
-excerpt: "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla"
-publishedDateTime: 2023-02-19T12:47:00Z
-originalUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
-webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
-ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
-cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+title: "How many classes are in Diablo 4?"
+excerpt: "The Diablo franchise has often been known for its myriad of class offerings and players are hoping that Diablo 4 brings the same wealth of choices upon its release. NOW READ: Is Diablo 4 crossplay?"
+publishedDateTime: 2023-02-22T17:29:00Z
+originalUrl: "https://www.videogamer.com/news/how-many-classes-are-in-diablo-4/"
+webUrl: "https://www.videogamer.com/news/how-many-classes-are-in-diablo-4/"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Comicbook.com
-  domain: comicbook.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
-    width: 568
-    height: 320
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
+    width: 1519
+    height: 675
     isCached: true
 
 related:
@@ -256,6 +254,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 Opening Cinematic Revealed by Blizzard"
+    excerpt: "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla"
+    publishedDateTime: 2023-02-19T12:47:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
     excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
     publishedDateTime: 2023-02-19T04:28:00Z
@@ -456,20 +470,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How many classes are in Diablo 4?"
-    excerpt: "The Diablo franchise has often been known for its myriad of class offerings and players are hoping that Diablo 4 brings the same wealth of choices upon its release. NOW READ: Is Diablo 4 crossplay?"
-    publishedDateTime: 2023-02-22T17:29:00Z
-    webUrl: "https://www.videogamer.com/news/how-many-classes-are-in-diablo-4/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
-        width: 1519
-        height: 675
-        isCached: true
   - title: "How to play Diablo 4’s Open Beta"
     excerpt: "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two Open Beta weekends in March. Let’s talk about ..."
     publishedDateTime: 2023-02-24T10:06:00Z
@@ -522,6 +522,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "yz0u1E2dboWxirFTRzZNcnrDCDGJcmbMhHgUnxKQCL3+1aGQSrJb2BXw4ihzScGc7U4Xvd5garOfCEYnW1MePdCrV6gBrP4Y0jfhhVQ20T8RrAFWyflsdHRlbojnW1X42juwlWbznEQgB1kX6XUwgMCiw1rOuIYI27fDmAzQMsb2ajfrMusVHPnFDZTihkolbWDf1ziByzNMXEmNLR6eJTZTphIRdT0uOwUL4wOWKfBFidjX9UBhkUiW6JD9O0ZmkEPPU9RDALX98GN48eL9vA9eqnZJdFm47aTpN9p43xBgDhUdfZ+BjDUNjclcn5wN2tcV2KfKvq3YuM8HiIhVAJFwjicCcZSfwbR5GR0/WxU=;EOr46ABKCsCVCfXJ8Ko3Dw=="
+secured: "AHDrb2/cD841Xo0EvQSTDXtP23IMULNLXdM+6YyJ5HBYWAwGLmcLfHIixs/UAONcBPfg9UFAxEJJJEz1z7aJSSZ+nxalaGSnZEM9FTheWHTyM0/8ZkO+ZQIXJ+hYgqtZY6U4WXyJQBKyeJWduIwPaPeYke5KBHsKLMxeqgNcTg3Qf/+OW27nHqknsQgJSmOwog+i+OLyeRwds/yzwdygu4JC07ZZoYBy6ickn91/nGPSBYyowa9wW5RwhRfpBOL4h2/ZHCFeunoK9Lj1weBsHSyuUtDYktkD20hh4vxY/nAWhGaMrx8dMW1cNMdAVa6DIM8RIw7YnyIwridbAXrURt599nRFpFDwgwrrdPvT8xg=;LSin+BB9MFYf1xjek6qvFA=="
 ---
 
