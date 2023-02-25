@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rumor: Diablo 4 Open Beta Dates Are Coming Soon"
-    excerpt: "Blizzard hints that it could be revealing plans for Diablo 4's open beta at the upcoming IGN Fan Fest 2023 event, or somewhere similar."
-    publishedDateTime: 2023-02-05T16:18:57Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/rumor-diablo-4-open-beta-dates-are-coming-soon/ar-AA178UXM"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 67
 
 secured: "HV/KK8bB18ZEym4tOrJWKi5j8leWhuT3AcCNdVKTXMK7YsmLLbM7yQK7O8QQCJEz0T3rwH2vvGrxtIni/Gy28lf82pqXjgov6dVUOrH1kQmX1fmBDLnDTxkZqgFlRmxaptD5abbEh2uqGkMEsEZpI0tgP+k+22ONRq2uGFWbtdea6Mjc3ZhxjHoCMs/EYC4iVmRl1s6CwD6G9d8nSPmzYbdUInKfuHnQNRNuQTi6E8JfjDj6rYr3SDLJMKzZQ87xSJeMm7P6FrwopIw5NhjGetGTc7cTODqb1aKTeSzXok0Qk4akw+8dNWFYJc7/hyMnypSALiir2yCn/P2LhVxNnCNrV9cCW7iv5G7lbxqqLDw=;/QB6egew5yG9LQZAOTkMIg=="
 ---
