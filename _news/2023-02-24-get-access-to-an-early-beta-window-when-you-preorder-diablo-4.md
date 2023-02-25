@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Get access to an early beta window when you preorder 'Diablo 4'"
-excerpt: "Blizzard's Diablo franchise is getting its next installment. 'Diablo 4' comes out on June 6, 2023, and you can check out the early beta if you preorder now."
+excerpt: "Return to Sanctuary and face off against Lilwith the newest installment in the Diablo franchise, Diablo 4. The highly anticipated game comes out this summer, on June 6, 2023, but preorders have ..."
 publishedDateTime: 2023-02-24T09:24:00Z
 originalUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
 webUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "YpEKWj/M7jL8VfTRMVxXozxZaAnbmwyzf01RA8leJrzhMqQfRMWoyZxygIZW2yciHR5m20VmchCLRC8WCfdJnfOtJvOX0bh9QW+XRhHJQX8JmyckfuVyU5l7RO1QlW0TkE6z+zY0fZc8VnYcIwLbuUTYNul5ysWvqm1Idyb4OdnSNWFwBjxosIhDKoGLXEda6Gq8IKozCVREt1zZFtSnyF17rj95SnT8DF3jxMNLmUTqaVi/BUuScUA9iPiHoMumFpA1ueh7YuzIqg/MoJNh1eeEY4yODuC3ZwLZQLZNyxQOGWrgwfkT6soxOZA1fm8fCyl9vXsYrNOJqSKYgf2UgShHliPp9fkYqaiORkXOD2E=;hONiOUJJOpKe05AcxN0Nlw=="
+secured: "pq3nGb8VAY9QHkOSCgWfbMBztdK2PQ6JpXwAzP5C+YFWMqnc9h6d96YK4gDfbopaSRNFJkGbN3/9iA+lWy7iOqRU5eercSbwZBdemFvocuAZP0c41KuoIuoihTPlQzyWEmd+A2RG3ekB9nN8ASLD7A/b/2z+irXam+V9HfnqdAgZUQuHLwgW2wZpu7QA8y282aBkxvRCIAcKP3/Wumv/2Ary//aLp5xWSXdfOLz9pDVXun+FlUQYx7Uxx/zF3U8V5D8uDdCmti8JeBqqHB2Xej6Pq7wZCe2tukSk/81gYl+wI38k0qWpOj+u+WzEE0YYeNSJoupQA61b0Mh+lb2NIePJVhBdrwZ/brVDcScgu2E=;5oy2j0vpz8C6Fa39Ug986g=="
 ---
 
