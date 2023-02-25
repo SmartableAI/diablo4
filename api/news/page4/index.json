@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer.md",
+      "title": "Diablo 4 Release Date Revealed in New Trailer",
+      "excerpt": "Diablo 4 made an expected appearance at The Game Awards 2022 this week to reveal the release date for the game alongside another preview of the newest Diablo experience. According to Blizzard, Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
+      "publishedDateTime": "2022-12-08T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement.md",
       "title": "Diablo 4 devs reportedly say crunch feels necessary, claiming lengthy mismanagement",
       "excerpt": "The employees also claim that the game’s development has been affected by gross mismanagement throughout the past five years. Diablo 4 has reportedly seen numerous delays throughout development, with ...",
@@ -1034,48 +1076,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while.md",
-      "title": "Diablo 4 gives players the chance to \"not pursue the story for a while\"",
-      "excerpt": "Blizzard may be refreshing Diablo's formula by introducing an open world in Diablo 4 (opens in new tab) that \"allows for non-linearity\", but according to general manager Rod Fergusson, that doesn ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
