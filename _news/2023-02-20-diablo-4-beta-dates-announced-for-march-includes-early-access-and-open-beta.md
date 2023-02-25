@@ -498,6 +498,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Please, Resist the Urge to Pre-Order Diablo 4"
+    excerpt: "Blizzard recently announced that Diablo 4 is going to have two “open betas” next month. The first will be from March 17 to March 19, and the second will be from March 24 to March 26. Everyone will who ..."
+    publishedDateTime: 2023-02-25T04:00:00Z
+    webUrl: "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 87
+    images:
+      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg"
+        width: 698
+        height: 289
+        isCached: true
   - title: "Diablo IV will get early access and open betas in March"
     excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
     publishedDateTime: 2023-02-18T14:10:00Z

@@ -1,27 +1,26 @@
 ---
 category: news
-title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
-excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
-publishedDateTime: 2023-02-18T18:45:33Z
-originalUrl: "https://youtube.com/watch?v=FhkR8HD7mtE"
-type: video
-quality: 137
+title: "Please, Resist the Urge to Pre-Order Diablo 4"
+excerpt: "Blizzard recently announced that Diablo 4 is going to have two “open betas” next month. The first will be from March 17 to March 19, and the second will be from March 24 to March 26. Everyone will who ..."
+publishedDateTime: 2023-02-25T04:00:00Z
+originalUrl: "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/"
+webUrl: "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/"
+type: article
+quality: 87
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhkR8HD7mtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: BeefGuyTy
-  domain: youtube.com
+  name: Hardcore Gamer
+  domain: hardcoregamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
+  - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg"
+    width: 698
+    height: 289
     isCached: true
 
 related:
@@ -106,6 +105,20 @@ related:
     type: video
     provider:
       name: AnnacakeLIVE
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
+    excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
+    publishedDateTime: 2023-02-18T18:45:33Z
+    webUrl: ""
+    type: video
+    provider:
+      name: BeefGuyTy
       domain: youtube.com
     quality: 137
     images:
@@ -485,20 +498,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Please, Resist the Urge to Pre-Order Diablo 4"
-    excerpt: "Blizzard recently announced that Diablo 4 is going to have two “open betas” next month. The first will be from March 17 to March 19, and the second will be from March 24 to March 26. Everyone will who ..."
-    publishedDateTime: 2023-02-25T04:00:00Z
-    webUrl: "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 87
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg"
-        width: 698
-        height: 289
-        isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
     publishedDateTime: 2023-02-20T04:27:00Z
@@ -537,6 +536,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "+s8XMDVFyI6EXqvWPXMo19si1TK44mTPB1pw0oPqTwhXCCCxrekBcxdlj5psVDJ1ZCRRpglz3+m5mfRFGPce8mHChvFG1DDY/pO7e6z0AyAac1aChOsL697negzOfViiIA9KZx0fu9xXKdjIcSL6IVst62gLvSCNa+bImbGlfX3rUraBz5vAZr1lG6Wo6iPuYT3oT8BmeyzfXRmsNyghEEKvbYWfxn+LtFjbBYTcbb1H/pO+ZwJYqrw85WDTYiHS/9ArYFFUM/SiBWoDvjTFleg9HHdHjc+POtmS/eTGf8iGp20PfwlTplnSeOllCvmbk+Ei/dSj9hhSZ99x+6mEGMMAQZEbLMGwHg1fF/7LWECka2N/gQyWGwgc27EV5rT68vxV9i0icFkXqSEDhtWf5g==;tbuISBWGjUY15xEAKuR0TA=="
+secured: "cwN9rELf+2Z4AiJahfDScdlnfMvCgXwh0lEyNfxwPhgNJ67RWIHHI0x1Az6HFiueJFIMLQqCDYCkIUqOE/Kb5VRqWGXkcVr4YJHeT7+3wb5E46VPoiTbdzRKfVb1AsSmY5ZD+50B4cBNT5CCGwpBYKUWYrwpcMAH4QxmrMv8FxcTEKg5jEDqTFffN0lxAWbtCCxnWZImrqVOh8tPe5Dst9+5WTcoapClLtUcM+3ahElIaLRzECgmLbCzBeQaAcDXx2rkEBNn5gUPnqkeTaabwfGIcTkRB786a7O8DIQfjiMnZq4Z4z7tRcPS/4LVKwhgVbxmn4J3kyYGplf+mLNWdESb3/kYqeNJRTbJlpf6sOE=;xE6PPz4i2KAFdNiEIZLxNw=="
 ---
 
