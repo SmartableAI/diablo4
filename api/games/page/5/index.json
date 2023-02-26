@@ -305,36 +305,6 @@
       "publishedDateTime": "2022-01-22T07:00:10-08:00"
     },
     {
-      "path": "_games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p.md",
-      "title": "Diablo 4 - New Gameplay With the Druid Class 2021 part: 2 [FHD 1080p]",
-      "excerpt": "Diablo 4 Brand New Gameplay, Combat Improvements, Lighting, Weapon Buffs and More Subscribe to GameWorld YouTube ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gameworld-diablo-4-new-gameplay-with-the-druid-class-2021-part-2-fhd-1080p/",
-      "originalUrl": "https://youtube.com/watch?v=ku-rElv48ho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ku-rElv48ho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M21S",
-      "provider": {
-        "name": "GameWorld",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ku-rElv48ho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-01-23T04:20:19-08:00"
-    },
-    {
       "path": "_games/gaming-rush-tube-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
       "title": "Diablo 4 Gameplay All Classes Barbarian, Rogue, Sorceress & Druid",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p ...",
@@ -885,6 +855,36 @@
       "excerpt": "Original video by Game Informer: https://youtu.be/qPTOEGU04X4.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/games/konstantin-stelmach-sound-design-diablo-ivs-sorceress-gameplay/index.json",
       "webUrl": "https://smartable.ai/apps/diablo4/game/konstantin-stelmach-sound-design-diablo-ivs-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=QZ-zZmQP_1Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QZ-zZmQP_1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52S",
+      "provider": {
+        "name": "Konstantin Stelmach",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QZ-zZmQP_1Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-12T16:24:35-08:00"
+    },
+    {
+      "path": "_games/konstantin-stelmach-sound-re-design-diablo-ivs-sorceress-gameplay.md",
+      "title": "Sound Re-Design: Diablo IV's Sorceress Gameplay",
+      "excerpt": "Original video by Game Informer: https://youtu.be/qPTOEGU04X4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/konstantin-stelmach-sound-re-design-diablo-ivs-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/konstantin-stelmach-sound-re-design-diablo-ivs-sorceress-gameplay/",
       "originalUrl": "https://youtube.com/watch?v=QZ-zZmQP_1Q",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QZ-zZmQP_1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT52S",
