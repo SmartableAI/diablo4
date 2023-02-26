@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/"
 webUrl: "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/"
 type: article
 quality: 127
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Looks like the Diablo 4 open beta start date could be revealed next week"
-    excerpt: "A new tease points to Diablo 4's open beta start date being unveiled \"soon\", possibly even at a gaming event next week. Just last week, one fan took to Twitter to ask Diablo general manager Rod ..."
-    publishedDateTime: 2023-02-06T09:09:00Z
-    webUrl: "https://www.gamesradar.com/looks-like-the-diablo-4-open-beta-start-date-could-be-revealed-next-week/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YFofpuCM3oV2Ucz6pGxhec-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "qG/FXkBwvLQAOJ03/1YIoMoZUZo0nYepqMAw8r4KOLpAeDhwQ6K6N5ZjS+S2/uKM09afi+eyy1x2/iN04pRXZ5HGaaqtxKWBNkYpI51sGe/RpKKnR1DxsPF4CPw/kt+sQyFnGW7vTw8zy4m03jmRA84hltyEO+xYlFhBY+bGX/0VpGmM1phAmcSwsb5oHn/3Ny27cisBdUVzggi8+FQAKaP/rcIGczIXqmfyhiiSF/tAjU3lORsJwX/Dac9hPzlrO+P6HCapiOHuibvQeNtGsDVkgjgbEZLZLxcKuxC7JKquekQHpzSvHsTvQObH1+ePE2nlPLIOCANBsJkGYodSUerf0yq4F98LJlOW4Y5ofk0=;t15u/F/BE4HigtrcPCtRYw=="
 ---
