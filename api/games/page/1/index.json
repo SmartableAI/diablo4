@@ -94,51 +94,21 @@
       "publishedDateTime": "2022-12-19T11:00:00-08:00"
     },
     {
-      "path": "_games/the-comeback-kids-diablo-4-barbarian-is-insane.md",
-      "title": "Diablo 4 Barbarian is INSANE!",
-      "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-comeback-kids-diablo-4-barbarian-is-insane/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/the-comeback-kids-diablo-4-barbarian-is-insane/",
-      "originalUrl": "https://youtube.com/watch?v=MpIiEi4pOqs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MpIiEi4pOqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56S",
+      "path": "_games/ibihs-diablo-4-new-barbarian-dungeon-gameplay.md",
+      "title": "Diablo 4 - New Barbarian Dungeon Gameplay",
+      "excerpt": "diablo #diablo4 #barbarian Below is some Barbarian Gameplay. You can see primary abilities in action, plus Battle Trance and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ibihs-diablo-4-new-barbarian-dungeon-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ibihs-diablo-4-new-barbarian-dungeon-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=zbOONAsh-Sc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOONAsh-Sc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M35S",
       "provider": {
-        "name": "The Comeback Kids",
+        "name": "IbiHs",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
-      ],
-      "heat": 125,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-19T08:45:00-08:00"
-    },
-    {
-      "path": "_games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - SORCERESS DEFENSIVE LEGENDARY ASPECTS  & MORE - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive, Resource, Mobility and Utility ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=wjtnNYtfd38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjtnNYtfd38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M16S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
       ],
       "heat": 110,
       "images": [
@@ -151,7 +121,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-15T22:32:21-08:00"
+      "publishedDateTime": "2022-12-08T01:11:56-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
@@ -212,6 +182,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-15T00:51:43-08:00"
+    },
+    {
+      "path": "_games/the-comeback-kids-diablo-4-barbarian-is-insane.md",
+      "title": "Diablo 4 Barbarian is INSANE!",
+      "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-comeback-kids-diablo-4-barbarian-is-insane/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/the-comeback-kids-diablo-4-barbarian-is-insane/",
+      "originalUrl": "https://youtube.com/watch?v=MpIiEi4pOqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MpIiEi4pOqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56S",
+      "provider": {
+        "name": "The Comeback Kids",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 100,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-19T08:45:00-08:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
