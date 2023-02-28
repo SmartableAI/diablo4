@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Get access to an early beta window when you preorder 'Diablo 4'"
-excerpt: "Blizzard's Diablo franchise is getting its next installment. 'Diablo 4' comes out on June 6, 2023, and you can check out the early beta if you preorder now."
-publishedDateTime: 2023-02-24T10:24:00Z
-originalUrl: "https://www.azcentral.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
-webUrl: "https://www.azcentral.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
+excerpt: "Diablo 4. The highly anticipated game comes out this summer, on June 6, 2023, but preorders have already launched—and you can get access to the open beta a week early if you preorder."
+publishedDateTime: 2023-02-24T23:13:00Z
+originalUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
+webUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
 type: article
 quality: 87
 heat: 87
 published: true
 
 provider:
-  name: AZ Central
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - Diablo 4
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "IyLV6SOkgWr0SKx/6gyvuLQsol7jkc5dZr0nCQC/srlZXK4W6FhcTFW62ke4l0OaJ1vwlK536qhw1t9SGiKBCs+50OWgoZA5FjQnzPvwII1SZ9VTIe8oMf5BiVgGLCzoI4ynO4wHrGSJBweiajiUA8quubMUDjSdoZsv/5vToqF7bQnIFuXqOMM5c7SbzvWqNk/TySvQODy80d1oOZK2HM2LdL2Qc42+VqAPl8+/g7UxaaU5u7bBt+OjLlK8tqLQtHL7nRh5ETZADOz82Zo62Zh9U5saJFWNmfkGtfhIu78i6c3fMHKgVYusjFcTxM2xamAFAEQpuphS3u3BaZvVkruKCHoiiYInZLAWrQsczWE=;snN+NJh/rdT4QbTjSAo1jA=="
+secured: "OsXUs+/AGRfk3ACnRqynNRCbsnCKAmUuhUDjAiE5zzUnIKHH8O46PzV3TWDh972o92/GyCZmuKYq1iuNQmszBxD/RcvERMnkQ5E0WstQ2QAYxUlFlfK1bWYb7cL1MgMyt6J5UCAQIIfMyr1ok/m5NF2fiNiyatN4TbLB73cLC5S4IfpCDbcDak/DidqlwLTAEmf0OZRGYyCrCLpH3+dCksqWfSo4JxSDDHn0LVtbHxZmufCF/Th40dykiQybP4LbXvGufrwrNF4IcfQ8lt/TYfurGh81osv/GRoAhfWgvLTfTgJo2iHOKvKkUmGXRBxnuB8D4n3kbMNJbIzLJQVYzwMVJgC//uUVaJi3+KeLcX4=;eNWZcLHJs6jMv/qGXiMEZw=="
 ---
 
