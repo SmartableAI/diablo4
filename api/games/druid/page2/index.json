@@ -187,6 +187,36 @@
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
     },
     {
+      "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
+      "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
+      "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/",
+      "originalUrl": "https://youtube.com/watch?v=vL5dEt2Izf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M40S",
+      "provider": {
+        "name": "Patife",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-02T15:00:31-07:00"
+    },
+    {
       "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
       "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
       "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
@@ -309,66 +339,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
-    },
-    {
-      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
-      "title": "DIABLO 4 DRUID GAMEPLAY",
-      "excerpt": "found it and wanted to share it :)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
-      "provider": {
-        "name": "ImActuallyAFK",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-18T04:00:29-08:00"
-    },
-    {
-      "path": "_games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos.md",
-      "title": "DIABLO IV - GAMEPLAY DE DRUIDA! SOLTANDO OS CACHORRO NOS INIMIGOS",
-      "excerpt": "NESSE VÍDEO UMA GAMEPLAY DE DIABLO IV COM O DRUIDA! UMA DAS CLASSES QUE A GALERA MAIS CURTE ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/patife-diablo-iv-gameplay-de-druida-soltando-os-cachorro-nos-inimigos/",
-      "originalUrl": "https://youtube.com/watch?v=vL5dEt2Izf8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vL5dEt2Izf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M40S",
-      "provider": {
-        "name": "Patife",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-02T15:00:31-07:00"
     },
     {
       "path": "_games/-diablo-4-druid-gameplay.md",
@@ -586,14 +556,14 @@
       "publishedDateTime": "2023-01-10T08:47:27-08:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=et_uaOBTseg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/et_uaOBTseg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M34S",
+      "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=jTEL7Umaq1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jTEL7Umaq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M56S",
       "provider": {
         "name": "Barricade TTV",
         "domain": "youtube.com"
@@ -613,7 +583,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:30-08:00"
+      "publishedDateTime": "2023-01-10T08:47:25-08:00"
     },
     {
       "path": "_games/battlegrounds-download-diablo-4-barbarian-sorcerer-and-druid-gameplay.md",
@@ -765,6 +735,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-22T17:00:17-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
+      "title": "Diablo 4 Druid Earthen Bulwark Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
+      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-23T17:00:01-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-windshear-ability.md",
