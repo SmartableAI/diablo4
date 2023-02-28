@@ -4,6 +4,36 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/der-ryback-diablo-iv-druide-gameplay-german.md",
+      "title": "Diablo IV Druide Gameplay German",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/der-ryback-diablo-iv-druide-gameplay-german/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/der-ryback-diablo-iv-druide-gameplay-german/",
+      "originalUrl": "https://youtube.com/watch?v=GfwraRtzWaE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GfwraRtzWaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M10S",
+      "provider": {
+        "name": "Der Ryback",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GfwraRtzWaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-04T07:48:20-08:00"
+    },
+    {
       "path": "_games/game-and-anime-portal-gamer-diablo-4-gameplay-trailer-first-look-at-sorceress-barbarian-and-druid-720p.md",
       "title": "DIABLO 4 Gameplay Trailer First Look at Sorceress, Barbarian and Druid 720p",
       "excerpt": "",
@@ -893,36 +923,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-08T17:39:28-07:00"
-    },
-    {
-      "path": "_games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction.md",
-      "title": "Diablo IV Rogue & Druid Gameplay REACTION",
-      "excerpt": "I haven't seen much about Diablo IV at all after the initial reveal trailer, so I'm diving in to check it out. Steam gift card giveaway ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=-SARW0gkSBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-SARW0gkSBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M24S",
-      "provider": {
-        "name": "Solitary Spark",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-04T01:16:56-08:00"
     }
   ],
   "nextPage": 4
