@@ -64,6 +64,36 @@
       "publishedDateTime": "2023-02-17T12:54:20-08:00"
     },
     {
+      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
+      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10S",
+      "provider": {
+        "name": "Special_di",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-23T11:46:29-08:00"
+    },
+    {
       "path": "_games/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird.md",
       "title": "Diablo 4 Druid Class: Jack of All Trades? - Is Temporary Shapeshifting Weird?",
       "excerpt": "Are you considering playing as a Druid in Diablo 4 but unsure if it's fun, powerful, or one of those Jack of All Trades and Master of ...",
@@ -92,66 +122,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-27T15:25:05-08:00"
-    },
-    {
-      "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=-94tolPWQlU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-94tolPWQlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M5S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:27-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-barbarian-ability-flay.md",
-      "title": "Diablo 4 Barbarian Ability FLAY",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-ability-flay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-ability-flay/",
-      "originalUrl": "https://youtube.com/watch?v=aJwdcH8KjYA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aJwdcH8KjYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-20T11:00:00-08:00"
     },
     {
       "path": "_games/the-comeback-kids-diablo-4-barbarian-is-insane.md",
@@ -514,36 +484,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-19T11:00:00-08:00"
-    },
-    {
-      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
-      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10S",
-      "provider": {
-        "name": "Special_di",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-23T11:46:29-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
@@ -910,6 +850,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-06-22T07:00:32-07:00"
+    },
+    {
+      "path": "_games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch.md",
+      "title": "DIABLO 4 - DRUIDE Klassenmechanik BETA LEAK (Deutsch)!",
+      "excerpt": "Wie funktioniert beim Druide in Diablo 4 die einzigartige Klassenmechanik? Diesen Leak aus der Beta besprechen wir heute im ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/",
+      "originalUrl": "https://youtube.com/watch?v=K_gMbFOboG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_gMbFOboG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "rellihcs",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-01T07:00:11-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-wolves.md",
+      "title": "Diablo 4 Druid WOLVES!",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-wolves/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-wolves/",
+      "originalUrl": "https://youtube.com/watch?v=BXQnkf9lNTc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BXQnkf9lNTc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-29T17:00:04-08:00"
     }
   ],
   "nextPage": 2

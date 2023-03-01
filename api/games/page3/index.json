@@ -4,67 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp.md",
-      "title": "Diablo IV Gameplay Demo   classes Barbarian   Necromancer   Sorcerer   Druid and Rogue NEW 2022 60FP",
-      "excerpt": "New PRE-ALPHA Diablo 4 gameplay demo for all classes. This gameplay showcase has footage with the following Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-gameplay-demo-classes-barbarian-necromancer-sorcerer-druid-and-rogue-new-2022-60fp/",
-      "originalUrl": "https://youtube.com/watch?v=VpHdyyRvHtU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpHdyyRvHtU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M13S",
-      "provider": {
-        "name": "Gaming Rush",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-11T20:42:40-07:00"
-    },
-    {
-      "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",
-      "title": "Diablo IV Sorceress Gameplay   60FPS 4K",
-      "excerpt": "Diablo IV Sorceress Gameplay 60FPS 4K Diablo is an action role-playing hack and slash dungeon crawler video game series ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k/",
-      "originalUrl": "https://youtube.com/watch?v=aTR19gOlxgg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTR19gOlxgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M10S",
-      "provider": {
-        "name": "Gaming Rush",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-10-15T20:42:12-07:00"
-    },
-    {
       "path": "_games/noobyg-diablo-4-sorceress-gameplay-fire-hydra-fire-wall-shorts-shortsvideo-diablo4-sorceress.md",
       "title": "Diablo 4 Sorceress gameplay!  Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress",
       "excerpt": "Diablo 4 Sorceress gameplay! Fire hydra, Fire wall! #shorts #shortsvideo #diablo4 #sorceress Please subscribe for more Diablo 4 ...",
@@ -828,6 +767,36 @@
       "publishedDateTime": "2023-01-05T08:26:37-08:00"
     },
     {
+      "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=-94tolPWQlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-94tolPWQlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-10T08:47:27-08:00"
+    },
+    {
       "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
@@ -916,6 +885,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-10T08:47:30-08:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - SORCERESS DEFENSIVE LEGENDARY ASPECTS  & MORE - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive, Resource, Mobility and Utility ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=wjtnNYtfd38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjtnNYtfd38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-15T22:32:21-08:00"
     }
   ],
   "nextPage": 4
