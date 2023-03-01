@@ -2,6 +2,7 @@
 title: "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR)"
 excerpt: "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ..."
 originalUrl: https://youtube.com/watch?v=LGFzvv5EXBQ
+webUrl: https://smartable.ai/apps/diablo4/game/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/
 type: video
 length: PT9M21S
 publishedDateTime: 2023-03-01T14:30:28Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "rDQkMkezhfyi/Z/3zTbyh2Nuqsx+Y2GGVI3kw/E0S52cRJkDBQdF6TeOj6HfRL6MsP6S68DwsT7KQL0Gk8EvnUPVTS5g78ieboH+HE2DrONJ8MVKqkqDiWtYOeO7981Zia91Iop+hpz2APgv87OrnUVvHpYgC+Emji57OH2z2+sBGw8qLIE4S6ia8NdkGpsY+Vq/emTYNZX8IpkY6AhAQ+kgB+Di/6hpvIVoWJidfYKBVnbWoP7m05lUYQr99C5tyMcBpkvWSDQJpyXGS0fWFu8zUSxoIFLPPm0mO14aehz7OaxkdJFM3FWSy75fzFtHLx5fnfPSBn7hL1BTmdLJ7pURglIabUfjeJmGYsdb11sAuAzBsnvZO2GlGY703RKEdGPuG+drtpLpQkcoobw+Gg==;QtvrMfzLHyHeJQUI2Yv2Iw=="
+secured: "3z7b1N37mwZdxrO6DJBn1rqJSG5TJk8+2l83UyXeYs40Pea4US/a13GeQWiRUHYYB1hKWhVNEw6yUUKE17Vxj4cYVg8AZqGOC6mIrnIBXaLlrkRN+YaQ9fJYph5kw5+xuIBV3+uZh6AmodrWk6IfzPYGF0oGvcIdfrU+CwO5woctMJIYthmDxoC5vvziqkGJNHBBKaKVeoKPYXlv0IZselHpfa9SpLGy+7zTWR5oOlfilxqcBGkNmd2ZdXz89XFqUu1h+FTlQ55Th6hawdACqnv3XmZ1JW+I6skl1cweVY885WeL+ZjQFBIjHi1YBMDr0KYzG5XRdUAEOoJyOVpYbSErGSw0gnaghEPSWzF/yZVUWhVVER5L84N3zlOfbdeY8DmiDzJftvxLBDlFiFt1uQ==;Ek6uLOW+2A3HsiIAXjHl0g=="
 ---
 
