@@ -34,36 +34,6 @@
       "publishedDateTime": "2023-02-17T12:54:20-08:00"
     },
     {
-      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
-      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10S",
-      "provider": {
-        "name": "Special_di",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-23T11:46:29-08:00"
-    },
-    {
       "path": "_games/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird.md",
       "title": "Diablo 4 Druid Class: Jack of All Trades? - Is Temporary Shapeshifting Weird?",
       "excerpt": "Are you considering playing as a Druid in Diablo 4 but unsure if it's fun, powerful, or one of those Jack of All Trades and Master of ...",
@@ -92,6 +62,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-27T15:25:05-08:00"
+    },
+    {
+      "path": "_games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review.md",
+      "title": "Diablo 4 - Barbarian, Druid Sorcerer Gameplay Review",
+      "excerpt": "I know those classes like my 3 fingers. First Barbarian - one who can carry big pot of hell's kitchen soup and is not afraid of no ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review/",
+      "originalUrl": "https://youtube.com/watch?v=ewGYngXmUEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ewGYngXmUEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M58S",
+      "provider": {
+        "name": "Ceburekas",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 106,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-28T16:03:34-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
@@ -304,6 +305,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-31T08:00:20-08:00"
+    },
+    {
+      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
+      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10S",
+      "provider": {
+        "name": "Special_di",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-23T11:46:29-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
@@ -883,36 +914,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-11T10:27:28-08:00"
-    },
-    {
-      "path": "_games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023.md",
-      "title": "*NEW* Druid Gameplay 100 FPS - Diablo 4 - Gameplay Demo Trailer (2023)",
-      "excerpt": "gaming #blizzard #video #trailer #gametrailers #shorts #new #subscribe #diablo #viral #trending #new #news Please leave a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/tarnished-new-druid-gameplay-100-fps-diablo-4-gameplay-demo-trailer-2023/",
-      "originalUrl": "https://youtube.com/watch?v=OUWVbqZGmd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUWVbqZGmd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56S",
-      "provider": {
-        "name": "Tarnished",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-27T21:31:27-08:00"
     }
   ],
   "nextPage": 2
