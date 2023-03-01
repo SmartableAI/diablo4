@@ -2,25 +2,25 @@
 category: news
 title: "The Diablo 4 Open Beta will reward players with adorable wolf cosmetic"
 excerpt: "The latest developer live stream aired today for Diablo 4, revealing more about Stronghold and Armor systems, Open Beta details and minimum PC requirements. Blizzard announced that players will ..."
-publishedDateTime: 2023-02-28T14:31:00Z
-originalUrl: "https://www.windowscentral.com/gaming/pc-gaming/the-diablo-4-open-beta-will-reward-players-with-adorable-wolf-cosmetic"
-webUrl: "https://www.windowscentral.com/gaming/pc-gaming/the-diablo-4-open-beta-will-reward-players-with-adorable-wolf-cosmetic"
+publishedDateTime: 2023-02-28T18:31:00Z
+originalUrl: "https://www.msn.com/en-gb/money/other/the-diablo-4-open-beta-will-reward-players-with-adorable-wolf-cosmetic/ar-AA1842l5"
+webUrl: "https://www.msn.com/en-gb/money/other/the-diablo-4-open-beta-will-reward-players-with-adorable-wolf-cosmetic/ar-AA1842l5"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Windows Central on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/Zzw7NHbFGEPPLVVQH9yBZg-1200-80.png"
-    width: 668
-    height: 376
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA184tDV.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 440
         isCached: true
 
-secured: "EuoNeoyhV+BViEa4uYJDOWPYstVPUMVfHvF5u29HAAeohc+ajzesHLrOf/UcUpd39vBRmb6K3wbkCQes6F8BU0wFdZUOkIbs4dsFgZuHwRAICyI1G5FUx4pMISYKFSifWWwZ5Cud/NlYIb+fux4wj18ElpDmYbFJVH1fgCDAWKMiL7dxCv/AFrrpcaK3mQEof8EYmBxJCrgbvwir38YL+PpPimygQNUj2ukBH8I8ZWN8DIeImu9T60ocxjl6b7V8F8PaVrNw0DzgsD5b6zGspmrevXIrA1BWyqcAf9EbHBkV6AiV5DuZPH8ED0o0vAK2q4kT4gI7gd77mBEhJduFqQV0iU+ZsKNShSlQXyHHqNI=;gmjvvmsGjh726RXkzqgV2g=="
+secured: "fzY71tJWPqDyCqsGj9kv681HOz5TaATPtvq6vcvFiOhsLXfyPMdOAp9T3JwKo7eZGulb+7UyzCE4x21Gf+rXONaCcsBRtfZnXkvT3TpYaeYl9yaFFBgIij9ropfWKFDCRmrBrXzLo524psZiUCueUR8f/J5SvOUdxiFcPKYGtfJv5XWw6aaAJ0t7GrcsKCB382pSS2k6S4rKwWPa++BlmMfriTtSPX3brX9f9IquO2XjcZX8SycBcQWUwzSBsDyR13tXHZHaJg/Tp+TPBsvjTV0vVS16wn3dEp0tqN3WRPOFm3Eb+kqU1q2AxZmd3mk0vq0hcDoKwK3KDaOfmgmJO5Rz0bXqxz3OT7FrAS3pts4=;crI0ZqY++UfFysCn0ADlOQ=="
 ---
 

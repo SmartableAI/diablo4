@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Diablo 4 beta rewards include a wildly adorable, completely impractical baby wolf backpack"
-excerpt: "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing Diablo 4's open beta during the early access period or"
+excerpt: "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing ..."
 publishedDateTime: 2023-02-28T15:06:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/"
-webUrl: "https://www.gamesradar.com/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/"
+originalUrl: "https://news.yahoo.com/diablo-4-beta-rewards-wildly-230656959.html"
+webUrl: "https://news.yahoo.com/diablo-4-beta-rewards-wildly-230656959.html"
 type: article
 quality: 77
 heat: 77
 published: true
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/uCJ3xULGVGVbNZerQ9dpR9-1200-80.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/lEszbyqV81t.9u.oCoGucA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/eb0f3559771edc77fd07fbc4b499f84e"
     width: 1200
     height: 675
     isCached: true
 
-secured: "jJRiytyo1LsxL6kUfTXasa3VDnODg3bCUHklOGI4bDDivV0vXkYELPZ7aeZGbnKFTtk9hWXZJg2/Jmiid0o8NRNjuAcx32vDIoZZidvUmIiuvdJmqUVqGvUcbHKyr5KXO3yIK93zRw7yNWPRs2funcy+DnHCLQTUYAJAs6K9mZ3x8WHPBJyKm27ErrnnTbi6rtdOqd2KHWpS9vjsWivlGM5Aos/dtpekhP8lPHqKohuctXLYdURMeBE0ynkQPkCSYKwa+L8VSaXbrbEnJ6b5Z0p0BsE6ePpqbgYcbgu+Sza4N5+uOIwcS8Q55DNQDlr+2UfCHWd1/H+zvODS+5zux0DWFY7UhJbk5nznUdtrgdo=;Rslj3y98mVbawiaGlIdpOQ=="
+secured: "+3hDaWVpjRkMpmQY64xCuU4V09ya13IKUQ2Ms3MRC2G4/GNQPxUEzI4s+wP6mak0BoK4WZ8ytzCmXudd8sG69q/CKmNgR/UsRK+1xrdd/35wZvbsmnkJ6FTt6g6IOl5OVClmtBHH12ykeZOtllSg5OCGVvNZfFeSuMDKeieh/zaNhp2zoEILd0oRGEirZ1oUKWt6v/lmZ2E1A+19f6/OmPADKx8kdnVDFQzp1CfhCeK7E6EFIIdv6mgBujTieXZIf+ge+eB2lOJFiIohfWaVaCyiVJjfAUs2lumc9cdiXidiynWXvAGDGJ4u6RVUWhHrG3lAPfR6g264Nle19jJeiDfU22DqoPUN7MofxJKTPJg=;sxpNXqc/2L+AzCMuBkXJmA=="
 ---
 

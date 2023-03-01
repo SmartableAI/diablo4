@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 4's open beta PC specs are very undemanding"
 excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
-publishedDateTime: 2023-02-28T15:49:16Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
+publishedDateTime: 2023-02-28T15:49:00Z
+originalUrl: "https://news.yahoo.com/diablo-4s-open-beta-pc-234916497.html"
+webUrl: "https://news.yahoo.com/diablo-4s-open-beta-pc-234916497.html"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+ on MSN
-  domain: msn.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/m0XTri2_vJ5Ge8IqK0N8ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/b04f03b2e00c719d0935b9ba03a88d0b"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "juBs/cQ5A4DGHVwSQ8bUj5JWZGqaUEZQj2p59wwXzWvMkIswnWOKg6vjlzlvZZyFl0xef5SoSl3d9j9Z4I/kN6j/PptyhlsCsDtrYXqgpAZAHzKrydUwBXj9J764yvuQzO3xnL4kfIC87kmTZoNcw030YGrjOdlM0MzHn6bvYqzDMdMIC/2mrgOHcA1SRqpSuUK3gp1vyBHlkMpU73j9fSXq5MHAqUTBKf9+xeS5NhvK//xlS/WZOnmh7ckoZk3Z3iU9fr2F4Q/l20TCnE1Il7/lCh6TVJFQWuIatk76iS/nFk20f7qfQTq1M06vXeYUIl/R0uWC6AuGbCpAKj8rrsqKtuyWFESKfhN2TFLWRR8=;ke66iYDa6mixFd6XhowmLA=="
+secured: "OnG1DqMlRPU6nywv2oAZmdQwI6OVvnY8crDtFhKrKqX9kFuRTdpxaH3VuDw+wealU8WnRKlURBa0YJioiyTwdMJYYoWRuSIMuGqkb2uRA8VzPxF/o0ldoxqDbG8lPGGgUWV0mWESeR794DprUTj6k66l1GqlWtluJIGGBPHz1wHOu0xBSBZwqX/RQsHPpLLN6Lf5BvY5N7OXPYNW7SEx7PUbg3ZoEQAP3sc7cYuaKVBGeJ+F08mhllHjU/wnb9TpDxMcuhfXWoIH+fMyxBtYbHxYKQHqN4BK0LvdCjFtoN5l7ORcSEKAKpQFQDSstQO4HLuWzoPYh9fDU3at659fUrHMzjbkk7O1kWjqKsQxtc4=;g4mpUWzt+jB/lLZEnhUmiw=="
 ---
 
