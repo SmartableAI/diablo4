@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Diablo 4 beta rewards include a wildly adorable, completely impractical baby wolf backpack"
-excerpt: "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing Diablo 4's open beta during the early access period or"
+excerpt: "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing ..."
 publishedDateTime: 2023-02-28T15:06:00Z
 originalUrl: "https://news.yahoo.com/diablo-4-beta-rewards-wildly-230656959.html"
 webUrl: "https://news.yahoo.com/diablo-4-beta-rewards-wildly-230656959.html"
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Ic7dKN+pmnc2++lo+CaGBGtXQA8PwbPQWkpyV3EGZx7FekcBfC1dgs2q9maIQG7o+dwciQTJ8kaGVv4P3iQCOFbLEg9bR1vMObqLFVX8DlFI6oVA0HcLU+jZy9DeDt3AsZAiSD7Z0vSa6kX8tdBHXdCBTD2D37F2BsVXOMd3NshJNRqCiF5HjYWchIAU/ayyf0hNEgO4foWmTY85a+snHuODTd6IqLnWfWce84eRPA6OkJfV/RFWSAL9wWXe6MtduIWF4HaHLFuZ03WXjhPa/hLpTAGFta7vIFtXm8dq/j63gViSqCvrD8yNUQygGsLqJwr6j0R01popHvcBp8y94E7gGbQ7JV9XL2nBYVPfwrg=;djwnsDIJI1vni/E3Ye03uQ=="
+secured: "hlydwaAZl5VPPiLoEN1cirA59yO1kqjEFj5wjLia+2kc0Y+Sd7MACYoxQxbfKG71G0lURq8SkQLUSywXhjocAJeMXUmvfe9wQM4NGEImTZuck5nbF+O1OSTof2FKRuU3f4eWhYRWJ2l5BO4lK7JmQVMjgdSe6KEb1ne++Q71XrAqATbswDDVHqh/EpXVktlZdRrCL3CumGCShuFl8XOuUftaxpAyNdqZagkVOKMEvX+5G3EJpjtqAJudf6g8zbJT/meMdfIYzjBT3dVo0Ou01IZLJY9AZI8qFPzbH8n6Ibw9mE5afxMLx+sUrIYqf8ntl0eGx/m6egUACpgNdrLhP49Z94AahCJ06PiNAQaxH90=;ERpI0TgrueoNVn81YkB4/Q=="
 ---
 
