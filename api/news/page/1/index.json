@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-01-diablo-4-official-beta-early-access-gameplay-trailer.md",
+      "title": "Diablo 4 - Official Beta Early Access Gameplay Trailer",
+      "excerpt": "Check out the latest trailer for Diablo IV. Get ready to descend into Hell early March 17 – 19 during the Diablo IV Beta Early Access weekend.Diablo IV is available on June 6, 2023.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-official-beta-early-access-gameplay-trailer/index.json",
+      "webUrl": "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer",
+      "originalUrl": "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/03/01/diablo4betaearlyaccessgameplaytrailer-ign-blogroll-1677696974394.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-diablo-4-developers-reveal-an-unbelievably-cute-reward-for-beta-players.md",
       "title": "Diablo 4 developers reveal an unbelievably cute reward for beta players",
       "excerpt": "Developers at Activision Blizzard have revealed some beta-exclusive Diablo 4 cosmetics for those who progress far enough during the early access period, including a wolf cub backpack that is frankly ...",
@@ -181,19 +232,19 @@
     {
       "path": "_news/2023-02-28-diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack.md",
       "title": "Diablo 4 beta rewards include a wildly adorable, completely impractical baby wolf backpack",
-      "excerpt": "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing Diablo 4's open beta during the early access period or",
+      "excerpt": "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/",
+      "webUrl": "https://www.msn.com/en-gb/money/other/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/ar-AA184fiK",
+      "originalUrl": "https://www.msn.com/en-gb/money/other/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/ar-AA184fiK",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/uCJ3xULGVGVbNZerQ9dpR9-1200-80.jpg",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA184uCI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -203,11 +254,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T07:06:00-08:00",
+      "publishedDateTime": "2023-02-28T07:06:56-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1034,48 +1085,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-blizzard-reveals-pricey-diablo-4-statue-of-inarius.md",
-      "title": "Blizzard Reveals Pricey Diablo 4 Statue of Inarius",
-      "excerpt": "Blizzard reveals its next premium statue offering, which will be a very pricey Diablo 4 statue of the former archangel Inarius.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-blizzard-reveals-pricey-diablo-4-statue-of-inarius/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EUBf.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
