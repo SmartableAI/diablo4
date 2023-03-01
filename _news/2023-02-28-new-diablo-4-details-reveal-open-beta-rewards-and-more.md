@@ -1,26 +1,26 @@
 ---
 category: news
-title: "‘Diablo 4’ beta start date and Early Access requirements"
-excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
-publishedDateTime: 2023-02-23T04:39:00Z
-originalUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
-webUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
+title: "New Diablo 4 details reveal open beta rewards and more"
+excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
+publishedDateTime: 2023-02-28T15:54:00Z
+originalUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
+webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: Dot Esports
+  domain: dotesports.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
+    width: 768
+    height: 403
     isCached: true
 
 related:
@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "‘Diablo 4’ beta start date and Early Access requirements"
+    excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
+    publishedDateTime: 2023-02-23T04:39:00Z
+    webUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 87
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
     excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
     publishedDateTime: 2023-02-28T14:06:12Z
@@ -53,20 +67,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New Diablo 4 details reveal open beta rewards and more"
-    excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
-    publishedDateTime: 2023-02-28T15:54:00Z
-    webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
-        width: 768
-        height: 403
         isCached: true
   - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
     excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
@@ -83,6 +83,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bk5CFSUslQhIJP5Fo434zJ1oPhzxjzQ7/gJWqNN2MexqZe+hv+hXNgXLuVLNofmoplG+pMsAUS+099c8fCmY3DMVHCf9DZx8628dXi0/74ESOiEV/uPE4JBPMX39b7AW4/VD2twVr2qChKZIFuXXa6bGN/Ec8BywiuRYyLHrlwSkGwwTdumTnpsrWAw/bT7gm7g3fP/dt6X23eECu0chIpXdVmCQAqNpVfDi8gib2HcHxziWzERA/Heiichk0mvgDgjcqp7eaxDnyIMonrrvDHgWMH/0BJr2h7NSwTEvD18oXnrdxAO7JxE5Vhxg2cdW7E7EH92eOjmA8NO6ElS0GW/Ek3/rT+uke5wAox/wpLc=;Bupi1R6/97idmK+PBg5YIw=="
+secured: "gnhVToCwCvId5CFeke4jBO837MSiozURylAJCsr18azX6Mvx8keKDAsjjuKUmAJfZlsXMk/iQxrWlInNUkzVo7tK3cRSoDcoCgjcnt9jsp/ZVLkXDBN5KX7XcUXq5wnofwyR6FpR/tG7pXGq/VABVjgEE9MK8AjC6ryy+eE7nOD/QLjADFIOIACUFdkHcJYqIGkIbh3kyLV5oSrpW7NYXL5FT1x9D6DKMeBTnzg7rPSG4tO04wMcINx5+/AwTsPlUNSE2g+/uSReSo7UhN/YnrwxVcrveuSM8qvqv3JctG5xY+VjSir01+h8CVY+mAi+RSf3iyskVUMJUkLhW7DOUiSq3864UtvLIdKKDHN7F28=;XVMIxYERfBnuJrWLs2X6uQ=="
 ---
 

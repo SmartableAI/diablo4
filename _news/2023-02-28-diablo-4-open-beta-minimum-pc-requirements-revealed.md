@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
 type: article
 quality: 147
-heat: 167
+heat: 227
 published: true
 
 provider:
@@ -43,6 +43,48 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
         width: 2000
         height: 1270
+        isCached: true
+  - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
+    excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
+    publishedDateTime: 2023-02-28T14:06:12Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb"
+    type: article
+    provider:
+      name: GameRant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New Diablo 4 details reveal open beta rewards and more"
+    excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
+    publishedDateTime: 2023-02-28T15:54:00Z
+    webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 87
+    images:
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
+        width: 768
+        height: 403
+        isCached: true
+  - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
+    excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
+    publishedDateTime: 2023-02-28T12:18:00Z
+    webUrl: "https://techraptor.net/gaming/news/diablo-4-open-beta-details-revealed-times-rewards-system-requirements-for-pc-more"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 79
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Diablo%204%20Open%20Beta.jpg?itok=0YNJTGWm"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "3i9FXc6ee9PtWGzBUwlXRYTvTafCxIJnF7W4ZAAKIg7YLgqpyJFFMGm1jGFfB2dNyZ7G+D7bmbqxtCVTscU9Gi2qbvAwfoGSf9vSshoqKcdx/RXwCxPC2/gfaLK4CuPlDTnsyoVfvQuv9GuAURLeAycdAU56w/6GIMOAehfyg5SseQop+ke1hhWsOYHYzjon1wIITFuXYNTbXF5nl1LX1hYZiWVqdIicgJ1VHmoE6OoKcDktkA7mgWkOQEVnFJhQUeCfaqC9vALYknRpjMPt/YJYTit5jyTnDZHo/62nIBt5l12tO6N2/dna45fJFnnEeOI8CuHJZ4VJFszdN3IifacMqsj0Xf3ilRdvNun296o=;zafnNy+zQzv5QAwEJVPflQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 882
+heat: 902
 published: true
 
 provider:
@@ -501,6 +501,20 @@ related:
       - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg"
         width: 698
         height: 289
+        isCached: true
+  - title: "How to play Diablo 4’s Open Beta"
+    excerpt: "Diablo 4 will run two Open Beta periods in March 2023 on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series S and X: The first is for anyone who pre-ordered the game. That Early ..."
+    publishedDateTime: 2023-02-28T14:51:07Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TZBk"
+    type: article
+    provider:
+      name: Polygon on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."

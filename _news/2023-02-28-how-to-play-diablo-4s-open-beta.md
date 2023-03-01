@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 open beta starts next month"
-excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
-publishedDateTime: 2023-02-20T02:04:00Z
-originalUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
-webUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
-ampWebUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
+title: "How to play Diablo 4’s Open Beta"
+excerpt: "Diablo 4 will run two Open Beta periods in March 2023 on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series S and X: The first is for anyone who pre-ordered the game. That Early ..."
+publishedDateTime: 2023-02-28T14:51:07Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TZBk"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TZBk"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Polygon on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -288,6 +286,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 open beta starts next month"
+    excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
+    publishedDateTime: 2023-02-20T02:04:00Z
+    webUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 107
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4’s open beta may be announced next week, here’s how to tune in"
     excerpt: "The Diablo 4 beta release date may be revealed soon, as Blizzard boss Rod Fergusson, formerly of Bioshock and Gears of War fame, teases the possibility of more details on the RPG game coming at an ..."
     publishedDateTime: 2023-02-13T05:01:00Z
@@ -498,20 +512,6 @@ related:
         width: 698
         height: 289
         isCached: true
-  - title: "How to play Diablo 4’s Open Beta"
-    excerpt: "Diablo 4 will run two Open Beta periods in March 2023 on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series S and X: The first is for anyone who pre-ordered the game. That Early ..."
-    publishedDateTime: 2023-02-28T14:51:07Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TZBk"
-    type: article
-    provider:
-      name: Polygon on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
     publishedDateTime: 2023-02-20T04:27:00Z
@@ -550,6 +550,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "sC7URyLMUQrqgyxPFtAGDBqVpVN+8xhZAjqITx17nJWO1z6rAwQtm+wRHbMK75ZDaBhg7HU1diKy4rBSexI33vub0PNj0BEjYKcLvMX4rMIN04YV4SQRDN11d6cu19kFw0bR08CqPbLqTOBDFSC2ukIR8xWUqetjK3hOwdAprsICkD3mx3JB4rLJ7TxQmcBcFbX5u3Geb7LDThveSXBCwEmOXe9IjN90eZfj7D+448lEcVglR+vvd/1jr4J9sPSJXVNwIQxfmdFPovMz+jzkkgCq6jO6gLTWuT0QYqnBs2rvQBGGrCGcSto44NpEJ26grTYWRvpVdcsMJY3av49Qx6+axypBVYVperYwvnFP8dw=;JakDFYSnfWZpv0QaIhZDLw=="
+secured: "7PG/zv68UcT4QnDNZjc7X2DiOY4rRt+X2qtakshygpYJCAM4V9vJYoBm1/5xQ5lYCMt2NXoJ6t3Tpo+p0B7aodVr5HBbTyW+8MmL+F2gZvgF5655Mq3/Q2nFxzfuWmT4J0Ntq1IO7wGU1yyWr5qUKriO+Nc+VtkBs1OmOQaM7Pe87nd9gcLQYvbfCCGcqTMvF4nT9zGpBdRyxRCZ6qoGV4crCxrquOAy7GjmrJEKtACXIk9B3K+1aYTHtPOxba9aYoFXjWxMoexFvl306oYXbfkrWXZ3e/SQ3d7/vfrcZfRvmeZApy46B5PgegLfk904iIC5OgJLhM1ebijwgxewoUQe0Jq8g/Qv/4/IF7KgqE8=;ThNTEJxREYFQl7qHp+v1oA=="
 ---
 
