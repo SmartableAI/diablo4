@@ -1,26 +1,26 @@
 ---
 category: news
-title: "New Diablo 4 details reveal open beta rewards and more"
-excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
-publishedDateTime: 2023-02-28T15:54:00Z
-originalUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
-webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
+title: "Diablo 4's open beta PC specs are very undemanding"
+excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
+publishedDateTime: 2023-02-28T15:49:16Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Dot Esports
-  domain: dotesports.com
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
-    width: 768
-    height: 403
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -68,19 +68,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4's open beta PC specs are very undemanding"
-    excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
-    publishedDateTime: 2023-02-28T15:49:16Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
+  - title: "New Diablo 4 details reveal open beta rewards and more"
+    excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
+    publishedDateTime: 2023-02-28T15:54:00Z
+    webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
     type: article
     provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
+      name: Dot Esports
+      domain: dotesports.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
+        width: 768
+        height: 403
         isCached: true
   - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
     excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
@@ -97,6 +97,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "gnhVToCwCvId5CFeke4jBO837MSiozURylAJCsr18azX6Mvx8keKDAsjjuKUmAJfZlsXMk/iQxrWlInNUkzVo7tK3cRSoDcoCgjcnt9jsp/ZVLkXDBN5KX7XcUXq5wnofwyR6FpR/tG7pXGq/VABVjgEE9MK8AjC6ryy+eE7nOD/QLjADFIOIACUFdkHcJYqIGkIbh3kyLV5oSrpW7NYXL5FT1x9D6DKMeBTnzg7rPSG4tO04wMcINx5+/AwTsPlUNSE2g+/uSReSo7UhN/YnrwxVcrveuSM8qvqv3JctG5xY+VjSir01+h8CVY+mAi+RSf3iyskVUMJUkLhW7DOUiSq3864UtvLIdKKDHN7F28=;XVMIxYERfBnuJrWLs2X6uQ=="
+secured: "juBs/cQ5A4DGHVwSQ8bUj5JWZGqaUEZQj2p59wwXzWvMkIswnWOKg6vjlzlvZZyFl0xef5SoSl3d9j9Z4I/kN6j/PptyhlsCsDtrYXqgpAZAHzKrydUwBXj9J764yvuQzO3xnL4kfIC87kmTZoNcw030YGrjOdlM0MzHn6bvYqzDMdMIC/2mrgOHcA1SRqpSuUK3gp1vyBHlkMpU73j9fSXq5MHAqUTBKf9+xeS5NhvK//xlS/WZOnmh7ckoZk3Z3iU9fr2F4Q/l20TCnE1Il7/lCh6TVJFQWuIatk76iS/nFk20f7qfQTq1M06vXeYUIl/R0uWC6AuGbCpAKj8rrsqKtuyWFESKfhN2TFLWRR8=;ke66iYDa6mixFd6XhowmLA=="
 ---
 

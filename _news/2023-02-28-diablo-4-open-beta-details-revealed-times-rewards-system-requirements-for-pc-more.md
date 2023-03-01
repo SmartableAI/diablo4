@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4's open beta PC specs are very undemanding"
+    excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
+    publishedDateTime: 2023-02-28T15:49:16Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
+    type: article
+    provider:
+      name: GamesRadar+ on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Diablo 4 details reveal open beta rewards and more"
     excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
     publishedDateTime: 2023-02-28T15:54:00Z
