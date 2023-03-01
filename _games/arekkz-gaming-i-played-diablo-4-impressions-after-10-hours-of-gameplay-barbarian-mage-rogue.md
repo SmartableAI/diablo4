@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-i-played-diablo-4-i
 type: video
 length: PT10M16S
 publishedDateTime: 2022-12-07T16:00:11Z
-heat: 53
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEK9PrirmY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "AHMqZS4tW/0i5oDCRjnp3FkPtSEYRZoTVaMhPF98m2vZeGZPeRlXJxONLN69WKI1VCs8dZEvuWcRx4zZtiXgX//J80GKery27ske5BnBcbrc2q1N+z9AK1oUGEfZrOTLYULH8ZF14JnPnl8x8d2jxOSYeNxsEekxEbVluEKuSO39ghvp+bLL3Zs58YlqQ4uftYJOlrhLVNBQoUwB/cYoopva/dE8/2uAwOE2Kj3gbwaSIzeSrFY+glTpNautEcDv7kEZhZVc2DNerl2IDyBBhvubHZLeUKH0LwzFJGiPSPSvLpzwZT7i6RvTibMFn+AOS9zv2+Gq3/x6yD5VuHMAfyEc91tGV9Anu/GB5HPkLLaySsogE91fmSEJdIKfpuzoIp7xtOQGIOhoVqzX2JMt7G6TRcUrt2BvmdFOuXBGRyo=;6ABDKup91yiFLsT9pzn/bQ=="
+secured: "FDI3wnGnYxMPH9yKPTkYM3obBMF14Xf4CkVQV4tnl1eJR/txvTemrS0dLA+9KOouY/AQbWuznfKydoufSbSUjwdHmPP0IAoAZQNIt8FscwnGKqo/04KX+tds8DFZaer0zOSWZoLH0Wd1vJUudIYdNTcLihizejPmD6ixuVmuSCCvN2SjFhxI/ZqvQwLvThbC2axj4FGly9byJyHdonn+9C+mnaA4gpY0VwvOQVPtpbpCExzUnYNerXwXnYwB1JZG3IltLgUxqxjt4TMw+PJrtv+da+NMxiRVPQrjx+lrW6+pQKEYGRCsg2dITg2Emcr3z2Gk3tenVTcG0JMhbiFTMUHW0PAXDiHZ13ihECTCbcpf+Fy+WdCwuGWJzQwit6TUHO9G+u6f2+LfSQIExVYhK3QH7IOwfh3xCsfsUaSxr6s=;tJfRKSoncugQrjAp4vCEjw=="
 ---
 
