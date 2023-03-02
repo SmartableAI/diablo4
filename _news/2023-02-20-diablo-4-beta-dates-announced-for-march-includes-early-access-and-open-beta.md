@@ -526,6 +526,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Open Beta Rewards"
+    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
+    publishedDateTime: 2023-03-01T21:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo IV will get early access and open betas in March"
     excerpt: "Diablo 4 is due to launch on June 2nd, but it'll be playable before that during two beta periods in March. Those who pre-order the game will be able to play during an early access beta between March 17th and 19th, while everyone else can access an open .."
     publishedDateTime: 2023-02-18T14:10:00Z

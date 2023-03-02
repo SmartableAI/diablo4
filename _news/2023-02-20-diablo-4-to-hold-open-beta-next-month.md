@@ -520,6 +520,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Open Beta Rewards"
+    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
+    publishedDateTime: 2023-03-01T21:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
     publishedDateTime: 2023-02-20T04:27:00Z

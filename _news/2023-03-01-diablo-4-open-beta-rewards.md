@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
-excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
-publishedDateTime: 2023-02-21T13:21:00Z
-originalUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
-webUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
+title: "Diablo 4 Open Beta Rewards"
+excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
+publishedDateTime: 2023-03-01T21:26:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
+webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-sanctuary.jpg"
-    width: 1800
-    height: 900
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -199,6 +195,20 @@ related:
       - url: "https://assets-prd.ignimgs.com/2023/02/13/ff-diablo4-news-1676328976387.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
+    excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
+    publishedDateTime: 2023-02-21T13:21:00Z
+    webUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-sanctuary.jpg"
+        width: 1800
+        height: 900
         isCached: true
   - title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
     excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
@@ -516,20 +526,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Open Beta Rewards"
-    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
-    publishedDateTime: 2023-03-01T21:26:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
     publishedDateTime: 2023-02-20T04:27:00Z
@@ -582,6 +578,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "L0ri/8xB5s9h95KBh0Tnrep//CmV7OpSXgz7uTaeghvE6ZSK868tTP/D/t7VxawWSdwt5ksWFA5aDCmqtc3ccXEOv6v1KJHOutWXdqkAaf+yHOKcsgTo7GGTJ2YzHROV5swu0LJaCz7+p16BLYGJomMJghX6Dt54xE7gJe157m/TyD7sZhDf8lgLvkbXKnG8pFXWA6YXaS6Z5jGqhzpL7R+79rhQ7kBr2SxOgNerL3IP+gNSmgFrNErQ/hQbjURZXd9iBiSOnwB5BSJElLoBY1cE7LLyQfzh15B1xYdt36fqkXghj2C8+3nXKsWERUv/TofCKOe47z8r0L/t9d6xVbifla57NxEd9KNgofq1XWg=;ZIwa2RDAzTWDdspQ8ItzuQ=="
+secured: "fAzQf0roLaeNAvLqK46bf9jKPmQ5L4A5zBlHdyojLxj30Cybh+YTjKMxPIYhIgj1sjtK9n6Aj3fs44fUUhZwku0LZztNJI2yiI5jLe95O/s5rXGLPdinUMwbqTmCaboYDF+HEf/u62NFr8Qn+/lqicSfDd8NAV7dbwhrSqSF0I3u5uHy0DxekZer0naMKxu4whZYS1q49JxnuZVXJ76Jdm5yuZGVsnbSWAbvEkqsaq/IgunA3YOkG36U8zJMeLj2bHH/m1Q2THppzMfHj6nckJQ4Gte5A8nSJSfdLRg/GpUudykvELRCi+alYauEK3lcFrJYr8FceQAMpLA3d5hKsarKj9AaKTql/DMhOj4Xrec=;rJtYxkeUu0B/t45RdQLiBw=="
 ---
 

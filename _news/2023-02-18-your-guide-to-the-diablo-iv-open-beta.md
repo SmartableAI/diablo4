@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the
 webUrl: "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta"
 type: article
 quality: 162
-heat: 922
+heat: 942
 published: true
 
 provider:
@@ -515,6 +515,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 Open Beta Rewards"
+    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
+    publishedDateTime: 2023-03-01T21:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
     excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
