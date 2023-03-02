@@ -110,6 +110,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 beta dates and system requirements: Are you ready for hell?"
+    excerpt: "Find out if you can run Diablo 4 on your machine for the upcoming beta test. Diablo 4 has two upcoming beta tests, where players will finally be able to take a deep dive into Blizzard’s next hack ‘n slash action RPG and see for themselves if this is a"
+    publishedDateTime: 2023-03-02T00:58:50Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-dates-and-system-requirements-are-you-ready-for-hell/ar-AA1880JP"
+    type: article
+    provider:
+      name: Video Games on FanNation on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NiHJ1BWFber++snoy7sCWjmLwo8qshAD3u5PDYXIrM1/9EVjuSC2Q0RG58mBihCKYcB38lUe4xUOvzQq+FxMgyqgHh20dEIx2qfykvqKeSAZ5UWVWMaN59fIHXDZyab1DBorOnwJgCN1DtvxauW3BLpRTBEQIW0JtglAhbhZrZ3fEnZfQAQubgOOW+NNwlH3HeqcUHSH9wV0yUMhEKINOG9V7BapIkNfvCOIqQqNrO8odl6l7L3Yx5+LpWgtdS3hfEtvR/wouGi6K6SQwIPiGXsPmVz8225c3Gn1Mx7fcMd2z4Hm8UzY8nSW0wOgXJBPXYesICTteC4XVEYtVF1kSQz9BnM9n6LC/9zo+azWjOQ=;5HUp1ztDACSfoDZD6zm+dw=="
 ---

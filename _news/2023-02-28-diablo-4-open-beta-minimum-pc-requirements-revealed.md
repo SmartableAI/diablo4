@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
 type: article
 quality: 147
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4 beta dates and system requirements: Are you ready for hell?"
+    excerpt: "Find out if you can run Diablo 4 on your machine for the upcoming beta test. Diablo 4 has two upcoming beta tests, where players will finally be able to take a deep dive into Blizzard’s next hack ‘n slash action RPG and see for themselves if this is a"
+    publishedDateTime: 2023-03-02T00:58:50Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-dates-and-system-requirements-are-you-ready-for-hell/ar-AA1880JP"
+    type: article
+    provider:
+      name: Video Games on FanNation on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
     excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
