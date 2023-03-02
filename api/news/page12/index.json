@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-29-diablo-4-quarterly-dev-blog-discusses-art-and-environments.md",
+      "title": "Diablo 4 quarterly dev blog discusses art and environments",
+      "excerpt": "A lot has happened in the last few months in regards to Blizzard and its potential future, but the major shakeups in the publisher's world is not stopping the Diablo 4 quarterly blogs from going up.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-29-diablo-4-quarterly-dev-blog-discusses-art-and-environments/index.json",
+      "webUrl": "https://www.shacknews.com/article/129554/diablo-4-quarterly-dev-blog-discusses-art-and-environments",
+      "originalUrl": "https://www.shacknews.com/article/129554/diablo-4-quarterly-dev-blog-discusses-art-and-environments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/03/29/diablo-4-march-2022-quarterly-dev-blog_feature.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/129554/diablo-4-quarterly-dev-blog-discusses-art-and-environments?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/129554/diablo-4-quarterly-dev-blog-discusses-art-and-environments?amphtml=1",
+      "publishedDateTime": "2022-03-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-blizzard-responds-to-fan-frustration-over-diablo-4-updates.md",
       "title": "Blizzard responds to fan frustration over Diablo 4 updates",
       "excerpt": "The developer of Diablo 4 has acknowledged that blog posts aren't the best way for fans to get a feel for the game. Blizzard will be releasing an update on Diablo's fourth major instalment next week.",
@@ -1043,48 +1085,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed.md",
-      "title": "Diablo 4 and Overwatch 2 Are Both Officially Delayed!",
-      "excerpt": "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed/index.json",
-      "webUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
-      "originalUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg",
-          "width": 880,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTeknix",
-        "domain": "eteknix.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
