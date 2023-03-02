@@ -1,27 +1,26 @@
 ---
 category: news
-title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
-excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
-publishedDateTime: 2023-02-18T18:45:33Z
-originalUrl: "https://youtube.com/watch?v=FhkR8HD7mtE"
-type: video
-quality: 137
+title: "Everything you need to know about Blizzard's Diablo IV beta"
+excerpt: "TechSpot means tech analysis and advice you can trust. Highly anticipated: If you can't wait to get your hands on Diablo 4, the betas are only a few weekends away. Blizzard has scheduled two testing periods in March for players to get in some hacking and"
+publishedDateTime: 2023-03-01T13:18:00Z
+originalUrl: "https://www.techspot.com/news/97782-everything-you-need-know-about-blizzards-diablo-iv.html"
+webUrl: "https://www.techspot.com/news/97782-everything-you-need-know-about-blizzards-diablo-iv.html"
+type: article
+quality: 72
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhkR8HD7mtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: BeefGuyTy
-  domain: youtube.com
+  name: TechSpot
+  domain: techspot.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-    width: 1200
-    height: 800
+  - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-01-image-36.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -106,6 +105,20 @@ related:
     type: video
     provider:
       name: AnnacakeLIVE
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "DIABLO 4 BETA ANNOUNCEMENT - FULL DETAILS!"
+    excerpt: "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ..."
+    publishedDateTime: 2023-02-18T18:45:33Z
+    webUrl: ""
+    type: video
+    provider:
+      name: BeefGuyTy
       domain: youtube.com
     quality: 137
     images:
@@ -541,20 +554,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Everything you need to know about Blizzard's Diablo IV beta"
-    excerpt: "TechSpot means tech analysis and advice you can trust. Highly anticipated: If you can't wait to get your hands on Diablo 4, the betas are only a few weekends away. Blizzard has scheduled two testing periods in March for players to get in some hacking and"
-    publishedDateTime: 2023-03-01T13:18:00Z
-    webUrl: "https://www.techspot.com/news/97782-everything-you-need-know-about-blizzards-diablo-iv.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 72
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-01-image-36.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 to hold open beta next month"
     excerpt: "Blizzard, the developer behind the Diablo series as well as World of Warcraft and Overwatch 2, has announced that Diablo fans will get to play an early version of Diablo 4 next month."
     publishedDateTime: 2023-02-20T07:37:00Z
@@ -565,6 +564,6 @@ related:
       domain: news.com.au
     quality: 67
 
-secured: "+s8XMDVFyI6EXqvWPXMo19si1TK44mTPB1pw0oPqTwhXCCCxrekBcxdlj5psVDJ1ZCRRpglz3+m5mfRFGPce8mHChvFG1DDY/pO7e6z0AyAac1aChOsL697negzOfViiIA9KZx0fu9xXKdjIcSL6IVst62gLvSCNa+bImbGlfX3rUraBz5vAZr1lG6Wo6iPuYT3oT8BmeyzfXRmsNyghEEKvbYWfxn+LtFjbBYTcbb1H/pO+ZwJYqrw85WDTYiHS/9ArYFFUM/SiBWoDvjTFleg9HHdHjc+POtmS/eTGf8iGp20PfwlTplnSeOllCvmbk+Ei/dSj9hhSZ99x+6mEGMMAQZEbLMGwHg1fF/7LWECka2N/gQyWGwgc27EV5rT68vxV9i0icFkXqSEDhtWf5g==;tbuISBWGjUY15xEAKuR0TA=="
+secured: "OiZr34Xenl/9BlYJdiRyyaTZ9fYxDU9MmucUVineMDAr7vQ48ybih6YdJSar9l/LWnrrHaE8yvzVYh6PrL/q0wmW75od6Cim4EZXnulZ0YVowjDJIsbVVOD+CPpQZ7og0Uhl7GbVH2ZGBA1a/3CdYD8DKsL0hzk0Ubz41SH5yUet69dCDQkRgeywzGHroCeQ9GpOcyyHyQPe2hAVo5lxNDVqAah6WO2HtcQKU1aMHn0J9rHwyUZDzum/N76C0DZyT1+u9d6G9sJkDA3YtHtPejDXdmAeSt66J7T4YzqylyfeW09w6TjqrIoFvwnVgax+ReXvK+AtbYXx6pcmefm0dsRQalJ8rOxij5W90cUCO2M=;Sl2NKo6386khS53JBEgQXw=="
 ---
 

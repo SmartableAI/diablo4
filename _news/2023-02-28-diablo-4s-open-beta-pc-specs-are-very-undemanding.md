@@ -2,25 +2,25 @@
 category: news
 title: "Diablo 4's open beta PC specs are very undemanding"
 excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
-publishedDateTime: 2023-02-28T15:49:00Z
-originalUrl: "https://news.yahoo.com/diablo-4s-open-beta-pc-234916497.html"
-webUrl: "https://news.yahoo.com/diablo-4s-open-beta-pc-234916497.html"
+publishedDateTime: 2023-02-28T15:49:16Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!News
-  domain: yahoo.com
+  name: GamesRadar+ on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/m0XTri2_vJ5Ge8IqK0N8ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/b04f03b2e00c719d0935b9ba03a88d0b"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -82,6 +82,20 @@ related:
         width: 768
         height: 403
         isCached: true
+  - title: "Diablo 4 system requirements"
+    excerpt: "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game."
+    publishedDateTime: 2023-03-01T04:06:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
     excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
     publishedDateTime: 2023-02-28T12:18:00Z
@@ -97,6 +111,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "kBxIXcFIaVKzXEy/baZoT9YKMIiv79FplBbNuhNErLA/yM3HqYtsdIKDXTaVvaYPnaOto8ZZNoRZ5i/mYyu2ksaV5d6bkTMmw6vi24SWefm4qOTls2vWN+haH5PUxCF7tbS6X+qL5m54+hu3K7P/o0XgJYSbwvpC+3oTTqNqe09d4xsoL6AUkVjCKpslqHlcMbPUgCCmV1GMTz3XRAAiTB9UJdkqnPWmlH8NBvbVSf1R7xRfoqs10lwzblrSZZQbPgJOrmg2zRWnhqMJeWxFsZTVcZSF494AzhjU8JOkPrpfOP6oHdP3r2bNpxrkddss6LwiBX9tqUvYlEI2alkqCzaPl8PATj6lu/LeqBw9/Mw=;m6MSMaizrZ6A9TGRGuwtKA=="
+secured: "EpU+O6/EmiYmVda60u7o536MLSPwwqy7+WlSi/JY/g4X8uAMYMAC9P3irbjOHPvaZjwLQAGCr9yNVCG0ibda1b/NFwR6hN+R0RQLuDTu9eUmQKhNuApVIrf5RDeFaQWW7MxRdLNTsj6iIEySqnzw6fka5Im9tUDXrmE9xaQDPwq0vyg+Lh2YwRcVOC/fnN2CnY5ZLCHUQUT8IzojqHeoh3Qfjh0SZ+QzBE2uzN1d4Sc/mapN2TebArpO5xmnc3aEbvMFIbOiwSVUTHdKKuAcnWGWFwdmo5+MuryInd50kc6P+z06OKFIbsOo6cBCTR9sEmYwD+DPWn8oqIgR3By5cEt4Z918OpIsSdXeVFd5MAI=;mFEwf9IG0aq1s7toRf/c4w=="
 ---
 

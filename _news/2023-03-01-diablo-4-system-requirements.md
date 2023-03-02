@@ -1,26 +1,26 @@
 ---
 category: news
-title: "‘Diablo 4’ beta start date and Early Access requirements"
-excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
-publishedDateTime: 2023-02-23T04:39:00Z
-originalUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
-webUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
+title: "Diablo 4 system requirements"
+excerpt: "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game."
+publishedDateTime: 2023-03-01T04:06:00Z
+originalUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
+webUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: NME
-  domain: nme.com
+  name: PCGamesN
+  domain: pcgamesn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
-    width: 2000
-    height: 1270
+  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4105982-diablo4openbetaminspecs.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "‘Diablo 4’ beta start date and Early Access requirements"
+    excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
+    publishedDateTime: 2023-02-23T04:39:00Z
+    webUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 87
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
+        width: 2000
+        height: 1270
         isCached: true
   - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
     excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
@@ -82,20 +96,6 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "Diablo 4 system requirements"
-    excerpt: "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game."
-    publishedDateTime: 2023-03-01T04:06:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
     excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
     publishedDateTime: 2023-02-28T12:18:00Z
@@ -111,6 +111,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bk5CFSUslQhIJP5Fo434zJ1oPhzxjzQ7/gJWqNN2MexqZe+hv+hXNgXLuVLNofmoplG+pMsAUS+099c8fCmY3DMVHCf9DZx8628dXi0/74ESOiEV/uPE4JBPMX39b7AW4/VD2twVr2qChKZIFuXXa6bGN/Ec8BywiuRYyLHrlwSkGwwTdumTnpsrWAw/bT7gm7g3fP/dt6X23eECu0chIpXdVmCQAqNpVfDi8gib2HcHxziWzERA/Heiichk0mvgDgjcqp7eaxDnyIMonrrvDHgWMH/0BJr2h7NSwTEvD18oXnrdxAO7JxE5Vhxg2cdW7E7EH92eOjmA8NO6ElS0GW/Ek3/rT+uke5wAox/wpLc=;Bupi1R6/97idmK+PBg5YIw=="
+secured: "1zdnX3GIpjmXaEi77o11whzuOo+FWBJw7z6/C75AEY0kamoukDneyvBurOSSLUep/b0BBX63guzFvWSbLNXpbsPfcpIoDB8N03OX8I8IsEIQAWzF5+SH9cCPMWzxZ78mT/93RQEbnK1x/SoBEXpN0oRYwti1Ud4D6zsw95QlX77MnYYYTauOvLfzR5HUCNE5OQoG55rUUFiF4gwqsJlDWxF/dHz06scemmmv9ByMgp+LP6eZZZCG55SacJoJ0QV+98o2gKaEC0IxxodVrwGbS5hXtr0vz2Fn93csYcv9idvqCDiOOqOeXV6K9EAhOM+keT17jS764g4zsAwSsWu97nfEVb9P58frIwhfOEDliZ0=;VYFZBYAWKCEEWQ2dywri1Q=="
 ---
 
