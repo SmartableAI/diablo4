@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-character-
 type: video
 length: PT5M53S
 publishedDateTime: 2022-12-07T19:00:13Z
-heat: 98
+heat: 112
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpfzRYxrU98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "JxbyeQZ/y6tZnxqptg0LWBUeaBTkYHEqqGA+kMF2Zxn6PKq9KUO0tZA7xPfGA+Nbl3BtSMuVajlwfYdGGP33gG1Bsa1DmzxB2R3kr5p7Sk4jlBfRgZJdHNqW9ran4oFfLiP929OL/nrIVmmRARoMBRKfBJFnUowXJkBjtSPc7o0RP1H+2AEkfYnUjS02AQwW1EcypkGFSraa9fI+vBieyjOJikt8fEHvrLpHH6OM+LGOO5FZ4WFq0lRtLPVFhkL5ATSABI1KqBhDuUBpvz/2Gi1j/gIGZXEbs5fMRiI0H+W344zioGZBJS41O67YTRTFpGJfV6XLpvVFrV4eYQvx8EcTUh6zT/QoE7rZMnFvhIaXLNoQFQJwco2qfp+HJI67PJG/DdY7EdQZIdXvY7T5XrBxORz+g1eyBNjrAF0s0bQ=;pV5+xw5wEmLom4O5h521tg=="
+secured: "XkBtxLW2PEez3PN3SLV/CwEIo7y8UcMqqTYjHctTjDIzi4avjslC49ejmDRul8pg0MbshkymkP8FbHBlzm7wk0snY92JfqG64KVhoiEyvC13rNNXN7aB2ZgB2h4NKhj2po1OyO3Xvvpq9aIC3uSNGsSebhI3pzE2EwhAiQKDxWSH2cmIifU6O0WBJPsuDaDJVYAraCxV+Pmazd9xhA3NQCnKOFI1OqbSyGyon+skhbStxZUDvUXiZiAfJUHYbKh7RZ/80jHBTPs1CobOuDPpsp8sx5vrgeMNALYzLd6p8U5ki8LwhSKRTrveZziLiFk9iRFqtiJ7tMpbM1ZaOnsUSXYMvh5gU+hU/sE0zxCw3CWXwx1DAPbLmgTxX4mv6K7xcEi1eTx0ibfHhUT2NrIZaxQXmc2LKwzTV4yijOJUt5Y=;AtkgidmWMj0cxs6jdNLx7g=="
 ---
 
