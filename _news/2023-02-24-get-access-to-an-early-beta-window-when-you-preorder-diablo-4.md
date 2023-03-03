@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preor
 webUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
+    excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
+    publishedDateTime: 2023-03-02T15:32:00Z
+    webUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
+    type: article
+    provider:
+      name: siliconera
+      domain: siliconera.com
+    quality: 67
 
 secured: "OsXUs+/AGRfk3ACnRqynNRCbsnCKAmUuhUDjAiE5zzUnIKHH8O46PzV3TWDh972o92/GyCZmuKYq1iuNQmszBxD/RcvERMnkQ5E0WstQ2QAYxUlFlfK1bWYb7cL1MgMyt6J5UCAQIIfMyr1ok/m5NF2fiNiyatN4TbLB73cLC5S4IfpCDbcDak/DidqlwLTAEmf0OZRGYyCrCLpH3+dCksqWfSo4JxSDDHn0LVtbHxZmufCF/Th40dykiQybP4LbXvGufrwrNF4IcfQ8lt/TYfurGh81osv/GRoAhfWgvLTfTgJo2iHOKvKkUmGXRBxnuB8D4n3kbMNJbIzLJQVYzwMVJgC//uUVaJi3+KeLcX4=;eNWZcLHJs6jMv/qGXiMEZw=="
 ---
