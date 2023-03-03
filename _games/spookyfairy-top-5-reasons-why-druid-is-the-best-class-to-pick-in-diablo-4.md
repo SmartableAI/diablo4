@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/spookyfairy-top-5-reasons-why-dru
 type: video
 length: PT5M39S
 publishedDateTime: 2023-03-01T23:03:29Z
-heat: 149
+heat: 228
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ah4FFhFvM-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "UH4HrlmSHxm5ZlcjxEH0UtL8FbfbVjTZKUkYjf9nLeIoJhYBotf9mgrQcKETtC1odJiaqejhUe9BRxb3yYWTSazj4nKrxa3LvqF2HZcZ/8tR8GREpTpvIYvLCxgTuljn8UFNvhfxriL+3kXYVi1nlirdo3h2wxrsnKs0JUnCRfU5iB2YUh6IJtne50Dyrni/DQaFRMsjxozdC9GHj/m9Qd6k5KHfmZwzkXq1kiUqBdIcLaDOrGeei/jR04M9eD2PDza8XktklKlIZ/Sk3FRD1ikhl05uAouBp4RAWhcZ1zIsz7wACZVOWo4Wb4DuE1XdZNQj2odLXWs9tvZkQbOlk7H1f/psvhXKzoUHcnvXxz78azcuzumtffvV6iC7xbqPxePstmzM1HReBha8BBFjfA==;omdi+AgOrHZsVXK9DR12QQ=="
+secured: "T4DiJdu4S/r0ZU6amaJKFIii5fA4Db4yKrxAyK8UEPGJDn8Uu5rXJ52nsN5OnIo2AGAITYXY+K6j7tiw0nb9CKpC7Rtay5ZbCtzjFkv8M8Tw/XvBOSDpuhco3ESbxtuqb2GPznGgyl56WLjUGJylKDY7MvPnwos8ZeK3gOF6DgXyJV+Y2cnqfCUIcutG2t8m7S1GTumdZj9uAD0q1NnK5xoOxR4D1bJlQ/TPPgW15EAn9zxm56Ex+b8pr9UiJuPrGISjMzupQwMguLnWlJMUyHURg37zsEGMCSxl7RNDRurMBG7/atM7vu3O33koC8IwL9h5QRbboTJJpH1MgEH2Vo3xD5ygSbG1ymw7kKMfCSKi9/QZf+09bP/O91pSooL8yrcrlGtSXTltSkq0SvzVSg0NQJgLFDhECSkCHT6mGG0=;YH5Zlej/pUonaG++eFj49A=="
 ---
 
