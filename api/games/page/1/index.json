@@ -184,23 +184,23 @@
       "publishedDateTime": "2023-02-19T08:45:00-08:00"
     },
     {
-      "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
-      "title": "Diablo 4 Character Creation and Customization Options - Barbarian & Mage",
-      "excerpt": "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/",
-      "originalUrl": "https://youtube.com/watch?v=VpfzRYxrU98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpfzRYxrU98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
+      "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
+      "title": "Diablo IV Preview - Hands-On with the Barbarian",
+      "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=0oGrqi3nJK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oGrqi3nJK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M34S",
       "provider": {
-        "name": "Arekkz Gaming",
+        "name": "Easy Allies",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 112,
+      "heat": 111,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -211,46 +211,16 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-07T11:00:13-08:00"
+      "publishedDateTime": "2022-12-07T08:00:02-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
-      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
+      "path": "_games/beefguyty-diablo-4-ability-double-swing-barbarian.md",
+      "title": "Diablo 4 Ability Double Swing - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
-      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-30T17:00:12-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
-      "title": "Diablo 4 Druid Earthen Bulwark Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
-      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-ability-double-swing-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-ability-double-swing-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=y8gp_Jp34jI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y8gp_Jp34jI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT8S",
       "provider": {
         "name": "BeefGuyTy",
@@ -258,7 +228,7 @@
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
       "heat": 110,
       "images": [
@@ -271,7 +241,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-23T17:00:01-08:00"
+      "publishedDateTime": "2022-12-18T18:00:21-08:00"
     },
     {
       "path": "_games/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird.md",
@@ -333,6 +303,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-28T16:03:34-08:00"
+    },
+    {
+      "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
+      "title": "Diablo 4 Character Creation and Customization Options - Barbarian & Mage",
+      "excerpt": "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage/",
+      "originalUrl": "https://youtube.com/watch?v=VpfzRYxrU98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VpfzRYxrU98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T11:00:13-08:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
