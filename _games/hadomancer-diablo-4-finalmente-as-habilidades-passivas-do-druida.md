@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/hadomancer-diablo-4-finalmente-as
 type: video
 length: PT7M38S
 publishedDateTime: 2023-02-17T14:45:02Z
-heat: 90
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cRncxAWu5iY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
