@@ -40,22 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Here Are The ‘Diablo 4’ Open Beta Dates, And How To Get In"
-    excerpt: "If there’s any game that may be able to compete with Hogwarts Legacy sales in 2023, it could be Diablo 4, especially if the game actually is good as it looks. It’s currently slated for a June 6 ..."
-    publishedDateTime: 2023-02-19T04:28:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/02/19/here-are-the-diablo-4-open-beta-dates-and-how-to-get-in/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe743dd90d8172759de215/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Early Access – how to sign up for the beta"
     excerpt: "How to get into the Diablo IV early access beta, including steps on how to redeem your beta code and download the game on console."
     publishedDateTime: 2023-02-20T07:08:00Z

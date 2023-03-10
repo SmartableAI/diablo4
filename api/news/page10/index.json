@@ -2,6 +2,99 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway.md",
+      "title": "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway",
+      "excerpt": "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway/index.json",
+      "webUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
+      "originalUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch.md",
+      "title": "Blizzard Is Giving Away Diablo 4, But There's A Huge Catch",
+      "excerpt": "Blizzard is giving away free copies of Diablo 4, but there's a huge catch: fans have to get tattooed to do it. A new event is sweeping across the nation.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/index.json",
+      "webUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
+      "originalUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.svg.com/img/gallery/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/l-intro-1658767061.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "svg",
+        "domain": "svg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-diablo-4-release-date-speculation-and-all-the-latest-details.md",
       "title": "Diablo 4 release date speculation and all the latest details",
       "excerpt": "Want a roundup of the latest Diablo 4 release date speculation and news? Announced during BlizzCon 2019, the upcoming entry in the demon-slaying action RPG game series has had many different ...",
@@ -991,99 +1084,6 @@
       "provider": {
         "name": "International Business Times",
         "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-iv-quarterly-updatejune-2022.md",
-      "title": "Diablo IV Quarterly Update—June 2022",
-      "excerpt": "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-iv-quarterly-updatejune-2022/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3q/3QIS84S3PJK41654707055839.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5.md",
-      "title": "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?",
-      "excerpt": "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2022/06/Overwatch-23.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
-      "publishedDateTime": "2022-06-13T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
         "images": null,
         "publishers": null,
         "authors": null

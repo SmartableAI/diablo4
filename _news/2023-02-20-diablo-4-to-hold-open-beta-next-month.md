@@ -34,20 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 beta tests are coming to all platforms next month"
-    excerpt: "We had an inkling that Diablo 4's open beta start date was due to be unveiled \"soon\", and now it's been confirmed that the beta early access test will run from March 17-19 for pre-orderers. An open ..."
-    publishedDateTime: 2023-02-19T05:15:16Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-tests-are-coming-to-all-platforms-next-month/ar-AA17Gan9"
-    type: article
-    provider:
-      name: GamesRadar on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VWjZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "When does Diablo 4 Open Beta start?"
     excerpt: "Dates for the Open Beta of Diablo 4. March 17-19 for players who have pre-ordered Diablo 4; March 24-26 for everyone else; What will I be able to do during the Diablo 4 Open Beta?"
     publishedDateTime: 2023-02-20T10:56:00Z
