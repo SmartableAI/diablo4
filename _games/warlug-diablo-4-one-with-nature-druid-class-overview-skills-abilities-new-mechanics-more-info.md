@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/warlug-diablo-4-one-with-nature-d
 type: video
 length: PT3M26S
 publishedDateTime: 2023-01-29T00:50:31Z
-heat: 89
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AEJV6xcGrGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "pFFhwkQ5uFn9d2gBZkcegdFvgR4rlfQgGuYZTHdonxz3kW5Zh27jOa22kUSU6SnQuXWpMkIDpZdtosCFctOVZWL+9KxLSuhhILktM7I96kuLd9Bx9nfGuBG/eNPegCTBGK7eVJr6cIU2FYt3kIji4pm9OtszyUoXvh/hQkqrzG14Q4cK69jcRwW/mYIDzVfYgwW+BgfeHJwiHhfFOmRD5COkR07dO20nowx8flC0azioJv4dwOS8LoVPFGtEUr/C0NYFCj7hSWQWfOyq/xVkKIsKC+W3rJYshR7dK28ZogKxIovZ4CvXeTXgQl4nbIzxZ9/hhnIijnkkBZiGoktejh3pVsatTRvvyx0dgKTONprz9RiK+y2nW7LuIy+dKUzaVZemrOinDtArXa5AHLyru7mNsCygXTB2kKjUDZndTH0=;KnXbGy2xkP7Zfulj/Z/LMw=="
+secured: "Tci1x/ucuk13Hiv/rPCPp63G08+o7uzRqXO46uE91iZeBVZNRCCONxiakDKMa89S1unUi6HBiO5Im+nw4NLE5UBVIDbEKu62pSeCWJTNyYsp9d6rQgYjY+bo2s0taHU/1bfp8xdoXoE/E0bFn6xlHFLOLfQZlXLsu0k/yDsL34hAEpphCZo/ZucC5/G7QRCO9P6kWSNJio35Pp/2wq8RJ4Ja6a779IsxBprtQxt/l8NESFRUi3sNJC25TXR5AYad9L6ObVboB3P9kxCixklb5iSkWfdiZXtzEACZmLvXxKWfJp7FOhM22SKkn4q4vA0DyYYslxOfJSc8DuPJhVrJktWMQ7n+9WAnRepchMyUmxj2vVQBjwgRpFUGAxnwrjwXXRx8tDAT5mvLpHHXHmMlSE/zCStPu2vDfR4P9m3TFh8=;0Zp+vgSz4Pyd4s5ArpwqVQ=="
 ---
 

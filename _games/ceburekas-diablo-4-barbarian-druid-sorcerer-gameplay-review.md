@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/ceburekas-diablo-4-barbarian-drui
 type: video
 length: PT6M58S
 publishedDateTime: 2023-03-01T00:03:34Z
-heat: 106
+heat: 81
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ewGYngXmUEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

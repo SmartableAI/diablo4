@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/the-comeback-kids-druid-is-awesom
 type: video
 length: PT35S
 publishedDateTime: 2023-02-17T20:54:20Z
-heat: 205
+heat: 207
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B0B-2rtWGMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "lIifhcXIt1sNFF0dVBbrTraoXL6TG8sYGiN6QCgvvDf6rFzlKhmOTDlsK0C1YWWL3E5VSbgX9k2ofntnTZ756FxI9l6/4UNklPRTruHOCzCrDB9qw6FgvPcDGoqyY0nR4NUM7fE+1TUlqzDrEnJ8BmInSgO299tgAHE+qOypCw/V/SzKkbmIVSEkOLlz7lbImCQHlI/wv+69u3bgNPiraQ+dVIC9DU3MrVIvNGq91kskmy/UJLUk4H62udtLI5uKK50CJRe8udIqWoTQ6Zu92i23V978BvQ839ANUyDCwmNE5m+Ou43ZapcFM2506of5NyQdj8St8F+h5kkiYwfFYe2wvz1xeD8ax/FXXlVHB6/soAZwDB+RR9LU1fTPt7pU5nPNkDO5v12xcnic/P90XB4exJgEJBpvUwBDd7L6+yY=;rtrAn9hfM5O/WFts9i+wuA=="
+secured: "Ss8GviBIgioNd9AxbvxeXtjFenFFHXEm7MRnGETxhSGFKRiQxEkz8B8AeDftocCSKvQep9tu0WUPaxnjLgOWdUoP+MDUgBuXOBrFcSRngzTmYmTifVNGebEkAfoKQR8toFPm31vld2iLerUaftV+2rVhOaHTIxvl3uv8yrdpN58ytXxGsMZDMoiWtUuo0uph3IqBtoFQSdmQwobLeqVLj3bTto1fdD2Tl04z4WoGi+CGoPEAieP1oXuPD+TxKdfp5j0dypzeUHvTROSOG7PRnJadVPi24shbxVYzc7Xohur30kFr2LLBk3J6W+6ZzgLS0V/TNH8DrmwU9dME6mwNRSR0hk+vtHpSixEuYarqRheTTenb/EhkdmeidtyNNl4TyHGWjwQKG6mf2EedDfZ8VBBhyGmZwCHBdZeX/LGps0A=;3bx/pqH3j3ZkKfUAYGlDwA=="
 ---
 
