@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-19T04:34:05Z
 originalUrl: "https://youtube.com/watch?v=zB43T38ew8o"
 type: video
 quality: 137
-heat: -1
-published: false
+heat: 177
+published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zB43T38ew8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4   Official Announcement Cinematic Trailer  Blizzcon 2019"
-    excerpt: "Diablo 4 Official Cinematic Release Date Trailer."
-    publishedDateTime: 2023-02-14T16:01:21Z
+  - title: "Luxthos Reacts to Diablo 4 Announcement - Cinematics & Beta Dates"
+    excerpt: "Diablo IV's Early Access Beta and Open Beta are coming soon. Will you play both? Join me live on http://www.twitch.tv/luxthos ..."
+    publishedDateTime: 2023-02-19T17:00:07Z
     webUrl: ""
     type: video
     provider:
-      name: E-ToxicGames
+      name: Luxthos
       domain: youtube.com
     quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news"
+    excerpt: "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ..."
+    publishedDateTime: 2023-02-19T20:04:26Z
+    webUrl: ""
+    type: video
+    provider:
+      name: waydong91
+      domain: youtube.com
+    quality: 126
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200

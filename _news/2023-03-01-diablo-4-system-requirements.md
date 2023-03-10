@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘Diablo 4’ beta start date and Early Access requirements"
-    excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
-    publishedDateTime: 2023-02-23T04:39:00Z
-    webUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 87
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
     excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
     publishedDateTime: 2023-02-28T14:06:12Z
@@ -82,19 +68,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Diablo 4 details reveal open beta rewards and more"
-    excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
-    publishedDateTime: 2023-02-28T15:54:00Z
-    webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
+  - title: "Diablo 4 Open Beta Rewards"
+    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
+    publishedDateTime: 2023-03-01T21:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
     type: article
     provider:
-      name: Dot Esports
-      domain: dotesports.com
+      name: VideoGamer.com
+      domain: videogamer.com
     quality: 87
     images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
-        width: 768
-        height: 403
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 beta dates and system requirements: Are you ready for hell?"
     excerpt: "Find out if you can run Diablo 4 on your machine for the upcoming beta test. Diablo 4 has two upcoming beta tests, where players will finally be able to take a deep dive into Blizzard’s next hack ‘n slash action RPG and see for themselves if this is a"

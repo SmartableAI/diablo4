@@ -18,19 +18,19 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Get access to an early beta window when you preorder 'Diablo 4'"
-    excerpt: "Diablo 4. The highly anticipated game comes out this summer, on June 6, 2023, but preorders have already launched—and you can get access to the open beta a week early if you preorder."
-    publishedDateTime: 2023-02-24T23:13:00Z
-    webUrl: "https://www.usatoday.com/story/money/reviewed/2023/02/24/how-preorder-diablo-4-get-access-march-beta/11308100002/"
+  - title: "Diablo 4 Beta: When it Starts and How to Get Into It"
+    excerpt: "Diablo 4 is about to enter its first public beta, and with the excitement comes some uncertainty about the best way to access it. Who can play the beta, how to enroll in it, and w"
+    publishedDateTime: 2023-03-09T09:03:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 87
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
     images:
-      - url: "https://www.gannett-cdn.com/presto/2023/02/23/USAT/47b10a71-385c-4faa-9e3c-13532c2b8e82-diablo4.png?auto=webp&crop=2987,1681,x12,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-beta-early-access.jpg"
+        width: 1800
+        height: 900
         isCached: true
 
 secured: "2OkyZin46/kd1oSk73DYR9lkzdTLuSwrtRNyWGYySPbN1MOOBaki5fZMVak9wBPexyh4lsJZGb4n8Pa9Apnr9iZYoBlXHO4CQh5QwqVpqVSs9he6su1eXVne9Xk/W/NCYzyjywbqLHrMoMfWhCblkJ5cKXQsjtPL3p3ftcPaXvG6fgVeV5ed63tLDfjhJt+iG5lhkaYfDmohEbrIlMoU98WVIpYsn9T6LQ4CT7YDnhe36tFeSxm39jTNTHOB1t2njwcTsUpWu8zmNPiU38gd4+7D6ay+g3jhtIqmSHo/Vg1EvRySN6A9moMs8g/hUWmauC50eo4M3zBkwgtqKghIl1f7isaJU7B9GshqJZ2lBoM=;moYzl4uKfaocXujYX7eRxg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rew
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://asset.vg247.com/diablo-4-beta-rewards-header.jpg/BROK/thumbnail/1200x630/diablo-4-beta-rewards-header.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Everything you need to know about Blizzard's Diablo IV beta"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Highly anticipated: If you can't wait to get your hands on Diablo 4, the betas are only a few weekends away. Blizzard has scheduled two testing periods in March for players to get in some hacking and"
+    publishedDateTime: 2023-03-01T13:18:00Z
+    webUrl: "https://www.techspot.com/news/97782-everything-you-need-know-about-blizzards-diablo-iv.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 72
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-01-image-36.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "jklgc3MjJhtDOwwZioW5SuYcWJF+t8saDlnKtXjbKfxcQKVqnhaFMqJpwdIS+Vy3oa6PLlI6BjznFEA6tRzOfhfzyTrNBKQvKt8q6E0XvVAqlhqDbo/INJ5qQV0fMyrlmTAYr5d+2MZbSBi85V1SEQSo4HM8mQakReLWaGxCiJyqr8mgqYr64lSHq+8zCANDEWjWxc4hi9vbEgjEw1le/UoTDfSwpDFyBpVxFqZa2YSk0q8x4o+vLVwlkejudR5rkT4U84eyQbAMqtEjwq5o5JQAnenrEtSFvdTnOFZdzw+rMWTcoxGzVA5x77l6la7Lm/ahWxzwMEhQSusVMP0BfcHsJd1RAGybt8P3ySnhkWE=;rxyjRSNBvjj3cYIMvder8Q=="
