@@ -2,6 +2,7 @@
 title: "Diablo 4 EPIC 10 Minutes Exclusive Druid Gameplay (4K 60FPS HDR)"
 excerpt: "Diablo 4 EPIC 10 Minutes Exclusive Druid Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ..."
 originalUrl: https://youtube.com/watch?v=P3tHnGvRQnQ
+webUrl: https://smartable.ai/apps/diablo4/game/gamev-diablo-4-epic-10-minutes-exclusive-druid-gameplay-4k-60fps-hdr/
 type: video
 length: PT10M5S
 publishedDateTime: 2023-03-11T10:58:46Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "CvSqIF68D4Qo7IP5dqdy70C5Q3JJLvNTGANzePex/pEQJu7qkDLYjbfJ3w0zUKVVWNRWZ2NX/XaRfEgopnzQ71QrpHyHl5vWRK5u+JxceNNt+N+v8BRrLwOXRGskWEVboDjpDEWO1Cvp3PixZM8lH6Pc/yehFNPshn7Ho2UgWY5z0l7UAHJi6noaoRxdjA5UL16/LZGrXBTkLD5ZKM8re55PJ2ZTAL0D8vx+ADWhMO0VO8QGB6Lvj6HYI33qXCklcyl9RXb7IaWsJeac0cLys2VDuvlhl3WzF6hXZEA9lsqmhiPXd7zaQU6pzbyuIG/JJAZfn13y2hvgiGiz7VYxMm4/Md57yX2nCMIPRFc6eD+PVuHMlctX5j3rpLPFFrIApzKc2NjM1jCnNP/0tpoTZA==;Lm3b7jGFYhX9c8odhZttBw=="
+secured: "VYP0x5ga7v617P5FMO0ro+NMLciZiQM97So2Je1ecoyTtjRVR6kCzQZ61mq2utV4MxXGFII9JGrZaaaOKmxVkNauCBz6x0SZT1YAl/YNb5tSaUnHnPbEJvzIDUyTdCmsnp0xUQkoKSvueRIuQgw0EpdGuX2Qi/M401tMZcNOUqXsobwVsWOYHrgIh0tLiKNKUjkUBtzEbCGJQJG/hfIEtudSg4Sva78GGsoZveErmlAOGIxzAa2hE3b1KyyciXBzih37kCfXuSr4Iod3mJQyt0IHQbn9gi5qGnAyyJn/sPl9jIC+IULbdCpnavUckWLComcj+j8cILwtb3YHl9vFSZ7PRmNzPklJu2qEOYj4fUqwslSqnAZMr5gph+36KYglHoKokKSYAxP/28lzsMEIfw==;2pQ66Ibra2ujHxjQ5Xi7zg=="
 ---
 
