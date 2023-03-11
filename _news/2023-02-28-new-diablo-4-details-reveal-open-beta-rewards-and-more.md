@@ -54,20 +54,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 release date, beta dates, trailers and more"
-    excerpt: "Diablo 4 is on the way - there's plenty more hacking and slashing to be had. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ever closer."
-    publishedDateTime: 2023-02-20T01:50:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-release-date-beta-dates-trailers-and-more/ar-AA17Hvne"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17HHG4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=798&y=413"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "‘Diablo 4’ beta start date and Early Access requirements"
     excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
     publishedDateTime: 2023-02-23T04:39:00Z

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 open beta starts next month"
-    excerpt: "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ..."
-    publishedDateTime: 2023-02-20T02:04:00Z
-    webUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 107
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "When does Diablo 4 Open Beta start?"
     excerpt: "Dates for the Open Beta of Diablo 4. March 17-19 for players who have pre-ordered Diablo 4; March 24-26 for everyone else; What will I be able to do during the Diablo 4 Open Beta?"
     publishedDateTime: 2023-02-20T10:56:00Z
@@ -54,15 +38,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Diablo 4 to hold open beta next month"
-    excerpt: "Blizzard, the developer behind the Diablo series as well as World of Warcraft and Overwatch 2, has announced that Diablo fans will get to play an early version of Diablo 4 next month."
-    publishedDateTime: 2023-02-20T07:37:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/diablo-4-to-hold-open-beta-next-month/news-story/6dcde2b8a3f23796e18db41dd3fe61cc"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 67
 
 secured: "bxa3j7r/SkYrODoqWVR+6AIlS+enUs5pv2F+IgcMcDzeKRJ2i5JE36O+E+z4Oa733EMlXpSCYE/zwOxPIPyJwgmk2NpJySCX/uialmGyw/EkCuOk4bh0MvzoED6zuA+yJSzIEoRYdQKeZzHq4/a/i+P9bwxcYIeKYUosY5KFY1tzWLzNgwZY5vBMlVTZKJO5AMFDJrLn36HlkTzT5s5IQhJdKpdCwSj/pdBEl94Gxp4O3tsLvXv/eB/Eq8YDIi5yrBc942bvrxKblJfXvwW5P+UmclKSu8T2nE2s/4QlNsVTz2uQ0g9BFSKSfillLpkJHarA3wFr29Sl2gSKXW5pB/2CNq1K9UxkU02AOPSfHwo=;YaqVz94Vuzyh5okJF0w8GQ=="
 ---
