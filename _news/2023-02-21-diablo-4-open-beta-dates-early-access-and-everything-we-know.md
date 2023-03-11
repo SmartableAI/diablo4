@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/"
 type: article
 quality: 147
-heat: 247
+heat: 227
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
         width: 768
         height: 403
-        isCached: true
-  - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
-    excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
-    publishedDateTime: 2023-02-20T04:27:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-beta-dates/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 84
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betadetails.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "sgKeWvbjObXKrmGH5vMo321xu+SIVspW9HPdvGeQeuMadIWgrEyuCHHM4KDcido40kfHv6PG2IV6FPlzF4P5MIEV7zDbhvqZQzYltt9eeiIdRJXEq7TgmNPmoQ3IJDmYZLof2EW695bmBjinMRGanRn1Sz/bOJFzZ2/IAkzbrQ1wMfPYSjYh/uirB91mla0pdneUOe++TdQfjspCgXjVoybK2r25oXp9faVF2/guNoFfup8dFq3KKWP0KmbW1FYtq9sMdbmixiObihxCu+gCRL8ojJMhhlTP1NHCwhwljahvPJ38clHUYl7Fysnkkz4iHPwtC4mvr8LPz4psFqyB6LPSOkyxJa77MAyQtTjyqYY=;hIznoK+cLqaT1r2l9g9xzg=="

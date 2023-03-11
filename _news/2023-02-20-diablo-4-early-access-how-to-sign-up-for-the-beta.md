@@ -82,20 +82,6 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "Diablo 4 beta dates announced for March – includes Early Access and Open Beta"
-    excerpt: "Everything we know so far about Diablo 4's upcoming open beta and early access beta, arriving this March for consoles and PC."
-    publishedDateTime: 2023-02-20T04:27:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-beta-dates/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 84
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betadetails.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "9wHvwCQUcp5UdJ4RqHuKIVRNyQW9N+AliGA01s8U0NcLc0z/VJfsqAzCVOhs5t6LquAJ2XLxaqGc2FsO/nlWCKy1DKDjkvhY9CHBD+PXLLjxG18RUJpyXOWfpIpvKc+KquGVkQnpAw0nX5/O95kx0xCh+l8Dge0eUlu7jyVXc2TqHkQPHTIPG36+TOOBYzBGfZTl+9i+8pq+wCQ1LFOA1jyDSc6RGGg65baDf1rBORPqlPIDuQJ9RUstL+0kf+sSnsQ4VRQC05EE6Ser/ImP+aCPlHNTOYKQvec4MuEGonIQg5ZyIEDuX7xET5rBQTLxzvJvqC+SLdXUrbMoRGvT/w427vNn+qMysGOIMOBy3PE=;Ojn82UN7smGzmwnyvsiVdQ=="
 ---
