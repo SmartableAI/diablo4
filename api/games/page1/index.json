@@ -50,7 +50,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 266,
+      "heat": 264,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -170,7 +170,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 213,
+      "heat": 212,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -260,7 +260,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 119,
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -272,36 +272,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-19T08:45:00-08:00"
-    },
-    {
-      "path": "_games/rustypielover-diablo-4-barbarian-5-potential-builds-for-you.md",
-      "title": "Diablo 4 BARBARIAN: 5 POTENTIAL BUILDS FOR YOU!",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Barbarian 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential builds ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-barbarian-5-potential-builds-for-you/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-barbarian-5-potential-builds-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=NZYcNYYCoL4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NZYcNYYCoL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M12S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-18T09:00:21-08:00"
     },
     {
       "path": "_games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr.md",
@@ -320,7 +290,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 116,
+      "heat": 128,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -394,14 +364,44 @@
       "publishedDateTime": "2023-03-11T15:51:17-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-windshear-ability.md",
-      "title": "Diablo 4 Druid Windshear Ability",
+      "path": "_games/barricade-ttv-diablo-4-sorceress-offensive-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - SORCERESS OFFENSIVE LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-sorceress-offensive-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-sorceress-offensive-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=ZlE7zGfBcVA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZlE7zGfBcVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M13S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-15T22:32:20-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-stormstrike-ability.md",
+      "title": "Diablo 4 Druid StormStrike Ability",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-windshear-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-windshear-ability/",
-      "originalUrl": "https://youtube.com/watch?v=gmPgWd5oxY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmPgWd5oxY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-stormstrike-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-stormstrike-ability/",
+      "originalUrl": "https://youtube.com/watch?v=N9mg15Z1DMk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N9mg15Z1DMk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
       "provider": {
         "name": "BeefGuyTy",
         "domain": "youtube.com"
@@ -421,7 +421,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-28T17:00:14-08:00"
+      "publishedDateTime": "2022-12-31T17:00:06-08:00"
     },
     {
       "path": "_games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only.md",
@@ -482,36 +482,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-07T11:00:13-08:00"
-    },
-    {
-      "path": "_games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv.md",
-      "title": "TOP 5 Reasons why BARBARIAN is Best Class to Play in Diablo IV",
-      "excerpt": "Top 5 Reasons to Play Barbarian in Diablo IV Beta and Launch! Discover why the Barbarian is the favorite class of Diablo players ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=bV1hnJ49EWs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bV1hnJ49EWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M1S",
-      "provider": {
-        "name": "SpookyFairy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-05T11:06:35-08:00"
     },
     {
       "path": "_games/g7js-vortex-diablo-4-druid-class-preview-by-fextralife.md",
@@ -652,7 +622,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 90,
+      "heat": 96,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -682,7 +652,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 89,
+      "heat": 91,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -694,36 +664,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-28T15:16:56-08:00"
-    },
-    {
-      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
-      "title": "Diablo IV Druid Gameplay . (No Commentary)",
-      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M2S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
       "path": "_games/spookyfairy-top-5-reasons-why-druid-is-the-best-class-to-pick-in-diablo-4.md",
@@ -742,7 +682,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 88,
+      "heat": 86,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -784,6 +724,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-18T05:00:32-08:00"
+    },
+    {
+      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
+      "title": "Diablo IV Druid Gameplay . (No Commentary)",
+      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M2S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
       "path": "_games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review.md",
@@ -833,7 +803,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 80,
+      "heat": 79,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -845,6 +815,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-04T19:32:53-08:00"
+    },
+    {
+      "path": "_games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv.md",
+      "title": "TOP 5 Reasons why BARBARIAN is Best Class to Play in Diablo IV",
+      "excerpt": "Top 5 Reasons to Play Barbarian in Diablo IV Beta and Launch! Discover why the Barbarian is the favorite class of Diablo players ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=bV1hnJ49EWs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bV1hnJ49EWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
+      "provider": {
+        "name": "SpookyFairy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-05T11:06:35-08:00"
     },
     {
       "path": "_games/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird.md",
@@ -863,7 +863,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 75,
+      "heat": 76,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
