@@ -154,23 +154,23 @@
       "publishedDateTime": "2023-03-06T19:44:08-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-tornado-ability.md",
-      "title": "Diablo 4 Druid Tornado Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-tornado-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-tornado-ability/",
-      "originalUrl": "https://youtube.com/watch?v=h7TnYHGp6lA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h7TnYHGp6lA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
+      "path": "_games/rustypielover-diablo-4-druid-the-weatherman-build-no-items-skills-only.md",
+      "title": "DIABLO 4 DRUID: THE WEATHERMAN BUILD! (No Items, Skills Only)",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid Weatherman Build, where we dive into the skills needed to create the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-the-weatherman-build-no-items-skills-only/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-the-weatherman-build-no-items-skills-only/",
+      "originalUrl": "https://youtube.com/watch?v=6oMscyTb2ac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oMscyTb2ac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M51S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "RustyPieLover",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Druid"
       ],
-      "heat": 116,
+      "heat": 111,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -181,19 +181,19 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-27T17:00:09-08:00"
+      "publishedDateTime": "2023-02-04T08:00:03-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-cyclone-ability.md",
-      "title": "Diablo 4 Druid Cyclone Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-cyclone-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-cyclone-ability/",
-      "originalUrl": "https://youtube.com/watch?v=kaQtOE4QBpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kaQtOE4QBpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
+      "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=jTEL7Umaq1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jTEL7Umaq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M56S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "Barricade TTV",
         "domain": "youtube.com"
       },
       "topics": [
@@ -211,7 +211,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-22T17:00:17-08:00"
+      "publishedDateTime": "2023-01-10T08:47:25-08:00"
     },
     {
       "path": "_games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only.md",
