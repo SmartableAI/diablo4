@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Eat KFC's most cursed burger to get access to Diablo 4's early beta"
-excerpt: "KFC and Blizzard announced that anyone who purchases KFC's infamous Double Down will get entry to Diablo 4's closed beta period. Anyone who willingly puts their physical health on the line for this ..."
-publishedDateTime: 2023-03-09T07:58:44Z
-originalUrl: "https://www.msn.com/en-us/entertainment/other/eat-kfc-s-most-cursed-burger-to-get-access-to-diablo-4-s-early-beta/ar-AA18qg5j"
-webUrl: "https://www.msn.com/en-us/entertainment/other/eat-kfc-s-most-cursed-burger-to-get-access-to-diablo-4-s-early-beta/ar-AA18qg5j"
+title: "Get a Diablo 4 Early Access Beta Code on PS5 by Eating KFC"
+excerpt: "One of the only other ways to get a Diablo 4 early access beta code is to pre-purchase the game. Buying a chicken sandwich is much cheaper."
+publishedDateTime: 2023-03-09T18:46:00Z
+originalUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
+webUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
+ampWebUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar on MSN
-  domain: msn.com
+  name: PlayStation LifeStyle
+  domain: playstationlifestyle.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18qnoZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.playstationlifestyle.net/assets/uploads/2023/03/diablo-4-kfc.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -54,22 +56,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Get a Diablo 4 Early Access Beta Code on PS5 by Eating KFC"
-    excerpt: "One of the only other ways to get a Diablo 4 early access beta code is to pre-purchase the game. Buying a chicken sandwich is much cheaper."
-    publishedDateTime: 2023-03-09T18:46:00Z
-    webUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
-    ampWebUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
-    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
-    type: article
-    provider:
-      name: PlayStation LifeStyle
-      domain: playstationlifestyle.net
-    quality: 107
-    images:
-      - url: "https://www.playstationlifestyle.net/assets/uploads/2023/03/diablo-4-kfc.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 Early Access beta now also offered at KFC"
     excerpt: "As fans of upcoming Blizzard RPG Diablo 4 gear up for the release of the game's upcoming beta - a new way to get early access has emerged from an unlikely source."
     publishedDateTime: 2023-03-09T08:09:00Z
@@ -84,7 +70,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Eat KFC's most cursed burger to get access to Diablo 4's early beta"
+    excerpt: "KFC and Blizzard announced that anyone who purchases KFC's infamous Double Down will get entry to Diablo 4's closed beta period. Anyone who willingly puts their physical health on the line for this ..."
+    publishedDateTime: 2023-03-09T07:58:44Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/eat-kfc-s-most-cursed-burger-to-get-access-to-diablo-4-s-early-beta/ar-AA18qg5j"
+    type: article
+    provider:
+      name: GamesRadar on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18qnoZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "lKeYUGoQ3sFToR1EPUUmy2+3b7rdg1+n+5m/CtR8J1Ticc+NmYKBOIomBLc395M//B9vNnzar2w5jECjlrwjFsV4CGYwNukNLXhaBp4yZPXJ041n6AxxO/n6EuznLDz/qWZ5xC+RJ1f+B+aTyHPPFR3x42Z+CmkWN6VGyEKzGPyWPtfgfnwTHOF1nTEBmWI1m12EgikRIs1znLPVtOpw39l8f5Nn0DFKTv7sobRQJD+uUP4USoaiJlnYyfYJHXAPTMgOJK93WTRzCHY9e/khgp/4g0wyoDk0GxVOiTNkJHlAsKHQ93+ClcQoi6uZTAymCsefdnJoRh+zrv0SGAWw2rAthigz3X39zu+xc/C+21c=;ZBK1gSE7EiZvrRfzLMNFpw=="
+secured: "YLugFdRmA17+jDBIF6oJacCOrfzwCxScd/uVfJdmZfEqS5Qtl8fMc3ib7ZOt/cF/vIN7+caa6eUbHFJGb+H6m8ZBZRVYi5ZezdhISHltJ5IP+HEc+M2f28Rj0imbPzJjRzkcUZbHxaxywSr8clhITi8WlZ9zvhjv2XjHF8na7S7TLz0bGMwGsTHClJoNgN1hVa/IH0br6Ku2OkpAGTbIwyNWjCmFFMMs++c+edqL0+kkigH4wCjuy0kElReRKImVtRuGT4LNn6rjevc9ajduNaSvZxgLGh2YSL/7gNRXwSLdwLYbAg7eEr63TyGAwkaixDlbFOYOZOfQ8rK4gZFvK6LeAom/zSOREW8A4D/OzDk=;s+hQaVsHTVPnA+B3Dn/yLw=="
 ---
 

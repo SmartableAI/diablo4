@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-kfc-beta-early-access-promotion/"
 webUrl: "https://gamerant.com/diablo-4-kfc-beta-early-access-promotion/"
 type: article
 quality: 127
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/03/05/648b30d3-6c3c-4f28-bc23-05d5d5ca5a07/nintendo-switch-mario.jpg?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Get a Diablo 4 Early Access Beta Code on PS5 by Eating KFC"
+    excerpt: "One of the only other ways to get a Diablo 4 early access beta code is to pre-purchase the game. Buying a chicken sandwich is much cheaper."
+    publishedDateTime: 2023-03-09T18:46:00Z
+    webUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
+    ampWebUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+    type: article
+    provider:
+      name: PlayStation LifeStyle
+      domain: playstationlifestyle.net
+    quality: 107
+    images:
+      - url: "https://www.playstationlifestyle.net/assets/uploads/2023/03/diablo-4-kfc.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Diablo 4 Early Access beta now also offered at KFC"
     excerpt: "As fans of upcoming Blizzard RPG Diablo 4 gear up for the release of the game's upcoming beta - a new way to get early access has emerged from an unlikely source."

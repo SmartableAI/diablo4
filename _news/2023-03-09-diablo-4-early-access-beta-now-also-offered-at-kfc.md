@@ -54,6 +54,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Get a Diablo 4 Early Access Beta Code on PS5 by Eating KFC"
+    excerpt: "One of the only other ways to get a Diablo 4 early access beta code is to pre-purchase the game. Buying a chicken sandwich is much cheaper."
+    publishedDateTime: 2023-03-09T18:46:00Z
+    webUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
+    ampWebUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+    type: article
+    provider:
+      name: PlayStation LifeStyle
+      domain: playstationlifestyle.net
+    quality: 107
+    images:
+      - url: "https://www.playstationlifestyle.net/assets/uploads/2023/03/diablo-4-kfc.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Eat KFC's most cursed burger to get access to Diablo 4's early beta"
     excerpt: "KFC and Blizzard announced that anyone who purchases KFC's infamous Double Down will get entry to Diablo 4's closed beta period. Anyone who willingly puts their physical health on the line for this ..."
     publishedDateTime: 2023-03-09T07:58:44Z
