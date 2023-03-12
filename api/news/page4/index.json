@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-09-diablo-4-left-out-of-playstations-most-anticipated-ps5-games-in-2023.md",
+      "title": "Diablo 4 Left Out of PlayStation’s Most Anticipated PS5 Games in 2023",
+      "excerpt": "While Diablo 4 has been called one of the most anticipated games of 2023, PlayStation has excluded it from its official list.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-09-diablo-4-left-out-of-playstations-most-anticipated-ps5-games-in-2023/index.json",
+      "webUrl": "https://www.playstationlifestyle.net/2023/01/09/diablo-4-playstation-most-anticipated-ps5-games-2023/",
+      "originalUrl": "https://www.playstationlifestyle.net/2023/01/09/diablo-4-playstation-most-anticipated-ps5-games-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.playstationlifestyle.net/assets/uploads/2023/01/diablo-4-playstation-editorial-left-off.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.playstationlifestyle.net/2023/01/09/diablo-4-playstation-most-anticipated-ps5-games-2023/amp/",
+      "cdnAmpWebUrl": "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/01/09/diablo-4-playstation-most-anticipated-ps5-games-2023/amp/",
+      "publishedDateTime": "2023-01-09T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PlayStation LifeStyle",
+        "domain": "playstationlifestyle.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-burger-king-japan-celebrates-diablo-4-with-spicy-double-whopper.md",
       "title": "Burger King Japan celebrates Diablo 4 with Spicy Double Whopper",
       "excerpt": "Burger King Japan is currently running a Diablo 4 promo, which features a Lilith Spicy Tomato Double Whopper with Cheese.",
@@ -1069,48 +1111,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta.md",
-      "title": "Diablo 4 RELEASE DATE OFFICIALLY ANNOUNCED. How to get into the Open Beta.",
-      "excerpt": "TWITTER   https://twitter.com/SweetPhil 🎙️DISCORD🎙️ https://discord.gg/Q9zE9E8 MERCH   ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta/",
-      "originalUrl": "https://youtube.com/watch?v=jZKa-xq3OD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZKa-xq3OD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T19:04:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sweet Phil",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
