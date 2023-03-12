@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 Early Access – how to sign up for the beta"
-    excerpt: "How to get into the Diablo IV early access beta, including steps on how to redeem your beta code and download the game on console."
-    publishedDateTime: 2023-02-20T07:08:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-early-access-beta-how-to-sign-up/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "‘Diablo 4’ beta start date and Early Access requirements"
     excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
     publishedDateTime: 2023-02-23T04:39:00Z
