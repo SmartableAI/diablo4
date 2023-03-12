@@ -2,6 +2,7 @@
 title: "GUIA COMPLETO DA CLASSE SORCERESS FEITICEIRA EM DIABLO 4"
 excerpt: "Guia feito para poder explicar como funciona a classe da Feiticeira em Diablo 4. 00:00 - Intro; 00:27 - Classe Feiticeira; 01:35 ..."
 originalUrl: https://youtube.com/watch?v=w6TxnnyZZ3s
+webUrl: https://smartable.ai/apps/diablo4/game/mano-imp-guia-completo-da-classe-sorceress-feiticeira-em-diablo-4/
 type: video
 length: PT5M18S
 publishedDateTime: 2023-03-11T12:00:47Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Q86UlS6Xq28pugere12iRRg1/Z5TkZfmkx/8gtJDRQwDGBEbNGxQC9X6+OnLLqDKiARmKmfJDpfvQFY92TTNU6INMYfTnvIfLl8cH+oVKvB0TYpxcx/N83poF2pWmfln6MqxRAAh8C0LG0C2nBOTgVUa7z6BtHE75NWpZncgL58mHNSUUikdzUwQFMf7C9kri3EGKZfJHUZGePbtIyszHhGb1At53A2Y6SWYx8if+X4JSThHRgT2BAsqZCA8KUl4TloBv/K2XyVt01MV9r82yksSRTqDq9z8WR5XdnZbDVHJ8H3haBkutEOVXNrzgW8C+nDLiUdzEjHqrb87FTrQ1nhGloEiAR1wuXo/3nhLcGsrgLjowpA0zvn9Bm5Dhrhk1zoxbnFiAAfJUUBx17+qFw==;TB+ynuboPeXty/0fmHFCeA=="
+secured: "zyoYWygtwm7QNF60cbe+RzJg0eM+Q2IfbV+BRE7U/73Nhr6oMRZ5m7UkXg0aJSNgBhKCzoocaregEY4IA+gYNKp1AnOjQ/URrCZCEQBUHxq+RC7C+4xLQjLH8TjC4o+GCtwT+A4oYdeY3ELcAE0vFSjJj/yuNkZweYVqjvhG4JDpX0GU+ciM8p9tdO2grw8OuhI442oaO+mYEq7/NR9tGF+gH/81inYGxBUVGegUDlHAOohe7rgoZEX7f7ySVyuYqWmKATkxXYN1l7Lo813YQspex/6Za2BWBglyR+zBPg2ml9cqVWl4nYqNvx5bCyQqoxuQA/Tswajxtr7ijln32hBhd5qlYTOv2H1j/jdePCChfQXfkabxP7jeueUynjNHHMnaePg8YIOeJy3skg3FQg==;31mOuKXtcl6OaeGJw0wukg=="
 ---
 
