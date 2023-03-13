@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barba
 type: video
 length: PT16M40S
 publishedDateTime: 2023-03-12T20:43:35Z
-heat: 211
+heat: 341
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "iZGgzIEzj87QtB7bMPkSrlMJ20Zu0KGpE9TsoBWqd/+8rAnmlSXuPMZzG8g9JhtkW8YDQED0qMDkRQaPmyNhZBxWQYVs+byrv6DriUmugmemrhG3olmjC5uiow5m3URXhTSLAqF8zMpafWcFLCnRxuKiDQfm2IhSoimYzdGijbn7lnvohth9+m9xY72Dg97DFxLUQgAO8XXvoqSG8Thcf/KdQJ1Xg977H6xHjhjctLBoOU0AlAn1hubB1qJ/pwzhxI8yGcAg1nQsg039yejbI+sqC8nrHBOptV+WGYKxV/ObpbpiSRooNVqAAk+3EO/QhUe2hIw2WAiyRk45NlFQjDcJxd4JNPj9uwkw8b5Sz56qJdo70yY9YitIqwu+wWkVKxz92cLq0rX9eV+l99samA==;UfB5oD/ZUuGX5ekLSP4q0A=="
+secured: "ZvDvgZmPcLzhuMMtNq5jISBkUEasaerSP5ZfRl75U86oLwDs8Uk/7A5prq7GAA07Ky2fpbWtzUfSy+CKz0rebo0OT7Y8izh+GKMt+xbCMH7RuIJHkoPpMDgXnSEKhJIcKp5xnfegUdrm4rGLGE0rxS3bXr71RKv649aQECUK7VMeM2IyCrUHIOoAAKDUVcWrrFugIlNq8jvKqvs8SIOip5e320nu0+Qn3R7fxFYri4h3mQQg0kbYbPXz0gGdSQ8A59smGINcZrIthavwxVJ0VjESszCh30pgwuBOz4LyfsrrqXDXf/mDrz4RzN2B1FQqZ7Xpw8smTIVeEPw77vb34EdjTYQ1VCw0fK/UHsJpxunUS3CZyIEV1doSb9l3tkEvbvaCEetObV/4bi4EdTuMmngzpdKy35PQ7srIB2aRL5g=;a1MOn6IjKfG2TeDsyVAgig=="
 ---
 
