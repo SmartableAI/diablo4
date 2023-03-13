@@ -4,16 +4,16 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics.md",
-      "title": "Diablo 4 Barbarian Class Overview - Skills, Abilities, New Mechanics!",
-      "excerpt": "In this video I show you an overview of the barbarian class for the upcoming open world ARPG, Diablo 4. We go over skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/",
-      "originalUrl": "https://youtube.com/watch?v=g-gB1VSyDpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-gB1VSyDpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
+      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M40S",
       "provider": {
-        "name": "Warlug",
+        "name": "AnnacakeLIVE",
         "domain": "youtube.com"
       },
       "topics": [
@@ -31,7 +31,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-17T11:42:51-08:00"
+      "publishedDateTime": "2022-12-21T08:00:36-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-tornado-ability.md",
+      "title": "Diablo 4 Druid Tornado Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-tornado-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-tornado-ability/",
+      "originalUrl": "https://youtube.com/watch?v=h7TnYHGp6lA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h7TnYHGp6lA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-27T17:00:09-08:00"
     },
     {
       "path": "_games/andy-gaming-hurricane-druid-diablo-4-shorts.md",
@@ -880,37 +910,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-07-02T15:00:31-07:00"
-    },
-    {
-      "path": "_games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary.md",
-      "title": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary)",
-      "excerpt": "Diablo IV Blizzcon 2019 DEMO – Barbarian, Sorcerer, Druid Gameplay Streaming (No Commentary) Recuerden suscribirse: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/phillip-chu-joy-diablo-iv-blizzcon-2019-demo-barbarian-sorcerer-druid-gameplay-streaming-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=i0CntI1Ez_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i0CntI1Ez_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M50S",
-      "provider": {
-        "name": "Phillip Chu Joy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i0CntI1Ez_U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-03T12:06:38-08:00"
     }
   ],
   "nextPage": 4

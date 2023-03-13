@@ -80,7 +80,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 240,
+      "heat": 215,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -154,14 +154,14 @@
       "publishedDateTime": "2023-03-12T10:50:33-07:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=et_uaOBTseg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/et_uaOBTseg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M34S",
+      "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=jTEL7Umaq1o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jTEL7Umaq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M56S",
       "provider": {
         "name": "Barricade TTV",
         "domain": "youtube.com"
@@ -181,7 +181,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:30-08:00"
+      "publishedDateTime": "2023-01-10T08:47:25-08:00"
     },
     {
       "path": "_games/g7js-vortex-diablo-4-druid-class-preview-by-fextralife.md",
@@ -304,6 +304,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-04T08:00:31-08:00"
+    },
+    {
+      "path": "_games/pyrozy-unleash-natures-fury-top-5-reasons-to-play-druid-in-diablo-4.md",
+      "title": "Unleash Nature's Fury: Top 5 Reasons to Play Druid in Diablo 4",
+      "excerpt": "Unleash Nature's Fury: Top 5 Reasons to Choose Druid in Diablo 4 00:00 Intro 00:25 The Lore 00:54 Shapeshifting 01:25 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/pyrozy-unleash-natures-fury-top-5-reasons-to-play-druid-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/pyrozy-unleash-natures-fury-top-5-reasons-to-play-druid-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=Ti1eo_x6sik",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ti1eo_x6sik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M7S",
+      "provider": {
+        "name": "Pyrozy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-06T05:00:31-08:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
@@ -881,36 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-01T22:53:54-07:00"
-    },
-    {
-      "path": "_games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide.md",
-      "title": "DIABLO 4 - DRUIDE: Die WICHTIGSTEN Infos zur KLASSE im GUIDE",
-      "excerpt": "Der Druide kehrt in Diablo 4 als Klasse zurück und hat jede Menge Skills und Talente im Gepäck, die wir uns heute - teilweise ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide/",
-      "originalUrl": "https://youtube.com/watch?v=lnv-0633X68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lnv-0633X68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M",
-      "provider": {
-        "name": "rellihcs",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-22T07:00:32-07:00"
     }
   ],
   "nextPage": 2
