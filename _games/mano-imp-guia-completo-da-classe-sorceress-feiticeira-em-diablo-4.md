@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/mano-imp-guia-completo-da-classe-
 type: video
 length: PT5M18S
 publishedDateTime: 2023-03-11T12:00:47Z
-heat: 202
+heat: 150
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w6TxnnyZZ3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "zyoYWygtwm7QNF60cbe+RzJg0eM+Q2IfbV+BRE7U/73Nhr6oMRZ5m7UkXg0aJSNgBhKCzoocaregEY4IA+gYNKp1AnOjQ/URrCZCEQBUHxq+RC7C+4xLQjLH8TjC4o+GCtwT+A4oYdeY3ELcAE0vFSjJj/yuNkZweYVqjvhG4JDpX0GU+ciM8p9tdO2grw8OuhI442oaO+mYEq7/NR9tGF+gH/81inYGxBUVGegUDlHAOohe7rgoZEX7f7ySVyuYqWmKATkxXYN1l7Lo813YQspex/6Za2BWBglyR+zBPg2ml9cqVWl4nYqNvx5bCyQqoxuQA/Tswajxtr7ijln32hBhd5qlYTOv2H1j/jdePCChfQXfkabxP7jeueUynjNHHMnaePg8YIOeJy3skg3FQg==;31mOuKXtcl6OaeGJw0wukg=="
+secured: "ytyK068X74sx8lhImp4gnmiQXPPfcMdfZ2pPmaSXbAyVMcDMPkDpbWctxAKLf6+rXnu6qL7lDYvoetLGvgzIjck7MfpigROTtZf24fqKzWIkBFpci/tpTOFc7ffH4fFaCtjSByZhle2UITN9qVHi2SXGUFbdeeylZ8W9egC0qQ/2hgcXslmfrYcL7hxUjv/PQBnujMEea6M0fbINDSqHncftmErMMBO8eE3lLssmUfppjGJsF1E1TKKzg7WwyjnRVd7rfSh39VhSuiFuttX7dsqZXCndP6yYJIOmFf+mFf4OWQxiHsCCI7aCZEkoP+5OAv5He+ACX9T2UEi6Eo9JA+KjAcDU/dhFwh7kRVaUz+Z0OWmdVDNpiINtYsBZWEK7+socrcIeiapjFQK4jSARbxOE6CKKKJwC6i9h+sh0bF4=;6Ue5AWZsomsjyNIwiyteig=="
 ---
 
