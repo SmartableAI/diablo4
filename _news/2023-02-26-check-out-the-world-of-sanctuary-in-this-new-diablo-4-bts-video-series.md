@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
-    excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
-    publishedDateTime: 2023-02-21T13:21:00Z
-    webUrl: "https://gamerant.com/diablo-4-sanctuary-deep-dive-video/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-sanctuary.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "New Diablo 4 Feature Shows off Sanctuary's Redesign"
     excerpt: "Watch the video yourself above. Those who pre-order a copy of Diablo 4 will get to participate in two beta sessions in March. Those who pre-ordered one of the larger versions of the game, such as the ..."
     publishedDateTime: 2023-02-22T18:48:00Z
