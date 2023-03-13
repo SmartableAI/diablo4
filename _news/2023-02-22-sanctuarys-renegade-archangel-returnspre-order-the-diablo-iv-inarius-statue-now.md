@@ -42,22 +42,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Diablo 4 Players Will Be Able To Explore The Dungeon Seen In Announcement Cinematic"
-    excerpt: "GameSpot may get a commission from retail offers. A new trailer for Diablo IV highlights the dark beauty of the game's world of Sanctuary and all the activities players will be able to discover within ..."
-    publishedDateTime: 2023-02-21T11:52:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-players-will-be-able-to-explore-the-dungeon-seen-in-announcement-cinematic/1100-6511696/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-players-will-be-able-to-explore-the-dungeon-seen-in-announcement-cinematic/1100-6511696/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-players-will-be-able-to-explore-the-dungeon-seen-in-announcement-cinematic/1100-6511696/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 141
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4102188-11.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Diablo 4 Offers Deep Dive Into the World of Sanctuary"
     excerpt: "A new video from Activision Blizzard offers gamers a deep dive into Diablo 4's world known as Sanctuary. The video itself breaks down the various environments players will explore throughout the ..."
     publishedDateTime: 2023-02-21T13:21:00Z
