@@ -124,6 +124,36 @@
       "publishedDateTime": "2023-02-17T12:54:20-08:00"
     },
     {
+      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
+      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10S",
+      "provider": {
+        "name": "Special_di",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-23T11:46:29-08:00"
+    },
+    {
       "path": "_games/lost-in-the-world-be-the-best-bear-you-can-be-druid-transformation-build-diablo-4.md",
       "title": "Be the Best Bear you can Be - Druid Transformation Build Diablo 4",
       "excerpt": "Druid Transformation Build Guide / Video / Skill Tree Analysis. This build goes heay on transforming as transforming is cool.",
@@ -152,66 +182,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-12T10:50:33-07:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-bearform-pulverize-ability.md",
-      "title": "Diablo 4 Druid BEARFORM Pulverize Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-pulverize-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-pulverize-ability/",
-      "originalUrl": "https://youtube.com/watch?v=UIvIjHe-H2E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIvIjHe-H2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-25T09:00:21-08:00"
-    },
-    {
-      "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=-94tolPWQlU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-94tolPWQlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M5S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:27-08:00"
     },
     {
       "path": "_games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed.md",
@@ -607,36 +577,6 @@
       "publishedDateTime": "2022-12-31T08:00:20-08:00"
     },
     {
-      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
-      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10S",
-      "provider": {
-        "name": "Special_di",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-23T11:46:29-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
       "title": "Diablo 4 Druid Ravens Ability",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -853,6 +793,36 @@
       "publishedDateTime": "2022-12-01T07:00:11-08:00"
     },
     {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-pulverize-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Pulverize Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-pulverize-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-pulverize-ability/",
+      "originalUrl": "https://youtube.com/watch?v=UIvIjHe-H2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIvIjHe-H2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-25T09:00:21-08:00"
+    },
+    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -911,6 +881,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-01T22:53:54-07:00"
+    },
+    {
+      "path": "_games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide.md",
+      "title": "DIABLO 4 - DRUIDE: Die WICHTIGSTEN Infos zur KLASSE im GUIDE",
+      "excerpt": "Der Druide kehrt in Diablo 4 als Klasse zurück und hat jede Menge Skills und Talente im Gepäck, die wir uns heute - teilweise ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide/",
+      "originalUrl": "https://youtube.com/watch?v=lnv-0633X68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lnv-0633X68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M",
+      "provider": {
+        "name": "rellihcs",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-06-22T07:00:32-07:00"
     }
   ],
   "nextPage": 2

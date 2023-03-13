@@ -214,36 +214,6 @@
       "publishedDateTime": "2022-12-31T08:00:20-08:00"
     },
     {
-      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
-      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10S",
-      "provider": {
-        "name": "Special_di",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-23T11:46:29-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
       "title": "Diablo 4 Druid Ravens Ability",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -548,6 +518,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-01T07:00:11-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-pulverize-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Pulverize Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-pulverize-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-pulverize-ability/",
+      "originalUrl": "https://youtube.com/watch?v=UIvIjHe-H2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIvIjHe-H2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-25T09:00:21-08:00"
     },
     {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
@@ -880,23 +880,23 @@
       "publishedDateTime": "2022-12-27T17:00:09-08:00"
     },
     {
-      "path": "_games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics.md",
-      "title": "Diablo 4 Barbarian Class Overview - Skills, Abilities, New Mechanics!",
-      "excerpt": "In this video I show you an overview of the barbarian class for the upcoming open world ARPG, Diablo 4. We go over skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/",
-      "originalUrl": "https://youtube.com/watch?v=g-gB1VSyDpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-gB1VSyDpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
+      "path": "_games/andy-gaming-hurricane-druid-diablo-4-shorts.md",
+      "title": "Hurricane Druid Diablo 4 #shorts",
+      "excerpt": "gaming #shorts #viral #new #video #subscribe Please leave a Like & Subscribe, it helps the channel grow!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/andy-gaming-hurricane-druid-diablo-4-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/andy-gaming-hurricane-druid-diablo-4-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=Exe_Brsda18",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Exe_Brsda18\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12S",
       "provider": {
-        "name": "Warlug",
+        "name": "Andy Gaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Druid"
       ],
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -907,7 +907,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-17T11:42:51-08:00"
+      "publishedDateTime": "2022-11-27T22:32:04-08:00"
     }
   ],
   "nextPage": 3
