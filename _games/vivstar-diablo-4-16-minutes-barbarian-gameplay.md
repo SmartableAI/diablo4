@@ -2,6 +2,7 @@
 title: "Diablo 4 - 16 minutes Barbarian Gameplay"
 excerpt: "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ..."
 originalUrl: https://youtube.com/watch?v=ABW3lDyjj_I
+webUrl: https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barbarian-gameplay/
 type: video
 length: PT16M40S
 publishedDateTime: 2023-03-12T20:43:35Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "/VYURVJIKtA/gXV+W8SplSXNuNvGfjtajAM8WxTKJq1eSlkJgfGMMUFwbSdbMeoeVL3/GM7tomvSXcjKtUMnYmVYRJytBplhfbCjha2L9Sk9pzh549wKMVtOI1mBtQ6lRE7qdDiR1EaDCg/V4jIIVdbmOnxOE8BNJvoFXHMWlMz+2EduecAEV1midqrg+eCqvCW+6Zu1Rc/7I2PgYwKsirWpHmbrAtghcEiNIp+t04vYLF/2mhw++cI3WQLWtngAlHw446BaVULVGuU4GF62iMDZj2RJqCtp83j/Yq8wP0G90ailYOZ5fBq5shDwaHuC0lzD9kC/+JYnh8NG5KAVQL8v4Emsn+a4tAb5/xxyNlPtu25RMztHXAbx/wKbotpUwIRoQYaHD/Z1eQUpvcU62w==;+xfIdV3teqAuTdpDpr50CQ=="
+secured: "iZGgzIEzj87QtB7bMPkSrlMJ20Zu0KGpE9TsoBWqd/+8rAnmlSXuPMZzG8g9JhtkW8YDQED0qMDkRQaPmyNhZBxWQYVs+byrv6DriUmugmemrhG3olmjC5uiow5m3URXhTSLAqF8zMpafWcFLCnRxuKiDQfm2IhSoimYzdGijbn7lnvohth9+m9xY72Dg97DFxLUQgAO8XXvoqSG8Thcf/KdQJ1Xg977H6xHjhjctLBoOU0AlAn1hubB1qJ/pwzhxI8yGcAg1nQsg039yejbI+sqC8nrHBOptV+WGYKxV/ObpbpiSRooNVqAAk+3EO/QhUe2hIw2WAiyRk45NlFQjDcJxd4JNPj9uwkw8b5Sz56qJdo70yY9YitIqwu+wWkVKxz92cLq0rX9eV+l99samA==;UfB5oD/ZUuGX5ekLSP4q0A=="
 ---
 
