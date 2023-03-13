@@ -44,57 +44,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-10-kfc-can-help-you-get-diablo-4-beta-early-access.md",
-      "title": "KFC Can Help You Get Diablo 4 Beta Early Access",
-      "excerpt": "Activision Blizzard is partnering with KFC to offer early access beta codes for Diablo 4 to those who purchase a Double Down sandwich.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-10-kfc-can-help-you-get-diablo-4-beta-early-access/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-kfc-beta-early-access-promotion/",
-      "originalUrl": "https://gamerant.com/diablo-4-kfc-beta-early-access-promotion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-kfc-double-down-beta-promotion.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-10-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023.md",
       "title": "Diablo 4 - Diablo Open Beta Announcement Cinematic | IGN Fan Fest 2023",
       "excerpt": "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4.",
@@ -125,6 +74,57 @@
         "name": "Hori-JGames",
         "domain": "youtube.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich.md",
+      "title": "Get Diablo 4 Early Beta Access By Buying A KFC Sandwich",
+      "excerpt": "GameSpot may get a commission from retail offers. Blizzard and KFC are partnering to offer early access to Diablo 4's beta. If you buy a Double Down (or any eligible sandwich) at KFC, you'll get a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-10-get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/index.json",
+      "webUrl": "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "originalUrl": "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "publishedDateTime": "2023-03-09T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -301,48 +301,6 @@
       "provider": {
         "name": "Upcomer on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-diablo-4-beta-release-date-and-open-beta-details.md",
-      "title": "Diablo 4 beta release date and open beta details",
-      "excerpt": "The Diablo 4 early access closed beta is March 17-19, starting at 9am PST / 12pm EST / 5pm GMT / 6PM CEST. The gameplay period will end at 12pm PST / 3pm EST / 8pm GMT / 9PM CEST on March 9.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-07-diablo-4-beta-release-date-and-open-beta-details/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-beta-release-date-header.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -794,6 +752,48 @@
       ]
     },
     {
+      "path": "_news/2023-02-28-diablo-4-beta-start-dates-and-times.md",
+      "title": "Diablo 4 beta start dates and times",
+      "excerpt": "After many, many years of waiting, Diablo 4 will finally be playable soon. The first of two Diablo 4 betas starts in a little over two weeks. The Diablo 4 early access and open beta periods take place over two weekends.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-beta-start-dates-and-times/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-start-dates-and-times/ar-AA1841Kq",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-start-dates-and-times/ar-AA1841Kq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1847ME.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=530&y=256",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T05:11:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-diablo-4-wont-have-huge-damage-numbers-praise-lilith.md",
       "title": "Diablo 4 won’t have huge damage numbers, praise Lilith",
       "excerpt": "Diablo 3's huge damage numbers left the RPG game's UI feeling horribly cluttered, but Blizzard is changing that coming into Diablo 4 with armoured enemies.",
@@ -844,7 +844,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 307,
       "tags": null,
       "images": [
         {

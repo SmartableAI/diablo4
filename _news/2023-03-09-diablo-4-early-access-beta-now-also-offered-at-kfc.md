@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Get Diablo 4 Early Beta Access By Buying A KFC Sandwich"
+    excerpt: "GameSpot may get a commission from retail offers. Blizzard and KFC are partnering to offer early access to Diablo 4's beta. If you buy a Double Down (or any eligible sandwich) at KFC, you'll get a ..."
+    publishedDateTime: 2023-03-10T02:11:00Z
+    webUrl: "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "KFC Can Help You Get Diablo 4 Beta Early Access"
     excerpt: "Activision Blizzard is partnering with KFC to offer early access beta codes for Diablo 4 to those who purchase a Double Down sandwich."
     publishedDateTime: 2023-03-10T09:57:00Z

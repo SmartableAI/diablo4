@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Open Beta Dates, Early Access, And Everything We Know"
-    excerpt: "GameSpot may get a commission from retail offers. Diablo IV is still a few months away from unleashing hell on PC and console, but for fans who are eager to get an early taste of what to expect, an ..."
-    publishedDateTime: 2023-02-21T09:26:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/"
+  - title: "Diablo 4 Open Beta Minimum PC Requirements Revealed"
+    excerpt: "Diablo IV's open beta minimum and recommended PC specifications have been revealed by Blizzard as part of a beta-focused livestream. Note that these are the beta system requirements and not for the ..."
+    publishedDateTime: 2023-02-28T12:02:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
     type: article
     provider:
       name: GameSpot
       domain: gamespot.com
     quality: 147
     images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4105982-diablo4openbetaminspecs.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "‘Diablo 4’ beta start date and Early Access requirements"
     excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
@@ -54,19 +54,89 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "Diablo 4 beta start dates and times"
-    excerpt: "After many, many years of waiting, Diablo 4 will finally be playable soon. The first of two Diablo 4 betas starts in a little over two weeks. The Diablo 4 early access and open beta periods take place over two weekends."
-    publishedDateTime: 2023-02-28T13:11:33Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-start-dates-and-times/ar-AA1841Kq"
+  - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
+    excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
+    publishedDateTime: 2023-02-28T14:06:12Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb"
     type: article
     provider:
-      name: PC Gamer on MSN
+      name: GameRant on MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1847ME.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=530&y=256"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4's open beta PC specs are very undemanding"
+    excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
+    publishedDateTime: 2023-02-28T15:49:16Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
+    type: article
+    provider:
+      name: GamesRadar+ on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Open Beta Rewards"
+    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
+    publishedDateTime: 2023-03-01T21:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 system requirements"
+    excerpt: "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game."
+    publishedDateTime: 2023-03-01T04:06:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 beta dates and system requirements: Are you ready for hell?"
+    excerpt: "Find out if you can run Diablo 4 on your machine for the upcoming beta test. Diablo 4 has two upcoming beta tests, where players will finally be able to take a deep dive into Blizzard’s next hack ‘n slash action RPG and see for themselves if this is a"
+    publishedDateTime: 2023-03-02T00:58:50Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-dates-and-system-requirements-are-you-ready-for-hell/ar-AA1880JP"
+    type: article
+    provider:
+      name: Video Games on FanNation on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
+    excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
+    publishedDateTime: 2023-02-28T12:18:00Z
+    webUrl: "https://techraptor.net/gaming/news/diablo-4-open-beta-details-revealed-times-rewards-system-requirements-for-pc-more"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 79
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Diablo%204%20Open%20Beta.jpg?itok=0YNJTGWm"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "gnhVToCwCvId5CFeke4jBO837MSiozURylAJCsr18azX6Mvx8keKDAsjjuKUmAJfZlsXMk/iQxrWlInNUkzVo7tK3cRSoDcoCgjcnt9jsp/ZVLkXDBN5KX7XcUXq5wnofwyR6FpR/tG7pXGq/VABVjgEE9MK8AjC6ryy+eE7nOD/QLjADFIOIACUFdkHcJYqIGkIbh3kyLV5oSrpW7NYXL5FT1x9D6DKMeBTnzg7rPSG4tO04wMcINx5+/AwTsPlUNSE2g+/uSReSo7UhN/YnrwxVcrveuSM8qvqv3JctG5xY+VjSir01+h8CVY+mAi+RSf3iyskVUMJUkLhW7DOUiSq3864UtvLIdKKDHN7F28=;XVMIxYERfBnuJrWLs2X6uQ=="

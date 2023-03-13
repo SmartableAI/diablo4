@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Get a Diablo 4 Early Access Beta Code on PS5 by Eating KFC"
-excerpt: "One of the only other ways to get a Diablo 4 early access beta code is to pre-purchase the game. Buying a chicken sandwich is much cheaper."
-publishedDateTime: 2023-03-09T18:46:00Z
-originalUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
-webUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
-ampWebUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
-cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+title: "Get Diablo 4 Early Beta Access By Buying A KFC Sandwich"
+excerpt: "GameSpot may get a commission from retail offers. Blizzard and KFC are partnering to offer early access to Diablo 4's beta. If you buy a Double Down (or any eligible sandwich) at KFC, you'll get a ..."
+publishedDateTime: 2023-03-10T02:11:00Z
+originalUrl: "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
+webUrl: "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
 type: article
-quality: 107
-heat: -1
-published: false
+quality: 147
+heat: 247
+published: true
 
 provider:
-  name: PlayStation LifeStyle
-  domain: playstationlifestyle.net
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.playstationlifestyle.net/assets/uploads/2023/03/diablo-4-kfc.jpg"
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg"
     width: 640
     height: 360
     isCached: true
 
 related:
-  - title: "Get Diablo 4 Early Beta Access By Buying A KFC Sandwich"
-    excerpt: "GameSpot may get a commission from retail offers. Blizzard and KFC are partnering to offer early access to Diablo 4's beta. If you buy a Double Down (or any eligible sandwich) at KFC, you'll get a ..."
-    publishedDateTime: 2023-03-10T02:11:00Z
-    webUrl: "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "KFC Can Help You Get Diablo 4 Beta Early Access"
     excerpt: "Activision Blizzard is partnering with KFC to offer early access beta codes for Diablo 4 to those who purchase a Double Down sandwich."
     publishedDateTime: 2023-03-10T09:57:00Z
@@ -72,6 +60,22 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Get a Diablo 4 Early Access Beta Code on PS5 by Eating KFC"
+    excerpt: "One of the only other ways to get a Diablo 4 early access beta code is to pre-purchase the game. Buying a chicken sandwich is much cheaper."
+    publishedDateTime: 2023-03-09T18:46:00Z
+    webUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/"
+    ampWebUrl: "https://www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+    cdnAmpWebUrl: "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2023/03/09/diablo-4-early-access-beta-code-ps5-ps4-kfc/amp/"
+    type: article
+    provider:
+      name: PlayStation LifeStyle
+      domain: playstationlifestyle.net
+    quality: 107
+    images:
+      - url: "https://www.playstationlifestyle.net/assets/uploads/2023/03/diablo-4-kfc.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 Early Access beta now also offered at KFC"
     excerpt: "As fans of upcoming Blizzard RPG Diablo 4 gear up for the release of the game's upcoming beta - a new way to get early access has emerged from an unlikely source."
     publishedDateTime: 2023-03-09T08:09:00Z
@@ -101,6 +105,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YLugFdRmA17+jDBIF6oJacCOrfzwCxScd/uVfJdmZfEqS5Qtl8fMc3ib7ZOt/cF/vIN7+caa6eUbHFJGb+H6m8ZBZRVYi5ZezdhISHltJ5IP+HEc+M2f28Rj0imbPzJjRzkcUZbHxaxywSr8clhITi8WlZ9zvhjv2XjHF8na7S7TLz0bGMwGsTHClJoNgN1hVa/IH0br6Ku2OkpAGTbIwyNWjCmFFMMs++c+edqL0+kkigH4wCjuy0kElReRKImVtRuGT4LNn6rjevc9ajduNaSvZxgLGh2YSL/7gNRXwSLdwLYbAg7eEr63TyGAwkaixDlbFOYOZOfQ8rK4gZFvK6LeAom/zSOREW8A4D/OzDk=;s+hQaVsHTVPnA+B3Dn/yLw=="
+secured: "EyzJmJq9BHlPMLsmFW3nqcrUYtEJudxYhZOjrdNQCyEWV10SCJM0vcbalQYBEgYBf0L6GPZ0Tf2rvPuvuFK5SdT7+V9PRiRIOCWy2R5+jNpz/ZfLXIIFkDpslptYNsaEyb+lx+FhocLUb92xYAfgRDewQ1zSJLXA9PRsr5Rve1UZX6cw6iD8v4c2gOTNpiIRyqEL+4SWNM4Y8q2yi3GqpNHh7UcYVsIq0am8vj8HCjTmb9cACp04yxrc6KoIb6udcNoOR8ITeabzn4KiK2Q1L2ENx6df3YdffBY4xuP/mO2/LIWA6TE2HHx7dROx9/J9rfVk2shMAJHu+ueAw6jbYfNbOHTAo/yVzPFWJx/NjQM=;DlRv07mOh78F75e2+ElFTQ=="
 ---
 

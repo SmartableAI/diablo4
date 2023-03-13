@@ -2,6 +2,7 @@
 title: "Be the Best Bear you can Be - Druid Transformation Build Diablo 4"
 excerpt: "Druid Transformation Build Guide / Video / Skill Tree Analysis. This build goes heay on transforming as transforming is cool."
 originalUrl: https://youtube.com/watch?v=vvpNQj7ct6s
+webUrl: https://smartable.ai/apps/diablo4/game/lost-in-the-world-be-the-best-bear-you-can-be-druid-transformation-build-diablo-4/
 type: video
 length: PT7M14S
 publishedDateTime: 2023-03-12T17:50:33Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OpeZXutNY14L/zH5ga2/WUO96s7G1VsiKlU1hJhtz7Cv5G0RID21dFcwKPjiH9kNgy6f6J3HpRhhPdwJkoVDH5FmwfIcTchtbKqQMCvztfgkVCAITtzKr37TLku7hohqjRba1hT8wSbAyQ18UIXKXNVB9ET2gcizBpO4ne2k3cqYVXYmm5WVsZ9WLlp4XaCVVQlVsTx5jko96k2GV3GJqTn/VpH3hn46UN6AWN4uV6rBmHAb9ZS+BTzzPTTfM7M9jN9354zC1lTIMgfwk+JtSIZezSfBsQL+aWORgsnYrVbQPNPcFHrUfyWXIrwvcoNLdN4kn1nHlOegbs6eDfo4QZiQP5xm9LX3TzanOELrstiWTCuSl1lgvxTt3TctbSjg99TEEGlAoj4S4eX+3areGg==;oSq1KZdqu1R4Een3LXcMWA=="
+secured: "Y66WbTzjxYSb0kPLAmSDLkq/UySpwywzSY54VgJbGRjETjCSHyY3NMOOk+xPsuSIUzl4guKQB+9WUAI6HmiIRKCxtHNcvOyAHUR7HSK3FuhDleEYeq27a8MNSLs31lPkFoJInUFKqThLnEsz9Q2N934/EavVQDGzMuTZKuhhgIynEeDKAIcVK+I/HmOvH6svM5Ly97DYuft7mJB+tGlaCcCQCBx/ljRiTsnUa2hkrQ7MOzaIJ4L6G06bc0iOSqLaQhjAoymAzFtO0AfMeR9zXuA9p1KzgBZD18MMLrwDzrXfLBu6MQAF/X65C5xfRN+SzNanehXUghaAh2XcswXJku5hXTEWi0Xyudj4KD6MYfHL201gb0z9dGg8Kwk78aIlrKTyXUrvAVWl4jLNeqHqgg==;DRdXHyjfjwmPwlwJn7hICg=="
 ---
 
