@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gameinformer.com/2023/03/01/a-guided-tour-through-the-fi
 cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary?amp"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: GameInformer
@@ -26,64 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Inside the Game: The World of Sanctuary"
-    excerpt: "Join members of the Diablo IV development team as they take you on a tour of Sanctuary’s distinct Zones and danger-filled dungeons."
-    publishedDateTime: 2023-02-21T18:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23916443/diablo-iv-inside-the-game-the-world-of-sanctuary"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/4i/4IUIOPJQOYO01676668909133.png"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "Sanctuary’s renegade archangel returns—Pre-order the Diablo IV Inarius statue now"
-    excerpt: "Commemorate his divine quest with this all-new collectible."
-    publishedDateTime: 2023-02-22T00:14:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23917963/sanctuary-s-renegade-archangel-returns-pre-order-the-diablo-iv-inarius-statue-now"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 157
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WF0J7LXV8FL1677024846952.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New Diablo 4 Feature Shows off Sanctuary's Redesign"
-    excerpt: "Watch the video yourself above. Those who pre-order a copy of Diablo 4 will get to participate in two beta sessions in March. Those who pre-ordered one of the larger versions of the game, such as the ..."
-    publishedDateTime: 2023-02-22T18:48:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-sanctuary-redesign-video-revealed/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-sanctuary-redesign-video-revealed/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-sanctuary-redesign-video-revealed/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
-  - title: "Diablo 4 gameplay confirms the one thing that every videogame needs"
-    excerpt: "The new Diablo 4 gameplay footage gives us even more hope for the upcoming Blizzard RPG game. The world of Sanctuary looks fantastic. The dungeons are rich and varied. There are some terrifying new ..."
-    publishedDateTime: 2023-02-22T05:09:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/gameplay-sanctuary-blizzard-rpg-game"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-gameplay-blizzard-rpg-game-sanctuary.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 video takes a look inside the creation of Sanctuary"
     excerpt: "A new video for Diablo 4 has been released and it takes a dive into its design, the regions, and monstrous inhabitants of Sanctuary."
     publishedDateTime: 2023-02-22T08:34:00Z
@@ -95,20 +37,6 @@ related:
     quality: 87
     images:
       - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Check out the World of Sanctuary in this new Diablo 4 BTS video series"
-    excerpt: "Blizzard has published the first of its \"Inside the Game\" featurettes, a new video series to get you into the mood for ..."
-    publishedDateTime: 2023-02-26T09:13:00Z
-    webUrl: "https://www.eurogamer.net/check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo_header.jpg/BROK/thumbnail/1200x630/diablo_header.jpg"
         width: 1200
         height: 630
         isCached: true

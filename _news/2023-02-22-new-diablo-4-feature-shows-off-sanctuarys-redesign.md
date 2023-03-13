@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Inside the Game: The World of Sanctuary"
-    excerpt: "Join members of the Diablo IV development team as they take you on a tour of Sanctuary’s distinct Zones and danger-filled dungeons."
-    publishedDateTime: 2023-02-21T18:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23916443/diablo-iv-inside-the-game-the-world-of-sanctuary"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/4i/4IUIOPJQOYO01676668909133.png"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Sanctuary’s renegade archangel returns—Pre-order the Diablo IV Inarius statue now"
     excerpt: "Commemorate his divine quest with this all-new collectible."
     publishedDateTime: 2023-02-22T00:14:00Z
@@ -54,63 +40,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A Guided Tour Through The Five Regions Of Diablo 4's Sanctuary"
-    excerpt: "Here are snapshots of Kehjistan, Scosglen, Fractured Peaks, Dry Steppes, and Hawezar and information on what to expect in each."
-    publishedDateTime: 2023-03-01T07:13:00Z
-    webUrl: "https://www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary"
-    ampWebUrl: "https://www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary?amp"
-    cdnAmpWebUrl: "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary?amp"
+  - title: "Please, Resist the Urge to Pre-Order Diablo 4"
+    excerpt: "Blizzard recently announced that Diablo 4 is going to have two “open betas” next month. The first will be from March 17 to March 19, and the second will be from March 24 to March 26. Everyone will who ..."
+    publishedDateTime: 2023-02-25T04:00:00Z
+    webUrl: "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/"
     type: article
     provider:
-      name: GameInformer
-      domain: gameinformer.com
-    quality: 107
-    images:
-      - url: "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/02/28/7c1c912a/d4_gulraan_dry_steppes_art.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Diablo 4 gameplay confirms the one thing that every videogame needs"
-    excerpt: "The new Diablo 4 gameplay footage gives us even more hope for the upcoming Blizzard RPG game. The world of Sanctuary looks fantastic. The dungeons are rich and varied. There are some terrifying new ..."
-    publishedDateTime: 2023-02-22T05:09:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/gameplay-sanctuary-blizzard-rpg-game"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
     quality: 87
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-gameplay-blizzard-rpg-game-sanctuary.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 video takes a look inside the creation of Sanctuary"
-    excerpt: "A new video for Diablo 4 has been released and it takes a dive into its design, the regions, and monstrous inhabitants of Sanctuary."
-    publishedDateTime: 2023-02-22T08:34:00Z
-    webUrl: "https://www.vg247.com/diablo-4-video-takes-a-look-inside-the-creation-of-sanctuary"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Check out the World of Sanctuary in this new Diablo 4 BTS video series"
-    excerpt: "Blizzard has published the first of its \"Inside the Game\" featurettes, a new video series to get you into the mood for ..."
-    publishedDateTime: 2023-02-26T09:13:00Z
-    webUrl: "https://www.eurogamer.net/check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo_header.jpg/BROK/thumbnail/1200x630/diablo_header.jpg"
-        width: 1200
-        height: 630
+      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg"
+        width: 698
+        height: 289
         isCached: true
 
 secured: "wqvW7sR6R1s9OJg6xfnSbupIcUslaxMuD46VMVG5o97PHonEwtKk2sdDDConJ+SfLkdKQJ6FYmA+xfqSqYsnsKgrSTJII9gld/DnTLbt0ZgLXaciUhDYovdtpz8uxxPcM6qk2X/PHcbDpU3F7528ttaczzeu+4jWXGE8n6YhKpVJBPf+VGuLlKdqfuX51Rr5gLN38bPlK56BIyOpiN3CoXJ6DU+8tuqxO+pSnsgXv0Ll0gane+VYYG+84J93Jtvrvgk7ik+K/VKeSwebIP/1L2CL300Jsplc0FoAZIUjwPPya53ThQERbiw1dgMU2E4+opIYtXUysuSJQzS/WxubKXZKvaqQ5oSA0v0U4/4/yZk=;5d2XHv2kJsRuuRhBMGRXBQ=="
