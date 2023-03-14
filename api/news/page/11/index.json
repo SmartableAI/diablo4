@@ -2,6 +2,90 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4.md",
+      "title": "Offer your flesh as a tribute to get beta access to Diablo 4",
+      "excerpt": "Blizzard's Diablo Hell's Ink takeover event kicked off in Los Angeles on Saturday and will continue through September 10. During this time, fans can get a free Diablo tattoo. But this is getting huge ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4/index.json",
+      "webUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
+      "originalUrl": "https://www.levelup.com/en/news/688979/Offer-your-flesh-as-a-tribute-to-get-beta-access-to-Diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/751951/751951_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "levelup",
+        "domain": "levelup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-17-you-can-get-diablo-4-beta-access-with-a-permanent-flesh-mark.md",
+      "title": "You can get Diablo 4 beta access with a permanent flesh mark",
+      "excerpt": "Players taking part in the Diablo Hell’s Ink promotion to get a free flash tattoo are also being given Diablo 4 beta access and a free copy of the RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-17-you-can-get-diablo-4-beta-access-with-a-permanent-flesh-mark/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-access-tattoo-flesh-tribute.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-16T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood.md",
       "title": "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood",
       "excerpt": "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ...",
@@ -1018,99 +1102,6 @@
       "provider": {
         "name": "Eurogamer",
         "domain": "eurogamer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-will-be-updated-for-years-after-launch-including-with-story-expansions.md",
-      "title": "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions",
-      "excerpt": "Following the release of new gameplay for Diablo 4 at the Xbox Bethesda Game Showcase, franchise lead Rod Fergusson took to Twitter (below) to answer some fan questions regarding ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-will-be-updated-for-years-after-launch-including-with-story-expansions/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-updated-years-after-launch-story-expansions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-release-date-new-character-announced.md",
-      "title": "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!",
-      "excerpt": "diablo immortal gameplay,diablo immortal best class,diablo immortal necromancer,diablo immortal announcement,diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-release-date-new-character-announced/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-13-diablo-4-release-date-new-character-announced/",
-      "originalUrl": "https://youtube.com/watch?v=QSAc7Spkb-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSAc7Spkb-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T20:26:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StewGaming | Diablo Immortal",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

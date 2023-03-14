@@ -2,6 +2,90 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil.md",
+      "title": "Diablo 4 preview: A darker take on the devil",
+      "excerpt": "THERE is no release date for Diablo 4, but Blizzard has allowed press to see an early — and very limited — build of the game. After a week with this build, we’ve got a good idea of what the game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil/index.json",
+      "webUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
+      "originalUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/Barb_CharacterModel2.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
+      "publishedDateTime": "2022-12-07T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-diablo-4s-character-creator-does-just-enough.md",
+      "title": "Diablo 4’s character creator does just enough",
+      "excerpt": "You can customize your Barbarian and Necromancer beautifully, but only to a point Diablo 4 does character creation and customization better than any Diablo game to date, letting players design their ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4s-character-creator-does-just-enough/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-character-creator-does-just-enough/ar-AA151iGv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-character-creator-does-just-enough/ar-AA151iGv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151iGh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=656&y=159",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T01:32:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more.md",
       "title": "The Diablo 4 beta hasn’t convinced me yet, but I can’t wait to play more",
       "excerpt": "Diablo 4 has a hell of a challenge in front of it. Created against Activision Blizzard’s alleged toxic working culture, a team of developers has been tasked with aiding the ongoing resurrection of a gaming behemoth.",
@@ -991,90 +1075,6 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
-      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
-      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T02:42:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts.md",
-      "title": "Diablo 4 fans won't stop asking beta testers to break their Blizzard contracts",
-      "excerpt": "Fans keen for more Diablo 4 information are testing beta testers' commitments to their NDAs by asking questions about what they saw, just weeks after several players seemingly went against Blizzard's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5Mog5Bg9tsjknhxgyGU4eg-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

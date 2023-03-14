@@ -7,8 +7,8 @@ originalUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
 webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
 type: article
 quality: 127
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Game Rant
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "When does Diablo 4 Open Beta start?"
-    excerpt: "The Diablo 4 Open Beta runs from March 17-19 for pre-order customers, and March 24-26 for all other players. You’ll have access to the Prologue and Act 1 of Diablo 4, and be able to level up to 25."
-    publishedDateTime: 2023-03-13T17:53:00Z
-    webUrl: "https://www.windowscentral.com/gaming/pc-gaming/when-does-diablo-4-open-beta-start"
+  - title: "Diablo 4 Open Beta Dates, Early Access, And How To Get Into Beta"
+    excerpt: "You won't have long to wait to experience the terror of the Burning Hells in Diablo IV before the game officially launches in June."
+    publishedDateTime: 2023-03-14T08:54:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/V3WoShWjLAPF6Q2BhqyrrW-1200-80.jpg"
-        width: 960
-        height: 540
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."

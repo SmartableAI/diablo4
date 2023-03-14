@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-17-diablo-4-release-date-trailers-gameplay-and-news.md",
+      "title": "Diablo 4 release date, trailers, gameplay, and news",
+      "excerpt": "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-17-diablo-4-release-date-trailers-gameplay-and-news/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/diablo-4-release-date.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story.md",
+      "title": "The Pros and Cons of Skipping Diablo 4's Story",
+      "excerpt": "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities. Another pro is that skipping the story can also ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "originalUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-diablo-3-schedules-likely-final-season-before-diablo-4s-launch.md",
       "title": "Diablo 3 Schedules Likely Final Season Before Diablo 4's Launch",
       "excerpt": "Diablo 3 is passing the torch to Diablo 4, as Blizzard Entertainment announces what is likely to be the game's final season before the sequel officially becomes Diablo's flagship title.",
@@ -985,99 +1078,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
-      "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
-      "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153feB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=286",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game.md",
-      "title": "Diablo 4 Limited Collector's Edition Revealed, Doesn't Include The Game",
-      "excerpt": "Priced at $96.66, the Diablo 4 collector's edition does not include a copy of the game but does sport some killer mood lighting.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "publishedDateTime": "2022-12-15T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
