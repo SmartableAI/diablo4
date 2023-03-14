@@ -154,36 +154,6 @@
       "publishedDateTime": "2023-02-19T08:45:00-08:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power.md",
-      "title": "DIABLO 4 - BARBARIAN RESOURCE, MOBILITY, UTILITY LEGENDARY ASPECTS - Codex of Power",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource, Mobility, Utility Legendary Aspects you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/",
-      "originalUrl": "https://youtube.com/watch?v=z_03dGAzoEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_03dGAzoEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-09T04:53:33-08:00"
-    },
-    {
       "path": "_games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr.md",
       "title": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR)",
       "excerpt": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
@@ -304,67 +274,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-07T17:22:48-08:00"
-    },
-    {
-      "path": "_games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv.md",
-      "title": "DIABLO 4 BARBARIAN GAMEPLAY 9 MIN UNINTERRUPTED #DIABLO4 #diablo4gameplay #diabloiv",
-      "excerpt": "This is the Barbarian Gameplay displayed in the Open Beta Dev Live Stream in February 28th. This is 9 minutes of uninterrupted ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/",
-      "originalUrl": "https://youtube.com/watch?v=aaw-FZSTq3I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aaw-FZSTq3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "Rockerdad",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-28T15:16:56-08:00"
-    },
-    {
-      "path": "_games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review.md",
-      "title": "Diablo 4 - Barbarian, Druid Sorcerer Gameplay Review",
-      "excerpt": "I know those classes like my 3 fingers. First Barbarian - one who can carry big pot of hell's kitchen soup and is not afraid of no ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review/",
-      "originalUrl": "https://youtube.com/watch?v=ewGYngXmUEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ewGYngXmUEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M58S",
-      "provider": {
-        "name": "Ceburekas",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-28T16:03:34-08:00"
     },
     {
       "path": "_games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv.md",
@@ -643,6 +552,36 @@
       "publishedDateTime": "2022-12-08T05:00:00-08:00"
     },
     {
+      "path": "_games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv.md",
+      "title": "DIABLO 4 BARBARIAN GAMEPLAY 9 MIN UNINTERRUPTED #DIABLO4 #diablo4gameplay #diabloiv",
+      "excerpt": "This is the Barbarian Gameplay displayed in the Open Beta Dev Live Stream in February 28th. This is 9 minutes of uninterrupted ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/",
+      "originalUrl": "https://youtube.com/watch?v=aaw-FZSTq3I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aaw-FZSTq3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M4S",
+      "provider": {
+        "name": "Rockerdad",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-28T15:16:56-08:00"
+    },
+    {
       "path": "_games/arekkz-gaming-i-played-diablo-4-impressions-after-10-hours-of-gameplay-barbarian-mage-rogue.md",
       "title": "I Played Diablo 4! Impressions After 10 Hours of Gameplay - Barbarian, Mage & Rogue",
       "excerpt": "I had a chance to go hands on with Diablo 4 and check out the beginning of the game. In this Diablo IV demo build I got to test out ...",
@@ -761,6 +700,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-17T11:42:51-08:00"
+    },
+    {
+      "path": "_games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review.md",
+      "title": "Diablo 4 - Barbarian, Druid Sorcerer Gameplay Review",
+      "excerpt": "I know those classes like my 3 fingers. First Barbarian - one who can carry big pot of hell's kitchen soup and is not afraid of no ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review/",
+      "originalUrl": "https://youtube.com/watch?v=ewGYngXmUEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ewGYngXmUEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M58S",
+      "provider": {
+        "name": "Ceburekas",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-28T16:03:34-08:00"
     },
     {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
@@ -912,6 +882,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T12:24:26-07:00"
+    },
+    {
+      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M40S",
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-21T08:00:36-08:00"
     }
   ],
   "nextPage": 2
