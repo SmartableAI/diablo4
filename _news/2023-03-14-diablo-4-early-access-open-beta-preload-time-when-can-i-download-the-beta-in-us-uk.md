@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
+    excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
+    publishedDateTime: 2023-03-14T03:56:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-release-date-preload-blizzard-rpg-game-overwatch-wow.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 beta preload times - here's when the preload begins"
     excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19."
     publishedDateTime: 2023-03-14T05:22:00Z

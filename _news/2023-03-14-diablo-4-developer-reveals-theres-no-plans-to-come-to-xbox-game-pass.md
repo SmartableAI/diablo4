@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
-excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
-publishedDateTime: 2023-03-13T10:40:00Z
-originalUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
-webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+title: "Diablo 4 developer reveals there’s ‘no plans’ to come to Xbox Game Pass"
+excerpt: "THE general manager of the Diablo series has confirmed that there are ‘no plans’ to bring Diablo 4 to Xbox Game Pass. Diablo 4 is the long-awaited return to the series that saw its last new entry ..."
+publishedDateTime: 2023-03-14T02:55:00Z
+originalUrl: "https://www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/"
+webUrl: "https://www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/"
+ampWebUrl: "https://www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/amp/"
 type: article
-quality: 127
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/12/diablo-4-release-date-trailer-tga-2022-4-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -44,21 +42,19 @@ related:
         width: 1580
         height: 889
         isCached: true
-  - title: "Diablo 4 developer reveals there’s ‘no plans’ to come to Xbox Game Pass"
-    excerpt: "THE general manager of the Diablo series has confirmed that there are ‘no plans’ to bring Diablo 4 to Xbox Game Pass. Diablo 4 is the long-awaited return to the series that saw its last new entry ..."
-    publishedDateTime: 2023-03-14T02:55:00Z
-    webUrl: "https://www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/"
-    ampWebUrl: "https://www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/amp/"
+  - title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
+    excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
+    publishedDateTime: 2023-03-13T10:40:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 107
+      name: IGN
+      domain: ign.com
+    quality: 127
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/12/diablo-4-release-date-trailer-tga-2022-4-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 will not be on Game Pass day one says Blizzard"
     excerpt: "Although it may soon become a first party Xbox game, Blizzard claims there are no plans to bring Diablo 4 to Game Pass – day one or otherwise."
@@ -119,6 +115,6 @@ related:
         height: 315
         isCached: true
 
-secured: "7rFMCswGnK89Iw9XiuKVS8wTlQWHbfnE2+EUWIBPYi6GLJEgJm11QF+HVlDOSmp6vT4O69UB7jxS2eB7ZBhZlUuhEw5CPELb1cvj4UBZnGZ5Rcl/ikFs1wMOrwx/RrSe8cEl7Pj+RF1+x03sRemvG8hbgEA9kD4GaCZnXo4mEnBHKSI21QOKfWMFNd52INfrd/WjwfxNafPOU6/sWgP0whZLw6400PVDB5EBnYPJwkJHVSdMOvpQIbUjllb06b+bONCz3ZcSpgGQFNP5NHdcdsMF3P9xbFXKwFAMPSx84pxvqYofcihjiGScyCTkW4MT9nTVwQmOj1ubvlpNLb/vKsXWZhZkBjuV6lEveYivVSQ=;CYhB5M+zt/2Q+7LdFbkENg=="
+secured: "hLPL/m7dnrN2QDQoCS8Vt+D0TtgDXmLn2dRpF4KmGoM6t39T/+V3dsMWulqdxEX2fUOHv+Q1DbCYTLl7SL8Vuj/4O1mLdjckIr7vH+CGmJE4YlM8lryUHEJBryn/+iv6qFeE90woLPF8YC/mRIw1s38wOpqb5EJFPJWbVlzTHMc3l2EdmIHvmPIUn0F6qCyASM/v5ANVgK5PvThpBK8C2BwNLO0RP630WpQjPUz/PPsc8uIr4+wANEIzBW57S9s/xqQseAYUAkpm8uoXse8Fy7S3GMBFxWFAyKoih9IVAa2ezdrpmiznPdAyNO/GdLTI3jJagHG4+0bqbTDo42R+9bJRqs4l6IbkrfNeomX91i8=;FkEqBHdw/kCf7qhXe1r6Dw=="
 ---
 

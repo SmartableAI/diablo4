@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-14-diablo-4-beta-preload-times-heres-when-the-preload-begins.md",
-      "title": "Diablo 4 beta preload times - here's when the preload begins",
-      "excerpt": "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-14-diablo-4-beta-preload-times-heres-when-the-preload-begins/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-beta-preload-times/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-beta-preload-times/",
+      "path": "_news/2023-03-14-diablo-4-beta-preload-heres-how-to-access-blizzards-new-rpg-game.md",
+      "title": "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game",
+      "excerpt": "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-14-diablo-4-beta-preload-heres-how-to-access-blizzards-new-rpg-game/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/L4uWv9TP8ofRcvNGAn7Lwb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-release-date-preload-blizzard-rpg-game-overwatch-wow.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T22:22:00-07:00",
+      "publishedDateTime": "2023-03-13T20:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,7 +136,7 @@
       "originalUrl": "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -187,7 +187,7 @@
       "originalUrl": "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -457,7 +457,7 @@
       "originalUrl": "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
-excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
-publishedDateTime: 2023-03-13T10:40:00Z
-originalUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
-webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+title: "Blizzard Has \"No Plans\" To Launch Diablo 4 On Xbox Game Pass"
+excerpt: "Blizzard has confirmed it has \"no plans\" to launch Diablo 4 on Xbox Game Pass in the near future, as some might assume due to the Microsoft-Activision deal. Therefore, if you want to enjoy it on Xbox, ..."
+publishedDateTime: 2023-03-14T05:09:10Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-has-no-plans-to-launch-diablo-4-on-xbox-game-pass/ar-AA18BC1a"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-has-no-plans-to-launch-diablo-4-on-xbox-game-pass/ar-AA18BC1a"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TheGamer on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18C2HJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +39,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4111581-diablo4won%27tbeongamepass.jpg"
         width: 1580
         height: 889
+        isCached: true
+  - title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
+    excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
+    publishedDateTime: 2023-03-13T10:40:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 developer reveals there’s ‘no plans’ to come to Xbox Game Pass"
     excerpt: "THE general manager of the Diablo series has confirmed that there are ‘no plans’ to bring Diablo 4 to Xbox Game Pass. Diablo 4 is the long-awaited return to the series that saw its last new entry ..."
@@ -90,20 +100,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Blizzard Has \"No Plans\" To Launch Diablo 4 On Xbox Game Pass"
-    excerpt: "Blizzard has confirmed it has \"no plans\" to launch Diablo 4 on Xbox Game Pass in the near future, as some might assume due to the Microsoft-Activision deal. Therefore, if you want to enjoy it on Xbox, ..."
-    publishedDateTime: 2023-03-14T05:09:10Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-has-no-plans-to-launch-diablo-4-on-xbox-game-pass/ar-AA18BC1a"
-    type: article
-    provider:
-      name: TheGamer on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18C2HJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "'There are no plans!' Why Diablo 4 will not be released on XBox Games Pass"
     excerpt: "Diablo 4' will not be released on the XBox Games Pass anytime soon. © Provided by BANG Showbiz 'Diablo 4' (c) Activision Blizzard . The upcoming action role-playing game - which ..."
     publishedDateTime: 2023-03-14T03:00:00Z
@@ -119,6 +115,6 @@ related:
         height: 315
         isCached: true
 
-secured: "7rFMCswGnK89Iw9XiuKVS8wTlQWHbfnE2+EUWIBPYi6GLJEgJm11QF+HVlDOSmp6vT4O69UB7jxS2eB7ZBhZlUuhEw5CPELb1cvj4UBZnGZ5Rcl/ikFs1wMOrwx/RrSe8cEl7Pj+RF1+x03sRemvG8hbgEA9kD4GaCZnXo4mEnBHKSI21QOKfWMFNd52INfrd/WjwfxNafPOU6/sWgP0whZLw6400PVDB5EBnYPJwkJHVSdMOvpQIbUjllb06b+bONCz3ZcSpgGQFNP5NHdcdsMF3P9xbFXKwFAMPSx84pxvqYofcihjiGScyCTkW4MT9nTVwQmOj1ubvlpNLb/vKsXWZhZkBjuV6lEveYivVSQ=;CYhB5M+zt/2Q+7LdFbkENg=="
+secured: "+wbhDmgR1f1K8GxR4lccDQduPnXc0Ejt+l/zPIAJCZ9H1SJ1sgI7KMuj5FmZOJDI4gpY1NG7SzUVCjaAfToZ82n3XuU5xRuugSD5XxGxFHnPi7ZJG2sjkxvNJVi3xlOKs+J3jsWgHh1RQGjtj6gIyPf0GZ+EZw1vA+r7H+f59ceZu+ga5qtcCempjgC+D8Zvls8JQGXQzhc12/PMbYxexbi6DcSrTA0rf7y8W44OODG6Sxn9wKxlNutwI2JQWhlGGYBv50QUlDEDsLU4oKeYUZeKFvnGs8RCmjJ9E3P+GLVaSSnnUpt1kQsuffKfvgGoX87M6WDef3minqEgPDM3JSM6eep5Wq39bX35KOIJ7dE=;/Z6eFlwF8wlm6+x1MBng+Q=="
 ---
 

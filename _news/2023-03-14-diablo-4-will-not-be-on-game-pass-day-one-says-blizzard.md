@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
-excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
-publishedDateTime: 2023-03-13T10:40:00Z
-originalUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
-webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+title: "Diablo 4 will not be on Game Pass day one says Blizzard"
+excerpt: "Although it may soon become a first party Xbox game, Blizzard claims there are no plans to bring Diablo 4 to Game Pass – day one or otherwise."
+publishedDateTime: 2023-03-14T03:29:00Z
+originalUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/?ico=related-posts"
+webUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/?ico=related-posts"
+ampWebUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/amp/"
+cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/amp/"
 type: article
-quality: 127
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro
+  domain: metro.co.uk
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://metro.co.uk/wp-content/uploads/2022/12/MK668_comp_match_8khda_rgba_regular-214b.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -44,6 +42,20 @@ related:
         width: 1580
         height: 889
         isCached: true
+  - title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
+    excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
+    publishedDateTime: 2023-03-13T10:40:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 developer reveals there’s ‘no plans’ to come to Xbox Game Pass"
     excerpt: "THE general manager of the Diablo series has confirmed that there are ‘no plans’ to bring Diablo 4 to Xbox Game Pass. Diablo 4 is the long-awaited return to the series that saw its last new entry ..."
     publishedDateTime: 2023-03-14T02:55:00Z
@@ -59,22 +71,6 @@ related:
       - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/12/diablo-4-release-date-trailer-tga-2022-4-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo 4 will not be on Game Pass day one says Blizzard"
-    excerpt: "Although it may soon become a first party Xbox game, Blizzard claims there are no plans to bring Diablo 4 to Game Pass – day one or otherwise."
-    publishedDateTime: 2023-03-14T03:29:00Z
-    webUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/?ico=related-posts"
-    ampWebUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 107
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/12/MK668_comp_match_8khda_rgba_regular-214b.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
   - title: "Blizzard says there are \"no plans\" for Diablo 4 Game Pass launch"
     excerpt: "Diablo 4 on Game Pass? Don't hold your breath, as Blizzard has confirmed there are \"no plans\" for such a thing at the moment. Blizzard has given no indication that Diablo 4 would be a Game Pass game, ..."
@@ -119,6 +115,6 @@ related:
         height: 315
         isCached: true
 
-secured: "7rFMCswGnK89Iw9XiuKVS8wTlQWHbfnE2+EUWIBPYi6GLJEgJm11QF+HVlDOSmp6vT4O69UB7jxS2eB7ZBhZlUuhEw5CPELb1cvj4UBZnGZ5Rcl/ikFs1wMOrwx/RrSe8cEl7Pj+RF1+x03sRemvG8hbgEA9kD4GaCZnXo4mEnBHKSI21QOKfWMFNd52INfrd/WjwfxNafPOU6/sWgP0whZLw6400PVDB5EBnYPJwkJHVSdMOvpQIbUjllb06b+bONCz3ZcSpgGQFNP5NHdcdsMF3P9xbFXKwFAMPSx84pxvqYofcihjiGScyCTkW4MT9nTVwQmOj1ubvlpNLb/vKsXWZhZkBjuV6lEveYivVSQ=;CYhB5M+zt/2Q+7LdFbkENg=="
+secured: "VxDv8mpgAIv4eY8mkGEm2KRW5JEWx5Ja/q1+W2kuFqeroC5DAkCmvlX4+7KJYWuw0hg+08DeYtKGFkZ7HGb6J8voRbYAhWDJ95YrHdGjW39sDdJKZpm2htGjMGQ3xR22oWRrROVLOVHnX+6TJTTSV543mT5X7z4liGaoXpDiIedOwwM+eAM5zzEv344qV6mSUk+Fvwx8cK2g3/84UV8elyDbgS5bKyo7wjy9DAFMYZRKrW7HgRCWCiYX2G8a2MO8tfHRpmOE0gDiQdWu+bNLDdlo/yPdsf4m3B30vuRrROUVBKQBMLWbB6SZB2qfzk3EIMXBqEXktqN3lOd+wo0gsoqshksSJa5PN8Vr1+w6C5M=;Iwd6u8jXMSElSIPGB1tLgw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
 webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "When does Diablo 4 Open Beta start?"
+    excerpt: "The Diablo 4 Open Beta runs from March 17-19 for pre-order customers, and March 24-26 for all other players. You’ll have access to the Prologue and Act 1 of Diablo 4, and be able to level up to 25."
+    publishedDateTime: 2023-03-13T17:53:00Z
+    webUrl: "https://www.windowscentral.com/gaming/pc-gaming/when-does-diablo-4-open-beta-start"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/V3WoShWjLAPF6Q2BhqyrrW-1200-80.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z
