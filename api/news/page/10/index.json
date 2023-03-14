@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-18-diablo-iv-quarterly-updateaugust-2022.md",
+      "title": "Diablo IV Quarterly Update—August 2022",
+      "excerpt": "We’re back with another Diablo IV Quarterly Update, fresh from the Burning Hells! Join our development team as they introduce and elaborate on Diablo IV’s Seasons and Season Journeys.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-iv-quarterly-updateaugust-2022/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/a8/A88KX5PHSGB41660608957353.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content.md",
       "title": "Diablo 4 will have a season pass, cosmetic shop and years of post-release content",
       "excerpt": "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop.",
@@ -1033,48 +1084,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood.md",
-      "title": "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood",
-      "excerpt": "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
-      "originalUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2022/06/D4NecroHeader.png",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
-      "publishedDateTime": "2022-06-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
         "images": null,
         "publishers": null,
         "authors": null
