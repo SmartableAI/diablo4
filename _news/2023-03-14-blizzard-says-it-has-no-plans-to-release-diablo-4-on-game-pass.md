@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
-excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
-publishedDateTime: 2023-03-13T10:40:00Z
-originalUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
-webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+title: "Blizzard says it has \"no plans\" to release Diablo 4 on Game Pass"
+excerpt: "Fergusson said on Twitter the studio has been receiving questions regarding Diablo 4 on Game Pass, and he wants folks to know the studio has \"no plans for that.\" That may be the plan at present, but that could all change if the Microsoft acquisition of .."
+publishedDateTime: 2023-03-14T14:16:00Z
+originalUrl: "https://www.vg247.com/blizzard-says-it-has-no-plans-to-release-diablo-4-on-game-pass"
+webUrl: "https://www.vg247.com/blizzard-says-it-has-no-plans-to-release-diablo-4-on-game-pass"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: vg247
+  domain: vg247.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
-    width: 1280
-    height: 720
+  - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +39,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4111581-diablo4won%27tbeongamepass.jpg"
         width: 1580
         height: 889
+        isCached: true
+  - title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
+    excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
+    publishedDateTime: 2023-03-13T10:40:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 developer reveals there’s ‘no plans’ to come to Xbox Game Pass"
     excerpt: "THE general manager of the Diablo series has confirmed that there are ‘no plans’ to bring Diablo 4 to Xbox Game Pass. Diablo 4 is the long-awaited return to the series that saw its last new entry ..."
@@ -120,20 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Blizzard says it has \"no plans\" to release Diablo 4 on Game Pass"
-    excerpt: "Fergusson said on Twitter the studio has been receiving questions regarding Diablo 4 on Game Pass, and he wants folks to know the studio has \"no plans for that.\" That may be the plan at present, but that could all change if the Microsoft acquisition of .."
-    publishedDateTime: 2023-03-14T14:16:00Z
-    webUrl: "https://www.vg247.com/blizzard-says-it-has-no-plans-to-release-diablo-4-on-game-pass"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "'There are no plans!' Why Diablo 4 will not be released on XBox Games Pass"
     excerpt: "Diablo 4' will not be released on the XBox Games Pass anytime soon. © Provided by BANG Showbiz 'Diablo 4' (c) Activision Blizzard . The upcoming action role-playing game - which ..."
     publishedDateTime: 2023-03-14T03:00:00Z
@@ -149,6 +145,6 @@ related:
         height: 315
         isCached: true
 
-secured: "7rFMCswGnK89Iw9XiuKVS8wTlQWHbfnE2+EUWIBPYi6GLJEgJm11QF+HVlDOSmp6vT4O69UB7jxS2eB7ZBhZlUuhEw5CPELb1cvj4UBZnGZ5Rcl/ikFs1wMOrwx/RrSe8cEl7Pj+RF1+x03sRemvG8hbgEA9kD4GaCZnXo4mEnBHKSI21QOKfWMFNd52INfrd/WjwfxNafPOU6/sWgP0whZLw6400PVDB5EBnYPJwkJHVSdMOvpQIbUjllb06b+bONCz3ZcSpgGQFNP5NHdcdsMF3P9xbFXKwFAMPSx84pxvqYofcihjiGScyCTkW4MT9nTVwQmOj1ubvlpNLb/vKsXWZhZkBjuV6lEveYivVSQ=;CYhB5M+zt/2Q+7LdFbkENg=="
+secured: "Kpesnq+enW0byYIwFTjstfkbSRSJM+Q0nSreC5nbsf/ZkeS7iytUVHwxRp1s2dfKle34YKFmCH1caWv7BCZvrf2JIioxKaiFBjvMnhoLlanbZse37gSgwk5kxYfIYZ6QyS0JRQVLsOtCHP7XdNm1td3+NGovrOtQ6A0a36T0sL8CMqyZS61ksf+m/RfffcvFEzuSmK8W79tPJL/uzXGrRwvCjeKeFxzTs7qIazseHik4GSI05jzRkmdb1KYEdQST3i/1saG9Gd9aB8bgLYVg+RyWw9oRfcOXJS48vwTd1Xbrr/KL/7ZP4Q/4cW9afNYGm1NpT5r8cz3uo8Rj5YDX8l7llmslgVRsHwl9YJ/+JsE=;26fxRVr6W1cjvMeLPxbqUg=="
 ---
 

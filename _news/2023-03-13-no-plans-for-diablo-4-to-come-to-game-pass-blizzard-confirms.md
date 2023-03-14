@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
 type: article
 quality: 147
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18C2HJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Blizzard says it has \"no plans\" to release Diablo 4 on Game Pass"
+    excerpt: "Fergusson said on Twitter the studio has been receiving questions regarding Diablo 4 on Game Pass, and he wants folks to know the studio has \"no plans for that.\" That may be the plan at present, but that could all change if the Microsoft acquisition of .."
+    publishedDateTime: 2023-03-14T14:16:00Z
+    webUrl: "https://www.vg247.com/blizzard-says-it-has-no-plans-to-release-diablo-4-on-game-pass"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
         width: 1200
         height: 630
         isCached: true

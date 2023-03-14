@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/
 webUrl: "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/"
 type: article
 quality: 127
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14XCMW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=505&y=178"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
+    excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
+    publishedDateTime: 2023-03-14T15:43:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "Y5sbM/2kbEaEBiClvd+BTnT8cTxuvTvzs8PLpvno28mi1sc1QLSrwqdq08cZLsfjVzXvlrfMQ4zUlhIcSokyV/PgsLk6kvKi8oSqjpLcqAMlPyXYJQlEZ9yiCu2Pi2875WXgTj8MZnFy+6wZFeDu846j+IUdB1pX/LO09TSx7MMSg0kcyyMsmS5dt18a6h96r96Jb9Iexq0pY0HUt2UtD3mMpSfGY47nE+nConUO/ttbUJ3EPLyu4IfYKKJ3l68WmPIUnK5kNpmJUwliEgRpilveb28d8/pNb+XFWyvx6hAxTODwtR9lWwExa8YJfGsSCXtzBZoeGXnFXbU9PgADM4lH5x0024R+zT3+QLbJSq0=;t08vihcsEgrXuZ16r9LxQQ=="

@@ -130,6 +130,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard says it has \"no plans\" to release Diablo 4 on Game Pass"
+    excerpt: "Fergusson said on Twitter the studio has been receiving questions regarding Diablo 4 on Game Pass, and he wants folks to know the studio has \"no plans for that.\" That may be the plan at present, but that could all change if the Microsoft acquisition of .."
+    publishedDateTime: 2023-03-14T14:16:00Z
+    webUrl: "https://www.vg247.com/blizzard-says-it-has-no-plans-to-release-diablo-4-on-game-pass"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-new.jpg/BROK/thumbnail/1200x630/diablo-4-new.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Nl6sJPzfUEK0vFgGbXv8HEqqBajAw/5Z6Zn1HiQdrl5Njwpc4U2V2WeVuOG73EllFiCbeQEqieNmtAlYmrcDchgV8o5oVD6Vcxifr6db9JkSfJ5u0ZqfiCbYwO9mO8sFRoHWlITjwA4jaj0ka/3MarIymw4SIaTtM6gJUmvY0ILYIp/mFpfFAsQwZbIrbd95tXf0Pl+IWCtqeS/OJ5QNbRF1sPTW763BFFFbdEOg+YjKTIMij63GNE8Q7W+kMiBDi+h9eEgd4Lkax79I8pFAu9cDiYS2uxQ9dU1nx6DGDvo3wfdwuD3pXyy6cbaBl9MF2MRyTd3FQi6UR7TfNtQtd+vGFTmahZiokuuhyhJZpmo=;Pzp7dIbtaQNFNnbI+Iz3ww=="
 ---

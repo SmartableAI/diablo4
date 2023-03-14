@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Devs Have No Plans For Xbox Game Pass Release"
-excerpt: "A Diablo 4 developer confirms the game will not be released on Xbox Game Pass on day one. As we inch closer and closer to the first Diablo 4 beta this weekend, the developers have been sharing more ..."
-publishedDateTime: 2023-03-14T06:59:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-devs-have-no-plans-for-xbox-game-pass-release/ar-AA18BxX2"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-devs-have-no-plans-for-xbox-game-pass-release/ar-AA18BxX2"
+title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
+excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
+publishedDateTime: 2023-03-14T15:43:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
+webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: DualShockers on MSN
+  name: MSN
   domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14XCMW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=505&y=178"
-    width: 1200
-    height: 630
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -54,21 +54,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
-    excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
-    publishedDateTime: 2023-03-14T15:43:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
+  - title: "Diablo 4 Devs Have No Plans For Xbox Game Pass Release"
+    excerpt: "A Diablo 4 developer confirms the game will not be released on Xbox Game Pass on day one. As we inch closer and closer to the first Diablo 4 beta this weekend, the developers have been sharing more ..."
+    publishedDateTime: 2023-03-14T06:59:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-devs-have-no-plans-for-xbox-game-pass-release/ar-AA18BxX2"
     type: article
     provider:
-      name: MSN
+      name: DualShockers on MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
-        width: 600
-        height: 315
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14XCMW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=505&y=178"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "F2nrb7MP4i1KaataR/nAuJ12WgGwT4SePD2wGaKfKnGI9YjDTgN50hhlVkod2ae195VXftBO92e1gn+r8OHu6OLgLbh4k3IqX6dmkqUAEumQWQ9puV162n0wz2VmQ4HX02+dm2w5A4pACnc4/A9FuTY0a0/02oTsATkLrsYHQ7KXgZ/5tG29DCA4ck4nB/PAbqd9GLuokzmXvSE1JFTH1QsEdB70deUsatQ6aEXJdpS+6blRsalYAhy2RiaZXJZhmZzJaEFEr972ZpKWtkaLflMVdmAX9ilVPJdC6V7FbW7bvlLL5MvqAoh/aexdnMo9Gwd2z/Al+BnuGMlz6y9k6Ya0dZsGp3NMZVdgPOUf86Q=;BAiXCgQe6xhiweZACsgCpA=="
+secured: "UoZMwLVhP1XEK1mIYgBtb3pWZ+8k4VQGQANJFJ7RnH9KNA4EJcqFPphLY9z8pK/B4ch+3a78B/NUHHq2qAhyzmWrIe9tJd6eSnsHwCAyVZD4hGXHkZLeReyxgdmhA94cZefWLG2vqwhowgtbVw2nyerrb+51BRM9u8uFY1vl5y1ENnPqssmC4HJGRJ4tjA3ozVRiSEvwglUqm8mrRdtZBAd+5+HjEYDoBnD9gE64dCJf983DOFIkBhAJnEHyPMS4aQrfR7T7sQk1BGELYz09/K+Hw7hjJNonq2BB74ZWuPYWsQeO60QQLFcoOlo3FgBF3pc8dlsLyut7vCVZTNNQNEGWB/6EIlnyed2dRzSTyHE=;6IZ4xYGQM5lSSmFfvZ1t1w=="
 ---
 

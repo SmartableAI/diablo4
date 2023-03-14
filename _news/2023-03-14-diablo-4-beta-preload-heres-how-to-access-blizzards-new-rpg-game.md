@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Diablo 4 beta preload times - here's when the preload begins"
-    excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later ..."
-    publishedDateTime: 2023-03-14T05:14:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-beta-preload-times/"
+    excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. © Blizzard Entertainment null . The first Diablo 4 beta period, which is e"
+    publishedDateTime: 2023-03-14T05:14:28Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: GamesRadar on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/L4uWv9TP8ofRcvNGAn7Lwb-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Cc0z.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Diablo 4 Early Access open beta preload time – when can I download the beta in US, UK?"
     excerpt: "Diablo 4 Early Access beta preload time North America & US Diablo 4 Early Access beta preload time South America Diablo 4 Early Access beta preload time UK Diablo 4 Early Access beta preload time Europe Diablo 4 Early Access beta preload time Asia Diablo"

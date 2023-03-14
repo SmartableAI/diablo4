@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
+    excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
+    publishedDateTime: 2023-03-14T15:43:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "e76rqGeEZAzp4NM5bc20bUaKLeRJKk+gREjvI0k2fWoFyCfsxH/CMHGYkZWzU5AD4zFiGRsXAEEZhs3u3KysmN3bUjFmJBnebw4GQOmAZv1+Gom3lHk1k1BILK+5eYaZ4yW/euYyIfwAWfndJw8PSdiBAkTfg+8NE9BWbnBper1/7mu/krsySf3op+c/vWeSOMduqFCZ2Nyhm9/gNl2rSwVhk7ljB8smqU9IVkmWvUygN4xqzN4F13wZueGdY/2zKdDZYPFbg9+Gyjf2hZoFH7gFaqexvDJoyjv8xsdNUBYPeMKc0gRTYo+6sxsV4yXRvEsRS10wJ7XZQTqkT2IzAO8DEBRIuuder1kjguY2FHE=;CnBMyN340+6Zh+33MeUjLg=="
 ---
