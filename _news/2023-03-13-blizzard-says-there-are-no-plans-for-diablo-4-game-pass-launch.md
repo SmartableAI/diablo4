@@ -86,6 +86,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Diablo 4 lead says there are currently 'no plans' to be on Xbox Game Pass"
+    excerpt: "Diablo franchise general manager Rod Fergusson said ahead of the Diablo 4 beta this week that there are currently “no plans” for the game on Xbox Game Pass. With Microsoft’s acquisition of Activision Blizzard very close at hand, questions continue ."
+    publishedDateTime: 2023-03-14T09:52:00Z
+    webUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass"
+    ampWebUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 106
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2023/03/diablo-4-lead-says-there-are-currently-no-plans-to-be-on-xbox-game-pass-tweet.jpg"
+        width: 592
+        height: 204
+        isCached: true
   - title: "Blizzard Has \"No Plans\" To Launch Diablo 4 On Xbox Game Pass"
     excerpt: "Blizzard has confirmed it has \"no plans\" to launch Diablo 4 on Xbox Game Pass in the near future, as some might assume due to the Microsoft-Activision deal. Therefore, if you want to enjoy it on Xbox, ..."
     publishedDateTime: 2023-03-14T05:09:10Z

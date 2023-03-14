@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Blizzard Has \"No Plans\" To Launch Diablo 4 On Xbox Game Pass"
-excerpt: "Blizzard has confirmed it has \"no plans\" to launch Diablo 4 on Xbox Game Pass in the near future, as some might assume due to the Microsoft-Activision deal. Therefore, if you want to enjoy it on Xbox, ..."
-publishedDateTime: 2023-03-14T05:09:10Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-has-no-plans-to-launch-diablo-4-on-xbox-game-pass/ar-AA18BC1a"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-has-no-plans-to-launch-diablo-4-on-xbox-game-pass/ar-AA18BC1a"
+title: "Diablo 4 lead says there are currently 'no plans' to be on Xbox Game Pass"
+excerpt: "Diablo franchise general manager Rod Fergusson said ahead of the Diablo 4 beta this week that there are currently “no plans” for the game on Xbox Game Pass. With Microsoft’s acquisition of Activision Blizzard very close at hand, questions continue ."
+publishedDateTime: 2023-03-14T09:52:00Z
+originalUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass"
+webUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass"
+ampWebUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass?amphtml=1"
 type: article
-quality: 87
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: TheGamer on MSN
-  domain: msn.com
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18C2HJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2023/03/diablo-4-lead-says-there-are-currently-no-plans-to-be-on-xbox-game-pass-tweet.jpg"
+    width: 592
+    height: 204
     isCached: true
 
 related:
@@ -86,22 +88,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Diablo 4 lead says there are currently 'no plans' to be on Xbox Game Pass"
-    excerpt: "Diablo franchise general manager Rod Fergusson said ahead of the Diablo 4 beta this week that there are currently “no plans” for the game on Xbox Game Pass. With Microsoft’s acquisition of Activision Blizzard very close at hand, questions continue ."
-    publishedDateTime: 2023-03-14T09:52:00Z
-    webUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass"
-    ampWebUrl: "https://www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134585/diablo-4-rod-fergusson-no-plans-for-xbox-game-pass?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 106
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2023/03/diablo-4-lead-says-there-are-currently-no-plans-to-be-on-xbox-game-pass-tweet.jpg"
-        width: 592
-        height: 204
-        isCached: true
   - title: "Blizzard says there are \"no plans\" for Diablo 4 Game Pass launch"
     excerpt: "Diablo 4 on Game Pass? Don't hold your breath, as Blizzard has confirmed there are \"no plans\" for such a thing at the moment. Blizzard has given no indication that Diablo 4 would be a Game Pass game, ..."
     publishedDateTime: 2023-03-13T22:32:00Z
@@ -115,6 +101,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/YpmLI3I6wB0ampECssLnuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d226590b9dea18180b69f1aac9c2c062"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Blizzard Has \"No Plans\" To Launch Diablo 4 On Xbox Game Pass"
+    excerpt: "Blizzard has confirmed it has \"no plans\" to launch Diablo 4 on Xbox Game Pass in the near future, as some might assume due to the Microsoft-Activision deal. Therefore, if you want to enjoy it on Xbox, ..."
+    publishedDateTime: 2023-03-14T05:09:10Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/blizzard-has-no-plans-to-launch-diablo-4-on-xbox-game-pass/ar-AA18BC1a"
+    type: article
+    provider:
+      name: TheGamer on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18C2HJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'There are no plans!' Why Diablo 4 will not be released on XBox Games Pass"
     excerpt: "Diablo 4' will not be released on the XBox Games Pass anytime soon. © Provided by BANG Showbiz 'Diablo 4' (c) Activision Blizzard . The upcoming action role-playing game - which ..."
@@ -131,6 +131,6 @@ related:
         height: 315
         isCached: true
 
-secured: "+wbhDmgR1f1K8GxR4lccDQduPnXc0Ejt+l/zPIAJCZ9H1SJ1sgI7KMuj5FmZOJDI4gpY1NG7SzUVCjaAfToZ82n3XuU5xRuugSD5XxGxFHnPi7ZJG2sjkxvNJVi3xlOKs+J3jsWgHh1RQGjtj6gIyPf0GZ+EZw1vA+r7H+f59ceZu+ga5qtcCempjgC+D8Zvls8JQGXQzhc12/PMbYxexbi6DcSrTA0rf7y8W44OODG6Sxn9wKxlNutwI2JQWhlGGYBv50QUlDEDsLU4oKeYUZeKFvnGs8RCmjJ9E3P+GLVaSSnnUpt1kQsuffKfvgGoX87M6WDef3minqEgPDM3JSM6eep5Wq39bX35KOIJ7dE=;/Z6eFlwF8wlm6+x1MBng+Q=="
+secured: "buv594O8N5HOmPqkiO6evdWKE1IAqwBpHZNJoNZwFZWrl4D3yoAOKCoT5Xbhcr1lG0igVrTY4s6NymbqASLUkFp2gvJ8cKMQNLm4Uy++NGsKxIIy10jkf9mdroecAhIueaXySDWNj1N5uN78UPt4P7cZxiX9/APjNLwM/oMNR2CWKzT+Apc6Q6y1dSKiPeRfT7X7sdISTdijD4iTP9pK1QybG3h10tF/VZ/zv8kn1PtrMhY8JkhRRmtFj3YHw3zX7uDYYG0T9D0Xpi89Khjn3SLK8qoU3c4bVNVaw3xbq2KchTjRV3galIObkTNkORP3OeMRp6toIpTspP0rWd15Ko2USyVPzK4vTfJHclQwHTQ=;hTHKPXjYzby+DBknY3URzA=="
 ---
 

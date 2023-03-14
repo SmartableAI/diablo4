@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Diablo 4 beta preload times - here's when the preload begins"
-excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19."
-publishedDateTime: 2023-03-14T05:22:00Z
+excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later ..."
+publishedDateTime: 2023-03-14T05:14:00Z
 originalUrl: "https://www.gamesradar.com/diablo-4-beta-preload-times/"
 webUrl: "https://www.gamesradar.com/diablo-4-beta-preload-times/"
 type: article
@@ -53,6 +53,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "SHgMDIJk3i/O+cEXUugBhego6eYRqi8fqzbXDaKSOjVdaTDt5nYqKEMxciid6OehcgRrKXqCyiqo5mOnebz62eBgKG6a0vK3uonbaSbTWdXfLCFv/Xdm2PQnYkd3Od/M2lb8GI+EY2VwWYYIrMlDcDiFnsA2KkZZCXLnsTdjNdvDt1G5YKGDg7S5VcQ9z+hEv7EUGDxiWXzdaeSgRxE777aIwwgEqGD4MhwwS2u9BkAx7tsgzMykxW2JpKjRbADwzXYL8Wde78BBLeHpkBxNHP5n2sS4RSl+36dZEZ/ldpUGUE0eWkQKHugVNozUpjfFWM020FFAlf1bBAxNhF8dz0rrqe1to8pJ3VB8rZjbdaM=;Cf+QOnmQ52A0aDwGisWcaQ=="
+secured: "BFCS5guWqm7YCJvom7LB6UYeSYzK9wr5rZenEOfdqFXNWM/1YfglV0XufT0GXTPev6YzWMf1ELK6xsXqz3jxSB1i6Fc2joyuRqVQ65r3KdfOOOm2EEbfbG3W81bx2/jb03HVUNq/JvdHB+MtmVh+laAKRfEEMkxe+tOcnJ+mxKQ3pEY8NkGzZx2KTpT1A956F3G5/S5adoMHH2QWX0eKuwKImkeGK3ffWB508b9qY5oi7asfuMllJ5ptLEeZCXtrjiRqvICCGZ/E+CrjxzX8dxz7s9WHvCp0C8ZPFd4f4/q80uabQqcRjzYUJm8ROX66yVEsANx6BJwFLFRK6eMGQS1Se7EGUo6XONjMSknoRIg=;X33xKVq5tn0UwCwd+uTYaw=="
 ---
 
