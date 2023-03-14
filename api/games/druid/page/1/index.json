@@ -154,14 +154,14 @@
       "publishedDateTime": "2023-03-12T10:50:33-07:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=jTEL7Umaq1o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jTEL7Umaq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M56S",
+      "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=et_uaOBTseg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/et_uaOBTseg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M34S",
       "provider": {
         "name": "Barricade TTV",
         "domain": "youtube.com"
@@ -181,7 +181,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:25-08:00"
+      "publishedDateTime": "2023-01-10T08:47:30-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
+      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-30T17:00:12-08:00"
     },
     {
       "path": "_games/g7js-vortex-diablo-4-druid-class-preview-by-fextralife.md",
@@ -881,36 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
-    },
-    {
-      "path": "_games/justin-diablo-4-druid-gameplay.md",
-      "title": "Diablo 4 Druid gameplay",
-      "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/justin-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=MbzOPWjk9GE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M41S",
-      "provider": {
-        "name": "Justin",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-01T22:53:54-07:00"
     }
   ],
   "nextPage": 2

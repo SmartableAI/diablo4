@@ -394,36 +394,6 @@
       "publishedDateTime": "2023-03-01T06:30:28-08:00"
     },
     {
-      "path": "_games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics.md",
-      "title": "Diablo 4 Barbarian Class Overview - Skills, Abilities, New Mechanics!",
-      "excerpt": "In this video I show you an overview of the barbarian class for the upcoming open world ARPG, Diablo 4. We go over skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/",
-      "originalUrl": "https://youtube.com/watch?v=g-gB1VSyDpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-gB1VSyDpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Warlug",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-17T11:42:51-08:00"
-    },
-    {
       "path": "_games/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4.md",
       "title": "Master the Elements! Top 5 Reasons to Play the Sorceress in Diablo 4",
       "excerpt": "Master the Elements! Top 5 Reasons to Play the Sorceress in Diablo 4 00:00 Intro 00:18 Huge AOE 00:40 Mobility 01:03 Crowd ...",
@@ -454,14 +424,14 @@
       "publishedDateTime": "2023-03-07T05:00:24-08:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - DRUID RESOURCE, UTILITY LEGENDARY ASPECTS - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource and Utility Legendary Aspects you can ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-druid-resource-utility-legendary-aspects-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=jTEL7Umaq1o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jTEL7Umaq1o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M56S",
+      "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=et_uaOBTseg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/et_uaOBTseg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M34S",
       "provider": {
         "name": "Barricade TTV",
         "domain": "youtube.com"
@@ -481,7 +451,37 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-10T08:47:25-08:00"
+      "publishedDateTime": "2023-01-10T08:47:30-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Debilitating Roar Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-debilitating-roar-ability/",
+      "originalUrl": "https://youtube.com/watch?v=ij0lb23wc48",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ij0lb23wc48\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-30T17:00:12-08:00"
     },
     {
       "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
