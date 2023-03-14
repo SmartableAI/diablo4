@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/
 webUrl: "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 on Xbox Game Pass? Blizzard speaks about it"
+    excerpt: "But a definitive ruling won’t arrive in time for the launch of Diablo IV, one of the most anticipated video games of 2023. The title developed by Blizzard Entertainment will reach all major systems except Nintendo Switch, but will it be released on Xbox"
+    publishedDateTime: 2023-03-14T13:26:00Z
+    webUrl: "https://en.as.com/meristation_en/2023/03/14/news/1678818835_656410.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2023/03/14/news/1678818835_656410.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2023/03/14/news/1678818835_656410.amp.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 107
+    images:
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2023/03/14/news/1678818835_656410_1678818918_portada_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 Devs Have No Plans For Xbox Game Pass Release"
     excerpt: "A Diablo 4 developer confirms the game will not be released on Xbox Game Pass on day one. As we inch closer and closer to the first Diablo 4 beta this weekend, the developers have been sharing more ..."
     publishedDateTime: 2023-03-14T06:59:00Z

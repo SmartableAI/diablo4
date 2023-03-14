@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘Diablo 4’ beta start date and Early Access requirements"
-    excerpt: "Diablo 4 is coming out later this year, and will have a brief open beta period before it launches. This open beta will give all players the chance to try out the game’s Prologue and Act 1 ..."
-    publishedDateTime: 2023-02-23T04:39:00Z
-    webUrl: "https://www.nme.com/guides/gaming-guides/diablo-4-beta-start-date-times-early-access-3403331"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 87
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/12/Diablo-4-inarius.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
     excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
     publishedDateTime: 2023-02-28T14:06:12Z
