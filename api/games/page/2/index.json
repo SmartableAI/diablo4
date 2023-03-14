@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4.md",
-      "title": "Master the Elements! Top 5 Reasons to Play the Sorceress in Diablo 4",
-      "excerpt": "Master the Elements! Top 5 Reasons to Play the Sorceress in Diablo 4 00:00 Intro 00:18 Huge AOE 00:40 Mobility 01:03 Crowd ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=MQmzrPcx_2s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MQmzrPcx_2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M49S",
-      "provider": {
-        "name": "Pyrozy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-07T05:00:24-08:00"
-    },
-    {
       "path": "_games/rockerdad-druid-gameplay-diablo-4.md",
       "title": "DRUID GAMEPLAY DIABLO 4",
       "excerpt": "This channel needs your support! LIKE the VIDEOS. SHARE THEM. SUBSCRIBE. COMMENT! Join our Discord Server!",
@@ -122,6 +92,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
+    },
+    {
+      "path": "_games/g7js-vortex-diablo-4-sorceress-class-preview-by-fextralife.md",
+      "title": "Diablo 4 Sorceress Class preview by FextraLIfe.",
+      "excerpt": "Quick look at one of the five playable classes in Blizzard Entertainment much beloved and anticipated A-RPG - DIABLO IV. Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/g7js-vortex-diablo-4-sorceress-class-preview-by-fextralife/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/g7js-vortex-diablo-4-sorceress-class-preview-by-fextralife/",
+      "originalUrl": "https://youtube.com/watch?v=szXGdv8K4Q0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/szXGdv8K4Q0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M50S",
+      "provider": {
+        "name": "G7J's Vortex",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-07T13:03:43-08:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
@@ -820,6 +820,36 @@
       "publishedDateTime": "2022-12-18T09:00:21-08:00"
     },
     {
+      "path": "_games/beefguyty-diablo-4-druid-bearform-pulverize-ability.md",
+      "title": "Diablo 4 Druid BEARFORM Pulverize Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-pulverize-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-pulverize-ability/",
+      "originalUrl": "https://youtube.com/watch?v=UIvIjHe-H2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIvIjHe-H2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-25T09:00:21-08:00"
+    },
+    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -878,36 +908,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-23T10:06:33-07:00"
-    },
-    {
-      "path": "_games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you.md",
-      "title": "Diablo 4 SORCERESS: 5 POTENTIAL BUILDS FOR YOU!",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Sorceress 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=4Z3rnnj3lbI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z3rnnj3lbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M11S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-07T09:00:03-08:00"
     }
   ],
   "nextPage": 3

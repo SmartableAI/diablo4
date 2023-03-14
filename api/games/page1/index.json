@@ -214,36 +214,6 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits.md",
-      "title": "Diablo 4 Barbarian Overview: Is This Class For You? (Gameplay, Skills, Traits)",
-      "excerpt": "As a returning staple to the Diablo franchise, the Barbarian is the poster child of overwhelming strength, brutality, and weapon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/",
-      "originalUrl": "https://youtube.com/watch?v=0OYzKWezzbE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0OYzKWezzbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M52S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 239,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-07T13:15:00-08:00"
-    },
-    {
       "path": "_games/rizarjay-druid-class-mechanic-revealed-new-details-about-the-diablo-iv-open-beta.md",
       "title": "Druid Class Mechanic Revealed & New Details about the Diablo IV Open Beta",
       "excerpt": "The Diablo IV Developers did a Twitter Spaces livestream and answered more questions from Diablo fans! Who else is getting ...",
@@ -272,6 +242,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-06T22:16:29-08:00"
+    },
+    {
+      "path": "_games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits.md",
+      "title": "Diablo 4 Barbarian Overview: Is This Class For You? (Gameplay, Skills, Traits)",
+      "excerpt": "As a returning staple to the Diablo franchise, the Barbarian is the poster child of overwhelming strength, brutality, and weapon ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/",
+      "originalUrl": "https://youtube.com/watch?v=0OYzKWezzbE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0OYzKWezzbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M52S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 214,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-07T13:15:00-08:00"
     },
     {
       "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
@@ -364,36 +364,6 @@
       "publishedDateTime": "2023-03-12T10:50:33-07:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-bearform-pulverize-ability.md",
-      "title": "Diablo 4 Druid BEARFORM Pulverize Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-pulverize-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-pulverize-ability/",
-      "originalUrl": "https://youtube.com/watch?v=UIvIjHe-H2E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIvIjHe-H2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-25T09:00:21-08:00"
-    },
-    {
       "path": "_games/the-comeback-kids-diablo-4-barbarian-is-insane.md",
       "title": "Diablo 4 Barbarian is INSANE!",
       "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
@@ -424,21 +394,51 @@
       "publishedDateTime": "2023-02-19T08:45:00-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-bearform-trample-ability.md",
-      "title": "Diablo 4 Druid BEARFORM Trample Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-bearform-trample-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform-trample-ability/",
-      "originalUrl": "https://youtube.com/watch?v=LrqHIpyz3Wo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LrqHIpyz3Wo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6S",
+      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
+      "title": "DIABLO 4 DRUID GAMEPLAY",
+      "excerpt": "found it and wanted to share it :)",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M21S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "ImActuallyAFK",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Druid"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-18T04:00:29-08:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power.md",
+      "title": "DIABLO 4 - BARBARIAN RESOURCE, MOBILITY, UTILITY LEGENDARY ASPECTS - Codex of Power",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource, Mobility, Utility Legendary Aspects you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/",
+      "originalUrl": "https://youtube.com/watch?v=z_03dGAzoEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_03dGAzoEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M15S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
       ],
       "heat": 110,
       "images": [
@@ -451,7 +451,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-01T17:00:12-08:00"
+      "publishedDateTime": "2023-01-09T04:53:33-08:00"
     },
     {
       "path": "_games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr.md",
@@ -542,36 +542,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-12T05:52:50-07:00"
-    },
-    {
-      "path": "_games/g7js-vortex-diablo-4-sorceress-class-preview-by-fextralife.md",
-      "title": "Diablo 4 Sorceress Class preview by FextraLIfe.",
-      "excerpt": "Quick look at one of the five playable classes in Blizzard Entertainment much beloved and anticipated A-RPG - DIABLO IV. Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/g7js-vortex-diablo-4-sorceress-class-preview-by-fextralife/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/g7js-vortex-diablo-4-sorceress-class-preview-by-fextralife/",
-      "originalUrl": "https://youtube.com/watch?v=szXGdv8K4Q0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/szXGdv8K4Q0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M50S",
-      "provider": {
-        "name": "G7J's Vortex",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-07T13:03:43-08:00"
     },
     {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
@@ -905,6 +875,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-06T19:44:08-08:00"
+    },
+    {
+      "path": "_games/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4.md",
+      "title": "Master the Elements! Top 5 Reasons to Play the Sorceress in Diablo 4",
+      "excerpt": "Master the Elements! Top 5 Reasons to Play the Sorceress in Diablo 4 00:00 Intro 00:18 Huge AOE 00:40 Mobility 01:03 Crowd ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/pyrozy-master-the-elements-top-5-reasons-to-play-the-sorceress-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=MQmzrPcx_2s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MQmzrPcx_2s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M49S",
+      "provider": {
+        "name": "Pyrozy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-07T05:00:24-08:00"
     }
   ],
   "nextPage": 2
