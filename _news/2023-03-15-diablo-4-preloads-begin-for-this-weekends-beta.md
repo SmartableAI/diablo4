@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Diablo 4 preloading for the early access beta has started"
-excerpt: "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ..."
-publishedDateTime: 2023-03-15T11:04:00Z
-originalUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
-webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
+title: "Diablo 4 Preloads Begin for This Weekend's Beta"
+excerpt: "Blizzard has officially opened up pre-loading for Diablo 4's upcoming limited-access beta test, allowing players to download in preparation for the event's start. Diablo 4's official launch is still months away, but Diablo fans will be receiving their ..."
+publishedDateTime: 2023-03-15T13:02:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preloads-begin-for-this-weekend-s-beta/ar-AA18FRaa"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preloads-begin-for-this-weekend-s-beta/ar-AA18FRaa"
 type: article
-quality: 127
-heat: 247
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FRa5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 672
+    height: 630
     isCached: true
 
 related:
+  - title: "Diablo 4 preloading for the early access beta has started"
+    excerpt: "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ..."
+    publishedDateTime: 2023-03-15T11:04:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
     excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
     publishedDateTime: 2023-03-14T03:56:00Z
@@ -70,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Preloads Begin for This Weekend's Beta"
-    excerpt: "Blizzard has officially opened up pre-loading for Diablo 4's upcoming limited-access beta test, allowing players to download in preparation for the event's start. Diablo 4's official launch is still months away, but Diablo fans will be receiving their ..."
-    publishedDateTime: 2023-03-15T13:02:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preloads-begin-for-this-weekend-s-beta/ar-AA18FRaa"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FRa5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
     excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
     publishedDateTime: 2023-03-15T10:52:00Z
@@ -113,6 +109,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "vBdbdwpfGVqn4FEAm2vUhIZKSBAScTE/FTdgroW+OvypG4+nk45Dt4dQ4EYHNfr5tSTsAJ9dzstAexk+HvY/GcGn4c2M4dtbUxx4LpUPY8AEWQmQmEvMMc3DKCP/TNL1P7tYaks2mtq5xCQZIgfpNHAmi1Z0UW2KdSwupek1kWR4w72U1+zcbTFipVvHlUaVlLOyZtKp9wj12qgml8rcRjU3KVHwJMkTSLfSzmS8+KqHmov0yHWIv/kIyFoGu0rlyyTn7qoqf21UsCNNXaSOzjXkCEUZ+gkkVCZ+RUlS/lmCY64/WxiDaKUZzeBF7Lzo+UoYxgrwi1Aq9RIesNwFoU9WTQeFB+yK/V/5AgYtzeA=;dKthdr7X4Z13Y7CDN/y1wQ=="
+secured: "dzkhqxbaA8vDrLM6iA4J86/T88KbaMGGYvvRks6Fl5lQuwJRiQDbtRcuAflSexnUaER5tsCDzDpp/rSYAxP2FanXwEnJeva4VzNjW8aaL1sa+pw9hC+eo5r0i0/IgCPUEfV/NVm7eqZF6W/Ld1dODRcDkFMeSuGuhkYJB47AC+jIq+ObWaZ1s/HSGRYvTU8qq8tIrRkqEWwaiS+jlBARLtRogl7F3ymULdWiibrYym5bA3zVsDYvULX9biOyKQIh7hIl186gdG2lQEJ8Et0DLHK6Q0FEzdIkZXFxFxiV9lYDtkNFr9RvOPRpYdyrywm7RFwwhMZP37gXVTcqI63ENeO/gNtikBcNBBtZj9Tqnkg=;7i6tYZonHfFd7B6Mz+bDeg=="
 ---
 

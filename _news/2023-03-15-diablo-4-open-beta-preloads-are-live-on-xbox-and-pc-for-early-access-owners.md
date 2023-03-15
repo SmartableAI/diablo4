@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Preloads Begin for This Weekend's Beta"
+    excerpt: "Blizzard has officially opened up pre-loading for Diablo 4's upcoming limited-access beta test, allowing players to download in preparation for the event's start. Diablo 4's official launch is still months away, but Diablo fans will be receiving their ..."
+    publishedDateTime: 2023-03-15T13:02:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preloads-begin-for-this-weekend-s-beta/ar-AA18FRaa"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FRa5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Early Access open beta preload time – when can I download the beta in US, UK?"
     excerpt: "Diablo 4 Early Access beta preload time North America & US Diablo 4 Early Access beta preload time South America Diablo 4 Early Access beta preload time UK Diablo 4 Early Access beta preload time Europe Diablo 4 Early Access beta preload time Asia Diablo"
     publishedDateTime: 2023-03-14T05:07:00Z

@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Preloads Begin for This Weekend's Beta"
+    excerpt: "Blizzard has officially opened up pre-loading for Diablo 4's upcoming limited-access beta test, allowing players to download in preparation for the event's start. Diablo 4's official launch is still months away, but Diablo fans will be receiving their ..."
+    publishedDateTime: 2023-03-15T13:02:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-preloads-begin-for-this-weekend-s-beta/ar-AA18FRaa"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FRa5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
     excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
     publishedDateTime: 2023-03-15T10:52:00Z
