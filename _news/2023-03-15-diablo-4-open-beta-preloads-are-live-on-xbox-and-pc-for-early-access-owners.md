@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
-excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
-publishedDateTime: 2023-03-14T03:56:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
-webUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
+title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
+excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
+publishedDateTime: 2023-03-15T10:52:00Z
+originalUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
+webUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
 type: article
-quality: 87
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-release-date-preload-blizzard-rpg-game-overwatch-wow.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
+    width: 1200
+    height: 668
     isCached: true
 
 related:
@@ -37,6 +37,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
+    excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
+    publishedDateTime: 2023-03-14T03:56:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-release-date-preload-blizzard-rpg-game-overwatch-wow.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 beta preload times - here's when the preload begins"
     excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19 ..."
@@ -66,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
-    excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
-    publishedDateTime: 2023-03-15T10:52:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 85
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "Diablo 4 Early Access open beta preload time – when can I download the beta in US, UK?"
     excerpt: "Diablo 4 Early Access beta preload time North America & US Diablo 4 Early Access beta preload time South America Diablo 4 Early Access beta preload time UK Diablo 4 Early Access beta preload time Europe Diablo 4 Early Access beta preload time Asia Diablo"
     publishedDateTime: 2023-03-14T05:07:00Z
@@ -95,6 +95,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "PMth2HOw36o/TPC/123Q+f9hkgAfkRjT1+/DUJHC8K2GyY1XEQwxbKm3wo5XWuFZvxWZUFVNFceZK3lJ3R+ELyxweliPGj9G1ZoXR+jjiKr2iLn556fg8sHSe6Jb8dhy7CMlF5Ul6oAtv87LXcDuAuEIsyTDI5jLPSa+3z6UWSM5HAnTFgYIQ+WEZpo5WdQzar474zuDbNUl8NzmVpVLQ0Tm7Bw5FWoPtHg6p7pLWdUmBdROpCMqFf3RNF7F0iBcFnsvZGIRsEi5IFBptwF0c+f1Y29TfE0DTf9BkOcqZkEKEeHKosdwOAp46Hw6sbT0WYTcDHQdsFdvGM+rM0XOfjGys/l3MOZTbt/ghHv03vs=;1cWe+DnygS5G8n1VVHVhlA=="
+secured: "oODRQVlyzalZEmzA4MLnEU0jxiT41LxoVBqqemlu/cjy6L3mgr6LCS4g+17LVoSo2cOjZLbdvpwCDI7tO2RGqdEacyoDElwj73dAumUvQbS3Tm/fcLdeQfr3/a4NxOc8Hd5t5ChD78HfReCSlUKFtmACpR8Gl1bYXmoMz1WMHOCf9NPE167qGHMRbQHaTU53/r0AC3VCa6TJ2sMjVRgyttYcQh63IagwCp631pkrapcnjlxHH57VGwFwDWQ3Plv1kES0d/WHmV0Bbm9Lvgp314otbNENVcjbV01dXfsqphyCVRZlDid4K51wDgsfR7FeTXB3BbFIoz6DRC57JPiuFCMSva9QSvcq8B7IIyBZ/zM=;W6CfOVHdCkeDwy/DQWIwiA=="
 ---
 

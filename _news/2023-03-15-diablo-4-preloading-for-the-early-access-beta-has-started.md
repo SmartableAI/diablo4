@@ -1,42 +1,46 @@
 ---
 category: news
-title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
-excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
-publishedDateTime: 2023-03-14T03:56:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
-webUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
+title: "Diablo 4 preloading for the early access beta has started"
+excerpt: "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ..."
+publishedDateTime: 2023-03-15T11:04:00Z
+originalUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
+webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 127
+heat: 227
+published: true
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: PC Gamer
+  domain: pcgamer.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-release-date-preload-blizzard-rpg-game-overwatch-wow.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg"
+    width: 1200
+    height: 672
     isCached: true
 
 related:
-  - title: "Diablo 4 preloading for the early access beta has started"
-    excerpt: "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ..."
-    publishedDateTime: 2023-03-15T11:04:00Z
-    webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
+  - title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
+    excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
+    publishedDateTime: 2023-03-14T03:56:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 127
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg"
-        width: 1200
-        height: 672
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-release-date-preload-blizzard-rpg-game-overwatch-wow.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 beta preload times - here's when the preload begins"
     excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19 ..."
@@ -95,6 +99,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "PMth2HOw36o/TPC/123Q+f9hkgAfkRjT1+/DUJHC8K2GyY1XEQwxbKm3wo5XWuFZvxWZUFVNFceZK3lJ3R+ELyxweliPGj9G1ZoXR+jjiKr2iLn556fg8sHSe6Jb8dhy7CMlF5Ul6oAtv87LXcDuAuEIsyTDI5jLPSa+3z6UWSM5HAnTFgYIQ+WEZpo5WdQzar474zuDbNUl8NzmVpVLQ0Tm7Bw5FWoPtHg6p7pLWdUmBdROpCMqFf3RNF7F0iBcFnsvZGIRsEi5IFBptwF0c+f1Y29TfE0DTf9BkOcqZkEKEeHKosdwOAp46Hw6sbT0WYTcDHQdsFdvGM+rM0XOfjGys/l3MOZTbt/ghHv03vs=;1cWe+DnygS5G8n1VVHVhlA=="
+secured: "vBdbdwpfGVqn4FEAm2vUhIZKSBAScTE/FTdgroW+OvypG4+nk45Dt4dQ4EYHNfr5tSTsAJ9dzstAexk+HvY/GcGn4c2M4dtbUxx4LpUPY8AEWQmQmEvMMc3DKCP/TNL1P7tYaks2mtq5xCQZIgfpNHAmi1Z0UW2KdSwupek1kWR4w72U1+zcbTFipVvHlUaVlLOyZtKp9wj12qgml8rcRjU3KVHwJMkTSLfSzmS8+KqHmov0yHWIv/kIyFoGu0rlyyTn7qoqf21UsCNNXaSOzjXkCEUZ+gkkVCZ+RUlS/lmCY64/WxiDaKUZzeBF7Lzo+UoYxgrwi1Aq9RIesNwFoU9WTQeFB+yK/V/5AgYtzeA=;dKthdr7X4Z13Y7CDN/y1wQ=="
 ---
 
