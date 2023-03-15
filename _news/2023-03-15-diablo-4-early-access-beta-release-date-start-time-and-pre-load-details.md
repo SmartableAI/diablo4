@@ -54,6 +54,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 Early Access Open Beta start time in US, UK"
+    excerpt: "Diablo 4 Early Access beta start time North America & US Diablo 4 Early Access beta start time South America Diablo 4 Early Access beta start time UK Diablo 4 Early Access beta start time Europe ..."
+    publishedDateTime: 2023-03-15T07:27:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-start-time/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betastarttime.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z

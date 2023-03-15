@@ -44,6 +44,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Early Access Open Beta start time in US, UK"
+    excerpt: "Diablo 4 Early Access beta start time North America & US Diablo 4 Early Access beta start time South America Diablo 4 Early Access beta start time UK Diablo 4 Early Access beta start time Europe ..."
+    publishedDateTime: 2023-03-15T07:27:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-start-time/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betastarttime.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
     publishedDateTime: 2023-03-15T03:23:00Z
