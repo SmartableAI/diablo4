@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakd
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/"
 type: article
 quality: 147
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Is the Diablo 4 Ultimate Edition worth it?"
+    excerpt: "The latest installment in the Diablo franchise is said to provide the ultimate action RPG experience. In Diablo -like fashion, there will be countless enemies, hellish dungeons, and epic loot for you ..."
+    publishedDateTime: 2023-03-14T23:38:00Z
+    webUrl: "https://dotesports.com/diablo/news/is-the-diablo-4-ultimate-edition-worth-it"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 87
+    images:
+      - url: "https://dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1.png?resize=768,403"
+        width: 768
+        height: 403
+        isCached: true
 
 secured: "ezHGdRiuLoe0kFpOJ7+RLkFtBuv1a0l0DgNbadgnSbf842bCm62v5sWXa0WHuonFcaM4XQebbkJMB0CEJlNcCF8iQNaWCL15JBEok9NFU4jvH3EGrv9SukoOHLdqK56xEsEA26B/ZX63ibHvtnWxA8/jOWr/QeG3Hn1t/DhHlPRYYJoMOs/i57Tz2YKs1Ry5ON42Fclex2+wrL73BQ0EUMFqSiR7ZEFa5PBsTp90hsQpkPyud3Bbi/lutKokwaHeyR5GbBaoFmjC5+OW74/7dA/TtD39hOUiDNSNh/m19q4Ll55tKUuZ260YNZeRe2I0zPb2xzNDu63mWuNYNsGx9DjMbFhdyCIbDIHBd6bZgek=;I0r95b9MfPcz1f/v0taqpQ=="
 ---

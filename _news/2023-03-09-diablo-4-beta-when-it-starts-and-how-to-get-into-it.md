@@ -44,6 +44,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
+    excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
+    publishedDateTime: 2023-03-15T03:23:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-beta-release-date-start-time/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 86
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z

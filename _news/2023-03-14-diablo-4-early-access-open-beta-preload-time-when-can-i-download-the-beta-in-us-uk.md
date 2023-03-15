@@ -39,12 +39,12 @@ related:
         height: 1080
         isCached: true
   - title: "Diablo 4 beta preload times - here's when the preload begins"
-    excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. © Blizzard Entertainment null . The first Diablo 4 beta period, which is e"
-    publishedDateTime: 2023-03-14T05:14:28Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
+    excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19 ..."
+    publishedDateTime: 2023-03-14T08:58:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-here-s-when-the-preload-begins/ar-AA18C6Sp"
     type: article
     provider:
-      name: GamesRadar on MSN
+      name: MSN
       domain: msn.com
     quality: 87
     images:
