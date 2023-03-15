@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Diablo 4 beta preload times - here's when the preload begins"
-excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. © Blizzard Entertainment null . The first Diablo 4 beta period, which is e"
-publishedDateTime: 2023-03-14T05:14:28Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
+excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19 ..."
+publishedDateTime: 2023-03-14T08:58:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-here-s-when-the-preload-begins/ar-AA18C6Sp"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-here-s-when-the-preload-begins/ar-AA18C6Sp"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar on MSN
+  name: MSN
   domain: msn.com
 
 topics:
@@ -53,6 +53,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "powAYsAc1Lp03Fb8iqI0Rx5WKs6x+xPXHwKuBc3ggkOzTTxxcmTmmfk5e2RkEQOn5sgYYLALSNeHTizoKYfVL4DTij0Bk+nMR1OomCd6LDl9j1P/v8xDzBi9LhuJF+QnpgIBIp6ptgY4DzhSrjxiEgteDJF25GnozmRzmGE/Ghp0LZuQnstzn63qim5gS+a5BJPehxwTxde+f/gdIThZJ/Rs9RUigzoDU62YRttXJOKL1MABIHsGABUVESk8D7/dZpfGj1mWj4F6zoBDWarP4k5zJ2j/2vRj9vB0h9dmeG7BkFVKDqJGLIgb9xiDVQoqZpYueSlGRzmPIQX/tNd2nBdqiK6NsHp+6rMWJXggOdQ=;vt73sjdZv41zQ8YppcZ9Bw=="
+secured: "MVZRGBhsiKMlNB/cyima0zq5rRLoZYEHavlWDKaaaNBwycIpB7I88uuSjk9MybgD3wJ7ANf7ztYjclkHxrlnwHVAoiedP5k0JbE2SCs9Voo1PQInqnEbHuVHaQmstKJSX9gSNwBe2aaYv7Fq8hkBwjtq0wHohsN8ujaIwzh1PUXgZ+YwnUUTBfyT2Q2JAVi6npv7XEHFJulUyYp/AjoY8fraS2vZZAdoKlzl3dACv73RUiZCstZa4OueJgRPZHwWKvrhOQ+IlOm78V364ubfyBmpfvxuuSHBM3v0erU49uxHZzUaIvMbBpZUwgngf7UenavmkriBoOpxXUJMbv0HaMJsNFKGEYYTSnFEMZhhIkM=;xlrNV/+NHfzqpBPY67kXCw=="
 ---
 
