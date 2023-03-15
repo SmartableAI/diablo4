@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/"
 type: article
 quality: 147
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4's First World Boss Early Beta Access Schedule Has Been Released"
+    excerpt: "People have to come together across all the regions to take her down, because she’s just this giant killing machine.\" Diablo 4's World Bosses are massive monsters that require multiple players to take down. As described in a PlayStation blog, Blizzard ."
+    publishedDateTime: 2023-03-15T14:14:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 146
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1597/15971658/4112850-diablo4.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "KFC Can Help You Get Diablo 4 Beta Early Access"
     excerpt: "Activision Blizzard is partnering with KFC to offer early access beta codes for Diablo 4 to those who purchase a Double Down sandwich."
     publishedDateTime: 2023-03-10T09:57:00Z
