@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/ben-lee-gaming-diablo-4-barbarian
 type: video
 length: PT8M1S
 publishedDateTime: 2023-03-14T16:00:11Z
-heat: 138
+heat: 132
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMFz2TXTP50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "GKQ1unmti2AV0OMhCVJcKq5QBWB4PASBiC7o2/nJU/JX4oD647Y0a+uH1hCv1q7EEW9Gn6gHkX6Rwp3aoBNaIfwcDQ5aaK2hc6IvDDP6eyf7NScVX5yUnmMb9tPtxeF3qREkx/LVCWHKDD5EXzLrxDenecp9aXN283/VJUz5Zl7hi38kja3xxBgmDBtQVeVU2L8Z6fYla+fip8KDXc+9zCgtVnZOVAen/m7MKjvPMYy73pt3rkZrJuhLZeeENrYC/SGGOle3JNX/2sNNXPfBjhozJmWxfW2wd1LeUVHfvLjFHMdzw8jbrM7gaX8NA/VzX6H5Psk/ljG6VcmgngQk1DTx5DmGQXpDjelFEm96c4eTV+WKKaB3NMlXo8rfTdQvwF3U145FXcNZpKFQkLDhYA==;Yt/epVy78H3PY3r2JPH1WQ=="
+secured: "S1lG6lfGv4XgDwmWOK1IgRvzRat4jUpwDSvAx5gfCxN8o/nLl92AtzvysN1xhaD3TE9Di9xUEZvdo8GTsPaLc68raYnnd5q80rrkDtoFaL+54xw/RizPhZG9vGQPtaWT/YFC3Bpr87Cio8xTA80cQmtRPnBrcuV1tvlD74lwpONOn/nLZxsFs4bZgZ5tSFhwp4zgIAxNu3a89zO+ecnW1LBQvRjNu0KFntV8lQ3Lq5WsF55kQMpzrGMhvLU8r04k4AD6t1DjL91FdpP7s4SVi4lcm4pbQ6RFSYI1rQz8Y4N0ySaP6qWhf1JGsDfyqCf1C+MvapNq2n3GVN+U7yjyWRzGZLv2pEQGOr48HrKZ+NlzhGxoBtM6T3to7OjNPt7XzeCNzJlvF3ZBFiLWKHWEDxSToWSbUX1mP/9t0zqPvCw=;NG9y/UrVm8HSxW/iha3vig=="
 ---
 
