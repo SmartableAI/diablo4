@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 beta release date, start time, and preload"
+    excerpt: "The Diablo 4 Open Beta will soon be upon us, and Blizzard has provided additional details on what to expect, and when we can pre-load content. The Diablo 4 beta is being released in two phases: If you've pre-ordered Diablo 4, you'll be able to access the"
+    publishedDateTime: 2023-03-15T01:24:00Z
+    webUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-beta.jpg/BROK/thumbnail/1200x630/diablo-4-beta.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rBGBg84ynfsfTPRF4knYu3tkqW8SimY2YCcbzDiTxzj3zBoSqyLB9C8FK9kFSAMMkLoaEQIGnoOQpwRnLAAqMourS77ZD2+Xku562gqjWCuuC1/BB1VtCazofcexhFZt/XZ60ZSFpmYhhG/6+nY3bvdejV0jDbjNcEnoWv8s+7aCDQr9OhyFmVde9pVxg3R2JWozO9s5U3OhI6wv+MEMmva6d9mhltYT8AZfX9YK60dUEVXLsVuJoTGG+E07f7ZFCP6NkgRC8GveQNddk9ca6aJnSSl4ShGOc5VTphxS++ZwcepvnFWUGXHwHNkARKCNlRjCOG/QRQj/e4ZgPcxu8zVrlOzGjZHDRKrqOojD3rM=;/8gunNa1ThyKOakGFfFFuw=="
 ---

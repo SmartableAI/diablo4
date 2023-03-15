@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4 beta preload times - here's when the preload begins"
-excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. © Blizzard Entertainment null . The first Diablo 4 beta period, which is e"
-publishedDateTime: 2023-03-14T05:14:28Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
+title: "Diablo 4 beta release date, start time, and preload"
+excerpt: "The Diablo 4 Open Beta will soon be upon us, and Blizzard has provided additional details on what to expect, and when we can pre-load content. The Diablo 4 beta is being released in two phases: If you've pre-ordered Diablo 4, you'll be able to access the"
+publishedDateTime: 2023-03-15T01:24:00Z
+originalUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
+webUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar on MSN
-  domain: msn.com
+  name: vg247
+  domain: vg247.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Cc0z.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://asset.vg247.com/diablo-4-beta.jpg/BROK/thumbnail/1200x630/diablo-4-beta.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -38,17 +38,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 beta release date, start time, and preload"
-    excerpt: "The Diablo 4 Open Beta will soon be upon us, and Blizzard has provided additional details on what to expect, and when we can pre-load content. The Diablo 4 beta is being released in two phases: If you've pre-ordered Diablo 4, you'll be able to access the"
-    publishedDateTime: 2023-03-15T01:24:00Z
-    webUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
+  - title: "Diablo 4 beta preload times - here's when the preload begins"
+    excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. © Blizzard Entertainment null . The first Diablo 4 beta period, which is e"
+    publishedDateTime: 2023-03-14T05:14:28Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-preload-times-heres-when-the-preload-begins/ar-AA18C6Sp"
     type: article
     provider:
-      name: vg247
-      domain: vg247.com
+      name: GamesRadar on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://asset.vg247.com/diablo-4-beta.jpg/BROK/thumbnail/1200x630/diablo-4-beta.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Cc0z.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
@@ -67,6 +67,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "1nkCt0+iHqqOgE7F7w9JHjAfrI+nKHbyhAAcmQ6F3lcy7ILtMU0yAg3WnagZd+den7cZl1gcXayJl1AhlYHqg+bz3dQ/kOt+JBtoc+UnkDIc3qPOmhhXRKzBw+HQwrClVGnuXrfpMNEVIzOGOXrYkzMTCKL/rX09clPlja07q8HrgQRiRha79k7FUfpMs+TamXh7AWDLN7DlKcgl7hZP87bNYJxJqHKHJBCfJzS3nXL9pbJlQZ2mTG2ofbHQjpEabzIHBDgTHkBVkEuJA7T6M9fP4pHIfBdLRdN1L637+mIZE2ToNp3ZzWcSJyw2xxMrnXzB2bCShO1aUd/tvjtqC5RxgLE60lIQRAqpoCzoAAU=;XSTe01ibIAkLfr/MpiymOw=="
+secured: "s86TiWGYcC6EyenLzNdU/AY9nLYMwKpS7wG4G0BfevoU8SZl5dsdTCcNM+h9YYEB5MqX9y/9qZ1xeVkhNG9beZ4LpvCi1qRa8a21BmZNymybBJYsBG6uBIKbRPw8/Nw7mABj+jVINLPcXo+Ag+GhXMYhqPfV66p5H7u22CaxAYE48DJIomp8JHMZKg13MnDO2iLj5e+Qyznz0Li2EemiB2Exx8rT/+P8YoYeuJfgtSKAmINXcclVVHlvDD2jpiI+zYP6BSH7QbjRVwc00iqpNQxCxnHx+XfkRyp/9veCK02s9n/u/3z9VndmljNnXnBxndYminBo0oBF2Jq+TyEJ52rYSAqQbguQFAmbOtPipxI=;nYbgpud0hwP39J5mQbb+Vg=="
 ---
 

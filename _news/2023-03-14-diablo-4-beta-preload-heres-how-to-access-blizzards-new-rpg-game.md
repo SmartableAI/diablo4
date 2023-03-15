@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizza
 webUrl: "https://www.pcgamesn.com/diablo-4/preload-beta-early-access-blizzard-rpg-game"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Cc0z.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 beta release date, start time, and preload"
+    excerpt: "The Diablo 4 Open Beta will soon be upon us, and Blizzard has provided additional details on what to expect, and when we can pre-load content. The Diablo 4 beta is being released in two phases: If you've pre-ordered Diablo 4, you'll be able to access the"
+    publishedDateTime: 2023-03-15T01:24:00Z
+    webUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-beta.jpg/BROK/thumbnail/1200x630/diablo-4-beta.jpg"
         width: 1200
         height: 630
         isCached: true
