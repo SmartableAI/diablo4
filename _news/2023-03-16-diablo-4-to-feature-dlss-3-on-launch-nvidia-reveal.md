@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4, Forza Horizon 5, and Redfall are all getting DLSS 3 support"
-excerpt: "The big one, of course, is Diablo IV from Blizzard, one of the most highly anticipated game releases in years. When the game makes its long-awaited debut on PC on June 6, 2023, it will launch with ..."
-publishedDateTime: 2023-03-16T06:03:00Z
-originalUrl: "https://www.tweaktown.com/news/90744/diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support/index.html"
-webUrl: "https://www.tweaktown.com/news/90744/diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support/index.html"
+title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
+excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
+publishedDateTime: 2023-03-16T08:31:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
+webUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static.tweaktown.com/news/9/0/90744_01_diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support.jpg"
-    width: 620
-    height: 348
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-to-feature-DLSS-3-on-launch.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,19 +40,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
-    excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
-    publishedDateTime: 2023-03-16T08:31:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
+  - title: "Diablo 4, Forza Horizon 5, and Redfall are all getting DLSS 3 support"
+    excerpt: "The big one, of course, is Diablo IV from Blizzard, one of the most highly anticipated game releases in years. When the game makes its long-awaited debut on PC on June 6, 2023, it will launch with ..."
+    publishedDateTime: 2023-03-16T06:03:00Z
+    webUrl: "https://www.tweaktown.com/news/90744/diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support/index.html"
     type: article
     provider:
-      name: VideoGamer.com
-      domain: videogamer.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 87
     images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-to-feature-DLSS-3-on-launch.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.tweaktown.com/news/9/0/90744_01_diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "NVIDIA DLSS support added to Diablo 4, Forza Horizon 5 and Redfall"
     excerpt: "NVIDIA has just announced that DLSS 3 support is coming to blockbuster games Diablo 4, Forza Horizon 5 and Redfall. DLSS uses artificial intelligence to boost a game's framerate performance and ..."
@@ -69,6 +69,6 @@ related:
         height: 675
         isCached: true
 
-secured: "q0Wl3Ibrz4eqh/cL3s1bt6kYJt06Gwfy68a1gH5n8/hvzu9TOlg2mKJp0VFG1wpq6eoo5FQcsWFtgpbtar6ftvvFQEI+Wz30GFOS9u4UNY9qxZtOU1Z3H2bJ2vmXDAxIId1SVMqnGc++iN7cfjNLjdNmz51cloAizn9yMqnZce3OTcnsfMJAIvFOPfEVKFFjIoo2rq7mrNn+gZN92ouVysNX9VsJonD3XGkJeEzHroBDcrXo8H1slp1a4l1eDtoOPh9QNX62MR/P/xLtE2c80uma+Z25S4yISdAjxlnfFMmnm1qIkpdY6JVt6hgbAaTgRk6HVynUZyr89x7qPpT4Yv9xMPT3Q9Jlq+6H3T/gqMU=;LfnC9wCUW6jbSckBi4dajw=="
+secured: "fHbGaboHSTY42z+pxW6H21tUdGi+h5Wm6ExwNaugMMOLQjGk2dvMyj7VHuJGSjs56e6nOP+JBxEGpFoJyZCgOvl12u/kCxrPgHEj2yaFI9ZukAOy3fg658PQnxFaE/qNEyb0TFxMuHU/EJJYuNjlHtKpHVim9YTd56gtkYRoQHBcs+aYHnr/TxyWf1NcKgGZdqWC09TloL7i6WrAmPaBCiJne8G9MFniK2kQkdF/TBDZs8x8/oSlT8Q0tX1nkX1oFRERfX5YDYUh21XkS0nRqEAKzX2ZFDw1Qda/K5OrbONP1bfe7XKKVY7DYVRW1FAvEEnLtiSiPzqj/Cnr5Q7wspvsy2BFoHn6zjBJ788gYnc=;VhhGOWslWjyNUq6ONEel2Q=="
 ---
 

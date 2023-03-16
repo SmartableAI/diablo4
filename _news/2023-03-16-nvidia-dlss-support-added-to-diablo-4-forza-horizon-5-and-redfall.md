@@ -54,6 +54,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
+    excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
+    publishedDateTime: 2023-03-16T08:31:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-to-feature-DLSS-3-on-launch.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8tQRWBg1bxst7MLi+EF1buu9qpMn+GbMCrc+srKwtssm/XFBG/2eR7oyIhmrUWppBr6Llm5RAISo2bWUG9wZtc8j8pIqIPp4I0RX4qSEYFtL+RuTxQ6voaRf2p0nRUEHVqjM1bcoik5mAdWOxlAdqCdAuldBR0G1sxUJJPDuGZadXuj/ep3PaZ67yzr6F2Pmm157RavIK9kO441H6uYsJ5uuPR7kvBqHRTQ7BKZatRn547mwLAF9UHrV+6SWya9j24qdbHDq8LOfm8OtbDpVGQuGem2rQ+hfzNcIvQlvPgYqNC+k5WcCOmHDQnjIDTNGw9XUd77+krKhQvw6Lcp0PvZ6q9QKWkIkx5NBnMQ7XnM=;WsRrP3/NNlWBGB/orC5kwg=="
 ---

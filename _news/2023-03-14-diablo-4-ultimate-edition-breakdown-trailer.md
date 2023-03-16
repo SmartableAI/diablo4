@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakd
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
+    excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
+    publishedDateTime: 2023-03-16T13:02:06Z
+    webUrl: ""
+    type: video
+    provider:
+      name: NVIDIA GeForce
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Is the Diablo 4 Ultimate Edition worth it?"
     excerpt: "The latest installment in the Diablo franchise is said to provide the ultimate action RPG experience. In Diablo -like fashion, there will be countless enemies, hellish dungeons, and epic loot for you ..."
     publishedDateTime: 2023-03-14T23:38:00Z

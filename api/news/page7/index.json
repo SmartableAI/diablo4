@@ -2,6 +2,90 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end.md",
+      "title": "Diablo 4 will have a \"more of a branching story\" with a beginning, middle and end",
+      "excerpt": "The open world of Blizzard's next game will be detached from more free-roaming experiences like that of The Legend of Zelda: Breath of the Wild.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end/index.json",
+      "webUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
+      "originalUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/11/16/news/1668561753_691341_1668561955_portada_normal.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
+      "publishedDateTime": "2022-11-15T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world.md",
+      "title": "Diablo 4 Will Have a Branching Campaign In Its Open World",
+      "excerpt": "Diablo 4 is shaking up the saga's formula in a big way: its open world will allow players to tackle the storyline in an order of their choosing. In previous Diablo games, the narrative was linear ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA146zen.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4.md",
       "title": "Blizzard Embraces Open World Gaming For 'Diablo 4'",
       "excerpt": "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ...",
@@ -991,90 +1075,6 @@
       "provider": {
         "name": "International Business Times",
         "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more.md",
-      "title": "Blizzard Explains Diablo 4 Skill Trees and More",
-      "excerpt": "Blizzard's developers reveal important gameplay information about the upcoming Diablo 4's character skills, progression, and more.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-explains-diablo-4-skill-trees-and-more/ar-AA13ON4v",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-explains-diablo-4-skill-trees-and-more/ar-AA13ON4v",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13P6i0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=108",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T16:58:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments.md",
-      "title": "Diablo 4 announcement canceled. - Hearthstone Moments",
-      "excerpt": "Hearthstone Best Moments! Streamed 2018-11-07 - 2018-11-07. Remember to like and subscribe! Join my discord: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/",
-      "originalUrl": "https://youtube.com/watch?v=opNgV94aw3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/opNgV94aw3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T11:49:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoalai - Warcraft",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

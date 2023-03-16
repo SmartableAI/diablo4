@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
+    excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
+    publishedDateTime: 2023-03-16T13:02:06Z
+    webUrl: ""
+    type: video
+    provider:
+      name: NVIDIA GeForce
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "82aw2EgCq//OrgPI2NV8cJ44Kw1d6Rf5i6q6hnDErG5SmLqfhpIGhpqCeuQzkSCMyfSuQEk33vXYWy2QPqrxFk7ylNzKq+GhTrqt71HOmzwohY5k34Ids8uvUfDRLrFPYMgY4kW2EEluE6pGrbAv01vtNIZfQGjIoA9YrEbJIdekyjQbhCyb7w7mu/+MwJ4Slrwl0NpG+VcvQ/t3xEpICzlIumu9IF9fZH30qPys+7YULEZFSGQ/B+ebAC3LnsLM/JKZOw9c3UYX+0M0ywC4fLt2FsnBk3bahJspnCWb1pFz32+1PEb8OqY9aI14i7XNELpVyes2glfn50qBrwcAlrx+MCp/TlorPf+wlQs+HKc=;apLbhy45MDpQTFmnjWd97Q=="
 ---

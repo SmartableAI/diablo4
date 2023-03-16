@@ -44,6 +44,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 beta Early Access, Open Beta release time, dates, pre-load and campaign content"
+    excerpt: "You can unsubscribe at any time. More info The first part of Diablo 4's pre-release beta is about to get started. First up is the Diablo 4 Early Access beta, which is available on PlayStation 5 and ..."
+    publishedDateTime: 2023-03-16T08:39:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 98
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/secondary/Diablo-4-Early-Access-and-Open-beta-4630485.jpg?r=1678981168977"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Diablo 4 Early Access Open Beta start time in US, UK"
     excerpt: "Diablo 4 Early Access beta start time North America & US Diablo 4 Early Access beta start time South America Diablo 4 Early Access beta start time UK Diablo 4 Early Access beta start time Europe ..."
     publishedDateTime: 2023-03-15T07:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-hor
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/0/90744_01_diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support.jpg"
         width: 620
         height: 348
+        isCached: true
+  - title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
+    excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
+    publishedDateTime: 2023-03-16T08:31:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-to-feature-DLSS-3-on-launch.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "NVIDIA DLSS support added to Diablo 4, Forza Horizon 5 and Redfall"
     excerpt: "NVIDIA has just announced that DLSS 3 support is coming to blockbuster games Diablo 4, Forza Horizon 5 and Redfall. DLSS uses artificial intelligence to boost a game's framerate performance and ..."
