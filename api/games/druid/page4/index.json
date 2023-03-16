@@ -4,6 +4,36 @@
   "page": 4,
   "value": [
     {
+      "path": "_games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial.md",
+      "title": "DIABLO 4 - DRUIDA - TODAS AS SUAS HABILIDADES EM PT-BR - NÃO OFICIAL",
+      "excerpt": "Link da Gameplay: https://www.youtube.com/watch?v=uij9ysBKs4w&t=4s Lives nos Canais abaixo, siga pra não perder nenhuma! ⭐ Seja Membro no ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial/",
+      "originalUrl": "https://youtube.com/watch?v=d2OnR_vcYgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d2OnR_vcYgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M21S",
+      "provider": {
+        "name": "Imp",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d2OnR_vcYgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T09:14:24-08:00"
+    },
+    {
       "path": "_games/kamahl-diablo-4-druid-skills-and-talents.md",
       "title": "Diablo 4 Druid Skills and Talents",
       "excerpt": "What's up guys Kamahl here and today we are going to have an in depth look at the druid talent tree and skills available currently. #Diablo4 #Diablo4Druid ...",
