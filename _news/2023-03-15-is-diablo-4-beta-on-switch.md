@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T19:39:00Z
 originalUrl: "https://www.videogamer.com/news/is-diablo-4-beta-on-switch/"
 webUrl: "https://www.videogamer.com/news/is-diablo-4-beta-on-switch/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: VideoGamer.com

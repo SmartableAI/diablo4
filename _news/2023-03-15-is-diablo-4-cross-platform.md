@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T21:28:00Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-cross-platform/ar-AA18GSta"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-cross-platform/ar-AA18GSta"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: MSN
