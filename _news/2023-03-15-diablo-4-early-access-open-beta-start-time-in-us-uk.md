@@ -54,6 +54,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 Early Access open beta – when does it end?"
+    excerpt: "The Diablo 4 Open Beta is only a few days away and fans of the Blizzard franchise are gearing up to take on dangerous dungeons and demonic creatures once it drops. NOW READ: Diablo 4 Early Access Open Beta start time in US, UK Much like any other early .."
+    publishedDateTime: 2023-03-15T17:11:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-end-date/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
+        width: 1519
+        height: 675
+        isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
     publishedDateTime: 2023-03-15T03:23:00Z

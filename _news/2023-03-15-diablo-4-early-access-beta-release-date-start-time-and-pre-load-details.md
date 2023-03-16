@@ -68,6 +68,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Early Access open beta – when does it end?"
+    excerpt: "The Diablo 4 Open Beta is only a few days away and fans of the Blizzard franchise are gearing up to take on dangerous dungeons and demonic creatures once it drops. NOW READ: Diablo 4 Early Access Open Beta start time in US, UK Much like any other early .."
+    publishedDateTime: 2023-03-15T17:11:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-end-date/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
+        width: 1519
+        height: 675
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z

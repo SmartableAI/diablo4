@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "PSA: The Diablo 4 Beta Preload Is Live"
+    excerpt: "Diablo IV will be released on June 6, 2023. John Wick: Chapter 4 - Official Final Trailer Check out the new, action-packed trailer for John Wick: Chapter 4, the upcoming movie starring Keanu Reeves, Donnie Yen, Bill Skarsgård, Laurence Fishburne ..."
+    publishedDateTime: 2023-03-15T17:40:00Z
+    webUrl: "https://www.ign.com/articles/psa-the-diablo-4-beta-preload-is-live"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/12/06/diablo-blogroll-1670358717100.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 beta preload times - here's when the preload begins"
     excerpt: "The Diablo 4 beta preload times are nearly upon us, well ahead of the eventual start date for the beta. The first Diablo 4 beta period, which is early access on an invite-only basis, kicks off later this week on March 17, and will go on until March 19 ..."
     publishedDateTime: 2023-03-14T08:58:00Z

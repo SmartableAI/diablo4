@@ -2,6 +2,7 @@
 title: "Diablo 4 Best Class in Beta for YOU (Class Overview, Druid, Barbarian Rogue, Sorcerer, Necromancer)"
 excerpt: "diablo4 #diabloiv #diablo More Diablo 4 Videos here! Diablo 4 Top 20 things you must know To Get Ahead ..."
 originalUrl: https://youtube.com/watch?v=u97Hxv_X5Fo
+webUrl: https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/
 type: video
 length: PT11M2S
 publishedDateTime: 2023-03-15T15:21:16Z
@@ -24,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "7zmPHgT1FQw/R0W2EvSYZNF5icUcv0pQR9e3g5SGjqRUH+A0XmJBTFeqgrthhAefn64fcdMkCQLk/g1NcczfOcyuiZwTp0XA6yyzjR6PTxT9hBrlV1N35CardNIZIml3Sp01oojuviCfUajfNsa1gtcCyB/6rlMyBr0egd17LiEN966YWhSW2ycXKEkYLntSrGMAYoQapoJoGzLhr+r4s9NSp8TmLEAjd7n7LaMTbhNFzNU0ORmjvY0C6hbxfBZPLSbilNeuRl7fgI0JVzm9ZhXcMiMuX4H2WSpCvXj5E4lKyl4aoKENRlgu9eUTOZh0wGJLkEEDdU7DjqFPOAVgjI8wLX0/buCGWrQxgHhxTQksFCQ9nlWsCfuclHVEg9/rsOlB40h32fNNuODJoIBFKw==;TW4IaO8fs4O7feTuwtXkyw=="
+secured: "YuaGKRNbpLAKrzsaSW7/qk1t9qxbnqvcJJIDa6vAw9MVihQWI54pmYWHf0LoTgfA0cQcscMpBMvDs31IOqrqAc2PgOGcifMBqIkKm3DZrx26jDon4aYO3ZjgmqvwIPR54okl3YHuiDuiqPZ6HxAg5p3w6RouNdRlOSNQi7NQXjdA/Nnl7XDBCrgC5p2+79SDbEVRceonXLAi+gWiERP21VIzoTIMQK6Y0E0rgcpIuFI9gmGWbknlJheyThbk2Ui4TVAl86NtyqfPKLBFB6bJxiZNifrKq1Zqfia12HQvAziYSXn7v3qMzuuOShYMyKp1nQFrSQRouamhHeg2LO/ojVpdbOOZUZhSW7B1zNa8am7UaYWrlBBk0Pf9QpixhVHpJL6Tr0sjgivRWT1dMdfNZg==;R9c8OGdLPD4z1USCBxpxTA=="
 ---
 

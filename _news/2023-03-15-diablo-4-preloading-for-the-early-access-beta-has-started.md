@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-b
 webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
 type: article
 quality: 127
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "PSA: The Diablo 4 Beta Preload Is Live"
+    excerpt: "Diablo IV will be released on June 6, 2023. John Wick: Chapter 4 - Official Final Trailer Check out the new, action-packed trailer for John Wick: Chapter 4, the upcoming movie starring Keanu Reeves, Donnie Yen, Bill Skarsgård, Laurence Fishburne ..."
+    publishedDateTime: 2023-03-15T17:40:00Z
+    webUrl: "https://www.ign.com/articles/psa-the-diablo-4-beta-preload-is-live"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/12/06/diablo-blogroll-1670358717100.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Diablo 4 beta preload – here’s how to access Blizzard’s new RPG game"
     excerpt: "The Diablo 4 release date is nearly here, and so, as WoW developer Blizzard prepares to unveil its next RPG game, here’s how to preload the Diablo 4 beta."
     publishedDateTime: 2023-03-14T03:56:00Z
