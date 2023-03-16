@@ -2,6 +2,174 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-09-accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard.md",
+      "title": "Accelerated battle pass and tier skips included in Diablo 4 ultimate edition, announces Blizzard",
+      "excerpt": "Blizzard Entertainment has announced the features of Diablo 4. Gamers can access the game four days earlier at $89.99.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/index.json",
+      "webUrl": "https://economictimes.indiatimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/articleshow/96116778.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/articleshow/96116778.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-7328,msid-96116779/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/accelerated-battle-pass-and-tier-skips-included-in-diablo-4-ultimate-edition-announces-blizzard/amp_articleshow/96116778.cms",
+      "publishedDateTime": "2022-12-08T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta.md",
+      "title": "Diablo 4 RELEASE DATE OFFICIALLY ANNOUNCED. How to get into the Open Beta.",
+      "excerpt": "TWITTER   https://twitter.com/SweetPhil 🎙️DISCORD🎙️ https://discord.gg/Q9zE9E8 MERCH   ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-09-diablo-4-release-date-officially-announced-how-to-get-into-the-open-beta/",
+      "originalUrl": "https://youtube.com/watch?v=jZKa-xq3OD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jZKa-xq3OD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T19:04:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sweet Phil",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-diablo-4-release-date-announcement-cinematic-from-game-awards.md",
+      "title": "Diablo 4 Release Date Announcement Cinematic From Game Awards",
+      "excerpt": "The leak was true, game releases 6-6-23. Pre order for Open Beta Early Access.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-release-date-announcement-cinematic-from-game-awards/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-09-diablo-4-release-date-announcement-cinematic-from-game-awards/",
+      "originalUrl": "https://youtube.com/watch?v=6zNtgK0vthA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6zNtgK0vthA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 277,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T18:59:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The D Cast",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-your-character-is-not-lost-diablo-4-game-director-joe-shely-clarifies-seasonal-shifts.md",
+      "title": "'Your character is not lost': Diablo 4 game director Joe Shely clarifies seasonal shifts",
+      "excerpt": "You may not earn as many rewards for playing, but your investment into each character will not be diminished.In an interview with international media on Wednesday (Dec 7), Diablo 4 game director Joe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-your-character-is-not-lost-diablo-4-game-director-joe-shely-clarifies-seasonal-shifts/index.json",
+      "webUrl": "https://www.asiaone.com/digital/character-not-lost-diablo-4-game-director-joe-shely-seasonal-shifts-eternal-realm-game-awards-blizzard",
+      "originalUrl": "https://www.asiaone.com/digital/character-not-lost-diablo-4-game-director-joe-shely-seasonal-shifts-eternal-realm-game-awards-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2022/91222_sorc_blizzard.jpg?h=5a6343d7&itok=Y3jNoYUv",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-meet-your-maker-on-june-6pre-purchase-diablo-iv.md",
       "title": "Meet Your Maker on June 6—Pre-Purchase Diablo IV!",
       "excerpt": "All hell breaks loose on June 6, 2023! Prepare for your fated faceoff against Lilith, the Daughter of Hatred, by pre-purchasing any edition of Diablo IV, and tune in to our upcoming Developer Update livestream.",
@@ -907,183 +1075,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-diablo-4-trailers-gameplay-classes-and-news.md",
-      "title": "Diablo 4 trailers, gameplay, classes and news",
-      "excerpt": "Diablo 4 has been a long time coming. Fans have been waiting with baited breath for years now, so we're happy to say that there really isn't all that long to wait until release. So far ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-23-diablo-4-trailers-gameplay-classes-and-news/index.json",
-      "webUrl": "https://www.techradar.com/in/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/in/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards.md",
-      "title": "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards",
-      "excerpt": "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards/index.json",
-      "webUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
-      "originalUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.xfire.com/wp-content/uploads/2022/11/blizzard-release-date-diablo-4-the-game-awards-8.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xfire",
-        "domain": "xfire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards.md",
-      "title": "Info on Diablo 4 Could Appear Even Before The Game Awards",
-      "excerpt": "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
-      "originalUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gracza.pl/i_gp/h/22/406814604.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=19722",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722",
-      "publishedDateTime": "2022-11-21T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023.md",
-      "title": "'Diablo 4' release date: Game set for launch in April 2023",
-      "excerpt": "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023/index.json",
-      "webUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "originalUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1390623/diablo-3-xbox-one.jpg",
-          "width": 992,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "publishedDateTime": "2022-11-21T19:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,192 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-04-diablo-4-everything-we-know-so-far.md",
+      "title": "Diablo 4: everything we know so far",
+      "excerpt": "Diablo 4 has officially been confirmed. And while we don't have all that much to go on yet, there have been some small leaks and rumors that might just help tide us over. Diablo 4 has been in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-04-diablo-4-everything-we-know-so-far/index.json",
+      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
+      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional.md",
+      "title": "Leaked Diablo 4 screenshots hint at the campaign being optional",
+      "excerpt": "Diablo 4 screenshots have leaked online, seemingly confirming that you can skip the game's campaign after beating it once. Over the past weekend, the Twitter user below uploaded four images ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/index.json",
+      "webUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
+      "originalUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-character-customization-could-make-diablo-4-a-true-rpg-again.md",
+      "title": "Character Customization Could Make Diablo 4 a True RPG Again",
+      "excerpt": "Blizzard promises a massive upgrade to character customization in Diablo 4, which in-part would bring back much-needed role-playing elements.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-character-customization-could-make-diablo-4-a-true-rpg-again/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/character-customization-could-make-diablo-4-a-true-rpg-again/ar-AA12yTxI",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/character-customization-could-make-diablo-4-a-true-rpg-again/ar-AA12yTxI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12yD56.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign.md",
+      "title": "Diablo 4 leak shows you’ll be able to skip the whole campaign",
+      "excerpt": "Newly leaked screenshots of Diablo 4 suggest you’ll be able to skip the upcoming action RPG’s main campaign. The details of how campaign skipping will work are unclear. It’s not obvious whether you’ll ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign/index.json",
+      "webUrl": "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign",
+      "originalUrl": "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5CVs7ck3HEmyEtZw8QFaib-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers.md",
       "title": "Everything you need to know about Diablo 4: Story, classes and trailers",
       "excerpt": "Explainer Provides context or background, definition and detail on a specific topic. (Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like.",
@@ -917,184 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world.md",
-      "title": "Diablo 4 Gameplay Leaks Show Barbarian Combat And Open World",
-      "excerpt": "As indicated by PC Gamer, a link to both videos was posted in the Gaming Leaks and Rumours subreddit by user iV1rus. The footage shows a barbarian character exploring a city, and then heading out ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-gameplay-leaks-show-barbarian-combat-and-open-world/1100-6507642/",
-      "publishedDateTime": "2022-09-19T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-the-diablo-4-leak-gives-fans-a-first-look-at-the-in-game-cosmetics-shop.md",
-      "title": "The Diablo 4 Leak Gives Fans A First Look At The In-Game Cosmetics Shop",
-      "excerpt": "Did Blizzard keep its promise with Diablo 4's in game shop? The Diablo 4 leak gave fans a first look at the cosmetics shop.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-the-diablo-4-leak-gives-fans-a-first-look-at-the-in-game-cosmetics-shop/index.json",
-      "webUrl": "https://www.svg.com/1015018/the-diablo-4-leak-gives-fans-a-first-look-at-the-in-game-cosmetics-shop/",
-      "originalUrl": "https://www.svg.com/1015018/the-diablo-4-leak-gives-fans-a-first-look-at-the-in-game-cosmetics-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.svg.com/img/gallery/the-diablo-4-leak-gives-fans-a-first-look-at-the-in-game-cosmetics-shop/l-intro-1663611526.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "svg",
-        "domain": "svg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-now-diablo-4-test-footage-has-leaked-online.md",
-      "title": "Now Diablo 4 test footage has leaked online",
-      "excerpt": "A few hours after Rockstar's highly anticipated sequel spilled online, around forty minutes of Diablo 4 test footage also leaked onto the net, showing off gameplay of Blizzard's upcoming ARPG. Spotted ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-now-diablo-4-test-footage-has-leaked-online/index.json",
-      "webUrl": "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online/",
-      "originalUrl": "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
-      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
-      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
-      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

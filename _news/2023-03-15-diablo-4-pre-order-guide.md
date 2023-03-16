@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pre-order-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Polygon on MSN
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Please, Resist the Urge to Pre-Order Diablo 4"
-    excerpt: "Blizzard recently announced that Diablo 4 is going to have two “open betas” next month. The first will be from March 17 to March 19, and the second will be from March 24 to March 26. Everyone will who ..."
-    publishedDateTime: 2023-02-25T04:00:00Z
-    webUrl: "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 87
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg"
-        width: 698
-        height: 289
-        isCached: true
 
 secured: "Ng6yn09AU8v3637gGM0iH7WHbDgI31mDPrPL5ukevKKvW5MMQAkef20vasNLsMsEqgv1j7D5Vp/gbYSkGtLgYJlUDCIjbPI+yQJTM57xVvK3W1iPDxrxDI6gCvPvKBHDEH+mLlrdYX6CRdDtimW+jB0S7SInCF4T33JCdxLnWtVqtERb0enDNiNMMrhTh5KQ3RT/3D7WpT4nHgzVzvbKf4rFvOQmt8+0+H/dBqIUClEcAscohxDy6yp7rQCD+T/3E9Es4HbdIPoL00STb72NeapTGQ4FfzlAszWE0s6xLkzapdHSy8aZFj8udJxPcllFZ4N+bzv4TXiYZOmKEftxpJi9FbGZTgn2aOIF1K+TYjI=;Q6OayRedB59PMQ94cfWejw=="
 ---
