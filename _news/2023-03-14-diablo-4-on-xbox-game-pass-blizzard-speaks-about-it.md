@@ -68,6 +68,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Will Diablo 4 be on Xbox Game Pass?"
+    excerpt: "Numerous gameplay trailers and the early access open beta phase has made the excitement surrounding Diablo 4 almost palpable. NOW READ: Diablo 4 Early Access open beta – when does it end? Now that the fourth installment in Blizzard’s dungeon crawling"
+    publishedDateTime: 2023-03-15T18:11:00Z
+    webUrl: "https://www.videogamer.com/news/is-diablo-4-on-xbox-game-pass/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Boss.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "e76rqGeEZAzp4NM5bc20bUaKLeRJKk+gREjvI0k2fWoFyCfsxH/CMHGYkZWzU5AD4zFiGRsXAEEZhs3u3KysmN3bUjFmJBnebw4GQOmAZv1+Gom3lHk1k1BILK+5eYaZ4yW/euYyIfwAWfndJw8PSdiBAkTfg+8NE9BWbnBper1/7mu/krsySf3op+c/vWeSOMduqFCZ2Nyhm9/gNl2rSwVhk7ljB8smqU9IVkmWvUygN4xqzN4F13wZueGdY/2zKdDZYPFbg9+Gyjf2hZoFH7gFaqexvDJoyjv8xsdNUBYPeMKc0gRTYo+6sxsV4yXRvEsRS10wJ7XZQTqkT2IzAO8DEBRIuuder1kjguY2FHE=;CnBMyN340+6Zh+33MeUjLg=="
 ---

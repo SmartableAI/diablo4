@@ -1,26 +1,26 @@
 ---
 category: news
-title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
-excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
-publishedDateTime: 2023-03-14T15:43:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
-webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
+title: "Will Diablo 4 be on Xbox Game Pass?"
+excerpt: "Numerous gameplay trailers and the early access open beta phase has made the excitement surrounding Diablo 4 almost palpable. NOW READ: Diablo 4 Early Access open beta – when does it end? Now that the fourth installment in Blizzard’s dungeon crawling"
+publishedDateTime: 2023-03-15T18:11:00Z
+originalUrl: "https://www.videogamer.com/news/is-diablo-4-on-xbox-game-pass/"
+webUrl: "https://www.videogamer.com/news/is-diablo-4-on-xbox-game-pass/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
-    width: 600
-    height: 315
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Boss.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -68,21 +68,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Will Diablo 4 be on Xbox Game Pass?"
-    excerpt: "Numerous gameplay trailers and the early access open beta phase has made the excitement surrounding Diablo 4 almost palpable. NOW READ: Diablo 4 Early Access open beta – when does it end? Now that the fourth installment in Blizzard’s dungeon crawling"
-    publishedDateTime: 2023-03-15T18:11:00Z
-    webUrl: "https://www.videogamer.com/news/is-diablo-4-on-xbox-game-pass/"
+  - title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
+    excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
+    publishedDateTime: 2023-03-14T15:43:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
     type: article
     provider:
-      name: VideoGamer.com
-      domain: videogamer.com
+      name: MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Boss.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
+        width: 600
+        height: 315
         isCached: true
 
-secured: "UoZMwLVhP1XEK1mIYgBtb3pWZ+8k4VQGQANJFJ7RnH9KNA4EJcqFPphLY9z8pK/B4ch+3a78B/NUHHq2qAhyzmWrIe9tJd6eSnsHwCAyVZD4hGXHkZLeReyxgdmhA94cZefWLG2vqwhowgtbVw2nyerrb+51BRM9u8uFY1vl5y1ENnPqssmC4HJGRJ4tjA3ozVRiSEvwglUqm8mrRdtZBAd+5+HjEYDoBnD9gE64dCJf983DOFIkBhAJnEHyPMS4aQrfR7T7sQk1BGELYz09/K+Hw7hjJNonq2BB74ZWuPYWsQeO60QQLFcoOlo3FgBF3pc8dlsLyut7vCVZTNNQNEGWB/6EIlnyed2dRzSTyHE=;6IZ4xYGQM5lSSmFfvZ1t1w=="
+secured: "4G4CqhJVFcWyHrmiLgcyBM4Od2VM2WsiwG0P4K1smzqCNcgXhF9TDvsGZGP+XorERe64Y9jZzFdt2LSlXxBTnVmn63IurHzRhx7Hhjgbto1P060rMCL7oF+bK6eTS7T9iEf6s6UJYbo7xIjZzbTGhxDlFOkZZvqLzoHniCNhte8mAWmtXB+bKeFeCaNF1yY1ZVonF2TSfbJMdLsESnOZH4xt9EG/w6n5NlhZjBx0VlVPYZ1C7iYAITEEjx7UJ1pPT3lH3kvxV4IjVCUkyt7GLU4XhbTkPXWWaMcU61HvnUBpeGOfvXsgtr2I/zyY98hjhvfZYhbSpQAqv0eN1lvYMiZWjnPQwUFkQFohtsaK/fA=;UvgKthVP7GpPMOy+eWQrzQ=="
 ---
 

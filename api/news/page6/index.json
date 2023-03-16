@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement.md",
+      "title": "Diablo 4 devs reportedly say crunch feels necessary, claiming lengthy mismanagement",
+      "excerpt": "The employees also claim that the game’s development has been affected by gross mismanagement throughout the past five years. Diablo 4 has reportedly seen numerous delays throughout development, with ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/index.json",
+      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/",
+      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg",
+          "width": 1952,
+          "height": 1074,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching.md",
       "title": "Diablo 4 release date latest: When is the new game launching?",
       "excerpt": "If you’re excited about the Diablo 4 release date and can’t wait to play, you’ll need to read on to find out when the game should release, when and where you can pre-order, ...",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "GamesRadar+",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story.md",
-      "title": "‘Diablo 4’ will offer players freedom from the main story",
-      "excerpt": "In a recent IGN interview, Diablo 4 director Joe Shely and general manager Rod Fergusson dived into the open world and discussed what players can expect from the upcoming sequel. Fergusson explains ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story/index.json",
-      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
-      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/09/Diablo-4-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

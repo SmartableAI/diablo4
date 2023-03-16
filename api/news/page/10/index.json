@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3.md",
+      "title": "What are the best aspects of Season play that Diablo 4 should make sure to borrow from Diablo 3?",
+      "excerpt": "Diablo 4 will have Seasons, iterating on the Ladder Seasons from Diablo 2 and the Seasons of Diablo 3. Because it's a new game, there will obviously be dif ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
+      "originalUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2017/10/treasure-goblin-header.jpg",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more.md",
       "title": "Diablo 4: Release Date, Classes, Gameplay, Leaks, Beta Sign Up, and More",
       "excerpt": "Awaiting Diablo IV's launch but don't know much about it? Know the Diablo 4 release date, classes, beta, leaks, & more in this info dump.",
@@ -1052,48 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch.md",
-      "title": "Blizzard Is Giving Away Diablo 4, But There's A Huge Catch",
-      "excerpt": "Blizzard is giving away free copies of Diablo 4, but there's a huge catch: fans have to get tattooed to do it. A new event is sweeping across the nation.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/index.json",
-      "webUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
-      "originalUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.svg.com/img/gallery/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/l-intro-1658767061.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "svg",
-        "domain": "svg.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
