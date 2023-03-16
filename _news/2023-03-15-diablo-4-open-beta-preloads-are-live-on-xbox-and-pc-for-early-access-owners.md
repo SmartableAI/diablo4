@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
-excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
-publishedDateTime: 2023-03-15T10:52:00Z
-originalUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
-webUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
+excerpt: "Preloads for the Diablo 4 Open Beta are now available on Xbox, PC, and PlayStation for anyone that preordered the game and has Early Access. The Open Beta is scheduled to first run from March 17-19 ..."
+publishedDateTime: 2023-03-15T14:50:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners/ar-AA18G2se"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners/ar-AA18G2se"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Windows Central on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18G7E2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 668
+    height: 630
     isCached: true
 
 related:
@@ -123,6 +123,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "oODRQVlyzalZEmzA4MLnEU0jxiT41LxoVBqqemlu/cjy6L3mgr6LCS4g+17LVoSo2cOjZLbdvpwCDI7tO2RGqdEacyoDElwj73dAumUvQbS3Tm/fcLdeQfr3/a4NxOc8Hd5t5ChD78HfReCSlUKFtmACpR8Gl1bYXmoMz1WMHOCf9NPE167qGHMRbQHaTU53/r0AC3VCa6TJ2sMjVRgyttYcQh63IagwCp631pkrapcnjlxHH57VGwFwDWQ3Plv1kES0d/WHmV0Bbm9Lvgp314otbNENVcjbV01dXfsqphyCVRZlDid4K51wDgsfR7FeTXB3BbFIoz6DRC57JPiuFCMSva9QSvcq8B7IIyBZ/zM=;W6CfOVHdCkeDwy/DQWIwiA=="
+secured: "c3Wep0CtGjsAvCXWAGkdY2iIJJE6bb8uHwZ521DBUF3aSuEuUPfRl2Hmpz+Qc8JtbS1Gpu0eaGIgNmx8yEhVtcFsiDtvhCpUpbaInjQQ9Fra6qAzcFW34ZwBx5oYip5y3aETBfprmWjunIDS8dXEC8Yj0RZyC0zSMznCxcRBnzS7pqzBTpMIZ8viHloZvfrr/I+awUtdo4IxV7QZQjrQlqFOYnXzULtLFvnILoFjeDaUM0fYx7/iTL5VqfEniWRchuHtpC0XGyvQ9weSpW+X0I7GPuZ97zMivExhQaQgNi5btM7w6+U0pgWb+TjLTuDiIAGlUyzhE1ilLujWnFoRMAh10FzeEe8Enub9uKZ8TsE=;uBwSn8buXHvMOR8ykgdhKg=="
 ---
 

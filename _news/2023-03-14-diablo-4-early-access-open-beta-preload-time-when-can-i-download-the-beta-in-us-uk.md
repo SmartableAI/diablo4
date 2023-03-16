@@ -109,18 +109,18 @@ related:
         height: 630
         isCached: true
   - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
-    excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
-    publishedDateTime: 2023-03-15T10:52:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
+    excerpt: "Preloads for the Diablo 4 Open Beta are now available on Xbox, PC, and PlayStation for anyone that preordered the game and has Early Access. The Open Beta is scheduled to first run from March 17-19 ..."
+    publishedDateTime: 2023-03-15T14:50:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners/ar-AA18G2se"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Windows Central on MSN
+      domain: msn.com
     quality: 85
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18G7E2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 668
+        height: 630
         isCached: true
 
 secured: "rBGBg84ynfsfTPRF4knYu3tkqW8SimY2YCcbzDiTxzj3zBoSqyLB9C8FK9kFSAMMkLoaEQIGnoOQpwRnLAAqMourS77ZD2+Xku562gqjWCuuC1/BB1VtCazofcexhFZt/XZ60ZSFpmYhhG/6+nY3bvdejV0jDbjNcEnoWv8s+7aCDQr9OhyFmVde9pVxg3R2JWozO9s5U3OhI6wv+MEMmva6d9mhltYT8AZfX9YK60dUEVXLsVuJoTGG+E07f7ZFCP6NkgRC8GveQNddk9ca6aJnSSl4ShGOc5VTphxS++ZwcepvnFWUGXHwHNkARKCNlRjCOG/QRQj/e4ZgPcxu8zVrlOzGjZHDRKrqOojD3rM=;/8gunNa1ThyKOakGFfFFuw=="

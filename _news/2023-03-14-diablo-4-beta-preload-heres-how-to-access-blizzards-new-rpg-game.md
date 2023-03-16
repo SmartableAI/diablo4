@@ -95,18 +95,18 @@ related:
         height: 630
         isCached: true
   - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
-    excerpt: "Preloads for Diablo 4's Open Beta are now live for anyone with access to the Early Access version of the beta scheduled to run between March 17-19. This includes anyone that has preordered the full ..."
-    publishedDateTime: 2023-03-15T10:52:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners"
+    excerpt: "Preloads for the Diablo 4 Open Beta are now available on Xbox, PC, and PlayStation for anyone that preordered the game and has Early Access. The Open Beta is scheduled to first run from March 17-19 ..."
+    publishedDateTime: 2023-03-15T14:50:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners/ar-AA18G2se"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Windows Central on MSN
+      domain: msn.com
     quality: 85
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18G7E2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 668
+        height: 630
         isCached: true
   - title: "Diablo 4 Early Access open beta preload time – when can I download the beta in US, UK?"
     excerpt: "Diablo 4 Early Access beta preload time North America & US Diablo 4 Early Access beta preload time South America Diablo 4 Early Access beta preload time UK Diablo 4 Early Access beta preload time Europe Diablo 4 Early Access beta preload time Asia Diablo"
