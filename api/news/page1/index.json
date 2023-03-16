@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support.md",
+      "title": "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support",
+      "excerpt": "Nvidia has announced that more high-profile games will be receiving a boost from AI-powered Deep Learning Super Sampling (DLSS) technology, including Diablo IV, Redfall, and Forza Horizon 5. Microsoft ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4093510-cp2077_comparison_dlss.mp4.00_00_18_52.still001.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "publishedDateTime": "2023-03-16T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023.md",
+      "title": "Can ‘Diablo 4’ Beat Out ‘Hogwarts Legacy’ For The Biggest Game Of 2023?",
+      "excerpt": "We are now a day away from Diablo 4’s beta launch, our first real, non-press preview of the game that includes a substantial amount of content (if you’ve pre-ordered, of course, as the open beta is ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/amp/",
+      "publishedDateTime": "2023-03-15T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-diablo-4-supports-dlss-3-at-launch-devs-excited-by-the-high-frame-rate.md",
+      "title": "Diablo 4 supports DLSS 3 at launch, devs 'excited by the high frame rate'",
+      "excerpt": "I don't want to jinx it but Diablo 4 sounds like it might run well on all manner of PC. DLSS is coming to Diablo 4 (opens in new tab). Blizzard's long-awaited ARPG is set for release on June 6, 2023, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-supports-dlss-3-at-launch-devs-excited-by-the-high-frame-rate/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-dlss-3-support/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-dlss-3-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5Y8X6QyJwStvQPZqZrQrPU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-diablo-4-beta-world-boss-ashava-spawn-times.md",
       "title": "Diablo 4 Beta: World Boss (Ashava) Spawn Times",
       "excerpt": "Diablo 4 players can take on a World Boss during the Open Betas, but only during certain times and one day. One of these events in both the Open Beta and the Early Access Beta weekends will be the ...",
@@ -967,132 +1120,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-diablo-4-fits-glimmers-of-hope-among-poison-swamps-and-ritual-burnings.md",
-      "title": "Diablo 4 fits glimmers of hope among poison swamps and ritual burnings",
-      "excerpt": "Diablo 4’s campaign crosses five major regions with their own looks, cultures, and enemies, but Blizzard says it doesn’t want the RPG to be all doom and gloom.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-02-diablo-4-fits-glimmers-of-hope-among-poison-swamps-and-ritual-burnings/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/regions-campaign-hope",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/regions-campaign-hope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-regions-kehjistan-scosglen-fractured-peaks-dry-steppes-hawezar.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-diablo-4-open-beta-what-classes-will-be-available.md",
-      "title": "Diablo 4 Open Beta – What classes will be available?",
-      "excerpt": "Blizzard has now provided more information on its upcoming Diablo 4 Open Beta period, such as the classes that are available during it.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-open-beta-what-classes-will-be-available/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-open-beta-what-classes-will-be-available/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-open-beta-what-classes-will-be-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-diablo-4-will-run-fine-on-a-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280.md",
-      "title": "Diablo 4 will run fine on a ten-year old GeForce GTX 660 or AMD Radeon R9 280",
-      "excerpt": "GPU hardware from a decade ago is all you need to run Diablo 4 in minimum spec, which is some impressive optimization on behalf of Blizzard.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-will-run-fine-on-a-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280/index.json",
-      "webUrl": "https://www.tweaktown.com/news/90543/diablo-4-will-run-fine-on-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/90543/diablo-4-will-run-fine-on-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/0/90543_01_diablo-4-only-needs-geforce-gtx-970-or-amd-radeon-rx-370-to-run-well.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null
