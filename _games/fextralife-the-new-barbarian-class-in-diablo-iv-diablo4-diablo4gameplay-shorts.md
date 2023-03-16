@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/fextralife-the-new-barbarian-clas
 type: video
 length: PT52S
 publishedDateTime: 2023-03-15T00:00:25Z
-heat: 298
+heat: 297
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hi5y4FEslhs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1LjM5JcOHov8rCTz2mKDjRxo0dpxKaA31v80BAa71XVoW71iA7T95gsjJhgCRDiZVpzlQlcHAuOzupnhKuTeCpnu8nqEZYaEOWyNxTScNZJzyFQLGZK3WChGvsyUOrtfyqCiLpJuwqb5iQ6gSyheGzGjKLrDZ2Bz9P6l8lmClEMdNAsRpqCLnApwWqKQUMHH8M8/4WEQN9vU3qW1C6/2YgMyUuGJYqoSYGcIGCbaXBNJVh2Lkq1mkhBIWzmKn01RyTMXbjXFq+0DKeXzaLZdWfppRA4VmyBfXE4amV4THTSEBE6n5mqmzhfL4YxX3Opc7jbfmm2S8LQAxygOh86riT2hWcSAzX1S9QaH00WxFDzTWMThAPTTVM5vx3hZIm6nnxK5xeThFkyzS8rlLDHoRw==;pVuJTlC7ziX2kwNfv3dVLg=="
+secured: "LIdG+0NqN2XJs4KhOGGVob7cLj5m3aFrRNkVnFSrcKJH++g4n9q/POJWDEl/e6Ik8p/T8MMuzifuiUgxzVE3XqOPQ7OFEVT9/rf+fmQ8RjsuaLoUU8VeAOhiBNH7/aDpYCNail5KEN3OW87RBeDk4Lhe8O78bZ5saLEvwqBpx9XEpjFDCwBkZ7FhCSnPLpIUD9S40qA1J1poioGDi1u3DDQrIn72EEBAzYuMW+lXPQT/+XfqbQaAFAJlf3Cy6jXFliHlD6ku7sVVmDhL9y467AEYpRSoAP20tfsVfETye9iI7AUtuHNPZb8VjltBNCJ3tr4d9sR5SG2wmHmdtcA5Pfi/g+YTEtV9VRH3AcHdN66Hc95aupFgt2r/qcyj8jDkk9MYNF0XvilQAYqwWjbHU9Tx21yrJnctQOs2Y3fuDQ8=;c4EnJ86Wu5RPZYghBoXAqA=="
 ---
 

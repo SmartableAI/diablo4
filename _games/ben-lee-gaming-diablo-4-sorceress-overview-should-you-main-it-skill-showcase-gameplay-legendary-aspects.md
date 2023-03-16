@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/ben-lee-gaming-diablo-4-sorceress
 type: video
 length: PT6M26S
 publishedDateTime: 2023-03-11T23:51:17Z
-heat: 124
+heat: 122
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P3jY5TlZtXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "X/vXvIiiuKAgkjuJfOlqrbeI1g6Huy0hJj/fLGlJJlEb0haKrh2+twEQ2bQTb0MYZC00rQvIDrEq2SIkjQW/WQvL25x9tqFO3OKxpQVmXWTQI0HSG2Qo8bsU1ccL3rlb7jq7akHgkjxiRmSIpIixw3bWMVSr5g+2CZk5ueSWma7+Rs0FZ1+fuv5ClSEtuy7K4r5NJprqmuGv/M6eYVV0KivPasvhrO1WbL6lq/OJI0jMiGOcPHEcQ3VogM4FFik+HFpiNw66MuVQ+LULnGk2qwIl2qpTq49+u4s///IqNrB9f4b1gqQF+MvUzuDDw14cXJhDOms4RyRG9TlV2cgpZiG7gIZYYnIxPluyhaUg6gsJoUaB/0dP3IJMM8Dm0ZVTFjGIANTkghhTjskcFEkCWDLkq5ZU74Y0jwrBAMK29p8=;F8p6vUe65MVYSXrnVNibKg=="
+secured: "kABWJjAM/b8PRuF3/PtinaK4JwinMMZV33XR2a5bWdqS41HGI9m1C9GfgZokxoKnF2jgd7g81ah3htUm5n8AKrT6YkAn8L+ffY1nuoqavYZM0e8AbdxqVyvy2V3xdgnQd5Z8Wx3/Pn5P3c50KvKIhfR22UT0RDpJzygeXT4FxOon2Okj68zcSTmwGEWlicza2Q/rqQgfcwaKr++1PKPgHFuDtDGdK2TqR+njNtj7tsoQLnL7rJFJtM41EwQGMByylrS68HgFuNqDF3D8gsiKw9kLWG1UQkL5F4pdTXxCq1aFjDqDnnb4DF44Sx4Jf/khjjBWW1QRYNuPkyY2H29+XdmX1sRPp76LD08YaNLsNGonZ7hazb6bWWkvQhIYjt+AVvfEwcvL1/V9j6jkEbGC5rqmp1NbTObuRiVqaQvSfNw=;lWfU8iLr2YTG8tLZzWmYLA=="
 ---
 
