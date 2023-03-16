@@ -4,6 +4,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
+      "title": "Diablo IV Druid Gameplay . (No Commentary)",
+      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M2S",
+      "provider": {
+        "name": "Ram's Play",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-01-26T03:13:29-08:00"
+    },
+    {
+      "path": "_games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only.md",
+      "title": "Diablo 4 Druid: The Werewolf Summoner Build! (In-Depth, No Items, Skills Only!)",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid Werewolf Summoner Build, where we dive into the skills needed to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only/",
+      "originalUrl": "https://youtube.com/watch?v=ga462qzb4e8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ga462qzb4e8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M49S",
+      "provider": {
+        "name": "RustyPieLover",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-04T08:00:31-08:00"
+    },
+    {
+      "path": "_games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv.md",
+      "title": "TOP 5 Reasons why BARBARIAN is Best Class to Play in Diablo IV",
+      "excerpt": "Top 5 Reasons to Play Barbarian in Diablo IV Beta and Launch! Discover why the Barbarian is the favorite class of Diablo players ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/spookyfairy-top-5-reasons-why-barbarian-is-best-class-to-play-in-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=bV1hnJ49EWs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bV1hnJ49EWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
+      "provider": {
+        "name": "SpookyFairy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-05T11:06:35-08:00"
+    },
+    {
       "path": "_games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed.md",
       "title": "Diablo 4 Twitter Q&A - Druid Class Mechanic Revealed",
       "excerpt": "Miss the Twitter Q&A? Here it is in full. The big news is the Druid class mechanic reveal. A recap in text is also available on the ...",
@@ -34,26 +124,26 @@
       "publishedDateTime": "2023-03-06T19:44:08-08:00"
     },
     {
-      "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
-      "title": "Diablo IV Druid Gameplay . (No Commentary)",
-      "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-druid-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-druid-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=EA13-uAwWp8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA13-uAwWp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M2S",
+      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
+      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
+      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
+      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M27S",
       "provider": {
         "name": "Ram's Play",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
       "heat": 78,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EA13-uAwWp8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -61,7 +151,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2021-01-26T03:13:29-08:00"
+      "publishedDateTime": "2021-01-24T08:05:28-08:00"
     },
     {
       "path": "_games/rockerdad-druid-gameplay-diablo-4.md",
@@ -80,7 +170,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 78,
+      "heat": 77,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -122,66 +212,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-07T13:03:43-08:00"
-    },
-    {
-      "path": "_games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr.md",
-      "title": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR)",
-      "excerpt": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/",
-      "originalUrl": "https://youtube.com/watch?v=LGFzvv5EXBQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LGFzvv5EXBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M21S",
-      "provider": {
-        "name": "GameV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-01T06:30:28-08:00"
-    },
-    {
-      "path": "_games/rams-play-diablo-iv-barbarian-gameplay-no-commentary.md",
-      "title": "Diablo IV Barbarian Gameplay . (No Commentary)",
-      "excerpt": "A brutal, physical warrior, the Barbarian roams around the battlefield constantly, dishing heavy damage and wielding an array of powerful weapons with ease.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rams-play-diablo-iv-barbarian-gameplay-no-commentary/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rams-play-diablo-iv-barbarian-gameplay-no-commentary/",
-      "originalUrl": "https://youtube.com/watch?v=PwON-IvZ5bc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PwON-IvZ5bc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M27S",
-      "provider": {
-        "name": "Ram's Play",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PwON-IvZ5bc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-01-24T08:05:28-08:00"
     },
     {
       "path": "_games/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife.md",
@@ -334,36 +364,6 @@
       "publishedDateTime": "2023-03-03T14:38:40-08:00"
     },
     {
-      "path": "_games/raxxanterax-diablo-4-barbarian-class-preview.md",
-      "title": "Diablo 4 Barbarian Class Preview",
-      "excerpt": "diablo4 #Maxroll #Blizzard 00:00 Introduction 01:08 Strengths 03:40 Weaknesses 05:26 Equipment 07:29 Skill Tree & Passives ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/raxxanterax-diablo-4-barbarian-class-preview/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-class-preview/",
-      "originalUrl": "https://youtube.com/watch?v=IrIO7GqjSyo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrIO7GqjSyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M56S",
-      "provider": {
-        "name": "Raxxanterax",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T17:22:48-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-ability-call-of-ancients-barbarian.md",
       "title": "Diablo 4 Ability Call Of Ancients - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -392,6 +392,98 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-19T11:00:00-08:00"
+    },
+    {
+      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
+      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
+      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
+      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M1S",
+      "provider": {
+        "name": "LFP Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-10T01:25:28-08:00"
+    },
+    {
+      "path": "_games/raxxanterax-diablo-4-barbarian-class-preview.md",
+      "title": "Diablo 4 Barbarian Class Preview",
+      "excerpt": "diablo4 #Maxroll #Blizzard 00:00 Introduction 01:08 Strengths 03:40 Weaknesses 05:26 Equipment 07:29 Skill Tree & Passives ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/raxxanterax-diablo-4-barbarian-class-preview/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/raxxanterax-diablo-4-barbarian-class-preview/",
+      "originalUrl": "https://youtube.com/watch?v=IrIO7GqjSyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrIO7GqjSyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M56S",
+      "provider": {
+        "name": "Raxxanterax",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-07T17:22:48-08:00"
+    },
+    {
+      "path": "_games/special_di-diablo-4-diablo4-druid-gameplay.md",
+      "title": "ЯРОСТЬ МЕДВЕДЯ - Друид Diablo 4. #diablo4 #druid #gameplay",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/special_di-diablo-4-diablo4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=VSTcaE7qKRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10S",
+      "provider": {
+        "name": "Special_di",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-23T11:46:29-08:00"
     },
     {
       "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
@@ -424,38 +516,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-07-05T14:40:16-07:00"
-    },
-    {
-      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
-      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
-      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
-      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M1S",
-      "provider": {
-        "name": "LFP Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-sorceress-gameplay-no-commentary.md",
@@ -610,21 +670,21 @@
       "publishedDateTime": "2022-12-11T13:14:49-08:00"
     },
     {
-      "path": "_games/rustypielover-diablo-4-druid-5-potential-builds-for-you.md",
-      "title": "Diablo 4 DRUID: 5 POTENTIAL BUILDS FOR YOU!",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential builds ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-5-potential-builds-for-you/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-5-potential-builds-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=MHRHriCSOVw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MHRHriCSOVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M52S",
+      "path": "_games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv.md",
+      "title": "DIABLO 4 BARBARIAN GAMEPLAY 9 MIN UNINTERRUPTED #DIABLO4 #diablo4gameplay #diabloiv",
+      "excerpt": "This is the Barbarian Gameplay displayed in the Open Beta Dev Live Stream in February 28th. This is 9 minutes of uninterrupted ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/",
+      "originalUrl": "https://youtube.com/watch?v=aaw-FZSTq3I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aaw-FZSTq3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M4S",
       "provider": {
-        "name": "RustyPieLover",
+        "name": "Rockerdad",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
       "heat": 62,
       "images": [
@@ -637,7 +697,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-31T08:00:20-08:00"
+      "publishedDateTime": "2023-02-28T15:16:56-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-mount-ability.md",
@@ -670,6 +730,36 @@
       "publishedDateTime": "2023-01-21T17:00:13-08:00"
     },
     {
+      "path": "_games/rustypielover-diablo-4-druid-5-potential-builds-for-you.md",
+      "title": "Diablo 4 DRUID: 5 POTENTIAL BUILDS FOR YOU!",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential builds ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-5-potential-builds-for-you/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-5-potential-builds-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=MHRHriCSOVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MHRHriCSOVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M52S",
+      "provider": {
+        "name": "RustyPieLover",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-31T08:00:20-08:00"
+    },
+    {
       "path": "_games/beefguyty-diablo-4-druid-wolves.md",
       "title": "Diablo 4 Druid WOLVES!",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -698,6 +788,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-29T17:00:04-08:00"
+    },
+    {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-barbarian.md",
+      "title": "New Gameplay Today – Diablo IV's Barbarian",
+      "excerpt": "Cork, Reeves and Leo sit down to show off the first chunk of Diablo IV gameplay we captured in our visit to Blizzard for Game Informer's latest cover story, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=9DFgQ81vzGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9DFgQ81vzGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M35S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9DFgQ81vzGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T16:00:01-08:00"
     },
     {
       "path": "_games/raxxanterax-diablo-4-barbarian-arsenal-system-explained.md",
@@ -760,36 +880,6 @@
       "publishedDateTime": "2022-12-01T07:00:11-08:00"
     },
     {
-      "path": "_games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv.md",
-      "title": "DIABLO 4 BARBARIAN GAMEPLAY 9 MIN UNINTERRUPTED #DIABLO4 #diablo4gameplay #diabloiv",
-      "excerpt": "This is the Barbarian Gameplay displayed in the Open Beta Dev Live Stream in February 28th. This is 9 minutes of uninterrupted ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rockerdad-diablo-4-barbarian-gameplay-9-min-uninterrupted-diablo4-diablo4gameplay-diabloiv/",
-      "originalUrl": "https://youtube.com/watch?v=aaw-FZSTq3I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aaw-FZSTq3I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "Rockerdad",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-28T15:16:56-08:00"
-    },
-    {
       "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
       "title": "Diablo 4 Druid Ravens Ability",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -818,96 +908,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-26T16:00:13-08:00"
-    },
-    {
-      "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
-      "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
-      "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one/",
-      "originalUrl": "https://youtube.com/watch?v=Rp55G6LzuMY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rp55G6LzuMY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M24S",
-      "provider": {
-        "name": "Giuseppe's Gaming - Twinfinite",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rp55G6LzuMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-01T14:30:13-07:00"
-    },
-    {
-      "path": "_games/justin-diablo-4-druid-gameplay.md",
-      "title": "Diablo 4 Druid gameplay",
-      "excerpt": "apologies for the trackpad clicking as I usually play with a mouse. Recorded from iPhone so quality might not be the best.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/justin-diablo-4-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/justin-diablo-4-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=MbzOPWjk9GE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MbzOPWjk9GE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M41S",
-      "provider": {
-        "name": "Justin",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-01T22:53:54-07:00"
-    },
-    {
-      "path": "_games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide.md",
-      "title": "DIABLO 4 - DRUIDE: Die WICHTIGSTEN Infos zur KLASSE im GUIDE",
-      "excerpt": "Der Druide kehrt in Diablo 4 als Klasse zurück und hat jede Menge Skills und Talente im Gepäck, die wir uns heute - teilweise ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-die-wichtigsten-infos-zur-klasse-im-guide/",
-      "originalUrl": "https://youtube.com/watch?v=lnv-0633X68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lnv-0633X68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M",
-      "provider": {
-        "name": "rellihcs",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-06-22T07:00:32-07:00"
     }
   ],
   "nextPage": 3
