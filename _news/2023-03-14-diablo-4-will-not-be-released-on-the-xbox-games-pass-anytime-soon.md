@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Is Diablo 4 On Xbox Game Pass: Where To Play Diablo 4"
+    excerpt: "Microsoft's pending acquisition of Activision-Blizzard may affect the availability of Blizzard's upcoming game, Diablo 4, specifically regarding it potentially coming to Xbox Game Pass. 11 years have ..."
+    publishedDateTime: 2023-03-16T14:00:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-on-xbox-game-pass-where-to-play-diablo-4/ar-AA18J8F5"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18J3OS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UoZMwLVhP1XEK1mIYgBtb3pWZ+8k4VQGQANJFJ7RnH9KNA4EJcqFPphLY9z8pK/B4ch+3a78B/NUHHq2qAhyzmWrIe9tJd6eSnsHwCAyVZD4hGXHkZLeReyxgdmhA94cZefWLG2vqwhowgtbVw2nyerrb+51BRM9u8uFY1vl5y1ENnPqssmC4HJGRJ4tjA3ozVRiSEvwglUqm8mrRdtZBAd+5+HjEYDoBnD9gE64dCJf983DOFIkBhAJnEHyPMS4aQrfR7T7sQk1BGELYz09/K+Hw7hjJNonq2BB74ZWuPYWsQeO60QQLFcoOlo3FgBF3pc8dlsLyut7vCVZTNNQNEGWB/6EIlnyed2dRzSTyHE=;6IZ4xYGQM5lSSmFfvZ1t1w=="
 ---
