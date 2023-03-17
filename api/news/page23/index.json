@@ -2,6 +2,90 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2019-11-01-sodapoppin-reacts-to-diablo-4-cinematicannouncement-with-chat.md",
+      "title": "Sodapoppin Reacts To Diablo 4 Cinematic/Announcement (WITH CHAT)",
+      "excerpt": "CLICK THIS IF YOU'RE PEPEGA: https://bit.ly/35BnN0k ▷Like And Subscribe! -------------------------------------------- ▷SODA'S ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-sodapoppin-reacts-to-diablo-4-cinematicannouncement-with-chat/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-sodapoppin-reacts-to-diablo-4-cinematicannouncement-with-chat/",
+      "originalUrl": "https://youtube.com/watch?v=Q3x819COyho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q3x819COyho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T16:41:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Dose Of Pepega",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer Reaction",
+      "excerpt": "Here is My Reaction to the Diablo 4 - Official Announcement Cinematic Trailer Let me know what you thought of thought of the cinematic in the comments down ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=sh-1TMuph84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sh-1TMuph84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sh-1TMuph84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T15:37:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BlueSpartan",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now.md",
       "title": "Diablo 4 Announced at BlizzCon 2019 - IGN Now",
       "excerpt": "Diablo 4 was the first announced game at this year's BlizzCon, which is a good thing considering how anticipated it was prior to last year's BlizzCon (to much fan ...",
@@ -968,90 +1052,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Rhykker",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm.md",
-      "title": "Diablo 4 Announcement Was Never Planned For BlizzCon - PWilhelm",
-      "excerpt": "There was nothing about diablo 4 announced at blizzcon. Will we ever get it? Or will we go to the mobile version Diablo immortal? Thank you for watching.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-07-diablo-4-announcement-was-never-planned-for-blizzcon-pwilhelm/",
-      "originalUrl": "https://youtube.com/watch?v=93DbILKYmaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/93DbILKYmaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/93DbILKYmaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-07T12:38:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PWilhelm",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon.md",
-      "title": "Diablo 4 Announcement PULLED Before Blizzcon...",
-      "excerpt": "Recent information would suggest that Diablo 4 was set to be announced at Blizzcon but ended being pulled after developers couldn't commit to the current ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-diablo-4-announcement-pulled-before-blizzcon/",
-      "originalUrl": "https://youtube.com/watch?v=VaUFjfbPEoA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VaUFjfbPEoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VaUFjfbPEoA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-06T11:07:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Accolonn",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

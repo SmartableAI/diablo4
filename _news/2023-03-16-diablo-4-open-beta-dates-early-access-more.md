@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Beta: When it Starts and How to Get Into It"
-excerpt: "Diablo 4 is about to enter its first public beta, and with the excitement comes some uncertainty about the best way to access it. Who can play the beta, how to enroll in it, and w"
-publishedDateTime: 2023-03-09T09:03:00Z
-originalUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
-webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
+title: "Diablo 4 Open Beta – Dates, Early Access, more"
+excerpt: "The Diablo 4 developers recently released the details for the game’s open beta, including its dates, early access, and more. This announcement came via a post on their official site, as well as on a ..."
+publishedDateTime: 2023-03-16T17:20:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-dates-early-access-more/ar-AA17GXjT"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-dates-early-access-more/ar-AA17GXjT"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-beta-early-access.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17H27H.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=201"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +39,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Diablo 4 Beta: When it Starts and How to Get Into It"
+    excerpt: "Diablo 4 is about to enter its first public beta, and with the excitement comes some uncertainty about the best way to access it. Who can play the beta, how to enroll in it, and w"
+    publishedDateTime: 2023-03-09T09:03:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-beta-early-access.jpg"
+        width: 1800
+        height: 900
         isCached: true
   - title: "Diablo 4 beta Early Access, Open Beta release time, dates, pre-load and campaign content"
     excerpt: "You can unsubscribe at any time. More info The first part of Diablo 4's pre-release beta is about to get started. First up is the Diablo 4 Early Access beta, which is available on PlayStation 5 and ..."
@@ -88,20 +98,6 @@ related:
         width: 1519
         height: 675
         isCached: true
-  - title: "Diablo 4 Open Beta – Dates, Early Access, more"
-    excerpt: "The Diablo 4 developers recently released the details for the game’s open beta, including its dates, early access, and more. This announcement came via a post on their official site, as well as on a ..."
-    publishedDateTime: 2023-03-16T17:20:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-dates-early-access-more/ar-AA17GXjT"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17H27H.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=201"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
     publishedDateTime: 2023-03-15T03:23:00Z
@@ -126,6 +122,6 @@ related:
       domain: siliconera.com
     quality: 67
 
-secured: "iG7h95HfqSgHniZf157AqINcU3/vGCMA13H3a5xGHkGJBE/ow2b0wEkRj4Mfm8s6hrdUtv4p8bo4/PvopifKrRmJiGklp81tjwlE74/8vvwPCu9G9hQV/BxWtK8uM79RWB9l3fupr6k6kb4SE6N/K5aACHCRgYThXMCX42ckcGlCRtZOARlha20AGnVakcuABBKoQJVvzasnwM3WZWjWqNXFhk86VSZQriU3pgiRGuxeTZFnEGSC5sexBShEFGYW5xbYjBFsOO43vOfiPU7YL1gL89d7DW0btmuc9B+Ep7rpeOGfZ7IGQaTFplNzH1O+ZdJ+AKlvZul87PAG9QJRgunK1ONZdQUcwgeIbrR5s+U=;7u5V7xhydtTtKVV9hLRc6w=="
+secured: "/HXDzpHk8PRKmhaCoNKv4FXtA8igtBY+ZwH9nXh0gNxL9knBFW5IXJeO9vP4E8vUZAXHC6uEPgwHXoGaDBpFLkI+ffIuZGju5iVlVrNF/dS8RPj84toHgJLpB0iRRiNDKqr3/xFZREtCnIYRqNavFowoCKaJj9+TBvPWmysBg/GNoiJbfGdXjebLUtMLpUuL5/rRnEsbJ0XtKKhDL7skUoDGJ3dF1Y1nECZFJTePxIYFQUMwyzwnyjMrw79x6/FbtgiS3OAnlPqg07D7v//Sw5AFOaMgKHBfk9Pfq1I1WzeTrEIqIRKtE18V/MX6Y5W7dUVWMgpz9a8gXZzPQWqjFIN/lxHm95Th2kdtin+4kY0=;IHgNm93HE6y2HLuy6UH1qg=="
 ---
 

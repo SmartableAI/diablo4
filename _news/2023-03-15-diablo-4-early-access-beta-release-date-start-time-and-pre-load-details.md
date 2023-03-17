@@ -98,6 +98,20 @@ related:
         width: 1519
         height: 675
         isCached: true
+  - title: "Diablo 4 Open Beta – Dates, Early Access, more"
+    excerpt: "The Diablo 4 developers recently released the details for the game’s open beta, including its dates, early access, and more. This announcement came via a post on their official site, as well as on a ..."
+    publishedDateTime: 2023-03-16T17:20:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-dates-early-access-more/ar-AA17GXjT"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17H27H.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=201"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z
