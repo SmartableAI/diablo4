@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/is-there-character-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/is-there-character-customization-in-diablo-4/ar-AA18vsCf"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Take a tour of the Diablo 4 beta character creation options"
+    excerpt: "My Diablo 4 beta barbarian is a certified beefcake named Duncan. I already love how he looks before I've looted the perfect armor set, and that's all thanks to Diablo 4's simple, but effective ..."
+    publishedDateTime: 2023-03-17T12:49:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-character-creation/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wxLxzVT8qkgZSMqqW6xBLN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How character customization works in Diablo 4"
     excerpt: "Diablo 4 is coming out soon and fans curious about how far the customization goes in character creation. In previous games of the franchise, such as Diablo 2, certain classes were locked behind ..."
     publishedDateTime: 2023-03-12T21:23:10Z

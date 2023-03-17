@@ -1,21 +1,33 @@
 ---
 category: news
-title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
-excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
-publishedDateTime: 2023-03-02T15:32:00Z
-originalUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
-webUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
+title: "Diablo 4 beta rewards: how to earn all titles and cosmetics"
+excerpt: "Diablo 4‘s beta is an opportunity for fans of the loot-heavy role-playing game to sink some time into its dark and demonic world before the game launches on June 6. Though you can invest a good bit of ..."
+publishedDateTime: 2023-03-17T13:51:00Z
+originalUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/"
+webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/"
+ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-rewards/?amp"
 type: article
-quality: 67
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: siliconera
-  domain: siliconera.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://www.digitaltrends.com/wp-content/uploads/2021/07/diablo4.jpg?resize=1200%2C630&p=1"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Diablo 4 Open Beta Dates, Early Access, And How To Get Into Beta"
@@ -63,22 +75,6 @@ related:
       - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-beta-early-access.jpg"
         width: 1800
         height: 900
-        isCached: true
-  - title: "Diablo 4 beta rewards: how to earn all titles and cosmetics"
-    excerpt: "Diablo 4‘s beta is an opportunity for fans of the loot-heavy role-playing game to sink some time into its dark and demonic world before the game launches on June 6. Though you can invest a good bit of ..."
-    publishedDateTime: 2023-03-17T13:51:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-rewards/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 107
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2021/07/diablo4.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How to Join the Diablo 4 Beta"
     excerpt: "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in beta before its full release. The Diablo 4 Open Beta and Early Access ..."
@@ -196,7 +192,16 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
+    excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
+    publishedDateTime: 2023-03-02T15:32:00Z
+    webUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
+    type: article
+    provider:
+      name: siliconera
+      domain: siliconera.com
+    quality: 67
 
-secured: "2OkyZin46/kd1oSk73DYR9lkzdTLuSwrtRNyWGYySPbN1MOOBaki5fZMVak9wBPexyh4lsJZGb4n8Pa9Apnr9iZYoBlXHO4CQh5QwqVpqVSs9he6su1eXVne9Xk/W/NCYzyjywbqLHrMoMfWhCblkJ5cKXQsjtPL3p3ftcPaXvG6fgVeV5ed63tLDfjhJt+iG5lhkaYfDmohEbrIlMoU98WVIpYsn9T6LQ4CT7YDnhe36tFeSxm39jTNTHOB1t2njwcTsUpWu8zmNPiU38gd4+7D6ay+g3jhtIqmSHo/Vg1EvRySN6A9moMs8g/hUWmauC50eo4M3zBkwgtqKghIl1f7isaJU7B9GshqJZ2lBoM=;moYzl4uKfaocXujYX7eRxg=="
+secured: "s5OAgS4nJhdgQM8yScIhMnI/0mXyLVD6p+0QLUyKf7FH1TXcmLsPLRdzs6RaaLW3s/KkEO3+HiDYQzhmW/xo1lvvlkcW4koocYQHDgSRu9WGh8uUsHL0o+JnjLHqUHZXErU9oZuvgy0EvxvXPYwLfj8PW2QIWTdEFtBFW6WWR3Ib+eW5hwNNvpNKq/4T8KioTvkqEwJ3tSBNS0cJaC5kitUhsfDb2/Vn8FgP+5Ag10Y98UGeHCgFi/2El2Rrzq+pfc9nBTx5JouqG6/R5Q28wukuwBRmxkaUEMpUpsBLmYOXPElnXP0NBGbdf+mKemSkswH3EOOIds0tRXSct5/HgLgidkdvb1zluL6gQ4vWnYk=;Rdwz2ztIZW4eSLSC9USg8Q=="
 ---
 

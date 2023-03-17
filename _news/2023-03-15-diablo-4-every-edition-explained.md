@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-every-edit
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-every-edition-explained/ar-AA18FkqD"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4: Stats Explained"
+    excerpt: "There are four major stats and several minor stats in Diablo 4, and players will want to know what each of them does to level with a plan. Dexterity gives an additional chance to a player's dodge ..."
+    publishedDateTime: 2023-03-17T13:08:00Z
+    webUrl: "https://gamerant.com/diablo-4-stats-explained/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/stats-diablo-4-explained-01.jpg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "RGITIgYnErrfHPsgcI+nhVds+IoNDJJ5PghwcfDxwCWQIGMvZKuykySezHsaml1M6mzpqgvy2SlN8AITRKXX5SDyx3dZ/VsekBXakPx4lxJ1buVukoZKfWq/bMzkYvRmIzxAuAZAoYiSDhak4M4i+jElv892XgEtu1VF21uxmDtFSzRHwJBoYKsnEuS2bp6wWbJLqOEkSgWGPElbp4xcoUYgOzuLJayr9IE6YIq9CwzN20buiCO9N3l+n5vgV2s5neJSMQbQNXUPzKtB8jKPeUL9hr/SlIpgEKXi3ghL6nF/+IYRWqREUrs4sF+aemKHCOb0QOMJyWEfNSVDQX5IsA4yxVG2XvQgrV3WKh/GmQ0=;EgUQ8LSnSNq4aWOW8Fd9+w=="
 ---

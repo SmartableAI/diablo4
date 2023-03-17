@@ -70,6 +70,38 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 beta rewards: how to earn all titles and cosmetics"
+    excerpt: "Diablo 4‘s beta is an opportunity for fans of the loot-heavy role-playing game to sink some time into its dark and demonic world before the game launches on June 6. Though you can invest a good bit of ..."
+    publishedDateTime: 2023-03-17T13:51:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/diablo-4-beta-rewards/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-rewards/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 107
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2021/07/diablo4.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How to Join the Diablo 4 Beta"
+    excerpt: "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in beta before its full release. The Diablo 4 Open Beta and Early Access ..."
+    publishedDateTime: 2023-03-17T13:22:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-join-the-diablo-4-beta/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-join-the-diablo-4-beta/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 107
+    images:
+      - url: "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 beta Early Access, Open Beta release time, dates, pre-load and campaign content"
     excerpt: "You can unsubscribe at any time. More info The first part of Diablo 4's pre-release beta is about to get started. First up is the Diablo 4 Early Access beta, which is available on PlayStation 5 and ..."
     publishedDateTime: 2023-03-16T08:39:00Z

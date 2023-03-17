@@ -1,21 +1,33 @@
 ---
 category: news
-title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
-excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
-publishedDateTime: 2023-03-02T15:32:00Z
-originalUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
-webUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
+title: "How to Join the Diablo 4 Beta"
+excerpt: "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in beta before its full release. The Diablo 4 Open Beta and Early Access ..."
+publishedDateTime: 2023-03-17T13:22:00Z
+originalUrl: "https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/"
+webUrl: "https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-join-the-diablo-4-beta/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-join-the-diablo-4-beta/"
 type: article
-quality: 67
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: siliconera
-  domain: siliconera.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Diablo 4 Open Beta Dates, Early Access, And How To Get Into Beta"
@@ -77,22 +89,6 @@ related:
     quality: 107
     images:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2021/07/diablo4.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to Join the Diablo 4 Beta"
-    excerpt: "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in beta before its full release. The Diablo 4 Open Beta and Early Access ..."
-    publishedDateTime: 2023-03-17T13:22:00Z
-    webUrl: "https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-to-join-the-diablo-4-beta/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-join-the-diablo-4-beta/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 107
-    images:
-      - url: "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200"
         width: 1200
         height: 630
         isCached: true
@@ -196,7 +192,16 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
+    excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
+    publishedDateTime: 2023-03-02T15:32:00Z
+    webUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
+    type: article
+    provider:
+      name: siliconera
+      domain: siliconera.com
+    quality: 67
 
-secured: "2OkyZin46/kd1oSk73DYR9lkzdTLuSwrtRNyWGYySPbN1MOOBaki5fZMVak9wBPexyh4lsJZGb4n8Pa9Apnr9iZYoBlXHO4CQh5QwqVpqVSs9he6su1eXVne9Xk/W/NCYzyjywbqLHrMoMfWhCblkJ5cKXQsjtPL3p3ftcPaXvG6fgVeV5ed63tLDfjhJt+iG5lhkaYfDmohEbrIlMoU98WVIpYsn9T6LQ4CT7YDnhe36tFeSxm39jTNTHOB1t2njwcTsUpWu8zmNPiU38gd4+7D6ay+g3jhtIqmSHo/Vg1EvRySN6A9moMs8g/hUWmauC50eo4M3zBkwgtqKghIl1f7isaJU7B9GshqJZ2lBoM=;moYzl4uKfaocXujYX7eRxg=="
+secured: "sBG7dwySugo1RMlxADolDh7K02NRfJxoaBluG+3H+y4tQvlvIBw0bRlJQuD7Ct30G8ayyeFe4z5/4RKDGozcoNwlWi5x28YAQm2mXATmSwLqVsHtgTovRn9xPCo/4vwYNib49CfL8tg76IdKDmE3sm9OM5LxsmoqnSl8c/uHLroDrRN2cif0/V9LHZ1j48yugTxQSFD9YSjwHzvmUxXzqtOTYzUmMwk5wj+fc5nDFa3SuSFly7s3hI0bXkOOiVzhbq6uttgXlj2yH9tWPz9mngBRmVWC1R4KeQ7s5JFGPeQPigglG4KyB/ykVQco9e7+Ak/dt3w8rT9jiPcqsgBQe+e4RGV2UWx/eD4W/8LH160=;RyG6M9gQd13kR/4Vzdhx2w=="
 ---
 

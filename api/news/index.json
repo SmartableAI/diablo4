@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-17-diablo-4-stats-explained.md",
+      "title": "Diablo 4: Stats Explained",
+      "excerpt": "There are four major stats and several minor stats in Diablo 4, and players will want to know what each of them does to level with a plan. Dexterity gives an additional chance to a player's dodge ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-stats-explained/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-stats-explained/",
+      "originalUrl": "https://gamerant.com/diablo-4-stats-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/stats-diablo-4-explained-01.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-take-a-tour-of-the-diablo-4-beta-character-creation-options.md",
+      "title": "Take a tour of the Diablo 4 beta character creation options",
+      "excerpt": "My Diablo 4 beta barbarian is a certified beefcake named Duncan. I already love how he looks before I've looted the perfect armor set, and that's all thanks to Diablo 4's simple, but effective ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-take-a-tour-of-the-diablo-4-beta-character-creation-options/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-character-creation/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-character-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wxLxzVT8qkgZSMqqW6xBLN-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-people-are-freaking-out-about-kfcs-diablo-4-beta-codes.md",
+      "title": "People Are Freaking Out About KFC's Diablo 4 Beta Codes",
+      "excerpt": "Blizzard fans are freaking out about the only current way to access the long-awaited Diablo 4 beta: ordering KFC. As the beta kicks off today, March 17, hopeful players are taking to the game's Reddit ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-people-are-freaking-out-about-kfcs-diablo-4-beta-codes/index.json",
+      "webUrl": "https://www.ign.com/articles/people-are-freaking-out-about-kfcs-diablo-4-beta-codes",
+      "originalUrl": "https://www.ign.com/articles/people-are-freaking-out-about-kfcs-diablo-4-beta-codes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/03/01/diablo4betaearlyaccessgameplaytrailer-ign-blogroll-1677696974394.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in.md",
       "title": "What a surprise—the Diablo 4 beta test servers are being crushed and people can't get in",
       "excerpt": "The Diablo 4 (opens in new tab) preorder beta is now underway, and as you might have expected, it's not going perfectly smoothly. The biggest and most obvious issue for people trying to get into the ...",
@@ -945,141 +1098,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-15T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-diablo-4-beta-world-boss-ashava-spawn-times.md",
-      "title": "Diablo 4 Beta: World Boss (Ashava) Spawn Times",
-      "excerpt": "Diablo 4 players can take on a World Boss during the Open Betas, but only during certain times and one day. One of these events in both the Open Beta and the Early Access Beta weekends will be the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4-beta-world-boss-ashava-spawn-times/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4-beta-world-boss-ashava-spawn-times/ar-AA18GonW",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4-beta-world-boss-ashava-spawn-times/ar-AA18GonW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Gxz1.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-diablo-4-pre-order-guide.md",
-      "title": "Diablo 4 pre-order guide",
-      "excerpt": "All pre-orders of the game get you early access to the open beta that begins on March 17 and runs until March 20. However, it's worth noting that the Diablo 4 Beta will be made available to everyone ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4-pre-order-guide/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FIz0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-diablo-4-preloading-for-the-early-access-beta-has-started.md",
-      "title": "Diablo 4 preloading for the early access beta has started",
-      "excerpt": "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4-preloading-for-the-early-access-beta-has-started/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T04:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Gamer",
