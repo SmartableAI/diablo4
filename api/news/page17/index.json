@@ -2,6 +2,174 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
+      "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
+      "excerpt": "Diablo 4 isn't coming for at least another year, but we've already seen a good deal of gameplay, art, and insights into Blizzard's plans for the long-awaited sequel. Thanks to detailed quarterly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bX0xl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T09:56:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem.md",
+      "title": "Why Diablo 4 and Overwatch 2 Won’t Fix Blizzard’s Biggest Problem",
+      "excerpt": "While some gamers have spent the last few years speculating that Blizzard’s string of public problems (which includes layoffs, botched remasters, delays, employee departures, and a series of PR ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2020/02/diablo-4-updates.jpg?fit=1547%2C877",
+          "width": 1547,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp",
+      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp",
+      "publishedDateTime": "2021-05-24T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects.md",
+      "title": "Diablo 4 and Overwatch 2 Are Not Blizzard's Only Projects",
+      "excerpt": "One of the employees of Blizzard Entertainment - Ion Hazzikostas, i.e. the director of WoW - admitted in a press interview that apart from Diablo 4 and Overwatch 2, the aforementioned studio is also ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
+      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/359540992.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=13058",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=13058",
+      "publishedDateTime": "2021-05-23T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on.md",
+      "title": "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on",
+      "excerpt": "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
+      "originalUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
+      "publishedDateTime": "2021-05-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together.md",
       "title": "Report: ‘Messed Up Planning’ Means ‘Overwatch 2’ And ‘Diablo 4’ May Release Together",
       "excerpt": "Diablo 4 and Overwatch 2 are coming, but if they launch together, that could mean another massive gap for Blizzard afterward.",
@@ -916,183 +1084,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets.md",
-      "title": "Diablo 4's open world is as Diablo as it gets",
-      "excerpt": "Diablo 4 devs tell us more about how the first open-world game in the series will work. Diablo 4’s Rogue class unveiled with its very own trailer during BlizzCon 2021 Diablo Immortal will be a mobile ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-diablo-4s-open-world-is-as-diablo-as-it-gets/index.json",
-      "webUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "originalUrl": "https://www.techradar.com/nz/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/KLr39p4uWhxQVoXwdwwZFb-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/diablo-4s-open-world-is-as-diablo-as-it-gets",
-      "publishedDateTime": "2021-02-21T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement.md",
-      "title": "Accolonn Reacts to Diablo 4 Thief Announcement",
-      "excerpt": "Diablo 4 Thief announcement, Reaction Contact and Support Me: https://streamerlinks.com/Accolonn Join this channel to get access to perks: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-21-accolonn-reacts-to-diablo-4-thief-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=XmMAmltgdwA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmMAmltgdwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XmMAmltgdwA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-21T06:58:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Accolonn",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-diablo-4-confirms-more-routine-updates-coming-in-2021.md",
-      "title": "Diablo 4 Confirms More Routine Updates Coming In 2021",
-      "excerpt": "Much as it did last year, Blizzard has confirmed that it will be doing quarterly updates for Diablo 4 over the course of 2021. Speaking to us here at ComicBook.com, Diablo 4’s L ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-diablo-4-confirms-more-routine-updates-coming-in-2021/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-quarterly-updates-2021/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-quarterly-updates-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-quarterly-updates-2021/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-quarterly-updates-2021/",
-      "publishedDateTime": "2021-02-21T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021.md",
-      "title": "Reaction Diablo IV Rogue Announcement Trailer Blizzconline 2021",
-      "excerpt": "Frozenshady #DiabloIV #Blizzconline Frozenshady reacts to the Blizzconline 2021 announcement trailer for the Rogue class in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021/",
-      "originalUrl": "https://youtube.com/watch?v=aF-69oe6yyM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aF-69oe6yyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T13:14:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FRoZeNShAdY",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

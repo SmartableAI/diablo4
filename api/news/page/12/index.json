@@ -2,6 +2,174 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood.md",
+      "title": "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood",
+      "excerpt": "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
+      "originalUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2022/06/D4NecroHeader.png",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
+      "publishedDateTime": "2022-06-21T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat.md",
+      "title": "How long is Diablo 4? Main campaign length & time to beat",
+      "excerpt": "If you're wondering how long will it take to complete the main campaign of Diablo 4 with story details, here's everything you need to know.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
+      "originalUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/20/diablo-4-campaign-length.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
+      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
+      "publishedDateTime": "2022-06-19T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says.md",
+      "title": "Diablo 4 “A Love Letter To Fans”, Game Director Says",
+      "excerpt": "Blizzard Entertainment have shared some further details on the highly-anticipated Diablo 4, which they hope fans will love.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says/index.json",
+      "webUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "originalUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-diablo-4-what-classes-are-available.md",
+      "title": "Diablo 4: What Classes Are Available?",
+      "excerpt": "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-what-classes-are-available/index.json",
+      "webUrl": "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/",
+      "originalUrl": "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update.md",
       "title": "Blizzard Gives Diablo 4 Fans Hope With New Update",
       "excerpt": "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ...",
@@ -944,192 +1112,6 @@
         "name": "StewGaming | Diablo Immortal",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we.md",
-      "title": "DIABLO 4 - RELEASE DATE + NEW CHARACTER ANNOUNCED!! How Hyped are we??",
-      "excerpt": "Broadcasted live on Twitch -- Watch live at https://www.twitch.tv/mrllamasc.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-12-diablo-4-release-date-new-character-announced-how-hyped-are-we/",
-      "originalUrl": "https://youtube.com/watch?v=ZeMaSOKdK3o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZeMaSOKdK3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T16:45:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MrLlamaSC",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-is-coming-necromancer-announced.md",
-      "title": "DIABLO 4 is coming! NECROMANCER Announced!",
-      "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming Necromancer ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-is-coming-necromancer-announced/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-12-diablo-4-is-coming-necromancer-announced/",
-      "originalUrl": "https://youtube.com/watch?v=K43JIZZ4j50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K43JIZZ4j50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T13:17:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming.md",
-      "title": "All Hell Breaks Loose in 2023—Diablo IV is Coming",
-      "excerpt": "Diablo IV is set to raise Hell’s temperature to a new level. Join us around the campfire to learn what’s coming in this next generation installment of the Diablo series.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T11:03:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4s-final-class-is-necromancer-2023-release-and-new-details-revealed.md",
-      "title": "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed",
-      "excerpt": "Blizzard's much-anticipated Diablo 4 showed up in a major way during the Xbox/Bethesda showcase, giving us our first look at the fifth and final class, the Necromancer. The presentation included much ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4s-final-class-is-necromancer-2023-release-and-new-details-revealed/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "publishedDateTime": "2022-06-12T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

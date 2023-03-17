@@ -2,6 +2,183 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more.md",
+      "title": "The Diablo 4 beta hasn’t convinced me yet, but I can’t wait to play more",
+      "excerpt": "Diablo 4 has a hell of a challenge in front of it. Created against Activision Blizzard’s alleged toxic working culture, a team of developers has been tasked with aiding the ongoing resurrection of a gaming behemoth.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T00:00:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-diablo-4-hands-on-preview-redefining-hell.md",
+      "title": "Diablo 4 Hands-On Preview - Redefining Hell",
+      "excerpt": "Diablo IV is quick to differentiate itself from its predecessors in almost every way, while intelligently iterating on new series staples with ideas that put freedom of play at the center.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-hands-on-preview-redefining-hell/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-diablo-4-takes-darkness-to-a-new-level.md",
+      "title": "Diablo 4 Takes Darkness to a New Level",
+      "excerpt": "When it launches, Diablo 4 will have five classes available to play: Barbarian, Rogue, Sorceress, Necromancer and Druid. Since the Necromancer wasn't available, I went with the Barbarian to get a feel of the melee combat and how dynamic it is, and it's on",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-takes-darkness-to-a-new-level/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4-takes-darkness-to-a-new-level/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4-takes-darkness-to-a-new-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/dde45e98bf544c38041afacbdeafa46973ccde28/hub/2022/12/07/03e59077-4772-4a8a-a1e6-8a50f72240f5/igcshowcase-lilith-02.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4-takes-darkness-to-a-new-level/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-takes-darkness-to-a-new-level/",
+      "publishedDateTime": "2022-12-06T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-diablo-4-june-release-date-leaked-by-microsoft-ahead-of-the-game-awards.md",
+      "title": "Diablo 4 June release date leaked by Microsoft ahead of The Game Awards",
+      "excerpt": "Details on Diablo 4’s release have leaked again, this time via the Xbox store - which gives it an exact launch date.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-june-release-date-leaked-by-microsoft-ahead-of-the-game-awards/index.json",
+      "webUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
+      "originalUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/diablo4-multi-982a.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/",
+      "publishedDateTime": "2022-12-06T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-rumor-diablo-4-ps4-ps5-release-could-happen-in-june-2023-impressions-reportedly-going-live-this-week.md",
       "title": "Rumor – Diablo 4 PS4, PS5 Release Could Happen In June 2023, Impressions Reportedly Going Live This Week",
       "excerpt": "Fresh reports on the Diablo 4 PS4, PS5 release date have pegged the game for a June 2023. Plus, impressions are reportedly going live this week.",
@@ -898,174 +1075,6 @@
       "provider": {
         "name": "GamesRadar+",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices.md",
-      "title": "Diablo 4 combat “grounded” to make room for tactical choices",
-      "excerpt": "Diablo 4 combat feels “more grounded” than that of its predecessor, says Rod Fergusson of the upcoming RPG game. The Blizzard general manager for Diablo joins game director Joe Shely to detail how ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-combat-grounded-to-make-room-for-tactical-choices/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/combat",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/combat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-combat-design-intentional-blizzard-interview-joe-shely-rod-fergusson.jpg",
-          "width": 1876,
-          "height": 1055,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss.md",
-      "title": "Diablo 4 Fans Worried Following Tweet From Blizzard Boss",
-      "excerpt": "Why are Diablo fans worried about comments made by Mike Ybarra? Well, because he is the President of Blizzard. Taking to Twitter, a day after the aforementioned report made the rounds, Ybarra ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/11/08/57aa28e7-4b7e-4db2-9b7b-565d110ae452/target-buy-two-get-one-deal.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
-      "publishedDateTime": "2022-11-08T22:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-diablo-4-explains-open-world-bosses-and-legendary-items.md",
-      "title": "Diablo 4 Explains Open World, Bosses and Legendary Items",
-      "excerpt": "Diablo 4 developers dive into the game's World Tier difficulties, World Bosses, and how Legendary items combine the best of Diablo 2 and Diablo 3.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-08-diablo-4-explains-open-world-bosses-and-legendary-items/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-open-world-bosses-and-legendary-items/ar-AA13SutO",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-open-world-bosses-and-legendary-items/ar-AA13SutO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13SIJE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T03:04:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-reportedly-set-to-arrive-in-april-2023.md",
-      "title": "‘Diablo 4’ reportedly set to arrive in April 2023",
-      "excerpt": "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-reportedly-set-to-arrive-in-april-2023/index.json",
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344601",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/07/Diablo-4-Necromancer-beta-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

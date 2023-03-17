@@ -2,6 +2,174 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-11-06-everything-you-need-to-know-about-the-current-status-of-diablo-4.md",
+      "title": "Everything you need to know about the current status of Diablo 4",
+      "excerpt": "Blizzard disappointed fans when they announced the mobile game Diablo Immortal on Blizzcon 2018. Thus, to make amends with their admonishing fans, they have to give them what they really want: the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-06-everything-you-need-to-know-about-the-current-status-of-diablo-4/index.json",
+      "webUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/",
+      "originalUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9bRWIdOMfro/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/",
+      "publishedDateTime": "2020-11-06T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClutchPoints",
+        "domain": "clutchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed.md",
+      "title": "Blizzard says its ‘Diablo 4’ announcement wasn’t delayed",
+      "excerpt": "but not so good for hardcore Diablo gamers who are anxiously waiting for Diablo 4. A report then claimed that Blizzard wanted to announce Diablo 4 at the event as well, but plans changed in the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed/index.json",
+      "webUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
+      "originalUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2018/11/diablo-immortal.jpg?quality=70&#038;strip=all",
+          "width": 1360,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
+      "publishedDateTime": "2020-11-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op.md",
+      "title": "Diablo 4 will support controllers on PC, has 2-player couch co-op",
+      "excerpt": "Blizzard confirms some interesting new features coming to Diablo 4 on PC, including full controller support and total controller remapping/custom keybinding. Diablo 4 is being developed for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.json",
+      "webUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/0/70934_255_diablo-iv-will-support-controllers-on-pc-has-2-player-couch-co-op_full.png",
+          "width": 1300,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
+      "publishedDateTime": "2020-11-03T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-new-diablo-4-update-has-fans-speculating.md",
+      "title": "New Diablo 4 Update Has Fans Speculating",
+      "excerpt": "A new Diablo 4 update has surface online courtesy of LinkedIn, and it's not the news fans wanted to hear. Since announcing Diablo 4, Blizzard has said nothing consequential about the game. At the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-31-new-diablo-4-update-has-fans-speculating/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
+      "publishedDateTime": "2020-10-31T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-diablo-4-everything-we-know-about-the-next-diablo-game.md",
       "title": "Diablo 4: Everything we know about the next Diablo game",
       "excerpt": "Although much is still under wraps, Blizzard has started to reveal bits and pieces of Diablo 4. Here's everything we know about the highly anticipated title.",
@@ -948,193 +1116,6 @@
         "Diablo 4",
         "Druid",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
-      "title": "Diablo 4 release date, trailers, news and rumors",
-      "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors/index.json",
-      "webUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "publishedDateTime": "2020-06-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react.md",
-      "title": "REACTION TO Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACT",
-      "excerpt": "REACTION TO Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACT If you like it, subscribe and definitely comment. Looking forward to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/",
-      "originalUrl": "https://youtube.com/watch?v=kLmgdqgUUZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kLmgdqgUUZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kLmgdqgUUZQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-27T07:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FilipKubesReacts",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content.md",
-      "title": "Blizzard Drops Major 'Diablo 4' Updates On Gameplay, Open-World And Side Content",
-      "excerpt": "Blizzard released a handful of details about the \"Diablo 4\" Updates focus on gameplay, open-world and more \"Diablo 4\" is one of the most anticipated games from Blizzard Gaming studio Blizzard shared a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content/index.json",
-      "webUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
-      "originalUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/09/04/diablo-3-ps3.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
-      "publishedDateTime": "2020-06-26T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-diablo-iv-quarterly-updatejune-2020.md",
-      "title": "Diablo IV Quarterly Update—June 2020",
-      "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. Take a look at elements of the team playtest milestone, including blockout, storytelling, open world gameplay, multiplayer, items, progression, and more.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-iv-quarterly-updatejune-2020/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/wm/WM26L4P3GY291593028352157.jpg",
-          "width": 1520,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
-        "Diablo 4"
       ]
     }
   ],

@@ -2,6 +2,183 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Reaction. Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019.",
+      "excerpt": "Girls On Omegle. Reaction. Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019. Original: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8upHrKcqVEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8upHrKcqVEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8upHrKcqVEU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T06:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "G.R. GIRLS REACTION",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer REACTION",
+      "excerpt": "This is the best!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=0czOFQHe0ss",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0czOFQHe0ss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0czOFQHe0ss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T04:01:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Illfrin reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4.md",
+      "title": "The ‘Lost Ark’ Beta Looks To Fill The Massive Void Left By ‘Diablo 4’",
+      "excerpt": "Today marks the launch of the Lost Ark technical beta, where you can sign up to potentially get a code, or buy one of the early special additions for instant access.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6183e952d0cb0cefdd4a1e5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
+      "publishedDateTime": "2021-11-04T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed.md",
+      "title": "Diablo 4 and Overwatch 2 Are Both Officially Delayed!",
+      "excerpt": "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed/index.json",
+      "webUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "originalUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg",
+          "width": 880,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-overwatch-2-and-diablo-4-are-delayed.md",
       "title": "Overwatch 2 and Diablo 4 are delayed",
       "excerpt": "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ...",
@@ -943,174 +1120,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
-      "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
-      "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4/index.json",
-      "webUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
-      "originalUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44189/og_image.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Backstage",
-        "domain": "backstage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more.md",
-      "title": "Everything you need to know about Diablo 4: Release date, trailers and more",
-      "excerpt": "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more/index.json",
-      "webUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
-      "originalUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/149976-games-feature-diablo-4-release-date-formats-screens-trailers-deals-and-all-you-need-to-know-image1-ezipok3a0x.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
-      "publishedDateTime": "2021-07-27T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games.md",
-      "title": "What should Diablo 4 preserve from previous Diablo games?",
-      "excerpt": "If I were making my dream Diablo game, I know it would bring back the original trio of classes from the original Diablo and update them for a modern audien ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games/index.json",
-      "webUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
-      "originalUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/05/Baal-Header-Diablo.png",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
-      "publishedDateTime": "2021-07-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
-      "title": "Diablo 4: Latest Classes Revealed",
-      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T23:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GiveMeSport on MSN.com",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

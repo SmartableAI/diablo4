@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to download the Diablo 4 beta"
+    excerpt: "Knowing how to download the Diablo 4 beta is crucial if you want to get an early taste of this upcoming hack and slasher, before it officially launches this June. If you're worried about how to access ..."
+    publishedDateTime: 2023-03-17T06:27:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-beta-how-to-download/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tK9UXLJngKd3Souuqd5A6H-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z
