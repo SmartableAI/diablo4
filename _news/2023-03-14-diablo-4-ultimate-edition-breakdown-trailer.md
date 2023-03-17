@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakd
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1.png?resize=768,403"
         width: 768
         height: 403
+        isCached: true
+  - title: "Is Diablo 4 Ultimate Edition worth it?"
+    excerpt: "Now that the release of Diablo 4 is closer than ever, players are starting to ask questions about the different editions that Blizzard has on offer. NOW READ: Is Diablo 4 Deluxe Edition worth it? A ..."
+    publishedDateTime: 2023-03-16T18:50:00Z
+    webUrl: "https://www.videogamer.com/news/is-diablo-4-ultimate-edition-worth-it/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-4.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ezHGdRiuLoe0kFpOJ7+RLkFtBuv1a0l0DgNbadgnSbf842bCm62v5sWXa0WHuonFcaM4XQebbkJMB0CEJlNcCF8iQNaWCL15JBEok9NFU4jvH3EGrv9SukoOHLdqK56xEsEA26B/ZX63ibHvtnWxA8/jOWr/QeG3Hn1t/DhHlPRYYJoMOs/i57Tz2YKs1Ry5ON42Fclex2+wrL73BQ0EUMFqSiR7ZEFa5PBsTp90hsQpkPyud3Bbi/lutKokwaHeyR5GbBaoFmjC5+OW74/7dA/TtD39hOUiDNSNh/m19q4Ll55tKUuZ260YNZeRe2I0zPb2xzNDu63mWuNYNsGx9DjMbFhdyCIbDIHBd6bZgek=;I0r95b9MfPcz1f/v0taqpQ=="

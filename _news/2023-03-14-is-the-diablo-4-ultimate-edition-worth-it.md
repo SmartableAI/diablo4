@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Is Diablo 4 Ultimate Edition worth it?"
+    excerpt: "Now that the release of Diablo 4 is closer than ever, players are starting to ask questions about the different editions that Blizzard has on offer. NOW READ: Is Diablo 4 Deluxe Edition worth it? A ..."
+    publishedDateTime: 2023-03-16T18:50:00Z
+    webUrl: "https://www.videogamer.com/news/is-diablo-4-ultimate-edition-worth-it/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "82aw2EgCq//OrgPI2NV8cJ44Kw1d6Rf5i6q6hnDErG5SmLqfhpIGhpqCeuQzkSCMyfSuQEk33vXYWy2QPqrxFk7ylNzKq+GhTrqt71HOmzwohY5k34Ids8uvUfDRLrFPYMgY4kW2EEluE6pGrbAv01vtNIZfQGjIoA9YrEbJIdekyjQbhCyb7w7mu/+MwJ4Slrwl0NpG+VcvQ/t3xEpICzlIumu9IF9fZH30qPys+7YULEZFSGQ/B+ebAC3LnsLM/JKZOw9c3UYX+0M0ywC4fLt2FsnBk3bahJspnCWb1pFz32+1PEb8OqY9aI14i7XNELpVyes2glfn50qBrwcAlrx+MCp/TlorPf+wlQs+HKc=;apLbhy45MDpQTFmnjWd97Q=="
 ---

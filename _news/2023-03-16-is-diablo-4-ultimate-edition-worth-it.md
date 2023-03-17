@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
-excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
-publishedDateTime: 2023-03-16T13:02:06Z
-originalUrl: "https://youtube.com/watch?v=fGdnys7CKHY"
-type: video
-quality: 122
+title: "Is Diablo 4 Ultimate Edition worth it?"
+excerpt: "Now that the release of Diablo 4 is closer than ever, players are starting to ask questions about the different editions that Blizzard has on offer. NOW READ: Is Diablo 4 Deluxe Edition worth it? A ..."
+publishedDateTime: 2023-03-16T18:50:00Z
+originalUrl: "https://www.videogamer.com/news/is-diablo-4-ultimate-edition-worth-it/"
+webUrl: "https://www.videogamer.com/news/is-diablo-4-ultimate-edition-worth-it/"
+type: article
+quality: 87
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGdnys7CKHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-
 provider:
-  name: NVIDIA GeForce
-  domain: youtube.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-4.jpg"
     width: 1200
-    height: 800
+    height: 675
     isCached: true
 
 related:
@@ -41,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
+    excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
+    publishedDateTime: 2023-03-16T13:02:06Z
+    webUrl: ""
+    type: video
+    provider:
+      name: NVIDIA GeForce
+      domain: youtube.com
+    quality: 122
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Is the Diablo 4 Ultimate Edition worth it?"
     excerpt: "The latest installment in the Diablo franchise is said to provide the ultimate action RPG experience. In Diablo -like fashion, there will be countless enemies, hellish dungeons, and epic loot for you ..."
     publishedDateTime: 2023-03-14T23:38:00Z
@@ -55,21 +68,7 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "Is Diablo 4 Ultimate Edition worth it?"
-    excerpt: "Now that the release of Diablo 4 is closer than ever, players are starting to ask questions about the different editions that Blizzard has on offer. NOW READ: Is Diablo 4 Deluxe Edition worth it? A ..."
-    publishedDateTime: 2023-03-16T18:50:00Z
-    webUrl: "https://www.videogamer.com/news/is-diablo-4-ultimate-edition-worth-it/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "yAz2BMI9VSrsmLd4nd945goQ2XgwcJFdO8MURv1QHsvw7EjjZLAMMSA4pQsM6NJ5bwO6/FauLXbu8j/T8CKke4D5VAdE/08kqSlQMh8YH2RkKBF5gsJ5TeL0OG6vnRRBMlQlnO88ZuS5tWxVDHaIjUY3ZFjeK3dOyQ/Sr2bH3QyyySwT3umIy/2C8wz32qIlW2DC82Zl2nbv+HTBWMgp4JVhnnW8YE1JAKTdRtSUpfzSCuG3cFGvh937F1VfX22pyQJDmeSjASV7svyvhpNhhXbFXyhj0b7A+I38wihXuJSusF0H3VtygJre7bmCg9YNeqsQvK2F59h3+CtLaNsiJHcURaVhyMk2yNDZaxdWLdzPQVMzJesQP1EEgYbmXkIlqcgwtTnOAMQGLx5g6580pA==;vqi11vjzXbogEw09oUI47Q=="
+secured: "wBcanNQXLv5KXaf1WSWmbauPu3B90K/vAFTK1sRijE4OaWiQXThjwVmro3uSU4J3OZkXFc4rTAbHhKj6TTPtoeEfXL76T0AwKymMwfhSmgrA8Xa+swbxCp29Ess1WKRpUPqiwC7dkSCTgcJqsAS7TlYTlRPzXKvBjaUmjyaBOtEXjFDOWsqi+EJz6YYdaKvBdA+NSvKaNwSM4S8mXIv3Uaf35P6IAdoKk/BFjYjATh5IFliLDIEF5uC7lSivXh9fYrasygHl7Iy7EOHabzIHvSyTdlMz8N7w7CpPDAZPlKtFiygcJ6DWlj4DEEcOcgVx/E3RZCcYY1ViQ5Zg5UntEFC65ZVYgs87Uow8giFSzTs=;JwLBXnPbuxesEaQbEn6HqQ=="
 ---
 
