@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand"
+    excerpt: "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ..."
+    publishedDateTime: 2023-03-17T10:07:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-server-errors"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 82
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NGsC+K5B/6ZP5KHbXBHyLgEfuqWSHUYGRnrMyUkXLjD73s6IeOkIjXqOQ2LXPhn9rFws5Jt56/2+sj8Ysu4FEk4v+Zu4zkK03EDG/++Lz2L4ibLI53aj9iGKfcLh3ieBHaZrotWCCQvOb48J1CgGuZLTF1FjA8Tk5EZfcxmWGpJaVYYWxOfgFQLH4YACEkwGR9XIEdKAfDqORlcEyDJuwbad5ynB/d4SldkzMibK/bLUVMLykjR42ok2vC7ZIhzi1QQzXI71+xLQ4vgqJtoPSMU1tuo373GcHS6DUH3m9XFsx746d7x79FMMGztag91+l6OIsnG0ROQY3NHbZGsBWMZRZS7ZlCyF90rAEp4FEEw=;UGsTFgtepeM01QcvvRakcA=="
 ---

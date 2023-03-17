@@ -40,6 +40,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Early Access Beta Suffering From Long Queue Times And Server Issues"
+    excerpt: "The start of Diablo IV's early access beta period has not gone quite as planned, with queue times of nearly two hours for many players on top of authentication server issues resulting in slow or ..."
+    publishedDateTime: 2023-03-17T10:50:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-early-access-beta-suffering-from-long-queue-times-and-server-issues/1100-6512451/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-early-access-beta-suffering-from-long-queue-times-and-server-issues/1100-6512451/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-early-access-beta-suffering-from-long-queue-times-and-server-issues/1100-6512451/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 144
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4114029-diablo4betaqueuetimes.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Beta: When it Starts and How to Get Into It"
     excerpt: "Diablo 4 is about to enter its first public beta, and with the excitement comes some uncertainty about the best way to access it. Who can play the beta, how to enroll in it, and w"
     publishedDateTime: 2023-03-09T09:03:00Z
@@ -111,6 +127,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17H27H.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=579&y=201"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 Open Beta: Known bugs, launch issues, and how to fix them"
+    excerpt: "After a long, long wait, players are now finally able to play Diablo 4 thanks to the arrival of the Open Beta. The first run of the beta, exclusive to fans that preorder Blizzard's latest dungeon ..."
+    publishedDateTime: 2023-03-17T10:25:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-known-bugs-launch-issues"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kQ6SUexSKkcYjaGGqjFEG5-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to download the Diablo 4 beta"
     excerpt: "Knowing how to download the Diablo 4 beta is crucial if you want to get an early taste of this upcoming hack and slasher, before it officially launches this June. If you're worried about how to access ..."

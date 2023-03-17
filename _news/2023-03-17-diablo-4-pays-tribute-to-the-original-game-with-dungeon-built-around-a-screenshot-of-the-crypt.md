@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-g
 webUrl: "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

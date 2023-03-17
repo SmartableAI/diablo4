@@ -2,6 +2,234 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-17-what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in.md",
+      "title": "What a surprise—the Diablo 4 beta test servers are being crushed and people can't get in",
+      "excerpt": "The Diablo 4 (opens in new tab) preorder beta is now underway, and as you might have expected, it's not going perfectly smoothly. The biggest and most obvious issue for people trying to get into the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/index.json",
+      "webUrl": "https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/",
+      "originalUrl": "https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RA8jKVsQF4aRhKeAXW5S9J-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-beta-how-to-respec.md",
+      "title": "Diablo 4 Beta - How To Respec",
+      "excerpt": "GameSpot may get a commission from retail offers. Knowing how to respec in Diablo 4 is something you'll want to figure out quickly during the beta period. One of the fundamental parts of any ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-beta-how-to-respec/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-how-to-respec/1100-6512454/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-how-to-respec/1100-6512454/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-how-to-respec/1100-6512454/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-to-respec/1100-6512454/",
+      "publishedDateTime": "2023-03-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-error-code-300202-how-to-fix.md",
+      "title": "Diablo 4 Error Code 300202 – how to fix?",
+      "excerpt": "Thousands of people tried to get onto the Diablo 4 servers at once, only to be met with the error code 300202. Amongst others (34202 & 315306), it’s clear that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-error-code-300202-how-to-fix/index.json",
+      "webUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
+      "originalUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-error-code-300202.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-best-graphics-settings-for-diablo-4-beta.md",
+      "title": "Best graphics settings for Diablo 4 Beta",
+      "excerpt": "We’re covering the best graphics settings for the Diablo 4 Beta, with optimised options for DLSS 3, HDR, & more. The Diablo 4 Beta weekend runs between March 17th – 19th, so if you’re trying to get ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-best-graphics-settings-for-diablo-4-beta/index.json",
+      "webUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
+      "originalUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-settings-for-Diablo-4-beta.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-beta-servers-are-going-through-hell-as-countless-players-rush-in.md",
+      "title": "Diablo 4 beta servers are going through hell as countless players rush in",
+      "excerpt": "Diablo 4 servers are on fire, under siege, and getting pushed to their limits as countless players swarm to the game during the pre-order weekend beta. Those who attempt to play are thrown into ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-beta-servers-are-going-through-hell-as-countless-players-rush-in/index.json",
+      "webUrl": "https://www.vg247.com/diablo-4-beta-servers-are-going-through-hell-as-countless-players-rush-in",
+      "originalUrl": "https://www.vg247.com/diablo-4-beta-servers-are-going-through-hell-as-countless-players-rush-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.vg247.com/diablo-4-beta-servers.jpg/BROK/thumbnail/1200x630/diablo-4-beta-servers.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vg247",
+        "domain": "vg247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt.md",
       "title": "Diablo 4 pays tribute to the original game with dungeon built around a screenshot of the Crypt",
       "excerpt": "Diablo 4 developers used a screenshot of the Crypt from the original game to design one of the dungeons in the upcoming action-RPG. Diablo 4's early beta access, available to those who've pre-ordered ...",
@@ -10,7 +238,7 @@
       "originalUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -397,7 +625,7 @@
       "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-contest-is-offering-beta-codes-for-prayers-to-the-demon-lilith/ar-AA18J3TU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -859,234 +1087,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-which-class-should-you-play-in-diablo-4.md",
-      "title": "Which Class Should You Play In Diablo 4?",
-      "excerpt": "Diablo 4 has five confirmed playable classes at the time of writing: Barbarian, Rogue, Necromancer, Sorceress, and Druid. While these are the classes that we are aware of at the moment, and the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-which-class-should-you-play-in-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/which-class-should-you-play-in-diablo-4/ar-AA18FEZ7",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/which-class-should-you-play-in-diablo-4/ar-AA18FEZ7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Fr3S.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=435&y=56",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-diablo-4-best-class-tier-list-best-solo-class-for-the-beta.md",
-      "title": "Diablo 4 best class tier list | best solo class for the beta",
-      "excerpt": "The Diablo 4 closed beta is here, which means thousands of people will be flooding in to try Blizzard's latest venture into the world of Sanctuary. If you want to make the most out of your limited ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4-best-class-tier-list-best-solo-class-for-the-beta/index.json",
-      "webUrl": "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta",
-      "originalUrl": "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.vg247.com/diablo-4-beta-characters.jpg/BROK/thumbnail/1200x630/diablo-4-beta-characters.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-diablo-4-every-edition-explained.md",
-      "title": "Diablo 4: Every Edition Explained",
-      "excerpt": "The wait for a mainline Diablo game is finally coming to a close, with the release of Diablo 4 on June 6, 2023. In the meantime, there are a few ways to play Diablo 4 early. A public beta begins March ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4-every-edition-explained/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-every-edition-explained/ar-AA18FkqD",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-every-edition-explained/ar-AA18FkqD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FiiS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-diablo-4-ultimate-edition-breakdown-trailer.md",
-      "title": "Diablo 4 Ultimate Edition Breakdown Trailer",
-      "excerpt": "Diablo IV Ultimate Edition includes up to 4 days early launch access, exclusive in-game mounts, the Accelerated Seasonal Battle Pass Unlock, and more! Diablo IV is available on June 6th, 2023. Return to Darkness with endless demons to slaughter ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-14-diablo-4-ultimate-edition-breakdown-trailer/index.json",
-      "webUrl": "https://www.gamespot.com/videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/",
-      "originalUrl": "https://www.gamespot.com/videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-ultimate-edition-breakdown-trailer/2300-6460851/",
-      "publishedDateTime": "2023-03-14T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta.md",
-      "title": "Diablo 4 Open Beta Dates, Early Access, And How To Get Into Beta",
-      "excerpt": "You won't have long to wait to experience the terror of the Burning Hells in Diablo IV before the game officially launches in June.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-14-diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "publishedDateTime": "2023-03-14T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

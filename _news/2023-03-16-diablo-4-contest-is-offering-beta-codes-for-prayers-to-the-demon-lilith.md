@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-contest-is
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-contest-is-offering-beta-codes-for-prayers-to-the-demon-lilith/ar-AA18J3TU"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/16/who-is-lilith-explained-diablo-4-e1678974677146.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand"
+    excerpt: "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ..."
+    publishedDateTime: 2023-03-17T10:07:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-server-errors"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 82
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "UiTZXEOfrAFnXkUQ/7Og/SoihYpqdz2BPZgtZ4EPqNzHsNEii399slv7Kg+7g8w3xe7m+0gK+gIQASyo5z83gItAze/WrAuGPTNg6yxXveuXBEKP5bzDrISnCdu+NcPcDFCx0r1cahYYMMtfSMOmxbNoYjMI0YKvsE4d+fYyYYKyfPeAvH7DxxzTI01dsJXgk6++niRfKwkqD65QMrSUnpSl9+2L0sjmSCYkQFuprP/f1e0Kksjpzn3oR4OW9BfYZ94xnH8Dn5hbrirOmVypOWXAdSv+ybeJaA2BOAnqGQWInwb1LJqw0Pk9erHgX1xLcasZ8S197NHhvDmtNG+iCTG2RvbL4R5bfSldpVqt4h4=;wY7qg9fXyCihfde8CTO4KA=="
