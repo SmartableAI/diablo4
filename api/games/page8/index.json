@@ -4,6 +4,36 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction.md",
+      "title": "Diablo IV Rogue & Druid Gameplay REACTION",
+      "excerpt": "I haven't seen much about Diablo IV at all after the initial reveal trailer, so I'm diving in to check it out. Steam gift card giveaway ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=-SARW0gkSBk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-SARW0gkSBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M24S",
+      "provider": {
+        "name": "Solitary Spark",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-03-04T01:16:56-08:00"
+    },
+    {
       "path": "_games/sounds-of-sanctuary-diablo-4-the-druid.md",
       "title": "Diablo 4: The Druid",
       "excerpt": "This is a dedicatory piece for the Druid we remember from Diablo 2 that will now be making its way into Diablo 4. Music composed by Rob Tinney 2019 ...",
@@ -243,6 +273,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T15:59:13-07:00"
+    },
+    {
+      "path": "_games/vinikluster-diablo-4-sorceress-class-shorts.md",
+      "title": "DIABLO 4 - SORCERESS  class  #shorts",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vinikluster-diablo-4-sorceress-class-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vinikluster-diablo-4-sorceress-class-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=b6cznYRMU-s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b6cznYRMU-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59S",
+      "provider": {
+        "name": "Vinikluster",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-03T14:38:40-08:00"
     },
     {
       "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
