@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-which-c
 type: video
 length: PT12M12S
 publishedDateTime: 2023-03-15T18:00:18Z
-heat: 365
+heat: 361
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9_Wxys_isE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "YDOMQg+K5H4kec07R/lj3x/c9pVwc/8bIoyhD2zwWzKLANc2i1zRDhWTGXtnW73uGquHizy6D4gPFEwTqcCyBU5Wiu0h+vdZCH/4gKoturLjk9iigykWYsLam8On8/hoDvspDrn5nAPwLSPaHNuFd+PUFaDghDG3Zi8Umh6hO6QlfZFEed83bIbV7gteTx4YTwg/SSnXxYk+NXniyCpH5u1Rqf9vHkBf/UJQP4mzmPBVQluUkvHzKN1p9mXFt4X5g/7/vqMpG22Bki0qZOZ9o2Za7G5wHA2eqQYBogZC3gGtBzfBhhSvxy90NTiza5tvbkTlk9NOFWV0eRxnEAgp2+WNw+VEirbqKONfYuP4zk9utr2dXSer+h2Wx3w4u93Rvvey/FZ8my13kxoEYUpQjMefc2L/Hz31D37Spm39UVI=;Fmk6zS//JHGqiGGLaljhlQ=="
+secured: "H5pYUecoyl3WFW8Vc5CuZk7SGC53zakYUHJMpUJBgISytJbcXL6cYllT9EqBZdUQshjMPSII5C+hH56XhqFtyq+fzJKDuY4rb/HU0KmJUxflNgcSShqevGox9aBMFh/aWIoNemsYF7nqlWSCaYOatEaH9+3d+aEy2UPn7JTAdDCm/1myhCognfAP3BhenlfUL+qR72thscY5UY12RqmbNdfAhQM9W+3bkxP3R4U1/xXeen6t4GenyrFagzJSJudADsqPUFp9VkTQtLT0QFQbj1u5XE/QelmVSsx52bPumXhBE6+NGiO/oJ+nJKkZnZR5DCtyN21+9sJU8MVMFapeqxs+pE/7wU0W2xVBApLaxhqmTfr4LzmbWYx7/8EFfq4RUhnCiZlS5/400vGKFQSnJqCa5FzLtP/mkNWUGWIRILs=;szlvHcvLXiB4QV+rDf/QvQ=="
 ---
 

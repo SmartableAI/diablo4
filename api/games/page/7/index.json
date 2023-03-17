@@ -4,6 +4,66 @@
   "page": 7,
   "value": [
     {
+      "path": "_games/kamahl-diablo-4-barbarian-skills.md",
+      "title": "Diablo 4 Barbarian Skills",
+      "excerpt": "What's up Everyone. Kamahl here and welcome to another Diablo 4 video. In today's episode we are going to be looking at the barbarian skills. I hope you enjoy ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-barbarian-skills/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-barbarian-skills/",
+      "originalUrl": "https://youtube.com/watch?v=tu0NfVF00Vs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tu0NfVF00Vs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M58S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tu0NfVF00Vs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-06T00:15:00-08:00"
+    },
+    {
+      "path": "_games/kamahl-diablo-4-barbarian-talents.md",
+      "title": "Diablo 4 Barbarian Talents",
+      "excerpt": "Morning everyone, Kamahl here with another Diablo 4 Barbarian video. In this episode we will be discussing or well... looking and reading the talent trees ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-barbarian-talents/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-barbarian-talents/",
+      "originalUrl": "https://youtube.com/watch?v=v59oO1y7lig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v59oO1y7lig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "Kamahl",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v59oO1y7lig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-07T00:15:00-08:00"
+    },
+    {
       "path": "_games/kamahl-diablo-4-druid-skills-and-talents.md",
       "title": "Diablo 4 Druid Skills and Talents",
       "excerpt": "What's up guys Kamahl here and today we are going to have an in depth look at the druid talent tree and skills available currently. #Diablo4 #Diablo4Druid ...",
@@ -851,66 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-03-04T01:16:56-08:00"
-    },
-    {
-      "path": "_games/sounds-of-sanctuary-diablo-4-the-druid.md",
-      "title": "Diablo 4: The Druid",
-      "excerpt": "This is a dedicatory piece for the Druid we remember from Diablo 2 that will now be making its way into Diablo 4. Music composed by Rob Tinney 2019 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/sounds-of-sanctuary-diablo-4-the-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/sounds-of-sanctuary-diablo-4-the-druid/",
-      "originalUrl": "https://youtube.com/watch?v=GXeDI56ENLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GXeDI56ENLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M33S",
-      "provider": {
-        "name": "Sounds of Sanctuary",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GXeDI56ENLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-16T06:58:21-08:00"
-    },
-    {
-      "path": "_games/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird.md",
-      "title": "Diablo 4 Druid Class: Jack of All Trades? - Is Temporary Shapeshifting Weird?",
-      "excerpt": "Are you considering playing as a Druid in Diablo 4 but unsure if it's fun, powerful, or one of those Jack of All Trades and Master of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/spookyfairy-diablo-4-druid-class-jack-of-all-trades-is-temporary-shapeshifting-weird/",
-      "originalUrl": "https://youtube.com/watch?v=Onk40lUBUNs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Onk40lUBUNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M56S",
-      "provider": {
-        "name": "SpookyFairy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-27T15:25:05-08:00"
     }
   ],
   "nextPage": 8

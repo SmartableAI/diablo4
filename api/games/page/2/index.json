@@ -4,6 +4,66 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr.md",
+      "title": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR)",
+      "excerpt": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/",
+      "originalUrl": "https://youtube.com/watch?v=LGFzvv5EXBQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LGFzvv5EXBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M21S",
+      "provider": {
+        "name": "GameV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 88,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-01T06:30:28-08:00"
+    },
+    {
+      "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
+      "title": "DIABLO IV - NEW DRUID GAMEPLAY - 2022  BETA TEST",
+      "excerpt": "DIABLO IV - NEW DRUID GAMEPLAY - 2022 BETA TEST Enjoying the video? pls make sure to subscribe for a regular dose of top ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/",
+      "originalUrl": "https://youtube.com/watch?v=F5JP4w0YGa4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F5JP4w0YGa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
+      "provider": {
+        "name": "Gaming Rush Tube",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-18T05:00:32-08:00"
+    },
+    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -362,6 +422,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-03T14:38:40-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-ability-call-of-ancients-barbarian.md",
+      "title": "Diablo 4 Ability Call Of Ancients - Barbarian",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-ability-call-of-ancients-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-ability-call-of-ancients-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=1AA7geMPtWM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1AA7geMPtWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-19T11:00:00-08:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
@@ -818,96 +908,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-08T05:00:00-08:00"
-    },
-    {
-      "path": "_games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch.md",
-      "title": "DIABLO 4 - DRUIDE Klassenmechanik BETA LEAK (Deutsch)!",
-      "excerpt": "Wie funktioniert beim Druide in Diablo 4 die einzigartige Klassenmechanik? Diesen Leak aus der Beta besprechen wir heute im ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rellihcs-diablo-4-druide-klassenmechanik-beta-leak-deutsch/",
-      "originalUrl": "https://youtube.com/watch?v=K_gMbFOboG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K_gMbFOboG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M54S",
-      "provider": {
-        "name": "rellihcs",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-01T07:00:11-08:00"
-    },
-    {
-      "path": "_games/rustypielover-diablo-4-barbarian-5-potential-builds-for-you.md",
-      "title": "Diablo 4 BARBARIAN: 5 POTENTIAL BUILDS FOR YOU!",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Barbarian 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential builds ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-barbarian-5-potential-builds-for-you/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-barbarian-5-potential-builds-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=NZYcNYYCoL4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NZYcNYYCoL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M12S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-18T09:00:21-08:00"
-    },
-    {
-      "path": "_games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics.md",
-      "title": "Diablo 4 Barbarian Class Overview - Skills, Abilities, New Mechanics!",
-      "excerpt": "In this video I show you an overview of the barbarian class for the upcoming open world ARPG, Diablo 4. We go over skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/",
-      "originalUrl": "https://youtube.com/watch?v=g-gB1VSyDpo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-gB1VSyDpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Warlug",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-17T11:42:51-08:00"
     }
   ],
   "nextPage": 3
