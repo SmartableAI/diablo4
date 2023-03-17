@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Confirms Nvidia DLSS 3 Support With New Trailer"
+    excerpt: "But the beta version will only support DLSS 2. Nvidia recently shared a brief teaser trailer for Diablo 4, confirming that the game will be released with DLSS 3 support. However, this doesn't include ..."
+    publishedDateTime: 2023-03-17T04:10:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-dlss-3-support/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-1.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
 
 secured: "q0Wl3Ibrz4eqh/cL3s1bt6kYJt06Gwfy68a1gH5n8/hvzu9TOlg2mKJp0VFG1wpq6eoo5FQcsWFtgpbtar6ftvvFQEI+Wz30GFOS9u4UNY9qxZtOU1Z3H2bJ2vmXDAxIId1SVMqnGc++iN7cfjNLjdNmz51cloAizn9yMqnZce3OTcnsfMJAIvFOPfEVKFFjIoo2rq7mrNn+gZN92ouVysNX9VsJonD3XGkJeEzHroBDcrXo8H1slp1a4l1eDtoOPh9QNX62MR/P/xLtE2c80uma+Z25S4yISdAjxlnfFMmnm1qIkpdY6JVt6hgbAaTgRk6HVynUZyr89x7qPpT4Yv9xMPT3Q9Jlq+6H3T/gqMU=;LfnC9wCUW6jbSckBi4dajw=="
 ---

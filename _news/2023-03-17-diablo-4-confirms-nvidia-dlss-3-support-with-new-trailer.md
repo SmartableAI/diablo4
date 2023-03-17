@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
-excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
-publishedDateTime: 2023-03-16T08:31:00Z
-originalUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
-webUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
+title: "Diablo 4 Confirms Nvidia DLSS 3 Support With New Trailer"
+excerpt: "But the beta version will only support DLSS 2. Nvidia recently shared a brief teaser trailer for Diablo 4, confirming that the game will be released with DLSS 3 support. However, this doesn't include ..."
+publishedDateTime: 2023-03-17T04:10:00Z
+originalUrl: "https://www.dualshockers.com/diablo-4-dlss-3-support/"
+webUrl: "https://www.dualshockers.com/diablo-4-dlss-3-support/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: DualShockers
+  domain: dualshockers.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-to-feature-DLSS-3-on-launch.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-1.jpg"
+    width: 2000
+    height: 1000
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
+    excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
+    publishedDateTime: 2023-03-16T08:31:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-to-feature-dlss-3-on-launch/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-to-feature-DLSS-3-on-launch.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA DLSS support added to Diablo 4, Forza Horizon 5 and Redfall"
     excerpt: "NVIDIA has just announced that DLSS 3 support is coming to blockbuster games Diablo 4, Forza Horizon 5 and Redfall. DLSS uses artificial intelligence to boost a game's framerate performance and ..."
     publishedDateTime: 2023-03-16T06:22:00Z
@@ -68,21 +82,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 Confirms Nvidia DLSS 3 Support With New Trailer"
-    excerpt: "But the beta version will only support DLSS 2. Nvidia recently shared a brief teaser trailer for Diablo 4, confirming that the game will be released with DLSS 3 support. However, this doesn't include ..."
-    publishedDateTime: 2023-03-17T04:10:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-dlss-3-support/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-1.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
-secured: "fHbGaboHSTY42z+pxW6H21tUdGi+h5Wm6ExwNaugMMOLQjGk2dvMyj7VHuJGSjs56e6nOP+JBxEGpFoJyZCgOvl12u/kCxrPgHEj2yaFI9ZukAOy3fg658PQnxFaE/qNEyb0TFxMuHU/EJJYuNjlHtKpHVim9YTd56gtkYRoQHBcs+aYHnr/TxyWf1NcKgGZdqWC09TloL7i6WrAmPaBCiJne8G9MFniK2kQkdF/TBDZs8x8/oSlT8Q0tX1nkX1oFRERfX5YDYUh21XkS0nRqEAKzX2ZFDw1Qda/K5OrbONP1bfe7XKKVY7DYVRW1FAvEEnLtiSiPzqj/Cnr5Q7wspvsy2BFoHn6zjBJ788gYnc=;VhhGOWslWjyNUq6ONEel2Q=="
+secured: "cTVY5pUkgbIg7/KdY2kQ7+4Z+rWVcZIKuVD526syMhUuPrEDtH9AIbcac5ZHeTbX5gxSCIraEFfg3tnburxgfSX1Zg3vW1+zzPgmiWKUBdLU0ceizre/rmbp0ltz7DyF1m3d4I8jN0CU+QPeE1lFrm1Qi0+1m7Y+dTHBv+0eyVeaSQX0PE+j/VoY/p9Mj97rGLtprlz5w9hE691uHeddD3ZWOpJtfwULqbVFT5t89AITgnNLBbAdroJBwzFR2U1xMSbGujzDbH+naELr8gRihMo8wLeoyOLKLg86CsF4sGJoYA2m4E0QJuXT6V3IYNlGkTmy//TC8wVwyCEs7HoHxpZZPzy+ZQRjDvCvdJ5VfVM=;cC7PpbsjP8O1HNAPh83nag=="
 ---
 

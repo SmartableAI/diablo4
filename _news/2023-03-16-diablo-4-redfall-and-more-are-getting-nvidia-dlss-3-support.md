@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-hor
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/"
 type: article
 quality: 147
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qbcaespvaSJvSgPLeJPUeE-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 Confirms Nvidia DLSS 3 Support With New Trailer"
+    excerpt: "But the beta version will only support DLSS 2. Nvidia recently shared a brief teaser trailer for Diablo 4, confirming that the game will be released with DLSS 3 support. However, this doesn't include ..."
+    publishedDateTime: 2023-03-17T04:10:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-dlss-3-support/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-1.jpg"
+        width: 2000
+        height: 1000
         isCached: true
 
 secured: "A5RkqXZ908TGYNUdDvPU3NzapFoCfNeyZe/TyOenedhq2R2ikyLSImyGXpzL8hIBbI37vW7IM3KYiwmoncf/LbKPLwugQwTXzC2aUDEAGZuCLlsW0bH96/MKWXw7zKIfT2JYuDjmEUQM01qHWSh8JN1N8DoamWz9CM7mzhcAgZ2mfAZvQieOagr0p01wHePgiGccpfoE9Mo1laeJMj2OcPho0jqTAqcNW5DG04Oz9sMKi0rfQwLYP/e8oAxCXCNFIROXlD3a8lnCEZ5/AWCQuFLKp/TWQTN7LQVEYRB44/r8JzfxdANFE2rQwnerCxo9h0eBWTm5qk/SiN/uSrWF79V6sRtk2s0len/Ka37930o=;M/GvSi4VWhQuC1n6C3Ljxw=="
