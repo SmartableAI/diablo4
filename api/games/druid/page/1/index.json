@@ -184,67 +184,6 @@
       "publishedDateTime": "2023-03-11T02:58:46-08:00"
     },
     {
-      "path": "_games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds.md",
-      "title": "Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds!",
-      "excerpt": "Our First Version Of The Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds. I Will Be Updated With Open Beta Access ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/",
-      "originalUrl": "https://youtube.com/watch?v=2XodvjJVSEY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XodvjJVSEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M21S",
-      "provider": {
-        "name": "Mattjestic MultiGaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 164,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T17:51:27-07:00"
-    },
-    {
-      "path": "_games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer.md",
-      "title": "Diablo 4 Best Class in Beta for YOU (Class Overview, Druid, Barbarian Rogue, Sorcerer, Necromancer)",
-      "excerpt": "diablo4 #diabloiv #diablo More Diablo 4 Videos here! Diablo 4 Top 20 things you must know To Get Ahead ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/",
-      "originalUrl": "https://youtube.com/watch?v=u97Hxv_X5Fo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u97Hxv_X5Fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M2S",
-      "provider": {
-        "name": "Slaydra",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-15T08:21:16-07:00"
-    },
-    {
       "path": "_games/lost-in-the-world-be-the-best-bear-you-can-be-druid-transformation-build-diablo-4.md",
       "title": "Be the Best Bear you can Be - Druid Transformation Build Diablo 4",
       "excerpt": "Druid Transformation Build Guide / Video / Skill Tree Analysis. This build goes heay on transforming as transforming is cool.",
@@ -275,20 +214,51 @@
       "publishedDateTime": "2023-03-12T10:50:33-07:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
-      "title": "Diablo 4 Druid Ravens Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
-      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
+      "path": "_games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds.md",
+      "title": "Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds!",
+      "excerpt": "Our First Version Of The Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds. I Will Be Updated With Open Beta Access ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/",
+      "originalUrl": "https://youtube.com/watch?v=2XodvjJVSEY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XodvjJVSEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M21S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "Mattjestic MultiGaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
+        "Druid"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T17:51:27-07:00"
+    },
+    {
+      "path": "_games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer.md",
+      "title": "Diablo 4 Best Class in Beta for YOU (Class Overview, Druid, Barbarian Rogue, Sorcerer, Necromancer)",
+      "excerpt": "diablo4 #diabloiv #diablo More Diablo 4 Videos here! Diablo 4 Top 20 things you must know To Get Ahead ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/",
+      "originalUrl": "https://youtube.com/watch?v=u97Hxv_X5Fo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u97Hxv_X5Fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M2S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
         "Druid"
       ],
       "heat": 118,
@@ -302,26 +272,26 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-26T16:00:13-08:00"
+      "publishedDateTime": "2023-03-15T08:21:16-07:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
-      "title": "Diablo 4 Druid Earthen Bulwark Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
-      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
+      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
+      "title": "DIABLO 4 DRUID GAMEPLAY",
+      "excerpt": "found it and wanted to share it :)",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M21S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "ImActuallyAFK",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Druid"
       ],
-      "heat": 110,
+      "heat": 111,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -332,7 +302,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-23T17:00:01-08:00"
+      "publishedDateTime": "2022-12-18T04:00:29-08:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -881,6 +851,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-01T07:00:11-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
+      "title": "Diablo 4 Druid Ravens Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
+      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-26T16:00:13-08:00"
     },
     {
       "path": "_games/justin-diablo-4-druid-gameplay.md",
