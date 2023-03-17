@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T16:38:00Z
 originalUrl: "https://twinfinite.net/2023/03/when-does-diablo-4s-beta-end-answered/"
 webUrl: "https://twinfinite.net/2023/03/when-does-diablo-4s-beta-end-answered/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Twinfinite

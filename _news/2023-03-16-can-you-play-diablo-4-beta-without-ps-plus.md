@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T19:35:00Z
 originalUrl: "https://www.videogamer.com/news/can-you-play-diablo-4-beta-without-ps-plus/"
 webUrl: "https://www.videogamer.com/news/can-you-play-diablo-4-beta-without-ps-plus/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: VideoGamer.com

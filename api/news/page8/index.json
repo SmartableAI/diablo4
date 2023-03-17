@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-07-diablo-4-endgame-has-a-level-100-boss-that-gatekeeps-world-tiers.md",
+      "title": "Diablo 4 endgame has a level 100 boss that “gatekeeps” world tiers",
+      "excerpt": "The Diablo 4 endgame will have a mammoth level 100 boss that players will need to defeat to progress through different world tiers in Blizzard's action RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-endgame-has-a-level-100-boss-that-gatekeeps-world-tiers/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/endgame-boss-world-tier",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/endgame-boss-world-tier",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-endgame-bosses-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch.md",
+      "title": "Diablo 4 Reportedly Headed For April 2023 Launch",
+      "excerpt": "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected.md",
       "title": "Diablo 4 could launch earlier in 2023 than we expected",
       "excerpt": "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ...",
@@ -982,99 +1066,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-diablo-4-trailers-gameplay-classes-and-news.md",
-      "title": "Diablo 4 trailers, gameplay, classes and news",
-      "excerpt": "Diablo 4 has officially been announced, and thanks to a series of recent reveals, we have a decent idea as to what we should expect. This is obviously big news, given how beloved Diablo is as an ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-13-diablo-4-trailers-gameplay-classes-and-news/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4.md",
-      "title": "Diablo Immortal can (sort of) help pass the time until Diablo 4",
-      "excerpt": "We’ve had a lot of Diablo 4 news over the past few weeks, from exciting beta news to intriguing leaks about the campaign. But no matter how much we hear about the game, one thing is clear: It’s not ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4/index.json",
-      "webUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
-      "originalUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qj3dCAH9Lsr5haXr9j8b9o-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
         "images": null,
         "publishers": null,
         "authors": null
