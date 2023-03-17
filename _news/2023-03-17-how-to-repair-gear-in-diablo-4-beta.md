@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Diablo 4 Early Access open beta – when does it end?"
-excerpt: "The Diablo 4 Open Beta is only a few days away and fans of the Blizzard franchise are gearing up to take on dangerous dungeons and demonic creatures once it drops. NOW READ: Diablo 4 Early Access Open Beta start time in US, UK Much like any other early .."
-publishedDateTime: 2023-03-15T17:11:00Z
-originalUrl: "https://www.videogamer.com/news/diablo-4-beta-end-date/"
-webUrl: "https://www.videogamer.com/news/diablo-4-beta-end-date/"
+title: "How to Repair Gear in Diablo 4 Beta"
+excerpt: "Diablo 4 will have players slicing or casting their way through hordes of demons and other denizens of the Hells. With so many enemies to go through, it’s no surprise that a player’s gear is bound to ..."
+publishedDateTime: 2023-03-17T14:34:00Z
+originalUrl: "https://twinfinite.net/2023/03/how-to-repair-gear-diablo-4/"
+webUrl: "https://twinfinite.net/2023/03/how-to-repair-gear-diablo-4/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: Twinfinite
+  domain: twinfinite.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
-    width: 1519
+  - url: "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-1.jpg"
+    width: 1200
     height: 675
     isCached: true
 
@@ -132,6 +132,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Early Access open beta – when does it end?"
+    excerpt: "The Diablo 4 Open Beta is only a few days away and fans of the Blizzard franchise are gearing up to take on dangerous dungeons and demonic creatures once it drops. NOW READ: Diablo 4 Early Access Open Beta start time in US, UK Much like any other early .."
+    publishedDateTime: 2023-03-15T17:11:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-end-date/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-1.jpg"
+        width: 1519
+        height: 675
+        isCached: true
   - title: "Diablo 4 Open Beta – Dates, Early Access, more"
     excerpt: "The Diablo 4 developers recently released the details for the game’s open beta, including its dates, early access, and more. This announcement came via a post on their official site, as well as on a ..."
     publishedDateTime: 2023-03-16T17:20:00Z
@@ -174,20 +188,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to Repair Gear in Diablo 4 Beta"
-    excerpt: "Diablo 4 will have players slicing or casting their way through hordes of demons and other denizens of the Hells. With so many enemies to go through, it’s no surprise that a player’s gear is bound to ..."
-    publishedDateTime: 2023-03-17T14:34:00Z
-    webUrl: "https://twinfinite.net/2023/03/how-to-repair-gear-diablo-4/"
-    type: article
-    provider:
-      name: Twinfinite
-      domain: twinfinite.net
-    quality: 87
-    images:
-      - url: "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
     publishedDateTime: 2023-03-15T03:23:00Z
@@ -212,6 +212,6 @@ related:
       domain: siliconera.com
     quality: 67
 
-secured: "/on8bRyTvyRc0eZGBTNlddJoTdeu6xevxPhRlXQmsjB7n3kdodxPNlg3sRKiKIWvYASHFFJS6Wtp10aL5y3eGRlJ0l4iuaCIP5KchRqyblFJ8k0U2c6uEn1cDmcYLZOnkNPOazqapTiENO+e2G6eF2wFIeeUDGGm6Vn65w8QOo5XlrleiP/UIL6j3zB35LzC63cNvzTWGpqnTigmz3FspeA5ljkeyuQsJWC03uzv7mU8nkMotw19tf5RVfF9kxcOuMtPQrF1XIlF2PKC1WSsDAayu+7SkMhY79Gd1MNc/b4pqM/+oOOZG3fTDQVxq3RQG9lyrzfAkOIb0nGIBJWBmepqUwDgqwl4lRFRELJzV4w=;mJZElO68Kz0ScvnJKxYguw=="
+secured: "9seBuDmOj3Ur5X2tL3pHyJ0TfJSHkWxJweMt47pYMavkBUK3ON9kPPOrWcM0d4xeQ8SHxda4r9y9oU98oPl+qZcYYU8LAkAFQgfBBESlgpmRF3RBWjZRCwggzjVIL4RFUCCale30fGm+EnUg6SF9FzVtDXMACbySNybhec8vX2Hj93G9pbhffzt75uxRxmHBWzJZJvoCbqjtq1Cdn4QCBbrBikxHQPIyFZ2Y+vbLce4Kt/xqAoDtwY20toodpGv6VuID6XF5/gKbrRVGohsi4tC8vw2lihRmduGemJYZzVItwqJO1mi9/vEFmFz6bY0LHfqgDK9dE+6R2Ha2Dbom6WXXtjIVWLNAzJCC5aTm2Wc=;4yxUjDLpw6Aui2gXwlvxXw=="
 ---
 

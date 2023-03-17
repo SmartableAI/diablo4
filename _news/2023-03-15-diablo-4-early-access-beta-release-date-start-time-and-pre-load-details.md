@@ -188,6 +188,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Repair Gear in Diablo 4 Beta"
+    excerpt: "Diablo 4 will have players slicing or casting their way through hordes of demons and other denizens of the Hells. With so many enemies to go through, it’s no surprise that a player’s gear is bound to ..."
+    publishedDateTime: 2023-03-17T14:34:00Z
+    webUrl: "https://twinfinite.net/2023/03/how-to-repair-gear-diablo-4/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
     excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
     publishedDateTime: 2023-03-02T15:32:00Z

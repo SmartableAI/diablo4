@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Repair Gear in Diablo 4 Beta"
+    excerpt: "Diablo 4 will have players slicing or casting their way through hordes of demons and other denizens of the Hells. With so many enemies to go through, it’s no surprise that a player’s gear is bound to ..."
+    publishedDateTime: 2023-03-17T14:34:00Z
+    webUrl: "https://twinfinite.net/2023/03/how-to-repair-gear-diablo-4/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
     publishedDateTime: 2023-03-15T03:23:00Z
