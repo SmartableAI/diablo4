@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-bearform
 type: video
 length: PT6S
 publishedDateTime: 2022-12-25T17:00:21Z
-heat: 56
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UIvIjHe-H2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "w+eHRGN+bt2GYU+f5g9to1pVBvTFNmWdilJlxdOZj16D5hGWOQ5uSDa8ObXAoCLsvWd93pNsX4NcNOl4uJI5J7pWr6xY47/+KcL9T+otHj+LW6LDYbw0mMfF00yIeG4vvw0NQy/Qsi1hDNHWQccFRuDp6B1xp6mgZb6A8CwgAXzvqSzmc0ePzicT2wbhruUn1pSzXcW/e8LV6nFGhZ2kdcbz0qripvtUvGvbQqthYnoKwrJUGGGG+MKwGfXsYg7wiiUmZROPn/FEl99K9dgeD3yF93To6aBSp7cJIyn2NK4ehZLmp2FbcJU/8Eu8MM4lD7cMb9nPFkDsVZkjJ2UD/2ZiKhsD7nn93f9DmOFg9jzwLgd/b93bTos8twvrhtrwM6SVL3hxNWLv5v3iO2XQHDM/0IhcXy93w/kfnh3C4r8=;5qWs7a+GD/FQ/lSzimVKew=="
+secured: "9CemtZvdbnT6l7UED+9O1yPylfTrkbzmXL1Kl2DkTV8iW7km2hmUVeD5G1CQb9S6kFMgbpxSW8R82kPjxkcC7RFDhZQiJLdyriDSr/Y2y29WzWVjbfeZtw8FKKWh3nS8sbuCvwpKC7sN81/enjXgKpYkKP9dUwbniKCfnkUTFE5qwUWTDgmdQTSgWBoTglgnnwTYEUoTX3PrAnr5c6FiCnfOui6RPBoIctiSibCnM+6h1pgrQe93TNeeSKoKi0SVbOGk0mnMg8YbA+MsU89NY8P22iBkFs9Nf+sXkX69gPNIb7qZkBOVDZ7SUmtP5yeOdKu09DVSoVzAGx4EJUecTzl/RVnPSPVW2ff0c+5ZNvaeEp++RvLZuaVG3WZsCGCYI27FVauy4R2lGGlf8by1guNtRGFB4cmlzqsp8QTMohE=;dO5PjcnqUPt2+gPZdMfs8Q=="
 ---
 
