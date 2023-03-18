@@ -20,7 +20,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 361,
+      "heat": 304,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -50,7 +50,7 @@
         "Diablo 4",
         "Druid"
       ],
-      "heat": 310,
+      "heat": 278,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -335,36 +335,6 @@
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
     },
     {
-      "path": "_games/rustypielover-diablo-4-druid-the-weatherman-build-no-items-skills-only.md",
-      "title": "DIABLO 4 DRUID: THE WEATHERMAN BUILD! (No Items, Skills Only)",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid Weatherman Build, where we dive into the skills needed to create the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-the-weatherman-build-no-items-skills-only/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-the-weatherman-build-no-items-skills-only/",
-      "originalUrl": "https://youtube.com/watch?v=6oMscyTb2ac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6oMscyTb2ac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M51S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-04T08:00:03-08:00"
-    },
-    {
       "path": "_games/barricade-ttv-diablo-4-offensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
       "title": "DIABLO 4 - OFFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
@@ -393,6 +363,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-10T08:47:30-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-cyclone-ability.md",
+      "title": "Diablo 4 Druid Cyclone Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-cyclone-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-cyclone-ability/",
+      "originalUrl": "https://youtube.com/watch?v=kaQtOE4QBpo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kaQtOE4QBpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-22T17:00:17-08:00"
     },
     {
       "path": "_games/struck-tlf-big-grizz-diablo-iv-druid-build-pre-launch-theorycraft.md",
