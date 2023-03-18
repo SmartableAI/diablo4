@@ -38,6 +38,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 Season Pass Explained"
+    excerpt: "Many are expecting Diablo 4 to be a live service title, so players are naturally wondering about the Season Pass that’s available with the game. NOW READ: Is Diablo Immortal different than Diablo 4?"
+    publishedDateTime: 2023-03-17T18:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-season-pass/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "RGITIgYnErrfHPsgcI+nhVds+IoNDJJ5PghwcfDxwCWQIGMvZKuykySezHsaml1M6mzpqgvy2SlN8AITRKXX5SDyx3dZ/VsekBXakPx4lxJ1buVukoZKfWq/bMzkYvRmIzxAuAZAoYiSDhak4M4i+jElv892XgEtu1VF21uxmDtFSzRHwJBoYKsnEuS2bp6wWbJLqOEkSgWGPElbp4xcoUYgOzuLJayr9IE6YIq9CwzN20buiCO9N3l+n5vgV2s5neJSMQbQNXUPzKtB8jKPeUL9hr/SlIpgEKXi3ghL6nF/+IYRWqREUrs4sF+aemKHCOb0QOMJyWEfNSVDQX5IsA4yxVG2XvQgrV3WKh/GmQ0=;EgUQ8LSnSNq4aWOW8Fd9+w=="
 ---

@@ -2,6 +2,7 @@
 title: "Diablo 4 - All Class Best Build, Skills & Abilities Guide - Sorcerer Barbarian Rogue Tree Explained!"
 excerpt: "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ..."
 originalUrl: https://youtube.com/watch?v=b62FpCdjUXA
+webUrl: https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-all-class-best-build-skills-abilities-guide-sorcerer-barbarian-rogue-tree-explained/
 type: video
 length: PT10M26S
 publishedDateTime: 2023-03-18T01:00:09Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "HUtf+zjuUoYh2cQTjh5KHRN6hwAjIiREDZc2AUSmzBe99leOOwelXfLsUjK5fvneRSAmiPvGVNVypepYB+hiK6vXHtZoqlqQU+ttP8gtv5FhhBxY8LpZdBxtQSfadYw5z3tpdc2v8yS6aa1j/m5qZ8ZZJuUaFEScfVMqo4i/5edTecuqyXaOXIGpVV0xRFqX5TgaRmn0V75hZsBSj13Fy7U3Z4zO0/ABRGA9QwQgd91q20fCnqKoa265Rv8HRewKaDLaqkBGHK7QGf2SjTDx4TceAsa9z+JHbXTeuYZ5zx1arycdLuZeCRFc5o/UbTUPHTssBeadS8DGqfrnp5BvCL+Apbo3gZJYRyM/9qCHFL+sZJ0CnZIybHeyNqzeOXq9g6r7Yf/KuvyTrMy9gSx4hw==;b6DehBLTrKIGs5ws7CX/ng=="
+secured: "mXi6aJSJ2Qe3NsBpy3Mq9A9xPr+99jcdyYPCFmEIR1vapZdqIcSeaYYaxtpVLaWsICY2igezTJWo9xKSl48rZYHObDKTyd7KZc0b5niK6Sy/EkKFmIHN9l/za892ExJlKlp1pBNz7npl7CsN+OW5w9CUJYh6qV1YAT8F4Xk0Xer04s70BcuCyfXB5vjEkGy5xQKkxdz1iGmEkUTVLcRGkai7VDhfZeJ/jPdaU8ppUtulBPswx/fYYFOAZqn+lp/GB1V4y7mjfJvs4SWq4l2eLhOAfLKqzj0ccqveBhI3k1+oAe/RobpRboldLKZ5kdDny11xfpDOpurArslrRqdzniEEKjOzc0+mlYvjMmXCzKQItXJ8xgp1qwxi/hYhYlN5UPS2bT7jpeBqapzT4sMaFA==;EAS+98gMkxTUkE4c/AzSuQ=="
 ---
 

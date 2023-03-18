@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-stats-explained/"
 webUrl: "https://gamerant.com/diablo-4-stats-explained/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FiiS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 Season Pass Explained"
+    excerpt: "Many are expecting Diablo 4 to be a live service title, so players are naturally wondering about the Season Pass that’s available with the game. NOW READ: Is Diablo Immortal different than Diablo 4?"
+    publishedDateTime: 2023-03-17T18:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-season-pass/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Fop83EKtsEeRdlPxqzuFk1EuGk1295Cb3RsS1VY9v0JcGg0BBacMVzJ3rpVXPt31AY7tb4uX64DL9BYvv9vmgnkQ0FQITMgsYGUOGKQACnarHPgoFlLyTzY4vDFRLD852/f+DuroUwqsAOMzhrNcSDaCDE4Gw3QHcDC7T6BDx+yCbecZIFk5gInmrw3xaVzey9ahHekEefE0Xkt49BuhnZTxotXKe+0sq3HLq8A/7mRC1iNDaXEUmQCvKOaH2nFOmV1+yR+wB5Yh/9MkxJkWgDcm79Vg3ZHunpSX0qiSoU9EuP5yRxkdG/R5WNo2Upmt5yyrupA4qai6JVf5gNhJkFCguD8Lxo54PYJYrfCMBsg=;efyKkAvYFWGzEuiHOr41ig=="
