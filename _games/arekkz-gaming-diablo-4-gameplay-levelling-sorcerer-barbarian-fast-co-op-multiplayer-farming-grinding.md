@@ -2,6 +2,7 @@
 title: "Diablo 4 Gameplay Levelling Sorcerer & Barbarian Fast! Co-op Multiplayer Farming & Grinding"
 excerpt: "Today we're levelling up as fast as we can on sorcerer and barbarian in co-op multiplayer so we can get to the higher level ..."
 originalUrl: https://youtube.com/watch?v=97SMpQSAVe4
+webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding/
 type: video
 length: P0D
 publishedDateTime: 2023-03-18T10:01:50Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "otdIqJK3qFkSgAdFWLUDUuEfRLvf4VKByWbTG1YnciUd8y0yZC3l2pFZdklIOYoVgnNJ44IAZ0hdfUgITGeXT7OsNRFCZhafFmHvu2KgN9ga37fZE4WWroTHMyXxhPR/bqYChrccqislITmEQK1471ZuuDW6sDG7k+BYfkeRTDiUNYe0UDW3qIaKrP5f7fLzdlwJFr0MwBytHHRD9dKleC2P6hJKzqkJLh7MKtCNJ4L1gMSu7eN+O9DAGiJSTftJ+6vhJJL80nceHdB1eRllIlNzPITQyERGnhqv5GW+fd/LQsj0pDVDNu9GvKQVo9vgoKsYPUY7I/VMMlEZ/Xy/vIcx+O2EVIL94EWOwb/X1LhruAuBuHFyIvn3P79tW+FRm740SmTdayIB6KiCZD//NA==;HhnsX40NCnNZZ0z0p18rog=="
+secured: "1Bab1v5cgkF9N2GrLlPXlQZOR1rk32LO3Oi8zAsBRmvDTtr36FMepcRQaiSEFHLg8Cv874XrkGPq+O1WpO/9sXmGFLF/2x0KpfLO4qIeuDUUwazbEhzqhDSG22uRO8+udBYRM+TRfWrRRAu9EoonqQFVTPmusSX/7o3s9YSadbi21uPwBRd95nEaiOdIRsFFIAVOacCie9Dl33ScjCn5kG29BAKQI6Ct0lHYx4OV4fGSf0b/kRcRqhEQd/xOuz/DiRCM7jGgZkF3Y1m5Fc5H1Z3OTu8BT2nLeB8vNw1x+ORkAi3LE5fE/44vHbPtZdzXr4ourZatDVc8HdDVBJItXTq9++GehjoXzzhkgPGIYjjCvHzIo+WTiu4Q2zsDcpFu6JuqNRZqTRGyO4tZFs+QDA==;wZvo145TktRWUZla9Gaa0A=="
 ---
 
