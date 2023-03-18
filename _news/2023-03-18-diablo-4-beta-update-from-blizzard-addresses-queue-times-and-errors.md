@@ -38,6 +38,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 beta players furious over error codes and long queues"
+    excerpt: "Though some have been able to enjoy Diablo 4's early access beta, many users are running into error codes and incredibly long queue times."
+    publishedDateTime: 2023-03-18T03:34:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-4-early-access-beta-error-codes-queues-2089850/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/17/diablo-4.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "wmhzxfrAQ3P71pPnH6r0N5uI6zHUgQoRKrhYupizmfqTot60SLghmGrTqYYG0aTVu+7OIc1D7FjtcO4Xdrk6xUI9HYhY/1dQdryoD/gCsYLPqK6GeBNds0LAwNb1DtW7m8cg4OvqQxLlYKOCHcNqrBQUbNAfFiz5I1VA4oZ34TWhzcFrEkI9uqRzImOXZdXPSR6iKEm8lTZaHMvJkYnhe4spjKN3q6j/H/dDTmxNECj9PTDfw0L9ijNOv+gayTuobdeRgKpMveSy/9CFB6Ekdt40WvmMd5MuoibbGFoxkKNMNVRhELyFILJ4Qi+5MfyvsZK7POh0Gxyk51MTfOjmEVc+nsgCfhVixEZhXCJBDk0=;txwhkB/96nfdZeCWGDj2OA=="
 ---

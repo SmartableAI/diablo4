@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-beta-queue-issues/"
 webUrl: "https://gamerant.com/diablo-4-beta-queue-issues/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 beta players furious over error codes and long queues"
+    excerpt: "Though some have been able to enjoy Diablo 4's early access beta, many users are running into error codes and incredibly long queue times."
+    publishedDateTime: 2023-03-18T03:34:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-4-early-access-beta-error-codes-queues-2089850/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/17/diablo-4.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
     excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
     publishedDateTime: 2023-03-18T04:11:00Z

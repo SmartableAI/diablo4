@@ -2,6 +2,7 @@
 title: "Diablo 4 Beta Gameplay Livestream: Sorceress"
 excerpt: "Diablo 4 beta livestream gameplay showcase featuring the sorceress - barbarian, necromancer, and druid classes coming in later ..."
 originalUrl: https://youtube.com/watch?v=od5s0wy3TtE
+webUrl: https://smartable.ai/apps/diablo4/game/rhykker-diablo-4-beta-gameplay-livestream-sorceress/
 type: video
 length: P0D
 publishedDateTime: 2023-03-18T07:46:56Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ZDgnNQcrEZwxHUn67oX16pyxAXgJBAk1q2awsoxaucStlFIuw6y7bj5QgaQyvcCPBL+jKZSZzs1g6blBbCLWFWahwsBztelltwdJiBBYCOwK8Nn4D4cc+PVsY9rHBnSvwnSBI/gyVh7TENu2Lpc++WLoktD5zT+IFORjv+HcxO6Wq+MigcvFOYKt5RuLn+OJeH7HSM4VgvsbwGVALu87b6JpKbNLUar0v5KaXAdlp1ycC78262oOK21zZPoe2+bsFK/oIAvozO3SF60W2KLv+cplpDmwi9hrTV1bKzQbZKPAD5Q3G36G9GBY8GoS/0C9aIFCbL5reFrgoLM0NIxugGxLBJn4WWc2XsUjM+fVwMDm4zkbbH48veKqI/N+yWBHq66DoYP0hBRHNMWaRINkJg==;CgtKZINHgoHweajQd9T8qA=="
+secured: "5uGWuQCAa4A/Kq4p0ZdLs+GYWhp15CELIRT3TFbCBf90FUht611JucMYsfb6a0lYICIpwkP07M4/rzIpNoNtce+Ei4FQ+YtL+EOoErL7H7AK+LUGagqtrRAc27fHJlyJgMW9ePHipAmH/BtDyEG8UNesBfm6mwdWfBug0rTrRvCk5XSEypU4fxJWGSrh1xFCjnl8asp3jFP2CZXs3U42HTervAA/39HAfNZIAygfNrSs6ZsPryN5vG4EKK26KQdu+b9UtrapPtDH9n0aX3eDzz7Bg6NuePr+NEZ7zB7TgFHaF60GLMG6qJJkvA4pT5xr9oeV9D0epZbBRsraQIdE48ixY6OXJQIqfgnpZoa1qteJ9431VaF9p65jctb/hPi3ZAHwWiJtcwJXm+jtvGDD9w==;rpEXY+aNqlg4NHMtoj9mRg=="
 ---
 
