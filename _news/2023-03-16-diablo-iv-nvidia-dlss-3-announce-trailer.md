@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
-excerpt: "Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between March 17th to 19th and in the Open Beta from ..."
-publishedDateTime: 2023-03-16T14:30:28Z
-originalUrl: "https://youtube.com/watch?v=tx0pjnnh5p8"
+excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
+publishedDateTime: 2023-03-16T13:02:06Z
+originalUrl: "https://youtube.com/watch?v=fGdnys7CKHY"
 type: video
 quality: 122
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tx0pjnnh5p8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGdnys7CKHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: GameSpot Trailers
+  name: NVIDIA GeForce
   domain: youtube.com
 
 topics:
@@ -70,6 +70,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Z16VQ724F7Ballfa96R627ADkentOwSh2wwZjOnQYxvcNSflCs8QXPtm/guqIhpadZKpUo0gZ8PuTK0qVmXRaf/JLNG4IZNYwq8oXYzzgWFmbvBFjlc9NVUQ23jzCKcVoopwKsHZENWb1yZIzeFE48bOysZwU47KgK6LJ3cuIyVB7qI9AiUelvq5T5iSZyX6SlzS4hrIDU0JyXUzRCrY3mqB7BGdi81fTXwLKAC+aEGE4/7TOgdBUWvHFX8EdP4CLxz5Q5Lw1mAodlvTFyfau8DBnMAXaqEuFgDd8QJKAZyUema9G6+AiYepQ/y313iTliXiLxLVIeQyB1jMFE41l5P+y37bADalhRFWgFlF2RFWQL4cwdLrztV0YPExLQJgzuSZwIdgygpWWhbJn1g0dg==;higmPy2qE45CnIFcigTU0Q=="
+secured: "a3mFMczDjqBfa9RmLOEj5NdxOBCnasxPvJ+rRev3ac69eCW84yB/g0G5NSFRIdIa6wOP+t+1e/MW0oDLr0n74IkqWBF2cIqAIYnbUpC7I4UupL0qFqycrBqc/Awdvg383uKoolG34u91J1q71BwAza3dtKwJ5KCgmvctRaJHIznpfgQYGHJZkAXqOtbHxNyZh5/65gVV5tHpCZ6tIzfVmqgud/XILo49LscXKO/HQ3+rPtX7PBFtaO3Qn00EjpYFemfiV54Tqx14pu7/tg32lrgNFyUQi4TAG3srHNJI8pXRuPdvG8cHm92XqWKyum1UzYdkVl/GMifiJ1Cl4pvPrKh4t7Chf/upTB0ZSTlIgLD9+cWai7nsEhPNEhBm5zm6u/WK0NJftzV0nElsE8vaqQ==;BGqV6mYoninOXIkB0kXbAA=="
 ---
 
