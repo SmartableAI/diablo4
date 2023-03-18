@@ -64,6 +64,36 @@
       "publishedDateTime": "2023-03-16T17:00:07-07:00"
     },
     {
+      "path": "_games/pupsker-diablo-iv-early-access-beta-world-boss-max-level-today-druid-necromancer-next-week.md",
+      "title": "Diablo IV - Early Access Beta! World Boss & Max Level Today! Druid Necromancer Next Week!",
+      "excerpt": "Today we're running the Diablo IV Early Access Beta! We got a Access code from Blizzard so that's great, plan is we're getting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/pupsker-diablo-iv-early-access-beta-world-boss-max-level-today-druid-necromancer-next-week/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/pupsker-diablo-iv-early-access-beta-world-boss-max-level-today-druid-necromancer-next-week/",
+      "originalUrl": "https://youtube.com/watch?v=PNEVTufC8vU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PNEVTufC8vU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Pupsker",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 255,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T08:44:53-07:00"
+    },
+    {
       "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
       "title": "Druid is AWESOME in Diablo 4!",
       "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
@@ -335,36 +365,6 @@
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
     },
     {
-      "path": "_games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info.md",
-      "title": "Diablo 4 One with Nature DRUID Class Overview - Skills, Abilities, New Mechanics! (More INFO)!",
-      "excerpt": "In this video I show you an overview of the druid class for the upcoming open world ARPG, Diablo 4. We go over skills, abilites, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info/",
-      "originalUrl": "https://youtube.com/watch?v=AEJV6xcGrGM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AEJV6xcGrGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M26S",
-      "provider": {
-        "name": "Warlug",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-28T16:50:31-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -393,36 +393,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-windshear-ability.md",
-      "title": "Diablo 4 Druid Windshear Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-windshear-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-windshear-ability/",
-      "originalUrl": "https://youtube.com/watch?v=gmPgWd5oxY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmPgWd5oxY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-28T17:00:14-08:00"
     },
     {
       "path": "_games/tubegamevideo-diablo-4-33-minutes-of-gameplay-druid-barbarian-sorceress-rogue.md",
@@ -545,6 +515,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-11-18T05:00:32-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
+      "title": "Diablo 4 Druid Ravens Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
+      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-26T16:00:13-08:00"
     },
     {
       "path": "_games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed.md",
@@ -821,36 +821,6 @@
       "publishedDateTime": "2023-02-17T06:45:02-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
-      "title": "Diablo 4 Druid Ravens Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
-      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-26T16:00:13-08:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
       "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -911,6 +881,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-31T08:00:20-08:00"
+    },
+    {
+      "path": "_games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only.md",
+      "title": "Diablo 4 Druid: The Werewolf Summoner Build! (In-Depth, No Items, Skills Only!)",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid Werewolf Summoner Build, where we dive into the skills needed to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only/",
+      "originalUrl": "https://youtube.com/watch?v=ga462qzb4e8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ga462qzb4e8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M49S",
+      "provider": {
+        "name": "RustyPieLover",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-04T08:00:31-08:00"
     }
   ],
   "nextPage": 2

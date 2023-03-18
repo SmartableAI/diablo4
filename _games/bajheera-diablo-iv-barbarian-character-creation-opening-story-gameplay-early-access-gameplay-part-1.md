@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/bajheera-diablo-iv-barbarian-char
 type: video
 length: PT1H52M47S
 publishedDateTime: 2023-03-17T22:54:19Z
-heat: 209
+heat: 268
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PlPattS5V-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "YIoE6oYKegkOJ/sKQTHvYPc60g31j+LrBjuV9HgpdIf16UpNDx8JQYQPU9X+KlpQHHZw1EtDCeCF/xfmzbhG0k3u/NsilwqZ7IZqttt4gzkv6YiMS2QgOSNTNJG1zXAXbwpeJT+T0coSIhXw2y9UBK4+5nY6j3+u20YpBC9L4s1u0Iaa/ucVkwNGQ2HfNBOcANc7Dki4G5hqzb1pRq296kq7h46Yk+eBWr2RKyMIoT0J19xJeNKFTQv4aJPWy8wBX9n7CV7/j/odZrDCGmiSbcKYOAz/BkWaA6j1Wk22WM9sW20OK/JeYm59t2I72yuK+zK7I/hCI6Kl4hlrmgnqjoY4p/4+BM6VyF4nZ6Dpq3TjEmwIlAvxOU2egMesUFjoW/Mda/u6J9IGYVAULs2BHw==;PDFONL7uAm4aL2jcRm/PdA=="
+secured: "ChK2OblWQ13FEpOZsZbGNK4xVSTTaXg8vh4GcZE5ozvZB7wtZ5rh/EZ1r4GaMgd/ZMTUCZVFEN5yxZTeD00/4CvIbQdCZUQwGDBW8I9wQOKqJMYUVRbrtfJBG+kW5iMTAbCvjPmO3PuZkd9rlf+uBbqiKqj3wqBy05a0msjjwgM6nJcu+pm7wIKTJiQThSgHA2gCdFDgziM7kAV0wWRVp7KeunWLBgIn++wHcSDH4yCl9VAvdVPWnA6HCwiYaswb2eXbUsJ3hYNpprbb57uFhXgGJtPumlapO+uSa+LkEz0cDOTQlqIWdUH5s4x3sLK9RY0G6t6ZcY36zxaiBCAflpu+AQTP5qw0RjrDRLkPLQX3mY0GFxpWixHV2lL5km/B27//05SvYF2BoRyAlPRSrNaT7xoBs585od7UxcjBC4s=;VdeunCK3n/hDOxDEvV0kMA=="
 ---
 

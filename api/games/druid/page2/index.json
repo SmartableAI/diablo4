@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only.md",
-      "title": "Diablo 4 Druid: The Werewolf Summoner Build! (In-Depth, No Items, Skills Only!)",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Druid Werewolf Summoner Build, where we dive into the skills needed to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-druid-the-werewolf-summoner-build-in-depth-no-items-skills-only/",
-      "originalUrl": "https://youtube.com/watch?v=ga462qzb4e8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ga462qzb4e8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M49S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-04T08:00:31-08:00"
-    },
-    {
       "path": "_games/giuseppes-gaming-twinfinite-diablo-iv-druid-introduction-and-gameplay-pc-ps4-xbox-one.md",
       "title": "Diablo IV - Druid Introduction and Gameplay [PC, PS4, Xbox One]",
       "excerpt": "Full article: https://twinfinite.net/2019/11/diablo-4-details videos/ Recorded from Blizzcon livestream: https://blizzcon.com/en-us/watch.",
@@ -216,6 +186,36 @@
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
     },
     {
+      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-druid.md",
+      "title": "New Gameplay Today – Diablo IV's Druid",
+      "excerpt": "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-druid/",
+      "originalUrl": "https://youtube.com/watch?v=uij9ysBKs4w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uij9ysBKs4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M33S",
+      "provider": {
+        "name": "Game Informer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uij9ysBKs4w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-08T06:00:15-08:00"
+    },
+    {
       "path": "_games/beefguyty-diablo-4-druid-tornado-ability.md",
       "title": "Diablo 4 Druid Tornado Ability",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -396,36 +396,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-25T09:00:21-08:00"
-    },
-    {
-      "path": "_games/game-informer-new-gameplay-today-diablo-ivs-druid.md",
-      "title": "New Gameplay Today – Diablo IV's Druid",
-      "excerpt": "Ben Reeves joins Jeff Cork and Leo Vader for a look at the third and final announced class for Diablo IV. Head to http://gameinformer.com/blizzard to watch this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/game-informer-new-gameplay-today-diablo-ivs-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/game-informer-new-gameplay-today-diablo-ivs-druid/",
-      "originalUrl": "https://youtube.com/watch?v=uij9ysBKs4w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uij9ysBKs4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M33S",
-      "provider": {
-        "name": "Game Informer",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uij9ysBKs4w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-08T06:00:15-08:00"
     },
     {
       "path": "_games/noobyg-diablo-4-druid-gameplay-boulder-toss-shorts-diablo4-druid.md",
@@ -793,6 +763,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-19T08:46:00-07:00"
+    },
+    {
+      "path": "_games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info.md",
+      "title": "Diablo 4 One with Nature DRUID Class Overview - Skills, Abilities, New Mechanics! (More INFO)!",
+      "excerpt": "In this video I show you an overview of the druid class for the upcoming open world ARPG, Diablo 4. We go over skills, abilites, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info/",
+      "originalUrl": "https://youtube.com/watch?v=AEJV6xcGrGM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AEJV6xcGrGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M26S",
+      "provider": {
+        "name": "Warlug",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-28T16:50:31-08:00"
     },
     {
       "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",

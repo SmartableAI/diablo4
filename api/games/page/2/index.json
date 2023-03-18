@@ -4,6 +4,66 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr.md",
+      "title": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay (4K 60FPS HDR)",
+      "excerpt": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/",
+      "originalUrl": "https://youtube.com/watch?v=h_G0_G-LRmk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h_G0_G-LRmk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M42S",
+      "provider": {
+        "name": "GameV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 195,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T04:52:56-07:00"
+    },
+    {
+      "path": "_games/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian.md",
+      "title": "Diablo 4 BETA - Never Seen Gameplay Hardcore Barbarian",
+      "excerpt": "As I am an unstoppable chad of infinite energy, I'm going into Diablo 4 with no knowledge of any system or how the game plays, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=utgIu8FwZC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utgIu8FwZC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "Seer",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 192,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-16T15:31:39-07:00"
+    },
+    {
       "path": "_games/vivstar-diablo-4-12-minutes-druid-gameplay.md",
       "title": "Diablo 4 - 12 minutes Druid Gameplay",
       "excerpt": "Diablo 4 - 12 minutes Druid Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard ...",
@@ -124,36 +184,6 @@
       "publishedDateTime": "2023-03-17T15:49:48-07:00"
     },
     {
-      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-5.md",
-      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 5",
-      "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-5/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-5/",
-      "originalUrl": "https://youtube.com/watch?v=aVaq1c54rSY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVaq1c54rSY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M36S",
-      "provider": {
-        "name": "CohhCarnage",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 169,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T15:49:21-07:00"
-    },
-    {
       "path": "_games/gamev-diablo-4-epic-10-minutes-exclusive-druid-gameplay-4k-60fps-hdr.md",
       "title": "Diablo 4 EPIC 10 Minutes Exclusive Druid Gameplay (4K 60FPS HDR)",
       "excerpt": "Diablo 4 EPIC 10 Minutes Exclusive Druid Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
@@ -242,6 +272,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-12T13:43:35-07:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-ability-call-of-ancients-barbarian.md",
+      "title": "Diablo 4 Ability Call Of Ancients - Barbarian",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-ability-call-of-ancients-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-ability-call-of-ancients-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=1AA7geMPtWM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1AA7geMPtWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-19T11:00:00-08:00"
     },
     {
       "path": "_games/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream.md",
@@ -455,36 +515,6 @@
       "publishedDateTime": "2023-03-12T13:56:03-07:00"
     },
     {
-      "path": "_games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info.md",
-      "title": "Diablo 4 One with Nature DRUID Class Overview - Skills, Abilities, New Mechanics! (More INFO)!",
-      "excerpt": "In this video I show you an overview of the druid class for the upcoming open world ARPG, Diablo 4. We go over skills, abilites, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-one-with-nature-druid-class-overview-skills-abilities-new-mechanics-more-info/",
-      "originalUrl": "https://youtube.com/watch?v=AEJV6xcGrGM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AEJV6xcGrGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M26S",
-      "provider": {
-        "name": "Warlug",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 112,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-28T16:50:31-08:00"
-    },
-    {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
       "title": "Diablo IV Druid Gameplay . (No Commentary)",
       "excerpt": "The Druid is a savage shapeshifter, fluidly transforming between the forms of a towering bear or a vicious werewolf to fight alongside the creatures of the wild.",
@@ -515,21 +545,21 @@
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-windshear-ability.md",
-      "title": "Diablo 4 Druid Windshear Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-windshear-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-windshear-ability/",
-      "originalUrl": "https://youtube.com/watch?v=gmPgWd5oxY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmPgWd5oxY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
+      "path": "_games/barricade-ttv-diablo-4-offensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects.md",
+      "title": "DIABLO 4 - OFFENSIVE BARBARIAN LEGENDARY ASPECTS - Codex of Power Legendary Aspects",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-offensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-offensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/",
+      "originalUrl": "https://youtube.com/watch?v=A5gAvJl--4E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A5gAvJl--4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M16S",
       "provider": {
-        "name": "BeefGuyTy",
+        "name": "Barricade TTV",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Barbarian"
       ],
       "heat": 110,
       "images": [
@@ -542,7 +572,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2022-12-28T17:00:14-08:00"
+      "publishedDateTime": "2023-01-05T11:02:27-08:00"
     },
     {
       "path": "_games/ben-lee-gaming-diablo-4-barbarian-overview-should-you-main-it-skill-showcase-gameplay-legendary-aspects.md",
@@ -875,36 +905,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-11T12:08:54-08:00"
-    },
-    {
-      "path": "_games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test.md",
-      "title": "DIABLO IV - NEW DRUID GAMEPLAY - 2022  BETA TEST",
-      "excerpt": "DIABLO IV - NEW DRUID GAMEPLAY - 2022 BETA TEST Enjoying the video? pls make sure to subscribe for a regular dose of top ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gaming-rush-tube-diablo-iv-new-druid-gameplay-2022-beta-test/",
-      "originalUrl": "https://youtube.com/watch?v=F5JP4w0YGa4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F5JP4w0YGa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "Gaming Rush Tube",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-11-18T05:00:32-08:00"
     }
   ],
   "nextPage": 3
