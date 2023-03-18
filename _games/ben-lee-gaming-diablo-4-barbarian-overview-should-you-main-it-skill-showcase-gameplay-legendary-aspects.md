@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/ben-lee-gaming-diablo-4-barbarian
 type: video
 length: PT8M1S
 publishedDateTime: 2023-03-14T16:00:11Z
-heat: 110
+heat: 107
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMFz2TXTP50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "JhhS3/OhBnsI+EwPl/skVRn8PsR+mBsHq6Mhnpuv6kt9rQxAvCHZ450G9gNaVD5ZPxYM3WTQpf8F9dooHNQ5K+q88XK5p4a9zRfKyq6k1ugmXJMocwUs59bPu48MJFNaDspAFwMdy1WPsM3+zxhtEUg+hiIVfNFXcI6Zkq1x9JNPOqoXHk2vUifprwk4I5CpCMQA1ZupH1EcKiYW2UU/j6oFCUlKG1CRSkMicMpgcdFggCeRKeqCLIbWbi2dkYofnNKZLHqDiSoRxtvAyIB0T9VodpzPovUvi8k5AhEHaJhD25gLuRqcc8loyXALCG/YgJwQq5h7PahYcnoh9onV9FhodIrp+pmYchm25RJbbO/uMZBbMkbl1nU/3U8NfQVO2/0330Q8xZTJwam483x+gpdLdvV/F/bJNx/IiYLYxTM=;k1sbybV1la3UPluc6bQNvA=="
+secured: "PnDauOCRKwUFSoiqXF5InCDWLDlkCyQEzEJd6bBRiSojzHKXMbIo/pz6YlMaGnzCps9TDAgoHqKv36mfAbDnnEQLy0dL93cR8+K0xFUW4Eh440bdyrghrpjW5n/5gf3t9l04x3HWW7a5REqZ79r1CZ6XqLXb4h/x9iH4QIsBUZ7dhbQAOGWN5OHuci+zk16xptEAQOxHbA4BbVZ5LQ3VXo4405+JgTcPERFr5mCtPncKXI2F2x6oRxNJUXIm5M/qUHyNCGMc8zbZ9TL4oLgPSLxwBFmBVC0557cUrixuOQJWvKh1+o6MEnv5TWNH+uWD8s+rDIsG+cdxKeWNurHpDxj+6hLNwu5B2HXgcOUsqcHoOwNwHp14MXfcAa8y8rwRNg/IgwQASKSdT4PX8TTaK1/buIuwD1IqIIrdZYRDk38=;QuJ6PZMtK5ngmvqllRMOFA=="
 ---
 
