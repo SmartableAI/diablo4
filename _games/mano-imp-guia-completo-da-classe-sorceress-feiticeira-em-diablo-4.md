@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/mano-imp-guia-completo-da-classe-
 type: video
 length: PT5M18S
 publishedDateTime: 2023-03-11T12:00:47Z
-heat: 123
+heat: 98
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w6TxnnyZZ3s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
