@@ -52,19 +52,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
-    excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
-    publishedDateTime: 2023-03-17T15:38:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-class"
+  - title: "Diablo 4 Developers Promise Better Queue Times And Server Stability Soon"
+    excerpt: "\"We are actively working on these issues for this weekend\" - says Community Manager PezRadar. Diablo 4 Community Manager PezRadar provided an update (via the Blizzard forums) on the long queues and ..."
+    publishedDateTime: 2023-03-18T10:09:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-developers-better-queue-times-server-stability/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: DualShockers
+      domain: dualshockers.com
     quality: 86
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
-        width: 1200
-        height: 668
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-gameplay.jpg"
+        width: 2000
+        height: 1000
         isCached: true
 
 secured: "c1KK5euoSyW5R2YCLCQDhPNA2mfoHkbVDiDbQBqxG5LMIw96BWEvNBFjMcWNQfEHUpDLyDs7iOnjmHRfsPg/0f02CqqGJSfLmZCbCTq9Pzcsgn4N+D/Tkxr0Tjyl+2sT+utmKURZ9yFGxA4D19sTZ9a0QwQ7LTPWzUBTIrlKnlmCXubyJ66UMyHWUSsn99X+71ICeLRR5vRle11jHfw6Rmx+sM1ahFVblhEj2eP7vb/P9ohM9h1vf6b0gjEzeHZmIPGJaw041F5DMIwPgp7tSea8fOeuqM4QwRGpOUjwLH977I9DQp+eWz9gYisjrknypMcYUYVMixuWSUQGTBxezu61erqFazJfI0OwHhgnohQ=;ot/tylh+bPyacbypSTb+MQ=="

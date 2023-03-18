@@ -2,6 +2,7 @@
 title: "Diablo 4 - Whirlwind Barbarian Build (Beta Diablo IV Gameplay)"
 excerpt: "Diablo 4 - Whirlwind Barbarian Build (Beta Diablo IV Gameplay) Quick Look at the Barbarian Whirlwind Build Guide in the first ..."
 originalUrl: https://youtube.com/watch?v=b3pua2zLtl8
+webUrl: https://smartable.ai/apps/diablo4/game/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay/
 type: video
 length: PT10M33S
 publishedDateTime: 2023-03-18T18:13:05Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "iG4W+B5LW9ZbM+tj80WxEGCfPwviNop2XWFyQAwAOLY+SqY54Wxu5di+Effh5grOyZ2fmqJ1Go1kqAKalQ/gB+QntdWAoZQRgX6tAf7oOe4fDlIhGrmeh580FlDnfcuqW7VthxmwOFVAfd1r3iJvCA1XL2pgpg5mU72u5Ws5+hOpep+w+C2sahvGQFPb9Bbrj0iBoeeXpGyMU4xX2Rz98i9DTgqGeYs9sLpxWiHl5Kp5JY9+3cv+8YfKuLLuPvR00JPI55rpwvGX88MA1yoiUCcpagm1yfKf7B8OaZ4DHazBymyjjFjxrC7EU1FipRCPn6ecNsz8Zy/JHHT14IEgr5XJHPpdvvDzbZBIV92I46OCmAIrco/5I+hX1EFLrdfKGz9dHC3lNmtrDWgfRQk63A==;KFJ2JgaG5+xHgXm2BNQUJA=="
+secured: "l0EzO1H7ued+zld4q3ojYcYkINbv37myQ7C7ql3K5FzzVRy2SVduCM99jtkCSO/lcTuqw4P0KkLfm3bqil0trYhTbk8LfM+Ikj71cLzimzkp1tP4FaMAsTRN0cn2PNnNidQQL92MxkUqcg/O61ug2fxXsiUUr/xCQVXXDeoihM4RfseKMB6IlODT9CDE/H7Hu2WLxll2oBjte75x1ssT8bRJdnfFQh+Lhl3degVaihezgSk5dvWVH1kDCynww7UHyoS56i72PQIjd2HDrrOO5sxixspx6vt16FAEGyqllnXZAoXqQrRZQdEbg/rVIwyOINB4KVegYzsLTZf+KkEbFnc+hpyfljjWiWBZIUgKuP03EHX8m02JMu5mHdgcU1Xno2162veIwXEF4ARLL/3b3Q==;WDlpPrgbKdgcc08F2syxvg=="
 ---
 

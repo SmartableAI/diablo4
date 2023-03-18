@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
-    excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
-    publishedDateTime: 2023-03-17T15:38:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-class"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
-        width: 1200
-        height: 668
-        isCached: true
   - title: "Diablo 4 beta servers are going through hell as countless players rush in"
     excerpt: "Diablo 4 servers are on fire, under siege, and getting pushed to their limits as countless players swarm to the game during the pre-order weekend beta. Those who attempt to play are thrown into ..."
     publishedDateTime: 2023-03-17T10:04:00Z
@@ -69,6 +55,20 @@ related:
       - url: "https://asset.vg247.com/diablo-4-beta-servers.jpg/BROK/thumbnail/1200x630/diablo-4-beta-servers.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 Developers Promise Better Queue Times And Server Stability Soon"
+    excerpt: "\"We are actively working on these issues for this weekend\" - says Community Manager PezRadar. Diablo 4 Community Manager PezRadar provided an update (via the Blizzard forums) on the long queues and ..."
+    publishedDateTime: 2023-03-18T10:09:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-developers-better-queue-times-server-stability/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 86
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-gameplay.jpg"
+        width: 2000
+        height: 1000
         isCached: true
 
 secured: "VIdpK4AGPlEdFDEjEddLBu+YoBYRMksZKKNHCZq+AWWoTbkGihaZjbMkGj+mJxlq4Oemsg2HN/MJhx66+u8ZI9A5AVVX3Mi3T6rYZvo/CfRHDRa71BckxFajn7BJZUuFceLf0zoyxsWFVqsN9erWedhqtk24hclsIFVdZlQPyvDh8AN+4DIL1fU4d6n/Z/Fib4V2JSEgMzhRhmqMVCNMRAOmr8ZCHoGMEp3JIyOpeA5y78365kOcl1IBkOm1opiBRN+t2IVNsIQPbkGhi8E/5AianVm6meRD4ponRyk1F4AGUBT49Xl75QpSLe+1kuj6Rx7FkbY1+hn2Cjr5Zfefg35Nuj33+SCLt16ClNZpBDo=;04ilxLYz9rs2rqBb4zonyw=="
