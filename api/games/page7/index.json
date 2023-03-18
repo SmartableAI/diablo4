@@ -4,6 +4,38 @@
   "page": 7,
   "value": [
     {
+      "path": "_games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian.md",
+      "title": "Diablo 4 first gameplay reveal - Sorceress,Druid,Barbarian",
+      "excerpt": "Enjoy the 1st look of Diablo 4 gameplay This game looks simply amazing lets hope Blizzard can finally deliver a true successor to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameclyps-diablo-4-first-gameplay-reveal-sorceressdruidbarbarian/",
+      "originalUrl": "https://youtube.com/watch?v=igR2p0V37h0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igR2p0V37h0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M50S",
+      "provider": {
+        "name": "Gameclyps",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T18:02:33-08:00"
+    },
+    {
       "path": "_games/gamemouse-diablo-4-barbarian-sorceres-druid-official-gameplay-trailer-hd-1080p.md",
       "title": "DIABLO 4 - BARBARIAN, SORCERES, DRUİD  Official Gameplay Trailer - HD 1080p",
       "excerpt": "We Love to Play Games DIABLO 4 - BARBARIAN, SORCERES, DRUİD Official Gameplay Trailer - HD 1080p Platform: ...",
@@ -880,36 +912,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-05T08:51:59-08:00"
-    },
-    {
-      "path": "_games/kamahl-diablo-4-sorceress-skills.md",
-      "title": "Diablo 4 Sorceress Skills",
-      "excerpt": "Yo, Kamahl back with another Diablo 4 Character video. This one we are goin to be discussing the sorceress and her skills. At least as far as we can see thus far ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-sorceress-skills/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-sorceress-skills/",
-      "originalUrl": "https://youtube.com/watch?v=zO-DP_DCfcM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zO-DP_DCfcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M43S",
-      "provider": {
-        "name": "Kamahl",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zO-DP_DCfcM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-08T00:15:00-08:00"
     }
   ],
   "nextPage": 8

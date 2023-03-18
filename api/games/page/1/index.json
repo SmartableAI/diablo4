@@ -34,6 +34,36 @@
       "publishedDateTime": "2023-03-17T17:11:27-07:00"
     },
     {
+      "path": "_games/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue.md",
+      "title": "Diablo 4 - How to Create a Build - All Class Skills & Abilities Guide - Sorcerer Barbarian Rogue!",
+      "excerpt": "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=b62FpCdjUXA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b62FpCdjUXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M26S",
+      "provider": {
+        "name": "RageGamingVideos",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 409,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T18:00:09-07:00"
+    },
+    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 1",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -872,36 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-16T15:31:39-07:00"
-    },
-    {
-      "path": "_games/vivstar-diablo-4-12-minutes-druid-gameplay.md",
-      "title": "Diablo 4 - 12 minutes Druid Gameplay",
-      "excerpt": "Diablo 4 - 12 minutes Druid Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vivstar-diablo-4-12-minutes-druid-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-12-minutes-druid-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=E3CfeSiD0lw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E3CfeSiD0lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M3S",
-      "provider": {
-        "name": "VivStar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 188,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T11:06:28-07:00"
     }
   ],
   "nextPage": 2
