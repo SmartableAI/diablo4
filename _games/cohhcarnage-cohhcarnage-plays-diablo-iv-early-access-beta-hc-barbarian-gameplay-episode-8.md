@@ -2,6 +2,7 @@
 title: "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 8"
 excerpt: "(Cozy)Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at ..."
 originalUrl: https://youtube.com/watch?v=6BdYoWg0RD0
+webUrl: https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-8/
 type: video
 length: PT28M55S
 publishedDateTime: 2023-03-18T04:59:23Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "c2fkm+2YoPLXzVgVrWPHfHzFAbziz+fbGzQ4dKAI7xmv8uIkBmRUU9ya+LfAgBvDMhbC34bv10adpL9tJyZg8cAQlEpxlUdbOy89id4vM4BKDJWqArpyN23voMvVNqa6q8QGf3trFWf/NKIAtsDkzJnV//6QiWfeIApLupC1nlK6AGr0fqsc5ev8H9Mh+p5IFaJDsRRfZSCSIcCM+1ACy+WWjSvlp3BWd4cmVahm9GTCFqhc/VEEnvE91cdaVYJkRHyH23GIfoSt9lWhkr2QFIaY/dN7jYRmb5SQuFlULZhX+6WC+/ydY4ULkIxRg87WF8x/W+oaXFkylGvzPFmR+FFAXwN49i2H98qEcK6WNEcn7sVV43fl3MB9GhFhgfXMngEzQzRTyoir1n+raqqwQA==;b3euFQu1vR+7kxgPaSNdqA=="
+secured: "7yMovCKT2dAk/dwGH1RoMaa5S1e6Ux/XGK66kL7js+tGuW5MMPVLQlay/3hWtlFT5UQsEcng8msWmgjZn5xSDkDPO0qo+TwiwzVXJYutjWr9HMMYRj9maBCx50RM39Q4DHLS2HeSE+jCBDe7sVqJiCDAHhgnUBI9JiAJXgTmPuVvsqzQiTB5qWAoHd7blIjhV/uW79s3S/TPbCx7a5/znTs0bCJ37UzzH8AnSNEQ/tn2P7mrPHh/rV9HjMmLtKfoqiq4aPu637cmrtqQ7tiyYsXV15RF8YPd0NJNncVo8SrcpxhG4v/FZm07lu0XPsxxFOAoFPDReBMEP2YFazQ52tCgxvgnkw2zRqKuQetaRiDCYTMOjzPtQIDj+Pdf1mTSg3F+f17epsYqkF93IpDSbQ==;WWKNP6tSkaAdOgBUytQFmg=="
 ---
 
