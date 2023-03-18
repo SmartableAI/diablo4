@@ -94,6 +94,36 @@
       "publishedDateTime": "2023-03-17T14:32:31-07:00"
     },
     {
+      "path": "_games/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv.md",
+      "title": "Unparalleled strength. Unquenchable fury. The Barbarian is back in Diablo IV.",
+      "excerpt": "New skills. New weapons. New customizations. Same blood thirst. Meet the #DiabloIV Barbarian.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=SrSqqmqVs8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SrSqqmqVs8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29S",
+      "provider": {
+        "name": "Diablo",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 302,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-14T15:16:16-07:00"
+    },
+    {
       "path": "_games/ragegamingvideos-diablo-4-all-class-best-build-skills-abilities-guide-sorcerer-barbarian-rogue-tree-explained.md",
       "title": "Diablo 4 - All Class Best Build, Skills & Abilities Guide - Sorcerer Barbarian Rogue Tree Explained!",
       "excerpt": "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
@@ -272,6 +302,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:54:19-07:00"
+    },
+    {
+      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7.md",
+      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 7",
+      "excerpt": "(Cozy)Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7/",
+      "originalUrl": "https://youtube.com/watch?v=42K0IDGt_1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/42K0IDGt_1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M35S",
+      "provider": {
+        "name": "CohhCarnage",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 206,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T19:11:15-07:00"
     },
     {
       "path": "_games/vivstar-diablo-4-16-minutes-barbarian-demo.md",
@@ -575,36 +635,6 @@
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
     },
     {
-      "path": "_games/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects.md",
-      "title": "DIABLO 4 - DEFENSIVE BARBARIAN LEGENDARY ASPECTS - Codex of Power Legendary Aspects",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/",
-      "originalUrl": "https://youtube.com/watch?v=yUij0fPbWus",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yUij0fPbWus\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-05T08:26:37-08:00"
-    },
-    {
       "path": "_games/ben-lee-gaming-diablo-4-barbarian-overview-should-you-main-it-skill-showcase-gameplay-legendary-aspects.md",
       "title": "Diablo 4 BARBARIAN Overview: Should You MAIN It? (Skill Showcase, Gameplay, Legendary Aspects)",
       "excerpt": "Twitch: https://www.twitch.tv/BenLee_Tv Discord: https://discord.gg/jJHnWqK9hC Twitter: https://twitter.com/BenLeeGaming ...",
@@ -877,36 +907,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-05T11:06:35-08:00"
-    },
-    {
-      "path": "_games/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife.md",
-      "title": "Diablo 4 Barbarian Class preview by FextraLIfe",
-      "excerpt": "Quick look at one of the five playable classes in Blizzard Entertainment much beloved and anticipated A-RPG - DIABLO IV. Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife/",
-      "originalUrl": "https://youtube.com/watch?v=vkK28tJ_U6Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vkK28tJ_U6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M46S",
-      "provider": {
-        "name": "G7J's Vortex",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-07T04:38:50-08:00"
     }
   ],
   "nextPage": 2

@@ -184,6 +184,36 @@
       "publishedDateTime": "2023-03-15T17:00:14-07:00"
     },
     {
+      "path": "_games/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv.md",
+      "title": "Unparalleled strength. Unquenchable fury. The Barbarian is back in Diablo IV.",
+      "excerpt": "New skills. New weapons. New customizations. Same blood thirst. Meet the #DiabloIV Barbarian.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=SrSqqmqVs8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SrSqqmqVs8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29S",
+      "provider": {
+        "name": "Diablo",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 302,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-14T15:16:16-07:00"
+    },
+    {
       "path": "_games/ragegamingvideos-diablo-4-all-class-best-build-skills-abilities-guide-sorcerer-barbarian-rogue-tree-explained.md",
       "title": "Diablo 4 - All Class Best Build, Skills & Abilities Guide - Sorcerer Barbarian Rogue Tree Explained!",
       "excerpt": "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
@@ -422,6 +452,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:54:19-07:00"
+    },
+    {
+      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7.md",
+      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 7",
+      "excerpt": "(Cozy)Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7/",
+      "originalUrl": "https://youtube.com/watch?v=42K0IDGt_1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/42K0IDGt_1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M35S",
+      "provider": {
+        "name": "CohhCarnage",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 206,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T19:11:15-07:00"
     },
     {
       "path": "_games/vivstar-diablo-4-16-minutes-barbarian-demo.md",
@@ -842,66 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T10:53:27-07:00"
-    },
-    {
-      "path": "_games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds.md",
-      "title": "Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds!",
-      "excerpt": "Our First Version Of The Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds. I Will Be Updated With Open Beta Access ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/",
-      "originalUrl": "https://youtube.com/watch?v=2XodvjJVSEY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XodvjJVSEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M21S",
-      "provider": {
-        "name": "Mattjestic MultiGaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T17:51:27-07:00"
-    },
-    {
-      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4.md",
-      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 4",
-      "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4/",
-      "originalUrl": "https://youtube.com/watch?v=HbiFVed2lsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HbiFVed2lsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M28S",
-      "provider": {
-        "name": "CohhCarnage",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T15:39:28-07:00"
     }
   ],
   "nextPage": 2

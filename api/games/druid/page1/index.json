@@ -244,6 +244,36 @@
       "publishedDateTime": "2023-03-12T10:50:33-07:00"
     },
     {
+      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
+      "title": "Diablo 4 Druid Ravens Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
+      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-26T16:00:13-08:00"
+    },
+    {
       "path": "_games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds.md",
       "title": "Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds!",
       "excerpt": "Our First Version Of The Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds. I Will Be Updated With Open Beta Access ...",
@@ -333,6 +363,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - DEFENSIVE DRUID LEGENDARY ASPECTS - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-druid-legendary-aspects-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=-94tolPWQlU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-94tolPWQlU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-10T08:47:27-08:00"
     },
     {
       "path": "_games/struck-tlf-big-grizz-diablo-iv-druid-build-pre-launch-theorycraft.md",
@@ -791,36 +851,6 @@
       "publishedDateTime": "2023-02-17T06:45:02-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-druid-ravens-ability.md",
-      "title": "Diablo 4 Druid Ravens Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-ravens-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-ravens-ability/",
-      "originalUrl": "https://youtube.com/watch?v=wLTlM5nA4Iw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wLTlM5nA4Iw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-26T16:00:13-08:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-60-fps-all-classes-barbarian-rogue-sorceress-druid-2021.md",
       "title": "Diablo 4 Gameplay 60 FPS All Classes [Barbarian, Rogue, Sorceress & Druid] 2021",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -881,36 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T14:30:13-07:00"
-    },
-    {
-      "path": "_games/beefguyty-diablo-4-druid-mount-ability.md",
-      "title": "Diablo 4 Druid MOUNT Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-mount-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-mount-ability/",
-      "originalUrl": "https://youtube.com/watch?v=LaAfyphA7ec",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LaAfyphA7ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-21T17:00:13-08:00"
     }
   ],
   "nextPage": 2

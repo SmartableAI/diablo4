@@ -4,6 +4,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_games/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife.md",
+      "title": "Diablo 4 Barbarian Class preview by FextraLIfe",
+      "excerpt": "Quick look at one of the five playable classes in Blizzard Entertainment much beloved and anticipated A-RPG - DIABLO IV. Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/g7js-vortex-diablo-4-barbarian-class-preview-by-fextralife/",
+      "originalUrl": "https://youtube.com/watch?v=vkK28tJ_U6Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vkK28tJ_U6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M46S",
+      "provider": {
+        "name": "G7J's Vortex",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-07T04:38:50-08:00"
+    },
+    {
       "path": "_games/beefguyty-diablo-4-ability-call-of-ancients-barbarian.md",
       "title": "Diablo 4 Ability Call Of Ancients - Barbarian",
       "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
@@ -887,36 +917,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-11-18T20:58:24-08:00"
-    },
-    {
-      "path": "_games/gigio-gameplay-diablo-iv-barbarian-gameplay.md",
-      "title": "Diablo IV Barbarian Gameplay",
-      "excerpt": "Diablo IV is an action RPG in development by Blizzard Entertainment, the fourth title in the Diablo series. Diablo IV é um RPG de ação em desenvolvimento pela ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gigio-gameplay-diablo-iv-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gigio-gameplay-diablo-iv-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=oFQXUsqN3HE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFQXUsqN3HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M20S",
-      "provider": {
-        "name": "Gigio Gameplay",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFQXUsqN3HE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-10-14T07:41:09-07:00"
     }
   ],
   "nextPage": 3
