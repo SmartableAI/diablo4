@@ -4,6 +4,36 @@
   "page": 3,
   "value": [
     {
+      "path": "_games/vinikluster-diablo-4-sorceress-class-shorts.md",
+      "title": "DIABLO 4 - SORCERESS  class  #shorts",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vinikluster-diablo-4-sorceress-class-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vinikluster-diablo-4-sorceress-class-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=b6cznYRMU-s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b6cznYRMU-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59S",
+      "provider": {
+        "name": "Vinikluster",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-03T14:38:40-08:00"
+    },
+    {
       "path": "_games/vulkan-diablo-4-is-looking-good-new-info-on-open-world-items-more-barb-sorceress-gameplay.md",
       "title": "Diablo 4 Is Looking Good! New Info on Open World, Items & More! (Barb & Sorceress Gameplay)",
       "excerpt": "Blizzard dropped new info on Diablo 4 for their massive zones, PvP Content, legendary gear & more! We also learn that the game is not quite in Alpha yet.",

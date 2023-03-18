@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-dia
 type: video
 length: PT29M28S
 publishedDateTime: 2023-03-17T22:39:28Z
-heat: 121
+heat: 292
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HbiFVed2lsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "NClj8aITLC17NJQeB/neYovyT63TVvQbtMOsgz5MSQF7EWnDBRIGbKB2q6mNRGPOzzmwaZBy+JEWmMuGGoXTxXVUgXeXXSyviWJ16yVV16Y7vbusTItPaecK2EwIIgvBD018jdIsdvUIrc9cB6aY4p0uQl0oLs20/iATGjrA3WSMeJ5swVejCGzgrEcFiuBSskeQlD3sLRn+VyqV7yiTxM2KgLebJj+TjWIdBDe1gOZpF5gcChfYPKjNErZYkw+5QFCGJmBLzWKjDjQ3oOu1Kf6dja6D/y3GKBw6hOodPXJ91kSSSWWYgolphe7t968W+yQS8cKyk4oB/fb27dzkzCMG8AuIGoqJiXPDORuQlOKLhVZA2SgjWTh67zviNbY0lH0ByoTB6ZXtQhP4cldEbg==;go5+FtU08egTXpEDU8Nhrw=="
+secured: "eqymzXLtcoOtDiO5dJHNVXWLGGh+Bo2OD32YrNlEvz2P7nLGcr7lonJMh4jYqWrbcaECQgZPTqq0w96TulH6uGYstTJjxxB9LKiGHe90P3FFxmAJSSXkhdK7cF/marxXo6CIwgDgQf7xSNEX2Ikgxgw0J5zL0XVuV0r3b9yvATfFNUIP4mNiurwZwlmAGW3lfCqm7TeT4L7x8CeeOBUeUacp8P+NFp1XQ+R1x5E6us1SIp1NpK1a91YSvBp3n00pjelNsnUmqlAcC4Pll7H4Jij7DIiaWx2WrpwrvbXG9aEDGQpuJVZtTlodk+De1GJktSv5XiT88FpDS/2WViQnN0QpuEM82qyc2W4AAwDbFaeSCmUWcZ7RGIL0JsyFBwDeqoDr7/XUdM0UqsiSLHrXsnyB81Do09jc8E2wqCD4LMc=;lalljqgpxZOeG5W2pNb4Eg=="
 ---
 

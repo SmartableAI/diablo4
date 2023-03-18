@@ -4,6 +4,68 @@
   "page": 7,
   "value": [
     {
+      "path": "_games/gamemouse-diablo-4-barbarian-sorceres-druid-official-gameplay-trailer-hd-1080p.md",
+      "title": "DIABLO 4 - BARBARIAN, SORCERES, DRUİD  Official Gameplay Trailer - HD 1080p",
+      "excerpt": "We Love to Play Games DIABLO 4 - BARBARIAN, SORCERES, DRUİD Official Gameplay Trailer - HD 1080p Platform: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamemouse-diablo-4-barbarian-sorceres-druid-official-gameplay-trailer-hd-1080p/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gamemouse-diablo-4-barbarian-sorceres-druid-official-gameplay-trailer-hd-1080p/",
+      "originalUrl": "https://youtube.com/watch?v=WIajUB6XA3A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WIajUB6XA3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M7S",
+      "provider": {
+        "name": "GameMouse",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-20T00:50:27-08:00"
+    },
+    {
+      "path": "_games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer.md",
+      "title": "Diablo 4   Barbarian, Sorcerer & Druid Gameplay Trailer",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/gameplay-diablo-4-barbarian-sorcerer-druid-gameplay-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=HwQR-FRevjA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HwQR-FRevjA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "GamePlay",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2020-11-27T11:35:38-08:00"
+    },
+    {
       "path": "_games/gamerbraves-diablo-ivs-rogue-and-barbarian-look-insane-new-gameplay-preview.md",
       "title": "Diablo IV's Rogue And Barbarian Look Insane! New Gameplay Preview",
       "excerpt": "It's been a hot minute since we've heard from Diablo IV- the upcoming installment for the popular Diablo series that's not on ...",
@@ -848,66 +910,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-08T00:15:00-08:00"
-    },
-    {
-      "path": "_games/kamahl-diablo-4-sorceress-talents.md",
-      "title": "Diablo 4 Sorceress Talents",
-      "excerpt": "It's finally here the last video in the Diablo 4 Initial Class Over View series. This video is going to cover the Diablo 4 Sorceress Talents Tree. #Diablo4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kamahl-diablo-4-sorceress-talents/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/kamahl-diablo-4-sorceress-talents/",
-      "originalUrl": "https://youtube.com/watch?v=VLjJo1OeKqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VLjJo1OeKqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M31S",
-      "provider": {
-        "name": "Kamahl",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VLjJo1OeKqA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-09T00:15:00-08:00"
-    },
-    {
-      "path": "_games/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments.md",
-      "title": "Diablo 4 Quarterly Update  - Feedback on Skill Tree, Items and Sorceress Enchantments",
-      "excerpt": "In this video we dig deep in to the latest changes that have been announced for Diablo 4. These changes include things such as the Sorceress Enchantment ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/kokushigg-diablo-4-quarterly-update-feedback-on-skill-tree-items-and-sorceress-enchantments/",
-      "originalUrl": "https://youtube.com/watch?v=Mr1gylHtYQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mr1gylHtYQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M",
-      "provider": {
-        "name": "KokushiGG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mr1gylHtYQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-09-30T10:23:08-07:00"
     }
   ],
   "nextPage": 8

@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gamev-diablo-4-first-10-minutes-e
 type: video
 length: PT9M21S
 publishedDateTime: 2023-03-01T14:30:28Z
-heat: 95
+heat: 74
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LGFzvv5EXBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "w7MdMhOhP3qdwTlM1IUiY7p+mBRQLuRw0kgkbmGz+1dIch3dGPHrlyRzKRlbbOKzI5IK7QOR5NvsRT0iCnVdQNxSXBZCQyZvXn95kRoR5FnqAE2No6B/nshP00oDzrFim7xZkXhZqD14g74WtSE4FDHi/q+8mWxcqdixTgc0M8MfFaRQ2xU53lhlx4xd/vjrkXNKZOyHA1I9wz4N9S7AjQ8GmlJY+yKoqsbmUY3gN6RA5C6OC7wplVoFqvhAY+Dz8YQMcjhEp8AJf2DYbv1xfuuGvzDvCtej3RNX/Y5pOWGNiTahvpkfkamGPF5kdYyT9g1jDDMq6gYyd0dSwNCW3WgPbfLaYHkEvPJPpgZwrAHfOyinmI6WvH0yExgLWd6exruRaAYVsIwaY/r6Ji7kFguYOOyvwTwE8CXQPekjzf8=;voAUWV8Obi696UeSe8p1Xg=="
+secured: "LpfN0AJDuOUda7xtL2X/wAhECyrvvMWLi56B8qRWvvPxmc5nkAvkRAVL1SNI+6KsO9DdvLR6lK4KoDXnS1IZVCdVhNs+0fWMEfo1jwOkkV6Oo4iTsohy9pRSlKXMUuJ1rU8LZecIw7zOzcpfYca6z/C2wZ05qididvi73uWwTmz6KE4YxV5Z7DWg3kiiqC1gdrcjATD81pzirAXPDrye1zLK9cQeRtKpM8qcQIKBaKeRgJH28ZY+QVvTmt/3SdIuXOjV1hgBCSFMc7S3Ye722IzhwKAc1PcHzDbgZtMn/Qr7nufXfLa06rLhyJmPoCOJt2HThfqTzaf2XnJ0T4MPM0L4xVyQ4oAgBppo49ZwFGANi1VF951xBeRz06ue8eDHqAbjl1N0O6MygghQfiPzisz21CVM/t+biISHJ44mQqc=;jUnTBDp8Cy7R+k5Bfe9gLA=="
 ---
 
