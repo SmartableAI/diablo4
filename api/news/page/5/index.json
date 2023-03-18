@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-14-diablo-4-might-have-timed-its-release-date-poorly.md",
+      "title": "Diablo 4 Might Have Timed Its Release Date Poorly",
+      "excerpt": "Diablo 4 is one of the most anticipated games of the year, but its June release date might have it going up against another highly anticipated title. Of course, it's always possible that at least one ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-14-diablo-4-might-have-timed-its-release-date-poorly/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-bad-release-date-timing-competition-final-fantasy-16/",
+      "originalUrl": "https://gamerant.com/diablo-4-bad-release-date-timing-competition-final-fantasy-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-x-ff16.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-diablo-4-will-not-have-item-sets-at-launch.md",
       "title": "Diablo 4 Will Not Have Item Sets At Launch",
       "excerpt": "One of the most iconic parts of the Diablo franchise won't be making its way to Diablo 4 at launch, as the game's set items have been postponed. Ultimately, fans will be able to test out the game ...",
@@ -1051,48 +1102,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-diablo-4-release-date-details-and-everything-we-know.md",
-      "title": "Diablo 4 release date, details, and everything we know",
-      "excerpt": "Learn everything you need to know about Diablo 4, including the release date, gameplay details, info on classes and skills, latest news, and more!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-12-diablo-4-release-date-details-and-everything-we-know/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-release-date-details-everything-we-know",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-release-date-details-everything-we-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/Diablo-4-release-date_eEGbuoc.jpg/BROK/thumbnail/1200x630/Diablo-4-release-date_eEGbuoc.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock Paper Shotgun",
-        "domain": "rockpapershotgun.com",
         "images": null,
         "publishers": null,
         "authors": null
