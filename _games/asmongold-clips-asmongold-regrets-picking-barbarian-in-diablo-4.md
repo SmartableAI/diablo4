@@ -2,6 +2,7 @@
 title: "Asmongold REGRETS Picking Barbarian in Diablo 4"
 excerpt: "Asmongold REGRETS Picking the Barbarian Class in Diablo 4, On this Asmongold Youtube Channel You will never quit finding ..."
 originalUrl: https://youtube.com/watch?v=ai9X8giPfMs
+webUrl: https://smartable.ai/apps/diablo4/game/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4/
 type: video
 length: PT58S
 publishedDateTime: 2023-03-18T00:11:27Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "KxVsfVjkGN9pPupIW793NpGQl8IK81WkQmKm/0EFBuJUqbYkVv9TwipbNoH1ZdAnepHKJGEs19dmNx8QoY6BxWWkzZU70WhgiuweY5M1l6fcULCNLXqKqCThdZ5jhS02wPnEF89I0TfB/5V53U6Y9FDflnxpa1K9y2p6DO/DPOEwqH6WdkDopO8akgBvRb2t/JmLzV+RThsK9dtc10UfXeXbXdaO1OK2MbrSbr8LsyMzcGGwqmIJRbNxqv/9grupiX+Th3YN7fHU3b1pzcdJ++p+rs0Fu0IPWvwo/3ei6plIZ/CMJCgz3Ry1GOdxzjfOVD1SzYU3QPOGJnB/shGWz0OVz8wEhknIDk3SYi3jliEjFbZp/NPYc6VOSmrz2/4k0arPEKdi8Nw59ZbsV4vwlg==;8CQ0LIFEX6pFNcVh5s72OA=="
+secured: "OBZa2qauf7FC+s9+UhJ78+alkIHLWwHOpty+mWt824/QEUan8vGlZhwIITfURfWNXwQake9BstkCIuuD3aj53MOp+HQt8itEGsFcMXxshGKIsS+p4O7hyHbJZi9EMc0lEr54ThLKB5jVVFYItXJ7VPE4vJIphe684DKENWKxbclD+DSA1r+bBe+uTvKXiWekTcSWI+DE6RHSYocUM8fIczsUQKWvHXOzMRev85leFBKGCXYUsDNhY/4lv/frEt/IZOJbrIo8UlVw8PG2FkmvIriP4P0DGj0cu029KFLfPvi89vekHQZGUgccjZkzW5C9nWbZlhpITJ3YqhuaeBLHFcq/fZQjz5/Vm7gH1XMW3RAbmt91EFgN6j5Ys/VO0bn1p/jOC9FZp5O23R9z7hWt2A==;UIEZqfC/KrPFs5+axF3nbA=="
 ---
 

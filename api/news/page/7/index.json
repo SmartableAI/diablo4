@@ -2,6 +2,99 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-09-your-character-is-not-lost-diablo-4-game-director-joe-shely-clarifies-seasonal-shifts.md",
+      "title": "'Your character is not lost': Diablo 4 game director Joe Shely clarifies seasonal shifts",
+      "excerpt": "You may not earn as many rewards for playing, but your investment into each character will not be diminished.In an interview with international media on Wednesday (Dec 7), Diablo 4 game director Joe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-your-character-is-not-lost-diablo-4-game-director-joe-shely-clarifies-seasonal-shifts/index.json",
+      "webUrl": "https://www.asiaone.com/digital/character-not-lost-diablo-4-game-director-joe-shely-seasonal-shifts-eternal-realm-game-awards-blizzard",
+      "originalUrl": "https://www.asiaone.com/digital/character-not-lost-diablo-4-game-director-joe-shely-seasonal-shifts-eternal-realm-game-awards-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2022/91222_sorc_blizzard.jpg?h=5a6343d7&itok=Y3jNoYUv",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-meet-your-maker-on-june-6pre-purchase-diablo-iv.md",
+      "title": "Meet Your Maker on June 6—Pre-Purchase Diablo IV!",
+      "excerpt": "All hell breaks loose on June 6, 2023! Prepare for your fated faceoff against Lilith, the Daughter of Hatred, by pre-purchasing any edition of Diablo IV, and tune in to our upcoming Developer Update livestream.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-meet-your-maker-on-june-6pre-purchase-diablo-iv/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23880208/meet-your-maker-on-june-6-pre-purchase-diablo-iv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/49/49492HO2G6XO1670029912679.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk.md",
       "title": "Diablo 4 Finally Gets A Release Date, Preorders Arrive With Beta Perk",
       "excerpt": "After years of hard work, Blizzard has finally revealed the erelease date for \"Diablo 4.\" The announcement was joined by the launch of preorders.",
@@ -991,90 +1084,6 @@
       "provider": {
         "name": "XCOM 2 Game Guide",
         "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023.md",
-      "title": "'Diablo 4' release date: Game set for launch in April 2023",
-      "excerpt": "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023/index.json",
-      "webUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "originalUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1390623/diablo-3-xbox-one.jpg",
-          "width": 992,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
-      "publishedDateTime": "2022-11-21T19:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end.md",
-      "title": "Diablo 4 will have a \"more of a branching story\" with a beginning, middle and end",
-      "excerpt": "The open world of Blizzard's next game will be detached from more free-roaming experiences like that of The Legend of Zelda: Breath of the Wild.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/11/16/news/1668561753_691341_1668561955_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
-      "publishedDateTime": "2022-11-15T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
         "images": null,
         "publishers": null,
         "authors": null
