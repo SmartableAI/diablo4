@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gamev-diablo-4-epic-10-minutes-ex
 type: video
 length: PT10M5S
 publishedDateTime: 2023-03-11T10:58:46Z
-heat: 170
+heat: 168
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P3tHnGvRQnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1igOivhZvbnlY32Ih7zLzLhbg+uawehC4PFIpTiPYpraPmnwsyvoJl6Y+heJCOz/w2qJHGG8lsiS8rvxG/bIV3YpQEtbGuC4M/2jlodMaUYOhoX/ynmLHxovY0xTVGkOy28KdgzcRUsdLglxyaSqmBNDBpeek8q6z7FeSuHo65c/Utk3cLxh4zENHlrfyP4PeQrSR4fe+9LYPqazrycKgKWNb8eVJQG2j/xcsG3cRL2viH3qGsOXN2X5oh6AaPqAKq//kkH7YDKMweZ0edWuk1MT2AGGR4WDU7533N7y5mmKJZyzRjav8PX+/bZytgpLMBIezfPCXQG6cTv2u6dmQj5Z/A1eD4CteIBsMqxRB4r/Jzi7MLjxV9T4JnEOZmIS5DPWfAKtJcxvYU1ffTo3g7YWX7/2dU56VyRHdmfj4XA=;TXOozf4lLlBxCPfgtvIGCw=="
+secured: "nzT6pJJyyNBDQvQixnQ3E8rUFnETDAhH4+etK4pVKMH9wfjFR4auBkbSVKWOBZlDhEW67qzcWrAKxG0hOxUd3cIl+YuZKRzHcQU09r/ZrEYB8wC01b8SBPi8Mx18iGfxcipxGW7zaAW0TnYcOIBDx1J/Cn5UZrYqyCeKKsNbsLwVDsYqScsK3mcOZNBZ5/kuCSGa/ZfuFH4TPc0fQB3LpSYTpX6Jus9Si5MAA3MUofOx1rJy4MTzJ5HAPYTEBuQGbPk8W3xcLeEAH6TuhPDJ9HU0uHNWt8frYCnBsjrqZku+y0iYb4l7v0Fpci7TgDV2l5eOg23uAi+fAMKmXMTorWl7d2iT1uXWjI5IO2OIfY0k+bFGvZ35pf2nQnkiUvO9T8vKjW0qqrqnuG0tLm1koUSFz70rKKSJhLOh35tgHas=;px2kyrtuKT9hIN0fapaN1Q=="
 ---
 

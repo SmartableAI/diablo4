@@ -4,9 +4,9 @@ excerpt: "The Diablo 4 Beta has arrived! Welcome to the most in-depth Guides for
 originalUrl: https://youtube.com/watch?v=ol8HbOcbiLc
 webUrl: https://smartable.ai/apps/diablo4/game/p4wnyhof-diablo-4-ultimate-class-guide-sorceress/
 type: video
-length: P0D
+length: PT2H38M45S
 publishedDateTime: 2023-03-17T13:35:41Z
-heat: 177
+heat: 289
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ol8HbOcbiLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "NECLLDZQQ0gxkmElxhLArTWcPYZ9vTl6Pfj+qWl0SEwq4L3NPdsKOK+LypSP/BkkuYjEzvXUGF5eGs7e4QoTafisP/VVQF+bMja3aKpf/TAo6mvRYL72M1UVVb5oeVGw9Gh/nO50PoV0pC3Phjbj9AX6NIVzhxQff/5GM/PIJZWn9WKJQOVfd/ERwoeldz3WFpsoEeVBkvO90pjO0ejB3YoNZ0ebPV6ykdE6R9cKoQRzX++fexQVFWx3CIZHEOPh8jw7R4Amw9GpW58gyuOo5YKoTGAYyw3k0qN8RMEJqumVcxJGsoX5qImlUd8yH4Uccy7eHbCMR++f19bVViV9YWgt2rhypKByEJGGZAUsoQcrT9GIiOpfgoesdoOAJgJpR0sBLUSTHkEr3hbaDztPww==;DcvjHQIYIAaR9jVOGjIhdg=="
+secured: "EWQRFhUUxU/bfyg639G2hsfgOEM9NGc8WHfFidMSlI3uk/EUgz7XCHUGo5EWbDjun6awC2KS+O0jLcxVehBb6pbTB6DEHHusbyLtnWutRjKLHP2mVToBqLqJMM5URBQuTwD0+/B5i7SsiG1feorlRs9Hk+L6Poq3c33p383lSrTJlMeZgEDiU6LHytu34nRdCXcnzEQctUNxMe7gdVAPv7P6PqhwrlpoGpTEMn1iORe1k/x2lOKQEKIJ5b+izx3AV/6vGBTT3X6nICA0oPRGGcYIPRK2dqw25gAEdnAelp0Nimp0odP+kOvr0JS4xSm2JgkgtJGvp43cXt7TDAS3fnfWf15kvvARSlQa2tHWmdEwvJ/XcfEQAI4wJOzsKpIPElRwJ9pNEva+FajqYjujcZUmZIlLRg9Xtm5vaWXgZE0=;1ArjlbToDX336sDNP7lecg=="
 ---
 
