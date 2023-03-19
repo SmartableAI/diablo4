@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-sorcerer-talents-over
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-sorcerer-talents-overview-guide/1100-6512464/"
 type: article
 quality: 147
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Diablo 4 - Sorcerer Enchantment Guide"
+    excerpt: "The Diablo 4 Sorcerer Enchantment slots are unlocked at levels 15 and 30. As of now, we're not sure about the requirement for the level 30 slot given that the beta caps characters up to level 25 only."
+    publishedDateTime: 2023-03-18T21:17:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114521-diablo4sorcererenchantmentguide-sorcererbestenchantment-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qziZBMgDtCFSke6ODFU0KH0B+A+9hl7owB2QwStg9805lW4s0gesItbTWCv9ZkcEXNU08XjPVtsWBas+CnM2qfLxpUQyVu1wkYDFRKMtz+kJLy5mIv16cHEjFOzZ0QxRuorZnqX4BFxjkDPSYu6pYnn6KXK8eovldWNiy0MOnv/Ubncb8jGy3SZr5+HJX1xD/UIIdCwPRpzX2H0X9hJmQ0f7v4zr6rANwcyQ0BqV+dun65lGJRznieUOCV1s8Gw3J6cLSu6eLmkNazbpUYhNHGWFd3oxgnFct2KX10OxKqrnhp+RLUV9c8i6f2jpsmHVq3RasLCOLR6raUlirxhkZlCUsz6SLTjJV3djt5/AiVc=;rZWSL6dAWrMlbmvcUNKldw=="
 ---
