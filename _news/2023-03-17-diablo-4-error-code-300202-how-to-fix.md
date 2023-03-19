@@ -7,7 +7,7 @@ originalUrl: "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-
 webUrl: "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-error-code-316719-how-to-fix.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How to fix Diablo 4’s error code 316719"
+    excerpt: "Diablo 4 is in early access beta now but players are being stonewalled from playing by error code 316719. Here's how to fix it."
+    publishedDateTime: 2023-03-18T20:41:00Z
+    webUrl: "https://www.dexerto.com/diablo/how-to-fix-diablo-4s-error-code-316719-2090159/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/18/diablo-4-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "nL5gBM3kvfzhlWb+tGhWRr+f/koewSYPo+UsJaSqfA0XUEMg/i9+bOATR/SFisNTNlS5lYGwcDzdtUExq4QPNhCF839eP5J31Xf861PjKxSVB2c+mO/efz7+5Plnj9tsN6Q36mJ856OziSIy4+kHto0dslrcio49eRmCRF1XmLH7GueCxItCEPmny895nWv0hYTlR0SNs2vIprdd6RutGcPMxo1ROOXhFnU7sdmWsNyyQYUazB8YZ4gbiIUoz+Azw7hwuR6v1WCKzS7dl0+W5IGvaw1pVXPNTFQsBGLjn02SJWzbwSImKQyGmL5n/PFyeCal7l9tCaqmOWf1guhV3QP75bW3uvtr8RvK3IZp198=;pKdO/bP0Fmk61ftvAvXRQw=="

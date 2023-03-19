@@ -7,8 +7,8 @@ originalUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-sol
 webUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-solo-players"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: vg247
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-18T20:26:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OzZvQlrG7ZlWcWyVKnZjJjgInMJKpJa4CCwAp1AbRKPESys3xKo3jjCmk+p6BbvHzQXTd34LFzbiD+6B3RNRoxSWDh4PV4B5spesthtrsBVhaX3ssv5sBg3itkAPwLMpsaui+awjZpuhmUtKGbfP+kaqDC8vTx1n8Y3OfOx0MapiZQM2TC8oBsD2KYO6Qm9Gk7YWNkJxb6wQDGGZVZeGOkluyz6K48nn6RP2CKMRGIwua0tNwwyTO3nfxyAE/5ve+8d2xXoMmewPW4glwFZLJVj0skPEFbxyj0S6LvvIQQAt+wtBI7NociIYccaXJLjjDzw2yEQsGZI4oBwIr9c4KY2+nrBHFmdhVkyuzlVz2lI=;KsYIqlvrG15QSBISIni+xQ=="
 ---

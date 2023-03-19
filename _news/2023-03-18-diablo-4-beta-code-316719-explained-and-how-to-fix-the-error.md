@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "How to fix Diablo 4’s error code 316719"
+    excerpt: "Diablo 4 is in early access beta now but players are being stonewalled from playing by error code 316719. Here's how to fix it."
+    publishedDateTime: 2023-03-18T20:41:00Z
+    webUrl: "https://www.dexerto.com/diablo/how-to-fix-diablo-4s-error-code-316719-2090159/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/18/diablo-4-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "WXFAtM7pctmbnhtII7o01zVeD5qoNU6K/CoCeeQGiYt4L812stwgvsr8VbWQikGW6HMrwJbRaUH6/FrwnumWKokiBYnJd5WmM5cuuxvQ53XNPR1nk1w50UW9AdjN9ePHl/W232jjJ4MJsyqHX/hqyoVRuPGCyKvrRNQy4JQwdVNhp3LCFM92V3bspdAnIeg7IcZ/jwJ2hF3Q9mlZmwIqAlzU4FIEfB6QMmVB/76hqQwrTOw5KX2BHWjSutOthvBp1TMwJa4w1Vrxl7qOTGpnDLlnLgiFZiVkBUsnAMLlgBN4MjcvcuA3wYATICl66SDq6hYe3zHnu5mkAU1ynDAyXl9Tfb37PjkKE2FkGvEPcQo=;Qa7E+KsYsXar0RHkUAF++Q=="
 ---

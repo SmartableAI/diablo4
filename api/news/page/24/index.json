@@ -2,6 +2,90 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019.md",
+      "title": "*NEW* DIABLO 4 ON PC ANNOUNCEMENT! Gameplay & Cinematic Trailer Reaction | BlizzCon 2019",
+      "excerpt": "Diablo 4 BlizzCon announcement. This is a full reaction video to the new game presentation as part of the opening ceremony. The video includes BlizzCon ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-new-diablo-4-on-pc-announcement-gameplay-cinematic-trailer-reaction-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=ndOYedBmTbg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ndOYedBmTbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ndOYedBmTbg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T18:13:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MadSkillzzTV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | REACTION! | Hype Hideout",
+      "excerpt": "This is the kind of D2 channeling we were waiting for 0_0 Click Here To Subscribe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-official-announcement-cinematic-trailer-reaction-hype-hideout/",
+      "originalUrl": "https://youtube.com/watch?v=AxJJmLUsPRU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AxJJmLUsPRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AxJJmLUsPRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T18:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hundo P Games",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-diablo-4-announcement-cinematic-trailer-reaction.md",
       "title": "DIABLO 4 Announcement Cinematic Trailer | REACTION",
       "excerpt": "Watch my REACTION to DIABLO 4 DIABLO 4 Announcement Cinematic Trailer Blizzcon 2019 is here! The Blizzard opening ceremony has come and gone and ...",
@@ -968,90 +1052,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Diablo",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement Trailer [Blizzcon 2019]",
-      "excerpt": "Finally a game for real mobile gamers. #Diablo #Diablo4 #Blizzcon #Blizzcon2019 #BlizzardEntertainment #Blizzard #Overwatch2 #Overwatch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=pESgI-_zgjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pESgI-_zgjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pESgI-_zgjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T09:19:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheMasterOfDooM",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-10-27-diablo-4-artwork-leaked-announcement-at-blizzcon-is-coming.md",
-      "title": "Diablo 4 Artwork LEAKED, Announcement at Blizzcon is Coming!",
-      "excerpt": "Diablo 4 artwork has been leaked. Listen to our weekly podcast: Arcadian Insight! iTunes: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-10-27-diablo-4-artwork-leaked-announcement-at-blizzcon-is-coming/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-10-27-diablo-4-artwork-leaked-announcement-at-blizzcon-is-coming/",
-      "originalUrl": "https://youtube.com/watch?v=ByX4CZdt3Ss",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ByX4CZdt3Ss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-10-27T03:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arcadian",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
