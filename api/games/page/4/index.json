@@ -4,36 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr.md",
-      "title": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR)",
-      "excerpt": "Diablo 4 FIRST 10 Minutes Exclusive Barbarian Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamev-diablo-4-first-10-minutes-exclusive-barbarian-gameplay-4k-60fps-hdr/",
-      "originalUrl": "https://youtube.com/watch?v=LGFzvv5EXBQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LGFzvv5EXBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M21S",
-      "provider": {
-        "name": "GameV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-01T06:30:28-08:00"
-    },
-    {
       "path": "_games/game-informer-new-gameplay-today-diablo-ivs-sorceress.md",
       "title": "New Gameplay Today – Diablo IV's Sorceress",
       "excerpt": "Jeff Cork, Leo Vader and Ben Reeves show off more exclusive gameplay of Diablo IV, which can be viewed without commentary at ...",
@@ -272,36 +242,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-25T09:00:21-08:00"
-    },
-    {
-      "path": "_games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror.md",
-      "title": "Diablo 4 Class Deep Dive - Sorceress/Sorceror",
-      "excerpt": "diablo4 #openworld Join me in this Diablo 4 video as we talk all about the Sorceress/Sorceror. Sources: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/",
-      "originalUrl": "https://youtube.com/watch?v=378MFMg4e8s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/378MFMg4e8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M59S",
-      "provider": {
-        "name": "Demone Kim",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-07-07T15:16:05-07:00"
     },
     {
       "path": "_games/justin-diablo-4-druid-gameplay.md",
@@ -545,6 +485,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-28T16:03:34-08:00"
+    },
+    {
+      "path": "_games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror.md",
+      "title": "Diablo 4 Class Deep Dive - Sorceress/Sorceror",
+      "excerpt": "diablo4 #openworld Join me in this Diablo 4 video as we talk all about the Sorceress/Sorceror. Sources: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/demone-kim-diablo-4-class-deep-dive-sorceresssorceror/",
+      "originalUrl": "https://youtube.com/watch?v=378MFMg4e8s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/378MFMg4e8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M59S",
+      "provider": {
+        "name": "Demone Kim",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-07-07T15:16:05-07:00"
     },
     {
       "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
@@ -908,6 +878,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-11T10:27:28-08:00"
+    },
+    {
+      "path": "_games/xtimus-diablo-2-druid-returns-on-diablo-4.md",
+      "title": "Diablo 2 Druid Returns on Diablo 4",
+      "excerpt": "Xtimus Like and Subscribe to Xtimus for Diablo Content. Join the Notification Squad: Click the ▻Follow me. Twitter ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/xtimus-diablo-2-druid-returns-on-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/xtimus-diablo-2-druid-returns-on-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=yxO0jX6j2ao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxO0jX6j2ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
+      "provider": {
+        "name": "Xtimus",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-11-11T06:00:38-08:00"
     }
   ],
   "nextPage": 5
