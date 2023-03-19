@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4: All Altars of Lilith Locations"
+    excerpt: "In the beta of Diablo 4, players can interact with altars that boost their stats, Renown, and give other bonuses that players will definitely want. When a player interacts with an Altar of Lilith in ..."
+    publishedDateTime: 2023-03-19T08:06:00Z
+    webUrl: "https://gamerant.com/diablo-4-altars-of-lilith-locations-what-it-does/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-01.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Diablo 4 Contest is Offering Beta Codes for Prayers to the Demon Lilith"
     excerpt: "A contest rewarding Diablo 4 early access beta codes starts on Twitter, as Blizzard asks fans to offer up prayers to the demon Lilith. On Friday, March 17, the first of two betas leading up to Diablo ..."
     publishedDateTime: 2023-03-16T13:58:00Z
@@ -37,20 +51,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ITGK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand"
-    excerpt: "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ..."
-    publishedDateTime: 2023-03-17T10:07:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-server-errors"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 82
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "NGsC+K5B/6ZP5KHbXBHyLgEfuqWSHUYGRnrMyUkXLjD73s6IeOkIjXqOQ2LXPhn9rFws5Jt56/2+sj8Ysu4FEk4v+Zu4zkK03EDG/++Lz2L4ibLI53aj9iGKfcLh3ieBHaZrotWCCQvOb48J1CgGuZLTF1FjA8Tk5EZfcxmWGpJaVYYWxOfgFQLH4YACEkwGR9XIEdKAfDqORlcEyDJuwbad5ynB/d4SldkzMibK/bLUVMLykjR42ok2vC7ZIhzi1QQzXI71+xLQ4vgqJtoPSMU1tuo373GcHS6DUH3m9XFsx746d7x79FMMGztag91+l6OIsnG0ROQY3NHbZGsBWMZRZS7ZlCyF90rAEp4FEEw=;UGsTFgtepeM01QcvvRakcA=="

@@ -2,6 +2,7 @@
 title: "Diablo 4 Gameplay - Whirlwind Barbarian (Diablo IV Beta Dungeon Gameplay)"
 excerpt: "Diablo 4 Gameplay - WhirlWind Barbarian (Diablo IV Beta Dungeon Gameplay) Gameplay showcase of the Whirlwind Barbarian ..."
 originalUrl: https://youtube.com/watch?v=XKBZXf9akXc
+webUrl: https://smartable.ai/apps/diablo4/game/leyzargamingviews-diablo-4-gameplay-whirlwind-barbarian-diablo-iv-beta-dungeon-gameplay/
 type: video
 length: PT10M48S
 publishedDateTime: 2023-03-19T15:44:22Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "kF29e//iMLHRKdK1HjX0DAEQgHDFKErBqbqfewgvL217AFpyesplt+96CgvTegU9ygVMXwPNYO7RTeTULDT1RuhW7txHn62I5iXWlabvTwbX7q1ythiVGpaK/CTT4ucNdXPL+GXQ0FtYBtdEoLcU8pzvSN5ktMHUaCrvNUurKLA4VphLtbYUNABDprqzCXwXgfJbVMuCvryAFyExvMJSzZcwBRQae87SNWaiB3UiCmIlMect1oubrd8nYsNH6XiqnXCuCD0L0gXUCGPFjEB/JAn0zbPY4FHTJgj/l376yzu59gAt5nqB7kfM3bzvHHm6daaAfm5Jm8+JC2+eWeFMcYHv+HOu7F0NQo5eDjP5rIo/Jgb3RAC3j1kXV/8VGBhvblEsN/64X9s6KCctpO3tIA==;e5rRev4LxyXtvnpTQoLzVw=="
+secured: "UPaju7PB3DmhoN4KoQOCNCt8GHY89p7FO+CkMSSrRk8GWZLTORkdxhCzdIrGmkceVD4xYOFJhPBCaYxSWio9c4DX7YywCTbriHRZRMyKXO0amaWwv6aYmBnXFvrIlf2lmBoBqI2hV+U0mPmIBgupOpHJktxY0unmRsBdWOZhN2oyMMcs2ahVh0F3Aa6W/kVoALGmKYOv+iGxNG4lkVyiGrTU6zFxA0LjzzIQgrtFlQe363C3Xbdfm7ma1liWQeozj6szFprUqNMHfpoKuRCLA7FSA+xB9eDktqvElpShaXyQzMH55rWAAgYpcpHqSuFsu3q9m2F2YAymMHunTAQqaZ1UnV9ns7y6E4MAoOGCvL47E25zQ1yUh/2tsLV87gqjhpp9lSEgDVAP9SPttKbNaw==;G3N2oJoRkUMwwFTnf6W5VQ=="
 ---
 
