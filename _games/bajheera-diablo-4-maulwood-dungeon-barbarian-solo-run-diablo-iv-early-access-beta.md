@@ -2,6 +2,7 @@
 title: "Diablo 4: Maulwood Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta"
 excerpt: "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ..."
 originalUrl: https://youtube.com/watch?v=UFT0Z02g3LM
+webUrl: https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/
 type: video
 length: PT18M22S
 publishedDateTime: 2023-03-19T13:32:38Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "xHMiuRAs7eXapOm2IfytoDz48DDJ/DNvyX5+6YmMASY0mZqQUEH9DHCZjHD4HQTy7mcKR8DqQ2fRHG16Rwc6z+V8BKYc7Fq8PsHaEQB27fO6200SvkwWdwvacxeatLLcY49+jSuSa4eiX10V6/zveYDJX0uZFMDSIQE+gMSi1Iax9cTPAbRZtxviI1IzWO+nsQmI3Qdhn1pEFJgUR61Yhl/pa57+GLeP2ThZXsn+6/plXNk/+LioyB2zPbZqUH36+lsNZYHZuzV6Y/XJX02UHxtyVLasuSGt7GVHVTHe5HEqN6HGafkrxqMZ45zl9Ep5TbU/N9js/CdMeVnz9CqjzwQBJrMGrKk7fOHS7Nfuscs4nQUukuPD4dqUKlbE9RgehT/nV/8O+nhJ+1TIQ39SKQ==;8lDzU8JR2kU63me/nln1Jg=="
+secured: "cdI/iw9M/ubLZSkogiLBX3Qrafneu86VJnAcoU9ufZqfCYD+kzWC7Zce0O+p9ZkRsx6eNhLtForG3J9Ed7nwj7YWl7a5enU9xCtICKzQQJVAClzSzsZHep1YiNB1O7PPidwdmBYZdfCo/EF9Rp/rscBQ2XYx73Y3zfjJlR/D4MtmmA96oyGDgccE8pQaDVVFehqoaF8SGWPKttrQCrg8ENNH6v/+hjX3sP8J0kAMBVxLvL60gTXvK8/gySptrbW/NkvxCelZx7GgHnHWjzXTLyY26SkKG7ZzrCNWuH32kIjR9reXyyIXDEtKQwpCm2A4u+x93RKziGMWOTCHMTdywPHRBacE72rEWqfCnvEtuq7FCCX3kF+OqwE6jXwP8BJddDkifs61Z/f8txs27IIc9w==;h2kj+WiONS7f2QMW7p6BMw=="
 ---
 

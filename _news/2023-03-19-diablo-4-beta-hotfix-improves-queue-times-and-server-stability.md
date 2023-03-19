@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4's pre-order beta is beset by long queues and connectivity issues"
-excerpt: "Diablo 4's pre-order beta is underway. That means people who have already paid for the hack-and-slash sequel are currently enjoying the quintessential modern Diablo experience: queuing to play for ..."
-publishedDateTime: 2023-03-18T14:55:00Z
-originalUrl: "https://www.rockpapershotgun.com/diablo-4s-pre-order-beta-is-beset-by-long-queues-and-connectivity-issues"
-webUrl: "https://www.rockpapershotgun.com/diablo-4s-pre-order-beta-is-beset-by-long-queues-and-connectivity-issues"
+title: "Diablo 4 Beta Hotfix Improves Queue Times and Server Stability"
+excerpt: "Blizzard confirms that it has issued a hotfix for the ongoing Diablo 4 early access beta improving queue times and server stability."
+publishedDateTime: 2023-03-19T10:28:30Z
+originalUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-hotfix-improves-queue-times-and-server-stability/ar-AA18OAlf"
+webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-hotfix-improves-queue-times-and-server-stability/ar-AA18OAlf"
 type: article
-quality: 86
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Rock Paper Shotgun
-  domain: rockpapershotgun.com
+  name: Game Rant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/Diablo-4-barbarian.jpg/BROK/thumbnail/1200x630/Diablo-4-barbarian.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OAle.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -51,20 +51,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/RA8jKVsQF4aRhKeAXW5S9J-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4 Beta Hotfix Improves Queue Times and Server Stability"
-    excerpt: "Blizzard confirms that it has issued a hotfix for the ongoing Diablo 4 early access beta improving queue times and server stability."
-    publishedDateTime: 2023-03-19T10:28:30Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-hotfix-improves-queue-times-and-server-stability/ar-AA18OAlf"
-    type: article
-    provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OAle.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
     excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
@@ -108,7 +94,21 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Diablo 4's pre-order beta is beset by long queues and connectivity issues"
+    excerpt: "Diablo 4's pre-order beta is underway. That means people who have already paid for the hack-and-slash sequel are currently enjoying the quintessential modern Diablo experience: queuing to play for ..."
+    publishedDateTime: 2023-03-18T14:55:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4s-pre-order-beta-is-beset-by-long-queues-and-connectivity-issues"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 86
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-barbarian.jpg/BROK/thumbnail/1200x630/Diablo-4-barbarian.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "iWeoVzb40/ylN8ZienggPRFZvY9Vr3iWp/Lst2xhshE+AwedmBgnU4S+zQuXaHg2dXlXOkbFTSg4hG20Iz4W+WtFDVQ7wFvqUv+vo9MisvYSQcORnpVsghv6qvwPmLx08Jvs3UZW8SAYiv8I/TP/SgQ2XGDuXHwLU/FGdbs8BApAqh4lhIZ4fCKXDKpfKLwEoKQQ/6cxoYY9ctw6X+ZuEl60paiGy7xuhJoULQukeuq2MumYnCBBOpBqENJBy9spnGItEzfGpsZt0MNOZP/OzoQ2xZK1SYbsIpDajtambXbiK0ttjjpFtSJJRZInWQCXG7p7zQghvrdmA+FslvWrpVl18P6FioL08BGGq8hpbVg=;LVmhWtMejCMDGXy72WV2MA=="
+secured: "RS44UcFM8t8ld/TpyDtGcTv+dQ6LvcYnAxoo6KVaypo5RN/6LDNPMbRnn0bVqOwYXhMn+Gcb9ziq0zeelN9XlkHtuG+uUmlEysH2XDl6ogStVSgYiOZZtUay9xXrK6A17fZmm6R+eIL0R7eCdugjY3TSKSNY5VRm9XGEUwpksXjnOeVKREfxJcvc7l1lE0Y2ZuLa8e8gDcICuDxCwKMx+oytnZdX2vtQcSVLxDVnvRrGWbDfozPRw+Q2Ts/rSLaNV96ITX4u9lWehSugnfl0s5UC6Rg7o6cvfAQ/EPAKqxbJJtzjoZ5Wz1eJDjgsz8RL9JNysY5GE+IfvLueyRkhwaGueYH3VfkEOiISIy/RSaI=;0ah32XP0GWpwx/9lF6YoYg=="
 ---
 

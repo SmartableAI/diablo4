@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Beta Hotfix Improves Queue Times and Server Stability"
+    excerpt: "Blizzard confirms that it has issued a hotfix for the ongoing Diablo 4 early access beta improving queue times and server stability."
+    publishedDateTime: 2023-03-19T10:28:30Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-hotfix-improves-queue-times-and-server-stability/ar-AA18OAlf"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OAle.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 beta servers are going through hell as countless players rush in"
     excerpt: "Diablo 4 servers are on fire, under siege, and getting pushed to their limits as countless players swarm to the game during the pre-order weekend beta. Those who attempt to play are thrown into ..."
     publishedDateTime: 2023-03-17T10:04:00Z
