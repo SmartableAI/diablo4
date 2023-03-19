@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/lost-in-the-world-be-the-best-bea
 type: video
 length: PT7M14S
 publishedDateTime: 2023-03-12T17:50:33Z
-heat: 128
+heat: 103
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vvpNQj7ct6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
