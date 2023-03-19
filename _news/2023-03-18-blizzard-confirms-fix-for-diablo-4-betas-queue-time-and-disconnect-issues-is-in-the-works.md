@@ -1,35 +1,45 @@
 ---
 category: news
-title: "\"No Plans\" For Diablo 4 To Come To Game Pass, Blizzard Confirms"
-excerpt: "Diablo IV won't be coming to Xbox Game Pass anytime soon, with Blizzard confirming that it currently has \"no plans\" to add the highly anticipated ARPG to the service. The to-the-point answer came from ..."
-publishedDateTime: 2023-03-13T13:17:00Z
-originalUrl: "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
-webUrl: "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
+title: "Blizzard confirms fix for Diablo 4 beta’s queue time and disconnect issues is in the works"
+excerpt: "Blizzard has acknowledged the Diablo 4 beta's long queue times and disconnect issues and confirmed the team is working to fix them."
+publishedDateTime: 2023-03-18T18:52:00Z
+originalUrl: "https://www.dexerto.com/diablo/blizzard-confirms-fix-for-diablo-4-betas-queue-time-and-disconnect-issues-is-in-the-works-2090072/"
+webUrl: "https://www.dexerto.com/diablo/blizzard-confirms-fix-for-diablo-4-betas-queue-time-and-disconnect-issues-is-in-the-works-2090072/"
 type: article
-quality: 147
-heat: 327
-published: true
+quality: 77
+heat: -1
+published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dexerto.com
+  domain: dexerto.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4111581-diablo4won%27tbeongamepass.jpg"
-    width: 1580
-    height: 889
+  - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/18/diablo-4-inarius-floating-header.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
+  - title: "\"No Plans\" For Diablo 4 To Come To Game Pass, Blizzard Confirms"
+    excerpt: "Diablo IV won't be coming to Xbox Game Pass anytime soon, with Blizzard confirming that it currently has \"no plans\" to add the highly anticipated ARPG to the service. The to-the-point answer came from ..."
+    publishedDateTime: 2023-03-13T13:17:00Z
+    webUrl: "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4111581-diablo4won%27tbeongamepass.jpg"
+        width: 1580
+        height: 889
+        isCached: true
   - title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
     excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
     publishedDateTime: 2023-03-13T10:40:00Z
@@ -148,21 +158,7 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Blizzard confirms fix for Diablo 4 beta’s queue time and disconnect issues is in the works"
-    excerpt: "Blizzard has acknowledged the Diablo 4 beta's long queue times and disconnect issues and confirmed the team is working to fix them."
-    publishedDateTime: 2023-03-18T18:52:00Z
-    webUrl: "https://www.dexerto.com/diablo/blizzard-confirms-fix-for-diablo-4-betas-queue-time-and-disconnect-issues-is-in-the-works-2090072/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 77
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/18/diablo-4-inarius-floating-header.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
-secured: "2P6Clm6y+JS/jfrtmYK7N0PgxnGy8iF26Klbdv8cs1D87/gjEEH6o3CcN115j2c7p9Wy0CLwlMwmMIZDeevMkNK22ykyBD9ouEIDGkFL3UaYTssT4Wm9cUVvuexsseg83lbT/E94/nvG/MZ2FK+2rJQHJ2yEJx6LtqXahu6E+1OZ2VRi5BAh3+5lfIVMejnYD1ZCu1yntPCFTLaX/+g5GI3ypjOK4ei24VutPtDAjRLtpyOGTZjkuT8ByGnPPkLbrgexLl2rw7uR+61OOjgpIZvqVn9Pf0NES39lU/IWb+vTcQTQ9CgBNVPyn01mTZQRDMDqdW0JwcHy8rmw1WBRESJPb7eVtKLY1fI2BEAwXTw=;a3smbDPclZlzpAT3n+Dbjg=="
+secured: "iPMg2/AaUJ6BaL5iQwqbepiEx3s2qHmqsGhW16D4i6XnN/axZZwjh2zaFxgM84J7HkNeDYUyldfl//+DZh389/7XSmyPGz5NcLKn2JlcANdAPB2ACAAMYVqddPrbnhF5pST5r757Vcdqs3m8Ms+VKrhpkeoegjSbKVKzAbwkZ5OmzlGU2hX1NTZmjy6xEN0XJnxspovct9/qMJUd+R8DlxGWWTJ9ecR2cWAeO/LqK1K5UgzAvxcO4YeR0Q+CyK33FTnX08zkI7U3ToUnRYaaSP5AP9ZXXgIzvW187KyUq7sG6m5tY2v4dW8DDXeTw2p3HWwGo3aU0EdvFHdkjVTNYCZhqslSU3zJZZWvu7bRn90=;8HOw91BhS8nLnoaj5YnC8g=="
 ---
 
