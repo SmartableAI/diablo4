@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/holyhexor-diablo-4-sorceress-game
 type: video
 length: PT10M42S
 publishedDateTime: 2023-03-18T09:59:54Z
-heat: 217
+heat: 325
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6VYudC6vWhk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "jWBsTTTbc4yIUsTC0vdsbzojDKpo/OgvDXyyeu9c/YLcx4MCVuDeKDQ0IbufuGoigS1J3SidkNWMTIQvFWbB8wouBPDMOcRv4l+qVCfvGTgHmjp7HzUX6ot30V1JRGKaKw73MyjV2dMoBHOHsVaKrf+KUNtcIJYtjJLhresOCPkDDsbltZ0mlPHUK+XHAiDnIlm5plxECQXU1ZpYL32TKX7Woe/YUzcRNFpgyy6R+rgVxBNROiVxnDjzA/dNDEA2L+fKAcf5g6lWSBDldGErWwng0GFQAlH6z2bBx/w6YsFfekqR07vEbl2CG4+XIZRiB1ojQUCI4k1gQ4erX2SYLxn2r5zyF3L3V7eo8N058lbPy14Nsjizb+9AhZRVvg/aaKi9E0O/2C8JqQuHDRs8bA==;onjoqdzpGOLaPiLd4MWs9A=="
+secured: "gtWQutHIma8Su0cWiZs68TRICFSIHrloWdrh3oYAJdlZ/f3EqB9P6SInSgBZdE3/CpQEM6hlODswvxjSFCJH4+xsbM34zI4ht7JGweX8PKRL1T6rF14Szc5Bq8mUCKNGu+xY807nr7P7gX+h/G9bbh1Fk/F6luguxsbIikjyhZ1jdZhRI+5VtdhkVa7IqfHM44th/3ZApIX6zLl9EaF90l6lZsX/BxOob9RSy3He5t+D+QCk5jiBk/AOGMqM3b9S009Wz+352LeoFi72Byo1ouwUythducRWT6ACFycs1Y7u1ItwPpxDRUZIJWWg25shPYcHf27jlmtOmZOnl+LBW6RH+FW1nbkqVVDFV+Hv1qzBuCP2fJJdlm7Eyik1TKsnhyhVotewMvRfjR+PoBH+XKTD1cp8QkjWlYTChv6meVM=;m8PFUx8bv/rmE564/3IhDQ=="
 ---
 

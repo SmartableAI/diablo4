@@ -4,9 +4,9 @@ excerpt: "Today we're levelling up as fast as we can on sorcerer and barbarian i
 originalUrl: https://youtube.com/watch?v=97SMpQSAVe4
 webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding/
 type: video
-length: P0D
+length: PT7H46M17S
 publishedDateTime: 2023-03-18T10:01:50Z
-heat: 319
+heat: 364
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97SMpQSAVe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1Bab1v5cgkF9N2GrLlPXlQZOR1rk32LO3Oi8zAsBRmvDTtr36FMepcRQaiSEFHLg8Cv874XrkGPq+O1WpO/9sXmGFLF/2x0KpfLO4qIeuDUUwazbEhzqhDSG22uRO8+udBYRM+TRfWrRRAu9EoonqQFVTPmusSX/7o3s9YSadbi21uPwBRd95nEaiOdIRsFFIAVOacCie9Dl33ScjCn5kG29BAKQI6Ct0lHYx4OV4fGSf0b/kRcRqhEQd/xOuz/DiRCM7jGgZkF3Y1m5Fc5H1Z3OTu8BT2nLeB8vNw1x+ORkAi3LE5fE/44vHbPtZdzXr4ourZatDVc8HdDVBJItXTq9++GehjoXzzhkgPGIYjjCvHzIo+WTiu4Q2zsDcpFu6JuqNRZqTRGyO4tZFs+QDA==;wZvo145TktRWUZla9Gaa0A=="
+secured: "ugAErIPopsneEPFo1B+/qQQvxi18oOTJyi0g/yShqrbHSij5wMN5e/CbQyXKUpNGSKz+3Y1iVsPI+p8rxOWQR+ELGHP+7ZZBBO0D0vVQcVANv9aavhlun58HeenvhsLMuIqFhKV1a6SBv993AyyjJGnPMijjIvhu6/Yt6dnQAsxOCKlDwcPKmTiSQ+zR1QYOKZnb2dCREpny+z7HVv+5bGhFV6/QLksjDAoFUYn875vcur09Ja83bpg3z4J194SbZCePfh9tChWmcl1VYi7Gfr69atSP5+QSVLKGCe8DKlpoHjoEggfYAgvwDpvmjwTBOKsnQIlT6uQTI0E6uG1ISG/r0ggGUJqgHjI8JLsgzQrRDqPB822at1uhHWJgmpdRwIjL+3/oGna81Xwa34ztmK8FVsKZAXa6h6VRtWI7O/M=;qUWhWUBSRly2dzjtZ94mQA=="
 ---
 
