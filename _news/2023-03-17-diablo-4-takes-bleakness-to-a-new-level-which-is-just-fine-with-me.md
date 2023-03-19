@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/diablo-4-takes-bleakness-to-a-n
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-takes-bleakness-to-a-new-level-which-is-just-fine-with-me/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 Takes Bleakness to a New Level, Which Is Just Fine With Me - 1BREAKINGNEWS.COM"
+    excerpt: "LG's Styler ShoeCase Takes Sneaker Storage to the Next Level - 1BREAKINGNEWS.COM Marc Maron Interview: On 'From Bleak To Dark' HBO Special - 1breakingnews.com Tour d'Espagne 2022 - Remco Evenepoel : ..."
+    publishedDateTime: 2023-03-19T02:03:00Z
+    webUrl: "https://www.dailymotion.com/video/x8j899t"
+    type: article
+    provider:
+      name: DailyMotion
+      domain: dailymotion.com
+    quality: 79
+    images:
+      - url: "https://s2.dmcdn.net/v/UmVFn1a5cZS_HROUu/x720"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gg1IVUJoht/Yt2EQ8OGo2Jo+4+PHPc358EizIQPiMsQM8tKgvsCjdXHbqahYEd58ITLRsxd2w+9of+EgEiRwddqb6UvfW/F29pYGGfSe8t4lwAx9DE8HjRPtSMCX0E91/bSZuRj21x5JuofbzsQGscy58DxBU/iu7UlH+1vMKT0XNj50ehU3eoz11GigGUHQ3nE/aN0ck6dNM9L+yVlagsnzbAC/5J7Sfj4crMXYu5mLB2DJCzF01XgqbFERn2xuQFQfXxAtQhbBVcD3I8Vww2R2FowxR0z6TrfdwRXFOV8WkdUdsKFZ5B/sl4TAGOpUZtiBU/YVdqsFOdLnFmVlF6s3tGIwVlEfM5gDGxzrtX4=;DZkXYvmNd4Cz1KGy1TVVtw=="
 ---
