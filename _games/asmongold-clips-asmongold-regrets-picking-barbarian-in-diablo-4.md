@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/asmongold-clips-asmongold-regrets
 type: video
 length: PT58S
 publishedDateTime: 2023-03-18T00:11:27Z
-heat: 556
+heat: 429
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ai9X8giPfMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "A4zbL5oLnyoPeYSz0dXJfN81qD5QSaDHF7RRtZ+wJriocU9wH0pPLr4ZGToFgrF72mBQIUhIUVU1/xraS6wR2K4yTgB9bWOI5yw1sk9spcnUTGmgysEVLcBltaSWgsLI0C0f7WKGBLgsZq4h6yuUTXm+HLfNBxw67eFBq95Dpg0kSOo3u85ihOtcajuxotplGAO9s56Za8a2I5lMWQAwN/c6pYCxmIenmN1tirQ9ztZJX6DwjMzjVjlgMoTw0B3juxAGBD9ljZciWzBnSGz36mPOGKoT2nVRLLOG+j5xNmWxby3TWesSjd9oiEAyzqVOhaEsEYOe/Tl+H3jIsJ/iZTH8T2qy07K3soFQ/womJudzIXmKWU/+VDuCrrg0cDVw9iD5/9fQE+SQP67aVjWyY74vdnyiYv08xoWWOfEYYe8=;a01Qu3qzhuK0x+MrFWBHwQ=="
+secured: "2ZaBxTkz+yB4Cil7CzoATobxApx8mlFXfKkJSFmpFnsectTvRZkgga3e2geQqmj3v2mhnCu071Ki/HuJJ80jmIUBdkEwZRbaZ9cS3DWiZKFuFsLmp1yjq469q3saZsjAHjoCLKi9mScSbmXa/BcitM5wus90jLxdARvVXO4zCNlA2Pd2BTHAa1M6bErde4h0n13yCfbCmwirSq4TqMa+nPzjUps6QQGAv8TRwmCf7zy5j1CMVNmBeZ4s0ZfjgjABsJPFcOgLrHdFEl8qq2F83PS0Y+fZgVh/umVMxfeJRunlFedYuWBJdnZNHzlsdebU2sDvn05bA53rkg1k51d23pWxlHBs1eHo6PqBJ1LwfdCBOJiTDOyZIgM9lqgokNHqyCBXZPKGkVSctM40aPpcdQPwm7VFN2HG5Jp2ko2cBg7cfOt+kuzQN0CobS56rGJl;tek9jm+VsRCt+vjUnBZx8A=="
 ---
 

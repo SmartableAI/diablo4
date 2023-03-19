@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4.md",
-      "title": "Asmongold REGRETS Picking Barbarian in Diablo 4",
-      "excerpt": "Asmongold REGRETS Picking the Barbarian Class in Diablo 4, On this Asmongold Youtube Channel You will never quit finding ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=ai9X8giPfMs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ai9X8giPfMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT58S",
-      "provider": {
-        "name": "Asmongold Clips",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 556,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T17:11:27-07:00"
-    },
-    {
       "path": "_games/rhykker-diablo-4-beta-gameplay-livestream-sorceress.md",
       "title": "Diablo 4 Beta Gameplay Livestream: Sorceress",
       "excerpt": "Diablo 4 beta livestream gameplay showcase featuring the sorceress - barbarian, necromancer, and druid classes coming in later ...",
@@ -62,6 +32,96 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-18T00:46:56-07:00"
+    },
+    {
+      "path": "_games/rhykker-diablo-4-beta-gameplay-livestream-barbarian.md",
+      "title": "Diablo 4 Beta Gameplay Livestream: Barbarian",
+      "excerpt": "Diablo 4 beta livestream gameplay showcase featuring the barbarian - necromancer and druid classes coming in later videos.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rhykker-diablo-4-beta-gameplay-livestream-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rhykker-diablo-4-beta-gameplay-livestream-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=xIJJhhnal2M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIJJhhnal2M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H39M21S",
+      "provider": {
+        "name": "Rhykker",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 445,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-19T12:57:18-07:00"
+    },
+    {
+      "path": "_games/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4.md",
+      "title": "Asmongold REGRETS Picking Barbarian in Diablo 4",
+      "excerpt": "Asmongold REGRETS Picking the Barbarian Class in Diablo 4, On this Asmongold Youtube Channel You will never quit finding ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/asmongold-clips-asmongold-regrets-picking-barbarian-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=ai9X8giPfMs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ai9X8giPfMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT58S",
+      "provider": {
+        "name": "Asmongold Clips",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 429,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T17:11:27-07:00"
+    },
+    {
+      "path": "_games/mattjestic-multigaming-diablo-4-strongest-barbarian-build-in-open-beta.md",
+      "title": "Diablo 4: STRONGEST Barbarian Build In OPEN BETA!",
+      "excerpt": "Our Updated Barbarian Guide For The Beta, With Barbarian As My First Play-through Character Of Highlight! How To Get Full ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mattjestic-multigaming-diablo-4-strongest-barbarian-build-in-open-beta/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/mattjestic-multigaming-diablo-4-strongest-barbarian-build-in-open-beta/",
+      "originalUrl": "https://youtube.com/watch?v=HEMsWTPz-Lc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HEMsWTPz-Lc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M3S",
+      "provider": {
+        "name": "Mattjestic MultiGaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 392,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T14:31:49-07:00"
     },
     {
       "path": "_games/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay.md",
@@ -364,36 +424,6 @@
       "publishedDateTime": "2023-03-12T13:43:35-07:00"
     },
     {
-      "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
-      "title": "Druid is AWESOME in Diablo 4!",
-      "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-comeback-kids-druid-is-awesome-in-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/the-comeback-kids-druid-is-awesome-in-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=B0B-2rtWGMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B0B-2rtWGMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
-      "provider": {
-        "name": "The Comeback Kids",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 313,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-17T12:54:20-08:00"
-    },
-    {
       "path": "_games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
       "title": "Diablo 4 : Light's Watch Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta",
       "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
@@ -664,36 +694,6 @@
       "publishedDateTime": "2023-03-17T19:11:15-07:00"
     },
     {
-      "path": "_games/bajheera-diablo-iv-barbarian-character-creation-opening-story-gameplay-early-access-gameplay-part-1.md",
-      "title": "Diablo IV: Barbarian Character Creation / Opening Story Gameplay - Early Access Gameplay (Part 1)",
-      "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-iv-barbarian-character-creation-opening-story-gameplay-early-access-gameplay-part-1/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-iv-barbarian-character-creation-opening-story-gameplay-early-access-gameplay-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=PlPattS5V-o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PlPattS5V-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H52M47S",
-      "provider": {
-        "name": "Bajheera",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 268,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T15:54:19-07:00"
-    },
-    {
       "path": "_games/eso-diablo-iv-max-level-sorceress-gameplay.md",
       "title": "Diablo iv - Max Level Sorceress Gameplay!",
       "excerpt": "Diablo IV Gameplay - Max Level Sorceress Gameplay! Get access to the open/closed beta for Diablo by pre-purchasing the ...",
@@ -752,36 +752,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:49:48-07:00"
-    },
-    {
-      "path": "_games/pupsker-diablo-iv-early-access-beta-world-boss-max-level-today-druid-necromancer-next-week.md",
-      "title": "Diablo IV - Early Access Beta! World Boss & Max Level Today! Druid Necromancer Next Week!",
-      "excerpt": "Today we're running the Diablo IV Early Access Beta! We got a Access code from Blizzard so that's great, plan is we're getting ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/pupsker-diablo-iv-early-access-beta-world-boss-max-level-today-druid-necromancer-next-week/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/pupsker-diablo-iv-early-access-beta-world-boss-max-level-today-druid-necromancer-next-week/",
-      "originalUrl": "https://youtube.com/watch?v=PNEVTufC8vU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PNEVTufC8vU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
-      "provider": {
-        "name": "Pupsker",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 255,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-18T08:44:53-07:00"
     },
     {
       "path": "_games/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
@@ -872,6 +842,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
+    },
+    {
+      "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
+      "title": "Druid is AWESOME in Diablo 4!",
+      "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-comeback-kids-druid-is-awesome-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/the-comeback-kids-druid-is-awesome-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=B0B-2rtWGMg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B0B-2rtWGMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35S",
+      "provider": {
+        "name": "The Comeback Kids",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 253,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-17T12:54:20-08:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-8.md",
