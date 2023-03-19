@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencin
 webUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues"
 type: article
 quality: 126
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-gameplay.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Diablo 4's pre-order beta is beset by long queues and connectivity issues"
+    excerpt: "Diablo 4's pre-order beta is underway. That means people who have already paid for the hack-and-slash sequel are currently enjoying the quintessential modern Diablo experience: queuing to play for ..."
+    publishedDateTime: 2023-03-18T14:55:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4s-pre-order-beta-is-beset-by-long-queues-and-connectivity-issues"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 86
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-barbarian.jpg/BROK/thumbnail/1200x630/Diablo-4-barbarian.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4U64YHQctHndLm3Dzbv08zk+9nGbAg8t1umjkz8AezFfFxLA+OAKJxGcPPuJV7Uha1wc6b2rVHoJlXSO5ogLhKc+yWswxW26OEyNAQyd90jB2GvdOyZWSA26dzqy2UhUnL4ZIVQH25LNgQ256k1omut5aSzboWdLqaeibnyxktgPbwXq1UT+uJmYzr24CxyqKPFjBxCIPyA+hUG+4bI8rbTrKHY+zJTiylHvPKXYWAyvJaVBKRCSeqtPbKEfLeNL8blTWmpIwn448UIOGx090nI1EHE6Nlnev6WobWRLY+qPNl7BljYkgrKcx3Mzgcynn+j+rEAL7vzBAfsxyUjU06cJBETQ7HiXFiohGgYEGx0=;UDcplKzJ/468dD1fNGDEOA=="

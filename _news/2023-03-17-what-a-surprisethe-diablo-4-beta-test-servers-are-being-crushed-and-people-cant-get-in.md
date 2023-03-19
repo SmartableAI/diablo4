@@ -70,6 +70,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Diablo 4's pre-order beta is beset by long queues and connectivity issues"
+    excerpt: "Diablo 4's pre-order beta is underway. That means people who have already paid for the hack-and-slash sequel are currently enjoying the quintessential modern Diablo experience: queuing to play for ..."
+    publishedDateTime: 2023-03-18T14:55:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4s-pre-order-beta-is-beset-by-long-queues-and-connectivity-issues"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 86
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-barbarian.jpg/BROK/thumbnail/1200x630/Diablo-4-barbarian.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VIdpK4AGPlEdFDEjEddLBu+YoBYRMksZKKNHCZq+AWWoTbkGihaZjbMkGj+mJxlq4Oemsg2HN/MJhx66+u8ZI9A5AVVX3Mi3T6rYZvo/CfRHDRa71BckxFajn7BJZUuFceLf0zoyxsWFVqsN9erWedhqtk24hclsIFVdZlQPyvDh8AN+4DIL1fU4d6n/Z/Fib4V2JSEgMzhRhmqMVCNMRAOmr8ZCHoGMEp3JIyOpeA5y78365kOcl1IBkOm1opiBRN+t2IVNsIQPbkGhi8E/5AianVm6meRD4ponRyk1F4AGUBT49Xl75QpSLe+1kuj6Rx7FkbY1+hn2Cjr5Zfefg35Nuj33+SCLt16ClNZpBDo=;04ilxLYz9rs2rqBb4zonyw=="
 ---
