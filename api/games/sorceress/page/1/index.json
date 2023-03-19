@@ -214,23 +214,23 @@
       "publishedDateTime": "2023-03-12T13:56:03-07:00"
     },
     {
-      "path": "_games/asmodeus666-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr.md",
-      "title": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay 4K 60FPS HDR",
-      "excerpt": "Diablo IV New Gameplay 2023 REDES SOCIAIS INSTAGRAM: https://www.instagram.com/asmodeusyt666/ FACEBOOK: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/asmodeus666-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/asmodeus666-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/",
-      "originalUrl": "https://youtube.com/watch?v=q2Lm2v7F3oI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2Lm2v7F3oI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M10S",
+      "path": "_games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you.md",
+      "title": "Diablo 4 SORCERESS: 5 POTENTIAL BUILDS FOR YOU!",
+      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Sorceress 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=4Z3rnnj3lbI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z3rnnj3lbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
       "provider": {
-        "name": "ASMODEUS666",
+        "name": "RustyPieLover",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 102,
+      "heat": 113,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -241,7 +241,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-12T05:52:50-07:00"
+      "publishedDateTime": "2023-01-07T09:00:03-08:00"
     },
     {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
@@ -364,6 +364,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-11T15:51:17-08:00"
+    },
+    {
+      "path": "_games/asmodeus666-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr.md",
+      "title": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay 4K 60FPS HDR",
+      "excerpt": "Diablo IV New Gameplay 2023 REDES SOCIAIS INSTAGRAM: https://www.instagram.com/asmodeusyt666/ FACEBOOK: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/asmodeus666-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/asmodeus666-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/",
+      "originalUrl": "https://youtube.com/watch?v=q2Lm2v7F3oI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2Lm2v7F3oI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M10S",
+      "provider": {
+        "name": "ASMODEUS666",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T05:52:50-07:00"
     },
     {
       "path": "_games/annacakelive-diablo-4-sorceress-overview-and-skill-showcase.md",
@@ -764,36 +794,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
-      "path": "_games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you.md",
-      "title": "Diablo 4 SORCERESS: 5 POTENTIAL BUILDS FOR YOU!",
-      "excerpt": "Greetings Everyone and Welcome to the #Diablo4 #Sorceress 5 POTENTIAL BUILDS VIDEO! Where we discuss 5 potential ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/rustypielover-diablo-4-sorceress-5-potential-builds-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=4Z3rnnj3lbI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Z3rnnj3lbI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M11S",
-      "provider": {
-        "name": "RustyPieLover",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-07T09:00:03-08:00"
     },
     {
       "path": "_games/gaming-rush-diablo-iv-sorceress-gameplay-60fps-4k.md",

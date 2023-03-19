@@ -124,6 +124,36 @@
       "publishedDateTime": "2023-03-17T18:00:09-07:00"
     },
     {
+      "path": "_games/ryu-diablo-iv-tremendous-barbarian-gameplay.md",
+      "title": "Diablo IV Tremendous Barbarian Gameplay",
+      "excerpt": "BECOME A MEMBER!!! https://www.youtube.com/ryu/join Diablo IV is an upcoming action role-playing game developed and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ryu-diablo-iv-tremendous-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ryu-diablo-iv-tremendous-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=CXJTfdBpLkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CXJTfdBpLkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H10M6S",
+      "provider": {
+        "name": "Ryu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 348,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T19:19:48-07:00"
+    },
+    {
       "path": "_games/vivstar-diablo-4-16-minutes-barbarian-gameplay.md",
       "title": "Diablo 4 - 16 minutes Barbarian Gameplay",
       "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
@@ -873,36 +903,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
-    },
-    {
-      "path": "_games/barricade-ttv-diablo-4-offensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects.md",
-      "title": "DIABLO 4 - OFFENSIVE BARBARIAN LEGENDARY ASPECTS - Codex of Power Legendary Aspects",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Offensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-offensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-offensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/",
-      "originalUrl": "https://youtube.com/watch?v=A5gAvJl--4E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A5gAvJl--4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M16S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-05T11:02:27-08:00"
     }
   ],
   "nextPage": 2
