@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/which-class-should-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/which-class-should-you-play-in-diablo-4/ar-AA18FEZ7"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -22,6 +22,66 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 - Classes Explained And Which One To Pick"
+    excerpt: "There are currently five Diablo 4 classes that we know of. These are the Barbarian, Rogue, Sorcerer, Necromancer, and Druid. Each has unique mechanics that allow for varied gameplay, namely their ..."
+    publishedDateTime: 2023-03-18T21:21:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-class-guides-hub/1100-6512461/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114184-diablo4classhubguide-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4: Stats Explained"
+    excerpt: "There are four major stats and several minor stats in Diablo 4, and players will want to know what each of them does to level with a plan. Dexterity gives an additional chance to a player's dodge ..."
+    publishedDateTime: 2023-03-17T13:08:00Z
+    webUrl: "https://gamerant.com/diablo-4-stats-explained/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/stats-diablo-4-explained-01.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Diablo 4: Best Class to Pick Up First"
+    excerpt: "One class makes it as easy as possible to get into Diablo 4, especially for players that are entirely new to the franchise. There are no restrictions on which class can be chosen first in Diablo 4."
+    publishedDateTime: 2023-03-18T11:03:00Z
+    webUrl: "https://gamerant.com/diablo-4-best-class-first-barbarian/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-queues.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Diablo 4 Season Pass Explained"
+    excerpt: "Many are expecting Diablo 4 to be a live service title, so players are naturally wondering about the Season Pass that’s available with the game. NOW READ: Is Diablo Immortal different than Diablo 4?"
+    publishedDateTime: 2023-03-17T18:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-season-pass/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "4kRmocuKkcBbF5TOCbPyfZnJXwo6DoJSoRYDIczaD8c0VKkAfVUIpDhf8s62vtJg9xv8TYgMHpRLT0kjt9a/fPBoMdOdrqsMrjhPQTeE1SGA6ZVENjco7momYav1DDgzuEXotAf9uxOusKfnmS6t2oMu9vhB2LnzVD+zzHBsJQTp2m0P0iOLRr61rtlkHj3FOoFZdJ2lGlpWiMDcNP/imC6VAA2Duvh4gywnMTuXEuENzfn1MBBwqyASwKD7I8AEaZClqSZVpoH2zUBJRigCQidTw/DB0l8AAz4dO4O6nEMpPKUCo+7mctzJwXYwfIxJNLM/P71wk+wb1P5IzUkFqrR+V3yvLRuE0md+GnFAiK8=;1ooNtSfqDGeUXJvUhZhJmA=="
 ---

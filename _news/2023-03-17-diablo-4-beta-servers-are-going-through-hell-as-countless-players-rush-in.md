@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
+    excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
+    publishedDateTime: 2023-03-17T15:38:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-class"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
+        width: 1200
+        height: 668
+        isCached: true
   - title: "Diablo 4 Developers Promise Better Queue Times And Server Stability Soon"
     excerpt: "\"We are actively working on these issues for this weekend\" - says Community Manager PezRadar. Diablo 4 Community Manager PezRadar provided an update (via the Blizzard forums) on the long queues and ..."
     publishedDateTime: 2023-03-18T10:09:00Z

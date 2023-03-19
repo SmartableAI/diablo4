@@ -31,12 +31,12 @@ images:
 
 related:
   - title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
-    excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
-    publishedDateTime: 2023-03-16T13:02:06Z
+    excerpt: "Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between March 17th to 19th and in the Open Beta from ..."
+    publishedDateTime: 2023-03-16T14:30:28Z
     webUrl: ""
     type: video
     provider:
-      name: NVIDIA GeForce
+      name: GameSpot Trailers
       domain: youtube.com
     quality: 122
     images:

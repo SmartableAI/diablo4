@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencin
 webUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues"
 type: article
 quality: 126
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/RA8jKVsQF4aRhKeAXW5S9J-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
+    excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
+    publishedDateTime: 2023-03-17T15:38:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-class"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
+        width: 1200
+        height: 668
         isCached: true
   - title: "Diablo 4 beta servers are going through hell as countless players rush in"
     excerpt: "Diablo 4 servers are on fire, under siege, and getting pushed to their limits as countless players swarm to the game during the pre-order weekend beta. Those who attempt to play are thrown into ..."

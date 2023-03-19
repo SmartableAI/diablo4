@@ -2,6 +2,7 @@
 title: "Diablo IV Tremendous Barbarian Gameplay"
 excerpt: "BECOME A MEMBER!!! https://www.youtube.com/ryu/join Diablo IV is an upcoming action role-playing game developed and ..."
 originalUrl: https://youtube.com/watch?v=CXJTfdBpLkI
+webUrl: https://smartable.ai/apps/diablo4/game/ryu-diablo-iv-tremendous-barbarian-gameplay/
 type: video
 length: PT2H10M6S
 publishedDateTime: 2023-03-19T02:19:48Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "iQ+K70lIpbCjEnpB02ZrrAvnp/O9uYN/EKu3+hUjNpiJNFoMNHffInavF9JqU96tfpDzv0SYpMn2wc/hGn/JTyp2KDTj9Uxft+Xw3hjJv4ncBLcdmpAmrY440reNFV0dk1MLZZtzEquDpWJmbSFH9xdWTwXNt00iUese8XCFdBdX8gSdL0V/ODUOH70OexRSezZvOErEuPK3KcHg6jTA1n6JLoswJw+c+oYshtkxmHTebdisFFWXjqW+vTNjnA22kTncVwfJGVLi6qM8XIrAHDY0aiaTnotBI2XjMKmeVnvYXCwsDhRaCa1d+KM9/9rp0hG4Nbbp3fSPRye7L2mPCeV+5P1FVVGpzedvJFNvrcnRVBB/QIUyPy9WWqBwEgzXehep5zjI+EyVofCz67tE1g==;KaX1W1i+xnaEz4RnrbPISQ=="
+secured: "9ATgSC+nacmozXIQk2iLQgBxKCKT+PjjQ4Zj/09xjYUip5RY3E8w3WsLWkRLbXaFLnMivAQT0Q/IL+jkbHtdf3D+Uw/mcQ0H970sXPe93ZGDu6xRVQbW4ukqFHt/Knh4uG0fNoG8K5LINqJLWs1eU+ZLD44zk8H8KM01+3SgAFTGP+IiX/B+bk/XRHt5U+O+7tFIeYWLFDyzgqT4RX++QmFAq/K3qptjrAd+QFkQib5HwDGqu4KvX5rhY39vMMeB1FtW6ueWxrm3288poWNbZRt0FlVKQavojwuduasfpCMMHAfvTykURjE90NMtxUp/TkxD/2LAWBtarNq+MrtPmpfUxB+HA1q/DgLmqfHaiX9uxgvAfBT2HgIiLLUTP8YoTrrwGtATS0AR0k5TCUBo2w==;3dBjr1zWwa18B7gYeQTl7A=="
 ---
 

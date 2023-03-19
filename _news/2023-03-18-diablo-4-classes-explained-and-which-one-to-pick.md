@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Diablo 4 Season Pass Explained"
-excerpt: "Many are expecting Diablo 4 to be a live service title, so players are naturally wondering about the Season Pass that’s available with the game. NOW READ: Is Diablo Immortal different than Diablo 4?"
-publishedDateTime: 2023-03-17T18:26:00Z
-originalUrl: "https://www.videogamer.com/news/diablo-4-season-pass/"
-webUrl: "https://www.videogamer.com/news/diablo-4-season-pass/"
+title: "Diablo 4 - Classes Explained And Which One To Pick"
+excerpt: "There are currently five Diablo 4 classes that we know of. These are the Barbarian, Rogue, Sorcerer, Necromancer, and Druid. Each has unique mechanics that allow for varied gameplay, namely their ..."
+publishedDateTime: 2023-03-18T21:21:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-class-guides-hub/1100-6512461/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-class-guides-hub/1100-6512461/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 147
+heat: 227
+published: true
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114184-diablo4classhubguide-.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Diablo 4 - Classes Explained And Which One To Pick"
-    excerpt: "There are currently five Diablo 4 classes that we know of. These are the Barbarian, Rogue, Sorcerer, Necromancer, and Druid. Each has unique mechanics that allow for varied gameplay, namely their ..."
-    publishedDateTime: 2023-03-18T21:21:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-class-guides-hub/1100-6512461/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114184-diablo4classhubguide-.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4: Stats Explained"
     excerpt: "There are four major stats and several minor stats in Diablo 4, and players will want to know what each of them does to level with a plan. Dexterity gives an additional chance to a player's dodge ..."
     publishedDateTime: 2023-03-17T13:08:00Z
@@ -82,7 +72,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Season Pass Explained"
+    excerpt: "Many are expecting Diablo 4 to be a live service title, so players are naturally wondering about the Season Pass that’s available with the game. NOW READ: Is Diablo Immortal different than Diablo 4?"
+    publishedDateTime: 2023-03-17T18:26:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-season-pass/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "HNg46wNEzuFbUzL7GM1K7fFHgZd4CssyaHmatOf0MPvv/D+/lCB1ykb0GY8luJhPmu2u9913xE6oknVkfwx1+UaNO0ohWiuQy+HyixpfkYOAlonL/Qh98hIOmudu0Z7pmkBCjD6W9e2H5ai9GviZiVT0BB7pk3HOK/f1g4cOpfz5UN3VvMx2DHnFbhBrVuvJih81v8otZp42v8mgsfLNUCkwmbYZrS54yVtVlmbjGiWshDblyBrecoS2Unn7faVevBY6q/xLVhHncRXxKKQGxk6soDKD0I18sW2CfvjO01dpZHGMX32fu5fgmtCw1JLFObtXQxIT7BiMYqnM/72sXJft2LNyFFa2XBlORVT/epY=;pcUIq4y1SmCbrmOv8EcJ2A=="
+secured: "RyCOgeVOYd5TzK/tRsg5RFJzTcJTfkALJPGL62+U3bEL152pOZqjLajGx+IkzCH8qIuHClS+NLU2CgLUra0m1w4P+1He1bksIhyzHjm6l4qN5T1EkuINjuWZ2sH1YkWTD2c0Pzto0CGNW54C5tQHfEHN4Hw6NWIGC6nN2cq1bDhL+/nt00/rJBsQhcquYV6ZXl/X9Nl5VekAi9JGLtoBfLNptKitt7/RXsU+EQZ/yHRL01ksAvBA4BD9z/xpvJlpQD+sGOC1Is7N6p0zST/+oUUyG7E50988aIaj/8QKyU8e3diM37iaCHyb+/qd81kJP083wAK2TtTlCvCofAsSojNk4YnTpHW0O5S/AJpYJGk=;HdN5D0JLE6QXiQJD+avBDA=="
 ---
 

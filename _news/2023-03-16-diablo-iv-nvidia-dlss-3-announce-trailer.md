@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Diablo IV | NVIDIA DLSS 3 Announce Trailer"
-excerpt: "Diablo IV launches June 6th with DLSS 3. Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between ..."
-publishedDateTime: 2023-03-16T13:02:06Z
-originalUrl: "https://youtube.com/watch?v=fGdnys7CKHY"
+excerpt: "Pre-order now to experience DLSS 2 in Diablo IV's Prologue and first act between March 17th to 19th and in the Open Beta from ..."
+publishedDateTime: 2023-03-16T14:30:28Z
+originalUrl: "https://youtube.com/watch?v=tx0pjnnh5p8"
 type: video
 quality: 122
 heat: -1
 published: false
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGdnys7CKHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tx0pjnnh5p8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
-  name: NVIDIA GeForce
+  name: GameSpot Trailers
   domain: youtube.com
 
 topics:
@@ -70,6 +70,6 @@ related:
         height: 675
         isCached: true
 
-secured: "3Qg3ZOCkQcPg/9FJMi9MWI9HpcE2+Dixo8ReulWfd/qiDOkzp2y0JUVxXh7+68jZxmX0UyUehypUF5EdAQlijnYHue3KE4/ONFv6jTjQIcZLsHG2RIBU2/jrvmkErmHkSQZygVau8FAZVbx6dFUBUEQQHDS23eFB/emReruTjtjEstJUPa+BQ6Hkp4EMZEQzKcPMt7PZRDVf/o62ZXFsmspMVowXOXdujpTYg+t/vhcSPv6DVoqHK+17MvfgQMTLxtM3oZTvBZ00eqLlnRkiiMfFtteUnVKjBGT4bF0hDRQ40ebxiUFByEbVbyaWxuFRF7XctOHDh0exUUpuZpN3Ol8EWlLUaS6Nh5Iehd2La0oMZieitiM4XM6dn98fd8pRFsjrNROTSLrYnUH1ouwpOQ==;ceU02/HNkUGt9SuM4r0UQg=="
+secured: "0neF1dWzle6P2k3FxP+fRB6cps+mYhUP7hsE+KR0UAeDGlvkbXNYUvuZXTCUrXZSZ6kXBXljTjip3I7a7kGMjCI0+bF/wRHShwKxjjTfCDIMroQrEkShKrMSi//wH1bKuwZCQhB/nCTXKCEvL0wPwkEg0v0fcA1fZA2jwuKWOH6APVl2LWOdVoNMlLJpnR8D1IupqQmc/RDgnB7EQ+ndXYVi/yL+bwB//3/bqXtao2CGu1YQEZk7+hrkDkh5w8MerTznNJtCNDhuKXJeRytETeagzhfq7R5eMqflIMVDrok/rYJMabafO5uukyHga9tqzgve0htpuA8Mt+89+jtjx7wXwIAcsykRxGKGG95QgoBxEQx+xhWBPWyNlZY9Hh6IWLYAs0XY+knEHpuchGrntw==;4rvW28jD5thC4KS6/t0dXg=="
 ---
 
