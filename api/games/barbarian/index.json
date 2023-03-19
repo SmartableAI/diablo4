@@ -184,36 +184,6 @@
       "publishedDateTime": "2023-03-18T19:19:48-07:00"
     },
     {
-      "path": "_games/vivstar-diablo-4-16-minutes-barbarian-gameplay.md",
-      "title": "Diablo 4 - 16 minutes Barbarian Gameplay",
-      "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vivstar-diablo-4-16-minutes-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=ABW3lDyjj_I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M40S",
-      "provider": {
-        "name": "VivStar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 341,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T13:43:35-07:00"
-    },
-    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-2.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 2",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -242,6 +212,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:01:34-07:00"
+    },
+    {
+      "path": "_games/vivstar-diablo-4-16-minutes-barbarian-gameplay.md",
+      "title": "Diablo 4 - 16 minutes Barbarian Gameplay",
+      "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vivstar-diablo-4-16-minutes-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=ABW3lDyjj_I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M40S",
+      "provider": {
+        "name": "VivStar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 316,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T13:43:35-07:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3.md",
@@ -784,36 +784,6 @@
       "publishedDateTime": "2023-02-19T08:45:00-08:00"
     },
     {
-      "path": "_games/vivstar-diablo-4-16-minutes-barbarian-demo.md",
-      "title": "Diablo 4 - 16 minutes Barbarian Demo",
-      "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vivstar-diablo-4-16-minutes-barbarian-demo/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barbarian-demo/",
-      "originalUrl": "https://youtube.com/watch?v=ABW3lDyjj_I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M40S",
-      "provider": {
-        "name": "VivStar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T13:43:35-07:00"
-    },
-    {
       "path": "_games/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream.md",
       "title": "SEASON 28 BARBARIAN GRIND - WHICH CLASS ARE YOU GOING TO PLAY IN DIABLO 4 BETA? DIABLO 3 LIVESTREAM",
       "excerpt": "Hi guys, This time we are going to stream some Diablo 3 before the start of Diablo 4 open beta (starting 24-26 of March. 17-19 of ...",
@@ -873,6 +843,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
+    },
+    {
+      "path": "_games/vivstar-diablo-4-16-minutes-barbarian-demo.md",
+      "title": "Diablo 4 - 16 minutes Barbarian Demo",
+      "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vivstar-diablo-4-16-minutes-barbarian-demo/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barbarian-demo/",
+      "originalUrl": "https://youtube.com/watch?v=ABW3lDyjj_I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M40S",
+      "provider": {
+        "name": "VivStar",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 109,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T13:43:35-07:00"
     },
     {
       "path": "_games/ben-lee-gaming-diablo-4-barbarian-overview-should-you-main-it-skill-showcase-gameplay-legendary-aspects.md",

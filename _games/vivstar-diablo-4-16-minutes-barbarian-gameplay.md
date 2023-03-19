@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barba
 type: video
 length: PT16M40S
 publishedDateTime: 2023-03-12T20:43:35Z
-heat: 341
+heat: 316
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
