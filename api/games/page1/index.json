@@ -244,6 +244,36 @@
       "publishedDateTime": "2023-03-17T15:01:34-07:00"
     },
     {
+      "path": "_games/ryu-barbarians-are-amazing-in-diablo-4.md",
+      "title": "Barbarians are AMAZING in Diablo 4.",
+      "excerpt": "BECOME A MEMBER!!! https://www.youtube.com/ryu/join Diablo IV is an upcoming action role-playing game developed and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ryu-barbarians-are-amazing-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ryu-barbarians-are-amazing-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=CXJTfdBpLkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CXJTfdBpLkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H10M6S",
+      "provider": {
+        "name": "Ryu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 329,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T19:19:48-07:00"
+    },
+    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 1",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -332,6 +362,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-12T13:43:35-07:00"
+    },
+    {
+      "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
+      "title": "Druid is AWESOME in Diablo 4!",
+      "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-comeback-kids-druid-is-awesome-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/the-comeback-kids-druid-is-awesome-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=B0B-2rtWGMg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B0B-2rtWGMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35S",
+      "provider": {
+        "name": "The Comeback Kids",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 313,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-02-17T12:54:20-08:00"
     },
     {
       "path": "_games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
@@ -634,6 +694,36 @@
       "publishedDateTime": "2023-03-17T15:54:19-07:00"
     },
     {
+      "path": "_games/eso-diablo-iv-max-level-sorceress-gameplay.md",
+      "title": "Diablo iv - Max Level Sorceress Gameplay!",
+      "excerpt": "Diablo IV Gameplay - Max Level Sorceress Gameplay! Get access to the open/closed beta for Diablo by pre-purchasing the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/eso-diablo-iv-max-level-sorceress-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/eso-diablo-iv-max-level-sorceress-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=wT0SCSlZ_xA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wT0SCSlZ_xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
+      "provider": {
+        "name": "ESO",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 262,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T08:43:51-07:00"
+    },
+    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-6.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 6",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -784,36 +874,6 @@
       "publishedDateTime": "2022-10-16T09:10:54-07:00"
     },
     {
-      "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
-      "title": "Druid is AWESOME in Diablo 4!",
-      "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/the-comeback-kids-druid-is-awesome-in-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/the-comeback-kids-druid-is-awesome-in-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=B0B-2rtWGMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B0B-2rtWGMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
-      "provider": {
-        "name": "The Comeback Kids",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 253,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-02-17T12:54:20-08:00"
-    },
-    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-8.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 8",
       "excerpt": "(Cozy)Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at ...",
@@ -842,66 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T21:59:23-07:00"
-    },
-    {
-      "path": "_games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits.md",
-      "title": "Diablo 4 Druid Overview: Is This Class For You? (Gameplay, Skills, Traits)",
-      "excerpt": "The Diablo 4 Druid is a savage shapeshifter, fluidly transforming between forms of a powerful bear or vicious werewolf all while ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/",
-      "originalUrl": "https://youtube.com/watch?v=D2mui-DeTt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D2mui-DeTt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M51S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 242,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-08T10:00:05-08:00"
-    },
-    {
-      "path": "_games/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
-      "title": "Diablo 4: Maulwood Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta",
-      "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/",
-      "originalUrl": "https://youtube.com/watch?v=UFT0Z02g3LM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFT0Z02g3LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M22S",
-      "provider": {
-        "name": "Bajheera",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 237,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-19T06:32:38-07:00"
     }
   ],
   "nextPage": 2
