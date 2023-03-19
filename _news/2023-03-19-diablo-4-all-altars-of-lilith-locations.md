@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Diablo 4: All Altars of Lilith Locations"
-excerpt: "In the beta of Diablo 4, players can interact with altars that boost their stats, Renown, and give other bonuses that players will definitely want. When a player interacts with an Altar of Lilith in ..."
-publishedDateTime: 2023-03-19T08:06:00Z
-originalUrl: "https://gamerant.com/diablo-4-altars-of-lilith-locations-what-it-does/"
-webUrl: "https://gamerant.com/diablo-4-altars-of-lilith-locations-what-it-does/"
+excerpt: "In the beta of Diablo 4, players can interact with altars that boost their stats, Renown, and give other bonuses that players will definitely want."
+publishedDateTime: 2023-03-19T08:04:46Z
+originalUrl: "https://www.msn.com/en-us/news/us/diablo-4-all-altars-of-lilith-locations/ar-AA18OJuH"
+webUrl: "https://www.msn.com/en-us/news/us/diablo-4-all-altars-of-lilith-locations/ar-AA18OJuH"
 type: article
-quality: 127
-heat: 167
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Game Rant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-01.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OxN3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,7 +52,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand"
+    excerpt: "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ..."
+    publishedDateTime: 2023-03-17T10:07:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-server-errors"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 82
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "+soAaUlulxl3WKOZUvgleDNpGUHXwJD2cD7ANZyvXzKjaQrzTjWQ8WMquevAv0/2RtwVS/AkEL10+Iq3DilpvvwgQhsTDHMBONRBFKKhQHPuMDgFfoJIdgoMSSHuqvOouVKteiCpGxbM44wvkANIFrQk36dr6acnOSeBJwJUoLpTlVR8X9AsKD5pLVcH5Nns8k8ryPa8VZ5QiKouYCy0//LSCxAbCmqq3sCDvroxZuiolJ2dt8HV35GPCZp4wc8l9lUlh8A1qQMelo0Qdct9i8mAXRlANOdf6q7/PP6LRq5wOl7clYDsKbOffDoR++u4Vn5eayuknFX1VMIOj/jeV0kRDLz5UNAXePxoFVbmd6M=;GaQeEm7XjbpvRUwSCb9OzQ=="
+secured: "S6aKB2qO7cYNIJdWV4ou9z0uG0OTsC/GVAFIAgVzrN4JmPAVUbctg8k9R7JcKstmWSpgP8a3C8GCN1TDDqG9my5+i5/ldlB3FhNWYlYu8cI/3qXfR51h7tJ2gZa6yrbIZooeskVT56xSjBiMESSc6OT7gmv8MIxF0qmfp7Wh0K1o4vgnIZh8tBy1X5dtAh2INkT6uWE2WOyiFQ5CQl2eauQqLRS/cVTAr5ZdZlm0iBRhoD1Gf40Z+8iCpET2DGWnTqalYXkeiFuVBia2zGutAqAGx4S2D6cEV2waJqG/y0om44Me3Ge9XFq5nv7YJ49DnoQ03sT77hq+Y/ip5/E0ra46PZ/dyk/H/rb2cIvElTM=;Ma9HP0S6mSiqCIydUVHaYQ=="
 ---
 
