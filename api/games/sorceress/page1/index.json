@@ -11,7 +11,7 @@
       "webUrl": "https://smartable.ai/apps/diablo4/game/rhykker-diablo-4-beta-gameplay-livestream-sorceress/",
       "originalUrl": "https://youtube.com/watch?v=od5s0wy3TtE",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/od5s0wy3TtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
+      "length": "PT4H29M6S",
       "provider": {
         "name": "Rhykker",
         "domain": "youtube.com"
@@ -20,7 +20,7 @@
         "Diablo 4",
         "Sorceress"
       ],
-      "heat": 346,
+      "heat": 454,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -182,6 +182,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-12T04:52:56-07:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv.md",
+      "title": "DIABLO 4 - SORCERESS DEFENSIVE LEGENDARY ASPECTS  & MORE - Codex of Power, Diablo IV",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive, Resource, Mobility and Utility ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/",
+      "originalUrl": "https://youtube.com/watch?v=wjtnNYtfd38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjtnNYtfd38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-15T22:32:21-08:00"
     },
     {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
@@ -456,38 +486,6 @@
       "publishedDateTime": "2023-03-07T05:00:24-08:00"
     },
     {
-      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
-      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
-      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
-      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M1S",
-      "provider": {
-        "name": "LFP Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian",
-        "Sorceress"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-10T01:25:28-08:00"
-    },
-    {
       "path": "_games/coolpedia-diablo-4-gameplay-all-classes-barbarian-rogue-sorceress-druid.md",
       "title": "Diablo 4 Gameplay All Classes [Barbarian, Rogue, Sorceress & Druid]",
       "excerpt": "Diablo 4 Gameplay 30 minutes video for all classes announced so far by Blizzard. The gameplay video is available in HD 1080p at 60 fps. Which class do you ...",
@@ -672,6 +670,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2019-11-01T18:15:00-07:00"
+    },
+    {
+      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
+      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
+      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
+      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M1S",
+      "provider": {
+        "name": "LFP Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-10T01:25:28-08:00"
     },
     {
       "path": "_games/slaydra-diablo-4-boss-in-stronghold-gameplay-dec-2022-group-play-cold-sorceress-gameplay.md",
@@ -886,36 +916,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-09-18T17:09:47-07:00"
-    },
-    {
-      "path": "_games/extraxp-diablo-4-sorceress-combat-gameplay.md",
-      "title": "Diablo 4 -  Sorceress Combat Gameplay",
-      "excerpt": "diablo4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/extraxp-diablo-4-sorceress-combat-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/extraxp-diablo-4-sorceress-combat-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=z5ifOX2ydtA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z5ifOX2ydtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "ExtraXP",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-07T16:26:46-08:00"
     }
   ],
   "nextPage": 2

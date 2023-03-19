@@ -4,9 +4,9 @@ excerpt: "Diablo 4 beta livestream gameplay showcase featuring the sorceress - b
 originalUrl: https://youtube.com/watch?v=od5s0wy3TtE
 webUrl: https://smartable.ai/apps/diablo4/game/rhykker-diablo-4-beta-gameplay-livestream-sorceress/
 type: video
-length: P0D
+length: PT4H29M6S
 publishedDateTime: 2023-03-18T07:46:56Z
-heat: 346
+heat: 454
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/od5s0wy3TtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "5uGWuQCAa4A/Kq4p0ZdLs+GYWhp15CELIRT3TFbCBf90FUht611JucMYsfb6a0lYICIpwkP07M4/rzIpNoNtce+Ei4FQ+YtL+EOoErL7H7AK+LUGagqtrRAc27fHJlyJgMW9ePHipAmH/BtDyEG8UNesBfm6mwdWfBug0rTrRvCk5XSEypU4fxJWGSrh1xFCjnl8asp3jFP2CZXs3U42HTervAA/39HAfNZIAygfNrSs6ZsPryN5vG4EKK26KQdu+b9UtrapPtDH9n0aX3eDzz7Bg6NuePr+NEZ7zB7TgFHaF60GLMG6qJJkvA4pT5xr9oeV9D0epZbBRsraQIdE48ixY6OXJQIqfgnpZoa1qteJ9431VaF9p65jctb/hPi3ZAHwWiJtcwJXm+jtvGDD9w==;rpEXY+aNqlg4NHMtoj9mRg=="
+secured: "BIC7lIUMdLD7IdvctHjxjYabSQ5XoQPLJ1QEgE3nY35lO7MeVULFwPbrnaNux6E7cJh7t+KEjgP6wqLWd9CQ6Bo9QUN6ViA8aZSZzsdY9UrCP8TPhwXs36Ha7cQWkNc/aHLccrZDcm17EQFn9HoJvYRxiPMFSq3EBQKuY+j6O8aI1UpaQJiN+DK+zGQwkTlZdaChrpimMe40/pUhFS6RZ3CrPNncS68ARmh9j8ielMuMCpLOq6qDyjK3H5G3UP/xdYOPKnE6hFQBHBNret8hPwr3Jgm2WQTQb9f7i05yHc7sjPv6pyE6XAZgbwTb+Iu2hVwGr6+XTxJAE2EFnhpeMogk+3XBtnEyUJis2bvYla/RMSd/9k85qMTSsNo6dxza1jQaJD/xmvq+mH1x0XCreT5+hupjIEHa13+61zP3zns=;AM9VLPJHySiZHtnZonkBtA=="
 ---
 

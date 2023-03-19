@@ -4,6 +4,68 @@
   "page": 6,
   "value": [
     {
+      "path": "_games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes.md",
+      "title": "DIABLO 4 EXCLUSIVE FIRST LOOK AT GAMEPLAY FOR THE DRUID, SORCERESS AND BARBARIAN CLASSES!",
+      "excerpt": "New? Subscribe → https://www.youtube.com/c/bannik13?sub_confirmation=1 Diablo 4 is coming!!!! It is official! Let's check out the exclusive first look at game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bannik13-diablo-4-exclusive-first-look-at-gameplay-for-the-druid-sorceress-and-barbarian-classes/",
+      "originalUrl": "https://youtube.com/watch?v=eIhE2Gd7vZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIhE2Gd7vZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Bannik13",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Sorceress",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eIhE2Gd7vZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-04T18:24:40-08:00"
+    },
+    {
+      "path": "_games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power.md",
+      "title": "DIABLO 4 - BARBARIAN RESOURCE, MOBILITY, UTILITY LEGENDARY ASPECTS - Codex of Power",
+      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Resource, Mobility, Utility Legendary Aspects you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-barbarian-resource-mobility-utility-legendary-aspects-codex-of-power/",
+      "originalUrl": "https://youtube.com/watch?v=z_03dGAzoEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_03dGAzoEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M15S",
+      "provider": {
+        "name": "Barricade TTV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-09T04:53:33-08:00"
+    },
+    {
       "path": "_games/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects.md",
       "title": "DIABLO 4 - DEFENSIVE BARBARIAN LEGENDARY ASPECTS - Codex of Power Legendary Aspects",
       "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
@@ -152,36 +214,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-01-10T08:47:30-08:00"
-    },
-    {
-      "path": "_games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv.md",
-      "title": "DIABLO 4 - SORCERESS DEFENSIVE LEGENDARY ASPECTS  & MORE - Codex of Power, Diablo IV",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive, Resource, Mobility and Utility ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-sorceress-defensive-legendary-aspects-more-codex-of-power-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=wjtnNYtfd38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjtnNYtfd38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M16S",
-      "provider": {
-        "name": "Barricade TTV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-15T22:32:21-08:00"
     },
     {
       "path": "_games/barricade-ttv-diablo-4-sorceress-offensive-legendary-aspects-codex-of-power-diablo-iv.md",
@@ -423,6 +455,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-22T17:00:17-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-earthen-bulwark-ability.md",
+      "title": "Diablo 4 Druid Earthen Bulwark Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-earthen-bulwark-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-earthen-bulwark-ability/",
+      "originalUrl": "https://youtube.com/watch?v=5uTHJ6_t35Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5uTHJ6_t35Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-23T17:00:01-08:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-stormstrike-ability.md",
@@ -847,66 +909,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-09-29T13:49:47-07:00"
-    },
-    {
-      "path": "_games/fallen-diablo-iv-quarterly-update-june-2021-barbarians.md",
-      "title": "Diablo IV Quarterly Update June 2021 Barbarians",
-      "excerpt": "Barbarians in Diablo IV the Quarterly Update, June 2021. #DiabloIV #Diablo4 #Diablo2 Diablo 4 gameplay, Barbarians, quarterly update for june 2021, classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fallen-diablo-iv-quarterly-update-june-2021-barbarians/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fallen-diablo-iv-quarterly-update-june-2021-barbarians/",
-      "originalUrl": "https://youtube.com/watch?v=JG42U6DMwg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JG42U6DMwg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
-      "provider": {
-        "name": "Fallen",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JG42U6DMwg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-07-01T03:55:57-07:00"
-    },
-    {
-      "path": "_games/future-gaming-with-oliver-a-staley-diablo-iv-barbarian-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley.md",
-      "title": "Diablo IV Barbarian Gameplay Part 1 1080p/HD Future Gaming With Oliver A Staley",
-      "excerpt": "Diablo IV, Future Gaming With Oliver A Staley (Footage Courtesy Of Game Informer)",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/future-gaming-with-oliver-a-staley-diablo-iv-barbarian-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/future-gaming-with-oliver-a-staley-diablo-iv-barbarian-gameplay-part-1-1080phd-future-gaming-with-oliver-a-staley/",
-      "originalUrl": "https://youtube.com/watch?v=_W2jOFizRjk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_W2jOFizRjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M14S",
-      "provider": {
-        "name": "Future Gaming With Oliver A Staley",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2019-11-16T02:34:53-08:00"
     }
   ],
   "nextPage": 7

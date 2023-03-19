@@ -4,6 +4,66 @@
   "page": 8,
   "value": [
     {
+      "path": "_games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps.md",
+      "title": "Diablo 4 - Gameplay Barbarian (2021) 4K HDR 60fps",
+      "excerpt": "Gameplay de Diablo 4 Barbarian (2021) em 4K HDR 60fps . #diablo4 #diabloIV #barbarian Novo Trailers 2021! Novo Games 2021! Inscreva se no IGames TV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/igames-tv-diablo-4-gameplay-barbarian-2021-4k-hdr-60fps/",
+      "originalUrl": "https://youtube.com/watch?v=lMPwhQRZxBU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMPwhQRZxBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M1S",
+      "provider": {
+        "name": "IGames TV",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lMPwhQRZxBU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2021-02-25T12:01:19-08:00"
+    },
+    {
+      "path": "_games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial.md",
+      "title": "DIABLO 4 - DRUIDA - TODAS AS SUAS HABILIDADES EM PT-BR - NÃO OFICIAL",
+      "excerpt": "Link da Gameplay: https://www.youtube.com/watch?v=uij9ysBKs4w&t=4s Lives nos Canais abaixo, siga pra não perder nenhuma! ⭐ Seja Membro no ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/imp-diablo-4-druida-todas-as-suas-habilidades-em-pt-br-nao-oficial/",
+      "originalUrl": "https://youtube.com/watch?v=d2OnR_vcYgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d2OnR_vcYgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M21S",
+      "provider": {
+        "name": "Imp",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d2OnR_vcYgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-13T09:14:24-08:00"
+    },
+    {
       "path": "_games/kamahl-diablo-4-barbarian-skills.md",
       "title": "Diablo 4 Barbarian Skills",
       "excerpt": "What's up Everyone. Kamahl here and welcome to another Diablo 4 video. In today's episode we are going to be looking at the barbarian skills. I hope you enjoy ...",
@@ -851,66 +911,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2020-06-08T17:39:28-07:00"
-    },
-    {
-      "path": "_games/smithtainment-new-diablo-4-sorceress-gameplay-2020-magic-finding-questing.md",
-      "title": "*NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING)",
-      "excerpt": "NEW* DIABLO 4 SORCERESS GAMEPLAY 2020 - (MAGIC FINDING & QUESTING) The sorc is one of my favorite classes to play on almost any game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/smithtainment-new-diablo-4-sorceress-gameplay-2020-magic-finding-questing/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/smithtainment-new-diablo-4-sorceress-gameplay-2020-magic-finding-questing/",
-      "originalUrl": "https://youtube.com/watch?v=lfg4SbsrYyc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfg4SbsrYyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M49S",
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lfg4SbsrYyc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2020-06-05T14:15:30-07:00"
-    },
-    {
-      "path": "_games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction.md",
-      "title": "Diablo IV Rogue & Druid Gameplay REACTION",
-      "excerpt": "I haven't seen much about Diablo IV at all after the initial reveal trailer, so I'm diving in to check it out. Steam gift card giveaway ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/solitary-spark-diablo-iv-rogue-druid-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=-SARW0gkSBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-SARW0gkSBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M24S",
-      "provider": {
-        "name": "Solitary Spark",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2021-03-04T01:16:56-08:00"
     }
   ],
   "nextPage": 9

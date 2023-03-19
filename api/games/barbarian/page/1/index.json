@@ -34,23 +34,23 @@
       "publishedDateTime": "2023-03-17T17:11:27-07:00"
     },
     {
-      "path": "_games/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue.md",
-      "title": "Diablo 4 - How to Create a Build - All Class Skills & Abilities Guide - Sorcerer Barbarian Rogue!",
-      "excerpt": "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue/",
-      "originalUrl": "https://youtube.com/watch?v=b62FpCdjUXA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b62FpCdjUXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M26S",
+      "path": "_games/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay.md",
+      "title": "Diablo 4 - Whirlwind Barbarian Build (Beta Diablo IV Gameplay)",
+      "excerpt": "Diablo 4 - Whirlwind Barbarian Build (Beta Diablo IV Gameplay) Quick Look at the Barbarian Whirlwind Build Guide in the first ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=b3pua2zLtl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3pua2zLtl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M33S",
       "provider": {
-        "name": "RageGamingVideos",
+        "name": "LeyzarGamingViews",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 409,
+      "heat": 379,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -61,37 +61,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-17T18:00:09-07:00"
-    },
-    {
-      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1.md",
-      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 1",
-      "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1/",
-      "originalUrl": "https://youtube.com/watch?v=Ru084UC7epk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ru084UC7epk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M26S",
-      "provider": {
-        "name": "CohhCarnage",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 392,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T14:32:31-07:00"
+      "publishedDateTime": "2023-03-18T11:13:05-07:00"
     },
     {
       "path": "_games/ragegamingvideos-diablo-4-all-class-build-best-skills-abilities-guide-sorcerer-barbarian-rogue-tree-explained.md",
@@ -184,6 +154,36 @@
       "publishedDateTime": "2023-03-18T19:19:48-07:00"
     },
     {
+      "path": "_games/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue.md",
+      "title": "Diablo 4 - How to Create a Build - All Class Skills & Abilities Guide - Sorcerer Barbarian Rogue!",
+      "excerpt": "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-how-to-create-a-build-all-class-skills-abilities-guide-sorcerer-barbarian-rogue/",
+      "originalUrl": "https://youtube.com/watch?v=b62FpCdjUXA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b62FpCdjUXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M26S",
+      "provider": {
+        "name": "RageGamingVideos",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 336,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T18:00:09-07:00"
+    },
+    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-2.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 2",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -214,6 +214,36 @@
       "publishedDateTime": "2023-03-17T15:01:34-07:00"
     },
     {
+      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1.md",
+      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 1",
+      "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1/",
+      "originalUrl": "https://youtube.com/watch?v=Ru084UC7epk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ru084UC7epk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M26S",
+      "provider": {
+        "name": "CohhCarnage",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 328,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T14:32:31-07:00"
+    },
+    {
       "path": "_games/vivstar-diablo-4-16-minutes-barbarian-gameplay.md",
       "title": "Diablo 4 - 16 minutes Barbarian Gameplay",
       "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
@@ -242,36 +272,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-12T13:43:35-07:00"
-    },
-    {
-      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3.md",
-      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 3",
-      "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3/",
-      "originalUrl": "https://youtube.com/watch?v=4jCu5dLqBe4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4jCu5dLqBe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M51S",
-      "provider": {
-        "name": "CohhCarnage",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 309,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T15:01:59-07:00"
     },
     {
       "path": "_games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
@@ -394,14 +394,14 @@
       "publishedDateTime": "2023-03-17T18:00:09-07:00"
     },
     {
-      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4.md",
-      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 4",
+      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3.md",
+      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 3",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4/",
-      "originalUrl": "https://youtube.com/watch?v=HbiFVed2lsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HbiFVed2lsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M28S",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3/",
+      "originalUrl": "https://youtube.com/watch?v=4jCu5dLqBe4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4jCu5dLqBe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M51S",
       "provider": {
         "name": "CohhCarnage",
         "domain": "youtube.com"
@@ -410,7 +410,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 292,
+      "heat": 279,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -421,7 +421,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-17T15:39:28-07:00"
+      "publishedDateTime": "2023-03-17T15:01:59-07:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-5.md",
@@ -452,6 +452,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:49:21-07:00"
+    },
+    {
+      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4.md",
+      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 4",
+      "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-4/",
+      "originalUrl": "https://youtube.com/watch?v=HbiFVed2lsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HbiFVed2lsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M28S",
+      "provider": {
+        "name": "CohhCarnage",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 269,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-17T15:39:28-07:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-7.md",
@@ -634,23 +664,23 @@
       "publishedDateTime": "2023-03-17T21:59:23-07:00"
     },
     {
-      "path": "_games/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay.md",
-      "title": "Diablo 4 - Whirlwind Barbarian Build (Beta Diablo IV Gameplay)",
-      "excerpt": "Diablo 4 - Whirlwind Barbarian Build (Beta Diablo IV Gameplay) Quick Look at the Barbarian Whirlwind Build Guide in the first ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/leyzargamingviews-diablo-4-whirlwind-barbarian-build-beta-diablo-iv-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=b3pua2zLtl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3pua2zLtl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M33S",
+      "path": "_games/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
+      "title": "Diablo 4: Maulwood Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta",
+      "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/",
+      "originalUrl": "https://youtube.com/watch?v=UFT0Z02g3LM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFT0Z02g3LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M22S",
       "provider": {
-        "name": "LeyzarGamingViews",
+        "name": "Bajheera",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 220,
+      "heat": 237,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -661,37 +691,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-18T11:13:05-07:00"
-    },
-    {
-      "path": "_games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits.md",
-      "title": "Diablo 4 Barbarian Overview: Is This Class For You? (Gameplay, Skills, Traits)",
-      "excerpt": "As a returning staple to the Diablo franchise, the Barbarian is the poster child of overwhelming strength, brutality, and weapon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/",
-      "originalUrl": "https://youtube.com/watch?v=0OYzKWezzbE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0OYzKWezzbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M52S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 208,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-07T13:15:00-08:00"
+      "publishedDateTime": "2023-03-19T06:32:38-07:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-9.md",
@@ -754,6 +754,66 @@
       "publishedDateTime": "2023-03-16T15:31:39-07:00"
     },
     {
+      "path": "_games/leyzargamingviews-diablo-4-gameplay-whirlwind-barbarian-diablo-iv-beta-dungeon-gameplay.md",
+      "title": "Diablo 4 Gameplay - Whirlwind Barbarian (Diablo IV Beta Dungeon Gameplay)",
+      "excerpt": "Diablo 4 Gameplay - WhirlWind Barbarian (Diablo IV Beta Dungeon Gameplay) Gameplay showcase of the Whirlwind Barbarian ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/leyzargamingviews-diablo-4-gameplay-whirlwind-barbarian-diablo-iv-beta-dungeon-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/leyzargamingviews-diablo-4-gameplay-whirlwind-barbarian-diablo-iv-beta-dungeon-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=XKBZXf9akXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XKBZXf9akXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "LeyzarGamingViews",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 188,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-19T08:44:22-07:00"
+    },
+    {
+      "path": "_games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits.md",
+      "title": "Diablo 4 Barbarian Overview: Is This Class For You? (Gameplay, Skills, Traits)",
+      "excerpt": "As a returning staple to the Diablo franchise, the Barbarian is the poster child of overwhelming strength, brutality, and weapon ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits/",
+      "originalUrl": "https://youtube.com/watch?v=0OYzKWezzbE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0OYzKWezzbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M52S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 172,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-07T13:15:00-08:00"
+    },
+    {
       "path": "_games/the-comeback-kids-diablo-4-barbarian-is-insane.md",
       "title": "Diablo 4 Barbarian is INSANE!",
       "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
@@ -770,7 +830,7 @@
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 164,
+      "heat": 170,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -843,66 +903,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
-    },
-    {
-      "path": "_games/vivstar-diablo-4-16-minutes-barbarian-demo.md",
-      "title": "Diablo 4 - 16 minutes Barbarian Demo",
-      "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vivstar-diablo-4-16-minutes-barbarian-demo/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vivstar-diablo-4-16-minutes-barbarian-demo/",
-      "originalUrl": "https://youtube.com/watch?v=ABW3lDyjj_I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ABW3lDyjj_I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M40S",
-      "provider": {
-        "name": "VivStar",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 109,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T13:43:35-07:00"
-    },
-    {
-      "path": "_games/ben-lee-gaming-diablo-4-barbarian-overview-should-you-main-it-skill-showcase-gameplay-legendary-aspects.md",
-      "title": "Diablo 4 BARBARIAN Overview: Should You MAIN It? (Skill Showcase, Gameplay, Legendary Aspects)",
-      "excerpt": "Twitch: https://www.twitch.tv/BenLee_Tv Discord: https://discord.gg/jJHnWqK9hC Twitter: https://twitter.com/BenLeeGaming ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ben-lee-gaming-diablo-4-barbarian-overview-should-you-main-it-skill-showcase-gameplay-legendary-aspects/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ben-lee-gaming-diablo-4-barbarian-overview-should-you-main-it-skill-showcase-gameplay-legendary-aspects/",
-      "originalUrl": "https://youtube.com/watch?v=MMFz2TXTP50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMFz2TXTP50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M1S",
-      "provider": {
-        "name": "Ben Lee Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-14T09:00:11-07:00"
     }
   ],
   "nextPage": 2
