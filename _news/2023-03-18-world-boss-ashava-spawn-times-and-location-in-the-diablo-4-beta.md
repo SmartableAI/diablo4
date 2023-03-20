@@ -28,19 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Beta Download Date and World Boss Spawns Announced"
-    excerpt: "Diablo4 #download #worldboss #Maxroll #Blizzard Blog Post: ..."
-    publishedDateTime: 2023-03-13T19:46:46Z
-    webUrl: ""
-    type: video
+  - title: "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips"
+    excerpt: "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ..."
+    publishedDateTime: 2023-03-20T14:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    type: article
     provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 137
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+      - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg"
+        width: 1536
+        height: 864
+        isCached: true
+  - title: "Diablo 4 Beta: World Boss (Ashava) Spawn Times"
+    excerpt: "Diablo 4 players can take on a World Boss during the Open Betas, but only during certain times and one day. One of these events in both the Open Beta and the Early Access Beta weekends will be the ..."
+    publishedDateTime: 2023-03-15T17:57:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-world-boss-ashava-spawn-times/ar-AA18GonW"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Gxz1.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "How to Beat Ashava Boss Fight in Diablo 4 Beta"
+    excerpt: "Diablo 4 introduces World Bosses into the dungeon crawling RPG series, allowing players from across the server to come together and take down a giant boss for great rewards. The only catch is that the ..."
+    publishedDateTime: 2023-03-19T07:39:00Z
+    webUrl: "https://twinfinite.net/2023/03/how-to-beat-ashava-boss-fight-in-diablo-4/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/03/diablo4-Ashava-Boss-Fight.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fbhGnHNIZllw+sJkSBNakjIB7V7KLEa4Ap3eiWhdMfxy3QqJNZoYT/tnbe3Wd+Y3jY3kIYSiIMTkYUxAiBmSq6eN7cR8hBAauQ1FM0cdWPNsl7WfFiuI6aMwdh443vPcSstZm7rGF9ds4XnKiu9x59zbNXmWGgSPc3y0gTiEaXv6kiY8JJO7NCN/LH+ufi9uOgXTkQfKR6gjgNTz4z5RK7nAFuztQR27guSOTXOi65OxKce7b91/seHYatNvArI0o2A0LhS0negiNpAOpCkkDX7FxBQKXkE/kvFGcG3d+baYJopO+an+lXdfYjjeqaNBRQh+VRJ0nhztqOFYbEtXz6MOds/+fAPVdP3KLvUbcNo=;z8BQbmldJKLO7LkrT8/pFQ=="

@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Diablo 4 Beta Players Criticize 'Easy-Mode' Sorcerer Class"
-excerpt: "Diablo 4 beta players criticize the Sorcerer class for trivializing boss fights and generally making the game much easier than the other two classes. Over on the Diablo 4 subReddit, fans began posting ..."
-publishedDateTime: 2023-03-20T13:27:00Z
-originalUrl: "https://gamerant.com/diablo-4-beta-criticize-easy-sorcerer-class/"
-webUrl: "https://gamerant.com/diablo-4-beta-criticize-easy-sorcerer-class/"
+excerpt: "Diablo 4 beta players criticize the Sorcerer class for trivializing boss fights and generally making the game much easier than the other two classes."
+publishedDateTime: 2023-03-20T13:24:41Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-criticize-easy-mode-sorcerer-class/ar-AA18RS10"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-criticize-easy-mode-sorcerer-class/ar-AA18RS10"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Game Rant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-sorcerer-difficulty.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RX91.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=478&y=129"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "/K/X7npiwzruoo6YsknQXCilpn/Dp9eWH9FNMxZSZMzYMP/ppvFAT0566J4q7UA0v9mHGd0cEOTgmfrm9sAYCpReo9oSqrhtwOOVs8RoPV6uOEauCbnM2U/YrlzSBh6vGEIy0FZLPZjJIeOC1K0gUe7giqTOa9kB1DE9jpBWl4rtrkBprCP3w0KjYY6+yHluVaqVWGYKR3tZFtLLxWPdRmsRfGjMrrQR0olXJAil7/Wn55fFQvyeQw1c66MjalO5/OmScovCO5OfGHrvwhOGfnueO1oMdbN0hOhvMEDzKl2pNoeWngAXJcsUOkIzP6SjTvFlvF5/lNAlM1CRCCuPIfPZs6KDaX+ibpX9XG+fsj0=;HjUaHbdznXXOQzYNqAu7DQ=="
+secured: "jgV3S6LXvfceLEzEpHFLtCxFlDW7+0a6JF7A7qcmLnp8xexwYRNbKzUYwl6QaDl7nfZws3qSuNtNYumLOqzCJq6f7n2i1pW8s5xKqufdmO1oqWfpm+2+7TSx/40Jzz49wGECtYVvRrxr9iaYKTNIo+onm2hFthQ0BWMiKKmjsCIUIhRZCQtNt5gwmej66srXQXqW21RtdCC6MD20fxfN01U+o3dwKvyYvylKrS8smRmMWHSX9eZK3qbNJNVeEtvyMzmFFNUXfEJmaoMJKiCkDTnCsMBFhIL3TqAvEmchi3dZof6Tdaes2pLRl8CvgkT8PE7uG9/OTifuM+s4Fjp+kE9kBNkoNe74uaDBKy8KFjU=;JLqFo1AybUd05ENWl21IcA=="
 ---
 

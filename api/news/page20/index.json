@@ -2,6 +2,132 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-21-diablo-4-confirms-more-routine-updates-coming-in-2021.md",
+      "title": "Diablo 4 Confirms More Routine Updates Coming In 2021",
+      "excerpt": "Much as it did last year, Blizzard has confirmed that it will be doing quarterly updates for Diablo 4 over the course of 2021. Speaking to us here at ComicBook.com, Diablo 4’s L ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-21-diablo-4-confirms-more-routine-updates-coming-in-2021/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-quarterly-updates-2021/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-quarterly-updates-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-quarterly-updates-2021/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-quarterly-updates-2021/",
+      "publishedDateTime": "2021-02-21T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021.md",
+      "title": "Reaction Diablo IV Rogue Announcement Trailer Blizzconline 2021",
+      "excerpt": "Frozenshady #DiabloIV #Blizzconline Frozenshady reacts to the Blizzconline 2021 announcement trailer for the Rogue class in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-20-reaction-diablo-iv-rogue-announcement-trailer-blizzconline-2021/",
+      "originalUrl": "https://youtube.com/watch?v=aF-69oe6yyM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aF-69oe6yyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T13:14:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FRoZeNShAdY",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine.md",
+      "title": "Diablo 4’s rogue revealing trailer was shown in the game engine",
+      "excerpt": "Diablo 4's rogue revealing trailer was shown in the game engine By now you've probably seen the revealing trailer for the Diablo 4 rogue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/index.json",
+      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-rogue-revealing-trailer-was-shown-in-the-game.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-rogue-revealing-trailer-was-shown-in-the-game-engine/amp/",
+      "publishedDateTime": "2021-02-20T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-you-can-turn-off-enemy-glow-in-diablo-4.md",
       "title": "You can turn off enemy glow in Diablo 4",
       "excerpt": "During a BlizzCon Q&A stream today, game director Luis Barriga said that Diablo 4 will include a suite of accessibility options, and that the hit glow will be one of the available ...",
@@ -970,132 +1096,6 @@
       "topics": [
         "Diablo 4",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more.md",
-      "title": "Last Epoch Dev Talks About Multiplayer, Raytracing, Diablo 4, PoE 2 and More",
-      "excerpt": "Last Epoch is the product of indie developer Eleventh Hour Games with a pretty straightforward goal of becoming \"the next great action role-playing game\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more/index.json",
-      "webUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
-      "originalUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2021/02/Last-Epoch-Undead.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
-      "publishedDateTime": "2021-02-09T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021.md",
-      "title": "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021",
-      "excerpt": "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/index.json",
-      "webUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "originalUrl": "https://www.gamesradar.com/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cHuqLhqVouZ8abHdL54sbD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021/",
-      "publishedDateTime": "2021-02-05T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-diablo-4-will-not-release-this-year.md",
-      "title": "Diablo 4 Will Not Release This Year",
-      "excerpt": "Everyone knows about the Diablo franchise as it’s an iconic dungeon crawler and over the years we’ve seen three mainline installments to enjoy. It was during BlizzCon 2019 that we got the confirmation ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-05-diablo-4-will-not-release-this-year/index.json",
-      "webUrl": "https://gameranx.com/updates/id/216689/article/diablo-4-will-not-release-this-year/",
-      "originalUrl": "https://gameranx.com/updates/id/216689/article/diablo-4-will-not-release-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
-          "width": 1148,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],

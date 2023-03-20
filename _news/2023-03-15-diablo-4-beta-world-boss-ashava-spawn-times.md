@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-world-boss
 webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-world-boss-ashava-spawn-times/ar-AA18GonW"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Game Rant on MSN
@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips"
+    excerpt: "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ..."
+    publishedDateTime: 2023-03-20T14:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg"
+        width: 1536
+        height: 864
+        isCached: true
+  - title: "World boss Ashava spawn times and location in the Diablo 4 beta"
+    excerpt: "Diablo 4's first world boss, Ashava, is one of the main challenges available during the two Diablo 4 betas this month. Unlike dungeons and quests, world bosses wait for no slayer. Ashava has three ..."
+    publishedDateTime: 2023-03-18T07:45:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-ashava-spawn-time/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9XCK965ug8W6UVN5uDHXMH-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "How to Beat Ashava Boss Fight in Diablo 4 Beta"
     excerpt: "Diablo 4 introduces World Bosses into the dungeon crawling RPG series, allowing players from across the server to come together and take down a giant boss for great rewards. The only catch is that the ..."
     publishedDateTime: 2023-03-19T07:39:00Z
