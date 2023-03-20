@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/gosunoob-diablo-4-gameplay-first-
 type: video
 length: PT26M37S
 publishedDateTime: 2023-03-17T17:53:27Z
-heat: 106
+heat: 108
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jfrv2kdlRB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "eqAHx5QLw+xMEUcxbGZA0qB9JjM6cnpjpS5XkQZCpjvs+KQbyfGbgmPXcu0LhmgIMpkW18e4W8B7qXvgNpUwYIL0jDlZLsdMbvvkMO1nP3W4O0pT8STI7Rxbk6RpffvExy0yDz7/ZSlK5CHZJb4d7p90/hWe5wzi0l20sSL+PyzwMUM2NoUu112Zp34QjxUJMtEVgMX5SR694pow9dN0vMNLFietYI5/v19bciOg3qztWMyYzfymJp+O6qWQFSH4uofEsMLr9TmvBjAeJ90rOzjKRlq1zB2YBUPBhMk8YwNvzQNUAsMDph4cGmILvBO8aBQ669/NrwwAMhvIZY1fHEbx1C0aZaedhAVSdNVe07vDsywwU+jAyfRU2r58yu2DNoFjofJp3tXCeGqiK6Tzqm+xeyJu1GD3zKb2F8NGdzs=;bdrJnvUB8CB4X4Cbgu5zzw=="
+secured: "psYpW+JK8OwWL2p0XjzQNptvCOVpc3z7LqklB+6GQNR6yONkAwEkDZGSvljh33eJibj8kFKf89VnPwUNcxQrvDuSSsRcKvAtYquDw0ygLVHdHpjmfoiOH4SSTxDrumNzfdsdwsUyTkkX6O5MrcLv6a/d888Bao7wDu1FDhwKkmJbiah7xpEtQKL3YvXnh1WRYX0e0StkQHSJQNYU3Zvek/DvSU422L/m7t2+oUmSs939Q3ZpqyJQXyCWv+EUstDf5QUAbpSZYGvu2sUh7HtdIk4T7tAhSjxMTvOue91WsHWQw0jWV5eanDJX7e4LTYIIueX+PqP3fBUKan0JhOuv3NAmhOFfCwhxiQtpflrKdthLm/ZwTGtyvOt7Bx8B4Cy03ZEN91dcOeOZt4sEUkiFP29eDnVxynUsCPnLh+QHiUk=;6aibhoW2T0P3YKfrvnk5/g=="
 ---
 

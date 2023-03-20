@@ -364,36 +364,6 @@
       "publishedDateTime": "2023-03-12T13:43:35-07:00"
     },
     {
-      "path": "_games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
-      "title": "Diablo 4 : Light's Watch Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta",
-      "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/",
-      "originalUrl": "https://youtube.com/watch?v=UmdbIYUl0S0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UmdbIYUl0S0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M46S",
-      "provider": {
-        "name": "Bajheera",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 305,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-18T06:43:31-07:00"
-    },
-    {
       "path": "_games/diablo-unparalleled-strength-unquenchable-fury-the-barbarian-is-back-in-diablo-iv.md",
       "title": "Unparalleled strength. Unquenchable fury. The Barbarian is back in Diablo IV.",
       "excerpt": "New skills. New weapons. New customizations. Same blood thirst. Meet the #DiabloIV Barbarian.",
@@ -724,6 +694,36 @@
       "publishedDateTime": "2023-03-17T15:49:48-07:00"
     },
     {
+      "path": "_games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits.md",
+      "title": "Diablo 4 Druid Overview: Is This Class For You? (Gameplay, Skills, Traits)",
+      "excerpt": "The Diablo 4 Druid is a savage shapeshifter, fluidly transforming between forms of a powerful bear or vicious werewolf all while ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/",
+      "originalUrl": "https://youtube.com/watch?v=D2mui-DeTt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D2mui-DeTt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M51S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 258,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-08T10:00:05-08:00"
+    },
+    {
       "path": "_games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian.md",
       "title": "Latest Diablo 4 TRUE Leaked Beta Test Gameplay - Barbarian",
       "excerpt": "Diablo IV är ett framtida datorspel, under utveckling av Blizzard Entertainment. Wikipedia Släpptes första gången: 2023 Utgivare: ...",
@@ -814,36 +814,6 @@
       "publishedDateTime": "2023-03-16T17:00:07-07:00"
     },
     {
-      "path": "_games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits.md",
-      "title": "Diablo 4 Druid Overview: Is This Class For You? (Gameplay, Skills, Traits)",
-      "excerpt": "The Diablo 4 Druid is a savage shapeshifter, fluidly transforming between forms of a powerful bear or vicious werewolf all while ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/",
-      "originalUrl": "https://youtube.com/watch?v=D2mui-DeTt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D2mui-DeTt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M51S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 242,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-08T10:00:05-08:00"
-    },
-    {
       "path": "_games/bajheera-diablo-4-maulwood-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
       "title": "Diablo 4: Maulwood Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta",
       "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
@@ -902,6 +872,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-14T17:00:25-07:00"
+    },
+    {
+      "path": "_games/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding.md",
+      "title": "Diablo 4 Gameplay Levelling Sorcerer & Barbarian Fast! Co-op Multiplayer Farming & Grinding",
+      "excerpt": "Today we're levelling up as fast as we can on sorcerer and barbarian in co-op multiplayer so we can get to the higher level ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding/",
+      "originalUrl": "https://youtube.com/watch?v=97SMpQSAVe4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97SMpQSAVe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7H46M17S",
+      "provider": {
+        "name": "Arekkz Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 232,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T03:01:50-07:00"
     }
   ],
   "nextPage": 2
