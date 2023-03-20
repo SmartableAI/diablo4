@@ -24,47 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Open Beta Minimum PC Requirements Revealed"
-    excerpt: "Diablo IV's open beta minimum and recommended PC specifications have been revealed by Blizzard as part of a beta-focused livestream. Note that these are the beta system requirements and not for the ..."
-    publishedDateTime: 2023-02-28T12:02:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/"
+  - title: "Diablo 4 Beta Gives Players Rewards Just for Playing"
+    excerpt: "Diablo 4's open beta is quickly approaching with the public's first hands-on opportunity with the game scheduled to get underway on march 17th, and ahead of that release, we've gotten a better idea of ..."
+    publishedDateTime: 2023-03-02T07:45:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-release-date-rewards/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
     images:
-      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4105982-diablo4openbetaminspecs.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
-  - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
-    excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
-    publishedDateTime: 2023-02-28T14:06:12Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb"
+  - title: "Diablo 4 developers reveal an unbelievably cute reward for beta players"
+    excerpt: "Developers at Activision Blizzard have revealed some beta-exclusive Diablo 4 cosmetics for those who progress far enough during the early access period, including a wolf cub backpack that is frankly ..."
+    publishedDateTime: 2023-03-01T08:30:00Z
+    webUrl: "https://www.vg247.com/diablo-4-developers-reveal-an-unbelievably-cute-reward-for-beta-players"
     type: article
     provider:
-      name: GameRant on MSN
-      domain: msn.com
+      name: vg247
+      domain: vg247.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4's open beta PC specs are very undemanding"
-    excerpt: "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ..."
-    publishedDateTime: 2023-02-28T15:49:16Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow"
-    type: article
-    provider:
-      name: GamesRadar+ on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://asset.vg247.com/diablo-4-beta-rewards-header.jpg/BROK/thumbnail/1200x630/diablo-4-beta-rewards-header.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -82,45 +68,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 system requirements"
-    excerpt: "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game."
-    publishedDateTime: 2023-03-01T04:06:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
+  - title: "Everything you need to know about Blizzard's Diablo IV beta"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Highly anticipated: If you can't wait to get your hands on Diablo 4, the betas are only a few weekends away. Blizzard has scheduled two testing periods in March for players to get in some hacking and"
+    publishedDateTime: 2023-03-01T13:18:00Z
+    webUrl: "https://www.techspot.com/news/97782-everything-you-need-know-about-blizzards-diablo-iv.html"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
+      name: TechSpot
+      domain: techspot.com
+    quality: 72
     images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 beta dates and system requirements: Are you ready for hell?"
-    excerpt: "Find out if you can run Diablo 4 on your machine for the upcoming beta test. Diablo 4 has two upcoming beta tests, where players will finally be able to take a deep dive into Blizzard’s next hack ‘n slash action RPG and see for themselves if this is a"
-    publishedDateTime: 2023-03-02T00:58:50Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-dates-and-system-requirements-are-you-ready-for-hell/ar-AA1880JP"
-    type: article
-    provider:
-      name: Video Games on FanNation on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Open Beta Details Revealed; Times, Rewards, System Requirements for PC, & More"
-    excerpt: "Blizzard Entertainment released new details about the open beta of its upcoming RPG Diablo 4, which is starting soon."
-    publishedDateTime: 2023-02-28T12:18:00Z
-    webUrl: "https://techraptor.net/gaming/news/diablo-4-open-beta-details-revealed-times-rewards-system-requirements-for-pc-more"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 79
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-02/Diablo%204%20Open%20Beta.jpg?itok=0YNJTGWm"
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-01-image-36.jpg"
         width: 1920
         height: 1080
         isCached: true

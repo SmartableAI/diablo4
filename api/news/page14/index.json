@@ -2,6 +2,141 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-13-diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic.md",
+      "title": "Diablo 4 Update Dives Deep On The Necromancer, Including Its Unique Book Of The Dead Mechanic",
+      "excerpt": "After a splashy debut as part of the Xbox and Bethesda Showcase, more information about Diablo IV's Necromancer class has been revealed, including a new unique class mechanic called Book of the Dead ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989767-diablo-4-thumbnail_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
+      "publishedDateTime": "2022-06-13T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5.md",
+      "title": "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5",
+      "excerpt": "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5/index.json",
+      "webUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
+      "originalUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
+      "publishedDateTime": "2022-06-13T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed.md",
+      "title": "Blizzard's Diablo 4 developers try to put monetisation worries to bed",
+      "excerpt": "Blizzard confirmed that Diablo 4, the game that's not Diablo Immoral (sorry, I meant Immortal), will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S next year. Since this news came to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed/index.json",
+      "webUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
+      "originalUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/Diablo-4_p8rJ9b5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Diablo-4_p8rJ9b5.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-diablo-4-will-be-updated-for-years-after-launch-including-with-story-expansions.md",
       "title": "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions",
       "excerpt": "Following the release of new gameplay for Diablo 4 at the Xbox Bethesda Game Showcase, franchise lead Rod Fergusson took to Twitter (below) to answer some fan questions regarding ...",
@@ -985,132 +1120,6 @@
       "provider": {
         "name": "GamesRadar",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-new-diablo-4-blog-update-confirms-150-procedurally-generated-dungeons.md",
-      "title": "New Diablo 4 Blog Update Confirms 150 Procedurally Generated Dungeons",
-      "excerpt": "Check out the latest Diablo 4 update blog from Blizzard, which delves into the game's environments and dungeons.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-31-new-diablo-4-blog-update-confirms-150-procedurally-generated-dungeons/index.json",
-      "webUrl": "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/",
-      "originalUrl": "https://www.psu.com/news/new-diablo-4-dev-update-reveals-150-procedurally-generated-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.psu.com/wp/wp-content/uploads/2022/03/Diablo4-2-min.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Play Station Universe",
-        "domain": "psu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-diablo-4-boasts-five-explorable-regions-with-over-150-dungeons.md",
-      "title": "Diablo 4 Boasts Five Explorable Regions With Over 150 Dungeons",
-      "excerpt": "Blizzard Entertainment released a Diablo IV Quarterly Update yesterday, and several devs chimed in on what the upcoming open-world RPG will offer players. Recently-appointed game director Joe Shely ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-diablo-4-boasts-five-explorable-regions-with-over-150-dungeons/index.json",
-      "webUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons",
-      "originalUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/03/30/d053d827/diablo4.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp",
-      "cdnAmpWebUrl": "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2022/03/30/diablo-4-boasts-five-explorable-regions-with-over-150-dungeons?amp",
-      "publishedDateTime": "2022-03-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameInformer",
-        "domain": "gameinformer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons.md",
-      "title": "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons",
-      "excerpt": "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons/index.json",
-      "webUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
-      "originalUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
-      "publishedDateTime": "2022-03-30T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
         "images": null,
         "publishers": null,
         "authors": null

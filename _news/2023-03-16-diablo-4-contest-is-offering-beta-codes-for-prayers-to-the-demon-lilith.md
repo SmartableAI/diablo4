@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-contest-is
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-contest-is-offering-beta-codes-for-prayers-to-the-demon-lilith/ar-AA18J3TU"
 type: article
 quality: 87
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 - All Altar Of Lilith Statues And Locations"
+    excerpt: "The statues are difficult to find, but they unlock some incredible benefits for Diablo 4 players When exploring the world of Sanctuary in Diablo 4, there is plenty to look out for. Whether you're ..."
+    publishedDateTime: 2023-03-19T19:42:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Who is Lilith in Diablo 4? Story explained"
     excerpt: "Lilith is one of the most iconic faces in the Diablo franchise, so let's give you a brief explainer on who she is and how she ties into Diablo 4."
     publishedDateTime: 2023-03-16T12:18:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OxN3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand"
-    excerpt: "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ..."
-    publishedDateTime: 2023-03-17T10:07:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-server-errors"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 82
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "UiTZXEOfrAFnXkUQ/7Og/SoihYpqdz2BPZgtZ4EPqNzHsNEii399slv7Kg+7g8w3xe7m+0gK+gIQASyo5z83gItAze/WrAuGPTNg6yxXveuXBEKP5bzDrISnCdu+NcPcDFCx0r1cahYYMMtfSMOmxbNoYjMI0YKvsE4d+fYyYYKyfPeAvH7DxxzTI01dsJXgk6++niRfKwkqD65QMrSUnpSl9+2L0sjmSCYkQFuprP/f1e0Kksjpzn3oR4OW9BfYZ94xnH8Dn5hbrirOmVypOWXAdSv+ybeJaA2BOAnqGQWInwb1LJqw0Pk9erHgX1xLcasZ8S197NHhvDmtNG+iCTG2RvbL4R5bfSldpVqt4h4=;wY7qg9fXyCihfde8CTO4KA=="

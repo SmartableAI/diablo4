@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 - All Altar Of Lilith Statues And Locations"
+    excerpt: "The statues are difficult to find, but they unlock some incredible benefits for Diablo 4 players When exploring the world of Sanctuary in Diablo 4, there is plenty to look out for. Whether you're ..."
+    publishedDateTime: 2023-03-19T19:42:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 Contest is Offering Beta Codes for Prayers to the Demon Lilith"
     excerpt: "A contest rewarding Diablo 4 early access beta codes starts on Twitter, as Blizzard asks fans to offer up prayers to the demon Lilith. On Friday, March 17, the first of two betas leading up to Diablo ..."
     publishedDateTime: 2023-03-16T13:58:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/16/who-is-lilith-explained-diablo-4-e1678974677146.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand"
-    excerpt: "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ..."
-    publishedDateTime: 2023-03-17T10:07:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-server-errors"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 82
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "ZqX4zv552dxAjzkukERlIGgvnh5efe9SEALjXyOLu6YzFH6TgxImqdDo2rMPxDI1QVh5o6zUEEKQl0MPzs1oRJW5Mti18i2h+mhoZPjdMCMPnVDhfI+GQyiOujVjnfV4QuvsCtzxKda+QEFe53yF0+3cVJl93YCSJ5NUpBYfSMo7A7nKdOLICJwzkjxDGGbZ9Ihhb3T8FOdVj+M0oTXZj8bWz01ZeitSkPYZR1t6Bb/ScnIU2qHyKofeacFWFc2Sf12E9ir7DIgs8uonXNKX3Gr5vbTHh8WXu7PYW7w2n/t2s4YhW6/fTH0CEKcs+/6gwh3OxQZcT5GLw2jtNds7rjxA9gG7jb7syzV095q701A=;2FkMw5fvJg3LLxetuF0/UQ=="
