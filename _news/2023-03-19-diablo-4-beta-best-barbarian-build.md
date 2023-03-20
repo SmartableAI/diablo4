@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
-excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-publishedDateTime: 2023-03-19T00:22:00Z
-originalUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
-webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
+title: "Diablo 4 Beta: Best Barbarian Build"
+excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
+publishedDateTime: 2023-03-19T21:42:39Z
+originalUrl: "https://www.msn.com/en-us/money/technology/diablo-4-beta-best-barbarian-build/ar-AA18PWxp"
+webUrl: "https://www.msn.com/en-us/money/technology/diablo-4-beta-best-barbarian-build/ar-AA18PWxp"
 type: article
 quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Windows Central on MSN
+  name: Game Rant on MSN
   domain: msn.com
 
 topics:
@@ -19,7 +19,7 @@ topics:
   - Barbarian
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18NYja.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PMIC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -39,17 +39,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 Beta: Best Barbarian Build"
-    excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
-    publishedDateTime: 2023-03-19T21:42:39Z
-    webUrl: "https://www.msn.com/en-us/money/technology/diablo-4-beta-best-barbarian-build/ar-AA18PWxp"
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-19T00:22:00Z
+    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: Windows Central on MSN
       domain: msn.com
     quality: 104
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PMIC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18NYja.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
@@ -68,6 +68,6 @@ related:
         height: 630
         isCached: true
 
-secured: "N36teTBzc8Z++eLkS5tKoJ2GdvCjDgm/YrIB8SF4FXAKvYULWPGma26BE3t7+yHUsIxth8L4a1c1XB/ocnKHZoeQxmguOAClMin8DKtHHGXCQwdYD6CRsQ+Wa8u+9+bExHvTnnuCyjAIEeWblJCI0RuTGpqfKheG8iTau2wMglQJKqiXDY8m7RlnIYUyu4hE3o/YcLC4vTxO1Q1i4VK8MUPCrP+h1byw+EaKWvmTCNygBR3rs1+1/BEzRM3KWQQb/crgcUAg98+6MdVDCopHCMmFxT9IKCEVgsNLyX8q0+obrOTpTdWiWO9odu8OSXnhffjLqOp0+TcFLSylNPMRMZnFV1hRy9l6Luet3xN15u8=;je2tkt1oRbl8elVB8ef6VA=="
+secured: "6tb1B5unFUcEqjLe6vfH8Jovtu5t7MN4lkax/9B1ohY0bNs4ju4me1uycfK7+NMgKbLxgDecXHi9VoFY5fz/a6jOXi8NEYbM9Q3XzLslrbrEnxKI3fPOaZkl+oZlfM0607p8C0hvFqQdjleqg47tJBr9GHpa5CEG2iULpQKKIISzcYuXNDNmb24GcbEsv/57joUNDLnWPNCiLHDR9UsLVTpl1VqnvHA4Tea+YmLttkH4vDpV9WojlQLAceTbYciHRI9B3jlkhycZ5kjqV4osX0jKQWE2JigjFIJaTaEjJuPs2aSBZ0FemNX/hvGoqWr2PPgwfgMxtwDImkCT9Nh2z8cS+Q0qKnsadglWVP3ZIGg=;0WACE6TQ/sN0Tfnxbhu0HA=="
 ---
 

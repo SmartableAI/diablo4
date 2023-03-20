@@ -7,8 +7,8 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
 webUrl: "https://www.pcgamesn.com/diablo-4/system-requirements"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: PCGamesN
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
-    excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
-    publishedDateTime: 2023-02-28T14:06:12Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 beta dates and system requirements: Are you ready for hell?"
     excerpt: "Find out if you can run Diablo 4 on your machine for the upcoming beta test. Diablo 4 has two upcoming beta tests, where players will finally be able to take a deep dive into Blizzard’s next hack ‘n slash action RPG and see for themselves if this is a"
     publishedDateTime: 2023-03-02T00:58:50Z

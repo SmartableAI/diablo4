@@ -2,6 +2,132 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-04-diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours.md",
+      "title": "Diablo 4 Wants You To Play Its Endgame For \"Thousands Of Hours\"",
+      "excerpt": "Diablo 4 is going to be different from Diablo 3 in a number of very important ways, but perhaps most important is the vast amount of testing that’s going into Diablo 4 at every level. And, for the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KdM6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=537&y=158",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay.md",
+      "title": "Diablo 4 endgame is designed to offer \"thousands of hours\" of gameplay",
+      "excerpt": "Diablo 4 players can look forward to a game that just keeps on giving, with the game's general manager Rod Fergusson saying that there will be \"thousands of hours\" of fun to be had. Fergusson was ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup.md",
+      "title": "According to this senior Diablo 4 dev, making a good endgame is just like making soup",
+      "excerpt": "Last month, select players were chosen to take part in a closed beta focused on Diablo 4's endgame content. In an interview with IGN (opens in new tab), Ferguson describes how the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/index.json",
+      "webUrl": "https://www.msn.com/en-gb/entertainment/news/according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/ar-AA13KdGP",
+      "originalUrl": "https://www.msn.com/en-gb/entertainment/news/according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/ar-AA13KdGP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KaNM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T00:36:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-diablo-4-closed-beta-ending-soon-public-testing-starting-next-year.md",
       "title": "Diablo 4 Closed Beta Ending Soon, Public Testing Starting Next Year",
       "excerpt": "Blizzard provides the end date for the Diablo 4 closed beta, which has been running smoothly for the past two weeks with a focus on endgame content.",
@@ -949,132 +1075,6 @@
       "provider": {
         "name": "COGconnected",
         "domain": "cogconnected.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out.md",
-      "title": "Diablo 4 end game beta invites are being sent out",
-      "excerpt": "The first wave of invites to the Diablo 4 closed end game beta have reportedly been distributed. Diablo players on Resetera and Reddit began receiving invites to the game’s latest testing phase on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out/index.json",
-      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
-      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2022/09/diablo-4-x.jpg",
-          "width": 1249,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg.md",
-      "title": "Diablo 4 daily events spark live service concerns for the Blizzard RPG",
-      "excerpt": "The appearance of Diablo 4 daily events in the latest Blizzard update for its upcoming fantasy RPG game has fans worried about the game’s live service nature ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/daily-events-discussion",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/daily-events-discussion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/09/diablo-4-daily-quests-live-service-concerns-reddit.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-diablo-4-endgame-closed-beta-announced.md",
-      "title": "Diablo 4 endgame closed beta announced",
-      "excerpt": "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-endgame-closed-beta-announced/index.json",
-      "webUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
-      "originalUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,141 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-22-diablo-4-standard-deluxe-ultimate-edition-differences-explained.md",
+      "title": "Diablo 4 Standard, Deluxe, & Ultimate Edition Differences Explained",
+      "excerpt": "Pre-orders for Diablo 4 are now open, with players able to choose from three separate editions that each pack their own unique bonuses. Blizzard tends to offer incentives for players to pre-order ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-22-diablo-4-standard-deluxe-ultimate-edition-differences-explained/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-standard-deluxe-and-ultimate-edition-differences-explained/ar-AA15zTIh",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-standard-deluxe-and-ultimate-edition-differences-explained/ar-AA15zTIh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15zMKk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-22T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-how-much-time-we-have-to-spend-in-world-of-warcraft-to-get-diablo-4-for-free-has-been-estimated.md",
+      "title": "How much time we have to spend in World of Warcraft to get Diablo 4 for free has been estimated",
+      "excerpt": "Following the same steps to unlock Overwatch 2 skins through World of Warcraft, it is also possible to get our hands on Blizzard's next game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-22-how-much-time-we-have-to-spend-in-world-of-warcraft-to-get-diablo-4-for-free-has-been-estimated/index.json",
+      "webUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.html",
+      "originalUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/12/22/news/1671732385_315959_1671732495_portada_normal.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.amp.html",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/12/22/news/1671732385_315959.amp.html",
+      "publishedDateTime": "2022-12-22T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features.md",
+      "title": "Diablo 4 Explains Legendary Items and Codex of Power Features",
+      "excerpt": "Diablo 4's Game Directors discuss how Legendary Items are handled in the sequel with the introduction of its universal Codex of Power feature.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
+      "originalUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-5.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
       "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
       "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
@@ -986,132 +1121,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer.md",
-      "title": "Diablo 4 Release Date Revealed in New Trailer",
-      "excerpt": "Diablo 4 made an expected appearance at The Game Awards 2022 this week to reveal the release date for the game alongside another preview of the newest Diablo experience. According to Blizzard, Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
-      "publishedDateTime": "2022-12-08T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement.md",
-      "title": "Diablo 4 devs reportedly say crunch feels necessary, claiming lengthy mismanagement",
-      "excerpt": "The employees also claim that the game’s development has been affected by gross mismanagement throughout the past five years. Diablo 4 has reportedly seen numerous delays throughout development, with ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/index.json",
-      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/",
-      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg",
-          "width": 1952,
-          "height": 1074,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching.md",
-      "title": "Diablo 4 release date latest: When is the new game launching?",
-      "excerpt": "If you’re excited about the Diablo 4 release date and can’t wait to play, you’ll need to read on to find out when the game should release, when and where you can pre-order, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching/index.json",
-      "webUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
-      "originalUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/Diablo-4-release-date-0ff18e7.jpg?quality=90&resize=620,413",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
-      "cdnAmpWebUrl": "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
-      "publishedDateTime": "2022-12-07T23:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Radio Times",
-        "domain": "radiotimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

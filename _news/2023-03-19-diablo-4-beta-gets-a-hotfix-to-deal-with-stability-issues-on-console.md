@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Diablo 4 is working to \"improve server stability issues\" on console"
-    excerpt: "We already knew that Diablo 4's first open beta weekend was subjecting players to long queues and connection issues (opens in new tab), and now Blizzard is working on \"improving server stability ..."
+    excerpt: "We already knew that Diablo 4's first open beta weekend was subjecting players to long queues and connection issues, and now Blizzard is working on \"improving server stability issues\" for console ..."
     publishedDateTime: 2023-03-19T12:17:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-working-to-improve-server-stability-issues-on-console/"
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-working-to-improve-server-stability-issues-on-console/ar-AA18OVcZ"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: GamesRadar+ on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Pr9S.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "1AKMZmV/7Uy/tcag9VApOGKPFIhesxRTyZCA3AhSKj/LrzdTSzMyrd2CQy/A2RTPOQ3re9bhGgViI4whvN6YmHUfAwB/8K2zcH456QE9dx1Gpr16b1VpGYKj78X04xsqkjKpXI7kn2XVMMkW1oMJTYbBrs0IVO18++emfIw3sLC87u7I6jtG7971nGFW5QN8Tv9yX7feGGvp0yf6kfk8/QnFZtFl/kiBeIBL8KTasTMFlsRzU6DKh1eOpstzwsSVE2dW4jgOb8nh3HjId80Q1dbwvWaDU6O94F0oAY9aXpoNbxPWY17qSTGLANY5lC5UaIxaUpHmUmCoBh4sEKDcf69+yio//7xVC7/W1b5W5CY=;PJGa6PIZWigbBrsDpiOh/Q=="

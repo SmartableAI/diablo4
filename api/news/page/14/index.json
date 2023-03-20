@@ -2,6 +2,150 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-13-diablo-iv-quarterly-updatejune-2022.md",
+      "title": "Diablo IV Quarterly Update—June 2022",
+      "excerpt": "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-iv-quarterly-updatejune-2022/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3q/3QIS84S3PJK41654707055839.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5.md",
+      "title": "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?",
+      "excerpt": "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2022/06/Overwatch-23.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
+      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
+      "publishedDateTime": "2022-06-13T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-diablo-4s-new-legendary-system-has-transformed-the-game-blizzard-says.md",
+      "title": "Diablo 4's New Legendary System Has \"Transformed The Game,\" Blizzard Says",
+      "excerpt": "Diablo IV is learning big lessons from previous Diablo games, including how the game approaches legendary items and its endgame Paragon progression system. In a recent GameSpot interview, game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4s-new-legendary-system-has-transformed-the-game-blizzard-says/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989655-d4_v0.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-new-legendary-system-has-transformed-the-game-blizzard-says/1100-6504551/",
+      "publishedDateTime": "2022-06-13T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic.md",
       "title": "Diablo 4 Update Dives Deep On The Necromancer, Including Its Unique Book Of The Dead Mechanic",
       "excerpt": "After a splashy debut as part of the Xbox and Bethesda Showcase, more information about Diablo IV's Necromancer class has been revealed, including a new unique class mechanic called Book of the Dead ...",
@@ -994,132 +1138,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay.md",
-      "title": "Diablo 4 New Update Unveils Dungeon Details and Gameplay",
-      "excerpt": "Blizzard Entertainment just dropped a huge chunk of information for Diablo 4 on its dungeons which will be all new for the upcoming game series. The developer of the game continues to update the fans ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-04-diablo-4-new-update-unveils-dungeon-details-and-gameplay/index.json",
-      "webUrl": "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay",
-      "originalUrl": "https://epicstream.com/article/diablo-4-new-update-unveils-dungeon-details-and-gameplay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.realsport101.com/images/ncavvykf/epicstream/15690053c084327a8983e1dd5713db5619e4c648-650x400.jpg?rect=0,17,650,366&w=686&h=386&auto=format",
-          "width": 686,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Epicstream",
-        "domain": "epicstream.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-diablo-4-reveals-new-dungeon-details-and-gameplay-footage.md",
-      "title": "Diablo 4 Reveals New Dungeon Details and Gameplay Footage",
-      "excerpt": "Diablo 4 developer Blizzard Entertainment has revealed a ton of new information about the dungeons that will be present in the latest entry in the long-running action series. Although it has been ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-04-diablo-4-reveals-new-dungeon-details-and-gameplay-footage/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2021/12/24/ae2f65df-ee69-4829-9c5a-fcd18919af2a/the-witcher-season-2.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "publishedDateTime": "2022-04-03T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-diablo-4-everything-we-know-about-blizzards-sequel.md",
-      "title": "Diablo 4: Everything we know about Blizzard's sequel",
-      "excerpt": "We won't get to play Diablo 4 until 2023, but Blizzard is hype-levels high with regular updates on its development. We've heard all about PvP, the Barbarian, Sorceress, and Druid classes, and most ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-04-diablo-4-everything-we-know-about-blizzards-sequel/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-guide/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

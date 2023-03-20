@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 PC Minimum and Recommended System Requirements Confirmed"
-    excerpt: "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements."
-    publishedDateTime: 2023-02-28T14:06:12Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 system requirements"
     excerpt: "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game."
     publishedDateTime: 2023-03-01T04:06:00Z

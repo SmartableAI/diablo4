@@ -2,6 +2,132 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
+      "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
+      "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
+      "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
+      "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
+      "publishedDateTime": "2020-08-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees.md",
+      "title": "Diablo 4 and Overwatch 2 shown to Blizzard employees",
+      "excerpt": "A new report has come out by a French publication website regarding some unrelease Blizzard titles, Diablo 4 and Overwatch 2. The report says that both of the titles have been shown to a select ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees/index.json",
+      "webUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/6/6/66387_01_diablo-4-overwatch-2-blizzard-employees_full.jpg",
+          "width": 850,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
+      "publishedDateTime": "2020-08-18T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development.md",
+      "title": "Blizzard Gives Encouraging Update on Diablo 4 Development",
+      "excerpt": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+      "publishedDateTime": "2020-08-08T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
       "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
       "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
@@ -982,142 +1108,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-17-diablo-4-blizzcon-announcement.md",
-      "title": "Diablo 4 Blizzcon Announcement",
-      "excerpt": "Listen to our weekly podcast: Arcadian Insight! iTunes: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-17-diablo-4-blizzcon-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-17-diablo-4-blizzcon-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=eCOgFWq8Kxc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eCOgFWq8Kxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-17T06:00:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arcadian",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019.md",
-      "title": "A Letter from our Game Director – BlizzCon 2019",
-      "excerpt": "We&amp;#39;re overwhelmed by the response we&amp;#39;ve seen from our community to Diablo IV at BlizzCon. Our Game Director, Luis Barriga, has a few words he&amp;#39;d like to share.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/me/MEMUO5FEFXMP1573606010411.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
-      "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=9I0gLbjENXU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9I0gLbjENXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9I0gLbjENXU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-10T23:14:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ultimate LUL",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }
