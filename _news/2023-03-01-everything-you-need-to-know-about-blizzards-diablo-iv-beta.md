@@ -40,20 +40,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "New Diablo 4 details reveal open beta rewards and more"
-    excerpt: "Diablo IV is dropping rewards for eager fans getting their hands on the beta arriving on March 24. Once early access goes live, players can grind until level 20 to nab cosmetics and titles that’ll add ..."
-    publishedDateTime: 2023-02-28T15:54:00Z
-    webUrl: "https://dotesports.com/general/news/new-diablo-4-details-reveal-open-beta-rewards-and-more"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 87
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2023/02/28181511/diablo-4-1-768x403.png"
-        width: 768
-        height: 403
-        isCached: true
   - title: "Diablo 4 developers reveal an unbelievably cute reward for beta players"
     excerpt: "Developers at Activision Blizzard have revealed some beta-exclusive Diablo 4 cosmetics for those who progress far enough during the early access period, including a wolf cub backpack that is frankly ..."
     publishedDateTime: 2023-03-01T08:30:00Z

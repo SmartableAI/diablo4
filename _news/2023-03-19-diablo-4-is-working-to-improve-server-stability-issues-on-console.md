@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4 is working to \"improve server stability issues\" on console"
-excerpt: "We already knew that Diablo 4's first open beta weekend was subjecting players to long queues and connection issues, and now Blizzard is working on \"improving server stability issues\" for console ..."
+excerpt: "We already knew that Diablo 4's first open beta weekend was subjecting players to long queues and connection issues (opens in new tab), and now Blizzard is working on \"improving server stability ..."
 publishedDateTime: 2023-03-19T12:17:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-working-to-improve-server-stability-issues-on-console/ar-AA18OVcZ"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-working-to-improve-server-stability-issues-on-console/ar-AA18OVcZ"
+originalUrl: "https://www.gamesradar.com/diablo-4-is-working-to-improve-server-stability-issues-on-console/"
+webUrl: "https://www.gamesradar.com/diablo-4-is-working-to-improve-server-stability-issues-on-console/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+ on MSN
-  domain: msn.com
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Pr9S.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "coYyOtczk+Cc8mkPoxMsmOeyDtoNm6p/tzd8nG31n3nwcEBMD2s+zTvmF74cQmdu90qVgit6RRhxxtlWb2YXTXOfxji5KQA79ZxeKp8cXfO1IF2EejWcztrQejSN8e0QZSQ/kVutQjmh5vo81QWnRYucOmeVBL5MY+rU3bu6fg4Ok5dvCCZgjytroCXKqm/7Gb4rJwp6sZY6roMC3O7EWf4rPQ08eNzxob6wO7yy+6LrhxPyUHnLJER7gt68g1OJo2+X3eStvpp2WWgn+78GrLyUKtGT8XvkZO9F5xQU68Dv7G3syBbQa1bcIe3hIq+2IRFnNvmGABqi1nsayRUYsLd1VRIKXUaXklScnQkDhvI=;OcveSl67BVC0Yr4iW1u4/g=="
+secured: "PWDkPEIh8+1X9OUiG5Iee8bm1dX4nxVu0Qls4HDaHaKO2BSkiITe7cRpwkPHxCRfYQlC3H3Ea8xrr9DK3tOmGnZpqnLtO+BLltDV9O1NGY9GeDouyC6VHaUT165NiwggzfNxUu6rafNfP4xz94lq8Ysc2Kl6w+EE1ughnweEV7lA7XeNdnIqvAkgfFbfSGkiA/NqQGmzdTLnivBhKGJQvma5KrosRnEWOP8cenIQ6oYEgwuYzDFJxhOvfODpkWRC522uNjq4ZsqIo62Jj9v2dX3UAYwjz5jY1xqdcMep5ugKtmn0vMdGA4dHEacqXDyEUcP2D96WhaR6oZ7qJVtxlp2m3lLe2c+myqbIivemca8=;rmhhbJKPSwvQ+nirAsDdjw=="
 ---
 
