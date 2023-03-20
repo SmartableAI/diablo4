@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-maulwood-dungeo
 type: video
 length: PT18M22S
 publishedDateTime: 2023-03-19T13:32:38Z
-heat: 237
+heat: 262
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFT0Z02g3LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "cdI/iw9M/ubLZSkogiLBX3Qrafneu86VJnAcoU9ufZqfCYD+kzWC7Zce0O+p9ZkRsx6eNhLtForG3J9Ed7nwj7YWl7a5enU9xCtICKzQQJVAClzSzsZHep1YiNB1O7PPidwdmBYZdfCo/EF9Rp/rscBQ2XYx73Y3zfjJlR/D4MtmmA96oyGDgccE8pQaDVVFehqoaF8SGWPKttrQCrg8ENNH6v/+hjX3sP8J0kAMBVxLvL60gTXvK8/gySptrbW/NkvxCelZx7GgHnHWjzXTLyY26SkKG7ZzrCNWuH32kIjR9reXyyIXDEtKQwpCm2A4u+x93RKziGMWOTCHMTdywPHRBacE72rEWqfCnvEtuq7FCCX3kF+OqwE6jXwP8BJddDkifs61Z/f8txs27IIc9w==;h2kj+WiONS7f2QMW7p6BMw=="
+secured: "dGHMGHQ7jh+xpVIICrqenUrPLWV/GlNdysOZ2bLJTGgoQItk4VfGRTItJ6CB/NrpYnSZrfZGvIG0d0yX4uODL+GYCmkrC6ekoMuVwrF4LnXot7hPNEJ2Om1A5sLj0o/nNTDsjZliExKvLBDnx646bVJRt3N21QJlc1UCrTxrg7BjqAlCY2R4a/6Mf9uEi7yAiHisJMwuYqzHnhLJI+HpBLjvc7dGsM3Yp0SRld71q1/bnHrbAHdkPAxxeu2Bep2AuZS1KGlfPFDuzqhvnH5Adlvi7X0ed6+bcGvpOr2wQ1Mm0J6cj9Vq9aipUjJnTbToc2eHqB6PnkQmelCyQK1ncsMr8tzcPenl5QCcXG6AVvE3Gzumq9Bst1ezGDujs3crb1nwG3oImh7f8LdT680rof07QF6awBM9dP0F32r+Si8=;vio1QfNzIKqWtkSra5o4zA=="
 ---
 

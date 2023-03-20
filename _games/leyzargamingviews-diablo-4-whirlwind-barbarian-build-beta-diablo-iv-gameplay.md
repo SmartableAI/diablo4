@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/leyzargamingviews-diablo-4-whirlw
 type: video
 length: PT10M33S
 publishedDateTime: 2023-03-18T18:13:05Z
-heat: 379
+heat: 352
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b3pua2zLtl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Brnvharqt8lfPesVB2sHrPkNOw9vdMuUx+/e6THLdcZKIIlT3e5Boc/JTW7BxMQ5VzvEPHVAF/tqQT946SzE9zQqXzVkrjqOVfcd2btc7iZmwt4TK5mHsPfFfzFHcRa/HXs/TTJAbaMgKffzlkujlWybkxhs16WLpxUCBr+3bBUzw/xTGov+7MYms3aNbAN13bcBB7kvu7AtJj/wLwSDbSitjcNplliRp578u4+uQIK3ZQGQP13wKJ95MhcN8kv0WpeA3djI9ebHQaJ6pFXe6orJTXEdANHcHf0goH5SYXTSKe35XnTa49Bu2vQQq3Uh2KXn/CumuqqlER8BSAPMukGzAD1WyU03eUlVMMkwqEGoqo2yr/2qE+m7Vaw3FXxtNuvTrs3qbT0HetEkReWxfU3wlkCM+u0c11B3HGzZWpo=;5Nk0pWgk7WZZ6jAENoXnbw=="
+secured: "lQdZ12dDnIpEli8mMx1SQRJVFt5n2zeaeZfS/V9r84mxskSEP2Mz/hRmc7xOUySmPZs57UrZDoh5CBrTv2PkyU3UgPe1S70bsBxEDFnZ+IR/TALmM8gGXH+6wlAEJEqxKJAsRIdgNoQJ2eolt11rlK73FMLbML2gMRQWMoVBSv2PPZOijsOJANjAGVZxluUuQ7jjIiqWuuibtPY7u0tpKh/Y1US20ehKDac4bmvyHZqGtVIsfKXt+ZLMSI+NuQD0ICSt2rdcF3dEe6AtHnHYJ0pKRJNnpyxALKIVgR63JClQcbbQ7jQhrYqvDArFa7FON+jGAhurlRbeTVf9KRf7v/y+LqippWbGj7vz9YvZoSn9yas7ij6pO0hVpXo4+vpGpjfo3ROZ1SN/EC5Qc6MBmuxhUTqn3hkMIRNR5L388KE=;yzvp1U2Md2JBHbeQUPqVGg=="
 ---
 
