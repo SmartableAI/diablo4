@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/pupsker-diablo-iv-early-access-be
 type: video
 length: PT6H19M28S
 publishedDateTime: 2023-03-18T15:44:53Z
-heat: 211
+heat: 137
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PNEVTufC8vU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ZWL96VaDjJgI+VYm4iCh7IU54Y+TNy9/qHryWfB6B3byLyIDmVzFEUQhk/tFiS/pW3ROjz/UZXXLTGiQ2mqecEQx6xyeL8H7jV0d677DcZ0dPjt9vHJgGAbhKzwJXST/Uk+B83uGg6ieQcoX2eXUDlHTZcnd+4m7smA/DjT8KfBfVG262+Yt2ji5D+Y0TSxnMq+lMLxW5FH2jzFQruPhmXXuSzoh62Ej9LsoHOf3CoB1bffgJwnur/WY6yhR+goYZIGOIWI6MNL4pGNJURcnErieywwQjvAZT6RMKJZ2XZ8bZZ4XgUTtHm0JtA2RAgkncniCSIFW+HTqA45zOrWJVG5K+tSPLLm2N5eI0rpWlx1RWQVQVvkqK62kn4pCsf76M82Yweaw6SPhG8kfIM1NTL/tFe93wtnieDXyYYp+jco=;2pndPupcixzaGf4IDqTTlw=="
+secured: "IEaj3xfvjq4eOeDUK6bzzz53ZsP/sATgjJtLHqOdzPX6KgdsF4EKL/5ICJiUNsgXjv6+o3Jl60YZ/vylsfBscY9+3fgPalmiiBVVe65TYcIqP/aUHN32LJbhNuo8gKkPQM/vW6AiwoKDGlbF+fEleV9u5m5j/+S/4R0DPyyG1FHPMDaslCkP1UP8Riimiby4oFXFMbFSK4FiDvZhaeitQlIcFACOSY3oEpV1VSfkKx1uVodYUXQs9kuE1yTD1Ac02kCFqG3faEJNuuJH6I2MfbKFEriquLoCiuj8oR3hlvK7wKzdJDX5xJclONbtQsJyvm1Qme5JLlYFDTC8h9zHJkCRCPgR5urSnELngmTST7MXG198AEslgVBpDR2HfCH+OghirHmKLPKqIpnTI7doeaRNBb1wqOrYd68ArFA1aLo=;OD89+uWb+jrIF7tgUj+sww=="
 ---
 
