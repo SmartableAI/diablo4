@@ -1,30 +1,43 @@
 ---
 category: news
-title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
-excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-publishedDateTime: 2023-03-18T20:26:00Z
-originalUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
-webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+title: "Diablo 4 Beta: Best Rogue Build"
+excerpt: "With only a handful of skills able to be unlocked in the beta period, it's still possible to have an overpowered rogue in Diablo 4."
+publishedDateTime: 2023-03-20T02:13:20Z
+originalUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
+webUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
 type: article
-quality: 104
-heat: 184
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Game Rant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
-  - Barbarian
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-18T20:26:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 Beta: Best Barbarian Build"
     excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
     publishedDateTime: 2023-03-19T21:42:39Z
@@ -67,21 +80,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Beta: Best Rogue Build"
-    excerpt: "With only a handful of skills able to be unlocked in the beta period, it's still possible to have an overpowered rogue in Diablo 4."
-    publishedDateTime: 2023-03-20T02:13:20Z
-    webUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
-    type: article
-    provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "DwkDTxOa5M27nl7EnTgO2soKPXAOPD3Uegb0jVNaxqYunLuUUNa0/Aen0BtQXFNN81P36kwljKvhIMLIikUQldAt8i1ifNBwGRTowhfJ9nTlaj2yXYk8um6/HrWx4GAaHNayhs3QhihSH6F7iHgyKYBZpnkOojO5YPlUooDm15ujlAvL+JNd4nY0ZrmrnhmoLDAl8YjeNEpvQpXBl6qIQifV2RkZh3b8d4PnbpJrBjkUm4/uMVv96xwbRda3RpZz8eyRBkeSb5o4tLXzUybWtdeBiINTinO2CASsptgBsbHA9eg3wFqq/dbFotDiA3rY/acnSuL+X2dJQWW9sz9XS7BXRcHOwAm1rA0UTZV3LBg=;lO66Y06B1Ki4K4Z4I2BbSg=="
+secured: "rZwPz1lx9yPEVh893tVlW50IftiznRraVSk5Ge2Rd2Ua5q8ygFYVY8yV7LjQjiwU1OddGt7ik4ljQo7MOdtn9SYfc+23zQLED5e9mFGdpnuecRufJnh7WzojFRG/xjEpbpy/Vife5b7jJiiqEUx6G9NdzniCyI+3MtIqVzNXO+ne0VQX2PXDucLFUOaCWn8ImcshPg1e/2ZKegDIpPvIRUON/u33yAYOvwaYUc8FHHXM9Ufcxtg830iZ0w5j/1IUsY05U0IJKs7AjfvRmHBAyxESxnAGC2BYqJjfqy9VgHJSUJUq1F0I1lE9mQwkaBp5gCyA9KlTq3VLFqdNVQlJoLeXcUzRRf7vLheKCvY3XQ4=;3bG4JYQwwpWl81qo5KtTuA=="
 ---
 
