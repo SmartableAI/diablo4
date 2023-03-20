@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-update-queue-tim
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-update-queue-times-xbox-playstation/"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 568
     height: 320
     isCached: true
+
+related:
+  - title: "Diablo 4 patch addresses the beta's biggest problem"
+    excerpt: "Diablo 4’s early access beta test has been overshadowed by technical issues, to which Blizzard has responded with an important hotfix. Long queues and server instability aren’t the only issues that ..."
+    publishedDateTime: 2023-03-20T07:12:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-patch-addresses-the-betas-biggest-problem"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C2B2c2Nso3wMvJhZWELFhB-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8sYEZR8gUSiGIjNP/VIHe+vpAk/fvq77VFo7hBt+IjY2SvPmL2vLydIo8Tw9h9LM5HiRSw6QH4Wb6YGvJcVnlWq9ikIrUWMp6bcM0UjIbqC5Eip6Fby8Z4QMkmPmpTQH03SSgPHqjhFjZ6MZ1OPbsL1GFa6OPbzCpfrDSzF7Q/xa+5Kr3HRSiIFaB4Z9EfF/K43kt9K37sxRf9+G43agFjAMDI9lULCxJLF3LCahGN/8Gui66mAoqL8kgi2Nl00wuY0O9hhNsJhEExQx/FQ2S5UyoeMkU8n00g/uiB43X5BXPrZCQ574bWWcenw88EUrhjzHSaFRc76Kpd6N6ictNV4qm/87U73VdpebCzN85X4=;eXb2EbUWAHDhOPpZZ8h5Rg=="
 ---

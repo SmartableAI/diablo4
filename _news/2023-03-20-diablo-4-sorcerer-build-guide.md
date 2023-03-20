@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Diablo 4 - Sorcerer Enchantment Guide"
-excerpt: "The Diablo 4 Sorcerer Enchantment slots are unlocked at levels 15 and 30. As of now, we're not sure about the requirement for the level 30 slot given that the beta caps characters up to level 25 only."
-publishedDateTime: 2023-03-18T21:17:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
+title: "Diablo 4 - Sorcerer Build Guide"
+excerpt: "The Diablo 4 Sorcerer leveling build focuses primarily on area-of-effect (AoE) due to countless enemy mobs that you have to eliminate. Moreover, since we're still at the game's beta stage, character's ..."
+publishedDateTime: 2023-03-20T05:29:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
 type: article
 quality: 147
 heat: -1
@@ -24,7 +24,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114521-diablo4sorcererenchantmentguide-sorcererbestenchantment-.jpg"
+  - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114514-diablo4sorcererlevelingbuildguidebeta-.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -46,19 +46,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 - Sorcerer Build Guide"
-    excerpt: "The Diablo 4 Sorcerer leveling build focuses primarily on area-of-effect (AoE) due to countless enemy mobs that you have to eliminate. Moreover, since we're still at the game's beta stage, character's ..."
-    publishedDateTime: 2023-03-20T05:29:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-sorcerer-build-guide-leveling-beta/1100-6512478/"
+  - title: "Diablo 4 - Sorcerer Enchantment Guide"
+    excerpt: "The Diablo 4 Sorcerer Enchantment slots are unlocked at levels 15 and 30. As of now, we're not sure about the requirement for the level 30 slot given that the beta caps characters up to level 25 only."
+    publishedDateTime: 2023-03-18T21:17:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-sorcerer-enchantment-guide/1100-6512479/"
     type: article
     provider:
       name: GameSpot
       domain: gamespot.com
     quality: 147
     images:
-      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114514-diablo4sorcererlevelingbuildguidebeta-.jpg"
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114521-diablo4sorcererenchantmentguide-sorcererbestenchantment-.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -77,6 +77,6 @@ related:
         height: 900
         isCached: true
 
-secured: "LPK7u4QcarTkRjpIRKbl8AAMnG9vTFLnCSKq5AMtp0UtPdA5KrzgAlUETzhoCYMJwa6QSRmds6VLOYRVFv1BEF57REl7acnz7JBaXgQCJyZ8sXDz33mQPq4zRhqQ+FTR6ue6g0Z//HkZc6Ct/8yAhZ9NadByZzvD8iNf+3gSF4ZewFnxlY24LhU8D56FrQt+4/ux/AioCNgMsk6x81U0a98eqgZ3EqUXRNi9SPbseJlwT0ZaWXhSo8IoyFd3u+Sv3EINBCIsQXIIe4iD00b87Vbup0mUReF8e2EfHuTLw5KDdvCV6Q6QKk9KtDCUdUTVQO/dmQ9rRrKurmvS/QGjsFKbZl+mxWA0kOmUBxtlp+k=;eW+bzHe2LMVKzJW3m9jqFw=="
+secured: "1hWJ/52Vk9EAqXWrfYOU/t2X0J2vcAFCY1qXXqtl30U//R4B1oGEMRkWFZzQDtQRlxd6CIFEki8kRnwmqV6ugFY3PkzcVfqB5Og8niWb/nETAIqR+cdFZU/AZHzD6KkYdzw2UOo4SQas5DUs0Nza6GFJfx5QhH8kr8c7nwslkc0oRL65yl8IQRLSO4fJucHoMb1frP2AWyYxgmXdj02Oo80lMjebnw/bNnHQoCAv8mPRtEBLHGDdNP/wOEpUQkjvtvCqrJvCZv8X2BRj/DqXT31dadCREygQTssA9mh00LgHKV9hkyFJkVTRCJHKF7cWtyyMnKGbikvO1w6U3Q2b+ye5FwJ3YWldIgWfancEQaY=;zTxsYeOBVvJk1RoyfnTTCQ=="
 ---
 
