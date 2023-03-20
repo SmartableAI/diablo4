@@ -2,6 +2,90 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-08-blizzard-battling-diablo-4-leaks.md",
+      "title": "Blizzard battling Diablo 4 leaks",
+      "excerpt": "Blizzard is attempting to scrub the internet of Diablo 4 leaked footage and screenshots, which were posted over the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-blizzard-battling-diablo-4-leaks/index.json",
+      "webUrl": "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks",
+      "originalUrl": "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-diablo-4-alpha-footage-has-leaked-with-a-quick-look-at-the-character-creator.md",
+      "title": "Diablo 4 alpha footage has leaked with a quick look at the character creator",
+      "excerpt": "Despite being meant only for trusted friends and family, footage of the Diablo 4 alpha has leaked online anyway - if only briefly.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-diablo-4-alpha-footage-has-leaked-with-a-quick-look-at-the-character-creator/index.json",
+      "webUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
+          "width": 600,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/",
+      "publishedDateTime": "2022-08-07T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions.md",
       "title": "Diablo 4 beta leaks spark smart loot and trading discussions",
       "excerpt": "While the first Diablo 4 beta leaks may not be indicative of the final product, they have spawned conversations around smart loot and trading in the RPG game ...",
@@ -982,90 +1066,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions.md",
-      "title": "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\"",
-      "excerpt": "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/15/news/1655246076_110120_1655246244_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html",
-      "publishedDateTime": "2022-06-14T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4.md",
-      "title": "Asmongold explains why he’s worried about Diablo 4",
-      "excerpt": "Twitch streamer Asmongold has voiced concerns for Diablo 4 citing issues with D3 and Diablo Immortal for the lack of hype.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
-      "originalUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-asmongold-critic-immortal-blizzard.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
-      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
-      "publishedDateTime": "2022-06-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
         "images": null,
         "publishers": null,
         "authors": null
