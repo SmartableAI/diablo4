@@ -2,6 +2,7 @@
 title: "Diablo 4 Legendary Farming MAX Level Gameplay Dungeons & Bosses! Multiplayer Sorcerer & Barbarian"
 excerpt: "Today we're farming for legendary loot and gear on sorcerer and barbarian in co-op multiplayer so we can as powerful as ..."
 originalUrl: https://youtube.com/watch?v=zkLcczJseW4
+webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-legendary-farming-max-level-gameplay-dungeons-bosses-multiplayer-sorcerer-barbarian/
 type: video
 length: PT4H11M12S
 publishedDateTime: 2023-03-20T16:48:10Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "WXECckbkynB9UFIloFWHFvWMEsFwhFzcyakquPSy4wSBZa9+ZCpSqLFzkVbVucjDr0wtMwtJPh4ZbAq+sRFp8+jYrK31RqOn2MgdhHxj81c3e9kqAIQInY1dDYJ1KX5ogdxTl4AcaKP94XRp3BMld45VKkie/0cQ0hfOZSYwb56BvaOsMIlvCD4SiyB72Et9WavyXB62OTU8jpNEsi/G77py7q9XhQglLhilKhy6JAD+4uEz2lhJt1Cbrqi7Uzb5CfcGfARd5QWmAKdVoaRU6DOxJxDPHdLfEmF0DoXVmLFUNJgzkPA501WpecxuPSl6eBmbIArii4kh5yk7/kpEmfu1b5Wl6cX/X+tjOZSLXtt2lyf/cB6nBl3eK3VKrZEPQSzYxSTjfbJh3T3GlO9/aA==;pnaGuxU+QRbvRNe5ZJUIIw=="
+secured: "j/HxsR3MhXibiEiTTinmLsbg1pptsJyftA6Lhdc2kSaC2EIwuPzJxioiMSBKybj+kowwKrGGBUp3K27QJDzD6d1tAsHu8LDITHKy03+m1uLqDOifyz2w1ZhRcU480YOmnYwh3jzwmOiy6pPocSpL5av3MQYsLRG/LAsNQqt7L/K0/fzwuVJE6Y66SxH5LvYHyQOSB8TnHMqRAPTil0lJCIe5lLsuxEYf8y0Fswk1Hc2AvwqkZMgf434wHAdr7MLJoeVM9kg5nHmfY6qNTjAb9K/Ua5N9+zB58MbBQybwFgAbXSpVByEWDSuqLPsBPiJBviuZCj00xXtJrt/eXAM5t4zbmB1Rc1EfqiVXbK4Lh7mbiwjX32uE7jC9+LEhev0onYqL8QBDbu7NlguWhWpZ0Q==;YoidzK6m1wrXT0Ve5N3oig=="
 ---
 
