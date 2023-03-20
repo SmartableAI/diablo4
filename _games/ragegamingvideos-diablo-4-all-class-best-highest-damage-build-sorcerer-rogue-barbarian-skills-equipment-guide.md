@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-all-cla
 type: video
 length: PT14M35S
 publishedDateTime: 2023-03-19T01:00:28Z
-heat: 304
+heat: 461
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wlaSDLYWwbc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "oMfcZ6DTCsRFSm++cIC2RYos0FAwRVqdIoAYki+B0iJ1BAg0QwqpZCzBOqccokhQZk53I3QK1yDjDK7LQNo2t6s54fnaqcyea04HUdctNjm+uoZYJIQlggesBj0y3demY3kPSQnRj1okZurwdxa+51Db1ArYuJlqxn2mT4e9uQkk92rHXxlAVky/Bx/EnlfmCJ+qR0djfRmdhESEjffTV3i7WfFiFEWiU1r/m0WAlW5tg6IG17fgHvXWcz1lZNBHxiQar/viynG7EyHYW8zJzu/wgApiFPDulH1RvcfMlN4DaUJ64D2HiLe5T49+eRVg16gLklo43IPPyUd8z+XvIDyo2Fee5+P7bnmanGxpBPd1xiUpoLbczXWc6b/tdlLuC7mGRXOIqOwCpdGm+6gY6A==;ZcejFSMQXp/clFcwfehg5Q=="
+secured: "pZVucgW6RhwJbPYNNg66/CZL63LgWKDRLoIa1LnfVwFQe9eTF6BvZKckgsKQ9j42iTdKOLjfN09yiK6kX5n9lzOK1mXrThG78ANTw+CJIZ1Pg+DzLkBoSDwVnvYKN/PDTbeKg0rb5xHbnyxTdEMVpKSRWSm2GqHZRfzmjkLUkjRRXbIiphvKq6I3nMN1gnHLz8bDhb2tc0DtBkjh+9aSLmSl3LMn9XJcuAxsPdJL6249pBJCpnivzvvR4bom6FBVHZgpkYokKc7M8l0fRHAPUkB3TgsuNq7r724ZyqP16CZgQkY/yFvZLnryHTNnTWbu8CAILkf+tLN+Th8Eg0KJlccesLPSToTGJ8gJN2xAHGnwvNV3ECDR3jAnXeMESotUv0EOdG59+1WvOMIc2J0Hxn+wSbRfcxv9X2EPjBF2YJY=;w/Y/K+6gOQ1kG+YVmwJ40g=="
 ---
 
