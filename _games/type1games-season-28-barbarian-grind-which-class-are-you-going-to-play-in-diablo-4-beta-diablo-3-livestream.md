@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/type1games-season-28-barbarian-gr
 type: video
 length: PT7H25M20S
 publishedDateTime: 2023-03-14T04:20:23Z
-heat: 131
+heat: 106
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6EgA6zRr9eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

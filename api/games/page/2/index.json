@@ -334,6 +334,36 @@
       "publishedDateTime": "2023-03-12T11:06:28-07:00"
     },
     {
+      "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
+      "title": "Diablo 4 Sorceress ч2. (Enchantment механика/первичный разбор ветки талантов фрост билда)",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mlge-the-mage-diablo-4-sorceress-2-enchantment-/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/mlge-the-mage-diablo-4-sorceress-2-enchantment-/",
+      "originalUrl": "https://youtube.com/watch?v=PxPbGyrIH5U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PxPbGyrIH5U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M19S",
+      "provider": {
+        "name": "Mlge the Mage",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 160,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-15T00:51:43-08:00"
+    },
+    {
       "path": "_games/vulkan-diablo-4-barbarian-overview-is-this-class-for-you-gameplay-skills-traits.md",
       "title": "Diablo 4 Barbarian Overview: Is This Class For You? (Gameplay, Skills, Traits)",
       "excerpt": "As a returning staple to the Diablo franchise, the Barbarian is the poster child of overwhelming strength, brutality, and weapon ...",
@@ -392,6 +422,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:54:19-07:00"
+    },
+    {
+      "path": "_games/blind-witch-overpowering-diablo-4-open-beta-level-25-sorceress-build-guide.md",
+      "title": "Overpowering Diablo 4 Open Beta: Level 25 Sorceress Build Guide",
+      "excerpt": "Diablo IV. Diablo 4. Sorceress. Beta. Lvl 25. Build can be found here: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/blind-witch-overpowering-diablo-4-open-beta-level-25-sorceress-build-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/blind-witch-overpowering-diablo-4-open-beta-level-25-sorceress-build-guide/",
+      "originalUrl": "https://youtube.com/watch?v=VqinfkIp7gc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VqinfkIp7gc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M39S",
+      "provider": {
+        "name": "blind Witch",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-12T13:56:03-07:00"
     },
     {
       "path": "_games/the-comeback-kids-diablo-4-barbarian-is-insane.md",
@@ -514,23 +574,23 @@
       "publishedDateTime": "2023-03-17T06:35:41-07:00"
     },
     {
-      "path": "_games/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream.md",
-      "title": "SEASON 28 BARBARIAN GRIND - WHICH CLASS ARE YOU GOING TO PLAY IN DIABLO 4 BETA? DIABLO 3 LIVESTREAM",
-      "excerpt": "Hi guys, This time we are going to stream some Diablo 3 before the start of Diablo 4 open beta (starting 24-26 of March. 17-19 of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream/",
-      "originalUrl": "https://youtube.com/watch?v=6EgA6zRr9eo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6EgA6zRr9eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7H25M20S",
+      "path": "_games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds.md",
+      "title": "Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds!",
+      "excerpt": "Our First Version Of The Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds. I Will Be Updated With Open Beta Access ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/",
+      "originalUrl": "https://youtube.com/watch?v=2XodvjJVSEY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XodvjJVSEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M21S",
       "provider": {
-        "name": "TYPE1GAMES",
+        "name": "Mattjestic MultiGaming",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Barbarian"
+        "Druid"
       ],
-      "heat": 131,
+      "heat": 129,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -541,7 +601,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-13T21:20:23-07:00"
+      "publishedDateTime": "2023-03-12T17:51:27-07:00"
     },
     {
       "path": "_games/rams-play-diablo-iv-druid-gameplay-no-commentary.md",
@@ -574,23 +634,23 @@
       "publishedDateTime": "2021-01-26T03:13:29-08:00"
     },
     {
-      "path": "_games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds.md",
-      "title": "Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds!",
-      "excerpt": "Our First Version Of The Diablo 4 Druid: Highest DPS Shapeshift Werewolf Builds. I Will Be Updated With Open Beta Access ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/mattjestic-multigaming-diablo-4-druid-highest-dps-shapeshift-werewolf-builds/",
-      "originalUrl": "https://youtube.com/watch?v=2XodvjJVSEY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2XodvjJVSEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M21S",
+      "path": "_games/oyunlog-diablo-4-frost-sorceress-nostrava-stronghold-gameplay.md",
+      "title": "Diablo 4 Frost Sorceress - Nostrava Stronghold Gameplay",
+      "excerpt": "Diablo 4 Frost Sorceress - Nostrava Stronghold Gameplay (60FPS) Diablo IV gameplay with the sorceress class (frost build), ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/oyunlog-diablo-4-frost-sorceress-nostrava-stronghold-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/oyunlog-diablo-4-frost-sorceress-nostrava-stronghold-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=oyKaJPYN4N8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oyKaJPYN4N8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
       "provider": {
-        "name": "Mattjestic MultiGaming",
+        "name": "OyunLog",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
-        "Druid"
+        "Sorceress"
       ],
-      "heat": 120,
+      "heat": 124,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -601,37 +661,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-12T17:51:27-07:00"
-    },
-    {
-      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
-      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
-      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
-      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M40S",
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T08:00:36-08:00"
+      "publishedDateTime": "2023-03-13T09:48:00-07:00"
     },
     {
       "path": "_games/beefguyty-diablo-4-druid-earth-spike-ability.md",
@@ -754,6 +784,36 @@
       "publishedDateTime": "2023-03-14T09:00:11-07:00"
     },
     {
+      "path": "_games/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream.md",
+      "title": "SEASON 28 BARBARIAN GRIND - WHICH CLASS ARE YOU GOING TO PLAY IN DIABLO 4 BETA? DIABLO 3 LIVESTREAM",
+      "excerpt": "Hi guys, This time we are going to stream some Diablo 3 before the start of Diablo 4 open beta (starting 24-26 of March. 17-19 of ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/type1games-season-28-barbarian-grind-which-class-are-you-going-to-play-in-diablo-4-beta-diablo-3-livestream/",
+      "originalUrl": "https://youtube.com/watch?v=6EgA6zRr9eo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6EgA6zRr9eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7H25M20S",
+      "provider": {
+        "name": "TYPE1GAMES",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 106,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-13T21:20:23-07:00"
+    },
+    {
       "path": "_games/arekkz-gaming-diablo-4-character-creation-and-customization-options-barbarian-mage.md",
       "title": "Diablo 4 Character Creation and Customization Options - Barbarian & Mage",
       "excerpt": "Here's a look at some of the character creation and customization options in Diablo 4 for the Barbarian and the Mage. Diablo IV ...",
@@ -843,66 +903,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-15T08:21:16-07:00"
-    },
-    {
-      "path": "_games/blitz-gaming-diablo-4-16-minutes-exclusive-barbarian-demo-gameplay-4k-60fps.md",
-      "title": "Diablo 4 - 16 Minutes Exclusive Barbarian Demo Gameplay [4K 60FPS]",
-      "excerpt": "Diablo IV is an upcoming dungeon crawler action role-playing game developed and published by Blizzard Entertainment, the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/blitz-gaming-diablo-4-16-minutes-exclusive-barbarian-demo-gameplay-4k-60fps/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/blitz-gaming-diablo-4-16-minutes-exclusive-barbarian-demo-gameplay-4k-60fps/",
-      "originalUrl": "https://youtube.com/watch?v=GRtRMU9b6_c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GRtRMU9b6_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M9S",
-      "provider": {
-        "name": "Blitz Gaming",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 102,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-15T15:05:43-07:00"
-    },
-    {
-      "path": "_games/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr.md",
-      "title": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay (4K 60FPS HDR)",
-      "excerpt": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/",
-      "originalUrl": "https://youtube.com/watch?v=h_G0_G-LRmk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h_G0_G-LRmk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
-      "provider": {
-        "name": "GameV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T04:52:56-07:00"
     }
   ],
   "nextPage": 3
