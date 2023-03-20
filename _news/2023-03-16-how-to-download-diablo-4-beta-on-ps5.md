@@ -24,20 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta download size – how much space do I need for the beta?"
-    excerpt: "With the upcoming Diablo 4 beta weekend, eager fans are downloading the client now in the hope of being able to play as soon as the gates of the RPG open up. Traditionally, Diablo games have been on ..."
-    publishedDateTime: 2023-03-16T07:27:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-beta-preload-size/"
+  - title: "How to Download Diablo 4 Beta on PS5 and PS4"
+    excerpt: "Eager players will want to work out how to download the Diablo 4 beta on PS5 and PS4 ahead of the early access beta and open beta. Thankfully, it’s not too difficult, but it’s easy to get stuck."
+    publishedDateTime: 2023-03-16T09:16:00Z
+    webUrl: "https://www.yahoo.com/entertainment/download-diablo-4-beta-ps5-160559052.html"
+    ampWebUrl: "https://www.yahoo.com/amphtml/entertainment/download-diablo-4-beta-ps5-160559052.html"
+    cdnAmpWebUrl: "https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/download-diablo-4-beta-ps5-160559052.html"
     type: article
     provider:
-      name: VideoGamer.com
-      domain: videogamer.com
+      name: Yahoo
+      domain: yahoo.com
     quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betadownloadscreen.jpg"
-        width: 1200
-        height: 1080
-        isCached: true
 
 secured: "VaHnOHagcca3+J9p+n6R5TLVoEYgpzFuaaa9YltZIIF4OMDIsKup2eTmDgOidAPtyJTf8qUdqu6vVqUVUsTS9BOuoPtguyIeY/fyE2fwnomP2P8WKbT3yVCi2yYy4RJCiSgFEJ0Yv+UaVAnPEYWansENh+l2k6hcsqFcGTiXb6YIE6k3Uq9l6vN7kWRJvTNb1ABJN1eZ30jk5LY53PpvanoYcAbTJs6rgx1KbzrpQS20MS1/cFX0tiODlhQ/oWFLwLvcixTJP7dxwRpeyCgu/eIQiPfUZJx96SMCQjsDmtQUX9B2AWLAZ0vThJsncezrJczBtnnWyeaw7Vhk38rrzR4O81In0zJcRCvVSyBycwY=;NP9oLdqcawjhUgc2iL2wvw=="
 ---

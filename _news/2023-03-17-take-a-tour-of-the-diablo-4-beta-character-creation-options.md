@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-character-creation/"
 webUrl: "https://www.pcgamer.com/diablo-4-character-creation/"
 type: article
 quality: 127
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18xKVq.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=471&y=202"
         width: 600
         height: 315
+        isCached: true
+  - title: "Fan Shares Impressive Kratos Character Creation in Diablo 4’s Beta"
+    excerpt: "The Diablo 4 Early Access Beta dropped on March 17, giving fans of Blizzard’s action RPG their first chance to get hands-on experience with the upcoming installment. While players strive to get to ..."
+    publishedDateTime: 2023-03-20T05:08:00Z
+    webUrl: "https://twinfinite.net/2023/03/fan-shares-impressive-kratos-character-creation-in-diablo-4s-beta/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/03/Kratos-God-Of-War-Diablo-4.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "rmuB63XOJ2Sl92doEu0NN3pltUDiFn7LOWj6MIiogP+ozZ/brsi9Cx6fSF2mcIOpNKtAttpUXA0pfrorxlBBoKnkMCVWCx96GTkCsR/cPkZV3HNpDOP468wgT/BIb9u3TYgPqVnVwEEYM65QIJaHlenRY2v5+08aOPnsvDdjSUQPss1HoqkG8ch4u1AU9b3+BvVO0Y2PdiidkRTDIK20i2+38bz5ybjOEgSJ/7ESdnP1jxRRHh4UJ92DdD78aQtCuEZ1052inNkRUzHEazMPnMixANrrEO2/VA1Y2VUJ83odIhha1tkRRJMZvG7K00/iLYMbAjflI+4qnfyV5DBqUwYSBl6vtg0UBpCTU4PqRVM=;ReDFY+ofR/g0+cxwzl0I3A=="

@@ -38,6 +38,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Asmongold gives his verdict on Diablo 4 from the beta: “It’s not changing my life”"
+    excerpt: "The Diablo 4 beta finally gave players the chance to delve into the new ARPG and popular Twitch Streamer, Asmongold, has given his early impressions of the latest game."
+    publishedDateTime: 2023-03-20T04:09:00Z
+    webUrl: "https://www.dexerto.com/diablo/asmongold-gives-his-verdict-on-diablo-4-from-the-beta-its-not-changing-my-life-2090779/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 81
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/20/Asmongold-Diablo-4-beta.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "JHdpoi8JpEqi3Oqrt3p3gP3yeDuVxhtpR31LF+L8+uwNe34u80tmqQ1htJTlf6ZoYK0hVoKHCbTNeUcxhwcxXYP8hL78xZ02KlDj/LSUNJoNYYiAQm4J56kjgPtnDIt+D/8ulS4pYcG8VMhm+S2ssa66tGSvejz0tFSLdxpiWKkUiRBmYk/mz6WsWKmjeShxgZfDC6dc5hnIzs2UeJ2PcMDgOedfPcBuBwXBUO3kdWNDIxjxOahEXAi3omL4vvYz8LYeEwQNKY78NNvvYv/GYCm+gzb0VOY7LZch1pVgY7ZJBU6c+HwF4g97a6RlDDH+Hdfk/oAEmRHKQDJVH07sxaUmGIdV2VYnT3Fq5QVIECI=;zY3f60sENL1ozZbXZe95tA=="
 ---

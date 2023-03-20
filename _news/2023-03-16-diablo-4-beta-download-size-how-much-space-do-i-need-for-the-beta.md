@@ -7,8 +7,8 @@ originalUrl: "https://www.videogamer.com/news/diablo-4-beta-preload-size/"
 webUrl: "https://www.videogamer.com/news/diablo-4-beta-preload-size/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VideoGamer.com
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How to download Diablo 4 beta on PS5"
-    excerpt: "Are you hyped for Diablo 4? I know I am, and everyone that has already pre-ordered it will be able to get their hands on it Friday, March 17.Even if you don't plan on pre-ordering it, you'll still be ..."
-    publishedDateTime: 2023-03-16T08:16:48Z
-    webUrl: "https://www.msn.com/en-us/news/technology/how-to-download-diablo-4-beta-on-ps5/ar-AA18IGLK"
+  - title: "So, What Was Bad About The ‘Diablo 4’ Beta?"
+    excerpt: "There seems to be some sort of bad memory leak issue in certain instances that can really become problematic in time, if not kill the game outright. On top of that, even without running out of memory ..."
+    publishedDateTime: 2023-03-20T05:21:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/amp/"
     type: article
     provider:
-      name: Laptop Mag on MSN
-      domain: msn.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 107
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18IGLH.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=353&y=179"
-        width: 600
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6416686c3560f7351e7ffb6e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ftHHp8yxmvfRc8gsCnEZq5UnsMHyx8psehTIr91OQmBXitJa9Ns6/S8qcVzl3zpuLXvuxJzH/U8UTyumPQBJM6/Woqd8JXcc9fVUEkxZ+Ordjx+X9XCN5jL+ObUTHzzj2ALMGMQTfxadmvJIpVYY6g4n0HWDstDzNRKk8/RDglStk+Q6s6GURQXggmtes9Y8nRr8T9U6H/IULNOZLGFGZTfga6aqprQDO2WXkpuDSWix8yf/TQdyW1mTV1QXUFF8Mg5egJFPTohqBolaWUYIO/njgRHuMRE0c9TAMOY1y5ptMzAOFCEF6oaY0GIiaINQlWA/XrlHMDdNT4QaQQ6VLONZxpV5MGsOz40E9QOa8ig=;s627xpIrVT4u3fBrfOxndg=="

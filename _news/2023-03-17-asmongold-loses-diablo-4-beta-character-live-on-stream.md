@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/asmongold-loses-diablo-4-beta-character/"
 webUrl: "https://gamerant.com/asmongold-loses-diablo-4-beta-character/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PAMd.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=417&y=209"
         width: 600
         height: 315
+        isCached: true
+  - title: "Asmongold gives his verdict on Diablo 4 from the beta: “It’s not changing my life”"
+    excerpt: "The Diablo 4 beta finally gave players the chance to delve into the new ARPG and popular Twitch Streamer, Asmongold, has given his early impressions of the latest game."
+    publishedDateTime: 2023-03-20T04:09:00Z
+    webUrl: "https://www.dexerto.com/diablo/asmongold-gives-his-verdict-on-diablo-4-from-the-beta-its-not-changing-my-life-2090779/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 81
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/20/Asmongold-Diablo-4-beta.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "vCeQxpHFauAJAXhn3VXCApHFIKDAiqXcGQtsu8aFvBsgsJ/jSmAQUt5oXBmHkeKsQPgfwBV7uMNpUt1cK98Mur/epm3m1W3GHdFKOcWYa3vQUOxFP/d1KakN2tjTG4enrKgAGMATif7tCkTdAnMsgyoke/e/f64IdqTwBv+z2rzeD4oMn9+bKPQ+u2cCCE+GZOgXrXFsZutmQWpA09URFYBskNFnRChJk3+lkhwvnZ9c7RyO+9mQ10CKysUDyE1ws1n/Uua+LjXjmotjBRGrcN3hkXjNEI+XoDHX1u58pAkSxr524E9FiRRNKi/tE/nEpfi67Q8H87OtpaYKM5Yb9bxgDYERl3jqwynNLszS5+M=;0Mjgun5f87/ArCd1o9pKrQ=="

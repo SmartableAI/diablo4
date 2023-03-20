@@ -52,6 +52,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Fan Shares Impressive Kratos Character Creation in Diablo 4’s Beta"
+    excerpt: "The Diablo 4 Early Access Beta dropped on March 17, giving fans of Blizzard’s action RPG their first chance to get hands-on experience with the upcoming installment. While players strive to get to ..."
+    publishedDateTime: 2023-03-20T05:08:00Z
+    webUrl: "https://twinfinite.net/2023/03/fan-shares-impressive-kratos-character-creation-in-diablo-4s-beta/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/03/Kratos-God-Of-War-Diablo-4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2WTTM7MG5VrUCxGaTlAtwIJ4MxUdIAzxyCZTIH9DIkr25VNXWM3t8AE3vP8lbfGq3M3YhU5F8jXGTa6IVN95uW4AFtmP7ZtBIJxnwWjM17jvSScTC4xtajW6rTBK6Bcq8jUMWW2eIgbwHAkbEk7HWn527xx+ulM+E86+UqKP7GqP5ub8kTfbG7uO3fHvR2/sEj1JbvoiLMHOtdYfENhW9AoidfgXTy4ZbC3PvWZaIF+vldxr3YP2UKxz7i84g/5yMFAWZbN2kT7I4tmg7n6N1+j/gx+mEMCZkNSWbHufD7Q32OZ8pRCfGveg2sTdK6jr15920tN3cJpp5b1bIi06ikLs311S7yMKqHjDBNhQ6QM=;ddTXybB6yVT6MWAFlcC5BA=="
 ---

@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-04-diablo-4-report-shares-promising-development-update.md",
+      "title": "Diablo 4 Report Shares Promising Development Update",
+      "excerpt": "According to Bloomberg reporter Jason Schreier, Diablo 4 has recently entered a \"friends-and-family\" phase of testing. Essentially, this means that people outside of Blizzard who are tied to the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-04-diablo-4-report-shares-promising-development-update/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/06/01/0b6fca04-3b79-4cea-bbe2-0727f3c19279/pokemon-scarlet-violet.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
+      "publishedDateTime": "2022-08-04T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway.md",
       "title": "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway",
       "excerpt": "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ...",
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "NME",
         "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4.md",
-      "title": "Blizzard Confirms Less Microtransactions In 'Diablo 4'",
-      "excerpt": "A Blizzard executive has promised a more traditional approach to post-launch monetization for \"Diablo 4\" following the community's overwhelmingly negative reaction to \"Diablo Immortal's\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4/index.json",
-      "webUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214",
-      "originalUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/01/diablo-4s-rogue-class-uses-ranged-bow-shots-lightning-fast-dagger-attacks-eviscerate.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1",
-      "publishedDateTime": "2022-06-13T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
