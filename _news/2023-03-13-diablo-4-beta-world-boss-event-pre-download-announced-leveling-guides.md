@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Beta Download Date and World Boss Spawns Announced"
-    excerpt: "Diablo4 #download #worldboss #Maxroll #Blizzard Blog Post: ..."
-    publishedDateTime: 2023-03-13T19:46:46Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Raxxanterax
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "World boss Ashava spawn times and location in the Diablo 4 beta"
-    excerpt: "Diablo 4's first world boss, Ashava, is one of the main challenges available during the two Diablo 4 betas this month. Unlike dungeons and quests, world bosses wait for no slayer. Ashava has three ..."
-    publishedDateTime: 2023-03-18T07:45:00Z
-    webUrl: "https://www.pcgamer.com/diablo-4-ashava-spawn-time/"
+  - title: "Diablo 4 World Events Guide"
+    excerpt: "The Diablo 4 World Events appear as bright orange circles on your minimap (to differentiate them from main quests and sidequests). Upon reaching the area, the type of task and requirement will appear."
+    publishedDateTime: 2023-03-20T12:43:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-world-events-guide/1100-6512477/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-world-events-guide/1100-6512477/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-world-events-guide/1100-6512477/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 127
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9XCK965ug8W6UVN5uDHXMH-1200-80.jpg"
-        width: 1200
-        height: 674
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114512-diablo4worldeventsguide-.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "THszdm6qLEn9xsQ/rV+vxeoDVBUr22wQYSx2TqGh1cUlenzqcj35irGYUbg8zFqhZCpd6S8bCr/6Zs99/qcCrbM4d5yP7fi7iUYSCx4tvXVg1okUndQkeHD3vVLjF2kT1FibLqXH9TSYZhVx4PdRn2BIByr3l1DyKUmCjdGfSavEilyUCaJWHlJddBPjV/umNh6hGZmkdStMgxdtt/XI2tta7JMA/1cxPXdY4c5rasF3U3pNosfPfxspiT1UgDeWCrhkNPph7O6kzdfaAppWbawU2Fn/xyl497t/H+L6w6/h1s0gqXCi0/5DCE7fmtyVebDznNAt9BNcgLRdEcSMfmaa2zLgVCwFtk5bEQV1ZUfi2dWDFuctkxLTt9EtuFcx13/TWNRCk6X8LgJQWaSNI2gbKQDZFClqbdbRBPcAYXKmZnkxEcr63zh+NWKLjLTE;/d00vXi6BYrePlPpJMqfEA=="

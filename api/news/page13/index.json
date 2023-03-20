@@ -2,6 +2,234 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3.md",
+      "title": "Diablo 4's Paid Battle Pass And Shop Will Be For Cosmetics Only, With Seasons Modeled After Diablo 3",
+      "excerpt": "Players won't be able to pay for power in Diablo 4, as Blizzard outlines its post-launch plans for the highly-anticipated ARPG.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
+      "publishedDateTime": "2022-08-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing.md",
+      "title": "Activision Blizzard wants all Diablo 4 employees to vote on unionizing",
+      "excerpt": "The NLRB is hearing Activision Blizzard Albany Union arguments to determine who has the right to vote, and the Diablo 4 maker introduced an unorthodox argument ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/activision-blizzard-shareholders-meeting.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer.md",
+      "title": "Diablo 4 - Lilith Awakening, By Three They Come | Announcement Cinematic Trailer",
+      "excerpt": "Amazing cinematic trailer of Lilith awakening in Diablo IV. Thanks for watching! Like and subscribe, check other videos on my ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=7RlIk8RYkaY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7RlIk8RYkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T12:54:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "K2Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator.md",
+      "title": "Diablo 4 Leaks Highlight Difficulty Options, In-Depth Character Creator",
+      "excerpt": "Screenshots show players will be able to choose from a number of different body types, faces, hairstyles, accessories, tattoos, and more when it comes to customizing their character, with the leaked ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator/1100-6506235/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator/1100-6506235/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator/1100-6506235/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-leaks-highlight-difficulty-options-in-depth-character-creator/1100-6506235/",
+      "publishedDateTime": "2022-08-08T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-diablo-iv-starts-leaking-and-the-people-doing-it-are-plastered-all-over-it.md",
+      "title": "Diablo IV Starts Leaking, And The People Doing It Are Plastered All Over It",
+      "excerpt": "It’s been a week since the Diablo 4 beta test started, and players are already leaking footage of the game on the internet. What’s funny is that the screenshots have the testers’ identifying number ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-diablo-iv-starts-leaking-and-the-people-doing-it-are-plastered-all-over-it/index.json",
+      "webUrl": "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-161000016.html",
+      "originalUrl": "https://finance.yahoo.com/news/diablo-iv-leaks-send-blizzard-161000016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/AYsBFuE7ajvMCdVGMRXJzA--~B/aD0zNTg7dz02MzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/kotaku_564/812b835518191f16ed3489d3be2e9717",
+          "width": 636,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "yahoo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-blizzard-battling-diablo-4-leaks.md",
       "title": "Blizzard battling Diablo 4 leaks",
       "excerpt": "Blizzard is attempting to scrub the internet of Diablo 4 leaked footage and screenshots, which were posted over the ...",
@@ -838,234 +1066,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-diablo-4-campaign-length-revealed.md",
-      "title": "Diablo 4 Campaign Length Revealed",
-      "excerpt": "During the Xbox Bethesda showcase, Blizzard Entertainment finally pulled back the curtain on Diablo 4. The game isn't set to release until sometime in the first half of 2023, but several details are ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-campaign-length-revealed/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/06/17/016c98f2-93d3-4b3e-8226-810484300c52/stalker-2-hero-shot.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
-      "publishedDateTime": "2022-06-16T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained.md",
-      "title": "Diablo 4 Necromancer class guide – skills and summons explained",
-      "excerpt": "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-can-we-trust-blizzard-with-diablo-4-after-diablo-immortal.md",
-      "title": "Can We Trust Blizzard With ‘Diablo 4’ After ‘Diablo Immortal’?",
-      "excerpt": "There’s one question I’ve been asked a lot over the past week, and one I’ve asked myself: Given the current state of Blizzard, can we trust that Diablo 4 will actually deliver, given recent events?",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/06/16/can-we-trust-blizzard-with-diablo-4-after-diablo-immortal/amp/",
-      "publishedDateTime": "2022-06-16T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-hells-ink-tattoo-shop-takeover-tour.md",
-      "title": "Diablo Hell's Ink Tattoo Shop Takeover Tour",
-      "excerpt": "The Diablo Hell’s Ink tattoo shop takeover tour is your chance to receive a custom tattoo, courtesy of the Burning Hells. Find out how to win!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-hells-ink-tattoo-shop-takeover-tour/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23817876/diablo-hell-s-ink-tattoo-shop-takeover-tour",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/jd/JDN3QUPT9RJM1655145397628.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-which-classes-are-in-diablo-4-with-the-introduction-of-the-necromancer-we-now-know-all-of-the-games-five-classes.md",
-      "title": "Which classes are in Diablo 4? With the introduction of the Necromancer, we now know all of the game’s five classes",
-      "excerpt": "When Diablo 4 was announced, we only knew about three classes: Sorceress, Druid, and Barbarian. Then we learned about the return of the Rogue, last seen in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-which-classes-are-in-diablo-4-with-the-introduction-of-the-necromancer-we-now-know-all-of-the-games-five-classes/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/",
-      "originalUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2021/03/d4AllClasses.png",
-          "width": 675,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/14/diablo-4-classes/amp/",
-      "publishedDateTime": "2022-06-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
         "images": null,
         "publishers": null,
         "authors": null

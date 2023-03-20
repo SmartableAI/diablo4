@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-13T19:46:46Z
 originalUrl: "https://youtube.com/watch?v=dxj6JabTC-s"
 type: video
 quality: 137
-heat: 177
+heat: 157
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxj6JabTC-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Beta - World Boss Event, Pre-Download Announced & Leveling Guides"
-    excerpt: "Diablo4 #Beta #Classes Much more D4 content to come! My Diablo 4 Playlist: ..."
-    publishedDateTime: 2023-03-13T21:06:15Z
-    webUrl: ""
-    type: video
-    provider:
-      name: wudijo
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "World boss Ashava spawn times and location in the Diablo 4 beta"
     excerpt: "Diablo 4's first world boss, Ashava, is one of the main challenges available during the two Diablo 4 betas this month. Unlike dungeons and quests, world bosses wait for no slayer. Ashava has three ..."
     publishedDateTime: 2023-03-18T07:45:00Z

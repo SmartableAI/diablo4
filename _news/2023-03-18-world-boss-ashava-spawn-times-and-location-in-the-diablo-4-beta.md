@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Diablo 4 Beta - World Boss Event, Pre-Download Announced & Leveling Guides"
-    excerpt: "Diablo4 #Beta #Classes Much more D4 content to come! My Diablo 4 Playlist: ..."
-    publishedDateTime: 2023-03-13T21:06:15Z
-    webUrl: ""
-    type: video
-    provider:
-      name: wudijo
-      domain: youtube.com
-    quality: 135
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "fbhGnHNIZllw+sJkSBNakjIB7V7KLEa4Ap3eiWhdMfxy3QqJNZoYT/tnbe3Wd+Y3jY3kIYSiIMTkYUxAiBmSq6eN7cR8hBAauQ1FM0cdWPNsl7WfFiuI6aMwdh443vPcSstZm7rGF9ds4XnKiu9x59zbNXmWGgSPc3y0gTiEaXv6kiY8JJO7NCN/LH+ufi9uOgXTkQfKR6gjgNTz4z5RK7nAFuztQR27guSOTXOi65OxKce7b91/seHYatNvArI0o2A0LhS0negiNpAOpCkkDX7FxBQKXkE/kvFGcG3d+baYJopO+an+lXdfYjjeqaNBRQh+VRJ0nhztqOFYbEtXz6MOds/+fAPVdP3KLvUbcNo=;z8BQbmldJKLO7LkrT8/pFQ=="
 ---
