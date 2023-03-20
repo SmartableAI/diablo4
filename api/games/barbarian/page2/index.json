@@ -124,54 +124,23 @@
       "publishedDateTime": "2023-03-13T21:20:23-07:00"
     },
     {
-      "path": "_games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer.md",
-      "title": "Diablo 4 Best Class in Beta for YOU (Class Overview, Druid, Barbarian Rogue, Sorcerer, Necromancer)",
-      "excerpt": "diablo4 #diabloiv #diablo More Diablo 4 Videos here! Diablo 4 Top 20 things you must know To Get Ahead ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/",
-      "originalUrl": "https://youtube.com/watch?v=u97Hxv_X5Fo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u97Hxv_X5Fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M2S",
+      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
+      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
+      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
+      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M40S",
       "provider": {
-        "name": "Slaydra",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian",
-        "Druid"
-      ],
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-15T08:21:16-07:00"
-    },
-    {
-      "path": "_games/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects.md",
-      "title": "DIABLO 4 - DEFENSIVE BARBARIAN LEGENDARY ASPECTS - Codex of Power Legendary Aspects",
-      "excerpt": "Join the Discord | https://discord.gg/tR5nQ5kZHx Learn more about the specific Defensive Legendary Aspects you can apply to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/barricade-ttv-diablo-4-defensive-barbarian-legendary-aspects-codex-of-power-legendary-aspects/",
-      "originalUrl": "https://youtube.com/watch?v=yUij0fPbWus",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yUij0fPbWus\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M",
-      "provider": {
-        "name": "Barricade TTV",
+        "name": "AnnacakeLIVE",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 110,
+      "heat": 116,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -182,7 +151,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-01-05T08:26:37-08:00"
+      "publishedDateTime": "2022-12-21T08:00:36-08:00"
     },
     {
       "path": "_games/vivstar-diablo-4-16-minutes-barbarian-demo.md",
@@ -303,6 +272,37 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-07T11:00:13-08:00"
+    },
+    {
+      "path": "_games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer.md",
+      "title": "Diablo 4 Best Class in Beta for YOU (Class Overview, Druid, Barbarian Rogue, Sorcerer, Necromancer)",
+      "excerpt": "diablo4 #diabloiv #diablo More Diablo 4 Videos here! Diablo 4 Top 20 things you must know To Get Ahead ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-best-class-in-beta-for-you-class-overview-druid-barbarian-rogue-sorcerer-necromancer/",
+      "originalUrl": "https://youtube.com/watch?v=u97Hxv_X5Fo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u97Hxv_X5Fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M2S",
+      "provider": {
+        "name": "Slaydra",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian",
+        "Druid"
+      ],
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-15T08:21:16-07:00"
     },
     {
       "path": "_games/blitz-gaming-diablo-4-16-minutes-exclusive-barbarian-demo-gameplay-4k-60fps.md",
@@ -763,36 +763,6 @@
       "publishedDateTime": "2022-09-23T10:06:33-07:00"
     },
     {
-      "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
-      "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
-      "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/annacakelive-diablo-4-barbarian-overview-and-skill-showcase/",
-      "originalUrl": "https://youtube.com/watch?v=rwx5u0HTcl8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwx5u0HTcl8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M40S",
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2022-12-21T08:00:36-08:00"
-    },
-    {
       "path": "_games/ceburekas-diablo-4-barbarian-druid-sorcerer-gameplay-review.md",
       "title": "Diablo 4 - Barbarian, Druid Sorcerer Gameplay Review",
       "excerpt": "I know those classes like my 3 fingers. First Barbarian - one who can carry big pot of hell's kitchen soup and is not afraid of no ...",
@@ -913,6 +883,38 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-10-26T05:10:53-07:00"
+    },
+    {
+      "path": "_games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid.md",
+      "title": "Diablo 4 60mins of Gameplay With Sorceress, Barbarian, Druid",
+      "excerpt": "1 Hour of Diablo 4 Gameplay With Sorceress, Barbarian and Druid. No commentary, just gameplay, showing the talent tree, skills, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/lfp-gaming-diablo-4-60mins-of-gameplay-with-sorceress-barbarian-druid/",
+      "originalUrl": "https://youtube.com/watch?v=Yg2x5IBtT9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yg2x5IBtT9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M1S",
+      "provider": {
+        "name": "LFP Gaming",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian",
+        "Sorceress"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2019-11-10T01:25:28-08:00"
     }
   ],
   "nextPage": 3

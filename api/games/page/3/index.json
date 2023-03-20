@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_games/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr.md",
-      "title": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay (4K 60FPS HDR)",
-      "excerpt": "Diablo 4 EPIC 10 Minutes Exclusive Sorceress Gameplay (4K 60FPS HDR) Diablo IV is an upcoming dungeon crawler action ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/gamev-diablo-4-epic-10-minutes-exclusive-sorceress-gameplay-4k-60fps-hdr/",
-      "originalUrl": "https://youtube.com/watch?v=h_G0_G-LRmk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h_G0_G-LRmk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
-      "provider": {
-        "name": "GameV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-12T04:52:56-07:00"
-    },
-    {
       "path": "_games/mlge-the-mage-diablo-4-sorceress-2-enchantment-.md",
       "title": "Diablo 4 Sorceress ч2. (Enchantment механика/первичный разбор ветки талантов фрост билда)",
       "excerpt": "",
@@ -304,36 +274,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-26T16:00:13-08:00"
-    },
-    {
-      "path": "_games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed.md",
-      "title": "Diablo 4 Twitter Q&A - Druid Class Mechanic Revealed",
-      "excerpt": "Miss the Twitter Q&A? Here it is in full. The big news is the Druid class mechanic reveal. A recap in text is also available on the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed/",
-      "originalUrl": "https://youtube.com/watch?v=amiAYe8Hj8Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/amiAYe8Hj8Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M25S",
-      "provider": {
-        "name": "PureDMG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-06T19:44:08-08:00"
     },
     {
       "path": "_games/valumo-diablo-4-druid-build-the-packleader.md",
@@ -908,6 +848,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2022-12-11T13:14:49-08:00"
+    },
+    {
+      "path": "_games/beefguyty-diablo-4-druid-mount-ability.md",
+      "title": "Diablo 4 Druid MOUNT Ability",
+      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-druid-mount-ability/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-druid-mount-ability/",
+      "originalUrl": "https://youtube.com/watch?v=LaAfyphA7ec",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LaAfyphA7ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5S",
+      "provider": {
+        "name": "BeefGuyTy",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-21T17:00:13-08:00"
+    },
+    {
+      "path": "_games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics.md",
+      "title": "Diablo 4 Barbarian Class Overview - Skills, Abilities, New Mechanics!",
+      "excerpt": "In this video I show you an overview of the barbarian class for the upcoming open world ARPG, Diablo 4. We go over skills, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/warlug-diablo-4-barbarian-class-overview-skills-abilities-new-mechanics/",
+      "originalUrl": "https://youtube.com/watch?v=g-gB1VSyDpo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g-gB1VSyDpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Warlug",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-01-17T11:42:51-08:00"
     }
   ],
   "nextPage": 4
