@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/special_di-diablo-4-diablo4-druid
 type: video
 length: PT10S
 publishedDateTime: 2023-01-23T19:46:29Z
-heat: 70
+heat: 130
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VSTcaE7qKRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
