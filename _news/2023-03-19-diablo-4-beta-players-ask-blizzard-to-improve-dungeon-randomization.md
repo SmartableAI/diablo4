@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-19T15:04:37Z
 originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-ask-blizzard-to-improve-dungeon-randomization/ar-AA18PrbA"
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-ask-blizzard-to-improve-dungeon-randomization/ar-AA18PrbA"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Game Rant on MSN
