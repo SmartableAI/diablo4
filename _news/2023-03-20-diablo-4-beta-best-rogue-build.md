@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Beta: Everything You Need to Know About the Sorcerer Class Archetype"
+    excerpt: "Players jumping into the Diablo 4 beta will have access to the Sorcerer class, the classic magic-wielding archetype from the Diablo series' past. Elemental spells are the primary source of damage for Sorcerers, with the three primary types being Fire ..."
+    publishedDateTime: 2023-03-21T08:43:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 124
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-sorcerer-class-archetype.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
     excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
     publishedDateTime: 2023-03-20T10:00:00Z

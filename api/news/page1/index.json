@@ -2,6 +2,150 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-cults-prophecies-and-helpless-villagers-galore-diablo-4-is-back-to-its-moody-goth-best.md",
+      "title": "Cults, prophecies and helpless villagers galore: Diablo 4 is back to its moody goth best",
+      "excerpt": "While there’s an argument to be had about how intellectually nourishing these games may be, Diablo 4 has a lot of seductive power. Clicking monsters to death in this game feels dangerously good. Diablo 4 returns to being the moody goth kid of its RPG ..",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-cults-prophecies-and-helpless-villagers-galore-diablo-4-is-back-to-its-moody-goth-best/index.json",
+      "webUrl": "https://www.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
+      "originalUrl": "https://www.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3e868e1b940468ccd0c13e42a43f4c7660967f71/2985_124_6154_3692/master/6154.jpg?width=620&quality=85&auto=format&fit=max&s=74f1dfd5b80d96280c3226acce745601",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
+      "publishedDateTime": "2023-03-21T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-diablo-4-beta-everything-you-need-to-know-about-the-sorcerer-class-archetype.md",
+      "title": "Diablo 4 Beta: Everything You Need to Know About the Sorcerer Class Archetype",
+      "excerpt": "Players jumping into the Diablo 4 beta will have access to the Sorcerer class, the classic magic-wielding archetype from the Diablo series' past. Elemental spells are the primary source of damage for Sorcerers, with the three primary types being Fire ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-beta-everything-you-need-to-know-about-the-sorcerer-class-archetype/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/",
+      "originalUrl": "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-sorcerer-class-archetype.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-diablo-4s-launch-wont-be-plagued-by-betas-connectivity-issues-says-blizzard.md",
+      "title": "Diablo 4's Launch Won't Be Plagued by Beta's Connectivity Issues, Says Blizzard",
+      "excerpt": "Blizzard has said the technical issues that plagued Diablo 4’s “rocky” open beta have helped pave the way for its full launch on June 6. Last weekend saw Blizzard hold the first mostly open beta for Diablo 4, which was accessible for gamers who had",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4s-launch-wont-be-plagued-by-betas-connectivity-issues-says-blizzard/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4s-launch-wont-be-plagued-by-betas-connectivity-issues-says-blizzard",
+      "originalUrl": "https://www.ign.com/articles/diablo-4s-launch-wont-be-plagued-by-betas-connectivity-issues-says-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/03/01/diablo4betaearlyaccessgameplaytrailer-ign-blogroll-1677696974394.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-diablo-4-error-codes-and-what-they-mean.md",
       "title": "Diablo 4 error codes and what they mean",
       "excerpt": "Diablo 4 error codes indicate that something has gone wrong with the game, and 316719 is the main issue seen so far indicating connection with the servers has been lost. There have been a number of error codes encountered already,",
@@ -678,48 +822,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-diablo-4s-servers-will-be-much-better-at-launch-says-blizzard.md",
-      "title": "Diablo 4's servers will be 'much better' at launch, says Blizzard",
-      "excerpt": "Diablo 4’s Early Access Beta this past weekend was rough – specifically, the disconnects and long login queues ran rampant due to server instability. However, franchise general manager Rod Fergusson ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4s-servers-will-be-much-better-at-launch-says-blizzard/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-servers-will-be-much-better-at-launch-says-blizzard/ar-AA18RX49",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-servers-will-be-much-better-at-launch-says-blizzard/ar-AA18RX49",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RKUu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=612&y=330",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T06:06:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-20-diablo-4-world-events-guide.md",
       "title": "Diablo 4 World Events Guide",
       "excerpt": "The Diablo 4 World Events appear as bright orange circles on your minimap (to differentiate them from main quests and sidequests). Upon reaching the area, the type of task and requirement will appear.",
@@ -861,48 +963,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-beta-8-tips-to-make-the-most-of-your-time-this-weekend.md",
-      "title": "Diablo 4 beta: 8 tips to make the most of your time this weekend",
-      "excerpt": "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-beta-8-tips-to-make-the-most-of-your-time-this-weekend/index.json",
-      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730",
-      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp",
-      "publishedDateTime": "2023-03-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1089,48 +1149,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter.md",
-      "title": "Diablo 4’s Butcher is mass murdering beta players in dungeons due to a rare random encounter",
-      "excerpt": "Diablo 4 beta players are running into an extremely difficult enemy within their dungeons, causing them to be butchered en masse.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter-2090651/",
-      "originalUrl": "https://www.dexerto.com/diablo/diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter-2090651/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/20/the-butcher-image.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

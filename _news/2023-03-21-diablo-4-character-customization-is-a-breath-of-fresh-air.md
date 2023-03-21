@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4: Character Customization Is A Breath Of Fresh Air"
-excerpt: "You can make Kratos look like your Kratos. Skyrim's Dragonborn is, of course, your Dragonborn. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Unlike previous entries in the ..."
-publishedDateTime: 2023-03-21T04:01:00Z
-originalUrl: "https://www.dualshockers.com/diablo-4-character-customization/"
-webUrl: "https://www.dualshockers.com/diablo-4-character-customization/"
+excerpt: "Unlike previous entries in the Diablo series, this is now an area where Diablo 4 shines because of a wonderful character creator and a robust transmog system. When you first select your character, you’ll decide whether to play a more masculine character"
+publishedDateTime: 2023-03-21T08:01:00Z
+originalUrl: "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/diablo-4-character-customization-is-a-breath-of-fresh-air/ar-AA18TbrX"
+webUrl: "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/diablo-4-character-customization-is-a-breath-of-fresh-air/ar-AA18TbrX"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: DualShockers
-  domain: dualshockers.com
+  name: DualShockers on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-transmog-4.jpg"
-    width: 2000
-    height: 1000
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18TiMm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -81,6 +81,6 @@ related:
         height: 675
         isCached: true
 
-secured: "vf0cCmEl7U7v8SYrSmOCVSPHqERuSB9u8gsZHByyd18qOubIq5mXLe4ti19ycCcxGMOZ55pa7/DJK0wVeeyve0gJMvVzpRqQ516lnWMW2NE0cHGqlmunHXK54E/3xi/2YSHT0OF0GHqfaIbaNGqqo+Hq6G7woy+jcMz2JjigkiA+2QH96Jc/NUQXXUKQCfMfMVc3MmE9HcZFir/rG9C/5WOgab+RUabmFYboBXVTa7PYlGOU0RHpX3AD66D7UNaGCSmh5j+BGZTuANjWjIuggZG6KEOhnM16Brhry6sLJXBk1EJ6HH9Bs278VTeBfNArT625Q4R5SOd5WUYHbaxNT72RkQSnYuauwUpQG+uhidQ=;/Yk8hPcdrXM8P0gay0iS2A=="
+secured: "hTJg/VupiAJ9Ii94xWohdo47/zqQs5BR0eFyRBjDBaExah3VcmweK4/sxpq/4Nf/J/dnr2ucA2PNFYCb57GZZTmZjHnwzSv9Vm9DonWWmoYxBLHx3ue32EWSgrEF8nN8mOBhXEjir7h2u/kKmYaZEIT6bTVeT0fhZvMFsMxPsEttumZrN65pYlA/JdvFCHsMnf53H11mdiouveRsTUZkNga4kpeSdiZlFbvbi25wtUZ4cY6AjJb0tFGUMP/ynYnNAeJFnl8tbLE16PXOxLmOwLSjBeEpWeeeCDfkkoe/BuBaKOgvlu8SgJqf6IjnRuMtICm4BVJz8kCl9A3fB+MDWhTRSdl+nlM5nkEhgBepgB4=;3xNnvLN+XWT7VBIeDlN6gQ=="
 ---
 
