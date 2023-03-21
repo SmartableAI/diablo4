@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 - Rogue Build Guide"
+    excerpt: "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ..."
+    publishedDateTime: 2023-03-21T14:33:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "THszdm6qLEn9xsQ/rV+vxeoDVBUr22wQYSx2TqGh1cUlenzqcj35irGYUbg8zFqhZCpd6S8bCr/6Zs99/qcCrbM4d5yP7fi7iUYSCx4tvXVg1okUndQkeHD3vVLjF2kT1FibLqXH9TSYZhVx4PdRn2BIByr3l1DyKUmCjdGfSavEilyUCaJWHlJddBPjV/umNh6hGZmkdStMgxdtt/XI2tta7JMA/1cxPXdY4c5rasF3U3pNosfPfxspiT1UgDeWCrhkNPph7O6kzdfaAppWbawU2Fn/xyl497t/H+L6w6/h1s0gqXCi0/5DCE7fmtyVebDznNAt9BNcgLRdEcSMfmaa2zLgVCwFtk5bEQV1ZUfi2dWDFuctkxLTt9EtuFcx13/TWNRCk6X8LgJQWaSNI2gbKQDZFClqbdbRBPcAYXKmZnkxEcr63zh+NWKLjLTE;/d00vXi6BYrePlPpJMqfEA=="
 ---

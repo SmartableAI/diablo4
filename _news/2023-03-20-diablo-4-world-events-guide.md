@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-world-events-guide/11
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-world-events-guide/1100-6512477/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 - Rogue Build Guide"
+    excerpt: "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ..."
+    publishedDateTime: 2023-03-21T14:33:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 Beta - World Boss Event, Pre-Download Announced & Leveling Guides"
     excerpt: "Diablo4 #Beta #Classes Much more D4 content to come! My Diablo 4 Playlist: ..."
     publishedDateTime: 2023-03-13T21:06:15Z
