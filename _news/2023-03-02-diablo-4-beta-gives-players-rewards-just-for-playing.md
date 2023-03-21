@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rew
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 568
     height: 320
     isCached: true
-
-related:
-  - title: "Diablo 4 Open Beta Rewards"
-    excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
-    publishedDateTime: 2023-03-01T21:26:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-rewards/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4Screen2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "jklgc3MjJhtDOwwZioW5SuYcWJF+t8saDlnKtXjbKfxcQKVqnhaFMqJpwdIS+Vy3oa6PLlI6BjznFEA6tRzOfhfzyTrNBKQvKt8q6E0XvVAqlhqDbo/INJ5qQV0fMyrlmTAYr5d+2MZbSBi85V1SEQSo4HM8mQakReLWaGxCiJyqr8mgqYr64lSHq+8zCANDEWjWxc4hi9vbEgjEw1le/UoTDfSwpDFyBpVxFqZa2YSk0q8x4o+vLVwlkejudR5rkT4U84eyQbAMqtEjwq5o5JQAnenrEtSFvdTnOFZdzw+rMWTcoxGzVA5x77l6la7Lm/ahWxzwMEhQSusVMP0BfcHsJd1RAGybt8P3ySnhkWE=;rxyjRSNBvjj3cYIMvder8Q=="
 ---
