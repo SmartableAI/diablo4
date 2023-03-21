@@ -4,36 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed.md",
-      "title": "Diablo 4 Twitter Q&A - Druid Class Mechanic Revealed",
-      "excerpt": "Miss the Twitter Q&A? Here it is in full. The big news is the Druid class mechanic reveal. A recap in text is also available on the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/puredmg-diablo-4-twitter-qa-druid-class-mechanic-revealed/",
-      "originalUrl": "https://youtube.com/watch?v=amiAYe8Hj8Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/amiAYe8Hj8Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT39M25S",
-      "provider": {
-        "name": "PureDMG",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-06T19:44:08-08:00"
-    },
-    {
       "path": "_games/annacakelive-diablo-4-barbarian-overview-and-skill-showcase.md",
       "title": "Diablo 4 - Barbarian Overview and Skill Showcase",
       "excerpt": "Legendary powers https://maxroll.gg/d4/wiki/codex-of-power Rogue https://www.youtube.com/watch?v=TCbZQ1WOqh0&t=9s ...",
@@ -731,36 +701,6 @@
       "publishedDateTime": "2023-01-10T08:47:25-08:00"
     },
     {
-      "path": "_games/beefguyty-diablo-4-barbarian-mount-ability.md",
-      "title": "Diablo 4 Barbarian MOUNT Ability",
-      "excerpt": "Make Sure To Like, Comment, and Subscribe! SOCIALS ---------------------------------------------- Join Our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/beefguyty-diablo-4-barbarian-mount-ability/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/beefguyty-diablo-4-barbarian-mount-ability/",
-      "originalUrl": "https://youtube.com/watch?v=hr-gTRX8j8g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hr-gTRX8j8g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9S",
-      "provider": {
-        "name": "BeefGuyTy",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-01-22T17:00:11-08:00"
-    },
-    {
       "path": "_games/easy-allies-diablo-iv-preview-hands-on-with-the-barbarian.md",
       "title": "Diablo IV Preview - Hands-On with the Barbarian",
       "excerpt": "After playing through the first four hours, Brad shares his thoughts on the next chapter of Diablo, including character customization ...",
@@ -909,6 +849,66 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2021-10-14T07:41:09-07:00"
+    },
+    {
+      "path": "_games/imactuallyafk-diablo-4-druid-gameplay.md",
+      "title": "DIABLO 4 DRUID GAMEPLAY",
+      "excerpt": "found it and wanted to share it :)",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/imactuallyafk-diablo-4-druid-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/imactuallyafk-diablo-4-druid-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=xIE1EHhQsGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xIE1EHhQsGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M21S",
+      "provider": {
+        "name": "ImActuallyAFK",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2022-12-18T04:00:29-08:00"
+    },
+    {
+      "path": "_games/rizarjay-druid-class-mechanic-revealed-new-details-about-the-diablo-iv-open-beta.md",
+      "title": "Druid Class Mechanic Revealed & New Details about the Diablo IV Open Beta",
+      "excerpt": "The Diablo IV Developers did a Twitter Spaces livestream and answered more questions from Diablo fans! Who else is getting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/rizarjay-druid-class-mechanic-revealed-new-details-about-the-diablo-iv-open-beta/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/rizarjay-druid-class-mechanic-revealed-new-details-about-the-diablo-iv-open-beta/",
+      "originalUrl": "https://youtube.com/watch?v=DgzjNfvOUQk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DgzjNfvOUQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M23S",
+      "provider": {
+        "name": "Rizarjay",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-06T22:16:29-08:00"
     }
   ],
   "nextPage": 6
