@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4: Character Customization Is A Breath Of Fresh Air"
+    excerpt: "You can make Kratos look like your Kratos. Skyrim's Dragonborn is, of course, your Dragonborn. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Unlike previous entries in the ..."
+    publishedDateTime: 2023-03-21T04:01:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-character-customization/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-transmog-4.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
 
 secured: "6Y2X8Qy9izhF/bTiobyzv9R+JDty+GM6ycx5rZkjGgdSQ1pqQMwC9YLXpknpnc9fU9mQHAbkANYJlf5dH3V1JLhTsp9F+Y2GTaHVPdJ5P2wV5UDwS8bgVFZi2ds0QyqvEq5O2sZA3R40Nqv1iBOHSjNDC3EZ723a4ae5JdhQCb9spqKnjX0yf9ABbp9ODvtu35BRF52YwjHHSRkhv565kKuNyVmzNIBKsBsyF++5ryyEA95KVNMoBg2FFUS9Ues8uxAFl7TEvubGD0MnUN9bpTYdb+bytpbFTf3wvH6erOiRHWMRjZf2LJbR96OumRji8Sb3XKJoUqbXbmqQBn1jSwMSVmrv3XzY8acSA+Kx7ko=;7O3wRErm7V8JdVDfvPDQvg=="
 ---

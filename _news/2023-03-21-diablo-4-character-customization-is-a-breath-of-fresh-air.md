@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Take a tour of the Diablo 4 beta character creation options"
-excerpt: "My Diablo 4 beta barbarian is a certified beefcake named Duncan. I already love how he looks before I've looted the perfect armor set, and that's all thanks to Diablo 4's simple, but effective ..."
-publishedDateTime: 2023-03-17T12:49:00Z
-originalUrl: "https://www.pcgamer.com/diablo-4-character-creation/"
-webUrl: "https://www.pcgamer.com/diablo-4-character-creation/"
+title: "Diablo 4: Character Customization Is A Breath Of Fresh Air"
+excerpt: "You can make Kratos look like your Kratos. Skyrim's Dragonborn is, of course, your Dragonborn. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Unlike previous entries in the ..."
+publishedDateTime: 2023-03-21T04:01:00Z
+originalUrl: "https://www.dualshockers.com/diablo-4-character-customization/"
+webUrl: "https://www.dualshockers.com/diablo-4-character-customization/"
 type: article
-quality: 127
-heat: 207
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: DualShockers
+  domain: dualshockers.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/wxLxzVT8qkgZSMqqW6xBLN-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-transmog-4.jpg"
+    width: 2000
+    height: 1000
     isCached: true
 
 related:
+  - title: "Take a tour of the Diablo 4 beta character creation options"
+    excerpt: "My Diablo 4 beta barbarian is a certified beefcake named Duncan. I already love how he looks before I've looted the perfect armor set, and that's all thanks to Diablo 4's simple, but effective ..."
+    publishedDateTime: 2023-03-17T12:49:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-character-creation/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wxLxzVT8qkgZSMqqW6xBLN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is there character customization in Diablo 4?"
     excerpt: "Diablo IV is Blizzard's latest entry in the iconic and hellish action RPG series. Fans will find familiar mechanics such as fighting demons, selecting a class, and creating a character. You can dive ..."
     publishedDateTime: 2023-03-11T11:59:00Z
@@ -70,21 +80,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4: Character Customization Is A Breath Of Fresh Air"
-    excerpt: "You can make Kratos look like your Kratos. Skyrim's Dragonborn is, of course, your Dragonborn. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Unlike previous entries in the ..."
-    publishedDateTime: 2023-03-21T04:01:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-character-customization/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 87
-    images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-transmog-4.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
-secured: "rmuB63XOJ2Sl92doEu0NN3pltUDiFn7LOWj6MIiogP+ozZ/brsi9Cx6fSF2mcIOpNKtAttpUXA0pfrorxlBBoKnkMCVWCx96GTkCsR/cPkZV3HNpDOP468wgT/BIb9u3TYgPqVnVwEEYM65QIJaHlenRY2v5+08aOPnsvDdjSUQPss1HoqkG8ch4u1AU9b3+BvVO0Y2PdiidkRTDIK20i2+38bz5ybjOEgSJ/7ESdnP1jxRRHh4UJ92DdD78aQtCuEZ1052inNkRUzHEazMPnMixANrrEO2/VA1Y2VUJ83odIhha1tkRRJMZvG7K00/iLYMbAjflI+4qnfyV5DBqUwYSBl6vtg0UBpCTU4PqRVM=;ReDFY+ofR/g0+cxwzl0I3A=="
+secured: "FnRDSBycI98I2DOHYgKtEWBwFAzUsrrFGYEWRswUGfZ0bMpRO8l/KysRPCmf7HwO1LoV3r+1N7b7+s9SQRjekGanS7nV2xEgAw5rrYPOJGaB2zR5vkPiWnxvohJg3Zo7lltfgdmEtOXVgXCXf2kjy8HBlLMXMHhiu36mPknYw7AVoWM5Wo4dLItbD1Fh5UC+Q9KXshTXVU+i99GKVpxB8FbHbgNKClclVQX/WQ9QckM/Y9PxMVoWwAYAXKuQztEa/7lLa4M5r0vJ8U1xGrhnTWdUBQTCxTZPH2PYbyk047TB74JYIc3/B2iJotAX2u31RdgNMUzow4jvRGPjX6c5+wSSvcCTUWzGE2n87eSl5DM=;8oyIIURd/6/uaTXqw+DZzA=="
 ---
 
