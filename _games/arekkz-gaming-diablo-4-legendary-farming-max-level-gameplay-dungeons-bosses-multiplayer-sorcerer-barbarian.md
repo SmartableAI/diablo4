@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-legendary-
 type: video
 length: PT4H11M12S
 publishedDateTime: 2023-03-20T16:48:10Z
-heat: 417
+heat: 353
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zkLcczJseW4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "j/HxsR3MhXibiEiTTinmLsbg1pptsJyftA6Lhdc2kSaC2EIwuPzJxioiMSBKybj+kowwKrGGBUp3K27QJDzD6d1tAsHu8LDITHKy03+m1uLqDOifyz2w1ZhRcU480YOmnYwh3jzwmOiy6pPocSpL5av3MQYsLRG/LAsNQqt7L/K0/fzwuVJE6Y66SxH5LvYHyQOSB8TnHMqRAPTil0lJCIe5lLsuxEYf8y0Fswk1Hc2AvwqkZMgf434wHAdr7MLJoeVM9kg5nHmfY6qNTjAb9K/Ua5N9+zB58MbBQybwFgAbXSpVByEWDSuqLPsBPiJBviuZCj00xXtJrt/eXAM5t4zbmB1Rc1EfqiVXbK4Lh7mbiwjX32uE7jC9+LEhev0onYqL8QBDbu7NlguWhWpZ0Q==;YoidzK6m1wrXT0Ve5N3oig=="
+secured: "y71QjaaI3ae7alxbN0czpAZ3XWFO5S32X7iSINEERjZY0X53VoW2ZmdIaC1yVBUx2qXu07lITyI60cG1+bnavkufUa/ig2VanmMO4Gsa7BwuLHP1CQZwJE3A6nmQcb0JSkFS+xLH+vPEQJN6ivANXhqmoDTP1swl2aHjdWAxvtVYbvUMt7eaGcOd/Krk2297+3VFjelyjw4ANujeMxdikqkdxwo4eEGGO2e7Kq2p90csEBOcYYFTKRhGSeRolc2FwaTfCqfB4xZ6UXPf61xNgC4nJ9vWC8YCCxPhtrw3VhrQws9bJwT2WHOQgxjPhBACASWqGdGhmgEpSFTI/nVHCQvPqcCiAAzffCdPHFhXmUjHQgiJj84OvjLFXN4Uv2FF2EF2Nro9ZQ11pBk4UF5WHxoeS9brlF9FqOBHzEGXLtM=;9iy0coje2gBjGXZkweMOkg=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/bajheera-bajheera-plays-diablo-4-
 type: video
 length: PT26M54S
 publishedDateTime: 2023-03-20T13:46:05Z
-heat: 186
+heat: 198
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WK9HRy8ldzU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "slnNyMZmhZ47HBIG7NxBAFNSshZEFLPRIu0rH2N9NLwDYW6IzEV1Gn1c5V690tzguziLLBBSuswQvTgRiMo0siXrInoRmMqS6OUL0On5hhoq6uSXCuudw+xRA7p21p/IvbVeG90lrdMADrJZDcwGffSU1MPlKy90TVtP58V+e03CG2tLEVTvlUIEq2xkOlXLg0eauq8k33WfVX0fn1pkPuzqaXkIxIPUEFHxwKFUqnPUMuz8sPN1cnjv3TCcbm/u3b+PaU+mlT7lR2vR8qDd2PCsvTliMIh8oXKbM4WpAIpKQ6vK8Bu6WEGh72FETFZAMLeCu4rZDKypOfTtkCb5NXajcoogHpq/lzE6S1ChTz6OZxC8VVN3ooxnRyLwij1BK/hppiRRbEUbVETs6PNS7A==;IH7W5jHS2wI/ahTbnPBPMg=="
+secured: "sPBabKzs4FFpYmwiESBdIJNzvchxWOxeEZYaDHlmeMVb7FNt2JFxqhg8wpAsJ56UOOxXFtpaso085TuGk6y1KZ01mYaA/8F1VG3KBuzZUW8loaQPqvkKQI/picdfRnB0EMFRk+OqJKe+pJtCTlbvwDQODa5QfK6qxq5rUPYV0+/zii3LBuZbNmbkN7/O0NaOrGHROTaltw+6IIZDPss+z7Ce2Z6Yvm4/WzLFkOSIcrsLhlaOJxbMMTBt1p5W+WRSFvSw9ijXxAxYAoyMc9thAnWuwJYI2Cp0FIX8ngMFCBIBKWbn2tdqtkjm2QVDwiK4Q5fFJgK1N7NpjF4j77Am7peIk3AZtUw8Sz23WqP7IXcExsUOUeFWJGebp1V3f57qAJJmzjOtLRnZ2Ay//ZXJ3IOGExdizD/0gjlPe6XMmt0=;IERBl9fVYxbo/rYOGGHPtQ=="
 ---
 

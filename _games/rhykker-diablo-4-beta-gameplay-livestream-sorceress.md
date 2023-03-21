@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/rhykker-diablo-4-beta-gameplay-li
 type: video
 length: PT4H29M6S
 publishedDateTime: 2023-03-18T07:46:56Z
-heat: 344
+heat: 285
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/od5s0wy3TtE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "iwCTkZuIf13iy+AsdSXDwh/PkpVQyshlw0w4v5v0Z5bxgWGXsK0ymxc+WXq8BzbyCaQCNZumyS+X4I3oju7lJGauQ5L/OuYUNsUwG56Hqht40ww1ctc2NEk5x0utUY6OnhMVxr4TOgzVD+YRSVvFzuWZ8t2sVcpXdozQzR2UL9CGFEtpuM4KNQrVE/JA7tD/6eloAtCmucyLiSSR/CRcAL6e1JHV66gFF+s9cWWXZnKI00eQFmztkCSRZMWApPS77pqBS8YIbtUPnfYJHfJUwgr0Eq6o45zV0CHA4hGywNnSN5EnFcOvGGPmOJbacRwJ/ITGywKLx54ifcsIrXfvNcCDQ7oFVb6D+klrwpCJPsK2mcVsCB77uAi0PurEmFzV/1gSuq6ZTTCkgWzl1e07Cy2Xeja3T5w7/j1liW4pV58=;/kZB0JaALO4ixikx2UzmMw=="
+secured: "9BHr4nX9cwmIc4pk/J+8/pYeZRpor74n7lfkqgyeRaAUcbBl9+slIGRO1Jw20dcZvmSUw2T0CV8o6AQQEq8CRDYVNMUNGcjbeFu2/5ebkiU9lYtNapUcpYsKLXi2iFzajHVTg6Q/XhQhtZdyhWdtyeogg5e9fnMygbjNaFP5cqC1wS2Ia5dgseJX9rOavrVDBBYxgze7ea88F47NGiOLqFtGb96C4vQr/iSy8vZPhFa0hLvhtQBtcColhhA9ot98nz6G7uA6H4UVgDQtR3gr9jEi5WOsoPznTo0nbh1iXB1A7fl0cLEvjJcl4cKJ6ri0BkNxlRrQvHeuVrVKmFRDgdaKG104lyY2hIOkU7CsPLG3y/s9+HQa/PzDO5IUtA27F6zlxp7/jIgs4AvBJG6rQtztAzwLmt5xkProRm0Fw2s=;wZAMeG3QbJ5xF8g00vsCrA=="
 ---
 
