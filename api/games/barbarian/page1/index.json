@@ -4,36 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_games/ragegamingvideos-diablo-4-all-class-best-highest-damage-build-sorcerer-rogue-barbarian-skills-equipment-guide.md",
-      "title": "Diablo 4 - All Class Best Highest Damage Build - Sorcerer Rogue Barbarian Skills & Equipment Guide!",
-      "excerpt": "A guide to all Diablo 4 classes so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-all-class-best-highest-damage-build-sorcerer-rogue-barbarian-skills-equipment-guide/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-all-class-best-highest-damage-build-sorcerer-rogue-barbarian-skills-equipment-guide/",
-      "originalUrl": "https://youtube.com/watch?v=wlaSDLYWwbc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wlaSDLYWwbc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M35S",
-      "provider": {
-        "name": "RageGamingVideos",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 378,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-18T18:00:28-07:00"
-    },
-    {
       "path": "_games/ragegamingvideos-diablo-4-all-class-build-best-skills-abilities-guide-sorcerer-barbarian-rogue-tree-explained.md",
       "title": "Diablo 4 - All Class Build, Best Skills & Abilities Guide - Sorcerer Barbarian Rogue Tree Explained!",
       "excerpt": "A guide to every Diablo 4 class so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
@@ -482,6 +452,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T19:11:15-07:00"
+    },
+    {
+      "path": "_games/ragegamingvideos-diablo-4-all-class-best-highest-damage-build-sorcerer-rogue-barbarian-skills-equipment-guide.md",
+      "title": "Diablo 4 - All Class Best Highest Damage Build - Sorcerer Rogue Barbarian Skills & Equipment Guide!",
+      "excerpt": "A guide to all Diablo 4 classes so you can have the best build & skills! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-all-class-best-highest-damage-build-sorcerer-rogue-barbarian-skills-equipment-guide/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-all-class-best-highest-damage-build-sorcerer-rogue-barbarian-skills-equipment-guide/",
+      "originalUrl": "https://youtube.com/watch?v=wlaSDLYWwbc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wlaSDLYWwbc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M35S",
+      "provider": {
+        "name": "RageGamingVideos",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 269,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T18:00:28-07:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-1.md",

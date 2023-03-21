@@ -4,36 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_games/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
-      "title": "The NEW Barbarian Class in Diablo IV! #diablo4 #diablo4gameplay #shorts",
-      "excerpt": "The NEW Rogue Class in Diablo IV! #diablo4 #diablo4gameplay #shorts Don't forget to like the video and subscribe to our ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=hi5y4FEslhs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hi5y4FEslhs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52S",
-      "provider": {
-        "name": "Fextralife",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 204,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-14T17:00:25-07:00"
-    },
-    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-9.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 9",
       "excerpt": "(Cozy)Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at ...",
@@ -92,6 +62,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-20T06:46:05-07:00"
+    },
+    {
+      "path": "_games/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
+      "title": "The NEW Barbarian Class in Diablo IV! #diablo4 #diablo4gameplay #shorts",
+      "excerpt": "The NEW Rogue Class in Diablo IV! #diablo4 #diablo4gameplay #shorts Don't forget to like the video and subscribe to our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fextralife-the-new-barbarian-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=hi5y4FEslhs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hi5y4FEslhs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52S",
+      "provider": {
+        "name": "Fextralife",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 179,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-14T17:00:25-07:00"
     },
     {
       "path": "_games/dirgethpov-diablo-4-beta-25lvl-barbarian-dungeon-gameplay-rtx4070ti-legendary-drop.md",
