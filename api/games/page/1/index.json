@@ -424,6 +424,36 @@
       "publishedDateTime": "2023-03-17T18:00:09-07:00"
     },
     {
+      "path": "_games/ryu-diablo-iv-2-hours-of-barbarian-gameplay.md",
+      "title": "Diablo IV - 2 Hours of Barbarian Gameplay",
+      "excerpt": "My other channel: https://www.youtube.com/ryukahr?sub_confirmation=1 My other other channel: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ryu-diablo-iv-2-hours-of-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ryu-diablo-iv-2-hours-of-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=CXJTfdBpLkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CXJTfdBpLkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H10M6S",
+      "provider": {
+        "name": "Ryu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 290,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T19:19:48-07:00"
+    },
+    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 3",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -604,36 +634,6 @@
       "publishedDateTime": "2023-03-19T06:32:38-07:00"
     },
     {
-      "path": "_games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits.md",
-      "title": "Diablo 4 Druid Overview: Is This Class For You? (Gameplay, Skills, Traits)",
-      "excerpt": "The Diablo 4 Druid is a savage shapeshifter, fluidly transforming between forms of a powerful bear or vicious werewolf all while ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/",
-      "originalUrl": "https://youtube.com/watch?v=D2mui-DeTt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D2mui-DeTt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M51S",
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 258,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-08T10:00:05-08:00"
-    },
-    {
       "path": "_games/the-comeback-kids-druid-is-awesome-in-diablo-4.md",
       "title": "Druid is AWESOME in Diablo 4!",
       "excerpt": "Shorts Diablo 4 Giveaway Link! https://forms.gle/k2DPFAE9rQTo1Yzt7.",
@@ -662,6 +662,36 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-02-17T12:54:20-08:00"
+    },
+    {
+      "path": "_games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits.md",
+      "title": "Diablo 4 Druid Overview: Is This Class For You? (Gameplay, Skills, Traits)",
+      "excerpt": "The Diablo 4 Druid is a savage shapeshifter, fluidly transforming between forms of a powerful bear or vicious werewolf all while ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/vulkan-diablo-4-druid-overview-is-this-class-for-you-gameplay-skills-traits/",
+      "originalUrl": "https://youtube.com/watch?v=D2mui-DeTt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D2mui-DeTt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M51S",
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 255,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-08T10:00:05-08:00"
     },
     {
       "path": "_games/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
@@ -872,36 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-16T15:31:39-07:00"
-    },
-    {
-      "path": "_games/dirgethpov-diablo-4-the-butcher-and-goblin-in-dungeon-barbarian-gameplay.md",
-      "title": "Diablo 4 The BUTCHER and GOBLIN in Dungeon (Barbarian Gameplay)",
-      "excerpt": "RTX 4070Ti + Ryzen 7 5800X3D.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/dirgethpov-diablo-4-the-butcher-and-goblin-in-dungeon-barbarian-gameplay/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/dirgethpov-diablo-4-the-butcher-and-goblin-in-dungeon-barbarian-gameplay/",
-      "originalUrl": "https://youtube.com/watch?v=gwTF2X_Sn-4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gwTF2X_Sn-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M51S",
-      "provider": {
-        "name": "DirgethPOV",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 239,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-19T06:16:47-07:00"
     }
   ],
   "nextPage": 2

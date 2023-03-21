@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/p4wnyhof-diablo-4-ultimate-class-
 type: video
 length: PT2H38M45S
 publishedDateTime: 2023-03-17T13:35:41Z
-heat: 133
+heat: 120
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ol8HbOcbiLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OvL4PASGhG1sd0z/AdCDHuqdT9DuoalZonT9haAlxBvc1BXL+5SudVB7aeePOsc7x86eSQZN1vI8PJyL7kivPkS+jGA+23Op0cxXMZx3T5J/uIFqBfO0sV5C7JXDIWFIUSX3/KVq8VR73hFYXhHP6Ay/RopcCJjooBLk7YneUQGF4EqHHjdIBCL+FoCsmd4zTwJ9avfOW4q4zgQ2E8nZx3DhDb6vt94xm13h4muEP9rZDkdJdR6i8lDSZoh8qF3nSK1zZ5iKcHljnBahMKR4zz3F6aMWd/nmsBxaReydk2P78mD6Azm4M5nUucYDanAV5k1pkrclQzl2Oq9ShXffUwNhs7RYkxUIJ4Z48KCKwvR/cGVJgshp58VTO/euCExAAynVArtOHCalYzjQptnx8Ak4vxZNP0LMSMDgqoPsMO8=;KU0sVadzTa+TZXy7YCxmBQ=="
+secured: "VVxZBdnncUpzKHXuA7omQGk27/3/MH1TgiAHEEP6ZrSQDglyu/VmnOSX375WSu3RhYNl0KCvuPM1jwtKhT9jjL8jvuJkAVAKWUBeJGMLR+0owlces7tAgq3u5LqFIm1psBFaAbh8sT1/Iu2jqZFklqEw5eqLJ39x0Ff3FCB9qGzsTBdUqUm+uiHh24jC4uG47W91dZud/urS0JUPkYusK4EJsh3J6i+F1vxIfOVGsncTDo1cC9WqiRtm/qzUOHIf6TZo/na6WIY5Z3VEmdAP0UwAUUl9kHzEv9fkJKz+clnPC1RekIIm7w9k1LYuvbqLEflnGwypouDaJyGAi02lWSXmi6yY0uH9o9T/Hu424QKm2YhBAzUjE2nYwAmLzITtIZrRcVRmzBBwmbI4pP4rL3Lg0EPxjqnVzJz3f5Ydgu0=;8Sni6m6iRHUdUO7/9G71Pg=="
 ---
 

@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-lights-watch-du
 type: video
 length: PT24M46S
 publishedDateTime: 2023-03-18T13:43:31Z
-heat: 231
+heat: 163
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UmdbIYUl0S0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "TRpky3uLNdq4oR2RhWhoi245uzX1D1PBXEmsFnDsQDxDg/Zb0TdzNIQ9Pnx17cW+sKXtxV/WxzFPylcQRKxsPeRS1TpxFBhOqDJqMGrIYRKJANZ7au7fB0/W9J8emBHuqKYypPSPSqsBSCqFjQl0EX3gscUpvxVqRWnROIRdh+ZssrNL9ZWxsG/vVGKpXpH+mGkwyKQWpvTh36V4RAv4FSVdlSXBJXBa1xsbihqNR46PLnTnQzXtmI7q8DJmF+fZEswXi9OikSxHFcmigW4AyuMhYHlyg9djnpEcRbCH8CMDenweSyICZGgTBeb6lW2A62T4aRkSSV+0aSFa0DuLTQJegEixKaYShFwK9NA2nqeBx3e3XLz1gUcDQ3XCbvWSm14Oo5MWUzTNt7kaKYl6GZu8OuxxQu6LF9NR3veaIAQ=;NNCJ1JxVhbHfGX//9/mJ0Q=="
+secured: "EBb8zl6lbx3G0MYlFts2OBGvb2JUbFWqPcRbgRtxifuiysgRAokAk2FlKSZxmbnS3w2m5C24lS7D1Lhaeky9dm2p/2vrczLmQveXKpr1LnnmrmA0P2pJGzUVeWIwstiV+1SYjh/LOUFqCg66sYijKHPi4J9bkFTzzy2IB7QTko5xdcm/jitC7R4URc9JgCsMqy1b47sSEVLqZsUVcf/mRNNJnJiJrdcBpoRGaub5AOtl9IrfqPn/i1DgC5J+PpNodW6CFMzb/g1AYN1vLSZDdXNzx/jZoYMEgK+EHCFN8bg1WeAN/gK0gjQCaLyajnoS+U3IHkGWT8anYaK1hPDceLhwPZ28BQaOj5faxvjQDpGq86Mgt5ahAKoLsJbn7vkMRko9M1JvtCzHfMPDeEn5ReEYHopYTc5cQH3X9v86qeU=;/a2hW+9iIbWyIv39dVqMhA=="
 ---
 
