@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Part Of The ‘Diablo 4’ Beta Was A Real Surprise"
+    excerpt: "The Diablo 4 pre-order beta has come and gone, and now everyone is gearing up for the open beta which arrives just a few days from now. Then it’s time for the full launch of the game in June, which ..."
+    publishedDateTime: 2023-03-21T05:54:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/03/21/the-best-part-of-the-diablo-4-beta-was-a-real-surprise/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/03/21/the-best-part-of-the-diablo-4-beta-was-a-real-surprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/21/the-best-part-of-the-diablo-4-beta-was-a-real-surprise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6416686c3560f7351e7ffb6e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 beta download size – how much space do I need for the beta?"
     excerpt: "With the upcoming Diablo 4 beta weekend, eager fans are downloading the client now in the hope of being able to play as soon as the gates of the RPG open up. Traditionally, Diablo games have been on ..."
     publishedDateTime: 2023-03-16T07:27:00Z

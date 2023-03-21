@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Best Part Of The ‘Diablo 4’ Beta Was A Real Surprise"
+    excerpt: "The Diablo 4 pre-order beta has come and gone, and now everyone is gearing up for the open beta which arrives just a few days from now. Then it’s time for the full launch of the game in June, which ..."
+    publishedDateTime: 2023-03-21T05:54:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/03/21/the-best-part-of-the-diablo-4-beta-was-a-real-surprise/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/03/21/the-best-part-of-the-diablo-4-beta-was-a-real-surprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/21/the-best-part-of-the-diablo-4-beta-was-a-real-surprise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6416686c3560f7351e7ffb6e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ftHHp8yxmvfRc8gsCnEZq5UnsMHyx8psehTIr91OQmBXitJa9Ns6/S8qcVzl3zpuLXvuxJzH/U8UTyumPQBJM6/Woqd8JXcc9fVUEkxZ+Ordjx+X9XCN5jL+ObUTHzzj2ALMGMQTfxadmvJIpVYY6g4n0HWDstDzNRKk8/RDglStk+Q6s6GURQXggmtes9Y8nRr8T9U6H/IULNOZLGFGZTfga6aqprQDO2WXkpuDSWix8yf/TQdyW1mTV1QXUFF8Mg5egJFPTohqBolaWUYIO/njgRHuMRE0c9TAMOY1y5ptMzAOFCEF6oaY0GIiaINQlWA/XrlHMDdNT4QaQQ6VLONZxpV5MGsOz40E9QOa8ig=;s627xpIrVT4u3fBrfOxndg=="
 ---

@@ -2,6 +2,193 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-blizzard-will-do-your-laundry-so-you-can-focus-on-what-matters-most-diablo-4.md",
+      "title": "Blizzard will do your laundry so you can focus on what matters most: Diablo 4",
+      "excerpt": "Blizzard has announced that as part of a promotion for the upcoming action RPG Diablo 4, fans will be able to enter a competition to win access to cleaning services. The next big date for Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-blizzard-will-do-your-laundry-so-you-can-focus-on-what-matters-most-diablo-4/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-do-your-laundry-so-you-can-focus-on-what-matters-most-diablo-iv/ar-AA18Tm6c",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-will-do-your-laundry-so-you-can-focus-on-what-matters-most-diablo-iv/ar-AA18Tm6c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Tot8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-more-than-1-million-people-reached-diablo-4-beta-level-20-and-saved-a-puppy.md",
+      "title": "More Than 1 Million People Reached Diablo 4 Beta Level 20 And Saved A Puppy",
+      "excerpt": "The Diablo IV early access beta has concluded, and a lot of people took part. How many? Well, we now know it's more than 1 million. Blizzard said on Twitter that more than 1 million people reached at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-more-than-1-million-people-reached-diablo-4-beta-level-20-and-saved-a-puppy/index.json",
+      "webUrl": "https://www.gamespot.com/articles/more-than-1-million-people-reached-diablo-4-beta-level-20-and-saved-a-puppy/1100-6512522/",
+      "originalUrl": "https://www.gamespot.com/articles/more-than-1-million-people-reached-diablo-4-beta-level-20-and-saved-a-puppy/1100-6512522/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1179/11799911/4115079-screenshot2023-03-21at8.22.03am.png",
+          "width": 1044,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/more-than-1-million-people-reached-diablo-4-beta-level-20-and-saved-a-wolf-pup/1100-6512522/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/more-than-1-million-people-reached-diablo-4-beta-level-20-and-saved-a-wolf-pup/1100-6512522/",
+      "publishedDateTime": "2023-03-20T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot.md",
+      "title": "Over a million Diablo 4 players picked up a puppy last weekend, and you've still got one more shot",
+      "excerpt": "Diablo 4's open beta (opens in new tab) will begin this Friday, March 24, at 9 am PT / 12 pm ET / 4 pm GMT, and preloading will kick off tomorrow at, again, 9 am PT / 12 pm ET / 4 pm GMT. If you were ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/index.json",
+      "webUrl": "https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/",
+      "originalUrl": "https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aMzPjasAbhuN9XGkUqw9Me-1200-80.jpg",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-diablo-4s-barbarian-feels-weak-following-the-beta-but-buffs-are-on-the-way.md",
+      "title": "Diablo 4's Barbarian \"feels weak\" following the beta, but buffs are on the way",
+      "excerpt": "Blizzard has confirmed that Diablo 4's Barbarian will get a little love to make them more potent at lower levels. Diablo 4's early access beta has now come and gone, offering players a chance to get ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4s-barbarian-feels-weak-following-the-beta-but-buffs-are-on-the-way/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4s-barbarian-feels-weak-following-the-beta-but-buffs-are-on-the-way/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4s-barbarian-feels-weak-following-the-beta-but-buffs-are-on-the-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wu3rpLGY56X6RAV8QJDVbm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-diablo-4-hands-on-preview-its-a-dark-dark-world.md",
       "title": "Diablo 4 hands-on preview: It's a dark, dark world",
       "excerpt": "Diablo 4 has been a long time coming, as Blizzard has tried to right past wrongs by taking its sweet time and making sure it's fully ready before bringing it to the masses. As part of that slow-boil ...",
@@ -778,7 +965,7 @@
       "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -953,183 +1140,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-diablo-4-max-level-whats-the-level-cap.md",
-      "title": "Diablo 4 max level: What’s the level cap?",
-      "excerpt": "After a decade, fans are excited by the launch of Diablo 4 and the Early Access and Open Betas. During the Beta periods, players can explore the Fractured Peaks of the Sanctuary by clearing hordes ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-max-level-whats-the-level-cap/index.json",
-      "webUrl": "https://dotesports.com/diablo/news/diablo-4-max-level-whats-the-level-cap",
-      "originalUrl": "https://dotesports.com/diablo/news/diablo-4-max-level-whats-the-level-cap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dotesports.com/wp-content/uploads/2023/03/Dot-Esports-Image-2023-03-19T221230.029.jpg?resize=768,432",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations.md",
-      "title": "Diablo 4 - All Altar Of Lilith Statues And Locations",
-      "excerpt": "The statues are difficult to find, but they unlock some incredible benefits for Diablo 4 players When exploring the world of Sanctuary in Diablo 4, there is plenty to look out for. Whether you're ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "publishedDateTime": "2023-03-19T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-the-diablo-4-betas-most-dangerous-enemy-is-an-old-familiar-face.md",
-      "title": "The Diablo 4 beta’s most dangerous enemy is an old, familiar face",
-      "excerpt": "As the first public Diablo 4 beta weekend rolls on, players are discovering their favourite builds, exploring the various towns and dungeons found in the first act of Blizzard’s fantasy RPG game, and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-the-diablo-4-betas-most-dangerous-enemy-is-an-old-familiar-face/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/the-butcher",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/the-butcher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-the-butcher-most-dangerous-enemy-hardcore-blizzard-rpg-game.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-diablo-4-beta-gets-a-hotfix-to-deal-with-stability-issues-on-console.md",
-      "title": "Diablo 4 beta gets a hotfix to deal with \"stability issues\" on console",
-      "excerpt": "The closed beta for Diablo 4 kicked off this weekend, but server stability issues have plagued many - thankfully, Blizzard has released a hotfix to help out.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-beta-gets-a-hotfix-to-deal-with-stability-issues-on-console/index.json",
-      "webUrl": "https://www.vg247.com/diablo-4-beta-gets-a-hotfix-to-deal-with-stability-issues-on-console",
-      "originalUrl": "https://www.vg247.com/diablo-4-beta-gets-a-hotfix-to-deal-with-stability-issues-on-console",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.vg247.com/diablo-4-lilith_1h1hcE6.jpg/BROK/thumbnail/1200x630/diablo-4-lilith_1h1hcE6.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
