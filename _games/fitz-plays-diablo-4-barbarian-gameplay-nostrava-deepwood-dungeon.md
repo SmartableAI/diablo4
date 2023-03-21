@@ -2,6 +2,7 @@
 title: "Diablo 4 - Barbarian Gameplay (Nostrava Deepwood Dungeon)"
 excerpt: "Diablo 4 Early Access Beta just concluded. Here's some gameplay footage of my Barbarian completing the dungeon Nostrava ..."
 originalUrl: https://youtube.com/watch?v=3L2DwZ7HmMc
+webUrl: https://smartable.ai/apps/diablo4/game/fitz-plays-diablo-4-barbarian-gameplay-nostrava-deepwood-dungeon/
 type: video
 length: PT8M12S
 publishedDateTime: 2023-03-21T03:45:01Z
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "LTvFQlXDU9dlCEyDZS8EVI3eASBB+s6DK5PoZSlEKv2JAk53fXwfLQwhGKYw2nJpxxQ2FqAbXlz1r8eaplJmw7oy7rNOHv6sT7GMiWJMzBz0/6rdu4jLJ6eIVfyVDfN8Dh34L90sip8DbDVv56oMNu+01TaYYxyWMzmxIpW77nHCi7x9L4jGKC/xTJvFb1Kn6Kh2peW2Y10OUSaYq5DvgVNw9VfsexWlE1qThpSNuD6ddZdSMQshVzDVZyPUXBWvEBEyLVkcHiLNZnWU8b/AFwSseHGKh7NBWpEOg1db6VwO+g4YQa+mnvvjgtTRXOwHqfn4FW7GKa96+l5Z4VfOt1DE/zXwEIt5pkhRhxNIABe/GLVpaU0niHgf2p7fwZqR7YEKAlZKUDPLq2YivZucug==;yWUcA8si52pShZjOa+BNEg=="
+secured: "Thi7Ts1gRlMgd+U6ctkOazQmh+hJ8/iEnJngr0vgn/zXiIkQSnRVGY79c2wTQSsn69UBXGHbEFVftngtg6MT3gn71jZh8iaM4NRH4N5RBfp04ZzGT7B2VLPcU7CJtHJ1RjYtmxIXdxLFyNFRQZncYWLKnr7U/B/SoShhv3NtScjNZUqAnY8HIXfKuCvH4uKsE/yspxBHy1PItYO+PkcULN9FC20QU7KOxprwAOhJbOqtiF5MYKpTq5LUqKHO3c07avTer2zXtvLCkbnz12uUAwVcanjC1MOQnegbLlPd3bO1PR31QszkLA5P7EFON3P2Ai04cLDo84AiPVcwoW1an5tJV2mc+1SkX4rQvwQjW1JkEbKvMdqGiqITTacGHLib8xLvylYHiT4uJB8SOGv3Ag==;LbolgqxBUEGyUQrs1/N3+w=="
 ---
 
