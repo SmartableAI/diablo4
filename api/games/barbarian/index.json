@@ -664,6 +664,36 @@
       "publishedDateTime": "2023-03-18T19:19:48-07:00"
     },
     {
+      "path": "_games/veiled-shot-diablo-best-leveling-builds-for-the-diablo-4-beta-rogue-barbarian-and-sorcerer.md",
+      "title": "BEST Leveling Builds for the Diablo 4 BETA! Rogue, Barbarian, and Sorcerer!",
+      "excerpt": "Like what you see? SUB! - https://bit.ly/3B3qKrK I stream Diablo! - https://bit.ly/3t5mQut Join Aftershock United!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/veiled-shot-diablo-best-leveling-builds-for-the-diablo-4-beta-rogue-barbarian-and-sorcerer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/veiled-shot-diablo-best-leveling-builds-for-the-diablo-4-beta-rogue-barbarian-and-sorcerer/",
+      "originalUrl": "https://youtube.com/watch?v=BHGnrM3nASE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BHGnrM3nASE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M57S",
+      "provider": {
+        "name": "Veiled Shot | Diablo",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 250,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-15T07:00:10-07:00"
+    },
+    {
       "path": "_games/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian.md",
       "title": "Diablo 4 BETA - Never Seen Gameplay Hardcore Barbarian",
       "excerpt": "As I am an unstoppable chad of infinite energy, I'm going into Diablo 4 with no knowledge of any system or how the game plays, ...",
@@ -872,36 +902,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-14T17:00:25-07:00"
-    },
-    {
-      "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-9.md",
-      "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 9",
-      "excerpt": "(Cozy)Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-9/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-9/",
-      "originalUrl": "https://youtube.com/watch?v=SdYZ7WcVRuw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SdYZ7WcVRuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M17S",
-      "provider": {
-        "name": "CohhCarnage",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 201,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-17T22:02:53-07:00"
     }
   ],
   "nextPage": 2
