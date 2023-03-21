@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-how-to-respec/1100-65
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-how-to-respec/1100-6512454/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114678-diablo4betawolfpackcosmeticbetatitlesguide-.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Diablo 4 Mount - How To Get The Spectral Charger Horse"
+    excerpt: "GameSpot may get a commission from retail offers. The Diablo 4 beta has only given players a small slice of what they will be able to fully access when the game officially launches on June 6, 2023."
+    publishedDateTime: 2023-03-20T15:32:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-mount-how-to-get-the-spectral-charger-horse/1100-6512520/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-mount-how-to-get-the-spectral-charger-horse/1100-6512520/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-mount-how-to-get-the-spectral-charger-horse/1100-6512520/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4113098-44.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "CEuWJKIgCenyDEKLrxRLMQ6uuYZtMgCPSrl2zrzckIwdTfYMXOTF74vTpCJL4pnRpP9AP0I/S53YsxgUWANkG6OYspitvKLM1eOMkTHLbCAKiSBZl7LfWEiexLTDuPwy3AbqW4vadY84M3KjcmWa10cBEINlhTBIRSirCLbkdRqh2APwLIPWI9im5QBqm0CLsSbwtHSCFSaMKEIUpQUR6BAGR9Ozi8a0vkip6w9AdsUEts4tQTejNn9fviwTqGjX2MKdxLiuXB/ZMYzE2LVJgd44PdhxaOsJCx3k86auILrumVragJYFu8APoshKVfQKfHjFrFQwbJSKpyIxgpOeyT09Pslnl1ND557GbU8ZgmU=;2xafe162cq3qaE5guZOglg=="

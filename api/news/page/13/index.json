@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content.md",
+      "title": "Diablo 4 will have a season pass, cosmetic shop and years of post-release content",
+      "excerpt": "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content/index.json",
+      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
+      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.rockpapershotgun.com/diablo-4-post-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-post-release.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock Paper Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers.md",
       "title": "Diablo 4 shop to sell cosmetic-only outfits, Season Pass with free and paid tiers",
       "excerpt": "The latest quarterly update for Diablo 4 is all about the game's live service systems. Blizzard Entertainment confirms there will be a Season Pass with paid and free tiers, with Diablo 4 aiming for ...",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat.md",
-      "title": "How long is Diablo 4? Main campaign length & time to beat",
-      "excerpt": "If you're wondering how long will it take to complete the main campaign of Diablo 4 with story details, here's everything you need to know.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
-      "originalUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/20/diablo-4-campaign-length.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
-      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
-      "publishedDateTime": "2022-06-19T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
         "images": null,
         "publishers": null,
         "authors": null

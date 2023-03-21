@@ -40,20 +40,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4 developers reveal an unbelievably cute reward for beta players"
-    excerpt: "Developers at Activision Blizzard have revealed some beta-exclusive Diablo 4 cosmetics for those who progress far enough during the early access period, including a wolf cub backpack that is frankly ..."
-    publishedDateTime: 2023-03-01T08:30:00Z
-    webUrl: "https://www.vg247.com/diablo-4-developers-reveal-an-unbelievably-cute-reward-for-beta-players"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/diablo-4-beta-rewards-header.jpg/BROK/thumbnail/1200x630/diablo-4-beta-rewards-header.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Open Beta Rewards"
     excerpt: "DIablo 4 has finally announced its open beta period and there are a few rewards in store for those that are participating."
     publishedDateTime: 2023-03-01T21:26:00Z

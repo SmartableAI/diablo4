@@ -46,6 +46,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Mount - How To Get The Spectral Charger Horse"
+    excerpt: "GameSpot may get a commission from retail offers. The Diablo 4 beta has only given players a small slice of what they will be able to fully access when the game officially launches on June 6, 2023."
+    publishedDateTime: 2023-03-20T15:32:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-mount-how-to-get-the-spectral-charger-horse/1100-6512520/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-mount-how-to-get-the-spectral-charger-horse/1100-6512520/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-mount-how-to-get-the-spectral-charger-horse/1100-6512520/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4113098-44.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "L21kxpoUfJnsx3Z4AL+lwZ0fyjel3Fiap+TlRbWgROEdO/E+F04b2cEPFPuXuhMA/kzsN/Rm0PPsxJcrg87wTS+9ppkvgl/ZgdGD20f/3ZBqeii7ZMCxE1BL2awoP241wrGvgN076R5jvReW6fsOvIvLAcuTE8qZmjrCQn+7FCHi4Nxm/IHhq6EkplEhzqtxnn8ZQhpPciB3ZQxsaEqa9WjYGMdKZRFuYTBgEFVCYA/p03s9VejHjzVkPh7ki/KbFsWNWXV4LI8nU6iWT67+vefoXKQ3JDQXWv+gI4MnScjBFSIomMpYrmzq2plkj4QbiadAi691FxWvgvvQueHQfFlsrZ5h3IHg9j6Z0WFcYEQ=;3mJtMhBijyzBNNnKEtCRdA=="
 ---
