@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/slaydra-diablo-4-best-class-in-be
 type: video
 length: PT11M2S
 publishedDateTime: 2023-03-15T15:21:16Z
-heat: 103
+heat: 102
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u97Hxv_X5Fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Gw0rTdYi19EYb0nM+EBoEuK+LXf9xGAUhnhdRUESzUmGBAyofhHJITSckfPsRDHBjeIolLVma8pKVvq5w+SsRDO6RTnp1QnwZOCYodV6GZHoRgQcLqAS0m9GoCoPE55mLnt6QbNLFryg8UZw7QLkL53s3rI4sfDJckugOALWLIQyFMLaekb0DfHVwGsQZG6Tr8gUakwNadlj5fRzDPs5vZe3sRpDzQqLi1g7c+3sJIIqnYStlGolVQTm8qje0VxtVuXSJvnhSXKr7ab0q+0t/WBscQ76VoADLxlC/SLYFPAAmCnHDM58EZ/Eg8C2U03oALPdf9IaXU+OyylrdhTbr0mslvvIjtDtMBzEqwI9CkJH3cSms49UUYOmDLSylXTA9QYYXZzekAvhwKrZ0lHImqrueSIGOyKXwFg9vGcW5+4=;+2nuSdUyXhHOTDL00wCrCw=="
+secured: "aD/4fKlWPoxvPsJYsF1DuvNKWM+EICMmLIW6GKp8SXYk42joXORtV8jJdZbceHFs2rnwAPDrBmK9J/7ntfNMW0NSuLSjrsInmsKy6luuWPEoTV3ptYSN+cnM5SbokUMpxX/U//Me8fsR3GbGXFR1v9PaCrkP+RJSWESpWRT6zNsbYYcD3RtvVyH7heTT+tOb6jYqNoFKU/yqriC6MB1CYFFCK8RQzxLKyJ2dSNdPfKpftcmWGCPcoUVPlUmVMrMZ3SvLJfT0H7QPulljRzt/h+jGlXxRG2kITbTvLwRB1wUcz89JZxaejq6x006kImpjUIBIgrGqPWWuIt9CZQx8lPHIN0L3Mfsa5ZRu94nAKMtkmQnqyUpRI9PE2nUCFknIXEDbzGjnpqoVeshknCBtepPt8PJW5DrP74KFRQYYT1A=;46UTL6Uv3el65s3auXOA0Q=="
 ---
 
