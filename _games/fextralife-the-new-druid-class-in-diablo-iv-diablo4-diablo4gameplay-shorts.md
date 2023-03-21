@@ -6,7 +6,7 @@ webUrl: https://smartable.ai/apps/diablo4/game/fextralife-the-new-druid-class-in
 type: video
 length: PT55S
 publishedDateTime: 2023-03-17T00:00:07Z
-heat: 246
+heat: 254
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JvsFPbrKKys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "NgKXkG1AkgaXq3QsYXskgVMoz+iSPOgVQOvo+qCFFanDZewhhhm5QaFNqvw8XczOjTH0O6A6FwKdWdiAnBUDj1+CjsD4RMHXNrC3kQqRrCb0hgEF5bKdyLRfdKxAGzHT5HYBIZRJ0aVNRdxMqvhA/D5F7QVLPh8xoyRZLMwx5P0YpYOKKb1ABcHkWr8GHqHMhXzJjCa/Yr86NGOM46zDEip1gGFZ9g91xaA2uMcZ+tKc5cY9JL1iPuBpxlPyjC0VmQIStilj/nI0MOLcpVNndH6DC76VQPP/kuiCw8kcbTWTAF4KbbtddAaw+s9KhaAUD1Fd80llDaZi2XwkAEzM1D5SYJs5eWraNlqhLYs/DK0X338jRlZMEvGfOOoHtuN+il/1IxUtRt0oEo4EuaaE6QpkNrCFSLuIDLZ5cvrAGyo=;2XpUNdmGYE7uWYnka7GBjw=="
+secured: "pfw2TakLbEA40BFcLHposv+H4K4tCDwykon9sY82XVIQ5Xix8AmGVytIWpN1ug9SQMOMVex9fscRmSRoXj6A5wLN1s4pQQzjUlHeEQ+oEwiDZIT0xJzlSjObUn3PDPr3cV5eFQK+tq6VxngiSYQth61CjLXQ4NHHSf0s2fyNCy+rjdIXTiiQM06J/BQyGZWP7Ugy+aei4FoxBmn9Dnj/+JiffnxZlVPefuXpbpd00CQCR6wY00beQ1VWFId01+Oo/P9m6Lgf1SotPH+SRHhIvjWy2N3EOlSrExgaWpfp1x90+mGrXIBmH1zZIlB363QZclqChqm1efennRuVdKIQjHlbPpzGnDiLoMzn9bnjf6UT2G9xftXbt3+6T+DbrSNEyLCkhmVWiypevFfdwW5NT0sedW/j0vtUKmj7i6wMq2E=;vF8YeQSlRKWaFEzutjNh8Q=="
 ---
 

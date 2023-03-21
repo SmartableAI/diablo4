@@ -304,36 +304,6 @@
       "publishedDateTime": "2023-03-18T00:46:56-07:00"
     },
     {
-      "path": "_games/ryu-barbarians-are-amazing-in-diablo-4.md",
-      "title": "Barbarians are AMAZING in Diablo 4.",
-      "excerpt": "BECOME A MEMBER!!! https://www.youtube.com/ryu/join Diablo IV is an upcoming action role-playing game developed and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ryu-barbarians-are-amazing-in-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ryu-barbarians-are-amazing-in-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=CXJTfdBpLkI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CXJTfdBpLkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H10M6S",
-      "provider": {
-        "name": "Ryu",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ],
-      "heat": 329,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-18T19:19:48-07:00"
-    },
-    {
       "path": "_games/vivstar-diablo-4-16-minutes-barbarian-gameplay.md",
       "title": "Diablo 4 - 16 minutes Barbarian Gameplay",
       "excerpt": "Diablo 4 - Barbarian Gameplay Diablo IV is an upcoming dungeon crawler action role-playing game by Blizzard Entertainment, ...",
@@ -454,36 +424,6 @@
       "publishedDateTime": "2023-03-17T18:00:09-07:00"
     },
     {
-      "path": "_games/holyhexor-diablo-4-sorceress-gameplay-highlights-diablo-iv-closed-beta.md",
-      "title": "Diablo 4 - Sorceress Gameplay Highlights (Diablo IV Closed Beta)",
-      "excerpt": "Make sure to Subscribe for more Videos here: http://bit.ly/hOlyhexOr ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/holyhexor-diablo-4-sorceress-gameplay-highlights-diablo-iv-closed-beta/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/holyhexor-diablo-4-sorceress-gameplay-highlights-diablo-iv-closed-beta/",
-      "originalUrl": "https://youtube.com/watch?v=6VYudC6vWhk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6VYudC6vWhk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M42S",
-      "provider": {
-        "name": "hOlyhexOr",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ],
-      "heat": 284,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-18T02:59:54-07:00"
-    },
-    {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-3.md",
       "title": "CohhCarnage Plays Diablo IV Early Access Beta (HC Barbarian Gameplay) - Episode 3",
       "excerpt": "Cohh takes a look at the Diablo 4 Early Access Beta to see what it has to offer. - Watch live at https://www.twitch.tv/cohhcarnage ...",
@@ -512,36 +452,6 @@
       "content": "\r\n",
       "type": "video",
       "publishedDateTime": "2023-03-17T15:01:59-07:00"
-    },
-    {
-      "path": "_games/ragegamingvideos-diablo-4-which-class-is-best-for-you-all-5-classes-guide-breakdown-necromancer-druid-more.md",
-      "title": "Diablo 4 - Which Class is Best For You? All 5 Classes Guide & Breakdown - Necromancer, Druid & More!",
-      "excerpt": "A guide to every Diablo 4 class explained so you know the best one! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-which-class-is-best-for-you-all-5-classes-guide-breakdown-necromancer-druid-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-which-class-is-best-for-you-all-5-classes-guide-breakdown-necromancer-druid-more/",
-      "originalUrl": "https://youtube.com/watch?v=i9_Wxys_isE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9_Wxys_isE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M12S",
-      "provider": {
-        "name": "RageGamingVideos",
-        "domain": "youtube.com"
-      },
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ],
-      "heat": 276,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "publishedDateTime": "2023-03-15T11:00:18-07:00"
     },
     {
       "path": "_games/cohhcarnage-cohhcarnage-plays-diablo-iv-early-access-beta-hc-barbarian-gameplay-episode-2.md",
@@ -754,6 +664,36 @@
       "publishedDateTime": "2023-02-17T12:54:20-08:00"
     },
     {
+      "path": "_games/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
+      "title": "The NEW Druid Class in Diablo IV! #diablo4 #diablo4gameplay #shorts",
+      "excerpt": "The NEW Druid Class in Diablo IV! #diablo4 #diablo4gameplay #shorts Don't forget to like the video and subscribe to our channel ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=JvsFPbrKKys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JvsFPbrKKys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55S",
+      "provider": {
+        "name": "Fextralife",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ],
+      "heat": 254,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-16T17:00:07-07:00"
+    },
+    {
       "path": "_games/mraznbeast-latest-diablo-4-true-leaked-beta-test-gameplay-barbarian.md",
       "title": "Latest Diablo 4 TRUE Leaked Beta Test Gameplay - Barbarian",
       "excerpt": "Diablo IV är ett framtida datorspel, under utveckling av Blizzard Entertainment. Wikipedia Släpptes första gången: 2023 Utgivare: ...",
@@ -814,23 +754,83 @@
       "publishedDateTime": "2023-03-19T08:44:22-07:00"
     },
     {
-      "path": "_games/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
-      "title": "The NEW Druid Class in Diablo IV! #diablo4 #diablo4gameplay #shorts",
-      "excerpt": "The NEW Druid Class in Diablo IV! #diablo4 #diablo4gameplay #shorts Don't forget to like the video and subscribe to our channel ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/fextralife-the-new-druid-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=JvsFPbrKKys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JvsFPbrKKys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55S",
+      "path": "_games/ryu-barbarians-are-amazing-in-diablo-4.md",
+      "title": "Barbarians are AMAZING in Diablo 4.",
+      "excerpt": "BECOME A MEMBER!!! https://www.youtube.com/ryu/join Diablo IV is an upcoming action role-playing game developed and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ryu-barbarians-are-amazing-in-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ryu-barbarians-are-amazing-in-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=CXJTfdBpLkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CXJTfdBpLkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H10M6S",
+      "provider": {
+        "name": "Ryu",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ],
+      "heat": 251,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-18T19:19:48-07:00"
+    },
+    {
+      "path": "_games/fextralife-the-new-sorceress-class-in-diablo-iv-diablo4-diablo4gameplay-shorts.md",
+      "title": "The NEW Sorceress Class in Diablo IV! #diablo4 #diablo4gameplay #shorts",
+      "excerpt": "The NEW Sorceress Class in Diablo IV! #diablo4 #diablo4gameplay #shorts Don't forget to like the video and subscribe to our ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/fextralife-the-new-sorceress-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/fextralife-the-new-sorceress-class-in-diablo-iv-diablo4-diablo4gameplay-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=igipk6twIp8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igipk6twIp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57S",
       "provider": {
         "name": "Fextralife",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
+        "Sorceress"
+      ],
+      "heat": 242,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "publishedDateTime": "2023-03-15T17:00:14-07:00"
+    },
+    {
+      "path": "_games/ragegamingvideos-diablo-4-which-class-is-best-for-you-all-5-classes-guide-breakdown-necromancer-druid-more.md",
+      "title": "Diablo 4 - Which Class is Best For You? All 5 Classes Guide & Breakdown - Necromancer, Druid & More!",
+      "excerpt": "A guide to every Diablo 4 class explained so you know the best one! Enjoy! Support us on Patreon: http://bit.ly/1FUac4S Hunters ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/ragegamingvideos-diablo-4-which-class-is-best-for-you-all-5-classes-guide-breakdown-necromancer-druid-more/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/ragegamingvideos-diablo-4-which-class-is-best-for-you-all-5-classes-guide-breakdown-necromancer-druid-more/",
+      "originalUrl": "https://youtube.com/watch?v=i9_Wxys_isE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9_Wxys_isE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
+      "provider": {
+        "name": "RageGamingVideos",
+        "domain": "youtube.com"
+      },
+      "topics": [
+        "Diablo 4",
         "Druid"
       ],
-      "heat": 246,
+      "heat": 242,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -841,26 +841,26 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-16T17:00:07-07:00"
+      "publishedDateTime": "2023-03-15T11:00:18-07:00"
     },
     {
-      "path": "_games/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding.md",
-      "title": "Diablo 4 Gameplay Levelling Sorcerer & Barbarian Fast! Co-op Multiplayer Farming & Grinding",
-      "excerpt": "Today we're levelling up as fast as we can on sorcerer and barbarian in co-op multiplayer so we can get to the higher level ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/arekkz-gaming-diablo-4-gameplay-levelling-sorcerer-barbarian-fast-co-op-multiplayer-farming-grinding/",
-      "originalUrl": "https://youtube.com/watch?v=97SMpQSAVe4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97SMpQSAVe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7H46M17S",
+      "path": "_games/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian.md",
+      "title": "Diablo 4 BETA - Never Seen Gameplay Hardcore Barbarian",
+      "excerpt": "As I am an unstoppable chad of infinite energy, I'm going into Diablo 4 with no knowledge of any system or how the game plays, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/seer-diablo-4-beta-never-seen-gameplay-hardcore-barbarian/",
+      "originalUrl": "https://youtube.com/watch?v=utgIu8FwZC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/utgIu8FwZC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H40M11S",
       "provider": {
-        "name": "Arekkz Gaming",
+        "name": "Seer",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 232,
+      "heat": 241,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -871,26 +871,26 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-18T03:01:50-07:00"
+      "publishedDateTime": "2023-03-16T15:31:39-07:00"
     },
     {
-      "path": "_games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta.md",
-      "title": "Diablo 4 : Light's Watch Dungeon (Barbarian Solo Run) - Diablo IV Early Access Beta",
-      "excerpt": "Got a chance to check out the Diablo 4 Early Access Beta & wanted to share my first look at the game along with some epic ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/game/bajheera-diablo-4-lights-watch-dungeon-barbarian-solo-run-diablo-iv-early-access-beta/",
-      "originalUrl": "https://youtube.com/watch?v=UmdbIYUl0S0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UmdbIYUl0S0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M46S",
+      "path": "_games/dirgethpov-diablo-4-the-butcher-and-goblin-in-dungeon-barbarian-gameplay.md",
+      "title": "Diablo 4 The BUTCHER and GOBLIN in Dungeon (Barbarian Gameplay)",
+      "excerpt": "RTX 4070Ti + Ryzen 7 5800X3D.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/games/dirgethpov-diablo-4-the-butcher-and-goblin-in-dungeon-barbarian-gameplay/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/game/dirgethpov-diablo-4-the-butcher-and-goblin-in-dungeon-barbarian-gameplay/",
+      "originalUrl": "https://youtube.com/watch?v=gwTF2X_Sn-4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gwTF2X_Sn-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M51S",
       "provider": {
-        "name": "Bajheera",
+        "name": "DirgethPOV",
         "domain": "youtube.com"
       },
       "topics": [
         "Diablo 4",
         "Barbarian"
       ],
-      "heat": 231,
+      "heat": 239,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -901,7 +901,7 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "publishedDateTime": "2023-03-18T06:43:31-07:00"
+      "publishedDateTime": "2023-03-19T06:16:47-07:00"
     }
   ],
   "nextPage": 2
