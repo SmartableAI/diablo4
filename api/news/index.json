@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-20-diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties.md",
+      "title": "Diablo 4: How to play split-screen co-op and get bonus XP from parties",
+      "excerpt": "Need to know how to play couch co-op in Diablo 4? Here is our guide on how to play split-screen co-op and how to get bonus XP while doing so. Diablo 4, the upcoming sequel to Blizzard’s much-beloved ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties-2091692/",
+      "originalUrl": "https://www.dexerto.com/diablo/diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties-2091692/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/21/ezgif-3-e63555e632.jpg",
+          "width": 728,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-diablo-4-manager-says-classes-shouldnt-always-feel-equally-balanced.md",
+      "title": "‘Diablo 4’ manager says classes shouldn’t always feel equally balanced",
+      "excerpt": "Diablo 4 kicked off its first beta on Friday (March 17), giving players an opportunity to play three of the game’s classes before the game’s next open beta on March 24. While two classes – Necromancer ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-manager-says-classes-shouldnt-always-feel-equally-balanced/index.json",
+      "webUrl": "https://www.nme.com/en_au/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3417270",
+      "originalUrl": "https://www.nme.com/en_au/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3417270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-sorcerer-class.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-diablo-4-convinced-me-that-skill-trees-rule-actually.md",
       "title": "Diablo 4 convinced me that skill trees rule, actually",
       "excerpt": "The heart of Diablo 4 lies in one brilliant system. Skill trees are easy to make fun of because nobody can seriously insist there's a thrill in having 3% extra critical strike chance on your fire bolt ...",
@@ -644,48 +728,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-diablo-4-manager-says-classes-shouldnt-always-feel-equally-balanced.md",
-      "title": "‘Diablo 4’ manager says classes shouldn’t always feel equally balanced",
-      "excerpt": "Diablo 4 kicked off its first beta on Friday (March 17), giving players an opportunity to play three of the game’s classes before the game’s next open beta on March 24. While two classes – Necromancer ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-manager-says-classes-shouldnt-always-feel-equally-balanced/index.json",
-      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3416777",
-      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3416777",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-sorcerer-class.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-20-so-what-was-bad-about-the-diablo-4-beta.md",
       "title": "So, What Was Bad About The ‘Diablo 4’ Beta?",
       "excerpt": "There seems to be some sort of bad memory leak issue in certain instances that can really become problematic in time, if not kill the game outright. On top of that, even without running out of memory ...",
@@ -1088,57 +1130,6 @@
         "name": "Game Rant on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-diablo-4-how-to-change-class.md",
-      "title": "Diablo 4: How To Change Class",
-      "excerpt": "so fans will naturally wonder how to do the same thing in Diablo 4. It's natural for RPG fans to want to switch character classes. Each one brings a new playstyle to the table. Especially in the case ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-how-to-change-class/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-how-change-class-character-different-transfer-new/",
-      "originalUrl": "https://gamerant.com/diablo-4-how-change-class-character-different-transfer-new/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/03/diablo-4-how-to-change-classes-collage.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-18T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

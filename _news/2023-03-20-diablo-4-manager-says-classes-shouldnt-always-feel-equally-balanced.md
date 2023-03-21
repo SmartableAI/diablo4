@@ -2,9 +2,9 @@
 category: news
 title: "‘Diablo 4’ manager says classes shouldn’t always feel equally balanced"
 excerpt: "Diablo 4 kicked off its first beta on Friday (March 17), giving players an opportunity to play three of the game’s classes before the game’s next open beta on March 24. While two classes – Necromancer ..."
-publishedDateTime: 2023-03-20T07:44:00Z
-originalUrl: "https://www.nme.com/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3416777"
-webUrl: "https://www.nme.com/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3416777"
+publishedDateTime: 2023-03-20T19:38:00Z
+originalUrl: "https://www.nme.com/en_au/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3417270"
+webUrl: "https://www.nme.com/en_au/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3417270"
 type: article
 quality: 87
 heat: 87
@@ -23,6 +23,6 @@ images:
     height: 1270
     isCached: true
 
-secured: "3qneL0W5t8fX1aGPWPjc5sn5ksiFYuCnaSFVLOfqYqnLJ1Z5FnAydE0fjeIS+nspAK+O4WuqaS9t/cjzOTqTIHaDS79wxKX1wBIr4SGLguQEhvsl3X23Plq+xekTvHaZdQ+7x2HcqvIDtvipJPcIuUm+KF+3zy01/FPxorgq7Wbcx+wGOfzx5ZK8puLYpg4HFj1ni3D7iOum9+HvyLJYtXO9J2fHLL4DTZp9HRREj57NqAQxp7K28gcamBlgtQszdmTLMbt2vPDwUXbKpNOifbFx/BrsvRUvFr4qibCiaHKJQ96W7NC9fAWBXe3s05VHkGK6ZT/S3EsmfyMhlpT+599KeQgVDBMj7fyc6LRgp3E=;whiyT1xqsZxM5HougVL/3w=="
+secured: "SV+dNSqpE27HcRQTrUKZLWNYLNThD1wJo4eiIhQKV56oeHCl7DaVl/03s0o+myOTNTKvKo3gwrtZ7SI8I7MozEtnt5AQ/a7otPHWiVjOJrmi3tdK/8elTFMaHnaNNBAmpv9sLRyPatCMEKnVJZq9DJn4lj5Mn7Qj9wrxjWLxykHRjdladKf83FMOqwrzmg2Dqp25hR3PM9XP4gBeTHidKinswNJFLFhDnOgL/UR0cKB3e9HSq3h6QXJEx8nU9D6LQg+xJBw+wMDeWu06kncBy9O0fkJqs8NwwClnxyjruNvwxyhOnkz1zaVrhMx2Af+mYeTWLyyCBVLRlTExY6OsvSLnVloS+lwIxL4W8ZB98Mk=;FrHj4e20LP/2Ue5os7RdZA=="
 ---
 

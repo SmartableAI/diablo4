@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/03/17/will-diablo-4-beta
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/17/will-diablo-4-beta-progress-carry-over-to-the-full-game/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Does Diablo 4 Beta progress carry over?"
+    excerpt: "Good news everyone! Your progress in the early access beta will carry over to the Diablo 4 open beta. Anything you did in the first beta will be present in the next. Didn’t quite manage to hit Level ..."
+    publishedDateTime: 2023-03-20T18:16:00Z
+    webUrl: "https://www.shacknews.com/article/134664/diablo-4-beta-progress-carry-over"
+    ampWebUrl: "https://www.shacknews.com/article/134664/diablo-4-beta-progress-carry-over?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134664/diablo-4-beta-progress-carry-over?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/20/does-diablo-4-beta-progress-carry-over_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4: Will Open Beta progress carry over to the full game?"
     excerpt: "Will Diablo 4 Open Beta progress carry over to the full game? Best answer: No, gameplay progression in the Diablo 4 Open Beta (that means character levels, earned loot, and story progress) will not ..."
     publishedDateTime: 2023-03-17T09:33:00Z

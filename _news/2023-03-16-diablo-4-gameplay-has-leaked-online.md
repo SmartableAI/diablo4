@@ -7,8 +7,8 @@ originalUrl: "https://gamerant.com/diablo-4-gameplay-leak/"
 webUrl: "https://gamerant.com/diablo-4-gameplay-leak/"
 type: article
 quality: 127
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: Game Rant
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 - Official Beta Early Access Gameplay Trailer"
-    excerpt: "Check out the latest trailer for Diablo IV. Get ready to descend into Hell early March 17 – 19 during the Diablo IV Beta Early Access weekend.Diablo IV is available on June 6, 2023."
-    publishedDateTime: 2023-03-01T10:57:00Z
-    webUrl: "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2023/03/01/diablo4betaearlyaccessgameplaytrailer-ign-blogroll-1677696974394.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 release date, beta, trailers, gameplay, and features"
     excerpt: "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ..."
     publishedDateTime: 2023-03-07T02:50:00Z
@@ -56,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "34 minutes of high-level Diablo 4 gameplay leaks online"
+    excerpt: "Over half an hour of high-level Diablo 4 gameplay was recently streamed online. As first picked up on by Reddit, a stream appeared to air what looked to be Diablo 4 gameplay. Not only this, but the ..."
+    publishedDateTime: 2023-03-18T00:05:00Z
+    webUrl: "https://www.yahoo.com/lifestyle/34-minutes-high-level-diablo-125918788.html"
+    type: article
+    provider:
+      name: Yahoo
+      domain: yahoo.com
+    quality: 67
 
 secured: "rM4EI+yfTdUr95kocJNfk9PA4kKtYU5Zu7uvMKfzZugvLfn/bIKwKxdHwY8JqeFomU/wGUUqdF7lrgbQN6KO1vfMfO8uzpTz2JZy7me1ZHbdSGe9vGZb7M5DQanE8zmYBPxZ2KbC5BDsvUAH/W1l7jyA2jeOZvLOIVDXvAVXEa3MiKXv/4vjMhvH/Auzk0g7kGPYhEnd7mbZwt90Xm+eS3+aHMHiFkXx+1i1X9zXLMDqw8knmFWw7aCZ55bivAoghrcXfsLaSlEcCreSUqiJ1UwAVCvTob4Nb1k6RcvmrM5IgT0Sdlwi6boq+sXdFptNPQNgpas9gJTJhaKT9iiNsdm7cg3aEvixEq3mlIAwkC0=;YX8AqlMCzFPewEN47NSnCQ=="
 ---
