@@ -206,15 +206,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "How to Get Access to the Diablo 4 Early Access Weekend and Open Beta"
-    excerpt: "Some big days are coming up for the latest Diablo game. In March 2023, both the Diablo 4 Early Access weekend and Open Beta weekend will appear. Early access will happen first, of course, with the ..."
-    publishedDateTime: 2023-03-02T15:32:00Z
-    webUrl: "https://www.siliconera.com/how-to-get-access-to-the-diablo-4-early-access-weekend-and-open-beta/"
-    type: article
-    provider:
-      name: siliconera
-      domain: siliconera.com
-    quality: 67
 
 secured: "iG7h95HfqSgHniZf157AqINcU3/vGCMA13H3a5xGHkGJBE/ow2b0wEkRj4Mfm8s6hrdUtv4p8bo4/PvopifKrRmJiGklp81tjwlE74/8vvwPCu9G9hQV/BxWtK8uM79RWB9l3fupr6k6kb4SE6N/K5aACHCRgYThXMCX42ckcGlCRtZOARlha20AGnVakcuABBKoQJVvzasnwM3WZWjWqNXFhk86VSZQriU3pgiRGuxeTZFnEGSC5sexBShEFGYW5xbYjBFsOO43vOfiPU7YL1gL89d7DW0btmuc9B+Ep7rpeOGfZ7IGQaTFplNzH1O+ZdJ+AKlvZul87PAG9QJRgunK1ONZdQUcwgeIbrR5s+U=;7u5V7xhydtTtKVV9hLRc6w=="
 ---
