@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-every-edit
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-every-edition-explained/ar-AA18FkqD"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 Battle Pass explained: Rewards, cost & more"
+    excerpt: "The Diablo 4 Battle Pass enables players to unlock a number of free and premium rewards, so here’s everything you need to know."
+    publishedDateTime: 2023-03-22T07:15:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-4-battle-pass-rewards-cost-2093094/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/22/Diablo-4-Battle-Pass-explained.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "RGITIgYnErrfHPsgcI+nhVds+IoNDJJ5PghwcfDxwCWQIGMvZKuykySezHsaml1M6mzpqgvy2SlN8AITRKXX5SDyx3dZ/VsekBXakPx4lxJ1buVukoZKfWq/bMzkYvRmIzxAuAZAoYiSDhak4M4i+jElv892XgEtu1VF21uxmDtFSzRHwJBoYKsnEuS2bp6wWbJLqOEkSgWGPElbp4xcoUYgOzuLJayr9IE6YIq9CwzN20buiCO9N3l+n5vgV2s5neJSMQbQNXUPzKtB8jKPeUL9hr/SlIpgEKXi3ghL6nF/+IYRWqREUrs4sF+aemKHCOb0QOMJyWEfNSVDQX5IsA4yxVG2XvQgrV3WKh/GmQ0=;EgUQ8LSnSNq4aWOW8Fd9+w=="
 ---
