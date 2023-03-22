@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips"
-excerpt: "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ..."
-publishedDateTime: 2023-03-20T14:41:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+title: "Diablo 4 - Rogue Specializations Guide"
+excerpt: "GameSpot may get a commission from retail offers. In addition to having access to different types of weapons, the Rogue in Diablo 4 can also change up their combat style on the fly. Rogues have access ..."
+publishedDateTime: 2023-03-22T14:41:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
 type: article
 quality: 147
-heat: 227
-published: true
+heat: -1
+published: false
 
 provider:
   name: GameSpot
@@ -24,27 +24,27 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg"
-    width: 1536
-    height: 864
+  - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4115739-d4rogue.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
-  - title: "Diablo 4 - Rogue Specializations Guide"
-    excerpt: "GameSpot may get a commission from retail offers. In addition to having access to different types of weapons, the Rogue in Diablo 4 can also change up their combat style on the fly. Rogues have access ..."
-    publishedDateTime: 2023-03-22T14:41:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+  - title: "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips"
+    excerpt: "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ..."
+    publishedDateTime: 2023-03-20T14:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
     type: article
     provider:
       name: GameSpot
       domain: gamespot.com
     quality: 147
     images:
-      - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4115739-d4rogue.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg"
+        width: 1536
+        height: 864
         isCached: true
   - title: "World boss Ashava spawn times and location in the Diablo 4 beta"
     excerpt: "Diablo 4's first world boss, Ashava, is one of the main challenges available during the two Diablo 4 betas this month. Unlike dungeons and quests, world bosses wait for no slayer. Ashava has three ..."
@@ -89,6 +89,6 @@ related:
         height: 675
         isCached: true
 
-secured: "3i73Il/sxM8NNXSiKg9/0RBpuoMoNIJUgIOHFhx8nCRaxdbGlmI0wAL83gnnkqQtU1L9ZZLs1Wupaf6yGNv2x1V5Jz0BjayfGb1CDbBNqdzyVrRvxuZYWp2ZhOBhq3s8KjSflcvGA4tldpWThXyaNiyHvMc54OefQ44Erh3ZqVmMH5SIGq2nk29/xnmh2GLZIVAL7oWGu8IMSB6Xu2n42k3XmDerWBssd78YMvlfA2jF1bRlvW/UrS+CzGGDgTJYNn/SKfqokZyF7kE+i7RoIBcpLK0SI2qN/mM275jc01vgztXc8y+dwU6ZK8e73pWDDcBoyJzqbC53vtEW2bsTyQd9tMa3gLde7z971iPigoc=;YOJyOeI1JgeEBSXdrgdVVg=="
+secured: "hZdmwp/QLvbfQ//XYtG9k1lLsYFrnP7CarmUCCgBeZW8INpbylJHvsES0VKz4iS9xkTlnMgYTDjYC6DhK+qr6nGrFty7vYKMBt8TENdBk6sI+pvTNJXoXCHxdx9mbiwGNp3zVIvywW1xt8U+XxDI4fPW3XP5uYzn9oBtV1HyUjers4/bs6ULDEhrxe6E4l82cQPbQ5xtHCt68y1FKGw7T1qL8PtCWdn/Df3kZa+Uzcs9LlMZ3wuAYafLi+jlXk5I/ZXCLV8PCCnatRkOzwoCo7Xsug+6dh+bBZZrITmrlNTrD4T4oQ5u9duvqoTInRchaW+iJTbULT85CHgo7trlz2lgoyO4JFBnzAmNMh+XniE=;BGHqVmfgx81U0Rhg9mKNSA=="
 ---
 

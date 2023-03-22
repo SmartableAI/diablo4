@@ -44,6 +44,22 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Diablo 4 - Rogue Specializations Guide"
+    excerpt: "GameSpot may get a commission from retail offers. In addition to having access to different types of weapons, the Rogue in Diablo 4 can also change up their combat style on the fly. Rogues have access ..."
+    publishedDateTime: 2023-03-22T14:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4115739-d4rogue.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Beta: World Boss (Ashava) Spawn Times"
     excerpt: "Diablo 4 players can take on a World Boss during the Open Betas, but only during certain times and one day. One of these events in both the Open Beta and the Early Access Beta weekends will be the ..."
     publishedDateTime: 2023-03-15T17:57:00Z
