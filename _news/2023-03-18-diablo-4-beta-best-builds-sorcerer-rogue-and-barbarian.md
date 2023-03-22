@@ -7,7 +7,7 @@ originalUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
 webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
 type: article
 quality: 104
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
     quality: 87
     images:
       - url: "https://asset.vg247.com/diablo-4-necromancer_7MTOQrX.jpg/BROK/thumbnail/1200x630/diablo-4-necromancer_7MTOQrX.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Diablo 4 Sorcerer build: Best skills for the Sorcerer"
+    excerpt: "Our Lightning Sorcerer build will send shockwaves through your enemies and generate Crackling Energy, which you can collect to deal even more damage."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-sorcerer-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Sorcerer_BI4wyOR.jpg/BROK/thumbnail/1200x630/Diablo-4-Sorcerer_BI4wyOR.jpg"
         width: 1200
         height: 630
         isCached: true

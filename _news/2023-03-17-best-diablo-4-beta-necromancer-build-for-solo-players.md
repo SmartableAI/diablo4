@@ -66,6 +66,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Best Diablo 4 Sorcerer build: Best skills for the Sorcerer"
+    excerpt: "Our Lightning Sorcerer build will send shockwaves through your enemies and generate Crackling Energy, which you can collect to deal even more damage."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-sorcerer-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Sorcerer_BI4wyOR.jpg/BROK/thumbnail/1200x630/Diablo-4-Sorcerer_BI4wyOR.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OzZvQlrG7ZlWcWyVKnZjJjgInMJKpJa4CCwAp1AbRKPESys3xKo3jjCmk+p6BbvHzQXTd34LFzbiD+6B3RNRoxSWDh4PV4B5spesthtrsBVhaX3ssv5sBg3itkAPwLMpsaui+awjZpuhmUtKGbfP+kaqDC8vTx1n8Y3OfOx0MapiZQM2TC8oBsD2KYO6Qm9Gk7YWNkJxb6wQDGGZVZeGOkluyz6K48nn6RP2CKMRGIwua0tNwwyTO3nfxyAE/5ve+8d2xXoMmewPW4glwFZLJVj0skPEFbxyj0S6LvvIQQAt+wtBI7NociIYccaXJLjjDzw2yEQsGZI4oBwIr9c4KY2+nrBHFmdhVkyuzlVz2lI=;KsYIqlvrG15QSBISIni+xQ=="
 ---

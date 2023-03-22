@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-diablo-4-beta-what-to-expect-from-druid-and-necromancer.md",
+      "title": "Diablo 4 beta – what to expect from Druid and Necromancer",
+      "excerpt": "As Lilith’s minions crawl out of the shadows, Blizzard’s Diablo 4 beta has proven that you’ll need to muster all of your strength to send them back to the burning hells. Two new Diablo 4 classes will ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-beta-what-to-expect-from-druid-and-necromancer/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-necromancer-druid-classes.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-diablo-4s-rocky-beta-means-a-smoother-launch.md",
+      "title": "Diablo 4's rocky beta \"means a smoother launch\"",
+      "excerpt": "Blizzard has addressed Diablo 4's beta woes from its opening day, promising that the bumpy experience will lead to a \"smoother launch.\" Speaking to GamesRadar+, Diablo general manager Rod Fergusson ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-rocky-beta-means-a-smoother-launch/index.json",
+      "webUrl": "https://sports.yahoo.com/diablo-4s-rocky-beta-means-153011551.html",
+      "originalUrl": "https://sports.yahoo.com/diablo-4s-rocky-beta-means-153011551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/6YSFj.ldsb0UdbmlYl_G_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/fbc84ca073007151c0423194d413b249",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yahoo! Sports",
+        "domain": "yahoo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues.md",
       "title": "Diablo 4 Open Beta Patch Addresses Queue Times, Fixes World Boss Spawn Issues",
       "excerpt": "The rollout of Diablo IV's open beta will ideally be a little smoother than its early access one, thanks to a patch that should improve queue times. In an official post on the Diablo IV forums, ...",
@@ -34,6 +119,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features.md",
+      "title": "Diablo 4’s Beta Buries One of Its Most Useful Quality of Life Features",
+      "excerpt": "Diablo 4 has concluded its first of two beta weekends and important intel has been shared since, including a terribly helpful quality of life feature. Teases for quests that were inaccessible were a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
+      "originalUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-quality-of-life-feature.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1006,132 +1142,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-diablo-4-hands-on-preview-its-a-dark-dark-world.md",
-      "title": "Diablo 4 hands-on preview: It's a dark, dark world",
-      "excerpt": "Diablo 4 has been a long time coming, as Blizzard has tried to right past wrongs by taking its sweet time and making sure it's fully ready before bringing it to the masses. As part of that slow-boil ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-hands-on-preview-its-a-dark-dark-world/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-hands-on-preview-it-s-a-dark-dark-world/ar-AA18SO16",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-hands-on-preview-it-s-a-dark-dark-world/ar-AA18SO16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18T2xv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T18:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties.md",
-      "title": "Diablo 4: How to play split-screen co-op and get bonus XP from parties",
-      "excerpt": "Need to know how to play couch co-op in Diablo 4? Here is our guide on how to play split-screen co-op and how to get bonus XP while doing so. Diablo 4, the upcoming sequel to Blizzard’s much-beloved ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties-2091692/",
-      "originalUrl": "https://www.dexerto.com/diablo/diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties-2091692/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/21/ezgif-3-e63555e632.jpg",
-          "width": 728,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-manager-says-classes-shouldnt-always-feel-equally-balanced.md",
-      "title": "‘Diablo 4’ manager says classes shouldn’t always feel equally balanced",
-      "excerpt": "Diablo 4 kicked off its first beta on Friday (March 17), giving players an opportunity to play three of the game’s classes before the game’s next open beta on March 24. While two classes – Necromancer ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-manager-says-classes-shouldnt-always-feel-equally-balanced/index.json",
-      "webUrl": "https://www.nme.com/en_au/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3417270",
-      "originalUrl": "https://www.nme.com/en_au/news/gaming-news/diablo-4-beta-class-balancing-barbarian-3417270",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-sorcerer-class.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

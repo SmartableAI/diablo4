@@ -2,6 +2,141 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-10-get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich.md",
+      "title": "Get Diablo 4 Early Beta Access By Buying A KFC Sandwich",
+      "excerpt": "GameSpot may get a commission from retail offers. Blizzard and KFC are partnering to offer early access to Diablo 4's beta. If you buy a Double Down (or any eligible sandwich) at KFC, you'll get a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-10-get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/index.json",
+      "webUrl": "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "originalUrl": "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
+      "publishedDateTime": "2023-03-09T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab.md",
+      "title": "It's time to Double Down on Diablo 4 hype with this tasty KFC collab",
+      "excerpt": "The Diablo 4 marketing train continues. Just days after the epic reveal of a mural devoted to Lilith on a French Cathedral roof, we've now received news of a tasty Kentucky-fried ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-09-its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab/index.json",
+      "webUrl": "https://www.msn.com/en-us/foodanddrink/foodnews/its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab/ar-AA18qknY",
+      "originalUrl": "https://www.msn.com/en-us/foodanddrink/foodnews/its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab/ar-AA18qknY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18qALZ.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=424&y=134",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-diablo-4-cash-shop-announcement-bjorn-und-ben-erklaren-blizzards-ingame-shop-synchro-parodie-.md",
+      "title": "Diablo 4 Cash Shop Announcement - Björn und Ben erklären Blizzards Ingame Shop [ Synchro / Parodie ]",
+      "excerpt": "Diablo IV Ingame Shop | Diablo 4 Cash Shop | Diablo 4 Beta | Diablo 4 Marketing | Diablo 4 P2W | Blizzard P2W | pay to win ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-09-diablo-4-cash-shop-announcement-bjorn-und-ben-erklaren-blizzards-ingame-shop-synchro-parodie-/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-09-diablo-4-cash-shop-announcement-bjorn-und-ben-erklaren-blizzards-ingame-shop-synchro-parodie-/",
+      "originalUrl": "https://youtube.com/watch?v=d_V2hh1FK58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d_V2hh1FK58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T06:38:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aero Orka",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-is-diablo-4-coming-to-ps4-and-xbox-one.md",
       "title": "Is Diablo 4 coming to PS4 and Xbox One?",
       "excerpt": "The latest game in the Diablo franchise, Diablo 4, is coming out soon on multiple platforms. However, fans are curious to see if Diablo 4 will come out on the PS4 and Xbox One. Here is a quick rundown of all the consoles that will allow Diablo’s intense",
@@ -114,48 +249,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-what-to-expect-from-diablo-4s-march-beta.md",
-      "title": "What to Expect from Diablo 4’s March Beta",
-      "excerpt": "Diablo 4 has two beta weekends this month to try out its five character classes and earn rewards that will transfer into June's full launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-05-what-to-expect-from-diablo-4s-march-beta/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/what-to-expect-from-diablo-4-s-march-beta/ar-AA18g0hZ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/what-to-expect-from-diablo-4-s-march-beta/ar-AA18g0hZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18g1Du.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T08:43:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
@@ -992,90 +1085,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-diablo-4-meets-milan-fashion-week-in-bizarre-lilith-collab.md",
-      "title": "Diablo 4 meets Milan Fashion Week in bizarre Lilith collab",
-      "excerpt": "In a surprising Diablo 4 collab, Blizzard has teamed up with one of Milan Fashion Week's most prestigious designers to bring the RPG game's antagonist to life.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-27-diablo-4-meets-milan-fashion-week-in-bizarre-lilith-collab/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/milan-fashion-week-lilith-collab",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/milan-fashion-week-lilith-collab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/Diablo-4-milan-fashion-week-lilith.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series.md",
-      "title": "Check out the World of Sanctuary in this new Diablo 4 BTS video series",
-      "excerpt": "Blizzard has published the first of its \"Inside the Game\" featurettes, a new video series to get you into the mood for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-26-check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series/index.json",
-      "webUrl": "https://www.eurogamer.net/check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series",
-      "originalUrl": "https://www.eurogamer.net/check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.reedpopcdn.com/diablo_header.jpg/BROK/thumbnail/1200x630/diablo_header.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
