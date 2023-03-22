@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-b
 webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
 type: article
 quality: 127
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FRa5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Beta release date, start time and preload"
+    excerpt: "The Diablo 4 Open Beta is almost here and will let fans try out Blizzard's highly anticipated RPG for free. Following an Early Access test last week which was only available to those that pre-ordered ..."
+    publishedDateTime: 2023-03-22T04:34:00Z
+    webUrl: "https://www.vg247.com/diablo-4-open-beta-release-date-time-preload"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg"
         width: 1200
         height: 630
         isCached: true

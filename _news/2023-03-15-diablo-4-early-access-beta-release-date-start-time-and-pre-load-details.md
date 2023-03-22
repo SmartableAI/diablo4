@@ -202,6 +202,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What we thought of the Diablo 4 early access beta"
+    excerpt: "The doors to Diablo 4 finally flew wide open this past weekend, ahead of the game's release in a couple of months' ..."
+    publishedDateTime: 2023-03-22T03:56:00Z
+    webUrl: "https://www.eurogamer.net/what-we-thought-of-the-diablo-4-early-access-beta"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg/BROK/thumbnail/1200x630/lillith_diablo4_Iuoem5t.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "g3mv8fQ52sIO0uDDG0qutv74Non99tmYuIckpxVSAwV39XNCZYxCelCrKrDITrbfIw9m6sblHuip5PT+IO4g0vuxi84lHpDnHJvwGtzp+9+3czNhL2kLqxXbDSOPrIi9aa60pzNrFEabprbn1BhB2LxgDnK7Ty04z0hv6Q/hi+YlFHX2UQK1gOGKXMSxHnZ+QHL5a6bCKWzsVByRu3dVFaFZBPAVv3RCVD+AT58FtBmdYJ7Or94lWFog/wReJnhwDxl+e4iu+XT/sTrqWKWtSigJklj1HLrPP1igfheoGyP4sS1vWnObFNB+JNBy2JeAI434yqZT7XOqBsfMdz1x5XALqYG++X4FFjgj8V8eQDA=;xooB9NtG8hjqDWvHQ8h7hA=="
 ---

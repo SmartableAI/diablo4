@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/"
 type: article
 quality: 147
-heat: 387
+heat: 407
 published: true
 
 provider:
@@ -191,6 +191,20 @@ related:
       - url: "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-1.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "What we thought of the Diablo 4 early access beta"
+    excerpt: "The doors to Diablo 4 finally flew wide open this past weekend, ahead of the game's release in a couple of months' ..."
+    publishedDateTime: 2023-03-22T03:56:00Z
+    webUrl: "https://www.eurogamer.net/what-we-thought-of-the-diablo-4-early-access-beta"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg/BROK/thumbnail/1200x630/lillith_diablo4_Iuoem5t.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."

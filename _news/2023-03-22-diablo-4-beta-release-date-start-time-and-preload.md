@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Diablo 4 beta release date, start time, and preload"
-excerpt: "The Diablo 4 Open Beta will soon be upon us, and Blizzard has provided additional details on what to expect, and when we can pre-load content. The Diablo 4 beta is being released in two phases: If you've pre-ordered Diablo 4, you'll be able to access the"
-publishedDateTime: 2023-03-15T01:24:00Z
-originalUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
-webUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
+title: "Diablo 4 Beta release date, start time and preload"
+excerpt: "The Diablo 4 Open Beta is almost here and will let fans try out Blizzard's highly anticipated RPG for free. Following an Early Access test last week which was only available to those that pre-ordered ..."
+publishedDateTime: 2023-03-22T04:34:00Z
+originalUrl: "https://www.vg247.com/diablo-4-open-beta-release-date-time-preload"
+webUrl: "https://www.vg247.com/diablo-4-open-beta-release-date-time-preload"
 type: article
 quality: 87
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://asset.vg247.com/diablo-4-beta.jpg/BROK/thumbnail/1200x630/diablo-4-beta.jpg"
+  - url: "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 beta release date, start time, and preload"
+    excerpt: "The Diablo 4 Open Beta will soon be upon us, and Blizzard has provided additional details on what to expect, and when we can pre-load content. The Diablo 4 beta is being released in two phases: If you've pre-ordered Diablo 4, you'll be able to access the"
+    publishedDateTime: 2023-03-15T01:24:00Z
+    webUrl: "https://www.vg247.com/diablo-4-beta-release-date-time-preload"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-beta.jpg/BROK/thumbnail/1200x630/diablo-4-beta.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Preloads Begin for This Weekend's Beta"
     excerpt: "Blizzard has officially opened up pre-loading for Diablo 4's upcoming limited-access beta test, allowing players to download in preparation for the event's start. Diablo 4's official launch is still months away, but Diablo fans will be receiving their ..."
     publishedDateTime: 2023-03-15T13:02:00Z
@@ -91,20 +105,6 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FRa5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Beta release date, start time and preload"
-    excerpt: "The Diablo 4 Open Beta is almost here and will let fans try out Blizzard's highly anticipated RPG for free. Following an Early Access test last week which was only available to those that pre-ordered ..."
-    publishedDateTime: 2023-03-22T04:34:00Z
-    webUrl: "https://www.vg247.com/diablo-4-open-beta-release-date-time-preload"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -137,6 +137,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "s86TiWGYcC6EyenLzNdU/AY9nLYMwKpS7wG4G0BfevoU8SZl5dsdTCcNM+h9YYEB5MqX9y/9qZ1xeVkhNG9beZ4LpvCi1qRa8a21BmZNymybBJYsBG6uBIKbRPw8/Nw7mABj+jVINLPcXo+Ag+GhXMYhqPfV66p5H7u22CaxAYE48DJIomp8JHMZKg13MnDO2iLj5e+Qyznz0Li2EemiB2Exx8rT/+P8YoYeuJfgtSKAmINXcclVVHlvDD2jpiI+zYP6BSH7QbjRVwc00iqpNQxCxnHx+XfkRyp/9veCK02s9n/u/3z9VndmljNnXnBxndYminBo0oBF2Jq+TyEJ52rYSAqQbguQFAmbOtPipxI=;nYbgpud0hwP39J5mQbb+Vg=="
+secured: "4Yvpa6CWM9vpK7quLZEPWc2Bp+LwtEps5ZAKrS2tndOx+fXDq5WpLcbUahnxaV91MAhpIpuVD63A+mGQJg3PUVPwom6JJDui8GQTLXVkEe2BjrfKwt0fbKymdLmEuBKHZn619EiMszRG05Ogu0yEpVtdn+YwC19gdMBKUpRQfzO+Gaz8CASt2IIOa6bMWlGH9D3XZHEF/goYYXQb0/D7JRGMIBeEHIDOsyfl5RsVzvYKhX5vIvDcvNYb7VHIkZWSssO7d4MuXTqktTVGtoW9X04QK3cA7bn1SnpbJl4oSQFjQuDW/I9v8J27AZ29LSTgnj3QqjmW4VyC122+sPmA/66yhs/N8RvqyHqRTjIBMwU=;1z9M9FqLERHoA77UvAXIGg=="
 ---
 

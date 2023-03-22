@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Diablo 4 beta Early Access, Open Beta release time, dates, pre-load and campaign content"
-excerpt: "You can unsubscribe at any time. More info The first part of Diablo 4's pre-release beta is about to get started. First up is the Diablo 4 Early Access beta, which is available on PlayStation 5 and ..."
-publishedDateTime: 2023-03-16T08:39:00Z
-originalUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content"
-webUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content"
-ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content/amp"
-cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content/amp"
+title: "What we thought of the Diablo 4 early access beta"
+excerpt: "The doors to Diablo 4 finally flew wide open this past weekend, ahead of the game's release in a couple of months' ..."
+publishedDateTime: 2023-03-22T03:56:00Z
+originalUrl: "https://www.eurogamer.net/what-we-thought-of-the-diablo-4-early-access-beta"
+webUrl: "https://www.eurogamer.net/what-we-thought-of-the-diablo-4-early-access-beta"
 type: article
-quality: 98
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Daily Express
-  domain: express.co.uk
+  name: Eurogamer
+  domain: eurogamer.net
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/secondary/Diablo-4-Early-Access-and-Open-beta-4630485.jpg?r=1678981168977"
-    width: 590
-    height: 350
+  - url: "https://assets.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg/BROK/thumbnail/1200x630/lillith_diablo4_Iuoem5t.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -103,6 +101,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 beta Early Access, Open Beta release time, dates, pre-load and campaign content"
+    excerpt: "You can unsubscribe at any time. More info The first part of Diablo 4's pre-release beta is about to get started. First up is the Diablo 4 Early Access beta, which is available on PlayStation 5 and ..."
+    publishedDateTime: 2023-03-16T08:39:00Z
+    webUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content"
+    ampWebUrl: "https://www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/entertainment/gaming/1747238/Diablo-4-beta-Early-Access-Open-Beta-release-time-dates-pre-load-campaign-content/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 98
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/143/590x/secondary/Diablo-4-Early-Access-and-Open-beta-4630485.jpg?r=1678981168977"
+        width: 590
+        height: 350
         isCached: true
   - title: "Diablo 4 Early Access Open Beta start time in US, UK"
     excerpt: "Diablo 4 Early Access beta start time North America & US Diablo 4 Early Access beta start time South America Diablo 4 Early Access beta start time UK Diablo 4 Early Access beta start time Europe ..."
@@ -188,20 +202,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What we thought of the Diablo 4 early access beta"
-    excerpt: "The doors to Diablo 4 finally flew wide open this past weekend, ahead of the game's release in a couple of months' ..."
-    publishedDateTime: 2023-03-22T03:56:00Z
-    webUrl: "https://www.eurogamer.net/what-we-thought-of-the-diablo-4-early-access-beta"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg/BROK/thumbnail/1200x630/lillith_diablo4_Iuoem5t.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Early Access Beta Release Date, Start Time, And Pre-Load Details"
     excerpt: "If you have pre-ordered Diablo 4, you can start pre-loading today! As for the start time for the Diablo 4 beta, players will be able to jump in at 9AM PT / 12PM ET / 5PM UTC on March 17th. Pre-loading ..."
     publishedDateTime: 2023-03-15T03:23:00Z
@@ -217,6 +217,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "51KAypZAvn+TQVwh+uguG35Om6ZtMMSTKBa3VTxFH2PjYjoF6J96Skp5yGgceEOVSYt+XnnWTSZh4lgdj9N1xNte3U6u1i5EoIMKVdtDjmLwdRykzNRU3CvEwy2WwD553bLho7nvh+qfW8uYSt47jynJW/FXWyIBRjxyvr6pyKTna3e5XSZo8QDH2TrWm/PaTKHFlRJQyhuNywND/5FEmRWx4YHGi/QuewVzS73j/JznnUxHzPmRYzgNNEPfaE+Jocl3GDdLJNQAjZudO42IVozKG3updZ6rxZVntDHlTHF+ybtgUs5Gz9XY3ZNU5ZUFbQCnTwMNCb52WuNiw2Dge1s7mqc46AcwvlzwAqleWF0=;6E13zGgQcH8JqBYueDkZIw=="
+secured: "+l/Yj2w+gc3mx9IDlPp4sCYBqlbSCueJTuLb4apHojJYOiAc6Ei14252jlFW3Zmi2K0ONjGHgRFUCA8B27urPJceMCmJZW6e9eDfYYZmILz/ZK+8PG/l38mBABaYKwNqBBDTRs3Yvt8k+MNpEpaepsVv/jRTSGXeBmEmQCQpD6fnIhZusSZ0KSsMcrtnWHI3YYQKPTtBYJCyrNNyW6WQ+Ke7rG1HI2GqCmHXlJZojawKPvDhhZeCYsnGSLMEi/1gHrMLqrWlXowMa+KL6u9Sm0EY+/B7gXKblvuXIj4crWYy39Q097u1FeaJLCieEIyuMD4vq10I1Jpz/Th1rhoBX6fCH8n6hoiP3xx97I6sNfU=;xac3nyIgt3sQ0VYy72ykUQ=="
 ---
 

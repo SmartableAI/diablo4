@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Beta release date, start time and preload"
+    excerpt: "The Diablo 4 Open Beta is almost here and will let fans try out Blizzard's highly anticipated RPG for free. Following an Early Access test last week which was only available to those that pre-ordered ..."
+    publishedDateTime: 2023-03-22T04:34:00Z
+    webUrl: "https://www.vg247.com/diablo-4-open-beta-release-date-time-preload"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Early Access open beta preload time – when can I download the beta in US, UK?"
     excerpt: "Diablo 4 Early Access beta preload time North America & US Diablo 4 Early Access beta preload time South America Diablo 4 Early Access beta preload time UK Diablo 4 Early Access beta preload time Europe Diablo 4 Early Access beta preload time Asia Diablo"
     publishedDateTime: 2023-03-14T05:07:00Z

@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Beta release date, start time and preload"
+    excerpt: "The Diablo 4 Open Beta is almost here and will let fans try out Blizzard's highly anticipated RPG for free. Following an Early Access test last week which was only available to those that pre-ordered ..."
+    publishedDateTime: 2023-03-22T04:34:00Z
+    webUrl: "https://www.vg247.com/diablo-4-open-beta-release-date-time-preload"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
     excerpt: "Preloads for the Diablo 4 Open Beta are now available on Xbox, PC, and PlayStation for anyone that preordered the game and has Early Access. The Open Beta is scheduled to first run from March 17-19 ..."
     publishedDateTime: 2023-03-15T14:50:00Z

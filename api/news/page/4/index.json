@@ -2,6 +2,141 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-16-diablo-4-beta-crossplay-multiplayer-explained.md",
+      "title": "Diablo 4 Beta: Crossplay Multiplayer Explained",
+      "excerpt": "Plus, there’s no guarantee a title will ship with crossplay intact. You don’t have to worry about that with Diablo IV. Diablo IV‘s beta will also support couch co-op for those who are able to take ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-beta-crossplay-multiplayer-explained/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-4-beta-crossplay-multiplayer-explained/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-4-beta-crossplay-multiplayer-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2023/03/Diablo-4-Rogue-2.jpg",
+          "width": 1919,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-diablo-4-gameplay-has-leaked-online.md",
+      "title": "Diablo 4 Gameplay Has Leaked Online",
+      "excerpt": "36 minutes of Diablo 4 gameplay leaks online less than 3 months away from launch, and a day before the beta early access opens. Diablo 4 gameplay has been leaked online. The video is fairly long, 36 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-gameplay-has-leaked-online/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-gameplay-leak/",
+      "originalUrl": "https://gamerant.com/diablo-4-gameplay-leak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-pre-alpha.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-is-there-permadeath-in-diablo-4.md",
+      "title": "Is there permadeath in Diablo 4?",
+      "excerpt": "Diablo IV looks to carry on the Diablo series while improving what makes it such a thrill. Players can expect fast-paced combat, rich lore, and an exciting world to explore. Unfortunately, they can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-is-there-permadeath-in-diablo-4/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/is-there-permadeath-in-diablo-4/ar-AA18IFtn",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/is-there-permadeath-in-diablo-4/ar-AA18IFtn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA186Ke9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-how-to-download-diablo-4-beta-on-ps5-and-ps4.md",
       "title": "How to Download Diablo 4 Beta on PS5 and PS4",
       "excerpt": "Eager players will want to work out how to download the Diablo 4 beta on PS5 and PS4 ahead of the early access beta and open beta. Thankfully, it’s not too difficult, but it’s easy to get stuck.",
@@ -238,7 +373,7 @@
       "originalUrl": "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -424,7 +559,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 387,
+      "heat": 407,
       "tags": null,
       "images": [
         {
@@ -985,132 +1120,6 @@
       "provider": {
         "name": "Windows Central on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-what-to-expect-from-diablo-4s-march-beta.md",
-      "title": "What to Expect from Diablo 4’s March Beta",
-      "excerpt": "Diablo 4 has two beta weekends this month to try out its five character classes and earn rewards that will transfer into June's full launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-05-what-to-expect-from-diablo-4s-march-beta/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/what-to-expect-from-diablo-4-s-march-beta/ar-AA18g0hZ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/what-to-expect-from-diablo-4-s-march-beta/ar-AA18g0hZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18g1Du.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T08:43:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-blizzard-explains-how-diablo-4-will-be-more-like-an-mmo.md",
-      "title": "Blizzard Explains How Diablo 4 Will Be More Like an MMO",
-      "excerpt": "The big announcement out of BlizzCon 2019 was the fact that Diablo 4 was in development. Fans have long assumed this was the case, but it was nice to get some official word from Blizzard itself.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-03-blizzard-explains-how-diablo-4-will-be-more-like-an-mmo/index.json",
-      "webUrl": "https://heavy.com/games/2020/01/diablo-4-mmo/",
-      "originalUrl": "https://heavy.com/games/2020/01/diablo-4-mmo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2020/01/diablo-4-mmo-features.jpg?quality=65&strip=all&w=780",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/games/2020/01/diablo-4-mmo/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/2020/01/diablo-4-mmo/amp/",
-      "publishedDateTime": "2023-03-03T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-diablo-4-beta-gives-players-rewards-just-for-playing.md",
-      "title": "Diablo 4 Beta Gives Players Rewards Just for Playing",
-      "excerpt": "Diablo 4's open beta is quickly approaching with the public's first hands-on opportunity with the game scheduled to get underway on march 17th, and ahead of that release, we've gotten a better idea of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-02-diablo-4-beta-gives-players-rewards-just-for-playing/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-beta-release-date-rewards/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-beta-release-date-rewards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/",
-      "publishedDateTime": "2023-03-01T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
