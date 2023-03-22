@@ -2,6 +2,48 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-19-now-diablo-4-test-footage-has-leaked-online.md",
+      "title": "Now Diablo 4 test footage has leaked online",
+      "excerpt": "A few hours after Rockstar's highly anticipated sequel spilled online, around forty minutes of Diablo 4 test footage also leaked onto the net, showing off gameplay of Blizzard's upcoming ARPG. Spotted ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-now-diablo-4-test-footage-has-leaked-online/index.json",
+      "webUrl": "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online/",
+      "originalUrl": "https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
       "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
       "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "Eurogamer",
         "domain": "eurogamer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-diablo-4-alpha-footage-has-leaked-with-a-quick-look-at-the-character-creator.md",
-      "title": "Diablo 4 alpha footage has leaked with a quick look at the character creator",
-      "excerpt": "Despite being meant only for trusted friends and family, footage of the Diablo 4 alpha has leaked online anyway - if only briefly.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-diablo-4-alpha-footage-has-leaked-with-a-quick-look-at-the-character-creator/index.json",
-      "webUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts",
-      "originalUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
-          "width": 600,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/",
-      "publishedDateTime": "2022-08-07T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
