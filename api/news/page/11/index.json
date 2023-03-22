@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window.md",
+      "title": "'Diablo 4' Gets An Open Beta Date And Release Window",
+      "excerpt": "\"Diablo 4\" is almost out of the development oven, but it still needs plenty of testing to ensure a favorable launch.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window/index.json",
+      "webUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
+      "originalUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
+          "width": 1455,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
+      "publishedDateTime": "2022-11-06T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more.md",
       "title": "Blizzard Explains Diablo 4 Skill Trees and More",
       "excerpt": "Blizzard's developers reveal important gameplay information about the upcoming Diablo 4's character skills, progression, and more.",
@@ -1025,57 +1067,6 @@
         "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign.md",
-      "title": "Diablo 4 leak shows you’ll be able to skip the whole campaign",
-      "excerpt": "Newly leaked screenshots of Diablo 4 suggest you’ll be able to skip the upcoming action RPG’s main campaign. The details of how campaign skipping will work are unclear. It’s not obvious whether you’ll ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5CVs7ck3HEmyEtZw8QFaib-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

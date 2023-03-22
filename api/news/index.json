@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-is-diablo-4-gender-locked.md",
+      "title": "Is Diablo 4 gender locked?",
+      "excerpt": "NOW READ: Is Diablo 4 pay to win? If this is something you’ve been pondering for a while now, then you’ve come to the right place. We’ll be taking a look at the avatar customization options available ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-is-diablo-4-gender-locked/index.json",
+      "webUrl": "https://www.videogamer.com/news/is-diablo-4-gender-locked/",
+      "originalUrl": "https://www.videogamer.com/news/is-diablo-4-gender-locked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-who-is-the-protagonist-in-diablo-4.md",
+      "title": "Who is the protagonist in Diablo 4?",
+      "excerpt": "Blizzard has already revealed who the antagonist of Diablo 4 is going to be thanks to the numerous trailers that have been showcased ahead of its release. NOW READ: Does my progress in Diablo 4 Open ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-who-is-the-protagonist-in-diablo-4/index.json",
+      "webUrl": "https://www.videogamer.com/news/who-is-the-protagonist-in-diablo-4/",
+      "originalUrl": "https://www.videogamer.com/news/who-is-the-protagonist-in-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house.md",
       "title": "Blizzard wants you to play Diablo 4 so badly that it’ll powerwash your house",
       "excerpt": "Blizzard and Thumbtack are giving away $20,000 in services so that Diablo 4 players can have their chores taken care of during the open beta weekend. Need your house power washed? Have Ikea furniture ...",
@@ -364,48 +448,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-diablo-4s-rocky-beta-means-a-smoother-launch.md",
-      "title": "Diablo 4's rocky beta \"means a smoother launch\"",
-      "excerpt": "Blizzard has addressed Diablo 4's beta woes from its opening day, promising that the bumpy experience will lead to a \"smoother launch.\" Speaking to GamesRadar+, Diablo general manager Rod Fergusson ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4s-rocky-beta-means-a-smoother-launch/index.json",
-      "webUrl": "https://www.msn.com/en-gb/money/other/diablo-4-s-rocky-beta-means-a-smoother-launch/ar-AA18UsEl",
-      "originalUrl": "https://www.msn.com/en-gb/money/other/diablo-4-s-rocky-beta-means-a-smoother-launch/ar-AA18UsEl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UsEh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=597&y=272",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T01:30:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1092,57 +1134,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4s-open-world-is-caught-between-a-rock-and-a-hard-place.md",
-      "title": "Diablo 4's Open World is Caught Between a Rock and a Hard Place",
-      "excerpt": "Diablo 4 features a sprawling open world, but some may be disappointed at the limited interactions they’ll encounter while they explore.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4s-open-world-is-caught-between-a-rock-and-a-hard-place/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-open-world-mmo-interconnected-features-tone-isolation-immersion/",
-      "originalUrl": "https://gamerant.com/diablo-4-open-world-mmo-interconnected-features-tone-isolation-immersion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-logo-barbarian-rock-environment.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

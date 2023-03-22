@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error.md",
+      "title": "How to Fix Diablo 4 This Game Cannot be Played Yet Error",
+      "excerpt": "Blizzard’s highly anticipated next iteration of the iconic Diablo franchise is here; well, sort of. The game’s open beta offers those who have pre-ordered the opportunity to check it out in Early ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/index.json",
+      "webUrl": "https://twinfinite.net/2023/03/how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/",
+      "originalUrl": "https://twinfinite.net/2023/03/how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo_4_lillith_graphic.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-what-are-treasure-goblins-in-diablo-4.md",
       "title": "What are Treasure Goblins In Diablo 4",
       "excerpt": "However, there is a special type of creature that spawns rarely in Diablo 4, known as the Treasure Goblin. But what exactly does a Treasure Goblin do in Diablo 4? A Treasure Goblin has been a very fun ...",
@@ -1070,57 +1112,6 @@
         "name": "Yahoo",
         "domain": "yahoo.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support.md",
-      "title": "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support",
-      "excerpt": "Nvidia has announced that more high-profile games will be receiving a boost from AI-powered Deep Learning Super Sampling (DLSS) technology, including Diablo IV, Redfall, and Forza Horizon 5. Microsoft ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4093510-cp2077_comparison_dlss.mp4.00_00_18_52.still001.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "publishedDateTime": "2023-03-16T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
