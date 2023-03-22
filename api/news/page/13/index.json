@@ -2,6 +2,99 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-19-diablo-4-reveals-open-beta-plans.md",
+      "title": "Diablo 4 Reveals Open Beta Plans",
+      "excerpt": "For the closed beta test, Blizzard is specifically looking for players \"who have recently spent significant amounts of time playing the end-game experiences of Diablo II: Resurrected and Diablo III .\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-reveals-open-beta-plans/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/04/12/a0a7eec8-8aa9-4871-b5e0-bb735e3e3b25/gta-6.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "publishedDateTime": "2022-09-19T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out.md",
+      "title": "Diablo 4 is asking people to play the end of the game before it comes out",
+      "excerpt": "In the Diablo games (and many others), vanquishing evil does not signal the end, but rather the beginning: Of endless grinding for incrementally better weapons, equipment, and res ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-diablo-4-closed-endgame-beta-coming-soon.md",
       "title": "Diablo 4 Closed Endgame Beta Coming Soon",
       "excerpt": "Blizzard has announced that it will be running a closed beta for Diablo 4 soon, focused on its endgame content.",
@@ -1020,90 +1113,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing.md",
-      "title": "Activision Blizzard wants all Diablo 4 employees to vote on unionizing",
-      "excerpt": "The NLRB is hearing Activision Blizzard Albany Union arguments to determine who has the right to vote, and the Diablo 4 maker introduced an unorthodox argument ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/activision-blizzard-shareholders-meeting.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer.md",
-      "title": "Diablo 4 - Lilith Awakening, By Three They Come | Announcement Cinematic Trailer",
-      "excerpt": "Amazing cinematic trailer of Lilith awakening in Diablo IV. Thanks for watching! Like and subscribe, check other videos on my ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=7RlIk8RYkaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7RlIk8RYkaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T12:54:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "K2Gaming",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

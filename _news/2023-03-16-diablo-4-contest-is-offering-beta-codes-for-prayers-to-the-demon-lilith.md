@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "All the Diablo 4 Altar of Lilith locations in Fractured Peaks"
+    excerpt: "If you're setting out to clear the map, Diablo 4 Altar of Lilith statues will be one of your biggest collection tasks. Each one rewards some Diablo 4 renown and also unlocks stat bonuses for all your ..."
+    publishedDateTime: 2023-03-22T07:15:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-altar-of-lilith-locations/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/CVtWsVYYhudvREWGzPtDJo-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Who is Lilith in Diablo 4? Story explained"
     excerpt: "Lilith is one of the most iconic faces in the Diablo franchise, so let's give you a brief explainer on who she is and how she ties into Diablo 4."
     publishedDateTime: 2023-03-16T12:18:00Z

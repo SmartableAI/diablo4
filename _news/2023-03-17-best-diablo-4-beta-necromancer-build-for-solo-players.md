@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best Diablo 4 Barbarian Builds"
+    excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
+    publishedDateTime: 2023-03-22T08:52:00Z
+    webUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093102/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 104
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "OzZvQlrG7ZlWcWyVKnZjJjgInMJKpJa4CCwAp1AbRKPESys3xKo3jjCmk+p6BbvHzQXTd34LFzbiD+6B3RNRoxSWDh4PV4B5spesthtrsBVhaX3ssv5sBg3itkAPwLMpsaui+awjZpuhmUtKGbfP+kaqDC8vTx1n8Y3OfOx0MapiZQM2TC8oBsD2KYO6Qm9Gk7YWNkJxb6wQDGGZVZeGOkluyz6K48nn6RP2CKMRGIwua0tNwwyTO3nfxyAE/5ve+8d2xXoMmewPW4glwFZLJVj0skPEFbxyj0S6LvvIQQAt+wtBI7NociIYccaXJLjjDzw2yEQsGZI4oBwIr9c4KY2+nrBHFmdhVkyuzlVz2lI=;KsYIqlvrG15QSBISIni+xQ=="
 ---

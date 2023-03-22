@@ -2,6 +2,90 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4.md",
+      "title": "Diablo Immortal can (sort of) help pass the time until Diablo 4",
+      "excerpt": "We’ve had a lot of Diablo 4 news over the past few weeks, from exciting beta news to intriguing leaks about the campaign. But no matter how much we hear about the game, one thing is clear: It’s not ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4/index.json",
+      "webUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
+      "originalUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qj3dCAH9Lsr5haXr9j8b9o-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-09-diablo-4-release-date-window-classes-beta-and-more.md",
+      "title": "Diablo 4: Release date window, classes, beta and more",
+      "excerpt": "Diablo 4 couldn’t have come at a better time. Diablo 3 debuted a full 10 years ago, meaning players have already plumbed its demonic depths. Diablo 2: Resurrected didn’t introduce anything new ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-09-diablo-4-release-date-window-classes-beta-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
+      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12IVgk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-08T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-diablo-4-release-date-window-classes-beta-and-more.md",
       "title": "Diablo 4: Release date window, classes, beta and more",
       "excerpt": "Diablo 4 couldn’t have come at a better time. Diablo 3 debuted a full 10 years ago, meaning players have already plumbed its demonic depths. Diablo 2: Resurrected didn’t introduce anything new ...",
@@ -1001,99 +1085,6 @@
         "name": "tech",
         "domain": "techstory.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-diablo-4-reveals-open-beta-plans.md",
-      "title": "Diablo 4 Reveals Open Beta Plans",
-      "excerpt": "For the closed beta test, Blizzard is specifically looking for players \"who have recently spent significant amounts of time playing the end-game experiences of Diablo II: Resurrected and Diablo III .\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-reveals-open-beta-plans/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/04/12/a0a7eec8-8aa9-4871-b5e0-bb735e3e3b25/gta-6.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
-      "publishedDateTime": "2022-09-19T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out.md",
-      "title": "Diablo 4 is asking people to play the end of the game before it comes out",
-      "excerpt": "In the Diablo games (and many others), vanquishing evil does not signal the end, but rather the beginning: Of endless grinding for incrementally better weapons, equipment, and res ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
