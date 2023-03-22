@@ -24,89 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Beta Players Are Experiencing Long Wait Times and Server Issues"
-    excerpt: "Those hoping to get an early start on slaying the queen of Succubi have had to wait longer than anticipated, as many players logged on to the Diablo 4 beta servers ..."
-    publishedDateTime: 2023-03-17T15:40:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues"
+  - title: "Diablo 4 Open Beta Patch Addresses Queue Times, Fixes World Boss Spawn Issues"
+    excerpt: "The rollout of Diablo IV's open beta will ideally be a little smoother than its early access one, thanks to a patch that should improve queue times. In an official post on the Diablo IV forums, ..."
+    publishedDateTime: 2023-03-22T11:38:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 126
+      name: GameSpot
+      domain: gamespot.com
+    quality: 144
     images:
-      - url: "https://assets-prd.ignimgs.com/2022/12/06/diablo-blogroll-1670358717100.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "What a surprise—the Diablo 4 beta test servers are being crushed and people can't get in"
-    excerpt: "The Diablo 4 (opens in new tab) preorder beta is now underway, and as you might have expected, it's not going perfectly smoothly. The biggest and most obvious issue for people trying to get into the ..."
-    publishedDateTime: 2023-03-17T11:33:00Z
-    webUrl: "https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/"
+  - title: "Diablo 4 Beta Update Addresses Queue Times, Console Problems"
+    excerpt: "Diablo 4 players got their first hands-on experience with the game this weekend during the ongoing open beta, though as some might've expected, long queues and errors messages were part of the process. Blizzard indicated that'd be the case going into the"
+    publishedDateTime: 2023-03-18T14:28:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-beta-update-queue-times-xbox-playstation/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-beta-update-queue-times-xbox-playstation/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-update-queue-times-xbox-playstation/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 118
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/RA8jKVsQF4aRhKeAXW5S9J-1200-80.jpg"
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
+  - title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
+    excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
+    publishedDateTime: 2023-03-18T04:11:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-update-servers-queue-times-errors.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Diablo 4 patch addresses the beta's biggest problem"
+    excerpt: "Diablo 4’s early access beta test has been overshadowed by technical issues, to which Blizzard has responded with an important hotfix. Long queues and server instability aren’t the only issues that ..."
+    publishedDateTime: 2023-03-20T07:12:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-patch-addresses-the-betas-biggest-problem"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C2B2c2Nso3wMvJhZWELFhB-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
-    excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
-    publishedDateTime: 2023-03-17T15:38:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-class"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iMKE4VXm8N2XA2Eg7gBRE6-1200-80.jpg"
-        width: 1200
-        height: 668
-        isCached: true
-  - title: "Diablo 4 beta servers are going through hell as countless players rush in"
-    excerpt: "Diablo 4 servers are on fire, under siege, and getting pushed to their limits as countless players swarm to the game during the pre-order weekend beta. Those who attempt to play are thrown into ..."
-    publishedDateTime: 2023-03-17T10:04:00Z
-    webUrl: "https://www.vg247.com/diablo-4-beta-servers-are-going-through-hell-as-countless-players-rush-in"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 86
-    images:
-      - url: "https://asset.vg247.com/diablo-4-beta-servers.jpg/BROK/thumbnail/1200x630/diablo-4-beta-servers.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Developers Promise Better Queue Times And Server Stability Soon"
-    excerpt: "\"We are actively working on these issues for this weekend\" - says Community Manager PezRadar. Diablo 4 Community Manager PezRadar provided an update (via the Blizzard forums) on the long queues and ..."
-    publishedDateTime: 2023-03-18T10:09:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-developers-better-queue-times-server-stability/"
-    type: article
-    provider:
-      name: DualShockers
-      domain: dualshockers.com
-    quality: 86
-    images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-gameplay.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Diablo 4's pre-order beta is beset by long queues and connectivity issues"
-    excerpt: "Diablo 4's pre-order beta is underway. That means people who have already paid for the hack-and-slash sequel are currently enjoying the quintessential modern Diablo experience: queuing to play for ..."
-    publishedDateTime: 2023-03-18T14:55:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4s-pre-order-beta-is-beset-by-long-queues-and-connectivity-issues"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 86
-    images:
-      - url: "https://assets2.rockpapershotgun.com/Diablo-4-barbarian.jpg/BROK/thumbnail/1200x630/Diablo-4-barbarian.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "RS44UcFM8t8ld/TpyDtGcTv+dQ6LvcYnAxoo6KVaypo5RN/6LDNPMbRnn0bVqOwYXhMn+Gcb9ziq0zeelN9XlkHtuG+uUmlEysH2XDl6ogStVSgYiOZZtUay9xXrK6A17fZmm6R+eIL0R7eCdugjY3TSKSNY5VRm9XGEUwpksXjnOeVKREfxJcvc7l1lE0Y2ZuLa8e8gDcICuDxCwKMx+oytnZdX2vtQcSVLxDVnvRrGWbDfozPRw+Q2Ts/rSLaNV96ITX4u9lWehSugnfl0s5UC6Rg7o6cvfAQ/EPAKqxbJJtzjoZ5Wz1eJDjgsz8RL9JNysY5GE+IfvLueyRkhwaGueYH3VfkEOiISIy/RSaI=;0ah32XP0GWpwx/9lF6YoYg=="

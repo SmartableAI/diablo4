@@ -38,20 +38,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
-    excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
-    publishedDateTime: 2023-03-18T04:11:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-update-servers-queue-times-errors.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Wt9nx0QjyCUIBzrwITwlgq0rQW5/pmaF/Ci3jil3C0vPszGeu0OZWZmRymeCq1thXXmousCf+pOmikFsiAwmnbV3yz0/hBbbgO9UlK+ukMkDFiYUJDx/F6LciqLPk+Gc91QNuO0vmYWDTU2IwftQJ3zQxfHv3BXAXoCgbLK3RJZhbjD8W3gQnorJJMV3g9Plye0BgQ1BHWoYhD0xZlGVAYJ+Lz1kPgPAxXJKwrKvekZ6gFbWlzY8/2/luQJpTZm1NieLfh9OKPvG/1FgxZOZM8OlGEa2Df/MYI4DQ2OBdqLX9TrrRdGXPJPSWOQWmeQcmA/YUiwIHitv8IBzdYrf3FMz8sLESyoiKMbxVsDDKrk=;Zi0nDvRcw7DD1YefceueRQ=="
 ---

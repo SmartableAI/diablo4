@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues.md",
+      "title": "Diablo 4 Open Beta Patch Addresses Queue Times, Fixes World Boss Spawn Issues",
+      "excerpt": "The rollout of Diablo IV's open beta will ideally be a little smoother than its early access one, thanks to a patch that should improve queue times. In an official post on the Diablo IV forums, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
+      "publishedDateTime": "2023-03-22T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-the-diablo-4-beta-makes-it-feel-like-blizzard-hasnt-learned-anything-about-action-rpg-combat-in-the-11-years-since-diablo-3.md",
       "title": "The Diablo 4 beta makes it feel like Blizzard hasn't learned anything about action-RPG combat in the 11 years since Diablo 3",
       "excerpt": "My time in the beta so far has me seriously doubting that the long-awaited sequel is going to deliver. Reception to Diablo 4 (opens in new tab)'s early access beta has been broadly positive, and I can ...",
@@ -104,6 +155,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-22-diablo-4s-ashava-is-a-harbinger-of-doom-for-sanctuary.md",
+      "title": "Diablo 4's Ashava is a Harbinger of Doom for Sanctuary",
+      "excerpt": "Ashava the Pestilent is Diablo 4's first revealed World Boss, and Blizzard already isn't letting up on the horror of its demonic challenges. Blizzard recently conducted a beta test for its highly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-ashava-is-a-harbinger-of-doom-for-sanctuary/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/",
+      "originalUrl": "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-sanctuary-world-boss-concept-art.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust.md",
       "title": "Diablo 4 shaping to be a worthy successor, leaves Diablo 3 graphics in dust",
       "excerpt": "While Diablo 3 is known for its colourful and stylized graphics, Diablo 4 appears to be taking a more realistic and darker approach. In a Reddit post shared by user u/Helsinh, the differences between ...",
@@ -146,6 +248,48 @@
       ]
     },
     {
+      "path": "_news/2023-03-22-diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge.md",
+      "title": "Diablo 4's dungeons are intentionally similar, but \"don't be too quick to judge\"",
+      "excerpt": "Blizzard promises there's more to come from Diablo 4's dungeons. While they are \"intentionally\" designed to have continuity with each other, game director Joe Shely says there's plenty outwith the beta players are yet to see. Speaking to GamesRadar+ ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/tK9UXLJngKd3Souuqd5A6H-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-no-diablo-4-couch-co-op-on-pc-rod-fergusson-explains-why.md",
       "title": "No Diablo 4 Couch Co-op on PC? Rod Fergusson Explains Why",
       "excerpt": "Why is There no Couch Co-op in Diablo 4 PC? Naturally, since all the platforms apart from PC have couch Co-op, PC fans were desperate to know that why the PC players haven’t received this Diablo IV ...",
@@ -175,48 +319,6 @@
       "provider": {
         "name": "SegmentNext",
         "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge.md",
-      "title": "Diablo 4's dungeons are intentionally similar, but \"don't be too quick to judge\"",
-      "excerpt": "Blizzard promises there's more to come from Diablo 4's dungeons. While they are \"intentionally\" designed to have continuity with each other, game director Joe Shely says there's plenty outwith the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge/index.json",
-      "webUrl": "https://www.msn.com/en-gb/money/technology/diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge/ar-AA18WlC3",
-      "originalUrl": "https://www.msn.com/en-gb/money/technology/diablo-4s-dungeons-are-intentionally-similar-but-dont-be-too-quick-to-judge/ar-AA18WlC3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18WK6i.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T22:39:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1030,108 +1132,6 @@
         "name": "NME",
         "domain": "nme.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-convinced-me-that-skill-trees-rule-actually.md",
-      "title": "Diablo 4 convinced me that skill trees rule, actually",
-      "excerpt": "The heart of Diablo 4 lies in one brilliant system. Skill trees are easy to make fun of because nobody can seriously insist there's a thrill in having 3% extra critical strike chance on your fire bolt ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-convinced-me-that-skill-trees-rule-actually/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aBs5632Fh32RDtQFZdwhiZ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-ashava-boss-guide-spawn-times-location-and-tips.md",
-      "title": "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips",
-      "excerpt": "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-ashava-boss-guide-spawn-times-location-and-tips/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "publishedDateTime": "2023-03-20T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
