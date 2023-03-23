@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-ab
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/amp/"
 type: article
 quality: 107
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
     quality: 107
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6416686c3560f7351e7ffb6e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "My Least Favorite Part Of The ‘Diablo 4’ Beta"
+    excerpt: "That said, out of sheer curiosity, I decided to dabble in the Diablo 4 early beta this past weekend, and much to my surprise, I found it to be fantastically fun. And no, it wasn’t because I ..."
+    publishedDateTime: 2023-03-22T12:54:00Z
+    webUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/"
+    ampWebUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641b5b3bdd85cce6c170461c/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true

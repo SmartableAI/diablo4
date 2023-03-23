@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Diablo 4 beta download size – how much space do I need for the beta?"
-excerpt: "With the upcoming Diablo 4 beta weekend, eager fans are downloading the client now in the hope of being able to play as soon as the gates of the RPG open up. Traditionally, Diablo games have been on ..."
-publishedDateTime: 2023-03-16T07:27:00Z
-originalUrl: "https://www.videogamer.com/news/diablo-4-beta-preload-size/"
-webUrl: "https://www.videogamer.com/news/diablo-4-beta-preload-size/"
+title: "My Least Favorite Part Of The ‘Diablo 4’ Beta"
+excerpt: "That said, out of sheer curiosity, I decided to dabble in the Diablo 4 early beta this past weekend, and much to my surprise, I found it to be fantastically fun. And no, it wasn’t because I ..."
+publishedDateTime: 2023-03-22T12:54:00Z
+originalUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/"
+webUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/"
+ampWebUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/amp/"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betadownloadscreen.jpg"
+  - url: "https://imageio.forbes.com/specials-images/imageserve/641b5b3bdd85cce6c170461c/0x0.jpg?format=jpg&width=1200"
     width: 1200
-    height: 1080
+    height: 675
     isCached: true
 
 related:
@@ -56,23 +62,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "My Least Favorite Part Of The ‘Diablo 4’ Beta"
-    excerpt: "That said, out of sheer curiosity, I decided to dabble in the Diablo 4 early beta this past weekend, and much to my surprise, I found it to be fantastically fun. And no, it wasn’t because I ..."
-    publishedDateTime: 2023-03-22T12:54:00Z
-    webUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/"
-    ampWebUrl: "https://www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mitchwallace/2023/03/22/my-least-favorite-part-of-the-diablo-4-beta/amp/"
+  - title: "Diablo 4 beta download size – how much space do I need for the beta?"
+    excerpt: "With the upcoming Diablo 4 beta weekend, eager fans are downloading the client now in the hope of being able to play as soon as the gates of the RPG open up. Traditionally, Diablo games have been on ..."
+    publishedDateTime: 2023-03-16T07:27:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-preload-size/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b5b3bdd85cce6c170461c/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_betadownloadscreen.jpg"
         width: 1200
-        height: 675
+        height: 1080
         isCached: true
 
-secured: "ftHHp8yxmvfRc8gsCnEZq5UnsMHyx8psehTIr91OQmBXitJa9Ns6/S8qcVzl3zpuLXvuxJzH/U8UTyumPQBJM6/Woqd8JXcc9fVUEkxZ+Ordjx+X9XCN5jL+ObUTHzzj2ALMGMQTfxadmvJIpVYY6g4n0HWDstDzNRKk8/RDglStk+Q6s6GURQXggmtes9Y8nRr8T9U6H/IULNOZLGFGZTfga6aqprQDO2WXkpuDSWix8yf/TQdyW1mTV1QXUFF8Mg5egJFPTohqBolaWUYIO/njgRHuMRE0c9TAMOY1y5ptMzAOFCEF6oaY0GIiaINQlWA/XrlHMDdNT4QaQQ6VLONZxpV5MGsOz40E9QOa8ig=;s627xpIrVT4u3fBrfOxndg=="
+secured: "zIyhzikqU2VU67NBzBXZtjD3MC4qx6UIJUTOhFy2tQIEJtoc6zIaOTMgMySCtWs7ZxqwzMjg2ZDM5zW/Efy3WdJPrr1MpJdaNQv/4ke6MKLKVbJhEBkTVWrFbf4I03yTSr7BpgUGxVpg8s1/pBkFKPpuWZj5XxRoLtSb8GWaUJOcUy7n6h/xXSKbwjuIPrNQMwMgoSzUBQGA3sRkIjY8x2v55QAqdkIi8/HSHeukU/VEv/YMvZEboh36S5N3HX4aRJFM50UEa/nRpPNJW0sJWqxj79S8Hkc3/X8Kb9aB8zqqTRb6Qivwq6VOfdfi2JhBl7roXRHzXfiAh6LpzLb1pTBxUzDo6L3wjkjBTpqe7ko=;yvlvBN09HqhjP0RfzhckMg=="
 ---
 
