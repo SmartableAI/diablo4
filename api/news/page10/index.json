@@ -2,6 +2,132 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like.md",
+      "title": "Diablo 4 leak outlines what Ultimate and Deluxe Editions of the game will look like",
+      "excerpt": "Diablo IV is one of the most anticipated games of the next year, and some fresh details about the game’s editions just dropped. The new information was revealed by Insider-Gaming today. The website ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like/index.json",
+      "webUrl": "https://dotesports.com/general/news/diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like",
+      "originalUrl": "https://dotesports.com/general/news/diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T20:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dot Esports",
+        "domain": "dotesports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec.md",
+      "title": "Another big Diablo 4 Announcement coming TODAY! (8th Dec)",
+      "excerpt": "Diablo4 #Announcement #News Diablo Tweet mentioned: https://twitter.com/Diablo/status/1600551133755367426/photo/1 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec/",
+      "originalUrl": "https://youtube.com/watch?v=Eb2TK5GeT1Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Eb2TK5GeT1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T18:26:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wudijo",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil.md",
+      "title": "Diablo 4 preview: A darker take on the devil",
+      "excerpt": "THERE is no release date for Diablo 4, but Blizzard has allowed press to see an early — and very limited — build of the game. After a week with this build, we’ve got a good idea of what the game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil/index.json",
+      "webUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
+      "originalUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/Barb_CharacterModel2.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
+      "publishedDateTime": "2022-12-07T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-diablo-4s-character-creator-does-just-enough.md",
       "title": "Diablo 4’s character creator does just enough",
       "excerpt": "You can customize your Barbarian and Necromancer beautifully, but only to a point Diablo 4 does character creation and customization better than any Diablo game to date, letting players design their ...",
@@ -949,132 +1075,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-how-diablo-4s-world-tiers-change-the-series-difficulty-options.md",
-      "title": "How Diablo 4's World Tiers Change The Series' Difficulty Options",
-      "excerpt": "\"Diablo\" is a linear, progression-based series. However, that's about to change. Here's how Diablo 4's World Tiers change the series' difficulty options.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-world-tiers-change-the-series-difficulty-options/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4-s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4-s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13ZN2P.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T19:31:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SVG on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3.md",
-      "title": "How Diablo 4's Legendary Items Differ From Diablo 3",
-      "excerpt": "It's no surprise that \"Diablo 4\" is already distancing itself from the mess that \"Diablo Immortal\" ended up being, and the pay-to-win mobile game isn't the only franchise embarrassment it's trying to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13ZTcl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
-      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
-      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T02:42:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

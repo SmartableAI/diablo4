@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-bos
 webUrl: "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/"
 type: article
 quality: 127
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1800
     height: 900
     isCached: true
-
-related:
-  - title: "Diablo 4 Beta: How To Beat Ashava, The Pestilent"
-    excerpt: "If players can do that, they’ll bring down Ashava, the Pestilent and earn their spoils. Diablo 4 launches June 6 on PC, Xbox One, Xbox Series X/S, PS4, and PS5. Robert is a seasoned gamer, writer, and ..."
-    publishedDateTime: 2023-03-23T04:00:00Z
-    webUrl: "https://gamerant.com/diablo-4-beta-how-to-beat-ashava/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-defeated-feature.jpg"
-        width: 1800
-        height: 900
-        isCached: true
 
 secured: "TcrpL+J09P63dO2Ak7WOk4bNjcqUR7hvNAjPYdLzuieWyBwT7JUMGY0EHlmzpRGlFsnTf9w21tHBkI+8idUDoeC/uk6G7l0+dFJNjpc0/ZqHHuAGfKUQvXrqEsV2Rfl0g+Zm8IOWCZP+suIFz8IWuSAzimD1nKYvzS0sSU1aXU5a+KI+p1eXqp3N0GjzPYDFnL7G8UbyzON7iUc092vLS3/Lips883MLkEHKMZ/XFu7lblzdfxNf/1DRO1oZvbFNKqlPwp1HJ1R3b9VcjleKnsYSWjkBkqxlkBUEbSZolkX0Tm2ooBDpwufz0RawF5liRiUr1H+po8JB/m72Mc7svKrFO9fYNxPmCeX2ugr3FAc=;LWf8Zu8LVmej9wn5PTtUQg=="
 ---

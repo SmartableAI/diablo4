@@ -40,6 +40,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "New Nvidia Drivers For Diablo 4, Resident Evil 4 Released"
+    excerpt: "GameSpot may get a commission from retail offers. Ahead of the release of Capcom's Resident Evil 4 remake and the launch of Diablo 4's open beta this week, Nvidia has released its latest Game Ready ..."
+    publishedDateTime: 2023-03-23T08:56:00Z
+    webUrl: "https://www.gamespot.com/articles/new-nvidia-drivers-for-diablo-4-resident-evil-4-released/1100-6512642/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/new-nvidia-drivers-for-diablo-4-resident-evil-4-released/1100-6512642/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/new-nvidia-drivers-for-diablo-4-resident-evil-4-released/1100-6512642/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4052304-re4_trailer_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
     excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
     publishedDateTime: 2023-03-16T08:31:00Z

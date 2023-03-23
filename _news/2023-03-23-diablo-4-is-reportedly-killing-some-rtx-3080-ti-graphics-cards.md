@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue/"
 webUrl: "https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue/"
 type: article
 quality: 127
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The Diablo 4 beta is reportedly frying these graphics cards"
+    excerpt: "It doesn’t matter if you have the best graphics card for the game, as the Diablo 4 Beta is reportedly frying people’s graphics cards, according to this Reddit thread. The current gaming and tech world ..."
+    publishedDateTime: 2023-03-23T08:17:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-beta-frying-graphics-cards/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-is-frying-graphics-cards.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wH4HeeQRcCChMIXI60k5rciCJr0WeCPxm4wxsIvN8VurOlUYu+iKMbb+ojHgZuhq00dGZ09j04bE1H0d6higmGeIlzIk7n4mvGMPrdJFV925/LXihmCOoeyf32ooCbHryE7kXNYdSAkqmWgTQMx5SN5PnceijYF6mTvWQoPELwjBj7NDltXQa96APs5CclmlK6/Yfa1NButR1M+8Q8mloP4rPvfZA2LtEgc+oyJRCnssNWLBvO9rA1NY2MUiC3Iv7AvwP4mKMYG7M4LjN0FGPOcsU+0rMfPvD9u034TjlYgJ/J1TZTYc+clzg30NM0caG2O588u/ZmtCCshMBHEAqU3addfNsQXrvnzmmH4uSxw=;e+f96YDFyLqv5jYrSC7Ujw=="
 ---

@@ -2,6 +2,150 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream.md",
+      "title": "Watch the First Diablo IV Developer Update Livestream",
+      "excerpt": "Join Diablo IV game director Joe Shely and associate game director Joseph Piepiora as they introduce the new Codex of Power system and more invitingly dark details.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ls/LSX25ZTHA9E11670628043496.png",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-diablo-4-reveals-battle-pass-price.md",
+      "title": "Diablo 4 Reveals Battle Pass Price",
+      "excerpt": "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last. Blizzard’s Diablo 4 team recently discussed the game's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-reveals-battle-pass-price/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
+      "originalUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-4-ultimate-edition-lilith.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
+      "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
+      "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153feB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=286",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game.md",
       "title": "Diablo 4 Limited Collector's Edition Revealed, Doesn't Include The Game",
       "excerpt": "Priced at $96.66, the Diablo 4 collector's edition does not include a copy of the game but does sport some killer mood lighting.",
@@ -977,132 +1121,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like.md",
-      "title": "Diablo 4 leak outlines what Ultimate and Deluxe Editions of the game will look like",
-      "excerpt": "Diablo IV is one of the most anticipated games of the next year, and some fresh details about the game’s editions just dropped. The new information was revealed by Insider-Gaming today. The website ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like/index.json",
-      "webUrl": "https://dotesports.com/general/news/diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like",
-      "originalUrl": "https://dotesports.com/general/news/diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T20:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec.md",
-      "title": "Another big Diablo 4 Announcement coming TODAY! (8th Dec)",
-      "excerpt": "Diablo4 #Announcement #News Diablo Tweet mentioned: https://twitter.com/Diablo/status/1600551133755367426/photo/1 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec/",
-      "originalUrl": "https://youtube.com/watch?v=Eb2TK5GeT1Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Eb2TK5GeT1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T18:26:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wudijo",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil.md",
-      "title": "Diablo 4 preview: A darker take on the devil",
-      "excerpt": "THERE is no release date for Diablo 4, but Blizzard has allowed press to see an early — and very limited — build of the game. After a week with this build, we’ve got a good idea of what the game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil/index.json",
-      "webUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
-      "originalUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/Barb_CharacterModel2.png?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
-      "publishedDateTime": "2022-12-07T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

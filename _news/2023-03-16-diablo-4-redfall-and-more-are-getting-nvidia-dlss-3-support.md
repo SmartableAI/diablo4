@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-hor
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/"
 type: article
 quality: 147
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Nvidia Drivers For Diablo 4, Resident Evil 4 Released"
+    excerpt: "GameSpot may get a commission from retail offers. Ahead of the release of Capcom's Resident Evil 4 remake and the launch of Diablo 4's open beta this week, Nvidia has released its latest Game Ready ..."
+    publishedDateTime: 2023-03-23T08:56:00Z
+    webUrl: "https://www.gamespot.com/articles/new-nvidia-drivers-for-diablo-4-resident-evil-4-released/1100-6512642/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/new-nvidia-drivers-for-diablo-4-resident-evil-4-released/1100-6512642/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/new-nvidia-drivers-for-diablo-4-resident-evil-4-released/1100-6512642/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4052304-re4_trailer_site.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4, Forza Horizon 5, and Redfall are all getting DLSS 3 support"
     excerpt: "The big one, of course, is Diablo IV from Blizzard, one of the most highly anticipated game releases in years. When the game makes its long-awaited debut on PC on June 6, 2023, it will launch with ..."
     publishedDateTime: 2023-03-16T06:03:00Z

@@ -34,6 +34,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to unlock transmog and change your appearance in Diablo 4"
+    excerpt: "Diablo 4 isn't just about slaying demons—it's about looking damn good while doing it. Thankfully, the game has a simple yet effective transmogrification system that lets you apply the appearance of ..."
+    publishedDateTime: 2023-03-23T07:33:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-unlock-transmog/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/eQuCVS23C6tUSCu7j9Kwg4-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BMqDI302SanGGqZ8eVk3y+z1MLS5uqhQBYICNNs+ERkyYzY3vjIMJY8rNF53qUhavupvpsm0EsWxbazG4IMLteWojetnr+tmoanUY2XKdZ5RNO5sfTlYP0oi8S1qrA3jp9u2IyElDKMJg3QDSEaOOj+jWxXKhc4aW3eNLIDKJYtbUmT0NVkwb94HPHI0aji2SWsD1dh5Qcc+5Ymb00B2F79+wEPiVRMsTKzvB+kcTrhN2mPz5AXQPPgxBAzduFdpPiQ+PqtpaU1JO3sqXDti9+w9tx5vpl7JafaQTV43Q79p0fawJa7dXWnhnuHQna7qkiD4OSe17eNj5R6421pgbmz23SsEcybla9MQrT9JLiU=;4p0AetTemJBsHf2U+17Ppg=="
 ---

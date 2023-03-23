@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-transmog-dyes-pigment
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-transmog-dyes-pigments-guide/1100-6512474/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to unlock transmog and change your appearance in Diablo 4"
+    excerpt: "Diablo 4 isn't just about slaying demons—it's about looking damn good while doing it. Thankfully, the game has a simple yet effective transmogrification system that lets you apply the appearance of ..."
+    publishedDateTime: 2023-03-23T07:33:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-unlock-transmog/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/eQuCVS23C6tUSCu7j9Kwg4-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How does Diablo 4 transmog work"
     excerpt: "Diablo 4 transmog allows you to apply a different look to the armor pieces and items you have equipped, while still retaining the stats and abilities of the originals. This means that if you find an ..."
     publishedDateTime: 2023-03-21T13:40:00Z

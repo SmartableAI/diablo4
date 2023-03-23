@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
+    excerpt: "The Barbarian should be a familiar face to inveterate fans, but its playstyle differs slightly in Diablo 4 from previous iterations. Perhaps the biggest change to the Barbarian comes in the form of ..."
+    publishedDateTime: 2023-03-23T09:46:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-barbarian-class-what-to-know-builds-arsenal-system-weapons-roles-tank-bad-potions/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 140
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/barbarian-fractured-peaks-all-you-need-to-know.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Diablo 4 Beta: How To Beat Ashava, The Pestilent"
+    excerpt: "If players can do that, they’ll bring down Ashava, the Pestilent and earn their spoils. Diablo 4 launches June 6 on PC, Xbox One, Xbox Series X/S, PS4, and PS5. Robert is a seasoned gamer, writer, and ..."
+    publishedDateTime: 2023-03-23T04:00:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-how-to-beat-ashava/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-defeated-feature.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Diablo 4 Beta: Everything You Need to Know About the Sorcerer Class Archetype"
     excerpt: "Players jumping into the Diablo 4 beta will have access to the Sorcerer class, the classic magic-wielding archetype from the Diablo series' past. Elemental spells are the primary source of damage for Sorcerers, with the three primary types being Fire ..."
     publishedDateTime: 2023-03-21T08:43:00Z

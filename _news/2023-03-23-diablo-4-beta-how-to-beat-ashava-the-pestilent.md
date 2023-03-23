@@ -28,19 +28,77 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4's Ashava is a Harbinger of Doom for Sanctuary"
-    excerpt: "Ashava the Pestilent is Diablo 4's first revealed World Boss, and Blizzard already isn't letting up on the horror of its demonic challenges. Blizzard recently conducted a beta test for its highly ..."
-    publishedDateTime: 2023-03-22T08:47:00Z
-    webUrl: "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/"
+  - title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
+    excerpt: "The Barbarian should be a familiar face to inveterate fans, but its playstyle differs slightly in Diablo 4 from previous iterations. Perhaps the biggest change to the Barbarian comes in the form of ..."
+    publishedDateTime: 2023-03-23T09:46:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-barbarian-class-what-to-know-builds-arsenal-system-weapons-roles-tank-bad-potions/"
     type: article
     provider:
       name: Game Rant
       domain: gamerant.com
-    quality: 127
+    quality: 140
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-sanctuary-world-boss-concept-art.jpg"
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/barbarian-fractured-peaks-all-you-need-to-know.jpg"
         width: 1800
         height: 900
+        isCached: true
+  - title: "Diablo 4 Beta: Everything You Need to Know About the Sorcerer Class Archetype"
+    excerpt: "Players jumping into the Diablo 4 beta will have access to the Sorcerer class, the classic magic-wielding archetype from the Diablo series' past. Elemental spells are the primary source of damage for Sorcerers, with the three primary types being Fire ..."
+    publishedDateTime: 2023-03-21T08:43:00Z
+    webUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 124
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-sorcerer-class-archetype.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
+    excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
+    publishedDateTime: 2023-03-20T10:00:00Z
+    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
+    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 107
+    images:
+      - url: "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Beta: Best Barbarian Build"
+    excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
+    publishedDateTime: 2023-03-19T21:42:39Z
+    webUrl: "https://www.msn.com/en-us/money/technology/diablo-4-beta-best-barbarian-build/ar-AA18PWxp"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 104
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PMIC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Beta: Best Rogue Build"
+    excerpt: "With only a handful of skills able to be unlocked in the beta period, it's still possible to have an overpowered rogue in Diablo 4."
+    publishedDateTime: 2023-03-20T02:13:20Z
+    webUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2rtxfV5Q8VfodQv1B+ytadFJ0pzc4hC3Y9ylvGUXSz1HYPtW54pb7DiU+k3YtgAWJJ3Jq4uqztbtdtruq9dz7iYjow0a1ByfksXY+QLmTHj+ZwRevW+lwH+S0B59Z+aKJeGT+iWehSK9o/Ix7S12jm8ZnjGY+iKTWis0HVlNPeeZYX8MAu88oEGX1kg3LWvUUJILoCjRjwk3CRb0e0GhW8VUGvAO89iR4hOmF9tli2JBXJppqL7M9Haf5UkNQ8TNei27mOaORJEKCWLf7T/b15t4PZoHmooMuZQ9oXleSrQahBRCYLUBd21/ucYsS2qDRoPG4EtV8IhhkdD8MlEMOmIQwga0/4wW3TSzuyU2U28=;q/TNpnSy99ynOJjjNz1ErA=="
