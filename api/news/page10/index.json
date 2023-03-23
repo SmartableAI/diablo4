@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023.md",
+      "title": "‘Diablo 4’ Is Looking Like It Could Be The Biggest Game Of 2023",
+      "excerpt": "It is incredibly easy to be skeptical of Diablo 4 and Blizzard as a whole lately, given the problems within that studio and the fact that Diablo 4 itself even lost its director as one of the ousted ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60ddbaa83acec7bca0289ace/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/amp/",
+      "publishedDateTime": "2022-12-07T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like.md",
       "title": "Diablo 4 leak outlines what Ultimate and Deluxe Editions of the game will look like",
       "excerpt": "Diablo IV is one of the most anticipated games of the next year, and some fresh details about the game’s editions just dropped. The new information was revealed by Insider-Gaming today. The website ...",
@@ -1034,48 +1085,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest.md",
-      "title": "Diablo 4’s open world lets you walk away from its main quest",
-      "excerpt": "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-open-world-main-quest-blizzard-rpg-interview-rogue.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

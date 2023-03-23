@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-hor
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/"
 type: article
 quality: 147
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
+    excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
+    publishedDateTime: 2023-03-23T11:10:00Z
+    webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 67
 
 secured: "A5RkqXZ908TGYNUdDvPU3NzapFoCfNeyZe/TyOenedhq2R2ikyLSImyGXpzL8hIBbI37vW7IM3KYiwmoncf/LbKPLwugQwTXzC2aUDEAGZuCLlsW0bH96/MKWXw7zKIfT2JYuDjmEUQM01qHWSh8JN1N8DoamWz9CM7mzhcAgZ2mfAZvQieOagr0p01wHePgiGccpfoE9Mo1laeJMj2OcPho0jqTAqcNW5DG04Oz9sMKi0rfQwLYP/e8oAxCXCNFIROXlD3a8lnCEZ5/AWCQuFLKp/TWQTN7LQVEYRB44/r8JzfxdANFE2rQwnerCxo9h0eBWTm5qk/SiN/uSrWF79V6sRtk2s0len/Ka37930o=;M/GvSi4VWhQuC1n6C3Ljxw=="
 ---

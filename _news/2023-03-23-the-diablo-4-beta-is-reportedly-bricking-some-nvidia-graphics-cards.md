@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Diablo 4, Forza Horizon 5, and Redfall are all getting DLSS 3 support"
-excerpt: "The big one, of course, is Diablo IV from Blizzard, one of the most highly anticipated game releases in years. When the game makes its long-awaited debut on PC on June 6, 2023, it will launch with ..."
-publishedDateTime: 2023-03-16T06:03:00Z
-originalUrl: "https://www.tweaktown.com/news/90744/diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support/index.html"
-webUrl: "https://www.tweaktown.com/news/90744/diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support/index.html"
+title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
+excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
+publishedDateTime: 2023-03-23T11:10:00Z
+originalUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
+webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: TweakTown
-  domain: tweaktown.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://static.tweaktown.com/news/9/0/90744_01_diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support.jpg"
-    width: 620
-    height: 348
-    isCached: true
 
 related:
   - title: "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support"
@@ -55,6 +49,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4052304-re4_trailer_site.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Diablo 4, Forza Horizon 5, and Redfall are all getting DLSS 3 support"
+    excerpt: "The big one, of course, is Diablo IV from Blizzard, one of the most highly anticipated game releases in years. When the game makes its long-awaited debut on PC on June 6, 2023, it will launch with ..."
+    publishedDateTime: 2023-03-16T06:03:00Z
+    webUrl: "https://www.tweaktown.com/news/90744/diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 87
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90744_01_diablo-4-forza-horizon-5-and-redfall-are-all-getting-dlss-3-support.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "Diablo 4 to feature DLSS 3 on launch, Nvidia reveal"
     excerpt: "Nvidia have just revealed that Diablo 4 is going to feature DLSS 3 on launch. With the closed beta kicking off on March 17th, Blizzard’s upcoming ARPG has just seen some delightful news before it ..."
@@ -98,16 +106,7 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
-    excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
-    publishedDateTime: 2023-03-23T11:10:00Z
-    webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 67
 
-secured: "q0Wl3Ibrz4eqh/cL3s1bt6kYJt06Gwfy68a1gH5n8/hvzu9TOlg2mKJp0VFG1wpq6eoo5FQcsWFtgpbtar6ftvvFQEI+Wz30GFOS9u4UNY9qxZtOU1Z3H2bJ2vmXDAxIId1SVMqnGc++iN7cfjNLjdNmz51cloAizn9yMqnZce3OTcnsfMJAIvFOPfEVKFFjIoo2rq7mrNn+gZN92ouVysNX9VsJonD3XGkJeEzHroBDcrXo8H1slp1a4l1eDtoOPh9QNX62MR/P/xLtE2c80uma+Z25S4yISdAjxlnfFMmnm1qIkpdY6JVt6hgbAaTgRk6HVynUZyr89x7qPpT4Yv9xMPT3Q9Jlq+6H3T/gqMU=;LfnC9wCUW6jbSckBi4dajw=="
+secured: "eMMOJ7ZMiT5ylmGpryktfDfQiRh/39FIXXoknw+WpuZ9IaAq3a67DfHw4ocs5rT9bdA784XSidGH/0prAE6nZvCBPSaY7nkvyXBchCpcTe+wpBi0IkRZ8RUoch8Rg+T4jNADsMgIzuHfKmJZkA/ux0/XCLiFtO6HDqMvRxApI+LCu7lT/mHjolpuRh22lk2QyLPXZOgwRbMHcGIPdz9K9ffoMUFH+OVTh6CCIcQr+rqUaZMWdLVXKI7BKaMX+908wvdIT+hP+VMuK/rDjUktAZTihIIAosSKz5ukuRK9gkotQc5QIP07uMeqE/ZhYoXxPFdQBoZRWI18z0AYMu+OjByk8UixfZztVf4KEAm+nPk=;gDCbWEp6oaR17GCVokGg4w=="
 ---
 
