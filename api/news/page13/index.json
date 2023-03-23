@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet.md",
+      "title": "Massive Diablo 4 leak gives us our best look at the game yet",
+      "excerpt": "Over 40 minutes of Diablo 4 test footage has leaked online, giving us our most comprehensive look at the upcoming action RPG yet. Blizzard hasn’t confirmed the leak to be genuine, but the footage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet/index.json",
+      "webUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
+      "originalUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fsoXQ8TDH2p9PjGkPoN3gY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-diablo-4-closed-beta-announced.md",
       "title": "DIABLO 4, Closed Beta Announced",
       "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near Twitch ...",
@@ -1062,48 +1113,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content.md",
-      "title": "Diablo 4 will have a season pass, cosmetic shop and years of post-release content",
-      "excerpt": "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/diablo-4-post-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-post-release.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock Paper Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

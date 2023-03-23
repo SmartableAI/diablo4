@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addre
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
 type: article
 quality: 144
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/C2B2c2Nso3wMvJhZWELFhB-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 open beta patch notes"
+    excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
+    publishedDateTime: 2023-03-23T04:28:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
+        width: 1200
+        height: 1080
         isCached: true
 
 secured: "Int/UdLqWiTcrOANCZPmrnv7ytUhZRfLNKvn9x5JteRbA+JUmcww3Pa3KJgrwd9G62PlosajojtzwoN9ZI+Q//qI140J9+oBdyHOZx0ssDrxk+4RAXAzekoxozDKbIwbwXT41Zx2eZTrc/yUduAPzHEBK1qDHwphnHpREjiKbfW7tzeOBEWfGijWeUhAHZTkpV7ffsltY/hB4RdzgdMdmBH0NRZyHu9eQz13LshDhmVdnIFBsMBz9E4ek2iC1nFD1dS9HjZ+Vy6RrPsusg8DIJPYuxprf8oi8T1bYw+/7Uc9d5gmaQfIGZdS8a+56HkWUCv4XJqRh1LKBhmi1vW+RQAMOLHXSPFEOvflluzAiNQ=;ZcjJjn+3arAcVswG89+4FQ=="

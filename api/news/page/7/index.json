@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-19-diablo-4-beta-dates-announcement.md",
+      "title": "Diablo 4 Beta Dates Announcement!",
+      "excerpt": "Diablo 4 Beta dates have officially been announced!! Link to the Blizzard article: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-diablo-4-beta-dates-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-19-diablo-4-beta-dates-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=zB43T38ew8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zB43T38ew8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T20:34:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Curse",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-19-diablo-4s-beta-begins-in-march.md",
       "title": "Diablo 4’s beta begins in March",
       "excerpt": "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from",
@@ -1070,57 +1112,6 @@
         "name": "MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-diablo-4s-codex-of-power-system-explained.md",
-      "title": "Diablo 4's Codex of Power System Explained",
-      "excerpt": "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds. To obtain these Legendary Aspects, players must first complete specific ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-15-diablo-4s-codex-of-power-system-explained/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
-      "originalUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-codex-of-power-v2.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

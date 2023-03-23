@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 open beta patch notes"
+    excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
+    publishedDateTime: 2023-03-23T04:28:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
+        width: 1200
+        height: 1080
+        isCached: true
 
 secured: "vrJ2hku6OmZghvgWboZBGOWzd1D/HUmv8F25LAHxyS2Gq/6qudzoBl8iBS99PAYqOAFou5M2rsd/uWX4nHJBup+q/mYUbe0zkkEUyiYz2Z8PRgMWhW+XjZY887kUvE2OX1H+dUMTwJPmXRa4Lv74sbqyV0/FqycHr5qjmr7YUpvq4w+jsBf/qAkpLOC8uqktlm3mreRHwGmWYpdKb7Da72ACbvVb8FQvTyWA/3mUPBFhcN94yER+pEFbh//++z4hqRVYpx2gS1PJGHItg3AzytGr89RZ+yjwwsO8DR2NLGYQQzu0E4PzBxNVRtIm9AqCEpGvHpoo/YfBJ4uGBVUqS/EhUmZkp4Gfk3qHtr5XvOU=;G2oxAPsMGdLiUHPDlLTEcA=="
 ---

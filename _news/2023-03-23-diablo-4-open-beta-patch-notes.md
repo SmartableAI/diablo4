@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
-excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
-publishedDateTime: 2023-03-18T04:11:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
-webUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
+title: "Diablo 4 open beta patch notes"
+excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
+publishedDateTime: 2023-03-23T04:28:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
+webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-update-servers-queue-times-errors.jpg"
-    width: 1920
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
+    width: 1200
     height: 1080
     isCached: true
 
@@ -56,6 +56,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
+    excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
+    publishedDateTime: 2023-03-18T04:11:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-update-servers-queue-times-errors.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Beta Hotfix Improves Queue Times and Server Stability"
     excerpt: "Blizzard confirms that it has issued a hotfix for the ongoing Diablo 4 early access beta improving queue times and server stability."
     publishedDateTime: 2023-03-19T10:28:30Z
@@ -84,21 +98,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 open beta patch notes"
-    excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
-    publishedDateTime: 2023-03-23T04:28:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
-        width: 1200
-        height: 1080
-        isCached: true
 
-secured: "wmhzxfrAQ3P71pPnH6r0N5uI6zHUgQoRKrhYupizmfqTot60SLghmGrTqYYG0aTVu+7OIc1D7FjtcO4Xdrk6xUI9HYhY/1dQdryoD/gCsYLPqK6GeBNds0LAwNb1DtW7m8cg4OvqQxLlYKOCHcNqrBQUbNAfFiz5I1VA4oZ34TWhzcFrEkI9uqRzImOXZdXPSR6iKEm8lTZaHMvJkYnhe4spjKN3q6j/H/dDTmxNECj9PTDfw0L9ijNOv+gayTuobdeRgKpMveSy/9CFB6Ekdt40WvmMd5MuoibbGFoxkKNMNVRhELyFILJ4Qi+5MfyvsZK7POh0Gxyk51MTfOjmEVc+nsgCfhVixEZhXCJBDk0=;txwhkB/96nfdZeCWGDj2OA=="
+secured: "J+Zl3IzzRA1LmRzZwd1vY+HW2+BuRVpZ+FE1koVXXQC5zs/L7muFUJyLisPMkPauU8OWeFy7WcngyZr/h3+sBEloz04oXTzEz50550xCKK+Q2FFc6bz71ifybM/C0MUEHSEexmFtCtxuc6fVS/lSodOiJTVwG0UDHeR0DFpV32GYUHuc/nj5rUlNC1psKICPwoYSS4nbWuq2RKSN/sg6i2zPJ9TECsPfYMY2cA6sUUuCzK4y6M29pvJhlS0MjF9ZMP9p+ZYFnHfdcH6FE4v3VsK3o5PCE3VgCdcmfdJfFirQA7XN5oefQxL2nE+FvPwtP6STfQbi0aThHF/Qz6lfjavYStZlwbUVFDR/vbypEn0=;/X5uaQ00hBGV5pZ+ylV8sA=="
 ---
 
