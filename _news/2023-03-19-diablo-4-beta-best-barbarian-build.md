@@ -56,12 +56,12 @@ related:
         height: 630
         isCached: true
   - title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
-    excerpt: "The Barbarian should be a familiar face to inveterate fans, but its playstyle differs slightly in Diablo 4 from previous iterations."
-    publishedDateTime: 2023-03-23T09:46:17Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
+    excerpt: "The Barbarian is one of the most iconic classes in the Diablo franchise, its iteration in Diablo 4 should allow long-time fans to pick up the class and feel immediately at home, but a few changes ..."
+    publishedDateTime: 2023-03-23T15:10:00Z
+    webUrl: "https://www.msn.com/en-nz/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: MSN
       domain: msn.com
     quality: 100
     images:

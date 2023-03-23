@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue/"
 webUrl: "https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Appears To Be Killing Some Nvidia RTX Graphics Cards"
+    excerpt: "It appears that some more controversy surrounding Diablo 4's close beta is arising, with users across the likes of Reddit and the Blizzard Forums noting that their graphics cards have been negatively ..."
+    publishedDateTime: 2023-03-23T15:27:00Z
+    webUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-appears-to-be-killing-some-nvidia-rtx-graphics-cards/ar-AA18ZTXx"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1903GA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Diablo 4 beta is reportedly frying these graphics cards"
     excerpt: "It doesn’t matter if you have the best graphics card for the game, as the Diablo 4 Beta is reportedly frying people’s graphics cards, according to this Reddit thread. The current gaming and tech world ..."
     publishedDateTime: 2023-03-23T08:17:00Z

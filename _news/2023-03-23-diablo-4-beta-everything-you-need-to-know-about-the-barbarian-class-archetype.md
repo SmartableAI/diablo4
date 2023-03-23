@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
-excerpt: "The Barbarian should be a familiar face to inveterate fans, but its playstyle differs slightly in Diablo 4 from previous iterations."
-publishedDateTime: 2023-03-23T09:46:17Z
-originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
-webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
+excerpt: "The Barbarian is one of the most iconic classes in the Diablo franchise, its iteration in Diablo 4 should allow long-time fans to pick up the class and feel immediately at home, but a few changes ..."
+publishedDateTime: 2023-03-23T15:10:00Z
+originalUrl: "https://www.msn.com/en-nz/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
+webUrl: "https://www.msn.com/en-nz/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
+  name: MSN
   domain: msn.com
 
 topics:
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2oOPAIgVEpIoDE2Bq2OeQw12MjgOi2zBLzTwov/UF+AxGOTw2RTn69siBCzQOcKP/RlCGgTcSNMwygPUZCgPLFkorzj3aqdlwHH726a46FKKrfuZKqOn3NgYlF5t9C7A9aqshNdh7Nj8HL+y4iuoqZO4l24zwqjq93Ge5G5Uih8tZE3lAQ8TaP+0Cr4Oce7EvUGxbIZy8i/dXg1hU/ZDHQHiKJrwWRPp7Lck2A5uKU1nYtMUZpRPej+ND8QxOKhdHQ4nm035OaWK5ll/unHDQp6JXiJRzoCPE+Fz2Jk0pa6C3DRO1RrVVl8PG96CB5v7QZc2GZK0ZQkD67z8MUd+RgZxlnjgj7+K7qNdJ5H4wWE=;3HevhTRVmEH+gp0AyGgvKg=="
+secured: "VXgOSz89pFdQSpx5B0g+8WD/3zfKbOAiVG1ERl61Kn6h0V4KoZKCNUM6cwSvEqo+do0I79S+T+2TBEklIQtIPLMNhPF5yKBR12fDLntfqPw45/9QAfx4467czOsZ6u7ke1MKN6Zu05CRVhtbhtEhcy8+jmP6GiJYLRniUYqDo1v6zqd16zt2M48F6fOOQsFss3PNtzSkBpnva0HBxg2UsviOrvW6mbUyTMtYPXduvnBCEw2mSbZ9ir0Kz+SmDuAq+07ZznTKgWRKJKZ8SBfue/Ns4cbr2Wrpc1TjWLY1COsHBG5xipsTeeXAk7BaUteAvZsL6oDelDzAgIql/C18v6tEBnwboMDezfNvE/h3iDw=;AxtXZ5YhEpF7rANQrDO4Sw=="
 ---
 

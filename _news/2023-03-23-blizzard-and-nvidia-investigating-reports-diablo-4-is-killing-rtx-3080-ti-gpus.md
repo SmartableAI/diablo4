@@ -1,21 +1,27 @@
 ---
 category: news
-title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
-excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
-publishedDateTime: 2023-03-23T11:10:00Z
-originalUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
-webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
+title: "Blizzard and Nvidia investigating reports Diablo 4 is killing RTX 3080 Ti GPUs"
+excerpt: "Fresh reports suggest some RTX 3080 Ti graphics cards are running horribly, or even dying, while playing the Diablo 4 closed beta over the weekend. In what appears to be an issue closely resembling ..."
+publishedDateTime: 2023-03-23T12:00:00Z
+originalUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-is-reportedly-killing-some-rtx-3080-ti-graphics-cards/ar-AA18ZIap"
+webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-is-reportedly-killing-some-rtx-3080-ti-graphics-cards/ar-AA18ZIap"
 type: article
-quality: 67
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: PC Gamer on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZtlK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support"
@@ -106,21 +112,16 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Blizzard and Nvidia investigating reports Diablo 4 is killing RTX 3080 Ti GPUs"
-    excerpt: "Fresh reports suggest some RTX 3080 Ti graphics cards are running horribly, or even dying, while playing the Diablo 4 closed beta over the weekend. In what appears to be an issue closely resembling ..."
-    publishedDateTime: 2023-03-23T12:00:00Z
-    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-is-reportedly-killing-some-rtx-3080-ti-graphics-cards/ar-AA18ZIap"
+  - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
+    excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
+    publishedDateTime: 2023-03-23T11:10:00Z
+    webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
     type: article
     provider:
-      name: PC Gamer on MSN
-      domain: msn.com
-    quality: 83
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZtlK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 67
 
-secured: "eMMOJ7ZMiT5ylmGpryktfDfQiRh/39FIXXoknw+WpuZ9IaAq3a67DfHw4ocs5rT9bdA784XSidGH/0prAE6nZvCBPSaY7nkvyXBchCpcTe+wpBi0IkRZ8RUoch8Rg+T4jNADsMgIzuHfKmJZkA/ux0/XCLiFtO6HDqMvRxApI+LCu7lT/mHjolpuRh22lk2QyLPXZOgwRbMHcGIPdz9K9ffoMUFH+OVTh6CCIcQr+rqUaZMWdLVXKI7BKaMX+908wvdIT+hP+VMuK/rDjUktAZTihIIAosSKz5ukuRK9gkotQc5QIP07uMeqE/ZhYoXxPFdQBoZRWI18z0AYMu+OjByk8UixfZztVf4KEAm+nPk=;gDCbWEp6oaR17GCVokGg4w=="
+secured: "qlLGNacddsXbD7ONs6HPJ3T/RTlm1R2t4J/mOi4JPDe3VidljP+LCG+2i5uw5s12dYmSlVVRTTAxiNOz6r/EG0i/0iOrwxIro/HKqWjQlGv3x6nJmVfrlg2PTJmyK7D4oFHwAIaL51zaTdbJiB+96lsOFy74j2CAfYG23mAlQorekP7dwG230qFVYjIwqQGCDcv7OkDHKmfx+4TxazCTpvjK2f72IVUiA6ERmy3gu5R8Mm9KY68Q67mowYAiQKrjEif7tVqES0dZT8NDBxph+IRQ9JjNddAD0yo0YxypDBZtRwk8FeXtPFTvdKIeD36QWFUA/wtEPg6TS5q2wwaViVS5XZZim/0o17kynypHKjk=;Tuqb+RvVGN0tNig9ipDy1A=="
 ---
 

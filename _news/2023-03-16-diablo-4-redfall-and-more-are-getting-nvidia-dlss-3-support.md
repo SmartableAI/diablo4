@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-hor
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/"
 type: article
 quality: 147
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-1.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Blizzard and Nvidia investigating reports Diablo 4 is killing RTX 3080 Ti GPUs"
+    excerpt: "Fresh reports suggest some RTX 3080 Ti graphics cards are running horribly, or even dying, while playing the Diablo 4 closed beta over the weekend. In what appears to be an issue closely resembling ..."
+    publishedDateTime: 2023-03-23T12:00:00Z
+    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-is-reportedly-killing-some-rtx-3080-ti-graphics-cards/ar-AA18ZIap"
+    type: article
+    provider:
+      name: PC Gamer on MSN
+      domain: msn.com
+    quality: 83
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZtlK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
     excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."

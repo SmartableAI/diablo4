@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Appears To Be Killing Some Nvidia RTX Graphics Cards"
+    excerpt: "It appears that some more controversy surrounding Diablo 4's close beta is arising, with users across the likes of Reddit and the Blizzard Forums noting that their graphics cards have been negatively ..."
+    publishedDateTime: 2023-03-23T15:27:00Z
+    webUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-appears-to-be-killing-some-nvidia-rtx-graphics-cards/ar-AA18ZTXx"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1903GA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QiOQpHe6x+2K7GWLLB9eF/9XWqDq5FqGriRDg9GVWklsN3TuEfw3ST0ZZ6btrZeLxmubbPzFsaeF31AMlphmxdghNguD4VATVv/gi5h4c2yWfraWc/7u/aGdla7zin22qs2iQxNgt9Wt2ydBSH1tTukQdLR009qN0y3FGhMFWDIuTiQM3LXbF5aVk+8KUDnFyQG1hkMWFYGbuSQ1mu0yedivsk+8kg8kqY1q2ckVR87qx8ENjAdix5PHUlU4tWBHXCGmTFl2+IjtMyxyGGTENbsLJOno6oh29H7q0tlGdtext8MIYEk34ti6PB7whjzSFy6r7BZB4kAi1IJbBO5Z6RC5Mfr44Q6q0OA9bWg4l+4=;ILBBmjGGdSS6EdVrspFX5Q=="
 ---
