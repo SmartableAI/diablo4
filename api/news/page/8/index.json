@@ -2,6 +2,99 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story.md",
+      "title": "The Pros and Cons of Skipping Diablo 4's Story",
+      "excerpt": "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities. Another pro is that skipping the story can also ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "originalUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-diablo-3-schedules-likely-final-season-before-diablo-4s-launch.md",
+      "title": "Diablo 3 Schedules Likely Final Season Before Diablo 4's Launch",
+      "excerpt": "Diablo 3 is passing the torch to Diablo 4, as Blizzard Entertainment announces what is likely to be the game's final season before the sequel officially becomes Diablo's flagship title.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-16-diablo-3-schedules-likely-final-season-before-diablo-4s-launch/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4s-launch/ar-AA16prqD",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4s-launch/ar-AA16prqD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pybk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-diablo-4s-codex-of-power-system-explained.md",
       "title": "Diablo 4's Codex of Power System Explained",
       "excerpt": "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds. To obtain these Legendary Aspects, players must first complete specific ...",
@@ -991,99 +1084,6 @@
       "provider": {
         "name": "GamesRadar+ on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game.md",
-      "title": "Diablo 4 Limited Collector's Edition Revealed, Doesn't Include The Game",
-      "excerpt": "Priced at $96.66, the Diablo 4 collector's edition does not include a copy of the game but does sport some killer mood lighting.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "publishedDateTime": "2022-12-15T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "diablo #diablo4 #reaction Reacting to Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 ALL MY CONTENT IN ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=bOph5Mn57ps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bOph5Mn57ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:10:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Annoyed Reactions VF",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,90 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-17-diablo-4-beta-is-plagued-with-error-codes-as-the-servers-struggle-to-meet-demand.md",
+      "title": "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand",
+      "excerpt": "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-beta-is-plagued-with-error-codes-as-the-servers-struggle-to-meet-demand/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-server-errors",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-server-errors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt.md",
+      "title": "Diablo 4 pays tribute to the original game with dungeon built around a screenshot of the Crypt",
+      "excerpt": "Diablo 4 developers used a screenshot of the Crypt from the original game to design one of the dungeons in the upcoming action-RPG. Diablo 4's early beta access, available to those who've pre-ordered ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-if-you-want-a-real-taste-of-hell-you-should-play-diablo-4-on-hardcore-mode.md",
       "title": "If you want a real taste of hell, you should play Diablo 4 on Hardcore mode",
       "excerpt": "You might be tempted to dive into Diablo 4 and play it easy – scope out this ruined world, find your bearings in the hellscape fantasy that Blizzard has cooked up this time. But, if you’re after a ...",
@@ -1019,99 +1103,6 @@
         "name": "Windows Central",
         "domain": "windowscentral.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-is-diablo-4-free-to-play.md",
-      "title": "Is Diablo 4 free to play?",
-      "excerpt": "Diablo IV is the latest entry in Blizzard's Diablo series. Players return to Sanctuary and must face Lillith or fall to the hellish forces invading the world. With numerous fans looking forward to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-13-is-diablo-4-free-to-play/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/is-diablo-4-free-to-play/ar-AA18A4bV",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/is-diablo-4-free-to-play/ar-AA18A4bV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Ac5q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-rod-fergusson-addresses-diablo-4-xbox-game-pass-rumors.md",
-      "title": "Rod Fergusson Addresses Diablo 4 Xbox Game Pass Rumors",
-      "excerpt": "With the Diablo 4 open beta approaching, Blizzard's Rod Fergusson addresses recent rumors indicating that the game will be coming to Xbox Game Pass.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-13-rod-fergusson-addresses-diablo-4-xbox-game-pass-rumors/index.json",
-      "webUrl": "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/",
-      "originalUrl": "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-xbox-game-pass-rumors.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
