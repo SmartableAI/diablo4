@@ -1,27 +1,21 @@
 ---
 category: news
-title: "How to Beat Ashava Boss Fight in Diablo 4 Beta"
-excerpt: "Diablo 4 introduces World Bosses into the dungeon crawling RPG series, allowing players from across the server to come together and take down a giant boss for great rewards. The only catch is that the ..."
-publishedDateTime: 2023-03-19T07:39:00Z
-originalUrl: "https://twinfinite.net/2023/03/how-to-beat-ashava-boss-fight-in-diablo-4/"
-webUrl: "https://twinfinite.net/2023/03/how-to-beat-ashava-boss-fight-in-diablo-4/"
+title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
+excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
+publishedDateTime: 2023-03-23T02:25:00Z
+originalUrl: "https://www.yahoo.com/lifestyle/diablo-4-open-beta-patch-230504323.html"
+webUrl: "https://www.yahoo.com/lifestyle/diablo-4-open-beta-patch-230504323.html"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Twinfinite
-  domain: twinfinite.net
+  name: Yahoo
+  domain: yahoo.com
 
 topics:
   - Diablo 4
-
-images:
-  - url: "https://twinfinite.net/wp-content/uploads/2023/03/diablo4-Ashava-Boss-Fight.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips"
@@ -84,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Beat Ashava Boss Fight in Diablo 4 Beta"
+    excerpt: "Diablo 4 introduces World Bosses into the dungeon crawling RPG series, allowing players from across the server to come together and take down a giant boss for great rewards. The only catch is that the ..."
+    publishedDateTime: 2023-03-19T07:39:00Z
+    webUrl: "https://twinfinite.net/2023/03/how-to-beat-ashava-boss-fight-in-diablo-4/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 87
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2023/03/diablo4-Ashava-Boss-Fight.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
     excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address some bugs and issues that players may have experienced"
     publishedDateTime: 2023-03-22T16:05:00Z
@@ -98,16 +106,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
-    excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
-    publishedDateTime: 2023-03-23T02:25:00Z
-    webUrl: "https://www.yahoo.com/lifestyle/diablo-4-open-beta-patch-230504323.html"
-    type: article
-    provider:
-      name: Yahoo
-      domain: yahoo.com
-    quality: 67
 
-secured: "XKy6Qf8tKc3rvdhMUfL1bSf58FJQI0dwuOdpbZsp5+ZNpuYZsSDxfKQQb2R8hR8mtQ4LAKAOD4lQrR5f1iyTkKx7IODUCRRME/rBMApz4/DdQKNMNXbFFW1YCSDVHp44qGN3nEv1fPs/avl2geEHM3bD1KlMI+FbxCUOg3juWGLzYjfz8fhoSXP6i1VAOcHY9pdVa01CwTikjcPVATHaCajoDiJmFpnHFKMa/6W1ZZrKngVz847prHpL3hCn/Hk+IDUpKvjzz1QevaHxePQ4iuVa6PoOSsK/LX60KmPmGMAXY1ubS+Nn/HE74KT6X82T+NUCAqJyZYezqPPhkjJ+7xjEtYeyY2baQlbOTtT0fo4=;Y0dH778cX+KpwbxiM1aiQg=="
+secured: "iF4d+kbSj8E8oEfdP9l9pk/WyQdeS5KnQlyFRYhUrKvVUx2ewGDASy21wWr2fLljnpv/APpY0SolDGrp/ouRQ6bji0Iq66V6wAEScUB9AD+VAxzSNsegY1NvlIAN1EUpcLhiXITu7TDLsuc66OqTnmcPrn0Vo3/pCzPptnUTJ+//+9w0D9Woyuw6lDy248HkDDWs9axcYgScy4rVPF6Pw5zwJrHQnygaO7vqXw+P7kNMUwVzuyApS3W3upN40FFHavus6LzWgD9j72LP3o0XT7Bos955tieTBW2s9yYFgzC74qAvpiX3uywQxwGXAgQBhfc5ZRFK6ekvfTr2+DV5s8d5Wvu3rLVlQFG99a1xltE=;RRMKXR7J5LQ/EaSFIjdhCg=="
 ---
 

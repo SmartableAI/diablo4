@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spa
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
 type: article
 quality: 147
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
+    excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
+    publishedDateTime: 2023-03-23T02:25:00Z
+    webUrl: "https://www.yahoo.com/lifestyle/diablo-4-open-beta-patch-230504323.html"
+    type: article
+    provider:
+      name: Yahoo
+      domain: yahoo.com
+    quality: 67
 
 secured: "3i73Il/sxM8NNXSiKg9/0RBpuoMoNIJUgIOHFhx8nCRaxdbGlmI0wAL83gnnkqQtU1L9ZZLs1Wupaf6yGNv2x1V5Jz0BjayfGb1CDbBNqdzyVrRvxuZYWp2ZhOBhq3s8KjSflcvGA4tldpWThXyaNiyHvMc54OefQ44Erh3ZqVmMH5SIGq2nk29/xnmh2GLZIVAL7oWGu8IMSB6Xu2n42k3XmDerWBssd78YMvlfA2jF1bRlvW/UrS+CzGGDgTJYNn/SKfqokZyF7kE+i7RoIBcpLK0SI2qN/mM275jc01vgztXc8y+dwU6ZK8e73pWDDcBoyJzqbC53vtEW2bsTyQd9tMa3gLde7z971iPigoc=;YOJyOeI1JgeEBSXdrgdVVg=="
 ---

@@ -102,6 +102,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
+    excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
+    publishedDateTime: 2023-03-23T02:25:00Z
+    webUrl: "https://www.yahoo.com/lifestyle/diablo-4-open-beta-patch-230504323.html"
+    type: article
+    provider:
+      name: Yahoo
+      domain: yahoo.com
+    quality: 67
 
 secured: "fbhGnHNIZllw+sJkSBNakjIB7V7KLEa4Ap3eiWhdMfxy3QqJNZoYT/tnbe3Wd+Y3jY3kIYSiIMTkYUxAiBmSq6eN7cR8hBAauQ1FM0cdWPNsl7WfFiuI6aMwdh443vPcSstZm7rGF9ds4XnKiu9x59zbNXmWGgSPc3y0gTiEaXv6kiY8JJO7NCN/LH+ufi9uOgXTkQfKR6gjgNTz4z5RK7nAFuztQR27guSOTXOi65OxKce7b91/seHYatNvArI0o2A0LhS0negiNpAOpCkkDX7FxBQKXkE/kvFGcG3d+baYJopO+an+lXdfYjjeqaNBRQh+VRJ0nhztqOFYbEtXz6MOds/+fAPVdP3KLvUbcNo=;z8BQbmldJKLO7LkrT8/pFQ=="
 ---
