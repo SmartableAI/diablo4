@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queu
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/"
 type: article
 quality: 147
-heat: 147
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,38 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
+    excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
+    publishedDateTime: 2023-03-23T12:49:00Z
+    webUrl: "https://www.polygon.com/23653776/diablo-4-open-beta-queue-times-error-316719"
+    ampWebUrl: "https://www.polygon.com/platform/amp/23653776/diablo-4-open-beta-queue-times-error-316719"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23653776/diablo-4-open-beta-queue-times-error-316719"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wbFwnNf94ZWQLu5qi8sOQoOc3ZY=/0x0:3840x2160/1400x933/filters:focal(1652x166:2266x780):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72107450/IGC_InariusIntro_RS_01_png_jpgcopy.6.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
+    excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
+    publishedDateTime: 2023-03-23T13:39:00Z
+    webUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 78
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_beta_systemspecs.jpg"
+        width: 1280
+        height: 631
+        isCached: true
 
 secured: "zAdk7eEzNDJoM+srcyFKWNo60ZV5KB0e0BKs31AbTAJoU552EBnLWjc3mnI9S93g0FI96v9xqJbZxydnUd6Da3ew8QJX+hVro4UStTWYS6UQ7BTOogAKI/7u7Z8XiwF20COcat25Geb/U6dLxVWqryNsblmJi/OIPyzQ8EftfVkljEvd7XUYPjTbWyMhM8a71mGPP3K60j7wtuby2KP5Zpe8ZZt1ZwIf2GjiyGd6YM8fBc7Yzb09WSARbAHUecdSI/l2dW3BQgr2J883nwhngM/lixO08+tMz0q9kutdg8s2YTxCqBb0IhtD80nLB9XTXhZBJQq/6J8Q4z1s7IYAQ4kSmPPELn6PuCs3msh1Ou4=;ajtqmzvu/zfM2UTZY+UMtw=="
 ---

@@ -1,48 +1,30 @@
 ---
 category: news
 title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
-excerpt: "The Barbarian should be a familiar face to inveterate fans, but its playstyle differs slightly in Diablo 4 from previous iterations. Perhaps the biggest change to the Barbarian comes in the form of ..."
-publishedDateTime: 2023-03-23T09:46:00Z
-originalUrl: "https://gamerant.com/diablo-4-beta-barbarian-class-what-to-know-builds-arsenal-system-weapons-roles-tank-bad-potions/"
-webUrl: "https://gamerant.com/diablo-4-beta-barbarian-class-what-to-know-builds-arsenal-system-weapons-roles-tank-bad-potions/"
+excerpt: "The Barbarian should be a familiar face to inveterate fans, but its playstyle differs slightly in Diablo 4 from previous iterations."
+publishedDateTime: 2023-03-23T09:46:17Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
 type: article
-quality: 140
-heat: 240
-published: true
+quality: 100
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Game Rant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
   - Barbarian
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/barbarian-fractured-peaks-all-you-need-to-know.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZO2k.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Diablo 4 Beta: How To Beat Ashava, The Pestilent"
-    excerpt: "If players can do that, they’ll bring down Ashava, the Pestilent and earn their spoils. Diablo 4 launches June 6 on PC, Xbox One, Xbox Series X/S, PS4, and PS5. Robert is a seasoned gamer, writer, and ..."
-    publishedDateTime: 2023-03-23T04:00:00Z
-    webUrl: "https://gamerant.com/diablo-4-beta-how-to-beat-ashava/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-defeated-feature.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Diablo 4 Beta: Everything You Need to Know About the Sorcerer Class Archetype"
     excerpt: "Players jumping into the Diablo 4 beta will have access to the Sorcerer class, the classic magic-wielding archetype from the Diablo series' past. Elemental spells are the primary source of damage for Sorcerers, with the three primary types being Fire ..."
     publishedDateTime: 2023-03-21T08:43:00Z
@@ -102,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "myz4gf0fxxFmR67EFK2zMIhvpJoLE6AevR3ZiiOKuHAg0w1igQ9+00j8PtnQKHp7c40zXbsR+sYslL7kalCRCHiaEXlbqL6ZMf0NuLfeYSRhm4JxvMg73CD1v++/PJ7O0WFmCt49NqdMDwwVl4+d2+8ctQ5aW/tyMkVFkfcxDTH3eIInxop1lqBmroBUzx5IHn1QFwD/Mpsuej7E2zbakXoNa5twURP7zVQbW8f74bdC/ZjDT77esO/DauMwdeCsDDQiY87bNZc5cAsP2WTOwyOAEM2gVWTd5To+jLjLcG3inoosaF0As8tj5ERSn355Bk64gSuV/pBa0CF12Sh0ZKURYykGJRMduTQ1KnxqNcA=;CwXKhXFBBXzJO0iniJNFqg=="
+secured: "2oOPAIgVEpIoDE2Bq2OeQw12MjgOi2zBLzTwov/UF+AxGOTw2RTn69siBCzQOcKP/RlCGgTcSNMwygPUZCgPLFkorzj3aqdlwHH726a46FKKrfuZKqOn3NgYlF5t9C7A9aqshNdh7Nj8HL+y4iuoqZO4l24zwqjq93Ge5G5Uih8tZE3lAQ8TaP+0Cr4Oce7EvUGxbIZy8i/dXg1hU/ZDHQHiKJrwWRPp7Lck2A5uKU1nYtMUZpRPej+ND8QxOKhdHQ4nm035OaWK5ll/unHDQp6JXiJRzoCPE+Fz2Jk0pa6C3DRO1RrVVl8PG96CB5v7QZc2GZK0ZQkD67z8MUd+RgZxlnjgj7+K7qNdJ5H4wWE=;3HevhTRVmEH+gp0AyGgvKg=="
 ---
 

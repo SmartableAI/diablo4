@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4's Lilith May Be The Series' Best Villain Yet"
+    excerpt: "and Diablo 4’s new demonic antagonist Lilith embraces that murkiness, flipping the traditional series narrative on its head. Who and what really is ‘bad?’ Both angels and demons do as they wish at ..."
+    publishedDateTime: 2023-03-23T13:00:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-lilith-best-diablo-villain/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 87
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/cover-2.jpg"
+        width: 3000
+        height: 1500
+        isCached: true
 
 secured: "d9oYHfhobpqQdzrLVdqkvSHnSsSRF3SzE3h6LU9jt0MfGVoa3Jat0EA7tXfD3D6VUv1SaxA9nyRwwCAK4UuzWwDtNbhmbH/cQvCnh0xAXiDpZgzuae4ThDeOAjputKsXd3GbRF6T304XpK1Tyn1uAtutBeotX/ukP/0fqhSJaPGYF9NVgpk+dDfhxOPOJ78jBglkeCryFjEn62rmvk/vawegCZatjITjZI1hH413xoKAQ/r6pmaUK6hNzKLkaIO21NS2U405mX4ZBLd44VTR+rPVbH3qdBVPEEGuQ3b57E4Fd3CU/Q5SS4zz+r4ymhQdQAPyz/cS/LoKkKAj04epD/ACeA55sH36teLVcc8/r/I=;icpbepyhh/j2BkHm3f13GA=="
 ---

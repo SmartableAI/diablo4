@@ -60,6 +60,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 Butcher - Spawn Locations, Loot Drops, And How To Beat It"
+    excerpt: "GameSpot may get a commission from retail offers. Have you been roaming the corridors of a dungeon in the Diablo 4 beta and suddenly been attacked by a giant, hulking enemy that smashed you to pieces ..."
+    publishedDateTime: 2023-03-23T12:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-butcher-spawn-locations/1100-6512663/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-butcher-spawn-locations/1100-6512663/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-butcher-spawn-locations/1100-6512663/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 Beta: World Boss (Ashava) Spawn Times"
     excerpt: "Diablo 4 players can take on a World Boss during the Open Betas, but only during certain times and one day. One of these events in both the Open Beta and the Early Access Beta weekends will be the ..."
     publishedDateTime: 2023-03-15T17:57:00Z

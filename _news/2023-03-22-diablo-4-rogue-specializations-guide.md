@@ -46,6 +46,22 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Diablo 4 Butcher - Spawn Locations, Loot Drops, And How To Beat It"
+    excerpt: "GameSpot may get a commission from retail offers. Have you been roaming the corridors of a dungeon in the Diablo 4 beta and suddenly been attacked by a giant, hulking enemy that smashed you to pieces ..."
+    publishedDateTime: 2023-03-23T12:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-butcher-spawn-locations/1100-6512663/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-butcher-spawn-locations/1100-6512663/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-butcher-spawn-locations/1100-6512663/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "World boss Ashava spawn times and location in the Diablo 4 beta"
     excerpt: "Diablo 4's first world boss, Ashava, is one of the main challenges available during the two Diablo 4 betas this month. Unlike dungeons and quests, world bosses wait for no slayer. Ashava has three ..."
     publishedDateTime: 2023-03-18T07:45:00Z
