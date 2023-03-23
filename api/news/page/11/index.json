@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-07-diablo-4-reportedly-set-to-arrive-in-april-2023.md",
+      "title": "‘Diablo 4’ reportedly set to arrive in April 2023",
+      "excerpt": "Blizzard Entertainment have yet to respond to any of the new reports. Diablo 4. Credit: Blizzard Entertainment. Back in September, Blizzard Entertainment announced that it will “soon” be hosting a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-reportedly-set-to-arrive-in-april-2023/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344601",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/diablo-4-reportedly-set-to-arrive-in-april-2023-3344601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/07/Diablo-4-Necromancer-beta-2000x1270-1.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-how-diablo-4-hopefully-melds-the-diablo-2-and-diablo-3-combat-systems.md",
       "title": "How Diablo 4 Hopefully Melds the Diablo 2 and Diablo 3 Combat Systems",
       "excerpt": "Diablo 2 and Diablo 3 are amazing games in their own respects, and hopefully, Blizzard combines the best aspects of both combat systems in Diablo 4.",
@@ -1024,48 +1066,6 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-diablo-4-beta-update-implies-tests-are-coming-soon.md",
-      "title": "Diablo 4 beta update implies tests are coming soon",
-      "excerpt": "The Diablo 4 beta client has appeared online and can be downloaded right now, according to an eagle-eyed Redditor, reigniting the hype around the Blizzard ARPG ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-19-diablo-4-beta-update-implies-tests-are-coming-soon/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-update",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-beta-update.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
