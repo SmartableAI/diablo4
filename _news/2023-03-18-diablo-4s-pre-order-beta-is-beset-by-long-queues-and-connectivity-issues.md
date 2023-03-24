@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Players Report GPU Issues During Beta"
+    excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
+    publishedDateTime: 2023-03-24T11:53:00Z
+    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192uSw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=670&y=160"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
     excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
     publishedDateTime: 2023-03-17T15:38:00Z

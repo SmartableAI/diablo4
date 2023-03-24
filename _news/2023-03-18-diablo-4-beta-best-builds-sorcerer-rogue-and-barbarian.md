@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The best Diablo 4 Rogue build for solo play"
+    excerpt: "The best Diablo 4 Rogue build turns this squishy warrior into a deadly assassin. Rogues are flexible fighters with a broad range of skills. They lend themselves to deep specialization, but you can get ..."
+    publishedDateTime: 2023-03-24T11:20:00Z
+    webUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build"
+    ampWebUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-rogue-build_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The best Diablo 4 Rogue builds"
     excerpt: "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ..."
     publishedDateTime: 2023-03-24T09:38:00Z
@@ -69,19 +85,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Diablo 4 Barbarian Builds"
-    excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
-    publishedDateTime: 2023-03-22T08:52:00Z
-    webUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093102/"
+  - title: "Best Diablo 4 beta Necromancer build for solo players"
+    excerpt: "We've finally made it to the Diablo 4 beta, which means everyone and anyone is jumping in and trying out the early parts of the game. However if you're keen on experiencing the game at its most ..."
+    publishedDateTime: 2023-03-17T06:41:00Z
+    webUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-solo-players"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 104
+      name: vg247
+      domain: vg247.com
+    quality: 87
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
-        width: 1600
-        height: 900
+      - url: "https://asset.vg247.com/diablo-4-necromancer_7MTOQrX.jpg/BROK/thumbnail/1200x630/diablo-4-necromancer_7MTOQrX.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DwkDTxOa5M27nl7EnTgO2soKPXAOPD3Uegb0jVNaxqYunLuUUNa0/Aen0BtQXFNN81P36kwljKvhIMLIikUQldAt8i1ifNBwGRTowhfJ9nTlaj2yXYk8um6/HrWx4GAaHNayhs3QhihSH6F7iHgyKYBZpnkOojO5YPlUooDm15ujlAvL+JNd4nY0ZrmrnhmoLDAl8YjeNEpvQpXBl6qIQifV2RkZh3b8d4PnbpJrBjkUm4/uMVv96xwbRda3RpZz8eyRBkeSb5o4tLXzUybWtdeBiINTinO2CASsptgBsbHA9eg3wFqq/dbFotDiA3rY/acnSuL+X2dJQWW9sz9XS7BXRcHOwAm1rA0UTZV3LBg=;lO66Y06B1Ki4K4Z4I2BbSg=="

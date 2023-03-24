@@ -2,6 +2,183 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-03-diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign.md",
+      "title": "Diablo 4 leak shows you’ll be able to skip the whole campaign",
+      "excerpt": "Newly leaked screenshots of Diablo 4 suggest you’ll be able to skip the upcoming action RPG’s main campaign. The details of how campaign skipping will work are unclear. It’s not obvious whether you’ll ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign/index.json",
+      "webUrl": "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign",
+      "originalUrl": "https://www.techradar.com/news/diablo-4-leak-shows-youll-be-able-to-skip-the-whole-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5CVs7ck3HEmyEtZw8QFaib-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers.md",
+      "title": "Everything you need to know about Diablo 4: Story, classes and trailers",
+      "excerpt": "Explainer Provides context or background, definition and detail on a specific topic. (Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/index.json",
+      "webUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
+      "originalUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/149976-games-feature-diablo-4-release-date-formats-screens-trailers-deals-and-all-you-need-to-know-image1-ezipok3a0x.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
+      "publishedDateTime": "2022-10-01T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg.md",
+      "title": "Diablo 4 skills are tied to weapon damage in Blizzard RPG",
+      "excerpt": "A video showing that Diablo 4 skills are tied to weapon damage in the Blizzard ARPG game has fans discussing the benefits of the Diablo 3 vs Diablo 2 systems ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-skills-tied-weapon-dps-necromancer-blizzard-rpg.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-blizzard-is-sending-out-first-wave-of-diablo-4-end-game-beta-invites.md",
+      "title": "Blizzard Is Sending Out First Wave Of Diablo 4 End Game Beta Invites",
+      "excerpt": "Blizzard has reportedly started distributing Diablo 4 end game Beta invites out to players, according to a number of users on ResetEra and Reddit. Participants of the end game beta will be able to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-28-blizzard-is-sending-out-first-wave-of-diablo-4-end-game-beta-invites/index.json",
+      "webUrl": "https://www.psu.com/news/diablo-4-end-game-beta-invites/",
+      "originalUrl": "https://www.psu.com/news/diablo-4-end-game-beta-invites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.psu.com/wp/wp-content/uploads/2022/09/Diablo4-1.jpg",
+          "width": 800,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Play Station Universe",
+        "domain": "psu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-diablo-4-is-sending-out-invites-for-its-end-game-beta.md",
       "title": "Diablo 4 Is Sending Out Invites for Its End Game Beta",
       "excerpt": "Diablo 4 devs have reportedly started to send out invites for the first wave of its closed end game beta. Multiple fans have shared on social media that they received invites to the game’s ...",
@@ -913,183 +1090,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-18T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
-      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
-      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
-      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide.md",
-      "title": "Diablo 4 Rogue class, skills, and imbue system guide",
-      "excerpt": "Looking to find out more about the Diablo 4 Rogue class? Look no further. Created to fulfil a dexterity role, Rogue is a truly hybrid character who combines her excellence in both range and melee ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo4-rogue-class-trailer.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "Hey Everyone! Kyle here ! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=IrTta5nR4ys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrTta5nR4ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T08:05:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kyle Stencell Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-diablo-4-everything-we-know.md",
-      "title": "Diablo 4: Everything we know",
-      "excerpt": "The latest on Diablo 4's classes, world, trailers, and everything else we know about it. After years of speculation and rumors, Blizzard finally revealed Diablo 4 during BlizzCon 2019. It wasn't a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-09-diablo-4-everything-we-know/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Gamer",

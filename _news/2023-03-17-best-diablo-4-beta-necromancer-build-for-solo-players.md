@@ -24,31 +24,77 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 best class tier list | best solo class for the beta"
-    excerpt: "The Diablo 4 closed beta is here, which means thousands of people will be flooding in to try Blizzard's latest venture into the world of Sanctuary. If you want to make the most out of your limited ..."
-    publishedDateTime: 2023-03-15T09:01:00Z
-    webUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta"
+  - title: "The best Diablo 4 Rogue build for solo play"
+    excerpt: "The best Diablo 4 Rogue build turns this squishy warrior into a deadly assassin. Rogues are flexible fighters with a broad range of skills. They lend themselves to deep specialization, but you can get ..."
+    publishedDateTime: 2023-03-24T11:20:00Z
+    webUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build"
+    ampWebUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
     type: article
     provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
     images:
-      - url: "https://asset.vg247.com/diablo-4-beta-characters.jpg/BROK/thumbnail/1200x630/diablo-4-beta-characters.jpg"
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-rogue-build_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The best Diablo 4 Rogue builds"
+    excerpt: "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ..."
+    publishedDateTime: 2023-03-24T09:38:00Z
+    webUrl: "https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills"
+    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/zXyA11RaVNQiJvupI7zfhNqCyPk=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110658/Diablo_IV_Rogue_Key_Art.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-18T20:26:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-19T00:22:00Z
+    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
+    type: article
+    provider:
+      name: Windows Central on MSN
+      domain: msn.com
+    quality: 104
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18NYja.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 beta class tier list, best classes in the beta ranked"
-    excerpt: "The best class in the Diablo 4 beta is quite a subjective thing, you're encouraged to pick a base class and build them up into a character that suits your personal preferences. Therefore, pinning down ..."
-    publishedDateTime: 2023-03-24T09:01:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-beta-class-tier-list-ranked-9337"
+  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
+    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
     type: article
     provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 104
     images:
-      - url: "https://assets.reedpopcdn.com/diablo-four-all-five-classes-official-blizzard-artwork.jpg/BROK/thumbnail/1200x630/diablo-four-all-five-classes-official-blizzard-artwork.jpg"
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
         width: 1200
         height: 630
         isCached: true

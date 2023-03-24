@@ -2,6 +2,183 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
+      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
+      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide.md",
+      "title": "Diablo 4 Rogue class, skills, and imbue system guide",
+      "excerpt": "Looking to find out more about the Diablo 4 Rogue class? Look no further. Created to fulfil a dexterity role, Rogue is a truly hybrid character who combines her excellence in both range and melee ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/rogue-skills-talents-best?driver=mgg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo4-rogue-class-trailer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Hey Everyone! Kyle here ! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=IrTta5nR4ys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrTta5nR4ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T08:05:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kyle Stencell Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-diablo-4-everything-we-know.md",
+      "title": "Diablo 4: Everything we know",
+      "excerpt": "The latest on Diablo 4's classes, world, trailers, and everything else we know about it. After years of speculation and rumors, Blizzard finally revealed Diablo 4 during BlizzCon 2019. It wasn't a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-09-diablo-4-everything-we-know/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-will-diablo-4-be-free-to-play.md",
       "title": "Will Diablo 4 be free to play?",
       "excerpt": "The community has been getting more and more details about Diablo 4 as the game's expected 2023 launch nears. The August news drop from Blizzard elaborated ...",
@@ -916,174 +1093,6 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions.md",
-      "title": "Diablo 4 beta leaks spark smart loot and trading discussions",
-      "excerpt": "While the first Diablo 4 beta leaks may not be indicative of the final product, they have spawned conversations around smart loot and trading in the RPG game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-beta-leaks-smart-loot-trading.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online.md",
-      "title": "Diablo 4 Test Build Leaks Already Surfacing Online",
-      "excerpt": "As leaks typically are when it comes to an upcoming game, the leaks from whatever Diablo 4 test is going on now have been spotted here and there throughout the game's subreddit. One such post pulls ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
-      "publishedDateTime": "2022-08-06T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-diablo-4-leaks-have-started-in-record-time.md",
-      "title": "Diablo 4 leaks have started in record time",
-      "excerpt": "As if magically summoned by reports that a Diablo 4 alpha playtest is running for family and friends of Blizzard, various images and titbits of information are making their way online. We'll discuss ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-05-diablo-4-leaks-have-started-in-record-time/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-leaks-have-started-in-record-time/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-leaks-have-started-in-record-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch.md",
-      "title": "Diablo 4's Alpha Has Begun, But There's A Catch",
-      "excerpt": "Some gamers are getting to play Diablo 4's alpha build, but there's a catch: the alpha is for friends and family only.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch/index.json",
-      "webUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
-      "originalUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.svg.com/img/gallery/diablo-4s-alpha-has-begun-but-theres-a-catch/l-intro-1659716552.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "svg",
-        "domain": "svg.com",
         "images": null,
         "publishers": null,
         "authors": null

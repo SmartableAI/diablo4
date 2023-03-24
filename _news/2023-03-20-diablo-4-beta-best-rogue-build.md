@@ -84,8 +84,8 @@ related:
         isCached: true
   - title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
     excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
-    publishedDateTime: 2023-03-24T05:00:00Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-will-progress-andamp-characters-carry-over-to-the-full-game/ar-AA18YTV1"
+    publishedDateTime: 2023-03-24T10:59:00Z
+    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-beta-will-progress-characters-carry-over-to-the-full-game/ar-AA18YTV1"
     type: article
     provider:
       name: MSN
