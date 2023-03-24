@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Patch Notes List Bugs Fixed for the Open Beta"
+    excerpt: "Blizzard has shared a list of fixes that it's making based on issues from the Diablo 4 early access beta for the upcoming open beta. The launch of Diablo 4's early access beta this past weekend was ..."
+    publishedDateTime: 2023-03-24T01:34:00Z
+    webUrl: "https://www.msn.com/en-au/news/techandscience/diablo-4-patch-notes-list-bugs-fixed-for-the-open-beta/ar-AA190upD"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190rNI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8sYEZR8gUSiGIjNP/VIHe+vpAk/fvq77VFo7hBt+IjY2SvPmL2vLydIo8Tw9h9LM5HiRSw6QH4Wb6YGvJcVnlWq9ikIrUWMp6bcM0UjIbqC5Eip6Fby8Z4QMkmPmpTQH03SSgPHqjhFjZ6MZ1OPbsL1GFa6OPbzCpfrDSzF7Q/xa+5Kr3HRSiIFaB4Z9EfF/K43kt9K37sxRf9+G43agFjAMDI9lULCxJLF3LCahGN/8Gui66mAoqL8kgi2Nl00wuY0O9hhNsJhEExQx/FQ2S5UyoeMkU8n00g/uiB43X5BXPrZCQ574bWWcenw88EUrhjzHSaFRc76Kpd6N6ictNV4qm/87U73VdpebCzN85X4=;eXb2EbUWAHDhOPpZZ8h5Rg=="
 ---
