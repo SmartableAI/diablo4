@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells
 webUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/"
 type: article
 quality: 124
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
     quality: 100
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZO2k.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Beta: Best Rogue Build"
-    excerpt: "With only a handful of skills able to be unlocked in the beta period, it's still possible to have an overpowered rogue in Diablo 4."
-    publishedDateTime: 2023-03-20T02:13:20Z
-    webUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
-    type: article
-    provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

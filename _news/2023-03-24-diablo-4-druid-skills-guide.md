@@ -1,0 +1,97 @@
+---
+category: news
+title: "Diablo 4 - Druid Skills Guide"
+excerpt: "The Druid has finally been unlocked in the Diablo 4 beta after being locked for the first weekend. Now, all players have access to the shape-shifting class, which has not been available in the series ..."
+publishedDateTime: 2023-03-24T12:20:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-druid-skills-guide/1100-6512695/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-druid-skills-guide/1100-6512695/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/"
+type: article
+quality: 164
+heat: 244
+published: true
+
+provider:
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Diablo 4
+  - Druid
+
+images:
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+related:
+  - title: "Diablo 4 - Guides Hub"
+    excerpt: "We've got a lot of guides to help you get started when you play Diablo 4. Diablo 4 is the latest iteration of the popular action role-playing game (ARPG) from Activision-Blizzard. Set in the world of ..."
+    publishedDateTime: 2023-03-19T20:46:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-guides-hub/1100-6512481/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-guides-hub/1100-6512481/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-guides-hub/1100-6512481/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114626-diablo4guideshub.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4 World Events Guide"
+    excerpt: "The Diablo 4 World Events appear as bright orange circles on your minimap (to differentiate them from main quests and sidequests). Upon reaching the area, the type of task and requirement will appear."
+    publishedDateTime: 2023-03-20T12:43:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-world-events-guide/1100-6512477/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-world-events-guide/1100-6512477/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-world-events-guide/1100-6512477/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114512-diablo4worldeventsguide-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Diablo 4 Wiki Guide"
+    excerpt: "This section of IGN's Diablo 4 Wiki Guide will walk you through how to approach her boss fight. Vhenard is a tricky boss fight, as she requires a lot of moving around and patience. In order to take ..."
+    publishedDateTime: 2023-03-18T17:03:00Z
+    webUrl: "https://www.ign.com/wikis/diablo-4/Vhenard"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/diablo-4/4/41/D4-Vhenard-1.JPG"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "Diablo 4 Wiki Guide"
+    excerpt: "This section of IGN’s Diablo 4 Walkthrough will guide you through the game’s first Act, called A Cold and Iron Faith. This is also when the world ..."
+    publishedDateTime: 2023-03-19T04:25:00Z
+    webUrl: "https://www.ign.com/wikis/diablo-4/Act_1"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/diablo-4/5/51/Diablo4-act_1-1.JPG"
+        width: 3840
+        height: 2160
+        isCached: true
+
+secured: "xWt9IgPDNfKaIN9LdK00EkG9l4i8wWMgaHZJ7rcKBBfnezAm2zsHJcmWLqtDIpDT3sy2C1UYvE77//Vfd0Ae2PRbWruwW86w5xtpfKFQpjT1euePZqFQkFdcGje3PSrYDjpHtMd+zV9c+vvMBGRzHoChsCl30ZC5nxihx1YM/GYc8SO0x7jkXA6LkW2MUS+iRwhZ0ohFSkMIJfoXNzUvrhdotr95C+3AeGte6waw4YQSaMw8FBMevE1bLEfl8fD0YbQZRdUeDGquEij/R25nmiibKpOSp+hz+YqoKUu1IoUIp2dcEQ166rmRaTJVec00Y3aksUtMy8cfS3LZ3eQ3hTWnyq13l1Bjy7icAu2qpqM=;3JVBc8ypOgYBOer0dHWy4w=="
+---
+

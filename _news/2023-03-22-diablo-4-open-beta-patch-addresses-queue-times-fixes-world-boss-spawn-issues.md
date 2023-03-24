@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addre
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
 type: article
 quality: 144
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
+    excerpt: "With the launch of the Diablo 4 open beta, queue times appear to be substantially shorter than those from last weekend's beta. With the launch of the Diablo 4 open beta, players are noticing that ..."
+    publishedDateTime: 2023-03-24T11:46:00Z
+    webUrl: "https://gamerant.com/diablo-4-open-beta-shorter-queue-times/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-open-beta-queue-time-improved.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Diablo 4 Beta Update Addresses Queue Times, Console Problems"
     excerpt: "Diablo 4 players got their first hands-on experience with the game this weekend during the ongoing open beta, though as some might've expected, long queues and errors messages were part of the process. Blizzard indicated that'd be the case going into the"
     publishedDateTime: 2023-03-18T14:28:00Z

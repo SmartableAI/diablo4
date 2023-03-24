@@ -7,8 +7,8 @@ originalUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093
 webUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093102/"
 type: article
 quality: 104
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dexerto.com
@@ -23,6 +23,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
+    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 104
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sSYK+NFybJJDjt3vZ7XeMqm5kFsM4fqvGmTeGPlvdv2wiOjnkSY6mOzHPxus9pFEHLvz+KVMrPU05EsPze69aud0aS8NkcaVj7oxIEIadaGVizQiW5DLuOA2kzwRusj8TRW8TdKrqi3Hwi3ZIqbzykD2r17ydw25/lY63k9yEvCaa1LQ4dWhRhrsrJg0TPXC/U7iUr6ZQAAIZ38I9YfqPQ0XcYWyx47c7bljSF3Y3MpE5P4URGxH4iCbn4B1+wzbNlqC3vGnvPDIYXzeyEXpjvWLIHXwr0EGfEDAVadycnLRvh5SfAla5+60AzVMbvhnNUuTLYo2GsHOtMVimgl1dEI+RNg+4FEuRfsvMtIMtC8=;mxwp5jFvGr8gcFr5ERFkCg=="
 ---

@@ -24,75 +24,79 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Beta: Everything You Need to Know About the Sorcerer Class Archetype"
-    excerpt: "Players jumping into the Diablo 4 beta will have access to the Sorcerer class, the classic magic-wielding archetype from the Diablo series' past. Elemental spells are the primary source of damage for Sorcerers, with the three primary types being Fire ..."
-    publishedDateTime: 2023-03-21T08:43:00Z
-    webUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/"
+  - title: "Diablo 4 - Rogue Build Guide"
+    excerpt: "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ..."
+    publishedDateTime: 2023-03-21T14:33:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
     type: article
     provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 124
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-sorcerer-class-archetype.jpg"
-        width: 1800
-        height: 900
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
-    excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
-    publishedDateTime: 2023-03-20T10:00:00Z
-    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
-    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+  - title: "The best Diablo 4 Rogue build for solo play"
+    excerpt: "The best Diablo 4 Rogue build turns this squishy warrior into a deadly assassin. Rogues are flexible fighters with a broad range of skills. They lend themselves to deep specialization, but you can get ..."
+    publishedDateTime: 2023-03-24T11:20:00Z
+    webUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build"
+    ampWebUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
+      name: Shacknews
+      domain: shacknews.com
     quality: 107
     images:
-      - url: "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-rogue-build_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Diablo 4 Beta: Best Barbarian Build"
-    excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
-    publishedDateTime: 2023-03-19T21:42:39Z
-    webUrl: "https://www.msn.com/en-us/money/technology/diablo-4-beta-best-barbarian-build/ar-AA18PWxp"
+  - title: "The best Diablo 4 Rogue builds"
+    excerpt: "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ..."
+    publishedDateTime: 2023-03-24T09:38:00Z
+    webUrl: "https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills"
+    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/zXyA11RaVNQiJvupI7zfhNqCyPk=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110658/Diablo_IV_Rogue_Key_Art.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-18T20:26:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-19T00:22:00Z
+    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
+    type: article
+    provider:
+      name: Windows Central on MSN
       domain: msn.com
     quality: 104
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PMIC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
-    excerpt: "The Barbarian is one of the most iconic classes in the Diablo franchise, its iteration in Diablo 4 should allow long-time fans to pick up the class and feel immediately at home, but a few changes ..."
-    publishedDateTime: 2023-03-23T21:01:00Z
-    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 100
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZO2k.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
-    excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
-    publishedDateTime: 2023-03-24T10:59:00Z
-    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-beta-will-progress-characters-carry-over-to-the-full-game/ar-AA18YTV1"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18NYja.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

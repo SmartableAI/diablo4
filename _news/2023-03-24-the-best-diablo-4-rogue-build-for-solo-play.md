@@ -9,8 +9,8 @@ ampWebUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build?amphtm
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
 type: article
 quality: 107
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: Shacknews
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 - Rogue Build Guide"
+    excerpt: "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ..."
+    publishedDateTime: 2023-03-21T14:33:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "The best Diablo 4 Rogue builds"
     excerpt: "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ..."
     publishedDateTime: 2023-03-24T09:38:00Z
@@ -70,31 +86,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
-    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
-    publishedDateTime: 2023-03-22T09:59:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+  - title: "Diablo 4 Beta: Best Rogue Build"
+    excerpt: "With only a handful of skills able to be unlocked in the beta period, it's still possible to have an overpowered rogue in Diablo 4."
+    publishedDateTime: 2023-03-20T02:13:20Z
+    webUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
     type: article
     provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 104
-    images:
-      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Best Diablo 4 beta Necromancer build for solo players"
-    excerpt: "We've finally made it to the Diablo 4 beta, which means everyone and anyone is jumping in and trying out the early parts of the game. However if you're keen on experiencing the game at its most ..."
-    publishedDateTime: 2023-03-17T06:41:00Z
-    webUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-solo-players"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
+      name: Game Rant on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://asset.vg247.com/diablo-4-necromancer_7MTOQrX.jpg/BROK/thumbnail/1200x630/diablo-4-necromancer_7MTOQrX.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

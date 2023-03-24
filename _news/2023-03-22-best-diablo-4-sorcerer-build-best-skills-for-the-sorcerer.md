@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The best Diablo 4 Sorcerer build for solo play"
+    excerpt: "The best Diablo 4 sorcerer build lets you tackle mobs and bosses from afar with ease. Sorcerers are, as ever in the RPG series, weak in direct combat, but capable of dealing heavy damage and ..."
+    publishedDateTime: 2023-03-24T11:40:00Z
+    webUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build"
+    ampWebUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-sorcerer-build_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The best Diablo 4 Sorcerer builds"
     excerpt: "The Sorcerer returns in Diablo 4. Similar to its Wizard counterpart from Diablo 3, the Sorcerer class is capable of casting powerful elemental magic to inflict incredible amounts of damage on groups ..."
     publishedDateTime: 2023-03-24T09:38:00Z
