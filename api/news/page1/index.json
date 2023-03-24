@@ -2,6 +2,192 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-24-the-best-diablo-4-rogue-builds.md",
+      "title": "The best Diablo 4 Rogue builds",
+      "excerpt": "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-the-best-diablo-4-rogue-builds/index.json",
+      "webUrl": "https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills",
+      "originalUrl": "https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zXyA11RaVNQiJvupI7zfhNqCyPk=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110658/Diablo_IV_Rogue_Key_Art.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills",
+      "publishedDateTime": "2023-03-24T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-how-to-swap-weapons-in-diablo-4.md",
+      "title": "How to swap weapons in Diablo 4",
+      "excerpt": "For most classes it's automatic, but one class can switch them. If you're on the fence about whether or not to play Diablo 4 when it gets its full release in June, this weekend's open beta (opens in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-how-to-swap-weapons-in-diablo-4/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ytQZdF8nsJfKjmXajqawFJ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-how-to-play-diablo-4-on-steam-deck.md",
+      "title": "How to play Diablo 4 on Steam Deck",
+      "excerpt": "Set to be one of the hottest games of 2023, Diablo 4 (opens in new tab) is getting fans excited. If the open beta is anything to go by, it's a real game of the year contender, too. Better still, it's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-how-to-play-diablo-4-on-steam-deck/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/how-to-play-diablo-4-on-steam-deck",
+      "originalUrl": "https://www.windowscentral.com/gaming/how-to-play-diablo-4-on-steam-deck",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/NJWJmFzW7TEShcuMAfXZn9-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-you-can-play-diablo-4-right-now-if-you-do-this.md",
+      "title": "You Can Play Diablo 4 Right Now, if You Do This",
+      "excerpt": "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in an open beta that starts Friday. The Diablo 4 open beta is the second ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-you-can-play-diablo-4-right-now-if-you-do-this/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "publishedDateTime": "2023-03-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end.md",
       "title": "When does the Diablo 4 open beta start and end?",
       "excerpt": "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two open beta weekends in March. Now we’re onto ...",
@@ -136,7 +322,7 @@
       "originalUrl": "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -971,174 +1157,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-can-you-play-diablo-4-offline.md",
-      "title": "Can you play Diablo 4 offline?",
-      "excerpt": "Each game’s player base inevitably has a large number of players that prefer playing offline or solo and Diablo 4 is no different. NOW READ: Is Diablo 4 gender locked? With this in mind, a question ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-can-you-play-diablo-4-offline/index.json",
-      "webUrl": "https://www.videogamer.com/news/can-you-play-diablo-4-offline/",
-      "originalUrl": "https://www.videogamer.com/news/can-you-play-diablo-4-offline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-open-beta.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-is-diablo-4-gender-locked.md",
-      "title": "Is Diablo 4 gender locked?",
-      "excerpt": "NOW READ: Is Diablo 4 pay to win? If this is something you’ve been pondering for a while now, then you’ve come to the right place. We’ll be taking a look at the avatar customization options available ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-is-diablo-4-gender-locked/index.json",
-      "webUrl": "https://www.videogamer.com/news/is-diablo-4-gender-locked/",
-      "originalUrl": "https://www.videogamer.com/news/is-diablo-4-gender-locked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/06db0cf7-f0a5-4cdf-9a75-24e1343c487d_D4_Rogue_Campfire.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-who-is-the-protagonist-in-diablo-4.md",
-      "title": "Who is the protagonist in Diablo 4?",
-      "excerpt": "Blizzard has already revealed who the antagonist of Diablo 4 is going to be thanks to the numerous trailers that have been showcased ahead of its release. NOW READ: Does my progress in Diablo 4 Open ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-who-is-the-protagonist-in-diablo-4/index.json",
-      "webUrl": "https://www.videogamer.com/news/who-is-the-protagonist-in-diablo-4/",
-      "originalUrl": "https://www.videogamer.com/news/who-is-the-protagonist-in-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo4_earlyaccess.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house.md",
-      "title": "Blizzard wants you to play Diablo 4 so badly that it’ll powerwash your house",
-      "excerpt": "Blizzard and Thumbtack are giving away $20,000 in services so that Diablo 4 players can have their chores taken care of during the open beta weekend. Need your house power washed? Have Ikea furniture ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-wants-you-to-play-diablo-4-so-badly-that-it-ll-powerwash-your-house/ar-AA18UQ7R",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-wants-you-to-play-diablo-4-so-badly-that-it-ll-powerwash-your-house/ar-AA18UQ7R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UCl1.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T07:10:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

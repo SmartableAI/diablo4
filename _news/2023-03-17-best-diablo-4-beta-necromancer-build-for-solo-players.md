@@ -24,61 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
-    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-    publishedDateTime: 2023-03-18T20:26:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+  - title: "Diablo 4 best class tier list | best solo class for the beta"
+    excerpt: "The Diablo 4 closed beta is here, which means thousands of people will be flooding in to try Blizzard's latest venture into the world of Sanctuary. If you want to make the most out of your limited ..."
+    publishedDateTime: 2023-03-15T09:01:00Z
+    webUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 104
+      name: vg247
+      domain: vg247.com
+    quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
-    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-    publishedDateTime: 2023-03-19T00:22:00Z
-    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
-    type: article
-    provider:
-      name: Windows Central on MSN
-      domain: msn.com
-    quality: 104
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18NYja.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://asset.vg247.com/diablo-4-beta-characters.jpg/BROK/thumbnail/1200x630/diablo-4-beta-characters.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
-    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
-    publishedDateTime: 2023-03-22T09:59:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+  - title: "Diablo 4 beta class tier list, best classes in the beta ranked"
+    excerpt: "The best class in the Diablo 4 beta is quite a subjective thing, you're encouraged to pick a base class and build them up into a character that suits your personal preferences. Therefore, pinning down ..."
+    publishedDateTime: 2023-03-24T09:01:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-beta-class-tier-list-ranked-9337"
     type: article
     provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 104
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
     images:
-      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+      - url: "https://assets.reedpopcdn.com/diablo-four-all-five-classes-official-blizzard-artwork.jpg/BROK/thumbnail/1200x630/diablo-four-all-five-classes-official-blizzard-artwork.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Best Diablo 4 Barbarian Builds"
-    excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
-    publishedDateTime: 2023-03-22T08:52:00Z
-    webUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093102/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 104
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "OzZvQlrG7ZlWcWyVKnZjJjgInMJKpJa4CCwAp1AbRKPESys3xKo3jjCmk+p6BbvHzQXTd34LFzbiD+6B3RNRoxSWDh4PV4B5spesthtrsBVhaX3ssv5sBg3itkAPwLMpsaui+awjZpuhmUtKGbfP+kaqDC8vTx1n8Y3OfOx0MapiZQM2TC8oBsD2KYO6Qm9Gk7YWNkJxb6wQDGGZVZeGOkluyz6K48nn6RP2CKMRGIwua0tNwwyTO3nfxyAE/5ve+8d2xXoMmewPW4glwFZLJVj0skPEFbxyj0S6LvvIQQAt+wtBI7NociIYccaXJLjjDzw2yEQsGZI4oBwIr9c4KY2+nrBHFmdhVkyuzlVz2lI=;KsYIqlvrG15QSBISIni+xQ=="

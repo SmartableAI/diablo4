@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-s
 webUrl: "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The best Diablo 4 Sorcerer builds"
+    excerpt: "The Sorcerer returns in Diablo 4. Similar to its Wizard counterpart from Diablo 3, the Sorcerer class is capable of casting powerful elemental magic to inflict incredible amounts of damage on groups ..."
+    publishedDateTime: 2023-03-24T09:38:00Z
+    webUrl: "https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills"
+    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23653283/sorcerer-best-build-skills"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23653283/sorcerer-best-build-skills"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/s6AFEIYyBaRJ0Y3zNF1NJsUvh_c=/0x0:2134x1189/1400x933/filters:focal(897x425:1237x765):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110656/diablo_4_sorcerer.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Best Diablo 4 Sorcerer build: Best skills for the Sorcerer"
     excerpt: "Our Lightning Sorcerer build will send shockwaves through your enemies and generate Crackling Energy, which you can collect to deal even more damage."
     publishedDateTime: 2023-03-22T09:59:00Z

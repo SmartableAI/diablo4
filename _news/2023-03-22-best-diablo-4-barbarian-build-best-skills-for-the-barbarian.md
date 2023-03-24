@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The best Diablo 4 Rogue builds"
+    excerpt: "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ..."
+    publishedDateTime: 2023-03-24T09:38:00Z
+    webUrl: "https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills"
+    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/zXyA11RaVNQiJvupI7zfhNqCyPk=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110658/Diablo_IV_Rogue_Key_Art.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
     excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
     publishedDateTime: 2023-03-18T20:26:00Z
@@ -66,20 +82,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Best Diablo 4 beta Necromancer build for solo players"
-    excerpt: "We've finally made it to the Diablo 4 beta, which means everyone and anyone is jumping in and trying out the early parts of the game. However if you're keen on experiencing the game at its most ..."
-    publishedDateTime: 2023-03-17T06:41:00Z
-    webUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-solo-players"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/diablo-4-necromancer_7MTOQrX.jpg/BROK/thumbnail/1200x630/diablo-4-necromancer_7MTOQrX.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "riEHHN9Ki8jtuY6Jdc0LD7675cINcCwHSE+U4Y57huV/F5G9TpZ8d2jvfrh3QLtuKfq4qGoWG1UIr5/2Oi1jVDIFUfMpE6hF18CZ/ANt93Sm+oDG5LZW7pwgyALHh7cKe8SvLFzS+vAZMNQz8FkSjUYOWqU2bn47KFvtrn3IfsSMrbplZQwL40CwnfuFKrO4H8TrZLywlEIuVmBemaJ/9kj2IRRCijU2uOQTYOhKtdCX3nOw2rirLfbq5H7ZKSySLAtsD6uCSIQypMFu9xAvYL1DJanzDn3NZlbe3gfgJ/2Zkp/CGJ8K7jehjgCoRcKvwuwCrgHCf6h/CdrolRmKgHgKchK7Cv8l1dhrjgWneNE=;ofYVAw3Ojz6N26iFBwjapg=="

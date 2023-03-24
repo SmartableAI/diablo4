@@ -86,6 +86,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 best beta Rogue build, class skills and armor explained"
+    excerpt: "The Diablo 4 open beta is in full swing this weekend, and with that comes your chance to play your desired character class to get a feel for what the game may be like when it's fully released, ..."
+    publishedDateTime: 2023-03-24T09:01:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-best-beta-rogue-build-9337"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-four-official-rogue-class-character-art.jpg/BROK/thumbnail/1200x630/diablo-four-official-rogue-class-character-art.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Fop83EKtsEeRdlPxqzuFk1EuGk1295Cb3RsS1VY9v0JcGg0BBacMVzJ3rpVXPt31AY7tb4uX64DL9BYvv9vmgnkQ0FQITMgsYGUOGKQACnarHPgoFlLyTzY4vDFRLD852/f+DuroUwqsAOMzhrNcSDaCDE4Gw3QHcDC7T6BDx+yCbecZIFk5gInmrw3xaVzey9ahHekEefE0Xkt49BuhnZTxotXKe+0sq3HLq8A/7mRC1iNDaXEUmQCvKOaH2nFOmV1+yR+wB5Yh/9MkxJkWgDcm79Vg3ZHunpSX0qiSoU9EuP5yRxkdG/R5WNo2Upmt5yyrupA4qai6JVf5gNhJkFCguD8Lxo54PYJYrfCMBsg=;efyKkAvYFWGzEuiHOr41ig=="
 ---
