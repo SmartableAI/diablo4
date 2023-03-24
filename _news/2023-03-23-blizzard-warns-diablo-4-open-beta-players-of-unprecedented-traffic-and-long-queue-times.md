@@ -84,6 +84,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Diablo 4 open beta will have long queue times at launch too, Blizzard warns"
+    excerpt: "Last weekend's Diablo 4 early access beta got off to a rough start. Servers were immediately slammed, which meant long waits for anyone trying to get in, and unstable connections for everyone who did."
+    publishedDateTime: 2023-03-24T02:58:00Z
+    webUrl: "https://www.msn.com/en-xl/entertainment/other/the-diablo-4-open-beta-will-have-long-queue-times-at-launch-too-blizzard-warns/ar-AA190dMZ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 83
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19095l.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=503&y=327"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Blizzard warns of \"unprecedented traffic and queue times\" ahead of Diablo 4 open beta"
+    excerpt: "Blizzard has warned of \"unprecedented traffic and queue times\" ahead of the Diablo 4 open beta, which kicks off this afternoon at 4pm. \"Best to set some expectations early but any issues this weekend ..."
+    publishedDateTime: 2023-03-24T02:14:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-warns-of-unprecedented-traffic-and-queue-times-ahead-of-diablo-4-open-beta"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 80
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-4.jpeg/BROK/thumbnail/1200x630/diablo-4.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vZ5v5XQE9qoasBZ17SmfmOwxJ78S8ULcGc/ezODIZ4LwPjgowFZgsER4JEr/Nyqp9WdevjTHzBY9AXVyM/wU1j+atEbvJcdgOKZTmXOQItmX87F+EPify1DsUWuAmQiwZ4VT7M3JbEoSjGWyqytwOM9GmvI31BRIfF0aWpsJyj47LB5QLwFVTeR9hZ3GTW76X+G/cllcP/A56uTPe8yJ7wgvLTmQpJDC76sZNymnryUNA3PDoNaf0PENAwpeco0XlWMspM/zXuvbxH5iHdHJ3Vd3jG7rcI1HY93JbnInO1DWo0mguhFZPB3CqjIsm6YmVEv9keasKPbq22fK9mrL+mxMT4lRdi3Ta0aTClOaWtc=;MTj8zsVb99jdHXVwrrCY9Q=="
 ---

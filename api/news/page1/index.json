@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end.md",
+      "title": "When does the Diablo 4 open beta start and end?",
+      "excerpt": "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two open beta weekends in March. Now we’re onto ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end/index.json",
+      "webUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
+      "originalUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ByIRpBQfgpncCW9EslIwz_IbxM0=/0x0:1520x540/1400x933/filters:focal(639x149:881x391):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72010038/Diablo_4_Open_Beta_cover.0.jpg",
+          "width": 1400,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
+      "publishedDateTime": "2023-03-23T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues.md",
+      "title": "Playing Diablo 4 this weekend? Expect \"unprecedented traffic and queues\"",
+      "excerpt": "If you’re planning on jumping into Diablo 4’s open beta weekend today, Blizzard has detailed exactly what players should expect, and it’s “unprecedented queue times and traffic”. It’s not great for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues/index.json",
+      "webUrl": "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues",
+      "originalUrl": "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.vg247.com/Diablo-4_fDYh9dD.jpg/BROK/thumbnail/1200x630/Diablo-4_fDYh9dD.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vg247",
+        "domain": "vg247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-diablo-4-beta-drop-rates-are-increased-compared-to-launch.md",
       "title": "Diablo 4 Beta Drop Rates Are Increased Compared to Launch",
       "excerpt": "Blizzard has confirmed that drop rates in both of Diablo 4's betas are at increased levels compared to how they will be at launch. Earning loot is at the heart of every ARPG experience and Diablo 4 ...",
@@ -10,7 +94,7 @@
       "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-beta-drop-rates-are-increased-compared-to-launch/ar-AA190ni2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -103,7 +187,7 @@
       "originalUrl": "https://www.gamespot.com/articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -527,7 +611,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1065,100 +1149,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-diablo-4-open-beta-adding-2-more-classes-to-the-mix.md",
-      "title": "Diablo 4 Open Beta Adding 2 More Classes to the Mix",
-      "excerpt": "Diablo 4 is adding two classes to the available roster for its upcoming open beta, giving those who played the early access a reason to return.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-open-beta-adding-2-more-classes-to-the-mix/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-adding-2-more-classes-to-the-mix/ar-AA18Ux2E",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-adding-2-more-classes-to-the-mix/ar-AA18Ux2E",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UCk0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=121",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T07:09:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-diablo-4s-barbarian-will-get-some-early-game-buffs-following-beta-feedback.md",
-      "title": "Diablo 4's Barbarian Will Get Some Early-Game Buffs Following Beta Feedback",
-      "excerpt": "Feedback from Diablo IV's early access beta weekend will lead to the game's Barbarian class receiving some early-game buffs. More than a few players noticed how the Barbarian seemed to struggle in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4s-barbarian-will-get-some-early-game-buffs-following-beta-feedback/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "publishedDateTime": "2023-03-21T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
       ]
     }
   ],

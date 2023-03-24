@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-beta-drop-r
 webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-beta-drop-rates-are-increased-compared-to-launch/ar-AA190ni2"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 beta drop rates aren’t what we’ll see at launch"
+    excerpt: "If you’ve been swamped in legendaries during the Diablo 4 beta, don’t worry, Blizzard has confirmed that the loot you’re receiving during the Diablo 4 testing phase will not be as readily available ..."
+    publishedDateTime: 2023-03-24T03:55:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-drop-rates-increased"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-drop-rates-items.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "NLpaux3gEWe+fC2YR7vRrzrZFOU9pXHQf88Tc2RspDXNCgVnnJHyoDGkSCM3k0Ls0zIIv6GOXRoORKq0wchWNSpa1poTF3IdXcPkrJEoksd8xfou3vUeiGTfX7RsGyzljcqNhUgJKyNCQ99+0eIZLJa8GyVbr/YkJYPYv+qLhtIODlLQZeC6D2RVZ1UD+34r1NY0xWTQljbDOfAQUcxkqXx0uJaJK3uEJd3n7FVULveHHKmnSQVINePysCCk0Vx/enYhHXBhAD9dRiPbE3KXUWtg+Pj2LrQVTJ85MTULPWPHYq7qThxVQFmpFaRiibfbWmIyqXAiRDMGGioNISW3HP3dIEqmbqXa7/y43Y009ks=;d/GaMRF4COSkAsHeytRyLQ=="
 ---

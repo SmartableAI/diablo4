@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching.md",
+      "title": "Diablo 4 release date latest: When is the new game launching?",
+      "excerpt": "If you’re excited about the Diablo 4 release date and can’t wait to play, you’ll need to read on to find out when the game should release, when and where you can pre-order, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching/index.json",
+      "webUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
+      "originalUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/Diablo-4-release-date-0ff18e7.jpg?quality=90&resize=620,413",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
+      "cdnAmpWebUrl": "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
+      "publishedDateTime": "2022-12-07T23:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio Times",
+        "domain": "radiotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023.md",
       "title": "‘Diablo 4’ Is Looking Like It Could Be The Biggest Game Of 2023",
       "excerpt": "It is incredibly easy to be skeptical of Diablo 4 and Blizzard as a whole lately, given the problems within that studio and the fact that Diablo 4 itself even lost its director as one of the ousted ...",
@@ -1034,57 +1076,6 @@
         "name": "NME",
         "domain": "nme.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
-      "title": "Diablo 4 dev says players 'want open world and free choice, but they also want to be told where to go'",
-      "excerpt": "We wanted to have a beginning, middle, and end. We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SfgGMU4muotXvyBY9XU49X-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

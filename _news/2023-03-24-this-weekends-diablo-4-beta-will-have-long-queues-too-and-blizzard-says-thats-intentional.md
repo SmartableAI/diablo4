@@ -7,7 +7,7 @@ originalUrl: "https://www.yahoo.com/entertainment/weekends-diablo-4-beta-long-23
 webUrl: "https://www.yahoo.com/entertainment/weekends-diablo-4-beta-long-234032244.html"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - Diablo 4
+
+related:
+  - title: "Playing Diablo 4 this weekend? Expect \"unprecedented traffic and queues\""
+    excerpt: "If you’re planning on jumping into Diablo 4’s open beta weekend today, Blizzard has detailed exactly what players should expect, and it’s “unprecedented queue times and traffic”. It’s not great for ..."
+    publishedDateTime: 2023-03-24T03:09:00Z
+    webUrl: "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 86
+    images:
+      - url: "https://asset.vg247.com/Diablo-4_fDYh9dD.jpg/BROK/thumbnail/1200x630/Diablo-4_fDYh9dD.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sz8C8nTYDqoCVZWLmABspIg8vWNHgzEcOrawu2fHSWrQgpbauiUbDtaje0I1DVYUaTef8HW30ZUw5OtNW7T6zD/jRlaylT6N+a/ZWTrQnlQJkzN0d2jTKA96NeUE902Y4LPOG32tZXWGqIE08QGdMFUu14ZiyBtwmAfEMJChQZSR4FCUBIFdwzruK6t/82b7EwYGLRuuWQnv2NLQKQqiG7IuxsMu9Xkc32uGwrxGhKF81WALGq1/SNpiVFew5e66CRMK9XVlu0hfM0cHJEEVvXjlGnECCQ1Aq/Curxqq0NSo0iQlnCz5AmZbFwg/v3VXNLmYGYplWBhJpbogWUJS5IBDJ7NKBZqTBbjOhKqHCPk=;HYmeV8LrV2tGjQa2o09YzQ=="
 ---

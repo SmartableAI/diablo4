@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spa
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
 type: article
 quality: 147
-heat: 307
+heat: 327
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190J06.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
+    excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
+    publishedDateTime: 2023-03-24T03:44:00Z
+    webUrl: "https://sg.news.yahoo.com/news/diablo-4-open-beta-patch-230504323.html"
+    type: article
+    provider:
+      name: Yahoo News Singapore
+      domain: yahoo.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Ai.ADOc9Vghaf4HNoM4_JA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/e2e3bfc104488d09e5d7217ef7d52794"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
     excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
