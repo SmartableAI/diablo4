@@ -58,6 +58,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "The Diablo 4 open beta will have long queue times at launch too, Blizzard warns"
+    excerpt: "Last weekend's Diablo 4 early access beta got off to a rough start. Servers were immediately slammed, which meant long waits for anyone trying to get in, and unstable connections for everyone who did."
+    publishedDateTime: 2023-03-23T19:43:00Z
+    webUrl: "https://www.msn.com/en-my/entertainment/gaming/the-diablo-4-open-beta-will-have-long-queue-times-at-launch-too-blizzard-warns/ar-AA190dMZ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 83
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19095l.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=503&y=327"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
     excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
     publishedDateTime: 2023-03-23T13:39:00Z

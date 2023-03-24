@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
-excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
-publishedDateTime: 2023-03-23T13:39:00Z
-originalUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
-webUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
+title: "The Diablo 4 open beta will have long queue times at launch too, Blizzard warns"
+excerpt: "Last weekend's Diablo 4 early access beta got off to a rough start. Servers were immediately slammed, which meant long waits for anyone trying to get in, and unstable connections for everyone who did."
+publishedDateTime: 2023-03-23T19:43:00Z
+originalUrl: "https://www.msn.com/en-my/entertainment/gaming/the-diablo-4-open-beta-will-have-long-queue-times-at-launch-too-blizzard-warns/ar-AA190dMZ"
+webUrl: "https://www.msn.com/en-my/entertainment/gaming/the-diablo-4-open-beta-will-have-long-queue-times-at-launch-too-blizzard-warns/ar-AA190dMZ"
 type: article
-quality: 78
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_beta_systemspecs.jpg"
-    width: 1280
-    height: 631
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19095l.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=503&y=327"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -72,21 +72,21 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "The Diablo 4 open beta will have long queue times at launch too, Blizzard warns"
-    excerpt: "Last weekend's Diablo 4 early access beta got off to a rough start. Servers were immediately slammed, which meant long waits for anyone trying to get in, and unstable connections for everyone who did."
-    publishedDateTime: 2023-03-23T19:43:00Z
-    webUrl: "https://www.msn.com/en-my/entertainment/gaming/the-diablo-4-open-beta-will-have-long-queue-times-at-launch-too-blizzard-warns/ar-AA190dMZ"
+  - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
+    excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
+    publishedDateTime: 2023-03-23T13:39:00Z
+    webUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 83
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 78
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19095l.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=503&y=327"
-        width: 1200
-        height: 630
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_beta_systemspecs.jpg"
+        width: 1280
+        height: 631
         isCached: true
 
-secured: "vZ5v5XQE9qoasBZ17SmfmOwxJ78S8ULcGc/ezODIZ4LwPjgowFZgsER4JEr/Nyqp9WdevjTHzBY9AXVyM/wU1j+atEbvJcdgOKZTmXOQItmX87F+EPify1DsUWuAmQiwZ4VT7M3JbEoSjGWyqytwOM9GmvI31BRIfF0aWpsJyj47LB5QLwFVTeR9hZ3GTW76X+G/cllcP/A56uTPe8yJ7wgvLTmQpJDC76sZNymnryUNA3PDoNaf0PENAwpeco0XlWMspM/zXuvbxH5iHdHJ3Vd3jG7rcI1HY93JbnInO1DWo0mguhFZPB3CqjIsm6YmVEv9keasKPbq22fK9mrL+mxMT4lRdi3Ta0aTClOaWtc=;MTj8zsVb99jdHXVwrrCY9Q=="
+secured: "Lu6tcCIpBmaBCDN3JKv2JNV96dTdaz82vWyQQDbThA0qEmLsq1fq83LJ2qFDhFC3Yd06E9OxAa6jLkaGR652PQTfs5YUXbE/Zvp7AE20jrvHtVXlSwOcIwvs3jRS4CJAPpUP4PhDDGxhFd/iXlSkWhXvjmEcXQ7QhJacGtC9zCpT7MIiWj0l6Tz+BkN8RuL6G1C5u34eOBcen7j2g/TNduNI7Gqdk+NGghXkpcWnMxo8fxYVLFUHTZ9Fbr518nKjrpqs3Hn3GH3TpbsEGpIX4d/eu8/hyaoPdU2Fu7+VmOURY8D9I4TKKGZjsBdTxtnJ0Ko6twm47H9knq1LrlvPafqlIoRLYGpc1UTRg7h8tEQ=;xlLaaSLxCRQjTD1O6JTWiA=="
 ---
 
