@@ -102,6 +102,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
+    excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
+    publishedDateTime: 2023-03-23T17:50:00Z
+    webUrl: "https://www.msn.com/en-ph/news/technology/the-diablo-4-beta-is-reportedly-bricking-some-nvidia-graphics-cards/ar-AA18ZWbs"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RKUu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=612&y=330"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blizzard and Nvidia investigating reports Diablo 4 is killing RTX 3080 Ti GPUs"
     excerpt: "Fresh reports suggest some RTX 3080 Ti graphics cards are running horribly, or even dying, while playing the Diablo 4 closed beta over the weekend. In what appears to be an issue closely resembling ..."
     publishedDateTime: 2023-03-23T12:00:00Z
@@ -116,15 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
-    excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
-    publishedDateTime: 2023-03-23T11:10:00Z
-    webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 67
 
 secured: "N0ZUGuNCUK97D5GxlIBZ4RUvx+WUpEHvxLIyGxPuTa0tPMuuG0JuTWX1qLC0vwRGq5+o9XeZdODT1KRvDVkp6TONVcCa7EcPa5Owi4KsJn3GrtwJsxQtDlxi+9eQRGazUf8lu+kb5AuSP6T8ZdwAG4dpV8HGa/yZvhGbTpnccZyPbCB2vPe1WOPW+KKssV+9/UtdFRv5+Rn0PqMAr0R9rrVaPbrDShUYox2LkllpAMx8NTDgzY3uojOkEEJ1fUbvAbiJdyuNRavAazspOPDXNrWKArhVinR/aqDN43JIREb8bcpCvmacbfwL/cybkOUmXZDLloeVVJuf5Cs83gpvwE3xw44i31oF4yA/1bgxRXY=;0j4svvsrc4T/V3mQGAa2sw=="
 ---

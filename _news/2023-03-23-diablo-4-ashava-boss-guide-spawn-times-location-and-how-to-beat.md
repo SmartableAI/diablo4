@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
-excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address some bugs and issues that players may have experienced"
-publishedDateTime: 2023-03-22T16:05:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-open-beta-world-boss-times-ashava/"
-webUrl: "https://www.gamesradar.com/diablo-4-open-beta-world-boss-times-ashava/"
+title: "Diablo 4 Ashava boss guide: Spawn times, location, and how to beat"
+excerpt: "One of the deadliest enemies you can challenge in the Diablo 4 Open Beta is Ashava the Pestilent, a massive demonic creature with an extremely thick HP bar and devastating area-of-effect and poison ..."
+publishedDateTime: 2023-03-23T16:58:00Z
+originalUrl: "https://www.windowscentral.com/gaming/diablo-4-ashava-boss-guide"
+webUrl: "https://www.windowscentral.com/gaming/diablo-4-ashava-boss-guide"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/ondiXZrRnmkUuAuM27nqY4-1200-80.jpg"
     width: 1200
-    height: 675
+    height: 679
     isCached: true
 
 related:
@@ -114,19 +114,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 Ashava boss guide: Spawn times, location, and how to beat"
-    excerpt: "One of the deadliest enemies you can challenge in the Diablo 4 Open Beta is Ashava the Pestilent, a massive demonic creature with an extremely thick HP bar and devastating area-of-effect and poison ..."
-    publishedDateTime: 2023-03-23T16:58:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-ashava-boss-guide"
+  - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
+    excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address some bugs and issues that players may have experienced"
+    publishedDateTime: 2023-03-22T16:05:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-open-beta-world-boss-times-ashava/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: GamesRadar+
+      domain: gamesradar.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ondiXZrRnmkUuAuM27nqY4-1200-80.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg"
         width: 1200
-        height: 679
+        height: 675
         isCached: true
   - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
     excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
@@ -138,6 +138,6 @@ related:
       domain: yahoo.com
     quality: 67
 
-secured: "PjHJLyW47cHaIvVza4XFu4rDEFdKCtjiL+0ipA1FqbxA5/ckHQwRbZODxWKE7OaO0SdDik/0fkb3Unj0Ekzpa4uHyyuJyK9UJyC5KwnD2ZdAsS0VKvJaRwJVA7fCn4qF8LAEqE1BQAKSkP/dx7wVqE7sX32yAUgJp3nyA7f2957QRbxUa3v/G0skcuwmVBvexFkv9BA/sirFz7lGQ9k76HISsx+0OPx1JfuLrf+voy5fzr8xag3FjAF7p+ajg9EHISGBeeVDGYAMbd3r1kC6ZL7p0KnO9wIZi4PTPBwh1dxyAZ2E+ElqFkzunWNLzTx2qnqh45PtVHVMTF80dZYxxdlmda9faDEPocTSQwbibSQ=;SQ3erex4qiNrUg/0avuB2A=="
+secured: "+Zevth1s2QNb4fhdlDTNQ8rSPrludcfdn6jliThd1fCe5hjZBE1M5/Wt975KtNP2NyZstCqUFotMW/5Em4dgaIav7arlcUickFBrpq62TGPJ7NEk5l2EVoIljC2GwbPro5QYyTsUYtEbZnmXFfr/rHnKMCkhTlJP2tw0tiBIixXV9wYxbsROO9XonEIj3SLh9LO9AshfzauO+RabGQQ/mMpZ07//mRJo+2H7Jercp+AlOOrjMDAFkrSSbHjplTjZrdhmM2w1tTe2ikRPRFkBSX3OFWfj+Sp/MKsFBdFyV0GIfMSn/HPVYB6XTmPj7JYbPODQWtFwrrEoC0G2CL2moDnWZtERyB9uwjj/He11e04=;QFeUzFGxspmSuKZ7TrXxIg=="
 ---
 

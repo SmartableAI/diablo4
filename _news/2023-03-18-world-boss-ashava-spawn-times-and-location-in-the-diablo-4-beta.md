@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Ashava boss guide: Spawn times, location, and how to beat"
+    excerpt: "One of the deadliest enemies you can challenge in the Diablo 4 Open Beta is Ashava the Pestilent, a massive demonic creature with an extremely thick HP bar and devastating area-of-effect and poison ..."
+    publishedDateTime: 2023-03-23T16:58:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-ashava-boss-guide"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ondiXZrRnmkUuAuM27nqY4-1200-80.jpg"
+        width: 1200
+        height: 679
+        isCached: true
   - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
     excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
     publishedDateTime: 2023-03-23T02:25:00Z

@@ -42,6 +42,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 Open Beta Update Warns of More \"Lengthy Queue Times\""
+    excerpt: "The Diablo IV open beta will take place from March 24th through the 26th. The game's full release will take place on June 6th for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, and PC. Are ..."
+    publishedDateTime: 2023-03-23T17:08:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
     excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
     publishedDateTime: 2023-03-23T13:39:00Z

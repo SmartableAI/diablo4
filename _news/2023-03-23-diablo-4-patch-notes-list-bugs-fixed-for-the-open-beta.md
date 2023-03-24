@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
-excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
-publishedDateTime: 2023-03-18T04:11:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
-webUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
+title: "Diablo 4 Patch Notes List Bugs Fixed for the Open Beta"
+excerpt: "Blizzard has shared a list of fixes that it's making based on issues from the Diablo 4 early access beta for the upcoming open beta. The launch of Diablo 4's early access beta this past weekend was ..."
+publishedDateTime: 2023-03-23T16:55:00Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-patch-notes-list-bugs-fixed-for-the-open-beta/ar-AA190upD"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-patch-notes-list-bugs-fixed-for-the-open-beta/ar-AA190upD"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-update-servers-queue-times-errors.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190rNI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -55,6 +55,20 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
+    excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
+    publishedDateTime: 2023-03-18T04:11:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/beta-update-blizzard-queue-times-errors"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-update-servers-queue-times-errors.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Beta Hotfix Improves Queue Times and Server Stability"
     excerpt: "Blizzard confirms that it has issued a hotfix for the ongoing Diablo 4 early access beta improving queue times and server stability."
@@ -98,21 +112,7 @@ related:
         width: 1200
         height: 1080
         isCached: true
-  - title: "Diablo 4 Patch Notes List Bugs Fixed for the Open Beta"
-    excerpt: "Blizzard has shared a list of fixes that it's making based on issues from the Diablo 4 early access beta for the upcoming open beta. The launch of Diablo 4's early access beta this past weekend was ..."
-    publishedDateTime: 2023-03-23T16:55:00Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-patch-notes-list-bugs-fixed-for-the-open-beta/ar-AA190upD"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190rNI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "wmhzxfrAQ3P71pPnH6r0N5uI6zHUgQoRKrhYupizmfqTot60SLghmGrTqYYG0aTVu+7OIc1D7FjtcO4Xdrk6xUI9HYhY/1dQdryoD/gCsYLPqK6GeBNds0LAwNb1DtW7m8cg4OvqQxLlYKOCHcNqrBQUbNAfFiz5I1VA4oZ34TWhzcFrEkI9uqRzImOXZdXPSR6iKEm8lTZaHMvJkYnhe4spjKN3q6j/H/dDTmxNECj9PTDfw0L9ijNOv+gayTuobdeRgKpMveSy/9CFB6Ekdt40WvmMd5MuoibbGFoxkKNMNVRhELyFILJ4Qi+5MfyvsZK7POh0Gxyk51MTfOjmEVc+nsgCfhVixEZhXCJBDk0=;txwhkB/96nfdZeCWGDj2OA=="
+secured: "Hkbi22yCJqagDrVACJWHajFoLWOsXNOnwdmSXeh4sGNmgdHh5myljMleUWGSo43JnXb74nAWeXRRDC4akXfEIA79tQiERW11xLUeC2AM4xlalqlP1Dce9na5lFCP8m3lzEUEEk53qNiQjGIeXEyFL67gI/hUUKW8P2rWWB27/OD3wmh2K6IiiV3mRasBLUFPTqd7MCLHkKYzKa/5wk7hoCN4Ksx4IT21v/oqN+ETKv+fzfnVmLoEsgnGg1pAbWhQ9/BnOvLpXLp614bJsDdUj+O3KpB+qh/uUvNCD0dA5djbU6rRYMz5hlGI1K7N5eUNFHdJouHbVRoqGPfZPvhD6cL4vcYyyMSRNpy0AFlC6Ls=;gQXeBKV9wPa4rWCVnlEqAA=="
 ---
 

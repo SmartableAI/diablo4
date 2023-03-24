@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queu
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/wbFwnNf94ZWQLu5qi8sOQoOc3ZY=/0x0:3840x2160/1400x933/filters:focal(1652x166:2266x780):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72107450/IGC_InariusIntro_RS_01_png_jpgcopy.6.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Diablo 4 Open Beta Update Warns of More \"Lengthy Queue Times\""
+    excerpt: "The Diablo IV open beta will take place from March 24th through the 26th. The game's full release will take place on June 6th for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, and PC. Are ..."
+    publishedDateTime: 2023-03-23T17:08:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
   - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
     excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."

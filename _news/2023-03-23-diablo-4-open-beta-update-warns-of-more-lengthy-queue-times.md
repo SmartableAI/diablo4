@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
-excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
-publishedDateTime: 2023-03-23T13:39:00Z
-originalUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
-webUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
+title: "Diablo 4 Open Beta Update Warns of More \"Lengthy Queue Times\""
+excerpt: "The Diablo IV open beta will take place from March 24th through the 26th. The game's full release will take place on June 6th for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, and PC. Are ..."
+publishedDateTime: 2023-03-23T17:08:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
 type: article
-quality: 78
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_beta_systemspecs.jpg"
-    width: 1280
-    height: 631
+  - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
+    width: 568
+    height: 320
     isCached: true
 
 related:
@@ -56,23 +58,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Diablo 4 Open Beta Update Warns of More \"Lengthy Queue Times\""
-    excerpt: "The Diablo IV open beta will take place from March 24th through the 26th. The game's full release will take place on June 6th for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, and PC. Are ..."
-    publishedDateTime: 2023-03-23T17:08:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-more-lengthy-queue-times-blizzard-warning/"
+  - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
+    excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
+    publishedDateTime: 2023-03-23T13:39:00Z
+    webUrl: "https://www.videogamer.com/news/blizzard-warns-diablo-4-open-beta-players-of-unprecedented-traffic-and-long-queue-times/"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 78
     images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
-        width: 568
-        height: 320
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_beta_systemspecs.jpg"
+        width: 1280
+        height: 631
         isCached: true
 
-secured: "vZ5v5XQE9qoasBZ17SmfmOwxJ78S8ULcGc/ezODIZ4LwPjgowFZgsER4JEr/Nyqp9WdevjTHzBY9AXVyM/wU1j+atEbvJcdgOKZTmXOQItmX87F+EPify1DsUWuAmQiwZ4VT7M3JbEoSjGWyqytwOM9GmvI31BRIfF0aWpsJyj47LB5QLwFVTeR9hZ3GTW76X+G/cllcP/A56uTPe8yJ7wgvLTmQpJDC76sZNymnryUNA3PDoNaf0PENAwpeco0XlWMspM/zXuvbxH5iHdHJ3Vd3jG7rcI1HY93JbnInO1DWo0mguhFZPB3CqjIsm6YmVEv9keasKPbq22fK9mrL+mxMT4lRdi3Ta0aTClOaWtc=;MTj8zsVb99jdHXVwrrCY9Q=="
+secured: "CkRoyCsUpI+wiEaTnPo9aqlWoPWhd+DcsZ9CmpX6orITJnZ2IpASnyZEF0ytBgwCRDF5nWahp1gkBcmqPtYOceawaTnTSIKF9DBIHaHMHRRkulsgfWqzFbpgQb/dCRvPzeNSQmVNt0S0EX3964QAOqyhaqiw91FgxgbQBwLhQ091VBNN2LUSEn6ILVVmDpLpcUGDLDvTNowwNT5sdDQkfzyGYT+NJ/8EOuvy5NB6wLI0T2RqMdGnl+D2yWGPpROcts4hIS4m/sZQinCqUh4tuz6jVDzqLHf7ohKWTANukmDhFyujCNUgsVYoa96zeSO+XfdyR34sXeTlpq47Oyi+3lgHGzgtV+dTUO8sEHM4aXE=;ZQtwm+8TB7hu5jJBSasnZA=="
 ---
 

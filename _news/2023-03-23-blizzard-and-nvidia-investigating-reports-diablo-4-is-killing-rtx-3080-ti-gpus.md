@@ -114,13 +114,18 @@ related:
         isCached: true
   - title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
     excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
-    publishedDateTime: 2023-03-23T11:10:00Z
-    webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
+    publishedDateTime: 2023-03-23T17:50:00Z
+    webUrl: "https://www.msn.com/en-ph/news/technology/the-diablo-4-beta-is-reportedly-bricking-some-nvidia-graphics-cards/ar-AA18ZWbs"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 67
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RKUu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=612&y=330"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qlLGNacddsXbD7ONs6HPJ3T/RTlm1R2t4J/mOi4JPDe3VidljP+LCG+2i5uw5s12dYmSlVVRTTAxiNOz6r/EG0i/0iOrwxIro/HKqWjQlGv3x6nJmVfrlg2PTJmyK7D4oFHwAIaL51zaTdbJiB+96lsOFy74j2CAfYG23mAlQorekP7dwG230qFVYjIwqQGCDcv7OkDHKmfx+4TxazCTpvjK2f72IVUiA6ERmy3gu5R8Mm9KY68Q67mowYAiQKrjEif7tVqES0dZT8NDBxph+IRQ9JjNddAD0yo0YxypDBZtRwk8FeXtPFTvdKIeD36QWFUA/wtEPg6TS5q2wwaViVS5XZZim/0o17kynypHKjk=;Tuqb+RvVGN0tNig9ipDy1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addre
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
 type: article
 quality: 144
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
         width: 1200
         height: 1080
+        isCached: true
+  - title: "Diablo 4 Patch Notes List Bugs Fixed for the Open Beta"
+    excerpt: "Blizzard has shared a list of fixes that it's making based on issues from the Diablo 4 early access beta for the upcoming open beta. The launch of Diablo 4's early access beta this past weekend was ..."
+    publishedDateTime: 2023-03-23T16:55:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-patch-notes-list-bugs-fixed-for-the-open-beta/ar-AA190upD"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190rNI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Int/UdLqWiTcrOANCZPmrnv7ytUhZRfLNKvn9x5JteRbA+JUmcww3Pa3KJgrwd9G62PlosajojtzwoN9ZI+Q//qI140J9+oBdyHOZx0ssDrxk+4RAXAzekoxozDKbIwbwXT41Zx2eZTrc/yUduAPzHEBK1qDHwphnHpREjiKbfW7tzeOBEWfGijWeUhAHZTkpV7ffsltY/hB4RdzgdMdmBH0NRZyHu9eQz13LshDhmVdnIFBsMBz9E4ek2iC1nFD1dS9HjZ+Vy6RrPsusg8DIJPYuxprf8oi8T1bYw+/7Uc9d5gmaQfIGZdS8a+56HkWUCv4XJqRh1LKBhmi1vW+RQAMOLHXSPFEOvflluzAiNQ=;ZcjJjn+3arAcVswG89+4FQ=="

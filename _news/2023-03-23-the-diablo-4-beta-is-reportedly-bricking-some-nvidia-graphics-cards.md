@@ -2,20 +2,26 @@
 category: news
 title: "The Diablo 4 beta is reportedly bricking some Nvidia graphics cards"
 excerpt: "It looks like the Diablo 4 beta is bricking certain graphics cards thanks to a bug that seems similar to another MMO’s issue (thanks, PC Gamer). Much like Amazon’s New World in 2021, Diablo 4 seems to ..."
-publishedDateTime: 2023-03-23T11:10:00Z
-originalUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
-webUrl: "https://ftw.usatoday.com/2023/03/diablo-4-bricking-graphics-cards"
+publishedDateTime: 2023-03-23T17:50:00Z
+originalUrl: "https://www.msn.com/en-ph/news/technology/the-diablo-4-beta-is-reportedly-bricking-some-nvidia-graphics-cards/ar-AA18ZWbs"
+webUrl: "https://www.msn.com/en-ph/news/technology/the-diablo-4-beta-is-reportedly-bricking-some-nvidia-graphics-cards/ar-AA18ZWbs"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
+
+images:
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RKUu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=612&y=330"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support"
@@ -121,6 +127,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eMMOJ7ZMiT5ylmGpryktfDfQiRh/39FIXXoknw+WpuZ9IaAq3a67DfHw4ocs5rT9bdA784XSidGH/0prAE6nZvCBPSaY7nkvyXBchCpcTe+wpBi0IkRZ8RUoch8Rg+T4jNADsMgIzuHfKmJZkA/ux0/XCLiFtO6HDqMvRxApI+LCu7lT/mHjolpuRh22lk2QyLPXZOgwRbMHcGIPdz9K9ffoMUFH+OVTh6CCIcQr+rqUaZMWdLVXKI7BKaMX+908wvdIT+hP+VMuK/rDjUktAZTihIIAosSKz5ukuRK9gkotQc5QIP07uMeqE/ZhYoXxPFdQBoZRWI18z0AYMu+OjByk8UixfZztVf4KEAm+nPk=;gDCbWEp6oaR17GCVokGg4w=="
+secured: "/2OGmb2hUjnoC93Z9EzgOCqpVFZtQmrhLRXr+uuDjTVtzU8ykRU+yQSvwwpKcsVAIHgwp1m91iLIICZVVOfkyhiGm4DIKuK4vOOrCugF84jzBeKTb3AxDvXk0I5stMvQCzdn0hpedFmRCNxYO8Vfus7Y1Gl4GWt7SS8D7P7wRvyh4bzH1Mqjl+6efDRuxFn78zKz0Pbsn1ppPfTO2deXt9QJvnLsXHWOa6S0RIG4LxhC5B1GStifD888xq0nMkyzGtzNs0n0dL9ntFB/CN7hmGb5Rhn+xQLsxO0nH8HekcZK9++0klayb0Z6mggovoTHNme2vZyPL8RXOMyZqFiRWJFmBiLMwHv0Jkk4QQi776U=;kfxmPIogJm5vtyPp03LYzA=="
 ---
 
