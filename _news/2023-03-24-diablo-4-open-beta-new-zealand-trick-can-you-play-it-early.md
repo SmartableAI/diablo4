@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Open Beta: Release Time and End Time"
-excerpt: "While some were lucky enough to get a taste of Diablo 4 during the game’s Early Access beta, everyone will soon be able to join the game’s open beta (no chicken sandwich required). Of course, it helps ..."
-publishedDateTime: 2023-03-23T09:00:00Z
-originalUrl: "https://www.denofgeek.com/games/diablo-4-open-beta-release-time-and-end-time/"
-webUrl: "https://www.denofgeek.com/games/diablo-4-open-beta-release-time-and-end-time/"
+title: "Diablo 4 Open Beta New Zealand trick – can you play it early?"
+excerpt: "Anyone who hasn’t been able to get onto the Diablo 4 Closed Beta last weekend is itching to get onto the open beta this weekend. As the time ticks down till the start time, many out there are ..."
+publishedDateTime: 2023-03-24T04:16:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-open-beta-new-zealand-trick/"
+webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-new-zealand-trick/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Den Of Geek
-  domain: denofgeek.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.denofgeek.com/wp-content/uploads/2023/03/Diablo-4-1.jpg"
-    width: 1314
-    height: 739
+  - url: "https://www.videogamer.com/wp-content/uploads/dIABLO-4-NEW-ZEALAND-TRICK.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -54,19 +54,19 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Diablo 4 Open Beta New Zealand trick – can you play it early?"
-    excerpt: "Anyone who hasn’t been able to get onto the Diablo 4 Closed Beta last weekend is itching to get onto the open beta this weekend. As the time ticks down till the start time, many out there are ..."
-    publishedDateTime: 2023-03-24T04:16:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-new-zealand-trick/"
+  - title: "Diablo 4 Open Beta: Release Time and End Time"
+    excerpt: "While some were lucky enough to get a taste of Diablo 4 during the game’s Early Access beta, everyone will soon be able to join the game’s open beta (no chicken sandwich required). Of course, it helps ..."
+    publishedDateTime: 2023-03-23T09:00:00Z
+    webUrl: "https://www.denofgeek.com/games/diablo-4-open-beta-release-time-and-end-time/"
     type: article
     provider:
-      name: VideoGamer.com
-      domain: videogamer.com
+      name: Den Of Geek
+      domain: denofgeek.com
     quality: 87
     images:
-      - url: "https://www.videogamer.com/wp-content/uploads/dIABLO-4-NEW-ZEALAND-TRICK.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.denofgeek.com/wp-content/uploads/2023/03/Diablo-4-1.jpg"
+        width: 1314
+        height: 739
         isCached: true
   - title: "When Does Diablo 4’s Beta End? Answered"
     excerpt: "The first beta for Diablo 4 will be an Early Access Beta, and is only available to those who preordered any version of the game and then followed the extra steps to claim it. The Early Access Beta ..."
@@ -78,6 +78,6 @@ related:
       domain: twinfinite.net
     quality: 67
 
-secured: "2t+FMGpm+ZoWDAvP+SAXTaCPB8ocLYiTYuRkPXFqmcFkzJ1fsCmV38LDxk36W47hon/3X3dc7NyYRVVqMMTYxRH8uDtFbT6hOIp1qTBB+8DtMO9cEvInzvrWo2ZxWDuji8vcH45VkJHQalXC/vHPRqyeDN1RH7mUxMfQyW7Jg9+FNXarCjVbKmEnNKfRvEDqsFMVa7wsFYVtOaSde2TEIg36aCORsQzTqkOeJqv64ZBtN1PwtWT8/TyJ3DmGVs+sj1uK7Uw9QiU8lH78TcK8SOpbNTsrN1kHkIm8pwCDM+yJSTBkHGmgVArlGDjMCbJVZYlqKW2nRR878xTwsapy92ItdkqeULPq0hoClXGxTQo=;T+yyW8ho/Evs8HeQN0I7gA=="
+secured: "RuZKx2AtDalHIoziSBmAjf/0rtx6OJpdVzQv0Jek6fnIYNmpQhmViW8vB34x9YsufRKQvTotd9xxrSzkyqIBMO7RisYxj6ag+3Fxw5UWX1rpmQGraiujF11data9UmSQr4tUXa/cBeyfHRUvfwz/XgGMnma2tHnqKg+LlyMaHyQZbFFKQQZsa//8ylIwYcr46uWZ6t/y5Q6Vf9TaaCpTYvQ4V9xd3EmBHGLCoTf+Q4h29NJZdEKlkkaCF7yfnp026KWLdcst8lrtiJSiPaKlLu3DGZM7Kpzs25r63vEYwzbGpRfADmlCPRTdxpUfIChzXRmtL7hdONYtlJbJc9hzu7C1MOMhCv4wCJ+va/VLNxw=;QQptnxUg9FSbx2+Wm+e4pQ=="
 ---
 

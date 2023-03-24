@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23613404/open-b
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access"
 type: article
 quality: 107
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.denofgeek.com/wp-content/uploads/2023/03/Diablo-4-1.jpg"
         width: 1314
         height: 739
+        isCached: true
+  - title: "Diablo 4 Open Beta New Zealand trick – can you play it early?"
+    excerpt: "Anyone who hasn’t been able to get onto the Diablo 4 Closed Beta last weekend is itching to get onto the open beta this weekend. As the time ticks down till the start time, many out there are ..."
+    publishedDateTime: 2023-03-24T04:16:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-new-zealand-trick/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/dIABLO-4-NEW-ZEALAND-TRICK.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "When Does Diablo 4’s Beta End? Answered"
     excerpt: "The first beta for Diablo 4 will be an Early Access Beta, and is only available to those who preordered any version of the game and then followed the extra steps to claim it. The Early Access Beta ..."

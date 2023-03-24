@@ -62,6 +62,20 @@ related:
         width: 1314
         height: 739
         isCached: true
+  - title: "Diablo 4 Open Beta New Zealand trick – can you play it early?"
+    excerpt: "Anyone who hasn’t been able to get onto the Diablo 4 Closed Beta last weekend is itching to get onto the open beta this weekend. As the time ticks down till the start time, many out there are ..."
+    publishedDateTime: 2023-03-24T04:16:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-new-zealand-trick/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/dIABLO-4-NEW-ZEALAND-TRICK.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "52SLKp5aRBK8xDn9kqGN7Zi7Y9wRjWEoIsILk7eNbCwobGGty4+offA8oDfSYQV2mDLwhggVwtPNSseXZ73LeJbsXkRNax6dOztX57jKgkq4rm+7kw2da/1pi+0bx5QmHH5vRSCtGwj/94Yei40XfAMQ8B9vHjx4HhGHlzaA1pgwk1oHPTe1W8w5lNNFd9GTMoA90HDvwhDSD6+xHqegg1hW7uTgYbn0XTJsuiLy+y/CplXVaEy5lCEL+1FeIPNuHl/DNQ7WZ0w3sg1BQr4RMmnDF4sIxF0kgyd9cM77cSeNDOfv1y/fGZF4zN3HAxERM/Iwdlcg+XKEnjLFFduF9AO9LkaSEm2I/XeYRFiv7VY=;M7DNkUfbfXwAbSO3CkVT4A=="
 ---

@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Open Beta Expected To See ‘Unprecedented Traffic And Queue Times,’ Says Blizzard"
+    excerpt: "Blizzard has revealed that players can expect “unprecedented traffic and queue times” for the upcoming Diablo 4 Open Beta. The Diablo 4 Open Beta was available to early access customers who preordered ..."
+    publishedDateTime: 2023-03-24T05:00:00Z
+    webUrl: "https://www.psu.com/news/diablo-4-open-beta-expected-to-see-unprecedented-traffic-and-queue-times-says-blizzard/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 78
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2023/03/Diablo4-1.jpeg"
+        width: 768
+        height: 428
+        isCached: true
 
 secured: "sz8C8nTYDqoCVZWLmABspIg8vWNHgzEcOrawu2fHSWrQgpbauiUbDtaje0I1DVYUaTef8HW30ZUw5OtNW7T6zD/jRlaylT6N+a/ZWTrQnlQJkzN0d2jTKA96NeUE902Y4LPOG32tZXWGqIE08QGdMFUu14ZiyBtwmAfEMJChQZSR4FCUBIFdwzruK6t/82b7EwYGLRuuWQnv2NLQKQqiG7IuxsMu9Xkc32uGwrxGhKF81WALGq1/SNpiVFew5e66CRMK9XVlu0hfM0cHJEEVvXjlGnECCQ1Aq/Curxqq0NSo0iQlnCz5AmZbFwg/v3VXNLmYGYplWBhJpbogWUJS5IBDJ7NKBZqTBbjOhKqHCPk=;HYmeV8LrV2tGjQa2o09YzQ=="
 ---

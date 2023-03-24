@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
-excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
-publishedDateTime: 2023-03-20T10:00:00Z
-originalUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
-webUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
-ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
-cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
+excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
+publishedDateTime: 2023-03-24T05:00:00Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-will-progress-andamp-characters-carry-over-to-the-full-game/ar-AA18YTV1"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-will-progress-andamp-characters-carry-over-to-the-full-game/ar-AA18YTV1"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Mirror
-  domain: mirror.co.uk
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -39,6 +37,22 @@ related:
       - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-sorcerer-class-archetype.jpg"
         width: 1800
         height: 900
+        isCached: true
+  - title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
+    excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
+    publishedDateTime: 2023-03-20T10:00:00Z
+    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
+    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 107
+    images:
+      - url: "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4 Beta: Best Barbarian Build"
     excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
@@ -82,21 +96,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
-    excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
-    publishedDateTime: 2023-03-24T05:00:00Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-will-progress-andamp-characters-carry-over-to-the-full-game/ar-AA18YTV1"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "ktpIPbXnQvh14fEdK2+ZMwQoq2/dhymuim2Mxo/ygQvEZ1ch56eoW7Ov61E1+aRKATkcCKAB/Yjulp8bZKCVEi8lDbjIKhbD2AhAKJfWp3TqvuduGq3bjsf1Ow4EkHXEssvo8GsBLA9etlsLLt8ZQxtVgu2KvVyQ9kwt7nsuiJfmQgLPQS2u3aYA9u1QxgBxff7qlQm0Vfo98VxS8S1SOQltZTrSxFR+YYLRUp7aBEv22f9Sgcr2bSq8BGMiFSbF86gcZ04pAhJV49sxhDQR9G/gxsfZ4VGng3P19wbkd0HAUolzUUguk35v/6qEdCm1s+Rayin4ya4sRgDVFlxP0duIvNj7rzFPrAhv74Dfa+o=;vDZENjugO+bakXvgWHL45g=="
+secured: "+g1VfvtBzXvDtKJPHNScejQkSKb+qOfd0czMNIpSriBFD/qd3SmzzL6i7zzehOxZOh5ga20sA975unuQOvQU4wOSKNyYrx59wpCGp7dWqGSay43ORXOL9vPqVD4U95yuKr5lm6HCgjezzEWb4vvBXKPNosBHUQq1tul19Y7ujU4A9qp4tIHw/HXICZEVjKYGz7r5qgabtpjkm15FQavCJXBDSBJflGMiLxXUnBppA8dt+f4vx9SZhJZnWlkBAxRH6qwn+RhYSfFt0gWjZtWc7CK7iU0Vy//XDhaV6lY7vWqr2c57xtou/cWQYavgJ6w1V3rgbySoyvFNH8KsyFbw4WnIGdR6NsMEi8yYaFVKnLI=;C55MCoVrntpfM+VhVkXcUQ=="
 ---
 

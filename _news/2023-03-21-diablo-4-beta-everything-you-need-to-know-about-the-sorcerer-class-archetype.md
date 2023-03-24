@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells
 webUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
+    excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
+    publishedDateTime: 2023-03-24T05:00:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-beta-will-progress-andamp-characters-carry-over-to-the-full-game/ar-AA18YTV1"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
