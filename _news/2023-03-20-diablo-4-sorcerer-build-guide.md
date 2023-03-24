@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 - Necromancer Skills Overview"
+    excerpt: "GameSpot may get a commission from retail offers. The Necromancer in Diablo 4 is an individual who follows the teachings of Rathma. They think on the balance between good and evil, for there is no ..."
+    publishedDateTime: 2023-03-24T15:11:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116405-diablo4necromancerskillsguideoverview-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Best Diablo 4 Sorcerer Builds"
     excerpt: "The Sorcerer is one of the most powerful classes in Diablo 4, and to make the most of them, here's our best Sorcerer classes."
     publishedDateTime: 2023-03-20T06:42:00Z

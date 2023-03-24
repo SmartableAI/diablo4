@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Best Diablo 4 Sorcerer Builds"
-excerpt: "The Sorcerer is one of the most powerful classes in Diablo 4, and to make the most of them, here's our best Sorcerer classes."
-publishedDateTime: 2023-03-20T06:42:00Z
-originalUrl: "https://www.dexerto.com/diablo/best-diablo-4-sorcerer-builds-2090724/"
-webUrl: "https://www.dexerto.com/diablo/best-diablo-4-sorcerer-builds-2090724/"
+title: "Diablo 4 - Necromancer Skills Overview"
+excerpt: "GameSpot may get a commission from retail offers. The Necromancer in Diablo 4 is an individual who follows the teachings of Rathma. They think on the balance between good and evil, for there is no ..."
+publishedDateTime: 2023-03-24T15:11:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
 type: article
-quality: 87
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: Dexerto.com
-  domain: dexerto.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/20/diablo-4-best-sorcerer-build-e1679313854464.jpg"
-    width: 1600
-    height: 900
+  - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116405-diablo4necromancerskillsguideoverview-.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -72,23 +78,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 - Necromancer Skills Overview"
-    excerpt: "GameSpot may get a commission from retail offers. The Necromancer in Diablo 4 is an individual who follows the teachings of Rathma. They think on the balance between good and evil, for there is no ..."
-    publishedDateTime: 2023-03-24T15:11:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-skills-guide-overview/1100-6512706/"
+  - title: "Best Diablo 4 Sorcerer Builds"
+    excerpt: "The Sorcerer is one of the most powerful classes in Diablo 4, and to make the most of them, here's our best Sorcerer classes."
+    publishedDateTime: 2023-03-20T06:42:00Z
+    webUrl: "https://www.dexerto.com/diablo/best-diablo-4-sorcerer-builds-2090724/"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
     images:
-      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116405-diablo4necromancerskillsguideoverview-.jpg"
-        width: 1280
-        height: 720
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/20/diablo-4-best-sorcerer-build-e1679313854464.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
-secured: "iUtWMCvz4U4yKjOSS7yyehrnJxz6UEGYINxV0qEtapJhqWrp3fchYULgo6XF+O0Clm+j6FzCGxATfRDSkYM0lmhnCYxxRQOfrBzFg9mdd5WWMqS+cICfwgN5NHQrGTU17fbuRj91PbF7UcTZmMt1d8YE+h/p32PYizwgA/ymmL1NVkSYfkX4OQuYKuY685hSTZsQs6mryWbrPljlTo/ekzNfgEMZVn5N6MqhhW0l//+rESZ7nc8pEP18wychWqYJLonxP7DyQDglJPdg9O9xSnBbYWKZyP/romWJFdsnhd7PIQ6OIBqU0xir4rP19XiVWmEZnYXpTnHLeVoLXSSGgZcuN2nBH75AY3bN+h/Z6f0=;j2S8RTQATBbLEBuO2Obl6Q=="
+secured: "ciyAWbiQERubyOKiVtXleitq19JIrqoso+daEHvDRzBMgQa2iBu0Eq7DNPq97w/T7XQRJSKrfiCqhLi22xOzUH6HYe+0gcOO9wpj85qlpAbH1TERYuAGp40qCiaXaHvZg3yefyJTSQsNO819U5LigSWe/ayBZ3DovBRO89CBLnCAW81MO8bRa8UYF62im0iVr8LzPdpE5MFN7hlvl54Bi43juFej3/Eknph8vcYvI2Gzc9wV4xFaOT9xHV0ZY0rfN9jLyHEoxBgF9Tt1U+HLQ4cPh2k4dZLRQv3gmEb4fLxnHHaQEjUrD40a5MVr6p/6RRkUYf1fY0zVGFhyfneDeey4xKS90aWqd68V4xdFt88=;TtgAP42UxKhJhrM9C9vWwA=="
 ---
 

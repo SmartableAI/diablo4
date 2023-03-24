@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increa
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Beta GPU Overheating & Drop Rate Debate Explained | GameSpot News"
+    excerpt: "Some Diablo 4 beta players are reportedly experiencing an issue that is causing their GPUs to overheat and break. The early access beta ran from March 17-19 for those who had preordered the game and ..."
+    publishedDateTime: 2023-03-24T14:06:00Z
+    webUrl: "https://www.gamespot.com/videos/diablo-4-beta-gpu-overheating-drop-rate-debate-explained-gamespot-news/2300-6460982/"
+    ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-beta-gpu-overheating-drop-rate-debate-explained-gamespot-news/2300-6460982/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-beta-gpu-overheating-drop-rate-debate-explained-gamespot-news/2300-6460982/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 145
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4116417-news0324_v0.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 Beta Drop Rates Are Increased Compared to Launch"
     excerpt: "Blizzard has confirmed that drop rates in both of Diablo 4's betas are at increased levels compared to how they will be at launch. Earning loot is at the heart of every ARPG experience and Diablo 4 ..."
     publishedDateTime: 2023-03-23T23:39:00Z

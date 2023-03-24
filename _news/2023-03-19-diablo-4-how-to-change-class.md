@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-how-change-class-character-different
 webUrl: "https://gamerant.com/diablo-4-how-change-class-character-different-transfer-new/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 127
     images:
       - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-leveling-featured.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Diablo 4: How to Salvage Gear"
+    excerpt: "Inventory management is a major part of Diablo 4 and salvaging gear and items is important for crafting, so here is everything players need to know. As expected, the beta offers a limited look at the ..."
+    publishedDateTime: 2023-03-24T15:33:00Z
+    webUrl: "https://gamerant.com/diablo-4-how-to-salvage-gear/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-salvage-guide.jpg"
         width: 1800
         height: 900
         isCached: true

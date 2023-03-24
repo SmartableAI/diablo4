@@ -40,6 +40,22 @@ related:
         width: 1724
         height: 970
         isCached: true
+  - title: "Diablo 4 Beta GPU Overheating & Drop Rate Debate Explained | GameSpot News"
+    excerpt: "Some Diablo 4 beta players are reportedly experiencing an issue that is causing their GPUs to overheat and break. The early access beta ran from March 17-19 for those who had preordered the game and ..."
+    publishedDateTime: 2023-03-24T14:06:00Z
+    webUrl: "https://www.gamespot.com/videos/diablo-4-beta-gpu-overheating-drop-rate-debate-explained-gamespot-news/2300-6460982/"
+    ampWebUrl: "https://www.gamespot.com/amp-videos/diablo-4-beta-gpu-overheating-drop-rate-debate-explained-gamespot-news/2300-6460982/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-videos/diablo-4-beta-gpu-overheating-drop-rate-debate-explained-gamespot-news/2300-6460982/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 145
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4116417-news0324_v0.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "NLpaux3gEWe+fC2YR7vRrzrZFOU9pXHQf88Tc2RspDXNCgVnnJHyoDGkSCM3k0Ls0zIIv6GOXRoORKq0wchWNSpa1poTF3IdXcPkrJEoksd8xfou3vUeiGTfX7RsGyzljcqNhUgJKyNCQ99+0eIZLJa8GyVbr/YkJYPYv+qLhtIODlLQZeC6D2RVZ1UD+34r1NY0xWTQljbDOfAQUcxkqXx0uJaJK3uEJd3n7FVULveHHKmnSQVINePysCCk0Vx/enYhHXBhAD9dRiPbE3KXUWtg+Pj2LrQVTJ85MTULPWPHYq7qThxVQFmpFaRiibfbWmIyqXAiRDMGGioNISW3HP3dIEqmbqXa7/y43Y009ks=;d/GaMRF4COSkAsHeytRyLQ=="
 ---
