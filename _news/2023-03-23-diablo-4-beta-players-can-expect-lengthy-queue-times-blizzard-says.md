@@ -2,27 +2,25 @@
 category: news
 title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
 excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
-publishedDateTime: 2023-03-23T12:49:00Z
-originalUrl: "https://www.polygon.com/23653776/diablo-4-open-beta-queue-times-error-316719"
-webUrl: "https://www.polygon.com/23653776/diablo-4-open-beta-queue-times-error-316719"
-ampWebUrl: "https://www.polygon.com/platform/amp/23653776/diablo-4-open-beta-queue-times-error-316719"
-cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23653776/diablo-4-open-beta-queue-times-error-316719"
+publishedDateTime: 2023-03-23T21:54:00Z
+originalUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
+webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Polygon
-  domain: polygon.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.vox-cdn.com/thumbor/wbFwnNf94ZWQLu5qi8sOQoOc3ZY=/0x0:3840x2160/1400x933/filters:focal(1652x166:2266x780):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72107450/IGC_InariusIntro_RS_01_png_jpgcopy.6.jpg"
-    width: 1400
-    height: 933
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -87,6 +85,6 @@ related:
         height: 631
         isCached: true
 
-secured: "0lma4ByI7CyiUdCvBOkausFlB02rv30vnhdnDTBg6eX1YxmRrVF9OThYVpJo5qE/dCht6tYk/Pq9Pcclb9QNRrzZQ7+XOTPxKh7Lmb5BHntTWZS8t1y7DanNkf9Zn4sxf5yBG7R5kGXTBYf2/L76EcxMjakSFXYOrOg9ULX65+lWPItEE9ATkAd5lqUW1hI2LhmAAnt+zF5WT7lfu3oEs7lVz8xvPxdpSTFv6q0z5h9HSw/fM+zg1TW1tQyuAnbvA9eY7/6gDBfwu/m2P5gHDmVWiDUAB7ZUQCvW7SHvurFhU9uQ6jdFfvoA3LsafMZksI/mPGg65nRg/5TsDldJMLfRNQU0CqV5JV97ShyWuq4=;F/xO+3iOqTfLrF3JSRLALw=="
+secured: "NYzOT8J1EGsvBA16dbjxRp8aWjegMkzS5D5CL/j4dauBCMM7yeW9k6AfPxTw3P3fiqhwGmLBej82rO2rExq+M+8SnOnXYMU2nbbbevUnX1R//88I+OyOnRe83NADySilpABz8oy5fKDFq3rkSQfkmy/uO1B2RB/AhZk+6Pu4F3wKbHd2PoS3UU9lNxOjCqaP8J5bsbL78GJcvUgiQZl1KlYxSw2nKUffFc5O+HBWlJL0accg3AL0k1ZZNN9ljIjZyBJIuoTf1ODYHAnrfDOLYtykPpDz+snO43+NhDsEgb/DSKvS1DVa78PhNSDY1zveTUlV7D+lelGui8JPH6WyRzxPT4iUZqSC1D4iHczilfo=;4Q5ZVNnuoeCbahn/z+VRlw=="
 ---
 

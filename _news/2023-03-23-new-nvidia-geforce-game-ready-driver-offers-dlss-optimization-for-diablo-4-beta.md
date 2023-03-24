@@ -1,26 +1,26 @@
 ---
 category: news
-title: "NVIDIA DLSS support added to Diablo 4, Forza Horizon 5 and Redfall"
-excerpt: "NVIDIA has just announced that DLSS 3 support is coming to blockbuster games Diablo 4, Forza Horizon 5 and Redfall. DLSS uses artificial intelligence to boost a game's framerate performance and ..."
-publishedDateTime: 2023-03-16T06:22:00Z
-originalUrl: "https://www.windowscentral.com/gaming/pc-gaming/nvidia-dlss-support-added-to-diablo-4-forza-horizon-5-and-redfall"
-webUrl: "https://www.windowscentral.com/gaming/pc-gaming/nvidia-dlss-support-added-to-diablo-4-forza-horizon-5-and-redfall"
+title: "New NVIDIA GeForce Game Ready driver offers DLSS optimization for Diablo 4 beta"
+excerpt: "At launch on June 6, Diablo IV will also make use of DLSS 3 and Frame Generation ... 531.41 WHQL driver also adds support for Deceive Inc. (with DLSS 2), Resident Evil 4 Remake, Smalland: Survive the ..."
+publishedDateTime: 2023-03-23T19:52:00Z
+originalUrl: "https://www.tweaktown.com/news/90833/new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta/index.html"
+webUrl: "https://www.tweaktown.com/news/90833/new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta/index.html"
 type: article
-quality: 87
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/qbcaespvaSJvSgPLeJPUeE-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static.tweaktown.com/news/9/0/90833_02_new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta.jpg"
+    width: 620
+    height: 348
     isCached: true
 
 related:
@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA DLSS support added to Diablo 4, Forza Horizon 5 and Redfall"
+    excerpt: "NVIDIA has just announced that DLSS 3 support is coming to blockbuster games Diablo 4, Forza Horizon 5 and Redfall. DLSS uses artificial intelligence to boost a game's framerate performance and ..."
+    publishedDateTime: 2023-03-16T06:22:00Z
+    webUrl: "https://www.windowscentral.com/gaming/pc-gaming/nvidia-dlss-support-added-to-diablo-4-forza-horizon-5-and-redfall"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qbcaespvaSJvSgPLeJPUeE-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Diablo 4 Confirms Nvidia DLSS 3 Support With New Trailer"
     excerpt: "But the beta version will only support DLSS 2. Nvidia recently shared a brief teaser trailer for Diablo 4, confirming that the game will be released with DLSS 3 support. However, this doesn't include ..."
     publishedDateTime: 2023-03-17T04:10:00Z
@@ -126,21 +140,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New NVIDIA GeForce Game Ready driver offers DLSS optimization for Diablo 4 beta"
-    excerpt: "At launch on June 6, Diablo IV will also make use of DLSS 3 and Frame Generation ... 531.41 WHQL driver also adds support for Deceive Inc. (with DLSS 2), Resident Evil 4 Remake, Smalland: Survive the ..."
-    publishedDateTime: 2023-03-23T19:52:00Z
-    webUrl: "https://www.tweaktown.com/news/90833/new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 83
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90833_02_new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta.jpg"
-        width: 620
-        height: 348
-        isCached: true
 
-secured: "8tQRWBg1bxst7MLi+EF1buu9qpMn+GbMCrc+srKwtssm/XFBG/2eR7oyIhmrUWppBr6Llm5RAISo2bWUG9wZtc8j8pIqIPp4I0RX4qSEYFtL+RuTxQ6voaRf2p0nRUEHVqjM1bcoik5mAdWOxlAdqCdAuldBR0G1sxUJJPDuGZadXuj/ep3PaZ67yzr6F2Pmm157RavIK9kO441H6uYsJ5uuPR7kvBqHRTQ7BKZatRn547mwLAF9UHrV+6SWya9j24qdbHDq8LOfm8OtbDpVGQuGem2rQ+hfzNcIvQlvPgYqNC+k5WcCOmHDQnjIDTNGw9XUd77+krKhQvw6Lcp0PvZ6q9QKWkIkx5NBnMQ7XnM=;WsRrP3/NNlWBGB/orC5kwg=="
+secured: "kzp0vJZyOuMxtVcCtJgcQe5qyS2D2OyOO2oafE0DjAwydi4IdugyYjYNIqgVN/4uIuajxlamJIS/bfekysXfxhipJbscmjCItMgu4vOM/eD2RXGLcU+w+2LX+2fM4Icua0TBC0oiVV5hxIle4xpJyJGdIMLX1FKwqsVxPCJVO7JDem3W2kLRmPo4eBpZ63HiEcR5u+rnlvMokPh2FPwxgUKyLn8XgxNO6UPZDGtzwNj5yGtvUpP2oNpVpbQy9zeahh6F7Bn4rRv6kWNQmS199mSys1w3pCiUmEpgu8/WDiALoiAoeS7VstV2KLnr6EZlU1/2YP/qKA0gyeNXbpWyarPSKsUjKDfZg0hRgZlUcA8=;H54fuflewY7GuP99uUjfYA=="
 ---
 

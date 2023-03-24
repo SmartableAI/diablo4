@@ -130,6 +130,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New NVIDIA GeForce Game Ready driver offers DLSS optimization for Diablo 4 beta"
+    excerpt: "At launch on June 6, Diablo IV will also make use of DLSS 3 and Frame Generation ... 531.41 WHQL driver also adds support for Deceive Inc. (with DLSS 2), Resident Evil 4 Remake, Smalland: Survive the ..."
+    publishedDateTime: 2023-03-23T19:52:00Z
+    webUrl: "https://www.tweaktown.com/news/90833/new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 83
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90833_02_new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta.jpg"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "N0ZUGuNCUK97D5GxlIBZ4RUvx+WUpEHvxLIyGxPuTa0tPMuuG0JuTWX1qLC0vwRGq5+o9XeZdODT1KRvDVkp6TONVcCa7EcPa5Owi4KsJn3GrtwJsxQtDlxi+9eQRGazUf8lu+kb5AuSP6T8ZdwAG4dpV8HGa/yZvhGbTpnccZyPbCB2vPe1WOPW+KKssV+9/UtdFRv5+Rn0PqMAr0R9rrVaPbrDShUYox2LkllpAMx8NTDgzY3uojOkEEJ1fUbvAbiJdyuNRavAazspOPDXNrWKArhVinR/aqDN43JIREb8bcpCvmacbfwL/cybkOUmXZDLloeVVJuf5Cs83gpvwE3xw44i31oF4yA/1bgxRXY=;0j4svvsrc4T/V3mQGAa2sw=="
 ---

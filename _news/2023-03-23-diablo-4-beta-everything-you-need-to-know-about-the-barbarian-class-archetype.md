@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
 excerpt: "The Barbarian is one of the most iconic classes in the Diablo franchise, its iteration in Diablo 4 should allow long-time fans to pick up the class and feel immediately at home, but a few changes ..."
-publishedDateTime: 2023-03-23T15:10:00Z
-originalUrl: "https://www.msn.com/en-nz/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
-webUrl: "https://www.msn.com/en-nz/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
+publishedDateTime: 2023-03-23T21:01:00Z
+originalUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
+webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-everything-you-need-to-know-about-the-barbarian-class-archetype/ar-AA18ZJEy"
 type: article
 quality: 100
 heat: -1
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VXgOSz89pFdQSpx5B0g+8WD/3zfKbOAiVG1ERl61Kn6h0V4KoZKCNUM6cwSvEqo+do0I79S+T+2TBEklIQtIPLMNhPF5yKBR12fDLntfqPw45/9QAfx4467czOsZ6u7ke1MKN6Zu05CRVhtbhtEhcy8+jmP6GiJYLRniUYqDo1v6zqd16zt2M48F6fOOQsFss3PNtzSkBpnva0HBxg2UsviOrvW6mbUyTMtYPXduvnBCEw2mSbZ9ir0Kz+SmDuAq+07ZznTKgWRKJKZ8SBfue/Ns4cbr2Wrpc1TjWLY1COsHBG5xipsTeeXAk7BaUteAvZsL6oDelDzAgIql/C18v6tEBnwboMDezfNvE/h3iDw=;AxtXZ5YhEpF7rANQrDO4Sw=="
+secured: "Wzz7QJjQ19x/Krn6/IU2aW1U7++ipJVIQfuV0hoabxR6M67gBb0wDLqENLvUgqrPIwHfZvJQVaOZo8/1jkR7PaLQFvoOEjJ+nCzdF2E58dnxaJrgnTmek6a9S7Pq5l93urvhMdMypx6KK+eQocsQeaveFSLHPg4toa9zTWkuq5P4lVtesHanOPoujgxtIzpU51hY6W2a99Z/80wgm+lNy4DbM45wuR7hOhTmTK1RhRk2a6coZNlZQotfgHv81ZqJ+8byRTIclzK0tzRuKimNukwZz3KX4zUJbeVsQDAiArTzOzkeLxEHq/1Ddd2Di3Gy1EMwqr13g9c/6xwfSkFdulNvHmVlIofENnQPLTLiGpk=;5jHgDAJk5Zt3FWe18TLBEA=="
 ---
 

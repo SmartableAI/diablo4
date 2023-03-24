@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-hor
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/"
 type: article
 quality: 147
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZtlK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "New NVIDIA GeForce Game Ready driver offers DLSS optimization for Diablo 4 beta"
+    excerpt: "At launch on June 6, Diablo IV will also make use of DLSS 3 and Frame Generation ... 531.41 WHQL driver also adds support for Deceive Inc. (with DLSS 2), Resident Evil 4 Remake, Smalland: Survive the ..."
+    publishedDateTime: 2023-03-23T19:52:00Z
+    webUrl: "https://www.tweaktown.com/news/90833/new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 83
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90833_02_new-nvidia-geforce-game-ready-driver-offers-dlss-optimization-for-diablo-4-beta.jpg"
+        width: 620
+        height: 348
         isCached: true
 
 secured: "A5RkqXZ908TGYNUdDvPU3NzapFoCfNeyZe/TyOenedhq2R2ikyLSImyGXpzL8hIBbI37vW7IM3KYiwmoncf/LbKPLwugQwTXzC2aUDEAGZuCLlsW0bH96/MKWXw7zKIfT2JYuDjmEUQM01qHWSh8JN1N8DoamWz9CM7mzhcAgZ2mfAZvQieOagr0p01wHePgiGccpfoE9Mo1laeJMj2OcPho0jqTAqcNW5DG04Oz9sMKi0rfQwLYP/e8oAxCXCNFIROXlD3a8lnCEZ5/AWCQuFLKp/TWQTN7LQVEYRB44/r8JzfxdANFE2rQwnerCxo9h0eBWTm5qk/SiN/uSrWF79V6sRtk2s0len/Ka37930o=;M/GvSi4VWhQuC1n6C3Ljxw=="

@@ -87,18 +87,18 @@ related:
         height: 630
         isCached: true
   - title: "Diablo 4's Lilith May Be The Series' Best Villain Yet"
-    excerpt: "and Diablo 4’s new demonic antagonist Lilith embraces that murkiness, flipping the traditional series narrative on its head. Who and what really is ‘bad?’ Both angels and demons do as they wish at ..."
-    publishedDateTime: 2023-03-23T13:00:00Z
-    webUrl: "https://www.dualshockers.com/diablo-4-lilith-best-diablo-villain/"
+    excerpt: "For all her malevolent intent, at least Lilith is honest, and that helps make her the most compelling villain in the series. As well as being the daughter of the demon Mephisto, Lilith is a distant ..."
+    publishedDateTime: 2023-03-23T17:00:00Z
+    webUrl: "https://www.msn.com/en-us/tv/recaps/diablo-4s-lilith-may-be-the-series-best-villain-yet/ar-AA190dMR"
     type: article
     provider:
-      name: DualShockers
-      domain: dualshockers.com
+      name: DualShockers on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/cover-2.jpg"
-        width: 3000
-        height: 1500
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19094W.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "d91rFioZsW/8AvT+EPUfdXC/nKwIoTany37JbiUZj7MUM5zMYxKuGVZYbUgHhcNIKVCJjdl5kZ4k4vsNvpgvWrc/pP+AvorCY600wFWz96kljI+ygCXlg1yWnSXR84ENBzBwNapGdCFyr4K+Fy1y0XSkXflL/tn3swwucqCmrN5bpWuEOUahPTtPE/BZNKj1fs1kVh4GpKOnSQqSkF6Qy6QsLIMJ7TdhNITp/2LKRATqK3YqbK+8URg5e1+MqICkWX0yfvc4j9Dol2OstDlZS6oM+sKC4/KwUYIXn041Vqe2UktJq2DmXIf+yCNPtkOtLR5BfuN479YLnfbpjQk7WP4Q6BdzPbbFcS226OID52o=;zIvxhv6d31Oge6A+5L4D8A=="

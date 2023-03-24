@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4's Lilith May Be The Series' Best Villain Yet"
-excerpt: "and Diablo 4’s new demonic antagonist Lilith embraces that murkiness, flipping the traditional series narrative on its head. Who and what really is ‘bad?’ Both angels and demons do as they wish at ..."
-publishedDateTime: 2023-03-23T13:00:00Z
-originalUrl: "https://www.dualshockers.com/diablo-4-lilith-best-diablo-villain/"
-webUrl: "https://www.dualshockers.com/diablo-4-lilith-best-diablo-villain/"
+excerpt: "For all her malevolent intent, at least Lilith is honest, and that helps make her the most compelling villain in the series. As well as being the daughter of the demon Mephisto, Lilith is a distant ..."
+publishedDateTime: 2023-03-23T17:00:00Z
+originalUrl: "https://www.msn.com/en-us/tv/recaps/diablo-4s-lilith-may-be-the-series-best-villain-yet/ar-AA190dMR"
+webUrl: "https://www.msn.com/en-us/tv/recaps/diablo-4s-lilith-may-be-the-series-best-villain-yet/ar-AA190dMR"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: DualShockers
-  domain: dualshockers.com
+  name: DualShockers on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/cover-2.jpg"
-    width: 3000
-    height: 1500
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19094W.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EPZtr5zODAusQpWmM1t0kPmo3qmdp+pSk43XJFk+YFLg0s55raXEDdtkdnwGb5Zo/2sugByaDkrVpnPHkYxvLOhmGGSsdb3KOcxNsyf5m0q4B4qYpsA/dQe6koNnYQOcVRNXRmf99Wik2wVxa0aweM6wp6GRJdSEwSn9HNLFJV322ONOQVs69NbIzTKGhos+kiaY7m+8gztR8XZfwPOOm4IUWIIma9Cae8EMFTKC9L3CLqN4cVzvAw20itySwWgLDmAp9oXY9IDc24e19rTbFxfEjCf3yBImF/C0EfN+DQVzWrcTnHp4JJoh3oBr7vPtJLpsjcb4ldDB+tGJkaopdUs8z2KpatGiSo9SXc0YQGg=;YRsGMlXCNOxijipcSNfO9A=="
+secured: "pQ1IBVLf+BuW6l60c9St0MdLQ9ryzHF2SoVQYxO3kQJZFz00S4Fp8VdOUo8g7DO3lSR/DS48clQ3X/JE5wEzJbM1GFSrvG4uku4m8Ok5aw84nhcii4CBSlwg61T+YTJbhqjBPelTav4oDMo5lsVTFhO2jDe/UcCGflYadaPHS411A+HFhl9hvd0+fhBfpz/a3PmgrFzsYa+THsM+sFCZtjs8mVjpXA5g5vIlQ4xLjb8E/DaaZ6Zx8p+iYMDmKwE6flv+btX86tFIyUuJqZa3hIBPXSkyGYobe56SfLq0ZZblcq9I7J4XTAmif9t0AfM/QBZWP3YT874VLcOoNfOL/fZ6YoHEawMfrlPp9BsVEgc=;iofL1YoRRF/yXQTDH89lYQ=="
 ---
 

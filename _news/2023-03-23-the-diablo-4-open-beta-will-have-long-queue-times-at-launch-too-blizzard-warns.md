@@ -40,22 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
-    excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
-    publishedDateTime: 2023-03-23T12:49:00Z
-    webUrl: "https://www.polygon.com/23653776/diablo-4-open-beta-queue-times-error-316719"
-    ampWebUrl: "https://www.polygon.com/platform/amp/23653776/diablo-4-open-beta-queue-times-error-316719"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23653776/diablo-4-open-beta-queue-times-error-316719"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wbFwnNf94ZWQLu5qi8sOQoOc3ZY=/0x0:3840x2160/1400x933/filters:focal(1652x166:2266x780):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72107450/IGC_InariusIntro_RS_01_png_jpgcopy.6.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Diablo 4 Open Beta Update Warns of More \"Lengthy Queue Times\""
     excerpt: "The Diablo IV open beta will take place from March 24th through the 26th. The game's full release will take place on June 6th for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, and PC. Are ..."
     publishedDateTime: 2023-03-23T17:08:00Z
@@ -71,6 +55,20 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
+    excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
+    publishedDateTime: 2023-03-23T21:54:00Z
+    webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
     excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
