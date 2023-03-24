@@ -1,30 +1,28 @@
 ---
 category: news
-title: "All the Diablo 4 Altar of Lilith locations in Fractured Peaks"
-excerpt: "If you're setting out to clear the map, Diablo 4 Altar of Lilith statues will be one of your biggest collection tasks. Each one rewards some Diablo 4 renown and also unlocks stat bonuses for all your ..."
-publishedDateTime: 2023-03-22T07:15:00Z
-originalUrl: "https://www.pcgamer.com/diablo-4-altar-of-lilith-locations/"
-webUrl: "https://www.pcgamer.com/diablo-4-altar-of-lilith-locations/"
+title: "Diablo 4 open beta dates, details revealed. Get ready to battle Lilith's minions"
+excerpt: "The second weekend is now underway and players can access the beta for free on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X As gamers eagerly await the official release of ..."
+publishedDateTime: 2023-03-24T07:31:00Z
+originalUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034.html"
+webUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034.html"
+ampWebUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034-amp.html"
 type: article
-quality: 127
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/CVtWsVYYhudvREWGzPtDJo-1200-80.jpg"
-    width: 1200
-    height: 674
+  - url: "https://www.hindustantimes.com/ht-img/img/2023/03/24/1600x900/Diablo_4_1678991104109_1679662274660_1679662274660.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -44,21 +42,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 open beta dates, details revealed. Get ready to battle Lilith's minions"
-    excerpt: "The second weekend is now underway and players can access the beta for free on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X As gamers eagerly await the official release of ..."
-    publishedDateTime: 2023-03-24T07:31:00Z
-    webUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034-amp.html"
+  - title: "All the Diablo 4 Altar of Lilith locations in Fractured Peaks"
+    excerpt: "If you're setting out to clear the map, Diablo 4 Altar of Lilith statues will be one of your biggest collection tasks. Each one rewards some Diablo 4 renown and also unlocks stat bonuses for all your ..."
+    publishedDateTime: 2023-03-22T07:15:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-altar-of-lilith-locations/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 102
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 127
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/24/1600x900/Diablo_4_1678991104109_1679662274660_1679662274660.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.mos.cms.futurecdn.net/CVtWsVYYhudvREWGzPtDJo-1200-80.jpg"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Diablo 4 Contest is Offering Beta Codes for Prayers to the Demon Lilith"
     excerpt: "A contest rewarding Diablo 4 early access beta codes starts on Twitter, as Blizzard asks fans to offer up prayers to the demon Lilith. On Friday, March 17, the first of two betas leading up to Diablo ..."
@@ -117,6 +113,6 @@ related:
         height: 630
         isCached: true
 
-secured: "d9oYHfhobpqQdzrLVdqkvSHnSsSRF3SzE3h6LU9jt0MfGVoa3Jat0EA7tXfD3D6VUv1SaxA9nyRwwCAK4UuzWwDtNbhmbH/cQvCnh0xAXiDpZgzuae4ThDeOAjputKsXd3GbRF6T304XpK1Tyn1uAtutBeotX/ukP/0fqhSJaPGYF9NVgpk+dDfhxOPOJ78jBglkeCryFjEn62rmvk/vawegCZatjITjZI1hH413xoKAQ/r6pmaUK6hNzKLkaIO21NS2U405mX4ZBLd44VTR+rPVbH3qdBVPEEGuQ3b57E4Fd3CU/Q5SS4zz+r4ymhQdQAPyz/cS/LoKkKAj04epD/ACeA55sH36teLVcc8/r/I=;icpbepyhh/j2BkHm3f13GA=="
+secured: "4qlH4Pp2KMvQHU4Vuf8UKyfrqRuIKk+tNBX6hegFm8UmzBaYWcwP02dRSL+5Q25XWB9mgnKlOnpGFVXukmjj+4CEz7KScL82zX0JbCRNn7GcKQWQ9iAPv4iTB7S1CETZokpBzI2dn0pCO7N1z1z8bDiq71CVf6JZSI7XJ3bM+Q8Emyz9w1QxS4d65jSJv5mKFNV6PurcPMOttQA9XLffLrMwL0XdqZh4BcMgjVa+kvsDwVPWuFYBnyjNL7keHpUlUea6qmfNQlMVoE92qsd9zy2JxjS/y7sFEGTwzPOE708u7Hw0/PLeRC/jHstPdqD4NNa9aPHlH7e8tSepwbpS2tuPV1y+dQx7xSNtJOIqeOM=;Ht9WQIoQaw3fQB85lBoXjQ=="
 ---
 

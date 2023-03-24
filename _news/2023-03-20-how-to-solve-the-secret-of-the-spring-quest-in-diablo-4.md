@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest
 webUrl: "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest/"
 type: article
 quality: 127
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How to solve Diablo 4 Secrets of the Spring riddle"
+    excerpt: "The Diablo 4 Secrets of the Spring riddle is a strange quest; not only does it begin from a seemingly random note, found in the wilderness, but the instructions written on that note are vague at best."
+    publishedDateTime: 2023-03-24T07:45:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/secrets-of-the-spring"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-secrets-of-the-spring.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "js3m8RT5+OJSKuYhFRM/CG45Ip5Nrfq8sXe3TBW1gFrA03JUUIsno2ApV4VjNd37d9amuum/2Y4fwLcLdlNhqifhNZgbHXiAiVRfNgiIwgOLaSxiV9o+SFes7rgWLLTL6xTFmbmzslOCfqcIIPf7Hl+czDRHfNl5N0BpNKu8BxVN6lsNtGJUy4D8P9HFdEhQ9a8wNX6dLasyMHrTecqOcCRUBN+pRzU8yj4ixiZfSVUjyrIEI/gdqruWtgFnERWiYeBVv42EDWuA3uTH1fvN7kuuuQ5vPPVattiM/fClR3x5URQAGplNjmhn+a+MTdGOnMwJiquYugphaV8Hyu6Dz+uaxelJeJ8MNRpE6NCBOyo=;/HSqu6HbBvHYw0wqZK4zAQ=="
 ---

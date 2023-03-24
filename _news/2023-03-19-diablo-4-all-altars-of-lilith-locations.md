@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Diablo 4 open beta dates, details revealed. Get ready to battle Lilith's minions"
+    excerpt: "The second weekend is now underway and players can access the beta for free on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series X As gamers eagerly await the official release of ..."
+    publishedDateTime: 2023-03-24T07:31:00Z
+    webUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-open-beta-dates-details-revealed-get-ready-to-battle-lilith-s-minions-101679661525034-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 102
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/24/1600x900/Diablo_4_1678991104109_1679662274660_1679662274660.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 Contest is Offering Beta Codes for Prayers to the Demon Lilith"
     excerpt: "A contest rewarding Diablo 4 early access beta codes starts on Twitter, as Blizzard asks fans to offer up prayers to the demon Lilith. On Friday, March 17, the first of two betas leading up to Diablo ..."
     publishedDateTime: 2023-03-16T13:58:00Z

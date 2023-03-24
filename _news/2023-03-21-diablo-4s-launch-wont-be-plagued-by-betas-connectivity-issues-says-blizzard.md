@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4s-launch-wont-be-plagued-by-b
 webUrl: "https://www.ign.com/articles/diablo-4s-launch-wont-be-plagued-by-betas-connectivity-issues-says-blizzard"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RKUu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=612&y=330"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Blizzard: Prepare for large Diablo 4 beta queues"
+    excerpt: "The Diablo 4 Open Beta runs from March 24-26 for all players, and the first day of last weekend's Beta was wrought with long queue times. Blizzard has asked eager players to be patient as they expect ..."
+    publishedDateTime: 2023-03-24T07:40:00Z
+    webUrl: "https://www.msn.com/en-au/news/techandscience/blizzard-prepare-for-large-diablo-4-beta-queues/ar-AA191TOt"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA191TOh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=265"
         width: 1200
         height: 630
         isCached: true

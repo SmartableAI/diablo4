@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blizzard: Prepare for large Diablo 4 beta queues"
+    excerpt: "The Diablo 4 Open Beta runs from March 24-26 for all players, and the first day of last weekend's Beta was wrought with long queue times. Blizzard has asked eager players to be patient as they expect ..."
+    publishedDateTime: 2023-03-24T07:40:00Z
+    webUrl: "https://www.msn.com/en-au/news/techandscience/blizzard-prepare-for-large-diablo-4-beta-queues/ar-AA191TOt"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA191TOh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=265"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dgYoiWGYL0H1mgqMKsb3xQmqZlb023Xc9ZOc3v2GEElldPySx6V/sh/DQ6qu4SPenkQ7b76O7ygVvYYAvMJvazFpx6ZNK/fzUqGyDohc8wPtjjmT0RW0JEp3CkjglF1f8eGL+V97/tS94eo7k95jPyVPngEhUC6HdAkiaWWQowa6Uwh0Tg3EE/KZv7zklkXnu+GuTUt+JxT++1xOUceVAKEi0lg99vQgFZPmoGwOB/XeZfJDpdwr+Jp5AdLWKuEdN+Ldum3gV3s97ctIi7kYCGMbpffAH2mujf52LGcWKHRw22ScERMubsSdKc0rAqlOTT589uhW+Zmj9na+Fk+aOW7MH0eSo1BE3TtPlXWjpn4=;IAQS2zuBlwY0rMyvVkJmcw=="
 ---
