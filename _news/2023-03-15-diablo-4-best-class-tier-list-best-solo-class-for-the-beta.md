@@ -7,7 +7,7 @@ originalUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-clas
 webUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best Diablo 4 beta Necromancer build for solo players"
-    excerpt: "We've finally made it to the Diablo 4 beta, which means everyone and anyone is jumping in and trying out the early parts of the game. However if you're keen on experiencing the game at its most ..."
-    publishedDateTime: 2023-03-17T06:41:00Z
-    webUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-solo-players"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/diablo-4-necromancer_7MTOQrX.jpg/BROK/thumbnail/1200x630/diablo-4-necromancer_7MTOQrX.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 beta class tier list, best classes in the beta ranked"
     excerpt: "The best class in the Diablo 4 beta is quite a subjective thing, you're encouraged to pick a base class and build them up into a character that suits your personal preferences. Therefore, pinning down ..."
     publishedDateTime: 2023-03-24T09:01:00Z

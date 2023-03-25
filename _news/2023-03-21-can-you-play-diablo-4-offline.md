@@ -7,7 +7,7 @@ originalUrl: "https://www.videogamer.com/news/can-you-play-diablo-4-offline/"
 webUrl: "https://www.videogamer.com/news/can-you-play-diablo-4-offline/"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Is Diablo 4 Online Only – Can You Play Offline?"
+    excerpt: "With the release of the open beta of Diablo 4 came a whole hoard of players, both new and old. Xbox, Playstation, and PC players from around the world got the chance to try out the opening act of the ..."
+    publishedDateTime: 2023-03-25T13:43:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/is-diablo-4-online-only-can-you-play-offline/ar-AA194GKC"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18q8eb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "NHX3PdP3CoCp3hMipZiZXE5YkN9ncEs8oaNRl/KR3AJdjwULz1AjUUlffoOpU5tgqwHjUPc6N0s6/NE9td5PvB3N2FAI79yt1tqzaF+cLEirFnly8SB3dOq3pRQmTxni4PDUM23KOJteBahUVqf5LAGkIMkY1LXCaY71ffI5j0pp4kn0AhohzFa38YBFFHS0EYafCodJjI3/UQoesmXow7qMAoKhkAp/9tZP0RXiRmcHM8HH4WDZoYQ3VEpQ+Ezf/DQL00+W/kutvZvtUpeUH/nOtYVeu9PEC3LvX467t5EnL60uMAqLXs/JPuE2vIzBXteMxW6NbZe+5mMxHeAHP2sfxmRHVQl0rPXxTW7euik=;jptQAXmkg4l0UXSh2LtFQw=="
 ---

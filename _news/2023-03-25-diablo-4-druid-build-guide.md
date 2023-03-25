@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Diablo 4 Wiki Guide"
-excerpt: "This section of IGN's Diablo 4 Wiki Guide will walk you through how to approach her boss fight. Vhenard is a tricky boss fight, as she requires a lot of moving around and patience. In order to take ..."
-publishedDateTime: 2023-03-18T17:03:00Z
-originalUrl: "https://www.ign.com/wikis/diablo-4/Vhenard"
-webUrl: "https://www.ign.com/wikis/diablo-4/Vhenard"
+title: "Diablo 4 - Druid Build Guide"
+excerpt: "GameSpot may get a commission from retail offers. The Druid is an intriguing class in the Diablo 4 beta. While players are enamored with the idea of transforming into a werebear or summoning wolves on ..."
+publishedDateTime: 2023-03-25T12:41:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-druid-build-guide/1100-6512710/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-druid-build-guide/1100-6512710/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
 type: article
-quality: 127
+quality: 164
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
+  name: GameSpot
+  domain: gamespot.com
   images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Diablo 4
+  - Druid
 
 images:
-  - url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/diablo-4/4/41/D4-Vhenard-1.JPG"
-    width: 3840
-    height: 2160
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -57,22 +60,6 @@ related:
     quality: 164
     images:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4 - Druid Build Guide"
-    excerpt: "GameSpot may get a commission from retail offers. The Druid is an intriguing class in the Diablo 4 beta. While players are enamored with the idea of transforming into a werebear or summoning wolves on ..."
-    publishedDateTime: 2023-03-25T12:41:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-build-guide/1100-6512710/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 164
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg"
         width: 640
         height: 360
         isCached: true
@@ -109,6 +96,20 @@ related:
         height: 720
         isCached: true
   - title: "Diablo 4 Wiki Guide"
+    excerpt: "This section of IGN's Diablo 4 Wiki Guide will walk you through how to approach her boss fight. Vhenard is a tricky boss fight, as she requires a lot of moving around and patience. In order to take ..."
+    publishedDateTime: 2023-03-18T17:03:00Z
+    webUrl: "https://www.ign.com/wikis/diablo-4/Vhenard"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/diablo-4/4/41/D4-Vhenard-1.JPG"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "Diablo 4 Wiki Guide"
     excerpt: "This section of IGN’s Diablo 4 Walkthrough will guide you through the game’s first Act, called A Cold and Iron Faith. This is also when the world ..."
     publishedDateTime: 2023-03-19T04:25:00Z
     webUrl: "https://www.ign.com/wikis/diablo-4/Act_1"
@@ -137,6 +138,6 @@ related:
         height: 630
         isCached: true
 
-secured: "HMfMJowVdaFilyI7bKU0GX/M34YBdKViEijss1QjdjFrtsnQiT4+ZEpCMSrVSBwqVlFXCgrxknriChxwEJVtqQe0HBe1U4lX0jmohYj6CVRJTS7GFA/Sr8STF9wP78NtPxNmgf/vRjLtW6S7dmprIY2MG1hqsGnDd95dzlRpywlPVPLRQbLbrt+wIXB4C06/vMspB7WducU8KXIFk5EqhQr15aIhKIFuEpOW2G7usvDGdqqnQgZ8oINwtNCRtIF2jzFsOe//scUiOL4YKBVNvJUj+zltWuUo/meegT5fMFZIDz8POR1RdC9Oh+D6GTJJ/tJSKXNlcB6+X01NY6kYDY7rTuyV5+vx+VL6cvw30kQ=;kUhw3hIFENbEOChXorkv6w=="
+secured: "kqfM5h/pkpB5cUytnZ+7Jc/u0+P5kugB9XCi/HDAM2ww5MRy4x1Lz7w6B7psFwM7AmndAgj+gGP5AYpglYGGsrT7hsWGdpwEHH1mFGNVVEkQ2ej5AaS+b/JLJe3BSVIKDufl/pdNwUMlntOab8DPQu04P51UI0K9c7naWBpaXfrCcPGb06O/Gk7Vq3UTxxxnKYWJzB63XqaZoaP6jKFeprPdwmm2FlV5PquNvcV+JVfR8HfdMkraT86OYg89TzUvctF5i7oBjLCO8BAJp3823n9Tn2Q6r/gEsEtASa2iQ1NaGG3uqx719qnBpRrkDHhTr/Be63gFiTdF/aklr/NC715rbUNOke81Yhv/hoylXAI=;93AkcZJ2sTs9FF3MtF6cpw=="
 ---
 

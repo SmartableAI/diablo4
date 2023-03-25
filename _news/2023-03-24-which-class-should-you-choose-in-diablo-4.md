@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23654552/best-c
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer"
 type: article
 quality: 107
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "Which class should you pick in Diablo 4?"
+    excerpt: "Picking which class to start with in Diablo 4 seems like a daunting task, especially if you’re new to Blizzard’s RPG series. There’s no detailed overview of how a class plays, no way to test them, and ..."
+    publishedDateTime: 2023-03-25T12:02:00Z
+    webUrl: "https://www.shacknews.com/article/134774/diablo-4-best-starting-class"
+    ampWebUrl: "https://www.shacknews.com/article/134774/diablo-4-best-starting-class?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134774/diablo-4-best-starting-class?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-starting-class_feature.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "Ezx6S9c2ppoW4TkenTfHFzf5CqMjdvf0feIC8jP+zKRR73k3RNaB5+P/7iKd3J8sDYzs4haiC5e1C4P5gUto5pUQz1QbsuyfOAXAVjWrPaQOXsiNr3qzeGJXhwY+PmXXAX+Hf+jrI/kBtAPHabF/RwR92vl4U+I2p7C8vJi3vUfNqJEPvk4w93SmMUAoX8YXXhy+zou4AzwO2yAMze45IWuEBKWUtHpjI+87PwCQR9xSimJuhAAqspfqMqAqsplYUOshUAThyBTPtrs+JVul0oD3gKo0hCLS3Aj8821ZWS1IIc5ovEcn5hDzE57BGsUbxhl0opx6iFSnNJu9KzqrLqjpvvXPZPhFgbNRzzvHkRc=;tE3DMUCfCDOhr23Gg5iGbA=="
 ---

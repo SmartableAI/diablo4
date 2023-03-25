@@ -44,6 +44,38 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4 - Druid Animal Spirits Guide"
+    excerpt: "The Animal Spirit they pick will offer them unique bonuses, which are called Boons in Diablo 4. There's no word on what the Animal Spirits will be yet or what each of their Boons will be. Players ..."
+    publishedDateTime: 2023-03-25T12:11:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-animal-spirits-guide/1100-6512709/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-animal-spirits-guide/1100-6512709/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-animal-spirits-guide/1100-6512709/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 164
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Diablo 4 - Druid Build Guide"
+    excerpt: "GameSpot may get a commission from retail offers. The Druid is an intriguing class in the Diablo 4 beta. While players are enamored with the idea of transforming into a werebear or summoning wolves on ..."
+    publishedDateTime: 2023-03-25T12:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-build-guide/1100-6512710/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 164
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4 - Guides Hub"
     excerpt: "We've got a lot of guides to help you get started when you play Diablo 4. Diablo 4 is the latest iteration of the popular action role-playing game (ARPG) from Activision-Blizzard. Set in the world of ..."
     publishedDateTime: 2023-03-19T20:46:00Z

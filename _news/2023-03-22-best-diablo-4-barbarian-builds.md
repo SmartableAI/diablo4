@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The best Diablo 4 Barbarian build for solo play"
+    excerpt: "The best Diablo 4 Barbarian build turns one of the RPG’s less impressive classes into a heavy-hitting DPS dealer. You can play the Barbarian just as well in a group or solo, though it does take some ..."
+    publishedDateTime: 2023-03-25T12:02:00Z
+    webUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build"
+    ampWebUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 124
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-barbarian-build_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The best Diablo 4 Druid builds"
     excerpt: "The Druid makes a return in Diablo 4, though remains functionally similar to its Diablo 2 counterpart. Able to shapeshift, use elemental magic, and summon minions, the Druid is a jack of all trades."
     publishedDateTime: 2023-03-25T08:45:00Z
@@ -100,6 +116,20 @@ related:
     quality: 104
     images:
       - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Diablo 4 beta Necromancer build for solo players"
+    excerpt: "We've finally made it to the Diablo 4 beta, which means everyone and anyone is jumping in and trying out the early parts of the game. However if you're keen on experiencing the game at its most ..."
+    publishedDateTime: 2023-03-17T06:41:00Z
+    webUrl: "https://www.vg247.com/best-diablo-4-beta-necromancer-build-for-solo-players"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://asset.vg247.com/diablo-4-necromancer_7MTOQrX.jpg/BROK/thumbnail/1200x630/diablo-4-necromancer_7MTOQrX.jpg"
         width: 1200
         height: 630
         isCached: true
