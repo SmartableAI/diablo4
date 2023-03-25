@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-s
 webUrl: "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/"
 type: article
 quality: 119
-heat: 179
+heat: 119
 published: true
 
 provider:
@@ -26,54 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The best Diablo 4 Sorcerer build for solo play"
-    excerpt: "The best Diablo 4 sorcerer build lets you tackle mobs and bosses from afar with ease. Sorcerers are, as ever in the RPG series, weak in direct combat, but capable of dealing heavy damage and ..."
-    publishedDateTime: 2023-03-24T11:40:00Z
-    webUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build"
-    ampWebUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-sorcerer-build_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The best Diablo 4 Sorcerer builds"
-    excerpt: "The Sorcerer returns in Diablo 4. Similar to its Wizard counterpart from Diablo 3, the Sorcerer class is capable of casting powerful elemental magic to inflict incredible amounts of damage on groups ..."
-    publishedDateTime: 2023-03-24T09:38:00Z
-    webUrl: "https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills"
-    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23653283/sorcerer-best-build-skills"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23653283/sorcerer-best-build-skills"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/s6AFEIYyBaRJ0Y3zNF1NJsUvh_c=/0x0:2134x1189/1400x933/filters:focal(897x425:1237x765):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110656/diablo_4_sorcerer.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Best Diablo 4 Sorcerer build: Best skills for the Sorcerer"
-    excerpt: "Our Lightning Sorcerer build will send shockwaves through your enemies and generate Crackling Energy, which you can collect to deal even more damage."
-    publishedDateTime: 2023-03-22T09:59:00Z
-    webUrl: "https://www.rockpapershotgun.com/diablo-4-sorcerer-build"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 87
-    images:
-      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Sorcerer_BI4wyOR.jpg/BROK/thumbnail/1200x630/Diablo-4-Sorcerer_BI4wyOR.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lSVT8uliSw0QBDmH1Srtvn88QigRr0DNkX1OShXZ/md1ScGHkU+KqQ7EMo/DZXJCedPo+SKHu6D1UbEEZXhnvOPG8mtmfUzKyQBgHf2Q+X+WpyN4StkFQdG8W74XdVceHdKHEuodU0n7LN6nujH36e8OB5pZDvN4zE1Y0LC/G/qVK+o2V3OwQmFJfNhtRWK2UGESFf25tI4M4goElv74DfX4Vld/PEzpRxEJasZ3Mhe5bfkCfyqerJxmmuExU2hW+FUkj0HvafZsd+HKw12bIYwPbqIi1RQbK4FwOaINzwb5is6lZkIiRRFBkWhUtbURTzM+M0+CyFJfte0PR3t3dwwCle56gJNCUB1ihsaNAdQ=;5MYg+riDeODoTqWbNBGQjg=="
 ---

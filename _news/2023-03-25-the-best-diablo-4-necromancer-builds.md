@@ -1,25 +1,24 @@
 ---
 category: news
-title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
-excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
-publishedDateTime: 2023-03-22T09:59:00Z
-originalUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
-webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+title: "The best Diablo 4 Necromancer builds"
+excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
+publishedDateTime: 2023-03-25T09:53:00Z
+originalUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
+webUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
 type: article
-quality: 104
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Rock Paper Shotgun
-  domain: rockpapershotgun.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
-  - Barbarian
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194gGO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -73,6 +72,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
+    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 104
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Best Diablo 4 Barbarian Builds"
     excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
     publishedDateTime: 2023-03-22T08:52:00Z
@@ -101,21 +114,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The best Diablo 4 Necromancer builds"
-    excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
-    publishedDateTime: 2023-03-25T09:53:00Z
-    webUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194gGO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "riEHHN9Ki8jtuY6Jdc0LD7675cINcCwHSE+U4Y57huV/F5G9TpZ8d2jvfrh3QLtuKfq4qGoWG1UIr5/2Oi1jVDIFUfMpE6hF18CZ/ANt93Sm+oDG5LZW7pwgyALHh7cKe8SvLFzS+vAZMNQz8FkSjUYOWqU2bn47KFvtrn3IfsSMrbplZQwL40CwnfuFKrO4H8TrZLywlEIuVmBemaJ/9kj2IRRCijU2uOQTYOhKtdCX3nOw2rirLfbq5H7ZKSySLAtsD6uCSIQypMFu9xAvYL1DJanzDn3NZlbe3gfgJ/2Zkp/CGJ8K7jehjgCoRcKvwuwCrgHCf6h/CdrolRmKgHgKchK7Cv8l1dhrjgWneNE=;ofYVAw3Ojz6N26iFBwjapg=="
+secured: "+zit2xUBsymVj/PZVivEMFZTRczdoPuvmjS4/rhHq2GNnZ/OA4Rvu89LylRf5eUupz7+PP1VMgKDANjKoabYsctJN/PWUTaNxY1oRuNvh++Lm7/jsoCftrLwgLF4XaOmeadnb8hjISwuherGYK2KV0MDo3Vkc5oaRQK7aRycpzHJFmn1WAK6yaZIYAlOEzjkvblhW3Zf+3YlCAl8RycasV3qmO+KZIypQMW+MUbMHClJT/Hj3ovU3mdAxIxJO7BnER/ADzhnUr3hGHKwPXgRWVmWnEycbH70OyPukWu85mLUjB0yi9C2y+2E3vsyBzID7FBpM4JOeAcCb+ZjmUBRTmgVEslqVHfgjryGqGCD/oU=;b3HeNnLb+FUD2ArMdkYjxQ=="
 ---
 

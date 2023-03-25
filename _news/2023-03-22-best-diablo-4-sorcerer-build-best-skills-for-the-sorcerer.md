@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "This frost Sorceror build in Diablo 4 is so OP it basically makes the game play itself"
-    excerpt: "You can build an overpowered version of every class from the Diablo 4 closed beta, but Sorcerer might take the cake. Diablo 4's open beta kicks off soon, so naturally ..."
-    publishedDateTime: 2023-03-23T10:02:00Z
-    webUrl: "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/"
+  - title: "The best Diablo 4 Druid builds"
+    excerpt: "The Druid makes a return in Diablo 4, though remains functionally similar to its Diablo 2 counterpart. Able to shapeshift, use elemental magic, and summon minions, the Druid is a jack of all trades."
+    publishedDateTime: 2023-03-25T08:45:00Z
+    webUrl: "https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills"
+    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23656236/druid-best-build-skills"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23656236/druid-best-build-skills"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 119
+      name: Polygon
+      domain: polygon.com
+    quality: 124
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/mcSequ7cdxRM32jhaYeX4W-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.vox-cdn.com/thumbor/8YecCd2pe4OFhxMyFZ5dqvTF6vc=/0x0:3840x2160/1400x933/filters:focal(1613x773:2227x1387):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114066/D4_Inarius_and_Lilith.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "The best Diablo 4 Sorcerer build for solo play"
     excerpt: "The best Diablo 4 sorcerer build lets you tackle mobs and bosses from afar with ease. Sorcerers are, as ever in the RPG series, weak in direct combat, but capable of dealing heavy damage and ..."
@@ -69,6 +71,48 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/s6AFEIYyBaRJ0Y3zNF1NJsUvh_c=/0x0:2134x1189/1400x933/filters:focal(897x425:1237x765):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110656/diablo_4_sorcerer.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
+    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 104
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Diablo 4 Barbarian Builds"
+    excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
+    publishedDateTime: 2023-03-22T08:52:00Z
+    webUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093102/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 104
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The best Diablo 4 Necromancer builds"
+    excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
+    publishedDateTime: 2023-03-25T09:53:00Z
+    webUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194gGO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mlZ6IXJDCm7MJwRKbEkflz30tJl/xkez/rf4tkXDeO3mEn6v3/Xr6RhdgVuJTMI/g/pi7n9zu6zaTU4mKQ1xJYXd+Xl4+FW37IO4G8E7u0sF6XhgWW5ycAx66FXpJpMMLL1gAn0+cBgW9EbDkv3Nrcw0G2F3KRMyfTX7lAGPfRIMauNH9eJfVpEq3je74Xq4vNDrquchDn8m9TzNn+X0ziZXlhVEJtZOEoN5BTH9+GcSlSkFi9wv9vUl8KzVtGLPQ9FZR0M4TaBgQ+NAnEdnb958JSMUEgaNyOou1t1o9fI8vt9YTWMhjhk/q4rtcZp/Tm9Yhld5G0zRKWEeeNpFsKYUP16YuZO1Bl7ZzqnSpAU=;u7WClO3F2TD/VhSpZiKXNw=="

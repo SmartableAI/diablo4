@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing.md",
+      "title": "Activision Blizzard wants all Diablo 4 employees to vote on unionizing",
+      "excerpt": "The NLRB is hearing Activision Blizzard Albany Union arguments to determine who has the right to vote, and the Diablo 4 maker introduced an unorthodox argument ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/activision-blizzard-shareholders-meeting.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-diablo-4-lilith-awakening-by-three-they-come-announcement-cinematic-trailer.md",
       "title": "Diablo 4 - Lilith Awakening, By Three They Come | Announcement Cinematic Trailer",
       "excerpt": "Amazing cinematic trailer of Lilith awakening in Diablo IV. Thanks for watching! Like and subscribe, check other videos on my ...",
@@ -1015,48 +1057,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained.md",
-      "title": "Diablo 4 Necromancer class guide – skills and summons explained",
-      "excerpt": "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/necromancer-class-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-necromancer-class.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
