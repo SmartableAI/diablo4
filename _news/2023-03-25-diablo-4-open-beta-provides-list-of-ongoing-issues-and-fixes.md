@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 open beta patch notes"
-excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
-publishedDateTime: 2023-03-23T04:28:00Z
-originalUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
-webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
+title: "Diablo 4 Open Beta Provides List of Ongoing Issues and Fixes"
+excerpt: "Blizzard has shared a list of major ongoing technical issues from Diablo 4's ongoing open beta, as well as fixes that it has issued in real-time. Diablo 4 remains planned for full release in early ..."
+publishedDateTime: 2023-03-25T10:27:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194vw2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 1080
+    height: 630
     isCached: true
 
 related:
@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 open beta patch notes"
+    excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
+    publishedDateTime: 2023-03-23T04:28:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-open-beta-patch-notes/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo4_OpenBeta_Necromancer_artwork2.jpg"
+        width: 1200
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Patch Notes List Bugs Fixed for the Open Beta"
     excerpt: "Blizzard has shared a list of fixes that it's making based on issues from the Diablo 4 early access beta for the upcoming open beta. The launch of Diablo 4's early access beta this past weekend was ..."
     publishedDateTime: 2023-03-23T16:55:00Z
@@ -154,20 +168,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Open Beta Provides List of Ongoing Issues and Fixes"
-    excerpt: "Blizzard has shared a list of major ongoing technical issues from Diablo 4's ongoing open beta, as well as fixes that it has issued in real-time. Diablo 4 remains planned for full release in early ..."
-    publishedDateTime: 2023-03-25T10:27:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194vw2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
     excerpt: "With the launch of the Diablo 4 open beta, players are noticing that queue times appear to be shorter than last weekend's beta – though that could quickly change. Open beta for the highly-anticipated ..."
     publishedDateTime: 2023-03-25T00:20:00Z
@@ -183,6 +183,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J+Zl3IzzRA1LmRzZwd1vY+HW2+BuRVpZ+FE1koVXXQC5zs/L7muFUJyLisPMkPauU8OWeFy7WcngyZr/h3+sBEloz04oXTzEz50550xCKK+Q2FFc6bz71ifybM/C0MUEHSEexmFtCtxuc6fVS/lSodOiJTVwG0UDHeR0DFpV32GYUHuc/nj5rUlNC1psKICPwoYSS4nbWuq2RKSN/sg6i2zPJ9TECsPfYMY2cA6sUUuCzK4y6M29pvJhlS0MjF9ZMP9p+ZYFnHfdcH6FE4v3VsK3o5PCE3VgCdcmfdJfFirQA7XN5oefQxL2nE+FvPwtP6STfQbi0aThHF/Qz6lfjavYStZlwbUVFDR/vbypEn0=;/X5uaQ00hBGV5pZ+ylV8sA=="
+secured: "kRXt+5kYrxfBGVELM7rdv1QX5Qnh37EM4Hpg8xbxkN0IV0lwU4ICOQeje/XrGkuoNIGaJIeHhb6ly3Do8/l6xo9I3TBAuknBivuWGeMqFJwC038QATJ2RRAsV4L81TMWoljP+ZNDX/suI4ALfKkCw/BRbFyE+0u0bJYMvRj1KIgGQumVl/slmSJGycHslFFiHDN7YHMvYjYlbH5qJLsVEwPod8y1/M8r+DlpLZ6C6cRjeZj0pnqclqtr6waswgTruK0rOuj522In+oysQx9gm7LCLI609la05IFnALx4EBzXf0BROluBvhDQObNumEojlyiLLydbop8qFAk1hIt8MrOHHYx0bwZZkCeTAKnAcys=;6+3cfV+jZ+QWln55rea+uQ=="
 ---
 

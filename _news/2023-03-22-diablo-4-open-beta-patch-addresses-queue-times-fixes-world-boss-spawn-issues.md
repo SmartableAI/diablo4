@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addre
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/"
 type: article
 quality: 144
-heat: 344
+heat: 364
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190rNI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Open Beta Provides List of Ongoing Issues and Fixes"
+    excerpt: "Blizzard has shared a list of major ongoing technical issues from Diablo 4's ongoing open beta, as well as fixes that it has issued in real-time. Diablo 4 remains planned for full release in early ..."
+    publishedDateTime: 2023-03-25T10:27:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194vw2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

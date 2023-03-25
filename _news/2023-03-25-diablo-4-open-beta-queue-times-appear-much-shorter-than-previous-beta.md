@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Open Beta Provides List of Ongoing Issues and Fixes"
+    excerpt: "Blizzard has shared a list of major ongoing technical issues from Diablo 4's ongoing open beta, as well as fixes that it has issued in real-time. Diablo 4 remains planned for full release in early ..."
+    publishedDateTime: 2023-03-25T10:27:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194vw2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jiZRqXJhvRcMBDmOWCHlsPIVziIKiwkv6KAqT5qlUJZd7HkAxL7fKzKbj4SljWS9ro+r58sNyRzD0KbgbbbgtbEpJidAnhqX7RjUfac1LFwRH8EDI2zxRB2K25pchnvQAueJ+M8LKQe5c1A8XaWkR0GpnHfIDohvyMnuLET41k3uDpDwuitOCglg/B9T4FUdLRmFTjspiaIstJCPDlCmFjsY9Ha+Ga7PrXaLluKZgGeG5k3RBZmvkyG+8JnmoPkqymoz4ej1R7GRZJb7zvOAp2bCU2ANxEYwzMMSJCBsSApbUUhvtnKb8A3Z5Awm4OcJRhQT4YSOT7y9bOxgNSKdwTHuPJrkYhAA8ZeibrRcN+Q=;WUwiTHWiTI2RIJsN1gVSSQ=="
 ---

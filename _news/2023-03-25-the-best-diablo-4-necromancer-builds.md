@@ -2,25 +2,27 @@
 category: news
 title: "The best Diablo 4 Necromancer builds"
 excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
-publishedDateTime: 2023-03-25T09:53:00Z
-originalUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
-webUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
+publishedDateTime: 2023-03-25T08:53:00Z
+originalUrl: "https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills"
+webUrl: "https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills"
+ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
+cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
 type: article
-quality: 87
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: Polygon
+  domain: polygon.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194gGO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.vox-cdn.com/thumbor/o_jdalhuDYgFQEcDGbEjYOby5oU=/0x0:1628x870/1400x933/filters:focal(738x173:998x433):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114063/diablo_4_necromancer.0.png"
+    width: 1400
+    height: 870
     isCached: true
 
 related:
@@ -115,6 +117,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+zit2xUBsymVj/PZVivEMFZTRczdoPuvmjS4/rhHq2GNnZ/OA4Rvu89LylRf5eUupz7+PP1VMgKDANjKoabYsctJN/PWUTaNxY1oRuNvh++Lm7/jsoCftrLwgLF4XaOmeadnb8hjISwuherGYK2KV0MDo3Vkc5oaRQK7aRycpzHJFmn1WAK6yaZIYAlOEzjkvblhW3Zf+3YlCAl8RycasV3qmO+KZIypQMW+MUbMHClJT/Hj3ovU3mdAxIxJO7BnER/ADzhnUr3hGHKwPXgRWVmWnEycbH70OyPukWu85mLUjB0yi9C2y+2E3vsyBzID7FBpM4JOeAcCb+ZjmUBRTmgVEslqVHfgjryGqGCD/oU=;b3HeNnLb+FUD2ArMdkYjxQ=="
+secured: "tEl58FwtgnhM72e44wnhUq1+WaZepciE6uk1r7QLQsQLx1Meqz78lusvK1LcQu/Ee9bNDPa4IgSQYw2rIb9c6XEFh94rk+L+zfJob1WKpxugNx/w80J8o4j4gSofup8Nr1X22s4A1AHyNTBTa9C1j1XX2CQ6Fltme7C3xFnX33VsAq/kCNIyGySaIVM50gNVfGKBey+oWcTf3EltHyvL6oaEDT8vorAXQJH97tUfbVOZFa+pth3Iy5Ka3vO6mDPaZYV00AZC2jDWZ+F0zYQ40BEJj9JwnCsgK//REYfFdhULMhGepMu5Oh9708f5Bz2SqMDUeXKWSB3KpGLGKb5iD9MBLZn1wsVHys+FoQ7FhLY=;CEO11Pjdi8vQRSGegbrbyg=="
 ---
 

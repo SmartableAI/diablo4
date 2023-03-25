@@ -72,6 +72,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "The best Diablo 4 Necromancer builds"
+    excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
+    publishedDateTime: 2023-03-25T08:53:00Z
+    webUrl: "https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills"
+    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 107
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/o_jdalhuDYgFQEcDGbEjYOby5oU=/0x0:1628x870/1400x933/filters:focal(738x173:998x433):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114063/diablo_4_necromancer.0.png"
+        width: 1400
+        height: 870
+        isCached: true
   - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
     excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
     publishedDateTime: 2023-03-22T09:59:00Z
@@ -99,20 +115,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "The best Diablo 4 Necromancer builds"
-    excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
-    publishedDateTime: 2023-03-25T09:53:00Z
-    webUrl: "https://www.msn.com/en-gb/news/techandscience/the-best-diablo-4-necromancer-builds/ar-AA194ojw"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194gGO.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "mlZ6IXJDCm7MJwRKbEkflz30tJl/xkez/rf4tkXDeO3mEn6v3/Xr6RhdgVuJTMI/g/pi7n9zu6zaTU4mKQ1xJYXd+Xl4+FW37IO4G8E7u0sF6XhgWW5ycAx66FXpJpMMLL1gAn0+cBgW9EbDkv3Nrcw0G2F3KRMyfTX7lAGPfRIMauNH9eJfVpEq3je74Xq4vNDrquchDn8m9TzNn+X0ziZXlhVEJtZOEoN5BTH9+GcSlSkFi9wv9vUl8KzVtGLPQ9FZR0M4TaBgQ+NAnEdnb958JSMUEgaNyOou1t1o9fI8vt9YTWMhjhk/q4rtcZp/Tm9Yhld5G0zRKWEeeNpFsKYUP16YuZO1Bl7ZzqnSpAU=;u7WClO3F2TD/VhSpZiKXNw=="

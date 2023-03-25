@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Necromancer Build Guide (Open Beta Version)"
+    excerpt: "Welcome to our Diablo 4 Necromancer Build Guide. In this guide, we will be discussing five different builds you can use to make a painful stinger of a Necromancer in the game. We have three ..."
+    publishedDateTime: 2023-03-25T11:41:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-necromancer-build-guide-open-beta-version/ar-AA194qF4"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194yJC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=559&y=150"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DwkDTxOa5M27nl7EnTgO2soKPXAOPD3Uegb0jVNaxqYunLuUUNa0/Aen0BtQXFNN81P36kwljKvhIMLIikUQldAt8i1ifNBwGRTowhfJ9nTlaj2yXYk8um6/HrWx4GAaHNayhs3QhihSH6F7iHgyKYBZpnkOojO5YPlUooDm15ujlAvL+JNd4nY0ZrmrnhmoLDAl8YjeNEpvQpXBl6qIQifV2RkZh3b8d4PnbpJrBjkUm4/uMVv96xwbRda3RpZz8eyRBkeSb5o4tLXzUybWtdeBiINTinO2CASsptgBsbHA9eg3wFqq/dbFotDiA3rY/acnSuL+X2dJQWW9sz9XS7BXRcHOwAm1rA0UTZV3LBg=;lO66Y06B1Ki4K4Z4I2BbSg=="
 ---

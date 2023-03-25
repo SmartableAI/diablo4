@@ -2,6 +2,90 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-13-diablo-2-diablo-3-updates-outlined-as-blizzard-expands-diablo-4-team.md",
+      "title": "Diablo 2, Diablo 3 updates outlined as Blizzard expands Diablo 4 team",
+      "excerpt": "Resurrected and Diablo 3 updates as it hires additional staff to expand its Diablo 4 team ahead of the release date for the RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-diablo-2-diablo-3-updates-outlined-as-blizzard-expands-diablo-4-team/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-4-update-team-expands-d2r-d3-roadmap.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview.md",
+      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways - Blizzard Interview",
+      "excerpt": "Speaking to the team at Blizzard about all things Diablo IV, we got confirmation that the team is planning some pretty epic stuff for its post-launch Seasons. The long-awaited Diablo IV from Blizzard ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview/index.json",
+      "webUrl": "https://www.ausgamers.com/features/read/3645703",
+      "originalUrl": "https://www.ausgamers.com/features/read/3645703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.ausgamers.com/gameres/7407/images/695/CharacterDevelopment_Campfire_001.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard.md",
       "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways According to Blizzard",
       "excerpt": "The long-awaited Diablo IV from Blizzard is on track for a June release this year, and you can check out our recent hands-on preview here. Speaking to the team at Blizzard about all things Diablo IV, ...",
@@ -1010,90 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-diablo-4-lilith-and-inarius-go-beyond-boring-heroes-and-villains.md",
-      "title": "Diablo 4 Lilith and Inarius “go beyond” boring heroes and villains",
-      "excerpt": "Diablo 4 Lilith and Inarius were once a match made in, well, not heaven, but whether they epitomise good and evil in Blizzard's action RPG game remains blurred ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-lilith-and-inarius-go-beyond-boring-heroes-and-villains/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/lilith-inarius",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/lilith-inarius",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-lilith-inarius-villain-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-diablo-4-limited-collectors-box-pre-orders-are-about-to-drop.md",
-      "title": "Diablo 4 Limited Collector's Box Pre-Orders Are About to Drop",
-      "excerpt": "In the meantime, you can check out Blizzard's current crop of Diablo 4 merch right here. The lineup includes the Diablo IV Inarius Collector's Edition Pin, the Diablo: Tales From the Horadric Library ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "publishedDateTime": "2022-12-11T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
