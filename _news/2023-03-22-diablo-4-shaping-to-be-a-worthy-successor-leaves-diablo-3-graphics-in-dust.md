@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-w
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133-amp.html"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.videogamer.com/wp-content/uploads/DIablo-4-Dry-Steppes-1.jpg"
         width: 1200
         height: 500
+        isCached: true
+  - title: "How Diablo 4’s Local Co-Op Compares To Diablo 3’s (& Which Is Better)"
+    excerpt: "As Diablo 4 draws closer to its launch period in June, the game's pre-release hype cycle, including a free open beta period, has revealed some key details about the game, including information ..."
+    publishedDateTime: 2023-03-25T05:00:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-local-co-op-compares-to-diablo-3-s-which-is-better/ar-AA193LTG"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13cAuV.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "BN5de3SwSWV7yCW2CaKE5Gv9Ds/yiSKUw7UVyGX7dSKOYusBKFaZsNK3a2GEHTA5UyTA2JhGIdMVOWM9YuvofXAQZguNt6f6CioKWdjEIGFM215ao+wY+x5MUXWzcTRUD6QbP2AvMJ+Bj22Vr3w7vkWVQ1ivrGmhX5HqZViaTTQC80pNM1D6TWHzLKSPezl6cBcg5/CXsCkydB49TcNWNF1muPdkg136BEyzDuY5LEYOXApCUKWIS7k0dfpYeNQ20aXfKmzq9icAZpsEQnhp5ikq/ht7WwbqapD+P76v0TVjSTo6PI0xI8uxGmG08V3ebDk8ZWahUvG1nkV+53Cme3k0UnNQw0wHIc+0HO3aJOA=;HZNonw54OVXfDHYpcUCRoQ=="

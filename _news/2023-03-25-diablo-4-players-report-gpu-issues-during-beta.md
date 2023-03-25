@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 Developers Promise Better Queue Times And Server Stability Soon"
-excerpt: "\"We are actively working on these issues for this weekend\" - says Community Manager PezRadar. Diablo 4 Community Manager PezRadar provided an update (via the Blizzard forums) on the long queues and ..."
-publishedDateTime: 2023-03-18T10:09:00Z
-originalUrl: "https://www.dualshockers.com/diablo-4-developers-better-queue-times-server-stability/"
-webUrl: "https://www.dualshockers.com/diablo-4-developers-better-queue-times-server-stability/"
+title: "Diablo 4 Players Report GPU Issues During Beta"
+excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
+publishedDateTime: 2023-03-25T05:53:00Z
+originalUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
+webUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
 type: article
-quality: 86
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: DualShockers
-  domain: dualshockers.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-gameplay.jpg"
-    width: 2000
-    height: 1000
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192uSw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=670&y=160"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Players Report GPU Issues During Beta"
-    excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
-    publishedDateTime: 2023-03-25T05:53:00Z
-    webUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192uSw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=670&y=160"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 beta best classes: Tier list, for solo play, beginners, and more"
     excerpt: "After a painfully long wait, players finally have an opportunity to dive into Blizzard's new hack-and-slash dungeon crawler, Diablo 4, with the arrival of its Open Beta. Before you start mowing down ..."
     publishedDateTime: 2023-03-17T15:38:00Z
@@ -107,6 +93,20 @@ related:
       - url: "https://asset.vg247.com/diablo-4-beta-servers.jpg/BROK/thumbnail/1200x630/diablo-4-beta-servers.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 Developers Promise Better Queue Times And Server Stability Soon"
+    excerpt: "\"We are actively working on these issues for this weekend\" - says Community Manager PezRadar. Diablo 4 Community Manager PezRadar provided an update (via the Blizzard forums) on the long queues and ..."
+    publishedDateTime: 2023-03-18T10:09:00Z
+    webUrl: "https://www.dualshockers.com/diablo-4-developers-better-queue-times-server-stability/"
+    type: article
+    provider:
+      name: DualShockers
+      domain: dualshockers.com
+    quality: 86
+    images:
+      - url: "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-gameplay.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Diablo 4's pre-order beta is beset by long queues and connectivity issues"
     excerpt: "Diablo 4's pre-order beta is underway. That means people who have already paid for the hack-and-slash sequel are currently enjoying the quintessential modern Diablo experience: queuing to play for ..."
@@ -137,6 +137,6 @@ related:
         height: 419
         isCached: true
 
-secured: "TuF+SjYWZNpR1Bj4sypkx1YKJHfl9hJzV7xOH+3mFWZOhgV8VRMHBjaODDErsGWuA29X76isdSVEBQecAs4JI4LUWGRRaQlrypEjJobx7YyVUuP+57axSYaFR3iM2wiIekOB8gCLHs4Xv6HCGpB6RNqvnCuoyMRjaIpJOYTlmqOh1YqIBnw7JhQj6faZa8C7fD4QCDqBSRQ0ImUlYEugHcZXuuDDHScwxsEZ9O1s/7RndgUpbYsI0n+NShshSmjoSVt2cEo6mSKnv0Mcz8A6S+YH1o3kHbI/UfDmnGxq+VlIqabCHfkKfwfxcWMHTKcBClfi3trk2F7n6G9cqA1YEYjUqxLFUYn2rgyEKwUiNeM=;4j7WEtRdG8wq+T6KOv07wA=="
+secured: "A8U8ZYWtE3Z6OiUFzU1NpzGNfJV/6/9/ABBX0GXBdij/gwCSBow2tU38qoUpLNGSx8CX2cecS06bPPC5ANoVTST/1lAD6cbBSvsKDuR+9HZTgpzlMKC7y7Cd3VMzJqWZglrcnt/U5zlRGvTe3nAf3Rwc+u2GI6DkTMo2XObcewgLMY4UBnL/iYa+roiYIGDSjO78IoNZilVTwiPZQvRvTj7gIXv2h5vqxWTDavMPbup8UNo8rWmiWymTZUsnbS/C1i5dxyRPJC3KpEyn1DlLlQKR3FWp4L1rI4GfAtnYxDeDvT4MbQUceVjFtctIk6XIIRrMF0UNgULX0ijlY6XSWtjvkbvRMXYWdYETPKJlK9k=;pN6ETDkEFc/c7etLJMW44A=="
 ---
 

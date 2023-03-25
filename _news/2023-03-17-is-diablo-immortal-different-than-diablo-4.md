@@ -40,6 +40,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How Diablo 4’s Local Co-Op Compares To Diablo 3’s (& Which Is Better)"
+    excerpt: "As Diablo 4 draws closer to its launch period in June, the game's pre-release hype cycle, including a free open beta period, has revealed some key details about the game, including information ..."
+    publishedDateTime: 2023-03-25T05:00:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-diablo-4-s-local-co-op-compares-to-diablo-3-s-which-is-better/ar-AA193LTG"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13cAuV.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Z1O4DgVCvMSBnQamlHLyuHf4c7nlT6FBsDZK7Pu3NlG/t7n4rsrcLASQjATgAeSm80nrbANAfVQGVKJ91r1lm0a6ry8lSTcU4Acvqn0x0tlLE09S8fFDz/KBJGSbzH+t/0lNnup5XHUriDVPgVq6vXa+p9cpE3V/YGsWiK9haZl8zMZNzuxkcbWuuNXpi/WgeVVUQMw7t+6J6IQMhjH9VSxjDsaIw+kziYXr6YFh9acmHGwDOrnGIZ9P6uRlHRKrDAGSplex3nWYufJGFsMaKu8Jzx4S443QMWE28Uo2UQrdYuQLVeZyWRK7sOXE4rH46NgHoEEjZKgqO3pbqwtXB/vvIL3L0Y3jy1OC2O8jpdk=;X740Mot3/yWX8zYaStGs+Q=="
 ---

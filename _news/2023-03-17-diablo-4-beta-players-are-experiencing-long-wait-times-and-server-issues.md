@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencin
 webUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues"
 type: article
 quality: 126
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
     excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
     publishedDateTime: 2023-03-24T19:41:00Z
     webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192uSw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=670&y=160"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Players Report GPU Issues During Beta"
+    excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
+    publishedDateTime: 2023-03-25T05:53:00Z
+    webUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
     type: article
     provider:
       name: MSN
