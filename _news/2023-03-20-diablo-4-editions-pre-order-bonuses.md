@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 pre-order guide"
+    excerpt: "The initial open beta for Diablo 4 that required paid access has come and gone. Now, Blizzard is opening the gates to everyone for free access starting Friday, March 24 at 12:00pm EDT. It’ll last ..."
+    publishedDateTime: 2023-03-25T02:36:00Z
+    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FIz0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "v0lalbOOAnRY2nX2kRrRQOqEnsgucOcgYsFKjFgSdTrc1NutRSzRusdSMN4F8XnxEY02V+2U94WKCkPabuoA99A6WueJmnJinlSEGwTOxQyyK155tZsT6LSJ+MNkFc+3+qzBuZamOnegHcsjC6HOBg+xk9xAxp6Qb9p0chG53ObuIpNLg8xhKFIaOFbW/nAzUJu7z5AsGi2Sg+xHh+YGJL2PQgiCQeamos80rO+nw7F4A4knHaAi/1WWAeR5+QwA5spiTiIUV6WxN5S4F/8HUY3iQTfP59+2qcbxy2Bo7qOcRpK0u8fz7ybvAritmEWZQbR2Z0xCby1ZboWsFtMOnx5lqHVwki4xC1uAyEVwnww=;uhGp5AsNnlZL1sjvYZPVPQ=="
 ---

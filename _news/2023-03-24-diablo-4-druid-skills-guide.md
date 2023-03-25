@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/11
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/"
 type: article
 quality: 164
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/diablo-4/5/51/Diablo4-act_1-1.JPG"
         width: 3840
         height: 2160
+        isCached: true
+  - title: "Diablo 4: Secret of the Springs Quest Guide"
+    excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
+    publishedDateTime: 2023-03-25T03:39:00Z
+    webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xWt9IgPDNfKaIN9LdK00EkG9l4i8wWMgaHZJ7rcKBBfnezAm2zsHJcmWLqtDIpDT3sy2C1UYvE77//Vfd0Ae2PRbWruwW86w5xtpfKFQpjT1euePZqFQkFdcGje3PSrYDjpHtMd+zV9c+vvMBGRzHoChsCl30ZC5nxihx1YM/GYc8SO0x7jkXA6LkW2MUS+iRwhZ0ohFSkMIJfoXNzUvrhdotr95C+3AeGte6waw4YQSaMw8FBMevE1bLEfl8fD0YbQZRdUeDGquEij/R25nmiibKpOSp+hz+YqoKUu1IoUIp2dcEQ166rmRaTJVec00Y3aksUtMy8cfS3LZ3eQ3hTWnyq13l1Bjy7icAu2qpqM=;3JVBc8ypOgYBOer0dHWy4w=="

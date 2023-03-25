@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Diablo 4 - Guides Hub"
-excerpt: "We've got a lot of guides to help you get started when you play Diablo 4. Diablo 4 is the latest iteration of the popular action role-playing game (ARPG) from Activision-Blizzard. Set in the world of ..."
-publishedDateTime: 2023-03-19T20:46:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-guides-hub/1100-6512481/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-guides-hub/1100-6512481/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-guides-hub/1100-6512481/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-guides-hub/1100-6512481/"
+title: "Diablo 4: Secret of the Springs Quest Guide"
+excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
+publishedDateTime: 2023-03-25T03:39:00Z
+originalUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
 type: article
-quality: 147
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114626-diablo4guideshub.jpg"
-    width: 1280
-    height: 720
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Diablo 4 - Guides Hub"
+    excerpt: "We've got a lot of guides to help you get started when you play Diablo 4. Diablo 4 is the latest iteration of the popular action role-playing game (ARPG) from Activision-Blizzard. Set in the world of ..."
+    publishedDateTime: 2023-03-19T20:46:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-guides-hub/1100-6512481/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-guides-hub/1100-6512481/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-guides-hub/1100-6512481/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4114626-diablo4guideshub.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Diablo 4 World Events Guide"
     excerpt: "The Diablo 4 World Events appear as bright orange circles on your minimap (to differentiate them from main quests and sidequests). Upon reaching the area, the type of task and requirement will appear."
@@ -90,21 +100,7 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Diablo 4: Secret of the Springs Quest Guide"
-    excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
-    publishedDateTime: 2023-03-25T03:39:00Z
-    webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "uu05WSP5uD87AsvklmWP5Ozz23/fXVuKkS3Kp/sHvMC4USYviTsRXzlSC4Gc0Vji72ssHW5Gz/Bq0hbBbk0p4FlP88TdlBscNBAc4fCqUNastJccFcYN9eynGc8XwtcIblMGTEydnIwP5xWJ34xwxjz60Ksns/bmC7LQcApA6BQQ+2gROObVeBQnWCYxH5L7ySJKpgtaeeVbj/VHWtDSzDwCKvdCdXtg6bkWfdC6g4dlkeQF16Vu6Za30aYbtlHhdika4std7KScfQLgq/0bj7BmJGj9Jqlq8Ks9/Al58J8GO2KKYarvl8kQ2kenOD36y0HzJ47hHKMbswMYk2G85tOKiss7Uv3o/XO2+8ZI1uo=;EfmV9TitkGOCEbuzIhC+GQ=="
+secured: "ME2lWsPZL/FkS5g3qBnLWmwvWr6ALjpnF1rS8aSjtttB3B3TJUcXPGrP7waX2oZoCrshnH0gvPrr4cyuhi6UnPBlRUKA0miQlaNNMWVJ/21gGnd9zztLBAGG/W6AGO2QMnJcc2XwiKFGikNL/SV5rGCtHoEVAQTTIPIX0KVBk46PNbpPsjZMRnyJiQTGFLZ5dNVwpuACsl8sYG+sSvRKfmpwypz+UY80D8ChyHuzTzdZ31Qj2hiKySarfEAfsE3JBeEkSf5aAaq2pZ1XBajddLtpanGrjzClJCfCfadmlHk7u52rjeovtAJtElf9zj70VkeadfBiA8QSnv5X/R+Uxf5RLfrgcOyjHGjJ4ihqZk4=;TXeOQ5UQLugttVVRrFGSqQ=="
 ---
 
