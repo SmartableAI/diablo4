@@ -26,8 +26,8 @@ images:
 related:
   - title: "Diablo 4: World Tiers Explained"
     excerpt: "Diablo 4 is an upcoming game in the Diablo series by Blizzard. While it is not going to be available until June, Diablo 4 is currently having a beta weekend. During this weekend, players will be able ..."
-    publishedDateTime: 2023-03-24T17:09:00Z
-    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-world-tiers-explained/ar-AA192Dnd"
+    publishedDateTime: 2023-03-24T23:52:00Z
+    webUrl: "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-world-tiers-explained/ar-AA192Dnd"
     type: article
     provider:
       name: MSN

@@ -128,6 +128,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4: Ashava the Pestilent World Boss spawn times and location"
+    excerpt: "The biggest boss in the Diablo 4 beta is the first world boss, Ashava the Pestilent. Ashava is a difficult dragon-demon-thing with a slew of powerful attacks that can and will one-shot you if you’re ..."
+    publishedDateTime: 2023-03-24T22:47:00Z
+    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-ashava-the-pestilent-world-boss-spawn-times-and-location/ar-AA192rQx"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192rQr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
     excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
     publishedDateTime: 2023-03-24T03:44:00Z

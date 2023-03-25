@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spa
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/"
 type: article
 quality: 147
-heat: 327
+heat: 347
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190J06.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4: Ashava the Pestilent World Boss spawn times and location"
+    excerpt: "The biggest boss in the Diablo 4 beta is the first world boss, Ashava the Pestilent. Ashava is a difficult dragon-demon-thing with a slew of powerful attacks that can and will one-shot you if you’re ..."
+    publishedDateTime: 2023-03-24T22:47:00Z
+    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-ashava-the-pestilent-world-boss-spawn-times-and-location/ar-AA192rQx"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192rQr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

@@ -2,9 +2,9 @@
 category: news
 title: "Heed my warning: The Diablo 4 open beta will ruin your weekend if you aren't careful"
 excerpt: "I was left to reflect on this after sinking some 40+ hours into the Diablo 4 early access beta, taking two classes to level 25 and getting a third on the road to the cap. By the time I was downing my ..."
-publishedDateTime: 2023-03-24T20:53:00Z
-originalUrl: "https://www.yahoo.com/lifestyle/heed-warning-diablo-4-open-180101471.html"
-webUrl: "https://www.yahoo.com/lifestyle/heed-warning-diablo-4-open-180101471.html"
+publishedDateTime: 2023-03-24T20:29:00Z
+originalUrl: "https://www.yahoo.com/entertainment/heed-warning-diablo-4-open-180101471.html"
+webUrl: "https://www.yahoo.com/entertainment/heed-warning-diablo-4-open-180101471.html"
 type: article
 quality: 60
 heat: 60
@@ -17,6 +17,6 @@ provider:
 topics:
   - Diablo 4
 
-secured: "0w8V8DRjmWayZwhPwRtqdGzGGzTt2e3sd2yhumILYs5v3xjwKLywlDs1z6f7Ckiv51+Za+BuwAzEW4yJTFh3nWkazdvulD7aVODLK5PEG7tmx8L4XeL+whcCgFLysGjUHW6TPmICiXsIDmWiGHlc+drhNx81Nbm8LTVkhQbic/pnavyP4SrDFBI3iZLFbYFyI9eIM5NHgrE8dqL8guKusKmEOTEN1x+toxYi39yz3V4NGM5r6s1k4Id6de7Gdyns17aGFFhDIdLTHkbQHoQNS47+95wXkxIoAQwtlzgYDX2F5jfSp2xnx/P8n1kRNhxeNku76vA0PzfvyHZnIMUoDf1/Mg0jORnFuM/VkWug7Ek=;t7/N7CX2C1ocXiRyrxY9uA=="
+secured: "Pmu0Bhyp/qOT02o1hEdndV3A9RysUcvHdKMgBqWEyNYYynY2vgbxZhXijycg7pFQrmjPPYGcFUSG6Loub2TxcPz8lfDBu7XBmN2yejY583u3SL7DCQB3C8UQVsBtWCdXtp+hz5NjOLComT1LdiGcJ7RTBPd6nk5pMTQ1q2C7beCHV/bjard2spYpkggbue2qFav8ScwYVs8k+7SpNp4fecwN7uGxDqmch46RwicfY3xddxIkSN7PHZVUEx0nJaw0GL8jp9FFoOSvDLM8cojkVOiH8DKOz6+QdExkxkFYk/IQNIRwlz8XBjhhWRBVcZqyovtpKK2GRwBVdmVZJMBlxMsBgOkakcom9cDkpv62IXM=;zV6e3LDeBGWG/AcJMxJ4mg=="
 ---
 

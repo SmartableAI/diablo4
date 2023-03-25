@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4: World Tiers Explained"
 excerpt: "Diablo 4 is an upcoming game in the Diablo series by Blizzard. While it is not going to be available until June, Diablo 4 is currently having a beta weekend. During this weekend, players will be able ..."
-publishedDateTime: 2023-03-24T17:09:00Z
-originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-world-tiers-explained/ar-AA192Dnd"
-webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-world-tiers-explained/ar-AA192Dnd"
+publishedDateTime: 2023-03-24T23:52:00Z
+originalUrl: "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-world-tiers-explained/ar-AA192Dnd"
+webUrl: "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-world-tiers-explained/ar-AA192Dnd"
 type: article
 quality: 87
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CTusAHnN9X82DkmETmJ8RjlHDLBslGmZW4U4lOvrSBIzLlXNJSiyac4KdR42DZy4ubx6nwDOpM3ROQjBwCiNZc9NvPt05incWV4LUuv0YG69G4CDI8pHf+4LP8DiUhwCrtIEC3zP9+FtggnpljYfauyifbHP+NTcpgexoCc6KbXvYaI0/kDRAU5lPaKqad5Kp8aavp1zmrmEo5rBdBdMSDf2oDWCRx/UKUKFP8+UXGdG2AsjLPyr2M4T4HFTacS/e0cB9Kc0V57cqzb2yuuQ82ZoNeStIG/nfgwskHU7hU9sEM3Ek0AYgMlzNpBrIRvi/QUo+ZinFCWwGUXVAkg8DZDOCm+WRvDvFy5kw/7lsPs=;lpml0m7jfFxURiQzHxSN2g=="
+secured: "Eyold0040mcMRm5qJg6XhBCXKKwm1tAhAQ0f2L3nTw611OJE+FeKy/BXchr538RX651mspJoqjsVa/ccfXKkZcdyUOeQmWF2asnC150jFDzpDfK3ZFZpqZcUguKXEAKeAQSqnrOxRQzZkFsDq0Eq051+CNHGSK8pQK+st33LkAI3vxToOy8Tysg6H/BUbq0leOBMpkwtkhK58l5cgO+PCXiBfy9cGofCDOVGMoaDL0UMJVdaBc/ZFFWnfat6noT0tOHSJMoQzKgZXu2c003bxQTmkB0jybXHgkOPFywrPwT09pEDg03+iWlHaDDsxXfnEhSGbr9BFgj9y2m2puJoLLVsBrNniHrNrdrbb3OhdZQ=;kvGVN9FrmlB5/TO0Vb3u1Q=="
 ---
 

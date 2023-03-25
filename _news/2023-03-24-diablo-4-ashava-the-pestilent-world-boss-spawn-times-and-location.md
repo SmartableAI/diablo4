@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Diablo 4 - Rogue Specializations Guide"
-excerpt: "GameSpot may get a commission from retail offers. In addition to having access to different types of weapons, the Rogue in Diablo 4 can also change up their combat style on the fly. Rogues have access ..."
-publishedDateTime: 2023-03-22T14:41:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+title: "Diablo 4: Ashava the Pestilent World Boss spawn times and location"
+excerpt: "The biggest boss in the Diablo 4 beta is the first world boss, Ashava the Pestilent. Ashava is a difficult dragon-demon-thing with a slew of powerful attacks that can and will one-shot you if you’re ..."
+publishedDateTime: 2023-03-24T22:47:00Z
+originalUrl: "https://www.msn.com/en-xl/news/other/diablo-4-ashava-the-pestilent-world-boss-spawn-times-and-location/ar-AA192rQx"
+webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-ashava-the-pestilent-world-boss-spawn-times-and-location/ar-AA192rQx"
 type: article
-quality: 147
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4115739-d4rogue.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192rQr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg"
         width: 1536
         height: 864
+        isCached: true
+  - title: "Diablo 4 - Rogue Specializations Guide"
+    excerpt: "GameSpot may get a commission from retail offers. In addition to having access to different types of weapons, the Rogue in Diablo 4 can also change up their combat style on the fly. Rogues have access ..."
+    publishedDateTime: 2023-03-22T14:41:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-specializations-guide/1100-6512619/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1745/17457013/4115739-d4rogue.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Diablo 4 Butcher - Spawn Locations, Loot Drops, And How To Beat It"
     excerpt: "GameSpot may get a commission from retail offers. Have you been roaming the corridors of a dungeon in the Diablo 4 beta and suddenly been attacked by a giant, hulking enemy that smashed you to pieces ..."
@@ -132,20 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4: Ashava the Pestilent World Boss spawn times and location"
-    excerpt: "The biggest boss in the Diablo 4 beta is the first world boss, Ashava the Pestilent. Ashava is a difficult dragon-demon-thing with a slew of powerful attacks that can and will one-shot you if you’re ..."
-    publishedDateTime: 2023-03-24T22:47:00Z
-    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-ashava-the-pestilent-world-boss-spawn-times-and-location/ar-AA192rQx"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192rQr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 open beta patch fixes Ashava world boss spawn timer"
     excerpt: "A forthcoming Diablo 4 patch fixes a number of issues ahead of this weekend's open beta run, including the Ashava boss's spawn timer. \"There will be a small client patch prior to Open Beta to address ..."
     publishedDateTime: 2023-03-24T03:44:00Z
@@ -170,6 +166,6 @@ related:
       domain: yahoo.com
     quality: 67
 
-secured: "hZdmwp/QLvbfQ//XYtG9k1lLsYFrnP7CarmUCCgBeZW8INpbylJHvsES0VKz4iS9xkTlnMgYTDjYC6DhK+qr6nGrFty7vYKMBt8TENdBk6sI+pvTNJXoXCHxdx9mbiwGNp3zVIvywW1xt8U+XxDI4fPW3XP5uYzn9oBtV1HyUjers4/bs6ULDEhrxe6E4l82cQPbQ5xtHCt68y1FKGw7T1qL8PtCWdn/Df3kZa+Uzcs9LlMZ3wuAYafLi+jlXk5I/ZXCLV8PCCnatRkOzwoCo7Xsug+6dh+bBZZrITmrlNTrD4T4oQ5u9duvqoTInRchaW+iJTbULT85CHgo7trlz2lgoyO4JFBnzAmNMh+XniE=;BGHqVmfgx81U0Rhg9mKNSA=="
+secured: "9TEQ9IhkViGcYkUpvsUuQYS5XnbP8deXtxnES/5U68Bas+OWm8MKrQb/XQpkkJwNjfIkJv9tB+EZy4kOYPe3f4rrGMC4cytCNk1Sge6gYEuOdFUk+ndTtBf3lL0/c2Y7q9R5BZo0DuD8Wps1Fs+Lyvphu7fRyj0wS8jJ5JqsLuYK00/LixISK7G2AN6HlFj7QcOhHldSxQlvf/0jzKlg8JGhtJKH1kmdkpwn7H1cESnAL+01vShLY+ayDqKt5W62H54XMh5EVBut6xsvAZfwtiqjlzqjiGXZah7L8w/DXHN/r2G/JHYHAJN+2Eh2sXBSpMha1r9ZPje1EUaPOeHHABGlhgi7OnJPdtcVh8N9k8c=;6EthI5jJq4k9c7d7oc2tmA=="
 ---
 
