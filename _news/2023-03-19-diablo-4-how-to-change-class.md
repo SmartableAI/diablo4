@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-how-change-class-character-different
 webUrl: "https://gamerant.com/diablo-4-how-change-class-character-different-transfer-new/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 127
     images:
       - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-salvage-guide.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "Diablo 4: How to Cheer"
+    excerpt: "Diablo 4 introduces players to a few new mechanics including an emote system, which is actually required to complete a quest in Kyovashad. In addition to all of the loot, enemy smashing, and dungeon ..."
+    publishedDateTime: 2023-03-25T07:55:00Z
+    webUrl: "https://gamerant.com/diablo-4-how-to-cheer/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-emote-wheel-guide.jpg"
         width: 1800
         height: 900
         isCached: true

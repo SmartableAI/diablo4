@@ -3,7 +3,7 @@ title: "HARDCORE Druid Gameplay - DIABLO 4 !tarot"
 excerpt: "Join me as we play the Diablo IV Beta weekend! We are playing Druid on Hardcore in Diablo 4 Beta! Send a Tip to Support the ..."
 originalUrl: https://youtube.com/watch?v=c_eoqj-Do7s
 type: video
-length: P0D
+length: PT1H40M9S
 publishedDateTime: 2023-03-24T05:53:02Z
 heat: 
 
@@ -17,6 +17,6 @@ topics:
   - Diablo 4
   - Druid
 
-secured: "mogSLae/xnONW8h31i25MSNZJrxP7eSnyL7rFWKj97nDQCg2WapQzjCCDxF6EzLvcTXV/17H1DbM56Fez/SvicAktk1ZDxTdTkas2R8z0wvmFOHqx+SSimDS1T5AnmOm0EPDd0DKdw2V4mK6FzG4eBko+XqUAYFJtt6lKl9uJ3j3lIuXFvfFZ/lPmr9Jy26BOYo8tsHxCXNQBnlTn8kTTYvpKq3v//f83xip2DcfpM26WWtcZdPLLWN/HNfwjPyXnlZtpnl6QGj+uv7dh4+BKkR2MflowKT7EE+xZ7Y5GsYk91xruTNQtCk806LhAI5+WTOIxHq456mnBPF6NcLQrAOkzNq8gBOLUdYQshQd/0X2QNj+GuIbV+CfrZ/q4NUyRKUY4bIx9vUhijw4DifsiA==;E8R7YpTYN0ssCbe4z35lmQ=="
+secured: "VuUsI9LBfbk9Piooijmk2TfBEEp/75ODllbuMmn/a3xfX8n3Mspuu5mJpBwN9ya6RDtEAvkjG+Yx2TjD6G0YHYMSE5Smv0nsA3vBhYxHO3+nqa+63i40gj56uwp7Eg4f+Zrr7mmJU4XqmQdtmgtqovsjyUdcCUELXqYsT7VRcLOyiO7PwlTeOBCkuXp7R08CiFbTW8gUdcQK1EQox2wBnCBsUgCjSIi/av3faGHPvly+uVtBTspsLPnfuriuUL1roEaUwvSEnw3s6eyJsWY/aF0Ux5N+GV0NL4wncPLjlTbpFzTonkEBVyIyouWZsVHEimcdMFgZ7fSPmLjeNG3OowbmQDLe0HEcsyJcDRgw0os7+yfS7Jge1VBge+Xux+oIlCghkQPijs7OsYXSLWZPRPtHj28hXAkHb6uOsCKHeps=;+OG4bEpSt/8UvBQ0reXy/g=="
 ---
 
