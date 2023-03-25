@@ -1,30 +1,26 @@
 ---
 category: news
-title: "What a surprise—the Diablo 4 beta test servers are being crushed and people can't get in"
-excerpt: "The Diablo 4 (opens in new tab) preorder beta is now underway, and as you might have expected, it's not going perfectly smoothly. The biggest and most obvious issue for people trying to get into the ..."
-publishedDateTime: 2023-03-17T11:33:00Z
-originalUrl: "https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/"
-webUrl: "https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/"
+title: "Diablo 4 fans are sick of waiting as players spend more than an hour in queue"
+excerpt: "The Diablo 4 Open Beta period has been off to a rough start, much like the Early Access period that took place a week earlier. Although significant in-game bugs are less prevalent this time around, ..."
+publishedDateTime: 2023-03-24T19:44:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-players-are-spending-more-time-in-queues-than-in-the-open-beta/"
+webUrl: "https://www.videogamer.com/news/diablo-4-players-are-spending-more-time-in-queues-than-in-the-open-beta/"
 type: article
-quality: 118
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/RA8jKVsQF4aRhKeAXW5S9J-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.videogamer.com/wp-content/uploads/diablo-4-hawezar.jpg"
+    width: 1000
+    height: 419
     isCached: true
 
 related:
@@ -41,6 +37,20 @@ related:
       - url: "https://assets-prd.ignimgs.com/2022/12/06/diablo-blogroll-1670358717100.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "What a surprise—the Diablo 4 beta test servers are being crushed and people can't get in"
+    excerpt: "The Diablo 4 (opens in new tab) preorder beta is now underway, and as you might have expected, it's not going perfectly smoothly. The biggest and most obvious issue for people trying to get into the ..."
+    publishedDateTime: 2023-03-17T11:33:00Z
+    webUrl: "https://www.pcgamer.com/what-a-surprisethe-diablo-4-beta-test-servers-are-being-crushed-and-people-cant-get-in/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 118
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/RA8jKVsQF4aRhKeAXW5S9J-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 Players Report GPU Issues During Beta"
     excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
@@ -112,21 +122,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 fans are sick of waiting as players spend more than an hour in queue"
-    excerpt: "The Diablo 4 Open Beta period has been off to a rough start, much like the Early Access period that took place a week earlier. Although significant in-game bugs are less prevalent this time around, ..."
-    publishedDateTime: 2023-03-24T19:44:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-players-are-spending-more-time-in-queues-than-in-the-open-beta/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 84
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/diablo-4-hawezar.jpg"
-        width: 1000
-        height: 419
-        isCached: true
 
-secured: "VIdpK4AGPlEdFDEjEddLBu+YoBYRMksZKKNHCZq+AWWoTbkGihaZjbMkGj+mJxlq4Oemsg2HN/MJhx66+u8ZI9A5AVVX3Mi3T6rYZvo/CfRHDRa71BckxFajn7BJZUuFceLf0zoyxsWFVqsN9erWedhqtk24hclsIFVdZlQPyvDh8AN+4DIL1fU4d6n/Z/Fib4V2JSEgMzhRhmqMVCNMRAOmr8ZCHoGMEp3JIyOpeA5y78365kOcl1IBkOm1opiBRN+t2IVNsIQPbkGhi8E/5AianVm6meRD4ponRyk1F4AGUBT49Xl75QpSLe+1kuj6Rx7FkbY1+hn2Cjr5Zfefg35Nuj33+SCLt16ClNZpBDo=;04ilxLYz9rs2rqBb4zonyw=="
+secured: "WdugEloxVVdD0w3Mas3KaFVIdKqp4b2mGj6xLbsX/wG5s+3ri0yE2vi6pLlUvEGEo1rO8t8ByAGGak9plcq3V4e44n0eELiqRgEwEZAS75oyzhwCbqHwlZZndn8YTwiudbHyoGAF4eVXd868g4Oqx1/xJmT875r07zO8otdkxBK9Bhmy5+E03P3MHIeGz6rkr4YrKwU3WXZTJMjtfhKQBY19tJRYgftuxhPkQhrOwM16EYKcNrJ8i/sXsIbkTQXk6T9najm7CNYwlKnYdXGJokMer3kmOOzD/IUJ4vtvm5toY0jAGAm5jroxR2F6AO9SWYWWGHp4+PsFODd3t+qZl+joTCnvPC1O8WhRFbrrA9g=;GsXH0d7Z0J+1DGIFOpDO3A=="
 ---
 

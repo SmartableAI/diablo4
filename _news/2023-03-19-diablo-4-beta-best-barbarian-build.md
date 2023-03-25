@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Beta: Best Druid Build"
+    excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
+    publishedDateTime: 2023-03-24T19:47:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-best-druid-build/ar-AA192Avy"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 104
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192OTL.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Beta: Everything You Need to Know About the Barbarian Class Archetype"
     excerpt: "The Barbarian is one of the most iconic classes in the Diablo franchise, its iteration in Diablo 4 should allow long-time fans to pick up the class and feel immediately at home, but a few changes ..."
     publishedDateTime: 2023-03-23T21:01:00Z

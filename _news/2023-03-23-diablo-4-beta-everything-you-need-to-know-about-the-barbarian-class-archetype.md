@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Beta: Best Druid Build"
+    excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
+    publishedDateTime: 2023-03-24T19:47:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-best-druid-build/ar-AA192Avy"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 104
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192OTL.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
     excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
     publishedDateTime: 2023-03-24T10:59:00Z

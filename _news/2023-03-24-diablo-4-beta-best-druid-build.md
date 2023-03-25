@@ -1,26 +1,25 @@
 ---
 category: news
-title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
-excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
-publishedDateTime: 2023-03-20T10:00:00Z
-originalUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
-webUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
-ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
-cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+title: "Diablo 4 Beta: Best Druid Build"
+excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
+publishedDateTime: 2023-03-24T19:47:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-best-druid-build/ar-AA192Avy"
+webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-best-druid-build/ar-AA192Avy"
 type: article
-quality: 107
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: The Mirror
-  domain: mirror.co.uk
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
+  - Druid
 
 images:
-  - url: "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192OTL.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -40,6 +39,22 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 beta: 8 tips to make the most of your time this weekend"
+    excerpt: "The Diablo 4 beta will bring with it five classes to try out, countless unique abilities and the entire Act 1 zone to explore, so we've rounded up some tips to get you started. Diablo 4 doesn’t ..."
+    publishedDateTime: 2023-03-20T10:00:00Z
+    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730"
+    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-8-tips-29505730.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 107
+    images:
+      - url: "https://i2-prod.mirror.co.uk/gaming/article29505877.ece/ALTERNATES/s1200/0_Diablo-4-artwork.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Beta: Best Barbarian Build"
     excerpt: "Blizzard didn’t pull any punches with the Barbarian this time around. This build can go toe-to-toe with any boss in the beta."
     publishedDateTime: 2023-03-19T21:42:39Z
@@ -51,20 +66,6 @@ related:
     quality: 104
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PMIC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Beta: Best Druid Build"
-    excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
-    publishedDateTime: 2023-03-24T19:47:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-beta-best-druid-build/ar-AA192Avy"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 104
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192OTL.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
@@ -97,6 +98,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ktpIPbXnQvh14fEdK2+ZMwQoq2/dhymuim2Mxo/ygQvEZ1ch56eoW7Ov61E1+aRKATkcCKAB/Yjulp8bZKCVEi8lDbjIKhbD2AhAKJfWp3TqvuduGq3bjsf1Ow4EkHXEssvo8GsBLA9etlsLLt8ZQxtVgu2KvVyQ9kwt7nsuiJfmQgLPQS2u3aYA9u1QxgBxff7qlQm0Vfo98VxS8S1SOQltZTrSxFR+YYLRUp7aBEv22f9Sgcr2bSq8BGMiFSbF86gcZ04pAhJV49sxhDQR9G/gxsfZ4VGng3P19wbkd0HAUolzUUguk35v/6qEdCm1s+Rayin4ya4sRgDVFlxP0duIvNj7rzFPrAhv74Dfa+o=;vDZENjugO+bakXvgWHL45g=="
+secured: "HG3pqxJ96PRZ5qMpe7oZvNw9CO7phjPMXKLH2qYsP00wQsxHgrK6QBOhfP45L94iRZffIzKTdX6uTB6jd3QCRAdkZ9nDyPNAaskJhwG7XRd7nCGCVXzkERfmXrY2F1JmMxantNgVw25aZEcRFAX6QwtH1yrQBglPBjD8D1cbhSVOaCW8L3Kn9iB21C/rxB5JqzKRLLQO/rNcbnFPhsKq+ofapViPutoa09GmXNKIq8PiUfrqtl7jomoYcHkV8cZ5pt8tRZuEqAu4zpobMuqsdeKAp6fQ4Mxf+N1GlkED19v/HklbT/BBOlxDVLM/p/Pb/fTPhrzVTziJP7ofciZEk8j7sAcSALcx8Hw8dNHpnXI=;TsR1WefVwjlwPCiUvEyNAA=="
 ---
 

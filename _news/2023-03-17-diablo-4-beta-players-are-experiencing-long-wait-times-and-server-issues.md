@@ -7,7 +7,7 @@ originalUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencin
 webUrl: "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues"
 type: article
 quality: 126
-heat: 246
+heat: 266
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://assets2.rockpapershotgun.com/Diablo-4-barbarian.jpg/BROK/thumbnail/1200x630/Diablo-4-barbarian.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 fans are sick of waiting as players spend more than an hour in queue"
+    excerpt: "The Diablo 4 Open Beta period has been off to a rough start, much like the Early Access period that took place a week earlier. Although significant in-game bugs are less prevalent this time around, ..."
+    publishedDateTime: 2023-03-24T19:44:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-players-are-spending-more-time-in-queues-than-in-the-open-beta/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 84
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/diablo-4-hawezar.jpg"
+        width: 1000
+        height: 419
         isCached: true
 
 secured: "4U64YHQctHndLm3Dzbv08zk+9nGbAg8t1umjkz8AezFfFxLA+OAKJxGcPPuJV7Uha1wc6b2rVHoJlXSO5ogLhKc+yWswxW26OEyNAQyd90jB2GvdOyZWSA26dzqy2UhUnL4ZIVQH25LNgQ256k1omut5aSzboWdLqaeibnyxktgPbwXq1UT+uJmYzr24CxyqKPFjBxCIPyA+hUG+4bI8rbTrKHY+zJTiylHvPKXYWAyvJaVBKRCSeqtPbKEfLeNL8blTWmpIwn448UIOGx090nI1EHE6Nlnev6WobWRLY+qPNl7BljYkgrKcx3Mzgcynn+j+rEAL7vzBAfsxyUjU06cJBETQ7HiXFiohGgYEGx0=;UDcplKzJ/468dD1fNGDEOA=="

@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 fans are sick of waiting as players spend more than an hour in queue"
+    excerpt: "The Diablo 4 Open Beta period has been off to a rough start, much like the Early Access period that took place a week earlier. Although significant in-game bugs are less prevalent this time around, ..."
+    publishedDateTime: 2023-03-24T19:44:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-players-are-spending-more-time-in-queues-than-in-the-open-beta/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 84
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/diablo-4-hawezar.jpg"
+        width: 1000
+        height: 419
+        isCached: true
 
 secured: "c1KK5euoSyW5R2YCLCQDhPNA2mfoHkbVDiDbQBqxG5LMIw96BWEvNBFjMcWNQfEHUpDLyDs7iOnjmHRfsPg/0f02CqqGJSfLmZCbCTq9Pzcsgn4N+D/Tkxr0Tjyl+2sT+utmKURZ9yFGxA4D19sTZ9a0QwQ7LTPWzUBTIrlKnlmCXubyJ66UMyHWUSsn99X+71ICeLRR5vRle11jHfw6Rmx+sM1ahFVblhEj2eP7vb/P9ohM9h1vf6b0gjEzeHZmIPGJaw041F5DMIwPgp7tSea8fOeuqM4QwRGpOUjwLH977I9DQp+eWz9gYisjrknypMcYUYVMixuWSUQGTBxezu61erqFazJfI0OwHhgnohQ=;ot/tylh+bPyacbypSTb+MQ=="
 ---
