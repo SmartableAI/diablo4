@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4 patch addresses the beta's biggest problem"
-excerpt: "Diablo 4’s early access beta test has been overshadowed by technical issues, to which Blizzard has responded with an important hotfix. Long queues and server instability aren’t the only issues that ..."
-publishedDateTime: 2023-03-20T07:12:00Z
-originalUrl: "https://www.techradar.com/news/diablo-4-patch-addresses-the-betas-biggest-problem"
-webUrl: "https://www.techradar.com/news/diablo-4-patch-addresses-the-betas-biggest-problem"
+title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
+excerpt: "With the launch of the Diablo 4 open beta, players are noticing that queue times appear to be shorter than last weekend's beta – though that could quickly change. Open beta for the highly-anticipated ..."
+publishedDateTime: 2023-03-25T00:20:00Z
+originalUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
+webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/C2B2c2Nso3wMvJhZWELFhB-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192MHq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -87,6 +83,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OAle.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 patch addresses the beta's biggest problem"
+    excerpt: "Diablo 4’s early access beta test has been overshadowed by technical issues, to which Blizzard has responded with an important hotfix. Long queues and server instability aren’t the only issues that ..."
+    publishedDateTime: 2023-03-20T07:12:00Z
+    webUrl: "https://www.techradar.com/news/diablo-4-patch-addresses-the-betas-biggest-problem"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C2B2c2Nso3wMvJhZWELFhB-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 open beta patch notes"
     excerpt: "Diablo 4’s open beta is now available to download for eager players hungry to get their hands on some demon slaying action – although they’ll have to wait until Friday before the gates open. However, ..."
@@ -158,21 +168,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
-    excerpt: "With the launch of the Diablo 4 open beta, players are noticing that queue times appear to be shorter than last weekend's beta – though that could quickly change. Open beta for the highly-anticipated ..."
-    publishedDateTime: 2023-03-25T00:20:00Z
-    webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192MHq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "vrJ2hku6OmZghvgWboZBGOWzd1D/HUmv8F25LAHxyS2Gq/6qudzoBl8iBS99PAYqOAFou5M2rsd/uWX4nHJBup+q/mYUbe0zkkEUyiYz2Z8PRgMWhW+XjZY887kUvE2OX1H+dUMTwJPmXRa4Lv74sbqyV0/FqycHr5qjmr7YUpvq4w+jsBf/qAkpLOC8uqktlm3mreRHwGmWYpdKb7Da72ACbvVb8FQvTyWA/3mUPBFhcN94yER+pEFbh//++z4hqRVYpx2gS1PJGHItg3AzytGr89RZ+yjwwsO8DR2NLGYQQzu0E4PzBxNVRtIm9AqCEpGvHpoo/YfBJ4uGBVUqS/EhUmZkp4Gfk3qHtr5XvOU=;G2oxAPsMGdLiUHPDlLTEcA=="
+secured: "jiZRqXJhvRcMBDmOWCHlsPIVziIKiwkv6KAqT5qlUJZd7HkAxL7fKzKbj4SljWS9ro+r58sNyRzD0KbgbbbgtbEpJidAnhqX7RjUfac1LFwRH8EDI2zxRB2K25pchnvQAueJ+M8LKQe5c1A8XaWkR0GpnHfIDohvyMnuLET41k3uDpDwuitOCglg/B9T4FUdLRmFTjspiaIstJCPDlCmFjsY9Ha+Ga7PrXaLluKZgGeG5k3RBZmvkyG+8JnmoPkqymoz4ej1R7GRZJb7zvOAp2bCU2ANxEYwzMMSJCBsSApbUUhvtnKb8A3Z5Awm4OcJRhQT4YSOT7y9bOxgNSKdwTHuPJrkYhAA8ZeibrRcN+Q=;WUwiTHWiTI2RIJsN1gVSSQ=="
 ---
 

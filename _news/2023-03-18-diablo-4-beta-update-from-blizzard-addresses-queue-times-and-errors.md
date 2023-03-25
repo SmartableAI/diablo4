@@ -154,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
+    excerpt: "With the launch of the Diablo 4 open beta, players are noticing that queue times appear to be shorter than last weekend's beta – though that could quickly change. Open beta for the highly-anticipated ..."
+    publishedDateTime: 2023-03-25T00:20:00Z
+    webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192MHq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wmhzxfrAQ3P71pPnH6r0N5uI6zHUgQoRKrhYupizmfqTot60SLghmGrTqYYG0aTVu+7OIc1D7FjtcO4Xdrk6xUI9HYhY/1dQdryoD/gCsYLPqK6GeBNds0LAwNb1DtW7m8cg4OvqQxLlYKOCHcNqrBQUbNAfFiz5I1VA4oZ34TWhzcFrEkI9uqRzImOXZdXPSR6iKEm8lTZaHMvJkYnhe4spjKN3q6j/H/dDTmxNECj9PTDfw0L9ijNOv+gayTuobdeRgKpMveSy/9CFB6Ekdt40WvmMd5MuoibbGFoxkKNMNVRhELyFILJ4Qi+5MfyvsZK7POh0Gxyk51MTfOjmEVc+nsgCfhVixEZhXCJBDk0=;txwhkB/96nfdZeCWGDj2OA=="
 ---

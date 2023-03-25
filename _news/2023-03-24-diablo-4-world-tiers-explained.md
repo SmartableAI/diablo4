@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4: Queued for Login Explained"
+    excerpt: "Diablo 4 officially launches for consoles and PC in early June. With only a couple of weeks left for Blizzard to prepare for release, the company is underway a two-week beta test period for the ..."
+    publishedDateTime: 2023-03-25T01:20:00Z
+    webUrl: "https://www.msn.com/en-my/news/techandscience/diablo-4-queued-for-login-explained/ar-AA192OTQ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192Re3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=390&y=628"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Eyold0040mcMRm5qJg6XhBCXKKwm1tAhAQ0f2L3nTw611OJE+FeKy/BXchr538RX651mspJoqjsVa/ccfXKkZcdyUOeQmWF2asnC150jFDzpDfK3ZFZpqZcUguKXEAKeAQSqnrOxRQzZkFsDq0Eq051+CNHGSK8pQK+st33LkAI3vxToOy8Tysg6H/BUbq0leOBMpkwtkhK58l5cgO+PCXiBfy9cGofCDOVGMoaDL0UMJVdaBc/ZFFWnfat6noT0tOHSJMoQzKgZXu2c003bxQTmkB0jybXHgkOPFywrPwT09pEDg03+iWlHaDDsxXfnEhSGbr9BFgj9y2m2puJoLLVsBrNniHrNrdrbb3OhdZQ=;kvGVN9FrmlB5/TO0Vb3u1Q=="
 ---

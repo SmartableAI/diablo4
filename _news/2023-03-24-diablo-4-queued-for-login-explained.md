@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-queued-for-
 webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-queued-for-login-explained/ar-AA192OTQ"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192Z1l.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=553&y=203"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4: Queued for Login Explained"
+    excerpt: "Diablo 4 officially launches for consoles and PC in early June. With only a couple of weeks left for Blizzard to prepare for release, the company is underway a two-week beta test period for the ..."
+    publishedDateTime: 2023-03-25T01:20:00Z
+    webUrl: "https://www.msn.com/en-my/news/techandscience/diablo-4-queued-for-login-explained/ar-AA192OTQ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192Re3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=390&y=628"
         width: 1200
         height: 630
         isCached: true
