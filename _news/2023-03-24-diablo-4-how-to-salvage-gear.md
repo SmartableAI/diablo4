@@ -56,6 +56,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4: How to salvage gear and items"
+    excerpt: "Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested world of Sanctuary. However, while some of these may be ..."
+    publishedDateTime: 2023-03-25T14:57:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-how-to-salvage-gear-and-items"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cUmCfWcD5T6iqwiG5tTmK7-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YuuqnJqemkblOckMXEo3uF6q6SUwrN5/Dr3HxwBgqRD7R07WhuMNRCve8qjoHP+P8qsdQa5xqVkVCl0KmOqTQ7ITnsJPrjwpyw9yQ7s+O3WwwiJ/U3HESkgLeLrcVbjoesEQ9UE3apeiEib57S75cSuyY37w/v0NfHRxH2dc4CVgt/n/70iu3J3rXki3uDEO+uGDbc8gV6L0nKsxMvUW+/3QQaOTssSDYaLhSKCy5vRpnR9OM9AFS0Rbhqt5w3dhTkQh2KeCeKNLXswqa1fH2vGiKnm/8SX1+0t6L2kFgnCs/rqGH1MskIu1PBegkBKBVwAunP3O6e10m1pjhJKMzU2Q9vPgpzG6K8Z+oKDdFqU=;1fdFJr+6aAjfDbpRko6ZFg=="
 ---

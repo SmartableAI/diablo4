@@ -2,6 +2,141 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "diablo #diablo4 #reaction Reacting to Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 ALL MY CONTENT IN ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=bOph5Mn57ps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bOph5Mn57ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T06:10:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Annoyed Reactions VF",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet.md",
+      "title": "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet",
+      "excerpt": "From seamless multiplayer to righting the wrongs of Diablo 3, here’s how Blizzard is returning to the series’ bloody roots with Diablo 4.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dMnF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=289",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T21:02:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-diablo-4-release-date-gameplay-and-classes.md",
+      "title": "Diablo 4 release date, gameplay and classes",
+      "excerpt": "Diablo 4 is the next mainline entry into the long-running RPG series. It's been a long time since the last instalment, meaning that fans around the world are hungry for any news available.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-diablo-4-release-date-gameplay-and-classes/index.json",
+      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
+      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-diablo-4-heres-what-comes-in-each-edition.md",
       "title": "Diablo 4: Here's What Comes in Each Edition",
       "excerpt": "Everything you need to know to pre-order Diablo 4, including release date, what comes in each edition, preorder bonus, and more.",
@@ -959,141 +1094,6 @@
         "name": "Polygon on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more.md",
-      "title": "The Diablo 4 beta hasn’t convinced me yet, but I can’t wait to play more",
-      "excerpt": "Diablo 4 has a hell of a challenge in front of it. Created against Activision Blizzard’s alleged toxic working culture, a team of developers has been tasked with aiding the ongoing resurrection of a gaming behemoth.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T00:00:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-diablo-4-hands-on-preview-redefining-hell.md",
-      "title": "Diablo 4 Hands-On Preview - Redefining Hell",
-      "excerpt": "Diablo IV is quick to differentiate itself from its predecessors in almost every way, while intelligently iterating on new series staples with ideas that put freedom of play at the center.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-hands-on-preview-redefining-hell/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-diablo-4-takes-darkness-to-a-new-level.md",
-      "title": "Diablo 4 Takes Darkness to a New Level",
-      "excerpt": "When it launches, Diablo 4 will have five classes available to play: Barbarian, Rogue, Sorceress, Necromancer and Druid. Since the Necromancer wasn't available, I went with the Barbarian to get a feel of the melee combat and how dynamic it is, and it's on",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-takes-darkness-to-a-new-level/index.json",
-      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4-takes-darkness-to-a-new-level/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4-takes-darkness-to-a-new-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/dde45e98bf544c38041afacbdeafa46973ccde28/hub/2022/12/07/03e59077-4772-4a8a-a1e6-8a50f72240f5/igcshowcase-lilith-02.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4-takes-darkness-to-a-new-level/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-takes-darkness-to-a-new-level/",
-      "publishedDateTime": "2022-12-06T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

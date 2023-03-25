@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more.md",
+      "title": "Diablo 4 full interactive map: All dungeons, side quests, cellars, and more",
+      "excerpt": "Diablo IV is a huge action RPG from Blizzard, known for mega franchises like World of Warcraft and StarCraft. The fourth installment of the legendary series is finally here, and data miners have been ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Nwik4ygCwVd3MqxoFPCEsA-1200-80.png",
+          "width": 901,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-best-diablo-4-settings-how-to-stop-diablo-4-killing-gpu.md",
+      "title": "Best Diablo 4 settings – How to stop Diablo 4 killing GPU",
+      "excerpt": "Some PC players have reported that the Diablo 4 beta damaged and even killed their graphics cards, reminiscent of how Amazon Games' MMO New World bricked certain GPUs upon launch. While Blizzard and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-best-diablo-4-settings-how-to-stop-diablo-4-killing-gpu/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/best-diablo-4-settings-â€“-how-to-stop-diablo-4-killing-gpu/ar-AA192BEE",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/best-diablo-4-settings-â€“-how-to-stop-diablo-4-killing-gpu/ar-AA192BEE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18pEAG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=257",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-diablo-4-players-arent-happy-about-the-necromancer-skeletons.md",
       "title": "Diablo 4 Players Aren't Happy About the Necromancer Skeletons",
       "excerpt": "Necromancer players in Diablo 4's ongoing open beta aren't happy with the design of the class' summoned skeletons, saying it doesn't fit the new game's aesthetic. Diablo 3 was harshly criticized for ...",
@@ -32,6 +116,57 @@
         "name": "MSN",
         "domain": "msn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-players-demand-proper-white-hair-options.md",
+      "title": "Diablo 4 Players Demand Proper White Hair Options",
+      "excerpt": "Diablo 4 players voice their criticism toward the game's character customization options, especially when it comes to hair colors. Diablo 4 players would like to have better options for white hair.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-players-demand-proper-white-hair-options/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-white-hair-off/",
+      "originalUrl": "https://gamerant.com/diablo-4-white-hair-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-necromancer-1.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -965,150 +1100,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-23T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta.md",
-      "title": "Blizzard Warns Of \"Lengthy Queue Times\" For Diablo 4 Open Beta",
-      "excerpt": "GameSpot may get a commission from retail offers. \"When we open the gates again this Friday to absolutely everyone, we are expecting a lot of people,\" the post reads in part. \"There will be lengthy ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/index.json",
-      "webUrl": "https://www.gamespot.com/articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "originalUrl": "https://www.gamespot.com/articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "publishedDateTime": "2023-03-23T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-is-diablo-4-steam-deck-compatible.md",
-      "title": "Is Diablo 4 Steam Deck compatible?",
-      "excerpt": "Is Diablo 4 Steam Deck compatible? With the Diablo 4 open beta happening this weekend, you’re probably wondering whether the long-awaited Blizzard RPG works on Valve’s dinky PC. To save you from any ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-is-diablo-4-steam-deck-compatible/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/steam-deck",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/steam-deck",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-steam-deck.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too.md",
-      "title": "8 things we learned from the Diablo 4 closed beta that you should know too",
-      "excerpt": "Blizzard's ARPG is stuffed with small QoL additions and helpful tips that can be easily missed. With Diablo 4's open beta (opens in new tab) set to kick off and introduce more players to five classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too/index.json",
-      "webUrl": "https://www.pcgamer.com/8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too/",
-      "originalUrl": "https://www.pcgamer.com/8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rvwNoeM4cVgLzu4cbmzrwk-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Gamer",
