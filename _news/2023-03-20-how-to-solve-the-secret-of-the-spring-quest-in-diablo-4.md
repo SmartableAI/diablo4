@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest
 webUrl: "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4: Secret of the Springs Quest Guide"
+    excerpt: "The Diablo 4 beta has a limited number of quests players can complete, but some of them can be quite the challenge for players. Near the Kylslik Plateau's Forsaken Quarry, players can find a Discarded ..."
+    publishedDateTime: 2023-03-24T21:28:00Z
+    webUrl: "https://gamerant.com/diablo-4-secret-of-the-springs-quest-riddle/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-10.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "How to solve Diablo 4 Secrets of the Spring riddle"
     excerpt: "The Diablo 4 Secrets of the Spring riddle is a strange quest; not only does it begin from a seemingly random note, found in the wilderness, but the instructions written on that note are vague at best."
     publishedDateTime: 2023-03-24T07:45:00Z

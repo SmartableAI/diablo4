@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Players Report GPU Issues During Beta"
 excerpt: "A few Diablo 4 players have been experiencing a worrisome issue while playing the beta version of the game: their GPUs are overheating. Blizzard is currently investigating the matter at the moment, as ..."
-publishedDateTime: 2023-03-24T15:56:00Z
-originalUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
-webUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
+publishedDateTime: 2023-03-24T19:41:00Z
+originalUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
+webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-players-report-gpu-issues-during-beta/ar-AA192nkM"
 type: article
 quality: 87
 heat: -1
@@ -123,6 +123,6 @@ related:
         height: 419
         isCached: true
 
-secured: "noW/0ormO6oUa9AF3eY6OLU+Cu/rnW9EdC2M2J0f1RkkWHb9XRFn70QAg1CXOKw460oTg2O1uTrb9c9AWVefj5Q43bZm6kmTxpGwhmGwYDByKo4YDDGPjW2YKlpTNkPSEg+kEaJdfgIXZ2619CENAVfd72TF/nzV2kwTw+nHBgWgOchQvtfq7eOJOaVfTD7kfCe4fXVsZNY11r1tUkOu3BWURKIriLpguTRzmX2qsvUwsYcgrGsWGqJdsK3SXuMI5puro+RHU8O41kI1fH1QfJlJZuzDHYpQWc2Oj1luX9sfD744FOiNddmYujskfPFi+VSlBlLM3Xk/3R4Fvj4uXK5CK6K8gdD+ErXDo9h/9Rk=;iamCly3WEVhaApjBVDEk6A=="
+secured: "9wflmRJbMeznhxNi2cKRVXE+dPb4n8nViKERq0BFXWmz5NUeQtqCcAVMw15YcVVOJMz5qTD9oeR/rk95WEuKxoyDlF7n9YYHh7rJqtN9F0IvFPgs02OBUoDUjhvsp2Yi2dKRE6k7bUxd4RTfglFB0DjJ92iWKgNKIv0ljb7xrN2Z53d5tMbvaf/rjUdyEizl/8bfR8N1ppA1iByDqnQ8iGtGJhGuSgVhqvw13+4bw4QszMquOrXC0rwBwj4eV9Ig4TY8ZQzTWjquuPzXjrkNOjCuuzwWg1yPTf5YtrLnX3EmRapz2bSsqm3pmEceNOcLbBUzIHE7Dr1CmbW7V9oeEMatkpiLjQQe+3nFznguPyg=;4XFlnGelj+b6FIL4xDdSiw=="
 ---
 
