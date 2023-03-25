@@ -42,20 +42,6 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Diablo 4: How to Level Up Fast"
-    excerpt: "Diablo 4 players can use this guide to learn the most efficient way to level up as fast as possible in the beta. Leveling up is essential to advancing in Diablo 4, but it can be overdone. The world ..."
-    publishedDateTime: 2023-03-19T13:09:00Z
-    webUrl: "https://gamerant.com/diablo-4-how-to-level-up-fast/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-leveling-featured.jpg"
-        width: 1800
-        height: 900
-        isCached: true
 
 secured: "YuuqnJqemkblOckMXEo3uF6q6SUwrN5/Dr3HxwBgqRD7R07WhuMNRCve8qjoHP+P8qsdQa5xqVkVCl0KmOqTQ7ITnsJPrjwpyw9yQ7s+O3WwwiJ/U3HESkgLeLrcVbjoesEQ9UE3apeiEib57S75cSuyY37w/v0NfHRxH2dc4CVgt/n/70iu3J3rXki3uDEO+uGDbc8gV6L0nKsxMvUW+/3QQaOTssSDYaLhSKCy5vRpnR9OM9AFS0Rbhqt5w3dhTkQh2KeCeKNLXswqa1fH2vGiKnm/8SX1+0t6L2kFgnCs/rqGH1MskIu1PBegkBKBVwAunP3O6e10m1pjhJKMzU2Q9vPgpzG6K8Z+oKDdFqU=;1fdFJr+6aAjfDbpRko6ZFg=="
 ---

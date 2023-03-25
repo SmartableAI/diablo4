@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
-excerpt: "With the launch of the Diablo 4 open beta, queue times appear to be substantially shorter than those from last weekend's beta. With the launch of the Diablo 4 open beta, players are noticing that ..."
-publishedDateTime: 2023-03-24T11:46:00Z
-originalUrl: "https://gamerant.com/diablo-4-open-beta-shorter-queue-times/"
-webUrl: "https://gamerant.com/diablo-4-open-beta-shorter-queue-times/"
+excerpt: "With the launch of the Diablo 4 open beta, players are noticing that queue times appear to be shorter than last weekend's beta – though that could quickly change. Open beta for the highly-anticipated ..."
+publishedDateTime: 2023-03-24T17:56:00Z
+originalUrl: "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
+webUrl: "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
 type: article
-quality: 127
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-open-beta-queue-time-improved.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192MHq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -159,6 +155,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PYNrAsFYmjNy85uEmodkH3GTOuo5KFkQi1wdUC4U9NR1U4gkJC7LLJpKlP2Dfw2Urv//MqciiNKb450unhpoXaiyL0I8ac3XgTzG4OcKmheK8E3Luha/XcsAfJonlvvNopiMgLT1OJD2GWgUm0RkZkONAh6jXBsjnpZDDTN3Ku78dccCELC/Du5kObN15C/QsZpGIWm8DDvVlybewHozPzc1LRDePdYsdXkIp0kcjMlI+cJH1MzdNc6i4WeHZzFqHWFoTW0SMQwqETK570i4A8Ol8Gk6wTrqEQDvHnHRaA4LsUBHV83Rtbrm8AQA1ljM+r5IscTvYbQJCMx9I0USyXc88MEhuUbhlwAj6G790Sg=;/jm4sR5a12IGaKnKklDOpA=="
+secured: "AHD2zud2jdeva3DyJIP9pExYQ6AhZq68hm1e4rRKbo2u/JGp1+xjZLLh96byfBv8o7M7h8USJtdbB823aEvMW3vWttyL5Ywkc0xBj0U/0xMNbFMcbWIAiAKZPaML4ykSorRV6MlEtPxZcpDEGU3gfksvjT1qfou8sXanEfqCdwljM68ZWyO0AErCUSuPDz70Dk5/cg7BhqYobiAsIUANo7M6R8kGOmYZMKRZ0qbr5ETIMEzVepNDXEEvPgm/pKpxhoa563ilZGoGj97nR02Kg+6SghAmUWIrrl0qiOz4atInck+wdF7rviw4/A3JSZX0l+J5Qmir6OQhPr9mKNCEM+vCw3I8sCGKAWfsn/6VxUU=;wocJjGOmtZLkTUH3A7OB9g=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
-    excerpt: "With the launch of the Diablo 4 open beta, queue times appear to be substantially shorter than those from last weekend's beta. With the launch of the Diablo 4 open beta, players are noticing that ..."
-    publishedDateTime: 2023-03-24T11:46:00Z
-    webUrl: "https://gamerant.com/diablo-4-open-beta-shorter-queue-times/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-open-beta-queue-time-improved.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Diablo 4 beta update from Blizzard addresses queue times and errors"
     excerpt: "The Diablo 4 beta release has been far from perfect so far. While many players have been able to dive into the early access beta for the dark fantasy RPG game and try out its first act, the initial launch has been plagued by lengthy queue times and player"
     publishedDateTime: 2023-03-18T04:11:00Z
@@ -137,6 +123,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OAle.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Open Beta Queue Times Appear Much Shorter Than Previous Beta"
+    excerpt: "With the launch of the Diablo 4 open beta, players are noticing that queue times appear to be shorter than last weekend's beta – though that could quickly change. Open beta for the highly-anticipated ..."
+    publishedDateTime: 2023-03-24T17:56:00Z
+    webUrl: "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-open-beta-queue-times-appear-much-shorter-than-previous-beta/ar-AA192xP8"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192MHq.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
