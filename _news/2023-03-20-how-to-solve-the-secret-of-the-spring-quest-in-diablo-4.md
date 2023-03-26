@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest
 webUrl: "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest/"
 type: article
 quality: 127
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-secrets-of-the-spring.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4: Secret of the Springs Quest Guide"
+    excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
+    publishedDateTime: 2023-03-26T01:34:00Z
+    webUrl: "https://www.msn.com/en-nz/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "js3m8RT5+OJSKuYhFRM/CG45Ip5Nrfq8sXe3TBW1gFrA03JUUIsno2ApV4VjNd37d9amuum/2Y4fwLcLdlNhqifhNZgbHXiAiVRfNgiIwgOLaSxiV9o+SFes7rgWLLTL6xTFmbmzslOCfqcIIPf7Hl+czDRHfNl5N0BpNKu8BxVN6lsNtGJUy4D8P9HFdEhQ9a8wNX6dLasyMHrTecqOcCRUBN+pRzU8yj4ixiZfSVUjyrIEI/gdqruWtgFnERWiYeBVv42EDWuA3uTH1fvN7kuuuQ5vPPVattiM/fClR3x5URQAGplNjmhn+a+MTdGOnMwJiquYugphaV8Hyu6Dz+uaxelJeJ8MNRpE6NCBOyo=;/HSqu6HbBvHYw0wqZK4zAQ=="
