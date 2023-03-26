@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/110
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
 type: article
 quality: 147
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 - Necromancer Leveling Build Guide"
+    excerpt: "The Diablo 4 Necromancer leveling build focuses primarily on area-of-effect (AoE) and additional survivability. Likewise, characters are capped at level 25 during the beta, so we only have a few picks ..."
+    publishedDateTime: 2023-03-26T13:03:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116671-diablo4necromancerbuildguidediablo4necromancerlevelingbuildguide-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The best Diablo 4 Rogue build for solo play"
     excerpt: "The best Diablo 4 Rogue build turns this squishy warrior into a deadly assassin. Rogues are flexible fighters with a broad range of skills. They lend themselves to deep specialization, but you can get ..."
     publishedDateTime: 2023-03-24T11:20:00Z

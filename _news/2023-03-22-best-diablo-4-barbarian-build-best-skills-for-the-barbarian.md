@@ -105,38 +105,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "The best Diablo 4 Necromancer build for solo play"
-    excerpt: "The best Necromancer build in Diablo 4 takes a bit from each of the Necromancer’s unique skill branches. The result is a bone warrior with some powerful blood magic who can summon undead allies and ..."
-    publishedDateTime: 2023-03-25T17:15:00Z
-    webUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build"
-    ampWebUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-necromancer_feature.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "The best Diablo 4 Necromancer builds"
-    excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
-    publishedDateTime: 2023-03-25T08:53:00Z
-    webUrl: "https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills"
-    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/o_jdalhuDYgFQEcDGbEjYOby5oU=/0x0:1628x870/1400x933/filters:focal(738x173:998x433):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114063/diablo_4_necromancer.0.png"
-        width: 1400
-        height: 870
-        isCached: true
   - title: "Best Diablo 4 Barbarian Builds"
     excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
     publishedDateTime: 2023-03-22T08:52:00Z

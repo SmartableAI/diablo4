@@ -2,6 +2,150 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-26-diablo-4-theory-claims-to-know-who-the-bloodied-wolf-really-is.md",
+      "title": "Diablo 4 Theory Claims to Know Who the Bloodied Wolf Really Is",
+      "excerpt": "Diablo 4 players theorize who the game's mysterious and threatening Bloodied Wolf character might be, as well as what their goals are.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-theory-claims-to-know-who-the-bloodied-wolf-really-is/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-theory-bloodied-wolf-mystery-character-identity-mephisto/",
+      "originalUrl": "https://gamerant.com/diablo-4-theory-bloodied-wolf-mystery-character-identity-mephisto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-bloodied-wolf-who-is-it.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-diablo-4-necromancer-book-of-the-dead-minions-guide.md",
+      "title": "Diablo 4 - Necromancer Book Of The Dead Minions Guide",
+      "excerpt": "Learn about the different Book of the Dead minions that you can summon as the Necromancer in Diablo 4. The Necromancer is one of the most powerful classes in Diablo 4 due to its summoning capabilities ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-necromancer-book-of-the-dead-minions-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4116674-diablo4necromancerbookofthedeadguidebestundeadminions-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "publishedDateTime": "2023-03-26T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing.md",
+      "title": "The one Diablo 4 tip I wish I knew before I started playing",
+      "excerpt": "Recently, players finally got an opportunity to try out Diablo 4, the latest entry in Blizzard's iconic hack-and-slash franchise, thanks to the arrival of its beta. In it, both the Prologue and Act 1 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing/index.json",
+      "webUrl": "https://www.msn.com/en-gb/money/technology/the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing/ar-AA195UPu",
+      "originalUrl": "https://www.msn.com/en-gb/money/technology/the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing/ar-AA195UPu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1961At.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-diablo-4-rogue-skill-tree-all-attacks-and-abilities.md",
       "title": "Diablo 4: Rogue skill tree, all attacks and abilities",
       "excerpt": "Diablo 4 features five classes at launch. If you're a player that wants to deal heavy critical damage using poisons and knives, the Rogue will be the one to choose. Rogue's abilities are powered by ...",
@@ -96,48 +240,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-26-the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing.md",
-      "title": "The one Diablo 4 tip I wish I knew before I started playing",
-      "excerpt": "Recently, players finally got an opportunity to try out Diablo 4, the latest entry in Blizzard's iconic hack-and-slash franchise, thanks to the arrival of its beta. In it, both the Prologue and Act 1 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing",
-      "originalUrl": "https://www.windowscentral.com/gaming/the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tTWMSvJdmuHr6HAMEchvN4-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-25-diablo-4-players-demand-proper-white-hair-options.md",
       "title": "Diablo 4 Players Demand Proper White Hair Options",
       "excerpt": "Diablo 4 players would like to have better options for white hair. Fans have the opportunity to experience Diablo 4 during its ongoing open beta weekend. Some participants think the game is lacking ...",
@@ -222,48 +324,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-25-diablo-4-players-arent-happy-about-the-necromancer-skeletons.md",
-      "title": "Diablo 4 Players Aren't Happy About the Necromancer Skeletons",
-      "excerpt": "Necromancer players in Diablo 4's ongoing open beta aren't happy with the design of the class' summoned skeletons, saying it doesn't fit the new game's aesthetic. Diablo 3 was harshly criticized for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-players-arent-happy-about-the-necromancer-skeletons/index.json",
-      "webUrl": "https://www.msn.com/en-xl/news/other/diablo-4-players-aren-t-happy-about-the-necromancer-skeletons/ar-AA194PLB",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/diablo-4-players-aren-t-happy-about-the-necromancer-skeletons/ar-AA194PLB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194z5G.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-25-best-diablo-4-settings-how-to-stop-diablo-4-killing-gpu.md",
       "title": "Best Diablo 4 settings – How to stop Diablo 4 killing GPU",
       "excerpt": "Some PC players have reported that the Diablo 4 beta damaged and even killed their graphics cards, reminiscent of how Amazon Games' MMO New World bricked certain GPUs upon launch. While Blizzard and ...",
@@ -314,7 +374,7 @@
       "originalUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1063,48 +1123,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end.md",
-      "title": "When does the Diablo 4 open beta start and end?",
-      "excerpt": "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two open beta weekends in March. Now we’re onto ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end/index.json",
-      "webUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "originalUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ByIRpBQfgpncCW9EslIwz_IbxM0=/0x0:1520x540/1400x933/filters:focal(639x149:881x391):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72010038/Diablo_4_Open_Beta_cover.0.jpg",
-          "width": 1400,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "publishedDateTime": "2023-03-23T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon",
-        "domain": "polygon.com",
         "images": null,
         "publishers": null,
         "authors": null

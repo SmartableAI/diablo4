@@ -54,8 +54,8 @@ related:
         isCached: true
   - title: "Diablo 4 Players Want To Be Able To Play Offline"
     excerpt: "Diablo 4 beta players are fed up with the always online requirements, calling on the devs to make it possible to play offline. This comes as the Diablo servers have struggled to keep up with demand, ..."
-    publishedDateTime: 2023-03-26T05:18:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-want-to-be-able-to-play-offline/ar-AA195Lpt"
+    publishedDateTime: 2023-03-26T13:21:00Z
+    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-players-want-to-be-able-to-play-offline/ar-AA195Lpt"
     type: article
     provider:
       name: MSN

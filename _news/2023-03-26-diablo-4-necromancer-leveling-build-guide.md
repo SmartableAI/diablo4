@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Diablo 4 Necromancer Build Guide (Open Beta Version)"
-excerpt: "Welcome to our Diablo 4 Necromancer Build Guide. In this guide, we will be discussing five different builds you can use to make a painful stinger of a Necromancer in the game. We have three ..."
-publishedDateTime: 2023-03-25T11:41:00Z
-originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-necromancer-build-guide-open-beta-version/ar-AA194qF4"
-webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-necromancer-build-guide-open-beta-version/ar-AA194qF4"
+title: "Diablo 4 - Necromancer Leveling Build Guide"
+excerpt: "The Diablo 4 Necromancer leveling build focuses primarily on area-of-effect (AoE) and additional survivability. Likewise, characters are capped at level 25 during the beta, so we only have a few picks ..."
+publishedDateTime: 2023-03-26T13:03:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
 type: article
-quality: 87
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194yJC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=559&y=150"
-    width: 1200
-    height: 630
+  - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116671-diablo4necromancerbuildguidediablo4necromancerlevelingbuildguide-.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Diablo 4 - Necromancer Leveling Build Guide"
-    excerpt: "The Diablo 4 Necromancer leveling build focuses primarily on area-of-effect (AoE) and additional survivability. Likewise, characters are capped at level 25 during the beta, so we only have a few picks ..."
-    publishedDateTime: 2023-03-26T13:03:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116671-diablo4necromancerbuildguidediablo4necromancerlevelingbuildguide-.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "The best Diablo 4 Rogue build for solo play"
     excerpt: "The best Diablo 4 Rogue build turns this squishy warrior into a deadly assassin. Rogues are flexible fighters with a broad range of skills. They lend themselves to deep specialization, but you can get ..."
@@ -130,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Necromancer Build Guide (Open Beta Version)"
+    excerpt: "Welcome to our Diablo 4 Necromancer Build Guide. In this guide, we will be discussing five different builds you can use to make a painful stinger of a Necromancer in the game. We have three ..."
+    publishedDateTime: 2023-03-25T11:41:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-necromancer-build-guide-open-beta-version/ar-AA194qF4"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194yJC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=559&y=150"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Beta: Best Rogue Build"
     excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
     publishedDateTime: 2023-03-26T08:13:00Z
@@ -145,6 +149,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SKn/tmuVjPyZejC/4Jd2RcJyCaK1w8YkWsawcRYhRzFAUX/Y02HPz3l8qteh8u1QvZUVDmMuqa2MNi1X4zhL9VzK4+Vhe5YKkwxK5Esnxomn/iBCHpsa2NC2QvYACOCNNsvclC6Kj+pUWR46zTegmCSTymMugTYeFVTvng0ZhqW9ikgyN/nB1vWAALOsWj+tqsaE5t9LvvXfIepSpba/Rb4JIlWCtFhSPU/tXQmdr///VdMl9nAtDBfQFLqO7/h8Kjc/3daEHK1diiq1sqCHiu/UeBKDk89GLOOdW+2JUY5e9CtIBGdeGqjqoa8AdrVHd7J+Lst1g1eanURP6NrbN81JrKAnm8uk9z+IhkAPQck=;ToAQLC4I/0f8KCt0PVrZfw=="
+secured: "AHX+SrOmrO1cFoCAQQr7Zv/8S4/rZssJzh12NHd7p5Hjh+TljccuNypoTcpm7qKl92mTu+Dz3GgwVyvM/TD919TEpjYZjMYqywfGnam9gWnBqUGFsxYcpWE36Yp+Q3ASAieu99hDvRaQJX9BwxUegLZaL+FlBvZAzzoAcCDxwhXlDZ3a7TkRoK71+wIuPV7/QBfWJZt+vHUUVdXkgrdo14aMcufNJhS2CRy7Vc1Ho+9I4SzwkOjcQRByNcN8JOf5xO6snRDZIgSB496FT76d+qsfvnACKaI7lW96Ag8YruPEgdiF9K6TfWwwBvRnwrQ/bfYLBzt7IXGI41Z97ZPJN2cTrcDv5FZdhbx3dypwLbU=;ADCONU2bN4zYKLxxbWg7kA=="
 ---
 

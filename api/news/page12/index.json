@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
+      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
+      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:42:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-diablo-4-fans-wont-stop-asking-beta-testers-to-break-their-blizzard-contracts.md",
       "title": "Diablo 4 fans won't stop asking beta testers to break their Blizzard contracts",
       "excerpt": "Fans keen for more Diablo 4 information are testing beta testers' commitments to their NDAs by asking questions about what they saw, just weeks after several players seemingly went against Blizzard's ...",
@@ -1015,48 +1057,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked.md",
-      "title": "End game beta test for Diablo 4 has been leaked",
-      "excerpt": "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked/index.json",
-      "webUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
-      "originalUrl": "https://www.xfire.com/end-game-beta-test-for-diablo-4-has-been-leaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.xfire.com/wp-content/uploads/2022/10/new-diablo-leak.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xfire",
-        "domain": "xfire.com",
         "images": null,
         "publishers": null,
         "authors": null
