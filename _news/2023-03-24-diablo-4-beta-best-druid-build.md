@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Beta: Best Necromancer Build"
+    excerpt: "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ..."
+    publishedDateTime: 2023-03-25T20:47:00Z
+    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HG3pqxJ96PRZ5qMpe7oZvNw9CO7phjPMXKLH2qYsP00wQsxHgrK6QBOhfP45L94iRZffIzKTdX6uTB6jd3QCRAdkZ9nDyPNAaskJhwG7XRd7nCGCVXzkERfmXrY2F1JmMxantNgVw25aZEcRFAX6QwtH1yrQBglPBjD8D1cbhSVOaCW8L3Kn9iB21C/rxB5JqzKRLLQO/rNcbnFPhsKq+ofapViPutoa09GmXNKIq8PiUfrqtl7jomoYcHkV8cZ5pt8tRZuEqAu4zpobMuqsdeKAp6fQ4Mxf+N1GlkED19v/HklbT/BBOlxDVLM/p/Pb/fTPhrzVTziJP7ofciZEk8j7sAcSALcx8Hw8dNHpnXI=;TsR1WefVwjlwPCiUvEyNAA=="
 ---

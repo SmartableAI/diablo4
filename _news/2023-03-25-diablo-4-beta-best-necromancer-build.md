@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
-excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
-publishedDateTime: 2023-03-24T10:59:00Z
-originalUrl: "https://www.msn.com/en-xl/news/other/diablo-4-beta-will-progress-characters-carry-over-to-the-full-game/ar-AA18YTV1"
-webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-beta-will-progress-characters-carry-over-to-the-full-game/ar-AA18YTV1"
+title: "Diablo 4 Beta: Best Necromancer Build"
+excerpt: "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ..."
+publishedDateTime: 2023-03-25T20:47:00Z
+originalUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
+webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
 type: article
 quality: 87
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -96,21 +96,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Beta: Best Necromancer Build"
-    excerpt: "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ..."
-    publishedDateTime: 2023-03-25T20:47:00Z
-    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
+  - title: "Diablo 4 Beta: Will Progress & Characters Carry Over To The Full Game?"
+    excerpt: "Diablo 4 just had its Early Access weekend and will be in Open Beta from March 24 to the 26, which means players are enjoying leveling characters and seeing what the game has to offer so far, while ..."
+    publishedDateTime: 2023-03-24T10:59:00Z
+    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-beta-will-progress-characters-carry-over-to-the-full-game/ar-AA18YTV1"
     type: article
     provider:
       name: MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
 
-secured: "XXOeDQGWhewz2u9T7LvQpiLoKTEont+/4oHopL3OMpgeocBRwMr6Vh7pTVDCmdMe3m92IBN+4GYlTODSgjLrv0tujbLnA5D6JwVPrHeiZAa39oeEZ2eAnqFWsVpj9p4WzxWxNz91sY7MBRkS7n5LSmJ/0VpxiGeW+TIRyjZiHi3CKCPV6+WzbhLypIQrO82pZclZar/PXIVtgGoJGj/XhjE/frALyJJMHTp7zacSz3Vbox1kFmw1xuJf3IBrGo4bOIEd5Ujl4g5uNyMEqnBx/vRqXvkmsA0NBHnO3jSnjBJ0NE+MT3qqKo82clZ6xe8zJUo2wWYGEBVySUuUXQKPE/fDUu+exoOSnBbNTKoqVoI=;c4EX0LqoUzBr7rOAONB1cA=="
+secured: "elakdLqlDn5/ql7yQK7Ion+bDUpWOqsQ4wmMjQI5pBXu3oFhJJFHrntFi5PDLXGwLTGvrtVoDpo7fYApZqVViaAwcjlcB+SdsgkcTn65QNZBbdU9pMcKhKicWF8KXAXPYDbatK8KFLwy4OYobFyVQrM0pJfqSxixx7lhs17fKnM3hrA8bgxCyMsrn7yK8T1yCrAPJJxVXvm0s8kcSvdQTbZo5x0iNbDkYIuJ5eNGtYl2WPW/Ok7pEKmjCD+nOsCWr+GEfFZWmAHhj/gHD9zgkP/czEDhVpizL+2es3WeM0yiike+UnpoKEe5UmGKhDSAvvfnklng7FXLA7SqEIiwMjbfIOU+fvJcw/sNOzQKMNU=;1KD3CkAL7m0KQggWVfRvkA=="
 ---
 

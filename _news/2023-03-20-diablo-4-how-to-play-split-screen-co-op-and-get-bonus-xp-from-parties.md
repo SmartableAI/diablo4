@@ -26,17 +26,17 @@ images:
 related:
   - title: "Diablo 4: How to play with friends in multiplayer co-op"
     excerpt: "Diablo 4 is a blast when you're on your own, but it's even better when you team up with friends — and we're not talking about Necromancer summons. Indeed, much like the series' past hack-and-slash ..."
-    publishedDateTime: 2023-03-25T16:54:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op"
+    publishedDateTime: 2023-03-25T20:49:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Windows Central on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/sKpoLJCwY6B32R85CvMcJK-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195ajk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "sj1aoIpPxKd1MFxq+WIE2edb6B4ZJ1OsHZgacBG00io2AXN6p3H38rUfRWzy3rs+bOCF3+rht0vW6ezbjlbJXvScgubYLWY/KvnNao3VOCdUvfZesNiQYmq4h9RohMAt3c8o17fvJedZV5IIXXW2EGwn6lzE6euwdYy1p6Cmfz7NymYdRgzgfF5utW11cLNxPX1i/3ULhe3zYpWCWSJxA6sxDK0wb0xJFkQmKM0koyJYnzFmwdbB+NJ0hGKdGuFhvyZmWzpDMGjLFuBNUekRIwZFexcgx2RUerP1NLgEIVsfRRlh2KoTtvoO1e1Fv3wwSpSToeMtGN9ozRd4UPeDotpkJj1UcN+iUbP/nC02njI=;sWqTFEkzI3DVCiSFtxO/9A=="

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Diablo 4's world boss is a nightmare I couldn't wait to walk away from"
-excerpt: "Diablo 4 world boss encounters like Ashava are a fun idea in desperate need of a fine-tune I did not beat the Diablo 4 world boss. My playtime of the beta may have teetered into intervention territory ..."
-publishedDateTime: 2023-03-25T11:14:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4s-world-boss-is-a-nightmare-i-couldnt-wait-to-walk-away-from/"
-webUrl: "https://www.gamesradar.com/diablo-4s-world-boss-is-a-nightmare-i-couldnt-wait-to-walk-away-from/"
+excerpt: "I did not beat the Diablo 4 world boss. My playtime of the beta may have teetered into intervention territory, but Ashava The Pestilent proved too much of a challenge – one of those nightmares that ..."
+publishedDateTime: 2023-03-25T21:15:00Z
+originalUrl: "https://www.yahoo.com/lifestyle/diablo-4s-world-boss-nightmare-181423619.html"
+webUrl: "https://www.yahoo.com/lifestyle/diablo-4s-world-boss-nightmare-181423619.html"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: Yahoo
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/MDU9Jp8MzKXqNFEZvBGjTH-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "y5JAqKuLJrJFp/hqvCjFcjgMq8x7nXOsyaQBfotcaDLGLIytGlxoTyPug58tAbtoTIAJR9frElzo0UTG2OwwW5rhFweQ5bEX7xkMCO8ecsE/1MlIL2m4njrKmR5KITZgqKPURviPZoxC4U+tgSOi/eq18Oazi6bR1AKETVRrbVQTb+vZVMdx8vJz2iG28GJHOy1ZxnZR8m6Fa84NkQDdBWYvl4KLBRt9GdyMFLjcla2LzjtvTBUelONIR16mcJScv9iPiHV4fB/acbFwB2Xin4/rnT9JA4tQA7QR5LE04Ocjm1Xcg8tQaD0J5ZfhaI+fErDA7vKDwm8g5OETL0SNlR4YE7edd5I1IHC6pHj03co=;dLuIzz47/OTUQT+u7B7xxw=="
+secured: "GgGrg8kxZLUAE3wtEBWDaypFD/NXFzpS+ryad4q3j8i4RYt7Idxcp6IKDedZzKwrY47N7rxxX0HRM7PlyIdI+df7ZosXY3sveS5VHMLK8HmtfP/2DBe7pYOWsL+K6UeWAzvfwL4uwWim9J22fOWqAp8WUi2uJmWy+4duMa6aMjvQiq1DxxorrXnMINE+PM6lTqBv2t+45g4iIcUVIMDdWc7JHtT87DsdcF9tCQbAUUm2JQw6AV9Ox/csYiIhoDEpIK9BdarEo4uHFEnsQZ2VSu3qpQFffLe+rSIjv/GD0z+fH+KtZMxQH0unZZBgYEOm2gbXWU2ohWSl9bYgjN7sL8jtVIOnsI40ZnCtU1PIlo8=;Io29q3zNtZvxV1VE97717w=="
 ---
 

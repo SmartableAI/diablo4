@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-25T19:57:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jZAisDFRV2yFwl7gIDZFmY1lc6+F6Sut5XQy+crMdgPSEgVFt+ah4FYsD+RHJmpVT/5qX6vazYb0SIin0vrSrkxZjvhkR2yzTKZ72UfRWnHj5L28FxebOtI/NwPF2hafqcmCNE65gBDzTBax5PoTTl/hyZ88CKNNBKvrytGNtl2XjuPW1L7E9LbUBtp8iq08mE489Ambl6xXzA9tGcdNz8hWVZnqj/q9az72FYQhKz4Fh8qkTESxuv4GsOi5qkRgViKanKUlS1bOnDxt6FbIaU0O5EaYpsowjb3k9xTuRLeraiG/mFn1bfGtik1rSQhsL/xtul0gvvfKbEpkLBf1BLXcKOGKHDrvjYGpJ2NN5oE=;l84P5O1t9dkMv55KnetWhQ=="
 ---

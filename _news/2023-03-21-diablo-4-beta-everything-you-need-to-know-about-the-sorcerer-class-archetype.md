@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells
 webUrl: "https://gamerant.com/diablo-4-beta-sorcerer-class-elemental-spells-skill-tree-enchantment-slots/"
 type: article
 quality: 124
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18YYwr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Beta: Best Necromancer Build"
+    excerpt: "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ..."
+    publishedDateTime: 2023-03-25T20:47:00Z
+    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

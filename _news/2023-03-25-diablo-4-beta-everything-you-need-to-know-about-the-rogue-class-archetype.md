@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Beta: Everything You Need to Know About the Rogue Class Archetype"
 excerpt: "The open beta period for Diablo 4 runs from March 24 to 26, wherein players have the chance to see Blizzard's latest entry in the classic ARPG franchise in action. During this period, players will be ..."
-publishedDateTime: 2023-03-25T16:38:00Z
-originalUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE"
-webUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE"
+publishedDateTime: 2023-03-25T18:30:00Z
+originalUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE"
+webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE"
 type: article
 quality: 85
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 675
         isCached: true
 
-secured: "HdW3dSpysRG3kV5ghoxAaCe08qp4SSkkwafZSzOde6T7Xz+IPwXlw0Uk0WtjrXFJxO/wkwWl2fNVbOS6XA/SfHiiOdyaxA94+xswyZ1GrTLPLcqHV/LMHg6GQFvn+FhRrBaE0DMhpI0EnAEJVA31P+Q/McNj6kCz0z0ddQr7vk+xq/T/JsAqASS42sonqzjrBgCnYhN2W5vjE53LmVbMAmAjhBEE1qmJrwQKN9D/zyeCXsQZJuOPFUmdRK9ewvzOrw07L18Ogm3kgvdldN/PjlPEOjdE82+FXe1gJu0/8R8dVCvhJnP0FV3lr6G3BaF8DBO4iNS+Pnc6p2zJKJ2aK5UO8YcEOakafeTUCRSvOW4=;TJNvvwveaSipBHVSa1TVHA=="
+secured: "PcBUH0yN21uXt6g8mN7sgZ3ZopjONc+6KJpTkS3zyrcvQ6BYE7Foz/y/ZtLKkNOH3L3/qvOl/tuwSbHqDKGN4uOIybvpDiwh4UCA0/aMgdsoEBkJX+CF0bwMHWJYAwm88gOAtm227JAoAhcah4rYBGfv52k+SLNjLaCWno7UaXz2G50aSPZeHsGQtzn/fRQDF2UU6MDtRPJs10OYZtln1CbnYY1gJEFIFIhWIfCW+R8mpJyeTkZCGwhUsdWZatZGiF3vBqltPrN9yWd7XiXTKUp5YRfdzr/OLvgLCbEtjxP7Z33I36KW80KjKM4kY0+621kB33Mt0inwnd1a6yacgV1PdmgO/xy5CTGKoXMgVCQ=;FwERv5R58JEbyJtld5DNFQ=="
 ---
 
