@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-gameplay-leak/"
 webUrl: "https://gamerant.com/diablo-4-gameplay-leak/"
 type: article
 quality: 127
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 release date, beta, trailers, gameplay, and features"
-    excerpt: "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ..."
-    publishedDateTime: 2023-03-07T02:50:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/release-date"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/diablo-4-release-date.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "34 minutes of high-level Diablo 4 gameplay leaks online"
     excerpt: "Over half an hour of high-level Diablo 4 gameplay was recently streamed online. As first picked up on by Reddit, a stream appeared to air what looked to be Diablo 4 gameplay. Not only this, but the ..."
     publishedDateTime: 2023-03-18T00:05:00Z

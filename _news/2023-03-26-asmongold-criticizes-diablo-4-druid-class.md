@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Asmongold Loses Diablo 4 Beta Character Live on Stream"
-excerpt: "Twitch streamer Asmongold begins his journey into the Diablo 4 early access beta, only to suffer a crash and then lose his character. To Blizzard's credit, it's communicated that there are ongoing ..."
-publishedDateTime: 2023-03-17T14:31:00Z
-originalUrl: "https://gamerant.com/asmongold-loses-diablo-4-beta-character/"
-webUrl: "https://gamerant.com/asmongold-loses-diablo-4-beta-character/"
+title: "Asmongold Criticizes Diablo 4 Druid Class"
+excerpt: "In one of his latest streams, Asmongold shares his opinion on the druid class in Diablo 4, and it's far from a positive review."
+publishedDateTime: 2023-03-26T10:15:00Z
+originalUrl: "https://gamerant.com/asmongold-criticizes-diablo-4-druid-class/"
+webUrl: "https://gamerant.com/asmongold-criticizes-diablo-4-druid-class/"
 type: article
-quality: 127
-heat: -1
-published: false
+quality: 144
+heat: 204
+published: true
 
 provider:
   name: Game Rant
@@ -20,25 +20,26 @@ provider:
 
 topics:
   - Diablo 4
+  - Druid
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/twitch-asmongold-diablo-4-character.jpg"
+  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-druid-art.jpg"
     width: 1800
     height: 900
     isCached: true
 
 related:
-  - title: "Asmongold Criticizes Diablo 4 Druid Class"
-    excerpt: "In one of his latest streams, Asmongold shares his opinion on the druid class in Diablo 4, and it's far from a positive review."
-    publishedDateTime: 2023-03-26T10:15:00Z
-    webUrl: "https://gamerant.com/asmongold-criticizes-diablo-4-druid-class/"
+  - title: "Asmongold Loses Diablo 4 Beta Character Live on Stream"
+    excerpt: "Twitch streamer Asmongold begins his journey into the Diablo 4 early access beta, only to suffer a crash and then lose his character. To Blizzard's credit, it's communicated that there are ongoing ..."
+    publishedDateTime: 2023-03-17T14:31:00Z
+    webUrl: "https://gamerant.com/asmongold-loses-diablo-4-beta-character/"
     type: article
     provider:
       name: Game Rant
       domain: gamerant.com
-    quality: 144
+    quality: 127
     images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-druid-art.jpg"
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/twitch-asmongold-diablo-4-character.jpg"
         width: 1800
         height: 900
         isCached: true
@@ -71,6 +72,6 @@ related:
         height: 900
         isCached: true
 
-secured: "vCeQxpHFauAJAXhn3VXCApHFIKDAiqXcGQtsu8aFvBsgsJ/jSmAQUt5oXBmHkeKsQPgfwBV7uMNpUt1cK98Mur/epm3m1W3GHdFKOcWYa3vQUOxFP/d1KakN2tjTG4enrKgAGMATif7tCkTdAnMsgyoke/e/f64IdqTwBv+z2rzeD4oMn9+bKPQ+u2cCCE+GZOgXrXFsZutmQWpA09URFYBskNFnRChJk3+lkhwvnZ9c7RyO+9mQ10CKysUDyE1ws1n/Uua+LjXjmotjBRGrcN3hkXjNEI+XoDHX1u58pAkSxr524E9FiRRNKi/tE/nEpfi67Q8H87OtpaYKM5Yb9bxgDYERl3jqwynNLszS5+M=;0Mjgun5f87/ArCd1o9pKrQ=="
+secured: "zNrmT+RX+RYcLvZidBmMDrSZjfUNGWUn6rzi/sq9xrb2QghHWNiW6MqMF6XJe8GEsVm4AYmeRD5uH8I9ZjIcPD57nLtC+ET/7JltPYdNa4D4e432loxl21hV8xvMrR09MCvnpo+L3OrI3Q1WKWrwbNWmuhqKkJ0qVn8/iboQDI18EMG+c2ae8Pann42DCc3y4CzJNcXRbEzgj1/YHtuRo28H/jAQEVksDeKeLyiRwOp42pckuYt4ybsQXjPz4CtR5hicmYp7Bmmw0X1KtJmszFcZRcBElC1rkIj3sBYjdvi8fjiu1e4v6cp8g3rBSWx2VvS+Aj3GPlHGuVw3mi7BQcuQmC1dxpVjIaxPuyT6hpE=;JBH4RXaPqBZmMKIEPtuNow=="
 ---
 

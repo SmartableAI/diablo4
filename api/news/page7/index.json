@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-28-diablo-4-wont-have-huge-damage-numbers-praise-lilith.md",
+      "title": "Diablo 4 won’t have huge damage numbers, praise Lilith",
+      "excerpt": "Diablo 3's huge damage numbers left the RPG game's UI feeling horribly cluttered, but Blizzard is changing that coming into Diablo 4 with armoured enemies.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-wont-have-huge-damage-numbers-praise-lilith/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/damage-numbers",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/damage-numbers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-monster-armour.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-diablo-4-open-beta-minimum-pc-requirements-revealed.md",
       "title": "Diablo 4 Open Beta Minimum PC Requirements Revealed",
       "excerpt": "Diablo IV's open beta minimum and recommended PC specifications have been revealed by Blizzard as part of a beta-focused livestream. Note that these are the beta system requirements and not for the ...",
@@ -1041,48 +1083,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "waydong91",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-luxthos-reacts-to-diablo-4-announcement-cinematics-beta-dates.md",
-      "title": "Luxthos Reacts to Diablo 4 Announcement - Cinematics & Beta Dates",
-      "excerpt": "Diablo IV's Early Access Beta and Open Beta are coming soon. Will you play both? Join me live on http://www.twitch.tv/luxthos ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-luxthos-reacts-to-diablo-4-announcement-cinematics-beta-dates/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-19-luxthos-reacts-to-diablo-4-announcement-cinematics-beta-dates/",
-      "originalUrl": "https://youtube.com/watch?v=7bbbh_3ZeDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bbbh_3ZeDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T09:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Luxthos",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

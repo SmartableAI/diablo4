@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4: Secret of the Springs Quest Guide"
 excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
-publishedDateTime: 2023-03-26T01:34:00Z
-originalUrl: "https://www.msn.com/en-nz/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
-webUrl: "https://www.msn.com/en-nz/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+publishedDateTime: 2023-03-26T07:06:00Z
+originalUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
 type: article
 quality: 87
 heat: -1
@@ -67,6 +67,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "DKv6rNxwb8uJ4RUvUFtpefo7rKojfBkoDG7pC0Z7hVhWazU8bv0ro/ro2SDX8GPD3XeoL7myiiANNmMboEk4gmgCRRejGiIsapti8bKts1QPXpfhGoBEEEIXE7R8zS+IfLMfal04DEG+EApnekgMa/8W1ennTjgXnado5zCQJbsNtYxNM5QUYqmJB37ZCFl6ZGUQNSpbFvNYhkhLlLA4MaYkeV4a+hUg7IP9Soxm9hJX+eD1JcLqVrqbCqHs7lemgWf1YuQKGgsKwtDREBJ+J/fsk+4AiTUpWAvDzHZlJE6R4eJhGJFdvLdXbAFk0mQz0yFhvev6R0cXm2EAtXox4Soi8fmXxGrEtn7UuS6O1A0=;9EafHh3efO8+2LyVQ1sRQQ=="
+secured: "72Y/FrwVX4cejKKSAD0120tQHiuadwu3u97tp2T2NfMcPaAzo/i1DHRgRb70TKcWHrTa1jjhh9EHuS7osgZeU/PfPSx2bpOqGjRqZx4LZZEAQKHslvGM0qxFEzkZTTujpHgcBNtMut9aW7p4WR8MCl9rioTUh1tSbhMqpSK1PQAndBgmfbZP6gKwY95vEH+NCIu7xJ/BAEWczZv20923Ot0D+2cxEs7HHorYlXPGi0k5bkpCziEtcUTgZq1PzlozyWbBwWzgh9CzAJfWdYy+5PXgR9mRJYTxlXS6tebuJ+bzBrObClX0KYU/PDRdJV3CVht6DDU8b0xZuMnfiwIhMd4Eu3ddkeS8OgS7S7No2zc=;xK+79m2o8+RTXQ9psz0yEg=="
 ---
 

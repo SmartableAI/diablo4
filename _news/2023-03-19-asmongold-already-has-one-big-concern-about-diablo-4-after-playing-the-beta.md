@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Asmongold Criticizes Diablo 4 Druid Class"
+    excerpt: "In one of his latest streams, Asmongold shares his opinion on the druid class in Diablo 4, and it's far from a positive review."
+    publishedDateTime: 2023-03-26T10:15:00Z
+    webUrl: "https://gamerant.com/asmongold-criticizes-diablo-4-druid-class/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 144
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-druid-art.jpg"
+        width: 1800
+        height: 900
+        isCached: true
   - title: "Asmongold Loses Diablo 4 Beta Character Live on Stream"
     excerpt: "Twitch streamer Asmongold begins his journey into the Diablo 4 early access beta, only to suffer a crash and then lose his character. To Blizzard's credit, it's communicated that there are ongoing ..."
     publishedDateTime: 2023-03-17T14:31:00Z
