@@ -2,6 +2,48 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed.md",
+      "title": "Blizzard's Diablo 4 developers try to put monetisation worries to bed",
+      "excerpt": "Blizzard confirmed that Diablo 4, the game that's not Diablo Immoral (sorry, I meant Immortal), will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S next year. Since this news came to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed/index.json",
+      "webUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
+      "originalUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/Diablo-4_p8rJ9b5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Diablo-4_p8rJ9b5.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-diablo-4-will-be-updated-for-years-after-launch-including-with-story-expansions.md",
       "title": "Diablo 4 Will be Updated for Years After Launch - Including With Story Expansions",
       "excerpt": "Following the release of new gameplay for Diablo 4 at the Xbox Bethesda Game Showcase, franchise lead Rod Fergusson took to Twitter (below) to answer some fan questions regarding ...",
@@ -1069,48 +1111,6 @@
       "provider": {
         "name": "GameInformer",
         "domain": "gameinformer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons.md",
-      "title": "Blizzard Says Diablo 4 Will Have Five Regions With Over 150 Dungeons",
-      "excerpt": "When Blizzard announced Diablo 4 in 2019, not much was known about the game apart from a few concept art, and a couple of teaser trailers here ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-30-blizzard-says-diablo-4-will-have-five-regions-with-over-150-dungeons/index.json",
-      "webUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
-      "originalUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2019/11/diablo-4-4.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/03/diablo-4-five-regions-150-dungeons/amp/",
-      "publishedDateTime": "2022-03-30T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -146,6 +146,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4: Best Class to Play Solo"
+    excerpt: "Of all the classes Blizzard chose to put into Diablo 4, one pulls ahead in its ability to survive as a lone wanderer."
+    publishedDateTime: 2023-03-26T14:25:40Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "brxFxK//QKh5gFqaa6ToK8gJRvt6nA5x+uX10o2EUZB1KROAgeJhiL50hE7FFDdjhS8WHH/1zG7DVakblpBmu4+yoOLV+iqaMYyDuFbYN4Z0J39r3Ivot6L6/xw3UBpg3ECRdMZYxdyro8h6n3uF/3Y8JurUTvgIMsZIIUfi7s1pp6zz3wKWEunmAueIJgwgRWsdQ2s7Tl1KNxd4qd96gXdfADs0SQoBMTFWJJthJn0gbRxHN8DcPJiSHwO/YKHcN/HhqNsdZobNGkt878B8uZBncK+KzLY1h4LJj4FFIheFBUqhpi4RToYmysYCWi8oTl8TYYoCl2UamGuIFHvmcyvfxx8/h7cF4UXw6UzeeZw=;/NQcWmZ8SBaA9/ScaGHREg=="
 ---

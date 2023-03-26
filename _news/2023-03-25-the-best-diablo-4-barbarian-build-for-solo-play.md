@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?am
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
 type: article
 quality: 124
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
     quality: 87
     images:
       - url: "https://assets2.rockpapershotgun.com/Diablo-4-Sorcerer_BI4wyOR.jpg/BROK/thumbnail/1200x630/Diablo-4-Sorcerer_BI4wyOR.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4: Best Class to Play Solo"
+    excerpt: "Of all the classes Blizzard chose to put into Diablo 4, one pulls ahead in its ability to survive as a lone wanderer."
+    publishedDateTime: 2023-03-26T14:25:40Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

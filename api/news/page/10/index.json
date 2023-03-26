@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-16-diablo-4-reveals-battle-pass-price.md",
+      "title": "Diablo 4 Reveals Battle Pass Price",
+      "excerpt": "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last. Blizzard’s Diablo 4 team recently discussed the game's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-reveals-battle-pass-price/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
+      "originalUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-4-ultimate-edition-lilith.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
       "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
       "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely ...",
@@ -1060,48 +1111,6 @@
       "provider": {
         "name": "Dot Esports",
         "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec.md",
-      "title": "Another big Diablo 4 Announcement coming TODAY! (8th Dec)",
-      "excerpt": "Diablo4 #Announcement #News Diablo Tweet mentioned: https://twitter.com/Diablo/status/1600551133755367426/photo/1 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-08-another-big-diablo-4-announcement-coming-today-8th-dec/",
-      "originalUrl": "https://youtube.com/watch?v=Eb2TK5GeT1Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Eb2TK5GeT1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T18:26:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wudijo",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null
