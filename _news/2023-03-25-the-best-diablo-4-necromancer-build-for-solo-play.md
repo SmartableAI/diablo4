@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
-excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
-publishedDateTime: 2023-03-22T09:59:00Z
-originalUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
-webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+title: "The best Diablo 4 Necromancer build for solo play"
+excerpt: "The best Necromancer build in Diablo 4 takes a bit from each of the Necromancer’s unique skill branches. The result is a bone warrior with some powerful blood magic who can summon undead allies and ..."
+publishedDateTime: 2023-03-25T17:15:00Z
+originalUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build"
+webUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build"
+ampWebUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
 type: article
-quality: 104
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Rock Paper Shotgun
-  domain: rockpapershotgun.com
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - Diablo 4
-  - Barbarian
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
-    width: 1200
-    height: 630
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-necromancer_feature.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -105,22 +106,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "The best Diablo 4 Necromancer build for solo play"
-    excerpt: "The best Necromancer build in Diablo 4 takes a bit from each of the Necromancer’s unique skill branches. The result is a bone warrior with some powerful blood magic who can summon undead allies and ..."
-    publishedDateTime: 2023-03-25T17:15:00Z
-    webUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build"
-    ampWebUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-necromancer_feature.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "The best Diablo 4 Necromancer builds"
     excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
     publishedDateTime: 2023-03-25T08:53:00Z
@@ -136,6 +121,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/o_jdalhuDYgFQEcDGbEjYOby5oU=/0x0:1628x870/1400x933/filters:focal(738x173:998x433):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114063/diablo_4_necromancer.0.png"
         width: 1400
         height: 870
+        isCached: true
+  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
+    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 104
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Best Diablo 4 Barbarian Builds"
     excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
@@ -180,6 +179,6 @@ related:
         height: 630
         isCached: true
 
-secured: "riEHHN9Ki8jtuY6Jdc0LD7675cINcCwHSE+U4Y57huV/F5G9TpZ8d2jvfrh3QLtuKfq4qGoWG1UIr5/2Oi1jVDIFUfMpE6hF18CZ/ANt93Sm+oDG5LZW7pwgyALHh7cKe8SvLFzS+vAZMNQz8FkSjUYOWqU2bn47KFvtrn3IfsSMrbplZQwL40CwnfuFKrO4H8TrZLywlEIuVmBemaJ/9kj2IRRCijU2uOQTYOhKtdCX3nOw2rirLfbq5H7ZKSySLAtsD6uCSIQypMFu9xAvYL1DJanzDn3NZlbe3gfgJ/2Zkp/CGJ8K7jehjgCoRcKvwuwCrgHCf6h/CdrolRmKgHgKchK7Cv8l1dhrjgWneNE=;ofYVAw3Ojz6N26iFBwjapg=="
+secured: "TFi+0yd6bJqlIEObKxBsU4PwvVsRzpkAaAElASlFj8kkEb20oHbmlpaTsVI7zQIJK8EMG9I8Ak6MhqYtmFIXTjNsMF3Ujm7CBmmZiNiKwiFH5e3/aj/4bSX8xgphPCb+V2sH1X46uPBoutng3pq84vfGIFyu0NvoDLl4QC5dXojC783lALprRvhEfTlxQyw7M/sdC4YOz96Ft2ONK8li4giT7lazRfAuVr8xE8op4gOI1Op8FhRkruoAgF6phgSiaL390W6bAYZeGk+ZJVG1LevGCUPR/6SDdOfR/Tlf4H7k2k3GegulMxkxY8q8gjzzXF5UJNit0oukHkb70KqfOQxXmqRlO1NFpCh4Zmt/Urc=;71cS1nd3eV2Q1MaWosSyzA=="
 ---
 

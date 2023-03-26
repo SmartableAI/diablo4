@@ -42,6 +42,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The best Diablo 4 Druid build for solo play"
+    excerpt: "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage."
+    publishedDateTime: 2023-03-25T17:00:00Z
+    webUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build"
+    ampWebUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 124
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The best Diablo 4 Druid builds"
     excerpt: "The Druid makes a return in Diablo 4, though remains functionally similar to its Diablo 2 counterpart. Able to shapeshift, use elemental magic, and summon minions, the Druid is a jack of all trades."
     publishedDateTime: 2023-03-25T08:45:00Z
@@ -73,6 +89,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/s6AFEIYyBaRJ0Y3zNF1NJsUvh_c=/0x0:2134x1189/1400x933/filters:focal(897x425:1237x765):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110656/diablo_4_sorcerer.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "The best Diablo 4 Necromancer build for solo play"
+    excerpt: "The best Necromancer build in Diablo 4 takes a bit from each of the Necromancer’s unique skill branches. The result is a bone warrior with some powerful blood magic who can summon undead allies and ..."
+    publishedDateTime: 2023-03-25T17:15:00Z
+    webUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build"
+    ampWebUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-necromancer_feature.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "The best Diablo 4 Necromancer builds"
     excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."

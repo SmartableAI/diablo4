@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
-excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
-publishedDateTime: 2023-03-22T09:59:00Z
-originalUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
-webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+title: "The best Diablo 4 Druid build for solo play"
+excerpt: "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage."
+publishedDateTime: 2023-03-25T17:00:00Z
+originalUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build"
+webUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build"
+ampWebUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
 type: article
-quality: 104
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Rock Paper Shotgun
-  domain: rockpapershotgun.com
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - Diablo 4
-  - Barbarian
+  - Druid
 
 images:
-  - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
-    width: 1200
-    height: 630
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -38,22 +40,6 @@ related:
     quality: 124
     images:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-barbarian-build_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The best Diablo 4 Druid build for solo play"
-    excerpt: "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage."
-    publishedDateTime: 2023-03-25T17:00:00Z
-    webUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build"
-    ampWebUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 124
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -137,6 +123,20 @@ related:
         width: 1400
         height: 870
         isCached: true
+  - title: "Best Diablo 4 Barbarian build: Best skills for the Barbarian"
+    excerpt: "In this guide, we break down the best Diablo 4 Barbarian build, covering which skills you need to take for the Whirlwind Barbarian. We'll also cover the attack pattern for this build, so that you can ..."
+    publishedDateTime: 2023-03-22T09:59:00Z
+    webUrl: "https://www.rockpapershotgun.com/diablo-4-barbarian-build"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 104
+    images:
+      - url: "https://assets2.rockpapershotgun.com/Diablo-4-Barbarian-build.jpg/BROK/thumbnail/1200x630/Diablo-4-Barbarian-build.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Best Diablo 4 Barbarian Builds"
     excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
     publishedDateTime: 2023-03-22T08:52:00Z
@@ -180,6 +180,6 @@ related:
         height: 630
         isCached: true
 
-secured: "riEHHN9Ki8jtuY6Jdc0LD7675cINcCwHSE+U4Y57huV/F5G9TpZ8d2jvfrh3QLtuKfq4qGoWG1UIr5/2Oi1jVDIFUfMpE6hF18CZ/ANt93Sm+oDG5LZW7pwgyALHh7cKe8SvLFzS+vAZMNQz8FkSjUYOWqU2bn47KFvtrn3IfsSMrbplZQwL40CwnfuFKrO4H8TrZLywlEIuVmBemaJ/9kj2IRRCijU2uOQTYOhKtdCX3nOw2rirLfbq5H7ZKSySLAtsD6uCSIQypMFu9xAvYL1DJanzDn3NZlbe3gfgJ/2Zkp/CGJ8K7jehjgCoRcKvwuwCrgHCf6h/CdrolRmKgHgKchK7Cv8l1dhrjgWneNE=;ofYVAw3Ojz6N26iFBwjapg=="
+secured: "t5MWx6SYJBlZvL3pP5LB0OOrzenk1cL6MLkhYHwCYT5OPXDFTRG1qj5IMDzQWNH3bz2BcEyGT3ZPG6u58RB17ueDvLZ1svOTlrGOIk7Dx2aCgDPv4w9fP6S+ppzlY+vmYXc7N8Ep7L4TTyuE/kBtCWFEYUDekSqO+GPJhomnEgah6VEM4bsdwD92pB+qqIXC8dYX52mYPO69eTmwlrED5q/A6cH0LE+xbRXt1oZytNsO+4tsBCuW/07iDavkXlB+jukSzIFB3JMmAWP6Er4+Wlck4XJPuidP4LE1nscFFOCYNDkAxFkIxibia3mB5apJnppNrXQZiJ37MUI7nm7LUQsk9qM99mIDWQfiZJOx8Ys=;vfqwT77nBSR+eyy349jZJw=="
 ---
 

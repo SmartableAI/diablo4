@@ -1,26 +1,33 @@
 ---
 category: news
-title: "Diablo 4: Secret of the Springs Quest Guide"
-excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
-publishedDateTime: 2023-03-25T03:39:00Z
-originalUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
-webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+title: "Diablo 4 - Druid Talents Guide"
+excerpt: "GameSpot may get a commission from retail offers. So far in the Diablo 4 beta, the Druid has been a bit underwhelming for most players. While most find the Druid's skills enjoyable from strictly an ..."
+publishedDateTime: 2023-03-25T16:22:00Z
+originalUrl: "https://www.gamespot.com/articles/diablo-4-druid-talents-guide/1100-6512711/"
+webUrl: "https://www.gamespot.com/articles/diablo-4-druid-talents-guide/1100-6512711/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
 type: article
-quality: 87
+quality: 164
 heat: -1
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: GameSpot
+  domain: gamespot.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
+  - Druid
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
-    width: 1200
-    height: 630
+  - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -69,22 +76,6 @@ related:
     quality: 164
     images:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4 - Druid Talents Guide"
-    excerpt: "GameSpot may get a commission from retail offers. So far in the Diablo 4 beta, the Druid has been a bit underwhelming for most players. While most find the Druid's skills enjoyable from strictly an ..."
-    publishedDateTime: 2023-03-25T16:22:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-talents-guide/1100-6512711/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 164
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
         width: 640
         height: 360
         isCached: true
@@ -148,7 +139,21 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "Diablo 4: Secret of the Springs Quest Guide"
+    excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
+    publishedDateTime: 2023-03-25T03:39:00Z
+    webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "ME2lWsPZL/FkS5g3qBnLWmwvWr6ALjpnF1rS8aSjtttB3B3TJUcXPGrP7waX2oZoCrshnH0gvPrr4cyuhi6UnPBlRUKA0miQlaNNMWVJ/21gGnd9zztLBAGG/W6AGO2QMnJcc2XwiKFGikNL/SV5rGCtHoEVAQTTIPIX0KVBk46PNbpPsjZMRnyJiQTGFLZ5dNVwpuACsl8sYG+sSvRKfmpwypz+UY80D8ChyHuzTzdZ31Qj2hiKySarfEAfsE3JBeEkSf5aAaq2pZ1XBajddLtpanGrjzClJCfCfadmlHk7u52rjeovtAJtElf9zj70VkeadfBiA8QSnv5X/R+Uxf5RLfrgcOyjHGjJ4ihqZk4=;TXeOQ5UQLugttVVRrFGSqQ=="
+secured: "NhMBnRAasXNKG8TFapkjU9116mAFe+w3vkk53TKRQ7KluPmet5GXGblOD0q/GyePUC/OVtpGuKQGIbcy7QY05uQxG76w+m671l1mmxdf+/n5GueJg4C9GX8Wr+b2GVUwQx4rzzFStZy+QlPsQlrZtrC5yZG7aXmLeL2d5JPf8eU8b+sTwcWJeFyqUpijzTEyqf2Q0w4Wi69zzRO6zO/qU0XbIuh6sf5A6m7xvN0YxChA2u8eazf610s0OVS9KBPuPTV5WMYxWxEo1dwYT95WbALUhlPwSuT6Lai7L7VWWD2S8O7vGVln9pY28lBlLPJW3xOOqA4UHOAybvj60Mh47WmAp42zDnRUYUPnaRjegw4=;kZk7F1X4eBm1VWQr7m+LUw=="
 ---
 

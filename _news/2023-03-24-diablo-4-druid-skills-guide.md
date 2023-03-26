@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/11
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/"
 type: article
 quality: 164
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Diablo 4 - Druid Talents Guide"
+    excerpt: "GameSpot may get a commission from retail offers. So far in the Diablo 4 beta, the Druid has been a bit underwhelming for most players. While most find the Druid's skills enjoyable from strictly an ..."
+    publishedDateTime: 2023-03-25T16:22:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-talents-guide/1100-6512711/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 164
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg"
         width: 640
         height: 360
         isCached: true
