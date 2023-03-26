@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Diablo 4 Players Demand Proper White Hair Options"
-excerpt: "Diablo 4 players voice their criticism toward the game's character customization options, especially when it comes to hair colors. Diablo 4 players would like to have better options for white hair."
-publishedDateTime: 2023-03-25T12:11:00Z
-originalUrl: "https://gamerant.com/diablo-4-white-hair-off/"
-webUrl: "https://gamerant.com/diablo-4-white-hair-off/"
+excerpt: "Diablo 4 players would like to have better options for white hair. Fans have the opportunity to experience Diablo 4 during its ongoing open beta weekend. Some participants think the game is lacking ..."
+publishedDateTime: 2023-03-25T19:32:00Z
+originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-players-demand-proper-white-hair-options/ar-AA194z5J"
+webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-players-demand-proper-white-hair-options/ar-AA194z5J"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-necromancer-1.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194Df4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "+Qwg7EPSt2umP59p8PQxRphmwGYXY3OQghhzMwKPXaT9m45oiz3zgKO9K9ZfoQBqDeaHhc/dLX1Jq4xzer8IyWnEt3LddB5XpeNT0y0EO4Ii1HJh1hN2AzkAQ5OBwbexoB6oe4Kh/bZBxaQjxVdsHTviW1MM8IduW2Z/CrZrllJYctFOVKH6AKdxs97fSZiX29jAhhHpRHLe9NHfjscNob2kXZ9IrDOBBahJRMJdN5QiKGRkFjxHvrKaI6au6vDyh/m0VVRQJ2MXNfMkXBnD/IFJEcBfeU68ydTzmPnYkWF9ibGObPY1hsIrgVow3lE+ypchVhwCvtpfmICA0GqKZLzO6S7xAH71NKPYXiyDAyE=;rWpOR83R3iDwcE/PwA4qIQ=="
+secured: "g5LOlnZHsyy1oRKpI/60gNw9XmfDN2ENwzgt5UJTkIAxORTFnV+jsXatUEv/tFjA7buuQMh9IYmz03i4lNACkd91t1fIbfgDXM8Ax4ATCFpJyvIHjwaVWXTsEGVZ8mZkjtVt1GUTPbRUTtjr7C2V+hu/CVwhGs/0tHIZu++ujumLlMOp2BbyZPYtbjcuPQh8h/pMBaqv57JBKfEcsFfvSXHKl5CR+9MQJCKLvp0tKAzp6r45wWTzay4Spm4J3u1ISWC4H+qC2ab7a+zvo9nsFw3qz+TrdCHSBylUeMpGA8iI/z3XvttLAtkFCRbp8W3tc729GeG/3boqqoOxJqWGIrf476x33+ilMUheIUeSmhc=;hY2niGMKTPpyCuN203Ak9g=="
 ---
 

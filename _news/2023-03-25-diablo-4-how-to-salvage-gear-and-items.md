@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4: How to salvage gear and items"
-excerpt: "Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested world of Sanctuary. However, while some of these may be ..."
-publishedDateTime: 2023-03-25T14:57:00Z
-originalUrl: "https://www.windowscentral.com/gaming/diablo-4-how-to-salvage-gear-and-items"
-webUrl: "https://www.windowscentral.com/gaming/diablo-4-how-to-salvage-gear-and-items"
+excerpt: "Why not turn those junk items into useful materials? Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested ..."
+publishedDateTime: 2023-03-25T18:51:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Windows Central on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/cUmCfWcD5T6iqwiG5tTmK7-1200-80.png"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194BLz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ngWZ41U9e+qb14gVu/+ju3XsadhM+H6XQR9NMf8EOpFlYwipjp9VMDyXtTY7RKLcwVTw8I/8dtRz9CARU6BnP0B9c0mLgPb+LjwfkFFWcSm9FSNZkpF5lg8umIFHHRKLa5kyk2MOJZOsa9OZi0ZDlgerNtCojffoqljZLFIao4B4x4O8FwSOYaeQqzbRwSYWIK4DUQNFe/4Q5zcUXyUSYLsQcaIKNvqC6u9Jmd9ZZVA4LGRbt2lsPAzR7+FGIiCY7vmkAzZodMAla/ZTVoz341yrcWe36xHPFjwGuvdzA233swoz1wEQD1nmEXWmx72PiUm1ZS3JvLJjzP4Z8cG//wQNH/fwmgh2wFzOIB4OTI8=;W0A8K/H9zZSBax8wjHFJcw=="
+secured: "nzMCB+ogr2pJS5XPbvc6QD7eZXozx7KUU1OS94RG/fWEtudTqzLzqPm3iqnyC2N2THxKpqHXcuXzisnAyDR0WvHKpihenCqSjx5OgQD5Ot2rFqXsBijVGYN/+RxPMjX08L41UpfgpOBd7GlaPC4muh3oopVunVWeWOZzPts7fM7+P4pr6CrPqjQUZNKEBpmQQMqsLkDx75Kq9zDRPhgdBXtrPhGNSJS2TrQy5jQwNUxqWU8/eHo8WtE8ROjYF2V9Tn9FocFdUOVE1avdUSrycD9yDCJ/Kglx1BnP+PAfesN0eFQCrTUGaY9zLXgFC6A4Cx5wOI9igffA3o42172KAiSyAJe/NwFYBsQyo0kItjI=;MURPWNad08Wx0P5AKeK7eg=="
 ---
 

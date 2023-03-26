@@ -3,7 +3,7 @@ title: "Diablo 4 Necromancer Gameplay Today! Druid Gameplay After? World Boss To
 excerpt: "Today in Diablo 4 we're checking out the Necromancer class! After we'll quickly check out the Druid class as well! We'll try running ..."
 originalUrl: https://youtube.com/watch?v=l7ZkohW-iXA
 type: video
-length: P0D
+length: PT5H10M18S
 publishedDateTime: 2023-03-24T13:39:23Z
 heat: 
 
@@ -17,6 +17,6 @@ topics:
   - Diablo 4
   - Druid
 
-secured: "Sho+SPhYnHo2m6154SDDqRsLzK0eHIQPwwqdLmBg5+2yYGec04+WDedUKgbOcI86BKDkVs15wdsCtKRxDSZ877TXH+XH58CO05l3ut71jfjX0geqHBhAg21dTdvuvgvBuTyoDsy23GmUKx9ZPfSifX1B4NvgeCC6vNzXZpRuin41KUIfd7v9bbJMdjsPypectav2TgCcWlhAHl9VJC+iVhMhqZHqflvb+zfvTnZL+6jBn3lbCIhtA9S305XlEQw0R4Fadql4/qbVcmIace/GBd+FOiURQvDF70iir9QAfuCk0PuzInLG/EXDJVUjg4OHX7IbYpU5z+N+g9xwqv4QGqHRK60XElVHbD90zSiwq4Q3F9DSuRNTduEyOJOK7QQe1ihgJYeM/De7qjTHAIcmCg==;+niHV3FQzIYS4xeFT1Klcg=="
+secured: "fwpcL08kPGxG99cTFi62/CM6ePYF8k/DKZSupKmyRzqn3zWbKH78XEx8CNLw++g1iIyIH+6Jh2f9VOUeqd0IrvxZ5p/VdTSJAYuFqFrNCgGxtemtSMGmfxSDz3g0Y4N7tswbsyRJgApieilqNH6x80d9JgA1V4ZGO6dTo7Kn+f6579rauqlha+ZWKd+/8h+SjIhCZekem+vCT+GmRW/vH46MQReDwujH39VdQ9SCIqgnxFyTmfiRqvEDs+Cfl4jcZRx6m6abneOX9mWPcZLbzgEbPcHb8/IjzAadwq98tTCSiHe+r0gIap7hWL52//DTN/6KuGzg5omadAuTB/1RTOI2v+kGx90PsIFx/KhJ6GaVz3ZZjv+Gzo71258n3GmqKuwN0SwCZtioBGUc2gStRiFRlGaohodlWecPDzTgfLg=;LaSQWsGPhUIGPKbZGdmXoA=="
 ---
 

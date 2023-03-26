@@ -57,18 +57,18 @@ related:
         height: 900
         isCached: true
   - title: "Diablo 4: How to salvage gear and items"
-    excerpt: "Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested world of Sanctuary. However, while some of these may be ..."
-    publishedDateTime: 2023-03-25T14:57:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-how-to-salvage-gear-and-items"
+    excerpt: "Why not turn those junk items into useful materials? Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested ..."
+    publishedDateTime: 2023-03-25T18:51:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Windows Central on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cUmCfWcD5T6iqwiG5tTmK7-1200-80.png"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194BLz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "09tTvhKiQpYaMjrdsoYOmw0/C/NF/6Imh5vdpirkuZCu3IxkjPBJXYjejSJMyY3nQrEGpOTx6WcBkrWkUB1WuYjq/J7ukbOnV/m9KkzssiNCkA/bcYx3y3p5D0O/JOr4tnvkzTmz2I8OjLiojKdjK2SJupuKuE2bXNyujyeBNwTOVr58rrIPHJkiX/GyiQZvDmAcX1o+cTHNVstuXNePx8sojbG8nvWzvyziU5d9kVrfvV6wD14ScYJ6emjuUhNeXFyji4Y5IBZ1gAUuopIt7ZPLAvCjTnp+6dcx79FEALGWK2/2kS9OQZyYW/4arCowk8zm5wivgDecddUpcdkUZi021PWSNKkNUsnTyslyA54=;I5la91neo0pJZyGZqMuFxw=="
