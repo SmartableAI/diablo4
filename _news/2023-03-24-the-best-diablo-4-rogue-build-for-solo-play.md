@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Beta: Best Rogue Build"
+    excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
+    publishedDateTime: 2023-03-26T08:13:00Z
+    webUrl: "https://www.msn.com/en-in/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qBZMHH4ImjDPHBmfzSdfSwtQ3Sq/6jWUB4A5Yt7g2u5fEfrghSHP8c7DFSujovwlh63FLojuQ/w04Psu8A8iDHXefR3az9cxbJg4MpcehVMMRnE0a4T5q4ZE90lZIAhWTiG3hmsP5U4EeZzOkWT7pyK4w9jqkNySY8RT9+3LEK5VNJhujtz+1yjii6QdVEI+h6/HRwxnDGxrdiZwL78kKuPACwxHqT4PzBVrD9hU6AKsZ/GZK5EBSBdkIjCBJmMtR/rXaz6JPg4TDqwrhTraHjGGwlF8yjFVPXZVWbWI0fjNQgZw/ZYYSB8QqmPgJZJNgORy1TEzI+Hq70QrSPos5s87QF/Hf4wxY8FC2nBbifY=;nrL/XKDFn9ngnhHszBdGaQ=="
 ---
