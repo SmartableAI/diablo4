@@ -42,6 +42,20 @@ related:
         width: 1800
         height: 900
         isCached: true
+  - title: "Diablo 4 Player (Basically) Solos World Boss Ashava"
+    excerpt: "It's too dangerous to face World Bosses in Diablo 4 alone, but not for wudjio. The Twitch streamer and YouTuber managed to solo Ashava in Hardcore Mode — not once but twice. The content creator shared ..."
+    publishedDateTime: 2023-03-27T13:15:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-player-basically-solos-world-boss-ashava"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/03/22/diablo4-ashava-blogroll-1679520346687.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2rtxfV5Q8VfodQv1B+ytadFJ0pzc4hC3Y9ylvGUXSz1HYPtW54pb7DiU+k3YtgAWJJ3Jq4uqztbtdtruq9dz7iYjow0a1ByfksXY+QLmTHj+ZwRevW+lwH+S0B59Z+aKJeGT+iWehSK9o/Ix7S12jm8ZnjGY+iKTWis0HVlNPeeZYX8MAu88oEGX1kg3LWvUUJILoCjRjwk3CRb0e0GhW8VUGvAO89iR4hOmF9tli2JBXJppqL7M9Haf5UkNQ8TNei27mOaORJEKCWLf7T/b15t4PZoHmooMuZQ9oXleSrQahBRCYLUBd21/ucYsS2qDRoPG4EtV8IhhkdD8MlEMOmIQwga0/4wW3TSzuyU2U28=;q/TNpnSy99ynOJjjNz1ErA=="
 ---

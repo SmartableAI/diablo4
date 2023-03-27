@@ -7,7 +7,7 @@ originalUrl: "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-bos
 webUrl: "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/"
 type: article
 quality: 127
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-defeated-feature.jpg"
         width: 1800
         height: 900
+        isCached: true
+  - title: "Diablo 4 Player (Basically) Solos World Boss Ashava"
+    excerpt: "It's too dangerous to face World Bosses in Diablo 4 alone, but not for wudjio. The Twitch streamer and YouTuber managed to solo Ashava in Hardcore Mode — not once but twice. The content creator shared ..."
+    publishedDateTime: 2023-03-27T13:15:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-player-basically-solos-world-boss-ashava"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/03/22/diablo4-ashava-blogroll-1679520346687.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "TcrpL+J09P63dO2Ak7WOk4bNjcqUR7hvNAjPYdLzuieWyBwT7JUMGY0EHlmzpRGlFsnTf9w21tHBkI+8idUDoeC/uk6G7l0+dFJNjpc0/ZqHHuAGfKUQvXrqEsV2Rfl0g+Zm8IOWCZP+suIFz8IWuSAzimD1nKYvzS0sSU1aXU5a+KI+p1eXqp3N0GjzPYDFnL7G8UbyzON7iUc092vLS3/Lips883MLkEHKMZ/XFu7lblzdfxNf/1DRO1oZvbFNKqlPwp1HJ1R3b9VcjleKnsYSWjkBkqxlkBUEbSZolkX0Tm2ooBDpwufz0RawF5liRiUr1H+po8JB/m72Mc7svKrFO9fYNxPmCeX2ugr3FAc=;LWf8Zu8LVmej9wn5PTtUQg=="
