@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4: Secret of the Springs Quest Guide"
+    excerpt: "Diablo 4 is in beta for this weekend, and players all over the world will be logging in to try their hand at this isometric action RPG ahead of its release. While the beta only allows players to get ..."
+    publishedDateTime: 2023-03-27T00:58:00Z
+    webUrl: "https://www.msn.com/fr-fr/divertissement/jeux-video/diablo-4-secret-of-the-springs-quest-guide/ar-AA193iBm"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA193elo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=684&y=67"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xu4xhauMDbqwV0sZwpj75FqwdqHOV3FBODXfTgoAFrHCc70Zumx0ep9GFG7YvPspScKrBBKusExHO002lNtF4A0t6QaDijL1kGsNUohzFbB/pIR7DKljB4pUVBzFeWyPEZOszyPQJES8UPa965CH8tkrs+vMe2vRDCMcX6yxBOPmkTG55DHjQ3614KbaizZ+qw7CPSNJqq6XxVivUvdCaLhuFFsN5Lpu90tx1POYlMWti5e1lZ43OOC1pJYvnnR6B185yQGBKgelRaxGCryKN3cfk8V15p7/RGjdUFW9/dn6UL7jB9ZAuUUrFk22hgWSUgso88MpKEPSURcje3wqumflk/WN0wtPlE6i2O31emI=;aMs2QapJO0HVSn5pH9vaGw=="
 ---
