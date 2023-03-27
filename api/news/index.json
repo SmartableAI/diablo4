@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-27-diablo-4-beta-reception-and-reactions-player-reviews-are-mixed.md",
-      "title": "Diablo 4 Beta Reception and Reactions: Player Reviews are Mixed",
-      "excerpt": "The Diablo 4 beta is nearly over, but player reception is mixed, with many initial player reviews stating numerous issues with their time with the game. However, given that there’s still plenty of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-beta-reception-and-reactions-player-reviews-are-mixed/index.json",
-      "webUrl": "https://www.msn.com/en-ca/entertainment/other/diablo-4-beta-reception-and-reactions-player-reviews-are-mixed/ar-AA197FvE",
-      "originalUrl": "https://www.msn.com/en-ca/entertainment/other/diablo-4-beta-reception-and-reactions-player-reviews-are-mixed/ar-AA197FvE",
+      "path": "_news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4.md",
+      "title": "I Had To Complete Every World Event In Diablo 4",
+      "excerpt": "And so I had. I'd encountered world events before, but this was a special kind of world event. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Despite being a solo player, I was ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4/index.json",
+      "webUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
+      "originalUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA197v2V.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/public-quests-3.jpg",
+          "width": 2000,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T22:29:00-07:00",
+      "publishedDateTime": "2023-03-27T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,6 +41,59 @@
       ],
       "topics": [
         "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch.md",
+      "title": "Does ‘Diablo 4’ Need To Buff Barbarian And Druid For Launch?",
+      "excerpt": "Diablo 4 beta players got to experience all five launch classes thanks to a pair of beta weekends, the second of which is about to wrap up just a few hours after I’m writing this.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
+      "publishedDateTime": "2023-03-26T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
       ]
     },
     {
@@ -128,6 +181,48 @@
       ]
     },
     {
+      "path": "_news/2023-03-27-diablo-4-beta-reception-and-reactions-player-reviews-are-mixed.md",
+      "title": "Diablo 4 Beta Reception and Reactions: Player Reviews are Mixed",
+      "excerpt": "There's a lot to consider The post Diablo 4 Beta Reception and Reactions: Player Reviews are Mixed appeared first on GameRevolution.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-beta-reception-and-reactions-player-reviews-are-mixed/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-reception-and-reactions-player-reviews-are-mixed/ar-AA197FvE",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-reception-and-reactions-player-reviews-are-mixed/ar-AA197FvE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA197v2V.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T20:22:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRevolution on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-diablo-4s-world-boss-is-already-being-soloed-by-open-beta-players-on-hardcore.md",
       "title": "Diablo 4's world boss is already being soloed by open beta players - on hardcore",
       "excerpt": "The titanic Diablo 4 world boss from the open beta is already being soloed – and on hardcore to boot. So far, we've seen two players achieve the feat who have posted videos online to prove it. Diablo ...",
@@ -152,7 +247,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T20:30:00-07:00",
+      "publishedDateTime": "2023-03-26T20:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GamesRadar+",
@@ -626,7 +721,7 @@
       "originalUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1002,100 +1097,6 @@
       "provider": {
         "name": "DualShockers",
         "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-diablo-4-druid-skills-guide.md",
-      "title": "Diablo 4 - Druid Skills Guide",
-      "excerpt": "The Druid has finally been unlocked in the Diablo 4 beta after being locked for the first weekend. Now, all players have access to the shape-shifting class, which has not been available in the series ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-druid-skills-guide/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-druid-skills-guide/1100-6512695/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-druid-skills-guide/1100-6512695/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/",
-      "publishedDateTime": "2023-03-24T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-which-class-should-you-choose-in-diablo-4.md",
-      "title": "Which class should you choose in Diablo 4?",
-      "excerpt": "Barbarians in Diablo 4 are fierce warriors that leap into the fray. Their main mechanic is the Weapon Arsenal, which allows them to hold four weapons at once. Some of their abilities will require you ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-which-class-should-you-choose-in-diablo-4/index.json",
-      "webUrl": "https://www.polygon.com/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer",
-      "originalUrl": "https://www.polygon.com/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/k3ppZ1mza-vKUuErvZIeYnLNOLk=/0x0:3420x1924/1400x933/filters:focal(1437x689:1983x1235):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72111362/characters.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.polygon.com/platform/amp/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer",
-      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer",
-      "publishedDateTime": "2023-03-24T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon",
-        "domain": "polygon.com",
         "images": null,
         "publishers": null,
         "authors": null

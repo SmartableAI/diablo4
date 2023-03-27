@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Diablo 4 Barbarian Builds"
-    excerpt: "Thanks to the Diablo 4 beta, we’ve had a good look at the Barbarian class and spent several hours testing out their skills to a high level. Out of all the classes in the game, the Barbarian is the ..."
-    publishedDateTime: 2023-03-22T08:52:00Z
-    webUrl: "https://www.dexerto.com/diablo/best-diablo-4-barbarian-builds-2093102/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 104
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Best Diablo 4 Sorcerer build: Best skills for the Sorcerer"
     excerpt: "Our Lightning Sorcerer build will send shockwaves through your enemies and generate Crackling Energy, which you can collect to deal even more damage."
     publishedDateTime: 2023-03-22T09:59:00Z
