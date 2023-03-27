@@ -2,6 +2,141 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while.md",
+      "title": "Diablo 4 gives players the chance to \"not pursue the story for a while\"",
+      "excerpt": "Blizzard may be refreshing Diablo's formula by introducing an open world in Diablo 4 (opens in new tab) that \"allows for non-linearity\", but according to general manager Rod Fergusson, that doesn ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-12T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story.md",
+      "title": "‘Diablo 4’ will offer players freedom from the main story",
+      "excerpt": "In a recent IGN interview, Diablo 4 director Joe Shely and general manager Rod Fergusson dived into the open world and discussed what players can expect from the upcoming sequel. Fergusson explains ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story/index.json",
+      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
+      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/09/Diablo-4-2000x1270-1.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
+      "title": "Diablo 4 dev says players 'want open world and free choice, but they also want to be told where to go'",
+      "excerpt": "We wanted to have a beginning, middle, and end. We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SfgGMU4muotXvyBY9XU49X-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T19:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest.md",
       "title": "Diablo 4’s open world lets you walk away from its main quest",
       "excerpt": "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ...",
@@ -931,132 +1066,6 @@
       "provider": {
         "name": "Push Square",
         "domain": "pushsquare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours.md",
-      "title": "Diablo 4 Wants You To Play Its Endgame For \"Thousands Of Hours\"",
-      "excerpt": "Diablo 4 is going to be different from Diablo 3 in a number of very important ways, but perhaps most important is the vast amount of testing that’s going into Diablo 4 at every level. And, for the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KdM6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=537&y=158",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay.md",
-      "title": "Diablo 4 endgame is designed to offer \"thousands of hours\" of gameplay",
-      "excerpt": "Diablo 4 players can look forward to a game that just keeps on giving, with the game's general manager Rod Fergusson saying that there will be \"thousands of hours\" of fun to be had. Fergusson was ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup.md",
-      "title": "According to this senior Diablo 4 dev, making a good endgame is just like making soup",
-      "excerpt": "Last month, select players were chosen to take part in a closed beta focused on Diablo 4's endgame content. In an interview with IGN (opens in new tab), Ferguson describes how the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/news/according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/ar-AA13KdGP",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/news/according-to-this-senior-diablo-4-dev-making-a-good-endgame-is-just-like-making-soup/ar-AA13KdGP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KaNM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T00:36:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
