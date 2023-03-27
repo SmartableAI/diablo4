@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue"
+    excerpt: "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue."
+    publishedDateTime: 2023-03-26T18:07:00Z
+    webUrl: "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 75
+    images:
+      - url: "https://dotesports.com/wp-content/uploads/2023/03/diablo-necromancer.jpg?resize=768,432"
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "jZAisDFRV2yFwl7gIDZFmY1lc6+F6Sut5XQy+crMdgPSEgVFt+ah4FYsD+RHJmpVT/5qX6vazYb0SIin0vrSrkxZjvhkR2yzTKZ72UfRWnHj5L28FxebOtI/NwPF2hafqcmCNE65gBDzTBax5PoTTl/hyZ88CKNNBKvrytGNtl2XjuPW1L7E9LbUBtp8iq08mE489Ambl6xXzA9tGcdNz8hWVZnqj/q9az72FYQhKz4Fh8qkTESxuv4GsOi5qkRgViKanKUlS1bOnDxt6FbIaU0O5EaYpsowjb3k9xTuRLeraiG/mFn1bfGtik1rSQhsL/xtul0gvvfKbEpkLBf1BLXcKOGKHDrvjYGpJ2NN5oE=;l84P5O1t9dkMv55KnetWhQ=="
 ---

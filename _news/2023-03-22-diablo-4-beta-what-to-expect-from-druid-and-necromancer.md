@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid"
 webUrl: "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/HyXkW5kwCFqDry6piLRy7Z-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue"
+    excerpt: "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue."
+    publishedDateTime: 2023-03-26T18:07:00Z
+    webUrl: "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 75
+    images:
+      - url: "https://dotesports.com/wp-content/uploads/2023/03/diablo-necromancer.jpg?resize=768,432"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "qk12JiG2BbTZMUzQXgEjYJpVal/MRbx6xhbufETHHLsTToUVRc/rfmZixEU9FGDhfA2g7b4h5xjoQArY7IWSzwLMsJJHkNa0dmPVqCiMmUiEEcKqEhhNYFVAt5p5IE0CIm1pkZ7zASCCfrNqRGuQQk+fKQ91X7EnhXiNLu7HDAXPM8l6N0C76G0sM8BFLGsE5pqEyR3xX1AYRTsq9HuD27k2/KIFEwEOlDNBuVpLua833fTXfrcAZKwtu9Wqvuqtnh871Umc/0vIq/Y6ghmkmRogernfo3oA1TAxE0U8MvjDlI8dLyN21TpCFVMmGfbaKoWC3Q1JUv2Tnv+yGTB8XcnZEk9O+Q1PvCNOMko7fA8=;0fhmA8XsJ/7P6HAj9UcF6w=="
