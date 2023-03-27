@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?am
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
 type: article
 quality: 124
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
     type: article
     provider:
       name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4: Best Class to Play Solo"
+    excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."
+    publishedDateTime: 2023-03-27T02:46:00Z
+    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+    type: article
+    provider:
+      name: MSN
       domain: msn.com
     quality: 87
     images:

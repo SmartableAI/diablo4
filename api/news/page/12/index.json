@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest.md",
+      "title": "Diablo 4’s open world lets you walk away from its main quest",
+      "excerpt": "Blizzard developers Joe Shely and Rod Fergusson talk about the Diablo 4 open world and Renown, explaining how the fantasy RPG game’s campaign structure works ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-diablo-4s-open-world-lets-you-walk-away-from-its-main-quest/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/open-world-renown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-open-world-main-quest-blizzard-rpg-interview-rogue.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-how-diablo-4s-world-tiers-change-the-series-difficulty-options.md",
       "title": "How Diablo 4's World Tiers Change The Series' Difficulty Options",
       "excerpt": "\"Diablo\" is a linear, progression-based series. However, that's about to change. Here's how Diablo 4's World Tiers change the series' difficulty options.",
@@ -1014,48 +1056,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-diablo-4-closed-beta-ending-soon-public-testing-starting-next-year.md",
-      "title": "Diablo 4 Closed Beta Ending Soon, Public Testing Starting Next Year",
-      "excerpt": "Blizzard provides the end date for the Diablo 4 closed beta, which has been running smoothly for the past two weeks with a focus on endgame content.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-03-diablo-4-closed-beta-ending-soon-public-testing-starting-next-year/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-closed-beta-ending-soon-public-testing-starting-next-year/ar-AA13Isqv",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-closed-beta-ending-soon-public-testing-starting-next-year/ar-AA13Isqv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13I05Z.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T08:36:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,

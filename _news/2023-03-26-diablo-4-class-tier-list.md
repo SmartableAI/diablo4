@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Diablo 4: Class Tier List"
-excerpt: "Thus far, most of the discourse around Diablo 4 has centered on the classes. Check out this Tier List to see which ones came out on top."
-publishedDateTime: 2023-03-26T16:52:44Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-class-tier-list/ar-AA196kGQ"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-class-tier-list/ar-AA196kGQ"
+excerpt: "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ..."
+publishedDateTime: 2023-03-26T17:30:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ"
+webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
+  name: MSN
   domain: msn.com
 
 topics:
@@ -53,6 +53,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DWTkAgwQA5ne8b3yhBxV1sg0CUm5nJwe3P0GziGlEfc1jQM38zBpcnGEYCFfBpYHE0hJFCno5j/KefamL2C3QoljoZfcwa4dMLlGdY75XZvLim3Px/ta6cvevRsTgIailUgrCm2BmItLn/861McP4U/w7Qoo/Y0NeNKGTBDhO5EVmWxX1P5XQyDJ2LTQaFp7V1rOR0RuCl5jes+hPvOBE5BqdzgNeynt55RSjkR3USHTH1fvTlPBYFrvhlbiBGbGle6OAILBV7OEuIMEiX0sJOv+lBTiZQroH8tqVZrrCdoMNCvdvBygTWyUvZjUrxERjr3kR6pwoQMQHIwciOXdqBBPfySvapgiHU5QHlac8qA=;IE1CQI0ltZacPxud65qwqQ=="
+secured: "JXbPktl6eNs4QGSiP4mPJnqxDIQlbeaUYjb76VpJsUiPkOCO4NPMPbkVA5WoFdnjnD78Wz/BRiEsJyymwHJPTYI5BQ2gZf8rZV5rwmGjToZnYwNXEVLBPGrFM/MJa4a/Waz6oD73WPr0DIH65NZ0zsNxNHf9j2c3G+OEK0fDPhqARq5hVNga51YO41APU9I8y6N7snU9e3CN8lp+EcD53Y3JfduaQnoCBx78lpYDUSvVdbN2F8yyIxtgpOQgOkRB5q9SaMgm5SBOfgsZTwgpW62MX2W3nhKpYs7RfVp3LIe0qnpJx9HpwysfAQnD4vGGLLz7Re5WhPjtbX2nE87GIjC7UyOlbB3jdRi236SuXNI=;d6LG16qTu80g/o1qxryGRg=="
 ---
 

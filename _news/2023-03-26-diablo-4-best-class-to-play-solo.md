@@ -160,6 +160,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4: Best Class to Play Solo"
+    excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."
+    publishedDateTime: 2023-03-27T02:46:00Z
+    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lXUrEtBow5U2o+QMVQY54DZyMRp1TIFsq/ZsFHyBOmZElpCUFaQUrzOSsf20oa6ow4wDC1FM+GVIpT2U1N3pORJHSviyULH4C6PX96773J2rqMqnRZ8YbRkvgVu95pZv9yyC+prr7pYxSqn+ArqZJdgewxf6RGOMmECYDuBjo9esylXlp94rWAp6/KWIJQsTAuLxR6TUJvoi2XoHlGLJutT63kACbae/ul2tVD9dmo+gPxnLlKQUiI9vBH5D6l+JTMzvRjliJ7SeCxytIkK5zVb8zVBq+/KZiwcs42Z2Vzw/FUiNUSe6+jupncAgJFK2J7Tn1rfJIHv8uICDaH8zq3ZePu+F3sOFb2aCEN+chTo=;EbxxGnCeXMwUO10vDgE7Bg=="
 ---

@@ -39,12 +39,12 @@ related:
         height: 630
         isCached: true
   - title: "Diablo 4: Class Tier List"
-    excerpt: "Thus far, most of the discourse around Diablo 4 has centered on the classes. Check out this Tier List to see which ones came out on top."
-    publishedDateTime: 2023-03-26T16:52:44Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-class-tier-list/ar-AA196kGQ"
+    excerpt: "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ..."
+    publishedDateTime: 2023-03-26T17:30:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: MSN
       domain: msn.com
     quality: 87
     images:

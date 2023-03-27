@@ -1,28 +1,26 @@
 ---
 category: news
-title: "The best Diablo 4 Sorcerer build for solo play"
-excerpt: "The best Diablo 4 sorcerer build lets you tackle mobs and bosses from afar with ease. Sorcerers are, as ever in the RPG series, weak in direct combat, but capable of dealing heavy damage and ..."
-publishedDateTime: 2023-03-24T11:40:00Z
-originalUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build"
-webUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build"
-ampWebUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
+title: "Diablo 4: Best Class to Play Solo"
+excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."
+publishedDateTime: 2023-03-27T02:46:00Z
+originalUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
 type: article
-quality: 107
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-sorcerer-build_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -73,6 +71,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8YecCd2pe4OFhxMyFZ5dqvTF6vc=/0x0:3840x2160/1400x933/filters:focal(1613x773:2227x1387):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114066/D4_Inarius_and_Lilith.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "The best Diablo 4 Sorcerer build for solo play"
+    excerpt: "The best Diablo 4 sorcerer build lets you tackle mobs and bosses from afar with ease. Sorcerers are, as ever in the RPG series, weak in direct combat, but capable of dealing heavy damage and ..."
+    publishedDateTime: 2023-03-24T11:40:00Z
+    webUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build"
+    ampWebUrl: "https://www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134737/diablo-4-sorcerer-build?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 107
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-sorcerer-build_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "The best Diablo 4 Sorcerer builds"
     excerpt: "The Sorcerer returns in Diablo 4. Similar to its Wizard counterpart from Diablo 3, the Sorcerer class is capable of casting powerful elemental magic to inflict incredible amounts of damage on groups ..."
@@ -160,21 +174,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4: Best Class to Play Solo"
-    excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."
-    publishedDateTime: 2023-03-27T02:46:00Z
-    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "brxFxK//QKh5gFqaa6ToK8gJRvt6nA5x+uX10o2EUZB1KROAgeJhiL50hE7FFDdjhS8WHH/1zG7DVakblpBmu4+yoOLV+iqaMYyDuFbYN4Z0J39r3Ivot6L6/xw3UBpg3ECRdMZYxdyro8h6n3uF/3Y8JurUTvgIMsZIIUfi7s1pp6zz3wKWEunmAueIJgwgRWsdQ2s7Tl1KNxd4qd96gXdfADs0SQoBMTFWJJthJn0gbRxHN8DcPJiSHwO/YKHcN/HhqNsdZobNGkt878B8uZBncK+KzLY1h4LJj4FFIheFBUqhpi4RToYmysYCWi8oTl8TYYoCl2UamGuIFHvmcyvfxx8/h7cF4UXw6UzeeZw=;/NQcWmZ8SBaA9/ScaGHREg=="
+secured: "NNlNGGDvtaqvZ14FoZvjWXKqUiFzmZMgcjSrd5g6urpMHcjy9NtvT27KhD5tx1otXJztNip+jeM6oXzq+Xyxvl8r3Hp0PkQdQmS7XCDFj9H9f8hYRYcGJfk2SaNbxw0w0Iklymnn3J156j/p+m8ACn/5cXUNU232Dn9tBiUJq3/rHFG9gJPY02wWJuZLAnZvZ3ozqq1NTcu9esauJ7M5P6O9JhxIJxb1x59ef/xf1aMCJauraEC+XqKX5Jk9/VR+sFMW66laqJ5Mh6FLKP7ZxZDwn4bBHPTPa3yZnQkHFyWIEzUL/BcaDzb9CPUllNuDQzcMJX9dAFO7iu7hi7DFTu3dBILRHpMIKCNhcFC5dck=;abM7W1WYxYp4gBW/SvHCyA=="
 ---
 

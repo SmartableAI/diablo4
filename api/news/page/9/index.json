@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
+      "title": "This trailer is DARK! | Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 reaction",
+      "excerpt": "Time to check out an older trailer from the diablo 4 video game, this one was from 2019 but the trailer is absolutely amazing! Lilith ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=ohGndBIfK8A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ohGndBIfK8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T05:00:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Necrotic",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-diablo-4-release-date-details-how-to-ensure-access-to-the-upcoming-open-beta.md",
       "title": "'Diablo 4' release date, details: How to ensure access to the upcoming open beta?",
       "excerpt": "While Blizzard is keeping things under wraps, the \"Diablo 4\" beta will likely arrive a couple of months before the \"Diablo 4\" release date arrives in June.",
@@ -1016,48 +1058,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
-      "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
-      "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "originalUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RSmVHnRfezmk8VcumjCrrj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
