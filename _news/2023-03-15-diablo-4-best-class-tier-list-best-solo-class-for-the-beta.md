@@ -7,7 +7,7 @@ originalUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-clas
 webUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
     quality: 87
     images:
       - url: "https://assets.reedpopcdn.com/diablo-four-all-five-classes-official-blizzard-artwork.jpg/BROK/thumbnail/1200x630/diablo-four-all-five-classes-official-blizzard-artwork.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4: Class Tier List"
+    excerpt: "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ..."
+    publishedDateTime: 2023-03-26T17:30:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA196L55.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

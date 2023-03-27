@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4: Class Tier List"
+    excerpt: "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ..."
+    publishedDateTime: 2023-03-26T17:30:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA196L55.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Y+8tsKmoX0kj0Eo1Q//s6wBEcShhpxFK+8StS+62aKJambeM0TShU93uckahhu4Nc0egcF8aSB3n0mODHHvEHKgAvRV72Bi+lkgjbMu5dxH8mj0Tt3g1qU3vz8JOZjLWL4QCofUY/dCEtK53tCL9pxyzp85MdyIYJ1E8JgzgnVmEGy74l0RteAeUAVuR+qKzzNS9Mh68MXlbNgat6GRqRpLlc4fqHOwhxgR5LxRnt8lUhZK1u60T05A3HwZJUDp6Imy1d/aqe3lOr4vZGE5xLA5ZvRLABePepFtG5hOB6dD0DF7zu5Vyw2sbM0jBRjr+5h+sKov3LEqeeib+S11wTIMHvpu5hUtgM+I9HoRnZ+0=;hku7zHTxduOwK/kYz1Z/fQ=="
 ---
