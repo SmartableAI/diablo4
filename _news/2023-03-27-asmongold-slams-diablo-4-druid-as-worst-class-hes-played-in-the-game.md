@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Asmongold already has one ‘big concern’ about Diablo 4 after playing the beta"
-excerpt: "Asmongold already has one ‘big concern’ about Diablo 4 after playing the Early Access beta over the weekend, as well as a few smaller ones."
-publishedDateTime: 2023-03-19T22:47:21Z
-originalUrl: "https://www.msn.com/en-us/sports/esports/asmongold-already-has-one-big-concern-about-diablo-4-after-playing-the-beta/ar-AA18PN6j"
-webUrl: "https://www.msn.com/en-us/sports/esports/asmongold-already-has-one-big-concern-about-diablo-4-after-playing-the-beta/ar-AA18PN6j"
+title: "Asmongold slams Diablo 4 Druid as “worst class” he’s played in the game"
+excerpt: "Asmongold has labeled the Druid as the “worst class” in the Diablo 4 beta, so here’s what the popular Twitch streamer had to say. Asmongold has been busy delving into the dark dungeons of Diablo 4, ..."
+publishedDateTime: 2023-03-27T11:36:00Z
+originalUrl: "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/"
+webUrl: "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/"
 type: article
-quality: 84
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Dot Esports on MSN
-  domain: msn.com
+  name: Dexerto.com
+  domain: dexerto.com
 
 topics:
   - Diablo 4
+  - Druid
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PAMd.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=417&y=209"
-    width: 600
-    height: 315
+  - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Asmongold-Diablo-4-Druid.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -52,19 +53,19 @@ related:
         width: 1800
         height: 900
         isCached: true
-  - title: "Asmongold slams Diablo 4 Druid as “worst class” he’s played in the game"
-    excerpt: "Asmongold has labeled the Druid as the “worst class” in the Diablo 4 beta, so here’s what the popular Twitch streamer had to say. Asmongold has been busy delving into the dark dungeons of Diablo 4, ..."
-    publishedDateTime: 2023-03-27T11:36:00Z
-    webUrl: "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/"
+  - title: "Asmongold already has one ‘big concern’ about Diablo 4 after playing the beta"
+    excerpt: "Asmongold already has one ‘big concern’ about Diablo 4 after playing the Early Access beta over the weekend, as well as a few smaller ones."
+    publishedDateTime: 2023-03-19T22:47:21Z
+    webUrl: "https://www.msn.com/en-us/sports/esports/asmongold-already-has-one-big-concern-about-diablo-4-after-playing-the-beta/ar-AA18PN6j"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 104
+      name: Dot Esports on MSN
+      domain: msn.com
+    quality: 84
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Asmongold-Diablo-4-Druid.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18PAMd.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=417&y=209"
+        width: 600
+        height: 315
         isCached: true
   - title: "Asmongold gives his verdict on Diablo 4 from the beta: “It’s not changing my life”"
     excerpt: "The Diablo 4 beta finally gave players the chance to delve into the new ARPG and popular Twitch Streamer, Asmongold, has given his early impressions of the latest game."
@@ -81,6 +82,6 @@ related:
         height: 900
         isCached: true
 
-secured: "JHdpoi8JpEqi3Oqrt3p3gP3yeDuVxhtpR31LF+L8+uwNe34u80tmqQ1htJTlf6ZoYK0hVoKHCbTNeUcxhwcxXYP8hL78xZ02KlDj/LSUNJoNYYiAQm4J56kjgPtnDIt+D/8ulS4pYcG8VMhm+S2ssa66tGSvejz0tFSLdxpiWKkUiRBmYk/mz6WsWKmjeShxgZfDC6dc5hnIzs2UeJ2PcMDgOedfPcBuBwXBUO3kdWNDIxjxOahEXAi3omL4vvYz8LYeEwQNKY78NNvvYv/GYCm+gzb0VOY7LZch1pVgY7ZJBU6c+HwF4g97a6RlDDH+Hdfk/oAEmRHKQDJVH07sxaUmGIdV2VYnT3Fq5QVIECI=;zY3f60sENL1ozZbXZe95tA=="
+secured: "iJOhG3NeYb1XBPDaexyWlI1uG9vgpY4hGej9/PNXk6V0gCehFUj1D1OCkWq+R2XXVWF+oK4RHOCur3LxIWsPb+QkxUHGUyC5Cf7azMrOXzxX+XwBzEMONHAqjKXsJJaD0itX+6WKP7vOD87pev8R3qlYZkRZsmPdFJFLibsxXalvbsz/LfOGdqpGZ/wIRCEWgOVuR1GyQIJmyyK+MP7owF8DSsgCVxPQQimb/a4V2nJA3kDVHbZgsVR/7WWKqNyX/tGonyWgOiVdAtbMQNz9ndcYV/s4glCIy6Hg3NSBUrlZsebya24VOkdaVFtfJs+dYdJKIQ07VoDmL1oKMKfPilo64Dh2fRiar9iGisnG7gA=;aPpGe8CLr0jYLN+H8OVNmQ=="
 ---
 

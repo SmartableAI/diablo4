@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/"
 webUrl: "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/"
 type: article
 quality: 127
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How to swap your weapons in Diablo 4"
+    excerpt: "All Diablo 4 Classes have a ‘Main Hand’ and an ‘Off Hand’ slot that can hold weapons, shields, or other items that fit your Class, but you automatically swap weapons based on the skill you’re ..."
+    publishedDateTime: 2023-03-27T09:56:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-switch-weapons/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 87
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/uoKWeCPV6Wtwi9sTPchtgh-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jqd3k9l++wyJYERQjw/Ke94WRcC8B65uEU1bSfnd584IeDnim8mOYbBmhMOKzzep8LlthHI5YIqn2oo86ZCGQgr5E6GCOhbLqKEStGRr58spd/18UGYnrdHX39E3yYtu979WgLtpM8zE89k92P6uj5lQ7iws7ZxhSCLiBajHr8+EbSGpMzjuYuuyreOc8tpqV3aSfwdCS9BYljXgLheQijlhgm/HR0HJW2bhRE1M/CuCcLYtty6BchGRqyW6Fn9wJAY0nSOxixAXbPe074OjZScAPRBgrZcheYrgjA0PqOltBwcu7gVOpVSMyGgMMLKEAiEoA0iPrDrz6Wvn21TMxBRPH0pKZgkCtvV/IykxEs4=;PBv1MRCypercyvIhCFR/4A=="
 ---

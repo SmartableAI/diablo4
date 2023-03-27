@@ -2,27 +2,27 @@
 category: news
 title: "Diablo 4's world boss is already being soloed by open beta players - on hardcore"
 excerpt: "The titanic Diablo 4 world boss from the open beta is already being soloed – and on hardcore to boot. So far, we've seen two players achieve the feat who have posted videos online to prove it. Diablo ..."
-publishedDateTime: 2023-03-27T03:13:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4s-world-boss-is-already-being-soloed-by-open-beta-players-on-hardcore/"
-webUrl: "https://www.gamesradar.com/diablo-4s-world-boss-is-already-being-soloed-by-open-beta-players-on-hardcore/"
+publishedDateTime: 2023-03-27T06:53:00Z
+originalUrl: "https://www.msn.com/en-xl/money/tech-and-science/diablo-4-s-world-boss-is-already-being-soloed-by-open-beta-players-on-hardcore/ar-AA1982CA"
+webUrl: "https://www.msn.com/en-xl/money/tech-and-science/diablo-4-s-world-boss-is-already-being-soloed-by-open-beta-players-on-hardcore/ar-AA1982CA"
 type: article
 quality: 82
 heat: 82
 published: true
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/tkPv6qce7KNDZdA9n9h5Sa-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UsEh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=597&y=272"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
-secured: "EcjtCz89twODvaONey7i7Ir+uYnTfesm2OUqq5tedMWBHGizBCfPrBWVneUY7O0AXpUALAP9MDqkzwE6fN/ai8qd4qC/oXcksYzuUzMANYiWKCKoVgdUQ59B8za7Gp5rYwP1y8vdXwdb7fcFAVJaF5tjV21AUKHgLDaQmr7Y3iDXk9CqyNaOCIWCBcg9lkPBSm400jMdSojFhCsjb81MgRfbYuPqIkPQ/WUPgrYHIEJ5bykK8IyuWqAM7C75wAjq9R43UgZMsNOfqC8r1mhknlciOEIFFBbckut+5g56cUYt4ztEJTluTxfn9C6zlH7bTe5eLFG6ecMdzuCA0Rpx2O10bTSVHQGcDJv93nrm7x8=;FdQSP1EdWe7i1NG79YYtsw=="
+secured: "E9KCI9X0reru7CqVfaP0XF66qjccKcQrr1bNEGKW8q/+FIfdI7u+efRIKGdPX6jCJiQ+M2IX8/tFGVhx/kia/rW0eWzWzKPo+18PpJB7wJ3jQN+ZirAjcluu9PiSQYAVpsqKno0zpz5c5VKTB4/jyz+MFp1/Y1pUVxqHMqnkYXrp5OXjgzP6Lu74tQLcWke5b8nWmvI2X3GGoNeXgdimtjCm3BVRrf1SeGS6gxf2nv1hJHMHhbSMQPMtH879Xb5Hercb1ON0cSt3jThbgx3qjDJbdN0+abFAKcg4VpZ6IuWxZeTpYxf3A1fyrKL72dY9SswIczbhd7nOz+OvY9WhV2/SPCA03y2Pb9//LJzwKGo=;C1XkL/HJ0NVPpaKEfApsNA=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4: Best Class to Play Solo"
 excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."
-publishedDateTime: 2023-03-27T02:46:00Z
-originalUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
-webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+publishedDateTime: 2023-03-27T11:52:00Z
+originalUrl: "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+webUrl: "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
 type: article
 quality: 87
 heat: -1
@@ -161,6 +161,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NNlNGGDvtaqvZ14FoZvjWXKqUiFzmZMgcjSrd5g6urpMHcjy9NtvT27KhD5tx1otXJztNip+jeM6oXzq+Xyxvl8r3Hp0PkQdQmS7XCDFj9H9f8hYRYcGJfk2SaNbxw0w0Iklymnn3J156j/p+m8ACn/5cXUNU232Dn9tBiUJq3/rHFG9gJPY02wWJuZLAnZvZ3ozqq1NTcu9esauJ7M5P6O9JhxIJxb1x59ef/xf1aMCJauraEC+XqKX5Jk9/VR+sFMW66laqJ5Mh6FLKP7ZxZDwn4bBHPTPa3yZnQkHFyWIEzUL/BcaDzb9CPUllNuDQzcMJX9dAFO7iu7hi7DFTu3dBILRHpMIKCNhcFC5dck=;abM7W1WYxYp4gBW/SvHCyA=="
+secured: "hoA+oziFXgxqU4rsx0NFdiwBVg+8NM30xNQPhAN47D/oMKNTZGvVqu6CJ9qcqwDhBv/tUyQ35VbKr/g7ikW5cOcmG+nn7qzOnc84HfU6NrdCYoBQocqbsUFb/D8McPIHsqEGmp2b0cd1SdocwNdBxlHdWfj5u8vCPwzxgWxhDX1bEYnqzXmcfYbeGziKtQMScWN65Ql7DbWvHnunfrSUYQ0hesLJNLtwjoBbr4iMnzEXTNxUF6c4KMyFdoiQgwKrjbBpZAqBcQyE/us9XXa11QPW7mZtYn2G08C0MN8zsZpx5DloDQ4Y5VA1YwLmrK+/0D8n7vss/kLOBzRsts4xGproruLT/IT3KzDulenVZj0=;fScZAKYcRbJFGORgogwUYQ=="
 ---
 
