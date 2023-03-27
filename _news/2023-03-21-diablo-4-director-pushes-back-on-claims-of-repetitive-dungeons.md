@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Players Debate the Place of Summons in Towns"
+    excerpt: "Diablo 4, the latest installment in the iconic action RPG series, has been captivating players with its thrilling gameplay, immersive world, and legendary loot. However, a rising debate among the ..."
+    publishedDateTime: 2023-03-26T19:55:00Z
+    webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-debate-the-place-of-summons-in-towns/ar-AA195Hjq"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYnKHr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jUCobXQYqHqHEabfH2nbEdWPgyiz2h2mcHa1LdPr/8KEx3c4M1HD6lmSJB0bN9kS3xEFNSSUl/BW76RloFCWWxWJptjR89b+blC6C0FXtqfmxG9ptAHMLOUpDC6Hp1VxccSN6rZQfVB2SeS2dNysGKHWJntKxby+IjQ3FvD7NuIechuBAxEsSKSlVAqMYlJXcayboFQVh0K+8+ls7Z3k3NvrpbONZFzXlwyNYpZ93J65UxWKWKYDizDctkY08Gfd66miLuV/IkTj/d+rpdHZrMLuDNDWE3N/drIeMq7ydlZPYINs80sLmQBVW/OT7JpQ0HDCexNa92/yVpR8zT8XD7/7fU2bSlLPZRhDdICQ6z4=;snDvJkxMESaBNJ1kO0/nCg=="
 ---

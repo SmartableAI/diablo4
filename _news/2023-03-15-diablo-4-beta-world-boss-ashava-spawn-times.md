@@ -157,12 +157,12 @@ related:
         height: 675
         isCached: true
   - title: "Diablo 4 Rogue Solos Ashava World Boss"
-    excerpt: "A Diablo 4 Rogue player is able to solo the open beta's most challenging foe, the World Boss Ashava, on Hardcore Mode -- twice."
-    publishedDateTime: 2023-03-26T11:34:12Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
+    excerpt: "A Diablo 4 player has beaten the open beta's World Boss Ashava entirely on their own and on Hardcore Mode. The open beta is potentially the last opportunity for Diablo fans to try Diablo 4 before the ..."
+    publishedDateTime: 2023-03-26T18:32:00Z
+    webUrl: "https://www.msn.com/en-nz/entertainment/other/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: MSN
       domain: msn.com
     quality: 87
     images:

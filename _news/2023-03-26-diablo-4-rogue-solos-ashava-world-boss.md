@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Diablo 4 Rogue Solos Ashava World Boss"
-excerpt: "A Diablo 4 Rogue player is able to solo the open beta's most challenging foe, the World Boss Ashava, on Hardcore Mode -- twice."
-publishedDateTime: 2023-03-26T11:34:12Z
-originalUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
-webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
+excerpt: "A Diablo 4 player has beaten the open beta's World Boss Ashava entirely on their own and on Hardcore Mode. The open beta is potentially the last opportunity for Diablo fans to try Diablo 4 before the ..."
+publishedDateTime: 2023-03-26T18:32:00Z
+originalUrl: "https://www.msn.com/en-nz/entertainment/other/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
+webUrl: "https://www.msn.com/en-nz/entertainment/other/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
+  name: MSN
   domain: msn.com
 
 topics:
@@ -180,6 +180,6 @@ related:
       domain: yahoo.com
     quality: 67
 
-secured: "hX9tKQCS0wz3QWnqnWnbhOoLu9T3IVIYdk8fJtpLjtGEUDZeMg+c3Ll3+0oeR37GrISp3W8V0Ed7afswgKn8WiJp8turdzg12N/EVaUqj/7C3xasl3lTDi2oJK1Ly4uRIE/tDvRB1qSskM7OmnzgA60sTp4Qd64Wlckcd0VrUWqD+CuxDCDlADOjBfvU9rudGIM3A655DAUw3jUn08fGf0a7XLBeG2L4cGgz+T9NsYusUQGiLHebkQzFFlynwyhHiPS0pKnzDq4/c/P/KnqpOQy/Sa3nY5qcYjwaS6Tn0JQEzbpKrNB/ydrnMDZ2z3foZ/pNZSLpIi16R/fw/+i+kUl448cwfFAcbyjYZc/Pk4Y=;6d66RykVQI5zf/j2U+/Upw=="
+secured: "6ftmzY3BX/37uE5ySYlkHNh6vgt0eAqJzgequayH56zBJeniNTSm5LfnFDpBIW40Ol5fTjXVP+sY+8WOV5taEcyHznrzto9+2eOqOzKpcBclDG2d1vejSJxf+ZVfz5XjbM0Y1V+Ni8S62T9C6nXzbsCmuc6XJC9d2U+C24Jh8lmnhcdIu0HNZAdZ6mRt0PPuypwOS/9MCTgBOZhdDdmw+XkdGyHFZrL7pdjPLSppPNJ9JCm+pkzsrjdyE3q1Y+ho2nm80raSLnppflA7FxCkwqaUrBhMwhLbbGE7Lgh86+/EwrKe62OJ2QeX22ghxHP5ULq9QUjm/RovAEJS7zzMcwCnw6VOLF5hnKB0WS1u/DE=;i9gzlPOhBesieOSPY6GyPQ=="
 ---
 
