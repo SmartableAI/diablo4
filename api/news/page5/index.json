@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-17-will-diablo-4-have-controller-support-on-pc.md",
+      "title": "Will Diablo 4 have controller support on PC?",
+      "excerpt": "PC players are always wondering if a new game will get controller support, and Diablo 4 fans will get an answer for this today.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-will-diablo-4-have-controller-support-on-pc/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/will-diablo-4-have-controller-support-on-pc-2088926/",
+      "originalUrl": "https://www.dexerto.com/diablo/will-diablo-4-have-controller-support-on-pc-2088926/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/17/diablo-4-controller-support-pc-e1679051343673.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-how-to-enter-kyovashad-diablo-4.md",
+      "title": "How to Enter Kyovashad Diablo 4",
+      "excerpt": "Diablo 4 has quite a large world for players to explore. One of the first major points of interest that you will come across during their journey into this hellish world is the city of Kyovashad. To ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-how-to-enter-kyovashad-diablo-4/index.json",
+      "webUrl": "https://twinfinite.net/2023/03/how-to-enter-kyovashad-diablo-4/",
+      "originalUrl": "https://twinfinite.net/2023/03/how-to-enter-kyovashad-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo-4-coming-to-game-pass.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-is-diablo-4-online-only.md",
       "title": "Is Diablo 4 online only?",
       "excerpt": "Lilith and her forces of evil are on the horizon as the release of Diablo 4 inches ever closer. With the game’s launch gradually approaching, fans of the Blizzard franchise are preparing for its ...",
@@ -1028,81 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-is-there-permadeath-in-diablo-4.md",
-      "title": "Is there permadeath in Diablo 4?",
-      "excerpt": "Diablo IV looks to carry on the Diablo series while improving what makes it such a thrill. Players can expect fast-paced combat, rich lore, and an exciting world to explore. Unfortunately, they can ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-is-there-permadeath-in-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/is-there-permadeath-in-diablo-4/ar-AA18IFtn",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/is-there-permadeath-in-diablo-4/ar-AA18IFtn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA186Ke9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-to-download-diablo-4-beta-on-ps5-and-ps4.md",
-      "title": "How to Download Diablo 4 Beta on PS5 and PS4",
-      "excerpt": "Eager players will want to work out how to download the Diablo 4 beta on PS5 and PS4 ahead of the early access beta and open beta. Thankfully, it’s not too difficult, but it’s easy to get stuck.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-how-to-download-diablo-4-beta-on-ps5-and-ps4/index.json",
-      "webUrl": "https://www.yahoo.com/entertainment/download-diablo-4-beta-ps5-160559052.html",
-      "originalUrl": "https://www.yahoo.com/entertainment/download-diablo-4-beta-ps5-160559052.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yahoo.com/amphtml/entertainment/download-diablo-4-beta-ps5-160559052.html",
-      "cdnAmpWebUrl": "https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/download-diablo-4-beta-ps5-160559052.html",
-      "publishedDateTime": "2023-03-16T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yahoo",
-        "domain": "yahoo.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

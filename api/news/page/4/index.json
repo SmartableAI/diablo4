@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-20-diablo-4-ashava-boss-guide-spawn-times-location-and-tips.md",
+      "title": "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips",
+      "excerpt": "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-ashava-boss-guide-spawn-times-location-and-tips/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 367,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
+      "publishedDateTime": "2023-03-20T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-diablo-4-community-happy-that-players-arent-involved-in-design-process.md",
+      "title": "Diablo 4 community happy that players aren’t involved in design process",
+      "excerpt": "Diablo 4 has received mostly positive reviews from the community so far after the Early Access period even without player input.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-community-happy-that-players-arent-involved-in-design-process/index.json",
+      "webUrl": "https://www.videogamer.com/news/diablo-4-community-happy-that-players-arent-involved-in-designing-the-game/",
+      "originalUrl": "https://www.videogamer.com/news/diablo-4-community-happy-that-players-arent-involved-in-designing-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-3-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form.md",
       "title": "Diablo 4 players react to the beta test: 'Seems to be Blizzard back in their old form'",
       "excerpt": "The Diablo 4 early access beta got off to a rough start but once it started working, players were genuinely excited by what they saw.",
@@ -1073,90 +1166,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-will-diablo-4-have-controller-support-on-pc.md",
-      "title": "Will Diablo 4 have controller support on PC?",
-      "excerpt": "PC players are always wondering if a new game will get controller support, and Diablo 4 fans will get an answer for this today.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-will-diablo-4-have-controller-support-on-pc/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/will-diablo-4-have-controller-support-on-pc-2088926/",
-      "originalUrl": "https://www.dexerto.com/diablo/will-diablo-4-have-controller-support-on-pc-2088926/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/17/diablo-4-controller-support-pc-e1679051343673.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-how-to-enter-kyovashad-diablo-4.md",
-      "title": "How to Enter Kyovashad Diablo 4",
-      "excerpt": "Diablo 4 has quite a large world for players to explore. One of the first major points of interest that you will come across during their journey into this hellish world is the city of Kyovashad. To ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-how-to-enter-kyovashad-diablo-4/index.json",
-      "webUrl": "https://twinfinite.net/2023/03/how-to-enter-kyovashad-diablo-4/",
-      "originalUrl": "https://twinfinite.net/2023/03/how-to-enter-kyovashad-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo-4-coming-to-game-pass.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
