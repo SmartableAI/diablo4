@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-25-diablo-4-how-tyrael-might-factor-into-the-games-story.md",
+      "title": "Diablo 4: How Tyrael Might Factor Into the Game's Story",
+      "excerpt": "The former archangel Tyrael is likely to make a return in Diablo 4, but his presence and motives may seem to be a mystery for many fans.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-25-diablo-4-how-tyrael-might-factor-into-the-games-story/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-archangel-tyrael-angels-demons-lore-playable-character/",
+      "originalUrl": "https://gamerant.com/diablo-4-archangel-tyrael-angels-demons-lore-playable-character/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/Diablo-2-Resurrected-Where-is-the-Spider-Cavern.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-25-diablo-4-followers-confined-to-rpg-games-campaign-for-now.md",
       "title": "Diablo 4 followers confined to RPG game’s campaign, for now",
       "excerpt": "The Diablo 4 followers will hopefully make up for their forefathers, but Blizzard has revealed that they'll only appear in the RPG game's campaign - for now ...",
@@ -1070,48 +1121,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk.md",
-      "title": "Diablo 4 Finally Gets A Release Date, Preorders Arrive With Beta Perk",
-      "excerpt": "After years of hard work, Blizzard has finally revealed the erelease date for \"Diablo 4.\" The announcement was joined by the launch of preorders.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/ar-AA154x9M",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-finally-gets-a-release-date-preorders-arrive-with-beta-perk/ar-AA154x9M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154BT3.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T11:44:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
