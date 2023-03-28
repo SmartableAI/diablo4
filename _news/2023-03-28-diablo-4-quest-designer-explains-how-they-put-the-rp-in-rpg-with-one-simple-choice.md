@@ -2,13 +2,13 @@
 category: news
 title: "Diablo 4 quest designer explains how they put the RP in RPG with one simple choice"
 excerpt: "An early Diablo 4 quest lets you pick what troubles you the most for a cleansing ritual. Your choice doesn't change how the story plays out, but the quest accomplishes two important goals early in the ..."
-publishedDateTime: 2023-03-27T19:47:00Z
-originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt"
-webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt"
+publishedDateTime: 2023-03-28T05:14:00Z
+originalUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt"
+webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt"
 type: article
 quality: 81
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -26,8 +26,8 @@ images:
 related:
   - title: "Diablo 4 quest designer explains how they put the RP in RPG with one simple choice"
     excerpt: "An early Diablo 4 quest lets you pick what troubles you the most for a cleansing ritual. Your choice doesn't change how the story plays out, but the quest accomplishes two important goals early in the ..."
-    publishedDateTime: 2023-03-28T05:14:00Z
-    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt"
+    publishedDateTime: 2023-03-27T19:47:00Z
+    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt"
     type: article
     provider:
       name: MSN
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Mzp/xMEL+fp9DRdILctmkBPtVWVM7up6akgu0CQP5vy6fzoZAj5Jh6OTBkVx8sgBjoLICzj6GW1k3eDc9dZI1fDL0PJ+Whf+iFek/Y4ch8UcDRAxY1cujiq10VcF1WrF6+BIfSW6xovT7Rmq1aInttqE6C3A+Rhvt1fA/9l3SB7HQ4edGCI/30Mqgo2klbWE3eG40nIUjKoneA4tdMzSLnB19TLlJXcKO0nbonMRNN2LFvdXjDLwxrz9ToHBrpQYElJhA2dsNmn51bEqbipQ47HyIKFzNLSWf9QKAPYEV0l8mtwH270QysfD3kdoDuHsFRAjX82vx/M2yejkPvTMfIgw+me/VbwjrHRlJ9LExsc=;d+oty5dkceP01EbohF25rA=="
+secured: "6BGSEMcdJ5Yus1KmjIb19+QYvxs8irBGuZKKYI1LkDY+rnYI8v3ZUXFQa4qEd7nKHnHGZAPHSQ5UsmfXBIHk8OCxu4+35NPQZFG4ySY6mkrMf3vr3JqcYmhiUcQ2uRzYQo4Ebsv0x4fAosit+QYbHi4fm3SrocgyF8eunMS5rS3UI4oy8kVqQXXM9gvJ31BT6OFBAsofFZX1uBDLdQZ2+SG9pGI5TDQJBjeFpqRcwwtRD+7QYmGiGzJw3km3nro2D6RybPXCBB2sTbjR9V8X4a3Rr4puwIRkV7uuuGcINCVxRMW5oHGEELt3FeTgKI4oniHfo9IYEI85WdYP3agbs+opqgml7kT8kn/C/TMXRKI=;oy1qPNPMvLawXtsTzA9iig=="
 ---
 

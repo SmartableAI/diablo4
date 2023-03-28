@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Image Shows Beta Area is a Tiny Part of the Full Game's Map"
 excerpt: "An image depicting the full size of upcoming action-RPG Diablo 4's map is making rounds online and fans seem to be surprised by just how small the area that they played through in the open beta was."
-publishedDateTime: 2023-03-27T21:52:00Z
-originalUrl: "https://www.msn.com/en-za/entertainment/other/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7"
-webUrl: "https://www.msn.com/en-za/entertainment/other/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7"
+publishedDateTime: 2023-03-27T23:01:00Z
+originalUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7"
+webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7"
 type: article
 quality: 87
 heat: 167
@@ -81,6 +81,6 @@ related:
         height: 750
         isCached: true
 
-secured: "y+ATFGAMgmTAcTfsTQ2qkeSEhrLxmPhOQ0IS75/bvkDrzHyHqvlALjsW0X1nuTHn2h/GMyCUqf9qr9oPXYEJaCZEoyAvm6NoOVzQZH75mrhnR8aQCruyfgoYLPUdcsH7hCHxY7VZM2d+P8p8FmuvXAVMoP0OeW4fegAUr+yIZViODBRoOCqGAH1qpTzkzHW6n00KVBbFfSp9whBIt0kEAXuylrl+K2K0mVWsKuSUUIOaCJ5F5KaRuCgdgwOWGLa03X+O6KbCc2cVW+kEXVPXM235pqdEXUtVmYo25TBixTjP0Z8oaC93xjTwAWi8Y4vDIGiGJkV2HzNGEaqr9yeyybZiuawxXDokszWl4pfvFj4=;G1BPKgaL6ID4tHlQ3vQiEA=="
+secured: "5W7Knx9HgSslVGbiLaHRkbw4kxWoFnrjhJZdE/85AHOgFm/rz3syKHKKuzfpnACYVjkIgVfzEnj4SO2C4CSWnG+Ga+LGnjUozgrL5VC61+K4zMWHh7wCOoMjK9R+3wypFDGB4+bvf6lFXjfGRxFl8m0oUd7zAQmJ12Dq7M9EAXvygzsHpJOtdu9FiffzQGhIctq1qS4sgIP7zZzJ3P89inqMEabbcfvWebowv49suDXGGgT2rLfrz7aYxQ34pxgU6nZhBCJFpFP+cyPgrermfRMeaimIAQcoEaQ4+cvVS3xCyU4pxhvr5EVbH1fAmQEpR2ct93bapc/Q6/DjgUioPGoqXqWlG7N3wOU3Hmg3/LE=;MGkQDausetSfKYRa+tN96A=="
 ---
 
