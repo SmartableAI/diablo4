@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4's Skill Tree Brings The Best Of Diablo 2 and 3 Together"
+    excerpt: "Diablo has always been about slaying demons, leveling up, and acquiring new abilities. Diablo 4 is no exception, but takes a new approach to how these abilities are learned, featuring a complex web of ..."
+    publishedDateTime: 2023-03-28T01:36:00Z
+    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EVnG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=476&y=270"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+tRPXoD24kR6MIPLH+Ahq5FFSf9V2MOU5PF+BhCOMqXV3eV6EGCnSeQoRwGp5EC5FS0JFwksmhbKlpwtRn0lPxVwiGy02Pg4aqCoI7QONPLXZ2pES5oeMULCLXO49D32GlQV3R0Fvmn1t9g7XXlmudjgezxaOKhDx2Dt6WRFZH2gDr6IGfRhupLDHr/ZJCAD5eqLp08d8v0TqXAoz9rqe39wkYmJUleibLzjcNRs6LOUZ/XULZsFGm4ZH/MtLb62Zlu8UsAMcVTzgy68jCdRZV+HT83E9OchTZ5nRnChu0IAax/Blt/u81LgZ9SsMHrFvidSJdBa7XmlWIBmT+ZB+TiG+kiV+RUWZoiKI+M9IzU=;qPHHbWfNNOQYXNHpzIqP5A=="
 ---

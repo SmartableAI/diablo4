@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Is Diablo Immortal different than Diablo 4?"
-excerpt: "Waiting for the release of Diablo 4 is a tedious task for fans of the Blizzard franchise. For this reason, many have turned to the mobile offering, Diablo Immortal, to hold them over until the fourth ..."
-publishedDateTime: 2023-03-17T17:57:00Z
-originalUrl: "https://www.videogamer.com/news/is-diablo-immortal-different-than-diablo-4/"
-webUrl: "https://www.videogamer.com/news/is-diablo-immortal-different-than-diablo-4/"
+title: "Diablo 4's Skill Tree Brings The Best Of Diablo 2 and 3 Together"
+excerpt: "Diablo has always been about slaying demons, leveling up, and acquiring new abilities. Diablo 4 is no exception, but takes a new approach to how these abilities are learned, featuring a complex web of ..."
+publishedDateTime: 2023-03-28T01:36:00Z
+originalUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM"
+webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: VideoGamer.com
-  domain: videogamer.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.videogamer.com/wp-content/uploads/DIablo-4-Dry-Steppes-1.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EVnG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=476&y=270"
     width: 1200
-    height: 500
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/03/22/1600x900/Diablo_3_and_4_1679482606317_1679482619829_1679482619829.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Is Diablo Immortal different than Diablo 4?"
+    excerpt: "Waiting for the release of Diablo 4 is a tedious task for fans of the Blizzard franchise. For this reason, many have turned to the mobile offering, Diablo Immortal, to hold them over until the fourth ..."
+    publishedDateTime: 2023-03-17T17:57:00Z
+    webUrl: "https://www.videogamer.com/news/is-diablo-immortal-different-than-diablo-4/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/DIablo-4-Dry-Steppes-1.jpg"
+        width: 1200
+        height: 500
         isCached: true
   - title: "How Diablo 4’s Local Co-Op Compares To Diablo 3’s (& Which Is Better)"
     excerpt: "As Diablo 4 draws closer to its launch period in June, the game's pre-release hype cycle, including a free open beta period, has revealed some key details about the game, including information ..."
@@ -68,21 +82,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4's Skill Tree Brings The Best Of Diablo 2 and 3 Together"
-    excerpt: "Diablo has always been about slaying demons, leveling up, and acquiring new abilities. Diablo 4 is no exception, but takes a new approach to how these abilities are learned, featuring a complex web of ..."
-    publishedDateTime: 2023-03-28T01:36:00Z
-    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EVnG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=476&y=270"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "Z1O4DgVCvMSBnQamlHLyuHf4c7nlT6FBsDZK7Pu3NlG/t7n4rsrcLASQjATgAeSm80nrbANAfVQGVKJ91r1lm0a6ry8lSTcU4Acvqn0x0tlLE09S8fFDz/KBJGSbzH+t/0lNnup5XHUriDVPgVq6vXa+p9cpE3V/YGsWiK9haZl8zMZNzuxkcbWuuNXpi/WgeVVUQMw7t+6J6IQMhjH9VSxjDsaIw+kziYXr6YFh9acmHGwDOrnGIZ9P6uRlHRKrDAGSplex3nWYufJGFsMaKu8Jzx4S443QMWE28Uo2UQrdYuQLVeZyWRK7sOXE4rH46NgHoEEjZKgqO3pbqwtXB/vvIL3L0Y3jy1OC2O8jpdk=;X740Mot3/yWX8zYaStGs+Q=="
+secured: "+Y+1EE03hztYoqh2tIoZtCujqW8PSgsFiWb7+EQvRQwJKlC6JZ1ROdQ+DaRhuODztgqgcOGpdJi0RRH4ZHhgBHoWevIsz5ayTBkQznNqwd6XUWCb8A1eoDqCnBDqyCLQ3zPZq3PlR5Cts8xkvsANi/6XMk/u57b4GRuhWqx44HclJ1c8+jPUT3h3JQZ81ahtYRR1OmmURcT5D03qw5QVVFfE7zjwuYw78G3ZNgvuXj4eKTFbcfTMEXHyz+t8aSCuj1afaVoiadkZDevrI8cEkBo+Di5pAjV/7z43mFHYMRj3UR5el+fuCToy/CBDqHFf0WKgNSjR2LUgHQYush9TJ3YTRriBN4poYL0VXLvUFPo=;YTj5y746szG6LBvQ2FFkSg=="
 ---
 
