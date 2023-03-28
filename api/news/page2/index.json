@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-24-diablo-4-contest-offers-max-level-beta-players-chance-at-a-strange-reward.md",
+      "title": "Diablo 4 Contest Offers Max-Level Beta Players Chance at a Strange Reward",
+      "excerpt": "Blizzard announces a contest for Diablo 4 offering beta players that reach max level the opportunity to earn a strange reward. Blizzard has announced a new contest for Diablo 4 beta participants ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-contest-offers-max-level-beta-players-chance-at-a-strange-reward/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-contest-max-level-beta-players-strange-reward/",
+      "originalUrl": "https://gamerant.com/diablo-4-contest-max-level-beta-players-strange-reward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-lilith-key-art-beta-contest.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-diablo-4-level-up-fast-best-ways-to-earn-xp.md",
+      "title": "Diablo 4 Level Up Fast - Best Ways To Earn XP",
+      "excerpt": "GameSpot may get a commission from retail offers. The max level in the Diablo 4 beta is 25, which might not seem like too high of a cap at first glance. However, as you go through the game's prologue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-level-up-fast-best-ways-to-earn-xp/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "publishedDateTime": "2023-03-24T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-diablo-4-queued-for-login-explained.md",
       "title": "Diablo 4: Queued for Login Explained",
       "excerpt": "Diablo 4 officially launches for consoles and PC in early June. With only a couple of weeks left for Blizzard to prepare for release, the company is underway a two-week beta test period for the ...",
@@ -1048,108 +1150,6 @@
         "name": "Yahoo! Sports",
         "domain": "yahoo.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues.md",
-      "title": "Diablo 4 Open Beta Patch Addresses Queue Times, Fixes World Boss Spawn Issues",
-      "excerpt": "The rollout of Diablo IV's open beta will ideally be a little smoother than its early access one, thanks to a patch that should improve queue times. In an official post on the Diablo IV forums, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "publishedDateTime": "2023-03-22T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features.md",
-      "title": "Diablo 4’s Beta Buries One of Its Most Useful Quality of Life Features",
-      "excerpt": "Diablo 4 has concluded its first of two beta weekends and important intel has been shared since, including a terribly helpful quality of life feature. Teases for quests that were inaccessible were a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
-      "originalUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-quality-of-life-feature.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
