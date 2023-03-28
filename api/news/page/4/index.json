@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-21-over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot.md",
+      "title": "Over a million Diablo 4 players picked up a puppy last weekend, and you've still got one more shot",
+      "excerpt": "Diablo 4's open beta (opens in new tab) will begin this Friday, March 24, at 9 am PT / 12 pm ET / 4 pm GMT, and preloading will kick off tomorrow at, again, 9 am PT / 12 pm ET / 4 pm GMT. If you were ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/index.json",
+      "webUrl": "https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/",
+      "originalUrl": "https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aMzPjasAbhuN9XGkUqw9Me-1200-80.jpg",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-diablo-4-hands-on-preview-its-a-dark-dark-world.md",
       "title": "Diablo 4 hands-on preview: It's a dark, dark world",
       "excerpt": "Diablo 4 has been a long time coming, as Blizzard has tried to right past wrongs by taking its sweet time and making sure it's fully ready before bringing it to the masses. As part of that slow-boil ...",
@@ -1074,57 +1125,6 @@
       "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/",
       "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/",
       "publishedDateTime": "2023-03-18T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-diablo-4-how-to-use-transmog-and-dyes.md",
-      "title": "Diablo 4 - How To Use Transmog And Dyes",
-      "excerpt": "The Diablo 4 transmog system can be accessed via the Wardrobe, which is found in the Kyovashad inn. You'll visit this city early in the campaign. Anyway, given that Kyovashad is the main hub in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-18-diablo-4-how-to-use-transmog-and-dyes/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-transmog-dyes-pigments-guide/1100-6512474/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-transmog-dyes-pigments-guide/1100-6512474/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4114504-diablo4transmogdyespigmentsguide-.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-transmog-dyes-pigments-guide/1100-6512474/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-transmog-dyes-pigments-guide/1100-6512474/",
-      "publishedDateTime": "2023-03-18T14:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GameSpot",
