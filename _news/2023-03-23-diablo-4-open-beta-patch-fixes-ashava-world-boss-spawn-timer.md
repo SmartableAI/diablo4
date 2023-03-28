@@ -178,6 +178,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Player Solos World Boss Ashava In Hardcore Mode"
+    excerpt: "Diablo 4's second beta weekend has come to an end and some of you talented lot have already been pulling off some pretty remarkable feats. Perhaps none quite as remarkable as a streamer who ..."
+    publishedDateTime: 2023-03-28T03:31:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-player-solos-world-boss-ashava-in-hardcore-mode/ar-AA19aoow"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19avuE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iF4d+kbSj8E8oEfdP9l9pk/WyQdeS5KnQlyFRYhUrKvVUx2ewGDASy21wWr2fLljnpv/APpY0SolDGrp/ouRQ6bji0Iq66V6wAEScUB9AD+VAxzSNsegY1NvlIAN1EUpcLhiXITu7TDLsuc66OqTnmcPrn0Vo3/pCzPptnUTJ+//+9w0D9Woyuw6lDy248HkDDWs9axcYgScy4rVPF6Pw5zwJrHQnygaO7vqXw+P7kNMUwVzuyApS3W3upN40FFHavus6LzWgD9j72LP3o0XT7Bos955tieTBW2s9yYFgzC74qAvpiX3uywQxwGXAgQBhfc5ZRFK6ekvfTr2+DV5s8d5Wvu3rLVlQFG99a1xltE=;RRMKXR7J5LQ/EaSFIjdhCg=="
 ---
