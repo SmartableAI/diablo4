@@ -1,24 +1,24 @@
 ---
 category: news
 title: "How to swap your weapons in Diablo 4"
-excerpt: "All Diablo 4 Classes have a ‘Main Hand’ and an ‘Off Hand’ slot that can hold weapons, shields, or other items that fit your Class, but you automatically swap weapons based on the skill you’re ..."
-publishedDateTime: 2023-03-27T09:56:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-switch-weapons/"
-webUrl: "https://www.gamesradar.com/diablo-4-switch-weapons/"
+excerpt: "Swapping your weapons in Diablo 4 is easy, as they swap by themselves based on the skills you’re currently using - but it works a bit differently for Barbarians. If you’re new to Diablo, you might ..."
+publishedDateTime: 2023-03-27T18:25:00Z
+originalUrl: "https://news.yahoo.com/swap-weapons-diablo-4-165644089.html"
+webUrl: "https://news.yahoo.com/swap-weapons-diablo-4-165644089.html"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: Yahoo News
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/uoKWeCPV6Wtwi9sTPchtgh-1200-80.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/6X2TTPJc3.KdnKHfSzoosQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/dd58be6546c6494f58a158ac478e41a5"
     width: 1200
     height: 675
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 675
         isCached: true
 
-secured: "yUZ9Dxwf7pT97di32buZ7/J/i7ui3K0SyVv285bjhNh0XpiIZgFWgDRtk0zIRa2NZt9WMsFE2cRDOiN2b90p51LYuTFTZjWF+0B/10kq1jH60wleXdtbvo15TLndcOozXTKOZnc6tB8TKREnWeP/13f2U1b9RBA+fWhdDZ05OZuYnHsEU5i1JZp/9zsNusx240jK02qIaoBTwD5sA1P/QPHjqq458Oru9zF4RC9S31adPOzveW0O29zxYTW1FQAraEVaQsfKEqbIPosNZAgVCcqrpEL35hq4llh0WLfXxyi/yJXOxbaAVE7HExOiDPWGa+Z/3u0BfVcyUabD0CfaTjVf5tFLiE/GJ/zsRnfkXdg=;P11BNgKs1ljaQbcndGy14A=="
+secured: "qSPji2f2lemGtC95NnNThz3M7++UamNl5DVEyyiU4t9sCOYhLV13vSTwj4PEkAKgU4HQj0Mdhs9zlUwhHVA6Rn/I1ovqgCqeGBgbWGvzhnjlXssUHeoHUyzGpFvRV3uyEB79Ziqn6zYBbIKxBWKN5+H/A4F706IduzyqLmbgPRzAK+vwPNvkrlQFjrF3TISKYdD/BwfUvhOoO7gh5145AEpoJmpXIs86aTBaOiXDCghJjkW9T+0B1kpOGduj0f/6UQSksR8wWA8b8laf+0F8EOB9lRQNSKHdIpNZM014TUcC/fbmxJU4pSxY+28ZItTDr2bQx8S7V508Bu/ztjD6vVVFYNXG8dvX3FcwgWWbFKM=;RXG32FnpoEiRm12gs0wuuA=="
 ---
 

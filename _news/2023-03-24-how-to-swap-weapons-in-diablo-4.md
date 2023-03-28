@@ -29,16 +29,16 @@ images:
 
 related:
   - title: "How to swap your weapons in Diablo 4"
-    excerpt: "All Diablo 4 Classes have a ‘Main Hand’ and an ‘Off Hand’ slot that can hold weapons, shields, or other items that fit your Class, but you automatically swap weapons based on the skill you’re ..."
-    publishedDateTime: 2023-03-27T09:56:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-switch-weapons/"
+    excerpt: "Swapping your weapons in Diablo 4 is easy, as they swap by themselves based on the skills you’re currently using - but it works a bit differently for Barbarians. If you’re new to Diablo, you might ..."
+    publishedDateTime: 2023-03-27T18:25:00Z
+    webUrl: "https://news.yahoo.com/swap-weapons-diablo-4-165644089.html"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: Yahoo News
+      domain: yahoo.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/uoKWeCPV6Wtwi9sTPchtgh-1200-80.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/6X2TTPJc3.KdnKHfSzoosQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/dd58be6546c6494f58a158ac478e41a5"
         width: 1200
         height: 675
         isCached: true
