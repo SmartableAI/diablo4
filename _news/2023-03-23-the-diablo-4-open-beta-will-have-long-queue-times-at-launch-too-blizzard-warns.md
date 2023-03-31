@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
+    excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
+    publishedDateTime: 2023-03-30T19:46:00Z
+    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Diablo 4 open beta will have long queue times at launch too, Blizzard warns"
     excerpt: "Last weekend's Diablo 4 early access beta got off to a rough start. Servers were immediately slammed, which meant long waits for anyone trying to get in, and unstable connections for everyone who did."
     publishedDateTime: 2023-03-24T02:58:00Z

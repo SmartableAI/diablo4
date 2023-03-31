@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Blizzard warns of \"unprecedented traffic and queue times\" ahead of Diablo 4 open beta"
-excerpt: "Blizzard has warned of \"unprecedented traffic and queue times\" ahead of the Diablo 4 open beta, which kicks off this afternoon at 4pm. \"Best to set some expectations early but any issues this weekend ..."
-publishedDateTime: 2023-03-24T02:14:00Z
-originalUrl: "https://www.eurogamer.net/blizzard-warns-of-unprecedented-traffic-and-queue-times-ahead-of-diablo-4-open-beta"
-webUrl: "https://www.eurogamer.net/blizzard-warns-of-unprecedented-traffic-and-queue-times-ahead-of-diablo-4-open-beta"
+title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
+excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
+publishedDateTime: 2023-03-30T19:46:00Z
+originalUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
+webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
 type: article
-quality: 80
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assets.reedpopcdn.com/diablo-4.jpeg/BROK/thumbnail/1200x630/diablo-4.jpeg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
-    excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
-    publishedDateTime: 2023-03-30T19:46:00Z
-    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Diablo 4 open beta will have long queue times at launch too, Blizzard warns"
     excerpt: "Last weekend's Diablo 4 early access beta got off to a rough start. Servers were immediately slammed, which meant long waits for anyone trying to get in, and unstable connections for everyone who did."
     publishedDateTime: 2023-03-23T19:43:00Z
@@ -112,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard warns of \"unprecedented traffic and queue times\" ahead of Diablo 4 open beta"
+    excerpt: "Blizzard has warned of \"unprecedented traffic and queue times\" ahead of the Diablo 4 open beta, which kicks off this afternoon at 4pm. \"Best to set some expectations early but any issues this weekend ..."
+    publishedDateTime: 2023-03-24T02:14:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-warns-of-unprecedented-traffic-and-queue-times-ahead-of-diablo-4-open-beta"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 80
+    images:
+      - url: "https://assets.reedpopcdn.com/diablo-4.jpeg/BROK/thumbnail/1200x630/diablo-4.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blizzard warns Diablo 4 Open Beta players of “unprecedented” traffic and long queue times"
     excerpt: "In a surprising announcement to its Diablo 4 player base, Blizzard has now revealed that players participating in the Open Beta are set to experience “unprecedented” traffic and long queue times ..."
     publishedDateTime: 2023-03-23T13:39:00Z
@@ -127,6 +127,6 @@ related:
         height: 631
         isCached: true
 
-secured: "Qfp84rn2iaAKUwylUpR++MNVSL06NOwTlDTKxHSwe1ewnWOaqAom+iVroNDLGJTJpFTBOBiDxM9v0wRzDvBGptXMxJu8/bYUC+gE+5uROiO6A/fqcxPhUbck0ZiWbsPdzYg4ZP2ATe8UYx4l6ZSJU/ZjAeCnASzSnN6msXEgMZpyNU+x+8QLaACYsh3kys7wbpzWv1B/pYQsjIJowloinYYDBmXboGnU4w2KmVl0Gex4Jx0CQ5nQbOpoLP2XnJ/pHcC/c29qzt7b8p//VdWOLyj6gifPyOrBMVmRWWOFMzqa0gm66nZWufPLmw/RuvAvlnguS3BDF1MtMJPzt+XkOK0JA3oxyEINcxiNGS2Te+Q=;X8k7EtboMXFU5vR9ihDZoA=="
+secured: "EuMe2VdWbJYlODSfEsFCwV/b30KUuOK9nl5SRnYHbvW8gUThh1SvyElES8zKTWKMnBSlQWlM4Y06zBgIyfHZVYBK//FEHlB5VagB3XAFs69XCnnZNiMeYH/qdJTgAdATkHjRk98u8ErIswisa4WFw1UDg2pLVN+GlCw4ijqxdDTi8hyaNH5yfc3SZGof96cClm+WlpGIXE6QWfGWYI+gUO+7uiT9Ief3eR5tpQ1s/XK96t2XjryWpTkY/PABu//hw2HVtrFcSl1UT3ryrtckz52yT+tsxiM97OC3fueqhY/KgVp+FfzSIDswmXyEbA4CWaCKRivR9vFjQXx7yb5FfKq7dLc6/s7V7VbZ/fJf38A=;0/fg/N4oHz/XcIOtV5LsdQ=="
 ---
 

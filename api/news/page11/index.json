@@ -2,6 +2,150 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features.md",
+      "title": "Diablo 4 Explains Legendary Items and Codex of Power Features",
+      "excerpt": "Diablo 4's Game Directors discuss how Legendary Items are handled in the sequel with the introduction of its universal Codex of Power feature.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
+      "originalUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-5.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
+      "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
+      "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
+      "originalUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RSmVHnRfezmk8VcumjCrrj-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream.md",
+      "title": "Watch the First Diablo IV Developer Update Livestream",
+      "excerpt": "Join Diablo IV game director Joe Shely and associate game director Joseph Piepiora as they introduce the new Codex of Power system and more invitingly dark details.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ls/LSX25ZTHA9E11670628043496.png",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-diablo-4-reveals-battle-pass-price.md",
       "title": "Diablo 4 Reveals Battle Pass Price",
       "excerpt": "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last. Blizzard’s Diablo 4 team recently discussed the game's ...",
@@ -976,141 +1120,6 @@
       "provider": {
         "name": "Video Games Chronicle",
         "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching.md",
-      "title": "Diablo 4 release date latest: When is the new game launching?",
-      "excerpt": "If you’re excited about the Diablo 4 release date and can’t wait to play, you’ll need to read on to find out when the game should release, when and where you can pre-order, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching/index.json",
-      "webUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
-      "originalUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/Diablo-4-release-date-0ff18e7.jpg?quality=90&resize=620,413",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
-      "cdnAmpWebUrl": "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
-      "publishedDateTime": "2022-12-07T23:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Radio Times",
-        "domain": "radiotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023.md",
-      "title": "‘Diablo 4’ Is Looking Like It Could Be The Biggest Game Of 2023",
-      "excerpt": "It is incredibly easy to be skeptical of Diablo 4 and Blizzard as a whole lately, given the problems within that studio and the fact that Diablo 4 itself even lost its director as one of the ousted ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60ddbaa83acec7bca0289ace/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/12/08/diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023/amp/",
-      "publishedDateTime": "2022-12-07T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like.md",
-      "title": "Diablo 4 leak outlines what Ultimate and Deluxe Editions of the game will look like",
-      "excerpt": "Diablo IV is one of the most anticipated games of the next year, and some fresh details about the game’s editions just dropped. The new information was revealed by Insider-Gaming today. The website ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like/index.json",
-      "webUrl": "https://dotesports.com/general/news/diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like",
-      "originalUrl": "https://dotesports.com/general/news/diablo-4-leak-outlines-what-ultimate-and-deluxe-editions-of-the-game-will-look-like",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.dotesports.com/wp-content/uploads/2022/09/19041435/maxresdefault-21-768x432.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T20:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
         "images": null,
         "publishers": null,
         "authors": null

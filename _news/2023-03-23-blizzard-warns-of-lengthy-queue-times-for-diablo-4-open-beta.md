@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queu
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/"
 type: article
 quality: 147
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
     excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
     publishedDateTime: 2023-03-23T21:54:00Z
     webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says"
+    excerpt: "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ..."
+    publishedDateTime: 2023-03-30T19:46:00Z
+    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK"
     type: article
     provider:
       name: MSN
