@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The Diablo 4 beta's world boss has an absolutely savage kill death ratio"
-excerpt: "Blizzard has revealed the official Diablo 4 beta stats, and they prove the one world boss included in the test is an absolute monster. In total, Ashava managed to fell over 10 million players in the ..."
-publishedDateTime: 2023-03-31T01:57:00Z
-originalUrl: "https://www.msn.com/en-ie/money/technology/the-diablo-4-beta-s-world-boss-has-an-absolutely-savage-kill-death-ratio/ar-AA19ig4a"
-webUrl: "https://www.msn.com/en-ie/money/technology/the-diablo-4-beta-s-world-boss-has-an-absolutely-savage-kill-death-ratio/ar-AA19ig4a"
+title: "Diablo 4’s Butcher killed over 1.7 million players, Ashava got 47 million kills"
+excerpt: "Blizzard shared some cool Diablo 4 beta stats. Blizzard Entertainment has released a few statistics from the recent Diablo 4 open beta test, revealing that players spent 61,560,437 hours in Sanctuary ..."
+publishedDateTime: 2023-03-31T05:07:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-butcher-killed-over-17-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-butcher-killed-over-17-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
 type: article
-quality: 86
+quality: 83
 heat: -1
 published: false
 
@@ -18,7 +18,7 @@ topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19i9NE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
     height: 630
     isCached: true
@@ -52,17 +52,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4’s Butcher killed over 1.7 million players, Ashava got 47 million kills"
-    excerpt: "Blizzard shared some cool Diablo 4 beta stats. Blizzard Entertainment has released a few statistics from the recent Diablo 4 open beta test, revealing that players spent 61,560,437 hours in Sanctuary ..."
-    publishedDateTime: 2023-03-31T05:07:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-butcher-killed-over-17-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
+  - title: "The Diablo 4 beta's world boss has an absolutely savage kill death ratio"
+    excerpt: "Blizzard has revealed the official Diablo 4 beta stats, and they prove the one world boss included in the test is an absolute monster. In total, Ashava managed to fell over 10 million players in the ..."
+    publishedDateTime: 2023-03-31T01:57:00Z
+    webUrl: "https://www.msn.com/en-ie/money/technology/the-diablo-4-beta-s-world-boss-has-an-absolutely-savage-kill-death-ratio/ar-AA19ig4a"
     type: article
     provider:
       name: MSN
       domain: msn.com
-    quality: 83
+    quality: 86
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19i9NE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
@@ -76,6 +76,6 @@ related:
       domain: yahoo.com
     quality: 62
 
-secured: "Y7oUSMHg158Fp0mz8jKDCKDU91djhKQGHhPcEyB06DU8HBCxWYAYWPYrGnljs+9r4miiDXovLrFLGGbg2MKCpNL+TzRxIMkX/GjimQR4Cyv2gt0ZUzkDYGOOXQZhDlP61qbJ7cpa27lXoDoVFEnCSU441uK4ZL3P1ad9YmfY/vEamSvik5m0N66Q6g2W881ses8Kq9HvGyxQdwXD4Kj4i+t7psRA30S+nIWXeLUpjfaXJtw7iJ2k9soXIbOzv+8sdiXqDPxT4jhaTKAikN1nZ6M20Cet7+8xxmSLR8TOXMaLWOvy2R7s9y9vZ69W5G0ejbhznD48rXuleQZFCIrgJLyVbLbFa1bE4PLR2nY6Bfk=;d0Q45QHbnwz6d+w3CK1eWA=="
+secured: "mThk4NfHRbPUSV1SOkEZFotvxWh4KsoPJQusuh6oTSPHDJ/ikA7x7NQhFgBfFvQoeTZ+7VMoaCZJz1SHvCa6TEd5mOCtX4jZvTg5A/2CuJdQzZUUNd+NibmKkMphI4CiOwH9y25H/L5N7aHsqFHeHxbNNViOYqk1YsIUZqLJLS8XweBo/7g6OGnCN4I+8//pygpqnMUkxLCsfNnmI22II0DwVHtrE5oLCxG2nRoVaV2NzaZgtJCOAHrD2npycLkjBZ6cta6/0e2HfAqYLgzJ5RruulH5NcMxbY+Gy5COE6A8JUSQEXVbeLGrTqNJdwxLTUYvB+BeHyoQVQ71HwSVcb1UaKvX+AMPeUJcHLQXPXI=;D0Fl+Nwjc4xL2fFKcAmx7w=="
 ---
 

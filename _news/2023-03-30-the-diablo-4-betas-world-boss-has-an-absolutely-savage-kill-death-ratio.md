@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4’s Butcher killed over 1.7 million players, Ashava got 47 million kills"
+    excerpt: "Blizzard shared some cool Diablo 4 beta stats. Blizzard Entertainment has released a few statistics from the recent Diablo 4 open beta test, revealing that players spent 61,560,437 hours in Sanctuary ..."
+    publishedDateTime: 2023-03-31T05:07:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-butcher-killed-over-17-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 83
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154GUP.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4's world boss is already being soloed by open beta players - on hardcore"
     excerpt: "The titanic Diablo 4 world boss from the open beta is already being soloed – and on hardcore to boot. So far, we've seen two players achieve the feat who have posted videos online to prove it. Diablo ..."
     publishedDateTime: 2023-03-27T12:30:00Z

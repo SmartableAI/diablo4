@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-27-diablo-4-rumor-claims-release-date-is-questionable.md",
+      "title": "Diablo 4 Rumor Claims Release Date Is \"Questionable",
+      "excerpt": "The release date of Diablo 4 is reportedly in doubt. Diablo 4 is one of the most anticipated games of 2023 and it comes after almost a whole decade of Diablo 3. The franchise is slated to make its ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-27-diablo-4-rumor-claims-release-date-is-questionable/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-questionable/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-questionable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/01/04/e9318c98-a48e-403c-b1e9-06060f83a42b/2023-video-game-anticipated-2.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-date-questionable/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-date-questionable/",
+      "publishedDateTime": "2023-01-27T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4.md",
       "title": "Diablo 3 Season 28 is the perfect preparation for Diablo 4",
       "excerpt": "This also positions its end date perfectly with the launch of Diablo 4 on June 2. This season’s thematic is the ‘Rites of Sanctuary,’ which thrusts players into the heart of the long-forgotten ...",
@@ -1005,48 +1047,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-diablo-4-standard-deluxe-ultimate-edition-differences-explained.md",
-      "title": "Diablo 4 Standard, Deluxe, & Ultimate Edition Differences Explained",
-      "excerpt": "Pre-orders for Diablo 4 are now open, with players able to choose from three separate editions that each pack their own unique bonuses. Blizzard tends to offer incentives for players to pre-order ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-22-diablo-4-standard-deluxe-ultimate-edition-differences-explained/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-standard-deluxe-and-ultimate-edition-differences-explained/ar-AA15zTIh",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-standard-deluxe-and-ultimate-edition-differences-explained/ar-AA15zTIh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15zMKk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,

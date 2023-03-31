@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway.md",
+      "title": "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway",
+      "excerpt": "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway/index.json",
+      "webUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
+      "originalUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch.md",
       "title": "Blizzard Is Giving Away Diablo 4, But There's A Huge Catch",
       "excerpt": "Blizzard is giving away free copies of Diablo 4, but there's a huge catch: fans have to get tattooed to do it. A new event is sweeping across the nation.",
@@ -1034,57 +1085,6 @@
         "name": "International Business Times",
         "domain": "ibtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-iv-quarterly-updatejune-2022.md",
-      "title": "Diablo IV Quarterly Update—June 2022",
-      "excerpt": "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-iv-quarterly-updatejune-2022/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3q/3QIS84S3PJK41654707055839.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-diablo-4s-pokemon-style-raid-battles-are-great.md",
+      "title": "Diablo 4's Pokémon-style Raid Battles Are Great",
+      "excerpt": "You can find CBR's continuing coverage of the Activision Blizzard allegations here. Diablo IV is in many ways a recall of the past entries in the Diablo series and a return to form in tone and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4s-pokemon-style-raid-battles-are-great/index.json",
+      "webUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-s-pokémon-style-raid-battles-are-great/ar-AA19heov",
+      "originalUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-s-pokémon-style-raid-battles-are-great/ar-AA19heov",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19hnuA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=280&y=292",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-31-players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends.md",
+      "title": "Players collectively spent over 7000 years in Diablo 4 in its two beta weekends",
+      "excerpt": "Diablo 4 (opens in new tab) concluded its second and final beta period last weekend, and the numbers are in. The two beta weekends—which ran from March 17 to March 20 and March 24 to March 27—made up ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/index.json",
+      "webUrl": "https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/",
+      "originalUrl": "https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sxFn6LD4q7hdnTxvrFxryT-1200-80.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-diablo-4-esports-wont-have-blizzards-official-support.md",
       "title": "Diablo 4 Esports Won't Have Blizzard's Official Support",
       "excerpt": "Blizzard has confirmed that it has no plans to support Diablo 4 esports at this time. Esports in ARPGs isn't traditionally a major endeavor, as competition tends to focus heavily on PvE progression in ...",
@@ -52,7 +145,7 @@
       "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-stats",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -157,48 +250,6 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-diablo-4s-open-beta-saw-over-29-billion-innocent-monsters-meet-their-grisly-demise.md",
-      "title": "Diablo 4’s Open Beta Saw Over 29 Billion Innocent Monsters Meet Their Grisly Demise",
-      "excerpt": "In preparation for the upcoming release of Diablo IV, last weekend saw the conclusion of its Open Beta, allowing players to dive into the Fractured Peaks zone, level their characters up to 25, and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4s-open-beta-saw-over-29-billion-innocent-monsters-meet-their-grisly-demise/index.json",
-      "webUrl": "https://twinfinite.net/2023/03/diablo-4s-open-beta-saw-over-29-billion-innocent-monsters-meet-grisly-demise/",
-      "originalUrl": "https://twinfinite.net/2023/03/diablo-4s-open-beta-saw-over-29-billion-innocent-monsters-meet-grisly-demise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo_4_lillith_graphic.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1026,48 +1077,6 @@
       "provider": {
         "name": "The Mirror",
         "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-is-borrowing-one-of-wows-best-features-and-i-love-it.md",
-      "title": "Diablo 4 is borrowing one of WoW’s best features, and I love it",
-      "excerpt": "The curtains have closed on the Diablo 4 beta, and it turns out that Blizzard's action RPG game is borrowing one of the best features from sister MMORPG, WoW.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-is-borrowing-one-of-wows-best-features-and-i-love-it/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/wow-feature",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/wow-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-wow-feature-items-loot.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
