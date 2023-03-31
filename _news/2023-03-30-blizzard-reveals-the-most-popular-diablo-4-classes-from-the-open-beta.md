@@ -76,8 +76,8 @@ related:
         isCached: true
   - title: "Diablo 4 Stats Reveal Most Popular Classes"
     excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
-    publishedDateTime: 2023-03-30T16:13:00Z
-    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+    publishedDateTime: 2023-03-30T20:03:00Z
+    webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
     type: article
     provider:
       name: MSN

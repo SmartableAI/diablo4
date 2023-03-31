@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Stats Reveal Most Popular Classes"
 excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
-publishedDateTime: 2023-03-30T16:13:00Z
-originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
-webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+publishedDateTime: 2023-03-30T20:03:00Z
+originalUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
 type: article
 quality: 87
 heat: -1
@@ -85,6 +85,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7JkVJ1/oTfKIOj0Qkzx++4muNOQOQb/eCOwnuFVpJI6Lh3ICuHgg2caTATLbttStFS+4HU4faTSZqIaBftYtkqoIZpQvC65j4KxcWm+avxiqotAQdKQpGKjbcgsnsBtxhsbVnlBLAuNrguk/JZrnbY3iKnN7bxm6OTB7A2ucfml0uEpNS8KAtoyxMeQG7GCMyIVf1/PEGj4YP8aNAnOwc8yFWUSqXexOvI0gcwxO0rykX0yTsuZlZyX/9NUvagaixiJXg8eAGbbSxs6k4U7AHKlrJE9vt+qaRqAAYA2t0GXAfj3vi+DW6jTYDWAILSO+nJtRXsXtbqoZMHlQ8+BMDwNoDa52DoBucabDonyatlg=;hfmczoltSmZwIi6Nc3E0gg=="
+secured: "LLrpgMClPJFCfSEbXmavIUeWHo821HfuQRjGdhGKKtm+ChiHoUpBJRxbxiYaCJrwxWdF6YSPPBb6RhAEXa40OSLRiyk/w+Aypqs2A0lDHPHKT5Rm2+5+MaTTEN8TKWIhHws1CYhjF9H0r9KA2GKBSjrUc0l8046qp5Hy4cy52vhmvAc7Tl5KbLgbt1cQ0QhICA2O4dEjxcH0TbxPeJwgOCGSB10WvVJPM5Fv4qJNHolZS7VK79H9CyUcTW74EKV+y1TObZ+IocSRALz3z6xZ218WDxEIthhXONiF6BYUcpOVM9K9NomhJYHL61k418XvsNHpICXG78PcZsO6NxaG0UAex+nAzsNcE1HB7PsQ5jQ=;RRDNuZInyxdjk9VdgiIJ/Q=="
 ---
 
