@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Diablo 4 Xbox Series X Bundle Announced and it's Underwhelming"
+    excerpt: "And I say that from the perspective of being a Diablo super-fan. After seeing the news that there was an \"Xbox Series X – Diablo IV Bundle\" coming June 6, 2023, for AUD 849, my mind quickly wondered ..."
+    publishedDateTime: 2023-03-30T21:27:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3646203/diablo-4-xbox-series-x-bundle-announced-and-its-underwhelming"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 87
+    images:
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4xbox.jpg"
+        width: 695
+        height: 390
+        isCached: true
 
 secured: "OKwigKFt/sFRPqL4pxgRkL/oaAzFz1OhGpmutTbTizU1DdtcS8de8u8QsfXBWZcpdTGug75T16XySr/ZEdz0M+Iez8GwKkmPHhqAg/qtTxu6k4g0pIL2kcB0P4jw4niqQfrArjcY1JMS3JIDJN4GsPRZIfY0miDzmOwYXaq8SwmAi26ClwAbcav024ljUQ002Fc/bAf8+XM09Ha/uHJh2AC7ePuuBcQ45VpC3WuMXLTLk6jUwOZMTvqx90ukRcTM2VmWw7ZfKLmbMRxSwOqktvPTTrlFh561NxffSk/bIcBjZuMef6RM4ltqOU9H0LlVyviy2mIjuyfxYp2l0qU75GwTiGtDTqNO+Bm0bpmocr4=;AF7KWnhz+ZvAnRPZoyHmJQ=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is there character customization in Diablo 4?"
-    excerpt: "Diablo IV is Blizzard's latest entry in the iconic and hellish action RPG series. Fans will find familiar mechanics such as fighting demons, selecting a class, and creating a character. You can dive ..."
-    publishedDateTime: 2023-03-11T11:59:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/is-there-character-customization-in-diablo-4/ar-AA18vsCf"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18vCG6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=638&y=279"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How character customization works in Diablo 4"
     excerpt: "Diablo 4 is coming out soon and fans curious about how far the customization goes in character creation. In previous games of the franchise, such as Diablo 2, certain classes were locked behind ..."
     publishedDateTime: 2023-03-12T21:23:10Z

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is there character customization in Diablo 4?"
-    excerpt: "Diablo IV is Blizzard's latest entry in the iconic and hellish action RPG series. Fans will find familiar mechanics such as fighting demons, selecting a class, and creating a character. You can dive ..."
-    publishedDateTime: 2023-03-11T11:59:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/is-there-character-customization-in-diablo-4/ar-AA18vsCf"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18vCG6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=638&y=279"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fan Shares Impressive Kratos Character Creation in Diablo 4’s Beta"
     excerpt: "The Diablo 4 Early Access Beta dropped on March 17, giving fans of Blizzard’s action RPG their first chance to get hands-on experience with the upcoming installment. While players strive to get to ..."
     publishedDateTime: 2023-03-20T05:08:00Z

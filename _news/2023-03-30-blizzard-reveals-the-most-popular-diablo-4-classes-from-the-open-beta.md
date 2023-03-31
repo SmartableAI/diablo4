@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Diablo 4 Stats Reveal Most Popular Classes"
-excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
-publishedDateTime: 2023-03-30T16:13:00Z
-originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
-webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+title: "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta"
+excerpt: "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ..."
+publishedDateTime: 2023-03-30T16:31:00Z
+originalUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/"
+webUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/"
+ampWebUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 107
+heat: 187
+published: true
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19hQ40.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
+  - url: "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200"
+    width: 920
+    height: 613
     isCached: true
 
 related:
-  - title: "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta"
-    excerpt: "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ..."
-    publishedDateTime: 2023-03-30T16:31:00Z
-    webUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/"
-    ampWebUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200"
-        width: 920
-        height: 613
-        isCached: true
   - title: "Diablo 4 Stats Reveal Most-Played Classes"
     excerpt: "With Diablo 4's first beta now wrapped as of this past weekend, Blizzard has now shared some stats detailing the public's experience with the game after being able to go hands-on with it for the first ..."
     publishedDateTime: 2023-03-30T10:13:00Z
@@ -84,7 +74,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Stats Reveal Most Popular Classes"
+    excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
+    publishedDateTime: 2023-03-30T16:13:00Z
+    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19hQ40.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "7JkVJ1/oTfKIOj0Qkzx++4muNOQOQb/eCOwnuFVpJI6Lh3ICuHgg2caTATLbttStFS+4HU4faTSZqIaBftYtkqoIZpQvC65j4KxcWm+avxiqotAQdKQpGKjbcgsnsBtxhsbVnlBLAuNrguk/JZrnbY3iKnN7bxm6OTB7A2ucfml0uEpNS8KAtoyxMeQG7GCMyIVf1/PEGj4YP8aNAnOwc8yFWUSqXexOvI0gcwxO0rykX0yTsuZlZyX/9NUvagaixiJXg8eAGbbSxs6k4U7AHKlrJE9vt+qaRqAAYA2t0GXAfj3vi+DW6jTYDWAILSO+nJtRXsXtbqoZMHlQ8+BMDwNoDa52DoBucabDonyatlg=;hfmczoltSmZwIi6Nc3E0gg=="
+secured: "HF0e5cjbsCR4cp9cNQtEdZ2qNcQd1exNIdjx5QzkjZMTlvVkjrVqzIkOcJM1Q1vQ6RZRkzDB8S7RjQ/pCLnjdCrzgak8uj8yZy0+BcuV9p73Jn4egAuAOq6DiLf0PjtBO3LgeIjmBHiDRN9Li3q9t5R+8PvSX2rFp93kfYa4FrvuAKqnPi3gwH0s3w9Iwl4E/x4W9srpBLDkcGxdSS0pNPK0hvIH7rR9b0OTsioE0v4UEk6rBWzyR+3rS0h7o53D4B6Imb1TclvhgUctcECRicvvOPZeifwkj1AggLYl4aWj9mKqQk3wFs/4lq9wAACausev3LaVH+CkSUFsgmrcJIIMNsWIZGrzn1FACjXsgfA=;jp92Ie88uDJgqwJF3No/ug=="
 ---
 

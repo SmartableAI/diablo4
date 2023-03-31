@@ -7,7 +7,7 @@ originalUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-clas
 webUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta class tier list, best classes in the beta ranked"
-    excerpt: "The best class in the Diablo 4 beta is quite a subjective thing, you're encouraged to pick a base class and build them up into a character that suits your personal preferences. Therefore, pinning down ..."
-    publishedDateTime: 2023-03-24T09:01:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-beta-class-tier-list-ranked-9337"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo-four-all-five-classes-official-blizzard-artwork.jpg/BROK/thumbnail/1200x630/diablo-four-all-five-classes-official-blizzard-artwork.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4: Class Tier List"
     excerpt: "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ..."
     publishedDateTime: 2023-03-26T17:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Xbox Series X Bundle Announced and it's Underwhelming"
+    excerpt: "And I say that from the perspective of being a Diablo super-fan. After seeing the news that there was an \"Xbox Series X – Diablo IV Bundle\" coming June 6, 2023, for AUD 849, my mind quickly wondered ..."
+    publishedDateTime: 2023-03-30T21:27:00Z
+    webUrl: "https://www.ausgamers.com/news/read/3646203/diablo-4-xbox-series-x-bundle-announced-and-its-underwhelming"
+    type: article
+    provider:
+      name: Aus Games
+      domain: ausgamers.com
+    quality: 87
+    images:
+      - url: "http://www.ausgamers.com/gameres/7407/images/695/d4xbox.jpg"
+        width: 695
+        height: 390
+        isCached: true
   - title: "Microsoft Unveils Diablo 4 Xbox Series X Bundle Available for Preorder"
     excerpt: "Microsoft and developer Blizzard Entertainment are teaming up for a special Xbox bundle ahead of highly-anticipated release of Diablo 4. The Diablo 4 Xbox Series Bundle is available for preorder ..."
     publishedDateTime: 2023-03-30T12:29:22Z
