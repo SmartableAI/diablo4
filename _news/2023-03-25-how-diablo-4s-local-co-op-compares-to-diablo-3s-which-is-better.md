@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Is Diablo Immortal different than Diablo 4?"
-    excerpt: "Waiting for the release of Diablo 4 is a tedious task for fans of the Blizzard franchise. For this reason, many have turned to the mobile offering, Diablo Immortal, to hold them over until the fourth ..."
-    publishedDateTime: 2023-03-17T17:57:00Z
-    webUrl: "https://www.videogamer.com/news/is-diablo-immortal-different-than-diablo-4/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/DIablo-4-Dry-Steppes-1.jpg"
-        width: 1200
-        height: 500
-        isCached: true
   - title: "Diablo 4's Skill Tree Brings The Best Of Diablo 2 and 3 Together"
     excerpt: "Diablo has always been about slaying demons, leveling up, and acquiring new abilities. Diablo 4 is no exception, but takes a new approach to how these abilities are learned, featuring a complex web of ..."
     publishedDateTime: 2023-03-27T15:00:00Z

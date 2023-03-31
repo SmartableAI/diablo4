@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 preloading for the early access beta has started"
-    excerpt: "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ..."
-    publishedDateTime: 2023-03-15T11:04:00Z
-    webUrl: "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 127
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "PSA: The Diablo 4 Beta Preload Is Live"
     excerpt: "Diablo IV will be released on June 6, 2023. John Wick: Chapter 4 - Official Final Trailer Check out the new, action-packed trailer for John Wick: Chapter 4, the upcoming movie starring Keanu Reeves, Donnie Yen, Bill Skarsgård, Laurence Fishburne ..."
     publishedDateTime: 2023-03-15T17:40:00Z
@@ -105,20 +91,6 @@ related:
     quality: 87
     images:
       - url: "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Open Beta preloads are live on Xbox and PC for Early Access owners"
-    excerpt: "Preloads for the Diablo 4 Open Beta are now available on Xbox, PC, and PlayStation for anyone that preordered the game and has Early Access. The Open Beta is scheduled to first run from March 17-19 ..."
-    publishedDateTime: 2023-03-15T14:50:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-preloads-are-live-on-xbox-and-pc-for-early-access-owners/ar-AA18G2se"
-    type: article
-    provider:
-      name: Windows Central on MSN
-      domain: msn.com
-    quality: 85
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18G7E2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true

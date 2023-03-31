@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/"
 type: article
 quality: 147
-heat: 407
+heat: 387
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4114029-diablo4betaqueuetimes.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Diablo 4 Beta: When it Starts and How to Get Into It"
-    excerpt: "Diablo 4 is about to enter its first public beta, and with the excitement comes some uncertainty about the best way to access it. Who can play the beta, how to enroll in it, and w"
-    publishedDateTime: 2023-03-09T09:03:00Z
-    webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-beta-early-access.jpg"
-        width: 1800
-        height: 900
         isCached: true
   - title: "Diablo 4 beta rewards: how to earn all titles and cosmetics"
     excerpt: "Diablo 4‘s beta is an opportunity for fans of the loot-heavy role-playing game to sink some time into its dark and demonic world before the game launches on June 6. Though you can invest a good bit of ..."

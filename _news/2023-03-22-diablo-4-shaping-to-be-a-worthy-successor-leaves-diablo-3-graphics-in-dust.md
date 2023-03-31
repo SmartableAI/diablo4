@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-w
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133-amp.html"
 type: article
 quality: 105
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Diablo Immortal different than Diablo 4?"
-    excerpt: "Waiting for the release of Diablo 4 is a tedious task for fans of the Blizzard franchise. For this reason, many have turned to the mobile offering, Diablo Immortal, to hold them over until the fourth ..."
-    publishedDateTime: 2023-03-17T17:57:00Z
-    webUrl: "https://www.videogamer.com/news/is-diablo-immortal-different-than-diablo-4/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/DIablo-4-Dry-Steppes-1.jpg"
-        width: 1200
-        height: 500
-        isCached: true
   - title: "How Diablo 4’s Local Co-Op Compares To Diablo 3’s (& Which Is Better)"
     excerpt: "As Diablo 4 draws closer to its launch period in June, the game's pre-release hype cycle, including a free open beta period, has revealed some key details about the game, including information ..."
     publishedDateTime: 2023-03-25T05:00:00Z

@@ -2,6 +2,393 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-17-diablo-4-error-code-300202-how-to-fix.md",
+      "title": "Diablo 4 Error Code 300202 – how to fix?",
+      "excerpt": "Thousands of people tried to get onto the Diablo 4 servers at once, only to be met with the error code 300202. Amongst others (34202 & 315306), it’s clear that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-error-code-300202-how-to-fix/index.json",
+      "webUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
+      "originalUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-error-code-300202.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-best-graphics-settings-for-diablo-4-beta.md",
+      "title": "Best graphics settings for Diablo 4 Beta",
+      "excerpt": "We’re covering the best graphics settings for the Diablo 4 Beta, with optimised options for DLSS 3, HDR, & more. The Diablo 4 Beta weekend runs between March 17th – 19th, so if you’re trying to get ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-best-graphics-settings-for-diablo-4-beta/index.json",
+      "webUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
+      "originalUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-settings-for-Diablo-4-beta.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-beta-is-plagued-with-error-codes-as-the-servers-struggle-to-meet-demand.md",
+      "title": "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand",
+      "excerpt": "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-beta-is-plagued-with-error-codes-as-the-servers-struggle-to-meet-demand/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-server-errors",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-server-errors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt.md",
+      "title": "Diablo 4 pays tribute to the original game with dungeon built around a screenshot of the Crypt",
+      "excerpt": "Diablo 4 developers used a screenshot of the Crypt from the original game to design one of the dungeons in the upcoming action-RPG. Diablo 4's early beta access, available to those who've pre-ordered ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-if-you-want-a-real-taste-of-hell-you-should-play-diablo-4-on-hardcore-mode.md",
+      "title": "If you want a real taste of hell, you should play Diablo 4 on Hardcore mode",
+      "excerpt": "You might be tempted to dive into Diablo 4 and play it easy – scope out this ruined world, find your bearings in the hellscape fantasy that Blizzard has cooked up this time. But, if you’re after a ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-if-you-want-a-real-taste-of-hell-you-should-play-diablo-4-on-hardcore-mode/index.json",
+      "webUrl": "https://www.vg247.com/play-diablo-4-hardcore-mode",
+      "originalUrl": "https://www.vg247.com/play-diablo-4-hardcore-mode",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.vg247.com/Diablo-4-head.jpg/BROK/thumbnail/1200x630/Diablo-4-head.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vg247",
+        "domain": "vg247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-will-diablo-4-beta-progress-carry-over-to-the-full-game.md",
+      "title": "Will ‘Diablo 4’ Beta Progress Carry Over To The Full Game?",
+      "excerpt": "The Diablo 4 beta launches today for those who have pre-ordered the game, or landed a code some other way. It’s a pretty hefty intro to the game with an entire act, a world boss and several classes ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-will-diablo-4-beta-progress-carry-over-to-the-full-game/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/17/will-diablo-4-beta-progress-carry-over-to-the-full-game/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/17/will-diablo-4-beta-progress-carry-over-to-the-full-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641463e998e1d0a956990526/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/17/will-diablo-4-beta-progress-carry-over-to-the-full-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/17/will-diablo-4-beta-progress-carry-over-to-the-full-game/amp/",
+      "publishedDateTime": "2023-03-16T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-diablo-4-queued-for-login-can-you-get-into-the-beta-faster.md",
+      "title": "Diablo 4 queued for login – can you get into the Beta faster?",
+      "excerpt": "It’s the day of the beta release, so if you’re trying to get onto the game and you’re seeing the following message: Diablo 4 queued for login, here’s whether you think we can get into game quicker.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-queued-for-login-can-you-get-into-the-beta-faster/index.json",
+      "webUrl": "https://www.videogamer.com/news/diablo-4-beta-queued-for-login/",
+      "originalUrl": "https://www.videogamer.com/news/diablo-4-beta-queued-for-login/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-queued-for-login.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-is-diablo-4-coming-to-nintendo-switch.md",
+      "title": "Is Diablo 4 coming to Nintendo Switch?",
+      "excerpt": "Wondering whether Diablo 4 is coming to Nintendo Switch? Well, our guide has everything you need to know about the upcoming dungeon crawler.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-is-diablo-4-coming-to-nintendo-switch/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/is-diablo-4-coming-to-nintendo-switch-2088017/",
+      "originalUrl": "https://www.dexerto.com/diablo/is-diablo-4-coming-to-nintendo-switch-2088017/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/16/Is-Diablo-4-coming-to-Nintendo-Switch.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-can-diablo-4-be-played-solo.md",
+      "title": "Can Diablo 4 be played solo?",
+      "excerpt": "Diablo 4 hype is steadily increasing ahead of its release and players couldn’t be more excited to start getting into Blizzard’s latest ARPG installment. NOW READ: Can you play Diablo 4 beta without PS ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-can-diablo-4-be-played-solo/index.json",
+      "webUrl": "https://www.videogamer.com/news/can-diablo-4-be-played-solo/",
+      "originalUrl": "https://www.videogamer.com/news/can-diablo-4-be-played-solo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-2.jpg",
+          "width": 1519,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-is-diablo-4-deluxe-edition-worth-it.md",
       "title": "Is Diablo 4 Deluxe Edition worth it?",
       "excerpt": "The imminent release of the long-awaited Diablo 4 has players inevitably wondering about the contents of its Deluxe Edition offering. NOW READ: Best GPU for Diablo 4 in 2023 – DLSS 3 and budget ...",
@@ -449,6 +836,108 @@
       ]
     },
     {
+      "path": "_news/2023-03-15-psa-the-diablo-4-beta-preload-is-live.md",
+      "title": "PSA: The Diablo 4 Beta Preload Is Live",
+      "excerpt": "Diablo IV will be released on June 6, 2023. John Wick: Chapter 4 - Official Final Trailer Check out the new, action-packed trailer for John Wick: Chapter 4, the upcoming movie starring Keanu Reeves, Donnie Yen, Bill Skarsgård, Laurence Fishburne ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-psa-the-diablo-4-beta-preload-is-live/index.json",
+      "webUrl": "https://www.ign.com/articles/psa-the-diablo-4-beta-preload-is-live",
+      "originalUrl": "https://www.ign.com/articles/psa-the-diablo-4-beta-preload-is-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/12/06/diablo-blogroll-1670358717100.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released.md",
+      "title": "Diablo 4's First World Boss Early Beta Access Schedule Has Been Released",
+      "excerpt": "People have to come together across all the regions to take her down, because she’s just this giant killing machine.\" Diablo 4's World Bosses are massive monsters that require multiple players to take down. As described in a PlayStation blog, Blizzard .",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1597/15971658/4112850-diablo4.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-first-world-boss-early-beta-access-schedule-has-been-released/1100-6512390/",
+      "publishedDateTime": "2023-03-15T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-diablo-4-pre-order-guide.md",
       "title": "Diablo 4 pre-order guide",
       "excerpt": "All pre-orders of the game get you early access to the open beta that begins on March 17 and runs until March 20. However, it's worth noting that the Diablo 4 Beta will be made available to everyone ...",
@@ -479,57 +968,6 @@
         "name": "Polygon on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-diablo-4-preloading-for-the-early-access-beta-has-started.md",
-      "title": "Diablo 4 preloading for the early access beta has started",
-      "excerpt": "Preloading for Diablo 4's early access beta has begun and yeah this month is going to be a mouthful of Diablo beta dates and times. This weekend's beta, which begins on Friday, March 17, is for folks ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-15-diablo-4-preloading-for-the-early-access-beta-has-started/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 287,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/we5Zeh8kNCJ5V9vVh9RqWK-1200-80.jpg",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -665,462 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta.md",
-      "title": "Diablo 4 Open Beta Dates, Early Access, And How To Get Into Beta",
-      "excerpt": "You won't have long to wait to experience the terror of the Burning Hells in Diablo IV before the game officially launches in June.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-14-diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 407,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-how-to-get-into-beta/1100-6511672/",
-      "publishedDateTime": "2023-03-14T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-diablo-4-beta-download-date-and-world-boss-spawns-announced.md",
-      "title": "Diablo 4 Beta Download Date and World Boss Spawns Announced",
-      "excerpt": "Diablo4 #download #worldboss #Maxroll #Blizzard Blog Post: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-13-diablo-4-beta-download-date-and-world-boss-spawns-announced/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-13-diablo-4-beta-download-date-and-world-boss-spawns-announced/",
-      "originalUrl": "https://youtube.com/watch?v=dxj6JabTC-s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dxj6JabTC-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T12:46:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raxxanterax",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-is-diablo-4-free-to-play.md",
-      "title": "Is Diablo 4 free to play?",
-      "excerpt": "Diablo IV is the latest entry in Blizzard's Diablo series. Players return to Sanctuary and must face Lillith or fall to the hellish forces invading the world. With numerous fans looking forward to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-13-is-diablo-4-free-to-play/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/is-diablo-4-free-to-play/ar-AA18A4bV",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/is-diablo-4-free-to-play/ar-AA18A4bV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Ac5q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-rod-fergusson-addresses-diablo-4-xbox-game-pass-rumors.md",
-      "title": "Rod Fergusson Addresses Diablo 4 Xbox Game Pass Rumors",
-      "excerpt": "With the Diablo 4 open beta approaching, Blizzard's Rod Fergusson addresses recent rumors indicating that the game will be coming to Xbox Game Pass.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-13-rod-fergusson-addresses-diablo-4-xbox-game-pass-rumors/index.json",
-      "webUrl": "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/",
-      "originalUrl": "https://gamerant.com/rod-fergusson-diablo-4-xbox-game-pass-rumors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-xbox-game-pass-rumors.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms.md",
-      "title": "\"No Plans\" For Diablo 4 To Come To Game Pass, Blizzard Confirms",
-      "excerpt": "Diablo IV won't be coming to Xbox Game Pass anytime soon, with Blizzard confirming that it currently has \"no plans\" to add the highly anticipated ARPG to the service. The to-the-point answer came from ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-13-no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/index.json",
-      "webUrl": "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/",
-      "originalUrl": "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4111581-diablo4won%27tbeongamepass.jpg",
-          "width": 1580,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/",
-      "publishedDateTime": "2023-03-13T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023.md",
-      "title": "Diablo 4 - Diablo Open Beta Announcement Cinematic | IGN Fan Fest 2023",
-      "excerpt": "Check out the opening cinematic that you'll be experiencing when you get your hands on the Open Beta for Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-10-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-10-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023/",
-      "originalUrl": "https://youtube.com/watch?v=vR3mnTXCQrc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vR3mnTXCQrc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T20:06:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hori-JGames",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich.md",
-      "title": "Get Diablo 4 Early Beta Access By Buying A KFC Sandwich",
-      "excerpt": "GameSpot may get a commission from retail offers. Blizzard and KFC are partnering to offer early access to Diablo 4's beta. If you buy a Double Down (or any eligible sandwich) at KFC, you'll get a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-10-get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/index.json",
-      "webUrl": "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
-      "originalUrl": "https://www.gamespot.com/articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/get-diablo-4-early-beta-access-by-buying-a-kfc-sandwich/1100-6512194/",
-      "publishedDateTime": "2023-03-09T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab.md",
-      "title": "It's time to Double Down on Diablo 4 hype with this tasty KFC collab",
-      "excerpt": "The Diablo 4 marketing train continues. Just days after the epic reveal of a mural devoted to Lilith on a French Cathedral roof, we've now received news of a tasty Kentucky-fried ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-09-its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab/index.json",
-      "webUrl": "https://www.msn.com/en-us/foodanddrink/foodnews/its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab/ar-AA18qknY",
-      "originalUrl": "https://www.msn.com/en-us/foodanddrink/foodnews/its-time-to-double-down-on-diablo-4-hype-with-this-tasty-kfc-collab/ar-AA18qknY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18qALZ.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=424&y=134",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-diablo-4-cash-shop-announcement-bjorn-und-ben-erklaren-blizzards-ingame-shop-synchro-parodie-.md",
-      "title": "Diablo 4 Cash Shop Announcement - Björn und Ben erklären Blizzards Ingame Shop [ Synchro / Parodie ]",
-      "excerpt": "Diablo IV Ingame Shop | Diablo 4 Cash Shop | Diablo 4 Beta | Diablo 4 Marketing | Diablo 4 P2W | Blizzard P2W | pay to win ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-09-diablo-4-cash-shop-announcement-bjorn-und-ben-erklaren-blizzards-ingame-shop-synchro-parodie-/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-09-diablo-4-cash-shop-announcement-bjorn-und-ben-erklaren-blizzards-ingame-shop-synchro-parodie-/",
-      "originalUrl": "https://youtube.com/watch?v=d_V2hh1FK58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d_V2hh1FK58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T06:38:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aero Orka",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-is-diablo-4-coming-to-ps4-and-xbox-one.md",
-      "title": "Is Diablo 4 coming to PS4 and Xbox One?",
-      "excerpt": "The latest game in the Diablo franchise, Diablo 4, is coming out soon on multiple platforms. However, fans are curious to see if Diablo 4 will come out on the PS4 and Xbox One. Here is a quick rundown of all the consoles that will allow Diablo’s intense",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-08-is-diablo-4-coming-to-ps4-and-xbox-one/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-coming-to-ps4-and-xbox-one/ar-AA18nVIm",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-coming-to-ps4-and-xbox-one/ar-AA18nVIm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ohsG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T08:50:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Upcomer on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

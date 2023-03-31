@@ -62,20 +62,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Beta: When it Starts and How to Get Into It"
-    excerpt: "Diablo 4 is about to enter its first public beta, and with the excitement comes some uncertainty about the best way to access it. Who can play the beta, how to enroll in it, and w"
-    publishedDateTime: 2023-03-09T09:03:00Z
-    webUrl: "https://gamerant.com/diablo-4-beta-when-it-starts-ends-access/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-iv-beta-early-access.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "How to Join the Diablo 4 Beta"
     excerpt: "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in beta before its full release. The Diablo 4 Open Beta and Early Access ..."
     publishedDateTime: 2023-03-17T13:22:00Z
