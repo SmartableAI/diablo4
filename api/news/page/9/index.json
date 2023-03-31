@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-21-this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc.md",
+      "title": "This huge Diablo 4 statue costs as much as a good gaming PC",
+      "excerpt": "Are you a big fan of videogame swag but find that $11,600 Final Fantasy statue just a little out of reach? Blizzard is offering what may be a solid second choice in its gear store: A sculpture of ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-21-this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc/index.json",
+      "webUrl": "https://www.msn.com/en-gb/foodanddrink/other/this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc/ar-AA17MqSc",
+      "originalUrl": "https://www.msn.com/en-gb/foodanddrink/other/this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc/ar-AA17MqSc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17MkAx.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T07:11:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-diablo-4-video-breaks-down-its-five-zones-and-redesigned-enemies.md",
       "title": "Diablo 4 video breaks down its five zones and redesigned enemies",
       "excerpt": "A new Diablo 4 video gives us a tour of the upcoming sequel's five distinct zones, shares a deliciously macabre enemy redesign, and confirms it abides by the official code of the internet: you can pet ...",
@@ -1078,48 +1120,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4.md",
-      "title": "Diablo 3 Season 28 is the perfect preparation for Diablo 4",
-      "excerpt": "This also positions its end date perfectly with the launch of Diablo 4 on June 2. This season’s thematic is the ‘Rites of Sanctuary,’ which thrusts players into the heart of the long-forgotten ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
-      "originalUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-3-season-28-ptr-rites-of-sanctuary.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

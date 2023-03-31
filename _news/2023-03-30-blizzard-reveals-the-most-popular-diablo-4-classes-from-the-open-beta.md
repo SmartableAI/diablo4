@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/"
 type: article
 quality: 107
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
     excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
     publishedDateTime: 2023-03-30T20:03:00Z
     webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19hQ40.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Stats Reveal Most Popular Classes"
+    excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
+    publishedDateTime: 2023-03-31T03:38:00Z
+    webUrl: "https://www.msn.com/en-za/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
     type: article
     provider:
       name: MSN

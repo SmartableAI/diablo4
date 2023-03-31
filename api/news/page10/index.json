@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4.md",
+      "title": "Diablo 3 Season 28 is the perfect preparation for Diablo 4",
+      "excerpt": "This also positions its end date perfectly with the launch of Diablo 4 on June 2. This season’s thematic is the ‘Rites of Sanctuary,’ which thrusts players into the heart of the long-forgotten ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
+      "originalUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-3-season-28-ptr-rites-of-sanctuary.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-diablo-4-everything-we-know-so-far.md",
       "title": "Diablo 4: Everything we know so far",
       "excerpt": "Blizzard are very good at keeping fans waiting, and Diablo 4 was certainly no exception. After a long period of rumours Diablo 4 was finally revealed at BlizzCon 2019, but we were once again left in ...",
@@ -1006,48 +1048,6 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-how-much-time-we-have-to-spend-in-world-of-warcraft-to-get-diablo-4-for-free-has-been-estimated.md",
-      "title": "How much time we have to spend in World of Warcraft to get Diablo 4 for free has been estimated",
-      "excerpt": "Following the same steps to unlock Overwatch 2 skins through World of Warcraft, it is also possible to get our hands on Blizzard's next game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-22-how-much-time-we-have-to-spend-in-world-of-warcraft-to-get-diablo-4-for-free-has-been-estimated/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/12/22/news/1671732385_315959_1671732495_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/12/22/news/1671732385_315959.amp.html",
-      "publishedDateTime": "2022-12-22T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
         "images": null,
         "publishers": null,
         "authors": null

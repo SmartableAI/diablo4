@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Stats Reveal Most Popular Classes"
 excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
-publishedDateTime: 2023-03-30T20:03:00Z
-originalUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
-webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+publishedDateTime: 2023-03-31T03:38:00Z
+originalUrl: "https://www.msn.com/en-za/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+webUrl: "https://www.msn.com/en-za/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
 type: article
 quality: 87
 heat: -1
@@ -86,8 +86,8 @@ related:
         isCached: true
   - title: "Diablo 4 Stats Reveal Most Popular Classes"
     excerpt: "Blizzard has shared the two most popular Diablo 4 classes from its recent open beta weekend, as part of an infographic detailing various interesting statistics. For Diablo 4's open beta, Blizzard ..."
-    publishedDateTime: 2023-03-31T03:38:00Z
-    webUrl: "https://www.msn.com/en-za/entertainment/other/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
+    publishedDateTime: 2023-03-30T20:03:00Z
+    webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-stats-reveal-most-popular-classes/ar-AA19huHA"
     type: article
     provider:
       name: MSN
@@ -99,6 +99,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LLrpgMClPJFCfSEbXmavIUeWHo821HfuQRjGdhGKKtm+ChiHoUpBJRxbxiYaCJrwxWdF6YSPPBb6RhAEXa40OSLRiyk/w+Aypqs2A0lDHPHKT5Rm2+5+MaTTEN8TKWIhHws1CYhjF9H0r9KA2GKBSjrUc0l8046qp5Hy4cy52vhmvAc7Tl5KbLgbt1cQ0QhICA2O4dEjxcH0TbxPeJwgOCGSB10WvVJPM5Fv4qJNHolZS7VK79H9CyUcTW74EKV+y1TObZ+IocSRALz3z6xZ218WDxEIthhXONiF6BYUcpOVM9K9NomhJYHL61k418XvsNHpICXG78PcZsO6NxaG0UAex+nAzsNcE1HB7PsQ5jQ=;RRDNuZInyxdjk9VdgiIJ/Q=="
+secured: "tMrUAvgkP+KBoiXRLGpXWVw3mNgElkGJymCOxKbUgQtWLyR4rz98udjlx/4DyocLTfvFIN74irMMKWO39f1D3haqnKt5z7tXtkIPNYKhFKnRKAohTQIZUcxa6TID2UnERSBQpaokk5NR7OkHtvghLwpUB3F6TOBvHPQN3z97xnhmABZ7nBSTCy78MVv6Aolwuns8OOxa1R72e1jQJBm81iOHqzas00r71sKrUsyY7eDCJ4ayL/aEscR4XNTBydmlN8wIAs+s1FMVV2d7lsVImhhtnnT7fREcBUCo/ciIYWC0DJEmZ3az6eYKYgnuJ9jnzPbRYLG0e6H4KkbnNfyJqjD7OXO++bTvy+BZ4Enk8CM=;ozOJLtjAZGwQ2dz7HGPvZQ=="
 ---
 
