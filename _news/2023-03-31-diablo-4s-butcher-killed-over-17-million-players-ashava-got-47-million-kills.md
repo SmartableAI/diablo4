@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
+    excerpt: "Following the Diablo 4 open betas, Blizzard reveals new player stats including the staggering kill death ratio for the world boss, Ashava. For players, both beta weekends represented an opportunity to ..."
+    publishedDateTime: 2023-03-31T06:04:00Z
+    webUrl: "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 127
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-death-stat.jpg"
+        width: 1800
+        height: 900
+        isCached: true
+  - title: "World boss Ashava dominates Diablo 4 beta with 10 million player kills, impressive kill-death ratio"
+    excerpt: "The Diablo 4 beta has been the largest beta test in the game’s history, with nearly 2.6 million players reaching level 20 Diablo 4 beta testers were given a treat with the chance to go up against ..."
+    publishedDateTime: 2023-03-31T07:26:00Z
+    webUrl: "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 93
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/31/1600x900/ashava_1680259346487_1680259359011_1680259359011.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 beta’s world boss dominates with ten million player kills"
     excerpt: "With the Diablo 4 beta coming to a close, Blizzard has shared some of the biggest numbers from the free test period, and world boss Ashava tops the rankings in style. With nearly 62 million hours of ..."
     publishedDateTime: 2023-03-31T03:14:00Z
@@ -66,16 +96,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4's world boss is already being soloed by open beta players - on hardcore"
-    excerpt: "The titanic Diablo 4 world boss from the open beta is already being soloed – and on hardcore to boot. So far, we've seen two players achieve the feat who have posted videos online to prove it. Diablo ..."
-    publishedDateTime: 2023-03-27T12:30:00Z
-    webUrl: "https://www.yahoo.com/entertainment/diablo-4s-world-boss-already-101347554.html"
-    type: article
-    provider:
-      name: Yahoo
-      domain: yahoo.com
-    quality: 62
 
-secured: "mThk4NfHRbPUSV1SOkEZFotvxWh4KsoPJQusuh6oTSPHDJ/ikA7x7NQhFgBfFvQoeTZ+7VMoaCZJz1SHvCa6TEd5mOCtX4jZvTg5A/2CuJdQzZUUNd+NibmKkMphI4CiOwH9y25H/L5N7aHsqFHeHxbNNViOYqk1YsIUZqLJLS8XweBo/7g6OGnCN4I+8//pygpqnMUkxLCsfNnmI22II0DwVHtrE5oLCxG2nRoVaV2NzaZgtJCOAHrD2npycLkjBZ6cta6/0e2HfAqYLgzJ5RruulH5NcMxbY+Gy5COE6A8JUSQEXVbeLGrTqNJdwxLTUYvB+BeHyoQVQ71HwSVcb1UaKvX+AMPeUJcHLQXPXI=;D0Fl+Nwjc4xL2fFKcAmx7w=="
+secured: "fLLlUGgV81XBleCt4Swo4cATYS0/XPn9sJzkLT2Bbq4+riZe5utUHHnLoxAm5WvADGmqxLbh7fIhlFVooKAjQ4McqNTJlrq5aLYw5uHLwntD0+fmeWniAQkydBzNWdf6GHfMGTiaMdSlL4MIJsRSFKITtyGOmqZ57a2kyqceqWZmEZFlRPTp3eSOPJvpdD6/BaYxzaG+pvyzGZ/Awz3IsomwMYiA07fp4jvCKaWBFBdSuU7IrDkxkXBdx/7bYjgwvjGyDyOA1avQIFUgAEKs5z4caWEaiYH8OSeQg+xJ2G1ioH8GH55/S8Zkz8Qd9kd703yYGHn7aO3Qmeatqhx6cv73bfdSVGvQqb9mpnmJ3gA=;O3H9iqHu7+wdzccC4KN+rA=="
 ---
 

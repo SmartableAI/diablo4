@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-diablo-4s-ashava-world-boss-has-killed-a-staggering-number-of-players.md",
+      "title": "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players",
+      "excerpt": "Following the Diablo 4 open betas, Blizzard reveals new player stats including the staggering kill death ratio for the world boss, Ashava. For players, both beta weekends represented an opportunity to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4s-ashava-world-boss-has-killed-a-staggering-number-of-players/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/",
+      "originalUrl": "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-death-stat.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-diablo-4s-pokemon-style-raid-battles-are-great.md",
       "title": "Diablo 4's Pokémon-style Raid Battles Are Great",
       "excerpt": "You can find CBR's continuing coverage of the Activision Blizzard allegations here. Diablo IV is in many ways a recall of the past entries in the Diablo series and a return to form in tone and ...",
@@ -137,48 +188,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-31-diablo-4-betas-world-boss-dominates-with-ten-million-player-kills.md",
-      "title": "Diablo 4 beta’s world boss dominates with ten million player kills",
-      "excerpt": "With the Diablo 4 beta coming to a close, Blizzard has shared some of the biggest numbers from the free test period, and world boss Ashava tops the rankings in style. With nearly 62 million hours of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4-betas-world-boss-dominates-with-ten-million-player-kills/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-stats",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-stats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-stats-world-boss-kills-ashava-deaths-butcher-blizzard.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-30-diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta.md",
       "title": "Diablo 4? More like Diablo gore with these death stats from the beta",
       "excerpt": "Developer Blizzard recently hosted the Diablo 4 Open Beta, giving players on Xbox, Windows PCs, and PlayStation systems a chance to play through the start of its campaign, level up to 25, and try out ...",
@@ -187,7 +196,7 @@
       "originalUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta/ar-AA19hGaW",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
