@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-16-diablo-4-supports-dlss-3-at-launch-devs-excited-by-the-high-frame-rate.md",
+      "title": "Diablo 4 supports DLSS 3 at launch, devs 'excited by the high frame rate'",
+      "excerpt": "I don't want to jinx it but Diablo 4 sounds like it might run well on all manner of PC. DLSS is coming to Diablo 4 (opens in new tab). Blizzard's long-awaited ARPG is set for release on June 6, 2023, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-supports-dlss-3-at-launch-devs-excited-by-the-high-frame-rate/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-dlss-3-support/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-dlss-3-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5Y8X6QyJwStvQPZqZrQrPU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-psa-the-diablo-4-beta-preload-is-live.md",
       "title": "PSA: The Diablo 4 Beta Preload Is Live",
       "excerpt": "Diablo IV will be released on June 6, 2023. John Wick: Chapter 4 - Official Final Trailer Check out the new, action-packed trailer for John Wick: Chapter 4, the upcoming movie starring Keanu Reeves, Donnie Yen, Bill Skarsgård, Laurence Fishburne ...",
@@ -1061,57 +1112,6 @@
         "name": "TweakTown",
         "domain": "tweaktown.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-diablo-4-official-beta-early-access-gameplay-trailer.md",
-      "title": "Diablo 4 - Official Beta Early Access Gameplay Trailer",
-      "excerpt": "Check out the latest trailer for Diablo IV. Get ready to descend into Hell early March 17 – 19 during the Diablo IV Beta Early Access weekend.Diablo IV is available on June 6, 2023.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-official-beta-early-access-gameplay-trailer/index.json",
-      "webUrl": "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer",
-      "originalUrl": "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2023/03/01/diablo4betaearlyaccessgameplaytrailer-ign-blogroll-1677696974394.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

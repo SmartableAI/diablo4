@@ -88,8 +88,8 @@ related:
         isCached: true
   - title: "Diablo 4’s Butcher killed over 1.7 million players, Ashava got 47 million kills"
     excerpt: "Blizzard shared some cool Diablo 4 beta stats. Blizzard Entertainment has released a few statistics from the recent Diablo 4 open beta test, revealing that players spent 61,560,437 hours in Sanctuary ..."
-    publishedDateTime: 2023-03-31T05:07:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-butcher-killed-over-17-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
+    publishedDateTime: 2023-03-31T07:49:00Z
+    webUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-s-butcher-killed-over-1-7-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
     type: article
     provider:
       name: MSN
@@ -101,6 +101,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ixS2OaQprx185E2zKsJYAMv8nAp+ck+YnOUr+OstSu8bDqA8t5klJgas6EePSfHYu8GUtwxcZoGoo2sRv1fPgSancx9J9bqjmf3R1ewXRWzgXnymaRC3ssidPeKFspdGGtd2O0nJL7wWAMh1Ij7DYUTo1uLGvhtiFI7nuP6JK/Ap9nLL9DCyL0m4T8lrUjkzVz3BgGvEU4DH51F0EaevcflvaGRy5Pb+EW6LPr4hga5kFi3qs5iBthfvp64YwjO2c4cawqkkOHzO8hSR7sZ2GmNzMiGbGC41A4vda01rebL/K16W4mmqN2FjPQgd/Fgzs7UU5uiCiZRM/bCvvd0F6aAHBZqfHD4iZyxYrjpBROQ=;3YpFP1OyUZtBn7BJHh1Mkg=="
+secured: "Vqc+Wvlp1Rave3JnK12RhFl5CQQCEsDW/fHyDzzVpo59r5BNedVgcMghKOwHHHNtV8lgtlQxqGDpUV/3Nk5tIvAjlRgoiwt13mrFpR4E1AFD6FL0XmSRCck/TiFRXN3u045sdUwPkZsxk3b+wa5uE0Sh0XtpFxNqtUXJ2+xSOYU+VIUw+J+GKZCMxdeR7c6BuYUBj2MRFK1pOyqzScbATitMdHZbr3BZBsl8o7g/5l7wQr81aShrnCC2HSOiTcj+Jk+NnfuzYQRtiwxxjuoWT97X+hBN/I3OUXpkEq9W4UDTkXQqmdaO309tawvl7M9DTd8+HcLHgj5LRYu5lFbrXEOMMYjoNvi+yUdboowyTZk=;+ciXSZog53x5+bc70Omk1A=="
 ---
 

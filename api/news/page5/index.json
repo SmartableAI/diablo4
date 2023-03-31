@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-20-diablo-4-beta-players-criticize-easy-mode-sorcerer-class.md",
+      "title": "Diablo 4 Beta Players Criticize 'Easy-Mode' Sorcerer Class",
+      "excerpt": "Diablo 4 beta players criticize the Sorcerer class for trivializing boss fights and generally making the game much easier than the other two classes.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-beta-players-criticize-easy-mode-sorcerer-class/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-criticize-easy-mode-sorcerer-class/ar-AA18RS10",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-criticize-easy-mode-sorcerer-class/ar-AA18RS10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RX91.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=478&y=129",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T06:24:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-diablo-4-fast-travel-all-waypoint-locations-guide.md",
       "title": "Diablo 4 Fast Travel - All Waypoint Locations Guide",
       "excerpt": "Discover all the Waypoint fast travel locations that are available during Diablo 4's beta. The world of Sanctuary has been ravaged once more by demonic hordes, and it's up to you to turn back the tide.",
@@ -1101,48 +1143,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-17T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-what-are-treasure-goblins-in-diablo-4.md",
-      "title": "What are Treasure Goblins In Diablo 4",
-      "excerpt": "However, there is a special type of creature that spawns rarely in Diablo 4, known as the Treasure Goblin. But what exactly does a Treasure Goblin do in Diablo 4? A Treasure Goblin has been a very fun ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-what-are-treasure-goblins-in-diablo-4/index.json",
-      "webUrl": "https://twinfinite.net/2023/03/what-are-treasure-goblins-diablo-4/",
-      "originalUrl": "https://twinfinite.net/2023/03/what-are-treasure-goblins-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T09:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Twinfinite",

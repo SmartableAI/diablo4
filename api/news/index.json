@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-31-diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster.md",
+      "title": "Diablo 4 Beta Stats Prove Launch Day Servers Will Be A Disaster",
+      "excerpt": "The Open Beta for Diablo 4 has come and gone, and now Blizzard has shared some of the more fun stats that show just how big this period of Beta testing was for the game, with a total of over 61.5 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster/index.json",
+      "webUrl": "https://www.msn.com/en-gb/entertainment/gaming/diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster/ar-AA19kaxP",
+      "originalUrl": "https://www.msn.com/en-gb/entertainment/gaming/diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster/ar-AA19kaxP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19kfmw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-the-druid-is-the-manbearwolf-of-diablo-4.md",
       "title": "The Druid Is The ManBearWolf Of Diablo 4",
       "excerpt": "We're spreading ManBearWolf awareness. After spending a weekend exploring Diablo 4’s freshly unlocked Druid class, I was left with the resounding impression that despite passing the level 20 mark, I had barely scratched the surface. Maybe the Druid is .",
@@ -416,9 +458,18 @@
       "originalUrl": "https://youtube.com/watch?v=vxcEC3yK8W4",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxcEC3yK8W4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "ampWebUrl": null,
@@ -1044,59 +1095,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch.md",
-      "title": "Does ‘Diablo 4’ Need To Buff Barbarian And Druid For Launch?",
-      "excerpt": "Diablo 4 beta players got to experience all five launch classes thanks to a pair of beta weekends, the second of which is about to wrap up just a few hours after I’m writing this.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
-      "publishedDateTime": "2023-03-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
       ]
     }
   ],
