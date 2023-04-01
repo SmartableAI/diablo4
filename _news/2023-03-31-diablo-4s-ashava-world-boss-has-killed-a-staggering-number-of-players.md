@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
-excerpt: "Following the Diablo 4 open betas, Blizzard reveals new player stats including the staggering kill death ratio for the world boss, Ashava. For players, both beta weekends represented an opportunity to ..."
-publishedDateTime: 2023-03-31T06:04:00Z
-originalUrl: "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/"
-webUrl: "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/"
+excerpt: "Following the beta weekends for Diablo 4, Blizzard releases statistics about the game including the staggering number of deaths players suffered at the hands of the world boss Ashava. Although the ..."
+publishedDateTime: 2023-03-31T15:28:00Z
+originalUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-s-ashava-world-boss-has-killed-a-staggering-number-of-players/ar-AA19jsyU"
+webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-s-ashava-world-boss-has-killed-a-staggering-number-of-players/ar-AA19jsyU"
 type: article
-quality: 127
-heat: 227
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: Game Rant
-  domain: gamerant.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-death-stat.jpg"
-    width: 1800
-    height: 900
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19jzEB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -101,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yC7tV4s/NBCgiCN1GBxJyufbDPa39fb0lmH1YTQa++MGAEvi/2EgwOjnTryz//V0Hozya4YFSnZhXgyg6CDzoAtMNdf46i7fHolqd0cPErhowLokXJLuh/1hYtVbWWIE78zNxo6PY2GrbfjmmkfplqOvZ+hi+b0amawvQpHJytS0U5nlR27A3W/PZO9wGi9vOl1+hId0s60KdSZ51C4+QVvH6ZoOzM8EmOMgXOVxxxJqgA1NtBgd2lla2OHdJIi8pEf/Ik+EsFJx/OPxDHQYxskCej9mz7qBo0ff5ptDofTnXHLpJhUPrgSmqv9F381Ls+8T2+hzOpwFhXqVM6glzcXt/GU9hlHa4lE5WkU9heU=;R4HuCn77eCQ+gN7POLdNjQ=="
+secured: "OAfILf9pJpKLJebHnWUvlnJglGbsMmTSx3A/UkkXqBCsnPeUlZtlk1fDGah8dbtH5Lzrt/4f7vMOCV3QRFUiHwYC5F8lflyPMy32EWCB2NguJpGACKO6kxHJz0zzpZh/V5asMwcBNIV4va5xOwE18+YI1Cj97DfBk98jC6OCSlJI3opK1voX2Q6mwtNWFTzA8JDvxnnOaVdluFAPrsgTqQWG5aM5B2uhS4GJxxlN1BROHqrUBqD3aQ6oHNoO1esjl8xBFPYAdJ5wC4tRl+Kh7YIutfHqug2McDkjzks43OegB4muG8Wl6lRdwXfWOwUinYKnGDO9qbs0NSojTGjmn5gDlR6Sb+Wm56ENwp45QpM=;IHZhsnDbxYFQPhrdYOkY+w=="
 ---
 

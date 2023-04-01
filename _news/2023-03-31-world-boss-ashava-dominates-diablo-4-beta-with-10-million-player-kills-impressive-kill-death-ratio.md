@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/technology/world-boss-ashava-dominate
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html"
 type: article
 quality: 93
-heat: -1
-published: false
+heat: 193
+published: true
 
 provider:
   name: Hindustan Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
-    excerpt: "Following the Diablo 4 open betas, Blizzard reveals new player stats including the staggering kill death ratio for the world boss, Ashava. For players, both beta weekends represented an opportunity to ..."
-    publishedDateTime: 2023-03-31T06:04:00Z
-    webUrl: "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-death-stat.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "Diablo 4 beta’s world boss dominates with ten million player kills"
     excerpt: "With the Diablo 4 beta coming to a close, Blizzard has shared some of the biggest numbers from the free test period, and world boss Ashava tops the rankings in style. With nearly 62 million hours of ..."
     publishedDateTime: 2023-03-31T03:14:00Z
@@ -53,6 +39,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-stats-world-boss-kills-ashava-deaths-butcher-blizzard.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
+    excerpt: "Following the beta weekends for Diablo 4, Blizzard releases statistics about the game including the staggering number of deaths players suffered at the hands of the world boss Ashava. Although the ..."
+    publishedDateTime: 2023-03-31T15:28:00Z
+    webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-s-ashava-world-boss-has-killed-a-staggering-number-of-players/ar-AA19jsyU"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19jzEB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Diablo 4 beta's world boss has an absolutely savage kill death ratio"
     excerpt: "New games for 2023 and beyond to add to your wishlist ..."

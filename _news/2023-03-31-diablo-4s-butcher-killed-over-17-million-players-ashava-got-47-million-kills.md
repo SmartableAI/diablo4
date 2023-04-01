@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
-    excerpt: "Following the Diablo 4 open betas, Blizzard reveals new player stats including the staggering kill death ratio for the world boss, Ashava. For players, both beta weekends represented an opportunity to ..."
-    publishedDateTime: 2023-03-31T06:04:00Z
-    webUrl: "https://gamerant.com/diablo-4-ashava-world-boss-killed-staggering-number-players/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 127
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-death-stat.jpg"
-        width: 1800
-        height: 900
-        isCached: true
   - title: "World boss Ashava dominates Diablo 4 beta with 10 million player kills, impressive kill-death ratio"
     excerpt: "The Diablo 4 beta has been the largest beta test in the game’s history, with nearly 2.6 million players reaching level 20 Diablo 4 beta testers were given a treat with the chance to go up against ..."
     publishedDateTime: 2023-03-31T07:26:00Z
@@ -68,6 +54,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
+    excerpt: "Following the beta weekends for Diablo 4, Blizzard releases statistics about the game including the staggering number of deaths players suffered at the hands of the world boss Ashava. Although the ..."
+    publishedDateTime: 2023-03-31T15:28:00Z
+    webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-s-ashava-world-boss-has-killed-a-staggering-number-of-players/ar-AA19jsyU"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19jzEB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Diablo 4 beta's world boss has an absolutely savage kill death ratio"
     excerpt: "New games for 2023 and beyond to add to your wishlist ..."
     publishedDateTime: 2023-03-30T17:29:00Z
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9ciUD/hwKarC1HEtGHIZE6at6i2DR6lMQ68SRaEmwf/A7h3ZoX3bzWgJGiqDOzaIB6RZ41yncNvggb6GylZ499wdpYYBpjV8Ho1ow6BJ4HnXJX6taSDIjnZdMITHb2kQRQEhxbKFQRjYX7qp9Sv99UjMN8+X3E8w98s0ejP/MY4z2rXYWbKC7bsEGKJjwKvDVmqHZWCI1fSDbR+dO/1llP7kPkrBGYcHbRL/0j64TOWB7bejGPqa0VZOg/MTLG0T0K6dV7Cu6c8BHmWq4fhtRLs3CwD+zcxm6Gy5Xx6w6ym0MnNBRwGt7Pntk3DzYq32PfXYCYpGa4F9zFvLMrI1FDMoIJrrbpfr32wAdmrPhMQ=;u1fK4NPZwawC2n2EUIJpTQ=="
+secured: "i2ROKn/z2hPT/NlMe2MAldRKwTuRnduZzv4T4HCGMiGaXWVW3KWv3AsYfUI3ViDFWOtAMvFVoQzvM1eAs0kbmm+36csvPM4dggitFb6uf1Q95KZ1xJolCgFb/bNznuAgj/sSwbxpiC7I4biPrsIX5pF0grF2kF6BqcTig1PcSwnYuQFKzA3Lvv6gmEvAc5nVHmAVBehLEvn9oPaC59QljFUOlbIyaRP8ykB3I3z+SB/+kZKi2Oe9NZgSzQyaTOUd0U5CVAZukdRMfbeM8TF3dtyOWGVB3j1WAsxMIo5aa9JfEzKCvalozWXeXIYciQ8EkTLHvX3B0+yfZqlRz/ezSXyZngYcDVuQL+2HWJCRoVs=;9VFdt3ulAeyQswFxBJ5vlQ=="
 ---
 

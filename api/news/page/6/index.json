@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error.md",
+      "title": "How to Fix Diablo 4 This Game Cannot be Played Yet Error",
+      "excerpt": "Blizzard’s highly anticipated next iteration of the iconic Diablo franchise is here; well, sort of. The game’s open beta offers those who have pre-ordered the opportunity to check it out in Early ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/index.json",
+      "webUrl": "https://twinfinite.net/2023/03/how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/",
+      "originalUrl": "https://twinfinite.net/2023/03/how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo_4_lillith_graphic.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-what-are-treasure-goblins-in-diablo-4.md",
       "title": "What are Treasure Goblins In Diablo 4",
       "excerpt": "However, there is a special type of creature that spawns rarely in Diablo 4, known as the Treasure Goblin. But what exactly does a Treasure Goblin do in Diablo 4? A Treasure Goblin has been a very fun ...",
@@ -1063,57 +1105,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023.md",
-      "title": "Can ‘Diablo 4’ Beat Out ‘Hogwarts Legacy’ For The Biggest Game Of 2023?",
-      "excerpt": "We are now a day away from Diablo 4’s beta launch, our first real, non-press preview of the game that includes a substantial amount of content (if you’ve pre-ordered, of course, as the open beta is ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/amp/",
-      "publishedDateTime": "2023-03-15T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
