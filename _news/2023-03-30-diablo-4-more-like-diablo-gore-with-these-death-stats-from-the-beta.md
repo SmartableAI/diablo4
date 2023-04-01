@@ -26,8 +26,8 @@ images:
 related:
   - title: "Diablo 4? More like Diablo gore with these death stats from the beta"
     excerpt: "Developer Blizzard recently hosted the Diablo 4 Open Beta, giving players on Xbox, Windows PCs, and PlayStation systems a chance to play through the start of its campaign, level up to 25, and try out ..."
-    publishedDateTime: 2023-03-31T07:54:00Z
-    webUrl: "https://www.msn.com/en-ca/news/technology/diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta/ar-AA19hGaW"
+    publishedDateTime: 2023-03-31T17:21:00Z
+    webUrl: "https://www.msn.com/en-nz/news/techandscience/diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta/ar-AA19hGaW"
     type: article
     provider:
       name: MSN
