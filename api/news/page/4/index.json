@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-22-diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust.md",
+      "title": "Diablo 4 shaping to be a worthy successor, leaves Diablo 3 graphics in dust",
+      "excerpt": "While Diablo 3 is known for its colourful and stylized graphics, Diablo 4 appears to be taking a more realistic and darker approach. In a Reddit post shared by user u/Helsinh, the differences between ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust/index.json",
+      "webUrl": "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/22/1600x900/Diablo_3_and_4_1679482606317_1679482619829_1679482619829.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133-amp.html",
+      "publishedDateTime": "2023-03-22T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-no-diablo-4-couch-co-op-on-pc-rod-fergusson-explains-why.md",
       "title": "No Diablo 4 Couch Co-op on PC? Rod Fergusson Explains Why",
       "excerpt": "Why is There no Couch Co-op in Diablo 4 PC? Naturally, since all the platforms apart from PC have couch Co-op, PC fans were desperate to know that why the PC players haven’t received this Diablo IV ...",
@@ -1090,48 +1132,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head.md",
-      "title": "‘Diablo 4”s Lilith could be ‘Diablo”s Darth Vader says franchise head",
-      "excerpt": "She’s taking a central role in the events of Diablo 4, and fans may have seen a slightly more nuanced approach to being evil, as she wins over the hearts and minds of a small church in the game’s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head/index.json",
-      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head-3417005",
-      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head-3417005",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-Lilith.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

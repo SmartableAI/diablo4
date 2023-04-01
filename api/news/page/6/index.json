@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-17-is-diablo-4-online-only.md",
+      "title": "Is Diablo 4 online only?",
+      "excerpt": "Lilith and her forces of evil are on the horizon as the release of Diablo 4 inches ever closer. With the game’s launch gradually approaching, fans of the Blizzard franchise are preparing for its ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-is-diablo-4-online-only/index.json",
+      "webUrl": "https://www.videogamer.com/news/is-diablo-4-online-only/",
+      "originalUrl": "https://www.videogamer.com/news/is-diablo-4-online-only/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/diablo-4-hawezar.jpg",
+          "width": 1000,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error.md",
       "title": "How to Fix Diablo 4 This Game Cannot be Played Yet Error",
       "excerpt": "Blizzard’s highly anticipated next iteration of the iconic Diablo franchise is here; well, sort of. The game’s open beta offers those who have pre-ordered the opportunity to check it out in Early ...",
@@ -1061,57 +1103,6 @@
         "name": "Yahoo",
         "domain": "yahoo.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support.md",
-      "title": "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support",
-      "excerpt": "Nvidia has announced that more high-profile games will be receiving a boost from AI-powered Deep Learning Super Sampling (DLSS) technology, including Diablo IV, Redfall, and Forza Horizon 5. Microsoft ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4093510-cp2077_comparison_dlss.mp4.00_00_18_52.still001.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
-      "publishedDateTime": "2023-03-16T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
