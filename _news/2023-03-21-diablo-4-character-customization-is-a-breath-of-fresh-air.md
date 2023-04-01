@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How character customization works in Diablo 4"
-    excerpt: "Diablo 4 is coming out soon and fans curious about how far the customization goes in character creation. In previous games of the franchise, such as Diablo 2, certain classes were locked behind ..."
-    publishedDateTime: 2023-03-12T21:23:10Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-character-customization-works-in-diablo-4/ar-AA18xPBs"
-    type: article
-    provider:
-      name: Upcomer on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18xKVq.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=471&y=202"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Fan Shares Impressive Kratos Character Creation in Diablo 4’s Beta"
     excerpt: "The Diablo 4 Early Access Beta dropped on March 17, giving fans of Blizzard’s action RPG their first chance to get hands-on experience with the upcoming installment. While players strive to get to ..."
     publishedDateTime: 2023-03-20T05:08:00Z

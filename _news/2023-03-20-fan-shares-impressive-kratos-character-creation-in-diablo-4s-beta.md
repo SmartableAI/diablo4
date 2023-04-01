@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How character customization works in Diablo 4"
-    excerpt: "Diablo 4 is coming out soon and fans curious about how far the customization goes in character creation. In previous games of the franchise, such as Diablo 2, certain classes were locked behind ..."
-    publishedDateTime: 2023-03-12T21:23:10Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/how-character-customization-works-in-diablo-4/ar-AA18xPBs"
-    type: article
-    provider:
-      name: Upcomer on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18xKVq.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=471&y=202"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Diablo 4: Character Customization Is A Breath Of Fresh Air"
     excerpt: "Unlike previous entries in the Diablo series, this is now an area where Diablo 4 shines because of a wonderful character creator and a robust transmog system. When you first select your character, you’ll decide whether to play a more masculine character"
     publishedDateTime: 2023-03-21T08:01:00Z
