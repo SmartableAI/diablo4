@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The Druid Is The ManBearWolf Of Diablo 4"
-excerpt: "We're spreading ManBearWolf awareness. After spending a weekend exploring Diablo 4’s freshly unlocked Druid class, I was left with the resounding impression that despite passing the level 20 mark, I had barely scratched the surface. Maybe the Druid is ."
+excerpt: "We're spreading ManBearWolf awareness. After spending a weekend exploring Diablo 4’s freshly unlocked Druid class, I was left with the resounding impression that despite passing the level 20 mark, I ..."
 publishedDateTime: 2023-03-31T11:01:00Z
 originalUrl: "https://www.dualshockers.com/diablo-4-druid-impressions/"
 webUrl: "https://www.dualshockers.com/diablo-4-druid-impressions/"
@@ -24,6 +24,6 @@ images:
     height: 1500
     isCached: true
 
-secured: "yRh34oKXoX0cfYnYnKBlhxJHB3wfRWd4t4RmwEOqe6Ud3d2MT2CmUIQKMWAOdOr2mBTUakTtzhD+sHc/OUswUW5vSFqWA52FM/Hb/gtvJmA1xHRrIzE5DHpnVT4rZcDpKG00ptzMK3vsILRrjMgofOTWU+z85H0t+cBgqP6JV5nA5Bs44Strr2RWhbH5TBYkfOwCyOEB8oCDq2r68nP6gCI+felYcAWcWE2TZ9ppNjvdFJjac8qvGcoTTPxPhmT9wXsWFWSobEB7WraMwjTRYIf4D7woTzxbG7US1vHlgamPpiG7YJ32BBV3vhz+ahOItmqpXcEJH+lMgocXkCePv0KSNAcA9WxVwxjaD1/PaKI=;mEJxNznEA4nZh963/bvhXQ=="
+secured: "+uaa91D8RX2KiDx4BtKMItcmDRe4om4rT8yjD+jXEg2yv/jmUsXwPDeVwo5j1XK1UgllGl9C0PjqoIFg0J3hnE/t0VUV/HxqgBNrUUkiy85V2cgDfDjhMI0zoo1gmFJWsrlfFh9dicoX8frv3dcMS34SA1UTqcGIZOyFAW7hRbm6WgchAjMMMXrwB8aaOpgXV2il6qlYxXRZdXzBz5K2MItMcVom3jS/gGl0yU0GknI7wy74A8pCnP3oX7gjdd+eybGxg05klIM3DWn0/hrBvYfh1TywuwWILtXlhWOQmW22WWAkU85WzOlXUFmBhEEQV8SMC0wptPZSqIQ/jMwwujnYYy2mWycFx1Rn04BNAYs=;u1RtJfV+G89oBEtyzcHDGg=="
 ---
 

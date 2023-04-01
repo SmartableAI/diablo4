@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Diablo 4’s Butcher killed over 1.7 million players, Ashava got 47 million kills"
-excerpt: "Blizzard shared some cool Diablo 4 beta stats. Blizzard Entertainment has released a few statistics from the recent Diablo 4 open beta test, revealing that players spent 61,560,437 hours in Sanctuary ..."
-publishedDateTime: 2023-03-31T07:49:00Z
-originalUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-s-butcher-killed-over-1-7-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
-webUrl: "https://www.msn.com/en-in/entertainment/gaming/diablo-4-s-butcher-killed-over-1-7-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
+excerpt: "Blizzard shared some cool Diablo 4 beta stats. Blizzard Entertainment has released a few statistics from the recent Diablo 4 open beta test, revealing that players spent 61,560,437 hours in Sanctuary while the servers were up. In that time, they ..."
+publishedDateTime: 2023-03-31T11:49:00Z
+originalUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-s-butcher-killed-over-1-7-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
+webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-s-butcher-killed-over-1-7-million-players-ashava-got-47-million-kills/ar-AA19jw4R"
 type: article
 quality: 83
 heat: -1
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xvICMm/DYDSLfm2bDVfNInrx0cQcz7/waS8esRL2VWt8xUjT9jKcnhX9Lfc8aJ0tj3pDU9aqqonvXEyLys1noM2/Gy8ywLnOyYWNC+cSfGWZvc6TqhW2aAtBXw6bRJlDCOj92R2sVuVRo/Ap7SKKBBqlgF1D1VwpN0/muRiCMMb++OAb0RUjL9sP2VgRxNT+fzaGh4vzQj6M/ydSC3MQgi+yG6BLgk439dEEdbJO1DhT8IzvWPq8/pq2y/E7sWiMS9VygSw7eeR0a9D+FSW8feNLnGPYR2k7cQJ9F/Y8dnssXi5ziI/gjYeyEoVQQNdpNdsl+/J0mF5WpZF6a0SXL6SU40pf09Crq7VgaxgLpi8=;D6AB0+6Y9Vk0mc839Q+aig=="
+secured: "+IMehRbEIdKcajQvrvi6kyvmQ5NRmR196kDchpluUDOWEplbhFpYjSOdeVqO6nh5naehFQz1WufOoasTTPSFIoKKNVQBsDUl7BfnGVtKuxX7m4mmt0twtOS8Hod0DqAqrJte8sprk7RIYkQRTs/htI94OwrVXz7Fp64bA1U53vYwbJL22mOPBP6YeLJ6aEUzcIisR6Ql/wnI0gZwDZiw+wt+LJ4DpspCk+4zBazuUuiEQHZiFL94H9JZBoTXJ6TCOoO1dr3NAuII00DXOzrSOmhkXUvbND3ervkfQNMerPcFdfRRlmLyWPSxG8QCHRp60YC2juKfJMf5gamsnAcmOBxcduZrywKpu2IYzOYoEwU=;ggxRKfPYc0EIADk5+6dKTw=="
 ---
 
