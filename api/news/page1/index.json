@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-01-3-games-to-play-while-waiting-for-diablo-4.md",
+      "title": "3 games to play while waiting for Diablo 4",
+      "excerpt": "With the recent beta closed, here are the best games to scratch that dungeon-crawler itch Last week’s Diablo 4 beta has come and gone, and unless Blizzard decides (last-minute) to host another before ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-01-3-games-to-play-while-waiting-for-diablo-4/index.json",
+      "webUrl": "https://www.polygon.com/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
+      "originalUrl": "https://www.polygon.com/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/VL2BaTsd8ZJdSA_epK-_oTWEfik=/0x0:1600x900/1400x933/filters:focal(647x147:903x403):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72137713/d4_hed_2.0.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
+      "publishedDateTime": "2023-03-31T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-diablo-4-beta-impressions-this-hellish-return-left-me-impressed-and-hungry-for-more.md",
       "title": "Diablo 4 beta impressions: this hellish return left me impressed and hungry for more",
       "excerpt": "The Diablo 4 beta was a great taste of what's to come, but the wait until full release has now become more unbearable ...",
@@ -86,6 +128,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-31-the-druid-is-the-manbearwolf-of-diablo-4.md",
+      "title": "The Druid Is The ManBearWolf Of Diablo 4",
+      "excerpt": "After spending a weekend exploring Diablo 4’s freshly unlocked Druid class, I was left with the resounding impression that despite passing the level 20 mark, I had barely scratched the surface. Maybe ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-the-druid-is-the-manbearwolf-of-diablo-4/index.json",
+      "webUrl": "https://www.msn.com/en-au/news/techandscience/the-druid-is-the-manbearwolf-of-diablo-4/ar-AA19kcEQ",
+      "originalUrl": "https://www.msn.com/en-au/news/techandscience/the-druid-is-the-manbearwolf-of-diablo-4/ar-AA19kcEQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19kamW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-diablo-4-who-is-lilith.md",
       "title": "Diablo 4 - Who Is Lilith?",
       "excerpt": "Related: Diablo 4's Lilith May Be The Series' Best Villain Yet After being captured by the armies of Hell, Inarius expressed his desire to end the eternal conflict to his captor Lilith, daughter of ...",
@@ -167,49 +252,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-the-druid-is-the-manbearwolf-of-diablo-4.md",
-      "title": "The Druid Is The ManBearWolf Of Diablo 4",
-      "excerpt": "We're spreading ManBearWolf awareness. After spending a weekend exploring Diablo 4’s freshly unlocked Druid class, I was left with the resounding impression that despite passing the level 20 mark, I ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-the-druid-is-the-manbearwolf-of-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/the-druid-is-the-manbearwolf-of-diablo-4/ar-AA19kcEQ",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/the-druid-is-the-manbearwolf-of-diablo-4/ar-AA19kcEQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19kamW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
       ]
     },
     {
@@ -1021,48 +1063,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-27T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-player-shows-off-god-of-war-kratos-build.md",
-      "title": "Diablo 4 Player Shows Off God of War Kratos Build",
-      "excerpt": "A Diablo 4 player created a character that looks just like Kratos, the famous protagonist of the God of War franchise. This Kratos build can inspire other Diablo 4 players who want to use the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-player-shows-off-god-of-war-kratos-build/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-player-shows-off-god-of-war-kratos-build/ar-AA1999lI",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-player-shows-off-god-of-war-kratos-build/ar-AA1999lI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198Xe2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=178",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
