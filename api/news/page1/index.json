@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access.md",
+      "title": "Diablo 4 Fans Are Railing Against The Concept Of Early Access",
+      "excerpt": "Diablo 4 is scheduled to release across multiple platforms on June 6 with the promise of up to four days of early access to those who purchase the Deluxe or Ultimate editions, and that's not sitting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access/index.json",
+      "webUrl": "https://www.dualshockers.com/diablo-4-fans-railing-against-early-access/",
+      "originalUrl": "https://www.dualshockers.com/diablo-4-fans-railing-against-early-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/04/diablo-4-ultimate-edition-lilith.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-3-games-to-play-while-waiting-for-diablo-4.md",
       "title": "3 games to play while waiting for Diablo 4",
       "excerpt": "With the recent beta closed, here are the best games to scratch that dungeon-crawler itch Last week’s Diablo 4 beta has come and gone, and unless Blizzard decides (last-minute) to host another before ...",
@@ -1021,48 +1063,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-27T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years.md",
-      "title": "Diablo 4’s Beta Dungeon Problem Could Haunt Blizzard for Years",
-      "excerpt": "Diablo 4 is one of the highest-anticipated releases of the year, but after two beta weekends granting access to a sizable chunk of the game, many players are concerned about the repetitive dungeon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198LB9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",

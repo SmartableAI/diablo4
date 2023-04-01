@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-18-the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it.md",
+      "title": "The 'Diablo 4' Beta Is Fantastic, When You Can Actually Play It",
+      "excerpt": "At long last, the beta for Diablo 4 has arrived, and while it requires a pre-order (or KFC chicken sandwich) to access this first weekend, the game has enough people clogging the servers to make its initial launch here a sadly familiar sort of disaster.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-18-the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/18/the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/18/the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6414fd32008bcd0c557ffb6c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/18/the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/18/the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it/amp/",
+      "publishedDateTime": "2023-03-17T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-will-diablo-4-have-controller-support-on-pc.md",
       "title": "Will Diablo 4 have controller support on PC?",
       "excerpt": "PC players are always wondering if a new game will get controller support, and Diablo 4 fans will get an answer for this today.",
@@ -1061,57 +1112,6 @@
         "name": "Den Of Geek",
         "domain": "denofgeek.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-diablo-4-gameplay-has-leaked-online.md",
-      "title": "Diablo 4 Gameplay Has Leaked Online",
-      "excerpt": "36 minutes of Diablo 4 gameplay leaks online less than 3 months away from launch, and a day before the beta early access opens. Diablo 4 gameplay has been leaked online. The video is fairly long, 36 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-gameplay-has-leaked-online/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-gameplay-leak/",
-      "originalUrl": "https://gamerant.com/diablo-4-gameplay-leak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-pre-alpha.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

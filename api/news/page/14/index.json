@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft.md",
+      "title": "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft",
+      "excerpt": "A new trailer for Diablo 4 is rumoured for The Game Awards 2022 and will announce a release date and pre-order details. While it was confirmed for a 2023 launch back at the June Xbox showcase, neither ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft/index.json",
+      "webUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
+      "originalUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
+          "width": 600,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/",
+      "publishedDateTime": "2022-11-06T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-diablo-4-release-date-supposedly-set-for-april-pre-orders-soon.md",
       "title": "Diablo 4 release date supposedly set for April, pre-orders soon",
       "excerpt": "The Diablo 4 release date has supposedly been set for April 2023, with pre-orders for the next chapter of Blizzard's woeful RPG saga set to drop in December ...",
@@ -1025,48 +1067,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional.md",
-      "title": "Leaked Diablo 4 screenshots hint at the campaign being optional",
-      "excerpt": "Diablo 4 screenshots have leaked online, seemingly confirming that you can skip the game's campaign after beating it once. Over the past weekend, the Twitter user below uploaded four images ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-03-leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/index.json",
-      "webUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
-      "originalUrl": "https://www.gamesradar.com/leaked-diablo-4-screenshots-hint-at-the-campaign-being-optional/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

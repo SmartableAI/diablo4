@@ -56,8 +56,8 @@ related:
         isCached: true
   - title: "Diablo 4’s Ashava World Boss Has Killed a Staggering Number of Players"
     excerpt: "Following the beta weekends for Diablo 4, Blizzard releases statistics about the game including the staggering number of deaths players suffered at the hands of the world boss Ashava. Although the ..."
-    publishedDateTime: 2023-03-31T15:28:00Z
-    webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-s-ashava-world-boss-has-killed-a-staggering-number-of-players/ar-AA19jsyU"
+    publishedDateTime: 2023-03-31T15:44:00Z
+    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-s-ashava-world-boss-has-killed-a-staggering-number-of-players/ar-AA19jsyU"
     type: article
     provider:
       name: MSN

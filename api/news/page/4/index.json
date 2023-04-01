@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-22-the-diablo-4-beta-makes-it-feel-like-blizzard-hasnt-learned-anything-about-action-rpg-combat-in-the-11-years-since-diablo-3.md",
+      "title": "The Diablo 4 beta makes it feel like Blizzard hasn't learned anything about action-RPG combat in the 11 years since Diablo 3",
+      "excerpt": "My time in the beta so far has me seriously doubting that the long-awaited sequel is going to deliver. Reception to Diablo 4 (opens in new tab)'s early access beta has been broadly positive, and I can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-the-diablo-4-beta-makes-it-feel-like-blizzard-hasnt-learned-anything-about-action-rpg-combat-in-the-11-years-since-diablo-3/index.json",
+      "webUrl": "https://www.pcgamer.com/the-diablo-4-beta-makes-it-feel-like-blizzard-hasnt-learned-anything-about-action-rpg-combat-in-the-11-years-since-diablo-3/",
+      "originalUrl": "https://www.pcgamer.com/the-diablo-4-beta-makes-it-feel-like-blizzard-hasnt-learned-anything-about-action-rpg-combat-in-the-11-years-since-diablo-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gUuNr6kCxv5TyUSb4TJpPB-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-diablo-4-gives-players-with-wider-monitors-a-massive-advantage.md",
       "title": "Diablo 4 Gives Players With Wider Monitors a Massive Advantage",
       "excerpt": "Diablo 4 beta players discover that wider monitors actually give them a significant advantage in the dungeon crawling action-RPG. Blizzard is getting a lot of feedback from fans who have played the ...",
@@ -1083,57 +1134,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-ashava-boss-guide-spawn-times-location-and-tips.md",
-      "title": "Diablo 4 Ashava Boss Guide: Spawn Times, Location, And Tips",
-      "excerpt": "GameSpot may get a commission from retail offers. The Diablo 4 Ashava boss is the centerpiece to the beta. The beta thus far has produced some incredible moments for new and returning players of the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-ashava-boss-guide-spawn-times-location-and-tips/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 387,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1745/17457013/4114880-ashava.jpg",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-ashava-boss-guide-spawn-times-location-and-tips/1100-6512517/",
-      "publishedDateTime": "2023-03-20T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
