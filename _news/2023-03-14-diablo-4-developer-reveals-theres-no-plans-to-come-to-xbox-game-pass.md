@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox
 cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10380328/diablo-4-developer-no-plans-xbox-game-pass/amp/"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 307
+published: true
 
 provider:
   name: Irish Sun
@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "\"No Plans\" For Diablo 4 To Come To Game Pass, Blizzard Confirms"
-    excerpt: "Diablo IV won't be coming to Xbox Game Pass anytime soon, with Blizzard confirming that it currently has \"no plans\" to add the highly anticipated ARPG to the service. The to-the-point answer came from ..."
-    publishedDateTime: 2023-03-13T13:17:00Z
-    webUrl: "https://www.gamespot.com/articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/no-plans-for-diablo-4-to-come-to-game-pass-blizzard-confirms/1100-6512298/"
+  - title: "Diablo 4 on Xbox Game Pass? Blizzard speaks about it"
+    excerpt: "But a definitive ruling won’t arrive in time for the launch of Diablo IV, one of the most anticipated video games of 2023. The title developed by Blizzard Entertainment will reach all major systems except Nintendo Switch, but will it be released on Xbox"
+    publishedDateTime: 2023-03-14T13:26:00Z
+    webUrl: "https://en.as.com/meristation_en/2023/03/14/news/1678818835_656410.html"
+    ampWebUrl: "https://en.as.com/meristation_en/2023/03/14/news/1678818835_656410.amp.html"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2023/03/14/news/1678818835_656410.amp.html"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4111581-diablo4won%27tbeongamepass.jpg"
-        width: 1580
-        height: 889
-        isCached: true
-  - title: "Diablo 4 will not be on Game Pass day one says Blizzard"
-    excerpt: "Although it may soon become a first party Xbox game, Blizzard claims there are no plans to bring Diablo 4 to Game Pass – day one or otherwise."
-    publishedDateTime: 2023-03-14T03:29:00Z
-    webUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/?ico=related-posts"
-    ampWebUrl: "https://metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/03/14/diablo-4-will-not-be-on-game-pass-day-one-says-blizzard-18439345/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
+      name: as.com
+      domain: as.com
     quality: 107
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/12/MK668_comp_match_8khda_rgba_regular-214b.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://as01.epimg.net/meristation_en/imagenes/2023/03/14/news/1678818835_656410_1678818918_portada_normal.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 lead says there are currently 'no plans' to be on Xbox Game Pass"
     excerpt: "Diablo franchise general manager Rod Fergusson said ahead of the Diablo 4 beta this week that there are currently “no plans” for the game on Xbox Game Pass. With Microsoft’s acquisition of Activision Blizzard very close at hand, questions continue ."
@@ -116,6 +100,62 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Devs Have No Plans For Xbox Game Pass Release"
+    excerpt: "A Diablo 4 developer confirms the game will not be released on Xbox Game Pass on day one. As we inch closer and closer to the first Diablo 4 beta this weekend, the developers have been sharing more ..."
+    publishedDateTime: 2023-03-14T06:59:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-devs-have-no-plans-for-xbox-game-pass-release/ar-AA18BxX2"
+    type: article
+    provider:
+      name: DualShockers on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14XCMW.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=505&y=178"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'Diablo 4' will not be released on the XBox Games Pass anytime soon"
+    excerpt: "'Diablo 4' will not be released on the XBox Games Pass anytime soon, according to the franchise boss. Like us on Facebook to see similar stories Please give an overall site rating:"
+    publishedDateTime: 2023-03-14T15:43:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/finance-real-estate/diablo-4-will-not-be-released-on-the-xbox-games-pass-anytime-soon/vi-AA18CUNL"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAPqFVk.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Will Diablo 4 be on Xbox Game Pass?"
+    excerpt: "Numerous gameplay trailers and the early access open beta phase has made the excitement surrounding Diablo 4 almost palpable. NOW READ: Diablo 4 Early Access open beta – when does it end? Now that the fourth installment in Blizzard’s dungeon crawling"
+    publishedDateTime: 2023-03-15T18:11:00Z
+    webUrl: "https://www.videogamer.com/news/is-diablo-4-on-xbox-game-pass/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 87
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-Boss.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Diablo 4 On Xbox Game Pass: Where To Play Diablo 4"
+    excerpt: "Microsoft's pending acquisition of Activision-Blizzard may affect the availability of Blizzard's upcoming game, Diablo 4, specifically regarding it potentially coming to Xbox Game Pass. 11 years have ..."
+    publishedDateTime: 2023-03-16T14:00:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-on-xbox-game-pass-where-to-play-diablo-4/ar-AA18J8F5"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18J3OS.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'There are no plans!' Why Diablo 4 will not be released on XBox Games Pass"
     excerpt: "Diablo 4' will not be released on the XBox Games Pass anytime soon. © Provided by BANG Showbiz 'Diablo 4' (c) Activision Blizzard . The upcoming action role-playing game - which ..."
     publishedDateTime: 2023-03-14T03:00:00Z
@@ -129,20 +169,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA10PPv9.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=529&y=252"
         width: 600
         height: 315
-        isCached: true
-  - title: "Blizzard confirms fix for Diablo 4 beta’s queue time and disconnect issues is in the works"
-    excerpt: "Blizzard has acknowledged the Diablo 4 beta's long queue times and disconnect issues and confirmed the team is working to fix them."
-    publishedDateTime: 2023-03-18T18:52:00Z
-    webUrl: "https://www.dexerto.com/diablo/blizzard-confirms-fix-for-diablo-4-betas-queue-time-and-disconnect-issues-is-in-the-works-2090072/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 77
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/18/diablo-4-inarius-floating-header.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "hLPL/m7dnrN2QDQoCS8Vt+D0TtgDXmLn2dRpF4KmGoM6t39T/+V3dsMWulqdxEX2fUOHv+Q1DbCYTLl7SL8Vuj/4O1mLdjckIr7vH+CGmJE4YlM8lryUHEJBryn/+iv6qFeE90woLPF8YC/mRIw1s38wOpqb5EJFPJWbVlzTHMc3l2EdmIHvmPIUn0F6qCyASM/v5ANVgK5PvThpBK8C2BwNLO0RP630WpQjPUz/PPsc8uIr4+wANEIzBW57S9s/xqQseAYUAkpm8uoXse8Fy7S3GMBFxWFAyKoih9IVAa2ezdrpmiznPdAyNO/GdLTI3jJagHG4+0bqbTDo42R+9bJRqs4l6IbkrfNeomX91i8=;FkEqBHdw/kCf7qhXe1r6Dw=="

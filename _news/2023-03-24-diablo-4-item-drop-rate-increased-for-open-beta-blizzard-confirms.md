@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increa
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190Ee0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Blizzard confirms fix for Diablo 4 beta’s queue time and disconnect issues is in the works"
+    excerpt: "Blizzard has acknowledged the Diablo 4 beta's long queue times and disconnect issues and confirmed the team is working to fix them."
+    publishedDateTime: 2023-03-18T18:52:00Z
+    webUrl: "https://www.dexerto.com/diablo/blizzard-confirms-fix-for-diablo-4-betas-queue-time-and-disconnect-issues-is-in-the-works-2090072/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 77
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/18/diablo-4-inarius-floating-header.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "aMsj3x0n/f7eft33Sqa6L1SZjEsj7zvpzCnXD6XWRMTDzwfxIVG0XWAP2ABVCjjHFFucoYMwWzXs1ZyTNhZ/VgWMjl7crAg6gqkO5//UvDiKYSPchubWeX76hsIc5o1RxBlz5O72+gDQ+lLxogz1XE7XmXU/ITIbRkCcqclXruoDVB5qRe3ubQrSu2ewe4G4LworUctYR68pV+hV0JXSgFiEdUbALz/puJEvK+aDil1UJuF8DldzQKIV+CVkZb5ClIaOmOtNwJ/w8QIgAwVD3IWzzjHGVYyH/4oYSWBfGNpJ3oSOwEX5S7NJuwPewi/lPQfTd11mgFXwsjgKbOeMOdKi6OxFBuI9eNwRv1KmOyI=;oVx5ofM0jqnq3CGKcoTr8w=="

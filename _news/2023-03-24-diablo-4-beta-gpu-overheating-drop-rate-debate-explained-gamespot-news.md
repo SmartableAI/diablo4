@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard confirms fix for Diablo 4 beta’s queue time and disconnect issues is in the works"
+    excerpt: "Blizzard has acknowledged the Diablo 4 beta's long queue times and disconnect issues and confirmed the team is working to fix them."
+    publishedDateTime: 2023-03-18T18:52:00Z
+    webUrl: "https://www.dexerto.com/diablo/blizzard-confirms-fix-for-diablo-4-betas-queue-time-and-disconnect-issues-is-in-the-works-2090072/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 77
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/18/diablo-4-inarius-floating-header.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "xRduzn2E5o6zLDxFpb0EXr1weRttqU2qhjx8rMk0b9Gfm4Vzql8mK7lq0XnTR6go/9dtSvKxdSX6Gey0sae1jXIVX2ZOmJDGCBzxs429QWCbgBJ9N6emcEn6ywfGT9Tk6atoJu4NO9TdmYDDRV9ujDat5HxdP2WuX2W+6lZLZpMMWdiRJlyZHkuXtFIDHLbwj0t51o8CwZBSgacEDBN/golh8T63hfRwbPV1cag4vXypZTEpnlyVOFoFWYOPmAwyRu7dmJXgWOmgUk16/MXrByM2poA5yMS3N77+NJzb/MTkIXC9Q3R7HVvuO6uQT5Jz+yyndBsq9CpYyyyhrAYsU07DOk4T9T11fVnD9aCZU2c=;XhSTLOL5X8Xy8RUiQqmM3w=="
 ---
