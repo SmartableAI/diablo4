@@ -40,20 +40,6 @@ related:
         width: 1400
         height: 540
         isCached: true
-  - title: "When does Diablo 4 Open Beta start?"
-    excerpt: "The Diablo 4 Open Beta runs from March 17-19 for pre-order customers, and March 24-26 for all other players. You’ll have access to the Prologue and Act 1 of Diablo 4, and be able to level up to 25."
-    publishedDateTime: 2023-03-13T17:53:00Z
-    webUrl: "https://www.windowscentral.com/gaming/pc-gaming/when-does-diablo-4-open-beta-start"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/V3WoShWjLAPF6Q2BhqyrrW-1200-80.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Diablo 4 Open Beta New Zealand trick – can you play it early?"
     excerpt: "Anyone who hasn’t been able to get onto the Diablo 4 Closed Beta last weekend is itching to get onto the open beta this weekend. As the time ticks down till the start time, many out there are ..."
     publishedDateTime: 2023-03-24T04:16:00Z
