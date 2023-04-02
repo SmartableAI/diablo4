@@ -40,20 +40,6 @@ related:
         width: 1580
         height: 889
         isCached: true
-  - title: "Diablo 4 Director Says 'No Plans' for Xbox Game Pass as Beta Approaches"
-    excerpt: "While Microsoft's acquisition of Activision Blizzard is still in the process of being approved, there are currently no plans to put Diablo IV on Xbox Game Pass."
-    publishedDateTime: 2023-03-13T10:40:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-director-says-no-plans-for-xbox-game-pass-as-beta-approaches"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2023/03/13/diablo-1678735965637.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Diablo 4 developer reveals there’s ‘no plans’ to come to Xbox Game Pass"
     excerpt: "THE general manager of the Diablo series has confirmed that there are ‘no plans’ to bring Diablo 4 to Xbox Game Pass. Diablo 4 is the long-awaited return to the series that saw its last new entry ..."
     publishedDateTime: 2023-03-14T02:55:00Z
