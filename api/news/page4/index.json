@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features.md",
-      "title": "Diablo 4’s Beta Buries One of Its Most Useful Quality of Life Features",
-      "excerpt": "Diablo 4 has concluded its first of two beta weekends and important intel has been shared since, including a terribly helpful quality of life feature. Teases for quests that were inaccessible were a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
-      "originalUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-quality-of-life-feature.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-the-diablo-4-beta-makes-it-feel-like-blizzard-hasnt-learned-anything-about-action-rpg-combat-in-the-11-years-since-diablo-3.md",
       "title": "The Diablo 4 beta makes it feel like Blizzard hasn't learned anything about action-RPG combat in the 11 years since Diablo 3",
       "excerpt": "My time in the beta so far has me seriously doubting that the long-awaited sequel is going to deliver. Reception to Diablo 4 (opens in new tab)'s early access beta has been broadly positive, and I can ...",
@@ -1141,6 +1090,57 @@
         "name": "NME",
         "domain": "nme.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-diablo-4-convinced-me-that-skill-trees-rule-actually.md",
+      "title": "Diablo 4 convinced me that skill trees rule, actually",
+      "excerpt": "The heart of Diablo 4 lies in one brilliant system. Skill trees are easy to make fun of because nobody can seriously insist there's a thrill in having 3% extra critical strike chance on your fire bolt ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-convinced-me-that-skill-trees-rule-actually/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aBs5632Fh32RDtQFZdwhiZ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

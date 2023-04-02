@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-pre-order-
 webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: MSN
@@ -22,6 +22,36 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 pre-order guide"
+    excerpt: "All pre-orders of the game get you early access to the open beta that begins on March 17 and runs until March 20. However, it's worth noting that the Diablo 4 Beta will be made available to everyone ..."
+    publishedDateTime: 2023-03-15T11:10:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ"
+    type: article
+    provider:
+      name: Polygon on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FIz0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 editions & pre-order bonuses"
+    excerpt: "The release of Diablo 4 is set to be a mammoth occasion in 2023, and to help you decide which version to get here's a guide to its editions."
+    publishedDateTime: 2023-03-20T09:39:00Z
+    webUrl: "https://www.dexerto.com/diablo/diablo-4-editions-pre-order-bonuses-2090927/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 87
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/20/diablo-4-editions-and-pre-order-bonuses-e1679325045475.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "I9C4kPNJNCiW29xLOjPz/pL7qd1Icbx7K8W+tjFm0T5Yi9eDY4X/L+ujNWNRMqzpIsPlz5LKJ55D54wVsmPpvBfu/9Q+y10EVMNUaxBeDc5H0/EALHdxb9gXBG173m3MMhVXpsDh4yekcu4/rVDg74BnI8leKxin5rIo9djYLGtHu/49mG3zH83t1izYYwFxXR6W9fJfJ3f+N7DUMi+sAi4FA47VJRRmlUxGAjmkFL+CqzVu2j+J2Jay8h6otnndju9KU98UjTKKBdtY8FlytLGwYHzQsqxGzq1N5FCx5WhPP83F697BvFoJkOO+Lc/6rIAi9p3IQPdiCZLD4rvQS4ifK6minXUeA+PjGuur/Kk=;EnVrGNNmy65N6yF+NoEr7A=="
 ---
