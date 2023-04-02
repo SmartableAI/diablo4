@@ -72,20 +72,6 @@ related:
         width: 592
         height: 204
         isCached: true
-  - title: "Blizzard says there are \"no plans\" for Diablo 4 Game Pass launch"
-    excerpt: "Diablo 4 on Game Pass? Don't hold your breath, as Blizzard has confirmed there are \"no plans\" for such a thing at the moment. Blizzard has given no indication that Diablo 4 would be a Game Pass game, ..."
-    publishedDateTime: 2023-03-13T22:32:00Z
-    webUrl: "https://news.yahoo.com/blizzard-says-no-plans-diablo-200821627.html"
-    type: article
-    provider:
-      name: Yahoo News
-      domain: yahoo.com
-    quality: 87
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/YpmLI3I6wB0ampECssLnuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d226590b9dea18180b69f1aac9c2c062"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Blizzard Has \"No Plans\" To Launch Diablo 4 On Xbox Game Pass"
     excerpt: "Blizzard has confirmed it has \"no plans\" to launch Diablo 4 on Xbox Game Pass in the near future, as some might assume due to the Microsoft-Activision deal. Therefore, if you want to enjoy it on Xbox, ..."
     publishedDateTime: 2023-03-14T05:09:10Z
