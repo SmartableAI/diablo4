@@ -2,6 +2,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-06-12-diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay.md",
+      "title": "Diablo 4 reveals Necromancer class, shows off Xbox Series X gameplay",
+      "excerpt": "The final class joining the launch roster of Diablo 4 is an old favorite that brings their own party wherever they go.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay",
+      "originalUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-reveals-necromancer-class-shows-off-xbox-series-x-gameplay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/F23Mq3DqQ9jTv5GpxkPgZi-1200-80.jpg",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-diablo-4-beta-sign-ups-now-available.md",
       "title": "Diablo 4 Beta Sign-Ups Now Available",
       "excerpt": "You can now sign up for the Diablo IV beta on the game's official website. The webpage currently only has the beta listed for PS5, Xbox Series X|S, and PC, although the game was announced to be coming ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "Epicstream",
         "domain": "epicstream.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-diablo-immortal-should-satisfyingly-bridge-the-gap-to-diablo-4.md",
-      "title": "Diablo Immortal Should Satisfyingly Bridge the Gap to Diablo 4",
-      "excerpt": "Diablo Immortal was much-maligned by a number of fans when it was first revealed all the way back at BlizzCon in 2018. This mobile, free-to-play take on the Diablo series was originally seen as ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-27-diablo-immortal-should-satisfyingly-bridge-the-gap-to-diablo-4/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-immortal-beta-preview/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-immortal-beta-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2021/03/18/8d5dcf24-4cb1-4d8b-b9df-b3ee682d196b/xbox-one-games-with-gold-1237385.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-immortal-beta-preview/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-immortal-beta-preview/",
-      "publishedDateTime": "2022-01-27T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

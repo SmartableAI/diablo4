@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Beta - World Boss Event, Pre-Download Announced & Leveling Guides"
+    excerpt: "Diablo4 #Beta #Classes Much more D4 content to come! My Diablo 4 Playlist: ..."
+    publishedDateTime: 2023-03-13T21:06:15Z
+    webUrl: ""
+    type: video
+    provider:
+      name: wudijo
+      domain: youtube.com
+    quality: 135
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 pre-order guide"
     excerpt: "All pre-orders of the game get you early access to the open beta that begins on March 17 and runs until March 20. However, it's worth noting that the Diablo 4 Beta will be made available to everyone ..."
     publishedDateTime: 2023-03-15T11:10:00Z
@@ -31,20 +45,6 @@ related:
     type: article
     provider:
       name: Polygon on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18FIz0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 pre-order guide"
-    excerpt: "The initial open beta for Diablo 4 that required paid access has come and gone. Now, Blizzard is opening the gates to everyone for free access starting Friday, March 24 at 12:00pm EDT. It’ll last ..."
-    publishedDateTime: 2023-03-25T02:36:00Z
-    webUrl: "https://www.msn.com/en-my/entertainment/gaming/diablo-4-pre-order-guide/ar-AA18FvVZ"
-    type: article
-    provider:
-      name: MSN
       domain: msn.com
     quality: 87
     images:
