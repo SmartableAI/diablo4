@@ -1,43 +1,33 @@
 ---
 category: news
-title: "Diablo 4's respec cost isn't changing before launch"
-excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director ..."
-publishedDateTime: 2023-04-13T16:27:27Z
-originalUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
-webUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
+title: "Diablo IV Open Beta Retrospective: Transforming Feedback into Change"
+excerpt: "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!"
+publishedDateTime: 2023-04-14T17:00:00Z
+originalUrl: "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change"
+webUrl: "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 162
+heat: 242
+published: true
 
 provider:
-  name: PC Gamer on MSN
-  domain: msn.com
+  name: Blizzard
+  domain: blizzard.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19QbL2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=254"
-    width: 1200
-    height: 630
+  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png"
+    width: 880
+    height: 400
     isCached: true
 
 related:
-  - title: "Diablo IV Open Beta Retrospective: Transforming Feedback into Change"
-    excerpt: "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!"
-    publishedDateTime: 2023-04-14T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Diablo 4's Dungeons Are Becoming Less Repetitive And Tedious Thanks To Beta Feedback"
     excerpt: "GameSpot may get a commission from retail offers. Diablo IV's dungeons will be undergoing some big changes in the final version of the game to be less tedious and repetitive, thanks to player feedback ..."
     publishedDateTime: 2023-04-14T11:14:00Z
@@ -68,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4's respec cost isn't changing before launch"
+    excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director ..."
+    publishedDateTime: 2023-04-13T16:27:27Z
+    webUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
+    type: article
+    provider:
+      name: PC Gamer on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19QbL2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=254"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 Reveals Changes Based on Beta Feedback"
     excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
     publishedDateTime: 2023-04-14T11:28:00Z
@@ -83,6 +87,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9zPvFzx2yE90Qo7gJpu8msunnOfFIgNhXdsGrYLP0NjmS/9hSEtLcdOeM7X0ixcH8do21EbnMfASA/YrAN+WvkFe4GEE/izpOEhtWFU3/YENitCO2u77ogKDKPP+OVPCGTV4CqD6W63JSeCrQ15CT9u8pfMo8NCCSmDxl+GIVsnPNGdxCD+aGio5sWByLbAtG2rxhpCW/MgsCCLa4XVSJCtcGYKPmujDV1rcR911RsceFovcxMfmD+viB+T8nUOk/GnhRhN9PeSCAF1JTkkHXsQCQK1KzXekmljJnLrXKYzpETjhh1NY5ScnrCMkFnwaQEH1jbe8zF69de7W8BMDP+2EJFvK77aPWW4pu3kI2cc=;tIvDUA/T5qhwevmESepTLg=="
+secured: "giCtL+RawkjfGyGsZuIMO5tR67gbsJHDVnAOXLgav7tncUcE3cC8uu8XLnhxksKNqO2TgwDTjuOLdFeFnp6FjKHxI058hKAWK/0VhEI0XF2wzsqrvP7qu4SmCeY0l3yTSNu17friDJ/RS8K58thZx/3lKf30ryszklnzx9HbWWJ/CIcQv1EYZ3nIkYbSLZW01N8Q/88umOmlwYiVSjvx+A6+M33XTfR+FXE5+k3KufFe/jYLUUdMwfSFuaEfyMt2budb6zWPkQHsHLMkeyFFCVhGdLi1OWArCLFxeIHEnD/9jk2ZRzU8eZCEJEvc/PCM78PWpEUV6b0T7rfJWw9HT1wNsDp3tbp0rATBfRWgXxE=;sIT7/nXuFbbqiut5UXuOjA=="
 ---
 

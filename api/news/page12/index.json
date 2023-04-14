@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-17-diablo-4-release-date-trailers-gameplay-and-news.md",
+      "title": "Diablo 4 release date, trailers, gameplay, and news",
+      "excerpt": "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-17-diablo-4-release-date-trailers-gameplay-and-news/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/diablo-4-release-date.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story.md",
       "title": "The Pros and Cons of Skipping Diablo 4's Story",
       "excerpt": "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities. Another pro is that skipping the story can also ...",
@@ -1043,48 +1085,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
-      "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
-      "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153feB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=286",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

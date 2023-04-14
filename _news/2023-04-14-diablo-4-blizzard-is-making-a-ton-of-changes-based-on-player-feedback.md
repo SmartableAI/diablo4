@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Diablo 4's respec cost isn't changing before launch"
-excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director ..."
-publishedDateTime: 2023-04-13T16:27:27Z
-originalUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
-webUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
+title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
+excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
+publishedDateTime: 2023-04-14T11:07:00Z
+originalUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
+webUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
 type: article
-quality: 87
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: PC Gamer on MSN
-  domain: msn.com
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19QbL2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=254"
+  - url: "https://sm.ign.com/t/ign_in/news/d/diablo-4-b/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player_z7d4.1200.jpg"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -54,19 +58,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
-    excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
-    publishedDateTime: 2023-04-14T11:07:00Z
-    webUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
+  - title: "Diablo 4's respec cost isn't changing before launch"
+    excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director ..."
+    publishedDateTime: 2023-04-13T16:27:27Z
+    webUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
+      name: PC Gamer on MSN
+      domain: msn.com
+    quality: 87
     images:
-      - url: "https://sm.ign.com/t/ign_in/news/d/diablo-4-b/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player_z7d4.1200.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19QbL2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=254"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Diablo 4 Reveals Changes Based on Beta Feedback"
     excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
@@ -83,6 +87,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9zPvFzx2yE90Qo7gJpu8msunnOfFIgNhXdsGrYLP0NjmS/9hSEtLcdOeM7X0ixcH8do21EbnMfASA/YrAN+WvkFe4GEE/izpOEhtWFU3/YENitCO2u77ogKDKPP+OVPCGTV4CqD6W63JSeCrQ15CT9u8pfMo8NCCSmDxl+GIVsnPNGdxCD+aGio5sWByLbAtG2rxhpCW/MgsCCLa4XVSJCtcGYKPmujDV1rcR911RsceFovcxMfmD+viB+T8nUOk/GnhRhN9PeSCAF1JTkkHXsQCQK1KzXekmljJnLrXKYzpETjhh1NY5ScnrCMkFnwaQEH1jbe8zF69de7W8BMDP+2EJFvK77aPWW4pu3kI2cc=;tIvDUA/T5qhwevmESepTLg=="
+secured: "H6xoTVqw2QbOO6GuM1R+n7xEblVRcwcd+yFKomMu8MsMU4s34wL+7tH0PEn7CSJrNoaM+Ct0UZeNKLfX0uVfWeuSOuROOEXB/nIiLXRpeD5uTlistaBd9L2xmyTCjCb985BRfT4oQ5RTIZhgut4l3bMacGK9vnG1UAlDmbiwOMKF+fKMoXA07UKpeFBr7Juqds5yGTcyD9QwTzlzwSym0FZapxeslkJ4hAi0++fcYnxzRCkzCfzs+Nf7wm2NRG0l6II5L4PyXSZLuakFk/4H2JVBlmq9IcRap7acsnLl1wGpsRD+AlnxKRDrFQqcupSM2jSaL0YkPXNokGXpVzcL2L4DX5nGWoQ4MqaUNO+YCUg=;PluOuhI/VazGSBaEsimSyw=="
 ---
 

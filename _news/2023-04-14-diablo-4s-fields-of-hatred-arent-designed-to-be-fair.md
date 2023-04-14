@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Diablo 4's Fields of Hatred aren't \"designed to be fair\""
-excerpt: "Diablo 4's PvP endgame activity, the Fields of Hatred, does have systems in place to ensure relative parity regarding power level on the battlefield, but make no mistake, \"it's not designed to be fair\". Asked what the developers are doing to ensure Diablo"
-publishedDateTime: 2023-04-14T04:47:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4s-fields-of-hatred-arent-designed-to-be-fair/"
-webUrl: "https://www.gamesradar.com/diablo-4s-fields-of-hatred-arent-designed-to-be-fair/"
+excerpt: "Diablo 4's PvP endgame activity, the Fields of Hatred, does have systems in place to ensure relative parity regarding power level on the battlefield, but make no mistake, \"it's not designed to be fair ..."
+publishedDateTime: 2023-04-14T07:48:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-fields-of-hatred-aren-t-designed-to-be-fair/ar-AA19RpoT"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-fields-of-hatred-aren-t-designed-to-be-fair/ar-AA19RpoT"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/ZSgNyJBvMgVJQLaNJBMoC6-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Rzhz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=506&y=264"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "en0cZm7HGd1hpxv45/Rp6bBsQmc5xQgYpDRlNOtoTXpe/IIIfhkqYWgZ/qH8TsLQdU6Zwa97p8S8uS3HC6T6nTyLFAVoEZBpEdGdUjjUvYgQQMUCfc0af2x04AMuXkLangPubfOvMewuBcozd4C9cam45fNZxX0GXgUT8N/wXNJ9eNOa8XPDfU5WjOc6Q6Fo//vcO7kMaDc5nB+H/464uDLhZGilI6GH0N1fyFvNJdAEVj3jYmyUFR2phdmopvOfd/DPH5FfGj8FXZzUsXLSVmN9RYfOTh5MuadV4DKluXq9I1HWvVjOQFQgtYnH/x+vy6XJ31TVkZQCYABz042YwsLTjDdfyDif1Lbt9ErmfjE=;sd+r0jNgbkvV56OtQd72mg=="
+secured: "TIkxtIcbHTrHU8OfyOaIjkxNXujLHOX+GATG8HaceiBTqzCko/rdKQK2C6iakR4DoTLQpMNJWEpm10p+jRqma3LllAtKX9I9usc0CyRdL6rzcJ+KU5AjjpYgjF/lRHGccoZKXY1x1QtJNu4W0JMyoT7fwAVFmxQp75z06xKJFQXcPwNrrHWN7bHz4Baw/rudxo4py8LhZF0/FCi96Nj6MN8/Za+GuzZ/pyCB++MXW6SOObgAN39gE3NSY+3gy95l0lvqPjiQvLQpdk8bGm2KdYrgfmKpG2aRkuGiaUZzMZGKDWXrG1fE/gAY+tvj9HFwxeiHPPEXsBMskuoK5NYK35N8wsxtbPGC6ZqIT1oDtk4=;vLsuzksGXEX5ILcYBlZB0g=="
 ---
 
