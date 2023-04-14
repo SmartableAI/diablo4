@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4's Endgame Activity Fields Of Hatred \"Not Designed To Be Fair\""
 excerpt: "Diablo 4 will have the most extensive end-game content of any Diablo game ever made. That's because Blizzard is designing Diablo 4's endgame alongside its main campaign. In many ways, the end-game is ..."
-publishedDateTime: 2023-04-14T09:42:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw"
+publishedDateTime: 2023-04-14T10:09:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw"
 type: article
 quality: 87
 heat: 107
@@ -34,6 +34,6 @@ related:
       domain: yahoo.com
     quality: 67
 
-secured: "urfo2u9hsjxEl4n63rpG0UzPKLp1smcfAISb/hXKK1Hhpxm+l5TSofh2DHf5RRd1YcnHjK2CqG8J7XW/C6xEznwwH8wHWH9mJiwfb4NqAO190maAkhPBpdeux1Bfv6sb/K/cuFUXA/wyy4VuHT2UCj7AlGdR2DlW6bG6yLT9ooAA5jzt2s9M092/1GhLdxR1lorkpg2BSGzTM+cdSm6NgtyHH6KR6yMACPWHU9pxD7UJJQnNFOSGg9CqPh9CctDzQr07p0hDcufQ2ZTMQfq1YR/GMIlvHpsMuf0uthoTlIUkZNo1is4djZfHPk4X2mGYoT4sTOYwTdgV8Lbbng+5bLE2JL2O9oLWtlOpSEOI9J4=;Jpby20lQLCWqgHwqKYjNhw=="
+secured: "JamRc6GkTvw+GRVwD3F/aSL9/YSRl4MLEcu6C9YqWixQ31/0fQ4VE6OzaGAN+d4KhxE+ommu2I2ZaT3hYHxSbFBEUx8DdQPl9eqp0gFDoI4gy7TcQwQ6iNJwnXBO1JOtdW3CAHriCdboJjBHJt85ZfR7gFgkNNQmiUHSlC64oa6UbWAWJcMF6ZcrmEAHlT7MZZ6ySqv0hkTjie0FF9FTDfViM992aqgP6Rrjk6QU0eZZLoDwTvAeCjHeNqKnaf8fe4OIFIrrZlAc9sXJ0aK7AE0axkq9qfmE+a1uFI25wgxPpDuATyVwcBP2Qf63hFM5ZOaDZv2neRHKhgf43W2qZzCKkfD77O0SsPd9f46/N7k=;OV7d/z6UQBM2NeCUduVk1g=="
 ---
 
