@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The best Diablo 4 Druid build for solo play"
-    excerpt: "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage."
-    publishedDateTime: 2023-03-25T17:00:00Z
-    webUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build"
-    ampWebUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
+  - title: "Diablo 4: Best Aspects"
+    excerpt: "Everyone is trying to wrap their heads around what this next installment in the Diablo series has to offer. Players are discovering a host of new stats, new skills, and innovations on the traditional ..."
+    publishedDateTime: 2023-03-26T14:33:33Z
+    webUrl: "https://www.msn.com/en-us/entertainment/news/diablo-4-best-aspects/ar-AA196AYP"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 124
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
     images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more"
-    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-    publishedDateTime: 2023-03-25T19:57:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18OxN3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Diablo 4: Best Class to Play Solo"
     excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."

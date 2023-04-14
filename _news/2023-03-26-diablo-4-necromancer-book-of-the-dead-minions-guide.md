@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-t
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/"
 type: article
 quality: 147
-heat: 207
+heat: 167
 published: true
 
 provider:
@@ -45,36 +45,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116671-diablo4necromancerbuildguidediablo4necromancerlevelingbuildguide-.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The best Diablo 4 Necromancer build for solo play"
-    excerpt: "The best Necromancer build in Diablo 4 takes a bit from each of the Necromancer’s unique skill branches. The result is a bone warrior with some powerful blood magic who can summon undead allies and ..."
-    publishedDateTime: 2023-03-25T17:15:00Z
-    webUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build"
-    ampWebUrl: "https://www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134775/diablo-4-necromancer-build?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-necromancer_feature.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Diablo 4 Players Aren't Happy About the Necromancer Skeletons"
-    excerpt: "Necromancer players in Diablo 4's ongoing open beta aren't happy with the design of the class' summoned skeletons, saying it doesn't fit the new game's aesthetic. Diablo 3 was harshly criticized for ..."
-    publishedDateTime: 2023-03-25T16:31:00Z
-    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-players-aren-t-happy-about-the-necromancer-skeletons/ar-AA194PLB"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194z5G.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "vgg37bryqpylmY+MBtCZ+nUB46sTB1uoycKksPTMtp1OZdCiGr0WIpryJIbZtPujek6JWVoCWcCl9diuBga/0ElgWInnvjRtI5ETpv35Yzyy++p5C1qlED1NlMx/g0rFPzCjugc3liWAJTTfHmJdDcn/Axr3DPSz5e/6RzDBEcbj+w2J4cJgWKNL6XmgLhXOobM/P3DjVFOynwoCV6D0Z5x0V/68Yvfok6yxzuEvkS6aTolUThDA8pHe9kZkyiCDnUPqNsXbgJUlCfRwwmw2cgQhOsV8ZiUBE+8B/Ir6jHQmu9JXDN+YDM80fbp89aaC4YbQTqvZCATlu96v4vmHQgcMWTps2CkH5Oe6sT1aEUY=;0qaubCCdxToXz8ePODecIA=="
