@@ -2,6 +2,141 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-20-diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form.md",
+      "title": "Diablo 4 players react to the beta test: 'Seems to be Blizzard back in their old form'",
+      "excerpt": "The Diablo 4 early access beta got off to a rough start but once it started working, players were genuinely excited by what they saw.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ev8xLFqa8a8q7A58t3BR5i-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head.md",
+      "title": "‘Diablo 4”s Lilith could be ‘Diablo”s Darth Vader says franchise head",
+      "excerpt": "She’s taking a central role in the events of Diablo 4, and fans may have seen a slightly more nuanced approach to being evil, as she wins over the hearts and minds of a small church in the game’s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head/index.json",
+      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head-3417005",
+      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4s-lilith-could-be-diablos-darth-vader-says-franchise-head-3417005",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-Lilith.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-even-in-beta-its-clear-to-me-that-diablo-4-is-game-of-the-year-material.md",
+      "title": "Even in beta, it's clear to me that Diablo 4 is game of the year material",
+      "excerpt": "The Diablo 4 early access beta has ended. Thousands of demons have been slain, hundreds of players have been squashed by The Butcher, and many bug reports were filed. While pockets of the internet ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-even-in-beta-its-clear-to-me-that-diablo-4-is-game-of-the-year-material/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-iv-preview",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-iv-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qkKwrhowqYkNNfTMwb4ab9-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-diablo-4-beta-players-criticize-easy-mode-sorcerer-class.md",
       "title": "Diablo 4 Beta Players Criticize 'Easy-Mode' Sorcerer Class",
       "excerpt": "Diablo 4 beta players criticize the Sorcerer class for trivializing boss fights and generally making the game much easier than the other two classes.",
@@ -1021,132 +1156,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-how-to-enter-kyovashad-diablo-4.md",
-      "title": "How to Enter Kyovashad Diablo 4",
-      "excerpt": "Diablo 4 has quite a large world for players to explore. One of the first major points of interest that you will come across during their journey into this hellish world is the city of Kyovashad. To ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-how-to-enter-kyovashad-diablo-4/index.json",
-      "webUrl": "https://twinfinite.net/2023/03/how-to-enter-kyovashad-diablo-4/",
-      "originalUrl": "https://twinfinite.net/2023/03/how-to-enter-kyovashad-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo-4-coming-to-game-pass.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-is-diablo-4-online-only.md",
-      "title": "Is Diablo 4 online only?",
-      "excerpt": "Lilith and her forces of evil are on the horizon as the release of Diablo 4 inches ever closer. With the game’s launch gradually approaching, fans of the Blizzard franchise are preparing for its ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-is-diablo-4-online-only/index.json",
-      "webUrl": "https://www.videogamer.com/news/is-diablo-4-online-only/",
-      "originalUrl": "https://www.videogamer.com/news/is-diablo-4-online-only/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/diablo-4-hawezar.jpg",
-          "width": 1000,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error.md",
-      "title": "How to Fix Diablo 4 This Game Cannot be Played Yet Error",
-      "excerpt": "Blizzard’s highly anticipated next iteration of the iconic Diablo franchise is here; well, sort of. The game’s open beta offers those who have pre-ordered the opportunity to check it out in Early ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/index.json",
-      "webUrl": "https://twinfinite.net/2023/03/how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/",
-      "originalUrl": "https://twinfinite.net/2023/03/how-to-fix-diablo-4-this-game-cannot-be-played-yet-error/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2023/03/diablo_4_lillith_graphic.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
         "images": null,
         "publishers": null,
         "authors": null

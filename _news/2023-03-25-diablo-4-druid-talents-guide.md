@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-talents-guide/1100-6512711/"
 type: article
 quality: 164
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: GameSpot
@@ -29,40 +29,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Diablo 4 - Druid Animal Spirits Guide"
-    excerpt: "The Animal Spirit they pick will offer them unique bonuses, which are called Boons in Diablo 4. There's no word on what the Animal Spirits will be yet or what each of their Boons will be. Players ..."
-    publishedDateTime: 2023-03-25T12:11:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-animal-spirits-guide/1100-6512709/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-animal-spirits-guide/1100-6512709/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-animal-spirits-guide/1100-6512709/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 164
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4 - Druid Build Guide"
-    excerpt: "GameSpot may get a commission from retail offers. The Druid is an intriguing class in the Diablo 4 beta. While players are enamored with the idea of transforming into a werebear or summoning wolves on ..."
-    publishedDateTime: 2023-03-25T12:41:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-druid-build-guide/1100-6512710/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-build-guide/1100-6512710/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 164
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "NhMBnRAasXNKG8TFapkjU9116mAFe+w3vkk53TKRQ7KluPmet5GXGblOD0q/GyePUC/OVtpGuKQGIbcy7QY05uQxG76w+m671l1mmxdf+/n5GueJg4C9GX8Wr+b2GVUwQx4rzzFStZy+QlPsQlrZtrC5yZG7aXmLeL2d5JPf8eU8b+sTwcWJeFyqUpijzTEyqf2Q0w4Wi69zzRO6zO/qU0XbIuh6sf5A6m7xvN0YxChA2u8eazf610s0OVS9KBPuPTV5WMYxWxEo1dwYT95WbALUhlPwSuT6Lai7L7VWWD2S8O7vGVln9pY28lBlLPJW3xOOqA4UHOAybvj60Mh47WmAp42zDnRUYUPnaRjegw4=;kZk7F1X4eBm1VWQr7m+LUw=="
 ---

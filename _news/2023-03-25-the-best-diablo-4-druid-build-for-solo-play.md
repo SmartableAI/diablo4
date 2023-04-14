@@ -9,8 +9,8 @@ ampWebUrl: "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtm
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1"
 type: article
 quality: 124
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: Shacknews
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The best Diablo 4 Barbarian build for solo play"
-    excerpt: "The best Diablo 4 Barbarian build turns one of the RPG’s less impressive classes into a heavy-hitting DPS dealer. You can play the Barbarian just as well in a group or solo, though it does take some ..."
-    publishedDateTime: 2023-03-25T12:02:00Z
-    webUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build"
-    ampWebUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
+  - title: "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more"
+    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
+    publishedDateTime: 2023-03-25T19:57:00Z
+    webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 124
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 104
     images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-barbarian-build_feature.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4: Best Class to Play Solo"
     excerpt: "Of all the classes Blizzard chose to put into Diablo 4, one pulls ahead in its ability to survive as a lone wanderer."

@@ -2,6 +2,141 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-16-how-to-download-diablo-4-beta-on-ps5-and-ps4.md",
+      "title": "How to Download Diablo 4 Beta on PS5 and PS4",
+      "excerpt": "Eager players will want to work out how to download the Diablo 4 beta on PS5 and PS4 ahead of the early access beta and open beta. Thankfully, it’s not too difficult, but it’s easy to get stuck.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-how-to-download-diablo-4-beta-on-ps5-and-ps4/index.json",
+      "webUrl": "https://www.yahoo.com/entertainment/download-diablo-4-beta-ps5-160559052.html",
+      "originalUrl": "https://www.yahoo.com/entertainment/download-diablo-4-beta-ps5-160559052.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yahoo.com/amphtml/entertainment/download-diablo-4-beta-ps5-160559052.html",
+      "cdnAmpWebUrl": "https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/download-diablo-4-beta-ps5-160559052.html",
+      "publishedDateTime": "2023-03-16T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yahoo",
+        "domain": "yahoo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support.md",
+      "title": "Diablo 4, Redfall, And More Are Getting Nvidia DLSS 3 Support",
+      "excerpt": "Nvidia has announced that more high-profile games will be receiving a boost from AI-powered Deep Learning Super Sampling (DLSS) technology, including Diablo IV, Redfall, and Forza Horizon 5. Microsoft ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-redfall-and-more-are-getting-nvidia-dlss-3-support/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4093510-cp2077_comparison_dlss.mp4.00_00_18_52.still001.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-redfall-and-forza-horizon-5-are-getting-nvidia-dlss-3-support/1100-6512397/",
+      "publishedDateTime": "2023-03-16T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023.md",
+      "title": "Can ‘Diablo 4’ Beat Out ‘Hogwarts Legacy’ For The Biggest Game Of 2023?",
+      "excerpt": "We are now a day away from Diablo 4’s beta launch, our first real, non-press preview of the game that includes a substantial amount of content (if you’ve pre-ordered, of course, as the open beta is ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60ddba7d243d9e40469458fe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/16/can-diablo-4-beat-out-hogwarts-legacy-for-the-biggest-game-of-2023/amp/",
+      "publishedDateTime": "2023-03-15T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-diablo-4-supports-dlss-3-at-launch-devs-excited-by-the-high-frame-rate.md",
       "title": "Diablo 4 supports DLSS 3 at launch, devs 'excited by the high frame rate'",
       "excerpt": "I don't want to jinx it but Diablo 4 sounds like it might run well on all manner of PC. DLSS is coming to Diablo 4 (opens in new tab). Blizzard's long-awaited ARPG is set for release on June 6, 2023, ...",
@@ -985,132 +1120,6 @@
       "provider": {
         "name": "Windows Central on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-blizzard-explains-how-diablo-4-will-be-more-like-an-mmo.md",
-      "title": "Blizzard Explains How Diablo 4 Will Be More Like an MMO",
-      "excerpt": "The big announcement out of BlizzCon 2019 was the fact that Diablo 4 was in development. Fans have long assumed this was the case, but it was nice to get some official word from Blizzard itself.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-03-blizzard-explains-how-diablo-4-will-be-more-like-an-mmo/index.json",
-      "webUrl": "https://heavy.com/games/2020/01/diablo-4-mmo/",
-      "originalUrl": "https://heavy.com/games/2020/01/diablo-4-mmo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2020/01/diablo-4-mmo-features.jpg?quality=65&strip=all&w=780",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/games/2020/01/diablo-4-mmo/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/games/2020/01/diablo-4-mmo/amp/",
-      "publishedDateTime": "2023-03-03T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-diablo-4-beta-gives-players-rewards-just-for-playing.md",
-      "title": "Diablo 4 Beta Gives Players Rewards Just for Playing",
-      "excerpt": "Diablo 4's open beta is quickly approaching with the public's first hands-on opportunity with the game scheduled to get underway on march 17th, and ahead of that release, we've gotten a better idea of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-02-diablo-4-beta-gives-players-rewards-just-for-playing/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-beta-release-date-rewards/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-beta-release-date-rewards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-beta-release-date-rewards/",
-      "publishedDateTime": "2023-03-01T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-diablo-4-fits-glimmers-of-hope-among-poison-swamps-and-ritual-burnings.md",
-      "title": "Diablo 4 fits glimmers of hope among poison swamps and ritual burnings",
-      "excerpt": "Diablo 4’s campaign crosses five major regions with their own looks, cultures, and enemies, but Blizzard says it doesn’t want the RPG to be all doom and gloom.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-02-diablo-4-fits-glimmers-of-hope-among-poison-swamps-and-ritual-burnings/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/regions-campaign-hope",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/regions-campaign-hope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-regions-kehjistan-scosglen-fractured-peaks-dry-steppes-hawezar.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

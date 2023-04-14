@@ -2,6 +2,132 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-22-is-diablo-4-next-gen-only-the-good-news-is-no.md",
+      "title": "Is Diablo 4 next-gen only? The good news is, no!",
+      "excerpt": "With the Diablo 4 release date steadily approaching, fans are quaking with excitement at the thought of it finally being playable on multiple platforms. NOW READ: Diablo 4 showcases Sanctuary gameplay ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-22-is-diablo-4-next-gen-only-the-good-news-is-no/index.json",
+      "webUrl": "https://www.videogamer.com/news/is-diablo-4-next-gen-only/",
+      "originalUrl": "https://www.videogamer.com/news/is-diablo-4-next-gen-only/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-2-1.jpg",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-22T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-new-diablo-4-feature-shows-off-sanctuarys-redesign.md",
+      "title": "New Diablo 4 Feature Shows off Sanctuary's Redesign",
+      "excerpt": "Watch the video yourself above. Those who pre-order a copy of Diablo 4 will get to participate in two beta sessions in March. Those who pre-ordered one of the larger versions of the game, such as the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-22-new-diablo-4-feature-shows-off-sanctuarys-redesign/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-sanctuary-redesign-video-revealed/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-sanctuary-redesign-video-revealed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-sanctuary-redesign-video-revealed/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-sanctuary-redesign-video-revealed/",
+      "publishedDateTime": "2023-02-22T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-will-diablo-4-have-necromancer.md",
+      "title": "Will Diablo 4 have Necromancer?",
+      "excerpt": "Yes, Diablo 4 will have the Necromancer class available once the game has been launched. Its inclusion in the game was first revealed during the Xbox & Bethesda Games Showcase 2022 and player response ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-22-will-diablo-4-have-necromancer/index.json",
+      "webUrl": "https://www.videogamer.com/news/will-diablo-4-have-necromancer/",
+      "originalUrl": "https://www.videogamer.com/news/will-diablo-4-have-necromancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-2.jpg",
+          "width": 1519,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-22T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-how-many-classes-are-in-diablo-4.md",
       "title": "How many classes are in Diablo 4?",
       "excerpt": "The Diablo franchise has often been known for its myriad of class offerings and players are hoping that Diablo 4 brings the same wealth of choices upon its release. NOW READ: Is Diablo 4 crossplay?",
@@ -961,159 +1087,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-diablo-4-will-not-have-item-sets-at-launch.md",
-      "title": "Diablo 4 Will Not Have Item Sets At Launch",
-      "excerpt": "One of the most iconic parts of the Diablo franchise won't be making its way to Diablo 4 at launch, as the game's set items have been postponed. Ultimately, fans will be able to test out the game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-10-diablo-4-will-not-have-item-sets-at-launch/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-item-sets-launch/",
-      "originalUrl": "https://gamerant.com/diablo-4-item-sets-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-diablo-4-is-the-latest-announcement-of-a-gameless-premium-edition-and-it-should-be-the-last.md",
-      "title": "Diablo 4 is The Latest Announcement of a Gameless Premium Edition, and It Should Be the Last",
-      "excerpt": "Diablo 4's Limited Collector's Edition doesn't actually come with the game despite its high price tag, and this is becoming all too common nowadays. For the longest time, special or limited ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-08-diablo-4-is-the-latest-announcement-of-a-gameless-premium-edition-and-it-should-be-the-last/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-gameless-premium-edition-bad-trend/",
-      "originalUrl": "https://gamerant.com/diablo-4-gameless-premium-edition-bad-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/diablo-4-collectors-edition.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-diablo-4s-open-beta-might-be-real-soon.md",
-      "title": "Diablo 4's open beta might be real soon",
-      "excerpt": "The game's producer says an announcement is on its way. When Blizzard set Diablo 4's release date to June 6, it also announced that it would get an open beta. Right now, you can't sign up for it ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-08-diablo-4s-open-beta-might-be-real-soon/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4g3gDxfdLxPt86y8anBef5-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
