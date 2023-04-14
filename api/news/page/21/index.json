@@ -2,6 +2,825 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system.md",
+      "title": "Diablo 4 Update Details Changes to the Paragon System",
+      "excerpt": "Diablo 4 may not have a release date yet, but a new update from Blizzard is already detailing some major changes to the Paragon system.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-update-details-changes-to-the-paragon-system/index.json",
+      "webUrl": "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/",
+      "originalUrl": "https://gameranx.com/updates/id/283102/article/diablo-4-update-details-changes-to-the-paragon-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2021/12/diablo-4-classes-best.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-diablo-4-skill-affixes-essences-and-paragon-boards-detailed.md",
+      "title": "Diablo 4 – Skill Affixes, Essences and Paragon Boards Detailed",
+      "excerpt": "The Paragon system makes a return and offers more build variety while Legendary powers can be extracted and imbued into other items.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4-skill-affixes-essences-and-paragon-boards-detailed/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed",
+      "originalUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-skill-affixes-essences-and-paragon-boards-detailed/amp",
+      "publishedDateTime": "2021-12-21T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-mastery-levels-will-return-in-diablo-4-new-info.md",
+      "title": "Mastery Levels Will Return in Diablo 4; New Info",
+      "excerpt": "Blizzard has released another quarterly update regarding Diablo 4. With this, we learned more about the systems featured in the game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-mastery-levels-will-return-in-diablo-4-new-info/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34",
+      "originalUrl": "https://www.gamepressure.com/newsroom/mastery-levels-will-return-in-diablo-4-new-info/zf3e34",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamepressure.com/gallery/html/news/1043054218.jpg",
+          "width": 720,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=15924",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=15924",
+      "publishedDateTime": "2021-12-20T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too.md",
+      "title": "Diablo 4’s gory kills look absolutely brutal – and its endgame is looking good, too",
+      "excerpt": "Diablo 4 is unlikely to release before the end of 2022, but regular updates from the development team mean we’re getting a good feel for how the game is likely to pan out. Blizzard Activision ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-21-diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too/index.json",
+      "webUrl": "https://www.techradar.com/au/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "originalUrl": "https://www.techradar.com/au/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ES3UgP6kdtKsHyufGpSrba-1200-80.jpg",
+          "width": 968,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/diablo-4s-gory-kills-look-absolutely-brutal-and-its-endgame-is-looking-good-too",
+      "publishedDateTime": "2021-12-20T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2.md",
+      "title": "Diablo 4 to Bring Back Paragon System from Diablo 3 and Skill Rank Bonuses from Diablo 2",
+      "excerpt": "Albeit in a way that feels like the best of both worlds and something distinctly new. From the very beginning Diablo IV has felt like the next step for the franchise, something new and expansive built ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2",
+      "originalUrl": "https://www.ausgamers.com/news/read/3638775/diablo-4-to-bring-back-paragon-system-from-diablo-3-and-skill-rank-bonuses-from-diablo-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.ausgamers.com/gameres/7407/images/695/vfx_skillDrivenDeaths.mp4_20211221_162816.043.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming.md",
+      "title": "'Diablo 4' Blog Reveals Massive Buildcrafting Changes, Target Farming",
+      "excerpt": "\"Diablo 4's\" Legendary farming and Paragon leveling will be receiving some hefty updates, according to Blizzard's latest quarterly update.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming/index.json",
+      "webUrl": "https://www.ibtimes.com/diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming-3361403",
+      "originalUrl": "https://www.ibtimes.com/diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming-3361403",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/01/diablo-4s-rogue-class-revitalizes-classic-version-brand-new-moves-abilities.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming-3361403?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-blog-reveals-massive-buildcrafting-changes-target-farming-3361403?amp=1",
+      "publishedDateTime": "2021-12-20T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-iv-quarterly-updatedecember-2021.md",
+      "title": "Diablo IV Quarterly Update—December 2021",
+      "excerpt": "Learn more about itemization, Paragon updates, and the visual effects of Diablo IV in this next Quarterly Developer Update.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-iv-quarterly-updatedecember-2021/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23746639/diablo-iv-quarterly-update-december-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5d/5DOAYVZ56YBD1639765731138.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes.md",
+      "title": "Diablo 4 is bringing back Diablo 3's Paragon system, but with some major changes",
+      "excerpt": "Blizzard said it was taking its time with Diablo 4's endgame system to ensure it offers \"more depth and replayability\" than the Paragon system of Diablo 3. In today's year-end update, we got our first ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BbUrrNuLa8t85iWuoXiQ5e-1200-80.jpg",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes/",
+      "publishedDateTime": "2021-12-20T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone.md",
+      "title": "Diablo 4 loot and endgame explained as the action-RPG nears \"a significant milestone\"",
+      "excerpt": "The latest Diablo 4 update teases \"a significant milestone\" for the development of the still far-off action-RPG, and more helpfully, it also tells us how loot and endgame builds will work. \"We’ve made ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/index.json",
+      "webUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "originalUrl": "https://www.gamesradar.com/uk/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hhMYoB774cV88eZpxTXQQ9-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/uk/amp/diablo-4-loot-and-endgame-explained-as-the-action-rpg-nears-a-significant-milestone/",
+      "publishedDateTime": "2021-12-20T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board.md",
+      "title": "Diablo 4 Is Getting A New Endgame Progression System In The Paragon Board",
+      "excerpt": "In a new quarterly update, Blizzard dives deep on itemization, the new Paragon Board progression system, and more.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3920079-d4_new_quarterly_update.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-is-getting-a-new-endgame-progression-system-in-the-paragon-board/1100-6499141/",
+      "publishedDateTime": "2021-12-20T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-5-new-things-blizzard-just-revealed-about-diablo-4.md",
+      "title": "5 new things Blizzard just revealed about Diablo 4",
+      "excerpt": "Blizzard put out its final Diablo 4 blog of the year on Monday, and it came with a variety of information. The topics range from loot, to Legendaries, to the new Paragon system and visual effects.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-12-20-5-new-things-blizzard-just-revealed-about-diablo-4/index.json",
+      "webUrl": "https://www.polygon.com/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm",
+      "originalUrl": "https://www.polygon.com/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/iu5EFb5Qg9Zqv-2Gnu06J31pvDw=/0x0:3840x2160/1400x933/filters:focal(1641x441:2255x1055):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70297813/D4_Inarius_and_Lilith.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm",
+      "publishedDateTime": "2021-12-19T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Reaction. Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019.",
+      "excerpt": "Girls On Omegle. Reaction. Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019. Original: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-11-16-reaction-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=8upHrKcqVEU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8upHrKcqVEU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8upHrKcqVEU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T06:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "G.R. GIRLS REACTION",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer REACTION",
+      "excerpt": "This is the best!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-11-12-diablo-4-official-announcement-cinematic-trailer-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=0czOFQHe0ss",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0czOFQHe0ss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0czOFQHe0ss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T04:01:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Illfrin reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4.md",
+      "title": "The ‘Lost Ark’ Beta Looks To Fill The Massive Void Left By ‘Diablo 4’",
+      "excerpt": "Today marks the launch of the Lost Ark technical beta, where you can sign up to potentially get a code, or buy one of the early special additions for instant access.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6183e952d0cb0cefdd4a1e5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
+      "publishedDateTime": "2021-11-04T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed.md",
+      "title": "Diablo 4 and Overwatch 2 Are Both Officially Delayed!",
+      "excerpt": "It's hardly any secret that 2021 has not been a particularly good year for Blizzard. In fact, putting aside the Burning Crusade expansion from WoW Classic, and the rather well publicised internal ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-diablo-4-and-overwatch-2-are-both-officially-delayed/index.json",
+      "webUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "originalUrl": "https://www.eteknix.com/diablo-4-overwatch-2-both-officially-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/03/1-60.jpg",
+          "width": 880,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-overwatch-2-and-diablo-4-are-delayed.md",
+      "title": "Overwatch 2 and Diablo 4 are delayed",
+      "excerpt": "Blizzard Entertainment hasn't officially announced a release date for Overwatch 2 and Diablo 4. Blizzard announced earlier this year that neither Overwatch 2 nor Diablo 4 will be published until 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-overwatch-2-and-diablo-4-are-delayed/index.json",
+      "webUrl": "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/",
+      "originalUrl": "https://techstory.in/overwatch-2-and-diablo-4-are-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/11/Overwatch2_Gameplay.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-overwatch-2-and-diablo-4-delays-spark-17-decline-in-activision-blizzard-stock.md",
+      "title": "Overwatch 2 and Diablo 4 delays spark 17% decline in Activision Blizzard stock",
+      "excerpt": "It has become apparent that some of the Blizzard content planned for next year will benefit from more development time to reach its full potential.' ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-overwatch-2-and-diablo-4-delays-spark-17-decline-in-activision-blizzard-stock/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6182a79723745d001824d68a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/activision-blizzard-stock-price-overwatch-2-diablo-4-delayed-3q-2021-11?amp",
+      "publishedDateTime": "2021-11-03T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays.md",
+      "title": "Activision Blizzard Stock Price Tanks After Diablo 4, Overwatch 2 Delays",
+      "excerpt": "Activision Blizzard's stock price started the day on Wednesday down by more than 14% on the New York Stock Exchange following an earnings release on Tuesday where the company announced delays for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-03-activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/index.json",
+      "webUrl": "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "originalUrl": "https://www.gamespot.com/articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/3891970-d4_sound_v1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/activision-blizzard-stock-price-tanks-after-diablo-4-overwatch-2-delays/1100-6497655/",
+      "publishedDateTime": "2021-11-03T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-blizzard-reveals-new-diablo-4-game-director.md",
       "title": "Blizzard reveals new Diablo 4 game director",
       "excerpt": "Back in August, former Diablo 4 game director Luis Barriga was let go from Blizzard along with the game’s lead designer, Jesse McCree. In an email to Kotaku, Blizzard confirmed that Barriga and McCree ...",
@@ -301,798 +1120,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward.md",
-      "title": "Inside Diablo 4 - How Blizzard is pushing the series, and genre, forward!",
-      "excerpt": "Join us as we take an in-depth look at the past, present and future of Diablo in a three-part series with insight from the teams at Blizzard making it happen. Part Three: Diablo ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward/index.json",
-      "webUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
-      "originalUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/8/16/sjj6dbu1yms5cujnnhtf/diablo-4-in-game-screenshot",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.redbull.com/au-en/diablo-4-blizzard-insights",
-      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/au-en/diablo-4-blizzard-insights",
-      "publishedDateTime": "2021-08-15T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Red Bull",
-        "domain": "redbull.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard.md",
-      "title": "Diablo 4 director and two other devs “let go” from Activision Blizzard",
-      "excerpt": "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard/index.json",
-      "webUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
-      "originalUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Loadout",
-        "domain": "theloadout.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company.md",
-      "title": "Activision Blizzard: Diablo 4 director and two others leave company",
-      "excerpt": "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company/index.json",
-      "webUrl": "https://www.bbc.com/news/technology-58187612.amp",
-      "originalUrl": "https://www.bbc.com/news/technology-58187612.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-58187612.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp",
-      "publishedDateTime": "2021-08-11T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard.md",
-      "title": "Diablo 4 Leads Luis Barriga and Jesse McCree, World of Warcraft Designer Jonathan LeCraft Let Go from Blizzard",
-      "excerpt": "Kotaku recently reported that Diablo 4 game director Luis Barriga and lead designer Jesse McCree have been let go from the company, as has World of Warcraft designer Jonathan LeCraft. While no reason ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard",
-      "originalUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/amp",
-      "publishedDateTime": "2021-08-11T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development.md",
-      "title": "Blizzard parts ways with leaders of Diablo 4 game development",
-      "excerpt": "Activision Blizzard's Blizzard Entertainment division confirmed more departures among its leadership on the high-profile Diablo 4 game team.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development/index.json",
-      "webUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
-      "originalUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/diablo-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
-      "publishedDateTime": "2021-08-11T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates.md",
-      "title": "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates",
-      "excerpt": "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/index.json",
-      "webUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "originalUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
-      "publishedDateTime": "2021-08-11T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard.md",
-      "title": "Diablo 4 Game Director And Two Other Devs Ousted From Activision Blizzard",
-      "excerpt": "Level designer Jesse McCree, game director Luis Barriga, and designer Jonathan LeCraft were all unceremoniously let from from Activision Blizzard, according to Kotaku's anonymous sources.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 546,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1578/15789366/3866145-3598980-diablo4.jpg",
-          "width": 2221,
-          "height": 1388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
-      "publishedDateTime": "2021-08-11T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad.md",
-      "title": "Diablo 2 Resurrected Beta Date Announced AND Diablo 4 Looks BAD!",
-      "excerpt": "Super Busy Day Today, I apologize for the potential and very likely lack of additional uploads today. That being said we have some AMAZING news today.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad/",
-      "originalUrl": "https://youtube.com/watch?v=XpwqiKLEsY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XpwqiKLEsY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XpwqiKLEsY8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T15:00:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Corey Allen",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-diablo-4-is-planned-to-drive-engagement-for-years-to-come.md",
-      "title": "Diablo 4 Is Planned To “Drive Engagement” For Years To Come",
-      "excerpt": "He also said the company looks for the game to drive engagement for the long haul, saying, “Blizzard continues to make strong progress on Diablo 4, the game is shaping up incredibly well and the team ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-06-diablo-4-is-planned-to-drive-engagement-for-years-to-come/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come",
-      "originalUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp",
-      "publishedDateTime": "2021-08-06T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard.md",
-      "title": "Diablo 4 Release Date Possibly Hinted at in New Update From Blizzard",
-      "excerpt": "Activision Blizzard, during a recent earnings call, provided a quick update on Diablo 4, and possibly hinted at its release date. According to Activision, the game's development is making \"strong ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
-      "publishedDateTime": "2021-08-04T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached.md",
-      "title": "Work on Diablo 4 Picks up Pace; Another Milestone Reached",
-      "excerpt": "Diablo 4 has just reached another milestone in terms of development process. This is indicated by information found by one of the Reddit users.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
-      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gracza.pl/i_gp/h/22/365690819.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=14068",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=14068",
-      "publishedDateTime": "2021-08-02T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
-      "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
-      "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4/index.json",
-      "webUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
-      "originalUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44189/og_image.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Backstage",
-        "domain": "backstage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more.md",
-      "title": "Everything you need to know about Diablo 4: Release date, trailers and more",
-      "excerpt": "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more/index.json",
-      "webUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
-      "originalUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/149976-games-feature-diablo-4-release-date-formats-screens-trailers-deals-and-all-you-need-to-know-image1-ezipok3a0x.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
-      "publishedDateTime": "2021-07-27T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games.md",
-      "title": "What should Diablo 4 preserve from previous Diablo games?",
-      "excerpt": "If I were making my dream Diablo game, I know it would bring back the original trio of classes from the original Diablo and update them for a modern audien ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games/index.json",
-      "webUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
-      "originalUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/05/Baal-Header-Diablo.png",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
-      "publishedDateTime": "2021-07-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
-      "title": "Diablo 4: Latest Classes Revealed",
-      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T23:14:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GiveMeSport on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Girls react on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "Reaction video on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 --------------------------------------------------------------------------------------- Original ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=5NNOMBHyTHQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5NNOMBHyTHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5NNOMBHyTHQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T06:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "1.1 TWINS REACTIONS",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs.md",
-      "title": "Diablo 4 interview: “Diablo is the apex of dark fantasy in ARPGs”",
-      "excerpt": "Diablo is Blizzard’s darkest series. In the world of Sanctuary, humanity desperately etches out an existence for itself, harangued by demonic invasions and the will of angels. There’s a lot of death, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/07/diablo-4-artwork-barbarian-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/artwork-interview-john-mueller?amp",
-      "publishedDateTime": "2021-07-05T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-diablo-4-will-offer-full-character-appearance-customization.md",
-      "title": "Diablo 4 will offer full character appearance customization",
-      "excerpt": "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-02-diablo-4-will-offer-full-character-appearance-customization/index.json",
-      "webUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
-      "originalUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://clutchpoints.com/wp-content/uploads/2021/07/Diablo-4-will-offer-full-character-appearance-customization-1024x574.jpg",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/amp/",
-      "cdnAmpWebUrl": "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/",
-      "publishedDateTime": "2021-07-02T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClutchPoints",
-        "domain": "clutchpoints.com",
         "images": null,
         "publishers": null,
         "authors": null

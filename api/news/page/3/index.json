@@ -2,6 +2,792 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-25-diablo-4-world-tiers-explained-and-how-to-change-difficulty.md",
+      "title": "Diablo 4: World Tiers explained and how to change difficulty",
+      "excerpt": "Like previous games in Blizzard's beloved hack-and-slash ARPG series, Diablo 4 features multiple different difficulty options that players can switch between as they play. This time around, they're ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-world-tiers-explained-and-how-to-change-difficulty/index.json",
+      "webUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-world-tiers-explained-and-how-to-change-difficulty/ar-AA195iic",
+      "originalUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-world-tiers-explained-and-how-to-change-difficulty/ar-AA195iic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195aQw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op.md",
+      "title": "Diablo 4: How to play with friends in multiplayer co-op",
+      "excerpt": "Diablo 4 is a blast when you're on your own, but it's even better when you team up with friends — and we're not talking about Necromancer summons. Indeed, much like the series' past hack-and-slash ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195ajk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more.md",
+      "title": "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more",
+      "excerpt": "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-best-builds",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-best-builds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more.md",
+      "title": "Diablo 4 full interactive map: All dungeons, side quests, cellars, and more",
+      "excerpt": "Blizzard) FextraLife's massive interactive map for Diablo IV linked above gives you a huge overview of everything currently known in the game. Similar ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/ar-AA1955fd",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/ar-AA1955fd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194OEa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-how-to-salvage-gear-and-items.md",
+      "title": "Diablo 4: How to salvage gear and items",
+      "excerpt": "Why not turn those junk items into useful materials? Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-how-to-salvage-gear-and-items/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194BLz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype.md",
+      "title": "Diablo 4 Beta: Everything You Need to Know About the Rogue Class Archetype",
+      "excerpt": "The open beta period for Diablo 4 runs from March 24 to 26, wherein players have the chance to see Blizzard's latest entry in the classic ARPG franchise in action. During this period, players will be ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/index.json",
+      "webUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE",
+      "originalUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1946pi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=595&y=187",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-best-diablo-4-settings-how-to-stop-diablo-4-killing-gpu.md",
+      "title": "Best Diablo 4 settings – How to stop Diablo 4 killing GPU",
+      "excerpt": "Some PC players have reported that the Diablo 4 beta damaged and even killed their graphics cards, reminiscent of how Amazon Games' MMO New World bricked certain GPUs upon launch. While Blizzard and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-best-diablo-4-settings-how-to-stop-diablo-4-killing-gpu/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/best-diablo-4-settings-â€“-how-to-stop-diablo-4-killing-gpu/ar-AA192BEE",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/best-diablo-4-settings-â€“-how-to-stop-diablo-4-killing-gpu/ar-AA192BEE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18pEAG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=257",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-is-diablo-4-online-only-can-you-play-offline.md",
+      "title": "Is Diablo 4 Online Only – Can You Play Offline?",
+      "excerpt": "With the release of the open beta of Diablo 4 came a whole hoard of players, both new and old. Xbox, Playstation, and PC players from around the world got the chance to try out the opening act of the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-is-diablo-4-online-only-can-you-play-offline/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/is-diablo-4-online-only-can-you-play-offline/ar-AA194GKC",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/is-diablo-4-online-only-can-you-play-offline/ar-AA194GKC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18q8eb.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-druid-animal-spirits-guide.md",
+      "title": "Diablo 4 - Druid Animal Spirits Guide",
+      "excerpt": "The Animal Spirit they pick will offer them unique bonuses, which are called Boons in Diablo 4. There's no word on what the Animal Spirits will be yet or what each of their Boons will be. Players ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-druid-animal-spirits-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-druid-animal-spirits-guide/1100-6512709/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-druid-animal-spirits-guide/1100-6512709/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-druid-animal-spirits-guide/1100-6512709/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-animal-spirits-guide/1100-6512709/",
+      "publishedDateTime": "2023-03-25T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-the-best-diablo-4-barbarian-build-for-solo-play.md",
+      "title": "The best Diablo 4 Barbarian build for solo play",
+      "excerpt": "The best Diablo 4 Barbarian build turns one of the RPG’s less impressive classes into a heavy-hitting DPS dealer. You can play the Barbarian just as well in a group or solo, though it does take some ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-the-best-diablo-4-barbarian-build-for-solo-play/index.json",
+      "webUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build",
+      "originalUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-barbarian-build_feature.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1",
+      "publishedDateTime": "2023-03-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-which-class-should-you-pick-in-diablo-4.md",
+      "title": "Which class should you pick in Diablo 4?",
+      "excerpt": "Picking which class to start with in Diablo 4 seems like a daunting task, especially if you’re new to Blizzard’s RPG series. There’s no detailed overview of how a class plays, no way to test them, and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-which-class-should-you-pick-in-diablo-4/index.json",
+      "webUrl": "https://www.shacknews.com/article/134774/diablo-4-best-starting-class",
+      "originalUrl": "https://www.shacknews.com/article/134774/diablo-4-best-starting-class",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-starting-class_feature.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/134774/diablo-4-best-starting-class?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134774/diablo-4-best-starting-class?amphtml=1",
+      "publishedDateTime": "2023-03-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-necromancer-skill-tree-all-attacks-and-abilities.md",
+      "title": "Diablo 4: Necromancer skill tree, all attacks and abilities",
+      "excerpt": "Ready to create your own mini-army in Blizzard's latest big adventure? Diablo 4 has five classes to choose from, and the Necromancer returns as one of these playable archetypes. Necromancers raise the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-necromancer-skill-tree-all-attacks-and-abilities/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-necromancer-skill-tree-all-attacks-and-abilities",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-necromancer-skill-tree-all-attacks-and-abilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HyXkW5kwCFqDry6piLRy7Z-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-a-startling-diablo-4-butcher-fight-is-just-what-blizzard-wanted.md",
+      "title": "A “startling” Diablo 4 Butcher fight is just what Blizzard wanted",
+      "excerpt": "His penchant for fresh produce (specifically meat) and undying rage have etched him into Sanctuary’s bloodstained history books, but he doesn’t return as just a straightforward Diablo 4 boss, instead ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-a-startling-diablo-4-butcher-fight-is-just-what-blizzard-wanted/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/butcher-boss-fight",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/butcher-boss-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-butcher-boss.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes.md",
+      "title": "Diablo 4 Open Beta Provides List of Ongoing Issues and Fixes",
+      "excerpt": "Blizzard has shared a list of major ongoing technical issues from Diablo 4's ongoing open beta, as well as fixes that it has issued in real-time. Diablo 4 remains planned for full release in early ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194vw2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-ready-to-slay-demons-heres-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march.md",
+      "title": "Ready to slay demons? Here's all you need to know about Diablo 4 Beta ahead of release on 25 March",
+      "excerpt": "Are you excited to dive into the Diablo 4 beta? Well, before you start, here's a list of tips you should know Diablo 4, the highly anticipated isometric RPG about fighting the hordes of hell, is here, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-ready-to-slay-demons-heres-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march/index.json",
+      "webUrl": "https://www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/25/1600x900/diablo_4_a_1679749012359_1679749021176_1679749021176.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951-amp.html",
+      "publishedDateTime": "2023-03-25T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-diablo-4-players-divided-over-shameful-part-of-the-game.md",
+      "title": "Diablo 4 Players Divided Over \"Shameful\" Part of the Game",
+      "excerpt": "The Diablo 4 open beta is curretly live and will be live until March 27. And it doesn't matter if you're on PC, PS4, PS5, Xbox One, Xbox Series S, or Xbox Series X, you can access the beta, which ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-players-divided-over-shameful-part-of-the-game/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-reddit-dungeons/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-reddit-dungeons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-reddit-dungeons/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-reddit-dungeons/",
+      "publishedDateTime": "2023-03-24T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-diablo-4-contest-offers-max-level-beta-players-chance-at-a-strange-reward.md",
+      "title": "Diablo 4 Contest Offers Max-Level Beta Players Chance at a Strange Reward",
+      "excerpt": "Blizzard announces a contest for Diablo 4 offering beta players that reach max level the opportunity to earn a strange reward. Blizzard has announced a new contest for Diablo 4 beta participants ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-contest-offers-max-level-beta-players-chance-at-a-strange-reward/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-contest-max-level-beta-players-strange-reward/",
+      "originalUrl": "https://gamerant.com/diablo-4-contest-max-level-beta-players-strange-reward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-lilith-key-art-beta-contest.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-diablo-4-level-up-fast-best-ways-to-earn-xp.md",
+      "title": "Diablo 4 Level Up Fast - Best Ways To Earn XP",
+      "excerpt": "GameSpot may get a commission from retail offers. The max level in the Diablo 4 beta is 25, which might not seem like too high of a cap at first glance. However, as you go through the game's prologue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-level-up-fast-best-ways-to-earn-xp/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
+      "publishedDateTime": "2023-03-24T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-diablo-4-queued-for-login-explained.md",
       "title": "Diablo 4: Queued for Login Explained",
       "excerpt": "Diablo 4 officially launches for consoles and PC in early June. With only a couple of weeks left for Blizzard to prepare for release, the company is underway a two-week beta test period for the ...",
@@ -296,853 +1082,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-how-to-swap-weapons-in-diablo-4.md",
-      "title": "How to swap weapons in Diablo 4",
-      "excerpt": "For most classes it's automatic, but one class can switch them. If you're on the fence about whether or not to play Diablo 4 when it gets its full release in June, this weekend's open beta (opens in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-how-to-swap-weapons-in-diablo-4/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ytQZdF8nsJfKjmXajqawFJ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-how-to-play-diablo-4-on-steam-deck.md",
-      "title": "How to play Diablo 4 on Steam Deck",
-      "excerpt": "Set to be one of the hottest games of 2023, Diablo 4 (opens in new tab) is getting fans excited. If the open beta is anything to go by, it's a real game of the year contender, too. Better still, it's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-how-to-play-diablo-4-on-steam-deck/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/how-to-play-diablo-4-on-steam-deck",
-      "originalUrl": "https://www.windowscentral.com/gaming/how-to-play-diablo-4-on-steam-deck",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/NJWJmFzW7TEShcuMAfXZn9-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-you-can-play-diablo-4-right-now-if-you-do-this.md",
-      "title": "You Can Play Diablo 4 Right Now, if You Do This",
-      "excerpt": "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in an open beta that starts Friday. The Diablo 4 open beta is the second ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-you-can-play-diablo-4-right-now-if-you-do-this/index.json",
-      "webUrl": "https://www.cnet.com/tech/gaming/you-can-play-diablo-4-right-now-if-you-do-this/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/you-can-play-diablo-4-right-now-if-you-do-this/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/you-can-play-diablo-4-right-now-if-you-do-this/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/you-can-play-diablo-4-right-now-if-you-do-this/",
-      "publishedDateTime": "2023-03-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-diablo-4-beta-drop-rates-arent-what-well-see-at-launch.md",
-      "title": "Diablo 4 beta drop rates aren’t what we’ll see at launch",
-      "excerpt": "If you’ve been swamped in legendaries during the Diablo 4 beta, don’t worry, Blizzard has confirmed that the loot you’re receiving during the Diablo 4 testing phase will not be as readily available ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-beta-drop-rates-arent-what-well-see-at-launch/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-drop-rates-increased",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-drop-rates-increased",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-drop-rates-items.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end.md",
-      "title": "When does the Diablo 4 open beta start and end?",
-      "excerpt": "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two open beta weekends in March. Now we’re onto ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end/index.json",
-      "webUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "originalUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ByIRpBQfgpncCW9EslIwz_IbxM0=/0x0:1520x540/1400x933/filters:focal(639x149:881x391):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72010038/Diablo_4_Open_Beta_cover.0.jpg",
-          "width": 1400,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "publishedDateTime": "2023-03-23T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon",
-        "domain": "polygon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues.md",
-      "title": "Playing Diablo 4 this weekend? Expect \"unprecedented traffic and queues\"",
-      "excerpt": "If you’re planning on jumping into Diablo 4’s open beta weekend today, Blizzard has detailed exactly what players should expect, and it’s “unprecedented queue times and traffic”. It’s not great for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues/index.json",
-      "webUrl": "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues",
-      "originalUrl": "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.vg247.com/Diablo-4_fDYh9dD.jpg/BROK/thumbnail/1200x630/Diablo-4_fDYh9dD.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself.md",
-      "title": "This frost Sorceror build in Diablo 4 is so OP it basically makes the game play itself",
-      "excerpt": "You can build an overpowered version of every class from the Diablo 4 closed beta, but Sorcerer might take the cake. Diablo 4's open beta kicks off soon, so naturally ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/index.json",
-      "webUrl": "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/",
-      "originalUrl": "https://www.pcgamer.com/this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/mcSequ7cdxRM32jhaYeX4W-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta.md",
-      "title": "Blizzard Warns Of \"Lengthy Queue Times\" For Diablo 4 Open Beta",
-      "excerpt": "GameSpot may get a commission from retail offers. \"When we open the gates again this Friday to absolutely everyone, we are expecting a lot of people,\" the post reads in part. \"There will be lengthy ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/index.json",
-      "webUrl": "https://www.gamespot.com/articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "originalUrl": "https://www.gamespot.com/articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 287,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-warns-of-lengthy-queue-times-for-diablo-4-open-beta/1100-6512648/",
-      "publishedDateTime": "2023-03-23T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-is-diablo-4-steam-deck-compatible.md",
-      "title": "Is Diablo 4 Steam Deck compatible?",
-      "excerpt": "Is Diablo 4 Steam Deck compatible? With the Diablo 4 open beta happening this weekend, you’re probably wondering whether the long-awaited Blizzard RPG works on Valve’s dinky PC. To save you from any ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-is-diablo-4-steam-deck-compatible/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/steam-deck",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/steam-deck",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-steam-deck.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too.md",
-      "title": "8 things we learned from the Diablo 4 closed beta that you should know too",
-      "excerpt": "Blizzard's ARPG is stuffed with small QoL additions and helpful tips that can be easily missed. With Diablo 4's open beta (opens in new tab) set to kick off and introduce more players to five classes, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too/index.json",
-      "webUrl": "https://www.pcgamer.com/8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too/",
-      "originalUrl": "https://www.pcgamer.com/8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rvwNoeM4cVgLzu4cbmzrwk-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-diablo-4-might-brick-your-high-end-graphics-card.md",
-      "title": "Diablo 4 might brick your high-end graphics card",
-      "excerpt": "The world of PC gaming is abuzz with news about Diablo 4, Blizzard’s latest and most graphically-intense delve into its beloved dungeon crawler series. The invite-only beta is making those left out ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-diablo-4-might-brick-your-high-end-graphics-card/index.json",
-      "webUrl": "https://www.pcworld.com/article/1669157/the-diablo-4-beta-might-brick-your-high-end-graphics-card.html",
-      "originalUrl": "https://www.pcworld.com/article/1669157/the-diablo-4-beta-might-brick-your-high-end-graphics-card.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/03/diablo-killing-graphics-cards.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-diablo-4-is-reportedly-killing-some-rtx-3080-ti-graphics-cards.md",
-      "title": "Diablo 4 is reportedly killing some RTX 3080 Ti graphics cards",
-      "excerpt": "Fresh reports suggest some RTX 3080 Ti (opens in new tab) graphics cards are running horribly, or even dying, while playing the Diablo 4 closed beta over the weekend. It appears that most of the users ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-diablo-4-is-reportedly-killing-some-rtx-3080-ti-graphics-cards/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DmaHckZghJjoLcFKJmriJm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-we-played-redfall-and-diablo-4-lets-talk-unlocked-587.md",
-      "title": "We Played Redfall and Diablo 4, Let’s Talk! – Unlocked 587",
-      "excerpt": "We all played a ton of the Diablo 4 beta this past weekend, and we were all also lucky enough to play Redfall recently as well. We've got a LOT of thoughts about both. Join us! Subscribe on any of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-we-played-redfall-and-diablo-4-lets-talk-unlocked-587/index.json",
-      "webUrl": "https://www.ign.com/articles/we-played-redfall-and-diablo-4-lets-talk-unlocked-587",
-      "originalUrl": "https://www.ign.com/articles/we-played-redfall-and-diablo-4-lets-talk-unlocked-587",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2023/03/23/unlocked-587-redfall-diablo4-blogroll-1679536171179.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt.md",
-      "title": "You can pet the dog in Diablo 4, but you probably shouldn't",
-      "excerpt": "It turns out you can pet the dog in the Diablo 4 beta, but as one unlucky fan found out, you might not want to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt/ar-AA18XrAw",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt/ar-AA18XrAw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Xgsc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T06:13:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4-beta-what-to-expect-from-druid-and-necromancer.md",
-      "title": "Diablo 4 beta – what to expect from Druid and Necromancer",
-      "excerpt": "As Lilith’s minions crawl out of the shadows, Blizzard’s Diablo 4 beta has proven that you’ll need to muster all of your strength to send them back to the burning hells. Two new Diablo 4 classes will ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-beta-what-to-expect-from-druid-and-necromancer/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-necromancer-druid-classes.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4s-rocky-beta-means-a-smoother-launch.md",
-      "title": "Diablo 4's rocky beta \"means a smoother launch\"",
-      "excerpt": "Blizzard has addressed Diablo 4's beta woes from its opening day, promising that the bumpy experience will lead to a \"smoother launch.\" Speaking to GamesRadar+, Diablo general manager Rod Fergusson ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-rocky-beta-means-a-smoother-launch/index.json",
-      "webUrl": "https://sports.yahoo.com/diablo-4s-rocky-beta-means-153011551.html",
-      "originalUrl": "https://sports.yahoo.com/diablo-4s-rocky-beta-means-153011551.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/6YSFj.ldsb0UdbmlYl_G_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/fbc84ca073007151c0423194d413b249",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yahoo! Sports",
-        "domain": "yahoo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues.md",
-      "title": "Diablo 4 Open Beta Patch Addresses Queue Times, Fixes World Boss Spawn Issues",
-      "excerpt": "The rollout of Diablo IV's open beta will ideally be a little smoother than its early access one, thanks to a patch that should improve queue times. In an official post on the Diablo IV forums, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-patch-addresses-queue-times-fixes-world-boss-spawn-issues/1100-6512611/",
-      "publishedDateTime": "2023-03-22T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features.md",
-      "title": "Diablo 4’s Beta Buries One of Its Most Useful Quality of Life Features",
-      "excerpt": "Diablo 4 has concluded its first of two beta weekends and important intel has been shared since, including a terribly helpful quality of life feature. Teases for quests that were inaccessible were a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-beta-buries-one-of-its-most-useful-quality-of-life-features/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
-      "originalUrl": "https://gamerant.com/diablo-4-beta-hidden-quality-of-life-feature-leave-dungeon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-quality-of-life-feature.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

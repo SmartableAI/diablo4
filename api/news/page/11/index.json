@@ -2,6 +2,789 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-02-01-hells-ink-tattoo-shop-takeover-tour-has-reignited.md",
+      "title": "Hell’s Ink Tattoo Shop Takeover Tour Has Reignited",
+      "excerpt": "The Diablo Hell’s Ink Tattoo Shop Takeover Tour has reignited! This time, we’re bathing four new cities in ink straight from the Burning Hells—read on to see how you can enter to win a custom Diablo tattoo.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-01-hells-ink-tattoo-shop-takeover-tour-has-reignited/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23893120/hell-s-ink-tattoo-shop-takeover-tour-has-reignited",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23893120/hell-s-ink-tattoo-shop-takeover-tour-has-reignited",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/in/INGY5BURHY8Z1675196706194.jpg",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-diablo-4-release-date-trailer-gets-developer-breakdown.md",
+      "title": "Diablo 4 release date trailer gets developer breakdown",
+      "excerpt": "During last year’s Game Awards, Blizzard set a Diablo 4 release date for June 6, 2023. The announcement was made with a stunning cinematic trailer that saw the forces of good and evil clash ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-28-diablo-4-release-date-trailer-gets-developer-breakdown/index.json",
+      "webUrl": "https://www.thesixthaxis.com/2023/01/28/diablo-4-release-date-trailer-gets-developer-breakdown/",
+      "originalUrl": "https://www.thesixthaxis.com/2023/01/28/diablo-4-release-date-trailer-gets-developer-breakdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesixthaxis.com/wp-content/uploads/2022/12/Diablo-4-Lilith-Hero500.jpg",
+          "width": 1260,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-28T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sixth Axis",
+        "domain": "thesixthaxis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-rumor-diablo-4-release-date-could-get-pushed-back.md",
+      "title": "Rumor: Diablo 4 Release Date Could Get Pushed Back",
+      "excerpt": "A new rumor making the rounds online suggests that the upcoming Diablo 4 could very well have its release date pushed back.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-28-rumor-diablo-4-release-date-could-get-pushed-back/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-rumors-leaks-release-date-delay/",
+      "originalUrl": "https://gamerant.com/diablo-4-rumors-leaks-release-date-delay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-lilith.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-28T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-diablo-4-rumor-claims-release-date-is-questionable.md",
+      "title": "Diablo 4 Rumor Claims Release Date Is \"Questionable",
+      "excerpt": "The release date of Diablo 4 is reportedly in doubt. Diablo 4 is one of the most anticipated games of 2023 and it comes after almost a whole decade of Diablo 3. The franchise is slated to make its ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-27-diablo-4-rumor-claims-release-date-is-questionable/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-questionable/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-questionable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/01/04/e9318c98-a48e-403c-b1e9-06060f83a42b/2023-video-game-anticipated-2.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-date-questionable/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-date-questionable/",
+      "publishedDateTime": "2023-01-27T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4.md",
+      "title": "Diablo 3 Season 28 is the perfect preparation for Diablo 4",
+      "excerpt": "This also positions its end date perfectly with the launch of Diablo 4 on June 2. This season’s thematic is the ‘Rites of Sanctuary,’ which thrusts players into the heart of the long-forgotten ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-27-diablo-3-season-28-is-the-perfect-preparation-for-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
+      "originalUrl": "https://www.pcgamesn.com/diablo-iii/season-28-perfect-preparation-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-3-season-28-ptr-rites-of-sanctuary.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-diablo-4-everything-we-know-so-far.md",
+      "title": "Diablo 4: Everything we know so far",
+      "excerpt": "Blizzard are very good at keeping fans waiting, and Diablo 4 was certainly no exception. After a long period of rumours Diablo 4 was finally revealed at BlizzCon 2019, but we were once again left in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-26-diablo-4-everything-we-know-so-far/index.json",
+      "webUrl": "https://www.vg247.com/diablo-4-everything-we-know-so-far",
+      "originalUrl": "https://www.vg247.com/diablo-4-everything-we-know-so-far",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.vg247.com/diablo-4-everything-we-know-inarius-screenshot.jpg/BROK/thumbnail/1200x630/diablo-4-everything-we-know-inarius-screenshot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T01:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vg247",
+        "domain": "vg247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
+      "title": "This trailer is DARK! | Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 reaction",
+      "excerpt": "Time to check out an older trailer from the diablo 4 video game, this one was from 2019 but the trailer is absolutely amazing! Lilith ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=ohGndBIfK8A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ohGndBIfK8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T05:00:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Necrotic",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-diablo-4-release-date-details-how-to-ensure-access-to-the-upcoming-open-beta.md",
+      "title": "'Diablo 4' release date, details: How to ensure access to the upcoming open beta?",
+      "excerpt": "While Blizzard is keeping things under wraps, the \"Diablo 4\" beta will likely arrive a couple of months before the \"Diablo 4\" release date arrives in June.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-23-diablo-4-release-date-details-how-to-ensure-access-to-the-upcoming-open-beta/index.json",
+      "webUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "originalUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-details-how-ensure-access-upcoming-open-beta-1711669",
+      "publishedDateTime": "2023-01-22T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-diablo-4-release-date-trailers-and-latest-news.md",
+      "title": "‘Diablo 4’ release date, trailers and latest news",
+      "excerpt": "Diablo 4 has been a long time coming, having been rumoured for many years before being announced. It looks set to be a return to form for the series, and appears to be much more akin to the first ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-19-diablo-4-release-date-trailers-and-latest-news/index.json",
+      "webUrl": "https://www.nme.com/guides/gaming-guides/diablo-4-release-date-trailers-gameplay-3383717",
+      "originalUrl": "https://www.nme.com/guides/gaming-guides/diablo-4-release-date-trailers-gameplay-3383717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T23:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-diablo-4-release-date-trailers-gameplay-and-news.md",
+      "title": "Diablo 4 release date, trailers, gameplay, and news",
+      "excerpt": "Want to know the Diablo 4 release date and all the latest news? The upcoming entry in the demon-slaying action RPG series has many teasers and trailers. They showcase the various classes we can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-17-diablo-4-release-date-trailers-gameplay-and-news/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/diablo-4-release-date.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story.md",
+      "title": "The Pros and Cons of Skipping Diablo 4's Story",
+      "excerpt": "Unlike the launch of Diablo 3, Diablo 4 will allow players to skip the game's story mode, launching them straight into the open world's activities. Another pro is that skipping the story can also ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-17-the-pros-and-cons-of-skipping-diablo-4s-story/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "originalUrl": "https://gamerant.com/diablo-4-story-mode-skip-pros-cons-replayable-character-arcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-demon-painting.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-diablo-3-schedules-likely-final-season-before-diablo-4s-launch.md",
+      "title": "Diablo 3 Schedules Likely Final Season Before Diablo 4's Launch",
+      "excerpt": "Diablo 3 is passing the torch to Diablo 4, as Blizzard Entertainment announces what is likely to be the game's final season before the sequel officially becomes Diablo's flagship title.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-16-diablo-3-schedules-likely-final-season-before-diablo-4s-launch/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4s-launch/ar-AA16prqD",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-3-schedules-likely-final-season-before-diablo-4s-launch/ar-AA16prqD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16pybk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-diablo-4s-codex-of-power-system-explained.md",
+      "title": "Diablo 4's Codex of Power System Explained",
+      "excerpt": "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds. To obtain these Legendary Aspects, players must first complete specific ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-15-diablo-4s-codex-of-power-system-explained/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
+      "originalUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-codex-of-power-v2.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-best-of-2023-why-were-looking-forward-to-diablo-4.md",
+      "title": "Best of 2023: Why we’re looking forward to Diablo 4",
+      "excerpt": "Since Diablo 4 is out on June 6 this year it’ll likely be released long before the acquisition deal goes through, if it does at all, and so it will remain multiformat, even if future sequels ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-best-of-2023-why-were-looking-forward-to-diablo-4/index.json",
+      "webUrl": "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/",
+      "originalUrl": "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/01/D4_Rogue_CampfireWide-2c67.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/13/best-of-2023-why-were-looking-forward-to-diablo-4-18096944/amp/",
+      "publishedDateTime": "2023-01-13T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-halsey-dont-need-a-fing-introduction-in-diablo-4-announcement.md",
+      "title": "Halsey Don't need a F*ing Introduction in Diablo 4 Announcement",
+      "excerpt": "diablo4 #halsey #shorts Halsey Don't need a F*ing Introduction in Diablo 4 Announcement Subscribe for more Gaming Content: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-halsey-dont-need-a-fing-introduction-in-diablo-4-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-01-13-halsey-dont-need-a-fing-introduction-in-diablo-4-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=Yb90jGhm_6k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yb90jGhm_6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T07:00:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dennis M Games",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-diablo-2-diablo-3-updates-outlined-as-blizzard-expands-diablo-4-team.md",
+      "title": "Diablo 2, Diablo 3 updates outlined as Blizzard expands Diablo 4 team",
+      "excerpt": "Resurrected and Diablo 3 updates as it hires additional staff to expand its Diablo 4 team ahead of the release date for the RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-diablo-2-diablo-3-updates-outlined-as-blizzard-expands-diablo-4-team/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/updates-blizzard-d2r-d3-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/diablo-4-update-team-expands-d2r-d3-roadmap.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview.md",
+      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways - Blizzard Interview",
+      "excerpt": "Speaking to the team at Blizzard about all things Diablo IV, we got confirmation that the team is planning some pretty epic stuff for its post-launch Seasons. The long-awaited Diablo IV from Blizzard ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-13-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-blizzard-interview/index.json",
+      "webUrl": "https://www.ausgamers.com/features/read/3645703",
+      "originalUrl": "https://www.ausgamers.com/features/read/3645703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.ausgamers.com/gameres/7407/images/695/CharacterDevelopment_Campfire_001.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard.md",
+      "title": "Diablo 4’s Seasons will Change Sanctuary in Dramatic Ways According to Blizzard",
+      "excerpt": "The long-awaited Diablo IV from Blizzard is on track for a June release this year, and you can check out our recent hands-on preview here. Speaking to the team at Blizzard about all things Diablo IV, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-12-diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3645705/diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard",
+      "originalUrl": "https://www.ausgamers.com/news/read/3645705/diablo-4s-seasons-will-change-sanctuary-in-dramatic-ways-according-to-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.ausgamers.com/gameres/7407/images/695/CharacterDevelopment_Campfire_001.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T14:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-which-edition-of-diablo-4-should-you-buy-and-are-the-extras-really-worth-the-cost.md",
       "title": "Which edition of Diablo 4 should you buy? And are the extras really worth the cost?",
       "excerpt": "Fellow Diablo players, it’s almost here! Diablo 4 will be in our collective grasp on June 6. And while the game itself is a one-off purchase, Blizzard has ...",
@@ -274,825 +1057,6 @@
       "provider": {
         "name": "Video Games Chronicle",
         "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-25-diablo-4-how-tyrael-might-factor-into-the-games-story.md",
-      "title": "Diablo 4: How Tyrael Might Factor Into the Game's Story",
-      "excerpt": "The former archangel Tyrael is likely to make a return in Diablo 4, but his presence and motives may seem to be a mystery for many fans.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-25-diablo-4-how-tyrael-might-factor-into-the-games-story/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-archangel-tyrael-angels-demons-lore-playable-character/",
-      "originalUrl": "https://gamerant.com/diablo-4-archangel-tyrael-angels-demons-lore-playable-character/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/Diablo-2-Resurrected-Where-is-the-Spider-Cavern.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-25-diablo-4-followers-confined-to-rpg-games-campaign-for-now.md",
-      "title": "Diablo 4 followers confined to RPG game’s campaign, for now",
-      "excerpt": "The Diablo 4 followers will hopefully make up for their forefathers, but Blizzard has revealed that they'll only appear in the RPG game's campaign - for now ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-25-diablo-4-followers-confined-to-rpg-games-campaign-for-now/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/followers-campaign",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/followers-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-followers.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-24T22:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-best-games-like-diablo-4.md",
-      "title": "Best Games Like Diablo 4",
-      "excerpt": "The long-awaited Diablo 4 is finally coming out and some of us can't wait! Here are some games you can play while you wait.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-24-best-games-like-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/best-games-like-diablo-4/ar-AA15DuPb",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/best-games-like-diablo-4/ar-AA15DuPb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15DNTG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=244&y=150",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-24T07:30:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-diablo-4-standard-deluxe-ultimate-edition-differences-explained.md",
-      "title": "Diablo 4 Standard, Deluxe, & Ultimate Edition Differences Explained",
-      "excerpt": "Pre-orders for Diablo 4 are now open, with players able to choose from three separate editions that each pack their own unique bonuses. Blizzard tends to offer incentives for players to pre-order ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-22-diablo-4-standard-deluxe-ultimate-edition-differences-explained/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-standard-deluxe-and-ultimate-edition-differences-explained/ar-AA15zTIh",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-standard-deluxe-and-ultimate-edition-differences-explained/ar-AA15zTIh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15zMKk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-how-much-time-we-have-to-spend-in-world-of-warcraft-to-get-diablo-4-for-free-has-been-estimated.md",
-      "title": "How much time we have to spend in World of Warcraft to get Diablo 4 for free has been estimated",
-      "excerpt": "Following the same steps to unlock Overwatch 2 skins through World of Warcraft, it is also possible to get our hands on Blizzard's next game.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-22-how-much-time-we-have-to-spend-in-world-of-warcraft-to-get-diablo-4-for-free-has-been-estimated/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/12/22/news/1671732385_315959_1671732495_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/12/22/news/1671732385_315959.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/12/22/news/1671732385_315959.amp.html",
-      "publishedDateTime": "2022-12-22T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features.md",
-      "title": "Diablo 4 Explains Legendary Items and Codex of Power Features",
-      "excerpt": "Diablo 4's Game Directors discuss how Legendary Items are handled in the sequel with the introduction of its universal Codex of Power feature.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
-      "originalUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-5.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to.md",
-      "title": "I bought the insane Diablo 4 Lilith statue so you don't have to",
-      "excerpt": "Developer Blizzard Entertainment is offering a range of convoluted Diablo 4 preorder bonuses and differing editions as is probably expected, with a wide variety of cosmetic items ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "originalUrl": "https://www.windowscentral.com/gaming/i-bought-the-insane-diablo-4-lilith-statue-so-you-dont-have-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RSmVHnRfezmk8VcumjCrrj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream.md",
-      "title": "Watch the First Diablo IV Developer Update Livestream",
-      "excerpt": "Join Diablo IV game director Joe Shely and associate game director Joseph Piepiora as they introduce the new Codex of Power system and more invitingly dark details.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-watch-the-first-diablo-iv-developer-update-livestream/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23891313/watch-the-first-diablo-iv-developer-update-livestream",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ls/LSX25ZTHA9E11670628043496.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-diablo-4-reveals-battle-pass-price.md",
-      "title": "Diablo 4 Reveals Battle Pass Price",
-      "excerpt": "Blizzard shares more information about the battle pass system for Diablo 4, including its price and how many months it will last. Blizzard’s Diablo 4 team recently discussed the game's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-reveals-battle-pass-price/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
-      "originalUrl": "https://gamerant.com/diablo-4-battle-pass-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-4-ultimate-edition-lilith.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
-      "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
-      "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153feB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=286",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game.md",
-      "title": "Diablo 4 Limited Collector's Edition Revealed, Doesn't Include The Game",
-      "excerpt": "Priced at $96.66, the Diablo 4 collector's edition does not include a copy of the game but does sport some killer mood lighting.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game/1100-6510094/",
-      "publishedDateTime": "2022-12-15T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "diablo #diablo4 #reaction Reacting to Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 ALL MY CONTENT IN ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=bOph5Mn57ps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bOph5Mn57ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:10:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Annoyed Reactions VF",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet.md",
-      "title": "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet",
-      "excerpt": "From seamless multiplayer to righting the wrongs of Diablo 3, here’s how Blizzard is returning to the series’ bloody roots with Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dMnF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=289",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T21:02:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-diablo-4-release-date-gameplay-and-classes.md",
-      "title": "Diablo 4 release date, gameplay and classes",
-      "excerpt": "Diablo 4 is the next mainline entry into the long-running RPG series. It's been a long time since the last instalment, meaning that fans around the world are hungry for any news available.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-diablo-4-release-date-gameplay-and-classes/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4nWXAf8c5BBPKBfUJfGHcb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-diablo-4-heres-what-comes-in-each-edition.md",
-      "title": "Diablo 4: Here's What Comes in Each Edition",
-      "excerpt": "Everything you need to know to pre-order Diablo 4, including release date, what comes in each edition, preorder bonus, and more.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-heres-what-comes-in-each-edition/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-iv-release-date-ultimate-edition",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-iv-release-date-ultimate-edition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2022/12/12/diablo-iv-1670881827004.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-diablo-4-lilith-and-inarius-go-beyond-boring-heroes-and-villains.md",
-      "title": "Diablo 4 Lilith and Inarius “go beyond” boring heroes and villains",
-      "excerpt": "Diablo 4 Lilith and Inarius were once a match made in, well, not heaven, but whether they epitomise good and evil in Blizzard's action RPG game remains blurred ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-lilith-and-inarius-go-beyond-boring-heroes-and-villains/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/lilith-inarius",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/lilith-inarius",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/diablo-4-lilith-inarius-villain-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-diablo-4-limited-collectors-box-pre-orders-are-about-to-drop.md",
-      "title": "Diablo 4 Limited Collector's Box Pre-Orders Are About to Drop",
-      "excerpt": "In the meantime, you can check out Blizzard's current crop of Diablo 4 merch right here. The lineup includes the Diablo IV Inarius Collector's Edition Pin, the Diablo: Tales From the Horadric Library ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
-      "publishedDateTime": "2022-12-11T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-diablo-4-rated-by-esrb-will-include-in-game-purchases.md",
-      "title": "Diablo 4 Rated by ESRB, Will Include In-Game Purchases",
-      "excerpt": "The ESRB rates Diablo 4, revealing more information about the game's level of violence and gore and confirming the presence of microtransactions.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-rated-by-esrb-will-include-in-game-purchases/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rated-by-esrb-will-include-in-game-purchases/ar-AA15bcou",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-rated-by-esrb-will-include-in-game-purchases/ar-AA15bcou",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15b5pi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=320&y=99",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T20:01:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

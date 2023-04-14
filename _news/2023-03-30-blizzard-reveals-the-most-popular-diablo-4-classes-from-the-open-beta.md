@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/"
 type: article
 quality: 107
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320"
         width: 568
         height: 320
-        isCached: true
-  - title: "Diablo 4 beta class tier list, best classes in the beta ranked"
-    excerpt: "The best class in the Diablo 4 beta is quite a subjective thing, you're encouraged to pick a base class and build them up into a character that suits your personal preferences. Therefore, pinning down ..."
-    publishedDateTime: 2023-03-24T09:01:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-beta-class-tier-list-ranked-9337"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 87
-    images:
-      - url: "https://assets.reedpopcdn.com/diablo-four-all-five-classes-official-blizzard-artwork.jpg/BROK/thumbnail/1200x630/diablo-four-all-five-classes-official-blizzard-artwork.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diablo 4 Beta Was the Largest in Franchise's History"
     excerpt: "Official statistics for the Diablo 4 open beta reveal that it was the largest ever for the franchise. Two beta periods for Diablo 4 took place across March and millions enjoyed a taste of what ..."

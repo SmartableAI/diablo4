@@ -2,6 +2,807 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-16-big-diablo-4-news-teased-for-blizzcon.md",
+      "title": "Big Diablo 4 News Teased for BlizzCon",
+      "excerpt": "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-big-diablo-4-news-teased-for-blizzcon/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
+      "publishedDateTime": "2020-12-16T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline.md",
+      "title": "New Diablo 4 Class Reveal Teased For BlizzConline",
+      "excerpt": "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline/index.json",
+      "webUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
+      "originalUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
+      "publishedDateTime": "2020-12-15T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
+      "title": "Diablo IV Quarterly Update—December 2020",
+      "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-iv-quarterly-updatedecember-2020/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/qc/QCLQ69PQP0RZ1607723436521.jpg",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats.md",
+      "title": "Diablo 4's latest developer update is all about itemization (and a bit of player stats)",
+      "excerpt": "The latest Diablo 4 development update dives deep into itemization, \"the lifeblood of Diablo,\" with a closer look at changes that have been made since the last time Blizzard talked about the game and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/index.json",
+      "webUrl": "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "originalUrl": "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
+      "publishedDateTime": "2020-12-15T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old.md",
+      "title": "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old",
+      "excerpt": "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
+      "publishedDateTime": "2020-12-15T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal.md",
+      "title": "Diablo 4 will be at BlizzCon, likely with a new class reveal",
+      "excerpt": "Blizzard says a big Diablo 4 update is coming to BlizzConline, the digital alternative to BlizzCon taking place in February. In the latest quarterly update from Blizzard, in which we learned a lot ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/index.json",
+      "webUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "originalUrl": "https://www.gamesradar.com/au/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AaSPFCQ7sbH3mWSqxpq8YW-1200-80.jpg",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/au/amp/diablo-4-will-be-at-blizzcon-likely-with-a-new-class-reveal/",
+      "publishedDateTime": "2020-12-15T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-diablo-4-is-making-big-changes-to-legendary-loot.md",
+      "title": "Diablo 4 is making big changes to Legendary loot",
+      "excerpt": "It’s been over a year since we first saw Diablo 4 at BlizzCon 2019, and to end 2020, Blizzard has published a final blog post to whet player’s appetites. This blog post focuses on itemization — ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-is-making-big-changes-to-legendary-loot/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-making-big-changes-to-legendary-loot/ar-BB1bXaal",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-making-big-changes-to-legendary-loot/ar-BB1bXaal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bXaac.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T02:12:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-how-diablo-4-changes-itemization-including-the-removal-of-mythics.md",
+      "title": "How Diablo 4 Changes Itemization, Including The Removal Of Mythics",
+      "excerpt": "A blog post from Blizzard details numerous changes to the itemization in the upcoming Diablo 4, including massive changes to what each tier of items means.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-how-diablo-4-changes-itemization-including-the-removal-of-mythics/index.json",
+      "webUrl": "https://www.gamespot.com/articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
+      "originalUrl": "https://www.gamespot.com/articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598989-trailer_diablo_gameplay_2019111.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-changes-itemization-including-the-removal-of-mythics/1100-6485521/",
+      "publishedDateTime": "2020-12-15T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-015-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
+      "title": "#015 Diablo 4   Official Announcement Cinematic Trailer  Blizzcon 2019 - Reaction",
+      "excerpt": "Hier geht es zum Video: https://www.youtube.com/watch?v=0SSYzl9fXOQ Unsere Gaming PC´s ⬇️⬇️⬇️⬇️⬇️⬇️ Gaming PC John: (*) Prozessor: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-14-015-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-12-14-015-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=xj-fLnfs_Yg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xj-fLnfs_Yg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xj-fLnfs_Yg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T06:36:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EnWa Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup.md",
+      "title": "Diablo IV Announce Cinematic By Three They Come - Epic Reaction Mashup",
+      "excerpt": "Diablo IV Announce Cinematic By Three They Come - Epic Reaction Mashup ▷ All WoW Cinematic Reaction Mashups ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-12-11-diablo-iv-announce-cinematic-by-three-they-come-epic-reaction-mashup/",
+      "originalUrl": "https://youtube.com/watch?v=WEAkoQva8rM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEAkoQva8rM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WEAkoQva8rM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-11T14:50:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reaction Mashups",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-diablo-4-might-have-appeared-on-blizzard-battlenet-launcher.md",
+      "title": "Diablo 4 Might Have Appeared On Blizzard Battle.net Launcher",
+      "excerpt": "Diablo 4 reportedly appeared on the official Blizzard Battle.net Launcher earlier today for a few seconds before being removed.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-20-diablo-4-might-have-appeared-on-blizzard-battlenet-launcher/index.json",
+      "webUrl": "https://segmentnext.com/2020/11/20/diablo-4-blizzard-battle-net-launcher/",
+      "originalUrl": "https://segmentnext.com/2020/11/20/diablo-4-blizzard-battle-net-launcher/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/11/20/diablo-4-blizzard-battle-net-launcher/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/11/20/diablo-4-blizzard-battle-net-launcher/amp/",
+      "publishedDateTime": "2020-11-19T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-everything-you-need-to-know-about-the-current-status-of-diablo-4.md",
+      "title": "Everything you need to know about the current status of Diablo 4",
+      "excerpt": "Blizzard disappointed fans when they announced the mobile game Diablo Immortal on Blizzcon 2018. Thus, to make amends with their admonishing fans, they have to give them what they really want: the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-06-everything-you-need-to-know-about-the-current-status-of-diablo-4/index.json",
+      "webUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/",
+      "originalUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9bRWIdOMfro/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/",
+      "cdnAmpWebUrl": "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/everything-you-need-to-know-about-current-status-diablo-4/amp/",
+      "publishedDateTime": "2020-11-06T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClutchPoints",
+        "domain": "clutchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed.md",
+      "title": "Blizzard says its ‘Diablo 4’ announcement wasn’t delayed",
+      "excerpt": "but not so good for hardcore Diablo gamers who are anxiously waiting for Diablo 4. A report then claimed that Blizzard wanted to announce Diablo 4 at the event as well, but plans changed in the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed/index.json",
+      "webUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
+      "originalUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2018/11/diablo-immortal.jpg?quality=70&#038;strip=all",
+          "width": 1360,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
+      "publishedDateTime": "2020-11-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op.md",
+      "title": "Diablo 4 will support controllers on PC, has 2-player couch co-op",
+      "excerpt": "Blizzard confirms some interesting new features coming to Diablo 4 on PC, including full controller support and total controller remapping/custom keybinding. Diablo 4 is being developed for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.json",
+      "webUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/0/70934_255_diablo-iv-will-support-controllers-on-pc-has-2-player-couch-co-op_full.png",
+          "width": 1300,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
+      "publishedDateTime": "2020-11-03T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-new-diablo-4-update-has-fans-speculating.md",
+      "title": "New Diablo 4 Update Has Fans Speculating",
+      "excerpt": "A new Diablo 4 update has surface online courtesy of LinkedIn, and it's not the news fans wanted to hear. Since announcing Diablo 4, Blizzard has said nothing consequential about the game. At the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-31-new-diablo-4-update-has-fans-speculating/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-update-blizzard-news-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-update-blizzard-news-fans/",
+      "publishedDateTime": "2020-10-31T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-diablo-4-everything-we-know-about-the-next-diablo-game.md",
+      "title": "Diablo 4: Everything we know about the next Diablo game",
+      "excerpt": "Although much is still under wraps, Blizzard has started to reveal bits and pieces of Diablo 4. Here's everything we know about the highly anticipated title.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-25-diablo-4-everything-we-know-about-the-next-diablo-game/index.json",
+      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/diablo-4-featured-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/?amp",
+      "publishedDateTime": "2020-10-24T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-everything-we-know-about-diablo-4.md",
+      "title": "Everything we know about Diablo 4",
+      "excerpt": "Although much is still under wraps, Blizzard has started to reveal bits and pieces of Diablo 4. Here's everything we know about the highly anticipated title.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-23-everything-we-know-about-diablo-4/index.json",
+      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/diablo-4-featured-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-release-date-trailer-gameplay-news/?amp",
+      "publishedDateTime": "2020-10-23T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions.md",
+      "title": "Fans Could Discover New Diablo 4 Classes Through Region Descriptions",
+      "excerpt": "Apparently the various Diablo 4 classes will have strong relationships with the various regions that you’ll be passing through over the course of the game. While this hasn’t been confirmed ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-10-06-fans-could-discover-new-diablo-4-classes-through-region-descriptions/index.json",
+      "webUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
+      "originalUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/10/07/fans-discover-new-diablo-4-classes-region-descriptions/amp/",
+      "publishedDateTime": "2020-10-06T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
       "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
       "excerpt": "Diablo 4 is still very early in development, and likely won't release for years, but we already know quite a bit about Blizzard's dungeon-crawler thanks to substantive dev updates released every ...",
@@ -312,802 +1113,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-diablo-4-update-digs-into-the-sorceress-enchantment-mechanic.md",
-      "title": "Diablo 4 Update Digs Into the Sorceress’ Enchantment Mechanic",
-      "excerpt": "The latest Diablo 4 update gives players a look at the Sorceress' Enchantment system, alongside some brief talk about skills, items, and end game progression.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-diablo-4-update-digs-into-the-sorceress-enchantment-mechanic/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn3.dualshockers.com/wp-content/uploads/2019/11/diablo-4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dualshockers.com/diablo-4-sorceress-enchantment-system/amp/",
-      "cdnAmpWebUrl": "https://www-dualshockers-com.cdn.ampproject.org/c/s/www.dualshockers.com/diablo-4-sorceress-enchantment-system/amp/",
-      "publishedDateTime": "2020-09-29T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Sorceress"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-diablo-4s-endgame-is-being-designed-to-make-hardcore-players-happy.md",
-      "title": "Diablo 4's Endgame Is Being Designed to Make Hardcore Players Happy",
-      "excerpt": "Diablo 4 has a new developer update that goes into details about skill progression and an endgame that should please hardcore players.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-29-diablo-4s-endgame-is-being-designed-to-make-hardcore-players-happy/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-development-update-endgame",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-development-update-endgame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.ignimgs.com/2020/06/25/diablo-4-blogroll-1593086629440.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement.md",
-      "title": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT",
-      "excerpt": "BLIZZCON FEBRUARY 2021 - NEW DIABLO 4 RELEASE DATE ANNOUNCEMENT Blizzard Entertainment was forced to cancel its annual BlizzCon fan ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-09-27-blizzcon-february-2021-new-diablo-4-release-date-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=xKnfRkaePPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xKnfRkaePPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xKnfRkaePPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-26T17:39:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithtainment",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions.md",
-      "title": "Blizzard Now Hiring For Diablo 4 Microtransactions",
-      "excerpt": "Blizzard Entertainment has started looking out for someone to create and execute microtransactions in Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-blizzard-now-hiring-for-diablo-4-microtransactions/index.json",
-      "webUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
-      "originalUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2019/11/Diablo-4-Rathma-Summoning.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/08/19/blizzard-hiring-diablo-4-microtransactions/amp/",
-      "publishedDateTime": "2020-08-18T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees.md",
-      "title": "Diablo 4 and Overwatch 2 shown to Blizzard employees",
-      "excerpt": "A new report has come out by a French publication website regarding some unrelease Blizzard titles, Diablo 4 and Overwatch 2. The report says that both of the titles have been shown to a select ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-18-diablo-4-and-overwatch-2-shown-to-blizzard-employees/index.json",
-      "webUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/6/6/66387_01_diablo-4-overwatch-2-blizzard-employees_full.jpg",
-          "width": 850,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/66387/diablo-4-overwatch-2-shown-blizzard-employees/amp.html",
-      "publishedDateTime": "2020-08-18T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development.md",
-      "title": "Blizzard Gives Encouraging Update on Diablo 4 Development",
-      "excerpt": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-09-blizzard-gives-encouraging-update-on-diablo-4-development/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
-      "publishedDateTime": "2020-08-08T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak.md",
-      "title": "Diablo 4 Development Still Pressing On During Coronavirus Outbreak",
-      "excerpt": "Diablo has been an iconic video game franchise for years and fans were incredibly eager to see Diablo 4 get announced. The video game development process has been in full swing with Rod Fergusson ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-development-still-pressing-on-during-coronavirus-outbreak/index.json",
-      "webUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
-      "originalUrl": "https://gameranx.com/updates/id/206598/article/diablo-4-development-still-pressing-on-during-coronavirus-outbreak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gameranx.com/wp-content/uploads/2019/11/diablo-4-11.jpg",
-          "width": 1148,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-07T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gameranx",
-        "domain": "gameranx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-diablo-4-team-is-moving-forward-despite-covid-19-pandemic.md",
-      "title": "Diablo 4 team is 'moving forward' despite COVID-19 pandemic",
-      "excerpt": "Rod Fergusson's move to Blizzard was not particularly well-timed. He left The Coalition in order to head up Diablo 4 in March, just ahead of the COVID-19 outbreak that forced the entire company to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-07-diablo-4-team-is-moving-forward-despite-covid-19-pandemic/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/iq3CfpNAXNcvVeaMziCLMi-1200-80.jpg",
-          "width": 610,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/diablo-4-team-is-moving-forward-despite-covid-19-pandemic/",
-      "publishedDateTime": "2020-08-06T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "Hey Everyone! Kyle here from Reacts by Kyle! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this video and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-02-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=yb7liR0g7vo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yb7liR0g7vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yb7liR0g7vo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-02T08:26:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reacts By Kyle",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come REACTION with Magy",
-      "excerpt": "Check out our Full Movie/TV Shows Reactions on Patreon :) ✓ PATREON - https://www.patreon.com/thehomiesreact If you just want to give support ✓ PayPal ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-08-01-diablo-iv-announce-cinematic-by-three-they-come-reaction-with-magy/",
-      "originalUrl": "https://youtube.com/watch?v=-HeOC0daNkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HeOC0daNkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-HeOC0daNkE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-01T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Homies",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction.md",
-      "title": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction",
-      "excerpt": "Diablo 4 - Official Announcement Cinematic & Barbarian, Sorcerer & Druid Official Gameplay Reaction 1.Original:https://youtu.be/0SSYzl9fXOQ 2.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-07-22-diablo-4-official-announcement-cinematic-barbarian-sorcerer-druid-official-gameplay-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=GrdoP_s0snk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GrdoP_s0snk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GrdoP_s0snk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T16:22:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "He looks Familiar",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors.md",
-      "title": "Diablo 4 release date, trailers, news and rumors",
-      "excerpt": "According to Barriga, even in these early stages Diablo IV “is very fun to play ... and Candace Thomas, Senior Encounter Designer. Angela Del Priore's update delves into UI changes, couch ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-30-diablo-4-release-date-trailers-news-and-rumors/index.json",
-      "webUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/uk/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "publishedDateTime": "2020-06-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react.md",
-      "title": "REACTION TO Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACT",
-      "excerpt": "REACTION TO Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 - REACT If you like it, subscribe and definitely comment. Looking forward to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-06-27-reaction-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-react/",
-      "originalUrl": "https://youtube.com/watch?v=kLmgdqgUUZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kLmgdqgUUZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kLmgdqgUUZQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-27T07:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FilipKubesReacts",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content.md",
-      "title": "Blizzard Drops Major 'Diablo 4' Updates On Gameplay, Open-World And Side Content",
-      "excerpt": "Blizzard released a handful of details about the \"Diablo 4\" Updates focus on gameplay, open-world and more \"Diablo 4\" is one of the most anticipated games from Blizzard Gaming studio Blizzard shared a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-26-blizzard-drops-major-diablo-4-updates-on-gameplay-open-world-and-side-content/index.json",
-      "webUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
-      "originalUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/09/04/diablo-3-ps3.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-drops-major-diablo-4-updates-gameplay-open-world-side-content-3001080?amp=1",
-      "publishedDateTime": "2020-06-26T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-diablo-iv-quarterly-updatejune-2020.md",
-      "title": "Diablo IV Quarterly Update—June 2020",
-      "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. Take a look at elements of the team playtest milestone, including blockout, storytelling, open world gameplay, multiplayer, items, progression, and more.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-iv-quarterly-updatejune-2020/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23463858/diablo-iv-quarterly-update-june-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/wm/WM26L4P3GY291593028352157.jpg",
-          "width": 1520,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg.md",
-      "title": "Diablo 4 director explains why it's not an MMORPG",
-      "excerpt": "Blizzard's latest update on Diablo 4 sees game director Luis Barriga break down some new screenshots, real-time cutscenes, open-world elements, and how the studio is handling multiplayer. On that last ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-25-diablo-4-director-explains-why-its-not-an-mmorpg/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-director-explains-why-its-not-an-mmorpg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-director-explains-why-its-not-an-mmorpg/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-director-explains-why-its-not-an-mmorpg/",
-      "publishedDateTime": "2020-06-25T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-diablo-4-official-announcement-cinematic-trailer-reaction-1-creepy.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer Reaction 1 (Creepy)",
-      "excerpt": "Please watch: \"So I finally played RESIDENT EVIL 2 and this is what happened! (Gameplay) PT1 I DIED\" https://www.youtube.com/watch?v=FY_-BmxW-4s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-06-14-diablo-4-official-announcement-cinematic-trailer-reaction-1-creepy/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-06-14-diablo-4-official-announcement-cinematic-trailer-reaction-1-creepy/",
-      "originalUrl": "https://youtube.com/watch?v=RLpKpHDfuTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RLpKpHDfuTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RLpKpHDfuTA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-13T19:36:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StankkkFace Nation",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come REACTION",
-      "excerpt": "Do you want to start transforming your back posture? You can get your Perfect Posture Corrector https://rebrand.ly/PerfectPostureClub ✓ PATREON ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-05-23-diablo-iv-announce-cinematic-by-three-they-come-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-05-23-diablo-iv-announce-cinematic-by-three-they-come-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=K0CoKr7imkQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K0CoKr7imkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K0CoKr7imkQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-23T09:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Homies",
-        "domain": "youtube.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,8 +7,8 @@ originalUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
 webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: Windows Central
@@ -25,33 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 beta – what to expect from Druid and Necromancer"
-    excerpt: "As Lilith’s minions crawl out of the shadows, Blizzard’s Diablo 4 beta has proven that you’ll need to muster all of your strength to send them back to the burning hells. Two new Diablo 4 classes will ..."
-    publishedDateTime: 2023-03-22T12:50:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/beta-classes-necromancer-druid"
+  - title: "Diablo 4 Beta: Best Necromancer Build"
+    excerpt: "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ..."
+    publishedDateTime: 2023-03-25T20:47:00Z
+    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 104
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-necromancer-druid-classes.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4: Necromancer skill tree, all attacks and abilities"
-    excerpt: "Ready to create your own mini-army in Blizzard's latest big adventure? Diablo 4 has five classes to choose from, and the Necromancer returns as one of these playable archetypes. Necromancers raise the ..."
-    publishedDateTime: 2023-03-25T11:05:00Z
-    webUrl: "https://www.windowscentral.com/gaming/diablo-4-necromancer-skill-tree-all-attacks-and-abilities"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HyXkW5kwCFqDry6piLRy7Z-1200-80.jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Necromancer Build Guide (Open Beta Version)"
+    excerpt: "Welcome to our Diablo 4 Necromancer Build Guide. In this guide, we will be discussing five different builds you can use to make a painful stinger of a Necromancer in the game. We have three ..."
+    publishedDateTime: 2023-03-25T11:41:00Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-necromancer-build-guide-open-beta-version/ar-AA194qF4"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194yJC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=559&y=150"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Beta: Best Rogue Build"
+    excerpt: "The rogue is in a delicate position for the Diablo 4 beta period. This is a class that historically needs to be careful about engaging in melee combat due to wearing lighter armor and equally requires ..."
+    publishedDateTime: 2023-03-26T08:13:00Z
+    webUrl: "https://www.msn.com/en-in/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue"
     excerpt: "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue."

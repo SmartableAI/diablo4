@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/news/technology/is-diablo-4-online-only-
 webUrl: "https://www.msn.com/en-us/news/technology/is-diablo-4-online-only-can-you-play-offline/ar-AA194GKC"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: MSN
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can you play Diablo 4 offline?"
-    excerpt: "Each game’s player base inevitably has a large number of players that prefer playing offline or solo and Diablo 4 is no different. NOW READ: Is Diablo 4 gender locked? With this in mind, a question ..."
-    publishedDateTime: 2023-03-21T18:17:00Z
-    webUrl: "https://www.videogamer.com/news/can-you-play-diablo-4-offline/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 87
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-open-beta.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Players Want To Be Able To Play Offline"
     excerpt: "Diablo 4 beta players are fed up with the always online requirements, calling on the devs to make it possible to play offline. This comes as the Diablo servers have struggled to keep up with demand, ..."
     publishedDateTime: 2023-03-26T13:21:00Z

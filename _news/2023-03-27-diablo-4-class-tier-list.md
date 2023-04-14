@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 best class tier list | best solo class for the beta"
-    excerpt: "The Diablo 4 closed beta is here, which means thousands of people will be flooding in to try Blizzard's latest venture into the world of Sanctuary. If you want to make the most out of your limited ..."
-    publishedDateTime: 2023-03-15T09:01:00Z
-    webUrl: "https://www.vg247.com/diablo-4-best-class-tier-list-best-solo-class-for-the-closed-beta"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://asset.vg247.com/diablo-4-beta-characters.jpg/BROK/thumbnail/1200x630/diablo-4-beta-characters.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4: Class Tier List"
     excerpt: "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ..."
     publishedDateTime: 2023-03-26T17:30:00Z

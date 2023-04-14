@@ -2,6 +2,789 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg.md",
+      "title": "Diablo 4 skills are tied to weapon damage in Blizzard RPG",
+      "excerpt": "A video showing that Diablo 4 skills are tied to weapon damage in the Blizzard ARPG game has fans discussing the benefits of the Diablo 3 vs Diablo 2 systems ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-skills-tied-weapon-dps-necromancer-blizzard-rpg.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-blizzard-is-sending-out-first-wave-of-diablo-4-end-game-beta-invites.md",
+      "title": "Blizzard Is Sending Out First Wave Of Diablo 4 End Game Beta Invites",
+      "excerpt": "Blizzard has reportedly started distributing Diablo 4 end game Beta invites out to players, according to a number of users on ResetEra and Reddit. Participants of the end game beta will be able to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-28-blizzard-is-sending-out-first-wave-of-diablo-4-end-game-beta-invites/index.json",
+      "webUrl": "https://www.psu.com/news/diablo-4-end-game-beta-invites/",
+      "originalUrl": "https://www.psu.com/news/diablo-4-end-game-beta-invites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.psu.com/wp/wp-content/uploads/2022/09/Diablo4-1.jpg",
+          "width": 800,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T19:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Play Station Universe",
+        "domain": "psu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-diablo-4-is-sending-out-invites-for-its-end-game-beta.md",
+      "title": "Diablo 4 Is Sending Out Invites for Its End Game Beta",
+      "excerpt": "Diablo 4 devs have reportedly started to send out invites for the first wave of its closed end game beta. Multiple fans have shared on social media that they received invites to the game’s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-27-diablo-4-is-sending-out-invites-for-its-end-game-beta/index.json",
+      "webUrl": "https://cogconnected.com/2022/09/diablo-4-sending-out-invites-end-game-beta/",
+      "originalUrl": "https://cogconnected.com/2022/09/diablo-4-sending-out-invites-end-game-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cogconnected.com/wp-content/uploads/2016/07/Diablo-4-rumor-feature.jpg",
+          "width": 890,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "COGconnected",
+        "domain": "cogconnected.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out.md",
+      "title": "Diablo 4 end game beta invites are being sent out",
+      "excerpt": "The first wave of invites to the Diablo 4 closed end game beta have reportedly been distributed. Diablo players on Resetera and Reddit began receiving invites to the game’s latest testing phase on ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-27-diablo-4-end-game-beta-invites-are-being-sent-out/index.json",
+      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
+      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-end-game-beta-invites-are-being-sent-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2022/09/diablo-4-x.jpg",
+          "width": 1249,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg.md",
+      "title": "Diablo 4 daily events spark live service concerns for the Blizzard RPG",
+      "excerpt": "The appearance of Diablo 4 daily events in the latest Blizzard update for its upcoming fantasy RPG game has fans worried about the game’s live service nature ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-daily-events-spark-live-service-concerns-for-the-blizzard-rpg/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/daily-events-discussion",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/daily-events-discussion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/09/diablo-4-daily-quests-live-service-concerns-reddit.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-diablo-4-endgame-closed-beta-announced.md",
+      "title": "Diablo 4 endgame closed beta announced",
+      "excerpt": "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-endgame-closed-beta-announced/index.json",
+      "webUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
+      "originalUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked.md",
+      "title": "Test footage from ‘Diablo 4’ appears to have leaked",
+      "excerpt": "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
+      "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
+      "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat/index.json",
+      "webUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
+      "originalUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022.md",
+      "title": "Developers reveal Diablo 4 Closed Beta for late 2022",
+      "excerpt": "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
+      "originalUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-blizzard-reveals-secretive-beta-testing-plans-for-diablo-4.md",
+      "title": "Blizzard Reveals Secretive Beta Testing Plans For Diablo 4",
+      "excerpt": "Blizzard's hotly-anticipated \"Diablo 4\" isn't due until next year, but there is some good news for the franchise's most loyal fans: a closed beta testing phase.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/index.json",
+      "webUrl": "https://www.slashgear.com/1017072/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/",
+      "originalUrl": "https://www.slashgear.com/1017072/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/blizzard-reveals-secretive-beta-testing-plans-for-diablo-4/l-intro-1663698781.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-more-than-40-minutes-of-diablo-4-footage-leaked-on-reddit.md",
+      "title": "More than 40 minutes of Diablo 4 footage leaked on Reddit",
+      "excerpt": "Diablo 4 might not be coming out until next year, but heaps of new gameplay footage leaked over the weekend. Over on Reddit, user iV1rus0 shared roughly 44 minutes of Diablo 4 video from a private ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-more-than-40-minutes-of-diablo-4-footage-leaked-on-reddit/index.json",
+      "webUrl": "https://ftw.usatoday.com/2022/09/diablo-4-leak-reddit-video",
+      "originalUrl": "https://ftw.usatoday.com/2022/09/diablo-4-leak-reddit-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/02/Burning_Crusade_Classic_BlizzConline_Villans_1920x1080.jpg?w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-blizzard-announces-diablo-4-closed-beta-for-2022.md",
+      "title": "Blizzard Announces Diablo 4 Closed Beta for 2022",
+      "excerpt": "Blizzard has announced that hardcore Diablo fans will get the chance to play in a Diablo 4 closed beta this year, while a public beta while arrive in early 2023.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-blizzard-announces-diablo-4-closed-beta-for-2022/index.json",
+      "webUrl": "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022",
+      "originalUrl": "https://www.ign.com/articles/blizzard-announces-diablo-4-closed-beta-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet.md",
+      "title": "Massive Diablo 4 leak gives us our best look at the game yet",
+      "excerpt": "Over 40 minutes of Diablo 4 test footage has leaked online, giving us our most comprehensive look at the upcoming action RPG yet. Blizzard hasn’t confirmed the leak to be genuine, but the footage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-massive-diablo-4-leak-gives-us-our-best-look-at-the-game-yet/index.json",
+      "webUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
+      "originalUrl": "https://www.techradar.com/news/massive-diablo-4-leak-us-gives-our-best-look-at-the-game-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fsoXQ8TDH2p9PjGkPoN3gY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-diablo-4-closed-beta-announced.md",
+      "title": "DIABLO 4, Closed Beta Announced",
+      "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near Twitch ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-closed-beta-announced/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-19-diablo-4-closed-beta-announced/",
+      "originalUrl": "https://youtube.com/watch?v=DL0KRQtil_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DL0KRQtil_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T14:05:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnnacakeLIVE",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts.md",
+      "title": "NEW Diablo 4 Update, Closed Beta Announced, My Thoughts.",
+      "excerpt": "Blog post to sign up for closed End Game Beta: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-19-new-diablo-4-update-closed-beta-announced-my-thoughts/",
+      "originalUrl": "https://youtube.com/watch?v=z6jJapa7SDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z6jJapa7SDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T11:23:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sweet Phil",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-developer-update-closed-end-game-beta-draws-near.md",
+      "title": "Developer Update: Closed End Game Beta Draws Near",
+      "excerpt": "The Diablo IV development team is marching toward our announced 2023 release! Learn about our next milestone and how members of the community can potentially participate.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-developer-update-closed-end-game-beta-draws-near/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23827587/developer-update-closed-end-game-beta-draws-near",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/g3/G3GCF07QODHW1662771897667.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-40-minutes-of-diablo-4-test-footage-has-leaked-online.md",
+      "title": "40 Minutes Of Diablo 4 Test Footage Has Leaked Online",
+      "excerpt": "From the looks of it, more than 40 minutes of gameplay footage from Diablo 4 has leaked online, giving us a rough idea of ​​what the game will look like.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-40-minutes-of-diablo-4-test-footage-has-leaked-online/index.json",
+      "webUrl": "https://techstory.in/40-minutes-of-diablo-4-test-footage-has-leaked-online/",
+      "originalUrl": "https://techstory.in/40-minutes-of-diablo-4-test-footage-has-leaked-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2022/09/Diablo-4-Lilith.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-diablo-4-reveals-open-beta-plans.md",
+      "title": "Diablo 4 Reveals Open Beta Plans",
+      "excerpt": "For the closed beta test, Blizzard is specifically looking for players \"who have recently spent significant amounts of time playing the end-game experiences of Diablo II: Resurrected and Diablo III .\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-19-diablo-4-reveals-open-beta-plans/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/04/12/a0a7eec8-8aa9-4871-b5e0-bb735e3e3b25/gta-6.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-plans-playstation-xbox-pc-blizzard/",
+      "publishedDateTime": "2022-09-19T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-diablo-4-is-asking-people-to-play-the-end-of-the-game-before-it-comes-out.md",
       "title": "Diablo 4 is asking people to play the end of the game before it comes out",
       "excerpt": "In the Diablo games (and many others), vanquishing evil does not signal the end, but rather the beginning: Of endless grinding for incrementally better weapons, equipment, and res ...",
@@ -307,807 +1090,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
-      "title": "Non - Diablo Player Reacts To Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
-      "excerpt": "Hey Everyone! Kyle here ! In today's video, I'm going to react to Diablo 4 Cinematic Trailer. Let me know what you thought of this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-09-11-non-diablo-player-reacts-to-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=IrTta5nR4ys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IrTta5nR4ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T08:05:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kyle Stencell Gaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-diablo-4-everything-we-know.md",
-      "title": "Diablo 4: Everything we know",
-      "excerpt": "The latest on Diablo 4's classes, world, trailers, and everything else we know about it. After years of speculation and rumors, Blizzard finally revealed Diablo 4 during BlizzCon 2019. It wasn't a ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-09-diablo-4-everything-we-know/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-everything-we-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-will-diablo-4-be-free-to-play.md",
-      "title": "Will Diablo 4 be free to play?",
-      "excerpt": "The community has been getting more and more details about Diablo 4 as the game's expected 2023 launch nears. The August news drop from Blizzard elaborated ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-07-will-diablo-4-be-free-to-play/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/09/07/diablo-4-free-to-play/",
-      "originalUrl": "https://blizzardwatch.com/2022/09/07/diablo-4-free-to-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2020/07/diablo-4-header-campfire.jpg",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms.md",
-      "title": "Path of Exile devs hope to appease frustrated fans as Diablo 4 looms",
-      "excerpt": "Path of Exile devs take steps to appease frustrated fans as Diablo 4 approaches after several recent updates to the fantasy ARPG game leave the community upset ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms/index.json",
-      "webUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
-      "originalUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/path-of-exile-devs-community-lake-of-kalandra-diablo-4.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3.md",
-      "title": "What are the best aspects of Season play that Diablo 4 should make sure to borrow from Diablo 3?",
-      "excerpt": "Diablo 4 will have Seasons, iterating on the Ladder Seasons from Diablo 2 and the Seasons of Diablo 3. Because it's a new game, there will obviously be dif ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
-      "originalUrl": "https://blizzardwatch.com/2022/08/31/best-aspects-season-play-diablo-4-make-sure-borrow-diablo-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2017/10/treasure-goblin-header.jpg",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more.md",
-      "title": "Diablo 4: Release Date, Classes, Gameplay, Leaks, Beta Sign Up, and More",
-      "excerpt": "Awaiting Diablo IV's launch but don't know much about it? Know the Diablo 4 release date, classes, beta, leaks, & more in this info dump.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more/index.json",
-      "webUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/",
-      "originalUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2022/08/Untitled-design-9-1.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/amp/",
-      "publishedDateTime": "2022-08-28T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic.md",
-      "title": "Diablo 4's Microtransactions Will Be Strictly Cosmetic",
-      "excerpt": "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dualshockers.com/static/uploads/2022/08/diablo-4-microtransactions-will-be-strictly-cosmetic-scaled.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it.md",
-      "title": "Diablo 4 Will Ditch Lootboxes for Battle Passes, Like Overwatch Before It",
-      "excerpt": "Blizzard has made clear that Diablo 4 will not include lootboxes and, like Overwatch before it, will instead offer Battle Passes and cosmetics through an in-game store.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises.md",
-      "title": "Diablo 4 Won’t Be Pay-to-Win, Blizzard Promises",
-      "excerpt": "Following the Diablo Immortal fiasco, Blizzard Entertainment has promised that Diablo 4 microtransactions won't have pay-to-win mechanics.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises/index.json",
-      "webUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
-      "originalUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.playstationlifestyle.net/assets/uploads/2022/08/diablo-4-microtransactions.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
-      "cdnAmpWebUrl": "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
-      "publishedDateTime": "2022-08-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PlayStation LifeStyle",
-        "domain": "playstationlifestyle.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-leaks-hint-at-diablo-4-pre-purchase-announcement-at-the-game-awards.md",
-      "title": "Leaks hint at Diablo 4 pre-purchase announcement at The Game Awards",
-      "excerpt": "We might be hearing news about Diablo 4 earlier than expected, if a supposedly leaked internal Blizzard memo is correct.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-leaks-hint-at-diablo-4-pre-purchase-announcement-at-the-game-awards/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-19-leaks-hint-at-diablo-4-pre-purchase-announcement-at-the-game-awards/",
-      "originalUrl": "https://youtube.com/watch?v=ts6Nc9Q5UUw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ts6Nc9Q5UUw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T20:11:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xfire",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update.md",
-      "title": "Monetization and Paid Season Pass Announced - Diablo 4 HUGE Quarterly Update",
-      "excerpt": "Official Diablo 4 Blog Post: https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update/",
-      "originalUrl": "https://youtube.com/watch?v=vCvq-fIGZjY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vCvq-fIGZjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T14:59:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sweet Phil",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-iv-quarterly-updateaugust-2022.md",
-      "title": "Diablo IV Quarterly Update—August 2022",
-      "excerpt": "We’re back with another Diablo IV Quarterly Update, fresh from the Burning Hells! Join our development team as they introduce and elaborate on Diablo IV’s Seasons and Season Journeys.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-iv-quarterly-updateaugust-2022/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/a8/A88KX5PHSGB41660608957353.png",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content.md",
-      "title": "Diablo 4 will have a season pass, cosmetic shop and years of post-release content",
-      "excerpt": "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/diablo-4-post-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-post-release.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock Paper Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers.md",
-      "title": "Diablo 4 shop to sell cosmetic-only outfits, Season Pass with free and paid tiers",
-      "excerpt": "The latest quarterly update for Diablo 4 is all about the game's live service systems. Blizzard Entertainment confirms there will be a Season Pass with paid and free tiers, with Diablo 4 aiming for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/9W9Cjgx3sLRAngxWpZPecg-1200-80.jpg",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4-reveals-monetization-plans.md",
-      "title": "Diablo 4 Reveals Monetization Plans",
-      "excerpt": "Blizzard has today revealed how monetization practices will work in Diablo 4 when the game launches next year. In recent months, the Diablo series as a whole has been under fire from fans following ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-reveals-monetization-plans/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-update-monetization-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-update-monetization-blizzard/",
-      "publishedDateTime": "2022-08-18T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay.md",
-      "title": "Blizzard Says Diablo 4 Microtransactions Won't 'Affect Gameplay'",
-      "excerpt": "Cosmetics will give characters new looks but won't make them more powerful. Diablo IV is set to launch sometime in 2023. On Thursday, developer Blizzard Entertainment unveiled its plans for the game's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/index.json",
-      "webUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a354bfe45dc7f8f840e62c71d9070a52968186d9/2022/06/03/0b432133-a175-4f5a-9ccb-a7f1fc159b22/diablo-customize.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blizzard-says-diablo-4-microtransactions-wont-affect-gameplay/",
-      "publishedDateTime": "2022-08-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3.md",
-      "title": "Diablo 4's Paid Battle Pass And Shop Will Be For Cosmetics Only, With Seasons Modeled After Diablo 3",
-      "excerpt": "Players won't be able to pay for power in Diablo 4, as Blizzard outlines its post-launch plans for the highly-anticipated ARPG.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4s-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989778-untitled.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-paid-battle-pass-and-shop-will-be-for-cosmetics-only-with-seasons-modeled-after-diablo-3/1100-6506584/",
-      "publishedDateTime": "2022-08-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing.md",
-      "title": "Activision Blizzard wants all Diablo 4 employees to vote on unionizing",
-      "excerpt": "The NLRB is hearing Activision Blizzard Albany Union arguments to determine who has the right to vote, and the Diablo 4 maker introduced an unorthodox argument ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-17-activision-blizzard-wants-all-diablo-4-employees-to-vote-on-unionizing/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/blizzard-albany-union",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/activision-blizzard-shareholders-meeting.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PCGamesN",

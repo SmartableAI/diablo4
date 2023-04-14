@@ -2,6 +2,798 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward.md",
+      "title": "Inside Diablo 4 - How Blizzard is pushing the series, and genre, forward!",
+      "excerpt": "Join us as we take an in-depth look at the past, present and future of Diablo in a three-part series with insight from the teams at Blizzard making it happen. Part Three: Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-15-inside-diablo-4-how-blizzard-is-pushing-the-series-and-genre-forward/index.json",
+      "webUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
+      "originalUrl": "https://www.redbull.com/au-en/diablo-4-blizzard-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.redbull.com/images/c_fill,w_480,h_320,g_auto,f_auto,q_auto/redbullcom/2021/8/16/sjj6dbu1yms5cujnnhtf/diablo-4-in-game-screenshot",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.redbull.com/au-en/diablo-4-blizzard-insights",
+      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/au-en/diablo-4-blizzard-insights",
+      "publishedDateTime": "2021-08-15T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Red Bull",
+        "domain": "redbull.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard.md",
+      "title": "Diablo 4 director and two other devs “let go” from Activision Blizzard",
+      "excerpt": "Three key Activision Blizzard developers have been let go from the company. While no official reason has been given, the departures come in the wake of the ongoing harassment lawsuit filed by the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-director-and-two-other-devs-let-go-from-activision-blizzard/index.json",
+      "webUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
+      "originalUrl": "https://www.theloadout.com/blizzard-luis-barriga-let-go",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theloadout.com/wp-content/uploads/2021/07/blizzard-orc-statue.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Loadout",
+        "domain": "theloadout.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company.md",
+      "title": "Activision Blizzard: Diablo 4 director and two others leave company",
+      "excerpt": "Three more high-profile leaders have left gaming giant Activision Blizzard, including some from new game Diablo 4. Diablo director Luis Barriga and designer Jesse McCree have both departed, as has ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-activision-blizzard-diablo-4-director-and-two-others-leave-company/index.json",
+      "webUrl": "https://www.bbc.com/news/technology-58187612.amp",
+      "originalUrl": "https://www.bbc.com/news/technology-58187612.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA4A/production/_119909674_gettyimages-1233534678.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-58187612.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58187612.amp",
+      "publishedDateTime": "2021-08-11T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard.md",
+      "title": "Diablo 4 Leads Luis Barriga and Jesse McCree, World of Warcraft Designer Jonathan LeCraft Let Go from Blizzard",
+      "excerpt": "Kotaku recently reported that Diablo 4 game director Luis Barriga and lead designer Jesse McCree have been let go from the company, as has World of Warcraft designer Jonathan LeCraft. While no reason ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-12-diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard",
+      "originalUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-leads-luis-barriga-and-jesse-mccree-world-of-warcraft-designer-jonathan-lecraft-let-go-from-blizzard/amp",
+      "publishedDateTime": "2021-08-11T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development.md",
+      "title": "Blizzard parts ways with leaders of Diablo 4 game development",
+      "excerpt": "Activision Blizzard's Blizzard Entertainment division confirmed more departures among its leadership on the high-profile Diablo 4 game team.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-blizzard-parts-ways-with-leaders-of-diablo-4-game-development/index.json",
+      "webUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
+      "originalUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/diablo-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/blizzard-parts-ways-with-leaders-of-diablo-4-game-development/amp/",
+      "publishedDateTime": "2021-08-11T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates.md",
+      "title": "Activision Blizzard lawsuit: Diablo 4 director is out, latest updates",
+      "excerpt": "After Blizzard's president resigned last week, three Activision Blizzard employees -- including the director of Diablo 4 -- have been let go.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/index.json",
+      "webUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "originalUrl": "https://www.cnet.com/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/YvkCqwOtgOHPlizdIaqTaisKJEM=/1200x630/2021/07/28/8bec2349-0414-4a67-834b-16ac46a48359/gettyimages-1233534678.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/activision-blizzard-lawsuit-diablo-4-director-is-out-latest-updates/",
+      "publishedDateTime": "2021-08-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard.md",
+      "title": "Diablo 4 Game Director And Two Other Devs Ousted From Activision Blizzard",
+      "excerpt": "Level designer Jesse McCree, game director Luis Barriga, and designer Jonathan LeCraft were all unceremoniously let from from Activision Blizzard, according to Kotaku's anonymous sources.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-11-diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 546,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1578/15789366/3866145-3598980-diablo4.jpg",
+          "width": 2221,
+          "height": 1388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-game-director-and-two-other-devs-ousted-from-activision-blizzard/1100-6495077/",
+      "publishedDateTime": "2021-08-11T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad.md",
+      "title": "Diablo 2 Resurrected Beta Date Announced AND Diablo 4 Looks BAD!",
+      "excerpt": "Super Busy Day Today, I apologize for the potential and very likely lack of additional uploads today. That being said we have some AMAZING news today.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-08-10-diablo-2-resurrected-beta-date-announced-and-diablo-4-looks-bad/",
+      "originalUrl": "https://youtube.com/watch?v=XpwqiKLEsY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XpwqiKLEsY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XpwqiKLEsY8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T15:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Corey Allen",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-diablo-4-is-planned-to-drive-engagement-for-years-to-come.md",
+      "title": "Diablo 4 Is Planned To “Drive Engagement” For Years To Come",
+      "excerpt": "He also said the company looks for the game to drive engagement for the long haul, saying, “Blizzard continues to make strong progress on Diablo 4, the game is shaping up incredibly well and the team ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-06-diablo-4-is-planned-to-drive-engagement-for-years-to-come/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come",
+      "originalUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-is-planned-to-drive-engagement-for-years-to-come/amp",
+      "publishedDateTime": "2021-08-06T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard.md",
+      "title": "Diablo 4 Release Date Possibly Hinted at in New Update From Blizzard",
+      "excerpt": "Activision Blizzard, during a recent earnings call, provided a quick update on Diablo 4, and possibly hinted at its release date. According to Activision, the game's development is making \"strong ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-04-diablo-4-release-date-possibly-hinted-at-in-new-update-from-blizzard/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-date-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.comicbook.com/files/images/default.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-release-date-update/",
+      "publishedDateTime": "2021-08-04T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached.md",
+      "title": "Work on Diablo 4 Picks up Pace; Another Milestone Reached",
+      "excerpt": "Diablo 4 has just reached another milestone in terms of development process. This is indicated by information found by one of the Reddit users.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-08-03-work-on-diablo-4-picks-up-pace-another-milestone-reached/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
+      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-updated-to-version-020/z336f4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/365690819.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=14068",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=14068",
+      "publishedDateTime": "2021-08-02T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4.md",
+      "title": "How Blizzard Entertainment CD Andrea Toyias Cast ‘Diablo 4’",
+      "excerpt": "Blizzard’s senior casting and voice director looks for the human experience to cast characters from demon goats to orcs.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-28-how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4/index.json",
+      "webUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
+      "originalUrl": "https://www.backstage.com/magazine/article/how-blizzard-entertainment-cd-andrea-toyias-cast-diablo-4-73742/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/44189/og_image.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Backstage",
+        "domain": "backstage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more.md",
+      "title": "Everything you need to know about Diablo 4: Release date, trailers and more",
+      "excerpt": "Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like. The next game in Blizzard's mega-popular franchise was unveiled a good while ago, and its release is drawing ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-27-everything-you-need-to-know-about-diablo-4-release-date-trailers-and-more/index.json",
+      "webUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
+      "originalUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/149976-games-feature-diablo-4-release-date-formats-screens-trailers-deals-and-all-you-need-to-know-image1-ezipok3a0x.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
+      "publishedDateTime": "2021-07-27T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games.md",
+      "title": "What should Diablo 4 preserve from previous Diablo games?",
+      "excerpt": "If I were making my dream Diablo game, I know it would bring back the original trio of classes from the original Diablo and update them for a modern audien ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-15-what-should-diablo-4-preserve-from-previous-diablo-games/index.json",
+      "webUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
+      "originalUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/05/Baal-Header-Diablo.png",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2021/07/15/diablo-4-preserve-previous-diablo-games/amp/",
+      "publishedDateTime": "2021-07-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-diablo-4-latest-classes-revealed.md",
+      "title": "Diablo 4: Latest Classes Revealed",
+      "excerpt": "Many gaming fans are excited for the release of the highly anticipated game Diablo 4 and we have all the information around the classes that will be in the game. The Diablo franchise has been a huge ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-12-diablo-4-latest-classes-revealed/index.json",
+      "webUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
+      "originalUrl": "https://www.msn.com/en-gb/entertainment/movies/diablo-4-latest-classes-have-been-revealed/ar-AAM3E0G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAM3E0z.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T23:14:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GiveMeSport on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Girls react on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "Reaction video on Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 --------------------------------------------------------------------------------------- Original ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-07-07-girls-react-on-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=5NNOMBHyTHQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5NNOMBHyTHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5NNOMBHyTHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T06:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "1.1 TWINS REACTIONS",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs.md",
+      "title": "Diablo 4 interview: “Diablo is the apex of dark fantasy in ARPGs”",
+      "excerpt": "Diablo is Blizzard’s darkest series. In the world of Sanctuary, humanity desperately etches out an existence for itself, harangued by demonic invasions and the will of angels. There’s a lot of death, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-05-diablo-4-interview-diablo-is-the-apex-of-dark-fantasy-in-arpgs/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/07/diablo-4-artwork-barbarian-900x506.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/artwork-interview-john-mueller?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/artwork-interview-john-mueller?amp",
+      "publishedDateTime": "2021-07-05T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-diablo-4-will-offer-full-character-appearance-customization.md",
+      "title": "Diablo 4 will offer full character appearance customization",
+      "excerpt": "In a first for the series, Diablo 4 will finally be doing away with pre-established character pre-sets. “Diablo IV offers players more customization options than ever,” Blizzard said in the most ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-02-diablo-4-will-offer-full-character-appearance-customization/index.json",
+      "webUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
+      "originalUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://clutchpoints.com/wp-content/uploads/2021/07/Diablo-4-will-offer-full-character-appearance-customization-1024x574.jpg",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://clutchpoints.com/diablo-4-full-character-appearance-customization/amp/",
+      "cdnAmpWebUrl": "https://clutchpoints-com.cdn.ampproject.org/c/s/clutchpoints.com/diablo-4-full-character-appearance-customization/amp/",
+      "publishedDateTime": "2021-07-02T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClutchPoints",
+        "domain": "clutchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-diablo-4-everything-we-know-about-blizzards-sequel.md",
       "title": "Diablo 4: Everything we know about Blizzard's sequel",
       "excerpt": "Diablo 4 is still a ways away, but thanks to Blizzard's quarterly updates, we've already seen a good deal of gameplay, art, and developer insights painting a fairly in-depth picture of what to expect.",
@@ -310,808 +1102,6 @@
       "provider": {
         "name": "International Business Times",
         "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes.md",
-      "title": "Diablo 4 Quarterly Update Unleashes New Character Art And Footage, Including Rogue And Barbarian Classes",
-      "excerpt": "The latest Diablo 4 quarterly update is here, with fresh character art and footage spanning multiple classes including Rogues and Barbarians.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-07-01-diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/index.json",
-      "webUrl": "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/",
-      "originalUrl": "https://www.psu.com/news/diablo-4-quarterly-update-unleashes-new-character-art-and-footage-including-rogue-and-barbarian-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.psu.com/wp/wp-content/uploads/2021/07/Diablo4-1.jpg",
-          "width": 749,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Play Station Universe",
-        "domain": "psu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-iv-quarterly-updatejune-2021.md",
-      "title": "Diablo IV Quarterly Update—June 2021",
-      "excerpt": "Explore the details of character design, customization, and monster design with some of the artists behind Diablo IV.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-iv-quarterly-updatejune-2021/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23665024/diablo-iv-quarterly-update-june-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/9b/9BHTMUWVYC091624657990256.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face.md",
-      "title": "Diablo 4 will actually let you customise your character's face",
-      "excerpt": "Blizzard's newest quarterly update on Diablo 4 development digs into how detailed you'll be able to customise your character from facial hair to eye color.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-actually-let-you-customise-your-characters-face/index.json",
-      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/diablo-iv-rogue-trailer.jpg/BROK/resize/660%3E/format/jpg/quality/70/diablo-iv-rogue-trailer.jpg",
-          "width": 660,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "cdnAmpWebUrl": "https://www-rockpapershotgun-com.cdn.ampproject.org/c/s/www.rockpapershotgun.com/amp/diablo-4-will-have-more-character-customization-than-any-other-diablo-game",
-      "publishedDateTime": "2021-06-30T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock, Paper, Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles.md",
-      "title": "Diablo 4’s new gear dye system produces some gorgeous styles",
-      "excerpt": "There’s plenty to be excited about if you’re into fiddling with your character’s look in Diablo 4. As we’ve reported, character customisation in this entry in the RPG game series is deeper than it’s ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4s-new-gear-dye-system-produces-some-gorgeous-styles/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/dye-system",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/dye-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/06/diablo-4-fashion-rogues-580x326.jpg",
-          "width": 580,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/dye-system?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/dye-system?amp",
-      "publishedDateTime": "2021-06-30T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics.md",
-      "title": "New 'Dye' System Revealed for Diablo 4 Cosmetics",
-      "excerpt": "Diablo 4 cosmetics will include a new dye system that lets players customize their armor and it may be one of the game's cosmetic microtransactions.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-new-dye-system-revealed-for-diablo-4-cosmetics/index.json",
-      "webUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
-      "originalUrl": "https://techraptor.net/gaming/news/diablo-4-cosmetics-will-include",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2021-06/Diablo%204%20Cosmetics%20Microtransactions%20cover.jpg?itok=aH3Be484",
-          "width": 852,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRaptor",
-        "domain": "techraptor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism.md",
-      "title": "Diablo 4's Art Direction Emphasizes Hand-Crafted Details, Plenty Of Customization, And Just Enough Realism",
-      "excerpt": "The Diablo IV art team breaks down the grim hand-crafted style that is being used to make Blizzard's return to its RPG series look grim and memorable.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-art-direction-emphasizes-hand-crafted-details-plenty-of-customization-and-just-enough-realism/1100-6493411/",
-      "publishedDateTime": "2021-06-30T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4s-character-creator-makes-it-the-most-inclusive-title-in-the-series.md",
-      "title": "Diablo 4’s character creator makes it “the most inclusive” title in the series",
-      "excerpt": "With a character creator that includes a broad spectrum of body types, Blizzard is hoping everyone feels represented in Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4s-character-creator-makes-it-the-most-inclusive-title-in-the-series/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/character-creator-inclusivity",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/character-creator-inclusivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2021/06/diablo-4-rogue-faces-740x416.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/diablo-4/character-creator-inclusivity?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/diablo-4/character-creator-inclusivity?amp",
-      "publishedDateTime": "2021-06-30T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-diablo-4-will-feature-fully-customisable-characters-and-armor.md",
-      "title": "Diablo 4 Will Feature Fully Customisable Characters and Armor",
-      "excerpt": "Diablo 4 will feature fully customisable player characters, as well as a new dyes system and in-engine cinematics.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-30-diablo-4-will-feature-fully-customisable-characters-and-armor/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-character-customisation-art",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-character-customisation-art",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-my-girlfriend-reacts-to-diablo-4-official-announcement-cinematic-trailer-for-the-first-time.md",
-      "title": "My girlfriend reacts to Diablo 4 - Official Announcement Cinematic Trailer for the FIRST time",
-      "excerpt": "In today's episode of 'My girlfriend reacts: Game Trailer Edition' we take a look at Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Watch as ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-23-my-girlfriend-reacts-to-diablo-4-official-announcement-cinematic-trailer-for-the-first-time/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-06-23-my-girlfriend-reacts-to-diablo-4-official-announcement-cinematic-trailer-for-the-first-time/",
-      "originalUrl": "https://youtube.com/watch?v=X4l3ndD57L4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X4l3ndD57L4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X4l3ndD57L4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T05:45:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barry Walts",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dd-tristram-map.md",
-      "title": "Can't wait for Diablo 4? Get your fix with this tabletop D&D Tristram map",
-      "excerpt": "You’ve delved deep into the dungeons of Tristram before, but if the wait for Diablo 4 and Diablo 2: Resurrected is proving too hellish, why not bring the hack-and-slash action to your tabletop?",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-09-cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dd-tristram-map/index.json",
-      "webUrl": "https://www.techradar.com/au/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "originalUrl": "https://www.techradar.com/au/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DPtEbhxXkjsKYUdcKCnLyS-480-80.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/cant-wait-for-diablo-4-get-your-fix-with-this-tabletop-dandd-tristram-map",
-      "publishedDateTime": "2021-06-08T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "Diablo 4 Official Announcement Cinematic Trailer Reaction",
-      "excerpt": "We are finally getting to a Diablo trailer. Starting with Diablo 4 as it's the most requested of the franchise. Normally we do a lights out, in the dark reaction for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-06-01-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=LiA4zCjknh8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LiA4zCjknh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LiA4zCjknh8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Definitely Not Definitive",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel.md",
-      "title": "Diablo 4: Everything we know so far about Blizzard's sequel",
-      "excerpt": "Diablo 4 isn't coming for at least another year, but we've already seen a good deal of gameplay, art, and insights into Blizzard's plans for the long-awaited sequel. Thanks to detailed quarterly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-06-01-diablo-4-everything-we-know-so-far-about-blizzards-sequel/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-everything-we-know-so-far-about-blizzards-sequel/ar-AAKCbIF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bX0xl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T09:56:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem.md",
-      "title": "Why Diablo 4 and Overwatch 2 Won’t Fix Blizzard’s Biggest Problem",
-      "excerpt": "While some gamers have spent the last few years speculating that Blizzard’s string of public problems (which includes layoffs, botched remasters, delays, employee departures, and a series of PR ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-why-diablo-4-and-overwatch-2-wont-fix-blizzards-biggest-problem/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2020/02/diablo-4-updates.jpg?fit=1547%2C877",
-          "width": 1547,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-release-blizzard-problems-trouble/?amp",
-      "publishedDateTime": "2021-05-24T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects.md",
-      "title": "Diablo 4 and Overwatch 2 Are Not Blizzard's Only Projects",
-      "excerpt": "One of the employees of Blizzard Entertainment - Ion Hazzikostas, i.e. the director of WoW - admitted in a press interview that apart from Diablo 4 and Overwatch 2, the aforementioned studio is also ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-24-diablo-4-and-overwatch-2-are-not-blizzards-only-projects/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
-      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-and-overwatch-2-are-not-blizzards-only-projects/z83302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gracza.pl/i_gp/h/22/359540992.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=13058",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=13058",
-      "publishedDateTime": "2021-05-23T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on.md",
-      "title": "Diablo 4 and Overwatch 2 Aren’t the Only Games Blizzard is Working on",
-      "excerpt": "I think Blizzard has long development cycles. The games that we make are not games that are produced and turned around quickly in a year or two. People have seen what’s in the works with Diablo 4, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-23-diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
-      "originalUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-and-overwatch-2-arent-the-only-games-blizzard-is-working-on/amp",
-      "publishedDateTime": "2021-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together.md",
-      "title": "Report: ‘Messed Up Planning’ Means ‘Overwatch 2’ And ‘Diablo 4’ May Release Together",
-      "excerpt": "Diablo 4 and Overwatch 2 are coming, but if they launch together, that could mean another massive gap for Blizzard afterward.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-22-report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601d5fd78f72145114821853%2F0x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/05/22/report-messed-up-planning-means-overwatch-2-and-diablo-4-may-release-together/amp/",
-      "publishedDateTime": "2021-05-22T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-diablo-4-build-uploaded-to-psn-ahead-of-potential-closed-alpha.md",
-      "title": "Diablo 4 Build Uploaded To PSN Ahead Of Potential Closed Alpha",
-      "excerpt": "Blizzard Entertainment appears to be preparing Diablo 4 for another round of closed alpha testing in the coming weeks. Earlier today, publisher Activision was spotted to have uploaded a new game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-18-diablo-4-build-uploaded-to-psn-ahead-of-potential-closed-alpha/index.json",
-      "webUrl": "https://segmentnext.com/2021/05/18/diablo-4-psn-alpha/",
-      "originalUrl": "https://segmentnext.com/2021/05/18/diablo-4-psn-alpha/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/04/Diablo-4-Barbarian-Dual-Wield.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2021/05/18/diablo-4-psn-alpha/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/05/18/diablo-4-psn-alpha/amp/",
-      "publishedDateTime": "2021-05-18T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-diablo-4-in-playstation-database-tests-may-be-approaching.md",
-      "title": "Diablo 4 in PlayStation Database; Tests May be Approaching",
-      "excerpt": "A mysterious game has appeared in the PlayStation database, which is most likely an early version of Diablo 4. It looks like the developers from Blizzard Entertainment will be testing their game on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-05-18-diablo-4-in-playstation-database-tests-may-be-approaching/index.json",
-      "webUrl": "https://www.gamepressure.com/newsroom/diablo-4-in-playstation-database-tests-may-be-approaching/z832c0",
-      "originalUrl": "https://www.gamepressure.com/newsroom/diablo-4-in-playstation-database-tests-may-be-approaching/z832c0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamepressure.com/gallery/html/news/516903281.jpg",
-          "width": 592,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=12992",
-      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=12992",
-      "publishedDateTime": "2021-05-17T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "XCOM 2 Game Guide",
-        "domain": "gamepressure.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,798 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-01-diablo-4-will-run-fine-on-a-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280.md",
+      "title": "Diablo 4 will run fine on a ten-year old GeForce GTX 660 or AMD Radeon R9 280",
+      "excerpt": "GPU hardware from a decade ago is all you need to run Diablo 4 in minimum spec, which is some impressive optimization on behalf of Blizzard.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-will-run-fine-on-a-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280/index.json",
+      "webUrl": "https://www.tweaktown.com/news/90543/diablo-4-will-run-fine-on-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/90543/diablo-4-will-run-fine-on-ten-year-old-geforce-gtx-660-or-amd-radeon-r9-280/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/0/90543_01_diablo-4-only-needs-geforce-gtx-970-or-amd-radeon-rx-370-to-run-well.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-diablo-4-official-beta-early-access-gameplay-trailer.md",
+      "title": "Diablo 4 - Official Beta Early Access Gameplay Trailer",
+      "excerpt": "Check out the latest trailer for Diablo IV. Get ready to descend into Hell early March 17 – 19 during the Diablo IV Beta Early Access weekend.Diablo IV is available on June 6, 2023.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-official-beta-early-access-gameplay-trailer/index.json",
+      "webUrl": "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer",
+      "originalUrl": "https://www.ign.com/videos/diablo-4-official-beta-early-access-gameplay-trailer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/03/01/diablo4betaearlyaccessgameplaytrailer-ign-blogroll-1677696974394.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary.md",
+      "title": "A Guided Tour Through The Five Regions Of Diablo 4's Sanctuary",
+      "excerpt": "Here are snapshots of Kehjistan, Scosglen, Fractured Peaks, Dry Steppes, and Hawezar and information on what to expect in each.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary/index.json",
+      "webUrl": "https://www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary",
+      "originalUrl": "https://www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/02/28/7c1c912a/d4_gulraan_dry_steppes_art.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary?amp",
+      "cdnAmpWebUrl": "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2023/03/01/a-guided-tour-through-the-five-regions-of-diablo-4s-sanctuary?amp",
+      "publishedDateTime": "2023-02-28T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameInformer",
+        "domain": "gameinformer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-diablo-4-system-requirements.md",
+      "title": "Diablo 4 system requirements",
+      "excerpt": "Check the latest Diablo 4 minimum requirements and recommended specs, plus download file size, to see if your PC gaming setup can run the RPG game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-01-diablo-4-system-requirements/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/system-requirements",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/system-requirements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-system-requirements.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-watch-the-latest-diablo-iv-developer-update-livestream.md",
+      "title": "Watch the Latest Diablo IV Developer Update Livestream",
+      "excerpt": "Come catch up on what you’ve missed. Join our developers as they dig into details about our upcoming Open Beta, Strongholds, and the game’s Armor system.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-watch-the-latest-diablo-iv-developer-update-livestream/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23916446/watch-the-latest-diablo-iv-developer-update-livestream",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23916446/watch-the-latest-diablo-iv-developer-update-livestream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/u7/U7QIQLJTM7M31677194334606.png",
+          "width": 880,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T13:13:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diablo-4s-open-beta-pc-specs-are-very-undemanding.md",
+      "title": "Diablo 4's open beta PC specs are very undemanding",
+      "excerpt": "Blizzard has confirmed Diablo 4's open beta PC system requirements, and as long as you own a gaming PC built in the last five years or so, you're probably good to go. The PC specs were revealed during ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4s-open-beta-pc-specs-are-very-undemanding/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-open-beta-pc-specs-are-very-undemanding/ar-AA184fow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T07:49:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack.md",
+      "title": "Diablo 4 beta rewards include a wildly adorable, completely impractical baby wolf backpack",
+      "excerpt": "Diablo 4's first open beta is happening next month and among the rewards you can earn is a baby wolf backpack that's so cute and impractical that I just can't help but want it. Whether you're playing ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/index.json",
+      "webUrl": "https://www.msn.com/en-gb/money/other/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/ar-AA184fiK",
+      "originalUrl": "https://www.msn.com/en-gb/money/other/diablo-4-beta-rewards-include-a-wildly-adorable-completely-impractical-baby-wolf-backpack/ar-AA184fiK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA184uCI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T07:06:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-how-to-play-diablo-4s-open-beta.md",
+      "title": "How to play Diablo 4’s Open Beta",
+      "excerpt": "Diablo 4 will run two Open Beta periods in March 2023 on PlayStation 4, PlayStation 5, Windows PC, Xbox One, and Xbox Series S and X: The first is for anyone who pre-ordered the game. That Early ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-how-to-play-diablo-4s-open-beta/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TZBk",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/how-to-play-diablo-4-s-open-beta/ar-AA17TZBk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17TSz3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=256",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T06:51:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diablo-4-pc-minimum-and-recommended-system-requirements-confirmed.md",
+      "title": "Diablo 4 PC Minimum and Recommended System Requirements Confirmed",
+      "excerpt": "With the upcoming Diablo 4 open beta fast approaching, Blizzard reveals to fans the minimum and recommended PC requirements.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4-pc-minimum-and-recommended-system-requirements-confirmed/ar-AA183xTb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA183Cs8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T06:06:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diablo-4-beta-start-dates-and-times.md",
+      "title": "Diablo 4 beta start dates and times",
+      "excerpt": "After many, many years of waiting, Diablo 4 will finally be playable soon. The first of two Diablo 4 betas starts in a little over two weeks. The Diablo 4 early access and open beta periods take place over two weekends.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-beta-start-dates-and-times/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-start-dates-and-times/ar-AA1841Kq",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-start-dates-and-times/ar-AA1841Kq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1847ME.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=530&y=256",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T05:11:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diablo-4-wont-have-huge-damage-numbers-praise-lilith.md",
+      "title": "Diablo 4 won’t have huge damage numbers, praise Lilith",
+      "excerpt": "Diablo 3's huge damage numbers left the RPG game's UI feeling horribly cluttered, but Blizzard is changing that coming into Diablo 4 with armoured enemies.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-wont-have-huge-damage-numbers-praise-lilith/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/damage-numbers",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/damage-numbers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-monster-armour.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diablo-4-open-beta-minimum-pc-requirements-revealed.md",
+      "title": "Diablo 4 Open Beta Minimum PC Requirements Revealed",
+      "excerpt": "Diablo IV's open beta minimum and recommended PC specifications have been revealed by Blizzard as part of a beta-focused livestream. Note that these are the beta system requirements and not for the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-diablo-4-open-beta-minimum-pc-requirements-revealed/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4105982-diablo4openbetaminspecs.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-minimum-pc-requirements-revealed/1100-6511915/",
+      "publishedDateTime": "2023-02-28T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-a-brand-new-diablo-4-feature-is-here-meet-the-strongholds.md",
+      "title": "A brand new Diablo 4 feature is here, meet the strongholds",
+      "excerpt": "Blizzard has unveiled the Diablo 4 stronghold system, an all-new feature that will change the very landscape of the action RPG game as you progress.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-28-a-brand-new-diablo-4-feature-is-here-meet-the-strongholds/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/strongholds?driver=mgg",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/strongholds?driver=mgg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-strongholds.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-ready-to-wear-diablo-4-clothes-at-milan-fashion-week-seem-unwearable-have-nothing-to-do-with-diablo-4.md",
+      "title": "'Ready-to-wear' Diablo 4 clothes at Milan Fashion Week seem unwearable, have nothing to do with Diablo 4",
+      "excerpt": "The clothes were designed by Danish fashion house Han Kjøbenhavn, and centred around a theme of \"hell as a beautiful place\". The brand's creative director, Jannik Wikkelsø Davidsen, said the match-up ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-27-ready-to-wear-diablo-4-clothes-at-milan-fashion-week-seem-unwearable-have-nothing-to-do-with-diablo-4/index.json",
+      "webUrl": "https://www.pcgamer.com/ready-to-wear-diablo-4-clothes-at-milan-fashion-week-seem-unwearable-have-nothing-to-do-with-diablo-4/",
+      "originalUrl": "https://www.pcgamer.com/ready-to-wear-diablo-4-clothes-at-milan-fashion-week-seem-unwearable-have-nothing-to-do-with-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6fokTLjX6FJuetNZYMmcy3-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-diablo-4-meets-milan-fashion-week-in-bizarre-lilith-collab.md",
+      "title": "Diablo 4 meets Milan Fashion Week in bizarre Lilith collab",
+      "excerpt": "In a surprising Diablo 4 collab, Blizzard has teamed up with one of Milan Fashion Week's most prestigious designers to bring the RPG game's antagonist to life.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-27-diablo-4-meets-milan-fashion-week-in-bizarre-lilith-collab/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/milan-fashion-week-lilith-collab",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/milan-fashion-week-lilith-collab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/Diablo-4-milan-fashion-week-lilith.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series.md",
+      "title": "Check out the World of Sanctuary in this new Diablo 4 BTS video series",
+      "excerpt": "Blizzard has published the first of its \"Inside the Game\" featurettes, a new video series to get you into the mood for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-26-check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series/index.json",
+      "webUrl": "https://www.eurogamer.net/check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series",
+      "originalUrl": "https://www.eurogamer.net/check-out-the-world-of-sanctuary-in-this-new-diablo-4-bts-video-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/diablo_header.jpg/BROK/thumbnail/1200x630/diablo_header.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-diablo-4-beta-is-coming-soon-here-is-what-was-announced.md",
+      "title": "Diablo 4 Beta Is Coming Soon! Here is What Was Announced",
+      "excerpt": "Diablo 4 beta is coming soon and we have two separate weekends to play, one for general public and another for pre-order only.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-25-diablo-4-beta-is-coming-soon-here-is-what-was-announced/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-25-diablo-4-beta-is-coming-soon-here-is-what-was-announced/",
+      "originalUrl": "https://youtube.com/watch?v=GWRLyQjZqUo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GWRLyQjZqUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T07:31:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulkan",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-please-resist-the-urge-to-pre-order-diablo-4.md",
+      "title": "Please, Resist the Urge to Pre-Order Diablo 4",
+      "excerpt": "Blizzard recently announced that Diablo 4 is going to have two “open betas” next month. The first will be from March 17 to March 19, and the second will be from March 24 to March 26. Everyone will who ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-25-please-resist-the-urge-to-pre-order-diablo-4/index.json",
+      "webUrl": "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/",
+      "originalUrl": "https://hardcoregamer.com/features/articles/opinion/please-resist-the-urge-to-pre-order-diablo-4/437904/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hardcore-gamer.s3.amazonaws.com/uploads/2023/02/Diablo-Immortal-Barbarian.jpg",
+          "width": 698,
+          "height": 289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hardcore Gamer",
+        "domain": "hardcoregamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-get-access-to-an-early-beta-window-when-you-preorder-diablo-4.md",
       "title": "Get access to an early beta window when you preorder 'Diablo 4'",
       "excerpt": "Diablo 4. The highly anticipated game comes out this summer, on June 6, 2023, but preorders have already launched—and you can get access to the open beta a week early if you preorder.",
@@ -283,807 +1075,6 @@
       "provider": {
         "name": "VideoGamer.com",
         "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-diablo-4-beta-announcement-d2rd3-season-discussion-and-more-vidcastpodcast-episode-20.md",
-      "title": "Diablo 4 beta announcement, D2R/D3 Season discussion, and more! - Vidcast/Podcast Episode 20",
-      "excerpt": "In this episode, the team discusses the upcoming Diablo 4 Beta, working from home, those statues, the latest Seasons of Diablo 3 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-22-diablo-4-beta-announcement-d2rd3-season-discussion-and-more-vidcastpodcast-episode-20/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-22-diablo-4-beta-announcement-d2rd3-season-discussion-and-more-vidcastpodcast-episode-20/",
-      "originalUrl": "https://youtube.com/watch?v=nBD14rgDdw8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nBD14rgDdw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T07:44:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PureDMG",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-diablo-4-gameplay-confirms-the-one-thing-that-every-videogame-needs.md",
-      "title": "Diablo 4 gameplay confirms the one thing that every videogame needs",
-      "excerpt": "The new Diablo 4 gameplay footage gives us even more hope for the upcoming Blizzard RPG game. The world of Sanctuary looks fantastic. The dungeons are rich and varied. There are some terrifying new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-22-diablo-4-gameplay-confirms-the-one-thing-that-every-videogame-needs/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/gameplay-sanctuary-blizzard-rpg-game",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/gameplay-sanctuary-blizzard-rpg-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-gameplay-blizzard-rpg-game-sanctuary.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T21:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-sanctuarys-renegade-archangel-returnspre-order-the-diablo-iv-inarius-statue-now.md",
-      "title": "Sanctuary’s renegade archangel returns—Pre-order the Diablo IV Inarius statue now",
-      "excerpt": "Commemorate his divine quest with this all-new collectible.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-22-sanctuarys-renegade-archangel-returnspre-order-the-diablo-iv-inarius-statue-now/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23917963/sanctuary-s-renegade-archangel-returns-pre-order-the-diablo-iv-inarius-statue-now",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23917963/sanctuary-s-renegade-archangel-returns-pre-order-the-diablo-iv-inarius-statue-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/5w/5WF0J7LXV8FL1677024846952.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-diablo-iv-inside-the-game-the-world-of-sanctuary.md",
-      "title": "Diablo IV Inside the Game: The World of Sanctuary",
-      "excerpt": "Join members of the Diablo IV development team as they take you on a tour of Sanctuary’s distinct Zones and danger-filled dungeons.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-21-diablo-iv-inside-the-game-the-world-of-sanctuary/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23916443/diablo-iv-inside-the-game-the-world-of-sanctuary",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23916443/diablo-iv-inside-the-game-the-world-of-sanctuary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/4i/4IUIOPJQOYO01676668909133.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc.md",
-      "title": "This huge Diablo 4 statue costs as much as a good gaming PC",
-      "excerpt": "Are you a big fan of videogame swag but find that $11,600 Final Fantasy statue just a little out of reach? Blizzard is offering what may be a solid second choice in its gear store: A sculpture of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-21-this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc/index.json",
-      "webUrl": "https://www.msn.com/en-gb/foodanddrink/other/this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc/ar-AA17MqSc",
-      "originalUrl": "https://www.msn.com/en-gb/foodanddrink/other/this-huge-diablo-4-statue-costs-as-much-as-a-good-gaming-pc/ar-AA17MqSc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17MkAx.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T07:11:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-diablo-4-video-breaks-down-its-five-zones-and-redesigned-enemies.md",
-      "title": "Diablo 4 video breaks down its five zones and redesigned enemies",
-      "excerpt": "A new Diablo 4 video gives us a tour of the upcoming sequel's five distinct zones, shares a deliciously macabre enemy redesign, and confirms it abides by the official code of the internet: you can pet ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-21-diablo-4-video-breaks-down-its-five-zones-and-redesigned-enemies/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-video-breaks-down-its-five-zones-and-redesigned-enemies/ar-AA17MlGo",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-video-breaks-down-its-five-zones-and-redesigned-enemies/ar-AA17MlGo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17MgGJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=539&y=228",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T06:55:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-diablo-4-open-beta-dates-early-access-and-everything-we-know.md",
-      "title": "Diablo 4 Open Beta Dates, Early Access, And Everything We Know",
-      "excerpt": "GameSpot may get a commission from retail offers. Diablo IV is still a few months away from unleashing hell on PC and console, but for fans who are eager to get an early taste of what to expect, an ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-21-diablo-4-open-beta-dates-early-access-and-everything-we-know/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4072834-preview_diablo4_v2_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-open-beta-dates-early-access-and-everything-we-know/1100-6511672/",
-      "publishedDateTime": "2023-02-21T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-when-does-diablo-4-open-beta-start.md",
-      "title": "When does Diablo 4 Open Beta start?",
-      "excerpt": "Dates for the Open Beta of Diablo 4. March 17-19 for players who have pre-ordered Diablo 4; March 24-26 for everyone else; What will I be able to do during the Diablo 4 Open Beta?",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-20-when-does-diablo-4-open-beta-start/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/other/when-does-diablo-4-open-beta-start/ar-AA17Iudg",
-      "originalUrl": "https://www.msn.com/en-us/news/other/when-does-diablo-4-open-beta-start/ar-AA17Iudg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17IKa7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=480&y=239",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-diablo-4-open-beta-starts-next-month.md",
-      "title": "Diablo 4 open beta starts next month",
-      "excerpt": "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-20-diablo-4-open-beta-starts-next-month/index.json",
-      "webUrl": "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/",
-      "originalUrl": "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/",
-      "publishedDateTime": "2023-02-19T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-lirik-diablo-4-open-beta-announcement-cinematic-the-invincible-trailer-and-other-news.md",
-      "title": "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news",
-      "excerpt": "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-lirik-diablo-4-open-beta-announcement-cinematic-the-invincible-trailer-and-other-news/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-19-lirik-diablo-4-open-beta-announcement-cinematic-the-invincible-trailer-and-other-news/",
-      "originalUrl": "https://youtube.com/watch?v=CJXqvGF6kQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CJXqvGF6kQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T12:04:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "waydong91",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-luxthos-reacts-to-diablo-4-announcement-cinematics-beta-dates.md",
-      "title": "Luxthos Reacts to Diablo 4 Announcement - Cinematics & Beta Dates",
-      "excerpt": "Diablo IV's Early Access Beta and Open Beta are coming soon. Will you play both? Join me live on http://www.twitch.tv/luxthos ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-luxthos-reacts-to-diablo-4-announcement-cinematics-beta-dates/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-19-luxthos-reacts-to-diablo-4-announcement-cinematics-beta-dates/",
-      "originalUrl": "https://youtube.com/watch?v=7bbbh_3ZeDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7bbbh_3ZeDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T09:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Luxthos",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-diablo-4-opening-cinematic-revealed-by-blizzard.md",
-      "title": "Diablo 4 Opening Cinematic Revealed by Blizzard",
-      "excerpt": "Prior to its launch later this year, Blizzard has now revealed the opening cinematic from Diablo 4. This weekend has already been a big one for the next entry in the Diablo series as Blizzard finally confirmed when the game's open beta would be taking pla",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-diablo-4-opening-cinematic-revealed-by-blizzard/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-d4-trailer-cinematic-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/14/24dbc2bd-70c3-4873-9606-81a5aa40e481/out-this-month.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-d4-trailer-cinematic-blizzard/",
-      "publishedDateTime": "2023-02-19T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-diablo-4-beta-dates-announcement.md",
-      "title": "Diablo 4 Beta Dates Announcement!",
-      "excerpt": "Diablo 4 Beta dates have officially been announced!! Link to the Blizzard article: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-diablo-4-beta-dates-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-02-19-diablo-4-beta-dates-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=zB43T38ew8o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zB43T38ew8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T20:34:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Curse",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-diablo-4s-beta-begins-in-march.md",
-      "title": "Diablo 4’s beta begins in March",
-      "excerpt": "Diablo 4‘s beta will begin in March, it’s been announced. Confirmed during IGN Fan Fest, Diablo 4’s director Joe Shely told IGN that the game’s beta will take place just a few months before its full release in June. Diablo 4’s beta will run from",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-19-diablo-4s-beta-begins-in-march/index.json",
-      "webUrl": "https://www.videogameschronicle.com/news/diablo-4s-beta-begins-in-march/",
-      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4s-beta-begins-in-march/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2023/02/Diablo-3.jpg",
-          "width": 959,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-your-guide-to-the-diablo-iv-open-beta.md",
-      "title": "Your Guide to the Diablo IV Open Beta",
-      "excerpt": "The Open Beta draws near! Pre-purchase Diablo IV and receive Early Access. Read on for more details.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-your-guide-to-the-diablo-iv-open-beta/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23916442/your-guide-to-the-diablo-iv-open-beta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 942,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/bu/BUFGGI7J1OM11676573306055.jpg",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-blizzard-reveals-pricey-diablo-4-statue-of-inarius.md",
-      "title": "Blizzard Reveals Pricey Diablo 4 Statue of Inarius",
-      "excerpt": "Blizzard reveals its next premium statue offering, which will be a very pricey Diablo 4 statue of the former archangel Inarius.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-blizzard-reveals-pricey-diablo-4-statue-of-inarius/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/blizzard-reveals-pricey-diablo-4-statue-of-inarius/ar-AA17EAbo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EUBf.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-diablo-4s-first-playtests-are-coming-in-just-a-few-weeks.md",
-      "title": "Diablo 4's first playtests are coming in just a few weeks",
-      "excerpt": "Pre-order customers will be able to play the beta a week ahead of schedule. The cutscene itself is full-on classic Diablo, even if it doesn't reveal much. I found it really reminiscent of the story FMVs from Diablo 2 with its presentation of a lone warrio",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-18-diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4s-first-playtests-are-coming-in-just-a-few-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4g3gDxfdLxPt86y8anBef5-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-will-diablo-4-be-cross-platform-answered.md",
-      "title": "Will Diablo 4 be cross-platform? – Answered",
-      "excerpt": "Blizzard's Diablo 4 has several multiplayer elements, leading many people to ask, \"will Diablo 4 be cross-platform?\" We have the answer!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-17-will-diablo-4-be-cross-platform-answered/index.json",
-      "webUrl": "https://www.pcinvasion.com/will-diablo-4-be-cross-platform-answered/",
-      "originalUrl": "https://www.pcinvasion.com/will-diablo-4-be-cross-platform-answered/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcinvasion.com/wp-content/uploads/2023/02/Will-Diablo-4-be-cross-platform-Answered-party.png?fit=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -24,73 +24,9 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 - Rogue Build Guide"
-    excerpt: "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ..."
-    publishedDateTime: 2023-03-21T14:33:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4 - Necromancer Leveling Build Guide"
-    excerpt: "The Diablo 4 Necromancer leveling build focuses primarily on area-of-effect (AoE) and additional survivability. Likewise, characters are capped at level 25 during the beta, so we only have a few picks ..."
-    publishedDateTime: 2023-03-26T13:03:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-leveling-build-guide/1100-6512712/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 147
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1816/18167535/4116671-diablo4necromancerbuildguidediablo4necromancerlevelingbuildguide-.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The best Diablo 4 Rogue build for solo play"
-    excerpt: "The best Diablo 4 Rogue build turns this squishy warrior into a deadly assassin. Rogues are flexible fighters with a broad range of skills. They lend themselves to deep specialization, but you can get ..."
-    publishedDateTime: 2023-03-24T11:20:00Z
-    webUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build"
-    ampWebUrl: "https://www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134753/diablo-4-rogue-build?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 107
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-rogue-build_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The best Diablo 4 Rogue builds"
-    excerpt: "The Rogue is one of several classes that will appear in Diablo 4, alongside series mainstays such as the Barbarian, Necromancer, and Druid. What the Rogue lacks in raw damage output, the class makes ..."
-    publishedDateTime: 2023-03-24T09:38:00Z
-    webUrl: "https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills"
-    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23650988/rogue-best-build-skills"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/zXyA11RaVNQiJvupI7zfhNqCyPk=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72110658/Diablo_IV_Rogue_Key_Art.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
+  - title: "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more"
     excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-    publishedDateTime: 2023-03-18T20:26:00Z
+    publishedDateTime: 2023-03-25T19:57:00Z
     webUrl: "https://www.windowscentral.com/gaming/diablo-4-best-builds"
     type: article
     provider:
@@ -98,35 +34,21 @@ related:
       domain: windowscentral.com
     quality: 104
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kR5SaZeN9kY3xhtLQEoQk7-1200-80.png"
+      - url: "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 beta best builds: Sorcerer, Rogue, and Barbarian"
-    excerpt: "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ..."
-    publishedDateTime: 2023-03-19T00:22:00Z
-    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-beta-best-builds-sorcerer-rogue-and-barbarian/ar-AA18OddO"
+  - title: "Diablo 4 Beta: Best Necromancer Build"
+    excerpt: "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ..."
+    publishedDateTime: 2023-03-25T20:47:00Z
+    webUrl: "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7"
     type: article
     provider:
-      name: Windows Central on MSN
-      domain: msn.com
-    quality: 104
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18NYja.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Beta: Best Rogue Build"
-    excerpt: "With only a handful of skills able to be unlocked in the beta period, it's still possible to have an overpowered rogue in Diablo 4."
-    publishedDateTime: 2023-03-20T02:13:20Z
-    webUrl: "https://www.msn.com/en-us/news/us/diablo-4-beta-best-rogue-build/ar-AA18Q5kg"
-    type: article
-    provider:
-      name: Game Rant on MSN
+      name: MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Q7Yu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
@@ -143,6 +65,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194yJC.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=559&y=150"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue"
+    excerpt: "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue."
+    publishedDateTime: 2023-03-26T18:07:00Z
+    webUrl: "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 75
+    images:
+      - url: "https://dotesports.com/wp-content/uploads/2023/03/diablo-necromancer.jpg?resize=768,432"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "Ebk2Zy+U0Ui7DQdZWjN9QEHOQ1I9gwXi6yBaA4ftV6e6VTQICiv1nwdt4uSPEjzLU5noltwuYEZ/R9YSd3dKHan8DDRAozjXgBbB0lWDePqp+OBLxirhmDgRtbf3AinkR2B4H0Y01AXZZn9eU1Yx4GMQmXvrnkAE2OT6YERAB/8IUZmnVbdFryBVc9UhuIhA4AJfEmai3AOB0M/6TZ6PA7zhKiIV3qgotiVQbrll9d9rrgiDHK1MXARoVc3l74WxCwCImCRJfT9NwajLtSHhQGKL9JoJw2/N+dDg+9HISkw09D224HxVKnprfpI4tk6agLwYJXi15D3hnJ+mxi21YHxVAkWIT8dQf6vVFpKD/IA=;vHg3B8tH2JWxC97jgGh3Ug=="

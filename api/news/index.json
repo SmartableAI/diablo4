@@ -2,6 +2,243 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-13-diablo-4s-respec-cost-isnt-changing-before-launch.md",
+      "title": "Diablo 4's respec cost isn't changing before launch",
+      "excerpt": "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director Joseph Piepiora said in a group interview with GamesRada",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-diablo-4s-respec-cost-isnt-changing-before-launch/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4s-respec-cost-isnt-changing-before-launch/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4s-respec-cost-isnt-changing-before-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Dj8RBLHXEERd9eGVRAWMiX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer.md",
+      "title": "New Diablo 4 Trailer Is All About the Sorcerer",
+      "excerpt": "Blizzard Entertainment released a new trailer of its upcoming RPG Diablo 4, focusing on one of the playable classes available in the game, the sorcerer.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer/index.json",
+      "webUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "originalUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2023-04/Diablo%204%20Sorcerer.jpg?itok=d6rpcEQ9",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRaptor",
+        "domain": "techraptor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-is-diablo-4-trading-big-expansions-for-seasonal-story-content-no.md",
+      "title": "Is ‘Diablo 4’ Trading Big Expansions For Seasonal Story Content? (No)",
+      "excerpt": "While we know that Diablo 4 is planning to be a live service and having seasons like Diablo 3 has for the past decade or so, things seem to be altering one of the core historical parts of the game, if recent interviews are indications of anything.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-12-is-diablo-4-trading-big-expansions-for-seasonal-story-content-no/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6414fd32008bcd0c557ffb6c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/amp/",
+      "publishedDateTime": "2023-04-11T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-big-new-announcements-for-diablo-4.md",
+      "title": "Big NEW Announcements for Diablo 4!",
+      "excerpt": "Watch LIVE https://www.twitch.tv/toyhouze Click for More   If you haven't been keeping up with Diablo 4 announcements, we're ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-07-big-new-announcements-for-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-07-big-new-announcements-for-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=tFC74hqB5r0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tFC74hqB5r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:00:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toyhouze",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-diablo-iv-inside-the-game-into-the-endgame.md",
+      "title": "Diablo IV Inside the Game: Into the Endgame",
+      "excerpt": "Join members of the Diablo IV development team as they pull back the curtain on the experiences waiting for you in the endgame.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-05-diablo-iv-inside-the-game-into-the-endgame/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/v9/V953OPV7CKRK1680311743200.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access.md",
       "title": "Diablo 4 Fans Are Railing Against The Concept Of Early Access",
       "excerpt": "Diablo 4 is scheduled to release across multiple platforms on June 6 with the promise of up to four days of early access to those who purchase the Deluxe or Ultimate editions, and that's not sitting ...",
@@ -31,48 +268,6 @@
       "provider": {
         "name": "DualShockers",
         "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-3-games-to-play-while-waiting-for-diablo-4.md",
-      "title": "3 games to play while waiting for Diablo 4",
-      "excerpt": "With the recent beta closed, here are the best games to scratch that dungeon-crawler itch Last week’s Diablo 4 beta has come and gone, and unless Blizzard decides (last-minute) to host another before ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-01-3-games-to-play-while-waiting-for-diablo-4/index.json",
-      "webUrl": "https://www.polygon.com/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
-      "originalUrl": "https://www.polygon.com/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/VL2BaTsd8ZJdSA_epK-_oTWEfik=/0x0:1600x900/1400x933/filters:focal(647x147:903x403):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72137713/d4_hed_2.0.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.polygon.com/platform/amp/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
-      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile",
-      "publishedDateTime": "2023-03-31T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon",
-        "domain": "polygon.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -297,48 +492,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-31-world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio.md",
-      "title": "World boss Ashava dominates Diablo 4 beta with 10 million player kills, impressive kill-death ratio",
-      "excerpt": "The Diablo 4 beta has been the largest beta test in the game’s history, with nearly 2.6 million players reaching level 20 Diablo 4 beta testers were given a treat with the chance to go up against ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio/index.json",
-      "webUrl": "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/31/1600x900/ashava_1680259346487_1680259359011_1680259359011.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html",
-      "publishedDateTime": "2023-03-31T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-03-31-diablo-4s-pokemon-style-raid-battles-are-great.md",
       "title": "Diablo 4's Pokémon-style Raid Battles Are Great",
       "excerpt": "You can find CBR's continuing coverage of the Activision Blizzard allegations here. Diablo IV is in many ways a recall of the past entries in the Diablo series and a return to form in tone and ...",
@@ -474,21 +627,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-30-diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta.md",
-      "title": "Diablo 4? More like Diablo gore with these death stats from the beta",
-      "excerpt": "Developer Blizzard recently hosted the Diablo 4 Open Beta, giving players on Xbox, Windows PCs, and PlayStation systems a chance to play through the start of its campaign, level up to 25, and try out ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta/index.json",
-      "webUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta/ar-AA19hGaW",
-      "originalUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-more-like-diablo-gore-with-these-death-stats-from-the-beta/ar-AA19hGaW",
+      "path": "_news/2023-03-31-diablo-4-betas-world-boss-dominates-with-ten-million-player-kills.md",
+      "title": "Diablo 4 beta’s world boss dominates with ten million player kills",
+      "excerpt": "With the Diablo 4 beta coming to a close, Blizzard has shared some of the biggest numbers from the free test period, and world boss Ashava tops the rankings in style. With nearly 62 million hours of ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4-betas-world-boss-dominates-with-ten-million-player-kills/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-stats",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-stats",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15MURK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=688&y=153",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-stats-world-boss-kills-ashava-deaths-butcher-blizzard.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -498,11 +651,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T16:59:00-07:00",
+      "publishedDateTime": "2023-03-30T20:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -541,6 +694,48 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-30T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says.md",
+      "title": "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says",
+      "excerpt": "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/index.json",
+      "webUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK",
+      "originalUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T12:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
@@ -608,7 +803,7 @@
       "originalUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -899,174 +1094,6 @@
       "provider": {
         "name": "GamesRadar+",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-players-call-for-gem-storage-quality-of-life-improvement.md",
-      "title": "Diablo 4 Players Call for Gem Storage Quality of Life Improvement",
-      "excerpt": "Diablo 4 players are asking Blizzard to change the game's inventory system to make Gems easier to store. While the game isn't set for release until June 6, Blizzard launched Diablo 4's open beta on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-players-call-for-gem-storage-quality-of-life-improvement/index.json",
-      "webUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-players-call-for-gem-storage-quality-of-life-improvement/ar-AA198R9t",
-      "originalUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-players-call-for-gem-storage-quality-of-life-improvement/ar-AA198R9t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198vZ5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=375&y=173",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-games-map.md",
-      "title": "Diablo 4 Image Shows Beta Area is a Tiny Part of the Full Game's Map",
-      "excerpt": "An image depicting the full size of upcoming action-RPG Diablo 4's map is making rounds online and fans seem to be surprised by just how small the area that they played through in the open beta was.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-games-map/index.json",
-      "webUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7",
-      "originalUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199y9q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice.md",
-      "title": "Diablo 4 dev explains the real meaning behind that prologue dialogue choice",
-      "excerpt": "That dialogue choice you're given in the Diablo 4 beta's prologue isn't meaningless, even if your decision doesn't impact the story at all. Before we go any further, here's a spoiler warning for the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice/ar-AA199kl2",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice/ar-AA199kl2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199mzd.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=668&y=192",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice.md",
-      "title": "Diablo 4 quest designer explains how they put the RP in RPG with one simple choice",
-      "excerpt": "An early Diablo 4 quest lets you pick what troubles you the most for a cleansing ritual. Your choice doesn't change how the story plays out, but the quest accomplishes two important goals early in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199nrn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=489&y=256",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

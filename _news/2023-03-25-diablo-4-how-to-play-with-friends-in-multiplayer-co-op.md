@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-pla
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Windows Central on MSN
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Diablo 4: How to play split-screen co-op and get bonus XP from parties"
-    excerpt: "Need to know how to play couch co-op in Diablo 4? Here is our guide on how to play split-screen co-op and how to get bonus XP while doing so. Diablo 4, the upcoming sequel to Blizzard’s much-beloved ..."
-    publishedDateTime: 2023-03-20T19:41:00Z
-    webUrl: "https://www.dexerto.com/diablo/diablo-4-how-to-play-split-screen-co-op-and-get-bonus-xp-from-parties-2091692/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 87
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/03/21/ezgif-3-e63555e632.jpg"
-        width: 728
-        height: 410
-        isCached: true
 
 secured: "ZSikn/DbGsJe+ulW7lDw/nPuhJML1eqZuzX4IpZch92/AhL++cC2527Uo4LEqMwHrytAUQ2NI493XPbXe2gsnq5Dej658uvCCVsWNA5pN8pSbJYpxFaEFMeS1O/0fgkxLs4vpNoN5RIrC9ECcn3pt4jCfcfNWr6MiGS8n+x0qiDAmwQznltVc/UbszSzjoeqXnV1+bXzf64K4Lgw/wKigXGYBMO7w/qzz11+cptJDP/992itqc2A6Am0y6zq3U8Bta0Pnbfwxngh2glHj39HS0wUcwDmFPkVNA+G6Vz1zsbnpGx+WkIbj9hDhnb2jP1Nd2RfGwYDOJ7LyAgUzDrLgBXPwH7CI7m6/i8wvX9P65E=;bYmq+lDhu5cloUrIvhQrPA=="
 ---
