@@ -2,6 +2,150 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-26-diablo-4-theory-claims-to-know-who-the-bloodied-wolf-really-is.md",
+      "title": "Diablo 4 Theory Claims to Know Who the Bloodied Wolf Really Is",
+      "excerpt": "Diablo 4 players theorize who the game's mysterious and threatening Bloodied Wolf character might be, as well as what their goals are.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-theory-claims-to-know-who-the-bloodied-wolf-really-is/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-theory-bloodied-wolf-mystery-character-identity-mephisto/",
+      "originalUrl": "https://gamerant.com/diablo-4-theory-bloodied-wolf-mystery-character-identity-mephisto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-bloodied-wolf-who-is-it.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-diablo-4-players-want-to-be-able-to-play-offline.md",
+      "title": "Diablo 4 Players Want To Be Able To Play Offline",
+      "excerpt": "Diablo 4 beta players are fed up with the always online requirements, calling on the devs to make it possible to play offline. This comes as the Diablo servers have struggled to keep up with demand, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-players-want-to-be-able-to-play-offline/index.json",
+      "webUrl": "https://www.msn.com/de-de/unterhaltung/other/diablo-4-players-want-to-be-able-to-play-offline/ar-AA195Lpt",
+      "originalUrl": "https://www.msn.com/de-de/unterhaltung/other/diablo-4-players-want-to-be-able-to-play-offline/ar-AA195Lpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195XQh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-diablo-4-necromancer-book-of-the-dead-minions-guide.md",
+      "title": "Diablo 4 - Necromancer Book Of The Dead Minions Guide",
+      "excerpt": "Learn about the different Book of the Dead minions that you can summon as the Necromancer in Diablo 4. The Necromancer is one of the most powerful classes in Diablo 4 due to its summoning capabilities ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-necromancer-book-of-the-dead-minions-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4116674-diablo4necromancerbookofthedeadguidebestundeadminions-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "publishedDateTime": "2023-03-26T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing.md",
       "title": "The one Diablo 4 tip I wish I knew before I started playing",
       "excerpt": "Recently, players finally got an opportunity to try out Diablo 4, the latest entry in Blizzard's iconic hack-and-slash franchise, thanks to the arrival of its beta. In it, both the Prologue and Act 1 ...",
@@ -955,141 +1099,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-diablo-4-level-up-fast-best-ways-to-earn-xp.md",
-      "title": "Diablo 4 Level Up Fast - Best Ways To Earn XP",
-      "excerpt": "GameSpot may get a commission from retail offers. The max level in the Diablo 4 beta is 25, which might not seem like too high of a cap at first glance. However, as you go through the game's prologue ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-level-up-fast-best-ways-to-earn-xp/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-level-up-fast-best-ways-to-earn-xp/1100-6512696/",
-      "publishedDateTime": "2023-03-24T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-diablo-4-queued-for-login-explained.md",
-      "title": "Diablo 4: Queued for Login Explained",
-      "excerpt": "Diablo 4 officially launches for consoles and PC in early June. With only a couple of weeks left for Blizzard to prepare for release, the company is underway a two-week beta test period for the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-queued-for-login-explained/index.json",
-      "webUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-queued-for-login-explained/ar-AA192OTQ",
-      "originalUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-queued-for-login-explained/ar-AA192OTQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA192Re3.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=390&y=628",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-how-to-fix-diablo-4-no-voice-in-cinematics-cutscenes-missing-sounds.md",
-      "title": "How to fix Diablo 4 No Voice in Cinematics & Cutscenes Missing Sounds",
-      "excerpt": "Here's how to fix the no voice in cinematics and cutscenes missing sound glitches in Diablo 4. How to fix Diablo 4 missing sounds and no voice bug Because Diablo IV is still in its Open Beta phase, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-how-to-fix-diablo-4-no-voice-in-cinematics-cutscenes-missing-sounds/index.json",
-      "webUrl": "https://www.msn.com/en-us/money/other/how-to-fix-diablo-4-no-voice-in-cinematics-cutscenes-missing-sounds/ar-AA192NRj",
-      "originalUrl": "https://www.msn.com/en-us/money/other/how-to-fix-diablo-4-no-voice-in-cinematics-cutscenes-missing-sounds/ar-AA192NRj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18CEq1.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

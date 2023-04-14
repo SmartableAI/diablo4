@@ -2,6 +2,141 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-16-diablo-4-beta-crossplay-multiplayer-explained.md",
+      "title": "Diablo 4 Beta: Crossplay Multiplayer Explained",
+      "excerpt": "Plus, there’s no guarantee a title will ship with crossplay intact. You don’t have to worry about that with Diablo IV. Diablo IV‘s beta will also support couch co-op for those who are able to take ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-beta-crossplay-multiplayer-explained/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-4-beta-crossplay-multiplayer-explained/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-4-beta-crossplay-multiplayer-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2023/03/Diablo-4-Rogue-2.jpg",
+          "width": 1919,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-diablo-4-gameplay-has-leaked-online.md",
+      "title": "Diablo 4 Gameplay Has Leaked Online",
+      "excerpt": "36 minutes of Diablo 4 gameplay leaks online less than 3 months away from launch, and a day before the beta early access opens. Diablo 4 gameplay has been leaked online. The video is fairly long, 36 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-gameplay-has-leaked-online/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-gameplay-leak/",
+      "originalUrl": "https://gamerant.com/diablo-4-gameplay-leak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-pre-alpha.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-is-there-permadeath-in-diablo-4.md",
+      "title": "Is there permadeath in Diablo 4?",
+      "excerpt": "Diablo IV looks to carry on the Diablo series while improving what makes it such a thrill. Players can expect fast-paced combat, rich lore, and an exciting world to explore. Unfortunately, they can ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-is-there-permadeath-in-diablo-4/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/is-there-permadeath-in-diablo-4/ar-AA18IFtn",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/is-there-permadeath-in-diablo-4/ar-AA18IFtn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA186Ke9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-how-to-download-diablo-4-beta-on-ps5-and-ps4.md",
       "title": "How to Download Diablo 4 Beta on PS5 and PS4",
       "excerpt": "Eager players will want to work out how to download the Diablo 4 beta on PS5 and PS4 ahead of the early access beta and open beta. Thankfully, it’s not too difficult, but it’s easy to get stuck.",
@@ -994,132 +1129,6 @@
       "provider": {
         "name": "Aero Orka",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-is-diablo-4-coming-to-ps4-and-xbox-one.md",
-      "title": "Is Diablo 4 coming to PS4 and Xbox One?",
-      "excerpt": "The latest game in the Diablo franchise, Diablo 4, is coming out soon on multiple platforms. However, fans are curious to see if Diablo 4 will come out on the PS4 and Xbox One. Here is a quick rundown of all the consoles that will allow Diablo’s intense",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-08-is-diablo-4-coming-to-ps4-and-xbox-one/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-coming-to-ps4-and-xbox-one/ar-AA18nVIm",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/is-diablo-4-coming-to-ps4-and-xbox-one/ar-AA18nVIm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ohsG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T08:50:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Upcomer on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-diablo-4-beta-release-date-and-open-beta-details.md",
-      "title": "Diablo 4 beta release date and open beta details",
-      "excerpt": "The Diablo 4 early access closed beta is March 17-19, starting at 9am PST / 12pm EST / 5pm GMT / 6PM CEST. The gameplay period will end at 12pm PST / 3pm EST / 8pm GMT / 9PM CEST on March 9.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-07-diablo-4-beta-release-date-and-open-beta-details/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-beta-release-date-header.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-the-insane-diablo-4-marketing-campaign-has-no-chill.md",
-      "title": "The insane Diablo 4 marketing campaign has no chill",
-      "excerpt": "Never to be outdone with their marketing campaigns, Blizzard has taken to painting an entire French Cathedral ceiling to promote the upcoming release of Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-06-the-insane-diablo-4-marketing-campaign-has-no-chill/index.json",
-      "webUrl": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/the-insane-diablo-4-marketing-campaign-has-no-chill/ar-AA18iqKA",
-      "originalUrl": "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/the-insane-diablo-4-marketing-campaign-has-no-chill/ar-AA18iqKA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18iHpX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T05:44:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
