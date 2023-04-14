@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Diablo 4's Dungeons Are Becoming Less Repetitive And Tedious Thanks To Beta Feedback"
-excerpt: "GameSpot may get a commission from retail offers. Diablo IV's dungeons will be undergoing some big changes in the final version of the game to be less tedious and repetitive, thanks to player feedback ..."
-publishedDateTime: 2023-04-14T11:14:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+title: "Diablo 4 To Revamp Objectives And Balance Classes Following Fan Feedback"
+excerpt: "Blizzard heeded the call of Diablo 4 fans. Taking all the feedback from the recent early access and open beta weekends to heart, the team has laid out a slew of tweaks and balance changes to be ..."
+publishedDateTime: 2023-04-14T13:29:00Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-to-revamp-objectives-and-balance-classes-following-fan-feedback/ar-AA19StBa"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-to-revamp-objectives-and-balance-classes-following-fan-feedback/ar-AA19StBa"
 type: article
-quality: 140
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4122220-11.jpg"
-    width: 640
-    height: 360
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SjId.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=488&y=182"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +37,22 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png"
         width: 880
         height: 400
+        isCached: true
+  - title: "Diablo 4's Dungeons Are Becoming Less Repetitive And Tedious Thanks To Beta Feedback"
+    excerpt: "GameSpot may get a commission from retail offers. Diablo IV's dungeons will be undergoing some big changes in the final version of the game to be less tedious and repetitive, thanks to player feedback ..."
+    publishedDateTime: 2023-04-14T11:14:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 140
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4122220-11.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
     excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
@@ -102,21 +112,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 To Revamp Objectives And Balance Classes Following Fan Feedback"
-    excerpt: "Blizzard heeded the call of Diablo 4 fans. Taking all the feedback from the recent early access and open beta weekends to heart, the team has laid out a slew of tweaks and balance changes to be ..."
-    publishedDateTime: 2023-04-14T13:29:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-to-revamp-objectives-and-balance-classes-following-fan-feedback/ar-AA19StBa"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 86
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SjId.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=488&y=182"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "zx9fpvohG5pg2df+0wZ19ljZaw+8fiDL7P+rpWAgf0DRMt/bzrbbzFjOFfe+jYNNH6LRUVvqcKMvaoZWgCUTS1Ilrf8z4SaFMPkEvBVTEVGrO8fvRERDAuyvfiMmnzQodG8lK5gq95dyNfa1PJI03OoB0A9EVLwaus4VUeulI/jTXwPCh0t4NQLNfNiSTFj2BN0nNRD+DZ+Nhj2U7Uvi6qZGrEBSuxIUeJFOCNJcKUf4liL6Z3SM9+cbu6qCP4s2RWue2mLk4xZPMcWZJzof1uDH4oXopusHNgzA/b+J6ZqWshsIdiSC1u+HfXUTA33+zz6mDFJRnhGSxF1WYQhuILsIela3T7XeYJfFumMJ4lY=;JR6CGLR0WGyY1ewA9AHqAQ=="
+secured: "DZu/YgjfiNkFbub/wg/u741WVOi2rSKO4rm+P+j1miHTk2CeAOI1LopoafkfHAPGd+G6RkzYZr5vB2zsIc6zSxAdGrng8+EWPUEBXBDQe1trjUrSYOACpUhbpCk+GMlnLCx9Snupf58YxJVNOlSqYK3kWOActw1FPqZLEz5LnguzJyhSOxgj7lfYAWmBHL0zBC79JToMrEq4/VDbX+3GHfJSNQyujynI6ZhNy2j+QOa6QIlc620yJ7qyIta0Ea0elho8ksMUiWj0poUUk5tKrGkurCmTVdIGYlCdFiEl6NlFSxvrbevLL3Ek+oEOh9O6GgRbRYVhqHcvoVqsiiugz7u5kb6GelckresU6o3GB+U=;LH+O8KDbTQ2HFVPJfIUYbg=="
 ---
 

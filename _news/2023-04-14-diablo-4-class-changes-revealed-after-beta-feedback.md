@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Diablo 4's Dungeons Are Becoming Less Repetitive And Tedious Thanks To Beta Feedback"
-excerpt: "GameSpot may get a commission from retail offers. Diablo IV's dungeons will be undergoing some big changes in the final version of the game to be less tedious and repetitive, thanks to player feedback ..."
-publishedDateTime: 2023-04-14T11:14:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+title: "Diablo 4 Class Changes Revealed After Beta Feedback"
+excerpt: "Diablo 4 players expectedly had a lot to say about the game after spending time with the open beta, and a lot of those conversations dealt with how the game's various classes felt. The Barbarian, ..."
+publishedDateTime: 2023-04-14T12:45:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-class-changes-buffs-nerfs-beta/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-class-changes-buffs-nerfs-beta/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-class-changes-buffs-nerfs-beta/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-class-changes-buffs-nerfs-beta/"
 type: article
-quality: 140
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4122220-11.jpg"
-    width: 640
-    height: 360
+  - url: "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320"
+    width: 568
+    height: 320
     isCached: true
 
 related:
@@ -44,6 +40,22 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Diablo 4's Dungeons Are Becoming Less Repetitive And Tedious Thanks To Beta Feedback"
+    excerpt: "GameSpot may get a commission from retail offers. Diablo IV's dungeons will be undergoing some big changes in the final version of the game to be less tedious and repetitive, thanks to player feedback ..."
+    publishedDateTime: 2023-04-14T11:14:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 140
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4122220-11.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
     excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
     publishedDateTime: 2023-04-14T11:07:00Z
@@ -57,22 +69,6 @@ related:
       - url: "https://sm.ign.com/t/ign_in/news/d/diablo-4-b/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player_z7d4.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4 Class Changes Revealed After Beta Feedback"
-    excerpt: "Diablo 4 players expectedly had a lot to say about the game after spending time with the open beta, and a lot of those conversations dealt with how the game's various classes felt. The Barbarian, ..."
-    publishedDateTime: 2023-04-14T12:45:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-class-changes-buffs-nerfs-beta/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-class-changes-buffs-nerfs-beta/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-class-changes-buffs-nerfs-beta/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320"
-        width: 568
-        height: 320
         isCached: true
   - title: "Diablo 4's respec cost isn't changing before launch"
     excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director ..."
@@ -117,6 +113,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zx9fpvohG5pg2df+0wZ19ljZaw+8fiDL7P+rpWAgf0DRMt/bzrbbzFjOFfe+jYNNH6LRUVvqcKMvaoZWgCUTS1Ilrf8z4SaFMPkEvBVTEVGrO8fvRERDAuyvfiMmnzQodG8lK5gq95dyNfa1PJI03OoB0A9EVLwaus4VUeulI/jTXwPCh0t4NQLNfNiSTFj2BN0nNRD+DZ+Nhj2U7Uvi6qZGrEBSuxIUeJFOCNJcKUf4liL6Z3SM9+cbu6qCP4s2RWue2mLk4xZPMcWZJzof1uDH4oXopusHNgzA/b+J6ZqWshsIdiSC1u+HfXUTA33+zz6mDFJRnhGSxF1WYQhuILsIela3T7XeYJfFumMJ4lY=;JR6CGLR0WGyY1ewA9AHqAQ=="
+secured: "RoPf5rVE77rKpubQmYO4ojLK8PQMGKsYwkRo70uZSrRmrwiMLs1MRRq1/V7/KH81JsHxHaSishZjcXSu9EdM1DfN5uSStadPwTM1A+WkQa3/EgVqRiEPwZc+8o436dThaNP0+jWIHY6gIaoN1WyyfEIbO09MwZWHSXfxCpUvMh6urJ0qWdQvZ4NV3LMwS4nFLgM3qaCTHDtc1n02UU4kLmtULQIPgTjc/fzFmBa3HKFtwnKIwNEif1w6KJO2LIZHbchl3kTpsIFvo61r7VhfGW+1WhasCoqignYk2NQqxY5PyXW7PHms1DusBYXeLw9WR3lawvhmvr0WUWL2pbW189bmDcAwg8WuB0u30J1tta0=;ro8L9EB5VbaHaE5A2Rz5vQ=="
 ---
 

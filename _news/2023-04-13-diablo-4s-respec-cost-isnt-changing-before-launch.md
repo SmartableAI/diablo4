@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 Class Changes Revealed After Beta Feedback"
+    excerpt: "Diablo 4 players expectedly had a lot to say about the game after spending time with the open beta, and a lot of those conversations dealt with how the game's various classes felt. The Barbarian, ..."
+    publishedDateTime: 2023-04-14T12:45:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-class-changes-buffs-nerfs-beta/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-class-changes-buffs-nerfs-beta/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-class-changes-buffs-nerfs-beta/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Diablo 4 Reveals Changes Based on Beta Feedback"
     excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
     publishedDateTime: 2023-04-14T11:28:00Z
@@ -79,6 +95,20 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19S4Kv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=615&y=120"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 To Revamp Objectives And Balance Classes Following Fan Feedback"
+    excerpt: "Blizzard heeded the call of Diablo 4 fans. Taking all the feedback from the recent early access and open beta weekends to heart, the team has laid out a slew of tweaks and balance changes to be ..."
+    publishedDateTime: 2023-04-14T13:29:00Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-to-revamp-objectives-and-balance-classes-following-fan-feedback/ar-AA19StBa"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 86
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SjId.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=488&y=182"
         width: 1200
         height: 630
         isCached: true
