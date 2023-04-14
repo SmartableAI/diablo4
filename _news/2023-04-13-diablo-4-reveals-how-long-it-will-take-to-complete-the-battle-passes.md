@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Battle Pass explained: cost, rewards, how long to complete"
+    excerpt: "The Diablo 4 Battle Pass is a one of the game's new additions to the long running series, and we have the rundown on what you can expect from its debut in the new title. Thanks to some recent comments from within Blizzard, we're starting to learn more and"
+    publishedDateTime: 2023-04-14T05:30:00Z
+    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779"
+    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 107
+    images:
+      - url: "https://i2-prod.mirror.co.uk/gaming/article29703621.ece/ALTERNATES/s1200/0_YFofpuCM3oV2Ucz6pGxhec.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4’s Battle Pass Will Take You Longer To Finish Than Most Video Games"
     excerpt: "Well, Diablo IV’s Battle Pass is something of a juggernaut. It will be challenging for casual players to complete, to say the least. Blizzard is clocking the time it takes to finish the Season 1 pass ..."
     publishedDateTime: 2023-04-13T08:33:00Z

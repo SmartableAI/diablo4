@@ -2,6 +2,132 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-06-17-diablo-4-what-classes-are-available.md",
+      "title": "Diablo 4: What Classes Are Available?",
+      "excerpt": "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-what-classes-are-available/index.json",
+      "webUrl": "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/",
+      "originalUrl": "https://gameranx.com/features/id/318678/article/diablo-4-what-classes-are-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-classes.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update.md",
+      "title": "Blizzard Gives Diablo 4 Fans Hope With New Update",
+      "excerpt": "Blizzard has given Diablo 4 fans some promises and hope following all the Diablo Immortal backlash. Since its release, consumers and critics alike have heavily criticized the monetization of Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-blizzard-gives-diablo-4-fans-hope-with-new-update/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-immortal-blizzard-update-promise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/01/26/2a19c869-43bd-4777-afd8-a18d3bed97b5/epic-games-logo-new-cropped-hed.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-immortal-blizzard-update-promise/",
+      "publishedDateTime": "2022-06-17T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-diablo-4-campaign-length-revealed.md",
+      "title": "Diablo 4 Campaign Length Revealed",
+      "excerpt": "During the Xbox Bethesda showcase, Blizzard Entertainment finally pulled back the curtain on Diablo 4. The game isn't set to release until sometime in the first half of 2023, but several details are ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-16-diablo-4-campaign-length-revealed/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/06/17/016c98f2-93d3-4b3e-8226-810484300c52/stalker-2-hero-shot.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-campaign-length-playstation-xbox-blizzard/",
+      "publishedDateTime": "2022-06-16T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-diablo-4-necromancer-class-guide-skills-and-summons-explained.md",
       "title": "Diablo 4 Necromancer class guide – skills and summons explained",
       "excerpt": "Wielding blood, bone, and darkness, the Diablo 4 Necromancer class is a powerful spellcaster with an endless horde of shambling undead at their disposal ...",
@@ -988,150 +1114,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4s-final-class-is-necromancer-2023-release-and-new-details-revealed.md",
-      "title": "Diablo 4's Final Class Is Necromancer; 2023 Release And New Details Revealed",
-      "excerpt": "Blizzard's much-anticipated Diablo 4 showed up in a major way during the Xbox/Bethesda showcase, giving us our first look at the fifth and final class, the Necromancer. The presentation included much ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4s-final-class-is-necromancer-2023-release-and-new-details-revealed/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-final-class-is-necromancer-2023-release-and-new-details-revealed/1100-6504500/",
-      "publishedDateTime": "2022-06-12T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-which-classes-are-in-diablo-4-we-now-know-all-of-the-games-five-classes.md",
-      "title": "Which classes are in Diablo 4? We now know all of the game’s five classes",
-      "excerpt": "When Diablo 4 was announced, we only knew about three classes: Sorceress, Druid, and Barbarian. Then we learned about the return of the Rogue, last seen in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-which-classes-are-in-diablo-4-we-now-know-all-of-the-games-five-classes/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/06/12/diablo-4-classes/",
-      "originalUrl": "https://blizzardwatch.com/2022/06/12/diablo-4-classes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2021/03/d4AllClasses.png",
-          "width": 675,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/06/12/diablo-4-classes/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/12/diablo-4-classes/amp/",
-      "publishedDateTime": "2022-06-12T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame.md",
-      "title": "How Diablo 4 Reinvents Necromancer, Encourages Customization, And Deepens Endgame",
-      "excerpt": "Diablo 4's game director and general manager discuss the latest entry in the franchise, its darker tone, and new gameplay features.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame/index.json",
-      "webUrl": "https://www.gamespot.com/articles/how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame/1100-6504471/",
-      "originalUrl": "https://www.gamespot.com/articles/how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame/1100-6504471/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989527-untitled%282%29.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame/1100-6504471/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4-reinvents-necromancer-encourages-customization-and-deepens-endgame/1100-6504471/",
-      "publishedDateTime": "2022-06-12T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
