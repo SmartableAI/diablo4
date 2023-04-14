@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta.md",
+      "title": "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta",
+      "excerpt": "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/index.json",
+      "webUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
+      "originalUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200",
+          "width": 920,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
+      "publishedDateTime": "2023-03-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news.md",
       "title": "Get Ready! Diablo 4 Just Got An Important Announcement, End Game Dev Update & More (Diablo 4 News)",
       "excerpt": "The Kingdom of Camelot is waiting for your arrival—check out the King Arthur: Legends Rise Open Beta here: ...",
@@ -1006,61 +1057,19 @@
       ]
     },
     {
-      "path": "_news/2023-03-26-diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue.md",
-      "title": "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue",
-      "excerpt": "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue/index.json",
-      "webUrl": "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue",
-      "originalUrl": "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dotesports.com/wp-content/uploads/2023/03/diablo-necromancer.jpg?resize=768,432",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-diablo-4-class-tier-list.md",
-      "title": "Diablo 4: Class Tier List",
-      "excerpt": "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-class-tier-list/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ",
+      "path": "_news/2023-03-26-diablo-4-players-debate-the-place-of-summons-in-towns.md",
+      "title": "Diablo 4 Players Debate the Place of Summons in Towns",
+      "excerpt": "Diablo 4, the latest installment in the iconic action RPG series, has been captivating players with its thrilling gameplay, immersive world, and legendary loot. However, a rising debate among the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-players-debate-the-place-of-summons-in-towns/index.json",
+      "webUrl": "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-debate-the-place-of-summons-in-towns/ar-AA195Hjq",
+      "originalUrl": "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-debate-the-place-of-summons-in-towns/ar-AA195Hjq",
       "featuredContent": null,
       "highlight": null,
       "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA196L55.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYnKHr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -1072,7 +1081,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T10:30:00-07:00",
+      "publishedDateTime": "2023-03-26T12:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",

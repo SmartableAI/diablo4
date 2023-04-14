@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair.md",
+      "title": "Diablo 4's Endgame Activity Fields Of Hatred \"Not Designed To Be Fair\"",
+      "excerpt": "Diablo 4 will have the most extensive end-game content of any Diablo game ever made. That's because Blizzard is designing Diablo 4's endgame alongside its main campaign. In many ways, the end-game is ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18SpeA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure.md",
+      "title": "Diablo 4: Nightmare Dungeons Make the Game a Choose-Your-Own Roguelike Adventure",
+      "excerpt": "Diablo 4's Nightmare Dungeons could make exploring old dungeons fulfilling again with affixes and dynamic RNG, roguelike mechanics baked into them.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/ar-AA19RHQn",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/ar-AA19RHQn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19RHQj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T01:41:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players.md",
       "title": "Diablo 4 Players Can Earn PvP Rewards Without Killing Other Players",
       "excerpt": "Blizzard's Diablo series of action RPGs has a long and rich history of competitive PvP, and it looks like the upcoming Diablo 4 will not only build on this legacy but will also make PvP more ...",
@@ -73,48 +157,6 @@
       "provider": {
         "name": "The Mirror",
         "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4s-fields-of-hatred-arent-designed-to-be-fair.md",
-      "title": "Diablo 4's Fields of Hatred aren't \"designed to be fair\"",
-      "excerpt": "Diablo 4's PvP endgame activity, the Fields of Hatred, does have systems in place to ensure relative parity regarding power level on the battlefield, but make no mistake, \"it's not designed to be fair\". Asked what the developers are doing to ensure Diablo",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4s-fields-of-hatred-arent-designed-to-be-fair/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4s-fields-of-hatred-arent-designed-to-be-fair/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4s-fields-of-hatred-arent-designed-to-be-fair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZSgNyJBvMgVJQLaNJBMoC6-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1026,57 +1068,6 @@
         "name": "NME",
         "domain": "nme.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta.md",
-      "title": "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta",
-      "excerpt": "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/index.json",
-      "webUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
-      "originalUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200",
-          "width": 920,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
-      "publishedDateTime": "2023-03-30T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

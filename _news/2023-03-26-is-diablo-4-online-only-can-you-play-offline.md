@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-gb/news/techandscience/is-diablo-4-online-o
 webUrl: "https://www.msn.com/en-gb/news/techandscience/is-diablo-4-online-only-can-you-play-offline/ar-AA194GKC"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: MSN
@@ -22,22 +22,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Diablo 4 Players Want To Be Able To Play Offline"
-    excerpt: "Diablo 4 beta players are fed up with the always online requirements, calling on the devs to make it possible to play offline. This comes as the Diablo servers have struggled to keep up with demand, ..."
-    publishedDateTime: 2023-03-26T13:21:00Z
-    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-players-want-to-be-able-to-play-offline/ar-AA195Lpt"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195XQh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4KtoU4YxHs7baHYVsx9BNn+6XPqX9MYsvt5AM3wihG2xeeF5791SCm8yT0jF3smaEn94nfBisPrrb6wJywF+3A2JqFqIeqO/vd3zOTKMML3vr3Q+qv8vcEcVBq641N8hDsKcg6PSd3aDzJNQcWwSY/EBSzKbqntTbRA8++WltPlEvfU84ICYXGhFr4D0LLygYtbvcCj/yHEzBfszaCPHB2UupfCTgKY9bvonrdjGzsQBj3DV/KGMUeX+93AmBSYyIJzxZx1XjUCG8XwWD2QMndV2sBBisryZ9U1nWfUyD4dVBOtPvfWWOb4Dvk2aMw3oYpQjkUVOSPAphdzqzzehhf3fzyYW4I2h1S4wZGQecA4=;MTXUHEKnVgbnTNpQyr1Hjw=="
 ---
