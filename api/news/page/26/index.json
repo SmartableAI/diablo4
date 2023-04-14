@@ -2,6 +2,91 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-02-10-heres-everything-we-know-about-barbarian-skills-in-diablo-4.md",
+      "title": "Here's everything we know about Barbarian skills in Diablo 4",
+      "excerpt": "Barbarians are battle masters, wreaking havoc with massive weapons of all shapes and sizes. One of the classes in Diablo 4 is the mighty Barbarian. With this guide, I've assembled a full list of the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-10-heres-everything-we-know-about-barbarian-skills-in-diablo-4/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/heres-everything-we-know-about-barbarian-skills-in-diablo-4/ar-BB1dyVbz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dzjh7.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN.com",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more.md",
+      "title": "Last Epoch Dev Talks About Multiplayer, Raytracing, Diablo 4, PoE 2 and More",
+      "excerpt": "Last Epoch is the product of indie developer Eleventh Hour Games with a pretty straightforward goal of becoming \"the next great action role-playing game\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-09-last-epoch-dev-talks-about-multiplayer-raytracing-diablo-4-poe-2-and-more/index.json",
+      "webUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
+      "originalUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2021/02/Last-Epoch-Undead.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
+      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2021/02/09/last-epoch-multiplayer/amp/",
+      "publishedDateTime": "2021-02-09T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-activision-says-diablo-4-and-overwatch-2-arent-releasing-in-2021.md",
       "title": "Activision says Diablo 4 and Overwatch 2 aren't releasing in 2021",
       "excerpt": "Activision Blizzard has revealed that it doesn't expect Diablo 4 or Overwatch 2 to release in 2021. It's no surprise to hear Diablo 4 isn't releasing this year - we've suspected for a while that it's ...",
@@ -1009,90 +1094,6 @@
       "provider": {
         "name": "ClutchPoints",
         "domain": "clutchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed.md",
-      "title": "Blizzard says its ‘Diablo 4’ announcement wasn’t delayed",
-      "excerpt": "but not so good for hardcore Diablo gamers who are anxiously waiting for Diablo 4. A report then claimed that Blizzard wanted to announce Diablo 4 at the event as well, but plans changed in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-05-blizzard-says-its-diablo-4-announcement-wasnt-delayed/index.json",
-      "webUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
-      "originalUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/11/diablo-immortal.jpg?quality=70&#038;strip=all",
-          "width": 1360,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2018/11/06/diablo-4-release-date-still-far-announcement-not-planned-for-blizzcon/amp/",
-      "publishedDateTime": "2020-11-05T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op.md",
-      "title": "Diablo 4 will support controllers on PC, has 2-player couch co-op",
-      "excerpt": "Blizzard confirms some interesting new features coming to Diablo 4 on PC, including full controller support and total controller remapping/custom keybinding. Diablo 4 is being developed for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-11-03-diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.json",
-      "webUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/0/70934_255_diablo-iv-will-support-controllers-on-pc-has-2-player-couch-co-op_full.png",
-          "width": 1300,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/70934/diablo-4-will-support-controllers-on-pc-has-2-player-couch-co-op/amp.html",
-      "publishedDateTime": "2020-11-03T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

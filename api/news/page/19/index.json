@@ -2,6 +2,90 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat.md",
+      "title": "How long is Diablo 4? Main campaign length & time to beat",
+      "excerpt": "If you're wondering how long will it take to complete the main campaign of Diablo 4 with story details, here's everything you need to know.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
+      "originalUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/20/diablo-4-campaign-length.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
+      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
+      "publishedDateTime": "2022-06-19T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says.md",
+      "title": "Diablo 4 “A Love Letter To Fans”, Game Director Says",
+      "excerpt": "Blizzard Entertainment have shared some further details on the highly-anticipated Diablo 4, which they hope fans will love.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-17-diablo-4-a-love-letter-to-fans-game-director-says/index.json",
+      "webUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "originalUrl": "https://gameranx.com/updates/id/318778/article/diablo-4-a-love-letter-to-fans-game-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/Diablo-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-diablo-4-what-classes-are-available.md",
       "title": "Diablo 4: What Classes Are Available?",
       "excerpt": "Diablo 4 has finally revealed all of its classes and players are already beginning to plan their builds for the upcoming game.",
@@ -1028,99 +1112,6 @@
         "name": "MrLlamaSC",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-is-coming-necromancer-announced.md",
-      "title": "DIABLO 4 is coming! NECROMANCER Announced!",
-      "excerpt": "Blog Post https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming Necromancer ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-is-coming-necromancer-announced/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-06-12-diablo-4-is-coming-necromancer-announced/",
-      "originalUrl": "https://youtube.com/watch?v=K43JIZZ4j50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K43JIZZ4j50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T13:17:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnnacakeLIVE",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming.md",
-      "title": "All Hell Breaks Loose in 2023—Diablo IV is Coming",
-      "excerpt": "Diablo IV is set to raise Hell’s temperature to a new level. Join us around the campfire to learn what’s coming in this next generation installment of the Diablo series.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-all-hell-breaks-loose-in-2023diablo-iv-is-coming/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816540/all-hell-breaks-loose-in-2023-diablo-iv-is-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/af/AF19R5S0F7AQ1654550496836.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T11:03:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
