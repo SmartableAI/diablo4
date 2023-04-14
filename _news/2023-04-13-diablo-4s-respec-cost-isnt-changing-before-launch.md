@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Diablo 4's respec cost isn't changing before launch"
-excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director Joseph Piepiora said in a group interview with GamesRada"
-publishedDateTime: 2023-04-13T16:50:00Z
-originalUrl: "https://www.pcgamer.com/diablo-4s-respec-cost-isnt-changing-before-launch/"
-webUrl: "https://www.pcgamer.com/diablo-4s-respec-cost-isnt-changing-before-launch/"
+excerpt: "Start planning your gold budget now."
+publishedDateTime: 2023-04-13T16:27:27Z
+originalUrl: "https://www.msn.com/en-xl/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
+webUrl: "https://www.msn.com/en-xl/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PC Gamer on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/Dj8RBLHXEERd9eGVRAWMiX-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19QbL2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=254"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
-secured: "vKTjyrKXWBG1Zo4H+f/p1PAX5HZjxYIuj+aXZBU38z+RG+VfaUIz0Ria74oKZaZ0TFa/+mqKvUEIaaZsKsg5OtZ8yVT1cMmhziuSMCk1X89iZtR6g6EG32Dyg4cXB5FPsOMhQiTFp1WHKkROxyCzBxRyMCBHjKO734XhTZHHejsC7Pm+GLNpUlfHxB1TdN1C/DE1G/BJQOzeqpi+35dLXLl6RiDMDTghMcOZJJ8p1DXjuP15K4LB6QQHoBdIjdi3iuMazfPBX6GispvILERbj/pCW7ERX1KDqJ7KyXwXUlBYQu9hCp0dQTylHdKWve+8zMiXwmdFUB/J259k9U0LKopsaL02Qk6Y9bpg0oTk8vU=;FB6NBq1KAndwLyWOZf4o3w=="
+secured: "E+2ir8eUlob6UeL4bK2emoX+4Hq79V8Vr4VpXJlcNvyISXFfFOEgHQOm9M0H2JCsR0k+uu8MKNNW/5wNSndVr6wEa1cCYxGTHGSkTIOgLc469tVL6gTTzDmzcsCKdfyZD6c3maE5NxHT1SwSJKbK0Ld0jKMyKbUcgu2+ZasNlhbCqw4gJgxBqHC6SdbBdKaP+jW6UlofPgWLpaBN4ELdLpwbhuANr1cuim8jbMa3YYi5KzKgZFcmhCDmecM7j38jQC3knbOogG2M4ZyXrJxD7kLQ6gFAeFivfEx0B8mDzvz1mjTejptsHWOMTJz9aVEhlHYAmdCEcLZRqH5sbmMYF7gr2zuQJcJq56OyQijwW/4=;TIhakbFGzXaNxyxtg2A2KQ=="
 ---
 
