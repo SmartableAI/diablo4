@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?am
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1"
 type: article
 quality: 124
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The best Diablo 4 Druid builds"
-    excerpt: "The Druid makes a return in Diablo 4, though remains functionally similar to its Diablo 2 counterpart. Able to shapeshift, use elemental magic, and summon minions, the Druid is a jack of all trades."
-    publishedDateTime: 2023-03-25T08:45:00Z
-    webUrl: "https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills"
-    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23656236/druid-best-build-skills"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23656236/druid-best-build-skills"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 124
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8YecCd2pe4OFhxMyFZ5dqvTF6vc=/0x0:3840x2160/1400x933/filters:focal(1613x773:2227x1387):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114066/D4_Inarius_and_Lilith.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Diablo 4: Best Class to Play Solo"
     excerpt: "Of all the classes Blizzard chose to put into Diablo 4, one pulls ahead in its ability to survive as a lone wanderer."

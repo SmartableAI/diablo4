@@ -72,22 +72,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "The best Diablo 4 Necromancer builds"
-    excerpt: "The Necromancer, much like the Sorcerer, is one of the most formidable classes in Diablo 4. Not only is it capable of slinging spells or inflicting debilitating debuffs on enemies, it can also summon ..."
-    publishedDateTime: 2023-03-25T08:53:00Z
-    webUrl: "https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills"
-    ampWebUrl: "https://www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
-    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23656235/necromancer-best-build-skills"
-    type: article
-    provider:
-      name: Polygon
-      domain: polygon.com
-    quality: 107
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/o_jdalhuDYgFQEcDGbEjYOby5oU=/0x0:1628x870/1400x933/filters:focal(738x173:998x433):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72114063/diablo_4_necromancer.0.png"
-        width: 1400
-        height: 870
-        isCached: true
 
 secured: "RdxfkNmhSkB2Jl/+JxRMrnhxTguNaoHpLX2Vkd95opK9vQqwqZqDlM7rEX49JZz32vhSWxo2ITYWT44vBae96IkHtnOyjPmRL9NSolA4kxnjKcIKGeReNdA7As6mPyM4krW3oAwlrtLC+iyQ3OAIOXMbLgWbrvB/JIPAW0hvxZIUkeOy/Y6cw6gWutW62HdqtZznxYf/8uIrMhwo+VqU06mmOg8LwkiWqRG1+0fExD/suxC5RU8yGJoZWtEi1YWT2jo54VuxskjV/Gg0MV5u7aoP2IYslA6wCPvrrlOpq2y5OVWFomQAX4jki3p7GxNw9t7zZOIQpRvMzfbFygQ9H/nu3QdiEWDhEfAu3FB/Q2U=;ZzgUitCgkzJxCkca0EIF6g=="
 ---
