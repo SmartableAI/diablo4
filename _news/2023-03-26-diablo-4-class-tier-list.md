@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-
 webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4: Best Class to Play Solo"
+    excerpt: "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ..."
+    publishedDateTime: 2023-03-27T11:52:00Z
+    webUrl: "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JXbPktl6eNs4QGSiP4mPJnqxDIQlbeaUYjb76VpJsUiPkOCO4NPMPbkVA5WoFdnjnD78Wz/BRiEsJyymwHJPTYI5BQ2gZf8rZV5rwmGjToZnYwNXEVLBPGrFM/MJa4a/Waz6oD73WPr0DIH65NZ0zsNxNHf9j2c3G+OEK0fDPhqARq5hVNga51YO41APU9I8y6N7snU9e3CN8lp+EcD53Y3JfduaQnoCBx78lpYDUSvVdbN2F8yyIxtgpOQgOkRB5q9SaMgm5SBOfgsZTwgpW62MX2W3nhKpYs7RfVp3LIe0qnpJx9HpwysfAQnD4vGGLLz7Re5WhPjtbX2nE87GIjC7UyOlbB3jdRi236SuXNI=;d6LG16qTu80g/o1qxryGRg=="
 ---
