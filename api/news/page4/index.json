@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-25-the-best-diablo-4-druid-build-for-solo-play.md",
+      "title": "The best Diablo 4 Druid build for solo play",
+      "excerpt": "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-the-best-diablo-4-druid-build-for-solo-play/index.json",
+      "webUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build",
+      "originalUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1",
+      "publishedDateTime": "2023-03-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-diablo-4-druid-talents-guide.md",
       "title": "Diablo 4 - Druid Talents Guide",
       "excerpt": "GameSpot may get a commission from retail offers. So far in the Diablo 4 beta, the Druid has been a bit underwhelming for most players. While most find the Druid's skills enjoyable from strictly an ...",
@@ -1073,48 +1116,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end.md",
-      "title": "When does the Diablo 4 open beta start and end?",
-      "excerpt": "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two open beta weekends in March. Now we’re onto ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end/index.json",
-      "webUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "originalUrl": "https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ByIRpBQfgpncCW9EslIwz_IbxM0=/0x0:1520x540/1400x933/filters:focal(639x149:881x391):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72010038/Diablo_4_Open_Beta_cover.0.jpg",
-          "width": 1400,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/diablo-4-guides/23613404/open-beta-dates-times-end-access",
-      "publishedDateTime": "2023-03-23T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon",
-        "domain": "polygon.com",
         "images": null,
         "publishers": null,
         "authors": null

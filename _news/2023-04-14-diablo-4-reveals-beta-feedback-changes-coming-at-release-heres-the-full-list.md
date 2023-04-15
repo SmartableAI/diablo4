@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
-excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
-publishedDateTime: 2023-04-14T11:07:00Z
-originalUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
-webUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
+title: "Diablo 4 reveals beta feedback changes coming at release, here's the full list"
+excerpt: "Diablo 4 developer Blizzard has revealed the changes it's making to the game now that the betas have concluded and fans have given their feedback. These tweaks will be live when Diablo 4 launches on ..."
+publishedDateTime: 2023-04-14T18:09:00Z
+originalUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-reveals-beta-feedback-changes-coming-at-release-heres-the-full-list/ar-AA19SO3w"
+webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-reveals-beta-feedback-changes-coming-at-release-heres-the-full-list/ar-AA19SO3w"
 type: article
-quality: 127
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: IGN
-  domain: ign.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows Central on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://sm.ign.com/t/ign_in/news/d/diablo-4-b/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player_z7d4.1200.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SEF2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -57,6 +53,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4122220-11.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
+    excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
+    publishedDateTime: 2023-04-14T11:07:00Z
+    webUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://sm.ign.com/t/ign_in/news/d/diablo-4-b/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player_z7d4.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Diablo 4 Class Changes Revealed After Beta Feedback"
     excerpt: "Diablo 4 players expectedly had a lot to say about the game after spending time with the open beta, and a lot of those conversations dealt with how the game's various classes felt. The Barbarian, ..."
@@ -116,21 +126,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 reveals beta feedback changes coming at release, here's the full list"
-    excerpt: "Diablo 4 developer Blizzard has revealed the changes it's making to the game now that the betas have concluded and fans have given their feedback. These tweaks will be live when Diablo 4 launches on ..."
-    publishedDateTime: 2023-04-14T18:09:00Z
-    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-reveals-beta-feedback-changes-coming-at-release-heres-the-full-list/ar-AA19SO3w"
-    type: article
-    provider:
-      name: Windows Central on MSN
-      domain: msn.com
-    quality: 83
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SEF2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "H6xoTVqw2QbOO6GuM1R+n7xEblVRcwcd+yFKomMu8MsMU4s34wL+7tH0PEn7CSJrNoaM+Ct0UZeNKLfX0uVfWeuSOuROOEXB/nIiLXRpeD5uTlistaBd9L2xmyTCjCb985BRfT4oQ5RTIZhgut4l3bMacGK9vnG1UAlDmbiwOMKF+fKMoXA07UKpeFBr7Juqds5yGTcyD9QwTzlzwSym0FZapxeslkJ4hAi0++fcYnxzRCkzCfzs+Nf7wm2NRG0l6II5L4PyXSZLuakFk/4H2JVBlmq9IcRap7acsnLl1wGpsRD+AlnxKRDrFQqcupSM2jSaL0YkPXNokGXpVzcL2L4DX5nGWoQ4MqaUNO+YCUg=;PluOuhI/VazGSBaEsimSyw=="
+secured: "y13BZjOSSmIwP1Lzn+sYdcnGMD6Crebgh+k0iyCQrYiCQF3yF8DzyNqDuR/9KiI4tL0PSJYnx2rG5bZMFCuQ47AHVFAIJySnr59rxG8rpccCf5w99fsHRbS3c27Sxp8PaJU/ggAxCxCT4/4dgUng4RMNM33xYxJxjvE+Uba/oaTHCVyvO9lQ3XJAgfIvDuKk9z7mrk4is3OopXtxxXg87VDhC89EAToKTRcqJvuPlCUUTe7WWzYkmw3b7oHnnHahhgkZ3IN3FmP596pPBNj64MTVHsS1pqQ8U0l/OSRS5eZGk0d7JOrFZ0SAqtbZqq9KKhcW0118KihrWmjT4AjREz9YvVdfvt6ZG/xNdldvq/k=;40sUhTH3tBZ0nmmJF0LONQ=="
 ---
 

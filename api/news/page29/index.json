@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019.md",
+      "title": "A Letter from our Game Director – BlizzCon 2019",
+      "excerpt": "We&amp;#39;re overwhelmed by the response we&amp;#39;ve seen from our community to Diablo IV at BlizzCon. Our Game Director, Luis Barriga, has a few words he&amp;#39;d like to share.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-13-a-letter-from-our-game-director-blizzcon-2019/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23220969/a-letter-from-our-game-director-blizzcon-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/me/MEMUO5FEFXMP1573606010411.jpg",
+          "width": 760,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-11-diablo-4-announcement-reaction-blizzcon-2019.md",
       "title": "Diablo 4 Announcement Reaction Blizzcon 2019",
       "excerpt": "",
@@ -1016,48 +1068,6 @@
       ],
       "topics": [
         null,
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-02-diablo-4-reaction-blizzcon-first-impressions-of-the-announcement.md",
-      "title": "Diablo 4 Reaction Blizzcon | First Impressions of The Announcement",
-      "excerpt": "Diablo 4 Reaction at Blizzcon 2019. We give you our first impressions of the announcement and trailers shown. Business Inquiry ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-reaction-blizzcon-first-impressions-of-the-announcement/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-reaction-blizzcon-first-impressions-of-the-announcement/",
-      "originalUrl": "https://youtube.com/watch?v=oEq15RP5kk0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oEq15RP5kk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-02T16:23:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xonebros",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Diablo 4"
       ]
     }

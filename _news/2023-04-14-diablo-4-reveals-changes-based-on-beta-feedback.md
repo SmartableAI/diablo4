@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Reveals Changes Based on Beta Feedback"
 excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
-publishedDateTime: 2023-04-14T11:28:00Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
+publishedDateTime: 2023-04-14T13:52:00Z
+originalUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
+webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
 type: article
 quality: 87
 heat: -1
@@ -112,7 +112,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 reveals beta feedback changes coming at release, here's the full list"
+    excerpt: "Diablo 4 developer Blizzard has revealed the changes it's making to the game now that the betas have concluded and fans have given their feedback. These tweaks will be live when Diablo 4 launches on ..."
+    publishedDateTime: 2023-04-14T18:09:00Z
+    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-reveals-beta-feedback-changes-coming-at-release-heres-the-full-list/ar-AA19SO3w"
+    type: article
+    provider:
+      name: Windows Central on MSN
+      domain: msn.com
+    quality: 83
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SEF2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "wDA9496NaZEpQpzQMa07+hiKSQvalZOdL//r4V44ZeLB55UFQRsDbd4b+LG47+YcCdvf3925aR0PhNIozQYq75U+CC/8C9agnY/MB0eZtRUTLDo93EMshzEtqGb1vurPU6fOnDLv4vCYvU0qMWwBXzhu5RBSHB0Gtarq4pWAxTbQGV6kOInOKJ8V35/ZTolH9faant6l59FoDlJiw//PlVVH4xyoqhjimvQzcVOLUCp3WZ36uPIWDt41hjB4mM+o3Sy8FJzUvMsIXr9Qu4rKK1MNnO9uEnhOR/8UXzEfNMQoCCiFsc+yVGzFez9ahTLZGPcjOxGQz7UECvNz93xa+NZm4Bhv65D4EKLel7wCjnM=;UtpDi7H0uWXOcTEy0hkuYQ=="
+secured: "VML5qjJl4B8NulAYtA/WFnp91LsR8iyC9aO89USnW3ONMwwuVvEiW0qJ6jjWiHXkokM+uSL8wpzynBYpLhq9GYv+EjGz9RPEUv8gbnT3b9icDerlL9Xf86m2ubFp2suxh1VEU3U8YuaOHpwJN78o1QGZkuisNI7Bw7YYOJkOdOeJcjaQD/sR2na/lGOcNVxQjbO3KAq5/7138ss2LeQxMGBvW8EMft9demquQ++7kgcngAzF/YfUTft7FNLmDXs+mKrnu2dqNhxDts9caD14bDl7nKlpzO1i0JW5NcJnTJ3z06I1jeu0v/mfG7ow/BLrQ0KezsYmBnGhjUT3WUhmjLzTVrEZ2NAh8XpGq8b7J64=;TIxcr+FtbakH/1TqD3bFLQ=="
 ---
 
