@@ -2,6 +2,183 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-19-diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter.md",
+      "title": "Diablo 4’s Butcher is mass murdering beta players in dungeons due to a rare random encounter",
+      "excerpt": "Diablo 4 beta players are running into an extremely difficult enemy within their dungeons, causing them to be butchered en masse.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter-2090651/",
+      "originalUrl": "https://www.dexerto.com/diablo/diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter-2090651/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/20/the-butcher-image.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-diablo-4-max-level-whats-the-level-cap.md",
+      "title": "Diablo 4 max level: What’s the level cap?",
+      "excerpt": "After a decade, fans are excited by the launch of Diablo 4 and the Early Access and Open Betas. During the Beta periods, players can explore the Fractured Peaks of the Sanctuary by clearing hordes ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-max-level-whats-the-level-cap/index.json",
+      "webUrl": "https://dotesports.com/diablo/news/diablo-4-max-level-whats-the-level-cap",
+      "originalUrl": "https://dotesports.com/diablo/news/diablo-4-max-level-whats-the-level-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dotesports.com/wp-content/uploads/2023/03/Dot-Esports-Image-2023-03-19T221230.029.jpg?resize=768,432",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dot Esports",
+        "domain": "dotesports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations.md",
+      "title": "Diablo 4 - All Altar Of Lilith Statues And Locations",
+      "excerpt": "The statues are difficult to find, but they unlock some incredible benefits for Diablo 4 players When exploring the world of Sanctuary in Diablo 4, there is plenty to look out for. Whether you're ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
+      "publishedDateTime": "2023-03-19T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023.md",
+      "title": "Diablo 4  Diablo Open Beta Announcement Cinematic IGN Fan Fest 2023",
+      "excerpt": "Diablo IV After millions have been slaughtered by the actions of the High Heavens and Burning Hells alike. In the power vacuum, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-19-diablo-4-diablo-open-beta-announcement-cinematic-ign-fan-fest-2023/",
+      "originalUrl": "https://youtube.com/watch?v=1Tguj8PK7jo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Tguj8PK7jo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T12:41:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unlimited 4K",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-the-diablo-4-betas-most-dangerous-enemy-is-an-old-familiar-face.md",
       "title": "The Diablo 4 beta’s most dangerous enemy is an old, familiar face",
       "excerpt": "As the first public Diablo 4 beta weekend rolls on, players are discovering their favourite builds, exploring the various towns and dungeons found in the first act of Blizzard’s fantasy RPG game, and ...",
@@ -989,174 +1166,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-diablo-4-error-code-300202-how-to-fix.md",
-      "title": "Diablo 4 Error Code 300202 – how to fix?",
-      "excerpt": "Thousands of people tried to get onto the Diablo 4 servers at once, only to be met with the error code 300202. Amongst others (34202 & 315306), it’s clear that the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-error-code-300202-how-to-fix/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-error-code-300202.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-best-graphics-settings-for-diablo-4-beta.md",
-      "title": "Best graphics settings for Diablo 4 Beta",
-      "excerpt": "We’re covering the best graphics settings for the Diablo 4 Beta, with optimised options for DLSS 3, HDR, & more. The Diablo 4 Beta weekend runs between March 17th – 19th, so if you’re trying to get ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-best-graphics-settings-for-diablo-4-beta/index.json",
-      "webUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
-      "originalUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-settings-for-Diablo-4-beta.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-diablo-4-beta-is-plagued-with-error-codes-as-the-servers-struggle-to-meet-demand.md",
-      "title": "Diablo 4 beta is plagued with error codes as the servers struggle to meet demand",
-      "excerpt": "Diablo 4 is currently having a closed early access beta, ahead of its wider open beta. The beta is already plagued with errors and network problems, as servers struggle to meet demand. Blizzard ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-beta-is-plagued-with-error-codes-as-the-servers-struggle-to-meet-demand/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-server-errors",
-      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-server-errors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/xZ4GXJXqRjhAoXBUxKtWtm-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt.md",
-      "title": "Diablo 4 pays tribute to the original game with dungeon built around a screenshot of the Crypt",
-      "excerpt": "Diablo 4 developers used a screenshot of the Crypt from the original game to design one of the dungeons in the upcoming action-RPG. Diablo 4's early beta access, available to those who've pre-ordered ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-pays-tribute-to-the-original-game-with-dungeon-built-around-a-screenshot-of-the-crypt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

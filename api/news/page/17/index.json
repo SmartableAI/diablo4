@@ -2,6 +2,174 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-09-21-diablo-4-endgame-closed-beta-announced.md",
+      "title": "Diablo 4 endgame closed beta announced",
+      "excerpt": "A Diablo 4 closed beta test for endgame content will take place later this year on PC, Xbox and PlayStation. Invites to be sent directly to dedicated players.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-21-diablo-4-endgame-closed-beta-announced/index.json",
+      "webUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
+      "originalUrl": "https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/diablo-4-blog-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-blog-header.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked.md",
+      "title": "Test footage from ‘Diablo 4’ appears to have leaked",
+      "excerpt": "Test footage from Diablo 4 has reportedly leaked online, showing approximately 40 minutes of gameplay from Blizzard Entertainment’s forthcoming action role-playing game. Diablo 4 was originally ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-test-footage-from-diablo-4-appears-to-have-leaked/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/test-footage-diablo-4-leaked-online-3314006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
+      "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
+      "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat/index.json",
+      "webUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
+      "originalUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022.md",
+      "title": "Developers reveal Diablo 4 Closed Beta for late 2022",
+      "excerpt": "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
+      "originalUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-blizzard-reveals-secretive-beta-testing-plans-for-diablo-4.md",
       "title": "Blizzard Reveals Secretive Beta Testing Plans For Diablo 4",
       "excerpt": "Blizzard's hotly-anticipated \"Diablo 4\" isn't due until next year, but there is some good news for the franchise's most loyal fans: a closed beta testing phase.",
@@ -935,183 +1103,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more.md",
-      "title": "Diablo 4: Release Date, Classes, Gameplay, Leaks, Beta Sign Up, and More",
-      "excerpt": "Awaiting Diablo IV's launch but don't know much about it? Know the Diablo 4 release date, classes, beta, leaks, & more in this info dump.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-28-diablo-4-release-date-classes-gameplay-leaks-beta-sign-up-and-more/index.json",
-      "webUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/",
-      "originalUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2022/08/Untitled-design-9-1.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/diablo-4-release-date-classes-gameplay-leaks-beta-more/amp/",
-      "publishedDateTime": "2022-08-28T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic.md",
-      "title": "Diablo 4's Microtransactions Will Be Strictly Cosmetic",
-      "excerpt": "In a quarterly development blog released by Blizzard, Diablo 4 product director Kegan Clark outlined how the game will be monetised.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4s-microtransactions-will-be-strictly-cosmetic/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-microtransactions-strictly-cosmetic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dualshockers.com/static/uploads/2022/08/diablo-4-microtransactions-will-be-strictly-cosmetic-scaled.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it.md",
-      "title": "Diablo 4 Will Ditch Lootboxes for Battle Passes, Like Overwatch Before It",
-      "excerpt": "Blizzard has made clear that Diablo 4 will not include lootboxes and, like Overwatch before it, will instead offer Battle Passes and cosmetics through an in-game store.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-will-ditch-lootboxes-for-battle-passes-like-overwatch-before-it/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-lootbox-battle-pass",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2021/06/30/diablo-4-art-1625059950283.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises.md",
-      "title": "Diablo 4 Won’t Be Pay-to-Win, Blizzard Promises",
-      "excerpt": "Following the Diablo Immortal fiasco, Blizzard Entertainment has promised that Diablo 4 microtransactions won't have pay-to-win mechanics.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-19-diablo-4-wont-be-pay-to-win-blizzard-promises/index.json",
-      "webUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
-      "originalUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.playstationlifestyle.net/assets/uploads/2022/08/diablo-4-microtransactions.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
-      "cdnAmpWebUrl": "https://www-playstationlifestyle-net.cdn.ampproject.org/c/s/www.playstationlifestyle.net/2022/08/19/diablo-4-microtransactions-not-pay-to-win/amp/",
-      "publishedDateTime": "2022-08-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PlayStation LifeStyle",
-        "domain": "playstationlifestyle.net",
         "images": null,
         "publishers": null,
         "authors": null
