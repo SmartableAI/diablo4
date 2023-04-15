@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Diablo 4 Rogue Solos Ashava World Boss"
-    excerpt: "A Diablo 4 player has beaten the open beta's World Boss Ashava entirely on their own and on Hardcore Mode. The open beta is potentially the last opportunity for Diablo fans to try Diablo 4 before the ..."
-    publishedDateTime: 2023-03-26T19:59:00Z
-    webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-rogue-solos-ashava-world-boss/ar-AA1969JA"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA196lMm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Player Solos World Boss Ashava In Hardcore Mode"
     excerpt: "Diablo 4's second beta weekend has come to an end and some of you talented lot have already been pulling off some pretty remarkable feats. Perhaps none quite as remarkable as a streamer who ..."
     publishedDateTime: 2023-03-28T03:31:00Z
