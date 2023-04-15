@@ -2,6 +2,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online.md",
+      "title": "Diablo 4 Test Build Leaks Already Surfacing Online",
+      "excerpt": "As leaks typically are when it comes to an upcoming game, the leaks from whatever Diablo 4 test is going on now have been spotted here and there throughout the game's subreddit. One such post pulls ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
+      "publishedDateTime": "2022-08-06T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-diablo-4-leaks-have-started-in-record-time.md",
       "title": "Diablo 4 leaks have started in record time",
       "excerpt": "As if magically summoned by reports that a Diablo 4 alpha playtest is running for family and friends of Blizzard, various images and titbits of information are making their way online. We'll discuss ...",
@@ -1027,57 +1069,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected.md",
-      "title": "Diablo 4 Devs Explain Why the Necromancer Class Is Appearing Sooner Than Anyone Expected",
-      "excerpt": "Diablo 4 developers Joe Shely and Rod Fergusson go in-depth on the Necromancer, the fifth and final class in Blizzard's upcoming dungeon crawler.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2022/06/14/diabloiv-necromancer-blogroll-1655180489432.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

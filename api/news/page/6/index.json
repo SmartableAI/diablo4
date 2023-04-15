@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-21-can-you-play-diablo-4-offline.md",
+      "title": "Can you play Diablo 4 offline?",
+      "excerpt": "Each game’s player base inevitably has a large number of players that prefer playing offline or solo and Diablo 4 is no different. NOW READ: Is Diablo 4 gender locked? With this in mind, a question ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-can-you-play-diablo-4-offline/index.json",
+      "webUrl": "https://www.videogamer.com/news/can-you-play-diablo-4-offline/",
+      "originalUrl": "https://www.videogamer.com/news/can-you-play-diablo-4-offline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-open-beta.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-is-diablo-4-gender-locked.md",
       "title": "Is Diablo 4 gender locked?",
       "excerpt": "NOW READ: Is Diablo 4 pay to win? If this is something you’ve been pondering for a while now, then you’ve come to the right place. We’ll be taking a look at the avatar customization options available ...",
@@ -1090,57 +1132,6 @@
         "name": "Game Rant on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-fast-travel-all-waypoint-locations-guide.md",
-      "title": "Diablo 4 Fast Travel - All Waypoint Locations Guide",
-      "excerpt": "Discover all the Waypoint fast travel locations that are available during Diablo 4's beta. The world of Sanctuary has been ravaged once more by demonic hordes, and it's up to you to turn back the tide.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-fast-travel-all-waypoint-locations-guide/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4114682-diablo4waypointsfasttravelfracturedpeaksguidebeta-.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
-      "publishedDateTime": "2023-03-20T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

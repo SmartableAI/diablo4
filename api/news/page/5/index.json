@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-24-diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms.md",
+      "title": "Diablo 4 Item Drop Rate Increased For Open Beta, Blizzard Confirms",
+      "excerpt": "GameSpot may get a commission from retail offers. Diablo IV's early access beta and open beta feature higher than normal drop rates, Blizzard has confirmed. The news comes via Diablo general manager ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4116319-diablo4droprateincreasedforbeta.jpg",
+          "width": 1724,
+          "height": 970,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
+      "publishedDateTime": "2023-03-24T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-how-to-swap-weapons-in-diablo-4.md",
       "title": "How to swap weapons in Diablo 4",
       "excerpt": "For most classes it's automatic, but one class can switch them. If you're on the fence about whether or not to play Diablo 4 when it gets its full release in June, this weekend's open beta (opens in ...",
@@ -1115,48 +1166,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-can-you-play-diablo-4-offline.md",
-      "title": "Can you play Diablo 4 offline?",
-      "excerpt": "Each game’s player base inevitably has a large number of players that prefer playing offline or solo and Diablo 4 is no different. NOW READ: Is Diablo 4 gender locked? With this in mind, a question ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-can-you-play-diablo-4-offline/index.json",
-      "webUrl": "https://www.videogamer.com/news/can-you-play-diablo-4-offline/",
-      "originalUrl": "https://www.videogamer.com/news/can-you-play-diablo-4-offline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-open-beta.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
         "images": null,
         "publishers": null,
         "authors": null

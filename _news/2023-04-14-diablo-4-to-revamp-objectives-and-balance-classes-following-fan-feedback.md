@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blizzard applying some major changes to Diablo 4 based on feedback from the betas"
+    excerpt: "Blizzard has implemented a variety of fixes, and updates, to Diablo 4 since the beta weekends were held. The studio said the changes were made due to reviewing player feedback and gameplay data. The ..."
+    publishedDateTime: 2023-04-15T08:50:00Z
+    webUrl: "https://www.vg247.com/blizzard-applying-some-major-changes-to-diablo-4-based-on-feedback-from-the-betas"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 82
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo-4-100.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DZu/YgjfiNkFbub/wg/u741WVOi2rSKO4rm+P+j1miHTk2CeAOI1LopoafkfHAPGd+G6RkzYZr5vB2zsIc6zSxAdGrng8+EWPUEBXBDQe1trjUrSYOACpUhbpCk+GMlnLCx9Snupf58YxJVNOlSqYK3kWOActw1FPqZLEz5LnguzJyhSOxgj7lfYAWmBHL0zBC79JToMrEq4/VDbX+3GHfJSNQyujynI6ZhNy2j+QOa6QIlc620yJ7qyIta0Ea0elho8ksMUiWj0poUUk5tKrGkurCmTVdIGYlCdFiEl6NlFSxvrbevLL3Ek+oEOh9O6GgRbRYVhqHcvoVqsiiugz7u5kb6GelckresU6o3GB+U=;LH+O8KDbTQ2HFVPJfIUYbg=="
 ---
