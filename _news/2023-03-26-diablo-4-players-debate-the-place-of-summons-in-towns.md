@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-deb
 webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-debate-the-place-of-summons-in-towns/ar-AA195Hjq"
 type: article
 quality: 87
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Diablo 4 Players Want To Be Able To Play Offline"
-    excerpt: "Diablo 4 beta players are fed up with the always online requirements, calling on the devs to make it possible to play offline. This comes as the Diablo servers have struggled to keep up with demand, ..."
-    publishedDateTime: 2023-03-26T13:21:00Z
-    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-players-want-to-be-able-to-play-offline/ar-AA195Lpt"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195XQh.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "H0Q0fdmt/jsD2m8sWLmxCxjUsIc89edlnwEer0lZ//NOxN9A11HE6OHQHNeGmPVHRrXM21aHG49U8Keu0CbVc3xPrh2/3q+TmeF4VqGKrypyN0dGy4GnWhhTRNJWJoli4Cwgybqf/edT72bOfuGiZ3d8HOqSF4CIOGowHBDi7nwLuXitmJ3LK3WYaqe41HQEvGbw/Ckpd2HYX6AIexOSFwO7KI7R9Z9qTvb740xyMsBUay6V3MNON+NQQKWgkmC/36s93DoOjO1w0vbOZlrx08yvDwuy+/fjDHuS95ZtwEc5y1UyDXR81TGo6utpiVvLC08WuEI9NY3hpFUR+ySmS1M0S9yAAMbHpppqjdOo+74=;8SBaWVuxAIUgMbIh4pItDg=="
 ---
