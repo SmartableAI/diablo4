@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-31-diablo-4-esports-wont-have-blizzards-official-support.md",
+      "title": "Diablo 4 Esports Won't Have Blizzard's Official Support",
+      "excerpt": "Blizzard has confirmed that it has no plans to support Diablo 4 esports at this time. Esports in ARPGs isn't traditionally a major endeavor, as competition tends to focus heavily on PvE progression in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4-esports-wont-have-blizzards-official-support/index.json",
+      "webUrl": "https://www.msn.com/de-de/finanzen/technologie/diablo-4-esports-won-t-have-blizzard-s-official-support/ar-AA19exOC",
+      "originalUrl": "https://www.msn.com/de-de/finanzen/technologie/diablo-4-esports-won-t-have-blizzard-s-official-support/ar-AA19exOC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19eMCV.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-diablo-4-betas-world-boss-dominates-with-ten-million-player-kills.md",
       "title": "Diablo 4 beta’s world boss dominates with ten million player kills",
       "excerpt": "With the Diablo 4 beta coming to a close, Blizzard has shared some of the biggest numbers from the free test period, and world boss Ashava tops the rankings in style. With nearly 62 million hours of ...",
@@ -962,6 +1004,48 @@
       ]
     },
     {
+      "path": "_news/2023-03-27-diablo-4-best-class-to-play-solo.md",
+      "title": "Diablo 4: Best Class to Play Solo",
+      "excerpt": "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-best-class-to-play-solo/index.json",
+      "webUrl": "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A",
+      "originalUrl": "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game.md",
       "title": "Asmongold slams Diablo 4 Druid as “worst class” he’s played in the game",
       "excerpt": "Asmongold has labeled the Druid as the “worst class” in the Diablo 4 beta, so here’s what the popular Twitch streamer had to say. Asmongold has been busy delving into the dark dungeons of Diablo 4, ...",
@@ -1002,101 +1086,6 @@
       "topics": [
         "Diablo 4",
         "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4.md",
-      "title": "I Had To Complete Every World Event In Diablo 4",
-      "excerpt": "And so I had. I'd encountered world events before, but this was a special kind of world event. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Despite being a solo player, I was ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/public-quests-3.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch.md",
-      "title": "Does ‘Diablo 4’ Need To Buff Barbarian And Druid For Launch?",
-      "excerpt": "Diablo 4 beta players got to experience all five launch classes thanks to a pair of beta weekends, the second of which is about to wrap up just a few hours after I’m writing this.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
-      "publishedDateTime": "2023-03-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
       ]
     }
   ],

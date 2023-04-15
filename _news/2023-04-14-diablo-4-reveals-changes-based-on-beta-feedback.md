@@ -2,9 +2,9 @@
 category: news
 title: "Diablo 4 Reveals Changes Based on Beta Feedback"
 excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
-publishedDateTime: 2023-04-14T13:52:00Z
-originalUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
-webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
+publishedDateTime: 2023-04-14T23:04:00Z
+originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
+webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
 type: article
 quality: 87
 heat: -1
@@ -127,6 +127,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5BLh5pvKmRGxKfouVPciqx2KGYRr9qFPYX2xA5Lw+ODx5PoKHFhbPvDAznH7LHCvYEnErq10kWTY0jgznoTgL5iCYFrbMjVNa9k4iHLs3QVfUfNa2lOPYv5AeHWtEzTIKDaFYc4vp/E6Q4lXgK8gXhf1rjLOiTd3193HJA3isq7NvBk3FvB28YBB4oT0jCwh6YbRIQ2r0wlrVjO9nvgnb5WK7mTydZar3fZcnoKnQ3Ce2fzngRUT94up4Rz0Y1fx5q1BqqWzVh9538BBnvu0Bl1A2dn+2a8b/Tzxjp64+IfxT6tuiGSrKKP+QsLWIGkliakNGrWpANu18oAvA53o8bgaOIKHr4fRmI+95dKUzZc=;s5brsfmDPgKyPYh4ahGAMg=="
+secured: "VmsLq7emILLkWKHt9UhXooANcSqohfdQiDBGVpgJ47IHu8ZwEAejxWoXQl/tnTfQQcqA6bD2dYHhjsMWHnYE6pEJ6yzGucHFSdZlNIxasUcY/0l6dMWLMo/fsegHJycKPd9utf3RaX6WaHIbehpfes9yr7adj+IK8H6EZEd1fyf/bjR5telDMWgneTVEwaCoVNTgTF3FhiEput8zEHzPXHDhaRzU1+ZdrMqUjwO4F+8x9CsxMS6IwwtbPDd5RUlGWXpiwzbIXN7+j3ugrGntCyCtnOg4/do+cm1NDDpAHC+LgO0/JAP6BDQooaLDaTye20DvkTTfWyPezo0V9IQxcZUyBzy2X8s0X6tzqJ1P6HY=;zmtXu19pfMOr01NaELcJZQ=="
 ---
 

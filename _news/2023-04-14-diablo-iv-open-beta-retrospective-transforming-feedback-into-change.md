@@ -90,8 +90,8 @@ related:
         isCached: true
   - title: "Diablo 4 Reveals Changes Based on Beta Feedback"
     excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
-    publishedDateTime: 2023-04-14T13:52:00Z
-    webUrl: "https://www.msn.com/en-ca/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
+    publishedDateTime: 2023-04-14T23:04:00Z
+    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
     type: article
     provider:
       name: MSN
