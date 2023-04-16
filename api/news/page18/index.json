@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4.md",
+      "title": "Diablo 2: Resurrected PTR changes split fan opinion ahead of Diablo 4",
+      "excerpt": "Resurrected PTR changes introducing Sundered Charms that prevent full immunity on enemies in the fantasy RPG divide player opinion ahead of Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-18-diablo-2-resurrected-ptr-changes-split-fan-opinion-ahead-of-diablo-4/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "originalUrl": "https://www.pcgamesn.com/diablo-2-resurrected/ptr-charms-feedback",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/diablo-2-resurrected-ptr-sundered-charms-feedback.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-diablo-4-rogue-class-skills-and-imbue-system-guide.md",
       "title": "Diablo 4 Rogue class, skills, and imbue system guide",
       "excerpt": "Looking to find out more about the Diablo 4 Rogue class? Look no further. Created to fulfil a dexterity role, Rogue is a truly hybrid character who combines her excellence in both range and melee ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions.md",
-      "title": "Diablo 4 beta leaks spark smart loot and trading discussions",
-      "excerpt": "While the first Diablo 4 beta leaks may not be indicative of the final product, they have spawned conversations around smart loot and trading in the RPG game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-beta-leaks-smart-loot-trading.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

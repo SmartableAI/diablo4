@@ -3,8 +3,8 @@ category: news
 title: "Diablo 4 is Changing its Font"
 excerpt: "After receiving feedback during its open beta period, Diablo 4 announces it will be changing the typeface used in some places across the action RPG."
 publishedDateTime: 2023-04-15T13:41:07Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-changing-its-font/ar-AA19UdoX"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-changing-its-font/ar-AA19UdoX"
+originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-changing-its-font/ar-AA19UdoX"
+webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-changing-its-font/ar-AA19UdoX"
 type: article
 quality: 87
 heat: 87
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "iLmeROCO66SvKgsMzF3vJLwijjrsyRYcWrIzU2gpyLhDuUw207JGq3+BcSZ2MIz+TtyTDtNwoC5sQvk3GnyzF3o8OLlPG5gQ0NxsFEjv2jys+4UErOa3VztBdyLy8wpIRCq3jlSvwYS/7diuw/gXPCLhZBBkSYYdIh5yM7q+JRkWVWPszRumSjV/dMlGCLdjvkImFd/Dk6pZqzh9kzS2lTraS996KhA8LzO/St6J2y++TCyFt8ZkMidtnmlrs0ErxqQkdwXi1shm0b4Esma1niFx6Ws2hmnuhHOPl6GoJjswP5NFwCzDOq9DRInhBsrUkAJZ9xaXS6O7D0pUEaIUqKWDAou6Hapns1DSzyMkbZw=;Hf1ADuPlHOpPP+cbQ7EYbw=="
+secured: "yx5gIzwyCwuXvW7K5JCyrpzJNQXsQrAxzRlKRbslf34YVpuB2Piv82RpTZB6QYwdoye2X0IQSygmfsg4HaSG+PAwkNoW99liWQH61HJOZygx5aAWc/f+8me4ThzdC6Y8EjpswTlS4XSURjL/HYC/cHEIYNlUX9G5dfmiVXzjkhrmKgkvhbwXi8zvS8wntBLl7FlGoJtBRCOC6uK3LUopjOoERTEuXFt4fRcre9Ht/kwVz9WXR96BbWsKpq9snakZYeD0kKd9ucIfZKb7vNwwm5Lx+FhtAyZ/CMSmmo8DkE8xxHtAooNDXAsh3BavyX+mXyBh34b+bjiflKRnLjrZ6OF2s6LSpezDyTjYyOha/yM=;srHwbiFWE2xH9jPMyaKKzw=="
 ---
 

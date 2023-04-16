@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op.md",
+      "title": "Diablo 4: How to play with friends in multiplayer co-op",
+      "excerpt": "Diablo 4 is a blast when you're on your own, but it's even better when you team up with friends — and we're not talking about Necromancer summons. Indeed, much like the series' past hack-and-slash ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195ajk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-diablo-4-beta-best-necromancer-build.md",
       "title": "Diablo 4 Beta: Best Necromancer Build",
       "excerpt": "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ...",
@@ -1048,48 +1090,6 @@
       "provider": {
         "name": "Polygon",
         "domain": "polygon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-all-diablo-4-dungeon-locations-and-their-aspects.md",
-      "title": "All Diablo 4 dungeon locations and their aspects",
-      "excerpt": "Tracking down all the Diablo 4 dungeons may seem like a slog, but if you're after an easy way to level up and some powerful Aspects for your build, it's certainly worth the effort. Dungeons may not ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-all-diablo-4-dungeon-locations-and-their-aspects/index.json",
-      "webUrl": "https://www.vg247.com/diablo-4-dungeons-locations-aspects",
-      "originalUrl": "https://www.vg247.com/diablo-4-dungeons-locations-aspects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.vg247.com/diablo-4-dungeons-locations.jpg/BROK/thumbnail/1200x630/diablo-4-dungeons-locations.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta.md",
+      "title": "How to pre-register for the Diablo 4 closed beta",
+      "excerpt": "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta/index.json",
+      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp",
+      "publishedDateTime": "2022-06-14T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected.md",
       "title": "Diablo 4 Devs Explain Why the Necromancer Class Is Appearing Sooner Than Anyone Expected",
       "excerpt": "Diablo 4 developers Joe Shely and Rod Fergusson go in-depth on the Necromancer, the fifth and final class in Blizzard's upcoming dungeon crawler.",
@@ -1105,48 +1156,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-diablo-4-will-have-an-in-game-store-job-ad-confirms.md",
-      "title": "Diablo 4 will have an in-game store, job ad confirms",
-      "excerpt": "It’s now confirmed, perhaps to no one’s surprise: there will be an in-game Diablo IV store when the RPG game finally releases. Activision Blizzard is currently hiring someone to manage this “Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-11-diablo-4-will-have-an-in-game-store-job-ad-confirms/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/in-game-store",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/in-game-store",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/06/diablo-4-in-game-store.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-11T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
