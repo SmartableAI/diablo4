@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-31-things-about-diablo-4-that-have-us-worried.md",
+      "title": "Things About Diablo 4 That Have Us Worried",
+      "excerpt": "\"Diablo 4\" is on the way and fans are excited to get their hands on the next entry in the iconic series. Based on critical reactions to the beta, things are looking good so far with the game receiving ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-things-about-diablo-4-that-have-us-worried/index.json",
+      "webUrl": "https://www.msn.com/en-in/entertainment/gaming/things-about-diablo-4-that-have-us-worried/ar-AA19jLJz",
+      "originalUrl": "https://www.msn.com/en-in/entertainment/gaming/things-about-diablo-4-that-have-us-worried/ar-AA19jLJz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19jsKA.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-the-druid-is-the-manbearwolf-of-diablo-4.md",
       "title": "The Druid Is The ManBearWolf Of Diablo 4",
       "excerpt": "After spending a weekend exploring Diablo 4’s freshly unlocked Druid class, I was left with the resounding impression that despite passing the level 20 mark, I had barely scratched the surface. Maybe ...",
@@ -786,6 +828,48 @@
       ]
     },
     {
+      "path": "_news/2023-03-28-can-you-still-play-the-diablo-4-beta.md",
+      "title": "Can you still play the Diablo 4 beta",
+      "excerpt": "Can you still play the Diablo 4 beta is a question that many will be asking, now that the extremely busy open beta weekend has officially drawn to a close. After getting a taste of what's to come in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-can-you-still-play-the-diablo-4-beta/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-beta-can-you-still-play/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-beta-can-you-still-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years.md",
       "title": "Diablo 4’s Beta Dungeon Problem Could Haunt Blizzard for Years",
       "excerpt": "Diablo 4 is one of the highest-anticipated releases of the year, but after two beta weekends granting access to a sizable chunk of the game, many players are concerned about the repetitive dungeon ...",
@@ -815,6 +899,48 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be.md",
+      "title": "This Diablo 4 map reveals just how big the full game will be",
+      "excerpt": "The past couple of weeks I've been wholly addicted to Diablo 4, a hellish action RPG from Blizzard. For those who were wondering just how big Diablo 4's full map is, I recently dropped a post on ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/this-diablo-4-map-reveals-just-how-big-the-full-game-will-be",
+      "originalUrl": "https://www.windowscentral.com/gaming/this-diablo-4-map-reveals-just-how-big-the-full-game-will-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n479QRmwkaYK5DbzTRQRdH-1200-80.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -937,132 +1063,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-27T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice.md",
-      "title": "Diablo 4 dev explains the real meaning behind that prologue dialogue choice",
-      "excerpt": "That dialogue choice you're given in the Diablo 4 beta's prologue isn't meaningless, even if your decision doesn't impact the story at all. Before we go any further, here's a spoiler warning for the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice/ar-AA199kl2",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-dev-explains-the-real-meaning-behind-that-prologue-dialogue-choice/ar-AA199kl2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199mzd.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=668&y=192",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice.md",
-      "title": "Diablo 4 quest designer explains how they put the RP in RPG with one simple choice",
-      "excerpt": "An early Diablo 4 quest lets you pick what troubles you the most for a cleansing ritual. Your choice doesn't change how the story plays out, but the quest accomplishes two important goals early in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199nrn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=489&y=256",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years.md",
-      "title": "Diablo 4’s Beta Dungeon Problem Could Haunt Blizzard for Years",
-      "excerpt": "Diablo 4 is one of the highest-anticipated releases of the year, but after two beta weekends granting access to a sizable chunk of the game, many players are concerned about the repetitive dungeon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198LB9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
