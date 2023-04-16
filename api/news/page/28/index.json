@@ -2,6 +2,142 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-09-30-take-a-look-at-diablo-4s-very-literal-new-skill-tree.md",
+      "title": "Take A Look At Diablo 4’s Very Literal New Skill Tree",
+      "excerpt": "Diablo 4. Blizzard. Blizzard has been doing these pretty informative, interesting quarterly updates about the state of development of Diablo 4, which is still several years away, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-take-a-look-at-diablo-4s-very-literal-new-skill-tree/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f74853f9293a9c354ae8569%2F0x0.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2020/09/30/take-a-look-at-diablo-4s-very-literal-new-skill-tree/amp/",
+      "publishedDateTime": "2020-09-29T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed.md",
+      "title": "Diablo 4 Skill and Talent Changes, Sorceress Enchantment System Revealed",
+      "excerpt": "Blizzard Entertainment isn’t any closer to offering a release date for Diablo 4. However, in its latest quarterly update, the development team does outline changes to the Skill system and Talents ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed",
+      "originalUrl": "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-skill-and-talent-changes-sorceress-enchantment-system-revealed/amp",
+      "publishedDateTime": "2020-09-29T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-diablo-4s-revamped-skill-trees-aim-to-reduce-emphasis-on-items.md",
+      "title": "Diablo 4’s Revamped Skill Trees Aim To Reduce Emphasis On Items",
+      "excerpt": "Blizzard's quarterly update on the upcoming Diablo 4 reveals a bigger emphasis on class skills with a more robust system and less on items.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-09-30-diablo-4s-revamped-skill-trees-aim-to-reduce-emphasis-on-items/index.json",
+      "webUrl": "https://geekculture.co/diablo-4-revamped-skill-tree/",
+      "originalUrl": "https://geekculture.co/diablo-4-revamped-skill-tree/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://geekculture.co/wp-content/uploads/2020/09/diablo-4-new-skill-tree-system-featured-1-768x320.jpg",
+          "width": 768,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEGO",
+        "domain": "geekculture.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-diablo-iv-quarterly-updateseptember-2020.md",
       "title": "Diablo IV Quarterly Update—September 2020",
       "excerpt": "Join the Diablo IV team in learning more about the progress the team has made so far in this next Quarterly Developer Update. This time we take a closer look at a long-requested topic: Skills and Talents!",
@@ -980,142 +1116,6 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-05-14-scared-for-my-life-diablo-4-official-announcement-cinematic-trailer-reaction.md",
-      "title": "SCARED FOR MY LIFE!! | Diablo 4 - Official Announcement Cinematic Trailer | REACTION",
-      "excerpt": "If you enjoyed please like,comment, and subscribe! I love all you guys help me grow! Hope yall have a great day! THANKS FOR WATCHING!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-05-14-scared-for-my-life-diablo-4-official-announcement-cinematic-trailer-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-05-14-scared-for-my-life-diablo-4-official-announcement-cinematic-trailer-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=1XyVhLoCBY0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1XyVhLoCBY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1XyVhLoCBY0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-14T11:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrueGawd",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-diablo-iv-announce-cinematic-by-three-they-come-reaction.md",
-      "title": "Diablo IV Announce Cinematic | By Three They Come | REACTION",
-      "excerpt": "One of the most awaited games! DIABLO! Come join us as we react to Diablo IV Announce Cinematic - By Three They Come! Be scared and be amazed in this ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-03-17-diablo-iv-announce-cinematic-by-three-they-come-reaction/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2020-03-17-diablo-iv-announce-cinematic-by-three-they-come-reaction/",
-      "originalUrl": "https://youtube.com/watch?v=-hfXNfAFMOM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-hfXNfAFMOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-hfXNfAFMOM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T04:32:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MJoy4Fun",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-diablo-iv-quarterly-updatefebruary-2020.md",
-      "title": "Diablo IV Quarterly Update—February 2020",
-      "excerpt": "Join the Diablo IV team in previewing the content we&amp;#39;re hard at work developing! In our first quarterly update, we dig into UI design, PC controller support, couch co-op, and the savage cannibals of the Dry Steppes.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-02-26-diablo-iv-quarterly-updatefebruary-2020/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23308274/diablo-iv-quarterly-update-february-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23308274/diablo-iv-quarterly-update-february-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/gallery/NC9DXF73C74Z1582662150907.jpg",
-          "width": 706,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
         "Diablo 4"
       ]
     }
