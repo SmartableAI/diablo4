@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Diablo 4 Player Solos World Boss Ashava In Hardcore Mode"
-    excerpt: "Diablo 4's second beta weekend has come to an end and some of you talented lot have already been pulling off some pretty remarkable feats. Perhaps none quite as remarkable as a streamer who ..."
-    publishedDateTime: 2023-03-28T03:31:00Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-player-solos-world-boss-ashava-in-hardcore-mode/ar-AA19aoow"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19avuE.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 beta’s world boss dominates with ten million player kills"
     excerpt: "With the Diablo 4 beta coming to a close, Blizzard has shared some of the biggest numbers from the free test period, and world boss Ashava tops the rankings in style. With nearly 62 million hours of ..."
     publishedDateTime: 2023-03-31T03:14:00Z

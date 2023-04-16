@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-altars-of-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-altars-of-lilith-will-not-reset-every-season/ar-AA19UGPU"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
-secured: "0xmOLOwT6W6Ywef1lzLfjw6cokj/vS6Fj7dfVohJcFprnbzT2kwDD2VVKLFCPhB4N5Q/TojTOYva8Pe7m6hPXfv6i7o6ztPvJ+2JAiIlpoCCHJM5JMsTvRp70AXXr4MkFAJV+bjttBUyn5U1/hD9+BqHt1yhNKCKJf2vID+zyooGQfgFDSWvH90ouHDHjwSGCMoH3jdTnrtM9vax8vAGOuRQUDo9RTr6lZ3gQ9+c8wZAwLrqwo0CZBwLhqMiPI0EnIzLOI3Nqc/kfwkpbXe6PZ8OZeI7HaW62cS4KTha6EOnT2ym8vDJ9IRiBDNcO1XUXr/UOP+M1CJ6wkQYgezHnbjavig79kfpkyRwxKhudCo=;G3SLbo1z4wbAfsRGclH3qQ=="
+related:
+  - title: "Diablo 4: Altars of Lilith Will Not Reset Every Season"
+    excerpt: "Diablo 4 will keep its open world experience free of unnecessary chores, as Altars of Lilith will persist across seasons. With the Open Beta in late March concluded, player feedback on Diablo 4 was ..."
+    publishedDateTime: 2023-04-16T12:10:00Z
+    webUrl: "https://www.msn.com/de-de/unterhaltung/other/diablo-4-altars-of-lilith-will-not-reset-every-season/ar-AA19UGPU"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19UwXv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "LiWlpYNY7tPhkykwNcigfEAlf+UHiGhyMY9jcIpn0s4ILv1t7I37ggJnMiunLqYLF8np3KnTmZNjqIs3DP5bjJpubDd98tLS3diF1Ed8Q0K6WwD4/j3Wwkdf318hpFiZ2OOfrhav1VokwK9mWW1D9hLmDI7R100boSwZmLjMyVZ7akxfDMaCwe4N35dCoVdEP/D8o+hLxUUz0PcKZdgWXWaL2f4ziDNP3YWDodzMC6tolN2POQxmSAW2efjK6Z4d6yFdfFU8RaiHErzqk0bb004iKBpxZ33fJ0wIwx28okCj5hi4sMA7rlZTRjE8UiFt31LJug6ntOhkgIF5xIuv9QztNI2YFkj0lkZD59ilk48=;dNGvK/+mn5oPcg86wBjixg=="
 ---
 
