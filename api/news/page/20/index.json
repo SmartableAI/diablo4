@@ -2,6 +2,48 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4.md",
+      "title": "Asmongold explains why he’s worried about Diablo 4",
+      "excerpt": "Twitch streamer Asmongold has voiced concerns for Diablo 4 citing issues with D3 and Diablo Immortal for the lack of hype.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
+      "originalUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-asmongold-critic-immortal-blizzard.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
+      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
+      "publishedDateTime": "2022-06-14T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta.md",
       "title": "How to pre-register for the Diablo 4 closed beta",
       "excerpt": "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet.",
@@ -1115,48 +1157,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access.md",
-      "title": "How to join Diablo 4 beta: Pre-register for PC, Xbox & PS5 test access",
-      "excerpt": "Diablo 4 beta sign-ups are now live for Battle.Net users, so if you want to get involved with the next battle in Sanctuary, here's what you need to know.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-how-to-join-diablo-4-beta-pre-register-for-pc-xbox-ps5-test-access/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/",
-      "originalUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/12/How-to-join-Diablo-4-beta-Pre-register-for-PC-Xbox-PS5-test-access-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp",
-      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-to-join-diablo-4-beta-sign-up-pre-register-access-1845993/?amp",
-      "publishedDateTime": "2022-06-11T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
