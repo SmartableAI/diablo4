@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-show
 webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Holy hell, Diablo 4's full map is huge compared to the beta portion"
-    excerpt: "The Diablo 4 beta consumed my life for two whole weekends, but its map is only a small fraction of the world that'll be available at launch on June 6. In the beta, which ran for two weekends this ..."
-    publishedDateTime: 2023-03-27T16:30:00Z
-    webUrl: "https://www.gamesradar.com/holy-hell-diablo-4s-full-map-is-huge-compared-to-the-beta-portion/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cjZKMv3KTnHYbjq4V7FJAK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Can you still play the Diablo 4 beta"
     excerpt: "Can you still play the Diablo 4 beta is a question that many will be asking, now that the extremely busy open beta weekend has officially drawn to a close. After getting a taste of what's to come in ..."
     publishedDateTime: 2023-03-28T03:23:00Z
