@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 buffing Barbarians and nerfing Necromancers in post-beta update"
+    excerpt: "Blizzard has revealed some of the changes it's making to Diablo 4 following the recent beta playtests, and from what I can see, it's addressing the biggest concerns I believe people had. One of those ..."
+    publishedDateTime: 2023-04-17T07:12:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-buffing-barbarians-and-nerfing-necromancers-in-post-beta-update"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 86
+    images:
+      - url: "https://assetsio.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "b6HMZF9qRIoQHK7LyLSlZleyLGKbhOfYN/hMFM5sqpPJ7GLCx6A7YnvVhU7KY4uFF8Hf41959bJxHe19h5sFxb6ypbYJHnFNJwrH/vFLlssAL9WbaAPDNztvmCdipAVvgKmtUUKlziosH0nUhhZP9FlQUkCNZ0gGYOQwO8HCcTbBaqRp+RxYLY2+RcpAxZI6Gt9qT1fuK9r4xTfkCFxm19MvVAmjoEeiaUatNa1q4sJppa/EiI8zqTYBr1UmzTO+8hrVdt6tZsDEiyQwG0BNIHeks3tT2t5u1d2Q8UBD8EYHE9SYc4T6pz0kmi8MDCN64gzzXtnABy5ymEbpFIgJpLVIfItsG2ZyitgxWj7TO3o=;eY8kkASWGp257Q3uoHALIA=="
 ---
