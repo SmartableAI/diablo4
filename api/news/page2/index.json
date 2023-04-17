@@ -2,6 +2,150 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-12-is-diablo-4-trading-big-expansions-for-seasonal-story-content-no.md",
+      "title": "Is ‘Diablo 4’ Trading Big Expansions For Seasonal Story Content? (No)",
+      "excerpt": "While we know that Diablo 4 is planning to be a live service and having seasons like Diablo 3 has for the past decade or so, things seem to be altering one of the core historical parts of the game, if recent interviews are indications of anything.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-12-is-diablo-4-trading-big-expansions-for-seasonal-story-content-no/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6414fd32008bcd0c557ffb6c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/amp/",
+      "publishedDateTime": "2023-04-11T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-big-new-announcements-for-diablo-4.md",
+      "title": "Big NEW Announcements for Diablo 4!",
+      "excerpt": "Watch LIVE https://www.twitch.tv/toyhouze Click for More   If you haven't been keeping up with Diablo 4 announcements, we're ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-07-big-new-announcements-for-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-07-big-new-announcements-for-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=tFC74hqB5r0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tFC74hqB5r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T08:00:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toyhouze",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-diablo-iv-inside-the-game-into-the-endgame.md",
+      "title": "Diablo IV Inside the Game: Into the Endgame",
+      "excerpt": "Join members of the Diablo IV development team as they pull back the curtain on the experiences waiting for you in the endgame.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-05-diablo-iv-inside-the-game-into-the-endgame/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/v9/V953OPV7CKRK1680311743200.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-diablo-4-quality-of-life-suggestion-would-be-big-for-co-op.md",
       "title": "Diablo 4 Quality of Life Suggestion Would Be Big for Co-Op",
       "excerpt": "The Diablo 4 open beta recently ended, and while many players enjoyed it, one thinks a key co-op feature was notably absent.",
@@ -941,132 +1085,6 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-can-you-still-play-the-diablo-4-beta.md",
-      "title": "Can you still play the Diablo 4 beta",
-      "excerpt": "Can you still play the Diablo 4 beta is a question that many will be asking, now that the extremely busy open beta weekend has officially drawn to a close. After getting a taste of what's to come in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-can-you-still-play-the-diablo-4-beta/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-beta-can-you-still-play/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-beta-can-you-still-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years.md",
-      "title": "Diablo 4’s Beta Dungeon Problem Could Haunt Blizzard for Years",
-      "excerpt": "Diablo 4 is one of the highest-anticipated releases of the year, but after two beta weekends granting access to a sizable chunk of the game, many players are concerned about the repetitive dungeon ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years/index.json",
-      "webUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
-      "originalUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198LB9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be.md",
-      "title": "This Diablo 4 map reveals just how big the full game will be",
-      "excerpt": "The past couple of weeks I've been wholly addicted to Diablo 4, a hellish action RPG from Blizzard. For those who were wondering just how big Diablo 4's full map is, I recently dropped a post on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/this-diablo-4-map-reveals-just-how-big-the-full-game-will-be",
-      "originalUrl": "https://www.windowscentral.com/gaming/this-diablo-4-map-reveals-just-how-big-the-full-game-will-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/n479QRmwkaYK5DbzTRQRdH-1200-80.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null

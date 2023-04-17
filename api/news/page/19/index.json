@@ -2,6 +2,141 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update.md",
+      "title": "Monetization and Paid Season Pass Announced - Diablo 4 HUGE Quarterly Update",
+      "excerpt": "Official Diablo 4 Blog Post: https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-08-18-monetization-and-paid-season-pass-announced-diablo-4-huge-quarterly-update/",
+      "originalUrl": "https://youtube.com/watch?v=vCvq-fIGZjY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vCvq-fIGZjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T14:59:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sweet Phil",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-diablo-iv-quarterly-updateaugust-2022.md",
+      "title": "Diablo IV Quarterly Update—August 2022",
+      "excerpt": "We’re back with another Diablo IV Quarterly Update, fresh from the Burning Hells! Join our development team as they introduce and elaborate on Diablo IV’s Seasons and Season Journeys.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-iv-quarterly-updateaugust-2022/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816415/diablo-iv-quarterly-update-august-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/a8/A88KX5PHSGB41660608957353.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content.md",
+      "title": "Diablo 4 will have a season pass, cosmetic shop and years of post-release content",
+      "excerpt": "Diablo 4's latest quarterly update outlines post-release update plans, including season pass and cosmetic shop.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-18-diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content/index.json",
+      "webUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
+      "originalUrl": "https://www.rockpapershotgun.com/diablo-4-will-have-a-season-pass-cosmetic-shop-and-years-of-post-release-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.rockpapershotgun.com/diablo-4-post-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-4-post-release.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock Paper Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-diablo-4-shop-to-sell-cosmetic-only-outfits-season-pass-with-free-and-paid-tiers.md",
       "title": "Diablo 4 shop to sell cosmetic-only outfits, Season Pass with free and paid tiers",
       "excerpt": "The latest quarterly update for Diablo 4 is all about the game's live service systems. Blizzard Entertainment confirms there will be a Season Pass with paid and free tiers, with Diablo 4 aiming for ...",
@@ -949,132 +1084,6 @@
       "provider": {
         "name": "levelup",
         "domain": "levelup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-07-17-you-can-get-diablo-4-beta-access-with-a-permanent-flesh-mark.md",
-      "title": "You can get Diablo 4 beta access with a permanent flesh mark",
-      "excerpt": "Players taking part in the Diablo Hell’s Ink promotion to get a free flash tattoo are also being given Diablo 4 beta access and a free copy of the RPG game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-17-you-can-get-diablo-4-beta-access-with-a-permanent-flesh-mark/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-access-tattoo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/07/diablo-4-beta-access-tattoo-flesh-tribute.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-16T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood.md",
-      "title": "Diablo 4 Necromancer gameplay preview showcases new ways to explode corpses or shower enemies in blood",
-      "excerpt": "The Necromancer in Diablo 4 has been outlined in one of the Diablo 4 Quarterly Updates, which we talked about somewhat briefly in the overall roundup post ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-21-diablo-4-necromancer-gameplay-preview-showcases-new-ways-to-explode-corpses-or-shower-enemies-in-blood/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
-      "originalUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2022/06/D4NecroHeader.png",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/21/necromancers-diablo-4/amp/",
-      "publishedDateTime": "2022-06-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat.md",
-      "title": "How long is Diablo 4? Main campaign length & time to beat",
-      "excerpt": "If you're wondering how long will it take to complete the main campaign of Diablo 4 with story details, here's everything you need to know.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-20-how-long-is-diablo-4-main-campaign-length-time-to-beat/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
-      "originalUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/20/diablo-4-campaign-length.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
-      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/how-long-is-diablo-4-campaign-1851294/?amp",
-      "publishedDateTime": "2022-06-19T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
         "images": null,
         "publishers": null,
         "authors": null
