@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-14-diablo-4-battle-pass-explained-cost-rewards-how-long-to-complete.md",
+      "title": "Diablo 4 Battle Pass explained: cost, rewards, how long to complete",
+      "excerpt": "The Diablo 4 Battle Pass is a one of the game's new additions to the long running series, and we have the rundown on what you can expect from its debut in the new title. Thanks to some recent comments from within Blizzard, we're starting to learn more and",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-battle-pass-explained-cost-rewards-how-long-to-complete/index.json",
+      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779",
+      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/gaming/article29703621.ece/ALTERNATES/s1200/0_YFofpuCM3oV2Ucz6pGxhec.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp",
+      "publishedDateTime": "2023-04-13T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer.md",
+      "title": "New Diablo 4 Trailer Is All About the Sorcerer",
+      "excerpt": "Blizzard Entertainment released a new trailer of its upcoming RPG Diablo 4, focusing on one of the playable classes available in the game, the sorcerer.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer/index.json",
+      "webUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "originalUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2023-04/Diablo%204%20Sorcerer.jpg?itok=d6rpcEQ9",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRaptor",
+        "domain": "techraptor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-diablo-4-is-no-mmo-youll-be-blowing-up-screens-of-monsters.md",
       "title": "Diablo 4 is no MMO – you’ll be “blowing up screens of monsters”",
       "excerpt": "If the Diablo 4 endgame video didn’t get you excited for Blizzard’s upcoming action RPG game, then I don’t know what will. There’s fearsome world bosses, all-new Nightmare Dungeons, a tree made of literal faces – take your pick, Sanctuary has it",
@@ -992,99 +1076,6 @@
       "provider": {
         "name": "DualShockers on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-diablo-4-xbox-series-x-bundle-revealed-preorders-available-now.md",
-      "title": "Diablo 4 Xbox Series X Bundle Revealed, Preorders Available Now",
-      "excerpt": "This bundle doesn't dress the Xbox Series X up in any eye-catching colors, but the retail box does feature Diablo IV antagonist Lilith as she glares into your soul. It's a very ni ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1601/16018044/4118556-diablo-4-xbox.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "publishedDateTime": "2023-03-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-29-diablo-4-players-tired-of-having-to-teleport-just-to-access-storage-system.md",
-      "title": "Diablo 4 players tired of having to teleport just to access storage system",
-      "excerpt": "Now that the Early Access and Open Beta periods for Diablo 4 have concluded, players are now fiercely debating the features that they loved and disliked during the premature preview of the game. Most ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-29-diablo-4-players-tired-of-having-to-teleport-just-to-access-storage-system/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-players-tired-of-having-to-teleport-just-to-access-storage-system/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-players-tired-of-having-to-teleport-just-to-access-storage-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
         "images": null,
         "publishers": null,
         "authors": null

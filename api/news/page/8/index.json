@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-19-diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter.md",
+      "title": "Diablo 4’s Butcher is mass murdering beta players in dungeons due to a rare random encounter",
+      "excerpt": "Diablo 4 beta players are running into an extremely difficult enemy within their dungeons, causing them to be butchered en masse.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter-2090651/",
+      "originalUrl": "https://www.dexerto.com/diablo/diablo-4s-butcher-is-mass-murdering-beta-players-in-dungeons-due-to-a-rare-random-encounter-2090651/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/20/the-butcher-image.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-diablo-4-max-level-whats-the-level-cap.md",
+      "title": "Diablo 4 max level: What’s the level cap?",
+      "excerpt": "After a decade, fans are excited by the launch of Diablo 4 and the Early Access and Open Betas. During the Beta periods, players can explore the Fractured Peaks of the Sanctuary by clearing hordes ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-max-level-whats-the-level-cap/index.json",
+      "webUrl": "https://dotesports.com/diablo/news/diablo-4-max-level-whats-the-level-cap",
+      "originalUrl": "https://dotesports.com/diablo/news/diablo-4-max-level-whats-the-level-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dotesports.com/wp-content/uploads/2023/03/Dot-Esports-Image-2023-03-19T221230.029.jpg?resize=768,432",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dot Esports",
+        "domain": "dotesports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations.md",
       "title": "Diablo 4 - All Altar Of Lilith Statues And Locations",
       "excerpt": "The statues are difficult to find, but they unlock some incredible benefits for Diablo 4 players When exploring the world of Sanctuary in Diablo 4, there is plenty to look out for. Whether you're ...",
@@ -1082,90 +1166,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-diablo-4-error-code-300202-how-to-fix.md",
-      "title": "Diablo 4 Error Code 300202 – how to fix?",
-      "excerpt": "Thousands of people tried to get onto the Diablo 4 servers at once, only to be met with the error code 300202. Amongst others (34202 & 315306), it’s clear that the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-error-code-300202-how-to-fix/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-error-code-300202-how-to-fix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-error-code-300202.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-best-graphics-settings-for-diablo-4-beta.md",
-      "title": "Best graphics settings for Diablo 4 Beta",
-      "excerpt": "We’re covering the best graphics settings for the Diablo 4 Beta, with optimised options for DLSS 3, HDR, & more. The Diablo 4 Beta weekend runs between March 17th – 19th, so if you’re trying to get ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-best-graphics-settings-for-diablo-4-beta/index.json",
-      "webUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
-      "originalUrl": "https://www.videogamer.com/news/best-graphics-settings-for-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Best-graphics-settings-for-Diablo-4-beta.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
