@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-12-diablo-4-to-get-story-updates-every-3-months.md",
+      "title": "Diablo 4 to get story updates every 3 months",
+      "excerpt": "These updates are planned to include story content, so there are regularly new storylines for players to experience. Diablo 4 is scheduled to launch on June 6, 2023, with early access on June 2 for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-12-diablo-4-to-get-story-updates-every-3-months/index.json",
+      "webUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-to-get-story-updates-every-3-months/ar-AA19MBhz",
+      "originalUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-to-get-story-updates-every-3-months/ar-AA19MBhz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19MyFr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=629&y=86",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-is-diablo-4-trading-big-expansions-for-seasonal-story-content-no.md",
       "title": "Is ‘Diablo 4’ Trading Big Expansions For Seasonal Story Content? (No)",
       "excerpt": "While we know that Diablo 4 is planning to be a live service and having seasons like Diablo 3 has for the past decade or so, things seem to be altering one of the core historical parts of the game, if recent interviews are indications of anything.",
@@ -103,7 +145,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -1043,48 +1085,6 @@
       "provider": {
         "name": "GamesRadar+",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice.md",
-      "title": "Diablo 4 quest designer explains how they put the RP in RPG with one simple choice",
-      "excerpt": "An early Diablo 4 quest lets you pick what troubles you the most for a cleansing ritual. Your choice doesn't change how the story plays out, but the quest accomplishes two important goals early in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/index.json",
-      "webUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "originalUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199nrn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=489&y=256",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

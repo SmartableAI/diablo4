@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win.md",
+      "title": "Diablo 4 lead doesn't want players to \"feel like they can pay to win\"",
+      "excerpt": "The lead developers of Diablo 4 have stressed that they don't want players to \"feel like they can pay to win\" when the game releases next year. In a recent Diablo 4 livestream, game director Joe Shely ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-16-diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-lead-doesnt-want-players-to-feel-like-they-can-pay-to-win/ar-AA15mtEc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA153feB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=286",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+ on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-diablo-4-limited-collectors-edition-revealed-doesnt-include-the-game.md",
       "title": "Diablo 4 Limited Collector's Edition Revealed, Doesn't Include The Game",
       "excerpt": "Priced at $96.66, the Diablo 4 collector's edition does not include a copy of the game but does sport some killer mood lighting.",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "wudijo",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil.md",
-      "title": "Diablo 4 preview: A darker take on the devil",
-      "excerpt": "THERE is no release date for Diablo 4, but Blizzard has allowed press to see an early — and very limited — build of the game. After a week with this build, we’ve got a good idea of what the game ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil/index.json",
-      "webUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
-      "originalUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/Barb_CharacterModel2.png?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
-      "publishedDateTime": "2022-12-07T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

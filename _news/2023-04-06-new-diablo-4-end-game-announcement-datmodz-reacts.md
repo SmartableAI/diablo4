@@ -39,6 +39,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Your guide to Diablo IV’s gameplay"
+    excerpt: "Learn a few tips and tricks to help you prepare to fight for the fate of the world."
+    publishedDateTime: 2023-04-17T17:14:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "3 games to play while waiting for Diablo 4"
     excerpt: "With the recent beta closed, here are the best games to scratch that dungeon-crawler itch Last week’s Diablo 4 beta has come and gone, and unless Blizzard decides (last-minute) to host another before ..."
     publishedDateTime: 2023-04-01T05:00:00Z
