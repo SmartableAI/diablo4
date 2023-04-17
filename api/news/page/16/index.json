@@ -2,6 +2,90 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-11-11-how-diablo-4s-world-tiers-change-the-series-difficulty-options.md",
+      "title": "How Diablo 4's World Tiers Change The Series' Difficulty Options",
+      "excerpt": "\"Diablo\" is a linear, progression-based series. However, that's about to change. Here's how Diablo 4's World Tiers change the series' difficulty options.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-world-tiers-change-the-series-difficulty-options/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4-s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4-s-world-tiers-change-the-series-difficulty-options/ar-AA13ZUv4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13ZN2P.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T19:31:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SVG on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3.md",
+      "title": "How Diablo 4's Legendary Items Differ From Diablo 3",
+      "excerpt": "It's no surprise that \"Diablo 4\" is already distancing itself from the mess that \"Diablo Immortal\" ended up being, and the pay-to-win mobile game isn't the only franchise embarrassment it's trying to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-11-how-diablo-4s-legendary-items-differ-from-diablo-3/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/how-diablo-4s-legendary-items-differ-from-diablo-3/ar-AA13ZQjx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13ZTcl.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
       "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
       "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
@@ -973,90 +1057,6 @@
       "provider": {
         "name": "GameRant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate.md",
-      "title": "Diablo 4 uniques scale to character level, sparking RPG fan debate",
-      "excerpt": "Reports that Diablo 4 uniques scale with character level cause fans to ask how they’re unique in Blizzard’s fantasy RPG game as it prepares for more beta tests ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-uniques-scaling-character-level-blizzard-rpg-debate.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-diablo-4-endgame-beta-invites-are-coming-leaks-blizzard-president.md",
-      "title": "Diablo 4 endgame beta invites are coming, leaks Blizzard president",
-      "excerpt": "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-25-diablo-4-endgame-beta-invites-are-coming-leaks-blizzard-president/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

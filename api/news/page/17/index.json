@@ -2,6 +2,90 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate.md",
+      "title": "Diablo 4 uniques scale to character level, sparking RPG fan debate",
+      "excerpt": "Reports that Diablo 4 uniques scale with character level cause fans to ask how they’re unique in Blizzard’s fantasy RPG game as it prepares for more beta tests ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-03-diablo-4-uniques-scale-to-character-level-sparking-rpg-fan-debate/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/uniques-scaling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-uniques-scaling-character-level-blizzard-rpg-debate.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-diablo-4-endgame-beta-invites-are-coming-leaks-blizzard-president.md",
+      "title": "Diablo 4 endgame beta invites are coming, leaks Blizzard president",
+      "excerpt": "The Diablo 4 endgame beta is the next step following the friends and family test, and Blizzard president Mike Ybarra has leaked the upcoming invite email ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-25-diablo-4-endgame-beta-invites-are-coming-leaks-blizzard-president/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/endgame-beta-blizzard-president",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-endgame-beta-leaked-blizzard-president.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-end-game-beta-test-for-diablo-4-has-been-leaked.md",
       "title": "End game beta test for Diablo 4 has been leaked",
       "excerpt": "Well, Blizzard has recently started its closed beta test for the game and players have reportedly been receiving invites to it. Players invited into the beta test will have to sign a Non-Disclosure ...",
@@ -991,90 +1075,6 @@
       "provider": {
         "name": "NME",
         "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat.md",
-      "title": "Huge Diablo 4 Leak Reveals Nearly 45 Minutes Of Gameplay Including Combat",
-      "excerpt": "Blizzard first announced Diablo IV's existence in 2019. It revealed a number of features that players are looking forward to, such as the return of the Rogue class. Even still, no one has seen footage ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-huge-diablo-4-leak-reveals-nearly-45-minutes-of-gameplay-including-combat/index.json",
-      "webUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
-      "originalUrl": "https://hothardware.com/news/diablo-4-leak-nearly-45-minutes-gameplay-combat-classes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/59662/content/hero-diablo-iv-gameplay-leak-news.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022.md",
-      "title": "Developers reveal Diablo 4 Closed Beta for late 2022",
-      "excerpt": "Here is all the information regarding the Diablo 4 closed beta, open beta, and available platforms. The Diablo 4 betas will support cross play and platform progression.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-20-developers-reveal-diablo-4-closed-beta-for-late-2022/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
-      "originalUrl": "https://www.dexerto.com/diablo/developers-reveal-diablo-4-closed-beta-for-late-2022-1936818/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2022/08/08/Diablo-4.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
         "images": null,
         "publishers": null,
         "authors": null

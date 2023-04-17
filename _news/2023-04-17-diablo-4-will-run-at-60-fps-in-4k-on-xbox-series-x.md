@@ -7,8 +7,8 @@ originalUrl: "https://www.gamesradar.com/diablo-4-will-run-at-60-fps-in-4k-on-xb
 webUrl: "https://www.gamesradar.com/diablo-4-will-run-at-60-fps-in-4k-on-xbox-series-x/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: GamesRadar+
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 Xbox Series X|S Performance And Frame Rate Targets Revealed"
+    excerpt: "Blizzard has revealed Diablo 4's targeted performance details across Xbox Series X|S. On Xbox Series X, the game will support full 4K at 60fps, while the Xbox Series S version will run at 1080p at fps ..."
+    publishedDateTime: 2023-04-17T11:36:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Diablo 4's Xbox Series X performance finally gets confirmed ahead of launch"
     excerpt: "Diablo 4 has had its performance figures officially confirmed on Xbox Series X and Series S ahead of its June launch date."
     publishedDateTime: 2023-04-17T08:02:05Z
