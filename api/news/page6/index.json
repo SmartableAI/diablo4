@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-22-you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt.md",
+      "title": "You can pet the dog in Diablo 4, but you probably shouldn't",
+      "excerpt": "It turns out you can pet the dog in the Diablo 4 beta, but as one unlucky fan found out, you might not want to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt/ar-AA18XrAw",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/you-can-pet-the-dog-in-diablo-4-but-you-probably-shouldnt/ar-AA18XrAw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18Xgsc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:13:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-diablo-4-beta-what-to-expect-from-druid-and-necromancer.md",
       "title": "Diablo 4 beta – what to expect from Druid and Necromancer",
       "excerpt": "As Lilith’s minions crawl out of the shadows, Blizzard’s Diablo 4 beta has proven that you’ll need to muster all of your strength to send them back to the burning hells. Two new Diablo 4 classes will ...",
@@ -1093,57 +1135,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot.md",
-      "title": "Over a million Diablo 4 players picked up a puppy last weekend, and you've still got one more shot",
-      "excerpt": "Diablo 4's open beta (opens in new tab) will begin this Friday, March 24, at 9 am PT / 12 pm ET / 4 pm GMT, and preloading will kick off tomorrow at, again, 9 am PT / 12 pm ET / 4 pm GMT. If you were ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/index.json",
-      "webUrl": "https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/",
-      "originalUrl": "https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aMzPjasAbhuN9XGkUqw9Me-1200-80.jpg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
