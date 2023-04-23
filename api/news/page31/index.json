@@ -2,6 +2,394 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019.md",
+      "title": "Diablo 4 FINALLY Announced at Blizzcon 2019",
+      "excerpt": "Diablo 4 is confirmed through a MUCH anticipated announcement at Blizzcon 2019. After a lot of waiting, patience and faith, Blizzard unveiled a Cinematic, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-04-diablo-4-finally-announced-at-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=tiBx6qv5zv8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tiBx6qv5zv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tiBx6qv5zv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T18:46:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mnem",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-diablo-4-announcement-reaction.md",
+      "title": "Diablo 4 Announcement Reaction",
+      "excerpt": "Looks like even the cutscenes will have killer graphics.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-announcement-reaction/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-announcement-reaction/",
+      "originalUrl": "https://youtube.com/watch?v=HlCMtx6JKsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HlCMtx6JKsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T13:29:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LemonSquiggle Gaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019.md",
+      "title": "Mcconnell and Asmongold react to the Diablo 4 announcement | Diablo 4 | Blizzcon 2019",
+      "excerpt": "So Diablo 4 was announced during Blizzcon 2019 and McCool was, for lack of better words, more than happy about it.... Mcconnell and Asmongold react to the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-mcconnell-and-asmongold-react-to-the-diablo-4-announcement-diablo-4-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=rP2MxVIyG0g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rP2MxVIyG0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rP2MxVIyG0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T12:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best of McConnell",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight.md",
+      "title": "Fated Connections 21 Highlights | feat. SOMAYD and ibadda | Diablo 4 Announcement, ExileCon, Blight",
+      "excerpt": "FULL PODCAST ▻▻ https://youtu.be/Csav-pr0y7U LIVE STREAM ▻▻ https://www.twitch.tv/catmasterOP TWITTER ▻▻ https://www.twitter.com/catmasterOP ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-fated-connections-21-highlights-feat-somayd-and-ibadda-diablo-4-announcement-exilecon-blight/",
+      "originalUrl": "https://youtube.com/watch?v=aPoz7CLjCWg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aPoz7CLjCWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aPoz7CLjCWg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T09:30:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CatmasterOP",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-diablo-4-announcement-cinematic-trailer-reaction-mashup-by-three-they-come-blizzcon-2019.md",
+      "title": "Diablo 4 Announcement Cinematic Trailer Reaction Mashup | By Three They Come  | BlizzCon 2019",
+      "excerpt": "For More Interesting Videos: http://bit.ly/2md31li ---------------------------------------------------------------------------------------------------------------- Original ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-announcement-cinematic-trailer-reaction-mashup-by-three-they-come-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-announcement-cinematic-trailer-reaction-mashup-by-three-they-come-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=GOdYZCTCFs0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GOdYZCTCFs0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GOdYZCTCFs0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-03T04:30:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AztBang",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement.md",
+      "title": "Blizzcon 2019 Reacts to DIABLO 4 Announcement!",
+      "excerpt": "This is how Blizzcon 2019 crowd reacted to announcement of Diablo 4 during opening ceremony! ♢ Buy games with code \"NEXOS\" for 3% CashBack ♢ Buy ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-blizzcon-2019-reacts-to-diablo-4-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=NOZASlIeOQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOZASlIeOQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NOZASlIeOQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T21:39:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nexos",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer (Jane and JV REACTION 🔥)",
+      "excerpt": "JV GAMING➜https://www.youtube.com/watch?v=Mj_9psoLIvY&list=PLhTZ6Ooe9zJWWLSpympKCowJVFAQUCtni Check out the Podcast on iTunes: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-03-diablo-4-official-announcement-cinematic-trailer-jane-and-jv-reaction-/",
+      "originalUrl": "https://youtube.com/watch?v=6-ZeNp2r79E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6-ZeNp2r79E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6-ZeNp2r79E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T21:30:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "See Jane Go TV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-03-diablo-iv-feature-overview.md",
+      "title": "Diablo IV Feature Overview",
+      "excerpt": "We know you’re all eager to learn as much about Diablo IV as possible, so to get you started, we&amp;#39;re taking a comprehensive look over the features and details being shared at BlizzCon 2019!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-03-diablo-iv-feature-overview/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23189677/diablo-iv-feature-overview",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23189677/diablo-iv-feature-overview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/jx/JX6NP85V08Y51572717118509.jpg",
+          "width": 760,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        null,
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2019-11-02-diablo-4-reaction-blizzcon-first-impressions-of-the-announcement.md",
+      "title": "Diablo 4 Reaction Blizzcon | First Impressions of The Announcement",
+      "excerpt": "Diablo 4 Reaction at Blizzcon 2019. We give you our first impressions of the announcement and trailers shown. Business Inquiry ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-02-diablo-4-reaction-blizzcon-first-impressions-of-the-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-02-diablo-4-reaction-blizzcon-first-impressions-of-the-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=oEq15RP5kk0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oEq15RP5kk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-02T16:23:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xonebros",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-02-diablo-4-announcement-everything-you-need-to-know.md",
       "title": "Diablo 4 Announcement: Everything You Need To Know!",
       "excerpt": "Diablo 4 has been announced at BlizzCon 2019. In this video I go over everything you need to know about this upcoming Blizzard Entertainment game.",
@@ -670,398 +1058,6 @@
         "news"
       ],
       "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer.md",
-      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Reaction.... What a trailer!",
-      "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. Turn On ALL ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=C5JpvvHIbCQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5JpvvHIbCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C5JpvvHIbCQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:48:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NeonReaperGaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-barbariandruid-sorcerer-trailers.md",
-      "title": "Diablo 4 Announcement & Barbarian,Druid, Sorcerer Trailers",
-      "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-barbariandruid-sorcerer-trailers/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-barbariandruid-sorcerer-trailers/",
-      "originalUrl": "https://youtube.com/watch?v=NO0bQ0Slods",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NO0bQ0Slods\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:32:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gravity Games",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more.md",
-      "title": "DIABLO 4 ANNOUNCED! Classes, Progression, Loot, Mounts, SHARED WORLD & More!",
-      "excerpt": "Blizzard opened up Blizzcon 2019 with a bang! They immediately dove into Diablo 4 and showed off a cinematic and gameplay footage. Diablo 4 is shaping up ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-classes-progression-loot-mounts-shared-world-more/",
-      "originalUrl": "https://youtube.com/watch?v=ETfO1wSe5qc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ETfO1wSe5qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ETfO1wSe5qc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T14:25:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vulkan",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-reaction-commentary-diablo-4-announce-cinematic-by-three-they-come-thoughts-on-diablo-iv.md",
-      "title": "Reaction / Commentary Diablo 4 Announce Cinematic | By Three They Come  Thoughts on Diablo IV",
-      "excerpt": "Official Diablo IV Announce Cinematic | By Three They Come https://www.youtube.com/watch?v=9bRWIdOMfro Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-reaction-commentary-diablo-4-announce-cinematic-by-three-they-come-thoughts-on-diablo-iv/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-reaction-commentary-diablo-4-announce-cinematic-by-three-they-come-thoughts-on-diablo-iv/",
-      "originalUrl": "https://youtube.com/watch?v=fysJvaR6Kjw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fysJvaR6Kjw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T13:33:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slaydra",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch.md",
-      "title": "Diablo 4 Cinematic Announcement Trailer & Gameplay LIVE GROUP REACTION (Don't watch!)",
-      "excerpt": "Follow me on Twitter: http://www.twitter.com/gorthemoviegod BUSINESS ENQUIRIES: gorthemoviegod@hotmail.com Stardust: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-cinematic-announcement-trailer-gameplay-live-group-reaction-dont-watch/",
-      "originalUrl": "https://youtube.com/watch?v=Q1kr7Qzb71s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q1kr7Qzb71s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q1kr7Qzb71s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T13:27:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GorTheMovieGod",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019.md",
-      "title": "DIABLO 4 ANNOUNCEMENT LIVE REACTION! Blizzcon 2019!",
-      "excerpt": "We made it boys. It's here. :) Please remember to like, comment, share, and of course subscribe for more content. Follow me at: Twitch.tv/PrimetimeCP23 Twitter ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-live-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=pNlfvTUUhrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNlfvTUUhrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pNlfvTUUhrI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:53:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PrimetimeCP23",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019.md",
-      "title": "Diablo 4 ANNOUNCEMENT! New Diablo 4 Gameplay! Sorcerer, Barbarian, & Druid Gameplay! Blizzcon 2019!",
-      "excerpt": "Diablo 4 was just announced at Blizzcon 2019, alongside a very good cinematic and some gameplay of the first 3 classes they're showing off. The gameplay ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announcement-new-diablo-4-gameplay-sorcerer-barbarian-druid-gameplay-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=kIHwz6Gbkr4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kIHwz6Gbkr4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kIHwz6Gbkr4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:45:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Osterberg501",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-4-announced-gameplay-trailer-reaction-blizzcon-2019.md",
-      "title": "Diablo 4 ANNOUNCED!!! Gameplay Trailer & Reaction - Blizzcon 2019",
-      "excerpt": "DIABLO IV IS COMING!!! No more rumours or leaks required, Diablo 4 has now been officially announced at Blizzcon 2019 :D Here is the gameplay trailer along ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-gameplay-trailer-reaction-blizzcon-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-gameplay-trailer-reaction-blizzcon-2019/",
-      "originalUrl": "https://youtube.com/watch?v=nB5ha9xvFF4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nB5ha9xvFF4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nB5ha9xvFF4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:42:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FuzzfingerGaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2019-11-01-diablo-iv-unveiled.md",
-      "title": "Diablo IV Unveiled",
-      "excerpt": "Diablo IV is the newest incarnation of the genre-defining ARPG players have come to know and love. Take a glimpse into the terror that awaits.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-iv-unveiled/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23189675/diablo-iv-unveiled",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23189675/diablo-iv-unveiled",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/yz/YZVVOMS949I61572620765672.jpg",
-          "width": 760,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-01T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        null,
         "Diablo 4"
       ]
     }

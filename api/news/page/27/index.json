@@ -2,6 +2,411 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique.md",
+      "title": "Diablo 4’s new Rogue class is completely unique",
+      "excerpt": "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique/index.json",
+      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/",
+      "publishedDateTime": "2021-02-19T16:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-iv-rogue-announce-trailer.md",
+      "title": "Diablo IV - Rogue Announce Trailer",
+      "excerpt": "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-iv-rogue-announce-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-19-diablo-iv-rogue-announce-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=6vVF-vYLUH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6vVF-vYLUH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T14:43:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diablo PL",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue.md",
+      "title": "Diablo 4’s latest class is the dagger and bow-wielding Rogue",
+      "excerpt": "At BlizzConOnline, Blizzard’s newest Diablo 4 announcement was an update on a classic: The return of the Rogue class from the original Diablo game, who’ll be playable alongside the Barbarian, Druid, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/index.json",
+      "webUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
+      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.criticalhit.net//2021/02/Diablo-4-rogue-9.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "criticalhit.net",
+        "domain": "criticalhit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed.md",
+      "title": "Diablo 4 – Rogue Specializations and World Groups Revealed",
+      "excerpt": "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
+      "originalUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
+      "publishedDateTime": "2021-02-19T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4.md",
+      "title": "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4",
+      "excerpt": "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
+      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
+      "publishedDateTime": "2021-02-19T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-how-diablo-4s-rogue-class-pvp-and-open-world-work.md",
+      "title": "How Diablo 4's Rogue Class, PvP, And Open World Work",
+      "excerpt": "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-how-diablo-4s-rogue-class-pvp-and-open-world-work/index.json",
+      "webUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "originalUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
+      "publishedDateTime": "2021-02-19T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer.md",
+      "title": "Diablo 4's Rogue Class Shows Off Its Skills In New Trailer",
+      "excerpt": "Blizzard debuted a new trailer for Diablo IV. The trailer reveals the Rogue class, which will be included in the upcoming action-RPG at launch. In the new trailer, you can see the Rogue joining the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
+      "publishedDateTime": "2021-02-19T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline.md",
+      "title": "Diablo 4 - Everything We Know Ahead Of BlizzConline",
+      "excerpt": "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 367,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
+      "publishedDateTime": "2021-02-19T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor.md",
+      "title": "Diablo 4’s Next Class Reveal is the Rogue – Rumor",
+      "excerpt": "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
+      "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
+      "publishedDateTime": "2021-02-18T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-blizzcon-2021-predictions-what-to-expect-from-overwatch-2-diablo-4-and-more.md",
       "title": "BlizzCon 2021 predictions: What to expect from Overwatch 2, Diablo 4, and more",
       "excerpt": "BlizzCon 2021 is promising to be one of the biggest in the company's history. Blizzard Entertainment was forced to postpone its annual showcase in November 2020 because of the coronavirus pandemic, so ...",
@@ -681,420 +1086,6 @@
       "provider": {
         "name": "eTeknix",
         "domain": "eteknix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-diablo-4-release-date-trailers-news-and-rumors.md",
-      "title": "Diablo 4 release date, trailers, news and rumors",
-      "excerpt": "Interested in Diablo 4? Then you need this handy guide full of everything there is to know about the upcoming game from Blizzard – including what to expect and the Diablo 4 release date.- It’s been ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-17-diablo-4-release-date-trailers-news-and-rumors/index.json",
-      "webUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "originalUrl": "https://www.techradar.com/news/diablo-4-news-release-date-trailers-rumors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/diablo-4-news-release-date-trailers-rumors",
-      "publishedDateTime": "2020-12-16T23:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021.md",
-      "title": "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021",
-      "excerpt": "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-17-were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/index.json",
-      "webUrl": "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/",
-      "originalUrl": "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg",
-          "width": 615,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KitGuru",
-        "domain": "kitguru.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-well-get-a-chunky-diablo-4-update-at-blizzcon-2021.md",
-      "title": "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021",
-      "excerpt": "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Diablo 4 Quarterly Update, game director Luis Barriga wrote that the game's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-well-get-a-chunky-diablo-4-update-at-blizzcon-2021/index.json",
-      "webUrl": "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "originalUrl": "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "publishedDateTime": "2020-12-16T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-diablo-4-quarterly-update-digs-deep-into-itemization-changes.md",
-      "title": "Diablo 4 Quarterly Update Digs Deep Into Itemization Changes",
-      "excerpt": "The Diablo 4 developer team is back with another quarterly update. This time, they're detailing some new changes to skills and items.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-diablo-4-quarterly-update-digs-deep-into-itemization-changes/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn3.dualshockers.com/wp-content/uploads/2019/11/Diablo-4-5.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/",
-      "cdnAmpWebUrl": "https://www-dualshockers-com.cdn.ampproject.org/c/s/www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/",
-      "publishedDateTime": "2020-12-16T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-big-diablo-4-news-teased-for-blizzcon.md",
-      "title": "Big Diablo 4 News Teased for BlizzCon",
-      "excerpt": "Diablo IV showing up at BlizzCon or any other major Blizzard event is a given at this point now that the game’s been revealed, but based on the wording used in the latest Diablo IV update, we can at ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-big-diablo-4-news-teased-for-blizzcon/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzcon-news-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzcon-news-update/",
-      "publishedDateTime": "2020-12-16T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline.md",
-      "title": "New Diablo 4 Class Reveal Teased For BlizzConline",
-      "excerpt": "Blizzard Entertainment will apparently be revealing a brand new Diablo 4 class at BlizzConline which incidentally was already speculated as much. While posting the latest quarterly development ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-new-diablo-4-class-reveal-teased-for-blizzconline/index.json",
-      "webUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
-      "originalUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.segmentnext.com/wp-content/uploads/2020/12/Diablo-4-Hell-Concept.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
-      "cdnAmpWebUrl": "https://segmentnext-com.cdn.ampproject.org/c/s/segmentnext.com/2020/12/16/diablo-4-class-reveal-blizzconline/amp/",
-      "publishedDateTime": "2020-12-15T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SegmentNext",
-        "domain": "segmentnext.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-iv-quarterly-updatedecember-2020.md",
-      "title": "Diablo IV Quarterly Update—December 2020",
-      "excerpt": "We’re excited about several big updates and revisions that the team’s worked on for a long time that we are trying to complete before the holidays.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-iv-quarterly-updatedecember-2020/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23583664/diablo-iv-quarterly-update-december-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/qc/QCLQ69PQP0RZ1607723436521.jpg",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats.md",
-      "title": "Diablo 4's latest developer update is all about itemization (and a bit of player stats)",
-      "excerpt": "The latest Diablo 4 development update dives deep into itemization, \"the lifeblood of Diablo,\" with a closer look at changes that have been made since the last time Blizzard talked about the game and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/index.json",
-      "webUrl": "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
-      "originalUrl": "https://www.pcgamer.com/uk/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HHvZUcNweViFSARwTdoevm-1200-80.jpg",
-          "width": 710,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/diablo-4s-latest-developer-update-is-all-about-itemization-and-a-bit-of-player-stats/",
-      "publishedDateTime": "2020-12-15T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old.md",
-      "title": "Diablo 4 loot deep-dive shows off Unique and Legendary items replacing the Mythics of old",
-      "excerpt": "Blizzard is talking about Diablo 4 again, this time mostly about itemization. In the latest Diablo 4 quarterly update, Lead Game Designer Joe Shely gives a deep-dive into weapon types, Affixes for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-15-diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/thfsJ6cd6iAghGLNE5nAYV-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "cdnAmpWebUrl": "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/diablo-4-loot-deep-dive-shows-off-unique-and-legendary-items-replacing-the-mythics-of-old/",
-      "publishedDateTime": "2020-12-15T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null

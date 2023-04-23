@@ -2,6 +2,570 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-23-diablo-4-how-to-farm-fiend-rose.md",
+      "title": "Diablo 4: How to Farm Fiend Rose",
+      "excerpt": "Fiend Roses are used in Diablo 4 to enchant weapons and armor, and players will want to collect as many of these items as possible.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-23-diablo-4-how-to-farm-fiend-rose/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-farm-fiend-rose/ar-AA1aeGkL",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-farm-fiend-rose/ar-AA1aeGkL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aeGkF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T07:44:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-microsoft-news-roundup-surface-go-on-arm-windows-10x-on-surface-duo-diablo-4-server-slam-and-more.md",
+      "title": "Microsoft News Roundup: Surface Go on ARM, Windows 10X on Surface Duo, Diablo 4 Server Slam, and more",
+      "excerpt": "Sticking with Surface news, independent developer Gustave Monce managed to get Windows 10X to run on both displays of the original Surface Duo. That device is meant to run Android ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-23-microsoft-news-roundup-surface-go-on-arm-windows-10x-on-surface-duo-diablo-4-server-slam-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/lifestyle/other/microsoft-news-roundup-surface-go-on-arm-windows-10x-on-surface-duo-diablo-4-server-slam-and-more/ar-AA1adY8z",
+      "originalUrl": "https://www.msn.com/en-us/lifestyle/other/microsoft-news-roundup-surface-go-on-arm-windows-10x-on-surface-duo-diablo-4-server-slam-and-more/ar-AA1adY8z",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1adO7h.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-diablo-4-explain-why-requested-map-feature-isnt-happening.md",
+      "title": "Diablo 4 Explain Why Requested Map Feature Isn't Happening",
+      "excerpt": "Diablo 4 players looking for a way to quickly look at their map while playing apparently won't have access to a longtime map feature in the new game. Confirmed recently after the Diablo 4 team laid ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-23-diablo-4-explain-why-requested-map-feature-isnt-happening/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-map-overlay-feature/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-map-overlay-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-map-overlay-feature/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-map-overlay-feature/",
+      "publishedDateTime": "2023-04-23T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-23-blizzard-says-that-diablo-4-isnt-intended-to-be-played-forever.md",
+      "title": "Blizzard says that Diablo 4 isn't \"intended to be played forever\"",
+      "excerpt": "If you expect to be able to play Diablo 4 forever, you might want to reel those expectations in, as Blizzard said that won't be the case.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-23-blizzard-says-that-diablo-4-isnt-intended-to-be-played-forever/index.json",
+      "webUrl": "https://www.vg247.com/blizzard-says-that-diablo-4-isnt-intended-to-be-played-forever",
+      "originalUrl": "https://www.vg247.com/blizzard-says-that-diablo-4-isnt-intended-to-be-played-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsio.reedpopcdn.com/Diablo-4-head.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-22T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vg247",
+        "domain": "vg247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-can-diablo-4-outsell-hogwarts-legacy.md",
+      "title": "Can ‘Diablo 4’ Outsell ‘Hogwarts Legacy’?",
+      "excerpt": "That leaves two games I’m watching, Diablo 4 and Hogwarts Legacy, and I am wondering which will outsell the other, as both are multiplatform and not exclusive to any one system. And bigger than other ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-22-can-diablo-4-outsell-hogwarts-legacy/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6443f006a5ba8061f9a821c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/amp/",
+      "publishedDateTime": "2023-04-22T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-diablo-4-new-beta-announced-dont-miss-out-on-new-rewards-big-end-game-reveals-diablo-4-news.md",
+      "title": "Diablo 4 New Beta Announced! Don't Miss Out on New Rewards & Big End Game Reveals (Diablo 4 News)",
+      "excerpt": "Diablo 4 New Beta Announced! Don't Miss Out on New Rewards & Big End Game Reveals (Diablo 4 News) Enjoying the video?",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-new-beta-announced-dont-miss-out-on-new-rewards-big-end-game-reveals-diablo-4-news/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-21-diablo-4-new-beta-announced-dont-miss-out-on-new-rewards-big-end-game-reveals-diablo-4-news/",
+      "originalUrl": "https://youtube.com/watch?v=iMuPWlZcF3g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iMuPWlZcF3g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T06:40:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KhrazeGaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-diablo-4-release-date-upcoming-beta-and-everything-you-need-to-know.md",
+      "title": "Diablo 4 release date, upcoming beta, and everything you need to know",
+      "excerpt": "With Diablo 4 set to launch this June, our anticipation for the upcoming action-RPG is starting to spiral out of control. A successful open beta has only heightened our hype, with all signs ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-release-date-upcoming-beta-and-everything-you-need-to-know/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-guide/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-hardcore-diablo-4-pvp-is-just-that-so-dont-die.md",
+      "title": "Hardcore Diablo 4 PvP is just that, so don’t die",
+      "excerpt": "Hardcore Diablo 4 PvP lives up to its name, as Blizzard has confirmed that if you lose a bout against another of the action RPG game's players, it's permadeath.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-hardcore-diablo-4-pvp-is-just-that-so-dont-die/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/hardcore-pvp-permadeath",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/hardcore-pvp-permadeath",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-pvp-permadeath-hardcore.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-diablo-4-announces-final-open-beta-for-next-month-check-out-the-details.md",
+      "title": "Diablo 4 Announces Final Open Beta for Next Month; Check out the Details!",
+      "excerpt": "Last month's Diablo 4 open beta from Blizzard Entertainment gave everyone a bite-sized taste of what to expect from the full game. With everyone getting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-announces-final-open-beta-for-next-month-check-out-the-details/index.json",
+      "webUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/",
+      "originalUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2023/04/Lilith-Diablo-4-Class.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/diablo-4-final-open-beta-next-month/amp/",
+      "publishedDateTime": "2023-04-20T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-diablo-4-secret-announcement-full-livestream-asmongold-reacts.md",
+      "title": "Diablo 4 \"Secret Announcement\" Full Livestream | Asmongold Reacts",
+      "excerpt": "Diablo 4 team hosts a 90-minute dev talk and share their Secret Announcement ▻ Asmongold's Twitch: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-secret-announcement-full-livestream-asmongold-reacts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-21-diablo-4-secret-announcement-full-livestream-asmongold-reacts/",
+      "originalUrl": "https://youtube.com/watch?v=v67qwIDzBY8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v67qwIDzBY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T17:01:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asmongold TV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-help-us-gear-up-for-launch-during-the-diablo-iv-server-slam.md",
+      "title": "Help Us Gear Up for Launch During the Diablo IV Server Slam",
+      "excerpt": "Server Slam runs from May 12–14. Take up arms to defend Sanctuary from Lilith’s legions while helping us prepare our servers for Diablo IV’s launch on June 6.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-20-help-us-gear-up-for-launch-during-the-diablo-iv-server-slam/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-for-launch-during-the-diablo-iv-server-slam",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-for-launch-during-the-diablo-iv-server-slam",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/va/VAF7KU3P4CWI1681774163839.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-new-class-incoming-big-secret-announcement-more-diablo-4.md",
+      "title": "NEW CLASS INCOMING? Big SECRET Announcement & MORE! | Diablo 4",
+      "excerpt": "Like what you see? SUB! - https://bit.ly/3B3qKrK I stream Diablo! - https://bit.ly/3t5mQut Join Aftershock United!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-20-new-class-incoming-big-secret-announcement-more-diablo-4/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-20-new-class-incoming-big-secret-announcement-more-diablo-4/",
+      "originalUrl": "https://youtube.com/watch?v=YZT_c8gvVCM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YZT_c8gvVCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T07:00:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Veiled Shot | Diablo",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-did-diablo-4-really-just-announce-this-.md",
+      "title": "Did Diablo 4 REALLY just announce THIS?! 👀",
+      "excerpt": "Did Diablo 4 REALLY just announce THIS?! ➽➽➽➽➽ ABOUT ME ➽➽➽➽➽ My name is Sebastian aka TheGameSensei ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-20-did-diablo-4-really-just-announce-this-/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-20-did-diablo-4-really-just-announce-this-/",
+      "originalUrl": "https://youtube.com/watch?v=9ogpVyXLlPs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ogpVyXLlPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T01:51:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The GameSensei",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release.md",
       "title": "Diablo 4 has gone gold, on track for summer 2023 release",
       "excerpt": "Diablo 4, the highly-anticipated gothic action RPG epic, has gone gold - well ahead of launch. On Monday, Blizzard Entertainment announced that",
@@ -30,48 +594,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "For The Win on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diablo-4-is-missing-a-popular-series-feature.md",
-      "title": "Diablo 4 is Missing a Popular Series Feature",
-      "excerpt": "A senior Blizzard developer confirms Diablo 4 probably won't be getting a popular feature standard in many action RPGs, including its predecessors.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-is-missing-a-popular-series-feature/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Yun7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T06:58:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
@@ -356,6 +878,48 @@
       ]
     },
     {
+      "path": "_news/2023-04-17-diablo-4-buffing-barbarians-and-nerfing-necromancers-in-post-beta-update.md",
+      "title": "Diablo 4 buffing Barbarians and nerfing Necromancers in post-beta update",
+      "excerpt": "Blizzard has revealed some of the changes it's making to Diablo 4 following the recent beta playtests, and from what I can see, it's addressing the biggest concerns I believe people had. One of those ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-buffing-barbarians-and-nerfing-necromancers-in-post-beta-update/index.json",
+      "webUrl": "https://www.eurogamer.net/diablo-4-buffing-barbarians-and-nerfing-necromancers-in-post-beta-update",
+      "originalUrl": "https://www.eurogamer.net/diablo-4-buffing-barbarians-and-nerfing-necromancers-in-post-beta-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsio.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-diablo-4-is-bafflingly-refusing-to-implement-map-overlay-at-launch.md",
       "title": "Diablo 4 is bafflingly refusing to implement map overlay at launch",
       "excerpt": "If you were eagerly hoping that Diablo 4 would feature an overlay map when it releases in June, it's bad news. It's been confirmed that there are no current plans to add what has traditionally been a ...",
@@ -520,588 +1084,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-diablo-4-altars-of-lilith-will-not-reset-every-season.md",
-      "title": "Diablo 4: Altars of Lilith Will Not Reset Every Season",
-      "excerpt": "In a recent interview, Game Director Joseph Piepiora reveals how the Renown system in Diablo 4 will avoid turning the open world into a chore.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-diablo-4-altars-of-lilith-will-not-reset-every-season/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-altars-of-lilith-will-not-reset-every-season/ar-AA19UGPU",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-altars-of-lilith-will-not-reset-every-season/ar-AA19UGPU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19UwXv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T09:40:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-diablo-4-is-changing-its-font.md",
-      "title": "Diablo 4 is Changing its Font",
-      "excerpt": "After receiving feedback during its open beta period, Diablo 4 announces it will be changing the typeface used in some places across the action RPG.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-diablo-4-is-changing-its-font/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-changing-its-font/ar-AA19UdoX",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-changing-its-font/ar-AA19UdoX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19UkJA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T06:41:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-diablo-4-updates-make-dungeons-less-tedious.md",
-      "title": "Diablo 4 Updates Make Dungeons Less Tedious",
-      "excerpt": "Diablo 4's dungeons are obviously a huge part of the game given the loot opportunities they offer and the fact that they're a significant focus of the endgame, but during the game's beta, players found them to be a bit tedious in different ways.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-diablo-4-updates-make-dungeons-less-tedious/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-update-dungeons-less-tedious/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-update-dungeons-less-tedious/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-update-dungeons-less-tedious/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-dungeons-less-tedious/",
-      "publishedDateTime": "2023-04-15T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-everything-diablo-4-must-change-before-launch.md",
-      "title": "Everything Diablo 4 Must Change Before Launch",
-      "excerpt": "The beta for Diablo 4 is promising but has a few glitches and incomplete gameplay features that need to be patched or refined before launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-everything-diablo-4-must-change-before-launch/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/everything-diablo-4-must-change-before-launch/ar-AA19TykC",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/everything-diablo-4-must-change-before-launch/ar-AA19TykC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19TUdo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T00:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScreenRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas.md",
-      "title": "The Classes ‘Diablo 4’ Is Buffing And Nerfing For Launch After The Betas",
-      "excerpt": "Well, I have to give Blizzard a lot of credit here, they have not just taken feedback from Diablo 4’s pair of betas last month, but they are implementing a lot of feedback in time for launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/amp/",
-      "publishedDateTime": "2023-04-14T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-the-first-diablo-4-patch-notes-prove-that-blizzard-is-listening.md",
-      "title": "The first Diablo 4 patch notes prove that Blizzard is listening",
-      "excerpt": "The first Diablo 4 patch notes are here following the RPG game’s open beta, and dungeon improvements and class balance changes show Blizzard hears the feedback.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-the-first-diablo-4-patch-notes-prove-that-blizzard-is-listening/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/patch-notes-blizzard-beta",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/patch-notes-blizzard-beta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-patch-notes-blizzard-open-beta-feedback.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer.md",
-      "title": "Diablo 4 receives major updates ahead of launch including massive nerf to Necromancer",
-      "excerpt": "Diablo 4 has received a set of major tweaks ahead of its launch date, including a significant update to the popular Necromancer class.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-receives-major-updates-ahead-of-launch/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-receives-major-updates-ahead-of-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june.md",
-      "title": "Diablo 4 dungeons won't waste your time with boring objectives and dead ends when it launches this June",
-      "excerpt": "If there was one prominent criticism of Diablo 4's beta, it was the lack of dungeon variety and the monotony of the objectives within them. Blizzard published a blog post today that looks a lot like patch notes for Diablo 4's June 6 release.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LSHudwL9hyAmZAZqmk3GTK-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change.md",
-      "title": "Diablo IV Open Beta Retrospective: Transforming Feedback into Change",
-      "excerpt": "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 322,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4.md",
-      "title": "I've played over 2,500 hours of Path of Exile, and these are my biggest concerns about Diablo 4",
-      "excerpt": "Diablo 3 has gotten better since its disastrous launch (opens in new tab), but for the serious lover of the genre, PoE has been the top dog for years now. Now that Blizzard, with",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4/index.json",
-      "webUrl": "https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4/",
-      "originalUrl": "https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tyKnQMkPCM74zjjqUTRaBc-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair.md",
-      "title": "Diablo 4's Endgame Activity Fields Of Hatred \"Not Designed To Be Fair\"",
-      "excerpt": "Diablo 4 will have the most extensive end-game content of any Diablo game ever made. That's because Blizzard is designing Diablo 4's endgame alongside its main campaign. In many ways, the end-game is ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18SpeA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure.md",
-      "title": "Diablo 4: Nightmare Dungeons Make the Game a Choose-Your-Own Roguelike Adventure",
-      "excerpt": "Diablo 4's Nightmare Dungeons could make exploring old dungeons fulfilling again with affixes and dynamic RNG, roguelike mechanics baked into them.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/ar-AA19RHQn",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/ar-AA19RHQn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19RHQj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T01:41:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players.md",
-      "title": "Diablo 4 Players Can Earn PvP Rewards Without Killing Other Players",
-      "excerpt": "Blizzard's Diablo series of action RPGs has a long and rich history of competitive PvP, and it looks like the upcoming Diablo 4 will not only build on this legacy but will also make PvP more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/index.json",
-      "webUrl": "https://www.msn.com/de-de/sport/other/diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/ar-AA19MuxD",
-      "originalUrl": "https://www.msn.com/de-de/sport/other/diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/ar-AA19MuxD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Mzjs.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

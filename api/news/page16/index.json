@@ -2,6 +2,393 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards.md",
+      "title": "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards",
+      "excerpt": "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards/index.json",
+      "webUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
+      "originalUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.xfire.com/wp-content/uploads/2022/11/blizzard-release-date-diablo-4-the-game-awards-8.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xfire",
+        "domain": "xfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards.md",
+      "title": "Info on Diablo 4 Could Appear Even Before The Game Awards",
+      "excerpt": "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards/index.json",
+      "webUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
+      "originalUrl": "https://www.gamepressure.com/newsroom/infor-on-diablo-4-could-appear-even-before-the-game-awards/z94d0a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gracza.pl/i_gp/h/22/406814604.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamepressure.com/S013-amp.asp?ID=19722",
+      "cdnAmpWebUrl": "https://www-gamepressure-com.cdn.ampproject.org/c/s/www.gamepressure.com/S013-amp.asp?ID=19722",
+      "publishedDateTime": "2022-11-21T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "XCOM 2 Game Guide",
+        "domain": "gamepressure.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023.md",
+      "title": "'Diablo 4' release date: Game set for launch in April 2023",
+      "excerpt": "While Blizzard is yet to announce a specific date for the title's launch, numerous reports are now saying that there is now a \"Diablo 4\" release month.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-diablo-4-release-date-game-set-for-launch-in-april-2023/index.json",
+      "webUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "originalUrl": "https://www.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.co.uk/en/full/1390623/diablo-3-xbox-one.jpg",
+          "width": 992,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/diablo-4-release-date-game-set-launch-april-2023-1709120",
+      "publishedDateTime": "2022-11-21T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end.md",
+      "title": "Diablo 4 will have a \"more of a branching story\" with a beginning, middle and end",
+      "excerpt": "The open world of Blizzard's next game will be detached from more free-roaming experiences like that of The Legend of Zelda: Breath of the Wild.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-15-diablo-4-will-have-a-more-of-a-branching-story-with-a-beginning-middle-and-end/index.json",
+      "webUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
+      "originalUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/11/16/news/1668561753_691341_1668561955_portada_normal.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/11/16/news/1668561753_691341.amp.html",
+      "publishedDateTime": "2022-11-15T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world.md",
+      "title": "Diablo 4 Will Have a Branching Campaign In Its Open World",
+      "excerpt": "Diablo 4 is shaking up the saga's formula in a big way: its open world will allow players to tackle the storyline in an order of their choosing. In previous Diablo games, the narrative was linear ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-diablo-4-will-have-a-branching-campaign-in-its-open-world/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4-will-have-a-branching-campaign-in-its-open-world/ar-AA146LKg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA146zen.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4.md",
+      "title": "Blizzard Embraces Open World Gaming For 'Diablo 4'",
+      "excerpt": "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4/index.json",
+      "webUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
+      "originalUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
+          "width": 1455,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
+      "publishedDateTime": "2022-11-14T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-diablo-4-predicting-the-early-class-meta.md",
+      "title": "Diablo 4: Predicting the Early Class Meta",
+      "excerpt": "With fans anticipating Diablo 4's launch in early 2023, it's time to look at which classes seem best suited to both PvE and PvP situations. While not official, most fans anticipate that Diablo 4 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-predicting-the-early-class-meta/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-early-class-meta-pvp-pve-predictions-necromancer-barbarian/",
+      "originalUrl": "https://gamerant.com/diablo-4-early-class-meta-pvp-pve-predictions-necromancer-barbarian/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-4-predicting-early-class-meta-necro-sorc.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-12T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while.md",
+      "title": "Diablo 4 gives players the chance to \"not pursue the story for a while\"",
+      "excerpt": "Blizzard may be refreshing Diablo's formula by introducing an open world in Diablo 4 (opens in new tab) that \"allows for non-linearity\", but according to general manager Rod Fergusson, that doesn ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-12T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story.md",
+      "title": "‘Diablo 4’ will offer players freedom from the main story",
+      "excerpt": "In a recent IGN interview, Diablo 4 director Joe Shely and general manager Rod Fergusson dived into the open world and discussed what players can expect from the upcoming sequel. Fergusson explains ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story/index.json",
+      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
+      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/09/Diablo-4-2000x1270-1.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
       "title": "Diablo 4 dev says players 'want open world and free choice, but they also want to be told where to go'",
       "excerpt": "We wanted to have a beginning, middle, and end. We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the ...",
@@ -689,384 +1076,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft.md",
-      "title": "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft",
-      "excerpt": "A new trailer for Diablo 4 is rumoured for The Game Awards 2022 and will announce a release date and pre-order details. While it was confirmed for a 2023 launch back at the June Xbox showcase, neither ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft/index.json",
-      "webUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
-      "originalUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
-          "width": 600,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/",
-      "publishedDateTime": "2022-11-06T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-release-date-supposedly-set-for-april-pre-orders-soon.md",
-      "title": "Diablo 4 release date supposedly set for April, pre-orders soon",
-      "excerpt": "The Diablo 4 release date has supposedly been set for April 2023, with pre-orders for the next chapter of Blizzard's woeful RPG saga set to drop in December ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-release-date-supposedly-set-for-april-pre-orders-soon/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/april-release-date-pre-orders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/diablo-4-release-date-april-pre-orders.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window.md",
-      "title": "'Diablo 4' Gets An Open Beta Date And Release Window",
-      "excerpt": "\"Diablo 4\" is almost out of the development oven, but it still needs plenty of testing to ensure a favorable launch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-gets-an-open-beta-date-and-release-window/index.json",
-      "webUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
-      "originalUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
-          "width": 1455,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diablo-4-gets-open-beta-date-release-window-3632852?amp=1",
-      "publishedDateTime": "2022-11-06T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more.md",
-      "title": "Blizzard Explains Diablo 4 Skill Trees and More",
-      "excerpt": "Blizzard's developers reveal important gameplay information about the upcoming Diablo 4's character skills, progression, and more.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-explains-diablo-4-skill-trees-and-more/ar-AA13ON4v",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-explains-diablo-4-skill-trees-and-more/ar-AA13ON4v",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13P6i0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=108",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T16:58:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments.md",
-      "title": "Diablo 4 announcement canceled. - Hearthstone Moments",
-      "excerpt": "Hearthstone Best Moments! Streamed 2018-11-07 - 2018-11-07. Remember to like and subscribe! Join my discord: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/",
-      "originalUrl": "https://youtube.com/watch?v=opNgV94aw3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/opNgV94aw3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T11:49:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoalai - Warcraft",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected.md",
-      "title": "Seems The Diablo 4 Release Date Could Be A Lot Closer Than We Expected",
-      "excerpt": "Another pull from the Activision Blizzard rumour mill this morning: it seems Blizzard could be preparing Diablo 4 for launch in April 2023. The current thinking is that, if Blizzard has anything to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/index.json",
-      "webUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/",
-      "originalUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/csm_D4_TreasureBeast_8dacc3a1b82d982f9bdd_eced159fed-e1667778520823.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/amp/",
-      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/amp/",
-      "publishedDateTime": "2022-11-06T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku Australia",
-        "domain": "kotaku.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-rumour-diablo-4-unleashes-hell-in-april-2023.md",
-      "title": "Rumour: Diablo 4 Unleashes Hell in April 2023",
-      "excerpt": "The first half of 2023 is shaping up to be utterly absurd for new games, by the way. It's genuinely one of the most impressive release schedules we've ever seen — or thereabouts. Throw Diablo 4 into ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-rumour-diablo-4-unleashes-hell-in-april-2023/index.json",
-      "webUrl": "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023",
-      "originalUrl": "https://www.pushsquare.com/news/2022/11/rumour-diablo-4-unleashes-hell-in-april-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.pushsquare.com/eee14e8b713a0/1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Push Square",
-        "domain": "pushsquare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours.md",
-      "title": "Diablo 4 Wants You To Play Its Endgame For \"Thousands Of Hours\"",
-      "excerpt": "Diablo 4 is going to be different from Diablo 3 in a number of very important ways, but perhaps most important is the vast amount of testing that’s going into Diablo 4 at every level. And, for the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-wants-you-to-play-its-endgame-for-thousands-of-hours/ar-AA13KuiZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13KdM6.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=537&y=158",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay.md",
-      "title": "Diablo 4 endgame is designed to offer \"thousands of hours\" of gameplay",
-      "excerpt": "Diablo 4 players can look forward to a game that just keeps on giving, with the game's general manager Rod Fergusson saying that there will be \"thousands of hours\" of fun to be had. Fergusson was ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-04-diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-endgame-is-designed-to-offer-thousands-of-hours-of-gameplay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-04T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

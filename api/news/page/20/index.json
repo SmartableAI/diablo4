@@ -2,6 +2,393 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-08-08-blizzard-battling-diablo-4-leaks.md",
+      "title": "Blizzard battling Diablo 4 leaks",
+      "excerpt": "Blizzard is attempting to scrub the internet of Diablo 4 leaked footage and screenshots, which were posted over the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-blizzard-battling-diablo-4-leaks/index.json",
+      "webUrl": "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks",
+      "originalUrl": "https://www.eurogamer.net/blizzard-battling-diablo-4-leaks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.reedpopcdn.com/aMYMFK7FHw3viJCZ869hJH.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/aMYMFK7FHw3viJCZ869hJH.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-diablo-4-alpha-footage-has-leaked-with-a-quick-look-at-the-character-creator.md",
+      "title": "Diablo 4 alpha footage has leaked with a quick look at the character creator",
+      "excerpt": "Despite being meant only for trusted friends and family, footage of the Diablo 4 alpha has leaked online anyway - if only briefly.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-08-diablo-4-alpha-footage-has-leaked-with-a-quick-look-at-the-character-creator/index.json",
+      "webUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
+          "width": 600,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/08/diablo-4-alpha-footage-has-leaked-with-a-look-at-the-character-creator-17144587/amp/",
+      "publishedDateTime": "2022-08-07T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions.md",
+      "title": "Diablo 4 beta leaks spark smart loot and trading discussions",
+      "excerpt": "While the first Diablo 4 beta leaks may not be indicative of the final product, they have spawned conversations around smart loot and trading in the RPG game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-07-diablo-4-beta-leaks-spark-smart-loot-and-trading-discussions/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-leaks-smart-loot-trading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/08/diablo-4-beta-leaks-smart-loot-trading.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online.md",
+      "title": "Diablo 4 Test Build Leaks Already Surfacing Online",
+      "excerpt": "As leaks typically are when it comes to an upcoming game, the leaks from whatever Diablo 4 test is going on now have been spotted here and there throughout the game's subreddit. One such post pulls ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-06-diablo-4-test-build-leaks-already-surfacing-online/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-test-build-leaks-reddit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/01/17/8678eed4-9d9d-4a1c-a8d6-e2eb8a575660/playstation-nintendo-xbox-steam-logos.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-test-build-leaks-reddit/",
+      "publishedDateTime": "2022-08-06T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-diablo-4-leaks-have-started-in-record-time.md",
+      "title": "Diablo 4 leaks have started in record time",
+      "excerpt": "As if magically summoned by reports that a Diablo 4 alpha playtest is running for family and friends of Blizzard, various images and titbits of information are making their way online. We'll discuss ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-05-diablo-4-leaks-have-started-in-record-time/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-leaks-have-started-in-record-time/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-leaks-have-started-in-record-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch.md",
+      "title": "Diablo 4's Alpha Has Begun, But There's A Catch",
+      "excerpt": "Some gamers are getting to play Diablo 4's alpha build, but there's a catch: the alpha is for friends and family only.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-05-diablo-4s-alpha-has-begun-but-theres-a-catch/index.json",
+      "webUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
+      "originalUrl": "https://www.svg.com/954170/diablo-4s-alpha-has-begun-but-theres-a-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.svg.com/img/gallery/diablo-4s-alpha-has-begun-but-theres-a-catch/l-intro-1659716552.jpg",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "svg",
+        "domain": "svg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-diablo-4-report-shares-promising-development-update.md",
+      "title": "Diablo 4 Report Shares Promising Development Update",
+      "excerpt": "According to Bloomberg reporter Jason Schreier, Diablo 4 has recently entered a \"friends-and-family\" phase of testing. Essentially, this means that people outside of Blizzard who are tied to the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-04-diablo-4-report-shares-promising-development-update/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/06/01/0b6fca04-3b79-4cea-bbe2-0727f3c19279/pokemon-scarlet-violet.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
+      "publishedDateTime": "2022-08-04T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway.md",
+      "title": "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway",
+      "excerpt": "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway/index.json",
+      "webUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
+      "originalUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch.md",
+      "title": "Blizzard Is Giving Away Diablo 4, But There's A Huge Catch",
+      "excerpt": "Blizzard is giving away free copies of Diablo 4, but there's a huge catch: fans have to get tattooed to do it. A new event is sweeping across the nation.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-25-blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/index.json",
+      "webUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
+      "originalUrl": "https://www.svg.com/939698/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.svg.com/img/gallery/blizzard-is-giving-away-diablo-4-but-theres-a-huge-catch/l-intro-1658767061.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "svg",
+        "domain": "svg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-diablo-4-release-date-speculation-and-all-the-latest-details.md",
       "title": "Diablo 4 release date speculation and all the latest details",
       "excerpt": "Want a roundup of the latest Diablo 4 release date speculation and news? Announced during BlizzCon 2019, the upcoming entry in the demon-slaying action RPG game series has had many different ...",
@@ -679,411 +1066,6 @@
       "provider": {
         "name": "Blizzard Watch",
         "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions.md",
-      "title": "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\"",
-      "excerpt": "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/15/news/1655246076_110120_1655246244_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/15/news/1655246076_110120.amp.html",
-      "publishedDateTime": "2022-06-14T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4.md",
-      "title": "Asmongold explains why he’s worried about Diablo 4",
-      "excerpt": "Twitch streamer Asmongold has voiced concerns for Diablo 4 citing issues with D3 and Diablo Immortal for the lack of hype.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-asmongold-explains-why-hes-worried-about-diablo-4/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
-      "originalUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dexerto.com/wp-content/uploads/2022/06/14/diablo-asmongold-critic-immortal-blizzard.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
-      "cdnAmpWebUrl": "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/diablo/asmongold-explains-why-hes-worried-about-diablo-4-1847902/?amp",
-      "publishedDateTime": "2022-06-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta.md",
-      "title": "How to pre-register for the Diablo 4 closed beta",
-      "excerpt": "While it is a simple thing to do, you will need to know how to pre-register for the Diablo 4 closed beta since there are no official instructions just yet.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-how-to-pre-register-for-the-diablo-4-closed-beta/index.json",
-      "webUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/02/diablo_iv_rogue_key_art.jpg?p=1",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/diablo-4-beta-how-to-preregister/?amp",
-      "publishedDateTime": "2022-06-14T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected.md",
-      "title": "Diablo 4 Devs Explain Why the Necromancer Class Is Appearing Sooner Than Anyone Expected",
-      "excerpt": "Diablo 4 developers Joe Shely and Rod Fergusson go in-depth on the Necromancer, the fifth and final class in Blizzard's upcoming dungeon crawler.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2022/06/14/diabloiv-necromancer-blogroll-1655180489432.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-when-is-the-diablo-4-release-date-sometime-in-2023.md",
-      "title": "When is the Diablo 4 release date? Sometime in 2023",
-      "excerpt": "We once thought we would be playing Diablo 4 by 2022. But after an announcement at this summer's Xbox Games Showcase, we know that Diablo 4 is coming in 20 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-when-is-the-diablo-4-release-date-sometime-in-2023/index.json",
-      "webUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-release-date/",
-      "originalUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-release-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/11/DiabloImmortalFace.jpg",
-          "width": 675,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-release-date/amp/",
-      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/14/diablo-4-release-date/amp/",
-      "publishedDateTime": "2022-06-13T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-diablo-4-will-let-necromancers-customise-their-armies.md",
-      "title": "‘Diablo 4’ will let Necromancers customise their armies",
-      "excerpt": "Following its announcement for Diablo 4 at the Xbox and Bethesda Showcase event, the Necromancer has received a more in-depth look at how the class will work. The Necromancer will use two different ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-will-let-necromancers-customise-their-armies/index.json",
-      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-let-necromancers-customise-their-armies-3247191",
-      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-let-necromancers-customise-their-armies-3247191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-game-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4.md",
-      "title": "Blizzard Confirms Less Microtransactions In 'Diablo 4'",
-      "excerpt": "A Blizzard executive has promised a more traditional approach to post-launch monetization for \"Diablo 4\" following the community's overwhelmingly negative reaction to \"Diablo Immortal's\" ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4/index.json",
-      "webUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214",
-      "originalUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/01/diablo-4s-rogue-class-uses-ranged-bow-shots-lightning-fast-dagger-attacks-eviscerate.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-confirms-less-microtransactions-diablo-4-3538214?amp=1",
-      "publishedDateTime": "2022-06-13T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-iv-quarterly-updatejune-2022.md",
-      "title": "Diablo IV Quarterly Update—June 2022",
-      "excerpt": "The Necromancer joins our heroes around the campfire as the fifth and final class available at launch in Diablo IV. See how you will bend bone, blood, darkness, and the undead to your will.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-iv-quarterly-updatejune-2022/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23816542/diablo-iv-quarterly-update-june-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/3q/3QIS84S3PJK41654707055839.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5.md",
-      "title": "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?",
-      "excerpt": "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2022/06/Overwatch-23.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
-      "publishedDateTime": "2022-06-13T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
         "images": null,
         "publishers": null,
         "authors": null

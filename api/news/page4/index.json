@@ -2,6 +2,414 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-27-diablo-4-is-shaping-up-to-be-an-exciting-if-slightly-familiar-trip-through-hell.md",
+      "title": "Diablo 4 is shaping up to be an exciting, if slightly familiar trip through hell",
+      "excerpt": "The Diablo 4 beta has come and gone, and after spending two weekends with Blizzard’s upcoming RPG, I wish there was still more time to experiment and explore. If you’ve played Diablo 2 Remastered or ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-is-shaping-up-to-be-an-exciting-if-slightly-familiar-trip-through-hell/index.json",
+      "webUrl": "https://www.shacknews.com/article/134779/diablo-4-preview-beta",
+      "originalUrl": "https://www.shacknews.com/article/134779/diablo-4-preview-beta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/26/diablo-4-preview-1_feature.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/134779/diablo-4-preview-beta?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134779/diablo-4-preview-beta?amphtml=1",
+      "publishedDateTime": "2023-03-27T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together.md",
+      "title": "Diablo 4's Skill Tree Brings The Best Of Diablo 2 and 3 Together",
+      "excerpt": "Diablo has always been about slaying demons, leveling up, and acquiring new abilities. Diablo 4 is no exception, but takes a new approach to how these abilities are learned, featuring a complex web of ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EVnG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=476&y=270",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-diablo-4-elixirs-and-potions-alchemist-shop-guide.md",
+      "title": "Diablo 4 Elixirs And Potions - Alchemist Shop Guide",
+      "excerpt": "GameSpot may get a commission from retail offers. When you first arrive in the city of Kyovashad in Diablo 4, you might be tempted to set out on your grand adventure in Sanctuary. Lilith is waiting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-elixirs-and-potions-alchemist-shop-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-elixirs-and-potions-alchemist-shop-guide/1100-6512737/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-elixirs-and-potions-alchemist-shop-guide/1100-6512737/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4112039-diabloiv_ultimateeditionbreakdown.mp4.00_00_04_01.still001.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-elixirs-and-potions-alchemist-shop-guide/1100-6512737/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-elixirs-and-potions-alchemist-shop-guide/1100-6512737/",
+      "publishedDateTime": "2023-03-27T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-diablo-4-player-basically-solos-world-boss-ashava.md",
+      "title": "Diablo 4 Player (Basically) Solos World Boss Ashava",
+      "excerpt": "It's too dangerous to face World Bosses in Diablo 4 alone, but not for wudjio. The Twitch streamer and YouTuber managed to solo Ashava in Hardcore Mode — not once but twice. The content creator shared ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-player-basically-solos-world-boss-ashava/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-player-basically-solos-world-boss-ashava",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-player-basically-solos-world-boss-ashava",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/03/22/diablo4-ashava-blogroll-1679520346687.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-diablo-4-best-class-to-play-solo.md",
+      "title": "Diablo 4: Best Class to Play Solo",
+      "excerpt": "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-best-class-to-play-solo/index.json",
+      "webUrl": "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A",
+      "originalUrl": "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game.md",
+      "title": "Asmongold slams Diablo 4 Druid as “worst class” he’s played in the game",
+      "excerpt": "Asmongold has labeled the Druid as the “worst class” in the Diablo 4 beta, so here’s what the popular Twitch streamer had to say. Asmongold has been busy delving into the dark dungeons of Diablo 4, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/",
+      "originalUrl": "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Asmongold-Diablo-4-Druid.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4.md",
+      "title": "I Had To Complete Every World Event In Diablo 4",
+      "excerpt": "And so I had. I'd encountered world events before, but this was a special kind of world event. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Despite being a solo player, I was ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4/index.json",
+      "webUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
+      "originalUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/public-quests-3.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch.md",
+      "title": "Does ‘Diablo 4’ Need To Buff Barbarian And Druid For Launch?",
+      "excerpt": "Diablo 4 beta players got to experience all five launch classes thanks to a pair of beta weekends, the second of which is about to wrap up just a few hours after I’m writing this.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
+      "publishedDateTime": "2023-03-26T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid",
+        "Barbarian"
+      ]
+    },
+    {
+      "path": "_news/2023-03-27-diablo-4-beta-end-time-how-long-do-players-have-left-to-fight-through-hell.md",
+      "title": "Diablo 4 beta end time: how long do players have left to fight through hell?",
+      "excerpt": "Activision ’s upcoming hack-and-slasher set in hell has been a worldwide hit before it’s even released, as indicated by both Diablo 4 beta periods on PlayStation, Xbox and PC being wildly successful – ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-beta-end-time-how-long-do-players-have-left-to-fight-through-hell/index.json",
+      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920",
+      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/gaming/article29560036.ece/ALTERNATES/s1200/0_Diablo-4-key-art.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920.amp",
+      "publishedDateTime": "2023-03-26T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-diablo-4-is-borrowing-one-of-wows-best-features-and-i-love-it.md",
       "title": "Diablo 4 is borrowing one of WoW’s best features, and I love it",
       "excerpt": "The curtains have closed on the Diablo 4 beta, and it turns out that Blizzard's action RPG game is borrowing one of the best features from sister MMORPG, WoW.",
@@ -699,386 +1107,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-players-demand-proper-white-hair-options.md",
-      "title": "Diablo 4 Players Demand Proper White Hair Options",
-      "excerpt": "Diablo 4 players would like to have better options for white hair. Fans have the opportunity to experience Diablo 4 during its ongoing open beta weekend. Some participants think the game is lacking ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-players-demand-proper-white-hair-options/index.json",
-      "webUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-players-demand-proper-white-hair-options/ar-AA194z5J",
-      "originalUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-players-demand-proper-white-hair-options/ar-AA194z5J",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194Df4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-world-tiers-explained-and-how-to-change-difficulty.md",
-      "title": "Diablo 4: World Tiers explained and how to change difficulty",
-      "excerpt": "Like previous games in Blizzard's beloved hack-and-slash ARPG series, Diablo 4 features multiple different difficulty options that players can switch between as they play. This time around, they're ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-world-tiers-explained-and-how-to-change-difficulty/index.json",
-      "webUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-world-tiers-explained-and-how-to-change-difficulty/ar-AA195iic",
-      "originalUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-world-tiers-explained-and-how-to-change-difficulty/ar-AA195iic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195aQw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op.md",
-      "title": "Diablo 4: How to play with friends in multiplayer co-op",
-      "excerpt": "Diablo 4 is a blast when you're on your own, but it's even better when you team up with friends — and we're not talking about Necromancer summons. Indeed, much like the series' past hack-and-slash ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195ajk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-beta-best-necromancer-build.md",
-      "title": "Diablo 4 Beta: Best Necromancer Build",
-      "excerpt": "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-best-necromancer-build/index.json",
-      "webUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7",
-      "originalUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more.md",
-      "title": "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more",
-      "excerpt": "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-best-builds",
-      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-best-builds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more.md",
-      "title": "Diablo 4 full interactive map: All dungeons, side quests, cellars, and more",
-      "excerpt": "Blizzard) FextraLife's massive interactive map for Diablo IV linked above gives you a huge overview of everything currently known in the game. Similar ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/ar-AA1955fd",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more/ar-AA1955fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194OEa.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-how-to-salvage-gear-and-items.md",
-      "title": "Diablo 4: How to salvage gear and items",
-      "excerpt": "Why not turn those junk items into useful materials? Like many other hack-and-slash ARPGs, Diablo 4 showers you with weapons, armor pieces, and other types of gear as you explore the demon-infested ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-how-to-salvage-gear-and-items/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-salvage-gear-and-items/ar-AA1954VR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194BLz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype.md",
-      "title": "Diablo 4 Beta: Everything You Need to Know About the Rogue Class Archetype",
-      "excerpt": "The open beta period for Diablo 4 runs from March 24 to 26, wherein players have the chance to see Blizzard's latest entry in the classic ARPG franchise in action. During this period, players will be ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/index.json",
-      "webUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE",
-      "originalUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-beta-everything-you-need-to-know-about-the-rogue-class-archetype/ar-AA194gcE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1946pi.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=595&y=187",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-the-best-diablo-4-druid-build-for-solo-play.md",
-      "title": "The best Diablo 4 Druid build for solo play",
-      "excerpt": "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-the-best-diablo-4-druid-build-for-solo-play/index.json",
-      "webUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build",
-      "originalUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1",
-      "publishedDateTime": "2023-03-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
       ]
     }
   ],

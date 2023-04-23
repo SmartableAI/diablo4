@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-07T15:00:45Z
 originalUrl: "https://youtube.com/watch?v=tFC74hqB5r0"
 type: video
 quality: 137
-heat: 157
+heat: 177
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tFC74hqB5r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -39,7 +39,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 Big Announcement"
+    excerpt: ""
+    publishedDateTime: 2023-04-20T19:11:48Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Asmongold Clips
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "tg1uXViA3WzTvf4NcUd54T9ZK+FulgnUW5nIwoZYhyFtpvgEByf/2PupzqWs4dfZw3NdyardfqZYJlquiJORWcOTY01utZ6EyJyhj5yN5JZlltuaA/tfNEmKSVs16gIi0Lw4517u8SAjYtDZk54cP0INqaGDKfitKuIU6czB4hPjhHR/55KLnJd7sGdwPqJcOY8nhHW4OXP2MNAEBF/KSGVd/svTZQc9PsIWABdbJRuJ9XzaKDS8oYdDBbu0ErIZVQTi4Ov2hZDHdwzv9buVITIWN/lCR5IzVNoySgC2KE9dioXtJMGuApA3si+LZWccvfI7TAfziATpQ7T+uTCsDJs6nQ8RcAWE+eruGgMggEe2+EQxUGNZanYB8Sf9w+sUxWodG1fuN+nEVdUv+nggPlkHSyx8Skm3H2ow3icWKYKzLTUkXVgoS677CQyiQFua;rw++87YMSPMD03kdkYRvcQ=="
+secured: "kul59yMEwaunMxKPZKBxYsxmMladOjKnDkgqkb+JoNebZ0tNUvpAeJMXSZ3EPp1ux8kQH6rY+HJrGKPx5fCPGqPDlgZT0A59Yaxm2oiPlWd92BQYTr5QbQg77/RmPz7wk+7ceX4+XmzlXEmSybHKSUrSA/DhPFg+ASYD1pBH+qxru6hxSb9q786aEsI0f4bY1tBAVv0peWx1aFfoC5kEOyOnmFFLzO596zEiTywuXSrcjZZuYhvNV7aJu61ArDXLuAYW8wolLmoPBLUzO0Ap+1yD4KK44BjKM+cSyWUTTtgJSxzp31klOhsJ+hOmMdaMhHSspkOmg+guB+KaMui2nHlxg8ks4ws2jZt540+BuTzLsabN+bGwtCKZV++ig4C6rNjSWzx5RDvciWe3kcYCzKghBGExMn5LdkBJMMLqLz1BdU8rwuXUOSUsmwAI+4l5;bcYQWsMadRabejtD/AU46A=="
 ---
 

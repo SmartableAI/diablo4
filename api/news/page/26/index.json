@@ -2,6 +2,420 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts.md",
+      "title": "I DIDN'T EXPECT THAT! | Diablo IV Announce Cinematic - By Three They Come REACTION (Agent Reacts)",
+      "excerpt": "Hope you liked it! If you did, make sure to smash that like button down below, subscribe and turn on the bell for future notifications! Original video: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-04-20-i-didnt-expect-that-diablo-iv-announce-cinematic-by-three-they-come-reaction-agent-reacts/",
+      "originalUrl": "https://youtube.com/watch?v=tIwNN3ktQnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tIwNN3ktQnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tIwNN3ktQnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T06:15:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Agent Reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4.md",
+      "title": "Diablo 2 Resurrected Developer ‘Vicarious Visions’ is Also Helping Out on Diablo 4",
+      "excerpt": "From the impressive Tony Hawk's Pro Skater 1 and 2 remake from last year and Diablo 2: Resurrection on track for release later this year (check out our hands-on impressions here) Vicarious Visions has ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-19-diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4/index.json",
+      "webUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
+      "originalUrl": "https://www.ausgamers.com/news/read/3634679/diablo-2-resurrected-developer-vicarious-visions-is-also-helping-out-on-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ausgamers.com/gameres/7605/images/695/Season_3_-_Diesel_Wraith.jpg",
+          "width": 695,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aus Games",
+        "domain": "ausgamers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-diablo-2-resurrected-dev-vicarious-visions-to-help-with-diablo-4.md",
+      "title": "Diablo 2 Resurrected dev Vicarious Visions to help with Diablo 4",
+      "excerpt": "Vicarious Visions will have a hand in two major Diablo game productions: The hotly-anticipated Diablo 2 Resurrected, and the upcoming mainline sequel Diablo IV. According to a new job posting, the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-13-diablo-2-resurrected-dev-vicarious-visions-to-help-with-diablo-4/index.json",
+      "webUrl": "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/8/78721_67_diablo-ii-resurrected-dev-vicarious-visions-to-help-with-4.jpg",
+          "width": 620,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78721/diablo-2-resurrected-dev-vicarious-visions-to-help-with-4/amp.html",
+      "publishedDateTime": "2021-04-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever.md",
+      "title": "Playing Diablo 2: Resurrected makes me want Diablo 4 more than ever",
+      "excerpt": "It’s good to be back, adventuring among the demon-filled fields of Old Tristram in Diablo 2: Resurrected. But revisiting these familiar blood-soaked caverns and crumbling ruins made me long for what’s ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-04-09-playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever/index.json",
+      "webUrl": "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever",
+      "originalUrl": "https://www.techradar.com/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6ZiyyZXFR9qiKeqQdatkmG-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/playing-diablo-2-resurrected-makes-me-want-diablo-4-more-than-ever",
+      "publishedDateTime": "2021-04-08T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-the-best-games-like-diablo-to-play-while-waiting-for-diablo-4.md",
+      "title": "The best games like Diablo to play while waiting for Diablo 4",
+      "excerpt": "If you’re reading this then you probably know that Diablo 4 is coming, Diablo 2 is being resurrected, and it’s not long until Mephisto, Baal, Diablo and the old team will try to recapture our hearts, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-14-the-best-games-like-diablo-to-play-while-waiting-for-diablo-4/index.json",
+      "webUrl": "https://www.techradar.com/au/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
+      "originalUrl": "https://www.techradar.com/au/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yWfiFPHfwTSGF23KdSisSe-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/the-best-games-like-diablo-to-play-while-waiting-for-diablo-4",
+      "publishedDateTime": "2021-03-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer - Actors React",
+      "excerpt": "Help get this channel off the ground - Like and Sub #Chicago #Blind #React.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-03-11-diablo-4-official-announcement-cinematic-trailer-actors-react/",
+      "originalUrl": "https://youtube.com/watch?v=-HCPFiw0a2g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HCPFiw0a2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-HCPFiw0a2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Reacts",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving.md",
+      "title": "How Diablo 4's Open World Design Is Making Sanctuary a Place Worth Saving",
+      "excerpt": "Diablo 4 making the shift to an open world design raises several questions. After all, an open world is not just a type of map; on one end of the spectrum it’s a level design philosophy, and on the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-25-how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving/index.json",
+      "webUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
+      "originalUrl": "https://me.ign.com/en/pc/182041/news/how-diablo-4s-open-world-design-is-making-sanctuary-a-place-worth-saving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.ign.com/t/ign_me/news/h/how-diablo/how-diablo-4s-open-world-design-is-making-sanctuary-a-place_ktjf.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-everything-we-know-so-far.md",
+      "title": "Diablo 4 - Everything We Know So Far",
+      "excerpt": "BlizzConline offered a lot of new info on the upcoming action-RPG; here's everything we know so far. GameSpot may get a commission from retail offers. Perhaps the most anticipated game Blizzard has in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-everything-we-know-so-far/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-so-far/1100-6487815/",
+      "publishedDateTime": "2021-02-24T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement.md",
+      "title": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement)",
+      "excerpt": "Diablo 4 Classes Rogue Gameplay Summary (Blizzcon 2021 Announcement). Everything about the Rogue Class that was announced during Blizzconlive 2021 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-24-diablo-4-classes-rogue-gameplay-summary-blizzcon-2021-announcement/",
+      "originalUrl": "https://youtube.com/watch?v=_s9AbCOLGEc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_s9AbCOLGEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_s9AbCOLGEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:30:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fextralife",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-diablo-4-pvp-sounds-like-a-devilish-delight-that-will-challenge-every-hero-of-sanctuary.md",
       "title": "Diablo 4 PvP sounds like a devilish delight that will challenge every hero of Sanctuary",
       "excerpt": "Diablo 4 is the smouldering embodiment of the phrase 'high-risk, high-reward'. It's the first game in the series to properly embrace an open-world structure, a design decision that exerts additional ...",
@@ -688,411 +1102,6 @@
       "provider": {
         "name": "Krimson KB",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique.md",
-      "title": "Diablo 4’s new Rogue class is completely unique",
-      "excerpt": "Diablo 4's new Rogue class is completely unique I first played Diablo 4 about 15 months ago, at BlizzCon 2019. The original demo struck ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-20-diablo-4s-new-rogue-class-is-completely-unique/index.json",
-      "webUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/",
-      "originalUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Diablo-4s-new-Rogue-class-is-completely-unique.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/diablo-4s-new-rogue-class-is-completely-unique/amp/",
-      "publishedDateTime": "2021-02-19T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-iv-rogue-announce-trailer.md",
-      "title": "Diablo IV - Rogue Announce Trailer",
-      "excerpt": "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-iv-rogue-announce-trailer/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-19-diablo-iv-rogue-announce-trailer/",
-      "originalUrl": "https://youtube.com/watch?v=6vVF-vYLUH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6vVF-vYLUH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T14:43:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diablo PL",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue.md",
-      "title": "Diablo 4’s latest class is the dagger and bow-wielding Rogue",
-      "excerpt": "At BlizzConOnline, Blizzard’s newest Diablo 4 announcement was an update on a classic: The return of the Rogue class from the original Diablo game, who’ll be playable alongside the Barbarian, Druid, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/index.json",
-      "webUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
-      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.criticalhit.net//2021/02/Diablo-4-rogue-9.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "criticalhit.net",
-        "domain": "criticalhit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed.md",
-      "title": "Diablo 4 – Rogue Specializations and World Groups Revealed",
-      "excerpt": "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
-      "originalUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
-      "publishedDateTime": "2021-02-19T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4.md",
-      "title": "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4",
-      "excerpt": "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2021/02/Diablo-2-resurrected.jpg?fit=1280%2C720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
-      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-2-resurrected-diablo-4-comparisons/?amp",
-      "publishedDateTime": "2021-02-19T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-how-diablo-4s-rogue-class-pvp-and-open-world-work.md",
-      "title": "How Diablo 4's Rogue Class, PvP, And Open World Work",
-      "excerpt": "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-how-diablo-4s-rogue-class-pvp-and-open-world-work/index.json",
-      "webUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
-      "originalUrl": "https://www.gamespot.com/articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798854-diablo4_presentation_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/how-diablo-4s-rogue-class-pvp-and-open-world-work/1100-6487851/",
-      "publishedDateTime": "2021-02-19T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer.md",
-      "title": "Diablo 4's Rogue Class Shows Off Its Skills In New Trailer",
-      "excerpt": "Blizzard debuted a new trailer for Diablo IV. The trailer reveals the Rogue class, which will be included in the upcoming action-RPG at launch. In the new trailer, you can see the Rogue joining the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 347,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3798726-diablo_iv_rogue_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4s-rogue-class-shows-off-its-skills-in-new-trailer/1100-6487845/",
-      "publishedDateTime": "2021-02-19T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline.md",
-      "title": "Diablo 4 - Everything We Know Ahead Of BlizzConline",
-      "excerpt": "One of the most exciting things we expect from BlizzConline is news on Diablo 4; here's a roundup of what we know so far.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-everything-we-know-ahead-of-blizzconline/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 367,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3598986-trailer_diablo_reveal_2019111.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-everything-we-know-ahead-of-blizzconline/1100-6487815/",
-      "publishedDateTime": "2021-02-19T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor.md",
-      "title": "Diablo 4’s Next Class Reveal is the Rogue – Rumor",
-      "excerpt": "PracticalBrush12, who most recently leaked details on Monster Hunter Rise’s newest trailer, has provided new information on Diablo 4 and Diablo 2 Remastered. For the former, they confirmed that the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-next-class-reveal-is-the-rogue-rumor/index.json",
-      "webUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
-      "originalUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
-      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4s-next-class-reveal-is-the-rogue-rumor/amp",
-      "publishedDateTime": "2021-02-18T20:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "From Software",
-        "domain": "gamingbolt.com",
         "images": null,
         "publishers": null,
         "authors": null
