@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-hardcore-pv
 webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/ar-AA1acySJ"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: GameRant on MSN
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Hardcore Diablo 4 PvP is just that, so don’t die"
-    excerpt: "Hardcore Diablo 4 PvP lives up to its name, as Blizzard has confirmed that if you lose a bout against another of the action RPG game's players, it's permadeath."
-    publishedDateTime: 2023-04-21T03:01:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/hardcore-pvp-permadeath"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-pvp-permadeath-hardcore.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "kHjCErHrbUO9gDx+HiXmDu75Ar/jMKj7XPZz59yWn8FdhhqM8k5FFjqpy1LUw/z8auuOZbVZjCCsgS0LouzpoX3OEH1rNNRmlvBfnsid23d9PR102XG90oxRa0Ys4bqtsZOLEGz3TOL9Ja0Fe3S8k+LHAZSI3BpWLWjyLbfFnb8UBlNujqh2RYwNiZn/m2oyGXyji/QABoCY/Ijnmn6vK4DmVaXf+8VKAoayDdQ6MtD+ouq8PYzfshYZ/fl/laSRIcQZfpp3wVjeyIwYLdVFARR4uMH6qWt8xNRnaSyxJPVd4Alhf7SUrwrUo7oDDhn4GBlnalZ8yXvrOMMp481YwBpqUmIkkuU1UFmmWCmvBJs=;tCPBbSzPZ/2OwCJKHHNWOw=="
 ---
