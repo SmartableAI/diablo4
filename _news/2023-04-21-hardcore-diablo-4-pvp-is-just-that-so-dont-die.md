@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Be careful, because playing PvP in Diablo 4's hardcore mode can result in permadeath"
+    excerpt: "If you're planning to try out PvP in Diablo 4 during a hardcore mode playthrough, be careful, because if you die, that's the end for that character."
+    publishedDateTime: 2023-04-24T08:12:00Z
+    webUrl: "https://www.vg247.com/diablo-4-hardcore-pvp-has-permadeath"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 80
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo-4-blizzard.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WBQv2HC/opoE4jXeHHK3Ni1scUlCApatORG9peICqjEYAdRD34uyBLfkMT+OK94UnughYosPJmdzceA92Nyp96JTfMuj4lvfW9xsad3e85SvtBog3c7iPIoZ3637yMkxavKitFUllGEBFDvHPfBC/kR6vjTZrSoKgbfKc2IPnCAnJQycBzcJpQZNypYa6uGjwszqcF5TSzUrQbupvCToGNI7da0+x6ssC44o1WK31kQuLpqHHbeukgSwXInHtLNkiAfDShi5GtYNTZie+6fhgUsWpGRj1L8tNG4jSIZquLT+AjfbdRUnlX9/sUwLd+oOiOEoO4YYMj4oWif6lT7E09Xt+XpcSRK77RM5heMFwS8=;IohO+oTUi8ZIJ6Ydm6Q7ig=="
 ---
