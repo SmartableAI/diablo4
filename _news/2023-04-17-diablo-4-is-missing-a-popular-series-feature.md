@@ -96,6 +96,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Confirms PC Requirements for Launch"
+    excerpt: "Diablo 4 confirms the system requirements for running the game on PC at launch, making players even more eager for the next entry in the franchise."
+    publishedDateTime: 2023-04-24T14:08:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-pc-requirements-for-launch/ar-AA1ahOxw"
+    type: article
+    provider:
+      name: GameRant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ahv9I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=191"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "O7bFAHKd6TLqmaIw04R08fxIKAaZyMWldaNBrpagRnvx0ZGqarL314s3HtEluBZbKA6Es+JaKBkItQSTbCDkI90cj4q1ev29BdWOwt9uOa38WUUcJSh8iRPGwMbz1RWANhhvT+hPyPug/lRI+Z+PXksXBW12e46hnnsW9LfbWVQSrh6duwHun6iDEoS678IfH+ZShzP2ztv87e9WihUPZEj6LqaYvq+xYcydbAGvFOJ56iJpGycS86Nbkik6/WKyW5D2WoOtkq/x9zNhrV4T4PUhaFXdTsTDqaUEEGbIGtjM6j3YoieeP6lbmCvpWwSl0uJOZcncDPkJqb5RH/plHgf8yef/5XbPgrBWhsPUe2Y=;jvIMHoCqpWMS4whxdAO+hw=="
 ---

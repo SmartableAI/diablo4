@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-ho
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-how-long-it-takes-to-hit-level-100/ar-AA1ahAdL"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
-secured: "BKDC0vE8LrHX6SONlIXt29FprpRirOTO257qDw0BD3Fiq40xi5XUmNR59gI/vt9/jcoHP0JrjRu4YAkbPLUsXQU5AIiybOCk9kk/HAa7ikhwJPm4H3+jEYaw1Qz7hjTkXJeXoMzQOhbPKGga+g288mL7PYgy171d6wSWTcVLv8VAqvF6wAF0c2n9AMre1dFnzd6Gdd5xHB5iFf5EWy29bhMHjx5BHfBvDRLM+1u87cyiF04q7EbSSyz6HSnd6SYpcfkjkgJffzDFbAOW71xAnspeZ2gadMC6ITfJyGe+ZYt7Y3D0hu8ucdXdzcyIb40EPdr0EahezJj5HYaUyrAiPfkqB69WN63rvbTa/cyIl1E=;6IngeMnEgF75EJ32TgP7/g=="
+related:
+  - title: "Diablo 4 dev reveals absurd amount of time needed to reach level 100"
+    excerpt: "ARPG gamers looking to get their money’s worth out of Diablo 4 are in for a treat, according to Blizzard. This weekend, a Blizzard developer revealed the estimated time that it will take players to ..."
+    publishedDateTime: 2023-04-24T11:44:00Z
+    webUrl: "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 67
+
+secured: "o4ae0O4XF+8o+JQazLNzhcyX7PKoUpJ1JO0H+NF9uS8FtxxDzphFwL3rP2/W2lNCHZCek+mi+r3vejnTjntiF1Ah+Yz7Uxq+zsrhH8B9/MXpuSCQjQPpA61VD2i6hPQOaigKWjqJ28F3TUyb0iMNTBBvRiwBRUO6cAXDXgLpnWfRI5wmD5ziBbS7s/tq0tthb0Jtv3n/EVw5E/0F+vUhFx+l0uQ+GnojeUolU87bCFqtdrj1A+5588nd0+y8zoEt6F8rlWN6pSRxaVKgICk7ojU8vz0jgoBmhcGXpeyABbc0WUVcV3/HHcV/ly8PNipId15ngldPJfuKYM+0BQQIraiZcMZaisGwML6uRYwN2+0=;B/8T456CTnFDUB3BBGfeBg=="
 ---
 
