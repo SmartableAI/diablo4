@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard says that Diablo 4 isn't \"intended to be played forever\""
-    excerpt: "If you expect to be able to play Diablo 4 forever, you might want to reel those expectations in, as Blizzard said that won't be the case."
-    publishedDateTime: 2023-04-23T05:26:00Z
-    webUrl: "https://www.vg247.com/blizzard-says-that-diablo-4-isnt-intended-to-be-played-forever"
+  - title: "Diablo 4 will have a a 'pinnacle boss' intended to be your character's final challenge"
+    excerpt: "In a group interview quoted by our colleagues at GamesRadar (opens in new tab), associate game director Joe Piepiora said that Diablo 4 \"is not intended to be played forever\" and, ..."
+    publishedDateTime: 2023-04-23T17:18:00Z
+    webUrl: "https://www.pcgamer.com/diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-characters-final-challenge/"
     type: article
     provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 119
     images:
-      - url: "https://assetsio.reedpopcdn.com/Diablo-4-head.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      - url: "https://cdn.mos.cms.futurecdn.net/e7ZonUcbPgK84hrtJ42rfR-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "M69j7/50uoubHpFUbeE4PC7xj1RekGVrcYFGaBIO41p1fPy80Eh3aVRRYiq/adxhAeqSg4oIkPe+NpcBUoKVi6BpzuRnbqml3OE/FBVGxFFav71fcXogWEB+fBSe+MPXpY2flkfz9RfI/DWBir1jBWdU+bLgPa2YFuPQWjrUq8hvcPjwg0FHh4Xhu9129FbFU+CSrhVQuHeXhJk+A8cBXMn/SHdNu/0HEkOMrg2pip1yyc3Uo5Hwvj9y1fJ5w9atNkKRpxryJg/5stZWyw7FMhtpm7epSoeyTFq1BBxjTdQUOR+yxJpAQV5jMfKEw7cSfD12UBIPC0nd5IhXtdrFBceCUim/q2YT2ADUImBXqKs=;PDDts3C4pAAenX2/4ML61g=="

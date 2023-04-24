@@ -2,6 +2,48 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now.md",
+      "title": "Diablo 4 Announced at BlizzCon 2019 - IGN Now",
+      "excerpt": "Diablo 4 was the first announced game at this year's BlizzCon, which is a good thing considering how anticipated it was prior to last year's BlizzCon (to much fan ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2019-11-01-diablo-4-announced-at-blizzcon-2019-ign-now/",
+      "originalUrl": "https://youtube.com/watch?v=0o5w_WhMEFk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0o5w_WhMEFk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0o5w_WhMEFk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-11-01T15:31:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2019-11-01-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction-what-a-trailer.md",
       "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 Reaction.... What a trailer!",
       "excerpt": "Lilith, The daughter of Lord of Hatred, returns to Sanctuary in the reveal trailer for Diablo 4. Diablo IV is the newest cinematic from Blizzcon 2019. Turn On ALL ...",
@@ -1010,48 +1052,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Accolonn",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded.md",
-      "title": "Was Diablo 4 Really Intended To Be Announced At Blizzcon 2018? Blizzard Have Now Responded!",
-      "excerpt": "Diablo Immortal quickly became the most substantial news out of this year's Blizzcon but some sources have now suggested Diablo 4 was also going to be ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2018-11-06-was-diablo-4-really-intended-to-be-announced-at-blizzcon-2018-blizzard-have-now-responded/",
-      "originalUrl": "https://youtube.com/watch?v=Ouxwi-6Kvu4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ouxwi-6Kvu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ouxwi-6Kvu4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-06T05:58:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FuzzfingerGaming",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

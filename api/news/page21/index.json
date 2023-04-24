@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-06-14-which-classes-are-in-diablo-4-with-the-introduction-of-the-necromancer-we-now-know-all-of-the-games-five-classes.md",
+      "title": "Which classes are in Diablo 4? With the introduction of the Necromancer, we now know all of the game’s five classes",
+      "excerpt": "When Diablo 4 was announced, we only knew about three classes: Sorceress, Druid, and Barbarian. Then we learned about the return of the Rogue, last seen in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-which-classes-are-in-diablo-4-with-the-introduction-of-the-necromancer-we-now-know-all-of-the-games-five-classes/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/",
+      "originalUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2021/03/d4AllClasses.png",
+          "width": 675,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-classes/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/14/diablo-4-classes/amp/",
+      "publishedDateTime": "2022-06-14T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-diablo-4-reassures-fans-monetization-will-be-focused-on-cosmetics-and-expansions.md",
       "title": "Diablo 4 reassures fans: monetization will be focused \"on cosmetics and expansions\"",
       "excerpt": "Blizzard Entertainment's Global Community Lead for Diablo reassures users about the business model they will be taking from the launch of Diablo 4.",
@@ -1090,57 +1132,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-diablo-4-closed-beta-pre-registration-is-now-open.md",
-      "title": "Diablo 4 closed beta pre-registration is now open",
-      "excerpt": "It's the first we've heard about someone outside of Blizzard actually playing Diablo 4 in a bit, but does track with the suspected release date of 2023. For more on that, check ou ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-12-diablo-4-closed-beta-pre-registration-is-now-open/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-closed-beta-pre-registration-is-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/aMYMFK7FHw3viJCZ869hJH-1200-80.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
