@@ -2,6 +2,90 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch.md",
+      "title": "Diablo 4 Reportedly Headed For April 2023 Launch",
+      "excerpt": "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected.md",
+      "title": "Diablo 4 could launch earlier in 2023 than we expected",
+      "excerpt": "Diablo 4 is currently coming out next year, but that’s all we can say definitively — for now. Recently, two reliable sources have suggested that Blizzard could be targeting an April 2023 release date ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-could-launch-earlier-in-2023-than-we-expected/index.json",
+      "webUrl": "https://www.tomsguide.com/news/diablo-4-possible-release-date",
+      "originalUrl": "https://www.tomsguide.com/news/diablo-4-possible-release-date",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dotiwUUFCvxVXSmmToUABj-1200-80.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-07-diablo-4s-world-tiers-will-be-gatekept-by-powerful-world-bosses.md",
       "title": "Diablo 4's World Tiers Will Be Gatekept By Powerful World Bosses",
       "excerpt": "An \"extremely difficult\" world boss designed for level-100 characters awaits players at the end of Diablo IV's endgame.",
@@ -992,90 +1076,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4.md",
-      "title": "Diablo Immortal can (sort of) help pass the time until Diablo 4",
-      "excerpt": "We’ve had a lot of Diablo 4 news over the past few weeks, from exciting beta news to intriguing leaks about the campaign. But no matter how much we hear about the game, one thing is clear: It’s not ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-11-diablo-immortal-can-sort-of-help-pass-the-time-until-diablo-4/index.json",
-      "webUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
-      "originalUrl": "https://www.tomsguide.com/opinion/diablo-immortal-diablo-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qj3dCAH9Lsr5haXr9j8b9o-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-diablo-4-release-date-window-classes-beta-and-more.md",
-      "title": "Diablo 4: Release date window, classes, beta and more",
-      "excerpt": "Diablo 4 couldn’t have come at a better time. Diablo 3 debuted a full 10 years ago, meaning players have already plumbed its demonic depths. Diablo 2: Resurrected didn’t introduce anything new ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-09-diablo-4-release-date-window-classes-beta-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
-      "originalUrl": "https://www.msn.com/en-gb/finance/technology/diablo-4-release-date-window-classes-beta-and-more/ar-AA12J0an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12IVgk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-08T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
