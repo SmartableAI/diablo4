@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-diablo-4-is-going-hardcore-with-one-feature-thatll-make-you-cry.md",
+      "title": "Diablo 4 is going hardcore with one feature that’ll make you cry",
+      "excerpt": "Anyone can enter the Fields of Hatred in Diablo 4 ’s open world, and once in, players will be at the mercy of monsters and their fellow fans. Killing other RPG players is actually encouraged, as you ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-is-going-hardcore-with-one-feature-thatll-make-you-cry/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-going-hardcore-with-one-feature-that-ll-make-you-cry/ar-AA1ak78E",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-going-hardcore-with-one-feature-that-ll-make-you-cry/ar-AA1ak78E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ak9KX.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=507&y=129",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T23:43:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4s-max-level-will-take-most-players-150-hours-to-hit.md",
+      "title": "Diablo 4's Max Level Will Take Most Players 150 Hours to Hit",
+      "excerpt": "Trying to determine the length of a game like Diablo 4 seems like a pretty pointless endeavour, since players can technically grind for all eternity. But if you're desperate for a number, then ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4s-max-level-will-take-most-players-150-hours-to-hit/index.json",
+      "webUrl": "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit",
+      "originalUrl": "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.pushsquare.com/d8a95e93fb974/1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Push Square",
+        "domain": "pushsquare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100.md",
+      "title": "Diablo 4 Will Take An Incredible Amount Of Time To Reach Level 100",
+      "excerpt": "An associate game director for Diablo 4 has clarified just how long it will take for average players to reach level 100.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100/ar-AA1ajgz8",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100/ar-AA1ajgz8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ajxvb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=507&y=215",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T22:21:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-hellish-diablo-4-launch-pc-specs-include-nvidia-rtx-4000-gpu.md",
+      "title": "Hellish Diablo 4 launch PC specs include Nvidia RTX 4000 GPU",
+      "excerpt": "Blizzard just dropped launch day Diablo 4 PC specs, and you'll apparently need a fresh GPU like the Nvidia RTX 4070 to enable 4K ultra settings.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-hellish-diablo-4-launch-pc-specs-include-nvidia-rtx-4000-gpu/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/ultra-4k-pc-specs-nvidia-rtx-4000",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/ultra-4k-pc-specs-nvidia-rtx-4000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-ultra-4k-pc-specs-nvidia-rtx-4000.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once.md",
       "title": "Diablo 4's campaign can be skipped on new characters if you've beaten it once",
       "excerpt": "Diablo 4's developers dropped a brand new video detailing its class details. One detail picked up by fans is that a 'Skip Campaign' option was shown in a character menu, leading to speculation that players could skip Diablo 4's entire campaign if they wan",
@@ -46,19 +214,19 @@
     {
       "path": "_news/2023-04-25-diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta.md",
       "title": "Diablo 4's full version wants twice as much storage as the beta",
-      "excerpt": "With its surprise \"server slam\" beta just around the corner and its June launch date not long after, Diablo 4 has put out its full system requirements (opens in new tab) for minimum, medium, high, and ultra settings.",
+      "excerpt": "With its surprise \"server slam\" beta just around the corner and its June launch date not long after, Diablo 4 has put out its full system requirements (opens in new tab) for minimum, medium, high, and ...",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta/",
+      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-s-full-version-wants-twice-as-much-storage-as-the-beta/ar-AA1ajKJX",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-s-full-version-wants-twice-as-much-storage-as-the-beta/ar-AA1ajKJX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/sxFn6LD4q7hdnTxvrFxryT-1200-80.png",
-          "width": 1000,
-          "height": 562,
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19jDvP.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=494&y=203",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,21 +236,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T20:33:00-07:00",
+      "publishedDateTime": "2023-04-24T20:33:49-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PC Gamer on MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -145,7 +304,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -176,39 +335,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100.md",
-      "title": "Diablo 4 dev reveals absurd amount of time needed to reach level 100",
-      "excerpt": "ARPG gamers looking to get their money’s worth out of Diablo 4 are in for a treat, according to Blizzard. This weekend, a Blizzard developer revealed the estimated time that it will take players to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-24-diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100/index.json",
-      "webUrl": "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100",
-      "originalUrl": "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -950,150 +1076,6 @@
         "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it.md",
-      "title": "Diablo 4 Devs Have \"No Plans\" For Key Map Feature, And Fans Are Divided On It",
-      "excerpt": "A recent statement from Blizzard indicates that Diablo 4 will not have an overlay map, and some are upset about it.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
-      "publishedDateTime": "2023-04-17T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diablo-4-officially-goes-gold.md",
-      "title": "Diablo 4 officially goes gold",
-      "excerpt": "Following several mostly successful beta sessions over the last few months, development on Diablo 4 officially appears to be complete. Entertainment has announced that th ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-officially-goes-gold/index.json",
-      "webUrl": "https://www.shacknews.com/article/135090/diablo-4-gone-gold",
-      "originalUrl": "https://www.shacknews.com/article/135090/diablo-4-gone-gold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2023/04/diablo-4-officially-goes-gold-tweet.jpg",
-          "width": 518,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/135090/diablo-4-gone-gold?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/135090/diablo-4-gone-gold?amphtml=1",
-      "publishedDateTime": "2023-04-17T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diablo-4-xbox-series-xs-performance-and-frame-rate-targets-revealed.md",
-      "title": "Diablo 4 Xbox Series X|S Performance And Frame Rate Targets Revealed",
-      "excerpt": "Blizzard has revealed Diablo 4's targeted performance details across Xbox Series X|S. On Xbox Series X, the game will support full 4K at 60fps, while the Xbox Series S version will run at 1080p at fps ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-xbox-series-xs-performance-and-frame-rate-targets-revealed/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
-      "publishedDateTime": "2023-04-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

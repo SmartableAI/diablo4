@@ -18,15 +18,20 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4 dev reveals absurd amount of time needed to reach level 100"
-    excerpt: "ARPG gamers looking to get their money’s worth out of Diablo 4 are in for a treat, according to Blizzard. This weekend, a Blizzard developer revealed the estimated time that it will take players to ..."
-    publishedDateTime: 2023-04-24T11:44:00Z
-    webUrl: "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100"
+  - title: "Diablo 4's Max Level Will Take Most Players 150 Hours to Hit"
+    excerpt: "Trying to determine the length of a game like Diablo 4 seems like a pretty pointless endeavour, since players can technically grind for all eternity. But if you're desperate for a number, then ..."
+    publishedDateTime: 2023-04-25T05:30:00Z
+    webUrl: "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit"
     type: article
     provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 67
+      name: Push Square
+      domain: pushsquare.com
+    quality: 87
+    images:
+      - url: "https://images.pushsquare.com/d8a95e93fb974/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "obrA5zGVOBvH5Z2KA0CDTXWhztMKHIhTIoZCIhyNiaCp5PJRaVVl4cAhg5thgpUd2WB7KYHgfwsyjmOXO0ETDxWvK717tGLoaSKzB7HuwBX24Kmr8DMVr7P1BYeXX4y0MuIRl3ATURmu4/dzg6850oZqLfVRk1rvtjbjk+PPOw2S+YIAffon4gKEl+g41ACvM0DGE9OeSYEL9p4Y4JSHD7l1eJ07EO7+ZlEWuVQLaMaBKCxdlDUIiaFKaaphTkVqr8VTKRNl3tBV7wHgzyzfm2g9SrkPmN3WGX5FONqSAqvENcel1AdFS/pyUIsm/GfuurPFnFIzpCW9+LBTh9U9wDdwWSJuh2AknQjFSkBZ0ew=;vopi2+ETtKTvHNppZNz/3g=="
 ---
