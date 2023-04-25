@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Diablo 4 Has Good News for Xbox Gamers"
-excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
-publishedDateTime: 2023-04-17T09:59:24Z
-originalUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
-webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
+title: "You'll need 32 gigabytes of RAM to play Diablo 4 at 4K"
+excerpt: "But perhaps the most surprising thing about those specs is what Blizzard said your PC needs to play it at 4K ultra settings. As you can see below, running Diablo 4 at that tier requires 32GBs of RAM, as well as an RTX 3080, or equivalent 40 Series GPU (so"
+publishedDateTime: 2023-04-25T04:39:00Z
+originalUrl: "https://www.vg247.com/diablo-4-pc-specs-4k-32gb-ram-monster"
+webUrl: "https://www.vg247.com/diablo-4-pc-specs-4k-32gb-ram-monster"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Game Rant on MSN
-  domain: msn.com
+  name: vg247
+  domain: vg247.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Ymjz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+  - url: "https://assetsio.reedpopcdn.com/diablo-4-beta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     width: 1200
     height: 630
     isCached: true
@@ -82,21 +82,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "You'll need 32 gigabytes of RAM to play Diablo 4 at 4K"
-    excerpt: "But perhaps the most surprising thing about those specs is what Blizzard said your PC needs to play it at 4K ultra settings. As you can see below, running Diablo 4 at that tier requires 32GBs of RAM, as well as an RTX 3080, or equivalent 40 Series GPU (so"
-    publishedDateTime: 2023-04-25T04:39:00Z
-    webUrl: "https://www.vg247.com/diablo-4-pc-specs-4k-32gb-ram-monster"
+  - title: "Diablo 4 Has Good News for Xbox Gamers"
+    excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
+    publishedDateTime: 2023-04-17T09:59:24Z
+    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
     type: article
     provider:
-      name: vg247
-      domain: vg247.com
+      name: Game Rant on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://assetsio.reedpopcdn.com/diablo-4-beta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Ymjz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
 
-secured: "/Rrgen9aZdoQZw6VHpeTa7VWVvXiQwTR8t00n83vbqjzoQIGBHdaKpFvHBVVD5s+pkwI+a0XBDZnzAhvXXBP8YIFJ7a4MKdPIFnTlXtcoXEdThGNQUVE0qsn4iQKjJ/9gz7MzGGzWwYoAENuaKvRI7S36WQ4uYPA2pDKjyLNvhTIxNRnA8SvZt9QFCc3R2fqhz35XaVnYodPL4Fnw9CRjgsQ1Ejk6m1f6WiMp58/dxk4S7zuUiKM3gBu2Axy9ZA/SYzBfJL1P+9eT5ueqUE/hZHyHsbTuR4brLhyIalhOxt+Sf4Yf6uHPdVAcwfNM9cCDwxQCTBbnojOQzcRj6el+1uPkVzKvChOjZlNKuDbUt0=;d4RNWLbZjyo8NzkJ7v9fJw=="
+secured: "WYh419KUtNJGH/o0Uyre04tVGjeJkSIaihwFqhxIAeF1B1t0AOBEWkgKsLwJHCFt7a9XT3Hz6bPHyXDR4Bt99mbAiBB1tOxPxTe7wz+F7hxdMPbupUr0UJ/nAhxt3iW75qmXexfPChoG1EzflZ3HcTGMjSfpIFeRuEHvtglwBeILBC9t/3SVGGSFbeCxtwlGHgfzrJM9HO8FIPtPa34zAjd6K3+yN1psxj/aldd0nz6AHwJY3bjY28TAucdMEY49y6Zk8sMsThSkt4X075j+L8cyBa1biotclKkXEweGVMTcQx4R3eFA54FSYQZ6HCdedMz1Q/zecHcekjIRLXKh7yzLlDaZ1zh2Tuzio1mRPRs=;ASRfX2+V2pUc+SquMoLgnQ=="
 ---
 

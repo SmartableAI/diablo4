@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once.md",
+      "title": "Diablo 4's campaign can be skipped on new characters if you've beaten it once",
+      "excerpt": "Diablo 4's developers dropped a brand new video detailing its class details. One detail picked up by fans is that a 'Skip Campaign' option was shown in a character menu, leading to speculation that players could skip Diablo 4's entire campaign if they wan",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta.md",
       "title": "Diablo 4's full version wants twice as much storage as the beta",
       "excerpt": "With its surprise \"server slam\" beta just around the corner and its June launch date not long after, Diablo 4 has put out its full system requirements (opens in new tab) for minimum, medium, high, and ultra settings.",
@@ -187,7 +229,7 @@
       "originalUrl": "https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -793,7 +835,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -1052,48 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-will-tyrael-be-in-diablo-4.md",
-      "title": "Will Tyrael be in Diablo 4?",
-      "excerpt": "I am a real fan of the Diablo franchise, and one of my favorite characters is Tyrael. I wrote a KYL about him in 2015, right around the time we launched th ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-will-tyrael-be-in-diablo-4/index.json",
-      "webUrl": "https://blizzardwatch.com/2023/04/17/tyrael-diablo-4/",
-      "originalUrl": "https://blizzardwatch.com/2023/04/17/tyrael-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2015/08/TyraelHuman-header-083115.jpg",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard Watch",
-        "domain": "blizzardwatch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

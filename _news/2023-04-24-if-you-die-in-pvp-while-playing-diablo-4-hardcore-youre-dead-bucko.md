@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-h
 webUrl: "https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko/"
 type: article
 quality: 127
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-pvp-permadeath-hardcore.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4 hardcore characters who die in PvP are dead, good and proper"
+    excerpt: "Diablo 4 hardcore characters who die in PvP suffer permadeath, Blizzard has signalled. Blizzard community director"
+    publishedDateTime: 2023-04-25T04:29:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-hardcore-characters-who-die-in-pvp-are-dead-good-and-proper"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo_nnWXe1V.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Be careful, because playing PvP in Diablo 4's hardcore mode can result in permadeath"
     excerpt: "If you're planning to try out PvP in Diablo 4 during a hardcore mode playthrough, be careful, because if you die, that's the end for that character."

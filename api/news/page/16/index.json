@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-07-diablo-4-hands-on-preview-redefining-hell.md",
+      "title": "Diablo 4 Hands-On Preview - Redefining Hell",
+      "excerpt": "Diablo IV is quick to differentiate itself from its predecessors in almost every way, while intelligently iterating on new series staples with ideas that put freedom of play at the center.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-hands-on-preview-redefining-hell/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-hands-on-preview-redefining-hell/1100-6509761/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-diablo-4-takes-darkness-to-a-new-level.md",
       "title": "Diablo 4 Takes Darkness to a New Level",
       "excerpt": "When it launches, Diablo 4 will have five classes available to play: Barbarian, Rogue, Sorceress, Necromancer and Druid. Since the Necromancer wasn't available, I went with the Barbarian to get a feel of the melee combat and how dynamic it is, and it's on",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss.md",
-      "title": "Diablo 4 Fans Worried Following Tweet From Blizzard Boss",
-      "excerpt": "Why are Diablo fans worried about comments made by Mike Ybarra? Well, because he is the President of Blizzard. Taking to Twitter, a day after the aforementioned report made the rounds, Ybarra ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-fans-worried-following-tweet-from-blizzard-boss/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-blizzard-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/11/08/57aa28e7-4b7e-4db2-9b7b-565d110ae452/target-buy-two-get-one-deal.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-blizzard-release/",
-      "publishedDateTime": "2022-11-08T22:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

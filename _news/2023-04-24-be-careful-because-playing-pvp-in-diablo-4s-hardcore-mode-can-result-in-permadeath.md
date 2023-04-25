@@ -52,6 +52,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 hardcore characters who die in PvP are dead, good and proper"
+    excerpt: "Diablo 4 hardcore characters who die in PvP suffer permadeath, Blizzard has signalled. Blizzard community director"
+    publishedDateTime: 2023-04-25T04:29:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-hardcore-characters-who-die-in-pvp-are-dead-good-and-proper"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 87
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo_nnWXe1V.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pqs6F0KatGZdf/0BvJr3ynxcmsPgK8KwGB3zKlHCdUWK7GFU07377IZ+v4TIFHVTSZDXbTCEHBqk1QOOQB7POHtNp7MYlH840JPbXU8Y9/4btkNB+MGQspNTjRTBPQdWnOtJbK/ot828mu2hrVwXyQC2SonKVLisqntDQsQBnyQSdlvSA77Z/bx4AxhUO8lisun+QNYo4JY+17rKZ9YmwhVyzjbOELfTPZt+N4+UxF+AMg9PcwqZgPmCw9UxHP/VVCsdplVfDQKUCnoDR5lxzBC+MjPdJoet0V9E1tnAbC0ApDUgycHVj3fvqRSVJTz8KlTDWpeit9Sc6upy5qGeKc/kkMUiFgYvMSRz5X5LiDY=;uAFvF5kqIFZx7fbDcPy46Q=="
 ---

@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "You'll need 32 gigabytes of RAM to play Diablo 4 at 4K"
+    excerpt: "But perhaps the most surprising thing about those specs is what Blizzard said your PC needs to play it at 4K ultra settings. As you can see below, running Diablo 4 at that tier requires 32GBs of RAM, as well as an RTX 3080, or equivalent 40 Series GPU (so"
+    publishedDateTime: 2023-04-25T04:39:00Z
+    webUrl: "https://www.vg247.com/diablo-4-pc-specs-4k-32gb-ram-monster"
+    type: article
+    provider:
+      name: vg247
+      domain: vg247.com
+    quality: 87
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo-4-beta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Et/LWkhlYcGv/G+udE3i847DaBXqqf5QesWr5TYfV91OMfwahz0lCHcmIl/fRTGFOJuHscVKCA2F9TTmX02jFlrPGtemBuMYiSOuwcoX+g+4w/wGoLMicX6FkYq45mYz4s+0SLj08ZWl35rTmW2V/1GVUVVAAFXV5p1GtXzJt8g7WsMlyita7bd+3DyzfuAMKSSRHs1LKaG7LglHgOoN1o65SZKR3Mv3Nk/UR7zJT9hzCzxXShp0o2C3bnWiC5ZH6g34un92DdlgPDO0/vnj3vXb7GGitIPooCu8AWJfhwt0VmNsWryOTcyyaJfk1ARmutH0WI7KK/pSejBvNhakxjPRdNihs7OBHdm/3EJLFtc=;MheaJj2iCCR14drJpvNBxQ=="
 ---
