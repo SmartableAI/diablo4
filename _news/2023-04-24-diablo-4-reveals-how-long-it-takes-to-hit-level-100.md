@@ -34,6 +34,6 @@ related:
       domain: dotesports.com
     quality: 67
 
-secured: "pCpRrv5niKsiXrfUUN7E1EfSAeZvqIhcBoMaHgrM1CnfkDsfJ+4c7+t5/3QnLhFNIG4fGwHT3NYWJqc70q00WkECREPM4IrHbat6DPI3aMKJFTVaKzdWC0wgTJSFWfuFgFRrg4dFFipuoR+WB5kBiMLYx3Tt2zdeoGbFciAU+sSjIN2LpE8uNjMHFEnCTKcnCw1ZiZ3Sj2nR7TovJdYFapfhgRjzKFf/pigBLma/kj7Zk2ZOBNsOZcRmlje+dVF97cF7vuKZ/iEQ7mBbw938uz1KVQJoLmgI6R8k7GmdctsI3umn3FN4cIR9n9Cmeq7TIX7Ol+qMW3ReJAkBy7doUuceoJG5I0T3gVuZcjVKjP0=;FOe/zkKgus8mxIOg5E1Wlg=="
+secured: "q+xbB/+PgocExadOy3zwiGMfqog+d1/Gai3LEfHZHxfsRjr1q+/6J/nXkU2Oiv7zvJpaMxaKBpoFIJs/4qpBwUdVIU9Rk2E8HO/+N2hB2626jtkAksS0y4YRZKlQt1bG+TxTOXiQ2xXLYhPyx/CBV/mQcE6wqnKz8Bd3NGVb7FM/0+K7KTYPAuoGeLQGq63Y+INdN10fiRqEvLqkM2ZFS7Tp5k/TOHdxPibr4tqVDcUhQwBQovKrr1r53qMmVM1WVNnonn+eOGmejtJkRh1huqAPtEacW6zizWQnQEBSufJwvJSGmCv8V2K+7TGf0KmBhf8v03BeKxQlYU96QMbwnyP31FoRcvYOKTf1hSyBFrI=;Wa40EkzhNfl8FXN8i7QQqQ=="
 ---
 
