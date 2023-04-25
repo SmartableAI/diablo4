@@ -2,6 +2,226 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-diablo-4-druid-wont-changing-anytime-soon-despite-backlash.md",
+      "title": "Diablo 4 Druid won’t changing anytime soon despite backlash",
+      "excerpt": "Blizzard has confirmed that the Diablo 4 Druid model will not be changing anytime soon, as player sentiment towards the action RPG game’s class divides players.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-druid-wont-changing-anytime-soon-despite-backlash/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/druid-model-not-changing",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/druid-model-not-changing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-druid-model-not-changing.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-may-2023-server-slam-beta-weekend-dates-and-times.md",
+      "title": "Diablo 4: May 2023 Server Slam Beta Weekend Dates and Times",
+      "excerpt": "After the successful betas back in late March, Diablo 4 is having another beta weekend that will be in mid-May 2023 before the full release in June.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akAxu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:54:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-players-wont-need-to-rely-on-gear-sets-for-builds.md",
+      "title": "Diablo 4 Players Won't Need to Rely on Gear Sets for Builds",
+      "excerpt": "Diablo 4's Lead Class Designer Adam Jackson talks about why the developers decided to shelve the gear set concept for the series' latest entry.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-players-wont-need-to-rely-on-gear-sets-for-builds/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-players-won-t-need-to-rely-on-gear-sets-for-builds/ar-AA1akgGy",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-players-won-t-need-to-rely-on-gear-sets-for-builds/ar-AA1akgGy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akgGr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:10:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-we-dont-want-to-overwhelm-players-diablo-4-devs-on-skills-class-design.md",
+      "title": "\"We Don't Want To Overwhelm Players\": Diablo 4 Devs On Skills & Class Design",
+      "excerpt": "Screen Rant attended an interview with Diablo 4 developers to discuss the game’s focus on players' ability to customize their characters and gameplay.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-we-dont-want-to-overwhelm-players-diablo-4-devs-on-skills-class-design/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/we-don-t-want-to-overwhelm-players-diablo-4-devs-on-skills-class-design/ar-AA1ak6Kb",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/we-don-t-want-to-overwhelm-players-diablo-4-devs-on-skills-class-design/ar-AA1ak6Kb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akiOa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=525&y=168",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScreenRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-why-diablo-4-doesnt-have-gear-sets-this-time-around.md",
+      "title": "Why ‘Diablo 4’ Doesn’t Have Gear Sets This Time Around",
+      "excerpt": "The topic was customization, both cosmetic and in terms of builds, which joins the recently released over-arching video on the topic that Blizzard just put out yesterday I asked a few different ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-why-diablo-4-doesnt-have-gear-sets-this-time-around/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/25/why-diablo-4-doesnt-have-gear-sets-this-time-around/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/25/why-diablo-4-doesnt-have-gear-sets-this-time-around/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6447d94a5e9961be72a3babc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/25/why-diablo-4-doesnt-have-gear-sets-this-time-around/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/25/why-diablo-4-doesnt-have-gear-sets-this-time-around/amp/",
+      "publishedDateTime": "2023-04-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough.md",
       "title": "Diablo 4 Will Let You Skip Its Campaign (After Your First Playthrough)",
       "excerpt": "The feature sounds similar to Diablo 3's Adventure Mode, though there are still details that have yet to be clarified.",
@@ -10,7 +230,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -229,7 +449,7 @@
       "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100/ar-AA1ajgz8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -864,216 +1084,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Oxford King",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-diablo-4-release-date-upcoming-beta-and-everything-you-need-to-know.md",
-      "title": "Diablo 4 release date, upcoming beta, and everything you need to know",
-      "excerpt": "With Diablo 4 set to launch this June, our anticipation for the upcoming action-RPG is starting to spiral out of control. A successful open beta has only heightened our hype, with all signs ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-release-date-upcoming-beta-and-everything-you-need-to-know/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-guide/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-diablo-4-announces-final-open-beta-for-next-month-check-out-the-details.md",
-      "title": "Diablo 4 Announces Final Open Beta for Next Month; Check out the Details!",
-      "excerpt": "Last month's Diablo 4 open beta from Blizzard Entertainment gave everyone a bite-sized taste of what to expect from the full game. With everyone getting ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-announces-final-open-beta-for-next-month-check-out-the-details/index.json",
-      "webUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/",
-      "originalUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2023/04/Lilith-Diablo-4-Class.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/diablo-4-final-open-beta-next-month/amp/",
-      "publishedDateTime": "2023-04-20T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-diablo-4-secret-announcement-full-livestream-asmongold-reacts.md",
-      "title": "Diablo 4 \"Secret Announcement\" Full Livestream | Asmongold Reacts",
-      "excerpt": "Diablo 4 team hosts a 90-minute dev talk and share their Secret Announcement ▻ Asmongold's Twitch: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-secret-announcement-full-livestream-asmongold-reacts/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-21-diablo-4-secret-announcement-full-livestream-asmongold-reacts/",
-      "originalUrl": "https://youtube.com/watch?v=v67qwIDzBY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v67qwIDzBY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T17:01:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asmongold TV",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-new-class-incoming-big-secret-announcement-more-diablo-4.md",
-      "title": "NEW CLASS INCOMING? Big SECRET Announcement & MORE! | Diablo 4",
-      "excerpt": "Like what you see? SUB! - https://bit.ly/3B3qKrK I stream Diablo! - https://bit.ly/3t5mQut Join Aftershock United!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-20-new-class-incoming-big-secret-announcement-more-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-20-new-class-incoming-big-secret-announcement-more-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=YZT_c8gvVCM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YZT_c8gvVCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T07:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Veiled Shot | Diablo",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-did-diablo-4-really-just-announce-this-.md",
-      "title": "Did Diablo 4 REALLY just announce THIS?! 👀",
-      "excerpt": "Did Diablo 4 REALLY just announce THIS?! ➽➽➽➽➽ ABOUT ME ➽➽➽➽➽ My name is Sebastian aka TheGameSensei ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-20-did-diablo-4-really-just-announce-this-/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-20-did-diablo-4-really-just-announce-this-/",
-      "originalUrl": "https://youtube.com/watch?v=9ogpVyXLlPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ogpVyXLlPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T01:51:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The GameSensei",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-will-let-you-skip-its
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/"
 type: article
 quality: 147
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 922
     isCached: true
 
-secured: "ed0pRSD01ZRVOvOr5+nBVXceWBBQj7bGyuKAiop18PvV9QJZUJL/BYUahW95Geh9kBSgIH2PLn3DMvjbdT5IHLASFFJrZ4O5nk5VNsqlPa2agjM4e+B5ENVFnbFb391hs0rHXsP3XacgTHLb3h3ua4E2ZvYnH3lx+ah58KyinedZopF10OXk+q5gHlBtHk3svjmB+0JWrRlZCPtdNBkFc6D2rgliyyJwy1r9jWnzNPLO7ua7ftmXkrF0QR3tuLIYUijtPtm9Xqa4DE9uHqNWGQZJRzEFSD23mh00ss2KZIkdStYLWZFyK6q5Noi95WxHntzcQbQXxUaTVv9x2NpeLpYkOA50Em81ghbHOxL2zT8=;mSIea+tECSXHKpNpKeT9/A=="
+related:
+  - title: "Diablo 4 Will Let You Skip The Story, Fans Are Worried It Might Not Be Free"
+    excerpt: "Now Diablo fans are worried that Blizzard might have decided to take a page out of Destiny's playbook. Diablo 4 will have a campaign skip, but whether it'll be free or not has yet to be answered."
+    publishedDateTime: 2023-04-25T10:07:37Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-let-you-skip-the-story-fans-are-worried-it-might-not-be-free/ar-AA1akeuN"
+    type: article
+    provider:
+      name: TheGamer on MSN
+      domain: msn.com
+    quality: 85
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akrYZ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=659&y=118"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "PlkoepcfnXJxvS05aqoiUVQi9Yca/PhyUz8PsUFjYBT2Mpo/5C7HlaGQjlDgNy4guv82RU/HDF7DyQGJzKgsipHIQmRZitwxyjiEL46z8E6vCvcLR+7d8RDHkXpTAEJztE9uIckCwONvCU5IRz7d4KPIyI64MMILFaAQvsqw4sw8Sb4q69LHbsENeRX6Z8+ooclK1eaugBOqXkxY93c0DWXhaUouFH5COBP5FEN+VtSyMVtAtW7rJGxT9tHYhroPmgK9xZ9j+DdGHqkoflRfon6qSEhknYHLYU046uEgC4Yv3XA+Kauh6rDe6mU7xJPMBkcts5oitg0aDjHP+pNO2eDJmpPLuxfwxV2H65/gF7E=;ewQXC64nb62hf+GptGx1mw=="
 ---
 

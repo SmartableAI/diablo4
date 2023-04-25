@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-take-
 webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100/ar-AA1ajgz8"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Reaching Diablo 4's level cap will take around 150 hours of grinding"
+    excerpt: "Diablo 4 has released a new dev diary looking into player choice, meanwhile one of the game's developers have revealed how long it takes to reach the level cap."
+    publishedDateTime: 2023-04-25T09:04:00Z
+    webUrl: "https://www.rockpapershotgun.com/reaching-diablo-4s-level-cap-will-take-around-150-hours-of-grinding"
+    type: article
+    provider:
+      name: Rock Paper Shotgun
+      domain: rockpapershotgun.com
+    quality: 87
+    images:
+      - url: "https://assetsio.reedpopcdn.com/Diablo-4-open-beta-start-and-end-times.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4 dev reveals absurd amount of time needed to reach level 100"
     excerpt: "ARPG gamers looking to get their money’s worth out of Diablo 4 are in for a treat, according to Blizzard. This weekend, a Blizzard developer revealed the estimated time that it will take players to ..."
     publishedDateTime: 2023-04-24T11:44:00Z

@@ -2,6 +2,225 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-players-can-skip-the-games-story.md",
+      "title": "Diablo 4 Players Can Skip the Game's Story",
+      "excerpt": "Diablo 4 developers reveal that players will have the option to skip the game's cinematic story and go straight into its open world.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-players-can-skip-the-games-story/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-game-s-story/ar-AA154DOc",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-players-can-skip-the-game-s-story/ar-AA154DOc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA154kNc.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=517&y=257",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T10:01:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4s-bleak-storyline-is-reason-enough-to-play.md",
+      "title": "Diablo 4's Bleak Storyline Is Reason Enough to Play",
+      "excerpt": "The Diablo series has gone through some incredible highs and more than a few lows. Games like Diablo II: Resurrected received huge hype when announced but failed to win over fans",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4s-bleak-storyline-is-reason-enough-to-play/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/0b993105656d070f15c480480e6c1f4ced714f24/hub/2022/12/07/123e36a4-052b-46f0-a530-02b7f8bc3fde/igcshowcase-lilith-02.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4s-bleak-storyline-is-reason-enough-to-play/",
+      "publishedDateTime": "2022-12-08T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer.md",
+      "title": "Diablo 4 Release Date Revealed in New Trailer",
+      "excerpt": "Diablo 4 made an expected appearance at The Game Awards 2022 this week to reveal the release date for the game alongside another preview of the newest Diablo experience. According to Blizzard, Diablo ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-revealed-in-new-trailer/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-release-date-trailer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-release-date-trailer/",
+      "publishedDateTime": "2022-12-08T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement.md",
+      "title": "Diablo 4 devs reportedly say crunch feels necessary, claiming lengthy mismanagement",
+      "excerpt": "The employees also claim that the game’s development has been affected by gross mismanagement throughout the past five years. Diablo 4 has reportedly seen numerous delays throughout development, with ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/index.json",
+      "webUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/",
+      "originalUrl": "https://www.videogameschronicle.com/news/diablo-4-devs-reportedly-say-crunch-feels-necessary-claiming-lengthy-mismanagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogameschronicle.com/files/2022/08/diablo-4-a-1.jpg",
+          "width": 1952,
+          "height": 1074,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Video Games Chronicle",
+        "domain": "videogameschronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching.md",
+      "title": "Diablo 4 release date latest: When is the new game launching?",
+      "excerpt": "If you’re excited about the Diablo 4 release date and can’t wait to play, you’ll need to read on to find out when the game should release, when and where you can pre-order, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-release-date-latest-when-is-the-new-game-launching/index.json",
+      "webUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
+      "originalUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/3/2022/12/Diablo-4-release-date-0ff18e7.jpg?quality=90&resize=620,413",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
+      "cdnAmpWebUrl": "https://www-radiotimes-com.cdn.ampproject.org/c/s/www.radiotimes.com/technology/gaming/diablo-4-release-date/amp/",
+      "publishedDateTime": "2022-12-07T23:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio Times",
+        "domain": "radiotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-diablo-4-is-looking-like-it-could-be-the-biggest-game-of-2023.md",
       "title": "‘Diablo 4’ Is Looking Like It Could Be The Biggest Game Of 2023",
       "excerpt": "It is incredibly easy to be skeptical of Diablo 4 and Blizzard as a whole lately, given the problems within that studio and the fact that Diablo 4 itself even lost its director as one of the ousted ...",
@@ -857,234 +1076,6 @@
         "name": "Game Rant on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4.md",
-      "title": "Blizzard Embraces Open World Gaming For 'Diablo 4'",
-      "excerpt": "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4/index.json",
-      "webUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
-      "originalUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
-          "width": 1455,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
-      "publishedDateTime": "2022-11-14T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-predicting-the-early-class-meta.md",
-      "title": "Diablo 4: Predicting the Early Class Meta",
-      "excerpt": "With fans anticipating Diablo 4's launch in early 2023, it's time to look at which classes seem best suited to both PvE and PvP situations. While not official, most fans anticipate that Diablo 4 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-predicting-the-early-class-meta/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-early-class-meta-pvp-pve-predictions-necromancer-barbarian/",
-      "originalUrl": "https://gamerant.com/diablo-4-early-class-meta-pvp-pve-predictions-necromancer-barbarian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/diablo-4-predicting-early-class-meta-necro-sorc.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while.md",
-      "title": "Diablo 4 gives players the chance to \"not pursue the story for a while\"",
-      "excerpt": "Blizzard may be refreshing Diablo's formula by introducing an open world in Diablo 4 (opens in new tab) that \"allows for non-linearity\", but according to general manager Rod Fergusson, that doesn ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-gives-players-the-chance-to-not-pursue-the-story-for-a-while/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story.md",
-      "title": "‘Diablo 4’ will offer players freedom from the main story",
-      "excerpt": "In a recent IGN interview, Diablo 4 director Joe Shely and general manager Rod Fergusson dived into the open world and discussed what players can expect from the upcoming sequel. Fergusson explains ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-will-offer-players-freedom-from-the-main-story/index.json",
-      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
-      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-offer-players-freedom-from-the-main-story-3347938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/09/Diablo-4-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go.md",
-      "title": "Diablo 4 dev says players 'want open world and free choice, but they also want to be told where to go'",
-      "excerpt": "We wanted to have a beginning, middle, and end. We wanted to start a certain place, we wanted to end at a certain place.\" Diablo 4 is \"more of a branching story,\" he said, and players can choose the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-12-diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/SfgGMU4muotXvyBY9XU49X-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

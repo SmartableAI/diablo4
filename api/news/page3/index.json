@@ -2,6 +2,216 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair.md",
+      "title": "Diablo 4's Endgame Activity Fields Of Hatred \"Not Designed To Be Fair\"",
+      "excerpt": "Diablo 4 will have the most extensive end-game content of any Diablo game ever made. That's because Blizzard is designing Diablo 4's endgame alongside its main campaign. In many ways, the end-game is ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18SpeA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure.md",
+      "title": "Diablo 4: Nightmare Dungeons Make the Game a Choose-Your-Own Roguelike Adventure",
+      "excerpt": "Diablo 4's Nightmare Dungeons could make exploring old dungeons fulfilling again with affixes and dynamic RNG, roguelike mechanics baked into them.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/ar-AA19RHQn",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-nightmare-dungeons-make-the-game-a-choose-your-own-roguelike-adventure/ar-AA19RHQn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19RHQj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T01:41:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players.md",
+      "title": "Diablo 4 Players Can Earn PvP Rewards Without Killing Other Players",
+      "excerpt": "Blizzard's Diablo series of action RPGs has a long and rich history of competitive PvP, and it looks like the upcoming Diablo 4 will not only build on this legacy but will also make PvP more ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/index.json",
+      "webUrl": "https://www.msn.com/de-de/sport/other/diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/ar-AA19MuxD",
+      "originalUrl": "https://www.msn.com/de-de/sport/other/diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/ar-AA19MuxD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Mzjs.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-diablo-4-battle-pass-explained-cost-rewards-how-long-to-complete.md",
+      "title": "Diablo 4 Battle Pass explained: cost, rewards, how long to complete",
+      "excerpt": "The Diablo 4 Battle Pass is a one of the game's new additions to the long running series, and we have the rundown on what you can expect from its debut in the new title. Thanks to some recent comments from within Blizzard, we're starting to learn more and",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-battle-pass-explained-cost-rewards-how-long-to-complete/index.json",
+      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779",
+      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/gaming/article29703621.ece/ALTERNATES/s1200/0_YFofpuCM3oV2Ucz6pGxhec.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp",
+      "publishedDateTime": "2023-04-13T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer.md",
+      "title": "New Diablo 4 Trailer Is All About the Sorcerer",
+      "excerpt": "Blizzard Entertainment released a new trailer of its upcoming RPG Diablo 4, focusing on one of the playable classes available in the game, the sorcerer.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer/index.json",
+      "webUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "originalUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2023-04/Diablo%204%20Sorcerer.jpg?itok=d6rpcEQ9",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRaptor",
+        "domain": "techraptor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-diablo-4-is-no-mmo-youll-be-blowing-up-screens-of-monsters.md",
       "title": "Diablo 4 is no MMO – you’ll be “blowing up screens of monsters”",
       "excerpt": "If the Diablo 4 endgame video didn’t get you excited for Blizzard’s upcoming action RPG game, then I don’t know what will. There’s fearsome world bosses, all-new Nightmare Dungeons, a tree made of literal faces – take your pick, Sanctuary has it",
@@ -858,234 +1068,6 @@
         "name": "MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-blizzard-will-address-diablo-4-beta-feedback-in-a-couple-of-weeks.md",
-      "title": "Blizzard will address ‘Diablo 4’ beta feedback “in a couple of weeks”",
-      "excerpt": "Following two weekends of Diablo 4 betas, series manager Rod Fergusson has confirmed that Blizzard Entertainment will address players’ feedback soon. Taking to Twitter (via Gamesradar), Fergusson said ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-will-address-diablo-4-beta-feedback-in-a-couple-of-weeks/index.json",
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-will-address-diablo-4-beta-feedback-in-couple-of-weeks-3423690",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-will-address-diablo-4-beta-feedback-in-couple-of-weeks-3423690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-rogue.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta.md",
-      "title": "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta",
-      "excerpt": "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/index.json",
-      "webUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
-      "originalUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200",
-          "width": 920,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
-      "publishedDateTime": "2023-03-30T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news.md",
-      "title": "Get Ready! Diablo 4 Just Got An Important Announcement, End Game Dev Update & More (Diablo 4 News)",
-      "excerpt": "The Kingdom of Camelot is waiting for your arrival—check out the King Arthur: Legends Rise Open Beta here: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news/",
-      "originalUrl": "https://youtube.com/watch?v=vxcEC3yK8W4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxcEC3yK8W4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T07:45:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KhrazeGaming",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-why-is-diablo-4-so-weird-about-giving-us-a-challenge.md",
-      "title": "Why Is Diablo 4 So Weird About Giving Us A Challenge?",
-      "excerpt": "These days, pointing out that an ARPG like Diablo 4 is too easy will lead to snotty replies like ‘Heh, just you wait until Torment XXVII Ultra-Veteran Nightmare Tier X. Then you’ll see.’ Well, no, I ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-why-is-diablo-4-so-weird-about-giving-us-a-challenge/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/why-is-diablo-4-so-weird-about-giving-us-a-challenge/ar-AA19gVmM",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/why-is-diablo-4-so-weird-about-giving-us-a-challenge/ar-AA19gVmM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16QKuz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=733&y=88",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-diablo-4-xbox-series-x-bundle-revealed-preorders-available-now.md",
-      "title": "Diablo 4 Xbox Series X Bundle Revealed, Preorders Available Now",
-      "excerpt": "This bundle doesn't dress the Xbox Series X up in any eye-catching colors, but the retail box does feature Diablo IV antagonist Lilith as she glares into your soul. It's a very ni ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1601/16018044/4118556-diablo-4-xbox.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
-      "publishedDateTime": "2023-03-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

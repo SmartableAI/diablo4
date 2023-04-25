@@ -2,6 +2,234 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-30-blizzard-will-address-diablo-4-beta-feedback-in-a-couple-of-weeks.md",
+      "title": "Blizzard will address ‘Diablo 4’ beta feedback “in a couple of weeks”",
+      "excerpt": "Following two weekends of Diablo 4 betas, series manager Rod Fergusson has confirmed that Blizzard Entertainment will address players’ feedback soon. Taking to Twitter (via Gamesradar), Fergusson said ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-will-address-diablo-4-beta-feedback-in-a-couple-of-weeks/index.json",
+      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-will-address-diablo-4-beta-feedback-in-couple-of-weeks-3423690",
+      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/blizzard-will-address-diablo-4-beta-feedback-in-couple-of-weeks-3423690",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2023/03/Diablo-4-rogue.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta.md",
+      "title": "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta",
+      "excerpt": "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/index.json",
+      "webUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
+      "originalUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200",
+          "width": 920,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
+      "publishedDateTime": "2023-03-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news.md",
+      "title": "Get Ready! Diablo 4 Just Got An Important Announcement, End Game Dev Update & More (Diablo 4 News)",
+      "excerpt": "The Kingdom of Camelot is waiting for your arrival—check out the King Arthur: Legends Rise Open Beta here: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news/",
+      "originalUrl": "https://youtube.com/watch?v=vxcEC3yK8W4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxcEC3yK8W4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T07:45:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KhrazeGaming",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-why-is-diablo-4-so-weird-about-giving-us-a-challenge.md",
+      "title": "Why Is Diablo 4 So Weird About Giving Us A Challenge?",
+      "excerpt": "These days, pointing out that an ARPG like Diablo 4 is too easy will lead to snotty replies like ‘Heh, just you wait until Torment XXVII Ultra-Veteran Nightmare Tier X. Then you’ll see.’ Well, no, I ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-why-is-diablo-4-so-weird-about-giving-us-a-challenge/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/why-is-diablo-4-so-weird-about-giving-us-a-challenge/ar-AA19gVmM",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/why-is-diablo-4-so-weird-about-giving-us-a-challenge/ar-AA19gVmM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA16QKuz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=733&y=88",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-diablo-4-xbox-series-x-bundle-revealed-preorders-available-now.md",
+      "title": "Diablo 4 Xbox Series X Bundle Revealed, Preorders Available Now",
+      "excerpt": "This bundle doesn't dress the Xbox Series X up in any eye-catching colors, but the retail box does feature Diablo IV antagonist Lilith as she glares into your soul. It's a very ni ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1601/16018044/4118556-diablo-4-xbox.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-x-bundle-revealed-preorders-available-now/1100-6512834/",
+      "publishedDateTime": "2023-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-29-diablo-4-players-tired-of-having-to-teleport-just-to-access-storage-system.md",
       "title": "Diablo 4 players tired of having to teleport just to access storage system",
       "excerpt": "Now that the Early Access and Open Beta periods for Diablo 4 have concluded, players are now fiercely debating the features that they loved and disliked during the premature preview of the game. Most ...",
@@ -847,228 +1075,6 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game.md",
-      "title": "Asmongold slams Diablo 4 Druid as “worst class” he’s played in the game",
-      "excerpt": "Asmongold has labeled the Druid as the “worst class” in the Diablo 4 beta, so here’s what the popular Twitch streamer had to say. Asmongold has been busy delving into the dark dungeons of Diablo 4, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/",
-      "originalUrl": "https://www.dexerto.com/diablo/asmongold-slams-diablo-4-druid-as-worst-class-hes-played-in-the-game-2097732/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/27/Asmongold-Diablo-4-Druid.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4.md",
-      "title": "I Had To Complete Every World Event In Diablo 4",
-      "excerpt": "And so I had. I'd encountered world events before, but this was a special kind of world event. RELATED: Diablo 4 Hands-On: Comfortingly Simple, Freshly Atmospheric Despite being a solo player, I was ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-i-had-to-complete-every-world-event-in-diablo-4/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-world-events-are-great/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/public-quests-3.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch.md",
-      "title": "Does ‘Diablo 4’ Need To Buff Barbarian And Druid For Launch?",
-      "excerpt": "Diablo 4 beta players got to experience all five launch classes thanks to a pair of beta weekends, the second of which is about to wrap up just a few hours after I’m writing this.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/27/does-diablo-4-need-to-buff-barbarian-and-druid-for-launch/amp/",
-      "publishedDateTime": "2023-03-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid",
-        "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-beta-end-time-how-long-do-players-have-left-to-fight-through-hell.md",
-      "title": "Diablo 4 beta end time: how long do players have left to fight through hell?",
-      "excerpt": "Activision ’s upcoming hack-and-slasher set in hell has been a worldwide hit before it’s even released, as indicated by both Diablo 4 beta periods on PlayStation, Xbox and PC being wildly successful – ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-beta-end-time-how-long-do-players-have-left-to-fight-through-hell/index.json",
-      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920",
-      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/gaming/article29560036.ece/ALTERNATES/s1200/0_Diablo-4-key-art.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920.amp",
-      "publishedDateTime": "2023-03-26T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-is-borrowing-one-of-wows-best-features-and-i-love-it.md",
-      "title": "Diablo 4 is borrowing one of WoW’s best features, and I love it",
-      "excerpt": "The curtains have closed on the Diablo 4 beta, and it turns out that Blizzard's action RPG game is borrowing one of the best features from sister MMORPG, WoW.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-is-borrowing-one-of-wows-best-features-and-i-love-it/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/wow-feature",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/wow-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-wow-feature-items-loot.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null
