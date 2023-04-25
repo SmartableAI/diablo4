@@ -2,6 +2,99 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-20-diablo-4-beta-players-criticize-easy-mode-sorcerer-class.md",
+      "title": "Diablo 4 Beta Players Criticize 'Easy-Mode' Sorcerer Class",
+      "excerpt": "Diablo 4 beta players criticize the Sorcerer class for trivializing boss fights and generally making the game much easier than the other two classes.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-beta-players-criticize-easy-mode-sorcerer-class/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-criticize-easy-mode-sorcerer-class/ar-AA18RS10",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-beta-players-criticize-easy-mode-sorcerer-class/ar-AA18RS10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RX91.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=478&y=129",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T06:24:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-diablo-4-fast-travel-all-waypoint-locations-guide.md",
+      "title": "Diablo 4 Fast Travel - All Waypoint Locations Guide",
+      "excerpt": "Discover all the Waypoint fast travel locations that are available during Diablo 4's beta. The world of Sanctuary has been ravaged once more by demonic hordes, and it's up to you to turn back the tide.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-fast-travel-all-waypoint-locations-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4114682-diablo4waypointsfasttravelfracturedpeaksguidebeta-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-waypoints-fast-travel-guide/1100-6512484/",
+      "publishedDateTime": "2023-03-20T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-diablo-4s-open-world-is-caught-between-a-rock-and-a-hard-place.md",
       "title": "Diablo 4's Open World is Caught Between a Rock and a Hard Place",
       "excerpt": "Diablo 4 features a sprawling open world, but some may be disappointed at the limited interactions they’ll encounter while they explore.",
@@ -1055,99 +1148,6 @@
         "name": "Twinfinite",
         "domain": "twinfinite.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-what-are-treasure-goblins-in-diablo-4.md",
-      "title": "What are Treasure Goblins In Diablo 4",
-      "excerpt": "However, there is a special type of creature that spawns rarely in Diablo 4, known as the Treasure Goblin. But what exactly does a Treasure Goblin do in Diablo 4? A Treasure Goblin has been a very fun ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-what-are-treasure-goblins-in-diablo-4/index.json",
-      "webUrl": "https://twinfinite.net/2023/03/what-are-treasure-goblins-diablo-4/",
-      "originalUrl": "https://twinfinite.net/2023/03/what-are-treasure-goblins-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twinfinite.net/wp-content/uploads/2023/03/Diablo-4-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues.md",
-      "title": "Diablo 4 Beta Players Are Experiencing Long Wait Times and Server Issues",
-      "excerpt": "Those hoping to get an early start on slaying the queen of Succubi have had to wait longer than anticipated, as many players logged on to the Diablo 4 beta servers ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-17-diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-beta-players-are-experiencing-long-wait-times-and-server-issues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2022/12/06/diablo-blogroll-1670358717100.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

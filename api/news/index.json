@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game.md",
+      "title": "Diablo 4 reveals all the minimum and recommended specs for the game",
+      "excerpt": "Blizzard has just revealed all of the required specs to play Diablo IV on PC, which are different for the final release than in the previous betas.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game/index.json",
+      "webUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/",
+      "originalUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.asmedia.epimg.net/resizer/LqQcat7dmr7JWIKKjsvdEYqZEYk=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TJDHNECP25A5BCFEGEZYYXGBFY.jpg",
+          "width": 644,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/?outputType=amp",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/?outputType=amp",
+      "publishedDateTime": "2023-04-25T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-allows-the-campaign-to-be-skipped-with-a-catch.md",
+      "title": "Diablo 4 Allows the Campaign to Be Skipped, With a Catch",
+      "excerpt": "Blizzard confirms that Diablo 4 players will have the choice to skip the ARPG's campaign if they want to, but there's a catch.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akVap.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T06:04:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4-druid-wont-changing-anytime-soon-despite-backlash.md",
       "title": "Diablo 4 Druid won’t changing anytime soon despite backlash",
       "excerpt": "Blizzard has confirmed that the Diablo 4 Druid model will not be changing anytime soon, as player sentiment towards the action RPG game’s class divides players.",
@@ -199,6 +283,48 @@
       "updatedDateTime": null,
       "provider": {
         "name": "ScreenRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says.md",
+      "title": "Diablo 4 respecs are less flexible than Diablo 3 — for good reason, Blizzard says",
+      "excerpt": "Diablo 4 is cautiously picking out a route somewhere between these two, as lead class designer Adam Jackson described in a roundtable call with press, which Polygon attended, last week. Early in the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/ar-AA1akndt",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/ar-AA1akndt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akkEa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
@@ -554,48 +680,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once.md",
-      "title": "Diablo 4's campaign can be skipped on new characters if you've beaten it once",
-      "excerpt": "Diablo 4's developers dropped a brand new video detailing its class details. One detail picked up by fans is that a 'Skip Campaign' option was shown in a character menu, leading to speculation that players could skip Diablo 4's entire campaign if they wan",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -993,99 +1077,6 @@
         "name": "vg247",
         "domain": "vg247.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving.md",
-      "title": "Diablo 4 Hardcore PvP Sounds Absolutely Brutal and Unforgiving",
-      "excerpt": "Blizzard reveals a new detail about PvP in Diablo 4 that will make the game's Hardcore mode that much more brutal.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-22-diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/ar-AA1acySJ",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/ar-AA1acySJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1acpa2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=523&y=318",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T05:36:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-can-diablo-4-outsell-hogwarts-legacy.md",
-      "title": "Can ‘Diablo 4’ Outsell ‘Hogwarts Legacy’?",
-      "excerpt": "That leaves two games I’m watching, Diablo 4 and Hogwarts Legacy, and I am wondering which will outsell the other, as both are multiplatform and not exclusive to any one system. And bigger than other ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-22-can-diablo-4-outsell-hogwarts-legacy/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6443f006a5ba8061f9a821c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/amp/",
-      "publishedDateTime": "2023-04-22T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

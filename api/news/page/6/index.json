@@ -2,6 +2,90 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op.md",
+      "title": "Diablo 4: How to play with friends in multiplayer co-op",
+      "excerpt": "Diablo 4 is a blast when you're on your own, but it's even better when you team up with friends — and we're not talking about Necromancer summons. Indeed, much like the series' past hack-and-slash ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-how-to-play-with-friends-in-multiplayer-co-op/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-play-with-friends-in-multiplayer-co-op/ar-AA1953mv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA195ajk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-25-diablo-4-beta-best-necromancer-build.md",
+      "title": "Diablo 4 Beta: Best Necromancer Build",
+      "excerpt": "Diablo 4 features some of the most influential classes from the Diablo series. Diablo 4 brings them back with new features, skills, and mechanics. Possibly the most popular class from Diablo’s history ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-best-necromancer-build/index.json",
+      "webUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7",
+      "originalUrl": "https://www.msn.com/en-gb/news/techandscience/diablo-4-beta-best-necromancer-build/ar-AA194XY7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1952Hb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more.md",
       "title": "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more",
       "excerpt": "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ...",
@@ -1007,99 +1091,6 @@
         "name": "Polygon",
         "domain": "polygon.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-all-diablo-4-dungeon-locations-and-their-aspects.md",
-      "title": "All Diablo 4 dungeon locations and their aspects",
-      "excerpt": "Tracking down all the Diablo 4 dungeons may seem like a slog, but if you're after an easy way to level up and some powerful Aspects for your build, it's certainly worth the effort. Dungeons may not ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-all-diablo-4-dungeon-locations-and-their-aspects/index.json",
-      "webUrl": "https://www.vg247.com/diablo-4-dungeons-locations-aspects",
-      "originalUrl": "https://www.vg247.com/diablo-4-dungeons-locations-aspects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.vg247.com/diablo-4-dungeons-locations.jpg/BROK/thumbnail/1200x630/diablo-4-dungeons-locations.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms.md",
-      "title": "Diablo 4 Item Drop Rate Increased For Open Beta, Blizzard Confirms",
-      "excerpt": "GameSpot may get a commission from retail offers. Diablo IV's early access beta and open beta feature higher than normal drop rates, Blizzard has confirmed. The news comes via Diablo general manager ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4116319-diablo4droprateincreasedforbeta.jpg",
-          "width": 1724,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-item-drop-rate-increased-for-open-beta-blizzard-confirms/1100-6512691/",
-      "publishedDateTime": "2023-03-24T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
