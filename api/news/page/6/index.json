@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more.md",
+      "title": "Diablo 4 beta best builds: Necromancer, Druid, Sorcerer, and more",
+      "excerpt": "Like every Diablo game before it, creating and using a strong character build is the core of what makes Diablo 4 fun to play. However, since each class has a huge variety of different skills and skill ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-beta-best-builds-necromancer-druid-sorcerer-and-more/index.json",
+      "webUrl": "https://www.windowscentral.com/gaming/diablo-4-best-builds",
+      "originalUrl": "https://www.windowscentral.com/gaming/diablo-4-best-builds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LJkg8nGCYXBycPtCCMgEtF-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-25T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-diablo-4-full-interactive-map-all-dungeons-side-quests-cellars-and-more.md",
       "title": "Diablo 4 full interactive map: All dungeons, side quests, cellars, and more",
       "excerpt": "Blizzard) FextraLife's massive interactive map for Diablo IV linked above gives you a huge overview of everything currently known in the game. Similar ...",
@@ -1050,57 +1093,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-how-to-swap-weapons-in-diablo-4.md",
-      "title": "How to swap weapons in Diablo 4",
-      "excerpt": "For most classes it's automatic, but one class can switch them. If you're on the fence about whether or not to play Diablo 4 when it gets its full release in June, this weekend's open beta (opens in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-how-to-swap-weapons-in-diablo-4/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-how-to-swap-weapons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ytQZdF8nsJfKjmXajqawFJ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
