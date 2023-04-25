@@ -7,7 +7,7 @@ originalUrl: "https://www.vg247.com/blizzard-says-that-diablo-4-isnt-intended-to
 webUrl: "https://www.vg247.com/blizzard-says-that-diablo-4-isnt-intended-to-be-played-forever"
 type: article
 quality: 87
-heat: 87
+heat: 127
 published: true
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diablo 4 'is not intended to be played forever,' says Blizzard"
+    excerpt: "There’s no question that Diablo 4 will have an astronomical amount of playable content at launch, but developer Blizzard isn’t trying to hook you forever. In an interview with"
+    publishedDateTime: 2023-04-24T09:00:25Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-is-not-intended-to-be-played-forever-says-blizzard/ar-AA1ah4as"
+    type: article
+    provider:
+      name: USA Today on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18RKUu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=612&y=330"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 isn't \"intended to be played forever\" and there's a \"pinnacle boss encounter\" at the end"
+    excerpt: "Blizzard says there is a \"very, very long progression in place\" beyond level 100 in Nightmare dungeons, but it doesn't go on forever ..."
+    publishedDateTime: 2023-04-21T13:31:00Z
+    webUrl: "https://news.yahoo.com/diablo-4-isnt-intended-played-203108237.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KsS3EofnxiMnyxueSsqm4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d23b6956a6654889a531db8ed508f63c"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "I3CBIymsyOZIWGxv6SysEpCt2NKhIobgGBzJQY2jhtPQmPhR09ypaWR+pw9n7ZAVRHwQ5HxM1yyO9Mpu+Ksk88PIo+h2QMlV3GWe5yKRMpjHfSODD7dn44vGSaef29pAaKqEtIoGA2ZS5Qx5zPAUBfeNTmaObGVzmj7kYRyncDfsnsy7YEfG5GD6swMPIzdVMhOE4zrwubI2OSz5TlpGtRU8xXAlNCX32Rkkbf/oSM/o3fw/Gh1/CkhnfCfG94COBH7Ju9Yoo3oZTRDR/LRs37aMzAAaUjeLHilxkCR6UaffrsxsbivOa2utCZkQcanNR/M2C0cDUiQbf94txcukWgmHs3ChqL8BGwjTKSJYXt8=;CDut95KGQaTDrLxwCJH+Xg=="
 ---
