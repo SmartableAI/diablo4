@@ -2,6 +2,150 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-26-diablo-4-rogue-skill-tree-all-attacks-and-abilities.md",
+      "title": "Diablo 4: Rogue skill tree, all attacks and abilities",
+      "excerpt": "Diablo 4 features five classes at launch. If you're a player that wants to deal heavy critical damage using poisons and knives, the Rogue will be the one to choose. Rogue's abilities are powered by ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-rogue-skill-tree-all-attacks-and-abilities/index.json",
+      "webUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-rogue-skill-tree-all-attacks-and-abilities/ar-AA196rfu",
+      "originalUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-rogue-skill-tree-all-attacks-and-abilities/ar-AA196rfu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA196mhb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=586&y=168",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-diablo-4-theory-claims-to-know-who-the-bloodied-wolf-really-is.md",
+      "title": "Diablo 4 Theory Claims to Know Who the Bloodied Wolf Really Is",
+      "excerpt": "Diablo 4 players theorize who the game's mysterious and threatening Bloodied Wolf character might be, as well as what their goals are.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-theory-claims-to-know-who-the-bloodied-wolf-really-is/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-theory-bloodied-wolf-mystery-character-identity-mephisto/",
+      "originalUrl": "https://gamerant.com/diablo-4-theory-bloodied-wolf-mystery-character-identity-mephisto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-bloodied-wolf-who-is-it.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-diablo-4-necromancer-book-of-the-dead-minions-guide.md",
+      "title": "Diablo 4 - Necromancer Book Of The Dead Minions Guide",
+      "excerpt": "Learn about the different Book of the Dead minions that you can summon as the Necromancer in Diablo 4. The Necromancer is one of the most powerful classes in Diablo 4 due to its summoning capabilities ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-necromancer-book-of-the-dead-minions-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4116674-diablo4necromancerbookofthedeadguidebestundeadminions-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-necromancer-book-of-the-dead-guide/1100-6512713/",
+      "publishedDateTime": "2023-03-26T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-the-one-diablo-4-tip-i-wish-i-knew-before-i-started-playing.md",
       "title": "The one Diablo 4 tip I wish I knew before I started playing",
       "excerpt": "Recently, players finally got an opportunity to try out Diablo 4, the latest entry in Blizzard's iconic hack-and-slash franchise, thanks to the arrival of its beta. In it, both the Prologue and Act 1 ...",
@@ -946,132 +1090,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes.md",
-      "title": "Diablo 4 Open Beta Provides List of Ongoing Issues and Fixes",
-      "excerpt": "Blizzard has shared a list of major ongoing technical issues from Diablo 4's ongoing open beta, as well as fixes that it has issued in real-time. Diablo 4 remains planned for full release in early ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-provides-list-of-ongoing-issues-and-fixes/ar-AA194vw6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA194vw2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-25T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-ready-to-slay-demons-heres-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march.md",
-      "title": "Ready to slay demons? Here's all you need to know about Diablo 4 Beta ahead of release on 25 March",
-      "excerpt": "Are you excited to dive into the Diablo 4 beta? Well, before you start, here's a list of tips you should know Diablo 4, the highly anticipated isometric RPG about fighting the hordes of hell, is here, ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-ready-to-slay-demons-heres-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march/index.json",
-      "webUrl": "https://www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/25/1600x900/diablo_4_a_1679749012359_1679749021176_1679749021176.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/ready-to-slay-demons-here-s-all-you-need-to-know-about-diablo-4-beta-ahead-of-release-on-25-march-101679748036951-amp.html",
-      "publishedDateTime": "2023-03-25T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-diablo-4-players-divided-over-shameful-part-of-the-game.md",
-      "title": "Diablo 4 Players Divided Over \"Shameful\" Part of the Game",
-      "excerpt": "The Diablo 4 open beta is curretly live and will be live until March 27. And it doesn't matter if you're on PC, PS4, PS5, Xbox One, Xbox Series S, or Xbox Series X, you can access the beta, which ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-players-divided-over-shameful-part-of-the-game/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-reddit-dungeons/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-open-beta-reddit-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/26/93464f73-02df-4c44-ad6d-5d551e79f6d7/new-games-out-this-month.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-open-beta-reddit-dungeons/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-open-beta-reddit-dungeons/",
-      "publishedDateTime": "2023-03-24T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

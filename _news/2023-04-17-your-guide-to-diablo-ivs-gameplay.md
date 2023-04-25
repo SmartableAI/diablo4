@@ -7,8 +7,8 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-dia
 webUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 242
+published: true
 
 provider:
   name: Blizzard
@@ -28,33 +28,63 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Inside the Game: Into the Endgame"
-    excerpt: "Join members of the Diablo IV development team as they pull back the curtain on the experiences waiting for you in the endgame."
-    publishedDateTime: 2023-04-05T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame"
+  - title: "Help Us Gear Up for Launch During the Diablo IV Server Slam"
+    excerpt: "Server Slam runs from May 12–14. Take up arms to defend Sanctuary from Lilith’s legions while helping us prepare our servers for Diablo IV’s launch on June 6."
+    publishedDateTime: 2023-04-20T18:55:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-for-launch-during-the-diablo-iv-server-slam"
     type: article
     provider:
       name: Blizzard
       domain: blizzard.com
     quality: 162
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/v9/V953OPV7CKRK1680311743200.png"
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/va/VAF7KU3P4CWI1681774163839.png"
         width: 880
         height: 400
         isCached: true
-  - title: "New Diablo 4 End Game Announcement - DatModz Reacts"
-    excerpt: "In this video, join popular gamer and Diablo expert DatModz as he reacts to the new Diablo 4 end game announcement. As one of ..."
-    publishedDateTime: 2023-04-06T01:51:25Z
-    webUrl: ""
-    type: video
+  - title: "Make Sanctuary Yours—Play Your Way in Diablo IV"
+    excerpt: "Diablo IV equips wanderers with a level of choice never previously seen in a Diablo game. Watch the Inside the Game: Your Class Your way developer video and read on for more details about customization."
+    publishedDateTime: 2023-04-24T17:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23938756/make-sanctuary-yours-play-your-way-in-diablo-iv"
+    type: article
     provider:
-      name: Dat Modz
-      domain: youtube.com
-    quality: 137
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
     images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/xu/XUHO51131VDC1681937325089.png"
+        width: 880
+        height: 400
+        isCached: true
+  - title: "Diablo 4 endgame content is supposed to make you suffer, says game director"
+    excerpt: "Diablo 4 game director interview: endgame content is “not designed to be fair” Diablo 4 might not release on PlayStation, Xbox and PC until June 6, 2023, but players have already gotten a taste of ..."
+    publishedDateTime: 2023-04-16T22:00:00Z
+    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507"
+    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 105
+    images:
+      - url: "https://i2-prod.mirror.co.uk/gaming/article29727512.ece/ALTERNATES/s1200/0_d4-suffer.png"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "Diablo 4 Has Good News for Xbox Gamers"
+    excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
+    publishedDateTime: 2023-04-17T09:59:24Z
+    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Ymjz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "L5nKjIso/8AbgELAuSlWGg9iJpnjWKgkw6heFmoWZ0Uzdz/xqUHVtLHqD/Rs14FBgJ/v/Vb8hcEeIVKHtL3QNdcuDxZt4axuee8A9yvS+Pmnv5u+extmP69YkXlw1gupqdU8IT6OtCVGgYwGxDMbZjaQAS/NQKu4UKfdNySvKWEerNnoQHt9OcXj97g9rACYZm4mTkMpZjcbbpmm4sGVVWk+s9TWFvciWvi2CPaQoB+vnJ1ze4NbFiNzAm/QrqHUbwuQuyrOg+Dhxnij6w3ts0r0YWsKROWZWd5fA7EB4pDTPpLjgq0KSWPVNvZWempJ48Y4k+wZ/0EELj5YUbgw9oejtgRCO9W0eoErULJzrhU=;mJOpY2TAxyWt68mEx4wiuw=="

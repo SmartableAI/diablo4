@@ -7,8 +7,8 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-f
 webUrl: "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-for-launch-during-the-diablo-iv-server-slam"
 type: article
 quality: 162
-heat: 282
-published: true
+heat: -1
+published: false
 
 provider:
   name: Blizzard
@@ -28,89 +28,61 @@ images:
     isCached: true
 
 related:
-  - title: "The Classes ‘Diablo 4’ Is Buffing And Nerfing For Launch After The Betas"
-    excerpt: "Well, I have to give Blizzard a lot of credit here, they have not just taken feedback from Diablo 4’s pair of betas last month, but they are implementing a lot of feedback in time for launch."
-    publishedDateTime: 2023-04-15T05:18:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/amp/"
+  - title: "Your guide to Diablo IV’s gameplay"
+    excerpt: "Learn a few tips and tricks to help you prepare to fight for the fate of the world."
+    publishedDateTime: 2023-04-17T17:14:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642194c5f4da46f4c7e2d103/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New Diablo 4 Trailer Is All About the Sorcerer"
-    excerpt: "Blizzard Entertainment released a new trailer of its upcoming RPG Diablo 4, focusing on one of the playable classes available in the game, the sorcerer."
-    publishedDateTime: 2023-04-13T10:26:00Z
-    webUrl: "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 87
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-04/Diablo%204%20Sorcerer.jpg?itok=d6rpcEQ9"
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 is Changing its Font"
-    excerpt: "After receiving feedback during its open beta period, Diablo 4 announces it will be changing the typeface used in some places across the action RPG."
-    publishedDateTime: 2023-04-15T13:41:07Z
-    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-changing-its-font/ar-AA19UdoX"
+  - title: "Make Sanctuary Yours—Play Your Way in Diablo IV"
+    excerpt: "Diablo IV equips wanderers with a level of choice never previously seen in a Diablo game. Watch the Inside the Game: Your Class Your way developer video and read on for more details about customization."
+    publishedDateTime: 2023-04-24T17:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23938756/make-sanctuary-yours-play-your-way-in-diablo-iv"
     type: article
     provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19UkJA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/xu/XUHO51131VDC1681937325089.png"
+        width: 880
+        height: 400
+        isCached: true
+  - title: "Diablo 4 endgame content is supposed to make you suffer, says game director"
+    excerpt: "Diablo 4 game director interview: endgame content is “not designed to be fair” Diablo 4 might not release on PlayStation, Xbox and PC until June 6, 2023, but players have already gotten a taste of ..."
+    publishedDateTime: 2023-04-16T22:00:00Z
+    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507"
+    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 105
+    images:
+      - url: "https://i2-prod.mirror.co.uk/gaming/article29727512.ece/ALTERNATES/s1200/0_d4-suffer.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Everything Diablo 4 Must Change Before Launch"
-    excerpt: "The beta for Diablo 4 is promising but has a few glitches and incomplete gameplay features that need to be patched or refined before launch."
-    publishedDateTime: 2023-04-15T07:00:16Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/everything-diablo-4-must-change-before-launch/ar-AA19TykC"
+  - title: "Diablo 4 Has Good News for Xbox Gamers"
+    excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
+    publishedDateTime: 2023-04-17T09:59:24Z
+    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
     type: article
     provider:
-      name: ScreenRant on MSN
+      name: Game Rant on MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19TUdo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 is Missing a Popular Series Feature"
-    excerpt: "A senior Blizzard developer confirms Diablo 4 probably won't be getting a popular feature standard in many action RPGs, including its predecessors."
-    publishedDateTime: 2023-04-17T13:58:34Z
-    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Yun7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 Confirms PC Requirements for Launch"
-    excerpt: "Diablo 4 confirms the system requirements for running the game on PC at launch, making players even more eager for the next entry in the franchise."
-    publishedDateTime: 2023-04-24T14:08:37Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-pc-requirements-for-launch/ar-AA1ahOxw"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ahv9I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=191"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Ymjz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
