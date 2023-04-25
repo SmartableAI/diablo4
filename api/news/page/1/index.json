@@ -146,35 +146,26 @@
       ]
     },
     {
-      "path": "_news/2023-04-24-diablo-4-reveals-how-long-it-takes-to-hit-level-100.md",
-      "title": "Diablo 4 Reveals How Long It Takes to Hit Level 100",
-      "excerpt": "Blizzard confirms about how long it will take Diablo 4 players to hit the game's max level cap when it launches later this year.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-24-diablo-4-reveals-how-long-it-takes-to-hit-level-100/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-how-long-it-takes-to-hit-level-100/ar-AA1ahAdL",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-how-long-it-takes-to-hit-level-100/ar-AA1ahAdL",
+      "path": "_news/2023-04-24-diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100.md",
+      "title": "Diablo 4 dev reveals absurd amount of time needed to reach level 100",
+      "excerpt": "ARPG gamers looking to get their money’s worth out of Diablo 4 are in for a treat, according to Blizzard. This weekend, a Blizzard developer revealed the estimated time that it will take players to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-24-diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100/index.json",
+      "webUrl": "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100",
+      "originalUrl": "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ahuy8.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T05:54:13-07:00",
+      "publishedDateTime": "2023-04-24T04:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
+        "name": "Dot Esports",
+        "domain": "dotesports.com",
         "images": null,
         "publishers": null,
         "authors": null
