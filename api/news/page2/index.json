@@ -2,6 +2,141 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-17-your-guide-to-diablo-ivs-gameplay.md",
+      "title": "Your guide to Diablo IV’s gameplay",
+      "excerpt": "Learn a few tips and tricks to help you prepare to fight for the fate of the world.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-your-guide-to-diablo-ivs-gameplay/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release.md",
+      "title": "Diablo 4 has gone gold, on track for summer 2023 release",
+      "excerpt": "Diablo 4, the highly-anticipated gothic action RPG epic, has gone gold - well ahead of launch. On Monday, Blizzard Entertainment announced that",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-gone-gold-on-track-for-summer-2023-release/ar-AA19YCpH",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-gone-gold-on-track-for-summer-2023-release/ar-AA19YCpH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19YMiU.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=509&y=335",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T07:41:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "For The Win on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-diablo-4-is-missing-a-popular-series-feature.md",
+      "title": "Diablo 4 is Missing a Popular Series Feature",
+      "excerpt": "A senior Blizzard developer confirms Diablo 4 probably won't be getting a popular feature standard in many action RPGs, including its predecessors.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-is-missing-a-popular-series-feature/index.json",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Yun7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T06:58:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it.md",
       "title": "Diablo 4 Devs Have \"No Plans\" For Key Map Feature, And Fans Are Divided On It",
       "excerpt": "A recent statement from Blizzard indicates that Diablo 4 will not have an overlay map, and some are upset about it.",
@@ -976,132 +1111,6 @@
       "provider": {
         "name": "TechRaptor",
         "domain": "techraptor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-diablo-4-is-no-mmo-youll-be-blowing-up-screens-of-monsters.md",
-      "title": "Diablo 4 is no MMO – you’ll be “blowing up screens of monsters”",
-      "excerpt": "If the Diablo 4 endgame video didn’t get you excited for Blizzard’s upcoming action RPG game, then I don’t know what will. There’s fearsome world bosses, all-new Nightmare Dungeons, a tree made of literal faces – take your pick, Sanctuary has it",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-diablo-4-is-no-mmo-youll-be-blowing-up-screens-of-monsters/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/not-mmo",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/not-mmo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-mmorpg.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-diablo-4s-battle-pass-will-take-roughly-80-hours-to-complete.md",
-      "title": "Diablo 4's battle pass will take \"roughly 80 hours\" to complete",
-      "excerpt": "Diablo 4's battle pass should take around 80 hours to complete, Blizzard has revealed. In a recent group interview (via PC Gamer ), associate game director Joe Piepiora detailed the amount of seasonal ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-12-diablo-4s-battle-pass-will-take-roughly-80-hours-to-complete/index.json",
-      "webUrl": "https://news.yahoo.com/diablo-4s-battle-pass-roughly-204031083.html",
-      "originalUrl": "https://news.yahoo.com/diablo-4s-battle-pass-roughly-204031083.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/KsS3EofnxiMnyxueSsqm4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d23b6956a6654889a531db8ed508f63c",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "yahoo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-diablo-4-to-get-story-updates-every-3-months.md",
-      "title": "Diablo 4 to get story updates every 3 months",
-      "excerpt": "These updates are planned to include story content, so there are regularly new storylines for players to experience. Diablo 4 is scheduled to launch on June 6, 2023, with early access on June 2 for ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-12-diablo-4-to-get-story-updates-every-3-months/index.json",
-      "webUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-to-get-story-updates-every-3-months/ar-AA19MBhz",
-      "originalUrl": "https://www.msn.com/en-gb/money/technology/diablo-4-to-get-story-updates-every-3-months/ar-AA19MBhz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19MyFr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=629&y=86",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-12T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

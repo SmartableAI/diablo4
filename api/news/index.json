@@ -2,6 +2,141 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-25-diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough.md",
+      "title": "Diablo 4 Will Let You Skip Its Campaign (After Your First Playthrough)",
+      "excerpt": "The feature sounds similar to Diablo 3's Adventure Mode, though there are still details that have yet to be clarified.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4129615-diablo4skipcampaignoption.jpg",
+          "width": 1639,
+          "height": 922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
+      "publishedDateTime": "2023-04-25T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more.md",
+      "title": "Diablo 4: Complete Guide Hub - Quest Walkthroughs, Best Classes, Materials, Tips, and More",
+      "excerpt": "Diablo 4 fans can use this hub guide to learn everything they need to know about Blizzard's upcoming RPG.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more/ar-AA1ak8ze",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more/ar-AA1ak8ze",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ak10y.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=396&y=300",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T01:49:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-why-diablo-4s-new-beta-is-a-show-of-confidence.md",
+      "title": "Why Diablo 4's New Beta is a Show of Confidence",
+      "excerpt": "The third and final beta for Diablo 4 prior to launch in June showcases the confidence of its developers toward delivering that final product.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-why-diablo-4s-new-beta-is-a-show-of-confidence/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/why-diablo-4-s-new-beta-is-a-show-of-confidence/ar-AA1akb0A",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/why-diablo-4-s-new-beta-is-a-show-of-confidence/ar-AA1akb0A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akb0s.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=553&y=285",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T01:24:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4-is-going-hardcore-with-one-feature-thatll-make-you-cry.md",
       "title": "Diablo 4 is going hardcore with one feature that’ll make you cry",
       "excerpt": "Anyone can enter the Fields of Hatred in Diablo 4 ’s open world, and once in, players will be at the mercy of monsters and their fellow fans. Killing other RPG players is actually encouraged, as you ...",
@@ -940,141 +1075,6 @@
       "provider": {
         "name": "The GameSensei",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-your-guide-to-diablo-ivs-gameplay.md",
-      "title": "Your guide to Diablo IV’s gameplay",
-      "excerpt": "Learn a few tips and tricks to help you prepare to fight for the fate of the world.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-your-guide-to-diablo-ivs-gameplay/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release.md",
-      "title": "Diablo 4 has gone gold, on track for summer 2023 release",
-      "excerpt": "Diablo 4, the highly-anticipated gothic action RPG epic, has gone gold - well ahead of launch. On Monday, Blizzard Entertainment announced that",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-gone-gold-on-track-for-summer-2023-release/ar-AA19YCpH",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-gone-gold-on-track-for-summer-2023-release/ar-AA19YCpH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19YMiU.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=509&y=335",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T07:41:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "For The Win on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diablo-4-is-missing-a-popular-series-feature.md",
-      "title": "Diablo 4 is Missing a Popular Series Feature",
-      "excerpt": "A senior Blizzard developer confirms Diablo 4 probably won't be getting a popular feature standard in many action RPGs, including its predecessors.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-is-missing-a-popular-series-feature/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Yun7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T06:58:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

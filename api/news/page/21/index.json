@@ -2,6 +2,132 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-07-22-diablo-4-beta-files-reportedly-found-online.md",
+      "title": "Diablo 4 Beta Files Reportedly Found Online",
+      "excerpt": "Files for a Diablo 4 beta have been reportedly spotted online, suggesting that we may get access to the game soon.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-22-diablo-4-beta-files-reportedly-found-online/index.json",
+      "webUrl": "https://gameranx.com/updates/id/334216/article/diablo-4-beta-files-reportedly-found-online/",
+      "originalUrl": "https://gameranx.com/updates/id/334216/article/diablo-4-beta-files-reportedly-found-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gameranx.com/wp-content/uploads/2022/06/diablo-4-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gameranx",
+        "domain": "gameranx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-fans-have-spotted-the-diablo-4-beta-on-battlenet-launcher.md",
+      "title": "Fans have spotted the Diablo 4 beta on Battle.net launcher",
+      "excerpt": "Some observant fans have spotted the Diablo 4 beta on Battle.net. Although the beta isn’t visible on Blizzard’s launcher, the same cannot be said of Diablo 4‘s presence in the configuration files.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-22-fans-have-spotted-the-diablo-4-beta-on-battlenet-launcher/index.json",
+      "webUrl": "https://www.pcinvasion.com/diablo-4-beta-on-battle-net/",
+      "originalUrl": "https://www.pcinvasion.com/diablo-4-beta-on-battle-net/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.pcinvasion.com/wp-content/uploads/2022/07/diablo-4-beta-spotted-on-battle-net-config-files.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcinvasion.com/diablo-4-beta-on-battle-net/amp/",
+      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/diablo-4-beta-on-battle-net/amp/",
+      "publishedDateTime": "2022-07-22T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pcinvasion.com",
+        "domain": "pcinvasion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo.md",
+      "title": "Diablo 4 are keys free if you get the game’s tattoo",
+      "excerpt": "DIABLO 4 developer Blizzard has announced Diablo Hell’s Ink, pop-up shops which offer Diablo 4 keys to those who get a tattoo based on the game. The tour will take place across the globe beginning ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-07-21-diablo-4-are-keys-free-if-you-get-the-games-tattoo/index.json",
+      "webUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/",
+      "originalUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/07/Diablo-tattoo-Beta-code-1.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9133135/diablo-4-tattoos-free-game/amp/",
+      "publishedDateTime": "2022-07-20T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-offer-your-flesh-as-a-tribute-to-get-beta-access-to-diablo-4.md",
       "title": "Offer your flesh as a tribute to get beta access to Diablo 4",
       "excerpt": "Blizzard's Diablo Hell's Ink takeover event kicked off in Los Angeles on Saturday and will continue through September 10. During this time, fans can get a free Diablo tattoo. But this is getting huge ...",
@@ -968,141 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic.md",
-      "title": "Diablo 4 Update Dives Deep On The Necromancer, Including Its Unique Book Of The Dead Mechanic",
-      "excerpt": "After a splashy debut as part of the Xbox and Bethesda Showcase, more information about Diablo IV's Necromancer class has been revealed, including a new unique class mechanic called Book of the Dead ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/3989767-diablo-4-thumbnail_site.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-update-dives-deep-on-the-necromancer-including-its-unique-book-of-the-dead-mechanic/1100-6504544/",
-      "publishedDateTime": "2022-06-13T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5.md",
-      "title": "Diablo 4: how to sign up for the closed beta on Xbox X/S Series and PS5",
-      "excerpt": "The fourth installment will be released next year for PS4, PS5, Xbox One, Xbox Series and PC; it will implement cross-play between all platforms. Shortly before Diablo IV appeared at the Xbox ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-diablo-4-how-to-sign-up-for-the-closed-beta-on-xbox-xs-series-and-ps5/index.json",
-      "webUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
-      "originalUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://as01.epimg.net/meristation_en/imagenes/2022/06/13/news/1655142484_224785_1655143074_portada_normal.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation_en/2022/06/13/news/1655142484_224785.amp.html",
-      "publishedDateTime": "2022-06-13T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed.md",
-      "title": "Blizzard's Diablo 4 developers try to put monetisation worries to bed",
-      "excerpt": "Blizzard confirmed that Diablo 4, the game that's not Diablo Immoral (sorry, I meant Immortal), will launch for PC, PlayStation 4, PS5, Xbox One and Xbox Series X/S next year. Since this news came to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed/index.json",
-      "webUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
-      "originalUrl": "https://www.eurogamer.net/blizzards-diablo-4-developers-try-to-put-monetisation-worries-to-bed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.reedpopcdn.com/Diablo-4_p8rJ9b5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Diablo-4_p8rJ9b5.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
