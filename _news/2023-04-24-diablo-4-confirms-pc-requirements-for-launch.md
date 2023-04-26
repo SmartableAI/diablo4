@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 PC system requirements confirmed - brace yourself if you want to play in 4K"
+    excerpt: "Blizzard has confirmed the final Diablo 4 PC system requirements. There are four spec tiers outlined in a post on ..."
+    publishedDateTime: 2023-04-26T05:05:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-pc-system-requirements-confirmed-brace-yourself-if-you-want-to-play-in-4k"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 80
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo-again.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "thjQqMqULhrtL6Xs0WgsqfTu5TmykPFOQ4SQ9lA11riiGVapjsRAlwCfa/+Y7JU3OJ7qFGMAuR6BAYtgI/Skc+XOuHuTQzcPyH9B3Jcq2UnnPz4m2MpLcFmLu5Zqo1/iB4nOE925hiaSUyO3Nc6eUSU8tG2iGnfthualHgBigEZ3BhcedqDzUTYyuy1+T3eQoD6KthPs5MZiTrKEQynJSLiPRiDehM0G4ijOHWYfINW4IebnlzXBZT9uJMxC9iD++3R12bYcnUfVZZEYaVYB3SsOqxopqz43pygI3LHIvqt291Z1ycTOZ6K1zoBAwOYoWLabrREap1rAGk/+pFymuAjLQRaCicHGWu82YOU+MIc=;kZ0C8VaoSHBAQvh76udJVA=="
 ---

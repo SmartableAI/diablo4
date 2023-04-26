@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requ
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
 type: article
 quality: 147
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-25-image-7.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Diablo 4 PC system requirements confirmed - brace yourself if you want to play in 4K"
+    excerpt: "Blizzard has confirmed the final Diablo 4 PC system requirements. There are four spec tiers outlined in a post on ..."
+    publishedDateTime: 2023-04-26T05:05:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-pc-system-requirements-confirmed-brace-yourself-if-you-want-to-play-in-4k"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 80
+    images:
+      - url: "https://assetsio.reedpopcdn.com/diablo-again.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qJpfaUhLleUpTS3SxJzePckXxQNhFcRsZmy5cBdqiHtqXPB7d2PDARnSI1WsUrKKBn78cQBleTsawfKg4WdGliJoUXRTGV5AT8rhE2cqgu917dEvHFYCBjN/ahS1EV1hWJHbyA3veWGYkvHZTzP+Hwdb81GYn43xJnutGKnpaBKNTGMYbLuXUVtgE/Pkz4YWu4uJC+D9wQXObW33Ky4W/ILj6bXSNxJLLnsMLNFZs7vGYcHFK+jPWNYcE8iG/MvCChCy9b+KRcPeMmbLzXU5PyKsFGOm/furJk8s5kKZdkchff+f6FfEqj0Hj8YI7fJpuIqIRpFQo5Y3kxcxITkmOudmoQ6BsHeovegvyvRVtb0=;XyiB5EkiaNblW12KHRWVvw=="
