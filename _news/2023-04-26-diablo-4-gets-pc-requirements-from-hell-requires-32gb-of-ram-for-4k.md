@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Diablo 4 Launch PC System Requirements Revealed"
-excerpt: "While Diablo 4 will attempt to run on systems that don't meet the recommended settings, Blizzard warns the game \"may be significantly diminished.\""
-publishedDateTime: 2023-04-24T13:06:00Z
-originalUrl: "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
-webUrl: "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
+title: "Diablo 4 gets PC requirements from hell, requires 32GB of RAM for 4K"
+excerpt: "Blizzard revealed its PC requirements to run the upcoming Diablo 4, and the required RAM to run it in 4K is particularly steep."
+publishedDateTime: 2023-04-26T07:47:21Z
+originalUrl: "https://www.msn.com/en-us/news/technology/diablo-4-gets-pc-requirements-from-hell-requires-32gb-of-ram-for-4k/ar-AA1annxT"
+webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-gets-pc-requirements-from-hell-requires-32gb-of-ram-for-4k/ar-AA1annxT"
 type: article
-quality: 147
-heat: 267
-published: true
+quality: 87
+heat: -1
+published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TechRadar on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4129181-diablo4systemrequirements.jpg"
-    width: 1721
-    height: 968
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anhVA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Diablo 4 Launch PC System Requirements Revealed"
+    excerpt: "While Diablo 4 will attempt to run on systems that don't meet the recommended settings, Blizzard warns the game \"may be significantly diminished.\""
+    publishedDateTime: 2023-04-24T13:06:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4129181-diablo4systemrequirements.jpg"
+        width: 1721
+        height: 968
+        isCached: true
   - title: "Diablo 4 Confirms PC Requirements for Launch"
     excerpt: "Diablo 4 confirms the system requirements for running the game on PC at launch, making players even more eager for the next entry in the franchise."
     publishedDateTime: 2023-04-24T14:08:37Z
@@ -57,20 +67,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/04/Diablo-4-system-requirements.jpg"
         width: 700
         height: 505
-        isCached: true
-  - title: "Diablo 4 gets PC requirements from hell, requires 32GB of RAM for 4K"
-    excerpt: "Blizzard revealed its PC requirements to run the upcoming Diablo 4, and the required RAM to run it in 4K is particularly steep."
-    publishedDateTime: 2023-04-26T07:47:21Z
-    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-gets-pc-requirements-from-hell-requires-32gb-of-ram-for-4k/ar-AA1annxT"
-    type: article
-    provider:
-      name: TechRadar on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anhVA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diablo 4: PC Requirements Confirmed for Launch"
     excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
@@ -115,6 +111,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qJpfaUhLleUpTS3SxJzePckXxQNhFcRsZmy5cBdqiHtqXPB7d2PDARnSI1WsUrKKBn78cQBleTsawfKg4WdGliJoUXRTGV5AT8rhE2cqgu917dEvHFYCBjN/ahS1EV1hWJHbyA3veWGYkvHZTzP+Hwdb81GYn43xJnutGKnpaBKNTGMYbLuXUVtgE/Pkz4YWu4uJC+D9wQXObW33Ky4W/ILj6bXSNxJLLnsMLNFZs7vGYcHFK+jPWNYcE8iG/MvCChCy9b+KRcPeMmbLzXU5PyKsFGOm/furJk8s5kKZdkchff+f6FfEqj0Hj8YI7fJpuIqIRpFQo5Y3kxcxITkmOudmoQ6BsHeovegvyvRVtb0=;XyiB5EkiaNblW12KHRWVvw=="
+secured: "DShhVSjgSX32IR/hug6RITFkLELR0PzHF76QRRSNV8gMB2CpVlMbCw+WVE+trUbIdVtOEtRgfRLJuBX1UNyUEMH5roM4XPd+H9Rb+VvNj0VkRY7FGl9Rm2KAHr+pW8zKgLYiLMb06XQ8hQhAnND+B0qOjPHmDGE4lSUh9r/+lkFgC6GaGGVQgGrSTL3sdJ5t4gP+M4OQNBOixXVWVmzfxExNkCRNrRtISm8NdrRmUl6Nthr9saEzVwce9BmPaKZtQBtk+YUSL5Aqr4XK1IHr2cOddxJVAkGjH44yjDPs57pDEwuYtD3hZBCFjts1S4gBo3f1axiPGusqSfcO0/2jQeSe4K+dt7rHHF3sNiJGO2E=;btLHWUd1fJxnGWn+HY+7Rg=="
 ---
 

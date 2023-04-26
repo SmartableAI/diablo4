@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-26-diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know.md",
+      "title": "Diablo 4 Server Slam Beta: Start Date, Rewards, Class Changes, And Everything We Know",
+      "excerpt": "Here's when you can get into the Diablo 4 Server Slam and see how the game has changed ahead of its full launch.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-26-diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4128003-11.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/",
+      "publishedDateTime": "2023-04-26T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-diablo-4-could-feature-diablo-2s-runewords-blizzard-says.md",
       "title": "Diablo 4 could feature Diablo 2’s runewords, Blizzard says",
       "excerpt": "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game.",
@@ -252,48 +303,6 @@
       "topics": [
         "Diablo 4",
         "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4-may-2023-server-slam-beta-weekend-dates-and-times.md",
-      "title": "Diablo 4: May 2023 Server Slam Beta Weekend Dates and Times",
-      "excerpt": "After the successful betas back in late March, Diablo 4 is having another beta weekend that will be in mid-May 2023 before the full release in June.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akAxu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T03:54:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     },
     {
@@ -869,7 +878,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 267,
       "tags": null,
       "images": [
         {

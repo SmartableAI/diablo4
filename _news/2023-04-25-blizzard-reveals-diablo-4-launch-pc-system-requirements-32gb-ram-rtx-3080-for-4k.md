@@ -68,6 +68,20 @@ related:
         width: 700
         height: 505
         isCached: true
+  - title: "Diablo 4 gets PC requirements from hell, requires 32GB of RAM for 4K"
+    excerpt: "Blizzard revealed its PC requirements to run the upcoming Diablo 4, and the required RAM to run it in 4K is particularly steep."
+    publishedDateTime: 2023-04-26T07:47:21Z
+    webUrl: "https://www.msn.com/en-us/news/technology/diablo-4-gets-pc-requirements-from-hell-requires-32gb-of-ram-for-4k/ar-AA1annxT"
+    type: article
+    provider:
+      name: TechRadar on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anhVA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Diablo 4: PC Requirements Confirmed for Launch"
     excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
     publishedDateTime: 2023-04-26T06:40:41Z
