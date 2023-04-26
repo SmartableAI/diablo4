@@ -68,6 +68,20 @@ related:
         width: 700
         height: 505
         isCached: true
+  - title: "Diablo 4: PC Requirements Confirmed for Launch"
+    excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
+    publishedDateTime: 2023-04-26T06:40:41Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pc-requirements-confirmed-for-launch/ar-AA1an5r5"
+    type: article
+    provider:
+      name: PC Invasion on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anafz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=469&y=314"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Diablo 4 PC system requirements confirmed - brace yourself if you want to play in 4K"
     excerpt: "Blizzard has confirmed the final Diablo 4 PC system requirements. There are four spec tiers outlined in a post on ..."
     publishedDateTime: 2023-04-26T05:05:00Z

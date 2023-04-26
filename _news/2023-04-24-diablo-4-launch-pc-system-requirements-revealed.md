@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requ
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
 type: article
 quality: 147
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/04/Diablo-4-system-requirements.jpg"
         width: 700
         height: 505
+        isCached: true
+  - title: "Diablo 4: PC Requirements Confirmed for Launch"
+    excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
+    publishedDateTime: 2023-04-26T06:40:41Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pc-requirements-confirmed-for-launch/ar-AA1an5r5"
+    type: article
+    provider:
+      name: PC Invasion on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anafz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=469&y=314"
+        width: 600
+        height: 315
         isCached: true
   - title: "Blizzard reveals Diablo 4 launch PC system requirements: 32GB RAM & RTX 3080 for 4K"
     excerpt: "Diablo fans are counting the days until the fourth game's June 6 release date. Now, Blizzard has revealed what kind of graphical experience users can expect ..."

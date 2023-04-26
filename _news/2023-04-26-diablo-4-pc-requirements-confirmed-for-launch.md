@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 PC system requirements"
-excerpt: "PC gamers preparing to dive into the new Diablo 4 action role-playing game officially launching on June 6, 2023. Will be pleased to know that Blizzard ..."
-publishedDateTime: 2023-04-25T04:24:00Z
-originalUrl: "https://www.geeky-gadgets.com/diablo-4-system-requirements-25-04-2023/"
-webUrl: "https://www.geeky-gadgets.com/diablo-4-system-requirements-25-04-2023/"
+title: "Diablo 4: PC Requirements Confirmed for Launch"
+excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
+publishedDateTime: 2023-04-26T06:40:41Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pc-requirements-confirmed-for-launch/ar-AA1an5r5"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pc-requirements-confirmed-for-launch/ar-AA1an5r5"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Geeky Gadgets
-  domain: geeky-gadgets.com
+  name: PC Invasion on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/04/Diablo-4-system-requirements.jpg"
-    width: 700
-    height: 505
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anafz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=469&y=314"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -54,19 +54,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4: PC Requirements Confirmed for Launch"
-    excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
-    publishedDateTime: 2023-04-26T06:40:41Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pc-requirements-confirmed-for-launch/ar-AA1an5r5"
+  - title: "Diablo 4 PC system requirements"
+    excerpt: "PC gamers preparing to dive into the new Diablo 4 action role-playing game officially launching on June 6, 2023. Will be pleased to know that Blizzard ..."
+    publishedDateTime: 2023-04-25T04:24:00Z
+    webUrl: "https://www.geeky-gadgets.com/diablo-4-system-requirements-25-04-2023/"
     type: article
     provider:
-      name: PC Invasion on MSN
-      domain: msn.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anafz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=469&y=314"
-        width: 600
-        height: 315
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/04/Diablo-4-system-requirements.jpg"
+        width: 700
+        height: 505
         isCached: true
   - title: "Blizzard reveals Diablo 4 launch PC system requirements: 32GB RAM & RTX 3080 for 4K"
     excerpt: "Diablo fans are counting the days until the fourth game's June 6 release date. Now, Blizzard has revealed what kind of graphical experience users can expect ..."
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "S16keheWReXdGupt5ym2xjzPmuH5V3lfhNB9V1TLeZlyZpxdsa/9u5eJ00/0uUZyrBeGyqPan8YI2t3FxAB7zv/IDzRHEhFMcmdB4LD+DdYu6NHO7qT0BNhxeR20Ci8hdmDzHW/hWFArHDr9M6ZdwWE253AlaqtbOaS0u6ZYEbLeHsLnmlcCD/bpQCWOpVAYI8HYukk6Fivuc1fyrE3Wsa0oSFMHznFbybhGjS00lCtMY1de8wPCOjm8VMWe6Okyg5uOjQOG64G4Jq9EHAGzc76brYmtErEBh1AtKUR3WJfgt1c88Y6mZd413l8dFaExUqgVh9sxii4P7Eig2f1LdVpfS1oz9a1+d09e0WjzUhQ=;DFG5km9o3SpwUZpnSKq5bA=="
+secured: "PSMttawlzU41sIqaosDRQd4uz+xZpUO8M9y6UVPPptWduhKYQxXnSPmcmcr175qD/3bbgb66/4cplD8dnfeDlhCtgTwlObPyS3CLg+BeDzgEfUbihVvD6wi7esHgvvlRbWzSkBpOcS21wfZDDVugG/LSuWgx/SI+Uy3qd3U5DoioqeadXXW2WPugzRRvN+kSAqiO0Wj+xogOAnn2wr8n6MiNlaR8rQTg/8QQ7fCZZVDLRWQwLhjA2fQXfMYxfq42p+CabwtfupJ3OiHfdSgPLFacdiaTrEaSDd2x8mWjEycB9r2r6mvcK5gSmDaKzDUFs2cfesELT/rsKmacbzxjiiuCHncPSomZ1Z8QNwBdChA=;d0XqA6rSu4E8v9qulmATlg=="
 ---
 
