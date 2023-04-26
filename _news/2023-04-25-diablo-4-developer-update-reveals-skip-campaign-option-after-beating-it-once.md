@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Diablo 4's mounts are only available once you've beaten the campaign"
-    excerpt: "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. As revealed in a new Blizzard blog (thanks, WowHead), you'll need to finish Diablo 4's main campaign to actually gain access to a mount."
+    excerpt: "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. As revealed in a new Blizzard blog (thanks, WowHead), you'll need to finish Diablo 4's main campaign to ..."
     publishedDateTime: 2023-04-26T03:13:00Z
     webUrl: "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html"
     type: article
