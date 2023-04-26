@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Diablo 4's mounts are only available once you've beaten the campaign"
-excerpt: "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. This means that if you restart Diablo 4 with a second character after beating its campaign once, you'll ..."
+excerpt: "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. As revealed in a new Blizzard blog (thanks, WowHead), you'll need to finish Diablo 4's main campaign to actually gain access to a mount."
 publishedDateTime: 2023-04-26T03:13:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4s-mounts-are-only-available-once-youve-beaten-the-campaign/"
-webUrl: "https://www.gamesradar.com/diablo-4s-mounts-are-only-available-once-youve-beaten-the-campaign/"
+originalUrl: "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html"
+webUrl: "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html"
 type: article
 quality: 87
 heat: 107
 published: true
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/WxGNgYwrfvgEfQk8R2AYWT-1200-80.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/KsS3EofnxiMnyxueSsqm4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d23b6956a6654889a531db8ed508f63c"
     width: 1200
     height: 675
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 426
         isCached: true
 
-secured: "ROH1RwCOYOQ8MXglKQGKkjc9hlvR9NA4HQI01Nt407koRwwrI9mV808r3Z9r9CQfwIFy3cobtuHgMPzGef/9jjoJl4ZSckprj+85w4BzrcDZYpmJtN2zK/O8falFw1XdoddgM6IrPq8bV4pJ4o+NfPUOTczzSuVCe/ot6JlkRJbyrCoC2jKEQEEBwPk8pY/ZIv0kYod/K3FV3BA3wG344gAal/AAt1e/RjLxX21I/tp1XQlTI5Y+0ZzVLQThjBvZLYCHmtng9NxVETplpPWvjbvB0pYLXmxJEc+ABcOyb7g/fBjI4fOpkfY3KYjjfCR2ny8MY86MQFeUpX7u1mFNXdId50thC7uUhZ3EYaMLTwo=;KHNsem6xbF4mtU1uBP83Qw=="
+secured: "8gXbOUzkiVOhz/QCx6e77MtRwbzRJ4KSZ6sjc+/suj+dOgpob9MorLDYQWYLFjg53goFcNZD7FG5e+9MSwRK0UiafE5JG+6xxsgkIR4w++7DHMZ/oalfartwf0n+upIYBrwUoQ4oIQc6qp3/j/g7FwTPblsZ8N96Rn4IyP6pNZ7uJmmWgCVReS0qbDVB013ri/C/qYNrA5Q5Hi2RerygmuothoCI+KwQBcTzCpTbxziBIEV9PRn9XY2+zGHNk3vL3C6i9WqaZnX3XVFodO9TfoNWWGfJ8/XOpFo0bZH7TWrpkkcG2E4V1LT7FUzH8CHbKb7DCDMsUuHLqDfxeJYVd0zrOLqDwzJ7num47tGyD24=;s8CXdxLhkpGPup4jkwT30g=="
 ---
 
