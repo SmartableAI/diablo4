@@ -3,8 +3,8 @@ category: news
 title: "Diablo 4 Character Design Leaves the Door Open to Future DLC Classes, According to Dev"
 excerpt: "In an interview, Diablo 4 Lead Class Designer Adam Jackson explains how the game's class design leaves room for future additions."
 publishedDateTime: 2023-04-25T10:00:16Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-character-design-leaves-the-door-open-to-future-dlc-classes-according-to-dev/ar-AA1akela"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-character-design-leaves-the-door-open-to-future-dlc-classes-according-to-dev/ar-AA1akela"
+originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-character-design-leaves-the-door-open-to-future-dlc-classes-according-to-dev/ar-AA1akela"
+webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-character-design-leaves-the-door-open-to-future-dlc-classes-according-to-dev/ar-AA1akela"
 type: article
 quality: 79
 heat: 79
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "FqKUQoceIO3C2Ns6uqUV1VQelMhCHYWdC0I7jMDm8rprvSBAHml0tGoWR1iDn5BiDf4XrRyZIwcZbybLHfSF1bHMXjy+4kV8zTEvm5hDXL6SYoo1RzpItBSNzN5omYZQciOUAmkfw/owzxoK92TkD5wfWmIZYtcY5BR83udN4bE2H3Zizl82KHr8VL21/aIVK0xJhiz08ACwgfixGXlhUngbb86xoIJ94lx/3VYuYVlzKtYUsEOZCbuioDnNg01xr073euV7eQTZGcz4B3yjlx2F3FqzKZ22U1rM72z4gtaCQlMv2azKvfwvzWgs1jz9Ud1XwhQI9ytHNqyTb/sGxBdGPVuNXr2kBjw4jWUoN8Y=;zIrLaFYf8W0SKliMn/+s2w=="
+secured: "IjvK1Ge4njDiQFr2opztHJy3pyG1y22uUtPRtsfdjHxqWJts8Iu5Xj0zPOiISDojo4KYdM228cC0DwwAYEDZ61I2L5roWeM73+F909KIxkFLIW7bxKYCyyFeJQnBNdeJcbES0H60rZxBl1syQI7x7t9Wi91A916dinjmbtJWcGpQCFAg30CZvkqVy28ovOZO0THa/b7a5BQkJDNWRUYgRl9wCytdBhizNe9nsOQvwz/PhWMy4y0Yan/ldb1DpLERDLoT5dPg6lKsFawCAw9a+d4lX40/1sRxy6n3OBklxektE/fUTWZWrIu63seyiohrpOj7VaXA/g+Os1wc48jfM3dq/6YoTMnCLcMZW0J6q04=;+a5rF2T7LjqDC1IME2Bw8w=="
 ---
 
