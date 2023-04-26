@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-31-players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends.md",
+      "title": "Players collectively spent over 7000 years in Diablo 4 in its two beta weekends",
+      "excerpt": "Diablo 4 (opens in new tab) concluded its second and final beta period last weekend, and the numbers are in. The two beta weekends—which ran from March 17 to March 20 and March 24 to March 27—made up ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/index.json",
+      "webUrl": "https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/",
+      "originalUrl": "https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sxFn6LD4q7hdnTxvrFxryT-1200-80.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-diablo-4-esports-wont-have-blizzards-official-support.md",
       "title": "Diablo 4 Esports Won't Have Blizzard's Official Support",
       "excerpt": "Blizzard has confirmed that it has no plans to support Diablo 4 esports at this time. Esports in ARPGs isn't traditionally a major endeavor, as competition tends to focus heavily on PvE progression in ...",
@@ -1015,48 +1066,6 @@
       "provider": {
         "name": "Shacknews",
         "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together.md",
-      "title": "Diablo 4's Skill Tree Brings The Best Of Diablo 2 and 3 Together",
-      "excerpt": "Diablo has always been about slaying demons, leveling up, and acquiring new abilities. Diablo 4 is no exception, but takes a new approach to how these abilities are learned, featuring a complex web of ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4s-skill-tree-brings-the-best-of-diablo-2-and-3-together/ar-AA198xOM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17EVnG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=476&y=270",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

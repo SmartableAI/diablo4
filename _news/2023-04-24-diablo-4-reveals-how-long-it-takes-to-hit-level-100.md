@@ -18,19 +18,19 @@ topics:
   - Diablo 4
 
 related:
-  - title: "Diablo 4's Max Level Will Take Most Players 150 Hours to Hit"
-    excerpt: "Trying to determine the length of a game like Diablo 4 seems like a pretty pointless endeavour, since players can technically grind for all eternity. But if you're desperate for a number, then ..."
-    publishedDateTime: 2023-04-25T05:30:00Z
-    webUrl: "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit"
+  - title: "Diablo 4 Reveals How to Unlock Mounts"
+    excerpt: "Diablo 4 reveals how players can unlock the ability to acquire, ride, and customize mounts on all of their characters to ease travel across Sanctuary."
+    publishedDateTime: 2023-04-25T11:59:33Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-reveals-how-to-unlock-mounts/ar-AA1akoVp"
     type: article
     provider:
-      name: Push Square
-      domain: pushsquare.com
+      name: Game Rant on MSN
+      domain: msn.com
     quality: 87
     images:
-      - url: "https://images.pushsquare.com/d8a95e93fb974/1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akz02.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "obrA5zGVOBvH5Z2KA0CDTXWhztMKHIhTIoZCIhyNiaCp5PJRaVVl4cAhg5thgpUd2WB7KYHgfwsyjmOXO0ETDxWvK717tGLoaSKzB7HuwBX24Kmr8DMVr7P1BYeXX4y0MuIRl3ATURmu4/dzg6850oZqLfVRk1rvtjbjk+PPOw2S+YIAffon4gKEl+g41ACvM0DGE9OeSYEL9p4Y4JSHD7l1eJ07EO7+ZlEWuVQLaMaBKCxdlDUIiaFKaaphTkVqr8VTKRNl3tBV7wHgzyzfm2g9SrkPmN3WGX5FONqSAqvENcel1AdFS/pyUIsm/GfuurPFnFIzpCW9+LBTh9U9wDdwWSJuh2AknQjFSkBZ0ew=;vopi2+ETtKTvHNppZNz/3g=="

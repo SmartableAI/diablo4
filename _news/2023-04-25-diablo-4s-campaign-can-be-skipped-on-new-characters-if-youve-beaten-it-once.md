@@ -27,7 +27,7 @@ related:
   - title: "Diablo 4 Allows the Campaign to Be Skipped, With a Catch"
     excerpt: "Blizzard confirms that Diablo 4 players will have the choice to skip the ARPG's campaign if they want to, but there's a catch."
     publishedDateTime: 2023-04-25T13:04:51Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk"
+    webUrl: "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk"
     type: article
     provider:
       name: GameRant on MSN
