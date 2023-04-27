@@ -2,6 +2,108 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-22-diablo-4-gives-players-with-wider-monitors-a-massive-advantage.md",
+      "title": "Diablo 4 Gives Players With Wider Monitors a Massive Advantage",
+      "excerpt": "Diablo 4 beta players discover that wider monitors actually give them a significant advantage in the dungeon crawling action-RPG. Blizzard is getting a lot of feedback from fans who have played the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-gives-players-with-wider-monitors-a-massive-advantage/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-widescreen-monitors-support-broken-exploit-cheat-sorceress-teleport/",
+      "originalUrl": "https://gamerant.com/diablo-4-widescreen-monitors-support-broken-exploit-cheat-sorceress-teleport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-necromancer.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-diablo-4s-ashava-is-a-harbinger-of-doom-for-sanctuary.md",
+      "title": "Diablo 4's Ashava is a Harbinger of Doom for Sanctuary",
+      "excerpt": "Ashava the Pestilent is Diablo 4's first revealed World Boss, and Blizzard already isn't letting up on the horror of its demonic challenges. Blizzard recently conducted a beta test for its highly ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-ashava-is-a-harbinger-of-doom-for-sanctuary/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/",
+      "originalUrl": "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-sanctuary-world-boss-concept-art.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust.md",
       "title": "Diablo 4 shaping to be a worthy successor, leaves Diablo 3 graphics in dust",
       "excerpt": "While Diablo 3 is known for its colourful and stylized graphics, Diablo 4 appears to be taking a more realistic and darker approach. In a Reddit post shared by user u/Helsinh, the differences between ...",
@@ -1032,99 +1134,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-community-happy-that-players-arent-involved-in-design-process.md",
-      "title": "Diablo 4 community happy that players aren’t involved in design process",
-      "excerpt": "Diablo 4 has received mostly positive reviews from the community so far after the Early Access period even without player input.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-community-happy-that-players-arent-involved-in-design-process/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-community-happy-that-players-arent-involved-in-designing-the-game/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-community-happy-that-players-arent-involved-in-designing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-3-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form.md",
-      "title": "Diablo 4 players react to the beta test: 'Seems to be Blizzard back in their old form'",
-      "excerpt": "The Diablo 4 early access beta got off to a rough start but once it started working, players were genuinely excited by what they saw.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ev8xLFqa8a8q7A58t3BR5i-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

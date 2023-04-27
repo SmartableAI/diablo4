@@ -7,7 +7,7 @@ originalUrl: "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.h
 webUrl: "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4 mounts can only be unlocked after completing the main story line"
+    excerpt: "Blizzard has revealed that Diablo 4 mounts can only be unlocked and used after you've completed the main story line with one character."
+    publishedDateTime: 2023-04-26T15:54:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-mounts-can-only-be-unlocked-after-completing-main-story/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 86
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-mounts.jpg"
+        width: 1200
+        height: 426
+        isCached: true
   - title: "Diablo 4 developer update reveals skip campaign option after beating it once"
     excerpt: "The latest Diablo 4 developer update has revealed that a campaign skip option will be available after you've beaten the game once."
     publishedDateTime: 2023-04-25T18:23:00Z

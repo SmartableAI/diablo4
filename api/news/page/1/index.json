@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-27-dont-worry-mounts-in-diablo-4-dont-demand-campaign-completion.md",
+      "title": "Don’t worry, mounts in Diablo 4 don’t demand campaign completion",
+      "excerpt": "Despite initial confusion around how to unlock mounts in Diablo 4, Blizzard clarifies that you won’t need to beat the RPG game’s campaign to get your own horse.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-dont-worry-mounts-in-diablo-4-dont-demand-campaign-completion/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/unlock-mounts",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/unlock-mounts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-mount-unlocks-campaign-blizzard-blog-rod-fergusson-pezradar.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services.md",
+      "title": "Maximizing Your Diablo 4 Gameplay: The Advantages of D4 Leveling and D4 Boost Services",
+      "excerpt": "In the fast-paced, highly competitive realm of online gaming, keeping up with the escalating demands of character progression and obtaining top-tier equipment can be a daunting task. With countless ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services/index.json",
+      "webUrl": "https://techbullion.com/maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services/",
+      "originalUrl": "https://techbullion.com/maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/04/unnamed-49.png",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-pc-gamer-uk-june-issue-on-sale-now-diablo-4.md",
       "title": "PC Gamer UK June issue on sale now: Diablo 4",
       "excerpt": "PC Gamer journeys into hell to go hands-on with the much-anticipated AAA action RPG Diablo 4 (opens in new tab). Diablo is the mother of all action RPGs, so its return with a really mature, darker new vibe and look promises to be one of the PC gaming even",
@@ -154,7 +238,7 @@
       "originalUrl": "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1011,90 +1095,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-characters-final-challenge.md",
-      "title": "Diablo 4 will have a a 'pinnacle boss' intended to be your character's final challenge",
-      "excerpt": "The endgame of Diablo 4 sure does sound like it includes a bunch of MMO dailies in disguise, but not to worry: Blizzard has said the latest incarnation of its action RPG hasn't been designed to devour ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-23-diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-characters-final-challenge/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-character-s-final-challenge/ar-AA1aeMfb",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-character-s-final-challenge/ar-AA1aeMfb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aeMf9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=478&y=257",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T10:18:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-diablo-4-how-to-farm-fiend-rose.md",
-      "title": "Diablo 4: How to Farm Fiend Rose",
-      "excerpt": "Fiend Roses are used in Diablo 4 to enchant weapons and armor, and players will want to collect as many of these items as possible.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-23-diablo-4-how-to-farm-fiend-rose/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-farm-fiend-rose/ar-AA1aeGkL",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-how-to-farm-fiend-rose/ar-AA1aeGkL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aeGkF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T07:44:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

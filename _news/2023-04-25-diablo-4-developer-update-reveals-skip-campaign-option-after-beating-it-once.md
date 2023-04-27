@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Diablo 4 mounts can only be unlocked after completing the main story line"
+    excerpt: "Blizzard has revealed that Diablo 4 mounts can only be unlocked and used after you've completed the main story line with one character."
+    publishedDateTime: 2023-04-26T15:54:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-mounts-can-only-be-unlocked-after-completing-main-story/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 86
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-mounts.jpg"
+        width: 1200
+        height: 426
+        isCached: true
 
 secured: "kYZTInB1T5t/BSMkAaNgsIQ/V3xHxmv7m+AjHjVKSL1X/ejS8MzerBFDwK6fdTiNl51uhnVX2B0Vu9wc1ZpbkF6ltWExfddnLzYVcDYYUXmayrr43ygQENoa6GZK4h2bqy1mj6Y2T2dlk9e5XTmcitj2eNGLHzMrFVWGMW7d4778EIqsl9btqndMGQm+GCiolx8PRcQfn3ohlpL117NV1ZQWc1bF+/YT55mbNsmzhOKt0sLXlsR85WUo0hwxFjkTF2ovaY+4QOQ58SuuwV0ngYvf6EXhdCRSX3U4vB0m/CEUmWU7idDJZh4awP2+J6KTauZQuJEXWtrfbVAiCjjrRT2knMFWpM3WvsqDMKCOqGY=;7HR3LWTxKFUldcoy4h/bsg=="
 ---

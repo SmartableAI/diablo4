@@ -2,6 +2,90 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-01-27-blizzard-promises-updates-on-overwatch-2-diablo-4-over-the-coming-weeks.md",
+      "title": "Blizzard Promises Updates On Overwatch 2 & Diablo 4 “Over The Coming Weeks”",
+      "excerpt": "Blizzard Entertainment is currently working on a brand new triple-a survival game which will introduce an all-new universe. The developer though wants to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-27-blizzard-promises-updates-on-overwatch-2-diablo-4-over-the-coming-weeks/index.json",
+      "webUrl": "https://segmentnext.com/updates-overwatch-2-diablo-4/",
+      "originalUrl": "https://segmentnext.com/updates-overwatch-2-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.segmentnext.com/wp-content/uploads/2022/01/Overwatch-2-Omnic.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SegmentNext",
+        "domain": "segmentnext.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit.md",
+      "title": "Kotick claims Overwatch 2 & Diablo 4 delays affected ATVI stock more than abuse lawsuit",
+      "excerpt": "According to Bobby Kotick, the ongoing toxicity and leadership issues at Activision Blizzard didn't affect the company as much as its major game delays.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-01-20-kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit/index.json",
+      "webUrl": "https://www.shacknews.com/article/128423/kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit",
+      "originalUrl": "https://www.shacknews.com/article/128423/kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/01/20/kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit_feature.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/128423/kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/128423/kotick-claims-overwatch-2-diablo-4-delays-affected-atvi-stock-more-than-abuse-lawsuit?amphtml=1",
+      "publishedDateTime": "2022-01-20T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-when-is-the-diablo-4-release-date-probably-not-until-2024-at-the-earliest.md",
       "title": "When is the Diablo 4 release date? Probably not until 2024 at the earliest",
       "excerpt": "We once thought we would be playing Diablo 4 by 2022, but now it looks like the game is unlikely to arrive for another year or two. So what happened? Life ...",
@@ -1019,99 +1103,6 @@
         "name": "Dot Esports on MSN.com",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-diablo-4-design-lead-joe-shely-promoted-to-game-director.md",
-      "title": "Diablo 4 Design Lead, Joe Shely, Promoted To Game Director",
-      "excerpt": "Diablo 4's design lead, Joe Shely, has been promoted to game director and will now lead development on Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-08-diablo-4-design-lead-joe-shely-promoted-to-game-director/index.json",
-      "webUrl": "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director",
-      "originalUrl": "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2021/10/08/b61d817e/scosglen_goatmen_1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director?amp",
-      "cdnAmpWebUrl": "https://www-gameinformer-com.cdn.ampproject.org/c/s/www.gameinformer.com/2021/10/08/diablo-4-design-lead-joe-shely-promoted-to-game-director?amp",
-      "publishedDateTime": "2021-10-07T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameInformer",
-        "domain": "gameinformer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-diablo-4-has-a-new-director.md",
-      "title": "Diablo 4 Has a New Director",
-      "excerpt": "Joe Shely, who has worked on World of Warcraft and DIablo 3, has taken over as director of Diablo 4. In today's Diablo 4 quarterly update, Shely said he is honored to continue the vision of the next ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-10-07-diablo-4-has-a-new-director/index.json",
-      "webUrl": "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director",
-      "originalUrl": "https://me.ign.com/en/pc/190328/news/diablo-4-has-a-new-director",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/news/d/diablo-4-h/diablo-4-has-a-new-director_f5eh.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
