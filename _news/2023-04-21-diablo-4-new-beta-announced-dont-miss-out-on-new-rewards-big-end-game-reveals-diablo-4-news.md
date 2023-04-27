@@ -25,13 +25,13 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Secret Announcement REVEAL! HUGE News for FANS & NEW Players!"
-    excerpt: "The Diablo 4 Dev Team has a secret announcement and HUGE news to share about Diablo 4. Don't miss this Diablo IV video ..."
-    publishedDateTime: 2023-04-21T21:20:32Z
+  - title: "Diablo 4 Big Announcement"
+    excerpt: ""
+    publishedDateTime: 2023-04-20T19:11:48Z
     webUrl: ""
     type: video
     provider:
-      name: Oxford King
+      name: Asmongold Clips
       domain: youtube.com
     quality: 137
     images:
@@ -39,19 +39,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Diablo 4 Might Not Be For New Players"
-    excerpt: "Diablo 4 is one of the most anticipated games of the year, and with good reason. Diablo is in a class of games like Rogue, Doom, Myst, Pokemon, Metroid, and Castlevania where it has become so ..."
-    publishedDateTime: 2023-04-17T09:43:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-might-not-be-for-new-players/ar-AA19YlRY"
-    type: article
+  - title: "NEW CLASS INCOMING? Big SECRET Announcement & MORE! | Diablo 4"
+    excerpt: "Like what you see? SUB! - https://bit.ly/3B3qKrK I stream Diablo! - https://bit.ly/3t5mQut Join Aftershock United!"
+    publishedDateTime: 2023-04-20T14:00:28Z
+    webUrl: ""
+    type: video
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
+      name: Veiled Shot | Diablo
+      domain: youtube.com
+    quality: 137
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19N7dn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "bhpuVQxVn4EMqHG2GKf+EVbcgUeztjgrXxad+xkg02CI0wBtsyACoZMWfti71g69tAwxyCio6Z3Tlk8Q8sdkIhwy9ghSBQeISc8vQSxddMUz93RONeX49lr2TKGs9cG+uJIuGlSQZ+cuxzZ+OAUkY/O5IZQmBznb/5BS/ntEXdADjFtYlnwXTHOr6RD4jESKpd60vvKu1Lwo9QUe9R5hDjWMtmi0ZA19zPiwEtlgpaCX9f485C6uIoGO2gH6pYSqC/GL1nJ6coojv9G4cqbeXNuJ0hVkY0ja8g9rHWzen3JAFhNX8wlAl+U4yo6viM4C/eZfRtUWMIiRoYqrPFGfuC9xkrgCFye7TTsZN/j5J8SUIKV2GoHTyKAND6welupW04mp6H+9uL9ZxWrXwa1caBost193wcYyG0Jo/iRFNOaYJVnUwG7vmwiES0PyEom8;HxOjpS4x3DRNy+Dlv1nu+w=="

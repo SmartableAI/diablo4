@@ -6,8 +6,8 @@ publishedDateTime: 2023-04-21T00:01:30Z
 originalUrl: "https://youtube.com/watch?v=v67qwIDzBY8"
 type: video
 quality: 137
-heat: 157
-published: true
+heat: -1
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v67qwIDzBY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "SECRET REVEAL in Diablo 4 teased by the Devs! | All the latest news & announcements"
-    excerpt: "A huge secret announcement in Diablo 4 is right around the corner and the Devs are teasing it. We've also got news on the ..."
-    publishedDateTime: 2023-04-19T11:56:57Z
+  - title: "Huge NEW Announcement For Diablo 4 | Asmongold Reacts"
+    excerpt: "Diablo 4 announcements have been made and some say it's huge, some even say it's MASSIVE by @Toyhouze ..."
+    publishedDateTime: 2023-04-09T16:30:12Z
     webUrl: ""
     type: video
     provider:
-      name: The GameSensei
+      name: Asmongold TV
       domain: youtube.com
-    quality: 131
+    quality: 137
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200

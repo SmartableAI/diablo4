@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 New Beta Announced! Don't Miss Out on New Rewards & Big End Game Reveals (Diablo 4 News)"
-    excerpt: "Diablo 4 New Beta Announced! Don't Miss Out on New Rewards & Big End Game Reveals (Diablo 4 News) Enjoying the video?"
-    publishedDateTime: 2023-04-21T13:40:13Z
+  - title: "SECRET REVEAL in Diablo 4 teased by the Devs! | All the latest news & announcements"
+    excerpt: "A huge secret announcement in Diablo 4 is right around the corner and the Devs are teasing it. We've also got news on the ..."
+    publishedDateTime: 2023-04-19T11:56:57Z
     webUrl: ""
     type: video
     provider:
-      name: KhrazeGaming
+      name: The GameSensei
       domain: youtube.com
-    quality: 124
+    quality: 131
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
