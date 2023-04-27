@@ -2,6 +2,48 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards.md",
+      "title": "Blizzard could reveal release date for Diablo 4 ahead of The Game Awards",
+      "excerpt": "Diablo 4 has been one of the most highly anticipated games in recent years. The release of the microtransaction-laden Diablo Immortal earlier this year only made the hunger for the latest installment ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-22-blizzard-could-reveal-release-date-for-diablo-4-ahead-of-the-game-awards/index.json",
+      "webUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
+      "originalUrl": "https://www.xfire.com/blizzard-release-date-diablo-4-the-game-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.xfire.com/wp-content/uploads/2022/11/blizzard-release-date-diablo-4-the-game-awards-8.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xfire",
+        "domain": "xfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-info-on-diablo-4-could-appear-even-before-the-game-awards.md",
       "title": "Info on Diablo 4 Could Appear Even Before The Game Awards",
       "excerpt": "Gaming, new news regarding Diablo 4 are expected to be presented even before this year's The Game Awards, which will be held on December 8. This would mean that those waiting for more information from ...",
@@ -1034,48 +1076,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft.md",
-      "title": "Diablo 4 to launch in April 2023 claim insiders – as Xbox hints at more StarCraft",
-      "excerpt": "A new trailer for Diablo 4 is rumoured for The Game Awards 2022 and will announce a release date and pre-order details. While it was confirmed for a 2023 launch back at the June Xbox showcase, neither ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-to-launch-in-april-2023-claim-insiders-as-xbox-hints-at-more-starcraft/index.json",
-      "webUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
-      "originalUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2021/08/jm_lilith_igc_image2-2-fbe5.jpg?quality=90&strip=all&zoom=1&resize=600%2C276",
-          "width": 600,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/11/07/diablo-4-to-launch-in-april-2023-as-xbox-hints-at-more-starcraft-17711819/amp/",
-      "publishedDateTime": "2022-11-06T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
