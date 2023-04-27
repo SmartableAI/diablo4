@@ -2,6 +2,48 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-12-02-diablo-4-qa-testers-vote-to-unionize-while-activision-blizzard-attempts-to-challenge-votes.md",
+      "title": "Diablo 4 QA Testers Vote To Unionize While Activision Blizzard Attempts To Challenge Votes",
+      "excerpt": "Another major win for workers in the gaming industry hoping to unionize. The QA team at Blizzard Albany, who currently assist in QA testing for Diablo 4, won a historic vote to unionize on Friday.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-02-diablo-4-qa-testers-vote-to-unionize-while-activision-blizzard-attempts-to-challenge-votes/index.json",
+      "webUrl": "https://www.dualshockers.com/diablo-4-qa-testers-vote-unionize-while-activision-blizzard-attempts-challenge-votes/",
+      "originalUrl": "https://www.dualshockers.com/diablo-4-qa-testers-vote-unionize-while-activision-blizzard-attempts-challenge-votes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2022/12/diablo-4-necromancer-1.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-diablo-4-release-date-leaked-game-awards-announcement-collectors-edition.md",
       "title": "Diablo 4 Release Date Leaked! Game Awards Announcement! Collector's Edition!",
       "excerpt": "New? Subscribe → https://www.youtube.com/channel/UCkgikrwDjs4J4U8zdNBV4aA?sub_confirmation=1 ...",
@@ -1024,48 +1066,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch.md",
-      "title": "Diablo 4 Reportedly Headed For April 2023 Launch",
-      "excerpt": "Immortal,\" fans may see the release of the next mainline installment of the classic franchise in as early as April.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-diablo-4-reportedly-headed-for-april-2023-launch/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reportedly-headed-for-april-2023-launch/ar-AA13QusI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13Qlyi.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

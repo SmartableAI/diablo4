@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-24-diablo-4-launch-pc-system-requirements-revealed.md",
+      "title": "Diablo 4 Launch PC System Requirements Revealed",
+      "excerpt": "While Diablo 4 will attempt to run on systems that don't meet the recommended settings, Blizzard warns the game \"may be significantly diminished.\"",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-24-diablo-4-launch-pc-system-requirements-revealed/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4129181-diablo4systemrequirements.jpg",
+          "width": 1721,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
+      "publishedDateTime": "2023-04-24T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko.md",
       "title": "If you die in PvP while playing Diablo 4 hardcore, you're dead bucko",
       "excerpt": "Dying in PvP in hardcore mode in Diablo 4 will mean permadeath for that character, Blizzard has confirmed. Before you say \"well duh\" this is actually a change in hardcore policy, with Blizzard indicating several years ago in interviews that hardcore chara",
@@ -1051,48 +1102,6 @@
       "provider": {
         "name": "GameRant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-diablo-4-updates-make-dungeons-less-tedious.md",
-      "title": "Diablo 4 Updates Make Dungeons Less Tedious",
-      "excerpt": "Diablo 4's dungeons are obviously a huge part of the game given the loot opportunities they offer and the fact that they're a significant focus of the endgame, but during the game's beta, players found them to be a bit tedious in different ways.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-diablo-4-updates-make-dungeons-less-tedious/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-update-dungeons-less-tedious/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-update-dungeons-less-tedious/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-update-dungeons-less-tedious/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-dungeons-less-tedious/",
-      "publishedDateTime": "2023-04-15T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

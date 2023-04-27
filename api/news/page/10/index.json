@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-18-diablo-4-murmuring-obols-and-whispering-key-explained.md",
+      "title": "Diablo 4 Murmuring Obols And Whispering Key Explained",
+      "excerpt": "GameSpot may get a commission from retail offers. Even though Diablo 4 has only just been released in a beta phase, there's already plenty of new content for fans to check out. There's a new open world to explore, skill trees to unlock and test out ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-18-diablo-4-murmuring-obols-and-whispering-key-explained/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-murmuring-obols-and-whispering-key-explained/1100-6512472/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-murmuring-obols-and-whispering-key-explained/1100-6512472/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-murmuring-obols-and-whispering-key-explained/1100-6512472/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-murmuring-obols-and-whispering-key-explained/1100-6512472/",
+      "publishedDateTime": "2023-03-18T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-the-diablo-4-beta-is-fantastic-when-you-can-actually-play-it.md",
       "title": "The 'Diablo 4' Beta Is Fantastic, When You Can Actually Play It",
       "excerpt": "At long last, the beta for Diablo 4 has arrived, and while it requires a pre-order (or KFC chicken sandwich) to access this first weekend, the game has enough people clogging the servers to make its initial launch here a sadly familiar sort of disaster.",
@@ -1069,48 +1120,6 @@
       "provider": {
         "name": "Dot Esports",
         "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-diablo-4-beta-crossplay-multiplayer-explained.md",
-      "title": "Diablo 4 Beta: Crossplay Multiplayer Explained",
-      "excerpt": "Plus, there’s no guarantee a title will ship with crossplay intact. You don’t have to worry about that with Diablo IV. Diablo IV‘s beta will also support couch co-op for those who are able to take ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-beta-crossplay-multiplayer-explained/index.json",
-      "webUrl": "https://www.denofgeek.com/games/diablo-4-beta-crossplay-multiplayer-explained/",
-      "originalUrl": "https://www.denofgeek.com/games/diablo-4-beta-crossplay-multiplayer-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.denofgeek.com/wp-content/uploads/2023/03/Diablo-4-Rogue-2.jpg",
-          "width": 1919,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Den Of Geek",
-        "domain": "denofgeek.com",
         "images": null,
         "publishers": null,
         "authors": null
