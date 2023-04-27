@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-01-12-which-edition-of-diablo-4-should-you-buy-and-are-the-extras-really-worth-the-cost.md",
+      "title": "Which edition of Diablo 4 should you buy? And are the extras really worth the cost?",
+      "excerpt": "Fellow Diablo players, it’s almost here! Diablo 4 will be in our collective grasp on June 6. And while the game itself is a one-off purchase, Blizzard has ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-12-which-edition-of-diablo-4-should-you-buy-and-are-the-extras-really-worth-the-cost/index.json",
+      "webUrl": "https://blizzardwatch.com/2023/01/12/diablo-4-editions/",
+      "originalUrl": "https://blizzardwatch.com/2023/01/12/diablo-4-editions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2023/01/D4_BattleNetShopPageHeader.jpg",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-diablo-4-release-date-details-and-everything-we-know.md",
       "title": "Diablo 4 release date, details, and everything we know",
       "excerpt": "Learn everything you need to know about Diablo 4, including the release date, gameplay details, info on classes and skills, latest news, and more!",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "Game Rant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-diablo-4-everything-we-know-about-blizzards-2023-sequel.md",
-      "title": "Diablo 4: Everything we know about Blizzard's 2023 sequel",
-      "excerpt": "Diablo 4 is one of the most anticipated new games of 2023, and with its appearance at The Game Awards 2022 confirming a release date, we now know exactly when to schedule some vacation time for hell.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-09-diablo-4-everything-we-know-about-blizzards-2023-sequel/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-guide/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/gMVifRnnTim4uDWZLvbxxm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
