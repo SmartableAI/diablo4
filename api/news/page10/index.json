@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-18-blizzard-lists-diablo-4-key-beta-errors-and-crashes-its-working-on.md",
+      "title": "Blizzard Lists Diablo 4 Key Beta Errors and Crashes it's Working On",
+      "excerpt": "Blizzard updates Diablo 4 players on several key issues it's tracking and working to resolve while the early access beta is ongoing. To be clear, these are issues that Blizzard is actively working on, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-18-blizzard-lists-diablo-4-key-beta-errors-and-crashes-its-working-on/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-beta-queue-issues/",
+      "originalUrl": "https://gamerant.com/diablo-4-beta-queue-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-beta-issues-blizzard-fixing.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-18T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-diablo-4-murmuring-obols-and-whispering-key-explained.md",
       "title": "Diablo 4 Murmuring Obols And Whispering Key Explained",
       "excerpt": "GameSpot may get a commission from retail offers. Even though Diablo 4 has only just been released in a beta phase, there's already plenty of new content for fans to check out. There's a new open world to explore, skill trees to unlock and test out ...",
@@ -1078,48 +1129,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-diablo-4-beta-rewards-how-to-unlock-and-claim-all-rewards.md",
-      "title": "Diablo 4 beta rewards: How to unlock and claim all rewards",
-      "excerpt": "While Diablo 4 ’s beta won’t be the final product, it will likely be quite close to the June 2023 version, giving players a taste of the new features and gameplay in the meantime. And, as an added ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-diablo-4-beta-rewards-how-to-unlock-and-claim-all-rewards/index.json",
-      "webUrl": "https://dotesports.com/diablo/news/diablo-4-beta-rewards-how-to-unlock-and-claim-all-rewards",
-      "originalUrl": "https://dotesports.com/diablo/news/diablo-4-beta-rewards-how-to-unlock-and-claim-all-rewards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dotesports.com/wp-content/uploads/2022/12/07054938/Diablo-IV.jpg?resize=768,403",
-          "width": 768,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
         "images": null,
         "publishers": null,
         "authors": null

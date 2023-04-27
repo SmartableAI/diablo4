@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-12-diablo-4-limited-collectors-box-pre-orders-are-about-to-drop.md",
+      "title": "Diablo 4 Limited Collector's Box Pre-Orders Are About to Drop",
+      "excerpt": "In the meantime, you can check out Blizzard's current crop of Diablo 4 merch right here. The lineup includes the Diablo IV Inarius Collector's Edition Pin, the Diablo: Tales From the Horadric Library ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2022/12/09/2e0267dd-9c79-42d2-9464-f55b4521cfa6/batman-suicide-squad.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-limited-collectors-box-pre-orders-are-about-to-drop/",
+      "publishedDateTime": "2022-12-11T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-diablo-4-rated-by-esrb-will-include-in-game-purchases.md",
       "title": "Diablo 4 Rated by ESRB, Will Include In-Game Purchases",
       "excerpt": "The ESRB rates Diablo 4, revealing more information about the game's level of violence and gore and confirming the presence of microtransactions.",
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "Play Station Universe",
         "domain": "psu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-diablo-4-may-feature-the-return-of-inarius.md",
-      "title": "Diablo 4 May Feature the Return of Inarius",
-      "excerpt": "Diablo 4 teases a mysterious character that seems to be the rogue angel Inarius, creator of Sanctuary and husband of Lilith.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-02-diablo-4-may-feature-the-return-of-inarius/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/diablo-4-may-feature-the-return-of-inarius/ar-AA14Q0Nb",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/diablo-4-may-feature-the-return-of-inarius/ar-AA14Q0Nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14QHWI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T08:10:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
