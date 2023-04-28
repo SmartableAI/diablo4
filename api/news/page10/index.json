@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-18-diablo-4-classes-explained-and-which-one-to-pick.md",
+      "title": "Diablo 4 - Classes Explained And Which One To Pick",
+      "excerpt": "There are currently five Diablo 4 classes that we know of. These are the Barbarian, Rogue, Sorcerer, Necromancer, and Druid. Each has unique mechanics that allow for varied gameplay, namely their ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-18-diablo-4-classes-explained-and-which-one-to-pick/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-class-guides-hub/1100-6512461/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-class-guides-hub/1100-6512461/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1816/18167535/4114184-diablo4classhubguide-.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-class-guides-hub/1100-6512461/",
+      "publishedDateTime": "2023-03-18T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-diablo-4-how-to-use-transmog-and-dyes.md",
       "title": "Diablo 4 - How To Use Transmog And Dyes",
       "excerpt": "The Diablo 4 transmog system can be accessed via the Wardrobe, which is found in the Kyovashad inn. You'll visit this city early in the campaign. Anyway, given that Kyovashad is the main hub in the ...",
@@ -1105,48 +1156,6 @@
       "provider": {
         "name": "Dexerto.com",
         "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-can-diablo-4-be-played-solo.md",
-      "title": "Can Diablo 4 be played solo?",
-      "excerpt": "Diablo 4 hype is steadily increasing ahead of its release and players couldn’t be more excited to start getting into Blizzard’s latest ARPG installment. NOW READ: Can you play Diablo 4 beta without PS ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-16-can-diablo-4-be-played-solo/index.json",
-      "webUrl": "https://www.videogamer.com/news/can-diablo-4-be-played-solo/",
-      "originalUrl": "https://www.videogamer.com/news/can-diablo-4-be-played-solo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-2.jpg",
-          "width": 1519,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
         "images": null,
         "publishers": null,
         "authors": null

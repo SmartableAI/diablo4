@@ -2,6 +2,48 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-03-29-diablo-4-has-over-150-handcrafted-and-procedural-dungeons.md",
+      "title": "Diablo 4 has over 150 “handcrafted and procedural” dungeons",
+      "excerpt": "Blizzard has revealed that Diablo 4 will have more than 150 \"handcrafted and yet procedurally generated\" dungeons in a new quarterly update ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-03-29-diablo-4-has-over-150-handcrafted-and-procedural-dungeons/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/dungeons",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/dungeons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/03/diablo-4-dungeons.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-diablo-4-quarterly-dev-blog-discusses-art-and-environments.md",
       "title": "Diablo 4 quarterly dev blog discusses art and environments",
       "excerpt": "A lot has happened in the last few months in regards to Blizzard and its potential future, but the major shakeups in the publisher's world is not stopping the Diablo 4 quarterly blogs from going up.",
@@ -1034,57 +1076,6 @@
         "name": "Illfrin reacts",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4.md",
-      "title": "The ‘Lost Ark’ Beta Looks To Fill The Massive Void Left By ‘Diablo 4’",
-      "excerpt": "Today marks the launch of the Lost Ark technical beta, where you can sign up to potentially get a code, or buy one of the early special additions for instant access.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-11-04-the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6183e952d0cb0cefdd4a1e5f%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/04/the-lost-ark-beta-looks-to-fill-the-massive-void-left-by-diablo-4/amp/",
-      "publishedDateTime": "2021-11-04T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
