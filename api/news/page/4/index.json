@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access.md",
+      "title": "Diablo 4 Fans Are Railing Against The Concept Of Early Access",
+      "excerpt": "Diablo 4 is scheduled to release across multiple platforms on June 6 with the promise of up to four days of early access to those who purchase the Deluxe or Ultimate editions, and that's not sitting ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access/index.json",
+      "webUrl": "https://www.dualshockers.com/diablo-4-fans-railing-against-early-access/",
+      "originalUrl": "https://www.dualshockers.com/diablo-4-fans-railing-against-early-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/04/diablo-4-ultimate-edition-lilith.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-diablo-4-beta-impressions-this-hellish-return-left-me-impressed-and-hungry-for-more.md",
       "title": "Diablo 4 beta impressions: this hellish return left me impressed and hungry for more",
       "excerpt": "The Diablo 4 beta was a great taste of what's to come, but the wait until full release has now become more unbearable ...",
@@ -1021,48 +1063,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-27T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-players-call-for-gem-storage-quality-of-life-improvement.md",
-      "title": "Diablo 4 Players Call for Gem Storage Quality of Life Improvement",
-      "excerpt": "Diablo 4 players are asking Blizzard to change the game's inventory system to make Gems easier to store. While the game isn't set for release until June 6, Blizzard launched Diablo 4's open beta on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-players-call-for-gem-storage-quality-of-life-improvement/index.json",
-      "webUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-players-call-for-gem-storage-quality-of-life-improvement/ar-AA198R9t",
-      "originalUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-players-call-for-gem-storage-quality-of-life-improvement/ar-AA198R9t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198vZ5.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=375&y=173",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T16:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
