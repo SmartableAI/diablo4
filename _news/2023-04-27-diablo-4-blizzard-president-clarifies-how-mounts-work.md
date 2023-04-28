@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Diablo 4: Blizzard President clarifies how mounts work"
-excerpt: "Unlike previous games in the series, Diablo 4 will include mounts for players to ride around the game's open environments. This will make it easier to quickly travel to specific dungeons and other locations from the game's various settlements,"
-publishedDateTime: 2023-04-27T09:12:00Z
-originalUrl: "https://www.windowscentral.com/gaming/diablo-4-blizzard-president-clarifies-how-mounts-work"
-webUrl: "https://www.windowscentral.com/gaming/diablo-4-blizzard-president-clarifies-how-mounts-work"
+excerpt: "One of Diablo 4's new features are mounts, which players can use to move around the map quicker than they'd be able to on foot. A previous report suggested Diablo 4's mounts couldn't be unlocked until after players finished the campaign."
+publishedDateTime: 2023-04-27T13:12:00Z
+originalUrl: "https://www.msn.com/en-gb/money/other/diablo-4-blizzard-president-clarifies-how-mounts-work-update/ar-AA1ar6A6"
+webUrl: "https://www.msn.com/en-gb/money/other/diablo-4-blizzard-president-clarifies-how-mounts-work-update/ar-AA1ar6A6"
 type: article
 quality: 87
 heat: 87
 published: true
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Windows Central on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/8bpBNBz2hHEmp7xWTvQHQD-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1arjlI.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
-secured: "CCnDd6uJBteG+clCGGfXQfLm+uRg+a6rbp7tUI4VW35AqZL/f7321FsKOhV/tChlKeL5n0Br9AuCOfKYnvGmrxbh72iUdn4vmLasd3Ljuac9WkvgsnUlqBbnMdKuPwdzq3N1DQenXxPquUKHVK9mkXbSVx9v7cwRiiCjHa9Z4fs0SL0db5oBoJymAz10YVm8jsCpZbM3XQ1vuocspfQpoaQC8bKhRLTUbl5DE3UeXRf1gbpCDhOGxbnwjVAdZ/j25ASI6TUjUKWvJXlQi4kcU1z0FYTDyMtv1Dg1f1lPoXRgL7fBgGjr4XkRmLggwmIMMrQ/LxCIRdNUGvoQZIr/UCtw96VQk//3hoe9dqvpS/g=;r2HvAbNp1NNYgxLLT1NzXg=="
+secured: "pKIqQGZi2ZzEDH9c7jlFlVA+ZENQaEAv8qAtVmMwttQBy80PGCGiHAJHOnnt04nOz7ozlhgvZxftNmXkYFkzLnX5Rj+QVin3WZwCkFFtwDg37eGCY9BXU665X9LjCua7NE7asbQXVmvbDBlRqmi9jmEEXWxNljQq+DVgSuFfoaUe12vLXkMPXpte4uJA9vHipKmq/xqu8CYp4mIqUTsB/syAT1oWDcccQOWfOiTS/NBwHvn6vGaWFFGdH25s27+aqRtTl0pmRwHj2eOnqZQxUP72998lkGMNWnDoPOec8MTSmU5h+e/EejQ0R/lCI1kCiZ7NHSFDNHCGvnXGZOmyIghu7Iievu/HK479ClLKAzg=;HN2eLOecDaM7N4snm3YEkA=="
 ---
 
