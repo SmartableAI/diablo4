@@ -104,6 +104,57 @@
       ]
     },
     {
+      "path": "_news/2023-04-27-interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test.md",
+      "title": "Interview: Diablo 4 Developers Talk About Class Changes, Dungeons, and More Ahead of Final Beta Test",
+      "excerpt": "Hot on the heels of their first two beta weekends, which featured the full first act of Diablo 4's campaign, the developers have moved quickly to implement a whole host of changes based on player ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test/index.json",
+      "webUrl": "https://www.ign.com/articles/interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test",
+      "originalUrl": "https://www.ign.com/articles/interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/06/12/diabloiv-necromancer-blogroll-2-1655057320620.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-someone-tell-bungie-about-diablo-4s-free-campaign-skip.md",
       "title": "Someone Tell Bungie About Diablo 4's Free Campaign Skip",
       "excerpt": "Diablo 4 will let players skip the campaign once they've completed it once - a feature Destiny 2 has desperately needed for years.",
@@ -1070,48 +1121,6 @@
       "provider": {
         "name": "TechRadar on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4s-max-level-will-take-most-players-150-hours-to-hit.md",
-      "title": "Diablo 4's Max Level Will Take Most Players 150 Hours to Hit",
-      "excerpt": "Trying to determine the length of a game like Diablo 4 seems like a pretty pointless endeavour, since players can technically grind for all eternity. But if you're desperate for a number, then ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4s-max-level-will-take-most-players-150-hours-to-hit/index.json",
-      "webUrl": "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit",
-      "originalUrl": "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.pushsquare.com/d8a95e93fb974/1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Push Square",
-        "domain": "pushsquare.com",
         "images": null,
         "publishers": null,
         "authors": null

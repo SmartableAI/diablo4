@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-01-15-diablo-4s-codex-of-power-system-explained.md",
+      "title": "Diablo 4's Codex of Power System Explained",
+      "excerpt": "Diablo 4's Codex of Power allows players to use Legendary Aspects and Powers to substantially improve their gear and builds. To obtain these Legendary Aspects, players must first complete specific ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-15-diablo-4s-codex-of-power-system-explained/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
+      "originalUrl": "https://gamerant.com/diablo-4-codex-of-power-legendary-aspect-gear-build-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/diablo-4-codex-of-power-v2.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-best-of-2023-why-were-looking-forward-to-diablo-4.md",
       "title": "Best of 2023: Why we’re looking forward to Diablo 4",
       "excerpt": "Since Diablo 4 is out on June 6 this year it’ll likely be released long before the acquisition deal goes through, if it does at all, and so it will remain multiformat, even if future sequels ...",
@@ -1033,48 +1084,6 @@
       "provider": {
         "name": "Annoyed Reactions VF",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet.md",
-      "title": "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet",
-      "excerpt": "From seamless multiplayer to righting the wrongs of Diablo 3, here’s how Blizzard is returning to the series’ bloody roots with Diablo 4.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet/ar-AA15dYjh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dMnF.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=289",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T21:02:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

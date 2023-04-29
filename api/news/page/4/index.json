@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-05-diablo-iv-inside-the-game-into-the-endgame.md",
+      "title": "Diablo IV Inside the Game: Into the Endgame",
+      "excerpt": "Join members of the Diablo IV development team as they pull back the curtain on the experiences waiting for you in the endgame.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-05-diablo-iv-inside-the-game-into-the-endgame/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935318/diablo-iv-inside-the-game-into-the-endgame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/v9/V953OPV7CKRK1680311743200.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-diablo-4-quality-of-life-suggestion-would-be-big-for-co-op.md",
       "title": "Diablo 4 Quality of Life Suggestion Would Be Big for Co-Op",
       "excerpt": "The Diablo 4 open beta recently ended, and while many players enjoyed it, one thinks a key co-op feature was notably absent.",
@@ -1025,48 +1076,6 @@
       "provider": {
         "name": "MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be.md",
-      "title": "This Diablo 4 map reveals just how big the full game will be",
-      "excerpt": "The past couple of weeks I've been wholly addicted to Diablo 4, a hellish action RPG from Blizzard. For those who were wondering just how big Diablo 4's full map is, I recently dropped a post on ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be/index.json",
-      "webUrl": "https://www.windowscentral.com/gaming/this-diablo-4-map-reveals-just-how-big-the-full-game-will-be",
-      "originalUrl": "https://www.windowscentral.com/gaming/this-diablo-4-map-reveals-just-how-big-the-full-game-will-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/n479QRmwkaYK5DbzTRQRdH-1200-80.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null
