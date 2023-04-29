@@ -25,15 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Huge NEW Announcement For Diablo 4 | Asmongold Reacts"
-    excerpt: "Diablo 4 announcements have been made and some say it's huge, some even say it's MASSIVE by @Toyhouze ..."
-    publishedDateTime: 2023-04-09T16:30:12Z
+  - title: "Diablo 4 Big Announcement"
+    excerpt: ""
+    publishedDateTime: 2023-04-20T19:11:48Z
     webUrl: ""
     type: video
     provider:
-      name: Asmongold TV
+      name: Asmongold Clips
       domain: youtube.com
     quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "NEW CLASS INCOMING? Big SECRET Announcement & MORE! | Diablo 4"
+    excerpt: "Like what you see? SUB! - https://bit.ly/3B3qKrK I stream Diablo! - https://bit.ly/3t5mQut Join Aftershock United!"
+    publishedDateTime: 2023-04-20T14:00:28Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Veiled Shot | Diablo
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 New Beta Announced! Don't Miss Out on New Rewards & Big End Game Reveals (Diablo 4 News)"
+    excerpt: "Diablo 4 New Beta Announced! Don't Miss Out on New Rewards & Big End Game Reveals (Diablo 4 News) Enjoying the video?"
+    publishedDateTime: 2023-04-21T13:40:13Z
+    webUrl: ""
+    type: video
+    provider:
+      name: KhrazeGaming
+      domain: youtube.com
+    quality: 124
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200

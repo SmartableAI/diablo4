@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-20T19:11:48Z
 originalUrl: "https://youtube.com/watch?v=ct63jmbbpiI"
 type: video
 quality: 137
-heat: 177
+heat: 197
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ct63jmbbpiI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -32,6 +32,20 @@ related:
     type: video
     provider:
       name: Veiled Shot | Diablo
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Diablo 4 \"Secret Announcement\" Full Livestream | Asmongold Reacts"
+    excerpt: "Diablo 4 team hosts a 90-minute dev talk and share their Secret Announcement ▻ Asmongold's Twitch: ..."
+    publishedDateTime: 2023-04-21T00:01:30Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Asmongold TV
       domain: youtube.com
     quality: 137
     images:

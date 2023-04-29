@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4 \"Secret Announcement\" Full Livestream | Asmongold Reacts"
+    excerpt: "Diablo 4 team hosts a 90-minute dev talk and share their Secret Announcement ▻ Asmongold's Twitch: ..."
+    publishedDateTime: 2023-04-21T00:01:30Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Asmongold TV
+      domain: youtube.com
+    quality: 137
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ea9qK0FgWfHsydjB59CLWxrTX3fXomWNrKOktXhfwjO88QkoHmRdtP7eyBv3pM++1al0d5d8ROPhLHB0Cr5AHMIm2nGp2GX04x9G4+QEYO32r/NyEjxlJ62JPMMQ/OITN84lf7y403BhZ+/XMFyiYRP8seA4ZeL4jBEt4uTc89dceel2WlrXIQTYXO+5Tl4vBlT2056n4mJ/mHtRe6oY8E4bsnHYypqrx4ni9q3AYSyINYoziRridD3jZ3ATGE4d95wqWCgeD89GVOlJCCHeVKA6NRS/tySTagzgF3Q2eQ8ukDJuxintsNypD+R8RkArWaDU7DHDzMLBpDr+5tp+gIb/zGo0GSj9u3j4AEsII3p5ItpHPof4D+VjATb9EAL/6Q6G9cvoK5Ciay7Jl3VwWli50flGfd87tPHWHJbon4eEidoyh7BCqt2FKes1SiDb;L2SjVXFdAknKqlj9rwu4Ag=="
 ---
