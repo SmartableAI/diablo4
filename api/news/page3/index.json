@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-17-diablo-4-xbox-series-xs-performance-and-frame-rate-targets-revealed.md",
+      "title": "Diablo 4 Xbox Series X|S Performance And Frame Rate Targets Revealed",
+      "excerpt": "Blizzard has revealed Diablo 4's targeted performance details across Xbox Series X|S. On Xbox Series X, the game will support full 4K at 60fps, while the Xbox Series S version will run at 1080p at fps ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-xbox-series-xs-performance-and-frame-rate-targets-revealed/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "publishedDateTime": "2023-04-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-will-tyrael-be-in-diablo-4.md",
       "title": "Will Tyrael be in Diablo 4?",
       "excerpt": "I am a real fan of the Diablo franchise, and one of my favorite characters is Tyrael. I wrote a KYL about him in 2015, right around the time we launched th ...",
@@ -1050,48 +1101,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Asmongold TV",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-big-new-announcements-for-diablo-4.md",
-      "title": "Big NEW Announcements for Diablo 4!",
-      "excerpt": "Watch LIVE https://www.twitch.tv/toyhouze Click for More   If you haven't been keeping up with Diablo 4 announcements, we're ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-07-big-new-announcements-for-diablo-4/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-07-big-new-announcements-for-diablo-4/",
-      "originalUrl": "https://youtube.com/watch?v=tFC74hqB5r0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tFC74hqB5r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:00:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toyhouze",
         "domain": "youtube.com",
         "images": null,
         "publishers": null,
