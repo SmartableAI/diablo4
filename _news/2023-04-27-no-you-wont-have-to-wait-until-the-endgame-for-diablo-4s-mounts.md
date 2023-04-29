@@ -1,32 +1,28 @@
 ---
 category: news
 title: "No, you won't have to wait until the endgame for Diablo 4's mounts"
-excerpt: "Blizzard has clarified how mounts work in Diablo 4. A blog post earlier this week incorrectly said that you won't be able to ride a mount in Diablo 4 until you finish the main questline, a mistake that confused players and press alike."
-publishedDateTime: 2023-04-27T13:47:00Z
-originalUrl: "https://www.pcgamer.com/no-you-wont-have-to-wait-until-the-endgame-for-diablo-4s-mounts/"
-webUrl: "https://www.pcgamer.com/no-you-wont-have-to-wait-until-the-endgame-for-diablo-4s-mounts/"
+excerpt: "Mounts have been a major feature in Diablo 4 from the beginning—they're even a pre-order bonus—but leaked footage from the alpha and the endgame beta, as well as some datamined info, suggest that the requirement to unlock them was changed a few times"
+publishedDateTime: 2023-04-27T13:47:53Z
+originalUrl: "https://www.msn.com/en-us/money/other/no-you-won-t-have-to-wait-until-the-endgame-for-diablo-4-s-mounts/ar-AA1as4p2"
+webUrl: "https://www.msn.com/en-us/money/other/no-you-won-t-have-to-wait-until-the-endgame-for-diablo-4-s-mounts/ar-AA1as4p2"
 type: article
-quality: 127
-heat: 127
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PC Gamer on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/aBs5632Fh32RDtQFZdwhiZ-1200-80.jpg"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1as4p0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=528&y=249"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
-secured: "gcBi+yX7wkwa0As35ieBhSMx8VadVEKoj9DNaLN5Xt+nzHdVnQODlA96pSAY2os7kSjW29U8nKTf92Pb+O/q8IMLWA4gzrzbR2YRuQ7H0cPzAHXxdM5Bbesf7cBHNfpKLPJVKOoiWXlVbd09SCxUTGMT+p2csfB+ZR/Y/vIhX1d6D5ObUFSB65r8boIEOR1umDnANwL7RtkWlBYo/2zzkd32s325LeW8a3QUAXCIkCm262Ge/qMje2+HIfMAXtil/wNi3Tj1vEKP+ad8xFJGRKesKANN2wq83z8QES7vYea5tC4UFhJHzGPrWJub8a3PcSbSuc/tdZxIU+pKphRPObiydNl0nm98Lu0v3wsIxJU=;VqDIKR0OvS4KRW1F+tim4Q=="
+secured: "n9SrrJGC3CeIBE1z3Zij+3247odMQ6NVcOzEjO/2y6PLOGkZMqfbX3bh24dKo66K41VjS+PXYC84Wq8gJF+epgzW3GouXL4jtCVz+u2TaZqq+KBIgeSZ7LLlbhB36A8S+FtDTqrKQB/Cy2LxAwcV2/DhyTjhmzQ/qP6vu/aUIEzA65VEHMcOBJtmPk+65Vzl3BiReqCOyzRY3E57SpRzVAXzE3+pmtYuVMz2q8nJJSvH6AFQdvAgIsgqCDzAv7AYSVe0pMdvKRmMg4jPigk4K6lm9o0fuxGVLt2p/lBYfGSoD82g+yiRu3o7UHDNWlg69Rp0rpBHIkezN1/gBXLlIuuyiwGbay/3Fk4C7iHEO/k=;aq294keHLZlgaci9q09nLw=="
 ---
 
