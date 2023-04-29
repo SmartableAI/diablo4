@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019.md",
+      "title": "Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019",
+      "excerpt": "diablo #diablo4 #reaction Reacting to Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 ALL MY CONTENT IN ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-12-13-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019/",
+      "originalUrl": "https://youtube.com/watch?v=bOph5Mn57ps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bOph5Mn57ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T06:10:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Annoyed Reactions VF",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-the-devils-in-the-details-why-diablo-4-is-shaping-up-to-be-the-series-best-yet.md",
       "title": "The Devil’s in the details: why Diablo 4 is shaping up to be the series' best yet",
       "excerpt": "From seamless multiplayer to righting the wrongs of Diablo 3, here’s how Blizzard is returning to the series’ bloody roots with Diablo 4.",
@@ -1050,48 +1092,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "Polygon on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more.md",
-      "title": "The Diablo 4 beta hasn’t convinced me yet, but I can’t wait to play more",
-      "excerpt": "Diablo 4 has a hell of a challenge in front of it. Created against Activision Blizzard’s alleged toxic working culture, a team of developers has been tasked with aiding the ongoing resurrection of a gaming behemoth.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-the-diablo-4-beta-hasnt-convinced-me-yet-but-i-cant-wait-to-play-more/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/the-diablo-4-beta-hasn-e2-80-99t-convinced-me-yet-but-i-can-e2-80-99t-wait-to-play-more/ar-AA151smu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA151pOA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T00:00:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+ on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
