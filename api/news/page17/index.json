@@ -2,6 +2,48 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil.md",
+      "title": "Diablo 4 preview: A darker take on the devil",
+      "excerpt": "THERE is no release date for Diablo 4, but Blizzard has allowed press to see an early — and very limited — build of the game. After a week with this build, we’ve got a good idea of what the game ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-08-diablo-4-preview-a-darker-take-on-the-devil/index.json",
+      "webUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
+      "originalUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/Barb_CharacterModel2.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20689658/diablo-4-preview-a-darker-take-on-the-devil/amp/",
+      "publishedDateTime": "2022-12-07T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-diablo-4s-character-creator-does-just-enough.md",
       "title": "Diablo 4’s character creator does just enough",
       "excerpt": "You can customize your Barbarian and Necromancer beautifully, but only to a point Diablo 4 does character creation and customization better than any Diablo game to date, letting players design their ...",
@@ -1032,48 +1074,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video.md",
-      "title": "Diablo 4 Explains Combat and Power Fantasy In New Video",
-      "excerpt": "The developers of Diablo 4 showcase how its combat maintains the power fantasy of Diablo 3 while still hearkening back to old Diablo games.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-09-diablo-4-explains-combat-and-power-fantasy-in-new-video/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-explains-combat-and-power-fantasy-in-new-video/ar-AA13VQXs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13VMaj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T02:42:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
