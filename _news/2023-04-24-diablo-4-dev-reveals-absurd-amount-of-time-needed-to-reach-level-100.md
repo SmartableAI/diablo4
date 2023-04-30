@@ -18,6 +18,22 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Diablo 4 Dev Reveals Time Needed to Reach Level Cap"
+    excerpt: "If you hope to max out your Druid, Sorceress, or any other Diablo 4 class after the game's release in June, you're going to have to grind a bit. According to a new tweet from Diablo 4 associate ..."
+    publishedDateTime: 2023-04-29T20:00:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-level-100-cap-takes-150-hours-to-complete/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-level-100-cap-takes-150-hours-to-complete/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-level-100-cap-takes-150-hours-to-complete/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 107
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "Diablo 4 Will Take An Incredible Amount Of Time To Reach Level 100"
     excerpt: "An associate game director for Diablo 4 has clarified just how long it will take for average players to reach level 100."
     publishedDateTime: 2023-04-25T05:21:31Z
@@ -32,20 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Reaching Diablo 4's level cap will take around 150 hours of grinding"
-    excerpt: "Diablo 4 has released a new dev diary looking into player choice, meanwhile one of the game's developers have revealed how long it takes to reach the level cap."
-    publishedDateTime: 2023-04-25T09:04:00Z
-    webUrl: "https://www.rockpapershotgun.com/reaching-diablo-4s-level-cap-will-take-around-150-hours-of-grinding"
+  - title: "Diablo 4 Reveals How Long It Takes to Hit Level 100"
+    excerpt: "Blizzard confirms about how long it will take Diablo 4 players to hit the game's max level cap when it launches later this year."
+    publishedDateTime: 2023-04-24T12:54:13Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-how-long-it-takes-to-hit-level-100/ar-AA1ahAdL"
     type: article
     provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 87
-    images:
-      - url: "https://assetsio.reedpopcdn.com/Diablo-4-open-beta-start-and-end-times.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
+      name: GameRant on MSN
+      domain: msn.com
+    quality: 67
 
 secured: "yIGX0ZtnEiA0p6rzyIIcnKv3HuPQbtAzYQhJmekfYVdISpDTy/Cejr1fOPso4LXgPTXsp9VexkSro71Nnc9iHtRwFVPBzlZNyF11ftaXQsMmPay7pV1iM0KKDKqsSOMR3TF7FWHQ2ytsqnzAbKOa+pWaHii7n45Og77xcj6Jd2pJUqZpsF7dAPPgDyqgmkMleGQhS5E5sscMRj5iUY6sQTYldvOpf1c6HmvBT+nitfofgT7w8QnDrUSqSzXSXA/CvYjh2xZHt1tWWsoLU8DnCVX5HRyEDOgp3KZEkxVZ9vWT6Dp+4QaTf/yO73iRHV5zqrjW7eRoVRW9wGh1+Yxn1PLyUAu3SklbmD3A3CK6nQM=;F4M0VopMXssM0RduPfJqaw=="
 ---

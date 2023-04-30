@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Will Take An Incredible Amount Of Time To Reach Level 100"
-    excerpt: "An associate game director for Diablo 4 has clarified just how long it will take for average players to reach level 100."
-    publishedDateTime: 2023-04-25T05:21:31Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-will-take-an-incredible-amount-of-time-to-reach-level-100/ar-AA1ajgz8"
+  - title: "Diablo 4's Max Level Will Take Most Players 150 Hours to Hit"
+    excerpt: "Trying to determine the length of a game like Diablo 4 seems like a pretty pointless endeavour, since players can technically grind for all eternity. But if you're desperate for a number, then ..."
+    publishedDateTime: 2023-04-25T05:30:00Z
+    webUrl: "https://www.pushsquare.com/news/2023/04/diablo-4s-max-level-will-take-most-players-150-hours-to-hit"
     type: article
     provider:
-      name: DualShockers on MSN
-      domain: msn.com
+      name: Push Square
+      domain: pushsquare.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ajxvb.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=507&y=215"
-        width: 1200
-        height: 630
+      - url: "https://images.pushsquare.com/d8a95e93fb974/1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Diablo 4 dev reveals absurd amount of time needed to reach level 100"
-    excerpt: "ARPG gamers looking to get their money’s worth out of Diablo 4 are in for a treat, according to Blizzard. This weekend, a Blizzard developer revealed the estimated time that it will take players to ..."
-    publishedDateTime: 2023-04-24T11:44:00Z
-    webUrl: "https://dotesports.com/diablo/news/diablo-4-dev-reveals-absurd-amount-of-time-needed-to-reach-level-100"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 67
 
 secured: "UZPJl1xBZTcPXvyc5GsePbE1l6Etx+ZJmkUU48rEeS9ya+n30Jgb/WDFstaAoVpkLe/2UwFBIJJfOaTRDrb7b1lpeRPuDbBh8EbB7PTixCBG2NSvKsd25trf/LmzPfVS8faR5ruYX/bVYxtlwEPdqoQJUL+LUI/Xdzob17HpEXNKj3PKPKi3Z+urdja/ZWgfeu56dTQx3csKx9iEDgmJE+QQO1sK+5y9EmWtTFhu8XgZPBSBO27JoMVTpLdxB9Aw1sQYU7mVy8NAfuBndc++bjGk3WKIb6Rh1gBmaRHwzQDTaTJG6fhzKL85YFgPTaRmJZKkKMvo892eMgt+w3W/SMVrXb8Irw39rT3U3cFFHps=;uRl3/s2/1ZGNnRoGceqOGQ=="
 ---
