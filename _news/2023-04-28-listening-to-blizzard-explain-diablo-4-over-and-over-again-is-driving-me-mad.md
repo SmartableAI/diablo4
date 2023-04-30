@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Listening to Blizzard explain Diablo 4 over and over again is driving me mad"
-excerpt: "Surprise, it's an action RPG."
+excerpt: "Diablo 4's latest video about its customization explains groundbreaking info like how you can choose different hairstyles for your characters and spend skill points to create a unique build. Blizzard is spending this precious time to let us know some of t"
 publishedDateTime: 2023-04-28T10:01:59Z
-originalUrl: "https://www.msn.com/en-xl/entertainment/other/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/ar-AA1auKah"
-webUrl: "https://www.msn.com/en-xl/entertainment/other/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/ar-AA1auKah"
+originalUrl: "https://www.msn.com/en-us/entertainment/other/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/ar-AA1auKah"
+webUrl: "https://www.msn.com/en-us/entertainment/other/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/ar-AA1auKah"
 type: article
 quality: 84
 heat: 84
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+Fv7cpH8p6sG5xQJ1rm5/e1KejyrnvPUQXonf4TSdZjeDHeXGVXggyMH4s9YzqbgEhFsAIQEDcqALRBO3pjiU84KQ1xS+4MNqaVO9sFGp19ENa/HM1vxBePYpT6qEIJvL2TYJxc44wpXd5Ilpn9uD25df0P9DH4sJ97brbJ+JGnZHXTeUQ8DG4yCeYolyKPERLTbQX7CXGLtx7o2qkHeOPEnX+jDEpC9vLdBwpX2InDnGFD5lLYdj2BlILy3WDM9geoIYSdCAtGuj+eBF6yT0zprY1bfsemrHzLyop5JvYpWFZeqNX1bgLC8hTCjMMrxFXWnai2wtHaGCriPZV/miA2OUlS2nSIkv1PehodDJ9I=;mGLtzUo2APnEO4lkhRvkdg=="
+secured: "2e08OK502PfhFZHDERUODK5zrkPEa99aPIJ2+lWVkzj589T9QH6q3bd5l6CTY6j1+775lCEkz1Rkx00HyDIGHfac8r4If5aAGyB4TzWZsZ54uPBwy6R8igB0MOWspaXZxwY516+krUGwtJuZzF1dIpWaZMJ0cmXwpGGbBGF/IPOCGnzTIWxhqZihYPjpCOhraOEROvG6GE8jHQD46FzjN8ERN5RFzClZbbzJlUHGuXFgH0Cae9Sbet0+ENX0KjA261kXPwDSA+eN2WrzxaeXdndnU7RMkvdW6VzBYCAQw0y1c2/1dmlVrkqXwbtrlXuiCpWZ4s8gmxx9clEwTf8lreQhMJKHm839GyciUmtCy3U=;+QwWImCsll75Mt16T0/NGA=="
 ---
 
