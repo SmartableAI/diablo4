@@ -173,19 +173,19 @@
     {
       "path": "_news/2023-04-28-listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad.md",
       "title": "Listening to Blizzard explain Diablo 4 over and over again is driving me mad",
-      "excerpt": "Diablo 4's latest video about its customization explains groundbreaking info like how you can choose different hairstyles for your characters and spend skill points to create a unique build. Blizzard is spending this precious time to let us know some of t",
+      "excerpt": "Surprise, it's an action RPG.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-28-listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/index.json",
-      "webUrl": "https://www.pcgamer.com/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/",
-      "originalUrl": "https://www.pcgamer.com/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/ar-AA1auKah",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/listening-to-blizzard-explain-diablo-4-over-and-over-again-is-driving-me-mad/ar-AA1auKah",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/LSHudwL9hyAmZAZqmk3GTK-1200-80.jpg",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1auCFg.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -195,21 +195,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T03:01:00-07:00",
+      "publishedDateTime": "2023-04-28T03:01:59-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PC Gamer on MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
