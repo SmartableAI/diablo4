@@ -3,15 +3,15 @@ category: news
 title: "All Features Confirmed for Diablo 4 on Launch"
 excerpt: "Beta players got to try out some of Diablo 4's features already, but there are plenty more that will be made available when the game launches in June."
 publishedDateTime: 2023-04-29T07:09:55Z
-originalUrl: "https://www.msn.com/en-us/entertainment/other/all-features-confirmed-for-diablo-4-on-launch/ar-AA1awAK0"
-webUrl: "https://www.msn.com/en-us/entertainment/other/all-features-confirmed-for-diablo-4-on-launch/ar-AA1awAK0"
+originalUrl: "https://www.msn.com/en-ae/entertainment/gaming/all-features-confirmed-for-diablo-4-on-launch/ar-AA1awAK0"
+webUrl: "https://www.msn.com/en-ae/entertainment/gaming/all-features-confirmed-for-diablo-4-on-launch/ar-AA1awAK0"
 type: article
 quality: 87
 heat: 87
 published: true
 
 provider:
-  name: Game Rant on MSN
+  name: GameRant on MSN
   domain: msn.com
 
 topics:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "iz1Ls7nzHgSeZTpfJ1Voo2nzX/dueRjcF5VazyFscRXv8KMXjGdTyNEISDv1qbz0lbEjPbbUHFlTNOytkQQ1KrICF+SbNVKmnSO7N1LhQVxZoKI6F3G2MUAY9hanyGlRnQnDDT4ffA1lOfDLqxbGd7B5BXyeY1+C2PfSrLRRcY6TI6rMrGhnRKGVOXmG2TIm8FJipNULfDQyp7XY/MSiODwv8nQHAEqmT2pBcC5KRQhc6LlN6g2PL3HmhcVGEBTKFh554zoYYpxh6scYCCrwXiMr4u/LhB5hIqXuJtpwzzLDmswb6rHe4lyJD7ra9++xSOFdvkcVKwqAO7PevtR/Eyyj8odZXZ6KxnBwAORjSIY=;ib/f6DtKP6yEaUEscg4iig=="
+secured: "Of22q3lAtZ55rRZYoSwBHmL+QRIaN3ec8xY1gGPBEweUL1L2DCXifDJC4ZhUEfyUOItW0djHyi9Yd5p33tfeeKDK8GWaeQpDw2Jaa4ynXjnqrSUMeoadXhuDlcVN2iowhUlkpAFJ0xJUfCMEMxT+DMoyv8IQlWFLz2hRpKd7vaah6op5h2g3IZ4FABaSp2veawC1jFPonnS6OYxvUrtisAe3Rq6sjlddaAF2SLLcRY4yuCgFldfjnc5tCmSrUUCKlEt6LgE+QYtrZ3cy+lo3Uub4PRUg81Cp+xYkrhjReii1w2I8Dbi1th8V/8qTqvcdosa56YU+aIJcmArgAdxkA7JAALnZS3YvznXtd4Wns4c=;+mXGz8L0bHK2r7A68BhNgQ=="
 ---
 
