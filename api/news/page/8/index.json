@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-23-is-diablo-4-steam-deck-compatible.md",
+      "title": "Is Diablo 4 Steam Deck compatible?",
+      "excerpt": "Is Diablo 4 Steam Deck compatible? With the Diablo 4 open beta happening this weekend, you’re probably wondering whether the long-awaited Blizzard RPG works on Valve’s dinky PC. To save you from any ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-23-is-diablo-4-steam-deck-compatible/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/steam-deck",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/steam-deck",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-steam-deck.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-8-things-we-learned-from-the-diablo-4-closed-beta-that-you-should-know-too.md",
       "title": "8 things we learned from the Diablo 4 closed beta that you should know too",
       "excerpt": "Blizzard's ARPG is stuffed with small QoL additions and helpful tips that can be easily missed. With Diablo 4's open beta (opens in new tab) set to kick off and introduce more players to five classes, ...",
@@ -1118,48 +1160,6 @@
       "topics": [
         "Diablo 4",
         "Barbarian"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-cults-prophecies-and-helpless-villagers-galore-diablo-4-is-back-to-its-moody-goth-best.md",
-      "title": "Cults, prophecies and helpless villagers galore: Diablo 4 is back to its moody goth best",
-      "excerpt": "While there’s an argument to be had about how intellectually nourishing these games may be, Diablo 4 has a lot of seductive power. Clicking monsters to death in this game feels dangerously good. Diablo 4 returns to being the moody goth kid of its RPG ..",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-cults-prophecies-and-helpless-villagers-galore-diablo-4-is-back-to-its-moody-goth-best/index.json",
-      "webUrl": "https://www.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
-      "originalUrl": "https://www.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3e868e1b940468ccd0c13e42a43f4c7660967f71/2985_124_6154_3692/master/6154.jpg?width=620&quality=85&auto=format&fit=max&s=74f1dfd5b80d96280c3226acce745601",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/games/2023/mar/21/diablo-4-bleak-brutal-potentially-brilliant",
-      "publishedDateTime": "2023-03-21T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
       ]
     }
   ],

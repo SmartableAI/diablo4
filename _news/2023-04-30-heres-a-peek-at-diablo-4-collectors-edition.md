@@ -7,8 +7,8 @@ originalUrl: "https://www.eurogamer.net/heres-a-peek-at-diablo-4-collectors-edit
 webUrl: "https://www.eurogamer.net/heres-a-peek-at-diablo-4-collectors-edition"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Eurogamer
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4's Collector's Edition is out in the wild - take a look"
+    excerpt: "We really hope that \"Do not ship before 1st June 2023\" notice was a joke ..."
+    publishedDateTime: 2023-04-30T12:20:10Z
+    webUrl: "https://www.msn.com/en-xl/money/tech-and-science/diablo-4-s-collector-s-edition-is-out-in-the-wild-take-a-look/ar-AA1az7Io"
+    type: article
+    provider:
+      name: GamesRadar on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ayXQn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=290"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Take a look inside the Diablo 4 Collector’s Edition box and art book"
     excerpt: "If you’re curious what comes in the Diablo 4 Collector’s Edition box, top player Wudijo unboxes the limited edition package ahead of the RPG game’s launch."
     publishedDateTime: 2023-04-30T03:51:00Z

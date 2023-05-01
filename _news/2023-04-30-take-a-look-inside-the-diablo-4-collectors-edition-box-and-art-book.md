@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Diablo 4's Collector's Edition is out in the wild - take a look"
+    excerpt: "We really hope that \"Do not ship before 1st June 2023\" notice was a joke ..."
+    publishedDateTime: 2023-04-30T12:20:10Z
+    webUrl: "https://www.msn.com/en-xl/money/tech-and-science/diablo-4-s-collector-s-edition-is-out-in-the-wild-take-a-look/ar-AA1az7Io"
+    type: article
+    provider:
+      name: GamesRadar on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ayXQn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=290"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here's a peek at Diablo 4 collector's edition"
     excerpt: "Diablo content creator and partner Wudijo has revealed what's included in the Diablo 4 Collector's Edition. Wudijo ..."
     publishedDateTime: 2023-04-30T07:27:00Z
