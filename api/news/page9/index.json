@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-21-diablo-4-dev-confirms-barbarian-buffs-coming-amid-weak-beta-complaints.md",
+      "title": "Diablo 4 dev confirms Barbarian buffs coming amid ‘weak’ beta complaints",
+      "excerpt": "Blizzard developers have promised to address complaints from the Diablo 4 early access beta that the Barbarian build felt \"weak.\" ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-dev-confirms-barbarian-buffs-coming-amid-weak-beta-complaints/index.json",
+      "webUrl": "https://www.dexerto.com/diablo/diablo-4-barbarian-buffs-confirmed-weak-beta-complaints-2092232/",
+      "originalUrl": "https://www.dexerto.com/diablo/diablo-4-barbarian-buffs-confirmed-weak-beta-complaints-2092232/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/21/diablo-4-barbarian.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dexerto.com",
+        "domain": "dexerto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-cults-prophecies-and-helpless-villagers-galore-diablo-4-is-back-to-its-moody-goth-best.md",
       "title": "Cults, prophecies and helpless villagers galore: Diablo 4 is back to its moody goth best",
       "excerpt": "While there’s an argument to be had about how intellectually nourishing these games may be, Diablo 4 has a lot of seductive power. Clicking monsters to death in this game feels dangerously good. Diablo 4 returns to being the moody goth kid of its RPG ..",
@@ -1097,57 +1140,6 @@
         "name": "Dot Esports",
         "domain": "dotesports.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations.md",
-      "title": "Diablo 4 - All Altar Of Lilith Statues And Locations",
-      "excerpt": "The statues are difficult to find, but they unlock some incredible benefits for Diablo 4 players When exploring the world of Sanctuary in Diablo 4, there is plenty to look out for. Whether you're ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-19-diablo-4-all-altar-of-lilith-statues-and-locations/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-all-altar-of-lilith-statues-and-locations/1100-6512480/",
-      "publishedDateTime": "2023-03-19T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
