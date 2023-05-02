@@ -7,8 +7,8 @@ originalUrl: "https://news.yahoo.com/diablo-4-boss-clarifies-seasonal-194936642.
 webUrl: "https://news.yahoo.com/diablo-4-boss-clarifies-seasonal-194936642.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: YAHOO!News
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Is ‘Diablo 4’ Trading Big Expansions For Seasonal Story Content? (No)"
-    excerpt: "While we know that Diablo 4 is planning to be a live service and having seasons like Diablo 3 has for the past decade or so, things seem to be altering one of the core historical parts of the game, if recent interviews are indications of anything."
-    publishedDateTime: 2023-04-12T06:10:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/12/is-diablo-4-trading-big-expansions-for-seasonal-story-content/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6414fd32008bcd0c557ffb6c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Diablo 4's Plan For New Story Content Certainly Has Fans Skeptical"
-    excerpt: "Diablo 4 game director Joe Piepiora has revealed that the upcoming RPG will receive \"meaty\" story content every three months. Accompanied by the seasonal pass, those quarterly updates will be tied to ..."
-    publishedDateTime: 2023-04-17T13:43:00Z
-    webUrl: "https://www.msn.com/en-au/entertainment/other/diablo-4-s-plan-for-new-story-content-certainly-has-fans-skeptical/ar-AA19LDXF"
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19LV8c.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=971&y=198"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1vKSgto0FwslKS3TkTWq5zwG8Pfl9f6b3dJHixPD7mUPF29Q3zFTK2/WYhdP1kZq83Xo8XJVHFAYJzE49BZlvmyWU5Zn0HsoGj/wWVhBrY6xay2JgTh2pgvZOba4OrFADPHC/5G339C2hp5lEcsByOfT7lgQfABBcW3bsTthD6kuu5ZlZwwvVItGTJQBxW9qPRRuVYdDm1R4pBng2iV2yTvM/DkzRvMazUZ/acHxa0Sy98cAJbUheRXAwQVwDbv4CtsbkyH6PhIBDLLaL2OyadpVXWdUboTKu3X+rDbKJkacY6HKArrrHJHneoZCTA1tWT1iA7oeApQVKGBXqKYjhY7Rt0ohCNNNlpGQBVzq2GU=;6mdO8tLWpcaDyIYNjezWXw=="
 ---
