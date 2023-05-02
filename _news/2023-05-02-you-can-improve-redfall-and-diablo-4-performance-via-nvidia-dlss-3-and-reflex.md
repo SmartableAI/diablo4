@@ -1,7 +1,7 @@
 ---
 category: news
 title: "You can improve Redfall and Diablo 4 performance via NVIDIA DLSS 3 and Reflex"
-excerpt: "NVIDIA GeForce has released its latest Game Ready Driver, which allows Redfall players to increase performance via NVIDIA's DLSS 3 and NVIDIA Reflex. NVIDIA has also made it possible for RTX GPU players to enable DLSS 2 to accelerate frame rate when playi"
+excerpt: "NVIDIA GeForce has released its latest Game Ready Driver, which allows Redfall players to increase performance via NVIDIA's DLSS 3 and NVIDIA Reflex. NVIDIA has also made it possible for RTX GPU ..."
 publishedDateTime: 2023-05-02T09:12:00Z
 originalUrl: "https://www.windowscentral.com/gaming/you-can-improve-redfall-and-diablo-4-performance-via-nvidia-dlss-3-and-reflex"
 webUrl: "https://www.windowscentral.com/gaming/you-can-improve-redfall-and-diablo-4-performance-via-nvidia-dlss-3-and-reflex"
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "kCQBHJjPJ8GwQwpIeCDmbSevY3cPmCE+gfqC8MqcxILFJWyuakm8bw4J8v77wEHGZ4FerQ3OCo6oWaSeA+8/qFDI6IsHUpB4xm4TASMfLbK+CQmZ2qy5D3zT7oYKLgwM4C5BBgS9RwKAVMAIBbtN9RjVh0hceqHg52MfHojhf8GGzQiZMKRGkQ3w9b35BikKQf/zp/UhdUYJNlip5DdwFEElZ1dBtVVBPSib6pdN0onV6FmmHeCR7BjsFCLKGHUuwtgfYoco0njI0jCDpqtdpAYtolXFKOAVugY4yE+iMowiM2jvrh1eDu2bKAXzRouq3enM0MXaa0Rxl/8dWI5NXHNEy1hZ61976bHsduI0hfU=;L7ERTw2yvDEit1UK6iR94g=="
+secured: "LpKlCX/3pE/ELjESrfChZEIXiP+kfepv6y8y150qox/E63fPRAul5olNASFTnl27taF193o06tQontYt5B2BtetXt3lplsm+f2DX7vBAvYBbg8lQf4YWteIDx1ktN/Z5XBPQaKaEjHHPWo/Prbqe9Annh/Uy0wQTkSge/FjbudqzicumEY94EIlprH3KacjNjIZk5upOiStQWEq1ANXA1Tg53/wRO56C4i8j5T5DorLjN1UJfFpYii1MUVvVcHkmvu7GbCmC9VohpcNq93Lr3H4yGdpY/nmlYel8PTp9NNDeBKSrHF4nqUOw8YxzOcrSlYlQVL69z6TVrc6ERYLKv/NnTaj/ahCoD+WdjmQaMDY=;OGsB9OyeoSJMR+hneh9U8Q=="
 ---
 
