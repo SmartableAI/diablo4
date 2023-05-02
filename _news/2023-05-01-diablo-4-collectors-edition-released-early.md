@@ -1,45 +1,31 @@
 ---
 category: news
-title: "Take a look inside the Diablo 4 Collector’s Edition box and art book"
-excerpt: "If you’re curious what comes in the Diablo 4 Collector’s Edition box, top player Wudijo unboxes the limited edition package ahead of the RPG game’s launch."
-publishedDateTime: 2023-04-30T03:51:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-unboxing"
-webUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-unboxing"
+title: "Diablo 4 Collector's Edition Released Early"
+excerpt: "For fans still on the fence about buying the collector's edition, the video gives a much closer look at its contents. Notably, it does not contain the game itself, which is likely why Blizzard had no ..."
+publishedDateTime: 2023-05-01T15:06:00Z
+originalUrl: "https://comicbook.com/gaming/news/diablo-4-collectors-edition-early-release-blizzard/"
+webUrl: "https://comicbook.com/gaming/news/diablo-4-collectors-edition-early-release-blizzard/"
+ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-collectors-edition-early-release-blizzard/"
+cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-collectors-edition-early-release-blizzard/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 107
+heat: 187
+published: true
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: Comicbook.com
+  domain: comicbook.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-collectors-edition-unboxing-contents.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320"
+    width: 568
+    height: 320
     isCached: true
 
 related:
-  - title: "Diablo 4 Collector's Edition Released Early"
-    excerpt: "For fans still on the fence about buying the collector's edition, the video gives a much closer look at its contents. Notably, it does not contain the game itself, which is likely why Blizzard had no ..."
-    publishedDateTime: 2023-05-01T15:06:00Z
-    webUrl: "https://comicbook.com/gaming/news/diablo-4-collectors-edition-early-release-blizzard/"
-    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-collectors-edition-early-release-blizzard/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-collectors-edition-early-release-blizzard/"
-    type: article
-    provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 107
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
   - title: "Diablo 4's Collector's Edition is out in the wild - take a look"
     excerpt: "We really hope that \"Do not ship before 1st June 2023\" notice was a joke ..."
     publishedDateTime: 2023-04-30T12:20:10Z
@@ -68,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Take a look inside the Diablo 4 Collector’s Edition box and art book"
+    excerpt: "If you’re curious what comes in the Diablo 4 Collector’s Edition box, top player Wudijo unboxes the limited edition package ahead of the RPG game’s launch."
+    publishedDateTime: 2023-04-30T03:51:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/collectors-edition-unboxing"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-collectors-edition-unboxing-contents.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Diablo 4 Collector’s Edition Box Shipped Early to Some Lucky Gamers"
     excerpt: "Streamers and content creators receive the Diablo 4 Collector's Box over a month before its release as Blizzard continues in its marketing push."
     publishedDateTime: 2023-05-01T07:44:00Z
@@ -83,6 +83,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Zz7njHLNJGQpDRub/xJ+gAgP7ZTgyAM0uJtivxW8NRrA62YCD5Txg6ISIUlKn4RDJ7uK2vko2U43oRQnz5NKpXo01T1wWFxs1xtO+jBy6ztsKMTB/wH5ARSFVwcHXxosnBpjYFJFqJz9/NNlQYQn+sa8qybM+yWPDL8YbJyzCvUkybu+kkWYbBHqCYbdSf1NCAmbjNb/NOa6AYaadN8EugPmUoekaO9I2I+ddfU/cbri4P5kxq3cJsjBgtiYSnSbONfmhh7olNCUJ5QrL/a4a0OW4bQqlj5YMKog30qM/N/hOK1bBgeEc6KgkTwz/jesbWmG6m437cSFELVUPUgNDMbL40zDx3lX7coVyNjcFYQ=;VDBZc4a3woh28nLL3NAI5A=="
+secured: "hojj7TCPOFOmVlH4uJEtEy2IoP5Th9dbkdlry0aos/Xp82m9EeUwd9AvfNpu/k8iEgGNkO0zX3cxmcuyiS194g8Vr2KiNo90xzx7g82QAA7AzuHoSMYi2t8BYrvcT7zksVIW1wAhMLLcA8ljOym2QWnirKiEV2GiTuwOFajaXVi9zpAg6RE8LsY4/LP3Zn7X9iJ3ru67Y/DAWVN+EnOc+Yvy+lTxRWpDODqpRn/raF7M6t3Id1wWgWcHz1j4D8V+OBe52LCnVAo6U76TYjifEOSWokO+7/G1hrHYqYeTO+BWGUTE9L/0vpt7JVgxPU3Ezk8lMiU0WpO6Ehoim2QymZjht5p+inISvh+M1Z0EAj0=;chA6ZjDSjjKRLQposvhZQg=="
 ---
 

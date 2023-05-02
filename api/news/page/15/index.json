@@ -2,48 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-01-26-diablo-4-everything-we-know-so-far.md",
-      "title": "Diablo 4: Everything we know so far",
-      "excerpt": "Blizzard are very good at keeping fans waiting, and Diablo 4 was certainly no exception. After a long period of rumours Diablo 4 was finally revealed at BlizzCon 2019, but we were once again left in ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-26-diablo-4-everything-we-know-so-far/index.json",
-      "webUrl": "https://www.vg247.com/diablo-4-everything-we-know-so-far",
-      "originalUrl": "https://www.vg247.com/diablo-4-everything-we-know-so-far",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.vg247.com/diablo-4-everything-we-know-inarius-screenshot.jpg/BROK/thumbnail/1200x630/diablo-4-everything-we-know-inarius-screenshot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T01:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-01-25-this-trailer-is-dark-diablo-4-official-announcement-cinematic-trailer-blizzcon-2019-reaction.md",
       "title": "This trailer is DARK! | Diablo 4 - Official Announcement Cinematic Trailer | Blizzcon 2019 reaction",
       "excerpt": "Time to check out an older trailer from the diablo 4 video game, this one was from 2019 but the trailer is absolutely amazing! Lilith ...",
@@ -1049,6 +1007,57 @@
         "name": "as.com",
         "domain": "as.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features.md",
+      "title": "Diablo 4 Explains Legendary Items and Codex of Power Features",
+      "excerpt": "Diablo 4's Game Directors discuss how Legendary Items are handled in the sequel with the introduction of its universal Codex of Power feature.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-21-diablo-4-explains-legendary-items-and-codex-of-power-features/index.json",
+      "webUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
+      "originalUrl": "https://gamerant.com/diablo-4-legendary-items-codex-of-power-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/diablo-5.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
