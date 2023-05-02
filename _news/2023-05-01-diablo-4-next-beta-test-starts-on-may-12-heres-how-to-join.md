@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Diablo 4 Next Beta Test Starts on May 12. Here's How to Join"
-excerpt: "The open beta start at 12 p.m. PT on May 12 and last until 12 p.m. PT on May 14. Anyone can participate in the open beta. The beta will be available for download in the PSN Store, Microsoft Store or on Battle.net for PC users."
+excerpt: "The open beta start at 12 p.m. PT on May 12 and last until 12 p.m. PT on May 14. Anyone can participate in the open beta. The beta will be available for download in the PSN Store, Microsoft Store or ..."
 publishedDateTime: 2023-05-01T12:59:00Z
 originalUrl: "https://www.cnet.com/tech/gaming/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/"
 webUrl: "https://www.cnet.com/tech/gaming/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/"
@@ -29,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "rVsaxAhRZQDFBlJS0zppkzu7WKTgh3FGXTyHXMtEKB5PJORA1pSjwP+mP2qrE/mnxJsw8Ys8lGgDeJ9+3DxFmNCJBmfuM2sxNJtJNa4i7vYTNJ9Jn7Iw3fMbhxZz17K+YKfqymb8FqWpyUnFgFvmGzQ/16HAIjKWli8sVgPOhjr7Aq/ggXPkBiDSu50OhRQFj+5DyFowZooZvWVSSi0UOoccjNb5hqnf3WDmXviRTDwh8l4ZOGkrUVklXnDsXunE4+Ch8AlFbImf8R4LPV9rNc7jdt2FX0/Ii08jozMZUA4gUV3T91Nre3J6FtJ28kTPF+mspBYOL2gq8mc9MR+OdRVM01ZNACigNkj9zIwarMY=;q6MyjGSG7YkNPXYVdKdjnA=="
+secured: "cdnHpRLiRlkvtezn/PD+bF86C0zMzpi9mq+DszUoAbSX2mfsh8Byoq06l3R3Co3cUZ6XbyZ/JROgAgoYgrFOZgPYWfidd6EMr0Mf4pN5LicUsdzXB9rwdvG7zj+6wnFDxsTbHmghC/Ryihq3jxmLTqsUt9NF2EXBL1UrqTgBgsyWloDCakWBm3bHoHjjuDvCnV6ZkgKYleiv6crBGCl0gF7fepjwRbtiS/6OOCo834yztl3llfKquBu1ZgNU8uRlL45PzbMMRq9zGLLkT8decNOVaDr0bchLPXCGZvoTzryGaRF1iO60T9kspY9el2Eb6mAZOEocR3LpREnIK8HiOTnZoDQTsVZindSp+uNGaK4=;vsYXbpLqdg9uE+esoimLNw=="
 ---
 
