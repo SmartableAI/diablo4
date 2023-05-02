@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-27-diablo-4-beta-end-time-how-long-do-players-have-left-to-fight-through-hell.md",
+      "title": "Diablo 4 beta end time: how long do players have left to fight through hell?",
+      "excerpt": "Activision ’s upcoming hack-and-slasher set in hell has been a worldwide hit before it’s even released, as indicated by both Diablo 4 beta periods on PlayStation, Xbox and PC being wildly successful – ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-beta-end-time-how-long-do-players-have-left-to-fight-through-hell/index.json",
+      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920",
+      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/gaming/article29560036.ece/ALTERNATES/s1200/0_Diablo-4-key-art.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-end-time-29559920.amp",
+      "publishedDateTime": "2023-03-26T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-diablo-4-is-borrowing-one-of-wows-best-features-and-i-love-it.md",
       "title": "Diablo 4 is borrowing one of WoW’s best features, and I love it",
       "excerpt": "The curtains have closed on the Diablo 4 beta, and it turns out that Blizzard's action RPG game is borrowing one of the best features from sister MMORPG, WoW.",
@@ -1036,49 +1078,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-the-best-diablo-4-druid-build-for-solo-play.md",
-      "title": "The best Diablo 4 Druid build for solo play",
-      "excerpt": "The best Druid build in Diablo 4 only comes into its own at higher levels. Once it does, you end up with a versatile attacker who can debilitiate enemies and dish out a surprising amount of damage.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-the-best-diablo-4-druid-build-for-solo-play/index.json",
-      "webUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build",
-      "originalUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/25/diablo-4-druid-build_feature.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134776/diablo-4-druid-build?amphtml=1",
-      "publishedDateTime": "2023-03-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Druid"
       ]
     }
   ],

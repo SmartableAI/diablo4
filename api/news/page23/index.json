@@ -2,6 +2,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5.md",
+      "title": "Are Diablo 4 and Overwatch 2 Still Coming to PS4 and PS5?",
+      "excerpt": "There is a lot of confusion about whether Diablo 4 and Overwatch 2 are coming to PS4 and PS5, but we have good news for PlayStation gamers everywhere.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-13-are-diablo-4-and-overwatch-2-still-coming-to-ps4-and-ps5/index.json",
+      "webUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
+      "originalUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denofgeek.com/wp-content/uploads/2022/06/Overwatch-23.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
+      "cdnAmpWebUrl": "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/diablo-4-overwatch-2-ps4-ps5-release-date-exclusive/?amp",
+      "publishedDateTime": "2022-06-13T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Den Of Geek",
+        "domain": "denofgeek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-diablo-4s-new-legendary-system-has-transformed-the-game-blizzard-says.md",
       "title": "Diablo 4's New Legendary System Has \"Transformed The Game,\" Blizzard Says",
       "excerpt": "Diablo IV is learning big lessons from previous Diablo games, including how the game approaches legendary items and its endgame Paragon progression system. In a recent GameSpot interview, game ...",
@@ -1087,48 +1129,6 @@
       "provider": {
         "name": "Epicstream",
         "domain": "epicstream.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-diablo-4-reveals-new-dungeon-details-and-gameplay-footage.md",
-      "title": "Diablo 4 Reveals New Dungeon Details and Gameplay Footage",
-      "excerpt": "Diablo 4 developer Blizzard Entertainment has revealed a ton of new information about the dungeons that will be present in the latest entry in the long-running action series. Although it has been ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-04-diablo-4-reveals-new-dungeon-details-and-gameplay-footage/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2021/12/24/ae2f65df-ee69-4829-9c5a-fcd18919af2a/the-witcher-season-2.png?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-blizzard-update-gameplay-dungeons/",
-      "publishedDateTime": "2022-04-03T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null
