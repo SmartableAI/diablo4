@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "Diablo 4 dev explains how they draw the line on builds getting too overpowered"
-    excerpt: "Diablo 4 's developer really doesn't want you to feel overpowered. In the latest issue of PC Gamer magazine lead class designer Adam Z. Jackson spoke about combat design, admitting that it's \"fun to ..."
+    excerpt: "Diablo 4's developer really doesn't want you to feel overpowered. In the latest issue of PC Gamer magazine lead class designer Adam Z. Jackson spoke about combat design, admitting that it's \"fun to be ..."
     publishedDateTime: 2023-05-02T06:51:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-dev-explains-how-they-draw-the-line-on-builds-getting-too-overpowered/"
+    webUrl: "https://news.yahoo.com/diablo-4-dev-explains-draw-135142548.html"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: YAHOO!News
+      domain: yahoo.com
     quality: 83
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2uUmqBp5vQRGCK5AJMd3Yf-1200-80.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/FzPe5Z78dw7cZmikvf.q7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/3f1c4ed2fc613b658af0c76ae73f7408"
         width: 1200
         height: 675
         isCached: true
