@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4.md",
+      "title": "Blizzard Embraces Open World Gaming For 'Diablo 4'",
+      "excerpt": "Blizzard might just be embracing the open-world formula for the fourth installment of the 'Diablo' series set to launch in 2023. \"One of the concerns about putting 'open world' in a big neon sign and ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-14-blizzard-embraces-open-world-gaming-for-diablo-4/index.json",
+      "webUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
+      "originalUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/2858299/diablo-iv-diablo-iv-was-officially-announced-during-blizzcon-2019.png",
+          "width": 1455,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/blizzard-embraces-open-world-gaming-diablo-4-3635791?amp=1",
+      "publishedDateTime": "2022-11-14T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-diablo-4-predicting-the-early-class-meta.md",
       "title": "Diablo 4: Predicting the Early Class Meta",
       "excerpt": "With fans anticipating Diablo 4's launch in early 2023, it's time to look at which classes seem best suited to both PvE and PvP situations. While not official, most fans anticipate that Diablo 4 ...",
@@ -1033,48 +1075,6 @@
       "provider": {
         "name": "Autoalai - Warcraft",
         "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected.md",
-      "title": "Seems The Diablo 4 Release Date Could Be A Lot Closer Than We Expected",
-      "excerpt": "Another pull from the Activision Blizzard rumour mill this morning: it seems Blizzard could be preparing Diablo 4 for launch in April 2023. The current thinking is that, if Blizzard has anything to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/index.json",
-      "webUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/",
-      "originalUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/07/csm_D4_TreasureBeast_8dacc3a1b82d982f9bdd_eced159fed-e1667778520823.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/amp/",
-      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected/amp/",
-      "publishedDateTime": "2022-11-06T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku Australia",
-        "domain": "kotaku.com.au",
         "images": null,
         "publishers": null,
         "authors": null

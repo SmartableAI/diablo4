@@ -2,6 +2,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-06-14-diablo-4-will-let-necromancers-customise-their-armies.md",
+      "title": "‘Diablo 4’ will let Necromancers customise their armies",
+      "excerpt": "Following its announcement for Diablo 4 at the Xbox and Bethesda Showcase event, the Necromancer has received a more in-depth look at how the class will work. The Necromancer will use two different ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-will-let-necromancers-customise-their-armies/index.json",
+      "webUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-let-necromancers-customise-their-armies-3247191",
+      "originalUrl": "https://www.nme.com/news/gaming-news/diablo-4-will-let-necromancers-customise-their-armies-3247191",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2022/06/Diablo-4-necromancer-game-2000x1270-1.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-blizzard-confirms-less-microtransactions-in-diablo-4.md",
       "title": "Blizzard Confirms Less Microtransactions In 'Diablo 4'",
       "excerpt": "A Blizzard executive has promised a more traditional approach to post-launch monetization for \"Diablo 4\" following the community's overwhelmingly negative reaction to \"Diablo Immortal's\" ...",
@@ -1096,48 +1138,6 @@
       "provider": {
         "name": "TechnoSports",
         "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-diablo-4-development-is-progressing-well-says-blizzard.md",
-      "title": "Diablo 4 development is \"progressing well,\" says Blizzard",
-      "excerpt": "Diablo 4's development is progressing smoothly, Blizzard has confirmed. Activision Blizzard released its first-quarter financial results report yesterday. It gives us not only a look at the company's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-26-diablo-4-development-is-progressing-well-says-blizzard/index.json",
-      "webUrl": "https://www.gamesradar.com/diablo-4-development-is-progressing-well-says-blizzard/",
-      "originalUrl": "https://www.gamesradar.com/diablo-4-development-is-progressing-well-says-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZcRPimkTnMjyY6B3ZyiKQ8-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar",
-        "domain": "gamesradar.com",
         "images": null,
         "publishers": null,
         "authors": null
