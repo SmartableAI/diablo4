@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Allows the Campaign to Be Skipped, With a Catch"
-    excerpt: "Blizzard confirms that Diablo 4 players will have the choice to skip the ARPG's campaign if they want to, but there's a catch."
-    publishedDateTime: 2023-04-25T13:04:51Z
-    webUrl: "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk"
+  - title: "Diablo 4's mounts are only available once you've beaten the campaign"
+    excerpt: "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. As revealed in a new Blizzard blog (thanks, WowHead), you'll need to finish Diablo 4's main campaign to ..."
+    publishedDateTime: 2023-04-26T03:13:00Z
+    webUrl: "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html"
     type: article
     provider:
-      name: GameRant on MSN
-      domain: msn.com
+      name: YAHOO!News
+      domain: yahoo.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akVap.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/KsS3EofnxiMnyxueSsqm4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d23b6956a6654889a531db8ed508f63c"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Diablo 4 mounts can only be unlocked after completing the main story line"
+    excerpt: "Blizzard has revealed that Diablo 4 mounts can only be unlocked and used after you've completed the main story line with one character."
+    publishedDateTime: 2023-04-26T15:54:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-mounts-can-only-be-unlocked-after-completing-main-story/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 86
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-mounts.jpg"
+        width: 1200
+        height: 426
         isCached: true
 
 secured: "FUOkO3mpJur/z81Zb1uH+gHp20UX2iyKEPMit3wQWe8PNWGi4YjGixjZwU443Fc53JLm3SP0rh8WJ+0YjZrqh0VAmBq20OrDg/CN7CjHFPOrgjO9KpRBm5R7Ccydoq6BS62ggItKs/5YfzoOSGC47FVGvETgEzbL12BgwshVPkK7gYvK2JQBVs0rmUja1Icab7n6lP0enUvX5/308p6Lf5DBwXUJaNsZrlLVz82/Y6wu6uBfqj5Rv0f4PK2JH49OmMkeSP5A/Coqr9oRjaF4lt4QJVBAbeXfUZq54/tHfzsv0hQ7Oy7sMP4htUngMOeokTqS0OFijNEgkH+hSDH2qR5x3/5bhR2WCzIRax+Dx5w=;09lzu5WZobREtUbAOPjgkA=="

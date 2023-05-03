@@ -38,19 +38,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 developer update reveals skip campaign option after beating it once"
-    excerpt: "The latest Diablo 4 developer update has revealed that a campaign skip option will be available after you've beaten the game once."
-    publishedDateTime: 2023-04-25T18:23:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-developer-update-reveals-campaign-skip-option/"
+  - title: "Diablo 4's campaign can be skipped on new characters if you've beaten it once"
+    excerpt: "Diablo 4's developers dropped a brand new video detailing its class details. One detail picked up by fans is that a 'Skip Campaign' option was shown in a character menu, leading to speculation that players could skip Diablo 4's entire campaign if they wan"
+    publishedDateTime: 2023-04-25T04:06:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4s-campaign-can-be-skipped-on-new-characters-if-youve-beaten-it-once/"
     type: article
     provider:
-      name: VideoGamer.com
-      domain: videogamer.com
+      name: GamesRadar+
+      domain: gamesradar.com
     quality: 84
     images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-2-2.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg"
         width: 1200
-        height: 426
+        height: 675
         isCached: true
 
 secured: "WlL1rzJSU7QKLvBhAkzyEPaxAy6oGRhgK7BsyzXpmNYTGdAtrWmaNyi02PiX9uEI7ZpXXDi/OChwUKPkuGnjI7QnFzOGEMfzL1DaNGwy/1QmFmdIly/lhr99W4G5cDli5Bn3RqxOCWqlGbZ2007zU8TokhpIOfSSLcUKcPrLHtdtJiswgP/CMFP68s91wYT2R7zN7Ui9zJhivwhqicDamtQWfFfIPIOsn4hk3cdH1/94dCSwAYWxqnvTqDAmqvuJ1lSEv+5isJz+A7sHtu0wApWf66dzrVzsXohMbyJoZ1v4DBuHDDUHIohB5XOXM93K1oIdSap45vLpsCuq/Uu6U3EBBYRim78wOK59tVTp3Mw=;XZxVcvTIxQrk498q24xPXg=="

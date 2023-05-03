@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Diablo 4 Next Beta Test Starts on May 12. Here's How to Join"
-excerpt: "The open beta start at 12 p.m. PT on May 12 and last until 12 p.m. PT on May 14. Anyone can participate in the open beta. The beta will be available for download in the PSN Store, Microsoft Store or ..."
-publishedDateTime: 2023-05-01T12:59:00Z
-originalUrl: "https://www.cnet.com/tech/gaming/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/"
-webUrl: "https://www.cnet.com/tech/gaming/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/"
+excerpt: "Diablo 4, the latest installment of the popular dungeon crawler, comes out on June 6, but players can try out some of the game in an open beta happening in May."
+publishedDateTime: 2023-05-01T13:04:16Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-next-beta-test-starts-on-may-12-here-s-how-to-join/ar-AA1a7qBN"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-next-beta-test-starts-on-may-12-here-s-how-to-join/ar-AA1a7qBN"
 type: article
-quality: 107
-heat: 107
+quality: 87
+heat: 87
 published: true
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CNET on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200"
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1a7enB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=504&y=260"
     width: 1200
     height: 630
     isCached: true
 
-secured: "1dBXsI2af2mBcXnHiJJOFslXFmDX5jVqQ8ytrUZR5/CO+x7fBvhrnqJxEMifLBkMTh4ET09dnwXT8cHKmXgCt08i85OvuHR7wqyeRziRTwE9QjNqj9Hcoc7dRiaap9TE1jYcdzYHw0otzvtCT/D200VjGYYlRZQpZoJujBdY4WbIwQE2X1nd2wyX6E1H8NWbfFD0jJXNu5Go2mQ2d0jGfGn/VuOaCwE1d8F4n0WopUz/pK2RKgtPidd8lYI2bByoFjDEsKkGGZwuhQaMO+LP64Srro9T+xwFmitm/dzijsGPtGFsH3U3LadcZqzHpqPUmP/bawTfTRAzLdjp+1AE9IH/f+kI6z6+f+DDC4o6K9c=;Jw/QHU04Vt5oJgq4ECKBYQ=="
+secured: "ALppDtQ18N1VyIbE66HCMCt/z5SV45AdiXqJT3PEYzK0tCW6w/9hJLaaNjN6FAHareGg2opo3/dBywJE5N5Sn9ovE8XEVHGycAhrB5JHcZ3PbcGQEkFX4Nhr3aL6fptjrsM9BGAiQOy8u121ERxDCXHgkYzjJKu6UIhIcZLCoYTCs8ciws7t0ulWcRO5zyf4W6jQFJbp2MR5zEg86rW4u6pM8UXsMNh4aP+qoqRvNOGt2ovMRgijXzPM02UZnL+tFWHNv73xfxUlUQ8//QwxP05TbJ76RFuu2S3PZ8jsuCCqrxKnkr62LtWQAEvGL8b2z2eXkuZok+ij+L0TFYUYpKgS2FBCjpiJG0MrZcTAb0c=;psM1ysbam/rxU77qjHsLZA=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-02-diablo-4-has-an-option-to-skip-the-whole-campaign.md",
+      "title": "Diablo 4 Has an Option to Skip the Whole Campaign",
+      "excerpt": "When Diablo IV releases, players will have an option that allows them to skip over the entire campaign. A button for the feature could be seen in a new video released by Blizzard, and was first ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-02-diablo-4-has-an-option-to-skip-the-whole-campaign/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-skip-campaign-option-blizzard-confirms/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-skip-campaign-option-blizzard-confirms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-skip-campaign-option-blizzard-confirms/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-skip-campaign-option-blizzard-confirms/",
+      "publishedDateTime": "2023-05-02T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-did-blizzard-accidentally-ship-some-diablo-4-collectors-editions-a-month-early-uh-maybe.md",
       "title": "Did Blizzard accidentally ship some Diablo 4 collector's editions a month early? Uh, maybe",
       "excerpt": "Diablo 4 won't be out until June 6, but the Diablo 4 Collector's Edition seems to have slipped out early: More than a month ahead of its scheduled release, it's already in the hands of some ...",
@@ -139,17 +181,17 @@
     {
       "path": "_news/2023-05-01-diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join.md",
       "title": "Diablo 4 Next Beta Test Starts on May 12. Here's How to Join",
-      "excerpt": "The open beta start at 12 p.m. PT on May 12 and last until 12 p.m. PT on May 14. Anyone can participate in the open beta. The beta will be available for download in the PSN Store, Microsoft Store or ...",
+      "excerpt": "Diablo 4, the latest installment of the popular dungeon crawler, comes out on June 6, but players can try out some of the game in an open beta happening in May.",
       "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-01-diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/index.json",
-      "webUrl": "https://www.cnet.com/tech/gaming/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/",
-      "originalUrl": "https://www.cnet.com/tech/gaming/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-next-beta-test-starts-on-may-12-here-s-how-to-join/ar-AA1a7qBN",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-next-beta-test-starts-on-may-12-here-s-how-to-join/ar-AA1a7qBN",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1a7enB.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=504&y=260",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -159,23 +201,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/diablo-4-next-beta-test-starts-on-may-12-heres-how-to-join/",
-      "publishedDateTime": "2023-05-01T05:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:04:16-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CNET on MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -977,48 +1010,6 @@
       "provider": {
         "name": "as.com",
         "domain": "as.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4-allows-the-campaign-to-be-skipped-with-a-catch.md",
-      "title": "Diablo 4 Allows the Campaign to Be Skipped, With a Catch",
-      "excerpt": "Blizzard confirms that Diablo 4 players will have the choice to skip the ARPG's campaign if they want to, but there's a catch.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/index.json",
-      "webUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk",
-      "originalUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-allows-the-campaign-to-be-skipped-with-a-catch/ar-AA1al0qk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akVap.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T06:04:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
