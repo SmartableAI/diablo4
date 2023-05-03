@@ -84,20 +84,6 @@ related:
         width: 568
         height: 320
         isCached: true
-  - title: "Diablo 4's respec cost isn't changing before launch"
-    excerpt: "When it launches in June, Diablo 4's respec costs will work just like the recent beta, Blizzard says. The amount of gold required to move your skill points around is \"final,\" associate game director ..."
-    publishedDateTime: 2023-04-13T16:27:27Z
-    webUrl: "https://www.msn.com/en-sg/money/other/diablo-4-s-respec-cost-isn-t-changing-before-launch/ar-AA19QfkX"
-    type: article
-    provider:
-      name: PC Gamer on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19QbL2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=510&y=254"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 To Revamp Objectives And Balance Classes Following Fan Feedback"
     excerpt: "Blizzard heeded the call of Diablo 4 fans. Taking all the feedback from the recent early access and open beta weekends to heart, the team has laid out a slew of tweaks and balance changes to be ..."
     publishedDateTime: 2023-04-14T13:29:00Z
