@@ -2,6 +2,99 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-21-diablo-4-rogue-build-guide.md",
+      "title": "Diablo 4 - Rogue Build Guide",
+      "excerpt": "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-rogue-build-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/",
+      "publishedDateTime": "2023-03-21T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house.md",
+      "title": "Blizzard wants you to play Diablo 4 so badly that it’ll powerwash your house",
+      "excerpt": "Blizzard and Thumbtack are giving away $20,000 in services so that Diablo 4 players can have their chores taken care of during the open beta weekend. Need your house power washed? Have Ikea furniture ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-wants-you-to-play-diablo-4-so-badly-that-it-ll-powerwash-your-house/ar-AA18UQ7R",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-wants-you-to-play-diablo-4-so-badly-that-it-ll-powerwash-your-house/ar-AA18UQ7R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UCl1.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T07:10:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-diablo-4-open-beta-adding-2-more-classes-to-the-mix.md",
       "title": "Diablo 4 Open Beta Adding 2 More Classes to the Mix",
       "excerpt": "Diablo 4 is adding two classes to the available roster for its upcoming open beta, giving those who played the early access a reason to return.",
@@ -1057,99 +1150,6 @@
         "name": "vg247",
         "domain": "vg247.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-diablo-4-who-is-the-angel-inarius.md",
-      "title": "Diablo 4: Who is the Angel Inarius?",
-      "excerpt": "The Angel Inarius looks to be making his debut in Diablo 4, but will he be a friend or a foe to the player character?",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-diablo-4-who-is-the-angel-inarius/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/diablo-4-who-is-the-angel-inarius-2091032/",
-      "originalUrl": "https://www.dexerto.com/diablo/diablo-4-who-is-the-angel-inarius-2091032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2023/03/20/diablo-4-editions-pre-order-bonuses-e1679318341761.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-so-what-was-bad-about-the-diablo-4-beta.md",
-      "title": "So, What Was Bad About The ‘Diablo 4’ Beta?",
-      "excerpt": "There seems to be some sort of bad memory leak issue in certain instances that can really become problematic in time, if not kill the game outright. On top of that, even without running out of memory ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-so-what-was-bad-about-the-diablo-4-beta/index.json",
-      "webUrl": "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6416686c3560f7351e7ffb6e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/03/20/so-what-was-bad-about-the-diablo-4-beta/amp/",
-      "publishedDateTime": "2023-03-19T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

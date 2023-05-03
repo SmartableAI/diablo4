@@ -2,6 +2,99 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-24-you-can-play-diablo-4-right-now-if-you-do-this.md",
+      "title": "You Can Play Diablo 4 Right Now, if You Do This",
+      "excerpt": "Diablo 4, the latest installment of the popular dungeon crawler, comes out in June, but players can try out some of the game in an open beta that starts Friday. The Diablo 4 open beta is the second ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-you-can-play-diablo-4-right-now-if-you-do-this/index.json",
+      "webUrl": "https://www.cnet.com/tech/gaming/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "originalUrl": "https://www.cnet.com/tech/gaming/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/90ce3246beac7bb59068316e528235cb51411db0/hub/2022/12/07/9509de80-c045-4bae-804a-de50725bba94/igcshowcase-lilith-elias-01.png?auto=webp&fit=crop&height=630&precrop=1920,975,x0,y0&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/you-can-play-diablo-4-right-now-if-you-do-this/",
+      "publishedDateTime": "2023-03-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-diablo-4-beta-drop-rates-arent-what-well-see-at-launch.md",
+      "title": "Diablo 4 beta drop rates aren’t what we’ll see at launch",
+      "excerpt": "If you’ve been swamped in legendaries during the Diablo 4 beta, don’t worry, Blizzard has confirmed that the loot you’re receiving during the Diablo 4 testing phase will not be as readily available ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-beta-drop-rates-arent-what-well-see-at-launch/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/beta-drop-rates-increased",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-drop-rates-increased",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/03/diablo-4-beta-drop-rates-items.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-when-does-the-diablo-4-open-beta-start-and-end.md",
       "title": "When does the Diablo 4 open beta start and end?",
       "excerpt": "The official release of Diablo 4 on June 6 is still a few months away, but players will be able to preview the battle against Lilith’s minions during two open beta weekends in March. Now we’re onto ...",
@@ -1055,99 +1148,6 @@
       "provider": {
         "name": "VideoGamer.com",
         "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-diablo-4-rogue-build-guide.md",
-      "title": "Diablo 4 - Rogue Build Guide",
-      "excerpt": "Because of the Rogue's versatility in Diablo 4, many players are puzzled as to how to properly build out their character. In this guide, we will be going over our recommended build guide for the Rogue ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-rogue-build-guide/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-rogue-build-guide/1100-6512551/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-rogue-build-guide/1100-6512551/",
-      "publishedDateTime": "2023-03-21T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house.md",
-      "title": "Blizzard wants you to play Diablo 4 so badly that it’ll powerwash your house",
-      "excerpt": "Blizzard and Thumbtack are giving away $20,000 in services so that Diablo 4 players can have their chores taken care of during the open beta weekend. Need your house power washed? Have Ikea furniture ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-blizzard-wants-you-to-play-diablo-4-so-badly-that-itll-powerwash-your-house/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-wants-you-to-play-diablo-4-so-badly-that-it-ll-powerwash-your-house/ar-AA18UQ7R",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-wants-you-to-play-diablo-4-so-badly-that-it-ll-powerwash-your-house/ar-AA18UQ7R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UCl1.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T07:10:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Polygon on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

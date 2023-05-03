@@ -2,6 +2,90 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-14-diablo-4-battle-pass-explained-cost-rewards-how-long-to-complete.md",
+      "title": "Diablo 4 Battle Pass explained: cost, rewards, how long to complete",
+      "excerpt": "The Diablo 4 Battle Pass is a one of the game's new additions to the long running series, and we have the rundown on what you can expect from its debut in the new title. Thanks to some recent comments from within Blizzard, we're starting to learn more and",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-battle-pass-explained-cost-rewards-how-long-to-complete/index.json",
+      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779",
+      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/gaming/article29703621.ece/ALTERNATES/s1200/0_YFofpuCM3oV2Ucz6pGxhec.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-battle-pass-explained-29702779.amp",
+      "publishedDateTime": "2023-04-13T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer.md",
+      "title": "New Diablo 4 Trailer Is All About the Sorcerer",
+      "excerpt": "Blizzard Entertainment released a new trailer of its upcoming RPG Diablo 4, focusing on one of the playable classes available in the game, the sorcerer.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer/index.json",
+      "webUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "originalUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2023-04/Diablo%204%20Sorcerer.jpg?itok=d6rpcEQ9",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRaptor",
+        "domain": "techraptor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-diablo-4-is-no-mmo-youll-be-blowing-up-screens-of-monsters.md",
       "title": "Diablo 4 is no MMO – you’ll be “blowing up screens of monsters”",
       "excerpt": "If the Diablo 4 endgame video didn’t get you excited for Blizzard’s upcoming action RPG game, then I don’t know what will. There’s fearsome world bosses, all-new Nightmare Dungeons, a tree made of literal faces – take your pick, Sanctuary has it",
@@ -983,99 +1067,6 @@
       "provider": {
         "name": "NME",
         "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta.md",
-      "title": "Blizzard Reveals The Most Popular ‘Diablo 4’ Classes From The Open Beta",
-      "excerpt": "Blizzard has revealed some key statistics about the Diablo IV open beta that just took place this past weekend. Here are the most popular classes and a truly staggering number of player and monster ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/index.json",
-      "webUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
-      "originalUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641cc1c1602b6ac0f28a9f01/0x0.jpg?format=jpg&width=1200",
-          "width": 920,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erikkain/2023/03/30/blizzard-reveals-the-most-popular-diablo-4-classes-from-the-open-beta/amp/",
-      "publishedDateTime": "2023-03-30T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news.md",
-      "title": "Get Ready! Diablo 4 Just Got An Important Announcement, End Game Dev Update & More (Diablo 4 News)",
-      "excerpt": "The Kingdom of Camelot is waiting for your arrival—check out the King Arthur: Legends Rise Open Beta here: ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-03-30-get-ready-diablo-4-just-got-an-important-announcement-end-game-dev-update-more-diablo-4-news/",
-      "originalUrl": "https://youtube.com/watch?v=vxcEC3yK8W4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxcEC3yK8W4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T07:45:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KhrazeGaming",
-        "domain": "youtube.com",
         "images": null,
         "publishers": null,
         "authors": null

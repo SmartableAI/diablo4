@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-25-diablo-4-reveals-how-to-unlock-mounts.md",
+      "title": "Diablo 4 Reveals How to Unlock Mounts",
+      "excerpt": "Diablo 4 reveals how players can unlock the ability to acquire, ride, and customize mounts on all of their characters to ease travel across Sanctuary.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-reveals-how-to-unlock-mounts/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-reveals-how-to-unlock-mounts/ar-AA1akoVp",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-reveals-how-to-unlock-mounts/ar-AA1akoVp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akz02.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T04:59:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-druid-wont-changing-anytime-soon-despite-backlash.md",
+      "title": "Diablo 4 Druid won’t changing anytime soon despite backlash",
+      "excerpt": "Blizzard has confirmed that the Diablo 4 Druid model will not be changing anytime soon, as player sentiment towards the action RPG game’s class divides players.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-druid-wont-changing-anytime-soon-despite-backlash/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/druid-model-not-changing",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/druid-model-not-changing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-druid-model-not-changing.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4-players-wont-need-to-rely-on-gear-sets-for-builds.md",
       "title": "Diablo 4 Players Won't Need to Rely on Gear Sets for Builds",
       "excerpt": "Diablo 4's Lead Class Designer Adam Jackson talks about why the developers decided to shelve the gear set concept for the series' latest entry.",
@@ -1001,99 +1086,6 @@
         "name": "Asmongold Clips",
         "domain": "youtube.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-did-diablo-4-really-just-announce-this-.md",
-      "title": "Did Diablo 4 REALLY just announce THIS?! 👀",
-      "excerpt": "Did Diablo 4 REALLY just announce THIS?! ➽➽➽➽➽ ABOUT ME ➽➽➽➽➽ My name is Sebastian aka TheGameSensei ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-20-did-diablo-4-really-just-announce-this-/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-20-did-diablo-4-really-just-announce-this-/",
-      "originalUrl": "https://youtube.com/watch?v=9ogpVyXLlPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ogpVyXLlPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T01:51:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The GameSensei",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-your-guide-to-diablo-ivs-gameplay.md",
-      "title": "Your guide to Diablo IV’s gameplay",
-      "excerpt": "Learn a few tips and tricks to help you prepare to fight for the fate of the world.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-your-guide-to-diablo-ivs-gameplay/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,90 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-09-07-will-diablo-4-be-free-to-play.md",
+      "title": "Will Diablo 4 be free to play?",
+      "excerpt": "The community has been getting more and more details about Diablo 4 as the game's expected 2023 launch nears. The August news drop from Blizzard elaborated ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-07-will-diablo-4-be-free-to-play/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/09/07/diablo-4-free-to-play/",
+      "originalUrl": "https://blizzardwatch.com/2022/09/07/diablo-4-free-to-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2020/07/diablo-4-header-campfire.jpg",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms.md",
+      "title": "Path of Exile devs hope to appease frustrated fans as Diablo 4 looms",
+      "excerpt": "Path of Exile devs take steps to appease frustrated fans as Diablo 4 approaches after several recent updates to the fantasy ARPG game leave the community upset ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-09-04-path-of-exile-devs-hope-to-appease-frustrated-fans-as-diablo-4-looms/index.json",
+      "webUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
+      "originalUrl": "https://www.pcgamesn.com/path-of-exile/devs-frustrated-fans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2022/09/path-of-exile-devs-community-lake-of-kalandra-diablo-4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-what-are-the-best-aspects-of-season-play-that-diablo-4-should-make-sure-to-borrow-from-diablo-3.md",
       "title": "What are the best aspects of Season play that Diablo 4 should make sure to borrow from Diablo 3?",
       "excerpt": "Diablo 4 will have Seasons, iterating on the Ladder Seasons from Diablo 2 and the Seasons of Diablo 3. Because it's a new game, there will obviously be dif ...",
@@ -1001,99 +1085,6 @@
         "name": "svg",
         "domain": "svg.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-diablo-4-report-shares-promising-development-update.md",
-      "title": "Diablo 4 Report Shares Promising Development Update",
-      "excerpt": "According to Bloomberg reporter Jason Schreier, Diablo 4 has recently entered a \"friends-and-family\" phase of testing. Essentially, this means that people outside of Blizzard who are tied to the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-04-diablo-4-report-shares-promising-development-update/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
-      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-iv-alpha-release-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2022/06/01/0b6fca04-3b79-4cea-bbe2-0727f3c19279/pokemon-scarlet-violet.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-iv-alpha-release-report/",
-      "publishedDateTime": "2022-08-04T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway.md",
-      "title": "A Diablo 4 ‘friends-and-family alpha test’ is reportedly underway",
-      "excerpt": "The report comes from Bloomberg’s Jason Schreier who wrote on Twitter that a “fun but minor Blizzard tidbit” he’s heard is that “a bunch of people are playing an early build of Diablo 4 right now ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-08-03-a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway/index.json",
-      "webUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
-      "originalUrl": "https://www.techradar.com/news/a-diablo-4-friends-and-family-alpha-test-is-reportedly-underway",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p7aGPLHWytb4MBtMhqKgcS-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
