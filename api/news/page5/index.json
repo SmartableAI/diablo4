@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-30-diablo-4-open-beta-preview-a-promising-glimpse-of-whats-to-come.md",
+      "title": "Diablo 4 Open Beta Preview: A Promising Glimpse Of What's To Come",
+      "excerpt": "The \"Diablo 4\" open beta offered just a sample platter of our character's story, but judging by it, the full game will be a feast worthy of the franchise's name. The latest installment of Blizzard's ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-open-beta-preview-a-promising-glimpse-of-whats-to-come/index.json",
+      "webUrl": "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-open-beta-preview-a-promising-glimpse-of-what-s-to-come/ar-AA19bYLm",
+      "originalUrl": "https://www.msn.com/en-sg/entertainment/gaming/diablo-4-open-beta-preview-a-promising-glimpse-of-what-s-to-come/ar-AA19bYLm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19bWkR.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says.md",
+      "title": "Diablo 4 beta players can expect ‘lengthy queue times,’ Blizzard says",
+      "excerpt": "Anyone who remembers the Diablo 3 launch back in the spring of 2012 — or played last weekend’s early access beta for Diablo 4 — won’t be shocked to hear this, but Blizzard Entertainment is telling ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-30-diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/index.json",
+      "webUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK",
+      "originalUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-beta-players-can-expect-lengthy-queue-times-blizzard-says/ar-AA18ZYUK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18ZUrm.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-30T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-30-blizzard-will-address-diablo-4-beta-feedback-in-a-couple-of-weeks.md",
       "title": "Blizzard will address ‘Diablo 4’ beta feedback “in a couple of weeks”",
       "excerpt": "Following two weekends of Diablo 4 betas, series manager Rod Fergusson has confirmed that Blizzard Entertainment will address players’ feedback soon. Taking to Twitter (via Gamesradar), Fergusson said ...",
@@ -983,99 +1067,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-player-basically-solos-world-boss-ashava.md",
-      "title": "Diablo 4 Player (Basically) Solos World Boss Ashava",
-      "excerpt": "It's too dangerous to face World Bosses in Diablo 4 alone, but not for wudjio. The Twitch streamer and YouTuber managed to solo Ashava in Hardcore Mode — not once but twice. The content creator shared ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-player-basically-solos-world-boss-ashava/index.json",
-      "webUrl": "https://www.ign.com/articles/diablo-4-player-basically-solos-world-boss-ashava",
-      "originalUrl": "https://www.ign.com/articles/diablo-4-player-basically-solos-world-boss-ashava",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-prd.ignimgs.com/2023/03/22/diablo4-ashava-blogroll-1679520346687.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-best-class-to-play-solo.md",
-      "title": "Diablo 4: Best Class to Play Solo",
-      "excerpt": "Diablo 4 is finally upon us, and players have been diving in to start mowing down hordes of demonic terrors with their friends. Diablo 4 is–as its predecessors were–well-optimized for co-op play. The ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-best-class-to-play-solo/index.json",
-      "webUrl": "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A",
-      "originalUrl": "https://www.msn.com/pt-br/entretenimento/other/diablo-4-best-class-to-play-solo/ar-AA196p8A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA190b99.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

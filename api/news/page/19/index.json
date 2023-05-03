@@ -2,6 +2,90 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more.md",
+      "title": "Blizzard Explains Diablo 4 Skill Trees and More",
+      "excerpt": "Blizzard's developers reveal important gameplay information about the upcoming Diablo 4's character skills, progression, and more.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-07-blizzard-explains-diablo-4-skill-trees-and-more/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-explains-diablo-4-skill-trees-and-more/ar-AA13ON4v",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-explains-diablo-4-skill-trees-and-more/ar-AA13ON4v",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13P6i0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=515&y=108",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-06T16:58:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments.md",
+      "title": "Diablo 4 announcement canceled. - Hearthstone Moments",
+      "excerpt": "Hearthstone Best Moments! Streamed 2018-11-07 - 2018-11-07. Remember to like and subscribe! Join my discord: ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2022-11-06-diablo-4-announcement-canceled-hearthstone-moments/",
+      "originalUrl": "https://youtube.com/watch?v=opNgV94aw3A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/opNgV94aw3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-06T11:49:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoalai - Warcraft",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-11-06-seems-the-diablo-4-release-date-could-be-a-lot-closer-than-we-expected.md",
       "title": "Seems The Diablo 4 Release Date Could Be A Lot Closer Than We Expected",
       "excerpt": "Another pull from the Activision Blizzard rumour mill this morning: it seems Blizzard could be preparing Diablo 4 for launch in April 2023. The current thinking is that, if Blizzard has anything to ...",
@@ -992,90 +1076,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers.md",
-      "title": "Everything you need to know about Diablo 4: Story, classes and trailers",
-      "excerpt": "Explainer Provides context or background, definition and detail on a specific topic. (Pocket-lint) - Diablo 4 is on the way - there's plenty more hacking and slashing to be had, it looks like.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-everything-you-need-to-know-about-diablo-4-story-classes-and-trailers/index.json",
-      "webUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
-      "originalUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/149976-games-feature-diablo-4-release-date-formats-screens-trailers-deals-and-all-you-need-to-know-image1-ezipok3a0x.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/games/news/blizzard/149976-diablo-4-release-date-formats-pre-order-deals-screens-trailers-and-all-you-need-to-know.amphtml",
-      "publishedDateTime": "2022-10-01T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg.md",
-      "title": "Diablo 4 skills are tied to weapon damage in Blizzard RPG",
-      "excerpt": "A video showing that Diablo 4 skills are tied to weapon damage in the Blizzard ARPG game has fans discussing the benefits of the Diablo 3 vs Diablo 2 systems ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-10-01-diablo-4-skills-are-tied-to-weapon-damage-in-blizzard-rpg/index.json",
-      "webUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
-      "originalUrl": "https://www.pcgamesn.com/diablo-4/skills-best",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/diablo-4-skills-tied-weapon-dps-necromancer-blizzard-rpg.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

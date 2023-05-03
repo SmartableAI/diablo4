@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-26-diablo-4s-mounts-are-only-available-once-youve-beaten-the-campaign.md",
+      "title": "Diablo 4's mounts are only available once you've beaten the campaign",
+      "excerpt": "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. As revealed in a new Blizzard blog (thanks, WowHead), you'll need to finish Diablo 4's main campaign to ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-26-diablo-4s-mounts-are-only-available-once-youve-beaten-the-campaign/index.json",
+      "webUrl": "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html",
+      "originalUrl": "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/KsS3EofnxiMnyxueSsqm4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d23b6956a6654889a531db8ed508f63c",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "yahoo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game.md",
+      "title": "Diablo 4 reveals all the minimum and recommended specs for the game",
+      "excerpt": "Blizzard has just revealed all of the required specs to play Diablo IV on PC, which are different for the final release than in the previous betas.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game/index.json",
+      "webUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/",
+      "originalUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.asmedia.epimg.net/resizer/LqQcat7dmr7JWIKKjsvdEYqZEYk=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TJDHNECP25A5BCFEGEZYYXGBFY.jpg",
+          "width": 644,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/?outputType=amp",
+      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/?outputType=amp",
+      "publishedDateTime": "2023-04-25T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "as.com",
+        "domain": "as.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-diablo-4-reveals-how-to-unlock-mounts.md",
       "title": "Diablo 4 Reveals How to Unlock Mounts",
       "excerpt": "Diablo 4 reveals how players can unlock the ability to acquire, ride, and customize mounts on all of their characters to ease travel across Sanctuary.",
@@ -1002,90 +1086,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-diablo-4-secret-announcement-reveal-huge-news-for-fans-new-players.md",
-      "title": "Diablo 4 Secret Announcement REVEAL! HUGE News for FANS & NEW Players!",
-      "excerpt": "The Diablo 4 Dev Team has a secret announcement and HUGE news to share about Diablo 4. Don't miss this Diablo IV video ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-secret-announcement-reveal-huge-news-for-fans-new-players/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-21-diablo-4-secret-announcement-reveal-huge-news-for-fans-new-players/",
-      "originalUrl": "https://youtube.com/watch?v=2GtGrIahxC8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2GtGrIahxC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T14:20:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oxford King",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-diablo-4-announces-final-open-beta-for-next-month-check-out-the-details.md",
-      "title": "Diablo 4 Announces Final Open Beta for Next Month; Check out the Details!",
-      "excerpt": "Last month's Diablo 4 open beta from Blizzard Entertainment gave everyone a bite-sized taste of what to expect from the full game. With everyone getting ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-21-diablo-4-announces-final-open-beta-for-next-month-check-out-the-details/index.json",
-      "webUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/",
-      "originalUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2023/04/Lilith-Diablo-4-Class.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/diablo-4-final-open-beta-next-month/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/diablo-4-final-open-beta-next-month/amp/",
-      "publishedDateTime": "2023-04-20T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

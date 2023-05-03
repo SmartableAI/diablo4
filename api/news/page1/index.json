@@ -10,7 +10,7 @@
       "originalUrl": "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,90 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week.md",
+      "title": "Blizzard detailing Diablo 4's seasons, battle pass, and cosmetics next week",
+      "excerpt": "Blizzard will be sharing more details on Diablo 4's live-service trappings as part of a newly announced Developer ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-03-blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week/index.json",
+      "webUrl": "https://www.eurogamer.net/blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week",
+      "originalUrl": "https://www.eurogamer.net/blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsio.reedpopcdn.com/Diablo-4-beta-release-dates%2C-how-to-access-closed-and-open-beta-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eurogamer",
+        "domain": "eurogamer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-diablo-4-shows-off-more-mounts.md",
+      "title": "Diablo 4 Shows Off More Mounts",
+      "excerpt": "The Diablo 4 team gives a first look at an assortment of new mounts, a key feature of traversal in the hotly anticipated action RPG.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-03-diablo-4-shows-off-more-mounts/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-more-mounts/ar-AA1aHsp2",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-shows-off-more-mounts/ar-AA1aHsp2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aHe7V.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T07:50:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1020,90 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-diablo-4s-mounts-are-only-available-once-youve-beaten-the-campaign.md",
-      "title": "Diablo 4's mounts are only available once you've beaten the campaign",
-      "excerpt": "You'll need to beat Diablo 4's campaign once in order to unlock mounts for your characters. As revealed in a new Blizzard blog (thanks, WowHead), you'll need to finish Diablo 4's main campaign to ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-26-diablo-4s-mounts-are-only-available-once-youve-beaten-the-campaign/index.json",
-      "webUrl": "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html",
-      "originalUrl": "https://news.yahoo.com/diablo-4s-mounts-only-available-101307216.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/KsS3EofnxiMnyxueSsqm4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/d23b6956a6654889a531db8ed508f63c",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T20:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "yahoo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game.md",
-      "title": "Diablo 4 reveals all the minimum and recommended specs for the game",
-      "excerpt": "Blizzard has just revealed all of the required specs to play Diablo IV on PC, which are different for the final release than in the previous betas.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game/index.json",
-      "webUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/",
-      "originalUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.asmedia.epimg.net/resizer/LqQcat7dmr7JWIKKjsvdEYqZEYk=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TJDHNECP25A5BCFEGEZYYXGBFY.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/?outputType=amp",
-      "cdnAmpWebUrl": "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/meristation/news/diablo-4-reveals-all-the-minimum-and-recommended-specs-for-the-game-n/?outputType=amp",
-      "publishedDateTime": "2023-04-25T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "as.com",
-        "domain": "as.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

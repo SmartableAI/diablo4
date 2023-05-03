@@ -2,6 +2,99 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected.md",
+      "title": "Diablo 4 Devs Explain Why the Necromancer Class Is Appearing Sooner Than Anyone Expected",
+      "excerpt": "Diablo 4 developers Joe Shely and Rod Fergusson go in-depth on the Necromancer, the fifth and final class in Blizzard's upcoming dungeon crawler.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-diablo-4-devs-explain-why-the-necromancer-class-is-appearing-sooner-than-anyone-expected/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-necromancer-blizzard-summer-of-gaming-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/06/14/diabloiv-necromancer-blogroll-1655180489432.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-when-is-the-diablo-4-release-date-sometime-in-2023.md",
+      "title": "When is the Diablo 4 release date? Sometime in 2023",
+      "excerpt": "We once thought we would be playing Diablo 4 by 2022. But after an announcement at this summer's Xbox Games Showcase, we know that Diablo 4 is coming in 20 ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-14-when-is-the-diablo-4-release-date-sometime-in-2023/index.json",
+      "webUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-release-date/",
+      "originalUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-release-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.blizzardwatch.com/wp-content/uploads/2018/11/DiabloImmortalFace.jpg",
+          "width": 675,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blizzardwatch.com/2022/06/14/diablo-4-release-date/amp/",
+      "cdnAmpWebUrl": "https://blizzardwatch-com.cdn.ampproject.org/c/s/blizzardwatch.com/2022/06/14/diablo-4-release-date/amp/",
+      "publishedDateTime": "2022-06-13T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard Watch",
+        "domain": "blizzardwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-diablo-4-will-let-necromancers-customise-their-armies.md",
       "title": "‘Diablo 4’ will let Necromancers customise their armies",
       "excerpt": "Following its announcement for Diablo 4 at the Xbox and Bethesda Showcase event, the Necromancer has received a more in-depth look at how the class will work. The Necromancer will use two different ...",
@@ -1054,90 +1147,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4.md",
-      "title": "10 games like Diablo to play if you're bored of waiting for Diablo 4",
-      "excerpt": "Here are the 10 best games like Diablo that you really should play, especially if you're getting a little bored of waiting for Diablo 4 to release. While Diablo Immortal for mobile and PC certainly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-06-01-10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4/index.json",
-      "webUrl": "https://www.msn.com/en-gb/finance/technology/10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4/ar-AAXYAEY",
-      "originalUrl": "https://www.msn.com/en-gb/finance/technology/10-games-like-diablo-to-play-if-youre-bored-of-waiting-for-diablo-4/ar-AAXYAEY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAXYDyA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T04:41:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar on MSN.com",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard.md",
-      "title": "Diablo 4 Opens Up about Development Updates From Blizzard",
-      "excerpt": "Blizzard Entertainment comes with such exciting updates for the fans of Diablo 4 based on the current status of the new update on the current development of Diablo 4. After the announcement all way ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-04-27-diablo-4-opens-up-about-development-updates-from-blizzard/index.json",
-      "webUrl": "https://technosports.co.in/2022/04/27/diablo-4-blizzard/",
-      "originalUrl": "https://technosports.co.in/2022/04/27/diablo-4-blizzard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technosports.co.in/wp-content/uploads/2022/04/d4.png",
-          "width": 880,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
         "images": null,
         "publishers": null,
         "authors": null

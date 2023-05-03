@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-ne
 webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 87
     images:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "New Diablo 4 livestream will detail seasons, cosmetics and Battle Pass"
+    excerpt: "Diablo 4‘s seasons will consist of a Battle Pass that will take around 80 hours to clear, and story content that isn’t at the level of a fully fledged new campaign, it was recently confirmed. Each ..."
+    publishedDateTime: 2023-05-03T13:48:00Z
+    webUrl: "https://www.videogameschronicle.com/news/new-diablo-4-livestream-will-detail-seasons-cosmetics-and-battle-pass/"
+    type: article
+    provider:
+      name: Video Games Chronicle
+      domain: videogameschronicle.com
+    quality: 87
+    images:
+      - url: "https://www.videogameschronicle.com/files/2023/03/diablo-4-h.jpg"
         width: 1920
         height: 1080
         isCached: true
