@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4: Are We Getting A New BETA Weekend? The Secret Announcement Is REVEALED!"
+    excerpt: "Today we have More Huge News! The Secret Announcment that was supposed to be made tomorrow during the live stream!"
+    publishedDateTime: 2023-04-20T01:51:13Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Karpo Gaming
+      domain: youtube.com
+    quality: 132
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Diablo 4 Might Not Be For New Players"
     excerpt: "Diablo 4 is one of the most anticipated games of the year, and with good reason. Diablo is in a class of games like Rogue, Doom, Myst, Pokemon, Metroid, and Castlevania where it has become so ..."
     publishedDateTime: 2023-04-17T09:43:00Z

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Diablo 4: Are We Getting A New BETA Weekend? The Secret Announcement Is REVEALED!"
+    excerpt: "Today we have More Huge News! The Secret Announcment that was supposed to be made tomorrow during the live stream!"
+    publishedDateTime: 2023-04-20T01:51:13Z
+    webUrl: ""
+    type: video
+    provider:
+      name: Karpo Gaming
+      domain: youtube.com
+    quality: 132
+    images:
+      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SECRET REVEAL in Diablo 4 teased by the Devs! | All the latest news & announcements"
     excerpt: "A huge secret announcement in Diablo 4 is right around the corner and the Devs are teasing it. We've also got news on the ..."
     publishedDateTime: 2023-04-19T11:56:57Z
