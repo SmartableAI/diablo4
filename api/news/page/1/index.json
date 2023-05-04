@@ -44,6 +44,48 @@
       ]
     },
     {
+      "path": "_news/2023-05-04-diablo-4s-biggest-unknown-is-about-to-get-some-answers.md",
+      "title": "Diablo 4’s biggest unknown is about to get some answers",
+      "excerpt": "The Diablo 4 team will detail how microtransactions, seasons, cosmetics, and the battle pass will work in the upcoming Blizzard RPG in a livestream next week.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-04-diablo-4s-biggest-unknown-is-about-to-get-some-answers/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/seasons",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/seasons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/05/diablo-4-seasons-microtransactions-battle-pass-cosmetics-blizzard-livestream.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-blizzard-says-diablo-4s-respec-costs-are-final.md",
       "title": "Blizzard says Diablo 4's respec costs \"are final\"",
       "excerpt": "Diablo 4's respec costs aren't changing before launch, Blizzard has confirmed. In a recent roundtable interview GamesRadar+ attended, Diablo 4 associate game director Joseph Piepiora responded to ...",
@@ -1043,48 +1085,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services.md",
-      "title": "Maximizing Your Diablo 4 Gameplay: The Advantages of D4 Leveling and D4 Boost Services",
-      "excerpt": "In the fast-paced, highly competitive realm of online gaming, keeping up with the escalating demands of character progression and obtaining top-tier equipment can be a daunting task. With countless ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services/index.json",
-      "webUrl": "https://techbullion.com/maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services/",
-      "originalUrl": "https://techbullion.com/maximizing-your-diablo-4-gameplay-the-advantages-of-d4-leveling-and-d4-boost-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/04/unnamed-49.png",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
