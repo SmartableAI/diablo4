@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-cha
 webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 reveals beta feedback changes coming at release, here's the full list"
-    excerpt: "Diablo 4 developer Blizzard has revealed the changes it's making to the game now that the betas have concluded and fans have given their feedback. These tweaks will be live when Diablo 4 launches on ..."
-    publishedDateTime: 2023-04-14T18:09:00Z
-    webUrl: "https://www.msn.com/en-gb/money/technology/diablo-4-reveals-beta-feedback-changes-coming-at-release-heres-the-full-list/ar-AA19SO3w"
-    type: article
-    provider:
-      name: Windows Central on MSN
-      domain: msn.com
-    quality: 83
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19SEF2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Blizzard applying some major changes to Diablo 4 based on feedback from the betas"
     excerpt: "Blizzard has implemented a variety of fixes, and updates, to Diablo 4 since the beta weekends were held. The studio said the changes were made due to reviewing player feedback and gameplay data. The ..."
     publishedDateTime: 2023-04-15T08:50:00Z

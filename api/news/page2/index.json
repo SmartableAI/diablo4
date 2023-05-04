@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-pc-gamer-uk-june-issue-on-sale-now-diablo-4.md",
+      "title": "PC Gamer UK June issue on sale now: Diablo 4",
+      "excerpt": "PC Gamer journeys into hell to go hands-on with the much-anticipated AAA action RPG Diablo 4 (opens in new tab). Diablo is the mother of all action RPGs, so its return with a really mature, darker new vibe and look promises to be one of the PC gaming even",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-pc-gamer-uk-june-issue-on-sale-now-diablo-4/index.json",
+      "webUrl": "https://www.pcgamer.com/pc-gamer-uk-june-issue-on-sale-now-diablo-4/",
+      "originalUrl": "https://www.pcgamer.com/pc-gamer-uk-june-issue-on-sale-now-diablo-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jWFaStivx8rxyB9J8gdPi7-1200-80.jpg",
+          "width": 800,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know.md",
       "title": "Diablo 4 Server Slam Beta: Start Date, Rewards, Class Changes, And Everything We Know",
       "excerpt": "Here's when you can get into the Diablo 4 Server Slam and see how the game has changed ahead of its full launch.",
@@ -1043,48 +1094,6 @@
       "provider": {
         "name": "vg247",
         "domain": "vg247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving.md",
-      "title": "Diablo 4 Hardcore PvP Sounds Absolutely Brutal and Unforgiving",
-      "excerpt": "Blizzard reveals a new detail about PvP in Diablo 4 that will make the game's Hardcore mode that much more brutal.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-22-diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/ar-AA1acySJ",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-hardcore-pvp-sounds-absolutely-brutal-and-unforgiving/ar-AA1acySJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1acpa2.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=523&y=318",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-22T05:36:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
