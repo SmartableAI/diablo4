@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/15/the-classes-diablo-4-is-buffing-and-nerfing-for-launch-after-the-betas/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://assetsio.reedpopcdn.com/lillith_diablo4_Iuoem5t.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Diablo 4 is getting major changes based on beta feedback: classes, dungeons, UI, and more"
-    excerpt: "Blizzard has revealed a list of changes coming to Diablo 4 ahead of launch, following feedback from its two recent beta weekends. The Diablo 4 devs have been clear that the two betas were primarily ..."
-    publishedDateTime: 2023-04-14T11:25:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-getting-major-changes-based-on-beta-feedback-classes-dungeons-ui-and-more/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 78
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/r7ir9GfRs7wsEqvwsNdeAg-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "MX6SsFrpeVybnaS5g+Ed5FqpW6uH0thA7+m0u1+bvsjDn4DEabYKAyMu44iBx1Ut7lkeKi3ymhAVaqAty0ZkLIjs48Vn4aza5iIyxFdthgrc5smKm4GDjevfwMOYGixtmne5N9xcfJT98x6RcnpsNYWQVe8n6O2hqMEfkWLelXP4rwFulfZJQl/1UUH26Oo87ncyc3O6IvsaEFvGHpI9OmWa5zja/hQ/ngbVgit5iPjaSBlh+gGy0ixvjQ4eL/3EcMzp0jUCujn8u2jgOH25JE4BhcLNft4y9pMwyZ922shQW3I4X0A5ksrqU4spoSa7YhylUAqXAbsLeDW9z4M4NZL1bk/lDG6N8FudvgR0ka4=;beaDWHLAGBolEEI6gK+UKg=="

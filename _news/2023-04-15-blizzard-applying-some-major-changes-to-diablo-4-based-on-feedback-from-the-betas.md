@@ -38,36 +38,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Diablo 4's Dungeons Are Becoming Less Repetitive And Tedious Thanks To Beta Feedback"
-    excerpt: "GameSpot may get a commission from retail offers. Diablo IV's dungeons will be undergoing some big changes in the final version of the game to be less tedious and repetitive, thanks to player feedback ..."
-    publishedDateTime: 2023-04-14T11:14:00Z
-    webUrl: "https://www.gamespot.com/articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-dungeons-are-becoming-less-repetitive-and-tedious-thanks-to-beta-feedback/1100-6513284/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 140
-    images:
-      - url: "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4122220-11.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Diablo 4: Blizzard Is Making a Ton of Changes Based on Player Feedback"
-    excerpt: "Blizzard is making a ton of changes to Diablo 4 based on feedback provided by players who participated in its two betas. Combining this feedback with actual gameplay data allowed Blizzard to review ..."
-    publishedDateTime: 2023-04-14T11:07:00Z
-    webUrl: "https://in.ign.com/diablo-iv/182388/news/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player-feedback"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://sm.ign.com/t/ign_in/news/d/diablo-4-b/diablo-4-blizzard-is-making-a-ton-of-changes-based-on-player_z7d4.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Class Changes Revealed After Beta Feedback"
     excerpt: "Diablo 4 players expectedly had a lot to say about the game after spending time with the open beta, and a lot of those conversations dealt with how the game's various classes felt. The Barbarian, ..."
     publishedDateTime: 2023-04-14T12:45:00Z

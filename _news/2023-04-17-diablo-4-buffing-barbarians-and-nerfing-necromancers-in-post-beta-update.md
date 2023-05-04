@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diablo 4 is getting major changes based on beta feedback: classes, dungeons, UI, and more"
-    excerpt: "Blizzard has revealed a list of changes coming to Diablo 4 ahead of launch, following feedback from its two recent beta weekends. The Diablo 4 devs have been clear that the two betas were primarily ..."
-    publishedDateTime: 2023-04-14T11:25:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-is-getting-major-changes-based-on-beta-feedback-classes-dungeons-ui-and-more/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 78
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/r7ir9GfRs7wsEqvwsNdeAg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "fXR1G/w/Sh7n6FBwlCYl9TcYNNY88cVMtoQRvoD1KoiMmow1g/0lagclyQvQDfpUgXjeu/FcC2HlrdNO+1GCaS5fiYF1gVmpg+wZ4WQnZxZ0j2CXGXTasi7yNPN2Fl/ZyEzydB54qNK7J7KPsKcSu0JlnGgfyI91HuI0AOSSJfnr8yUoy5BkliK9bk+vW09DUyF3O9cF7lUir4AuTrIZ7TQmqxt0NdDVGjONg9VT4XwUahupqXMCyyKUgOEZnfOjMlP450/ktqYtZSoFxEA8Eonz5XQovjWNCCvcV2IDIyZp4GoQL3F3WKJXBPsByAK/RYpN4FfpFDifoTlWEeRP3uCCHMYHei0FbQ1be0JYmXQ=;3LX4DWO7VTTMxriRR8YEUw=="
 ---
