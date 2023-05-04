@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Open Beta Retrospective: Transforming Feedback into Change"
-    excerpt: "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!"
-    publishedDateTime: 2023-04-14T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Diablo 4 Reveals Changes Based on Beta Feedback"
     excerpt: "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta."
     publishedDateTime: 2023-04-14T23:04:00Z

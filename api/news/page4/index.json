@@ -2,6 +2,150 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer.md",
+      "title": "Diablo 4 receives major updates ahead of launch including massive nerf to Necromancer",
+      "excerpt": "Diablo 4 has received a set of major tweaks ahead of its launch date, including a significant update to the popular Necromancer class.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer/index.json",
+      "webUrl": "https://www.videogamer.com/news/diablo-4-receives-major-updates-ahead-of-launch/",
+      "originalUrl": "https://www.videogamer.com/news/diablo-4-receives-major-updates-ahead-of-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june.md",
+      "title": "Diablo 4 dungeons won't waste your time with boring objectives and dead ends when it launches this June",
+      "excerpt": "If there was one prominent criticism of Diablo 4's beta, it was the lack of dungeon variety and the monotony of the objectives within them. Blizzard published a blog post today that looks a lot like patch notes for Diablo 4's June 6 release.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LSHudwL9hyAmZAZqmk3GTK-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change.md",
+      "title": "Diablo IV Open Beta Retrospective: Transforming Feedback into Change",
+      "excerpt": "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png",
+          "width": 880,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4.md",
       "title": "I've played over 2,500 hours of Path of Exile, and these are my biggest concerns about Diablo 4",
       "excerpt": "Diablo 3 has gotten better since its disastrous launch (opens in new tab), but for the serious lover of the genre, PoE has been the top dog for years now. Now that Blizzard, with",
@@ -942,141 +1086,6 @@
         "name": "MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio.md",
-      "title": "World boss Ashava dominates Diablo 4 beta with 10 million player kills, impressive kill-death ratio",
-      "excerpt": "The Diablo 4 beta has been the largest beta test in the game’s history, with nearly 2.6 million players reaching level 20 Diablo 4 beta testers were given a treat with the chance to go up against ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio/index.json",
-      "webUrl": "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/31/1600x900/ashava_1680259346487_1680259359011_1680259359011.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/world-boss-ashava-dominates-diablo-4-beta-with-10-million-player-kills-impressive-kill-death-ratio-101680258800507-amp.html",
-      "publishedDateTime": "2023-03-31T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-diablo-4s-pokemon-style-raid-battles-are-great.md",
-      "title": "Diablo 4's Pokémon-style Raid Battles Are Great",
-      "excerpt": "You can find CBR's continuing coverage of the Activision Blizzard allegations here. Diablo IV is in many ways a recall of the past entries in the Diablo series and a return to form in tone and ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4s-pokemon-style-raid-battles-are-great/index.json",
-      "webUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-s-pokémon-style-raid-battles-are-great/ar-AA19heov",
-      "originalUrl": "https://www.msn.com/en-ae/entertainment/gaming/diablo-4-s-pokémon-style-raid-battles-are-great/ar-AA19heov",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19hnuA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=280&y=292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends.md",
-      "title": "Players collectively spent over 7000 years in Diablo 4 in its two beta weekends",
-      "excerpt": "Diablo 4 (opens in new tab) concluded its second and final beta period last weekend, and the numbers are in. The two beta weekends—which ran from March 17 to March 20 and March 24 to March 27—made up ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/index.json",
-      "webUrl": "https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/",
-      "originalUrl": "https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sxFn6LD4q7hdnTxvrFxryT-1200-80.png",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-30T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

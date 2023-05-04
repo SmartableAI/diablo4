@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-cha
 webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: MSN
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo IV Open Beta Retrospective: Transforming Feedback into Change"
-    excerpt: "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!"
-    publishedDateTime: 2023-04-14T17:00:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change"
-    type: article
-    provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
-    images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Diablo 4 reveals beta feedback changes coming at release, here's the full list"
     excerpt: "Diablo 4 developer Blizzard has revealed the changes it's making to the game now that the betas have concluded and fans have given their feedback. These tweaks will be live when Diablo 4 launches on ..."
     publishedDateTime: 2023-04-14T18:09:00Z

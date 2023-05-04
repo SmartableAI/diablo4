@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-22-can-diablo-4-outsell-hogwarts-legacy.md",
+      "title": "Can ‘Diablo 4’ Outsell ‘Hogwarts Legacy’?",
+      "excerpt": "That leaves two games I’m watching, Diablo 4 and Hogwarts Legacy, and I am wondering which will outsell the other, as both are multiplatform and not exclusive to any one system. And bigger than other ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-22-can-diablo-4-outsell-hogwarts-legacy/index.json",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6443f006a5ba8061f9a821c3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/04/22/can-diablo-4-outsell-hogwarts-legacy/amp/",
+      "publishedDateTime": "2023-04-22T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-diablo-4-secret-announcement-reveal-huge-news-for-fans-new-players.md",
       "title": "Diablo 4 Secret Announcement REVEAL! HUGE News for FANS & NEW Players!",
       "excerpt": "The Diablo 4 Dev Team has a secret announcement and HUGE news to share about Diablo 4. Don't miss this Diablo IV video ...",
@@ -406,7 +457,7 @@
       "originalUrl": "https://www.shacknews.com/article/135090/diablo-4-gone-gold",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -614,6 +665,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-16-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june.md",
+      "title": "Diablo 4 dungeons won't waste your time with boring objectives and dead ends when it launches this June",
+      "excerpt": "If there was one prominent criticism of Diablo 4's beta, it was the lack of dungeon variety and the monotony of the objectives within them. Blizzard published a blog post today that looks a lot like ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-16-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/index.json",
+      "webUrl": "https://www.msn.com/en-my/money/technology/diablo-4-dungeons-won-t-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/ar-AA19SHdR",
+      "originalUrl": "https://www.msn.com/en-my/money/technology/diablo-4-dungeons-won-t-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/ar-AA19SHdR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19T1eQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -971,21 +1064,21 @@
       ]
     },
     {
-      "path": "_news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer.md",
-      "title": "Diablo 4 receives major updates ahead of launch including massive nerf to Necromancer",
-      "excerpt": "Diablo 4 has received a set of major tweaks ahead of its launch date, including a significant update to the popular Necromancer class.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer/index.json",
-      "webUrl": "https://www.videogamer.com/news/diablo-4-receives-major-updates-ahead-of-launch/",
-      "originalUrl": "https://www.videogamer.com/news/diablo-4-receives-major-updates-ahead-of-launch/",
+      "path": "_news/2023-04-14-diablo-4-reveals-changes-based-on-beta-feedback.md",
+      "title": "Diablo 4 Reveals Changes Based on Beta Feedback",
+      "excerpt": "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-reveals-changes-based-on-beta-feedback/index.json",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://www.videogamer.com/wp-content/uploads/Diablo-4-Necromancer-1.jpg",
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19S4Kv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=615&y=120",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -995,114 +1088,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:51:00-07:00",
+      "publishedDateTime": "2023-04-14T16:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
+        "name": "MSN",
+        "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june.md",
-      "title": "Diablo 4 dungeons won't waste your time with boring objectives and dead ends when it launches this June",
-      "excerpt": "If there was one prominent criticism of Diablo 4's beta, it was the lack of dungeon variety and the monotony of the objectives within them. Blizzard published a blog post today that looks a lot like patch notes for Diablo 4's June 6 release.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LSHudwL9hyAmZAZqmk3GTK-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change.md",
-      "title": "Diablo IV Open Beta Retrospective: Transforming Feedback into Change",
-      "excerpt": "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
