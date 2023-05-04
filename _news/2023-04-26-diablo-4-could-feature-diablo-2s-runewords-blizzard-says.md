@@ -38,6 +38,22 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Diablo 4 Team to Review Battle Pass and Cosmetics in Upcoming Livestream"
+    excerpt: "According to a new website posting from Blizzard, Diablo general manager Rod Fergusson will be a part of the live-stream, which is currently scheduled for 11:00 a.m. Pacific on Wednesday, May 10th."
+    publishedDateTime: 2023-05-03T16:03:00Z
+    webUrl: "https://comicbook.com/gaming/news/diablo-4-battle-pass-cosmetics-livestream-how-to-watch/"
+    ampWebUrl: "https://comicbook.com/gaming/amp/news/diablo-4-battle-pass-cosmetics-livestream-how-to-watch/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-battle-pass-cosmetics-livestream-how-to-watch/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 106
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
   - title: "New Diablo 4 livestream will detail seasons, cosmetics and Battle Pass"
     excerpt: "Diablo 4‘s seasons will consist of a Battle Pass that will take around 80 hours to clear, and story content that isn’t at the level of a fully fledged new campaign, it was recently confirmed. Each ..."
     publishedDateTime: 2023-05-03T13:48:00Z
@@ -51,6 +67,34 @@ related:
       - url: "https://www.videogameschronicle.com/files/2023/03/diablo-4-h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4 Reveals Upcoming Developer Livestream to Detail Post-Launch Content"
+    excerpt: "Diablo 4 reveals an upcoming livestream allowing players to look closer at what the developer will offer after the game's launch."
+    publishedDateTime: 2023-05-03T16:30:55Z
+    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
+    type: article
+    provider:
+      name: GameRant on MSN
+      domain: msn.com
+    quality: 84
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aIhLM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=720&y=97"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
+    excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
+    publishedDateTime: 2023-05-03T16:18:00Z
+    webUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
+    type: article
+    provider:
+      name: GamesRadar+
+      domain: gamesradar.com
+    quality: 67
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/uw72uBHQ6hdCrAn87VfDnR-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "K/fXT7RE0dBbYsxZXScaGKw4v45TTwK17dRZDgVUrWCaM8m/z+PYMwHW3M9/LNqvcKfor9mAzPlmpZmvVu4KaboGA5/CIFFcwYena7QugDmI0xwuiTm5up8ghsQEivzeOxKvXircKdQBjx1roge5WsxgvBCd2TRAbtzGh/weTeLLBjrqZpBzw0saHrYEZUCxnmfkox8oE9zb/cQ2mpvJ032AP10+1BW4Qy3vLv2SBM4XdvX1Ib/sEcaWP1zqi75rWplhRtcQEfXFvWVnzmWdBSzaEr5XvbVGAAvVKmEmH1UONd5I7Y8HzSYi78s13UGf9rq14aC/VnA8b9aDzNoTdI5rqMWKF3ooXi4Db+5Atzs=;NDY3/YpeH3x9LQw1eYzoow=="

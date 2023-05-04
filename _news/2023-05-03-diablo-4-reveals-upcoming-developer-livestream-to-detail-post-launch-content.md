@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Tune in to the Next Diablo IV Developer Update Livestream"
-excerpt: "Our next Developer Update Livestream detailing Diablo IV’s Post-Launch experience debuts on May 10 at 11 a.m. PDT. Save the date so you don’t miss out."
-publishedDateTime: 2023-05-03T20:00:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
+title: "Diablo 4 Reveals Upcoming Developer Livestream to Detail Post-Launch Content"
+excerpt: "Diablo 4 reveals an upcoming livestream allowing players to look closer at what the developer will offer after the game's launch."
+publishedDateTime: 2023-05-03T16:30:55Z
+originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
+webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
 type: article
-quality: 162
-heat: 262
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GameRant on MSN
+  domain: msn.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/pa/PAP6YL6TVQ411683140809224.jpg"
-    width: 960
-    height: 480
+  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aIhLM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=720&y=97"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Tune in to the Next Diablo IV Developer Update Livestream"
+    excerpt: "Our next Developer Update Livestream detailing Diablo IV’s Post-Launch experience debuts on May 10 at 11 a.m. PDT. Save the date so you don’t miss out."
+    publishedDateTime: 2023-05-03T20:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/pa/PAP6YL6TVQ411683140809224.jpg"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Diablo 4 Team to Review Battle Pass and Cosmetics in Upcoming Livestream"
     excerpt: "According to a new website posting from Blizzard, Diablo general manager Rod Fergusson will be a part of the live-stream, which is currently scheduled for 11:00 a.m. Pacific on Wednesday, May 10th."
     publishedDateTime: 2023-05-03T16:03:00Z
@@ -72,20 +82,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Diablo 4 Reveals Upcoming Developer Livestream to Detail Post-Launch Content"
-    excerpt: "Diablo 4 reveals an upcoming livestream allowing players to look closer at what the developer will offer after the game's launch."
-    publishedDateTime: 2023-05-03T16:30:55Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 84
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aIhLM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=720&y=97"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
     excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
     publishedDateTime: 2023-05-03T16:18:00Z
@@ -101,6 +97,6 @@ related:
         height: 675
         isCached: true
 
-secured: "V4tfmEhLjVcYtfnzOnwtB8yfRiCnMCvnfqnRrZ314Lt5PKG7b3J0d+MFLVQvUyQz4EZ+AcPJDBO7Cd5M6DWCyUUy2ynaVtT0HLn1pbTXpBfzxyCktxhEx1lP6DAYBe2XVKbjtRzl3PtXmPHe4SHxhn/gpXoVA8NIuOVd1UEIrq93434V2CWAlKK4f5ngoqLKCiA64IAD35rh4+e9FMpZIPIcyxa9heIdwbRQ+5Q3eI3Cn3rOc+dAzYnHim4PgnF5MvrVhkmmq/1eQXGxAaAy1tSqnbefaK4lrSWmd4OyTu3SBv7FY91fZnIyej58yMjEPhAQs0199t7mEwo0a1s3zG5CadzKTkPrUHyfRxu9DFQ=;0xG5nIsomogX+l8z/vMLqg=="
+secured: "DZkKvnkE8xTnEORIcUm+T/GmFXfkRCvVWPY9noVSLjd/aZb8cl08HTOovMMK4PQnE7rq4swX/SdnG2eME8CnY+IxZxbUQNvS1jLPNCPBYSNR0n7fmEhr2WdaGrG9vIm4Aed/8dNuFBR1foY4sO/QaheoPvlPcXs2LkGVxDiJBuKXrJ9LVHwuNgjNMtO+Y5ZDo5o9hMdo3+uh1dgOBc9rYvPEh8kXldWSZ4Ts8I3lb13xpyRd+3QJzh36Dg5L2IU8RYnuPzYFJIhGMshcmuWBNaBYUHykK64e66i6Yo+A5kbCFoypPSbfLmfSyLBTxh3NW6aKJlivIXx+IbQQj4Ia75I0eLmwUEC5Pt5UunUxnGo=;KZv/0uhS0g2KR9KBlpOaZQ=="
 ---
 

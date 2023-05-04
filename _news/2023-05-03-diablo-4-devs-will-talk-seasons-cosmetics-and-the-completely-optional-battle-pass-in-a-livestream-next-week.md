@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Tune in to the Next Diablo IV Developer Update Livestream"
-excerpt: "Our next Developer Update Livestream detailing Diablo IV’s Post-Launch experience debuts on May 10 at 11 a.m. PDT. Save the date so you don’t miss out."
-publishedDateTime: 2023-05-03T20:00:00Z
-originalUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
-webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
+title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
+excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
+publishedDateTime: 2023-05-03T16:18:00Z
+originalUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
+webUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
 type: article
-quality: 162
-heat: 262
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: Blizzard
-  domain: blizzard.com
-  images:
-    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GamesRadar+
+  domain: gamesradar.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/pa/PAP6YL6TVQ411683140809224.jpg"
-    width: 960
-    height: 480
+  - url: "https://cdn.mos.cms.futurecdn.net/uw72uBHQ6hdCrAn87VfDnR-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "Tune in to the Next Diablo IV Developer Update Livestream"
+    excerpt: "Our next Developer Update Livestream detailing Diablo IV’s Post-Launch experience debuts on May 10 at 11 a.m. PDT. Save the date so you don’t miss out."
+    publishedDateTime: 2023-05-03T20:00:00Z
+    webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
+    type: article
+    provider:
+      name: Blizzard
+      domain: blizzard.com
+    quality: 162
+    images:
+      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/pa/PAP6YL6TVQ411683140809224.jpg"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Diablo 4 Team to Review Battle Pass and Cosmetics in Upcoming Livestream"
     excerpt: "According to a new website posting from Blizzard, Diablo general manager Rod Fergusson will be a part of the live-stream, which is currently scheduled for 11:00 a.m. Pacific on Wednesday, May 10th."
     publishedDateTime: 2023-05-03T16:03:00Z
@@ -86,21 +96,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
-    excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
-    publishedDateTime: 2023-05-03T16:18:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 67
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/uw72uBHQ6hdCrAn87VfDnR-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "V4tfmEhLjVcYtfnzOnwtB8yfRiCnMCvnfqnRrZ314Lt5PKG7b3J0d+MFLVQvUyQz4EZ+AcPJDBO7Cd5M6DWCyUUy2ynaVtT0HLn1pbTXpBfzxyCktxhEx1lP6DAYBe2XVKbjtRzl3PtXmPHe4SHxhn/gpXoVA8NIuOVd1UEIrq93434V2CWAlKK4f5ngoqLKCiA64IAD35rh4+e9FMpZIPIcyxa9heIdwbRQ+5Q3eI3Cn3rOc+dAzYnHim4PgnF5MvrVhkmmq/1eQXGxAaAy1tSqnbefaK4lrSWmd4OyTu3SBv7FY91fZnIyej58yMjEPhAQs0199t7mEwo0a1s3zG5CadzKTkPrUHyfRxu9DFQ=;0xG5nIsomogX+l8z/vMLqg=="
+secured: "zxFGvTJZiUiaTLScmJmtx2WDUojJ3RHcMrUc1U4gPSBfpusKvEilrvNZ9Z7QLId11VJ4blHVcHx9gCzRlOAcVwzkA0ewh3pCXBOyrC3BX4cK8JGhxNawMHHQHIrNreyN9w/dV0CY1dRtzLk6ApHvkagfD/16U/lCaRLUxsNprd4PkObt+CvJ4Yh/5oCg0C4kqFtIqmeww2lmDxjeRw+hUwt3Tz/HQ2tAO8ABpBLFSUovjQeu/0m1rSYQx5ZEmJH9SA1/uPRl/jjUjuJSBzQUxmwW6Omg1CrQ5xB+FyYGyiHTIM7PbTz4ZMqCKf1e+6LrQ0WkzLJVZbTX6LvQtG9nfwyuCDNuUDOrHXOrdDCQKeE=;BfCnS5vDECOm3PupsegCPg=="
 ---
 
