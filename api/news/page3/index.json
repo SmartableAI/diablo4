@@ -803,6 +803,48 @@
       ]
     },
     {
+      "path": "_news/2023-04-16-diablo-4-altars-of-lilith-will-not-reset-every-season.md",
+      "title": "Diablo 4: Altars of Lilith Will Not Reset Every Season",
+      "excerpt": "Diablo 4 will keep its open world experience free of unnecessary chores, as Altars of Lilith will persist across seasons. With the Open Beta in late March concluded, player feedback on Diablo 4 was ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-16-diablo-4-altars-of-lilith-will-not-reset-every-season/index.json",
+      "webUrl": "https://www.msn.com/de-de/unterhaltung/other/diablo-4-altars-of-lilith-will-not-reset-every-season/ar-AA19UGPU",
+      "originalUrl": "https://www.msn.com/de-de/unterhaltung/other/diablo-4-altars-of-lilith-will-not-reset-every-season/ar-AA19UGPU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19UwXv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june.md",
       "title": "Diablo 4 dungeons won't waste your time with boring objectives and dead ends when it launches this June",
       "excerpt": "If there was one prominent criticism of Diablo 4's beta, it was the lack of dungeon variety and the monotony of the objectives within them. Blizzard published a blog post today that looks a lot like ...",
@@ -1042,48 +1084,6 @@
       "provider": {
         "name": "Comicbook.com",
         "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-blizzard-applying-some-major-changes-to-diablo-4-based-on-feedback-from-the-betas.md",
-      "title": "Blizzard applying some major changes to Diablo 4 based on feedback from the betas",
-      "excerpt": "Blizzard has implemented a variety of fixes, and updates, to Diablo 4 since the beta weekends were held. The studio said the changes were made due to reviewing player feedback and gameplay data. The ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-blizzard-applying-some-major-changes-to-diablo-4-based-on-feedback-from-the-betas/index.json",
-      "webUrl": "https://www.vg247.com/blizzard-applying-some-major-changes-to-diablo-4-based-on-feedback-from-the-betas",
-      "originalUrl": "https://www.vg247.com/blizzard-applying-some-major-changes-to-diablo-4-based-on-feedback-from-the-betas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsio.reedpopcdn.com/diablo-4-100.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-15T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vg247",
-        "domain": "vg247.com",
         "images": null,
         "publishers": null,
         "authors": null

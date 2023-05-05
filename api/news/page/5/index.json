@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-01-diablo-4-beta-impressions-this-hellish-return-left-me-impressed-and-hungry-for-more.md",
+      "title": "Diablo 4 beta impressions: this hellish return left me impressed and hungry for more",
+      "excerpt": "The Diablo 4 beta was a great taste of what's to come, but the wait until full release has now become more unbearable ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-01-diablo-4-beta-impressions-this-hellish-return-left-me-impressed-and-hungry-for-more/index.json",
+      "webUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-impressions-hellish-29599603",
+      "originalUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-impressions-hellish-29599603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/gaming/article29599670.ece/ALTERNATES/s1200/0_Diablo-enemy.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/gaming/diablo-4-beta-impressions-hellish-29599603.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-beta-impressions-hellish-29599603.amp",
+      "publishedDateTime": "2023-03-31T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-things-about-diablo-4-that-have-us-worried.md",
       "title": "Things About Diablo 4 That Have Us Worried",
       "excerpt": "\"Diablo 4\" is on the way and fans are excited to get their hands on the next entry in the iconic series. Based on critical reactions to the beta, things are looking good so far with the game receiving ...",
@@ -1021,48 +1063,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-27T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-games-map.md",
-      "title": "Diablo 4 Image Shows Beta Area is a Tiny Part of the Full Game's Map",
-      "excerpt": "An image depicting the full size of upcoming action-RPG Diablo 4's map is making rounds online and fans seem to be surprised by just how small the area that they played through in the open beta was.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-27-diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-games-map/index.json",
-      "webUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7",
-      "originalUrl": "https://www.msn.com/en-ph/entertainment/gaming/diablo-4-image-shows-beta-area-is-a-tiny-part-of-the-full-game-s-map/ar-AA199Mu7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199y9q.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T16:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
