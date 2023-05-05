@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
-excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
-publishedDateTime: 2023-04-26T07:25:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/runewords"
-webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+title: "When is the next Diablo 4 Update Developer Livestream?"
+excerpt: "According to Blizzard, the next live stream event will key in on important details about Diablo 4, specifically, the post-launch content."
+publishedDateTime: 2023-05-05T11:38:00Z
+originalUrl: "https://www.xfire.com/next-diablo-4-update-developer-livestream/"
+webUrl: "https://www.xfire.com/next-diablo-4-update-developer-livestream/"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: xfire
+  domain: xfire.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.xfire.com/wp-content/uploads/2023/05/next-diablo-4-update-developer-livestream-1.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
+    excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
+    publishedDateTime: 2023-04-26T07:25:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New Diablo 4 livestream will detail seasons, cosmetics and Battle Pass"
     excerpt: "Diablo 4‘s seasons will consist of a Battle Pass that will take around 80 hours to clear, and story content that isn’t at the level of a fully fledged new campaign, it was recently confirmed. Each ..."
     publishedDateTime: 2023-05-03T13:48:00Z
@@ -67,20 +81,6 @@ related:
       - url: "https://www.videogameschronicle.com/files/2023/03/diablo-4-h.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "When is the next Diablo 4 Update Developer Livestream?"
-    excerpt: "According to Blizzard, the next live stream event will key in on important details about Diablo 4, specifically, the post-launch content."
-    publishedDateTime: 2023-05-05T11:38:00Z
-    webUrl: "https://www.xfire.com/next-diablo-4-update-developer-livestream/"
-    type: article
-    provider:
-      name: xfire
-      domain: xfire.com
-    quality: 87
-    images:
-      - url: "https://www.xfire.com/wp-content/uploads/2023/05/next-diablo-4-update-developer-livestream-1.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Diablo 4 Reveals Upcoming Developer Livestream to Detail Post-Launch Content"
     excerpt: "Diablo 4 reveals an upcoming livestream allowing players to look closer at what the developer will offer after the game's launch."
@@ -125,6 +125,6 @@ related:
         height: 675
         isCached: true
 
-secured: "K/fXT7RE0dBbYsxZXScaGKw4v45TTwK17dRZDgVUrWCaM8m/z+PYMwHW3M9/LNqvcKfor9mAzPlmpZmvVu4KaboGA5/CIFFcwYena7QugDmI0xwuiTm5up8ghsQEivzeOxKvXircKdQBjx1roge5WsxgvBCd2TRAbtzGh/weTeLLBjrqZpBzw0saHrYEZUCxnmfkox8oE9zb/cQ2mpvJ032AP10+1BW4Qy3vLv2SBM4XdvX1Ib/sEcaWP1zqi75rWplhRtcQEfXFvWVnzmWdBSzaEr5XvbVGAAvVKmEmH1UONd5I7Y8HzSYi78s13UGf9rq14aC/VnA8b9aDzNoTdI5rqMWKF3ooXi4Db+5Atzs=;NDY3/YpeH3x9LQw1eYzoow=="
+secured: "qfhUs3pwdWRCfvpq4iNAUfhI/NWImrQpO3Cpz39qU7AWhcHu2UNwM5nniZ2KIAhXL4LC3aRjTBF/w+bkyB8/+1BBuqGRYIKP7EUK60br21eU2loY4eW5I85Zes5B878gf/psGUq9lIh4+hkr6kpEq5f7CX6iaa3f88OnNfl2yBXLVDb/FIWJZ8Q4NtFd6v3g03OAq5bAw3eV9GRauQaYgG0XY0AB9F2gcsMBzTQ2eGBuHgXzMb75u7uvNpBtHbrIFsJM4WJqNowNMivKlqcRp0OG0d+oVCc1NNUxlwazE36wEZs5Q5X/ND6tsGiIHKogcZo69KBCb5kiasZXBJcbnPKotSJvsPV9E7zosW8svAo=;zR0QDTLOdZaW6iFdYs7eug=="
 ---
 

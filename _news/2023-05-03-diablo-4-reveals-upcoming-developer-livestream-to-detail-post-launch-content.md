@@ -82,6 +82,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "When is the next Diablo 4 Update Developer Livestream?"
+    excerpt: "According to Blizzard, the next live stream event will key in on important details about Diablo 4, specifically, the post-launch content."
+    publishedDateTime: 2023-05-05T11:38:00Z
+    webUrl: "https://www.xfire.com/next-diablo-4-update-developer-livestream/"
+    type: article
+    provider:
+      name: xfire
+      domain: xfire.com
+    quality: 87
+    images:
+      - url: "https://www.xfire.com/wp-content/uploads/2023/05/next-diablo-4-update-developer-livestream-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Diablo 4 devs will dive into Seasons and Battle Pass in livestream next week"
     excerpt: "Blizzard has announced that a Diablo 4 developer update livestream is set to air next week showcasing the game's seasons, cosmetics, and more."
     publishedDateTime: 2023-05-04T16:40:00Z
@@ -111,6 +125,6 @@ related:
         height: 675
         isCached: true
 
-secured: "g3K/Ub4ZswXqEfWPCK+6phkKVF6qjBNLsKI0m7YpfcC0p/tNaeK/R20/PyTVbru3OPA1zYg5OjbTA0xItXrtZjefE2fKyZL6MZst1DiDx9FzjW5mqU5MdYiDUrnZVAoyUdz77ySpUYaBQYspbAH+Ty0iB+aY/C+KP43KAzTLv3LCFDeF54SbC5DkO7iofyVU+8oFpNyGmu1xdXNkNmE8z6ZHMBJkoSprc3egAPG3zpKlltEQaRPoW11LUehH7KIwlGmgR9yKv5qItaM9ZTievwxN3/EY6VJ+u9NiljfVgLiBQRgCWM2PGI15/TFje1RDeAhwYTdxy5ShddBxIgf5qaEq9FAXFH8yJTKoMcv8hZE=;836ntyetUNtAr6zIMRW+Nw=="
+secured: "J9MhlWM7F05rWyb3Cad/dNi3wZOaWe2OL7bFxLrQXBtMiNiN0YpKOayXBwbvd6GCrNlfcR56rluMcGtXRSkrp0HloQO+kxg9Tniut5UfHsLvAXDjho5HY9xcZwr/WxDEk/w/FiwfVU2GTy7sHZAb3gnB108CIgn2InhFf9oHgGgAHQRpgr8b/MbXUlfSSeL1oyYgKk+H9+t8NKCSwDtzvJ1SLRhd7p2MQzNOK7RkfxXKqQ+NTDd/77S5JHFbzRxymkpEY6oLcwAj+S6kTGZAzuJL3ykwQfv4nEsvRqT9OAg+R1kOWvKjb7CQnwRvTWH2bwVkVcJA9W8P/SAesPzwB8lRQMeqAR3geb9pU1TxZiI=;YHcR0pNrgrgAGnwDc4XyNQ=="
 ---
 
