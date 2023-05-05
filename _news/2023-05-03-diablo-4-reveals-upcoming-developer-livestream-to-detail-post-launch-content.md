@@ -82,6 +82,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Diablo 4 devs will dive into Seasons and Battle Pass in livestream next week"
+    excerpt: "Blizzard has announced that a Diablo 4 developer update livestream is set to air next week showcasing the game's seasons, cosmetics, and more."
+    publishedDateTime: 2023-05-04T16:40:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-devs-will-dive-into-seasons-and-battle-pass-in-livestream-next-week/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 84
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-developer-livestream.jpg"
+        width: 1200
+        height: 426
+        isCached: true
   - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
     excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
     publishedDateTime: 2023-05-03T16:18:00Z
@@ -97,6 +111,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pLStusG318KlROywPIeVcF0nL2HJj5vk6TokZzVV5a+oPI2RzwMjtDiwxWkdxWp9T8NQF1npdiracH15LAhLT5q+aIlxkTvDo+YYr5aXS1Dx69ONQh2xKonYljum2rVGvfJsEtHgRT5ASsHLNYq2ELgJf3JfB57QzDegjX9pWpvqjCO2JUpC9bWsUhBUle2Qdq39UQIAaCpmirXCUnoNEKucSRTzYi3Kx4ogVJ4OQJcUj+IzFbR/kBawQJsrdYVSrZJo+/+Z0k+cT5PCEpCBl0v+auacggEp04wFfWSnJiJC4Q6S0gYEJcTikQyaT0ZbweNxdj2rHgQENjGnKq5jbJ1Nu378qAmvscotewc5rj8=;2ck58MKhPAIUMSedLrmekQ=="
+secured: "RhHi/I1J2aQWaOkT9s0aB25rIc5M1tiVZi+zi0RFXSJV4IJS0Ot9znB8m1uwhfdnVTj/4g2UQntsCiZXdiCMBSWlg8NjX99mmjtw8JlPGteeewQePc41TNcdscIBMsQzS/umnvApa0ZYazAIrkiYv+OG8xncBbCRB+GWSti3gbVnuecO/a28HtQruhirI5jHLtfe2bb+43A0qdRFK/KjtTbr5gABiu2C0SN31uH5AbkojtU2ffan76ZkmUpxvIsZzrQ9HA2Yvm1JwSapV3XC/B+OlcjeJXhHbyYWKePMCmjny9nqKmnb/MHLazdq5k0I1iT/+wrAWGCldfibT4/IRo0qIZsZUOe8T92GPK07Z1A=;WINA0TljrBMx6qq9hJRrBA=="
 ---
 

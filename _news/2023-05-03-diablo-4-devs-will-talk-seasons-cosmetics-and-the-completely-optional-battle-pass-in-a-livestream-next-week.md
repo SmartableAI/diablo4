@@ -96,7 +96,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 devs will dive into Seasons and Battle Pass in livestream next week"
+    excerpt: "Blizzard has announced that a Diablo 4 developer update livestream is set to air next week showcasing the game's seasons, cosmetics, and more."
+    publishedDateTime: 2023-05-04T16:40:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-devs-will-dive-into-seasons-and-battle-pass-in-livestream-next-week/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 84
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-developer-livestream.jpg"
+        width: 1200
+        height: 426
+        isCached: true
 
-secured: "qLlmss5yuIet8526k2M7vsfCUEWlI28VW5dZwTpOG2CfEnP3gjJqwmt8O099kwYJkRnFPIDRxNgDqvJq5yU40K5xJtz/dHyRe8Np0ot3HVR4eSBDhUU9VCGfUeIG4Gxj4W597U5FSlkWyPzD0l+iiSLSJuEStPZljNkLRgdiONgi1VluRBmweB5+9MLGYBoSZIEkWHHvidxXXL76zyAN6XqLoAPCAaRWehx+94Ht3W61W82BY0MrUyFNR0muAdnURjerAU+crrWgQB289qDIBVO/fGNgfecUKDfX6cTzlaT9rtSuzKDJClIt4g+zP6nJrT52hzw4E1orMNhiLknzH1uz1GwWyEtfzJJCa7yNgXA=;1DpyHPHJNNMy7Nlb+wrYKQ=="
+secured: "UvCOOLuI6IH074DyZHaGlol3RiTIuHUuNkKzPG5ZXIxjSEShcRM24ZkQgcGOq//4XAVf8i6kTXh1JS2wdpbYe2dAl2cgrqKNQtR+rM+l21tBHeNkMrgaprX1tyj9hHKcWVwVvLyFat2mSFsXKQ4fhzsrSpPT0eEh884NQRc0JohyG0EYgKWfQuuQ6N5FoQ2WdxzSBxIElVdM0SLQX39QinJHXTjT1CsG32yA7pwuKdcU7wqckF2EXf3kcSk8lDBJWGfsxR93JzwUEr2iOI2bUDS/OE1QuA9h/X07IVKZxOhSZn8VNwAk1CTMLauUIMnVmO07uUfes0UjzmZ88+ultiH7gtAT21k2S6XRwEneKsg=;piaD+xKYTsUj9m18butZtw=="
 ---
 

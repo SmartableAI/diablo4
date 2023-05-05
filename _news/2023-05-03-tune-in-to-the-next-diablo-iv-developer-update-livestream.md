@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-ne
 webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
 type: article
 quality: 162
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aIhLM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=720&y=97"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Diablo 4 devs will dive into Seasons and Battle Pass in livestream next week"
+    excerpt: "Blizzard has announced that a Diablo 4 developer update livestream is set to air next week showcasing the game's seasons, cosmetics, and more."
+    publishedDateTime: 2023-05-04T16:40:00Z
+    webUrl: "https://www.videogamer.com/news/diablo-4-devs-will-dive-into-seasons-and-battle-pass-in-livestream-next-week/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 84
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-developer-livestream.jpg"
+        width: 1200
+        height: 426
         isCached: true
   - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
     excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."

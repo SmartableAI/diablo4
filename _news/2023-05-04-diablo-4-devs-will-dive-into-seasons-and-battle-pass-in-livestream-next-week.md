@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
-excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
-publishedDateTime: 2023-04-26T07:25:00Z
-originalUrl: "https://www.pcgamesn.com/diablo-4/runewords"
-webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+title: "Diablo 4 devs will dive into Seasons and Battle Pass in livestream next week"
+excerpt: "Blizzard has announced that a Diablo 4 developer update livestream is set to air next week showcasing the game's seasons, cosmetics, and more."
+publishedDateTime: 2023-05-04T16:40:00Z
+originalUrl: "https://www.videogamer.com/news/diablo-4-devs-will-dive-into-seasons-and-battle-pass-in-livestream-next-week/"
+webUrl: "https://www.videogamer.com/news/diablo-4-devs-will-dive-into-seasons-and-battle-pass-in-livestream-next-week/"
 type: article
-quality: 87
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: VideoGamer.com
+  domain: videogamer.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-developer-livestream.jpg"
+    width: 1200
+    height: 426
     isCached: true
 
 related:
@@ -54,6 +54,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
+    excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
+    publishedDateTime: 2023-04-26T07:25:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New Diablo 4 livestream will detail seasons, cosmetics and Battle Pass"
     excerpt: "Diablo 4‘s seasons will consist of a Battle Pass that will take around 80 hours to clear, and story content that isn’t at the level of a fully fledged new campaign, it was recently confirmed. Each ..."
     publishedDateTime: 2023-05-03T13:48:00Z
@@ -82,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 devs will dive into Seasons and Battle Pass in livestream next week"
-    excerpt: "Blizzard has announced that a Diablo 4 developer update livestream is set to air next week showcasing the game's seasons, cosmetics, and more."
-    publishedDateTime: 2023-05-04T16:40:00Z
-    webUrl: "https://www.videogamer.com/news/diablo-4-devs-will-dive-into-seasons-and-battle-pass-in-livestream-next-week/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 84
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/Diablo-4-developer-livestream.jpg"
-        width: 1200
-        height: 426
-        isCached: true
   - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
     excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
     publishedDateTime: 2023-05-03T16:18:00Z
@@ -111,6 +111,6 @@ related:
         height: 675
         isCached: true
 
-secured: "K/fXT7RE0dBbYsxZXScaGKw4v45TTwK17dRZDgVUrWCaM8m/z+PYMwHW3M9/LNqvcKfor9mAzPlmpZmvVu4KaboGA5/CIFFcwYena7QugDmI0xwuiTm5up8ghsQEivzeOxKvXircKdQBjx1roge5WsxgvBCd2TRAbtzGh/weTeLLBjrqZpBzw0saHrYEZUCxnmfkox8oE9zb/cQ2mpvJ032AP10+1BW4Qy3vLv2SBM4XdvX1Ib/sEcaWP1zqi75rWplhRtcQEfXFvWVnzmWdBSzaEr5XvbVGAAvVKmEmH1UONd5I7Y8HzSYi78s13UGf9rq14aC/VnA8b9aDzNoTdI5rqMWKF3ooXi4Db+5Atzs=;NDY3/YpeH3x9LQw1eYzoow=="
+secured: "gfyH4PSiknRkxhPDQXUoDk7Eyj0ZfMr//0qKZGemNhUL7MTV+7p2Wy2I3wtOu/WvNjuy7FR0QiFFr/z3bgCjTjlCd/iWol2PaVECZ0wIpdVymNmcKr/ekhMur4/KxMiwO+JyPSVVd/8IweFQn2s0V6klZ4c9keWqVXxT0NT8+nO805fLFmWpINWqa0hYONox5Qa2BWKz/NrZXFSVduVx/2EEUcH0iSwO75X8kXvr3ncFHs2dnGycmpkFHKQd8EBkMkYkgnL4ARin775LymgB1UTN9o/1v4qvBZvAeAZk1oWKkJlgmGnrdIqhyHOSbzoNTmkqB8WBIkIK4KTKYoyTT0kqCQF5NVxZHAhqENPyDNY=;XnuZnCJcI7aFI6kxTyYgCg=="
 ---
 
