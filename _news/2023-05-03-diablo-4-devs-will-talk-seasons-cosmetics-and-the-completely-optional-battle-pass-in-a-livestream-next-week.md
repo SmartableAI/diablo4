@@ -3,22 +3,22 @@ category: news
 title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
 excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
 publishedDateTime: 2023-05-03T16:18:00Z
-originalUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
-webUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
+originalUrl: "https://news.yahoo.com/diablo-4-devs-talk-seasons-231853291.html"
+webUrl: "https://news.yahoo.com/diablo-4-devs-talk-seasons-231853291.html"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: GamesRadar+
-  domain: gamesradar.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/uw72uBHQ6hdCrAn87VfDnR-1200-80.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/YzEtXI98scNAYqike1KsFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/27238d27e2f5f11653f0264d1e07905e"
     width: 1200
     height: 675
     isCached: true
@@ -125,6 +125,6 @@ related:
         height: 426
         isCached: true
 
-secured: "X4e1syQOw8bUMn0xBsj7rCDJ8oTo6n4zC3AyEXPZZ9NNPR/r1xmH20mWqsgtXii8/Fh96ka3h108gi2HBiaN2sUiB8S+qjyvGSkFPczITjoDkRxDh3J/JJo+97IG3FjkR2SjjKOEw5xuxqtURzkNfojomKIpgkQk6AujrB80w31Fc3nMCyv8xZMtxGQJNWLEPVPHmXTPlPU1X5U0mF0Tz6pbCpytjMFxy0BUIyzo2oqmCD2ha7XjfnnnA708CLUmuiVB93b3avHScH26X7wnPXaDKwNQjLcWc8K9D+iiqI2WhwW13d8qKofF/2ElRDKTHqHHPy7rIiko7zYFiPzLHMXd1gB5Ln9NdxSRVycPf/M=;458iSEhqM/m4JatQAwIyJQ=="
+secured: "8vW3/kX77nlv88rmllBtr+8CxjMfm9gyU2dqPuNtd86CCuJRbJYmRZxhsSxit/YZWyuMuLbUxI4ftBQuvsLiAmcJvH/QDJeHen7Tr9OalVAHVYBTkn/ed4eJnnt7mmf5ETkv8R70gYZeuMxQBSZR6HjumXAo0Yv1axxy01GDg/6AJvOUm82/hnVwEtxhH7UfdMK6SHfvAaiPa5JnpjBLeEZVaksXGHSuS3zxK8HEI8pUxZfS+SNAEpox2IWUIglOIojffSCtxUoI5mLK/ytQH4po2KU/p56aZ/Hf6FwAvzDC7HWdibrCPNuAIaEYAH1x81VZrtUqhtl74rW/ExK/hFWR3ZZw2F1GSOKgPyK2TJQ=;2S1jpGYUFtaopvn2b724dQ=="
 ---
 

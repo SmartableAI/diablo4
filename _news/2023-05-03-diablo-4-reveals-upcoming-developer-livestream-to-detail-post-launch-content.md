@@ -113,18 +113,18 @@ related:
   - title: "Diablo 4 devs will talk seasons, cosmetics, and \"the completely optional Battle Pass\" in a livestream next week"
     excerpt: "Blizzard is giving us a verbal peak behind the curtains of Diablo 4's seasonal content, cosmetics, and battle pass in a livestream next week. The studio revealed the details of the next Diablo 4 ..."
     publishedDateTime: 2023-05-03T16:18:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-devs-will-talk-seasons-cosmetics-and-the-completely-optional-battle-pass-in-a-livestream-next-week/"
+    webUrl: "https://news.yahoo.com/diablo-4-devs-talk-seasons-231853291.html"
     type: article
     provider:
-      name: GamesRadar+
-      domain: gamesradar.com
+      name: YAHOO!News
+      domain: yahoo.com
     quality: 67
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/uw72uBHQ6hdCrAn87VfDnR-1200-80.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/YzEtXI98scNAYqike1KsFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gamesradar_237/27238d27e2f5f11653f0264d1e07905e"
         width: 1200
         height: 675
         isCached: true
 
-secured: "iVo2oL0xKiMHVbL9HXht4U0As1PiNNoQ3M1hpsd3zF+TmRetZoaIb/WnY8wTVSIvfKJKhBvi8XOsFLRsmol1vYvWHFLvMLSRZEU1kwo0LKzOskonBz6AByd5RhKp0T32IEzEOh/sBUybvYfFkM3MHuREAN+M4nwhcUd3NrZ+rrDVa0jpjd0GCcO38tcW5zbuvl0Kmy2Is/l4PiLoChK5dZFtee5hO/Sk4AcuvPUizsZidnxdjaFkdivGVXwuV8RflwP5EWqDH8qtHVNjhm5BXmmASW14IIsZUl5xlrEUtib/PMHWzLs4/hYG5ji+MWe968WfbJjacsfI1VOWYNqg9koSlR1fk5yONWO4o/SzTEc=;il3gRFzrw+957ollrc5I3A=="
+secured: "K+Fcxlo6eD3qjYeVi/QrlrbEKnrqb6gMna4cg9aCujbiXfYO0P9s5tPLFFqP2sn1Ts8JVgkso+N08Yb7uXTc4T39TYUBhCUnPRpHrZnkCigvrS4zmDxYuKSrvUn7CCW8oeVzTeU5EyPL0SyLKADyitVuDmh2v2rjcOQ8T8wHTEDoG13fODB5J9+X2zWzeXyRIvrn3Vp1prXwOj6v71dQTNuJtl/ExsQnw4tRMv7pSg9UEuMa8LFESpJKtBKY+M3jemwI3T8SPM4Cu2MVeUXkMgP6Y5zGpVOFvLi6QTrdAo4iKGS1hliPs8f8dsTjBi0dfxgSUi3BKS8blnrWIV8FPevzY/JE1irrthP3YSoouWY=;vHwh67gu9CzcwBUiqJ2IgA=="
 ---
 
