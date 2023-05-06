@@ -56,22 +56,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Diablo 4 endgame content is supposed to make you suffer, says game director"
-    excerpt: "Diablo 4 game director interview: endgame content is “not designed to be fair” Diablo 4 might not release on PlayStation, Xbox and PC until June 6, 2023, but players have already gotten a taste of ..."
-    publishedDateTime: 2023-04-16T22:00:00Z
-    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507"
-    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 105
-    images:
-      - url: "https://i2-prod.mirror.co.uk/gaming/article29727512.ece/ALTERNATES/s1200/0_d4-suffer.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 Has Good News for Xbox Gamers"
     excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
     publishedDateTime: 2023-04-17T09:59:24Z

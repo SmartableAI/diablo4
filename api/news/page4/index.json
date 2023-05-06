@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-15-diablo-4-updates-make-dungeons-less-tedious.md",
+      "title": "Diablo 4 Updates Make Dungeons Less Tedious",
+      "excerpt": "Diablo 4's dungeons are obviously a huge part of the game given the loot opportunities they offer and the fact that they're a significant focus of the endgame, but during the game's beta, players found them to be a bit tedious in different ways.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-15-diablo-4-updates-make-dungeons-less-tedious/index.json",
+      "webUrl": "https://comicbook.com/gaming/news/diablo-4-update-dungeons-less-tedious/",
+      "originalUrl": "https://comicbook.com/gaming/news/diablo-4-update-dungeons-less-tedious/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/03/26/7da97223-6571-4286-9350-21d755cb1f41/new-games-out-this-month.png?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/gaming/amp/news/diablo-4-update-dungeons-less-tedious/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/diablo-4-update-dungeons-less-tedious/",
+      "publishedDateTime": "2023-04-15T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-blizzard-applying-some-major-changes-to-diablo-4-based-on-feedback-from-the-betas.md",
       "title": "Blizzard applying some major changes to Diablo 4 based on feedback from the betas",
       "excerpt": "Blizzard has implemented a variety of fixes, and updates, to Diablo 4 since the beta weekends were held. The studio said the changes were made due to reviewing player feedback and gameplay data. The ...",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "GameRant on MSN",
         "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access.md",
-      "title": "Diablo 4 Fans Are Railing Against The Concept Of Early Access",
-      "excerpt": "Diablo 4 is scheduled to release across multiple platforms on June 6 with the promise of up to four days of early access to those who purchase the Deluxe or Ultimate editions, and that's not sitting ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-01-diablo-4-fans-are-railing-against-the-concept-of-early-access/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-fans-railing-against-early-access/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-fans-railing-against-early-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/04/diablo-4-ultimate-edition-lilith.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
         "images": null,
         "publishers": null,
         "authors": null

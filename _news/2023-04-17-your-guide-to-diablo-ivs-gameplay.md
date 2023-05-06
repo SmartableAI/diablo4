@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-dia
 webUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay"
 type: article
 quality: 162
-heat: 262
+heat: 242
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/xu/XUHO51131VDC1681937325089.png"
         width: 880
         height: 400
-        isCached: true
-  - title: "Diablo 4 endgame content is supposed to make you suffer, says game director"
-    excerpt: "Diablo 4 game director interview: endgame content is “not designed to be fair” Diablo 4 might not release on PlayStation, Xbox and PC until June 6, 2023, but players have already gotten a taste of ..."
-    publishedDateTime: 2023-04-16T22:00:00Z
-    webUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507"
-    ampWebUrl: "https://www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/gaming/diablo-4-endgame-content-supposed-29727507.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 105
-    images:
-      - url: "https://i2-prod.mirror.co.uk/gaming/article29727512.ece/ALTERNATES/s1200/0_d4-suffer.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Diablo 4 Has Good News for Xbox Gamers"
     excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."

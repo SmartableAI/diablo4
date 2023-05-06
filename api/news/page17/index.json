@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-12-12-diablo-4-heres-what-comes-in-each-edition.md",
+      "title": "Diablo 4: Here's What Comes in Each Edition",
+      "excerpt": "Everything you need to know to pre-order Diablo 4, including release date, what comes in each edition, preorder bonus, and more.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-12-diablo-4-heres-what-comes-in-each-edition/index.json",
+      "webUrl": "https://www.ign.com/articles/diablo-4-iv-release-date-ultimate-edition",
+      "originalUrl": "https://www.ign.com/articles/diablo-4-iv-release-date-ultimate-edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/12/12/diablo-iv-1670881827004.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-diablo-4-lilith-and-inarius-go-beyond-boring-heroes-and-villains.md",
       "title": "Diablo 4 Lilith and Inarius “go beyond” boring heroes and villains",
       "excerpt": "Diablo 4 Lilith and Inarius were once a match made in, well, not heaven, but whether they epitomise good and evil in Blizzard's action RPG game remains blurred ...",
@@ -1043,48 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-diablo-4-june-release-date-leaked-by-microsoft-ahead-of-the-game-awards.md",
-      "title": "Diablo 4 June release date leaked by Microsoft ahead of The Game Awards",
-      "excerpt": "Details on Diablo 4’s release have leaked again, this time via the Xbox store - which gives it an exact launch date.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2022-12-07-diablo-4-june-release-date-leaked-by-microsoft-ahead-of-the-game-awards/index.json",
-      "webUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
-      "originalUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/diablo4-multi-982a.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/12/07/diablo-4-june-release-date-leaked-by-microsoft-ahead-of-game-awards-17894165/amp/",
-      "publishedDateTime": "2022-12-06T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
