@@ -3,8 +3,8 @@ category: news
 title: "Diablo 4 Reveals Upcoming Developer Livestream to Detail Post-Launch Content"
 excerpt: "Diablo 4 reveals an upcoming livestream allowing players to look closer at what the developer will offer after the game's launch."
 publishedDateTime: 2023-05-03T16:30:55Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
+originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
+webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
 type: article
 quality: 84
 heat: -1
@@ -125,6 +125,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/qzCesBqcShEv784Hv+aF7pjZfj+4OMrPxEzBI5mIjkJUCMVBwqfhjwka0hzrwGyXwHbBbAftGZizCT8VXmGnRoncLkbbwz+k9csFSmAmJiDanFiUfuVOXmwUr9gdXqJg8F1AMnmRrji5/6yDf/NYouCpygzmZDaOtbO2SLa/VHYpmWpeiybF/dXdTZE+GUk8/Lkpjfzk+P6PgzBPXiSCGUkKxFSPORD8zLrccugaEnKoDLOhXQpAxpymyPS40DU5a3jb3xvidKlI51pqb59NTsUTa9gqNhLDbM6G4WAAId3kZV9yZybiD8gJj/TM3SHDKzqGE4JB6S5U8C1b6yqG95+4UEhERg9BHAOfXdtZV0=;A5yaN1h/GYDOiDgyX9o2GA=="
+secured: "pHBBSMFOE0tgRnbkL3bg1GOYA3s+arUCoZzVAF/AoTiHvI70/nqb5L2EYsoVTPe3OieBFFbiVpQ1EaMrgERn0PlI0WXg6ddTo7K3EhS13nQw6o6jK6x6Mo9VF/qM/WahyYq1LSLnneHK0/WfaiwVDEoGq68tGa2xd18P+QS3tN/ZSLZ/jnY3m3XkyvN46vbuUnJYfiIP5tmJA23KOyfnBX9dzK9eMnXxfsNJ8pj1hZF6ofykD1LK8adO0Z+nggpg/kY3AdQKGL16b8PyO2MnJtIUVa/mxxPa/ZeCygRow6+NfYY6ByhXX/8+UvTW8VQ51eRkYXNJlVFUQjKAbh9Gu3LtStQEd9c9zN4XVm7tPyY=;FOFS2AezWpByLsR8I5tk3A=="
 ---
 

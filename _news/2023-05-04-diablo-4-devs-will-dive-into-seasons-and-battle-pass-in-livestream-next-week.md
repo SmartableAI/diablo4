@@ -99,7 +99,7 @@ related:
   - title: "Diablo 4 Reveals Upcoming Developer Livestream to Detail Post-Launch Content"
     excerpt: "Diablo 4 reveals an upcoming livestream allowing players to look closer at what the developer will offer after the game's launch."
     publishedDateTime: 2023-05-03T16:30:55Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
+    webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-upcoming-developer-livestream-to-detail-post-launch-content/ar-AA1aI7rm"
     type: article
     provider:
       name: GameRant on MSN
