@@ -40,20 +40,6 @@ related:
         width: 1721
         height: 968
         isCached: true
-  - title: "Diablo 4 Confirms PC Requirements for Launch"
-    excerpt: "Diablo 4 confirms the system requirements for running the game on PC at launch, making players even more eager for the next entry in the franchise."
-    publishedDateTime: 2023-04-24T14:08:37Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-confirms-pc-requirements-for-launch/ar-AA1ahOxw"
-    type: article
-    provider:
-      name: GameRant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ahv9I.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=513&y=191"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diablo 4 PC system requirements"
     excerpt: "PC gamers preparing to dive into the new Diablo 4 action role-playing game officially launching on June 6, 2023. Will be pleased to know that Blizzard ..."
     publishedDateTime: 2023-04-25T04:24:00Z
@@ -79,34 +65,6 @@ related:
     quality: 87
     images:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anhVA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4: PC Requirements Confirmed for Launch"
-    excerpt: "Diablo 4′s launch date approaches, and anticipation for the action RPG reaches a fever pitch. Tons of exciting news and information about the upcoming game are revealed almost daily. Of course, some ..."
-    publishedDateTime: 2023-04-26T06:40:41Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-pc-requirements-confirmed-for-launch/ar-AA1an5r5"
-    type: article
-    provider:
-      name: PC Invasion on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anafz.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=469&y=314"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Diablo 4 PC system requirements confirmed - brace yourself if you want to play in 4K"
-    excerpt: "Blizzard has confirmed the final Diablo 4 PC system requirements. There are four spec tiers outlined in a post on ..."
-    publishedDateTime: 2023-04-26T05:05:00Z
-    webUrl: "https://www.eurogamer.net/diablo-4-pc-system-requirements-confirmed-brace-yourself-if-you-want-to-play-in-4k"
-    type: article
-    provider:
-      name: Eurogamer
-      domain: eurogamer.net
-    quality: 80
-    images:
-      - url: "https://assetsio.reedpopcdn.com/diablo-again.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         width: 1200
         height: 630
         isCached: true

@@ -7,8 +7,8 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23938756/make-sanctuary-yo
 webUrl: "https://news.blizzard.com/en-us/diablo4/23938756/make-sanctuary-yours-play-your-way-in-diablo-iv"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 202
+published: true
 
 provider:
   name: Blizzard
@@ -28,45 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Your guide to Diablo IV’s gameplay"
-    excerpt: "Learn a few tips and tricks to help you prepare to fight for the fate of the world."
-    publishedDateTime: 2023-04-17T17:14:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay"
+  - title: "Diablo 4: Here Are 6 Games to Play While You Wait"
+    excerpt: "Diablo 4 is fast approaching, but still not soon enough for fans eager to jump into hell. For those of you patiently waiting, here are 6 alternatives to play while you wait for Blizzard's next RPG."
+    publishedDateTime: 2023-04-28T07:18:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-here-are-6-games-to-play-while-you-wait"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
+      name: IGN
+      domain: ign.com
+    quality: 127
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png"
-        width: 1920
-        height: 1080
+      - url: "https://assets-prd.ignimgs.com/2023/04/26/diablo4-gamestoplay-blogroll-1682543141187.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Help Us Gear Up for Launch During the Diablo IV Server Slam"
-    excerpt: "Server Slam runs from May 12–14. Take up arms to defend Sanctuary from Lilith’s legions while helping us prepare our servers for Diablo IV’s launch on June 6."
-    publishedDateTime: 2023-04-20T18:55:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-for-launch-during-the-diablo-iv-server-slam"
+  - title: "Diablo 4 PC system requirements confirmed - brace yourself if you want to play in 4K"
+    excerpt: "Blizzard has confirmed the final Diablo 4 PC system requirements. There are four spec tiers outlined in a post on ..."
+    publishedDateTime: 2023-04-26T05:05:00Z
+    webUrl: "https://www.eurogamer.net/diablo-4-pc-system-requirements-confirmed-brace-yourself-if-you-want-to-play-in-4k"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 80
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/va/VAF7KU3P4CWI1681774163839.png"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "You'll need 32 gigabytes of RAM to play Diablo 4 at 4K"
-    excerpt: "But perhaps the most surprising thing about those specs is what Blizzard said your PC needs to play it at 4K ultra settings. As you can see below, running Diablo 4 at that tier requires 32GBs of RAM, as well as an RTX 3080, or equivalent 40 Series GPU (so"
-    publishedDateTime: 2023-04-25T04:39:00Z
-    webUrl: "https://www.vg247.com/diablo-4-pc-specs-4k-32gb-ram-monster"
-    type: article
-    provider:
-      name: vg247
-      domain: vg247.com
-    quality: 87
-    images:
-      - url: "https://assetsio.reedpopcdn.com/diablo-4-beta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      - url: "https://assetsio.reedpopcdn.com/diablo-again.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         width: 1200
         height: 630
         isCached: true

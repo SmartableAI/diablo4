@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-server-slam-beta-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/"
 type: article
 quality: 140
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Diablo 4: May 2023 Server Slam Beta Weekend Dates and Times"
-    excerpt: "After the successful betas back in late March, Diablo 4 is having another beta weekend that will be in mid-May 2023 before the full release in June."
-    publishedDateTime: 2023-04-25T10:54:27Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S"
-    type: article
-    provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akAxu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "mn01NAU1l+uVPKvEL03xFe53iqbP7tYatYdf9wI6BEM5c1Aln1vgp86ilt7C75Lsua6ToGHnXQcaMxPv44szfxHpY0abmYr5eWI0TtUhpMP2vfHQsFNjCrk0yenqEqHkDyafvBkQi9iVKSES59zT7lGJd+8GTmJ3olJmbQFYNt21+JqYWhI7zXiOUpzK0/t9DQeE9bGLqMKyOdh5V4Mz3q5G1vRrIKNXVn4L6rJXIuPk5VQgXkmr0iy5EmJV/jAIT1RJUVVgDN0UxNeMi78czSRhdz0MoUvawfTO7urQ9SJa3khn4OaHNVVc+elc8Z2e/PgVG0c8ViagVPrvGkTWAMVz96IQE/7VRqAhyh0R2gg=;FPC9DloS76BrEwVKgVyf9g=="
