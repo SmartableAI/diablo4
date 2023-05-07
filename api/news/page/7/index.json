@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-26-diablo-4-players-debate-the-place-of-summons-in-towns.md",
+      "title": "Diablo 4 Players Debate the Place of Summons in Towns",
+      "excerpt": "Diablo 4, the latest installment in the iconic action RPG series, has been captivating players with its thrilling gameplay, immersive world, and legendary loot. However, a rising debate among the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-players-debate-the-place-of-summons-in-towns/index.json",
+      "webUrl": "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-debate-the-place-of-summons-in-towns/ar-AA195Hjq",
+      "originalUrl": "https://www.msn.com/en-ca/entertainment/other/diablo-4-players-debate-the-place-of-summons-in-towns/ar-AA195Hjq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYnKHr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue.md",
       "title": "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue",
       "excerpt": "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue.",
@@ -1057,49 +1099,6 @@
       "topics": [
         "Diablo 4",
         "Druid"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-the-best-diablo-4-barbarian-build-for-solo-play.md",
-      "title": "The best Diablo 4 Barbarian build for solo play",
-      "excerpt": "The best Diablo 4 Barbarian build turns one of the RPG’s less impressive classes into a heavy-hitting DPS dealer. You can play the Barbarian just as well in a group or solo, though it does take some ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-25-the-best-diablo-4-barbarian-build-for-solo-play/index.json",
-      "webUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build",
-      "originalUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/23/diablo-4-barbarian-build_feature.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134755/diablo-4-barbarian-build?amphtml=1",
-      "publishedDateTime": "2023-03-25T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
       ]
     }
   ],

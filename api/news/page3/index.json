@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-24-if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko.md",
+      "title": "If you die in PvP while playing Diablo 4 hardcore, you're dead bucko",
+      "excerpt": "Dying in PvP in hardcore mode in Diablo 4 will mean permadeath for that character, Blizzard has confirmed. Before you say \"well duh\" this is actually a change in hardcore policy, with Blizzard indicating several years ago in interviews that hardcore chara",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-24-if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko/index.json",
+      "webUrl": "https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko/",
+      "originalUrl": "https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/juDbtG7qtpGKEJCWnooQ3-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-23-diablo-4-will-have-a-a-pinnacle-boss-intended-to-be-your-characters-final-challenge.md",
       "title": "Diablo 4 will have a a 'pinnacle boss' intended to be your character's final challenge",
       "excerpt": "The endgame of Diablo 4 sure does sound like it includes a bunch of MMO dailies in disguise, but not to worry: Blizzard has said the latest incarnation of its action RPG hasn't been designed to devour ...",
@@ -1047,48 +1098,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-16T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-16-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june.md",
-      "title": "Diablo 4 dungeons won't waste your time with boring objectives and dead ends when it launches this June",
-      "excerpt": "If there was one prominent criticism of Diablo 4's beta, it was the lack of dungeon variety and the monotony of the objectives within them. Blizzard published a blog post today that looks a lot like ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-16-diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/index.json",
-      "webUrl": "https://www.msn.com/en-my/money/technology/diablo-4-dungeons-won-t-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/ar-AA19SHdR",
-      "originalUrl": "https://www.msn.com/en-my/money/technology/diablo-4-dungeons-won-t-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june/ar-AA19SHdR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19T1eQ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T03:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",

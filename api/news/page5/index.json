@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-09-huge-new-announcement-for-diablo-4-asmongold-reacts.md",
+      "title": "Huge NEW Announcement For Diablo 4 | Asmongold Reacts",
+      "excerpt": "Diablo 4 announcements have been made and some say it's huge, some even say it's MASSIVE by @Toyhouze ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-09-huge-new-announcement-for-diablo-4-asmongold-reacts/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-04-09-huge-new-announcement-for-diablo-4-asmongold-reacts/",
+      "originalUrl": "https://youtube.com/watch?v=f7N_E5dAAHA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7N_E5dAAHA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-09T09:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asmongold TV",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-big-new-announcements-for-diablo-4.md",
       "title": "Big NEW Announcements for Diablo 4!",
       "excerpt": "Watch LIVE https://www.twitch.tv/toyhouze Click for More   If you haven't been keeping up with Diablo 4 announcements, we're ...",
@@ -1034,48 +1076,6 @@
       "provider": {
         "name": "GamesRadar+",
         "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice.md",
-      "title": "Diablo 4 quest designer explains how they put the RP in RPG with one simple choice",
-      "excerpt": "An early Diablo 4 quest lets you pick what troubles you the most for a cleansing ritual. Your choice doesn't change how the story plays out, but the quest accomplishes two important goals early in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/index.json",
-      "webUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "originalUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice/ar-AA199ljt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA199nrn.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=489&y=256",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null
