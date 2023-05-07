@@ -2,6 +2,48 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-22-why-diablo-4-is-so-obsessed-with-ears.md",
+      "title": "Why Diablo 4 Is So Obsessed With Ears",
+      "excerpt": "The suit cites the performance of Doom Eternal (pictured). (Screenshot: id Software) “We’re really excited about bringing that idea back in Diablo IV,” lead systems designer Joe Piepiora told Kotaku ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-22-why-diablo-4-is-so-obsessed-with-ears/index.json",
+      "webUrl": "https://www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/",
+      "originalUrl": "https://www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/02/23/exyol4qumel8uviiokqs.png?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2021/02/why-diablo-4-obsessed-with-ears/amp/",
+      "publishedDateTime": "2021-02-22T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-diablo-4-how-the-rogue-class-pvp-and-open-world-work.md",
       "title": "Diablo 4: How The Rogue Class, PvP, And Open World Work",
       "excerpt": "BlizzCon 2021's Diablo 4 presentation shed more light on the new class announcement and how its bringing back PvP elements.",
@@ -1051,48 +1093,6 @@
       "provider": {
         "name": "criticalhit.net",
         "domain": "criticalhit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked.md",
-      "title": "Overwatch 2 and Diablo 4 BlizzCon Announcements Reportedly Leaked",
-      "excerpt": "A Blizzard leaker who previously leaked Diablo 4 and a couple of other games has taken to Twitter to possibly spoil BlizzCon 2021, which is set to go down later this week. The rumor begins by claiming ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-16-overwatch-2-and-diablo-4-blizzcon-announcements-reportedly-leaked/index.json",
-      "webUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "originalUrl": "https://comicbook.com/gaming/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/gaming/amp/news/overwatch-2-diablo-4-blizzcon-2021-news-leak/",
-      "publishedDateTime": "2021-02-16T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
         "images": null,
         "publishers": null,
         "authors": null

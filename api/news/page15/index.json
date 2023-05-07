@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-02-20-diablo-4-open-beta-starts-next-month.md",
+      "title": "Diablo 4 open beta starts next month",
+      "excerpt": "DIABLO 4 has confirmed that it will hold an open beta so fans can playtest the game early. There will be two weekends when people can play, and players from most regions will be able to join in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-20-diablo-4-open-beta-starts-next-month/index.json",
+      "webUrl": "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/",
+      "originalUrl": "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/02/Diablo-4.png?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21445451/diablo-4-open-beta-starts-next-month/amp/",
+      "publishedDateTime": "2023-02-19T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-19-lirik-diablo-4-open-beta-announcement-cinematic-the-invincible-trailer-and-other-news.md",
       "title": "Lirik | Diablo 4 - Open Beta Announcement Cinematic | The Invincible - Trailer and other news",
       "excerpt": "Recorded - February 19, 2023 Lirik hilights - https://www.youtube.com/c/lirik Liriks twitch - https://www.twitch.tv/lirik Watch VOD's ...",
@@ -1060,48 +1102,6 @@
       "provider": {
         "name": "IBTimes UK",
         "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-diablo-4-release-date-trailers-and-latest-news.md",
-      "title": "‘Diablo 4’ release date, trailers and latest news",
-      "excerpt": "Diablo 4 has been a long time coming, having been rumoured for many years before being announced. It looks set to be a return to form for the series, and appears to be much more akin to the first ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-19-diablo-4-release-date-trailers-and-latest-news/index.json",
-      "webUrl": "https://www.nme.com/guides/gaming-guides/diablo-4-release-date-trailers-gameplay-3383717",
-      "originalUrl": "https://www.nme.com/guides/gaming-guides/diablo-4-release-date-trailers-gameplay-3383717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/08/Diablo-4-artwork.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
         "images": null,
         "publishers": null,
         "authors": null

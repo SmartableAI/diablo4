@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test.md",
+      "title": "Interview: Diablo 4 Developers Talk About Class Changes, Dungeons, and More Ahead of Final Beta Test",
+      "excerpt": "Hot on the heels of their first two beta weekends, which featured the full first act of Diablo 4's campaign, the developers have moved quickly to implement a whole host of changes based on player ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test/index.json",
+      "webUrl": "https://www.ign.com/articles/interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test",
+      "originalUrl": "https://www.ign.com/articles/interview-diablo-4-developers-talk-about-class-changes-dungeons-and-more-ahead-of-final-beta-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/06/12/diabloiv-necromancer-blogroll-2-1655057320620.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-someone-tell-bungie-about-diablo-4s-free-campaign-skip.md",
       "title": "Someone Tell Bungie About Diablo 4's Free Campaign Skip",
       "excerpt": "Diablo 4 will let players skip the campaign once they've completed it once - a feature Destiny 2 has desperately needed for years.",
@@ -1053,57 +1104,6 @@
         "name": "Dot Esports",
         "domain": "dotesports.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-diablo-4-launch-pc-system-requirements-revealed.md",
-      "title": "Diablo 4 Launch PC System Requirements Revealed",
-      "excerpt": "While Diablo 4 will attempt to run on systems that don't meet the recommended settings, Blizzard warns the game \"may be significantly diminished.\"",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-24-diablo-4-launch-pc-system-requirements-revealed/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4129181-diablo4systemrequirements.jpg",
-          "width": 1721,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/",
-      "publishedDateTime": "2023-04-24T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
