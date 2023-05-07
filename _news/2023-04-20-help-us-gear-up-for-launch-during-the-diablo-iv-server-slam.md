@@ -56,20 +56,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Diablo 4 Has Good News for Xbox Gamers"
-    excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
-    publishedDateTime: 2023-04-17T09:59:24Z
-    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
-    type: article
-    provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Ymjz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "You'll need 32 gigabytes of RAM to play Diablo 4 at 4K"
     excerpt: "But perhaps the most surprising thing about those specs is what Blizzard said your PC needs to play it at 4K ultra settings. As you can see below, running Diablo 4 at that tier requires 32GBs of RAM, as well as an RTX 3080, or equivalent 40 Series GPU (so"
     publishedDateTime: 2023-04-25T04:39:00Z

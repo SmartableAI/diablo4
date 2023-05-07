@@ -66,20 +66,6 @@ related:
         width: 880
         height: 400
         isCached: true
-  - title: "Diablo 4 Has Good News for Xbox Gamers"
-    excerpt: "Blizzard assuages Xbox performance worries stemming from Gotham Knights and Redfall, confirming Diablo 4 is meeting all targets."
-    publishedDateTime: 2023-04-17T09:59:24Z
-    webUrl: "https://www.msn.com/en-us/lifestyle/shopping/diablo-4-has-good-news-for-xbox-gamers/ar-AA19YmjE"
-    type: article
-    provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Ymjz.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WYh419KUtNJGH/o0Uyre04tVGjeJkSIaihwFqhxIAeF1B1t0AOBEWkgKsLwJHCFt7a9XT3Hz6bPHyXDR4Bt99mbAiBB1tOxPxTe7wz+F7hxdMPbupUr0UJ/nAhxt3iW75qmXexfPChoG1EzflZ3HcTGMjSfpIFeRuEHvtglwBeILBC9t/3SVGGSFbeCxtwlGHgfzrJM9HO8FIPtPa34zAjd6K3+yN1psxj/aldd0nz6AHwJY3bjY28TAucdMEY49y6Zk8sMsThSkt4X075j+L8cyBa1biotclKkXEweGVMTcQx4R3eFA54FSYQZ6HCdedMz1Q/zecHcekjIRLXKh7yzLlDaZ1zh2Tuzio1mRPRs=;ASRfX2+V2pUc+SquMoLgnQ=="
 ---
