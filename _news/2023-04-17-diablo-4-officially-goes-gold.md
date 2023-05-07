@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shacknews.com/article/135090/diablo-4-gone-gold?amphtml=
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/135090/diablo-4-gone-gold?amphtml=1"
 type: article
 quality: 107
-heat: 187
+heat: 147
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 goes gold ahead of June launch"
-    excerpt: "This means pre-launch development on Diablo 4 is done and that Blizzard has deemed the game ready to ship on June 6. Why does it matter? Well, in a time when game delays have become the norm instead ..."
-    publishedDateTime: 2023-04-17T11:58:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-goes-gold-ahead-of-june-launch/"
-    type: article
-    provider:
-      name: GamesRadar+
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cjZKMv3KTnHYbjq4V7FJAK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4 Goes Gold Ahead of June Release"
     excerpt: "Diablo 4 will be released in just under two months, but today Blizzard Entertainment announced that the game has gone gold."
     publishedDateTime: 2023-04-17T12:53:00Z
@@ -67,20 +53,6 @@ related:
       - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19YtP4.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1287&y=304"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Lilith is almost here — Diablo 4 has officially gone gold"
-    excerpt: "Diablo 4 is an upcoming action-RPG from Blizzard Entertainment, and one of the most anticipated game launches of the year. On Monday, Blizzard announced that Diablo 4 has officially gone gold, ..."
-    publishedDateTime: 2023-04-17T11:54:00Z
-    webUrl: "https://www.windowscentral.com/gaming/lilith-is-almost-here-diablo-4-has-officially-gone-gold"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UwMqnceomdt8YEzqxoBs5C-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "5ItKZ1xrF1o8M+Of/JpOGVbqaO8BJA48P8qSQM++aYXMuXEEhnpBOKkpKUlLX9SSDtqeTtVYNsOHJmEpaT96Xxii96Tic6NOnYTk2IFHokKQwoDQiWrIWE8LjeWxnxRjcQBZDp8ZTVEryMZNYDbyxWI+JaGn39qhhul+bDDdunsOi0r8N2PJraQTutA0bRpylc9Kjmo/qEEW1TCshMD39fi8zidCqFFccC6CJNVwpl3aZyPK3GHGVayyUrS6/myCoj8ikAJ8GLlo3IF1BIJ/excF+plmwYwXQQGZEvpAtEvtyV46dwfAaGzJ9CIUdiQYGd7/JqXE5u1PYZr2VWYS+okvZp9WUGgqIf7EA20rkB4=;49Qq44KneXZoABmScS2U/g=="
