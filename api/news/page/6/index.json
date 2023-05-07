@@ -2,6 +2,90 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-28-can-you-still-play-the-diablo-4-beta.md",
+      "title": "Can you still play the Diablo 4 beta",
+      "excerpt": "Can you still play the Diablo 4 beta is a question that many will be asking, now that the extremely busy open beta weekend has officially drawn to a close. After getting a taste of what's to come in ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-can-you-still-play-the-diablo-4-beta/index.json",
+      "webUrl": "https://www.gamesradar.com/diablo-4-beta-can-you-still-play/",
+      "originalUrl": "https://www.gamesradar.com/diablo-4-beta-can-you-still-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Kxr6PzRVw4vcq3ndvqCLvh-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years.md",
+      "title": "Diablo 4’s Beta Dungeon Problem Could Haunt Blizzard for Years",
+      "excerpt": "Diablo 4 is one of the highest-anticipated releases of the year, but after two beta weekends granting access to a sizable chunk of the game, many players are concerned about the repetitive dungeon ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-28-diablo-4s-beta-dungeon-problem-could-haunt-blizzard-for-years/index.json",
+      "webUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
+      "originalUrl": "https://www.msn.com/en-my/entertainment/gaming/diablo-4-s-beta-dungeon-problem-could-haunt-blizzard-for-years/ar-AA1994EM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA198LB9.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-this-diablo-4-map-reveals-just-how-big-the-full-game-will-be.md",
       "title": "This Diablo 4 map reveals just how big the full game will be",
       "excerpt": "The past couple of weeks I've been wholly addicted to Diablo 4, a hellish action RPG from Blizzard. For those who were wondering just how big Diablo 4's full map is, I recently dropped a post on ...",
@@ -981,90 +1065,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-26T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue.md",
-      "title": "Diablo 4’s beta already has some players calling for nerfs to Necromancer, Sorcerer, and Rogue",
-      "excerpt": "Diablo 4's beta already has some frustrated players calling on Blizzard to nerf three overpowered classes: Necromancer, Sorcerer, and Rogue.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue/index.json",
-      "webUrl": "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue",
-      "originalUrl": "https://dotesports.com/diablo/news/diablo-4s-beta-already-has-some-players-calling-for-nerfs-to-necromancer-sorcerer-and-rogue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dotesports.com/wp-content/uploads/2023/03/diablo-necromancer.jpg?resize=768,432",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dot Esports",
-        "domain": "dotesports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-26-diablo-4-class-tier-list.md",
-      "title": "Diablo 4: Class Tier List",
-      "excerpt": "Players are finally diving in to see what Diablo 4 has to offer. The two beta periods Blizzard held gave players a chance to play through just the first act of Diablo 4's story, but that's been more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-26-diablo-4-class-tier-list/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-class-tier-list/ar-AA196kGQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA196L55.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T10:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",

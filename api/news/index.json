@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-07-blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art.md",
+      "title": "Blizzard President Issues Statement, Debunks Diablo 4 Dev Using ‘AI Art’",
+      "excerpt": "The latest controversy to arise around AI art is that Blizzard Entertainment filed a patent regarding machine learning-based image generation.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-07-blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/index.json",
+      "webUrl": "https://www.msn.com/en-us/news/other/blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/ar-AA1aRkNH",
+      "originalUrl": "https://www.msn.com/en-us/news/other/blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/ar-AA1aRkNH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aRfAN.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PlayStation LifeStyle on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-final-fantasy-16-and-diablo-4-can-go-from-rivals-to-allies.md",
+      "title": "Final Fantasy 16 and Diablo 4 Can Go From Rivals to Allies",
+      "excerpt": "As two of 2023's most-anticipated releases, Diablo 4 and Final Fantasy 16 are positioned as competitors but actually share a lot in common.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-07-final-fantasy-16-and-diablo-4-can-go-from-rivals-to-allies/index.json",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/final-fantasy-16-and-diablo-4-can-go-from-rivals-to-allies/ar-AA1aR9Xr",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/final-fantasy-16-and-diablo-4-can-go-from-rivals-to-allies/ar-AA1aR9Xr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aRhU7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=250&y=173",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-06T23:22:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-diablo-4-actually-sets-up-its-own-stunning-cathedral.md",
       "title": "Diablo 4 Actually Sets Up Its Own Stunning Cathedral",
       "excerpt": "The team covered 2,400 square feet of canvas with paintings depicting characters and events from Diablo 4, in the series' characteristic gothic style. The entire thing was set up in one month, which ...",
@@ -984,99 +1068,6 @@
         "name": "TheGamer on MSN",
         "domain": "msn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-no-you-wont-have-to-wait-until-the-endgame-for-diablo-4s-mounts.md",
-      "title": "No, you won't have to wait until the endgame for Diablo 4's mounts",
-      "excerpt": "Mounts have been a major feature in Diablo 4 from the beginning—they're even a pre-order bonus—but leaked footage from the alpha and the endgame beta, as well as some datamined info, suggest that the requirement to unlock them was changed a few times",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-no-you-wont-have-to-wait-until-the-endgame-for-diablo-4s-mounts/index.json",
-      "webUrl": "https://www.msn.com/en-us/money/other/no-you-won-t-have-to-wait-until-the-endgame-for-diablo-4-s-mounts/ar-AA1as4p2",
-      "originalUrl": "https://www.msn.com/en-us/money/other/no-you-won-t-have-to-wait-until-the-endgame-for-diablo-4-s-mounts/ar-AA1as4p2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1as4p0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=528&y=249",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T06:47:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-blizzard-clarifies-how-diablo-4s-mounts-will-work.md",
-      "title": "Blizzard Clarifies How Diablo 4's Mounts Will Work",
-      "excerpt": "Blizzard recently clarified how mounts work in Diablo IV, and how they're fully customizable and shared between all characters on your profile.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-27-blizzard-clarifies-how-diablo-4s-mounts-will-work/index.json",
-      "webUrl": "https://www.gamespot.com/articles/blizzard-clarifies-how-diablo-4s-mounts-will-work/1100-6513636/",
-      "originalUrl": "https://www.gamespot.com/articles/blizzard-clarifies-how-diablo-4s-mounts-will-work/1100-6513636/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/blizzard-clarifies-how-diablo-4s-mounts-will-work/1100-6513636/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/blizzard-clarifies-how-diablo-4s-mounts-will-work/1100-6513636/",
-      "publishedDateTime": "2023-04-27T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
