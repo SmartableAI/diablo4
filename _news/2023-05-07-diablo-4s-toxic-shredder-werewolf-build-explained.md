@@ -3,8 +3,8 @@ category: news
 title: "Diablo 4's Toxic Shredder Werewolf Build Explained"
 excerpt: "The Toxic Shredder Werewolf build makes great use of one of Diablo 4's underutilized classes through focusing on one particular damage type."
 publishedDateTime: 2023-05-07T09:24:16Z
-originalUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-toxic-shredder-werewolf-build-explained/ar-AA1aRE5D"
-webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-toxic-shredder-werewolf-build-explained/ar-AA1aRE5D"
+originalUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-s-toxic-shredder-werewolf-build-explained/ar-AA1aRE5D"
+webUrl: "https://www.msn.com/en-xl/entertainment/other/diablo-4-s-toxic-shredder-werewolf-build-explained/ar-AA1aRE5D"
 type: article
 quality: 87
 heat: 87
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "t6ZM03AA0ZAYK84Q9yFZykA5lzJsKGtIzHlo/NSMW+VHgaJAYRKZa2UfqU8qkg1cujsSoNPTZvEJ+fv/H9HF0ayleMe8m/2JMiH8vJSjBBnyCD2iKPd6M9tgo6/unox17BtTE6QsPH7DEDDtvH4iYr0NU+cBP+ut5Vbbthi9Z26ooIPHKywrXP5ws7sMVbUxDne9MpPEAv5VzX4f/+naidqwSr9PGe0WJn5zNOYBqIAsKXDByMeZPWuvweVn2+zquL0HwoS5H7dPVIommLtpaMz9RmE9i75fcVXopVsoKKdDu2PcjKxGxUlFrMoSu/l5HryEHfle+jPtPhMW1FM0OhedyzDU48hOQzsWJl7ojSY=;cfMMbOam6NZ7W5sBIjm+HQ=="
+secured: "KOecW08PLvwK1Eh/JRkjIyv3ffPkAlAzFAlgBZOE395Aah4PDipAtCZFlNWlpNpPiEcurtVdW5WKtybv9FsxhZ+2HpddYU5EhVbD5w7XnmluzsmvtOYndyFA19M/HEBGpCYdMw42ZrbC3w/ydJyFolwSJb0qjozKAUXzhsACN3O10iL4eiHeT7ojZ52+Y2t3w+XVcU1EZUPrj7NsDoxfG52KkBALRjn6M/J4MbketQtuS2dT1hh7+/0MY9BUP5baaH1cQdBkf/H/DatWh7jxINrypESQy0/tBqRd9Gr+rO8TtZgxJlQ+4ixQnT7ZszGiqV4i5nxE7USBk80S/j6M6R80YkYODhIniriE6hNx0Sc=;EP4XD58lPy2PN7T6xtNhSQ=="
 ---
 
