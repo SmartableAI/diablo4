@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Diablo 4 Actually Sets Up Its Own Stunning Cathedral"
+    excerpt: "Sure, there was a slight dip with Diablo 3, but long-time fans are happy with what they've seen in the Diablo 4 beta test. While there are certain elements of the upcoming game that many fans are ..."
+    publishedDateTime: 2023-05-08T11:30:00Z
+    webUrl: "https://www.msn.com/pt-br/estilo-de-vida/other/diablo-4-actually-sets-up-its-own-stunning-cathedral/ar-AA1aQmiA"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aQBTH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=200"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sne8jAeDT3eYa23LNx20+RjHX/OYU2bQNMwWcxN/ocXrSZlnkE/FmvAZofllU2C/nNm5GVtmZ+kAuU6gW+YyEuT3PhKERFyFEK2OCKZ4Kwn11syi+zaWUJQAuFRkAZCf2gPsGKbT+AXiLkuIdWNowXIDSZWx/5SvfeF/EnmaCRvKFMpjJ+2B3gyPKWMTUEVqrvVHx5P04W02IXZ6lmBXiso35FFNKj+pb1KCShYOgTqEmdrdKLFhI6ZjYqvvmYZ/bjtt3LjnCPiwAyIJnXcIvQNg7FpYOECB/8c8XiSHMkrhSSnab2UKZNtwBhVoynVLCf9/hgIQ0GQHUbeTH0S+Mw+MmvfgdOvLTAVMBnjwH3w=;GArD/6ShzgfSS2BvFQ6s1Q=="
 ---

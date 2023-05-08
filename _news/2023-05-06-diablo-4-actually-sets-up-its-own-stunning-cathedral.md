@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/diablo-4-actual
 webUrl: "https://www.msn.com/en-us/lifestyle/lifestyle-buzz/diablo-4-actually-sets-up-its-own-stunning-cathedral/ar-AA1aQmiA"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/05/diablo-4-church-cathedral-france-opening-times-free.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Diablo 4 Actually Sets Up Its Own Stunning Cathedral"
+    excerpt: "Sure, there was a slight dip with Diablo 3, but long-time fans are happy with what they've seen in the Diablo 4 beta test. While there are certain elements of the upcoming game that many fans are ..."
+    publishedDateTime: 2023-05-08T11:30:00Z
+    webUrl: "https://www.msn.com/pt-br/estilo-de-vida/other/diablo-4-actually-sets-up-its-own-stunning-cathedral/ar-AA1aQmiA"
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aQBTH.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=502&y=200"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AIyv3oBjBQNx24cKfS9Wqb/rXN83/GE/yjezLLjkQah4L8ZXwSYMFNaNG5gPxXxn2nIkijwbI9CQsGYTgFESuBrGskWGvaLttTVc+RcdGYmgKuzazwwMV740gruXxgFkSYyf5mpvIOC0lS7kNkAQDs81r6p5bRtLlt2YMbMqWhYhwzoQEZyAxvRNYz4T2M4ubadWWcaOlmG8909qTu9cf3ZIuUgfuZaIcG3uy3jLCdY+VQfHO0ToRwdu5py0V0yx2sprwtDiO/8uLkp9k6YJvvcZK/0T7yBpzy+5ThYKmayWsT6WtHSYlTUEH+ayAO8JSRf5Hp93Ew68BjO4v3r8Y0x6mh0vfFqUSVMEtFWBeI8=;cyVzwtx7qT0VFkv2LOSPJQ=="
