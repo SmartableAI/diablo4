@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Blizzard President Issues Statement, Debunks Diablo 4 Dev Using ‘AI Art’"
-excerpt: "The latest controversy to arise around AI art is that Blizzard Entertainment filed a patent regarding machine learning-based image generation."
-publishedDateTime: 2023-05-07T07:10:00Z
-originalUrl: "https://www.msn.com/en-us/news/other/blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/ar-AA1aRkNH"
-webUrl: "https://www.msn.com/en-us/news/other/blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/ar-AA1aRkNH"
+excerpt: "The latest gaming controversy to arise around AI art is that Blizzard Entertainment filed a patent regarding “machine learning-based 2D structured image generation.” The patent has since been taken ..."
+publishedDateTime: 2023-05-07T10:53:00Z
+originalUrl: "https://www.yahoo.com/entertainment/blizzard-president-issues-statement-debunks-140837031.html"
+webUrl: "https://www.yahoo.com/entertainment/blizzard-president-issues-statement-debunks-140837031.html"
 type: article
-quality: 86
-heat: 86
-published: true
+quality: 66
+heat: 66
+published: false
 
 provider:
-  name: PlayStation LifeStyle on MSN
-  domain: msn.com
+  name: Yahoo
+  domain: yahoo.com
 
 topics:
   - Diablo 4
 
-images:
-  - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aRfAN.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "GP3mYcoxSmtDBTpvJ1JmCr/CWSD4LL+TgGEkytPjVkElfaZujaMQdQAcIeMBmcoZizlGAZk/nKf1qbsuFgsEuaw0dqaY77TwsmaMuAQ5SqO0L5fvjz6F1isx40Drpd1rtgOTg5+Pvs30D9NHWqGTlsbBMxVml4RuFcIsypn4pwSRuacRLf+7YWetixvcWBtACvZy6gpMeVZ5p6IwV71i7ILi6xunbn+p9i2JacDb52wEh5i0WWbISBgR3hjpZ19hCDWjV/r1tz0HZ09CJJhvkcacf1TzLpuhUuE+21SiiIzLuEHXvjcseV35QPfqvpROTWmddQr1FuMJ0zRv3Xzs6cZxx/7nWJxohpi9mgX4/iU=;wmr07aAlr+wfY4qo6QVC5Q=="
+secured: "ClQfGbw3pLG6PNvrPwiJZaxEBHOcJYd5Mzim1N77Vhpmkv7JpI3ewAOX9MF4h0B/+HQoR3IskCg+Tf2DBcnQVtPUUFNDjhGZmsFjHdjNuoqR1Ty+iVi+3bnL17v1TljIwsjILA60KzJQgKpbR3pRSP7TnUv6T8HYVxasUn/68LdDOKyDxlhdQxNceooOkPd4gtbnmWjrXcGLzSJ7/b1E3E+Xv4oQ0H/o3drcqmr2XBbqRdW2TE9xEvsassyPzocCr0hHv6Aymq/R2HFU2YaPPxfUGRtzFncX20VXhWRCibPBtQ3jflyEjK56qWuXd6+mDumGtD7gEg8nON4JPj9iz+Wrhb65IeILjsjIN24dqaU=;xv56eEvlQkStjz8AJ1UDZg=="
 ---
 

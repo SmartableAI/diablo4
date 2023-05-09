@@ -212,48 +212,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-07-blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art.md",
-      "title": "Blizzard President Issues Statement, Debunks Diablo 4 Dev Using ‘AI Art’",
-      "excerpt": "The latest controversy to arise around AI art is that Blizzard Entertainment filed a patent regarding machine learning-based image generation.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-07-blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/other/blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/ar-AA1aRkNH",
-      "originalUrl": "https://www.msn.com/en-us/news/other/blizzard-president-issues-statement-debunks-diablo-4-dev-using-ai-art/ar-AA1aRkNH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aRfAN.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PlayStation LifeStyle on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
       "path": "_news/2023-05-07-final-fantasy-16-and-diablo-4-can-go-from-rivals-to-allies.md",
       "title": "Final Fantasy 16 and Diablo 4 Can Go From Rivals to Allies",
       "excerpt": "As two of 2023's most-anticipated releases, Diablo 4 and Final Fantasy 16 are positioned as competitors but actually share a lot in common.",
@@ -1067,6 +1025,49 @@
       ],
       "topics": [
         "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-blizzard-responds-to-feedback-about-diablo-4s-druid.md",
+      "title": "Blizzard Responds to Feedback About Diablo 4's Druid",
+      "excerpt": "Some fans criticize the appearance of the Druid class in Diablo 4, prompting a response from the game's developers.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-29-blizzard-responds-to-feedback-about-diablo-4s-druid/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-responds-to-feedback-about-diablo-4s-druid/ar-AA1awwfw",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/blizzard-responds-to-feedback-about-diablo-4s-druid/ar-AA1awwfw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1awGFj.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-29T01:32:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
       ]
     }
   ],
