@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-21-diablo-4-open-beta-adding-2-more-classes-to-the-mix.md",
+      "title": "Diablo 4 Open Beta Adding 2 More Classes to the Mix",
+      "excerpt": "Diablo 4 is adding two classes to the available roster for its upcoming open beta, giving those who played the early access a reason to return.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4-open-beta-adding-2-more-classes-to-the-mix/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-adding-2-more-classes-to-the-mix/ar-AA18Ux2E",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-open-beta-adding-2-more-classes-to-the-mix/ar-AA18Ux2E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18UCk0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=511&y=121",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T07:09:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-diablo-4s-barbarian-will-get-some-early-game-buffs-following-beta-feedback.md",
       "title": "Diablo 4's Barbarian Will Get Some Early-Game Buffs Following Beta Feedback",
       "excerpt": "Feedback from Diablo IV's early access beta weekend will lead to the game's Barbarian class receiving some early-game buffs. More than a few players noticed how the Barbarian seemed to struggle in the ...",
@@ -1101,57 +1143,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/diablo4/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-how-to-solve-the-secret-of-the-spring-quest-in-diablo-4.md",
-      "title": "How to solve the Secret of the Spring quest in Diablo 4",
-      "excerpt": "The Diablo 4 (opens in new tab) Secret of the Spring quest is one that you can run into while out exploring the snowy plains and gloomy forests of the Fractured Peaks, but it's tricky to overcome ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-20-how-to-solve-the-secret-of-the-spring-quest-in-diablo-4/index.json",
-      "webUrl": "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest/",
-      "originalUrl": "https://www.pcgamer.com/diablo-4-secret-of-the-spring-riddle-quest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/WcKCwtwQtZzByYNH4ff4WL-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
