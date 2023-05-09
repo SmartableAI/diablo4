@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-24-playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues.md",
+      "title": "Playing Diablo 4 this weekend? Expect \"unprecedented traffic and queues\"",
+      "excerpt": "If you’re planning on jumping into Diablo 4’s open beta weekend today, Blizzard has detailed exactly what players should expect, and it’s “unprecedented queue times and traffic”. It’s not great for ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues/index.json",
+      "webUrl": "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues",
+      "originalUrl": "https://www.vg247.com/playing-diablo-4-this-weekend-expect-unprecedented-traffic-and-queues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.vg247.com/Diablo-4_fDYh9dD.jpg/BROK/thumbnail/1200x630/Diablo-4_fDYh9dD.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vg247",
+        "domain": "vg247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-this-frost-sorceror-build-in-diablo-4-is-so-op-it-basically-makes-the-game-play-itself.md",
       "title": "This frost Sorceror build in Diablo 4 is so OP it basically makes the game play itself",
       "excerpt": "You can build an overpowered version of every class from the Diablo 4 closed beta, but Sorcerer might take the cake. Diablo 4's open beta kicks off soon, so naturally ...",
@@ -1116,58 +1158,6 @@
       ],
       "topics": [
         "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-diablo-4s-barbarian-will-get-some-early-game-buffs-following-beta-feedback.md",
-      "title": "Diablo 4's Barbarian Will Get Some Early-Game Buffs Following Beta Feedback",
-      "excerpt": "Feedback from Diablo IV's early access beta weekend will lead to the game's Barbarian class receiving some early-game buffs. More than a few players noticed how the Barbarian seemed to struggle in the ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-21-diablo-4s-barbarian-will-get-some-early-game-buffs-following-beta-feedback/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114321-gameplay_d4_stronghold_v1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-barbarian-will-get-some-early-game-buffs-following-beta-feedback/1100-6512544/",
-      "publishedDateTime": "2023-03-21T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4",
-        "Barbarian"
       ]
     }
   ],
