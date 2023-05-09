@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "SECRET REVEAL in Diablo 4 teased by the Devs! | All the latest news & announcements"
-    excerpt: "A huge secret announcement in Diablo 4 is right around the corner and the Devs are teasing it. We've also got news on the ..."
-    publishedDateTime: 2023-04-19T11:56:57Z
-    webUrl: ""
-    type: video
-    provider:
-      name: The GameSensei
-      domain: youtube.com
-    quality: 131
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "9eDHn8Bk4yUG2/hsW7/KyB5sIFbKTLZDh+NL9LbS4x5iClxmlaEmj1H+Qtv6vM4BhL+tc7aLEIFWCCrjCU9Z8Zgm3GbQ27Au5sr5SyxzhB/4HgLEO8pHzXw2SLmWN7dz8Hl9CzvUoXUygZB9rOpr4z47i0mzO4aPjdcJ1uAgNhFXja8aMb3F6H6/C4JsP4Px3wqlql2LB+t4ef9/n6c6k7swRadK12I4xHHxo7poqgI6OaLfFcweEhXenb7kylCyLDQOy9PImpL602QhiohgrTS5ltvpryaZuY1bPtczEC5UF8AZRz9fLtiWYCR87t/EWmRszaMizBYX3toItQl1M8C6lmofu7001Y5J9ExVhm5WHHQJNYTKgRpwblB6eV1WqVw5eoTBxzSaRQprlueTxyvwtYVi14AS6XZilBvlV/e7b2YUhK6Kevd9cHxuw0xH;BUFygOl4M07xjLFfNQ8YeQ=="
 ---

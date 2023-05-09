@@ -6,7 +6,7 @@ publishedDateTime: 2023-04-21T21:20:32Z
 originalUrl: "https://youtube.com/watch?v=2GtGrIahxC8"
 type: video
 quality: 137
-heat: 177
+heat: 157
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2GtGrIahxC8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -34,20 +34,6 @@ related:
       name: Karpo Gaming
       domain: youtube.com
     quality: 132
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "SECRET REVEAL in Diablo 4 teased by the Devs! | All the latest news & announcements"
-    excerpt: "A huge secret announcement in Diablo 4 is right around the corner and the Devs are teasing it. We've also got news on the ..."
-    publishedDateTime: 2023-04-19T11:56:57Z
-    webUrl: ""
-    type: video
-    provider:
-      name: The GameSensei
-      domain: youtube.com
-    quality: 131
     images:
       - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
         width: 1200
