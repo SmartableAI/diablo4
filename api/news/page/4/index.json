@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-17-diablo-4-xbox-series-xs-performance-and-frame-rate-targets-revealed.md",
+      "title": "Diablo 4 Xbox Series X|S Performance And Frame Rate Targets Revealed",
+      "excerpt": "Blizzard has revealed Diablo 4's targeted performance details across Xbox Series X|S. On Xbox Series X, the game will support full 4K at 60fps, while the Xbox Series S version will run at 1080p at fps ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-xbox-series-xs-performance-and-frame-rate-targets-revealed/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-xbox-series-consoles-performance-and-frame-rate-targets-revealed/1100-6513313/",
+      "publishedDateTime": "2023-04-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-will-tyrael-be-in-diablo-4.md",
       "title": "Will Tyrael be in Diablo 4?",
       "excerpt": "I am a real fan of the Diablo franchise, and one of my favorite characters is Tyrael. I wrote a KYL about him in 2015, right around the time we launched th ...",
@@ -1042,48 +1093,6 @@
       "provider": {
         "name": "The Mirror",
         "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer.md",
-      "title": "New Diablo 4 Trailer Is All About the Sorcerer",
-      "excerpt": "Blizzard Entertainment released a new trailer of its upcoming RPG Diablo 4, focusing on one of the playable classes available in the game, the sorcerer.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-13-new-diablo-4-trailer-is-all-about-the-sorcerer/index.json",
-      "webUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
-      "originalUrl": "https://techraptor.net/gaming/news/new-diablo-4-trailer-is-all-about-sorcerer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techraptor.net/sites/default/files/styles/image_header/public/2023-04/Diablo%204%20Sorcerer.jpg?itok=d6rpcEQ9",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRaptor",
-        "domain": "techraptor.net",
         "images": null,
         "publishers": null,
         "authors": null
