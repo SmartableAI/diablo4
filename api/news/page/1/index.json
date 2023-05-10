@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-best-diablo-4-barbarian-build-rend-enemies-and-bleed-bosses.md",
+      "title": "Best Diablo 4 Barbarian build: Rend enemies and bleed bosses",
+      "excerpt": "The best Diablo 4 Barbarian build for my ticket utilises the class's incredible bleed abilities. Attacks like Rend can be absurdly strong, stacking damage on bosses and enemies that'll keep ticking ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-10-best-diablo-4-barbarian-build-rend-enemies-and-bleed-bosses/index.json",
+      "webUrl": "https://www.pcgamer.com/best-diablo-4-barbarian-build/",
+      "originalUrl": "https://www.pcgamer.com/best-diablo-4-barbarian-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5K7v5AG8ZCvfY927hoNUgW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Barbarian"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-diablo-4-server-slam-beta-this-weekend-will-support-dlss-3-frame-generation.md",
       "title": "Diablo 4 Server Slam Beta this weekend will support DLSS 3 Frame Generation",
       "excerpt": "Players will get a chance to check out DLSS 3 in Diablo 4 ahead of launch, with the technology confirmed for the upcoming Server Slam this weekend.",
@@ -31,48 +83,6 @@
       "provider": {
         "name": "TweakTown",
         "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-best-diablo-4-rogue-build-twisting-blades-with-high-mobility-aoe-damage.md",
-      "title": "Best Diablo 4 Rogue build: Twisting Blades with high mobility AOE damage",
-      "excerpt": "Say what you will about glass cannon classes, but the best Diablo 4 rogue build can help you actually survive at close range while dealing all the intense damage that scoundrels with daggers are known ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-09-best-diablo-4-rogue-build-twisting-blades-with-high-mobility-aoe-damage/index.json",
-      "webUrl": "https://www.msn.com/en-us/news/technology/best-diablo-4-rogue-build-twisting-blades-with-high-mobility-aoe-damage/ar-AA1aXZR8",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/best-diablo-4-rogue-build-twisting-blades-with-high-mobility-aoe-damage/ar-AA1aXZR8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1as4p0.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=528&y=249",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:49:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer on MSN",
-        "domain": "msn.com",
         "images": null,
         "publishers": null,
         "authors": null

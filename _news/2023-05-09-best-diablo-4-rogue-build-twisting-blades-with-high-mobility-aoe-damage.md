@@ -7,8 +7,8 @@ originalUrl: "https://www.msn.com/en-us/news/technology/best-diablo-4-rogue-buil
 webUrl: "https://www.msn.com/en-us/news/technology/best-diablo-4-rogue-build-twisting-blades-with-high-mobility-aoe-damage/ar-AA1aXZR8"
 type: article
 quality: 86
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Gamer on MSN
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Best Diablo 4 Barbarian build: Rend enemies and bleed bosses"
+    excerpt: "The best Diablo 4 Barbarian build for my ticket utilises the class's incredible bleed abilities. Attacks like Rend can be absurdly strong, stacking damage on bosses and enemies that'll keep ticking ..."
+    publishedDateTime: 2023-05-10T07:32:00Z
+    webUrl: "https://www.pcgamer.com/best-diablo-4-barbarian-build/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 144
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5K7v5AG8ZCvfY927hoNUgW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oAniunmr8JkosyTUxkFrTCFVFl+oVE8wXXIdfyN9bimy0Z1JLWhNKZd8qK8tcZN0DN9HZez2RvS1OETNPIs+qMTvJRLde7KdOonVMDBvXN6kRLkf+iAA5nOyIWacFmUaX9nDP5H150XAbicaB3uB3yTUz9XGzFMoVayeB1GSBI9rmMi9sY36CKQ2ePs0jRH98Gf8dF2glUrYobwAm7gOKzatJCTaOEMF7BCiyJmL1UtWLzDpAYgilV2RT/fOQxXu7OacClUG7Zfu7ozSHCsriQtzyahO7Jd1tjw6ZKa4Qioijn3M1JkvAghltGvhERWxDTVvr/Oejl4PnSSLQwfSYQgP8b5rV/nKI8Lqalelnxo=;x2JAPpIVNqvbqXr+lje6PA=="
 ---
