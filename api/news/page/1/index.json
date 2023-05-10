@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-10-diablo-4s-immortal-sorceress-build-explained.md",
+      "title": "Diablo 4's Immortal Sorceress Build Explained",
+      "excerpt": "The Sorceress class in Diablo 4 has proven to be one of the most popular and powerful, with the Immortal-type build showcasing why.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-10-diablo-4s-immortal-sorceress-build-explained/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-immortal-sorceress-build-explained/ar-AA1b0R1q",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4s-immortal-sorceress-build-explained/ar-AA1b0R1q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1b17ZG.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=508&y=139",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T04:20:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Sorceress"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-best-diablo-4-barbarian-build-rend-enemies-and-bleed-bosses.md",
       "title": "Best Diablo 4 Barbarian build: Rend enemies and bleed bosses",
       "excerpt": "The best Diablo 4 Barbarian build for my ticket utilises the class's incredible bleed abilities. Attacks like Rend can be absurdly strong, stacking damage on bosses and enemies that'll keep ticking ...",
@@ -436,48 +479,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-diablo-4s-toxic-shredder-werewolf-build-explained.md",
-      "title": "Diablo 4's Toxic Shredder Werewolf Build Explained",
-      "excerpt": "The Toxic Shredder Werewolf build makes great use of one of Diablo 4's underutilized classes through focusing on one particular damage type.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-07-diablo-4s-toxic-shredder-werewolf-build-explained/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-toxic-shredder-werewolf-build-explained/ar-AA1aRE5D",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-toxic-shredder-werewolf-build-explained/ar-AA1aRE5D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aRGFk.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T02:24:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
