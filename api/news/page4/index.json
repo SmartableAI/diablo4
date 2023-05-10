@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-17-diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it.md",
+      "title": "Diablo 4 Devs Have \"No Plans\" For Key Map Feature, And Fans Are Divided On It",
+      "excerpt": "A recent statement from Blizzard indicates that Diablo 4 will not have an overlay map, and some are upset about it.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-devs-have-no-plans-for-key-map-feature-and-fans-are-divided-on-it/1100-6513321/",
+      "publishedDateTime": "2023-04-17T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-diablo-4-officially-goes-gold.md",
       "title": "Diablo 4 officially goes gold",
       "excerpt": "Following several mostly successful beta sessions over the last few months, development on Diablo 4 officially appears to be complete. Entertainment has announced that th ...",
@@ -1050,48 +1101,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players.md",
-      "title": "Diablo 4 Players Can Earn PvP Rewards Without Killing Other Players",
-      "excerpt": "Blizzard's Diablo series of action RPGs has a long and rich history of competitive PvP, and it looks like the upcoming Diablo 4 will not only build on this legacy but will also make PvP more ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/index.json",
-      "webUrl": "https://www.msn.com/de-de/sport/other/diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/ar-AA19MuxD",
-      "originalUrl": "https://www.msn.com/de-de/sport/other/diablo-4-players-can-earn-pvp-rewards-without-killing-other-players/ar-AA19MuxD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Mzjs.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
