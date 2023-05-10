@@ -46,6 +46,20 @@ related:
         width: 1710
         height: 962
         isCached: true
+  - title: "Diablo 4 Battle Pass Pricing and Season Details Revealed"
+    excerpt: "Diablo IV will offer three battle pass tiers with every new season, but you'll have a limited time to score some of the unique items and powers unlocked by premium currency."
+    publishedDateTime: 2023-05-10T12:33:00Z
+    webUrl: "https://www.ign.com/articles/diablo-4-battle-pass-pricing-season-details-revealed"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/05/10/diablo-iv-prices-1683754118350.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Blizzard detailing Diablo 4's seasons, battle pass, and cosmetics next week"
     excerpt: "Blizzard will be sharing more details on Diablo 4's live-service trappings as part of a newly announced Developer ..."
     publishedDateTime: 2023-05-03T14:53:00Z

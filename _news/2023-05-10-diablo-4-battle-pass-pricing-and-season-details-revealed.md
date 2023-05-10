@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Blizzard detailing Diablo 4's seasons, battle pass, and cosmetics next week"
-excerpt: "Blizzard will be sharing more details on Diablo 4's live-service trappings as part of a newly announced Developer ..."
-publishedDateTime: 2023-05-03T14:53:00Z
-originalUrl: "https://www.eurogamer.net/blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week"
-webUrl: "https://www.eurogamer.net/blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week"
+title: "Diablo 4 Battle Pass Pricing and Season Details Revealed"
+excerpt: "Diablo IV will offer three battle pass tiers with every new season, but you'll have a limited time to score some of the unique items and powers unlocked by premium currency."
+publishedDateTime: 2023-05-10T12:33:00Z
+originalUrl: "https://www.ign.com/articles/diablo-4-battle-pass-pricing-season-details-revealed"
+webUrl: "https://www.ign.com/articles/diablo-4-battle-pass-pricing-season-details-revealed"
 type: article
-quality: 85
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: Eurogamer
-  domain: eurogamer.net
+  name: IGN
+  domain: ign.com
+  images:
+    - url: "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Diablo 4
 
 images:
-  - url: "https://assetsio.reedpopcdn.com/Diablo-4-beta-release-dates%2C-how-to-access-closed-and-open-beta-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    width: 1200
-    height: 630
+  - url: "https://assets-prd.ignimgs.com/2023/05/10/diablo-iv-prices-1683754118350.jpg?width=1280"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -40,20 +44,6 @@ related:
         width: 1710
         height: 962
         isCached: true
-  - title: "Diablo 4 Battle Pass Pricing and Season Details Revealed"
-    excerpt: "Diablo IV will offer three battle pass tiers with every new season, but you'll have a limited time to score some of the unique items and powers unlocked by premium currency."
-    publishedDateTime: 2023-05-10T12:33:00Z
-    webUrl: "https://www.ign.com/articles/diablo-4-battle-pass-pricing-season-details-revealed"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 127
-    images:
-      - url: "https://assets-prd.ignimgs.com/2023/05/10/diablo-iv-prices-1683754118350.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Details On Diablo 4’s Beefy Seasons: Story Quests, Battle Pass, Loot, Even New Monsters"
     excerpt: "Speaking with Diablo franchise general manger Rod Fergusson and associate game director Joseph Piepiora in an exclusive interview about post-launch live content, they assured me that the game would ..."
     publishedDateTime: 2023-05-10T12:00:00Z
@@ -70,7 +60,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Blizzard detailing Diablo 4's seasons, battle pass, and cosmetics next week"
+    excerpt: "Blizzard will be sharing more details on Diablo 4's live-service trappings as part of a newly announced Developer ..."
+    publishedDateTime: 2023-05-03T14:53:00Z
+    webUrl: "https://www.eurogamer.net/blizzard-detailing-diablo-4s-seasons-battle-pass-and-cosmetics-next-week"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 85
+    images:
+      - url: "https://assetsio.reedpopcdn.com/Diablo-4-beta-release-dates%2C-how-to-access-closed-and-open-beta-cover.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "by/a5JLdQRcn31/MHHRboyMyqky+/ivq128Y6vhumQ3mVvbIjkqjfdGBcB2EaoGVyd9GE1XbXSv7lDI9p9ZREjQcr4p9MQ/Uh6NU0bVfKXvoM37h5VMket4dwwrEi1S+JmHUT6obQy0sgUXeUDahDT8UBOidjgf+T33pKm1xDSA/MM4VbLuhWraSc39bdwWlbGWieOFJMdIYyIFvQZ11JazNTzZG4WF9LgIzQyKGdov1LW9ksIznMs7dtgoZ3VXe1zuB3ZIPn509Hf3fA2cZs9CbVUBDoHv9wEofAlopGib3U7rVL4v0gtuirBBNX96A7ceBOTVdFXudOPenAqcxgKCzQABHNZOYi/75juJzstk=;yTGyg1zVx2Hdh8AfK1HIMA=="
+secured: "wdqZ/UtaZ/W0tPHPhgdMz3ZGco032yZgad5GN7s2NdNzHeEM/Rp6nxggnUB1L1oAYJgCb/DJoJUrR9TlbmkrgM3mz4f0Xr1T6m/LY7+A2BBTnBsQAzqX+DiaaE4JlTo+ybHromKDl+f7w1DyN9DyP/J8bdeP6JdHf16mPltS2ftDaxKDTJfP2yp7da3r1YaAbqjIERREI/skrkJZuDoW6HnuL/XxSowadUetqCOOn+f9mL1qcxGSFkd2gW5SlGpK+kNMWB1AH8XA1XrQ1AE7SeWoU0qYIzBA8kOQ9rZ/OhzCIysZJTFSMOiQ8bNZe6uvd9QXf1H/Bg03cixSyFyjerqpSm3vZZUY8QQda9FOGHk=;2mfzGMC5fYP7MPU6b1oGsA=="
 ---
 

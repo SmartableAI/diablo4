@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-14-diablo-4-reveals-changes-based-on-beta-feedback.md",
+      "title": "Diablo 4 Reveals Changes Based on Beta Feedback",
+      "excerpt": "With Blizzard set to launch Diablo 4 in June, the developer has held multiple test phases for the action RPG and has now revealed some changes that have been made based on fan feedback from the beta.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4-reveals-changes-based-on-beta-feedback/index.json",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-reveals-changes-based-on-beta-feedback/ar-AA19SlR2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19S4Kv.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=615&y=120",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-diablo-4-receives-major-updates-ahead-of-launch-including-massive-nerf-to-necromancer.md",
       "title": "Diablo 4 receives major updates ahead of launch including massive nerf to Necromancer",
       "excerpt": "Diablo 4 has received a set of major tweaks ahead of its launch date, including a significant update to the popular Necromancer class.",
@@ -1039,48 +1081,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-31T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster.md",
-      "title": "Diablo 4 Beta Stats Prove Launch Day Servers Will Be A Disaster",
-      "excerpt": "The Open Beta for Diablo 4 has come and gone, and now Blizzard has shared some of the more fun stats that show just how big this period of Beta testing was for the game, with a total of over 61.5 ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-31-diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster/index.json",
-      "webUrl": "https://www.msn.com/en-gb/entertainment/gaming/diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster/ar-AA19kaxP",
-      "originalUrl": "https://www.msn.com/en-gb/entertainment/gaming/diablo-4-beta-stats-prove-launch-day-servers-will-be-a-disaster/ar-AA19kaxP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19kfmw.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T08:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MSN",

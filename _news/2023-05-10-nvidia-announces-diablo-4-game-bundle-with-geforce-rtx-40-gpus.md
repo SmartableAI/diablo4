@@ -18,6 +18,20 @@ topics:
   - Diablo 4
 
 related:
+  - title: "Deal Alert: Buy a GeForce RTX 40 Series GPU and Get Diablo 4 for Free"
+    excerpt: "Right now if you buy select GeForce RTX 40 series video cards or desktop computers, you can get a free copy of Diablo 4. This is the most highly anticipated PC games of 2023, and barring any ..."
+    publishedDateTime: 2023-05-10T13:40:00Z
+    webUrl: "https://www.ign.com/articles/deal-alert-buy-a-geforce-rtx-40-series-gpu-and-get-diablo-4-for-free"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/05/10/diablo4-1683756103844.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NVIDIA's next GeForce RTX 40 Series game bundle is a big one, Diablo 4"
     excerpt: "It's one Hell of a deal, NVIDIA is partnering with Blizzard to give away copies of Diablo 4 on PC with qualifying GeForce RTX 40 Series GPU purchases."
     publishedDateTime: 2023-05-09T04:37:00Z

@@ -53,6 +53,108 @@
       ]
     },
     {
+      "path": "_news/2023-05-10-diablo-4-online-store-will-offer-only-cosmetic-items.md",
+      "title": "Diablo 4 Online Store Will Offer Only Cosmetic Items",
+      "excerpt": "Blizzard announced its plans for Diablo IV's post-launch content and clarified how the online shop will work. You can buy shop cosmetics to alter or change the aesthetics of the armor you have ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-10-diablo-4-online-store-will-offer-only-cosmetic-items/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-online-store-will-offer-only-cosmetic-items/1100-6514013/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-online-store-will-offer-only-cosmetic-items/1100-6514013/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1574/15746725/4108371-88.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-online-store-will-offer-only-cosmetic-items/1100-6514013/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-online-store-will-offer-only-cosmetic-items/1100-6514013/",
+      "publishedDateTime": "2023-05-10T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-deal-alert-buy-a-geforce-rtx-40-series-gpu-and-get-diablo-4-for-free.md",
+      "title": "Deal Alert: Buy a GeForce RTX 40 Series GPU and Get Diablo 4 for Free",
+      "excerpt": "Right now if you buy select GeForce RTX 40 series video cards or desktop computers, you can get a free copy of Diablo 4. This is the most highly anticipated PC games of 2023, and barring any ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-10-deal-alert-buy-a-geforce-rtx-40-series-gpu-and-get-diablo-4-for-free/index.json",
+      "webUrl": "https://www.ign.com/articles/deal-alert-buy-a-geforce-rtx-40-series-gpu-and-get-diablo-4-for-free",
+      "originalUrl": "https://www.ign.com/articles/deal-alert-buy-a-geforce-rtx-40-series-gpu-and-get-diablo-4-for-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2023/05/10/diablo4-1683756103844.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/ign.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-diablo-4-season-1-begins-in-july-blizzard-details-seasonal-bonuses-and-battle-pass-rewards.md",
       "title": "Diablo 4 Season 1 Begins In July, Blizzard Details Seasonal Bonuses And Battle Pass Rewards",
       "excerpt": "Blizzard will let you dive straight into Diablo 4's new seasonal content (as long as you've completed the campaign once before).",
@@ -61,7 +163,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-season-1-begins-in-july-blizzard-details-seasonal-bonuses-and-battle-pass-rewards/1100-6514005/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -435,7 +537,7 @@
       "originalUrl": "https://www.pcgamesn.com/diablo-4/beta-release-date",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -456,48 +558,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-nvidias-next-geforce-rtx-40-series-game-bundle-is-a-big-one-diablo-4.md",
-      "title": "NVIDIA's next GeForce RTX 40 Series game bundle is a big one, Diablo 4",
-      "excerpt": "It's one Hell of a deal, NVIDIA is partnering with Blizzard to give away copies of Diablo 4 on PC with qualifying GeForce RTX 40 Series GPU purchases.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-09-nvidias-next-geforce-rtx-40-series-game-bundle-is-a-big-one-diablo-4/index.json",
-      "webUrl": "https://www.tweaktown.com/news/91392/nvidias-next-geforce-rtx-40-series-game-bundle-is-big-one-diablo-4/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/91392/nvidias-next-geforce-rtx-40-series-game-bundle-is-big-one-diablo-4/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/1/91392_01_nvidias-next-geforce-game-bundle-is-big-one-diablo-4-with-bonus-items.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1053,48 +1113,6 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-the-best-diablo-4-pre-order-deals-on-ps5-ps4-xbox-and-pc.md",
-      "title": "The best Diablo 4 pre-order deals on PS5, PS4, Xbox and PC",
-      "excerpt": "You can also buy Diablo IV from the PlayStation Store as a digital download which includes both the PS4 and PS5 versions, with the Standard Edition, Deluxe Edition and Ultimate Edition available. The ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-05-03-the-best-diablo-4-pre-order-deals-on-ps5-ps4-xbox-and-pc/index.json",
-      "webUrl": "https://www.digitalspy.com/tech/a43780545/buy-diablo-4-ps5-ps4-xbox-pc/",
-      "originalUrl": "https://www.digitalspy.com/tech/a43780545/buy-diablo-4-ps5-ps4-xbox-pc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diablo-4-6452645aa6a7d.jpg?crop=1.00xw:0.893xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Spy",
-        "domain": "digitalspy.com",
         "images": null,
         "publishers": null,
         "authors": null

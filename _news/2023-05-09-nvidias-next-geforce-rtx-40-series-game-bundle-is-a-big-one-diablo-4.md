@@ -7,8 +7,8 @@ originalUrl: "https://www.tweaktown.com/news/91392/nvidias-next-geforce-rtx-40-s
 webUrl: "https://www.tweaktown.com/news/91392/nvidias-next-geforce-rtx-40-series-game-bundle-is-big-one-diablo-4/index.html"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TweakTown
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deal Alert: Buy a GeForce RTX 40 Series GPU and Get Diablo 4 for Free"
+    excerpt: "Right now if you buy select GeForce RTX 40 series video cards or desktop computers, you can get a free copy of Diablo 4. This is the most highly anticipated PC games of 2023, and barring any ..."
+    publishedDateTime: 2023-05-10T13:40:00Z
+    webUrl: "https://www.ign.com/articles/deal-alert-buy-a-geforce-rtx-40-series-gpu-and-get-diablo-4-for-free"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 127
+    images:
+      - url: "https://assets-prd.ignimgs.com/2023/05/10/diablo4-1683756103844.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NVIDIA Announces Diablo 4 Game Bundle with GeForce RTX 40 GPUs"
     excerpt: "NVIDIA has announced a new game bundle featuring Diablo 4, which will be available for free with the purchase of desktop GeForce RTX 40 series graphics ..."
     publishedDateTime: 2023-05-10T00:42:00Z
