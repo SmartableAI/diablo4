@@ -3,15 +3,15 @@ category: news
 title: "Diablo 4 Might Have Another KFC Promotion Soon"
 excerpt: "A credible Diablo 4 leaker reveals another potential KFC promotion may be coming soon, bringing with it some in-game rewards."
 publishedDateTime: 2023-05-08T15:20:07Z
-originalUrl: "https://www.msn.com/en-sg/money/other/diablo-4-might-have-another-kfc-promotion-soon/ar-AA1aUhwY"
-webUrl: "https://www.msn.com/en-sg/money/other/diablo-4-might-have-another-kfc-promotion-soon/ar-AA1aUhwY"
+originalUrl: "https://www.msn.com/en-us/money/technologyinvesting/diablo-4-might-have-another-kfc-promotion-soon/ar-AA1aUhwY"
+webUrl: "https://www.msn.com/en-us/money/technologyinvesting/diablo-4-might-have-another-kfc-promotion-soon/ar-AA1aUhwY"
 type: article
 quality: 87
 heat: 87
 published: true
 
 provider:
-  name: GameRant on MSN
+  name: Game Rant on MSN
   domain: msn.com
 
 topics:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "GWnI8ejEMKQCHIeGg3ruuxaKcpKtnCxi2o5vXJz28iUNUFjaMSIYttIAS6+phQU8PrQFUGXk1yRXP0Idd6GxFLKec1yIKkG7CQOedW43/iz4RvEnyIGzyISi/wpjiw/GCf2iYL6uMNHcMgLWivxSmHwcuWogOohVqJeAGqinlerRFgz01BpBr/wCKqyg4bhk2Lq4KZGnoAfCA9EaWAbzrMAnMm6uf5Cb20HfHWSJ2Kjas3hwkljek1tcS1xtOGDTD0AWxH3tn9oPWRluY/smENA5r3rtaUFhABrEvj0Xpb0UM6cNBd0mpZoj94nou9ZRgN6Eq7hbUR27MG46o88GEIS0ee9I0mt/0/MmpK+Zffg=;CfTGGQEQL2n2ycx3cgCJQg=="
+secured: "B64U/Coaeb8WTN3QoD37fzBKcHaYLlZbMsuKntZ1l5A2UDhKuQ+b1sXz1yVn1btimjqRCChIcYFOBZrzGru+B0TEbyPvrWVBK3Dk0GofnCckOWSwfOCVjYz49KZATSZQYmANem9aTiapac+2N2jMrKbhT4bWuftC/6u1KnuEa/OAfUijnMcRG8ceb+LONtbJ8XBzPR824yaZ5uLXkygkqGtUw4caQPwUGiihg5UfRU0VYS1LAJOFEVxGts7W2lf9viKdcH+BfRoFSeMkl41xkscWig9SiFADJEhmEINHkUhy4wkMe3ip07T39x5tHnGge6BvNpZjINNqSJSWF9oL76De4syRUGX1cPb/ujfHZCE=;IKyVoKtpGBvl3RIHFrUZPg=="
 ---
 
