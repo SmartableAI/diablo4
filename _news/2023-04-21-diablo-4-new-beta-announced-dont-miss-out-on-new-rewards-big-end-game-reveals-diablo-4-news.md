@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NEW CLASS INCOMING? Big SECRET Announcement & MORE! | Diablo 4"
-    excerpt: "Like what you see? SUB! - https://bit.ly/3B3qKrK I stream Diablo! - https://bit.ly/3t5mQut Join Aftershock United!"
-    publishedDateTime: 2023-04-20T14:00:28Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Veiled Shot | Diablo
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Diablo 4 \"Secret Announcement\" Full Livestream | Asmongold Reacts"
     excerpt: "Diablo 4 team hosts a 90-minute dev talk and share their Secret Announcement ▻ Asmongold's Twitch: ..."
     publishedDateTime: 2023-04-21T00:01:30Z
