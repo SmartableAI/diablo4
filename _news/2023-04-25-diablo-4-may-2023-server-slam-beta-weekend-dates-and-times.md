@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Diablo 4 release date, upcoming beta, and everything you need to know"
-    excerpt: "With Diablo 4 set to launch this June, our anticipation for the upcoming action-RPG is starting to spiral out of control. A successful open beta has only heightened our hype, with all signs ..."
-    publishedDateTime: 2023-04-21T03:18:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-guide/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "4/g7fcKuKPv4kKqtVYcT6KU3dUlZjLt86XkZmXshoKofA40oESto8tYCUSjLq/Eu7bm5jafp5DwdUQmegnDKYfZaiFaIlLf8kemcOzjthsYaB0FiX5CRnNLu1WhIAfNk2iW5iBGCeFZBADe1mqIFdYYwpbv/ku4x1DQJfIzhAwkGgkvYpNQ8hKwIGEToAOzq8dii8nn5n0F8Ul+aZgqNAFoIBsAYL/DmD9wHxsh+66qZ2htYwkbrwQhyzqKNT4+Y9K+h5uW+8AaLUf+lKLAO0Etx9vL+Lnj6CMzlJ0bCKChfwij0oWSiGRQ827umWuZ1gyr51eOAVK8XxxkCpeTYaKT1RIFGhZAyAlVHMEqaqns=;VviyxuXo+b+oTZTNzptDSQ=="
 ---

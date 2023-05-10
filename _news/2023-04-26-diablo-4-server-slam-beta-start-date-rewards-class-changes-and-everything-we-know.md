@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-server-slam-beta-star
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/"
 type: article
 quality: 140
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 release date, upcoming beta, and everything you need to know"
-    excerpt: "With Diablo 4 set to launch this June, our anticipation for the upcoming action-RPG is starting to spiral out of control. A successful open beta has only heightened our hype, with all signs ..."
-    publishedDateTime: 2023-04-21T03:18:00Z
-    webUrl: "https://www.gamesradar.com/diablo-4-guide/"
-    type: article
-    provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 87
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2Hr3EpwKDg6NK4ChQD7iLi-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Diablo 4: May 2023 Server Slam Beta Weekend Dates and Times"
     excerpt: "After the successful betas back in late March, Diablo 4 is having another beta weekend that will be in mid-May 2023 before the full release in June."
     publishedDateTime: 2023-04-25T10:54:27Z

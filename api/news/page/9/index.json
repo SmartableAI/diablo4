@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-24-debunking-blizzards-excuse-for-why-diablo-4-lacks-local-co-op-on-pc.md",
+      "title": "Debunking Blizzard's Excuse For Why Diablo 4 Lacks Local Co-op On PC",
+      "excerpt": "PC is by far the most popular platform for local multiplayer, so why is it being overlooked? Following my rant about Diablo 4’s hit-and-miss implementation of local co-op, I was going to let this ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-debunking-blizzards-excuse-for-why-diablo-4-lacks-local-co-op-on-pc/index.json",
+      "webUrl": "https://www.dualshockers.com/debunking-blizzard-diablo-4-lack-local-co-op-pc/",
+      "originalUrl": "https://www.dualshockers.com/debunking-blizzard-diablo-4-lack-local-co-op-pc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-1.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-diablo-4-druid-skills-guide.md",
+      "title": "Diablo 4 - Druid Skills Guide",
+      "excerpt": "The Druid has finally been unlocked in the Diablo 4 beta after being locked for the first weekend. Now, all players have access to the shape-shifting class, which has not been available in the series ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-24-diablo-4-druid-skills-guide/index.json",
+      "webUrl": "https://www.gamespot.com/articles/diablo-4-druid-skills-guide/1100-6512695/",
+      "originalUrl": "https://www.gamespot.com/articles/diablo-4-druid-skills-guide/1100-6512695/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/screen_large/1352/13527689/4114967-livestream_diablo4beta.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-druid-skills-guide/1100-6512695/",
+      "publishedDateTime": "2023-03-24T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4",
+        "Druid"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-which-class-should-you-choose-in-diablo-4.md",
       "title": "Which class should you choose in Diablo 4?",
       "excerpt": "Barbarians in Diablo 4 are fierce warriors that leap into the fray. Their main mechanic is the Weapon Arsenal, which allows them to hold four weapons at once. Some of their abilities will require you ...",
@@ -1074,99 +1168,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4s-ashava-is-a-harbinger-of-doom-for-sanctuary.md",
-      "title": "Diablo 4's Ashava is a Harbinger of Doom for Sanctuary",
-      "excerpt": "Ashava the Pestilent is Diablo 4's first revealed World Boss, and Blizzard already isn't letting up on the horror of its demonic challenges. Blizzard recently conducted a beta test for its highly ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4s-ashava-is-a-harbinger-of-doom-for-sanctuary/index.json",
-      "webUrl": "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/",
-      "originalUrl": "https://gamerant.com/diablo-4-ashava-pestilent-sanctuary-world-boss-lilith-connection-lore-combat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/diablo-4-ashava-sanctuary-world-boss-concept-art.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamerant.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust.md",
-      "title": "Diablo 4 shaping to be a worthy successor, leaves Diablo 3 graphics in dust",
-      "excerpt": "While Diablo 3 is known for its colourful and stylized graphics, Diablo 4 appears to be taking a more realistic and darker approach. In a Reddit post shared by user u/Helsinh, the differences between ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-03-22-diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust/index.json",
-      "webUrl": "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/22/1600x900/Diablo_3_and_4_1679482606317_1679482619829_1679482619829.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/diablo-4-shaping-to-be-a-worthy-successor-leaves-diablo-3-graphics-in-dust-101679482177133-amp.html",
-      "publishedDateTime": "2023-03-22T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

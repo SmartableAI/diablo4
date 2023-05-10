@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hardcore Diablo 4 PvP is just that, so don’t die"
-    excerpt: "Hardcore Diablo 4 PvP lives up to its name, as Blizzard has confirmed that if you lose a bout against another of the action RPG game's players, it's permadeath."
-    publishedDateTime: 2023-04-21T03:01:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/hardcore-pvp-permadeath"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-pvp-permadeath-hardcore.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Diablo 4 hardcore characters who die in PvP are dead, good and proper"
     excerpt: "Diablo 4 hardcore characters who die in PvP suffer permadeath, Blizzard has signalled. Blizzard community director"
     publishedDateTime: 2023-04-25T04:29:00Z
