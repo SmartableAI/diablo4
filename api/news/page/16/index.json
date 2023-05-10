@@ -2,6 +2,141 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-02-08-diablo-4s-open-beta-might-be-real-soon.md",
+      "title": "Diablo 4's open beta might be real soon",
+      "excerpt": "The game's producer says an announcement is on its way. When Blizzard set Diablo 4's release date to June 6, it also announced that it would get an open beta. Right now, you can't sign up for it ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-08-diablo-4s-open-beta-might-be-real-soon/index.json",
+      "webUrl": "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/",
+      "originalUrl": "https://www.pcgamer.com/diablo-4s-open-beta-might-be-real-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4g3gDxfdLxPt86y8anBef5-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-what-diablo-4-should-learn-from-path-of-exile-diablo-3.md",
+      "title": "What Diablo 4 Should Learn From Path of Exile, Diablo 3",
+      "excerpt": "Blizzard's Diablo 4 has strong competition, but the sequel can succeed by building upon its prior titles as well as ARPGs like Path of Exile.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-03-what-diablo-4-should-learn-from-path-of-exile-diablo-3/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/what-diablo-4-should-learn-from-path-of-exile-diablo-3/ar-AA1754Xo",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/what-diablo-4-should-learn-from-path-of-exile-diablo-3/ar-AA1754Xo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA174UmN.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T03:44:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-diablo-4-tattoo-tour-returns-exchanging-early-beta-access-for-flesh.md",
+      "title": "Diablo 4 tattoo tour returns, exchanging early beta access for flesh",
+      "excerpt": "The Diablo 4 tattoo tour is back with more dates, allowing fans of Blizzard's RPG game to get early access to the open beta and an in-game title with a tattoo.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-02-03-diablo-4-tattoo-tour-returns-exchanging-early-beta-access-for-flesh/index.json",
+      "webUrl": "https://www.pcgamesn.com/diablo-4/tattoo-early-beta-access-dates-locations",
+      "originalUrl": "https://www.pcgamesn.com/diablo-4/tattoo-early-beta-access-dates-locations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/02/diablo-4-tattoo-tour-hells-ink-dates-early-beta-access-blizzard.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T22:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-hells-ink-tattoo-shop-takeover-tour-has-reignited.md",
       "title": "Hell’s Ink Tattoo Shop Takeover Tour Has Reignited",
       "excerpt": "The Diablo Hell’s Ink Tattoo Shop Takeover Tour has reignited! This time, we’re bathing four new cities in ink straight from the Burning Hells—read on to see how you can enter to win a custom Diablo tattoo.",
@@ -931,132 +1066,6 @@
       "provider": {
         "name": "PlayStation LifeStyle",
         "domain": "playstationlifestyle.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-burger-king-japan-celebrates-diablo-4-with-spicy-double-whopper.md",
-      "title": "Burger King Japan celebrates Diablo 4 with Spicy Double Whopper",
-      "excerpt": "Burger King Japan is currently running a Diablo 4 promo, which features a Lilith Spicy Tomato Double Whopper with Cheese.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-09-burger-king-japan-celebrates-diablo-4-with-spicy-double-whopper/index.json",
-      "webUrl": "https://www.dexerto.com/diablo/burger-king-japan-diablo-4-promo-lilith-whopper-2028007/",
-      "originalUrl": "https://www.dexerto.com/diablo/burger-king-japan-diablo-4-promo-lilith-whopper-2028007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editors.dexerto.com/wp-content/uploads/2023/01/09/burger-king-diablo-4-promo.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dexerto.com",
-        "domain": "dexerto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-diablo-4-rogue-announcement-trailer-reaction-the-rogue-is-back.md",
-      "title": "Diablo 4 Rogue Announcement Trailer Reaction | THE ROGUE IS BACK!",
-      "excerpt": "Ash & Don's reaction to the rogue announcement trailer cinematic from Diablo IV. The rogue class has changed so much from ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-02-diablo-4-rogue-announcement-trailer-reaction-the-rogue-is-back/index.json",
-      "webUrl": "https://smartable.ai/apps/diablo4/news/2023-01-02-diablo-4-rogue-announcement-trailer-reaction-the-rogue-is-back/",
-      "originalUrl": "https://youtube.com/watch?v=lJJ62w01bXM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lJJ62w01bXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T08:00:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Don Mowatt",
-        "domain": "youtube.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-01-01-2023-preview-after-immortal-diablo-4-has-a-point-to-prove.md",
-      "title": "2023 Preview: After Immortal, Diablo 4 has a point to prove",
-      "excerpt": "Unfortunately for Diablo 4, mobile spin-off Diablo Immortal spoiled that momentum. From the announcement, through development until the launch and beyond, Diablo Immortal was criticised for its ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-01-01-2023-preview-after-immortal-diablo-4-has-a-point-to-prove/index.json",
-      "webUrl": "https://www.videogameschronicle.com/features/2023-diablo-4/",
-      "originalUrl": "https://www.videogameschronicle.com/features/2023-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogameschronicle.com/files/2022/12/Diabloe-222.jpg",
-          "width": 1128,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-31T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Video Games Chronicle",
-        "domain": "videogameschronicle.com",
         "images": null,
         "publishers": null,
         "authors": null

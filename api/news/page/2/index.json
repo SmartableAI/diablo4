@@ -710,7 +710,7 @@
       "originalUrl": "https://www.gamespot.com/articles/diablo-4-server-slam-beta-start-date-rewards-class-changes-and-everything-we-know/1100-6513606/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -922,6 +922,48 @@
       ]
     },
     {
+      "path": "_news/2023-04-25-diablo-4-players-wont-need-to-rely-on-gear-sets-for-builds.md",
+      "title": "Diablo 4 Players Won't Need to Rely on Gear Sets for Builds",
+      "excerpt": "Diablo 4's Lead Class Designer Adam Jackson talks about why the developers decided to shelve the gear set concept for the series' latest entry.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-players-wont-need-to-rely-on-gear-sets-for-builds/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-players-won-t-need-to-rely-on-gear-sets-for-builds/ar-AA1akgGy",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/other/diablo-4-players-won-t-need-to-rely-on-gear-sets-for-builds/ar-AA1akgGy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akgGr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:10:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-we-dont-want-to-overwhelm-players-diablo-4-devs-on-skills-class-design.md",
       "title": "\"We Don't Want To Overwhelm Players\": Diablo 4 Devs On Skills & Class Design",
       "excerpt": "Screen Rant attended an interview with Diablo 4 developers to discuss the game’s focus on players' ability to customize their characters and gameplay.",
@@ -950,6 +992,48 @@
       "updatedDateTime": null,
       "provider": {
         "name": "ScreenRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says.md",
+      "title": "Diablo 4 respecs are less flexible than Diablo 3 — for good reason, Blizzard says",
+      "excerpt": "Diablo 4 is cautiously picking out a route somewhere between these two, as lead class designer Adam Jackson described in a roundtable call with press, which Polygon attended, last week. Early in the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/ar-AA1akndt",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/ar-AA1akndt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akkEa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon on MSN",
         "domain": "msn.com",
         "images": null,
         "publishers": null,
@@ -1003,99 +1087,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough.md",
-      "title": "Diablo 4 Will Let You Skip Its Campaign (After Your First Playthrough)",
-      "excerpt": "The feature sounds similar to Diablo 3's Adventure Mode, though there are still details that have yet to be clarified.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/index.json",
-      "webUrl": "https://www.gamespot.com/articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
-      "originalUrl": "https://www.gamespot.com/articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1647/16470614/4129615-diablo4skipcampaignoption.jpg",
-          "width": 1639,
-          "height": 922,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-will-let-you-skip-its-campaign-after-your-first-playthrough/1100-6513544/",
-      "publishedDateTime": "2023-04-25T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/gamespot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more.md",
-      "title": "Diablo 4: Complete Guide Hub - Quest Walkthroughs, Best Classes, Materials, Tips, and More",
-      "excerpt": "Diablo 4 fans can use this hub guide to learn everything they need to know about Blizzard's upcoming RPG.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-25-diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more/index.json",
-      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more/ar-AA1ak8ze",
-      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-complete-guide-hub-quest-walkthroughs-best-classes-materials-tips-and-more/ar-AA1ak8ze",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ak10y.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=396&y=300",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T01:49:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameRant on MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

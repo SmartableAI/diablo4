@@ -54,6 +54,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
+    excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
+    publishedDateTime: 2023-04-26T07:25:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "When is the next Diablo 4 Update Developer Livestream?"
     excerpt: "According to Blizzard, the next live stream event will key in on important details about Diablo 4, specifically, the post-launch content."
     publishedDateTime: 2023-05-05T11:38:00Z

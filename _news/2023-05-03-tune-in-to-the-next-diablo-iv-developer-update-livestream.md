@@ -7,7 +7,7 @@ originalUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-ne
 webUrl: "https://news.blizzard.com/en-us/diablo4/23938389/tune-in-to-the-next-diablo-iv-developer-update-livestream"
 type: article
 quality: 162
-heat: 282
+heat: 302
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://sportshub.cbsistatic.com/i/2023/04/22/897e4d2e-4754-4b5c-9696-4021029c4d85/new-games-out-this-month.png?width=568&height=320"
         width: 568
         height: 320
+        isCached: true
+  - title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
+    excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
+    publishedDateTime: 2023-04-26T07:25:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "New Diablo 4 livestream will detail seasons, cosmetics and Battle Pass"
     excerpt: "Diablo 4‘s seasons will consist of a Battle Pass that will take around 80 hours to clear, and story content that isn’t at the level of a fully fledged new campaign, it was recently confirmed. Each ..."

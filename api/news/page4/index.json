@@ -2,6 +2,141 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-17-your-guide-to-diablo-ivs-gameplay.md",
+      "title": "Your guide to Diablo IV’s gameplay",
+      "excerpt": "Learn a few tips and tricks to help you prepare to fight for the fate of the world.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-your-guide-to-diablo-ivs-gameplay/index.json",
+      "webUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
+      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23935223/your-guide-to-diablo-iv-s-gameplay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/n9/N942F4LXC4QH1681755793485.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Blizzard",
+        "domain": "blizzard.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release.md",
+      "title": "Diablo 4 has gone gold, on track for summer 2023 release",
+      "excerpt": "Diablo 4, the highly-anticipated gothic action RPG epic, has gone gold - well ahead of launch. On Monday, Blizzard Entertainment announced that",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-has-gone-gold-on-track-for-summer-2023-release/index.json",
+      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-gone-gold-on-track-for-summer-2023-release/ar-AA19YCpH",
+      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-has-gone-gold-on-track-for-summer-2023-release/ar-AA19YCpH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19YMiU.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=509&y=335",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T07:41:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "For The Win on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-diablo-4-is-missing-a-popular-series-feature.md",
+      "title": "Diablo 4 is Missing a Popular Series Feature",
+      "excerpt": "A senior Blizzard developer confirms Diablo 4 probably won't be getting a popular feature standard in many action RPGs, including its predecessors.",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-17-diablo-4-is-missing-a-popular-series-feature/index.json",
+      "webUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
+      "originalUrl": "https://www.msn.com/en-xl/entertainment/other/diablo-4-is-missing-a-popular-series-feature/ar-AA19Yung",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19Yun7.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T06:58:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameRant on MSN",
+        "domain": "msn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-diablo-4s-plan-for-new-story-content-certainly-has-fans-skeptical.md",
       "title": "Diablo 4's Plan For New Story Content Certainly Has Fans Skeptical",
       "excerpt": "Diablo 4 game director Joe Piepiora has revealed that the upcoming RPG will receive \"meaty\" story content every three months. Accompanied by the seasonal pass, those quarterly updates will be tied to ...",
@@ -959,150 +1094,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change.md",
-      "title": "Diablo IV Open Beta Retrospective: Transforming Feedback into Change",
-      "excerpt": "The Diablo IV Early Access and Open Beta weekends gave players the opportunity to see Sanctuary anew. As we look forward to launch, we’ve used player feedback and gameplay data to inform a series of updates to various systems. Come see what’s changed!",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-iv-open-beta-retrospective-transforming-feedback-into-change/index.json",
-      "webUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
-      "originalUrl": "https://news.blizzard.com/en-us/diablo4/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/de/DE6R1QRYNDEP1681262788714.png",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Blizzard",
-        "domain": "blizzard.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/blizzard.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4.md",
-      "title": "I've played over 2,500 hours of Path of Exile, and these are my biggest concerns about Diablo 4",
-      "excerpt": "Diablo 3 has gotten better since its disastrous launch (opens in new tab), but for the serious lover of the genre, PoE has been the top dog for years now. Now that Blizzard, with",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4/index.json",
-      "webUrl": "https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4/",
-      "originalUrl": "https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tyKnQMkPCM74zjjqUTRaBc-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/pcgamer.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair.md",
-      "title": "Diablo 4's Endgame Activity Fields Of Hatred \"Not Designed To Be Fair\"",
-      "excerpt": "Diablo 4 will have the most extensive end-game content of any Diablo game ever made. That's because Blizzard is designing Diablo 4's endgame alongside its main campaign. In many ways, the end-game is ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2023-04-14-diablo-4s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/index.json",
-      "webUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
-      "originalUrl": "https://www.msn.com/en-us/entertainment/gaming/diablo-4-s-endgame-activity-fields-of-hatred-not-designed-to-be-fair/ar-AA19S3Fw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA18SpeA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSN",
-        "domain": "msn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

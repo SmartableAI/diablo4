@@ -54,6 +54,20 @@ related:
         width: 568
         height: 320
         isCached: true
+  - title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
+    excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
+    publishedDateTime: 2023-04-26T07:25:00Z
+    webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 87
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New Diablo 4 livestream will detail seasons, cosmetics and Battle Pass"
     excerpt: "Diablo 4‘s seasons will consist of a Battle Pass that will take around 80 hours to clear, and story content that isn’t at the level of a fully fledged new campaign, it was recently confirmed. Each ..."
     publishedDateTime: 2023-05-03T13:48:00Z

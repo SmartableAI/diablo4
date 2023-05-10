@@ -25,27 +25,13 @@ images:
     isCached: true
 
 related:
-  - title: "Diablo 4 Big Announcement"
-    excerpt: ""
-    publishedDateTime: 2023-04-20T19:11:48Z
+  - title: "Diablo 4 Secret Announcement REVEAL! HUGE News for FANS & NEW Players!"
+    excerpt: "The Diablo 4 Dev Team has a secret announcement and HUGE news to share about Diablo 4. Don't miss this Diablo IV video ..."
+    publishedDateTime: 2023-04-21T21:20:32Z
     webUrl: ""
     type: video
     provider:
-      name: Asmongold Clips
-      domain: youtube.com
-    quality: 137
-    images:
-      - url: "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Diablo 4 \"Secret Announcement\" Full Livestream | Asmongold Reacts"
-    excerpt: "Diablo 4 team hosts a 90-minute dev talk and share their Secret Announcement ▻ Asmongold's Twitch: ..."
-    publishedDateTime: 2023-04-21T00:01:30Z
-    webUrl: ""
-    type: video
-    provider:
-      name: Asmongold TV
+      name: Oxford King
       domain: youtube.com
     quality: 137
     images:

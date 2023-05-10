@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Diablo 4: May 2023 Server Slam Beta Weekend Dates and Times"
+    excerpt: "After the successful betas back in late March, Diablo 4 is having another beta weekend that will be in mid-May 2023 before the full release in June."
+    publishedDateTime: 2023-04-25T10:54:27Z
+    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S"
+    type: article
+    provider:
+      name: Game Rant on MSN
+      domain: msn.com
+    quality: 87
+    images:
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akAxu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2FRhpwReXT2BpNQF5hYA5C5EF//X2NYFkvVT43BbAWy21dKk0mPc+97Mg4znHy9TrjcUCfWY69VLQSmj4UCzOPeLes019Uky/nQ1YDC+jPiweduvRZrs2/MyGoe5Ivh1oKC1bXj7NT16FBJT1qClUYcjFYbyeGpucxIDEf3QuGXbFxid6zjXQqjZ3Fc9jBUE+bEuPQ5Ftf/3I5hufWKVl7KPnXIftjIZem78nSaGgVKMANkoYyKqcNQw4hJp58BmcVX+ZzanSVY2TpVKxBRyY0UoPJFPMGSAAIvk9MupyYAL4eE0JzMJSc66CgTIKJDQqGb0NuTqWZI0SqzihdFs5eBlevgEqa4wqd2E3axIQj4=;Eyh4GP5TfnZ/j3xvY4k3ag=="
 ---

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Help Us Gear Up for Launch During the Diablo IV Server Slam"
-    excerpt: "Server Slam runs from May 12–14. Take up arms to defend Sanctuary from Lilith’s legions while helping us prepare our servers for Diablo IV’s launch on June 6."
-    publishedDateTime: 2023-04-20T18:55:00Z
-    webUrl: "https://news.blizzard.com/en-us/diablo4/23938755/help-us-gear-up-for-launch-during-the-diablo-iv-server-slam"
+  - title: "Diablo 4 Launch PC System Requirements Revealed"
+    excerpt: "While Diablo 4 will attempt to run on systems that don't meet the recommended settings, Blizzard warns the game \"may be significantly diminished.\""
+    publishedDateTime: 2023-04-24T13:06:00Z
+    webUrl: "https://www.gamespot.com/articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/diablo-4-launch-pc-system-requirements-revealed/1100-6513508/"
     type: article
     provider:
-      name: Blizzard
-      domain: blizzard.com
-    quality: 162
+      name: GameSpot
+      domain: gamespot.com
+    quality: 147
     images:
-      - url: "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/va/VAF7KU3P4CWI1681774163839.png"
-        width: 880
-        height: 400
+      - url: "https://www.gamespot.com/a/uploads/original/1647/16470614/4129181-diablo4systemrequirements.jpg"
+        width: 1721
+        height: 968
         isCached: true
   - title: "Diablo 4 Confirms PC Requirements for Launch"
     excerpt: "Diablo 4 confirms the system requirements for running the game on PC at launch, making players even more eager for the next entry in the franchise."
@@ -52,61 +54,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4: May 2023 Server Slam Beta Weekend Dates and Times"
-    excerpt: "After the successful betas back in late March, Diablo 4 is having another beta weekend that will be in mid-May 2023 before the full release in June."
-    publishedDateTime: 2023-04-25T10:54:27Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-may-2023-server-slam-beta-weekend-dates-and-times/ar-AA1ako1S"
+  - title: "Diablo 4 PC system requirements"
+    excerpt: "PC gamers preparing to dive into the new Diablo 4 action role-playing game officially launching on June 6, 2023. Will be pleased to know that Blizzard ..."
+    publishedDateTime: 2023-04-25T04:24:00Z
+    webUrl: "https://www.geeky-gadgets.com/diablo-4-system-requirements-25-04-2023/"
     type: article
     provider:
-      name: Game Rant on MSN
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 87
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/04/Diablo-4-system-requirements.jpg"
+        width: 700
+        height: 505
+        isCached: true
+  - title: "Diablo 4 gets PC requirements from hell, requires 32GB of RAM for 4K"
+    excerpt: "Blizzard revealed its PC requirements to run the upcoming Diablo 4, and the required RAM to run it in 4K is particularly steep."
+    publishedDateTime: 2023-04-26T07:47:21Z
+    webUrl: "https://www.msn.com/en-xl/news/other/diablo-4-gets-pc-requirements-from-hell-requires-32gb-of-ram-for-4k/ar-AA1annxT"
+    type: article
+    provider:
+      name: TechRadar on MSN
       domain: msn.com
     quality: 87
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akAxu.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1anhVA.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Diablo 4 Players Won't Need to Rely on Gear Sets for Builds"
-    excerpt: "Diablo 4's Lead Class Designer Adam Jackson talks about why the developers decided to shelve the gear set concept for the series' latest entry."
-    publishedDateTime: 2023-04-25T10:10:15Z
-    webUrl: "https://www.msn.com/en-us/entertainment/other/diablo-4-players-won-t-need-to-rely-on-gear-sets-for-builds/ar-AA1akgGy"
+  - title: "Blizzard reveals Diablo 4 launch PC system requirements: 32GB RAM & RTX 3080 for 4K"
+    excerpt: "Diablo fans are counting the days until the fourth game's June 6 release date. Now, Blizzard has revealed what kind of graphical experience users can expect ..."
+    publishedDateTime: 2023-04-25T05:31:00Z
+    webUrl: "https://www.techspot.com/news/98434-blizzard-reveals-diablo-4-launch-pc-system-requirements.html"
     type: article
     provider:
-      name: Game Rant on MSN
-      domain: msn.com
-    quality: 87
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
     images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akgGr.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-25-image-7.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Diablo 4 could feature Diablo 2’s runewords, Blizzard says"
-    excerpt: "Diablo 4 might see the Diablo 2 runewords system implemented in future, Blizzard hints, adding yet another upgrade system to the action RPG game."
-    publishedDateTime: 2023-04-26T07:25:00Z
-    webUrl: "https://www.pcgamesn.com/diablo-4/runewords"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 87
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/04/diablo-4-runewords.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Diablo 4 respecs are less flexible than Diablo 3 — for good reason, Blizzard says"
-    excerpt: "Diablo 4 is cautiously picking out a route somewhere between these two, as lead class designer Adam Jackson described in a roundtable call with press, which Polygon attended, last week. Early in the ..."
-    publishedDateTime: 2023-04-25T10:00:00Z
-    webUrl: "https://www.msn.com/en-us/entertainment/gaming/diablo-4-respecs-are-less-flexible-than-diablo-3-for-good-reason-blizzard-says/ar-AA1akndt"
-    type: article
-    provider:
-      name: Polygon on MSN
-      domain: msn.com
-    quality: 82
-    images:
-      - url: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1akkEa.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg"
-        width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "PSMttawlzU41sIqaosDRQd4uz+xZpUO8M9y6UVPPptWduhKYQxXnSPmcmcr175qD/3bbgb66/4cplD8dnfeDlhCtgTwlObPyS3CLg+BeDzgEfUbihVvD6wi7esHgvvlRbWzSkBpOcS21wfZDDVugG/LSuWgx/SI+Uy3qd3U5DoioqeadXXW2WPugzRRvN+kSAqiO0Wj+xogOAnn2wr8n6MiNlaR8rQTg/8QQ7fCZZVDLRWQwLhjA2fQXfMYxfq42p+CabwtfupJ3OiHfdSgPLFacdiaTrEaSDd2x8mWjEycB9r2r6mvcK5gSmDaKzDUFs2cfesELT/rsKmacbzxjiiuCHncPSomZ1Z8QNwBdChA=;d0XqA6rSu4E8v9qulmATlg=="

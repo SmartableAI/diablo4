@@ -2,6 +2,132 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-02-19-diablo-iv-rogue-announce-trailer.md",
+      "title": "Diablo IV - Rogue Announce Trailer",
+      "excerpt": "Some call it murder. She calls it a job well done. Learn more at Diablo4.com. The Rogue is the newest addition to the Diablo IV ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-iv-rogue-announce-trailer/index.json",
+      "webUrl": "https://smartable.ai/apps/diablo4/news/2021-02-19-diablo-iv-rogue-announce-trailer/",
+      "originalUrl": "https://youtube.com/watch?v=6vVF-vYLUH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6vVF-vYLUH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T14:43:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diablo PL",
+        "domain": "youtube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue.md",
+      "title": "Diablo 4’s latest class is the dagger and bow-wielding Rogue",
+      "excerpt": "At BlizzConOnline, Blizzard’s newest Diablo 4 announcement was an update on a classic: The return of the Rogue class from the original Diablo game, who’ll be playable alongside the Barbarian, Druid, ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/index.json",
+      "webUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
+      "originalUrl": "https://www.criticalhit.net/gaming/diablo-4s-latest-class-is-the-dagger-and-bow-wielding-rogue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.criticalhit.net//2021/02/Diablo-4-rogue-9.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "criticalhit.net",
+        "domain": "criticalhit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed.md",
+      "title": "Diablo 4 – Rogue Specializations and World Groups Revealed",
+      "excerpt": "Following its reveal of the Rogue as the next class to join Diablo 4, Blizzard Entertainment’s development team went into more details on how it would differ from other classes. In this case, the ...",
+      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2021-02-19-diablo-4-rogue-specializations-and-world-groups-revealed/index.json",
+      "webUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
+      "originalUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamingbolt.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
+      "cdnAmpWebUrl": "https://gamingbolt-com.cdn.ampproject.org/c/s/gamingbolt.com/diablo-4-rogue-specializations-and-world-groups-revealed/amp",
+      "publishedDateTime": "2021-02-19T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "From Software",
+        "domain": "gamingbolt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Diablo 4"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-why-diablo-2-resurrected-could-be-a-problem-for-diablo-4.md",
       "title": "Why Diablo 2 Resurrected Could Be a Problem for Diablo 4",
       "excerpt": "Does the release of Diablo 2 Resurrected create expectations that Diablo 4 isn't ready to meet? The reveal of Diablo 2 Resurrected didn’t exactly catch fans by surprise (the project has been rumored ...",
@@ -970,141 +1096,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021.md",
-      "title": "We’re getting a ‘chunky’ update on Diablo 4 at Blizzcon 2021",
-      "excerpt": "After announcing Diablo 4 in 2019, Blizzard has been slowly revealing more details about the game, breaking down some of the ideas being put in place to shake up the Diablo formula. Excitingly, we won ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-17-were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/index.json",
-      "webUrl": "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/",
-      "originalUrl": "https://www.kitguru.net/gaming/matthew-wilson/were-getting-a-chunky-update-on-diablo-4-at-blizzcon-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kitguru.net/wp-content/uploads/2020/08/0_Diablo-4-615x330.jpg",
-          "width": 615,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KitGuru",
-        "domain": "kitguru.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-well-get-a-chunky-diablo-4-update-at-blizzcon-2021.md",
-      "title": "We'll get a 'chunky' Diablo 4 update at BlizzCon 2021",
-      "excerpt": "Blizzard has teased that we'll be getting a \"chunky\" update on the upcoming Diablo 4, at BlizzCon 21. In the most recent Diablo 4 Quarterly Update, game director Luis Barriga wrote that the game's ...",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-well-get-a-chunky-diablo-4-update-at-blizzcon-2021/index.json",
-      "webUrl": "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "originalUrl": "https://www.techradar.com/sg/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5duAhobafARCQdjqBUgZ8Z-1200-80.jpg",
-          "width": 1195,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/well-get-a-chunky-diablo-4-update-at-blizzcon-2021",
-      "publishedDateTime": "2020-12-16T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/diablo4/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Diablo 4"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-diablo-4-quarterly-update-digs-deep-into-itemization-changes.md",
-      "title": "Diablo 4 Quarterly Update Digs Deep Into Itemization Changes",
-      "excerpt": "The Diablo 4 developer team is back with another quarterly update. This time, they're detailing some new changes to skills and items.",
-      "sourceUrl": "https://smartableai.github.io/diablo4/api/news/2020-12-16-diablo-4-quarterly-update-digs-deep-into-itemization-changes/index.json",
-      "webUrl": "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/",
-      "originalUrl": "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn3.dualshockers.com/wp-content/uploads/2019/11/Diablo-4-5.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/",
-      "cdnAmpWebUrl": "https://www-dualshockers-com.cdn.ampproject.org/c/s/www.dualshockers.com/diablo-4-quarterly-update-itemization/amp/",
-      "publishedDateTime": "2020-12-16T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
